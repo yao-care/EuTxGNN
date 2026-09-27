@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Ponatinib?">
-<strong>Ponatinib</strong> currently has <strong>31 news articles</strong>, with 2 predicted indications.
+<strong>Ponatinib</strong> currently has <strong>32 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,55 @@ This page combines the AI-predicted indications for Ponatinib with the latest he
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (32)
+
+### [Football to the face revealed my daughter's cancer](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
+
+2026-09-27 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uMGdCd051NjZKTmd3dGwyVDloYzJHNWhrYmk2N1g4NUFfVE0yU1lNUWc2c29LaDhEVDlYM2M3MFFFUGFKU2dOSC1ldWMxVTVEWWc0MXQ2S0YtOUptLUE?oc=5)
+
+---
+
+### [El genoma del tumor como un «registro arqueológico» para entender el cáncer en jóvenes](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUhIZFBBeU1NclZGZ0tTOU4tZlVJV05UUG5MNmtnLVRJNXJaeTdRTXY4NHNOUmgtQ0xOQkp4dnZhdGpqaGlqWC1WanNqLUd2ckxOQzBLY2drTENLSElIT1lFUTlKci1OWmJiVUEtYTdFbHdFclR0U1FWUEVLLUw5WC1vMFp3RndVMjlINVNpd0g2T21TeU9od3RwRzcwNXJUT2w3S0dXcHZPV0ZEUDVtVUUyOA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">tumor</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUhIZFBBeU1NclZGZ0tTOU4tZlVJV05UUG5MNmtnLVRJNXJaeTdRTXY4NHNOUmgtQ0xOQkp4dnZhdGpqaGlqWC1WanNqLUd2ckxOQzBLY2drTENLSElIT1lFUTlKci1OWmJiVUEtYTdFbHdFclR0U1FWUEVLLUw5WC1vMFp3RndVMjlINVNpd0g2T21TeU9od3RwRzcwNXJUT2w3S0dXcHZPV0ZEUDVtVUUyOA?oc=5)
+
+---
+
+### [Franco Locatelli: "Le CAR-T sono la cura più promettente per i tumori. Tra 5-6 anni saranno terapia standard" - HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
+
+2026-09-27 <span class="news-indication-tag">tumor</span>
+
+Source: [HuffPost Italia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1RYWE9PUHBfV3VZNlVzSk5mNkt5SXQ1S3Zib1JuTG5JYUZCejViOHRmQ3dVWEhTNlpkQ0tTVDY4OEt0SF9IX1h2N0VoMHpiZDM3OTNkRjBGNkowRDhkd2pJd19hNWkySUFvRVdwdTdYdGZ1cDZGdXg1VTdQejdtVWVHb1ZvQzJBNlk5Tl90cEI2WG12VHVHZndicGdVV1JkNVVLRkFqV1ZTU19tN2htTHdR?oc=5)
+
+---
+
+### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+
+2026-09-27 <span class="news-indication-tag">dementia</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+
+---
+
+### [Alzhéimer y salud bucodental: los problemas que pueden aparecer y cómo prevenirlos - 65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWpZajVXSmUxTnhlNC1RYVJUTlZUWGg1d1cxei1PTG4xSmJDY2hESzRMSFNUdEN2bmY4VlF4Mi03TThhUXZ5YnYwUXZkR3JpM0pZcGpPMExFNnduNnZ6dENiNjUtLS1RQmt0bFc5aWtUaEk2QWpXSk10X185RjNWVnhIeFNHZk1Gd1plV2RUN2hDWVVTZHh6aW9nanBqa3lzWlVMTkU4R1o5R210cVloaUZrSQ?oc=5)
+
+2026-09-27 <span class="news-indication-tag">enfermedad de Alzheimer</span>
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWpZajVXSmUxTnhlNC1RYVJUTlZUWGg1d1cxei1PTG4xSmJDY2hESzRMSFNUdEN2bmY4VlF4Mi03TThhUXZ5YnYwUXZkR3JpM0pZcGpPMExFNnduNnZ6dENiNjUtLS1RQmt0bFc5aWtUaEk2QWpXSk10X185RjNWVnhIeFNHZk1Gd1plV2RUN2hDWVVTZHh6aW9nanBqa3lzWlVMTkU4R1o5R210cVloaUZrSQ?oc=5)
+
+---
+
+### [Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
+
+2026-09-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
+
+---
 
 ### [A tiny 'bruise' under Harper's eye was first sign she was riddled with cancer - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxPYkxxSEtQajA5NDZFQTkwZGxUR0lWWlFCS1Ryc2NtRkI5N251YVpna09GUTYxdzVKSkdxLWNCcXZfVGx1LWt6enFLY19iZm52YWt1UE1YdzNVbEh6bE56WC1ZdG1hNlE3UWhqT0NneEVRckppOEVFY0JsR0JKbW5fekJB?oc=5)
 
@@ -68,11 +116,11 @@ Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNVB6YXl
 
 ---
 
-### [Sales of £460 shingles jab double after claims it wards off dementia - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
+### [Sales of £460 shingles jab double after claims it wards off dementia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
 
 2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
+Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
 
 ---
 
@@ -116,6 +164,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWRK
 
 ---
 
+### [‘A blood test found my hidden cancer — and saved my life’](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdklPc28xcmp5ZUdJdWJHT29DRmdPYXVZdUh1NWZmUWlfV3hWVjY2RGN4dlMwOUV5cldROGwyM1hjd1V6STNJdTFLWXNHZWlIaWREQ0pDMlRDWDVVZU9paVU1aklaNlZUeklaT0g2aVNoVWZrWEJYS1ZhMy1fTm8xa3NMWGJqVGhtN3pvbXVCT3p1OVdl?oc=5)
+
+2026-09-25 <span class="news-indication-tag">cancer</span>
+
+Source: [thetimes.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdklPc28xcmp5ZUdJdWJHT29DRmdPYXVZdUh1NWZmUWlfV3hWVjY2RGN4dlMwOUV5cldROGwyM1hjd1V6STNJdTFLWXNHZWlIaWREQ0pDMlRDWDVVZU9paVU1aklaNlZUeklaT0g2aVNoVWZrWEJYS1ZhMy1fTm8xa3NMWGJqVGhtN3pvbXVCT3p1OVdl?oc=5)
+
+---
+
 ### [PM pledges breast cancer care inquiry and police boost](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmc012VWJtb2d3YkpkTThNbmFZMEpqMHBZclZCd2Z3eWc3TmxwSHU2MDNqTjZwZDNGclhzQjliWEFZcGxnaC1YQVJGZHVJd2xTaW1iaW9QbzBxM0ZhQ3c?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -148,19 +204,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2hyY1
 
 ---
 
-### [Tumore della laringe, una «traccia» nel sangue potrebbe seguire la malattia dopo la cura](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc2g3TG12TkhuUlV4U0NzLVh5OXpNQjFDQVc1NmY1dG8zNmw5YjdFOFRBMk1MeWp5ZFByTnNnczFyUEZmaFVUQ2tWaWpIUjhFMDNjZnBvNFVBQTFrdHhOMFY3bFY2WnB4ekxJbkx5SnU1WTBZX1JGQTdsRmE4V3BnUElMeXFCQ05Wam9YQ0FDdzJ6bE52V3lVa255bWxYdnUzYzg5RWxhaXhtTnBEdDZORHd3Z3JmVkNHLUVTbW1Qc2dpNGJ3c0lIOU04cVR6MEN0RlpaMXhpSjNTQ3ZRX2c?oc=5)
-
-2026-09-25 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc2g3TG12TkhuUlV4U0NzLVh5OXpNQjFDQVc1NmY1dG8zNmw5YjdFOFRBMk1MeWp5ZFByTnNnczFyUEZmaFVUQ2tWaWpIUjhFMDNjZnBvNFVBQTFrdHhOMFY3bFY2WnB4ekxJbkx5SnU1WTBZX1JGQTdsRmE4V3BnUElMeXFCQ05Wam9YQ0FDdzJ6bE52V3lVa255bWxYdnUzYzg5RWxhaXhtTnBEdDZORHd3Z3JmVkNHLUVTbW1Qc2dpNGJ3c0lIOU04cVR6MEN0RlpaMXhpSjNTQ3ZRX2c?oc=5)
-
----
-
 ### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
 
 ---
 
@@ -188,35 +236,19 @@ Source: [Il Mattino](https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUtlVU
 
 ---
 
-### [¿Qué impacto tiene la investigación oncológica en la vida de las personas con cáncer? - El Correo](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjlsZ0RnbEhoOGxZOEFZV1Rsb0FnZURPVTdseGVxbGdFX3hfcW9ncTg5RFdqaUdXTDlSSTZKVklIRXcxZVZfNHhzSEhzU2c4TFRvOVZSdUpadFJhQUFPSUdRVVhaLWNPeFRfcThfN1ZyZ1FDdDdoVjNMQlZDOW0tRU5mMXBqc0xhZG55V09fNG5GN0N3LU4tYTNxX3JtY1hYQURsajUwRDBtQ0hLZGhVRHBoeGZoeUdIdXlSVHpOSQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">tumor</span>
-
-Source: [El Correo](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbjlsZ0RnbEhoOGxZOEFZV1Rsb0FnZURPVTdseGVxbGdFX3hfcW9ncTg5RFdqaUdXTDlSSTZKVklIRXcxZVZfNHhzSEhzU2c4TFRvOVZSdUpadFJhQUFPSUdRVVhaLWNPeFRfcThfN1ZyZ1FDdDdoVjNMQlZDOW0tRU5mMXBqc0xhZG55V09fNG5GN0N3LU4tYTNxX3JtY1hYQURsajUwRDBtQ0hLZGhVRHBoeGZoeUdIdXlSVHpOSQ?oc=5)
-
----
-
-### [Cómo el gen APOE4 daña los vasos sanguíneos del cerebro en la enfermedad de Alzheimer. - Adamed TV](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnI1YXMwcDh0bEsteTFERFZfc2NSeHNTV1R2RjRCOEozSXlESU5YRGswM09fR2RYbmowWUNkdU1Ba1dDSEUxUlhoOWZ6b2JfOXF1eGtLRGR2bDkwRzJ6Mk9oV2pkT2l6c2Vsb0luWE1pZFRyQmdyNXQ0TEpQdTl6dG5kNV92Q21ndXdHZmtyUEZFYXVmeTR5dnQyWU5PRnVoWGJKczlmTFJPdkVSeENleGJIWlpZczNE?oc=5)
-
-2026-09-25 <span class="news-indication-tag">enfermedad de Alzheimer</span>
-
-Source: [Adamed TV](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnI1YXMwcDh0bEsteTFERFZfc2NSeHNTV1R2RjRCOEozSXlESU5YRGswM09fR2RYbmowWUNkdU1Ba1dDSEUxUlhoOWZ6b2JfOXF1eGtLRGR2bDkwRzJ6Mk9oV2pkT2l6c2Vsb0luWE1pZFRyQmdyNXQ0TEpQdTl6dG5kNV92Q21ndXdHZmtyUEZFYXVmeTR5dnQyWU5PRnVoWGJKczlmTFJPdkVSeENleGJIWlpZczNE?oc=5)
-
----
-
-### [I’m a doctor – eight surprising habits for a healthier gut - The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
+### [I’m a doctor – eight surprising habits for a healthier gut](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
 
 2026-09-25 <span class="news-indication-tag">cancer</span>
 
-Source: [The i Paper](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
+Source: [inews.co.uk](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSFpRU1dUWmowZkdDQXZpTFc3dDZXRUdxNUtBS1VhWU1TOWwtek0zVDBrcUtqcXJuV2M2bVNrTl9WRWFFOXBxUlJmbmtXQlowcmhqbERPbnNld096Nllfei1jU3dleWhqMUFSNThQTHhLRXRNNDdmTm41bWJpankxS3ZGdEIwZ0pVdWRkTUp6NWw1Zw?oc=5)
 
 ---
 
-### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse - La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+Source: [laprovence.com](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
 
 ---
 
@@ -225,22 +257,6 @@ Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181b
 2026-09-24 <span class="news-indication-tag">cancer</span>
 
 Source: [Ouest-France](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPczlHOEZUQ3ZrZXdiLUw2blE4NWU4MGI3ZXNhc2Z4OUNpbU41TTZWVUYzNTBGU1dXUE8zeFRma25qQm9sSHhkb2t4eUgtWmtVdDdFRlJUQ05XMDVHTzI1SU1Cd3BNQTh6dEFqMnFGOGk4ZWR1cnNUbVYtRnF6bnBMdkpCRDlNWTdTWE9oV25GODRvT1VMNVZ4OFdwY2J0XzUydUxnY0FnRVFHcnpuaklscGhaemVBVmVkbndWbXpvS01rcldPUHB0eXhPODZVVmVJdkFTdGpsdmRSNnFXSVRkWkRWMEItTGRsbVVsYlRGbkluMjBIQUJOSXBNWWpZQQ?oc=5)
-
----
-
-### ['Lump on head was cancer eating hole in my skull'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HSlo2aEFERmlQLUt0b193NERWZkRMR01SVUF1Nng2bUVmakVlYzd3a1FodWRFUm5ZZUt2cm1jcFZkdEZJdHgzalBCdXJhSWVoeTlxc0hKVlBvVDB6Ync?oc=5)
-
-2026-09-24 <span class="news-indication-tag">cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HSlo2aEFERmlQLUt0b193NERWZkRMR01SVUF1Nng2bUVmakVlYzd3a1FodWRFUm5ZZUt2cm1jcFZkdEZJdHgzalBCdXJhSWVoeTlxc0hKVlBvVDB6Ync?oc=5)
-
----
-
-### [Struggling to focus? What you eat might be affecting your brain](https://news.google.com/rss/articles/CBMiXEFVX3lxTE85N1hhMU0yVTBOQUI5bXF0MFJpT0RJVk5LMzZXdzQwQkRTTmVmenI3QnVNSGFDU2lva3JPbUpnVXZ6bTg0Z0ZKZWg1OGlpU3ZhWG1XOUVGZFBXcUlD?oc=5)
-
-2026-09-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE85N1hhMU0yVTBOQUI5bXF0MFJpT0RJVk5LMzZXdzQwQkRTTmVmenI3QnVNSGFDU2lva3JPbUpnVXZ6bTg0Z0ZKZWg1OGlpU3ZhWG1XOUVGZFBXcUlD?oc=5)
 
 ---
 
@@ -265,14 +281,6 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnM
 2026-09-22 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc09mek1YeXpSODRLRERQX2pMOWIxdjd1MnB0QWVEbUdtMnNZUE90YW5aTU5nT2otd09SYjl3TFB1bEpvUTQ2ZVpMZURPMk1SdVBXdkxoVHNvendlYnRabU9IZnJqZWdiVXZYY0JwMHRPVkpsQ1B3Q2R2N25IeG5wR3lnWHlTR2NMMlJmYVhEQkowNkJLT1ZSRE0zal8yTHlJY0VmMkt0cWVXbVBiLWNzTEY2elJfMXlydXpWZ3dBRjFMc3p4bXNoLUxmWkNwelllWi1vTDNwaw?oc=5)
-
----
-
-### [Smart beds and motion sensors - is this the future of dementia care?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
-
-2026-09-20 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZZlo2WHJIQWhsVnJzUnpwRHNVbjlGbEJVQWN2aktYSEJoWUZiUmR6ZC1tZjlxTjkxTlJmOUppOGtna20teldyVVZ2cVVSREM2TzFtekNzOWlpY055?oc=5)
 
 ---
 

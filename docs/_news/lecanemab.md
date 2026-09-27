@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
-### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+### [Prävention: Schwangerschaftsdiabetes erhöht lebenslang das Risiko für Typ-2-Diabetes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
 
-2026-09-27 <span class="news-indication-tag">diabetes</span>
+2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+
+---
+
+### [Identifican proteínas sanguíneas que podrían medir los efectos de un tratamiento contra el Alzheimer - Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRms2OEttVjRfVmdnNnlkRWI3MnVfYnR4dEJqMXF6bEN1aVlWQTFvNjhSNHJaTHFsX203X1BjdzRQazVERHpIdGpCN3BKc0ZLYmEzSGZYWFpyTmNvbnkyV0JKd2g5Z3p3RFoyZnBMMWxydHZuTGRYTWJOUF9XTTFuTXdZazZELXRLeWNtQ1pBcnhKYUNqWWRZd1JramdvQ0xDWHVSY3VpWDNjUmg1Yy1zY1lvYXduTmlDaS1aVVJveUI3YU9Rb3FGTjAzRW1IQUJNbWdhWXEzWjJTSTVsM0Z6bEpNQ3Z3ak1hVEIwT3g0MVcwd0piY1AwMTJ0YktJbVg4ZXJqX296dm7SAZMCQVVfeXFMT2RfQkRoYm05YVNRbS0zYVR1WFNJcEpXSDlsbVFTS2FxeG5kSHgtWHRkN2s1bnVXQWJVZ0V4UWNsd0d4YzNSd2ZjSmdTc1dmdWVnU25SZ2hRTjF5U3p4UVI1YllMRTJnbEdxSFZZX1hwOVgzZng5bjBvaTVvUzM0OEVjQzVEcDlLRkRiNWpnVVk2S05PZEFsWWpRUjVmTUxuSFF6cElJejNrVlB2Z1hwaWpwNnJNakN3ZC1pRVlvekt2aVFMMGxIeHpqVUtEM2kwa0ZpUmpTTEdXQVhfdTU5M24xY0trSTliWVBjbXItM1BNRjR5SEVMWHM5MjE3cHhEUndYLUx2RW5IS2F5bUxlME04RFk?oc=5)
+
+2026-09-27 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [Libertad Digital](https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRms2OEttVjRfVmdnNnlkRWI3MnVfYnR4dEJqMXF6bEN1aVlWQTFvNjhSNHJaTHFsX203X1BjdzRQazVERHpIdGpCN3BKc0ZLYmEzSGZYWFpyTmNvbnkyV0JKd2g5Z3p3RFoyZnBMMWxydHZuTGRYTWJOUF9XTTFuTXdZazZELXRLeWNtQ1pBcnhKYUNqWWRZd1JramdvQ0xDWHVSY3VpWDNjUmg1Yy1zY1lvYXduTmlDaS1aVVJveUI3YU9Rb3FGTjAzRW1IQUJNbWdhWXEzWjJTSTVsM0Z6bEpNQ3Z3ak1hVEIwT3g0MVcwd0piY1AwMTJ0YktJbVg4ZXJqX296dm7SAZMCQVVfeXFMT2RfQkRoYm05YVNRbS0zYVR1WFNJcEpXSDlsbVFTS2FxeG5kSHgtWHRkN2s1bnVXQWJVZ0V4UWNsd0d4YzNSd2ZjSmdTc1dmdWVnU25SZ2hRTjF5U3p4UVI1YllMRTJnbEdxSFZZX1hwOVgzZng5bjBvaTVvUzM0OEVjQzVEcDlLRkRiNWpnVVk2S05PZEFsWWpRUjVmTUxuSFF6cElJejNrVlB2Z1hwaWpwNnJNakN3ZC1pRVlvekt2aVFMMGxIeHpqVUtEM2kwa0ZpUmpTTEdXQVhfdTU5M24xY0trSTliWVBjbXItM1BNRjR5SEVMWHM5MjE3cHhEUndYLUx2RW5IS2F5bUxlME04RFk?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cU
 
 ---
 
-### [La investigación del Alzheimer encuentra nuevas señales en la sangre: identifican proteínas que cambian mientras los pacientes reciben lecanemab - El Economista](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSjA0TUpldHVURlYzcF9DNElwWXJmUUZPU2hrRGU1MEg0QjdvWm9Kc3hqTkhuZk12WnhmR0hBN2JSYXJ2eHVOQ3h4Vm5YTHZoV2hab2oyM2lBakF1dUZJN1I1TXJLM1RBeDJSOHhoWmo4a0lsNVVTVlZvcWJwNEFhVzE5UUFybXplTWlHSnMxQ1EwRURsaE1zOFA3bmhGZmRvcVFpNVM0dkhySjRVYmhJUWxfOER0aTRoWlZYSzlfNndYVWxIazhwQnM1TmdFZEZubEEyZTBWcmJNV1FmRHNRRlNHamxIbGhIWENZdVliNkk5UWdZdDctOHhSZXRwMW9DR3dVRkpmd2tzMlQxNGNjUVA3MzRtM2hldG1rXzhJZWFKUVZ4Z0RZVnFXNEszOTVGX282dkM1Nk1naXptdF9EdTNRVF8wT0hIbWNfMktXSjV4bjg?oc=5)
+### [Typ-2-Diabetes: Meta-Analyse mit 52 Studien prüft Psychotherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZGFCUXE1Mml1RmdOLUtTQl9TVDh1OVB1RVU4dUNaVllnV0N6eEVGeW9kamM0VE9waG9obVg0MjVmOGYxVVVrY21qalhLekJRWEZnM29CazZDaWtFQVNMWnc5dVp4ZWxmcWk5aGdwQWFpU0NZMzYxS2NyNWdSMDRrQmlMVG1teWFJZS1raTc2Nk5melRQVUY1Y3hVaks4MDBWU3pEcG84NFRYWWFwQjFONA?oc=5)
 
-2026-09-25 <span class="news-drug-tag">Lecanemab</span>
+2026-09-26 <span class="news-indication-tag">diabetes</span>
 
-Source: [El Economista](https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSjA0TUpldHVURlYzcF9DNElwWXJmUUZPU2hrRGU1MEg0QjdvWm9Kc3hqTkhuZk12WnhmR0hBN2JSYXJ2eHVOQ3h4Vm5YTHZoV2hab2oyM2lBakF1dUZJN1I1TXJLM1RBeDJSOHhoWmo4a0lsNVVTVlZvcWJwNEFhVzE5UUFybXplTWlHSnMxQ1EwRURsaE1zOFA3bmhGZmRvcVFpNVM0dkhySjRVYmhJUWxfOER0aTRoWlZYSzlfNndYVWxIazhwQnM1TmdFZEZubEEyZTBWcmJNV1FmRHNRRlNHamxIbGhIWENZdVliNkk5UWdZdDctOHhSZXRwMW9DR3dVRkpmd2tzMlQxNGNjUVA3MzRtM2hldG1rXzhJZWFKUVZ4Z0RZVnFXNEszOTVGX282dkM1Nk1naXptdF9EdTNRVF8wT0hIbWNfMktXSjV4bjg?oc=5)
-
----
-
-### [Empfehlungen zum Umgang mit psychischen Belastungen bei Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
-
----
-
-### [Diabetes: Dieser pflanzliche Wirkstoff kann Nierenerkrankungen verhindern](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
-
-2026-09-25 <span class="news-indication-tag">diabetes</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM0FYYTdrUzRibGk3WXdBc29FUGNYZG1WekNvblhGX0R6MFI0Xy1iSnBmQjQ1WmJVY3hIODJaVHp2QTYxZGpwUnlnb3JSM0tDb3VDQlZaZHpVZ0dBQWIzTWVOOHk2aWR6WDd4cnQyRzdSbXEyS0cyWFFzWGc5LUp3LWtlV01nNlZQYk1vaFBKaXdvSnNaYjFBNTdPUVVGYWUtT28ySUNZYWktdnJ3c1htd2pUWDV3THJXbFVVQUQ1Qmd5ZEpEVi1wUGd5cEx1cVk3WG8w?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZGFCUXE1Mml1RmdOLUtTQl9TVDh1OVB1RVU4dUNaVllnV0N6eEVGeW9kamM0VE9waG9obVg0MjVmOGYxVVVrY21qalhLekJRWEZnM29CazZDaWtFQVNMWnc5dVp4ZWxmcWk5aGdwQWFpU0NZMzYxS2NyNWdSMDRrQmlMVG1teWFJZS1raTc2Nk5melRQVUY1Y3hVaks4MDBWU3pEcG84NFRYWWFwQjFONA?oc=5)
 
 ---
 
@@ -102,19 +94,35 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlRK
 
 ---
 
-### [Alzheimer-Therapie: 34 Blutmarker verändern sich unter Lecanemab deutlich - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
+### [Diabetesrisiko: UCL-Modelle sagen Erkrankungen bis zu 15 Jahre voraus - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
 
-2026-09-25 <span class="news-drug-tag">Lecanemab</span>
+2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxORFNhX2JKamFHYjBCQzJjeHdKY2ZibXZYenNqLVZZQXRmdW1yd3BNdDY5SDVEaENwSzFjWlBUV2V4UWdkRkFrUEdqWGJQZk9neF92dGY0VkhQMVQ2MDBnWUJPRVY3QkZidk5PbDh4RzBqMk5lY1RYeUducG41eWtRU0NfQTRZMXFCVWZZN2xCN2V4VlVland1ekFEc0lYNzRuVlBZQzNiaVVqUWsxMzBrRFhySFdhLWhWMmNaXzA1Zw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzhuRUZESlZFaDNnWmdGR0xnVHhlZGZJMFAyZnR6bWdsWW9yd1FaeFhoV0RtY1pFVnFKWGYzRTNqdEZpbVg1bThaTV9LOWFxR0R0Qm91MTVCWk01Zk1xbW5GMk5MTHZMVERIRnRIUjV4Ym9PTmtoU1ZWdk9TT3lOSVpibXRVT3gwOEwxb0Nzd0NiWUU2aWpvTmRCNDNmWlFCSXp5TE95bmpIVVVTTlpsTEZ5M3RXV0o0?oc=5)
 
 ---
 
-### [Diabetes bei Schwangeren nimmt zu: Was das fürs Baby bedeutet](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
+### [Demenz: Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
-2026-09-22 <span class="news-indication-tag">diabetes</span>
+2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [WAZ](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRE1MU0gxZENKWDNIQkRCZGExOHhPWHBmb3QxOTF6ZFBqa3ZlMkFrZjZab1M2TGJ2T2hSVzQ1OU9oSk12WUJ5OUZjbGloS29kcVU3T0N5bjRZZE9VWXJDdTNSYjBmejd0S1JUVTEtRDQteVpYekM2b2RlM3M4TDlYak5sWFJnN2wxVGtJM05xMnVabDJJLWh4UV9zRXNyenoxaHlVX2dsZVpXbjNIVGYyOFRCbnRPbEt3OS1WcjgxMGlTald5bHVwRzhmMTdMbkpjQzR0LXNNMnlMUQ?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+
+---
+
+### [Wie ein Blut-Biomarker das Ansprechen auf Lecanemab bei frühem Alzheimer widerspiegelt](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWVla3Ytc21TVjhmaGR5V1lDbjd2VkgxVjBQUGtvdERRbW9CbW9mZW1kczc0QmM0cXBMcVBwN0RHYkhtc0tVRVF3bFJaSFhVbjJDWFJkMnZtQTR2bzVsbDdRVDlYcHpReVd3a0NNQXppejlFTlZCX0ZYbFMxWEo4OVNPNHJ1Snk5RnRfaFVwZE82bUlKMWhRYW5wZ1U5cWd1X3VnVk9WcXJxNEhWNW91MXdOSG5LVTg?oc=5)
+
+2026-09-21 <span class="news-drug-tag">Lecanemab</span>
+
+Source: [biermann-medizin.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWVla3Ytc21TVjhmaGR5V1lDbjd2VkgxVjBQUGtvdERRbW9CbW9mZW1kczc0QmM0cXBMcVBwN0RHYkhtc0tVRVF3bFJaSFhVbjJDWFJkMnZtQTR2bzVsbDdRVDlYcHpReVd3a0NNQXppejlFTlZCX0ZYbFMxWEo4OVNPNHJ1Snk5RnRfaFVwZE82bUlKMWhRYW5wZ1U5cWd1X3VnVk9WcXJxNEhWNW91MXdOSG5LVTg?oc=5)
+
+---
+
+### [Hederagenin reaktiviert Klotho bei diabetischer Nephropathie über DNMT1 - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
+
+2026-09-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFl5amN1blZwZFFCQVNGa1dEZmpULVJIbVZPdHZER1ROWkNkMlhJd0RkWnluOUYtVC1ZbUhOMW1Gd1VPTzlkZXpienMwM2stMXo4d1NrVVYtVGQtSHIyWWNDazAta2s0UHFUQTNDd193eXBwbTNZMkRtLWYwbnl0by1yMGxyR3BSQTlaNVl4V3NwTHpEUF9xNFdvRzdoX0FxYm1tY19YOA?oc=5)
 
 ---
 

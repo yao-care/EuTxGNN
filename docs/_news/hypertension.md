@@ -3,7 +3,7 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 5 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>5 news articles</strong> and 55 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,7 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [High blood pressure? Listen to Mozart or Bach - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelhibUh1OHJZajJId2VOWFdjSlZUeE9lQUZNTWJDcEJsZE8tcUk0U0JzMXZwRXF6a2N4TzVpbGNmbFhZd0JJVTl1Z1JXQnh4WWVNQk1hYzJtX3lJU254cXJJazZOZXFwb1drczdKZ2hieXVhNWRQWTdldEp5eWxYRmw3M1RTRXBmT3ZSdUNxOHZkdjdOMzJGeGN2WS1lVURSWm52ZzhB?oc=5)
 
@@ -93,27 +93,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOelh
 
 ---
 
-### [James Stone, cardiologue : "Le problème n'est pas de manger des oeufs, mais ce que vous mettez à côté"](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
-
-2026-09-26
-
-Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHRfYjlaWkVCSkxZRWM1RFpsU0xwbnpVRi1KSWExNFRfT0FBSzAzQ3JZT0xPQi1iUEROcGZta0YxRVZLZGZCckNVenBmNkVWbFl2QU9jZDBmeUM2Y0VsQ3E0aHN0cUJYUDZDN3hyNmNZT3l5eDZPLVB4ODd2S1k0NWJXNU1BZFFFWlFhOUJpbw?oc=5)
-
----
-
 ### [Konservierungsstoffe: Studie findet Zusammenhang mit Bluthochdruck](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
 
 2026-09-25
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
-
----
-
-### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJjeVgycUU4T0tCdExweXFmZ1pBbktwZnl1bjc3eVVSM0V5NEkzZFdrUjVnWkJyZ1ZHUmJkRTJrOWMzREI2M1JSTWNOWEtsenBHbFppMVdxZk15ZnRLUlRLSkFzdXVva25WVF9PUXVsRmJnbmd0RWNOVXhDbmdJSkpjeWpMMmx2QlE?oc=5)
-
-2026-09-24
-
-Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXJjeVgycUU4T0tCdExweXFmZ1pBbktwZnl1bjc3eVVSM0V5NEkzZFdrUjVnWkJyZ1ZHUmJkRTJrOWMzREI2M1JSTWNOWEtsenBHbFppMVdxZk15ZnRLUlRLSkFzdXVva25WVF9PUXVsRmJnbmd0RWNOVXhDbmdJSkpjeWpMMmx2QlE?oc=5)
 
 ---
 

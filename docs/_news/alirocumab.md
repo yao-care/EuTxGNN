@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (2)
 
+### [Expertos piden reforzar el seguimiento personalizado de la hiperpotasemia en pacientes con enfermedad renal crónica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
+
+2026-09-27 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
+
+---
+
 ### [Sanidad Aragón presenta una nueva estrategia para mejorar la atención a la enfermedad renal crónica](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzNIM2ZFR1hLdzgzUXJjNWlxVXhuZnMxNnhuejBMbmNPOGVZd3VONTJXVC03ZjFJVGVhWmJIa2hCTEtfMzUxLXVHRnZ5aEN5OElkeHJKcWtxRFhoNi03Z3htbDNXSUlzcXhSVXlSRGJTTFY0N0xiYVNWWXpGdWpvVS1iekE2OXUtdVQ0QkdKZHIzR0Y5S1B6Mk5Yc09EMHo1VEg2Y1BwOXdNb3NjSEhub0hFVTBKTDE0bERaZkNiY2xvQ2Y2T3c?oc=5)
 
 2026-09-25 <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [DiarioAragones.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzNIM2ZFR1hLdzgzUXJjNWlxVXhuZnMxNnhuejBMbmNPOGVZd3VONTJXVC03ZjFJVGVhWmJIa2hCTEtfMzUxLXVHRnZ5aEN5OElkeHJKcWtxRFhoNi03Z3htbDNXSUlzcXhSVXlSRGJTTFY0N0xiYVNWWXpGdWpvVS1iekE2OXUtdVQ0QkdKZHIzR0Y5S1B6Mk5Yc09EMHo1VEg2Y1BwOXdNb3NjSEhub0hFVTBKTDE0bERaZkNiY2xvQ2Y2T3c?oc=5)
-
----
-
-### [Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness - The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlNlMHM4YW41b1ZDQUIwa3VYOGVWR2NPMW1HLVFXdG5NYWxBVmNaT2JFRTM3N2daaEQxd29xU1g1RkNpNk9ueUd0YkhZY0VPbHB3SndQUjVLOFpSN0h2LTdnUzM1WTlYR2FLRG9vZV95TUZ4ZlVsTmRnYjZxYjNyV05lR1liSmFJODhpTU0wR1plVXE0UkpJcHlxbFdiN0ZBaGVpMjFGRmhuUUxiYk1NeVg4Rk80Wi01?oc=5)
-
-2026-09-25 <span class="news-indication-tag">CKD</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWlNlMHM4YW41b1ZDQUIwa3VYOGVWR2NPMW1HLVFXdG5NYWxBVmNaT2JFRTM3N2daaEQxd29xU1g1RkNpNk9ueUd0YkhZY0VPbHB3SndQUjVLOFpSN0h2LTdnUzM1WTlYR2FLRG9vZV95TUZ4ZlVsTmRnYjZxYjNyV05lR1liSmFJODhpTU0wR1plVXE0UkpJcHlxbFdiN0ZBaGVpMjFGRmhuUUxiYk1NeVg4Rk80Wi01?oc=5)
 
 ---
 
