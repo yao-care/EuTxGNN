@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Ipertensione e problemi al cuore, otto conservanti alimentari associati all'aumento del rischio. Quali sono e lo studio su oltre 112mila... - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
 
@@ -110,19 +110,27 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
+### [Verbessert eine Katheterablation die Aussichten bei Menschen mit Vorhofflimmern nach Mitralklappenreparatur? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+---
+
 ### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
----
-
-### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
-
-2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 

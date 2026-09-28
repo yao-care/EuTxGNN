@@ -14,7 +14,7 @@ permalink: /news/parecoxib-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Parecoxib Sodium?">
-<strong>Parecoxib Sodium</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
+<strong>Parecoxib Sodium</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Parecoxib Sodium with the la
 <p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Rheumatoide Arthritis: Ursachen prüfen, statt Medikamente reflexhaft zu erhöhen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+
+2026-09-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+
+---
 
 ### [Ipertensione e problemi al cuore, otto conservanti alimentari associati all'aumento del rischio. Quali sono e lo studio su oltre 112mila... - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
 
@@ -80,11 +88,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOM
 
 ---
 
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+---
+
 ### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span>
 
-Source: [eatingwell.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

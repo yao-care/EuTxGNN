@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Expertos piden reforzar el seguimiento personalizado de la hiperpotasemia en pacientes con enfermedad renal crónica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
 
 2026-09-27 <span class="news-indication-tag">enfermedad renal crónica</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
-
----
-
-### [Sanidad Aragón presenta una nueva estrategia para mejorar la atención a la enfermedad renal crónica](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzNIM2ZFR1hLdzgzUXJjNWlxVXhuZnMxNnhuejBMbmNPOGVZd3VONTJXVC03ZjFJVGVhWmJIa2hCTEtfMzUxLXVHRnZ5aEN5OElkeHJKcWtxRFhoNi03Z3htbDNXSUlzcXhSVXlSRGJTTFY0N0xiYVNWWXpGdWpvVS1iekE2OXUtdVQ0QkdKZHIzR0Y5S1B6Mk5Yc09EMHo1VEg2Y1BwOXdNb3NjSEhub0hFVTBKTDE0bERaZkNiY2xvQ2Y2T3c?oc=5)
-
-2026-09-25 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-Source: [DiarioAragones.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzNIM2ZFR1hLdzgzUXJjNWlxVXhuZnMxNnhuejBMbmNPOGVZd3VONTJXVC03ZjFJVGVhWmJIa2hCTEtfMzUxLXVHRnZ5aEN5OElkeHJKcWtxRFhoNi03Z3htbDNXSUlzcXhSVXlSRGJTTFY0N0xiYVNWWXpGdWpvVS1iekE2OXUtdVQ0QkdKZHIzR0Y5S1B6Mk5Yc09EMHo1VEg2Y1BwOXdNb3NjSEhub0hFVTBKTDE0bERaZkNiY2xvQ2Y2T3c?oc=5)
 
 ---
 

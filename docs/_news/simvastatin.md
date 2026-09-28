@@ -94,19 +94,19 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
+### [Verbessert eine Katheterablation die Aussichten bei Menschen mit Vorhofflimmern nach Mitralklappenreparatur? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
+
+2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
+
+---
+
 ### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
----
-
-### [Vorhofflimmern: Ablation mit optimierter Wellenform erreicht 94,2% Haltbarkeit - it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
-
-2026-09-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlQ5bkdXZXY5TVRWMTJ1VlQza3R5LTlrM3MzeXk1cFJaSFYtTzIyTXVyY0xnTXlvUHVKUGo3anIyOGlOeC1EWU5iYnVjT1Z0eTVvbU1tcVIxaGpaYUFEV01wOGJDUFQ2YW1MeUpYM3dqa0E5N200bTl2dGxNbDBDRXMtSnR4S0RHX0R5MUc0S1JnVHJmMFNUWUlIZHhGY29Jblp1a2tUTXB1d1E?oc=5)
 
 ---
 

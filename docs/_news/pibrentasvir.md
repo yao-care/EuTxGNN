@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Pibrentasvir?">
-<strong>Pibrentasvir</strong> currently has <strong>20 news articles</strong>, with 20 predicted indications.
+<strong>Pibrentasvir</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (17)
 
 ### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
 
@@ -94,11 +94,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQYnpkO
 
 ---
 
-### [HPV-Impfung: Reicht künftig eine Dosis statt zwei? - it boltwise](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVRvcE1ZZ29DV21lOUtxTEZVWDhDTXVIOEFPMHpLTEEybE1DZk55ZGpYaVRYVGRXazBBMGtuN21HbDBBRG1lLXBMM24xbTRqUllibnBrc1JNclg3LUc4ckJFRURvQmpxMWl4T2NrdjdJU3RuX0I4U2NOTi1mRG1kM3h6elJ5dFNo?oc=5)
+### [HPV-Impfung: Reicht künftig eine Dosis statt zwei?](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVRvcE1ZZ29DV21lOUtxTEZVWDhDTXVIOEFPMHpLTEEybE1DZk55ZGpYaVRYVGRXazBBMGtuN21HbDBBRG1lLXBMM24xbTRqUllibnBrc1JNclg3LUc4ckJFRURvQmpxMWl4T2NrdjdJU3RuX0I4U2NOTi1mRG1kM3h6elJ5dFNo?oc=5)
 
 2026-09-26 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVRvcE1ZZ29DV21lOUtxTEZVWDhDTXVIOEFPMHpLTEEybE1DZk55ZGpYaVRYVGRXazBBMGtuN21HbDBBRG1lLXBMM24xbTRqUllibnBrc1JNclg3LUc4ckJFRURvQmpxMWl4T2NrdjdJU3RuX0I4U2NOTi1mRG1kM3h6elJ5dFNo?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVRvcE1ZZ29DV21lOUtxTEZVWDhDTXVIOEFPMHpLTEEybE1DZk55ZGpYaVRYVGRXazBBMGtuN21HbDBBRG1lLXBMM24xbTRqUllibnBrc1JNclg3LUc4ckJFRURvQmpxMWl4T2NrdjdJU3RuX0I4U2NOTi1mRG1kM3h6elJ5dFNo?oc=5)
 
 ---
 
@@ -106,23 +106,7 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVRvc
 
 2026-09-26 <span class="news-indication-tag">MS</span>
 
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0VxTmZ3LXBlRXFmSnp1VkM2U3NLSHZRS2hGTEpKcVF1UXV6dUZZb19ZUFRic3JtVnIwUG5JdFBGMUhfYnZsYXFLRFhqNDR3YWM2c2NKMHBhV2lRXzVGRU5RMVI0aEZtaG5Ma2tjazlTRUNOQmpsZEVKVWp2czVZa21pWGJXMm1FbXpKUTN0ZEpFdC01QkN0YmxCR2ZmOExy?oc=5)
-
----
-
-### [Sales of £460 shingles jab double after claims it wards off dementia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
-
----
-
-### [Infected blood scandal: Memorial to haemophiliac children infected from experimental treatments](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
-
-2026-09-26 <span class="news-indication-tag">MS</span>
-
-Source: [news.sky.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDg0dmpKM21zYmd4bWlrOVk4Y0NjMU9mYWtkaXdnQmRDVHltNmNlZFkzT0N5QzhkMDhKWnRnVWNJdEh5czlqbHpjN0k2VHg2bVhfZ3BJU0tVU0RtOU9YNHJCWjQwNE9iZXluS0RVNElBYTduMDNZMU1wZjlHOXQzZkdsbEw1cGdBbkhLZHpkcWF3Qkd5ZXo1OWgtdExkSmpaTGlGbFNTN2kxR2VEV2c3ZE92bVFNSDlUOEg0QjFXUzRTU0lsR3lFYXpB?oc=5)
+Source: [buzzfeed.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0VxTmZ3LXBlRXFmSnp1VkM2U3NLSHZRS2hGTEpKcVF1UXV6dUZZb19ZUFRic3JtVnIwUG5JdFBGMUhfYnZsYXFLRFhqNDR3YWM2c2NKMHBhV2lRXzVGRU5RMVI0aEZtaG5Ma2tjazlTRUNOQmpsZEVKVWp2czVZa21pWGJXMm1FbXpKUTN0ZEpFdC01QkN0YmxCR2ZmOExy?oc=5)
 
 ---
 
@@ -134,11 +118,11 @@ Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTdaNkl
 
 ---
 
-### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+### [Memorial for pupils given contaminated blood at Treloar's](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
 
-2026-09-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-26 <span class="news-indication-tag">MS</span>
 
-Source: [eatingwell.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
 
 ---
 
@@ -150,11 +134,19 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOMEx5
 
 ---
 
-### [Pharmacist says 'pause' ibuprofen, metformin or ramipril if you get three symptoms - Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
+### [NHS confirms vaccine rollout for older adults in England from October - Daily Express](https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMUwzM3ZVTXB2Z1dWLUtqY3lmQVFTRmZReGFYTFpKZXdFaUpyZGd3SThTYXU5cGxidHBKUVpkNjhldm40dGtHRlhIelJqaWxkbl9nTmNKbUh4ejJhV09rSy1acUY4aVNvemlPVFFHTWtLeG9wSVZTTE85bklXQVHSAYQBQVVfeXFMUDBsR21vRTZXSDJydENTdWJGdWJNSnZrYzBWc3ZUMmk4Zk0zOTZtSGpjaUljZllsbmw3TG9jQlM5ZlRmclo1emhhQTM3UWJUbG1jaDdlWUlPd3lpdE5sQXlXVkNUcTlHVWR1Q1ZWQW5wc0xfMlNpQzFqVno3OTNzTnNaLWcw?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMif0FVX3lxTE9mMUwzM3ZVTXB2Z1dWLUtqY3lmQVFTRmZReGFYTFpKZXdFaUpyZGd3SThTYXU5cGxidHBKUVpkNjhldm40dGtHRlhIelJqaWxkbl9nTmNKbUh4ejJhV09rSy1acUY4aVNvemlPVFFHTWtLeG9wSVZTTE85bklXQVHSAYQBQVVfeXFMUDBsR21vRTZXSDJydENTdWJGdWJNSnZrYzBWc3ZUMmk4Zk0zOTZtSGpjaUljZllsbmw3TG9jQlM5ZlRmclo1emhhQTM3UWJUbG1jaDdlWUlPd3lpdE5sQXlXVkNUcTlHVWR1Q1ZWQW5wc0xfMlNpQzFqVno3OTNzTnNaLWcw?oc=5)
+
+---
+
+### [Pharmacist says 'pause' ibuprofen, metformin or ramipril if you get three symptoms - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
 
 2026-09-25 <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">MS</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjUtQVluUGV3NjR4WElDTFVTdjRNWkN6VmpMR0ZYd3NEdVlMTExJSWlwOGo4Znl2WlZYcFEwby1ibm1EM3hZTkZuZTdnNDU0Ymg3eFpFd2dBUEdBYmRNb3lKVWZCMzhEY0xsSDU4ekdBUkNwalRWNzVVSERsZ1FUNnFtRzY4SExZQVVXWkpVUVLSAZYBQVVfeXFMT2ZRR1VjejJmS0RydWJNNkdzcGFQdXJOWlEyZlRCc3ZQTXV6OUNzcGJpN29ERDVWRXpDQ0kzbTN1YWZpNHVJeHFBRFoyazBqY2RHbzUtOG5VQWpMcmJrQ3BuTUp2QklrNkV4RFNyZUc4ajh1YWROVHhnUXp3ZWVtRW9OSXIwZ3dwTlRTYmZfTVY5MEZsUlR3?oc=5)
 
 ---
 
@@ -171,14 +163,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4
 2026-09-24 <span class="news-indication-tag">MS</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE54SGhONi1sZFlNdFJuTGNZTm1nYzE0NVpiVGVkZUh4VXJ2ZGFucUJ5S3JyVmZlWGNGR3gwZC1feTNkWFA0RzZMUUdhdzlYczV5MFN6X2FMWUNxYzVvSTREaDVzY3ZSWTZHeElYdjk3YTkzUVp1ZmpDQ3pYUQ?oc=5)
-
----
-
-### [Five tips to get arms like Tony Blair’s in your 70s](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
-
-2026-09-24 <span class="news-indication-tag">MS</span>
-
-Source: [telegraph.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjA5TENpLUt4SmlrcDU5QkRwMThiRDFXVVhXbm9KaWlzc29FSXFKTVBNQU9iRXh5N1VGbjltb1VHaDB6N01xeGxpYzVNdUp2YWtBZ1F0UkQtZ2VUQUZ2cEJhc3NuRjJ1WWNCbEJsOXJEdmZBcmdNTWNGWlR5S3R1aldEUW1zRGRybFJYOUhxdTB2WWxOT3otYnpfVmI?oc=5)
 
 ---
 
@@ -203,14 +187,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoS
 2026-09-21 <span class="news-indication-tag">MS</span>
 
 Source: [Südkurier](https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ZaSncyX2lpNUZ5RFdIUnhTa2JMOXAxUUJqcTdJNHh4Q0dZWXVQNF9PbmhNd0dVUHg3UndLMkRTNmNFeUd2cFlsVXdKVG1XanQ0UE5OWjZ5Rmt6RTNFS00xcVF4YUNJU3JBMUF0enh5ZDVLYXhpQUNfTzVPXzNZejVWU0FLWmo4UlluQWdha1lDanVDdEN5R3ptVzJRSDJ6b1hPdmlVbTItRnZQWlliak5WNXhjdnFPZF9kY3JDcFlHQ0Vi?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-Source: [eatingwell.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

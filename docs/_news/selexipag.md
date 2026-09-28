@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Ipertensione e problemi al cuore, otto conservanti alimentari associati all'aumento del rischio. Quali sono e lo studio su oltre 112mila... - Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlgycEJqbkVHQWJ4VHg1aHFpVGhBX3ZEY3JqVTQtSVAwUVZqbFpCMThQOVdTclpwelVvOExTQlh0Q2tFcUVsclVQNS1Rd0ZSVlZGWGZmTW9jU2RwNGNXbjBtd3JTbWNxQ1d5V1paT1J1aWNPNDVkc0xUTFhuSW9jVTNZSURhLTR4NmIxbFkwdFc3QXVLa2VpUjFfV3E5MFpyTFZjLVFxcHBoX0JSY0tvcGI5MXF3RkNBd25NaWFaUdIBsgFBVV95cUxNWUhfUzc0Z2x4b2h2OVBWcHdDNWIyanItZThzYUV4SEZ5bDNUcWNDZmdnMVdFOXM4NTFfMWxPalljYUNIWnU4VUlMb24tWkhGS1MyODFOVWxEWWUxTHUzSXlPUElIUS1pQmRTZklMSlFEeF9mNXQ5ZEg5ZHROcXhtdENIRXY4R2tGeFMxcjU1NWd4eHNnZEtLckQ4eUYxclA3UllKR3VIWWhySDRFalhPVFpn?oc=5)
 
@@ -67,6 +67,14 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlg
 2026-09-25 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMiowFBVV95cUxOeERpN2YwY0tzT1JVS2U0b2ZYblJ1NDByRHNwWnN1cmppZkVWd3lJMzRHLVpWVTJKd3FYcEFFbExCeFpERTJONGRjWHdOdlBVNC1QVE1yQVFoQXZSN0NrQXF6djNHakhMbTIzZ0NWMWJhWDQ4UzFpcGs4MEI1LTk1LWQtWHVEZi1fSWhNOWg4Q1dlcVRyLUltUzRqa01pZXpuS1Nz?oc=5)
+
+---
+
+### [Pressione alta: quanto può incidere il sonno sul rischio di ipertensione - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
+
+2026-09-22 <span class="news-indication-tag">ipertensione</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ3dWYVZQbk1OYXhZQ1JVVHZwTXZNVTNXQmp4QTU1SVUzeHNidEF1RXVRUDNCanc5dG1KVmNSeGd6MGpZSFNnM1NQQWVqTTRLbmVfbVNMR1lMNXIxdkVRendPT0wtaFFTRTlIaWFfSjB5Szl1NFNla2pmUFJWRGlHNGd4M19nRjZfRmw0dFFBTmJEUF9sSjE0bXBicG9mYm1iYVR4cHcyWWFRQ0tnNmptU3VhblgxMFAzWmRJQ1ZhRWlLbFVlZldZNFpZXzRMSEXSAcIBQVVfeXFMT1k2em01NXkxdi11RXFTRkZqYU5yTDdraVRaYUJzR0I3VkF2bHNiNW9yLXJ2Z0ROaDF6NzQ2c081aVdEZ2s3WHJucTliVEFaR1NrVTFGeTNNQUx4Z2tlYkYxcUtDS05kdXNsdFFCZ2RvYmJoTmp5NUVPeFZLdm4wNWhHekU0dlpGSnZxd1ZqVVVpdkVkOG0xQ205U2FpRW1tSXBKRk1QbV9YVEM5UWpFS21mYm43SjVoRldfM0dWOGg3Mmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
 
 ### [Forscher verblüfft: Was Träume mit Demenz und Herzkrankheiten verbindet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
 
@@ -75,14 +75,6 @@ Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdk
 2026-09-26 <span class="news-indication-tag">diabete</span>
 
 Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
-
----
-
-### [Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">diabète</span>
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
 
 ---
 
@@ -114,23 +106,15 @@ Source: [El Debate](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXBsS1h
 
 2026-09-25 <span class="news-indication-tag">diabetes</span>
 
-Source: [welt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
-### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
-2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
----
-
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
 ---
 

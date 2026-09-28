@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (6)
 
+### [Rheumatoide Arthritis: Ursachen prüfen, statt Medikamente reflexhaft zu erhöhen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+
+2026-09-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
 
 2026-09-26 <span class="news-indication-tag">arthritis</span>
@@ -78,14 +86,6 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95c
 
 ---
 
-### [GLP-1 drugs fail to help some people lose weight — scientists are on a quest for answers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
-2026-09-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zMmFiNU05dlVnS1Y3cjJWVG14QzVNWGJCV0NMaDNoeUdXbUFOZjNVX25TLU5ucGotaTJvano1cW92ZlkyS3FnSmFHM0oySEhwT3JfVnVCOUxicDRQZnRF?oc=5)
-
----
-
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
@@ -96,9 +96,9 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 
 ### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
-2026-09-21 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+2026-09-21 <span class="news-indication-tag">arthritis</span>
 
-Source: [eatingwell.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

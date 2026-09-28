@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 8 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 7 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>7 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Forscher verblüfft: Was Träume mit Demenz und Herzkrankheiten verbindet - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWldOaUJrN2xQZmFqUEFWM052VW00TklyR256d1I1TmNrVEp1bjNNVjZoZmZ1Zm15am9LMjZrQ3d3ZFVYak1BOVpZOWx5SEtoS1Y5MVgzUWNMNUpFVUs2bUZNbmtCWWtrWkItTGZmc0h2cEVQWldTM1BYc2RpakQtd2IzLU03QVVnc2xHTlQ5Q2FfZWxsSy1LX1NoR0NGX2Z6SnZKSUlqZWMyQVZlRkI5TEY4Vmo4b1pwRExrN1FrTGZ1eWt1RXFtbkQzV0VxTHdyVEE?oc=5)
 
@@ -140,14 +140,6 @@ Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE
 
 ---
 
-### [Prédiabète : ces 5 signaux au réveil que 8 personnes sur 10 ignorent complètement - Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
-
-2026-09-26
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1NtT1FDNkFLVUdjc0JOaWpoY3Njbmx4Wmo3Z19jcl9ZMmJjNXBFaTZWUTZYN3BTc2l2Z2VXcXJuaUNjS1hBWUR3MEpwaHhaSEtmSG5wbXFxVkpaTFNOOHM3am1PbWZCVGtmdlM0X2loc25SeUY0VFItR1dFVUZ4cEZPbkw3NHplYTZRX1ZhYw?oc=5)
-
----
-
 ### [Typ-2-Diabetes: Meta-Analyse mit 52 Studien prüft Psychotherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZGFCUXE1Mml1RmdOLUtTQl9TVDh1OVB1RVU4dUNaVllnV0N6eEVGeW9kamM0VE9waG9obVg0MjVmOGYxVVVrY21qalhLekJRWEZnM29CazZDaWtFQVNMWnc5dVp4ZWxmcWk5aGdwQWFpU0NZMzYxS2NyNWdSMDRrQmlMVG1teWFJZS1raTc2Nk5melRQVUY1Y3hVaks4MDBWU3pEcG84NFRYWWFwQjFONA?oc=5)
 
 2026-09-26
@@ -160,15 +152,15 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZ
 
 2026-09-25
 
-Source: [welt.de](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMU9nTTIxODJ5ajBGVlFjRzV1aGprbGRqMUJ1YXluV2c1V1dQbERLT3dSZ1VHYmtLYWpQeWtsZGZ6cWpQLXZpek9raDNndzhJcWM5dTZ2WlJVb2tUUEJtODR2X0ZHWERJZVFOWFpTWjFnTlZwbGhuN2VlRFAydS1tS2xvUkFvVEpKRWhSUXlMM1ZmblVQUVUwcWE1XzYtVkRzSkYwMDdpZWY5ckVfZ19BZGhySm0tblFiaVc3d0NORTVUbml4TThENUJn?oc=5)
 
 ---
 
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
 2026-09-24
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
 ---
 

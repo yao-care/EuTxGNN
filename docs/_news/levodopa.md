@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>5 news articles</strong>, with 14 predicted indications.
+<strong>Levodopa</strong> currently has <strong>4 news articles</strong>, with 14 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -46,29 +46,21 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Gateshead mum's £3m appeal for son, 8, with 'childhood dementia' - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWkxjc3lta0liZXRUY1ZsZzQ4eHg5MDhTU1JDVE5zcGEwV3FXS21jZ2h2N3lxSTEzNGQ4Y1lzR2l5SGRPbFFmbjNGdmc3NkE4enBzM1ZoS0pJR21wbXpTbUZWYnlPM25rMjl2bGc0WXg2SGFxU3JLc2NYUkJ1UFltU1d4YVpHb3MzWURRLWZQVFlBeHRn0gGaAUFVX3lxTE81eWI1M1F0VzFHSTNDXy0wcUdPcURMRW9MWF9adlFRYmRTcF9sZS1heXFyb2E0R0M3TXhHWEo3dGxzV0U3ZnVaSmdkakZaby1YUzZOMmdpMl9xMkdCMTFuNm9GWmVZTTBraWIzNHh2dmdoVHY4Rzg0MnprdmExSS1mTjlMajdCMHdjcm9EdkZCZVloZmNDT0VtRWc?oc=5)
+
+2026-09-27 <span class="news-indication-tag">dementia</span>
+
+Source: [Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWkxjc3lta0liZXRUY1ZsZzQ4eHg5MDhTU1JDVE5zcGEwV3FXS21jZ2h2N3lxSTEzNGQ4Y1lzR2l5SGRPbFFmbjNGdmc3NkE4enBzM1ZoS0pJR21wbXpTbUZWYnlPM25rMjl2bGc0WXg2SGFxU3JLc2NYUkJ1UFltU1d4YVpHb3MzWURRLWZQVFlBeHRn0gGaAUFVX3lxTE81eWI1M1F0VzFHSTNDXy0wcUdPcURMRW9MWF9adlFRYmRTcF9sZS1heXFyb2E0R0M3TXhHWEo3dGxzV0U3ZnVaSmdkakZaby1YUzZOMmdpMl9xMkdCMTFuNm9GWmVZTTBraWIzNHh2dmdoVHY4Rzg0MnprdmExSS1mTjlMajdCMHdjcm9EdkZCZVloZmNDT0VtRWc?oc=5)
+
+---
 
 ### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
 
 2026-09-27 <span class="news-indication-tag">dementia</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
-
----
-
-### [Sales of £460 shingles jab double after claims it wards off dementia](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVZkclJoWGw0UlRDNmVNN2JxNTBHcTEwc3U1eXBBT19IblJNRkZwdDNzcnU4cFc1MXhVcXhpVTF3UVlkbmRXaGJyeWFMT3hVbVlMRkp2Q1hac1c3NjNsVFdaREJobFlBZGQ1MFZ3bzRBTHc1NW9IeWNnNF9haDVNZW9HZzF6WWl3eFRlSUhNU3BjblFzOXJ0VQ?oc=5)
-
----
-
-### [Researchers Are Saying This 1 Common Activity Is Probably Helping To Lower Your Dementia Risk](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
-
-2026-09-26 <span class="news-indication-tag">dementia</span>
-
-Source: [BuzzFeed](https://news.google.com/rss/articles/CBMidEFVX3lxTE40UmNPc3ZQNzJ5SlNPWkJ4dWY2MmxUY18ySXRwTFdYcDZhbVdicWtXWGtrLURfWmcwbXZER3FISlNpSlFNVDJhM09TWV9PdjdTLV9DazZPMWtWcktmaU5rS1ZtUFFzeDl2VGxvU0IwUnRUbzlT?oc=5)
 
 ---
 
