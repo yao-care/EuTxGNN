@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Gateshead mum's £3m appeal for son, 8, with 'childhood dementia' - Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWkxjc3lta0liZXRUY1ZsZzQ4eHg5MDhTU1JDVE5zcGEwV3FXS21jZ2h2N3lxSTEzNGQ4Y1lzR2l5SGRPbFFmbjNGdmc3NkE4enBzM1ZoS0pJR21wbXpTbUZWYnlPM25rMjl2bGc0WXg2SGFxU3JLc2NYUkJ1UFltU1d4YVpHb3MzWURRLWZQVFlBeHRn0gGaAUFVX3lxTE81eWI1M1F0VzFHSTNDXy0wcUdPcURMRW9MWF9adlFRYmRTcF9sZS1heXFyb2E0R0M3TXhHWEo3dGxzV0U3ZnVaSmdkakZaby1YUzZOMmdpMl9xMkdCMTFuNm9GWmVZTTBraWIzNHh2dmdoVHY4Rzg0MnprdmExSS1mTjlMajdCMHdjcm9EdkZCZVloZmNDT0VtRWc?oc=5)
+### [The sleep red flags that put you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
 
-2026-09-27 <span class="news-indication-tag">dementia</span>
+2026-09-28 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWkxjc3lta0liZXRUY1ZsZzQ4eHg5MDhTU1JDVE5zcGEwV3FXS21jZ2h2N3lxSTEzNGQ4Y1lzR2l5SGRPbFFmbjNGdmc3NkE4enBzM1ZoS0pJR21wbXpTbUZWYnlPM25rMjl2bGc0WXg2SGFxU3JLc2NYUkJ1UFltU1d4YVpHb3MzWURRLWZQVFlBeHRn0gGaAUFVX3lxTE81eWI1M1F0VzFHSTNDXy0wcUdPcURMRW9MWF9adlFRYmRTcF9sZS1heXFyb2E0R0M3TXhHWEo3dGxzV0U3ZnVaSmdkakZaby1YUzZOMmdpMl9xMkdCMTFuNm9GWmVZTTBraWIzNHh2dmdoVHY4Rzg0MnprdmExSS1mTjlMajdCMHdjcm9EdkZCZVloZmNDT0VtRWc?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
 
 ---
 
@@ -55,7 +55,7 @@ Source: [Chronicle Live](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWk
 
 2026-09-27 <span class="news-indication-tag">dementia</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
 
 ---
 
@@ -63,15 +63,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMb
 
 2026-09-25 <span class="news-indication-tag">dementia</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
-
----
-
-### [Cette vitamine permettrait de se protéger contre la maladie d'Alzheimer selon une étude scientifique prometteuse - La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [La Provence](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV181bWxWOFUtRnRuRV9zNnhlTUlaSVNQZ3dGMEFuVWtwaUdEUFJMVjU3WEEwNEI2dkZVR2EtUXlkZzk1S1FhdjdHWGxrcGRQbWg1QXB4c3BndGpCREVjMTRzZk1oZDlNblFiX0N4MTljVXB2eGFteUJiWDhLeWU2REVPMWlmSkRXOE5oU09JdVBZVzZTck9nSlB4NXF0T2lIZVRwUTlQYW9NNGdFX3h0OGtjWkxuSlpUUnVNS1g5Nk9EaGZjRFBQYkJsU3ZPaThJOWFUclU5Yk84c1FJd3FTMFBNNjZJTkRzNHprMkE1cHBXZUVxSmQxTWk3U3RZdw?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
 
 ---
 

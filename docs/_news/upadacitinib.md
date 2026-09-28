@@ -14,7 +14,7 @@ permalink: /news/upadacitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Upadacitinib?">
-<strong>Upadacitinib</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Upadacitinib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Upadacitinib with the latest
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Rheumatoide Arthritis: Ursachen prüfen, statt Medikamente reflexhaft zu erhöhen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+### [Augmentation des cancers et vaccins à ARN messager : le point de vue de l'infectiologue](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDBEZlVOV01Sdm51SUF4ZTNkdm1CTzY2N1h6RWlzeXR6OHg4YllFVUtvRTdKY0ZhVUxpNWhGLTBjQ1RiSnJieWFGenNDUmMzMnREczB4Tkd4Y3hKNUViWHFteHVNaWVtc05pd1ZQTjdGY0YxNVlZdlBucHBkdGF6Z3VsVkRfWldEV05KWC1sNWJhekxpM1ptencwWVVOdU15eVZIVC14bjRQUWZvTGd6MlJYRlZ2MzRmVXBWMUpoaVAtdw?oc=5)
 
-2026-09-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">AF</span>
+2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFk2TzJFSEhPZ0lYYnlNYi1jSXJxaEQtV0NfOHdQOFhZblJQWUtxNWU4dXFBbmFYeUFmTzdONUFOZVNndGV1MG1MTVJDSWx6SndkU1dvU1ZHZkNFTTdEVFNYSWJKYUtEZG1JeTN2eEFxdFJtUk1aSXl3Y1dacmhQODR3TFdZREh6TUl3NHd2ZUNBTGVtV0g5LXBvYTFGb3hqRU1lUDd1cDJtX3BnWlN0WFdoT3V5OU9LMG9n?oc=5)
+Source: [Medisite.fr](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDBEZlVOV01Sdm51SUF4ZTNkdm1CTzY2N1h6RWlzeXR6OHg4YllFVUtvRTdKY0ZhVUxpNWhGLTBjQ1RiSnJieWFGenNDUmMzMnREczB4Tkd4Y3hKNUViWHFteHVNaWVtc05pd1ZQTjdGY0YxNVlZdlBucHBkdGF6Z3VsVkRfWldEV05KWC1sNWJhekxpM1ptencwWVVOdU15eVZIVC14bjRQUWZvTGd6MlJYRlZ2MzRmVXBWMUpoaVAtdw?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMk
 2026-09-25 <span class="news-indication-tag">arthritis</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
----
-
-### [The Best Exercise to Help with Knee Arthritis, According to Physical Therapists](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHFZRloxXzc2T2VkaEZCdEtFRzV5OUxaaWV1Yko3Wjk3c0Ffay0tUi1Gb1lDcHFZX0gyYmE4b1NGckhSbEcyZXJ2VFdLcmJOd2FpZ1ZuTFE3UzZCVjY3SUpPczd3cUg5LXVrSVdLeHdBdERtRXdaWkgzbzlRUHRGdGxqZw?oc=5)
 
 ---
 

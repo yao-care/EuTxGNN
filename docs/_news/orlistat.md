@@ -54,11 +54,27 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (11)
 
-### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGltck04SDhjZnpYcGRlcV9UenZMT3dYRWtnajFkX28yNmNjbkdoMHdqeHE0aVdTbW10VGNBNlBNcWhBd0ktMG5sT0hvQVVpTWh4LTZ0c2pFMkwxRzlzRmZOZzZwZ1dxZjRNSTNnR2VjTTgzcURXLVFFd0RxbWF6SFJONlRUMWtELXdUOWVNVFVYdjlLZDFNazJyZ21CU0ZDenNYSjBNOUt3TENUeExMbXVwVEV2UUdYOWN0MVM1THBJdm9YeVB5cnVPNmtRVXptRU5aSWR1S2tKLXZ6NDdjTFN3Y0VLUW1y?oc=5)
 
-2026-09-27 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+2026-09-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGltck04SDhjZnpYcGRlcV9UenZMT3dYRWtnajFkX28yNmNjbkdoMHdqeHE0aVdTbW10VGNBNlBNcWhBd0ktMG5sT0hvQVVpTWh4LTZ0c2pFMkwxRzlzRmZOZzZwZ1dxZjRNSTNnR2VjTTgzcURXLVFFd0RxbWF6SFJONlRUMWtELXdUOWVNVFVYdjlLZDFNazJyZ21CU0ZDenNYSjBNOUt3TENUeExMbXVwVEV2UUdYOWN0MVM1THBJdm9YeVB5cnVPNmtRVXptRU5aSWR1S2tKLXZ6NDdjTFN3Y0VLUW1y?oc=5)
+
+---
+
+### [Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+
+2026-09-28 <span class="news-indication-tag">obesidad</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+
+---
+
+### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">AVC</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 
@@ -78,27 +94,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1i
 
 ---
 
-### [Herz in Gefahr: Wie chronischer Stress den Körper unbemerkt schädigt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxQU01HanNCeS1Wdm9JcWR4ZU5LY3pvekNkQmRfYjViMkJwVGtuYUM4NnlkbFRUMWdYeWd1ZjByT0hzQjRHYVhaWkV5YTBJNXRhVmY5VE40SlBiUGNCME9uSk1aUk5YQXVIV0IwdFdEYWF3N2ozN3pMNXEtQVJLTW16Wmh6WkRhZWptdldaZVdQLW9Pc0VYY1FXdDA0bXNnaUJDaFdyRHJaM2xSdUw4eUdQRHZzOHNUQS1NV1lMYmtLeWJIN3VtaFZSXzllN2c1UQ?oc=5)
-
----
-
 ### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
 
 2026-09-26 <span class="news-indication-tag">stroke</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
-
----
-
-### [BMI bei Herzschwäche: Grazer Studie zeigt zentrale Adipositas bei 96 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
-
-2026-09-26 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
 
 ---
 
@@ -110,19 +110,19 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 ---
 
+### [Stroke Among Younger Adults In US Has Nearly Doubled Over 30 Years, Study Reveals](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnRQZmdnVHNlSTJiaVMycnVoWW5GbEwwZjJpYWRjRFdtWll5Tmh0cUNWcUYtLXhNRnNjbHNHWGkyTE91b2pNLS1DTVV1Vml3UktlTFlmU0F2QWdkQ3hEdWV1bjd3bVVLaDEyQTRPczBNMkZEUzNSdjRKMVVUVjFRVHlfZDJwYVJfZDkwbmhfZDh3ZGl1WW5DM3RRekVhUVZBd1UwelZtSnBpRkc1Y0dsQ1BwNlFqR2ZWdXJrcXRRal96OTlaMDZpZkNMUHBJNC1UNGxQUmlDUkxTVVdfWlV5clZOTmc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">stroke</span>
+
+Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnRQZmdnVHNlSTJiaVMycnVoWW5GbEwwZjJpYWRjRFdtWll5Tmh0cUNWcUYtLXhNRnNjbHNHWGkyTE91b2pNLS1DTVV1Vml3UktlTFlmU0F2QWdkQ3hEdWV1bjd3bVVLaDEyQTRPczBNMkZEUzNSdjRKMVVUVjFRVHlfZDJwYVJfZDkwbmhfZDh3ZGl1WW5DM3RRekVhUVZBd1UwelZtSnBpRkc1Y0dsQ1BwNlFqR2ZWdXJrcXRRal96OTlaMDZpZkNMUHBJNC1UNGxQUmlDUkxTVVdfWlV5clZOTmc?oc=5)
+
+---
+
 ### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
----
-
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 

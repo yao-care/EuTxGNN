@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [Terapia dell’obesità: come scegliere il trattamento appropriato e sicuro](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+### [Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
 
-2026-09-27 <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
+2026-09-28 <span class="news-indication-tag">obesidad</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9kS0FkVGZQMFdVNlMxemZFV1M2TG5vSFhWbXI0cGtUYXVoT1JoeWY4VmpRRlJSbTd2UHpIU1JyWnhFbXhVd0wzY1FqbXBKMTVwQzVCbGhBaEZKaDJKR3h4cnkxRVdCR1ZXRkxpWTRzZF9rbVJsZWRvVnNuVThjOGhvZjFmUUhIcUFDNDd4TWtNQWZMYldDWTJxazdHd0s5dkRhTGdPcC1kSUhaQTUwdEFjQWRXbnlOUEIyUTBB?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9k
 2026-09-27 <span class="news-indication-tag">obesidad</span>
 
 Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
-
----
-
-### [BMI bei Herzschwäche: Grazer Studie zeigt zentrale Adipositas bei 96 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
-
-2026-09-26 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSE1KVUZ3YTh2ZkF5OENwdFF0QjlwTDZObkNDNnBobXRidTBJMWxGaHkzeEctTnVIVGlwOWJBMTBYOHhrUE5hRGRaSGlLaXJxRGNENXBzblJESFJlRjRmckJkZzBxT1FHZUlLV1BKbHdwa2hCNTE2Szg1YldkT2E2MFFjOFNJT3VOdVE5Mi1YUXdnZERYdHBEcGt2eFV0alFqRk1ha0h5Y1FnbXNXWjZsYUhVU1NSRVE2?oc=5)
-
----
-
-### [Adipositas und Immunsystem: 44,5 kg Gewichtsverlust dreht Entzündung um - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONDBSXzU4aWgxWWtWTmZhRzdaVUh1c2lrUDMyMEpsTDNJUlZuYVN6dE9jSVowcVpnNl90aTcwUHNzeGFnLVctdl9zWW5ndGQ0Z2tPNU5RX19Oc2JJTUxGNkY0MXYwcDNhTjdyR3kwbWlYNWg0TjhmWXNzb2dQcGQ2YU42N1p5dWowUHlQQTZ3MEVMc0xHcWM2VWlvWklUYVJlUTluV2pQN1BPRWtPeUVldGRDRksyVS1zMEZocQ?oc=5)
 
 ---
 
