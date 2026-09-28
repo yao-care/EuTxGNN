@@ -1,0 +1,41 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "sacubitril",
+  "meta": {
+    "lastUpdated": "2026-09-28T14:20:25Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB09292",
+        "display": "Sacubitril"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "sacubitril",
+        "display": "Sacubitril"
+      }
+    ],
+    "text": "Sacubitril"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

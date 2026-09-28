@@ -1,0 +1,35 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "vaborbactam-myosclerosis",
+  "meta": {
+    "lastUpdated": "2026-07-26T10:06:13Z"
+  },
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/vaborbactam"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "myosclerosis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN Knowledge Graph"
+    },
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/drugbank-id",
+      "valueString": "DB12107"
+    }
+  ]
+}

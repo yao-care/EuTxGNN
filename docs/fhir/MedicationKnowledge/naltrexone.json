@@ -1,0 +1,41 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "naltrexone",
+  "meta": {
+    "lastUpdated": "2026-09-28T14:20:25Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB00704",
+        "display": "Naltrexone"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "naltrexone",
+        "display": "Naltrexone"
+      }
+    ],
+    "text": "Naltrexone"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

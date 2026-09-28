@@ -1,0 +1,41 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "elbasvir",
+  "meta": {
+    "lastUpdated": "2026-09-28T14:20:25Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB11574",
+        "display": "Elbasvir"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "elbasvir",
+        "display": "Elbasvir"
+      }
+    ],
+    "text": "Elbasvir"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

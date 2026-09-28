@@ -1,0 +1,41 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "cilastatin",
+  "meta": {
+    "lastUpdated": "2026-09-28T14:20:25Z"
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://www.drugbank.ca/drugs",
+        "code": "DB01597",
+        "display": "Cilastatin"
+      },
+      {
+        "system": "https://eutxgnn.yao.care/drugs",
+        "code": "cilastatin",
+        "display": "Cilastatin"
+      }
+    ],
+    "text": "Cilastatin"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "EU",
+          "display": "European Union"
+        }
+      ]
+    }
+  ],
+  "synonym": [],
+  "extension": [
+    {
+      "url": "https://eutxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L1"
+    }
+  ]
+}
