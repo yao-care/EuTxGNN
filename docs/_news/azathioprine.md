@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">arthritis</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
----
-
-### [Omega-3: Mediziner empfiehlt diese Kapseln – „Heute ist mein Index optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">arthritis</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
----
+## Related News (1)
 
 ### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [t-online.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
 
 ---
 

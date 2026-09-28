@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 5 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+
+2026-09-28
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+
+---
 
 ### [The sleep red flags that put you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
 
@@ -54,11 +62,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzV
 
 ---
 
-### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 2026-09-27
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+---
+
+### [Maladie d'Alzheimer : qu'est-ce que l'existence du dépistage par prise de sang change au diagnostic](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
+
+2026-09-27
+
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
 
 ---
 
@@ -66,7 +82,7 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFd
 
 2026-09-25
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
 
 ---
 

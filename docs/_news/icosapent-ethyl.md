@@ -32,19 +32,19 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 
 ## Related News (2)
 
-### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
-2026-09-26 <span class="news-indication-tag">arthritis</span>
+2026-09-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 ---
 
-### [Omega-3: Mediziner empfiehlt diese Kapseln – „Heute ist mein Index optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
-2026-09-25 <span class="news-indication-tag">arthritis</span>
+2026-09-26 <span class="news-indication-tag">heart disease</span>
 
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
 ---
 

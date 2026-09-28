@@ -3,7 +3,7 @@ layout: default
 title: "Dibotermin Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dibotermin Alfa. Original indication: Inductos is indicated for single level lumbar inte.... 2 predicted indications."
+description: "Health news related to Dibotermin Alfa. Original indication: Inductos is indicated for single level lumbar inte.... 12 predicted indications."
 permalink: /news/dibotermin-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dibotermin-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Dibotermin Alfa?">
-<strong>Dibotermin Alfa</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Dibotermin Alfa</strong> currently has <strong>0 news articles</strong>, with 12 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,19 @@ This page combines the AI-predicted indications for Dibotermin Alfa with the lat
 <ul>
 <li><strong>Original indication</strong>: Inductos is indicated for single level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non operative...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
+<li><strong>Predicted indications (12)</strong>:<ul>
 <li>tibia fracture (50.0%)</li>
 <li>intervertebral disc degenerative disorder (50.0%)</li>
+<li>esotropia (100.0%)</li>
+<li>HER2 positive breast carcinoma (99.9%)</li>
+<li>normal breast-like subtype of breast carcinoma (99.8%)</li>
+<li>progesterone-receptor positive breast cancer (99.8%)</li>
+<li>breast tumor luminal A or B (99.8%)</li>
+<li>progesterone-receptor negative breast cancer (99.8%)</li>
+<li>non-syndromic esophageal malformation (99.5%)</li>
+<li>multifocal choroiditis (99.2%)</li>
+<li>atypical coarctation of aorta (99.2%)</li>
+<li>anemia of prematurity (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dibotermin-alfa/' | relative_url }}">View full drug report →</a></p>

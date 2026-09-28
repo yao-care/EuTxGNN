@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Expertos piden reforzar el seguimiento personalizado de la hiperpotasemia en pacientes con enfermedad renal crónica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
-
-2026-09-27 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3Z4SmtwVWcyMDlsVUMwUDlPUUdTQW5GbGNxTkI3MUk2aTBDMEQyUW5nbEtFS0M5bVVQTmVqeXI5R05ybDdsenF5bGxicWg1aVhQcVZiT09VMGk0UFk2M0VSMW42eTRjalVJempHU2VyS0ZLQ0t0WTVmOUd3WmUyTGVJU1hRQnRoeGZsWVVQNGNPanpIR09USmU5RHhkUGdHV09vT3pVcEtMN2NTY0xXNzlnY25NNHVobGg0cEpGdEszUFRMVDlsOFA0eFNJeF9yOW9wQzlzU204S2kz?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

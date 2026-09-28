@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,53 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Demenz: Diese Cholesterin-Senker könnten das Risiko überraschend deutlich reduzieren](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
+
+---
+
+### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span>
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
+
+---
+
+### [Aktuelle Diabetes-Kids Umfrage: Wie lange hat Euer Kind bereits Diabetes?](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUtHTnU0OVhUbW9aQWVycWJ5cFdPdW1OUTJ5UGNOd2lWbzdNN2xVOXlJVlhiNjNJZUphOWNwWldPNnBtcE91X1RtdDZqZmk2cjFDWExNeWozTlFqbkpzazAxWno5Q0twOGc1VFFGcFl6VDJsbDhGLWh1Xy1KdmhyM3RiX21mNHhmSWxCb2UwWTB6enRzT3JDU1phMjBzcFlQNmtIX0p6ekZMa2FYUncyWnpaSQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUtHTnU0OVhUbW9aQWVycWJ5cFdPdW1OUTJ5UGNOd2lWbzdNN2xVOXlJVlhiNjNJZUphOWNwWldPNnBtcE91X1RtdDZqZmk2cjFDWExNeWozTlFqbkpzazAxWno5Q0twOGc1VFFGcFl6VDJsbDhGLWh1Xy1KdmhyM3RiX21mNHhmSWxCb2UwWTB6enRzT3JDU1phMjBzcFlQNmtIX0p6ekZMa2FYUncyWnpaSQ?oc=5)
+
+---
+
+### [Uno zucchero presente nella carne rossa aumenta il rischio di diabete fino al 63%](https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdmbzNCTXNreld5S3Faa3EwU0ZwQkNkVGFKY0tMOGlUWjllOFA5TXA0SkVFbEkyejdLUjJFd2kwa2JFYW5ycWRnVm5OMzBJRk13Qll6U2x4TVpSUlExM2hyWHNjVnV5VzN6UGQzRXk4WDVaTUZReVBGbG1DcEk0TWdqdDhjWmxJTlQtLW9TdXRUUEl3UFhaOTljSERPV1JkTjVzRVdUV2txMHR3T1prYmlpLW9Ub0VSYnFMZzlweHV3VDdZWGpmNWpyTUR6STh0X3BJakw3NHVQdjBYMHVZamNtcjQxR09XY2VBam1oMHp5eHUwRV9RLXJpSVBEellFZldQVkVDWTJIMWdXTUNqd9IBmwJBVV95cUxNSXdpRkk1VkRhSGZ5MEZJRi1RSkFzU2pRSEVrdldwdmM3WXZaeEk2X1JFaVo0N2w4ZVlOc1hpU2VtTXJUeFFPQnYzcmlCVHh6X2FfUWhHVnI0VWZDRUxBaENNN2tGTk1wZFBELThIRmJNOW42YnZEaUEzd2MzWUxEQW5pdHFhUHpDQ1N2dk9EbVZkaW43R2Z0Mk9VYVhZN2pyZkhzOGhjd0FEamNDbWdGNGJ5VkhReEx5Mk1qb0NBRVlFSnQxUkZONk92RV80YzF1ams4a0pnVTVZNEJHWk1rT2thSzdqVVJxZEZXUEVvMTBtY0VEU3E1LWV4UDVOYjRBTEIwTFlrY2ZVQ2VqbE94czN0YTMwTFQ0RnA0?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabete</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdmbzNCTXNreld5S3Faa3EwU0ZwQkNkVGFKY0tMOGlUWjllOFA5TXA0SkVFbEkyejdLUjJFd2kwa2JFYW5ycWRnVm5OMzBJRk13Qll6U2x4TVpSUlExM2hyWHNjVnV5VzN6UGQzRXk4WDVaTUZReVBGbG1DcEk0TWdqdDhjWmxJTlQtLW9TdXRUUEl3UFhaOTljSERPV1JkTjVzRVdUV2txMHR3T1prYmlpLW9Ub0VSYnFMZzlweHV3VDdZWGpmNWpyTUR6STh0X3BJakw3NHVQdjBYMHVZamNtcjQxR09XY2VBam1oMHp5eHUwRV9RLXJpSVBEellFZldQVkVDWTJIMWdXTUNqd9IBmwJBVV95cUxNSXdpRkk1VkRhSGZ5MEZJRi1RSkFzU2pRSEVrdldwdmM3WXZaeEk2X1JFaVo0N2w4ZVlOc1hpU2VtTXJUeFFPQnYzcmlCVHh6X2FfUWhHVnI0VWZDRUxBaENNN2tGTk1wZFBELThIRmJNOW42YnZEaUEzd2MzWUxEQW5pdHFhUHpDQ1N2dk9EbVZkaW43R2Z0Mk9VYVhZN2pyZkhzOGhjd0FEamNDbWdGNGJ5VkhReEx5Mk1qb0NBRVlFSnQxUkZONk92RV80YzF1ams4a0pnVTVZNEJHWk1rT2thSzdqVVJxZEZXUEVvMTBtY0VEU3E1LWV4UDVOYjRBTEIwTFlrY2ZVQ2VqbE94czN0YTMwTFQ0RnA0?oc=5)
+
+---
+
+### [Pflegepersonal, Diabetes-Schulung und KI-Akzeptanz: 94 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
+
+---
 
 ### [Diabetes: Frühstück beeinflusst Blutzucker-Regulation im weiteren Tagesverlauf](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcVl4NmdtTU1kQ1BZenJFNUY0UlNuR05DSnZwclJadmxXUlBoTHFFQ1lNRGNwLXVLVC1lMkFWRmhGcEdMdl9zM2ExWG12enEwUVMwa1FtNWIxQzE5R2FxUE1aNGpKc09heEhsNmVVYXVkT1ZubGNXNDUya3RiTVU0MjhNdWNMelFGY0VIRFVGVC1fTVhKcDQxRXd6dk1vSEJfWGhuQkQ4NWdUeFUxV2Z5bHBERUZXTmN0VnduRnZNQlhzNExvbm5YQWZWMnFpZWxraEpxLVFkdw?oc=5)
 
 2026-09-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcVl4NmdtTU1kQ1BZenJFNUY0UlNuR05DSnZwclJadmxXUlBoTHFFQ1lNRGNwLXVLVC1lMkFWRmhGcEdMdl9zM2ExWG12enEwUVMwa1FtNWIxQzE5R2FxUE1aNGpKc09heEhsNmVVYXVkT1ZubGNXNDUya3RiTVU0MjhNdWNMelFGY0VIRFVGVC1fTVhKcDQxRXd6dk1vSEJfWGhuQkQ4NWdUeFUxV2Z5bHBERUZXTmN0VnduRnZNQlhzNExvbm5YQWZWMnFpZWxraEpxLVFkdw?oc=5)
-
----
-
-### [Diabete di tipo 2, dai batteri intestinali alla carne rossa: due nuovi indizi per anticiparlo - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2dxMWJFUFl5MGdpRUlyNk0wWVVHTlpzY3o1dnpCbU5sb19tTzJXcW5ZSG44MkRhdkZNaFZKQlpzTzJ6U3ZObEtwMl9oTDBGOTFiX3lPbTVweHRobklYNnc5VVIycUgyRm9jV1VHMEl3RjE1dy00T1VicklONzZFTm9XdFRQMEd1MFJsZ3ZkdkRndDJ1M1lwT2RldVAyQWxvSWY3MTFxeXZGN25nbW1taWpNLWM3ejg?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabete</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2dxMWJFUFl5MGdpRUlyNk0wWVVHTlpzY3o1dnpCbU5sb19tTzJXcW5ZSG44MkRhdkZNaFZKQlpzTzJ6U3ZObEtwMl9oTDBGOTFiX3lPbTVweHRobklYNnc5VVIycUgyRm9jV1VHMEl3RjE1dy00T1VicklONzZFTm9XdFRQMEd1MFJsZ3ZkdkRndDJ1M1lwT2RldVAyQWxvSWY3MTFxeXZGN25nbW1taWpNLWM3ejg?oc=5)
 
 ---
 
@@ -78,35 +110,19 @@ Source: [diabetes-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQ
 
 ---
 
-### [Typ-2-Diabetes lässt das Krebsrisiko steigen](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmlPZldjdU8xdkxhUlBQT0VOdngzUV84RTFXZGFDRjc0TG5nWDJTVUdfSnNIWFFNYzJzWXpvMDVLdTh4MHBqaGZnZ2RjbjFnWnVEcnVldW54WGcyUVhKQzcwaHJxeEdVVXJjZWwxNzk3eE1WYVNYSm1WRTZZMHN1bWF2VXV5dTVq?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Krebs</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmlPZldjdU8xdkxhUlBQT0VOdngzUV84RTFXZGFDRjc0TG5nWDJTVUdfSnNIWFFNYzJzWXpvMDVLdTh4MHBqaGZnZ2RjbjFnWnVEcnVldW54WGcyUVhKQzcwaHJxeEdVVXJjZWwxNzk3eE1WYVNYSm1WRTZZMHN1bWF2VXV5dTVq?oc=5)
-
----
-
-### [Does GLP-1 use result in significant hair loss? - The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
+### [Does GLP-1 use result in significant hair loss?](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
 
 2026-09-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Meta-Analyse mit 52 Studien prüft Psychotherapie - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZGFCUXE1Mml1RmdOLUtTQl9TVDh1OVB1RVU4dUNaVllnV0N6eEVGeW9kamM0VE9waG9obVg0MjVmOGYxVVVrY21qalhLekJRWEZnM29CazZDaWtFQVNMWnc5dVp4ZWxmcWk5aGdwQWFpU0NZMzYxS2NyNWdSMDRrQmlMVG1teWFJZS1raTc2Nk5melRQVUY1Y3hVaks4MDBWU3pEcG84NFRYWWFwQjFONA?oc=5)
+### ["I geni non sono destino", essere attivi e ridurre cibi ultraprocessati taglia rischio diabete](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
 
-2026-09-26 <span class="news-indication-tag">diabetes</span>
+2026-09-26 <span class="news-indication-tag">diabete</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSzBJZGFCUXE1Mml1RmdOLUtTQl9TVDh1OVB1RVU4dUNaVllnV0N6eEVGeW9kamM0VE9waG9obVg0MjVmOGYxVVVrY21qalhLekJRWEZnM29CazZDaWtFQVNMWnc5dVp4ZWxmcWk5aGdwQWFpU0NZMzYxS2NyNWdSMDRrQmlMVG1teWFJZS1raTc2Nk5melRQVUY1Y3hVaks4MDBWU3pEcG84NFRYWWFwQjFONA?oc=5)
-
----
-
-### [El desafío de Ozempic para bares y restaurantes: «El 49 % pide raciones más pequeñas y 3 de cada 10 beben menos» - El Debate](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXBsS1hET3BITzZLa1puSmQ3ZDd0cy10SzhaYjdFLUlBeWtCQXNDcGVHZEx6dVNtZ0Y4NnpISEJxMHB2eGxWYk9PWUI5NDA4VnBLNnJiWGZmblRUMWsxLVVoZ1V0dWhwdXNuSkk1MUNWaWU5RjNmenFCakN3SG9GNXYxRUdDQ2swZmtXWDdHdEUzRW1FeUhHWUd6OENuRC1ETkYzdm45ZUdmczRRY3hNQkdjVllBbUFNY3Q5TDlQNi1SUjI2UlF0bVpzWFBkeW01SHRj0gHYAUFVX3lxTE53aU9yd19YYXpCM1phZTg4V3FncVFtZmFZZl8tazBZLWd2dVE4aGtIRGREcUtrbk90TVB5YVVyU3RSRl9hemJVUmdnQWhTa1J1ZG5vM0VHLVZJYk12Z1ZtMlhOU19YMmJ4STlZLWpUdkZxcVFNLVB4WWZ0X2VBclh4bW1xWlFaVEsxbDZnZTlWcHFFTFJEeWpnUXJtTm5FZ3NVZzdhSWNTQ0l4ajN1NDdSZVA1ckJwcjIyUUpWQ3J6SElyUWhaR2pHZjNxZW1oVlhDY0xrRUNNYw?oc=5)
-
-2026-09-26 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-Source: [El Debate](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXBsS1hET3BITzZLa1puSmQ3ZDd0cy10SzhaYjdFLUlBeWtCQXNDcGVHZEx6dVNtZ0Y4NnpISEJxMHB2eGxWYk9PWUI5NDA4VnBLNnJiWGZmblRUMWsxLVVoZ1V0dWhwdXNuSkk1MUNWaWU5RjNmenFCakN3SG9GNXYxRUdDQ2swZmtXWDdHdEUzRW1FeUhHWUd6OENuRC1ETkYzdm45ZUdmczRRY3hNQkdjVllBbUFNY3Q5TDlQNi1SUjI2UlF0bVpzWFBkeW01SHRj0gHYAUFVX3lxTE53aU9yd19YYXpCM1phZTg4V3FncVFtZmFZZl8tazBZLWd2dVE4aGtIRGREcUtrbk90TVB5YVVyU3RSRl9hemJVUmdnQWhTa1J1ZG5vM0VHLVZJYk12Z1ZtMlhOU19YMmJ4STlZLWpUdkZxcVFNLVB4WWZ0X2VBclh4bW1xWlFaVEsxbDZnZTlWcHFFTFJEeWpnUXJtTm5FZ3NVZzdhSWNTQ0l4ajN1NDdSZVA1ckJwcjIyUUpWQ3J6SElyUWhaR2pHZjNxZW1oVlhDY0xrRUNNYw?oc=5)
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
 
 ---
 
@@ -118,19 +134,19 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hN
 
 ---
 
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 ---
 
-### [Prädiabetes erkennen und Diabetes Typ 2 frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+### [Typ-2-Diabetes bei jungen Erwachsenen: Armut und Migrationserfahrung spielen eine Rolle - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
 
-2026-09-21 <span class="news-indication-tag">diabetes</span>
+2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [idw-online.de](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TRmtfRmpBZ2FJTS0td3ZiV091WlVycUxpcU5uNUJtQTIxZGI2a0huZ1JaOTFmd21aN2d0SWhxaGNZdlJFNmxrQTJpRQ?oc=5)
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
 
 ---
 

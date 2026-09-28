@@ -3,7 +3,7 @@ layout: default
 title: "Levodopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levodopa. Original indication: Stalevo is indicated for the treatment of adult pa.... 14 predicted indications."
+description: "Health news related to Levodopa. Original indication: Stalevo is indicated for the treatment of adult pa.... 10 predicted indications."
 permalink: /news/levodopa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 14 predicted indications.
+<strong>Levodopa</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,41 +26,53 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <ul>
 <li><strong>Original indication</strong>: Stalevo is indicated for the treatment of adult patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa / dopa-decarboxylase (DDC)-inhibitor treatment.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (14)</strong>:<ul>
-<li>Rasmussen Subacute Encephalitis | 99.06% | L5 | **Hold** (99.0%)</li>
-<li>PLA2G6-Associated Neurodegeneration | 98.75% | L3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Myelitis | 98.47% | L4 | **Hold** (99.0%)</li>
-<li>Transaldolase Deficiency | 98.20% | L5 | **Hold** (99.0%)</li>
-<li>Paralysis Agitans, Juvenile (Hunt) | 98.03% | L3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Fructose-1,6-bisphosphatase Deficiency | 97.81% | L5 | **Hold** (99.0%)</li>
-<li>Progressive Supranuclear Palsy-CBS | 97.58% | L3 | **Research Question** (99.0%)</li>
-<li>Lewy Body Dementia | 97.25% | L3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Multiple System Atrophy, Parkinsonian Type | 97.02% | L3 | **Proceed with Guardrails** (99.0%)</li>
-<li>X-linked ID-Ataxia-Apraxia Syndrome | 96.46% | L4 | **Research Question** (99.0%)</li>
-<li>**Lewy Body Dementia** | L3 | Tier-1 systematic review + DLB Consortium guidelines support conditional motor use; active trials (99.0%)</li>
-<li>**MSA, Parkinsonian Type** | L3 | Direct case evidence (2024); active Phase 1/2 CARBIDOH trial; ~30% initial response rate in n=100 cohort (99.0%)</li>
-<li>**PLA2G6-Associated Neurodegeneration** | L3 | Retrospective cohort + multiple case series; direct mechanistic link via nigrostriatal degeneration (99.0%)</li>
-<li>**Paralysis Agitans, Juvenile (Hunt)** | L3 | Juvenile-onset PD: direct levodopa indication; highest dyskinesia risk requires special monitoring (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Rasmussen subacute encephalitis (99.1%)</li>
+<li>PLA2G6-associated neurodegeneration (98.8%)</li>
+<li>myelitis (98.5%)</li>
+<li>transaldolase deficiency (98.2%)</li>
+<li>paralysis agitans, juvenile, of Hunt (98.0%)</li>
+<li>fructose-1,6-bisphosphatase deficiency (97.8%)</li>
+<li>progressive supranuclear palsy-corticobasal syndrome (97.6%)</li>
+<li>Lewy body dementia (97.2%)</li>
+<li>multiple system atrophy, parkinsonian type (97.0%)</li>
+<li>X-linked intellectual disability-ataxia-apraxia syndrome (96.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+
+2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+
+---
 
 ### [The sleep red flags that put you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
 
-2026-09-28 <span class="news-indication-tag">Alzheimer's</span>
+2026-09-28 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
 
 ---
 
-### ['I was angry at my husband - I didn't know he had dementia'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 2026-09-27 <span class="news-indication-tag">dementia</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFdTS3BMbkcza2xELV9hXzBUR1cxRnhQSFltVlUzQlQyRjg5QlJseW52bjRTYkNyeVNmNWRTR3pFaUVrYjNka1ZPbi1qb1NGVVpJR0pHMHloNWc?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+---
+
+### [Maladie d'Alzheimer : qu'est-ce que l'existence du dépistage par prise de sang change au diagnostic](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
+
+2026-09-27 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
 
 ---
 
@@ -68,7 +80,7 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xYW1HTFd
 
 2026-09-25 <span class="news-indication-tag">dementia</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
 
 ---
 

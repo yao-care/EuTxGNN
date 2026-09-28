@@ -3,7 +3,7 @@ layout: default
 title: "Capsaicin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Capsaicin. Original indication: Qutenza is indicated for the treatment of peripher.... 2 predicted indications."
+description: "Health news related to Capsaicin. Original indication: Qutenza is indicated for the treatment of peripher.... 10 predicted indications."
 permalink: /news/capsaicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Capsaicin?">
-<strong>Capsaicin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Capsaicin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,39 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 <ul>
 <li><strong>Original indication</strong>: Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicinal products for pain.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Post-bacterial disorder | L4 | [NCT06807164](https://clinicaltrials.gov/study/NCT06807164) (Phase 2, n=123, Recruiting) | Three-arm RCT directly comparing capsaicin vs. Serratus Plane Block vs. Botox-A for chronic post-mastectomy neuropathic pain; TRPV1 desensitization mechanism is directly applicable (99.0%)</li>
-<li>Post-infectious syndrome | L4 | 3 observational trials + 4 mechanism papers | TRPV1 sensitization in post-infectious IBS documented in clinical cohort (PMID 29051514); TRPV1-resolvin interaction supports desensitization strategy (PMID 33023902) (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>otitis externa (98.8%)</li>
+<li>post-bacterial disorder (98.7%)</li>
+<li>postinfectious vasculitis (98.7%)</li>
+<li>infective urethral stricture (98.7%)</li>
+<li>post-infectious syndrome (98.7%)</li>
+<li>Chagas cardiomyopathy (98.6%)</li>
+<li>papillary conjunctivitis (98.6%)</li>
+<li>infection-related hemolytic uremic syndrome (98.5%)</li>
+<li>tinea corporis (98.1%)</li>
+<li>rosacea conjunctivitis (96.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+2026-09-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+---
+
+### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+2026-09-26 <span class="news-indication-tag">heart disease</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+
+---
 
 
 <div class="disclaimer">

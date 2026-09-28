@@ -27,16 +27,16 @@ This page combines the AI-predicted indications for Brolucizumab with the latest
 <li><strong>Original indication</strong>: Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Mitochondrial oxidative phosphorylation disorder (nuclear DNA) | 99.67% | Extremely low — no known VEGF role in mitochondrial respiratory chain | ✗ (99.0%)</li>
-<li>Esophageal varices without bleeding | 99.12% | Low — systemic anti-VEGF rationale theoretically exists, but intravitreal route cannot reach portal vasculature | ✗ (99.0%)</li>
-<li>Esophageal varices with bleeding | 99.12% | Low — same as above; acute hemorrhage context makes this additionally unsafe | ✗ (99.0%)</li>
-<li>Exocrine pancreatic insufficiency | 99.07% | None — VEGF-A has no established role in exocrine enzyme secretion | ✗ (99.0%)</li>
-<li>MRCS syndrome | 98.54% | Very low — retinal component present, but atrophic rather than neovascular; no VEGF driver | Partial (99.0%)</li>
-<li>Pigmented paravenous retinochoroidal atrophy (PPRA) | 98.33% | Low-moderate — same ocular tissue and delivery route; VEGF overexpression not established in PPRA | ✓ (99.0%)</li>
-<li>Familial flecked retinopathy | 97.90% | Low — genetic/degenerative photoreceptor disease (e.g., ABCA4 mutations), not neovascular | ✓ (99.0%)</li>
-<li>Ectopia lentis-chorioretinal dystrophy-myopia syndrome | 97.82% | Moderate if choroidal neovascularization (CNV) is present — myopic CNV is an established anti-VEGF target | ✓ (99.0%)</li>
-<li>Retinal dystrophy in systemic or cerebroretinal lipidoses | 97.73% | Very low — lysosomal storage disorder; retinal degeneration is secondary and VEGF-independent | ✓ (99.0%)</li>
-<li>Senile reticular retinal degeneration | 97.71% | Moderate — AMD-related phenotype (reticular pseudodrusen); closest to the approved indication; however, if purely dry-form, anti-VEGF benefit is unproven | ✓ (99.0%)</li>
+<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.7%)</li>
+<li>esophageal varices without bleeding (99.1%)</li>
+<li>esophageal varices with bleeding (99.1%)</li>
+<li>exocrine pancreatic insufficiency (99.1%)</li>
+<li>MRCS syndrome (98.5%)</li>
+<li>pigmented paravenous retinochoroidal atrophy (98.3%)</li>
+<li>familial flecked retinopathy (97.9%)</li>
+<li>ectopia lentis-chorioretinal dystrophy-myopia syndrome (97.8%)</li>
+<li>retinal dystrophy in systemic or cerebroretinal lipidoses (97.7%)</li>
+<li>senile reticular retinal degeneration (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brolucizumab/' | relative_url }}">View full drug report →</a></p>

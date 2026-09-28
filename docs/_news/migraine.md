@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Migräne (migraine) News"
+title: "emicrania (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Migräne (migraine). 2 articles, 49 related drugs."
+description: "Health news about emicrania (migraine). 3 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# Migräne (migraine) News
+# emicrania (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Migräne (migraine)?">
-<strong>Migräne (migraine)</strong> currently has <strong>2 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about emicrania (migraine)?">
+<strong>emicrania (migraine)</strong> currently has <strong>3 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Migräne” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “emicrania” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ This page brings together the latest health news about “Migräne” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
+
+2026-09-27
+
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
+
+---
 
 ### [Frauen mit großen Brüsten leiden häufiger an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUmFRWldyVUFqczFVc1JaVFFOaXI3OTB2cWYxTjBScFJPSy1zM2VHU3l4OThzZUlXZkc4eFJ4djd4a3UxWEFGOE13SlByRGVQN1J3VnZZYlc2YWFKejNQVUF2dl9TczZDczJDc2UzV1plNzB2dDRGeC1JZUtxV3NTSXdJYkRqOEpqT2NXWk9IN3otdmQ3Tk5uVHVwVW1OWjBXMWR0QzJ0c0p0eHZxd2JsVjZvUjZIdk9MZVJnb0prZWNmQmhoZVVMVF9qb0lScUkyam1WbXdPOVl5d0E?oc=5)
 
@@ -91,7 +99,7 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUm
 
 2026-09-23
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
 
 ---
 

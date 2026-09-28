@@ -14,7 +14,7 @@ permalink: /news/anakinra/
 ---
 
 <p class="key-answer" data-question="What news is there about Anakinra?">
-<strong>Anakinra</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Anakinra</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,38 +27,24 @@ This page combines the AI-predicted indications for Anakinra with the latest hea
 <li><strong>Original indication</strong>: Rheumatoid Arthritis (RA) Kineret is indicated in adults for the treatment of the signs and symptoms of RA in combination with methotrexate, with an inadequate response to methotrexate alone....</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Extracutaneous mastocytoma | 99.93% | L5 | 0 | 0 | Hold (99.0%)</li>
-<li>Hepatic infarction | 99.89% | L5 | 0 | 0 | Hold (99.0%)</li>
-<li>Autosomal recessive familial Mediterranean fever | 99.89% | **L3** | 0 | **20** | Research Question (99.0%)</li>
-<li>Aggressive systemic mastocytosis | 99.88% | L4 | 0 | 2 | Research Question (99.0%)</li>
-<li>Hepatic veno-occlusive disease | 99.88% | L5 | 0 | 0 | Hold (99.0%)</li>
-<li>Peliosis hepatis | 99.85% | L5 | 0 | 0 | Hold (99.0%)</li>
-<li>Oligoarticular JIA with ANA | 99.85% | L4 | 0 | 1 | Research Question (99.0%)</li>
-<li>Oligoarticular JIA without ANA | 99.85% | L4 | 0 | 1 | Research Question (99.0%)</li>
-<li>Pyogenic autoinflammatory syndrome | 99.83% | **L3** | 0 | **19** | **Proceed with Guardrails** (99.0%)</li>
-<li>Unclassified autoinflammatory syndrome | 99.81% | **L3** | 0 | **2** | Research Question (99.0%)</li>
+<li>extracutaneous mastocytoma (99.9%)</li>
+<li>hepatic infarction (99.9%)</li>
+<li>autosomal recessive familial Mediterranean fever (99.9%)</li>
+<li>aggressive systemic mastocytosis (99.9%)</li>
+<li>hepatic veno-occlusive disease (99.9%)</li>
+<li>peliosis hepatis (99.8%)</li>
+<li>oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies (99.8%)</li>
+<li>oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies (99.8%)</li>
+<li>pyogenic autoinflammatory syndrome (99.8%)</li>
+<li>unclassified autoinflammatory syndrome (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">arthritis</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
----
-
-### [Omega-3: Mediziner empfiehlt diese Kapseln – „Heute ist mein Index optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">arthritis</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

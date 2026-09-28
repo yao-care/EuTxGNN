@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Duloxetine. Original indication: Treatment of major depressive disorder. Treatment .... 1 predicted indications."
+description: "Health news related to Duloxetine. Original indication: Treatment of major depressive disorder. Treatment .... 11 predicted indications."
 permalink: /news/duloxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine?">
-<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,18 @@ This page combines the AI-predicted indications for Duloxetine with the latest h
 <ul>
 <li><strong>Original indication</strong>: Treatment of major depressive disorder. Treatment of diabetic peripheral neuropathic pain. Treatment of generalised anxiety disorder. Cymbalta is indicated in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
+<li><strong>Predicted indications (11)</strong>:<ul>
 <li>female stress incontinence (50.0%)</li>
+<li>benign paroxysmal torticollis of infancy (99.8%)</li>
+<li>agoraphobia (99.8%)</li>
+<li>obsessive-compulsive disorder (99.8%)</li>
+<li>schizotypal personality disorder (99.8%)</li>
+<li>histrionic personality disorder (disease) (99.8%)</li>
+<li>schizoid personality disorder (99.8%)</li>
+<li>paranoid personality disorder (99.8%)</li>
+<li>Ohdo syndrome and variants (99.7%)</li>
+<li>ligneous conjunctivitis (99.7%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">View full drug report →</a></p>

@@ -14,7 +14,7 @@ permalink: /news/infliximab/
 ---
 
 <p class="key-answer" data-question="What news is there about Infliximab?">
-<strong>Infliximab</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Infliximab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,38 +27,24 @@ This page combines the AI-predicted indications for Infliximab with the latest h
 <li><strong>Original indication</strong>: Treatment of rheumatoid arthritis, Crohn’s disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 90.22% | L5 | S0 | **Hold** — no mechanistic link, model artifact (99.0%)</li>
-<li>Brachydactyly-syndactyly syndrome | 89.88% | L5 | S0 | **Hold** — model artifact (99.0%)</li>
-<li>Rheumatoid vasculitis | 85.32% | L3 | S1 | Research Question — conflicting signal (treats vs. induces) (99.0%)</li>
-<li>Hypermobility of coccyx | 82.49% | L5 | S0 | **Hold** — model artifact (99.0%)</li>
-<li>Anus disease (perianal Crohn's) | 81.21% | L2 | S3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Kummell disease | 81.15% | L5 | S0 | **Hold** — model artifact (99.0%)</li>
-<li>Inflammatory spondylopathy | 80.92% | L1 | S3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Polyarticular juvenile rheumatoid arthritis | 80.14% | L1 | S3 | **Proceed with Guardrails** (99.0%)</li>
-<li>Bronchitis | 77.87% | L4 | S0 | **Hold** — evidence shows adverse pulmonary events, not efficacy (99.0%)</li>
-<li>Crohn disease of the esophagus | 77.58% | L3 | S2 | Research Question (99.0%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (90.2%)</li>
+<li>brachydactyly-syndactyly syndrome (89.9%)</li>
+<li>rheumatoid vasculitis (85.3%)</li>
+<li>hypermobility of coccyx (82.5%)</li>
+<li>anus disease (81.2%)</li>
+<li>Kummell disease (81.2%)</li>
+<li>inflammatory spondylopathy (80.9%)</li>
+<li>polyarticular juvenile rheumatoid arthritis (80.1%)</li>
+<li>bronchitis (77.9%)</li>
+<li>Crohn disease of the esophagus (77.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/infliximab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Rheumatoide Arthritis: Diese TCM-Präparate wirken nachweisbar](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">arthritis</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmxtMkF2eXdvRGVXb05mYm5KV0VlTS1uQmUwVUtOYVNvT294cTdUR0xfcFVBQXpJWmQ2NXV1X1NoNnJWdXhGZTRDeFg4WTlkU0ZpSWJobElTMHk0TzNzWXd4NnRwV2VsNlZDMHBweDBrcGlWUktDN3hYejVRT1ZvTXBibXJsX3o5SHZCZG9laGJsYXY2NjhULW1JTmtCai1LcXdYQmlSZUo4WXNvdXpPVDZ2VFBzYnlLa1drLXZBZw?oc=5)
-
----
-
-### [Omega-3: Mediziner empfiehlt diese Kapseln – „Heute ist mein Index optimal“ - Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
-2026-09-25 <span class="news-indication-tag">arthritis</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxOR29oMHVhTldnYXJXdzlwWEN6MkNyaXdMNHNsVl9vSXlMaldmY0pLSEFBa2N0emFpaHYtWE84WG1xdmVucV9tajFqcmlkY2EyaE1kekl6X3hqRFUtNzhDTWVrNUFoa1ZkdlFUN0FubGJRc3RxeUg1RmZFY1ZsUndsWXRiV3JBb1g2eldqZENUaE4wSi0taF9aTFl4NjNSam1BVkFNR1VidXpYWTg1VTJCVTg1cU0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

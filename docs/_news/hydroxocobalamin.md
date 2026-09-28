@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Hydroxocobalamin. Original indication: Treatment of known or suspected cyanide poisoning..... 9 predicted indications."
+description: "Health news related to Hydroxocobalamin. Original indication: Treatment of known or suspected cyanide poisoning..... 10 predicted indications."
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroxocobalamin/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxocobalamin?">
-<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,16 +26,17 @@ This page combines the AI-predicted indications for Hydroxocobalamin with the la
 <ul>
 <li><strong>Original indication</strong>: Treatment of known or suspected cyanide poisoning. Cyanokit is to be administered together with appropriate decontamination and supportive measures.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Esophageal varices with bleeding | 99.23% | L5 | S0 | Hold (99.0%)</li>
-<li>Esophageal varices without bleeding | 99.23% | L5 | S0 | Hold (99.0%)</li>
-<li>Varicose disease | 98.89% | L5 | S0 | Hold (99.0%)</li>
-<li>Immune-mediated necrotizing myopathy | 98.69% | L5 | S0 | Hold (99.0%)</li>
-<li>Antisynthetase syndrome | 98.64% | L5 | S0 | Hold (99.0%)</li>
-<li>Focal myositis | 98.56% | L5 | S0 | Hold (99.0%)</li>
-<li>Inflammatory myopathy with abundant macrophages | 98.46% | L5 | S0 | Hold (99.0%)</li>
-<li>Idiopathic eosinophilic myositis | 98.46% | L5 | S0 | Hold (99.0%)</li>
-<li>Congenital prothrombin deficiency | 98.32% | L5 | S0 | Hold (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>esophageal varices with bleeding (99.2%)</li>
+<li>esophageal varices without bleeding (99.2%)</li>
+<li>varicose disease (98.9%)</li>
+<li>immune-mediated necrotizing myopathy (98.7%)</li>
+<li>antisynthetase syndrome (98.6%)</li>
+<li>focal myositis (98.6%)</li>
+<li>inflammatory myopathy with abundant macrophages (98.5%)</li>
+<li>idiopathic eosinophilic myositis (98.5%)</li>
+<li>vitamin deficiency disorder (98.4%)</li>
+<li>congenital prothrombin deficiency (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxocobalamin/' | relative_url }}">View full drug report →</a></p>

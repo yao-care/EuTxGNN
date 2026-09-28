@@ -54,19 +54,51 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (11)
 
-### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGltck04SDhjZnpYcGRlcV9UenZMT3dYRWtnajFkX28yNmNjbkdoMHdqeHE0aVdTbW10VGNBNlBNcWhBd0ktMG5sT0hvQVVpTWh4LTZ0c2pFMkwxRzlzRmZOZzZwZ1dxZjRNSTNnR2VjTTgzcURXLVFFd0RxbWF6SFJONlRUMWtELXdUOWVNVFVYdjlLZDFNazJyZ21CU0ZDenNYSjBNOUt3TENUeExMbXVwVEV2UUdYOWN0MVM1THBJdm9YeVB5cnVPNmtRVXptRU5aSWR1S2tKLXZ6NDdjTFN3Y0VLUW1y?oc=5)
+### [Schlaflosigkeit lässt Zellen schneller altern – doch eine Therapie kann das offenbar umkehren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVpVUDE5SlUxMmVwelFsVV9jek9iazZDY1JOQnl6S000OWJITTVqbXhRNm1POElVcFNSSEZGTUJDRGh3QXVpMW13VTl4Q0NHSkxmZmRnTE5MNHE0OUltNS1RdElSejZVZlFySGpPNkx6MHJqNXlTRHU3ZW0ydy13bV9KRThwU0tqSWk2cldWVlQ3VkwyTWZYVnI4LXowcXNjMTExczg5NlNPcUFkV2U0?oc=5)
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGltck04SDhjZnpYcGRlcV9UenZMT3dYRWtnajFkX28yNmNjbkdoMHdqeHE0aVdTbW10VGNBNlBNcWhBd0ktMG5sT0hvQVVpTWh4LTZ0c2pFMkwxRzlzRmZOZzZwZ1dxZjRNSTNnR2VjTTgzcURXLVFFd0RxbWF6SFJONlRUMWtELXdUOWVNVFVYdjlLZDFNazJyZ21CU0ZDenNYSjBNOUt3TENUeExMbXVwVEV2UUdYOWN0MVM1THBJdm9YeVB5cnVPNmtRVXptRU5aSWR1S2tKLXZ6NDdjTFN3Y0VLUW1y?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVpVUDE5SlUxMmVwelFsVV9jek9iazZDY1JOQnl6S000OWJITTVqbXhRNm1POElVcFNSSEZGTUJDRGh3QXVpMW13VTl4Q0NHSkxmZmRnTE5MNHE0OUltNS1RdElSejZVZlFySGpPNkx6MHJqNXlTRHU3ZW0ydy13bV9KRThwU0tqSWk2cldWVlQ3VkwyTWZYVnI4LXowcXNjMTExczg5NlNPcUFkV2U0?oc=5)
 
 ---
 
-### [Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+
+2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+
+---
+
+### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+
+2026-09-28 <span class="news-indication-tag">ictus</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+
+---
+
+### [Fegato grasso, ce l’ha un bambino su tre con sovrappeso e spesso non dà sintomi](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmF3bmtvOWR1QTRqdzN6VTUxWWtJNGJacW1ZX2paeTBwamNuYXQ0TUd4TklFazRUTzFXY3Vza3ZZdjNrRHM5Z2R1aUY4Q3RxX2JWek9SMENHd2tCOG1qWjNJN0QxNl9MRTl3RkJfV3pidTN0WmlFS3U1amU1NlhUUi1XamhocnVuVmVfMXVUaG51UWNKWENrUXROekpQYllzeHVxaE8xaExOQWhSYW1sd1BESTR1MWd1Qk5ZMXlXbFZtdFV1NWJj?oc=5)
+
+2026-09-28 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmF3bmtvOWR1QTRqdzN6VTUxWWtJNGJacW1ZX2paeTBwamNuYXQ0TUd4TklFazRUTzFXY3Vza3ZZdjNrRHM5Z2R1aUY4Q3RxX2JWek9SMENHd2tCOG1qWjNJN0QxNl9MRTl3RkJfV3pidTN0WmlFS3U1amU1NlhUUi1XamhocnVuVmVfMXVUaG51UWNKWENrUXROekpQYllzeHVxaE8xaExOQWhSYW1sd1BESTR1MWd1Qk5ZMXlXbFZtdFV1NWJj?oc=5)
+
+---
+
+### [Las farmacias comunitarias españolas se suman a la I Semana Europea del Cribado promovida por la Comisión Europea](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYkE0RkJPVmVJTmhhRkVPdndVSHpROFp6MW4xb0RFcVU0eFRtN1c5dG9haHdQQjlVTHlOWFBzaUF3TlFjX2VPb05hVTVycHdpLWp2cDVHem1OblhkWk1FM2lPc0VGN3ZZZGRITnVEd29nZUNHQkk2cEUwQlV1MUlTTC1PSmtWenlsWXdWRHdmcThwVEJ3RG52ajU5c2FzUTNrVEx6MFJlR2RxczhWWWFacWdyN3FfSjJ5aURrVDV5M09EQ3cxTFpEeWkwbEN1OU1fYmFmLXRzNmIwZUR0dmVxWEJXcGxNX2wyTzM2UXhR?oc=5)
 
 2026-09-28 <span class="news-indication-tag">obesidad</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYkE0RkJPVmVJTmhhRkVPdndVSHpROFp6MW4xb0RFcVU0eFRtN1c5dG9haHdQQjlVTHlOWFBzaUF3TlFjX2VPb05hVTVycHdpLWp2cDVHem1OblhkWk1FM2lPc0VGN3ZZZGRITnVEd29nZUNHQkk2cEUwQlV1MUlTTC1PSmtWenlsWXdWRHdmcThwVEJ3RG52ajU5c2FzUTNrVEx6MFJlR2RxczhWWWFacWdyN3FfSjJ5aURrVDV5M09EQ3cxTFpEeWkwbEN1OU1fYmFmLXRzNmIwZUR0dmVxWEJXcGxNX2wyTzM2UXhR?oc=5)
+
+---
+
+### [Infosalus.- Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWhTRjdhbkpNRUgyb2lfY1JlTFN6T2tYZWtZT3JGVzlzWV95Yl8zQktMRGgyMElZdGd5cEs0ZWFVRU5ldG90NFFqMG1VZ1BITGpreERBZ3VUR0xhdThFOXJNQ1Z5YmxOQ210dE1sN21LaDB0UHdiRXVTMGdBeXhYUDlWOEZHcEROOG5sdFJlUmVnbnE0SXJWS2c5QllPcjc0c0JwU3FsR2t4ZzdNZWFoNng4YTZVNGJDMjRaQncyUHNscEtYY1l6X3lGNlZ4cy13aFBJQTNGdjdZQTBpd1NR?oc=5)
+
+2026-09-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+Source: [notimerica.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWhTRjdhbkpNRUgyb2lfY1JlTFN6T2tYZWtZT3JGVzlzWV95Yl8zQktMRGgyMElZdGd5cEs0ZWFVRU5ldG90NFFqMG1VZ1BITGpreERBZ3VUR0xhdThFOXJNQ1Z5YmxOQ210dE1sN21LaDB0UHdiRXVTMGdBeXhYUDlWOEZHcEROOG5sdFJlUmVnbnE0SXJWS2c5QllPcjc0c0JwU3FsR2t4ZzdNZWFoNng4YTZVNGJDMjRaQncyUHNscEtYY1l6X3lGNlZ4cy13aFBJQTNGdjdZQTBpd1NR?oc=5)
 
 ---
 
@@ -78,27 +110,11 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxO
 
 ---
 
-### [El estrés, ¿otra causa de la obesidad?: "Nos preguntamos si realmente se trata solo de la comida o si hay algo más"](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
+### [Plus de 40% des contraceptifs combinés sont contre-indiqués pour les femmes qui cumulent des facteurs de risque cardiovasculaire](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
 
-2026-09-27 <span class="news-indication-tag">obesidad</span>
+2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjdNbTRnT3U4aUJRNHJ1eklfTFhkV3Q3VTNHWnpFMDF1WEZHakM4dG5CTXVkY1JnM0YtbldSVW5nX3ROSVJTRzZrNmwya0JkbllNNGRTSm9ZS3NEbEZxTjhTR1hOVHRJSF9aQ0pZaVh6aEtyUG5Rb3dELUx4bG5JdkY1akVlY05vQ0kwR0EzRXgwa0o2cS14dHMyZEZYSFpqYXU1WnoxWERMREY1OFJRMk1OOGpfZFRldW1ndlZWOTlFMkdXZW9MdDR2YWJKdmhyc2tNdVpkS3hGVHN1?oc=5)
-
----
-
-### [Il TIA dura pochi minuti. Il rischio per la memoria può restare alto per vent’anni](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
-
-2026-09-26 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVU1iRXJ2M0tQdGdVeUd0U05NclhnQ1pjYnp2dnJFcTU3Qmk4OVR5Z05xVTdjQl9MSXl2ampKRkwzSWJEU2dvdDhubTJ4bmZ2U0pZSjVjZGhnVXFxSFd6TWZtcTBpS1VzSDRmYUlra0RjX3dXLU1GT1NDZm5qYUlBeXlBTndBNkRPaThrdHVqX09zaVItazNFbHpqSUJTUFpiRVRnQkJoVDEtS2JOOGpvSjE2WWlFZ0ctc09kcU56QmxxTzhLM1hrWjl3ZWN5T0RGQVItbzl0Zw?oc=5)
-
----
-
-### [What your pins and needles really mean - from deadly stroke to vit deficiency - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
-
-2026-09-26 <span class="news-indication-tag">stroke</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPX1Q5ZVB4VV9Lc2tWQ1N0VjFHSkxBcXJXRF9Tdkd2bEhmTTJpVDhKdzlrZnE3dE9CS2VuOXcyOHhuT1lhd0w1M0doLUZjdExCamdCTkVRV1FDbU9raVgzbWFVaV9maURNNy1NODhFdjhXdWpYMmtoLVE2MXVtQTdVV08zUFdKM0xwOXc?oc=5)
+Source: [franceinfo.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
 
 ---
 
@@ -110,19 +126,11 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 
 ---
 
-### [Stroke Among Younger Adults In US Has Nearly Doubled Over 30 Years, Study Reveals](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnRQZmdnVHNlSTJiaVMycnVoWW5GbEwwZjJpYWRjRFdtWll5Tmh0cUNWcUYtLXhNRnNjbHNHWGkyTE91b2pNLS1DTVV1Vml3UktlTFlmU0F2QWdkQ3hEdWV1bjd3bVVLaDEyQTRPczBNMkZEUzNSdjRKMVVUVjFRVHlfZDJwYVJfZDkwbmhfZDh3ZGl1WW5DM3RRekVhUVZBd1UwelZtSnBpRkc1Y0dsQ1BwNlFqR2ZWdXJrcXRRal96OTlaMDZpZkNMUHBJNC1UNGxQUmlDUkxTVVdfWlV5clZOTmc?oc=5)
-
-2026-09-24 <span class="news-indication-tag">stroke</span>
-
-Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWnRQZmdnVHNlSTJiaVMycnVoWW5GbEwwZjJpYWRjRFdtWll5Tmh0cUNWcUYtLXhNRnNjbHNHWGkyTE91b2pNLS1DTVV1Vml3UktlTFlmU0F2QWdkQ3hEdWV1bjd3bVVLaDEyQTRPczBNMkZEUzNSdjRKMVVUVjFRVHlfZDJwYVJfZDkwbmhfZDh3ZGl1WW5DM3RRekVhUVZBd1UwelZtSnBpRkc1Y0dsQ1BwNlFqR2ZWdXJrcXRRal96OTlaMDZpZkNMUHBJNC1UNGxQUmlDUkxTVVdfWlV5clZOTmc?oc=5)
-
----
-
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
+Source: [sante.journaldesfemmes.fr](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 ---
 
@@ -131,14 +139,6 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wF
 2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
-
----
-
-### [Lipoprotein(a)-Senkung in Phase-III-Studie ohne klinischen Effekt](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
-
-2026-09-21 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2JoNTdIM3ZKTS1kRWMzVXBIZ2poYUNUY1JQRy1hWWl4dENSZkJ2U05jSE9LWlhvczBjMDlGQ3pyYWhhZVYwTHNpeWJBNnpDSW45bVpLdVNObTBFYkhSMDF2VWh5RFNLZTZmUU9LelBUQTk3TFhmbG90Rm5FcC1aSmJNZTZIaVNOQ2VRMHhtemdNMlRYbG0tYmcxNGM2NjBfalVQTkV2RTNld0RZRFdLNER3?oc=5)
 
 ---
 
