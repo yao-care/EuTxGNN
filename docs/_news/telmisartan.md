@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,45 +52,53 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (13)
 
-### [El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWEwTGN4bTFjb24xVF9yXzNJa0l4S3RaREsxaFV3WGVOUWNRMGVMTTlSVHhNZ0VSMmM0Ui0xNkd0QTg4NDdEVnpCal9YQUlITk5XUTZZUUpIWTRHUC1HQmFNVm5HOWVzT3dCOEN1LVhrOThmVHQ2RHh0bzNEVFhXVEhQbmd1ejdNbWh5Z2FFTkRkdXBMaWQ3MWVJM3ZMYWRFYldsQ2ZQbUVnZEoxb2NZUkhidmZNckx0aW1zMjJFdU5UY0dfVU1kQjVpMkxmTWJ1VU43R0x3VDNENVk5R1FCUHNUcFhlR1N6RF9jSXdEYw?oc=5)
+### [Schlaganfälle treffen immer häufiger diese Altersgruppe](https://news.google.com/rss/articles/CBMixAFBVV95cUxQaTFPRmZUZURDbGNtMVNDZ0d0c1hLbzEyRVMzbGRyZHFmb1JNck5xVTMzMFp4Y19sUnlsSDFTWHp5MlFxd3dvZ2VlcS1PeHJsMHJWY05OM0pXRmxuX0NRVHd6cmdIY3FENFVTeG4zQzRxZmszdmpSLUVGT2pia1JpbU0wNkJxZThsZzFCVzBnUmY1U1g2T3I1cjJybFZFTnRYbFFtSVFkMTZSNUlkQkVTeWlYUjVBVjZFZjI3MF9mdnNDOEN2?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-09-29 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [infosalus.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWEwTGN4bTFjb24xVF9yXzNJa0l4S3RaREsxaFV3WGVOUWNRMGVMTTlSVHhNZ0VSMmM0Ui0xNkd0QTg4NDdEVnpCal9YQUlITk5XUTZZUUpIWTRHUC1HQmFNVm5HOWVzT3dCOEN1LVhrOThmVHQ2RHh0bzNEVFhXVEhQbmd1ejdNbWh5Z2FFTkRkdXBMaWQ3MWVJM3ZMYWRFYldsQ2ZQbUVnZEoxb2NZUkhidmZNckx0aW1zMjJFdU5UY0dfVU1kQjVpMkxmTWJ1VU43R0x3VDNENVk5R1FCUHNUcFhlR1N6RF9jSXdEYw?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQaTFPRmZUZURDbGNtMVNDZ0d0c1hLbzEyRVMzbGRyZHFmb1JNck5xVTMzMFp4Y19sUnlsSDFTWHp5MlFxd3dvZ2VlcS1PeHJsMHJWY05OM0pXRmxuX0NRVHd6cmdIY3FENFVTeG4zQzRxZmszdmpSLUVGT2pia1JpbU0wNkJxZThsZzFCVzBnUmY1U1g2T3I1cjJybFZFTnRYbFFtSVFkMTZSNUlkQkVTeWlYUjVBVjZFZjI3MF9mdnNDOEN2?oc=5)
 
 ---
 
-### [El Gobierno de La Rioja aborda la prevención de infartos e ictus en el entorno laboral con motivo del Día Mundial del Corazón - Actualidad / Gobierno de La Rioja](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTc2RTJMNG9pN2NtbEJtbDFuX3R1UUlUUXROWmhCbFJEME92ODdvUWMyZWY5X1UyMkRtbDM2U1RKU3ZKdlNueGtmbmtnZDJVRndsa0RnLWlVb3FTS3J4VEhBV2x6RFZpbjBfaTJXRjZkTnVZUVp6Y09SQ2NuUFdMRFk1TVA1dlZlU2lQY0xIdTRxaUs3V0ktM3JrSE4zaTlzMWxCUlVvVTRaeDBON1h4aElPQWRGaW05RmdKNHZPWUNSRXVDNExQQTB0WlN3QkJ3VDc5YWtB?oc=5)
+### [Dorset boy, aged 6, among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+
+2026-09-29 <span class="news-indication-tag">stroke</span>
+
+Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+
+---
+
+### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+
+---
+
+### [La Rioja suma siete infartos e ictus en el trabajo en lo que va de año, dos de ellos mortales](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlpEbXRCaE1PMnNMZ0J6T1FBWnZidDdlOE0zd0hRRHBsTEhrSlBHdENCT1BhTWpUa1BoeVFOVkU3NjMtMGY1X0k0bk5DaFZaOThzNWN1dEtkME5DVUl4RXA1dnlmNHh1eUd4ZkZ1aDhkMlc2V245VmxfUDZzeUk3WXI5WTFFcnAtXzM4b0gxT1hFdm9iUUtkZ2JKNEdnd3AtQVVJT0RR0gGrAUFVX3lxTE91QkpsaTBSRjNjNmt3LVZfR2pEREh0SXVLYkpncEhXY2JOWTZkNW1wd2JlZV9HbWtkS0Q2V2pDUUIyaU9aYm5ETURvWnV0eURtQjVDckZYaDBSZmlGdGtUUW1hNnFwejNCVFh0UWd0WHVLWW94cFd6MFlULVRWYjgzLTI2X3dHY3I3N2Q0UWVHYmdYMnJDZ0RaQW4yX2l1dzVmZ2h5NElvSkJRMA?oc=5)
 
 2026-09-29 <span class="news-indication-tag">ictus</span>
 
-Source: [Actualidad / Gobierno de La Rioja](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTc2RTJMNG9pN2NtbEJtbDFuX3R1UUlUUXROWmhCbFJEME92ODdvUWMyZWY5X1UyMkRtbDM2U1RKU3ZKdlNueGtmbmtnZDJVRndsa0RnLWlVb3FTS3J4VEhBV2x6RFZpbjBfaTJXRjZkTnVZUVp6Y09SQ2NuUFdMRFk1TVA1dlZlU2lQY0xIdTRxaUs3V0ktM3JrSE4zaTlzMWxCUlVvVTRaeDBON1h4aElPQWRGaW05RmdKNHZPWUNSRXVDNExQQTB0WlN3QkJ3VDc5YWtB?oc=5)
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMipgFBVV95cUxNNlpEbXRCaE1PMnNMZ0J6T1FBWnZidDdlOE0zd0hRRHBsTEhrSlBHdENCT1BhTWpUa1BoeVFOVkU3NjMtMGY1X0k0bk5DaFZaOThzNWN1dEtkME5DVUl4RXA1dnlmNHh1eUd4ZkZ1aDhkMlc2V245VmxfUDZzeUk3WXI5WTFFcnAtXzM4b0gxT1hFdm9iUUtkZ2JKNEdnd3AtQVVJT0RR0gGrAUFVX3lxTE91QkpsaTBSRjNjNmt3LVZfR2pEREh0SXVLYkpncEhXY2JOWTZkNW1wd2JlZV9HbWtkS0Q2V2pDUUIyaU9aYm5ETURvWnV0eURtQjVDckZYaDBSZmlGdGtUUW1hNnFwejNCVFh0UWd0WHVLWW94cFd6MFlULVRWYjgzLTI2X3dHY3I3N2Q0UWVHYmdYMnJDZ0RaQW4yX2l1dzVmZ2h5NElvSkJRMA?oc=5)
 
 ---
 
 ### [La prima causa di morte? Le malattie cardiovascolari. Eppure l'80% dei casi è prevenibile](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUXB4VlVkTlJCZXlZbDRnODZDVkpOcnNXY2RCbi1KSUZwc2VZbGw4MDBDTmdjTnlNRzNFSURVdkJtTU15aG9Jc3pENEhwZUVYZExoc2szUG1rRUd0SzJoYV9Vc3k2MXdZaWR0cHRaWXhRWUlvX19FRE5rS1VybElwNU4tVHlfMTBCdGx0UTQ5clJ1U3d5VVQ2Z3poYm16WGZHZl81R3Ytb0l3a2Fyb2psUmVWUEVZZVZQbFZUY3Vhd085US02M0RUNElxdTBUblVCRU1qYVR6VXg0WVFvX0xyeFlWSDQxNE1Vc0hIUndVVHJTNE5nVlJZbFZnd9IBgAJBVV95cUxOT19hVlV5ZW40cEM3MGFkSXI5ZjRkS2MwMDB1aDlhRkkyNmVxUnRlZnI5SFdrS0lFS3BIeERja3pDWk5hRzJDZmZUeVlYYnJMUUpBdi1ud1Zxa0NFZEN2ZVRNc21CMGkyOE1SUEc5dWhhSnJpQkQ4UFBKVzIwZjA0MkVNTEpiUC03cmRjNXJBSGRYX1V2Z1ZZZV9lSmJFMTh0OG16M0JXa2VfNFVhMTY3b2RiQ05DdjBYOVBmc09IYmZ2N0xHYmFmZEo0R1RZZmZZVjU4VzBkdEJXeXFVUElyNjZpVWc3c0dSUmpiWW1sblIxLXNreE10a1RnemU4dU1J?oc=5)
 
-2026-09-29 <span class="news-indication-tag">ictus</span>
+2026-09-29 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span>
 
-Source: [RaiNews](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUXB4VlVkTlJCZXlZbDRnODZDVkpOcnNXY2RCbi1KSUZwc2VZbGw4MDBDTmdjTnlNRzNFSURVdkJtTU15aG9Jc3pENEhwZUVYZExoc2szUG1rRUd0SzJoYV9Vc3k2MXdZaWR0cHRaWXhRWUlvX19FRE5rS1VybElwNU4tVHlfMTBCdGx0UTQ5clJ1U3d5VVQ2Z3poYm16WGZHZl81R3Ytb0l3a2Fyb2psUmVWUEVZZVZQbFZUY3Vhd085US02M0RUNElxdTBUblVCRU1qYVR6VXg0WVFvX0xyeFlWSDQxNE1Vc0hIUndVVHJTNE5nVlJZbFZnd9IBgAJBVV95cUxOT19hVlV5ZW40cEM3MGFkSXI5ZjRkS2MwMDB1aDlhRkkyNmVxUnRlZnI5SFdrS0lFS3BIeERja3pDWk5hRzJDZmZUeVlYYnJMUUpBdi1ud1Zxa0NFZEN2ZVRNc21CMGkyOE1SUEc5dWhhSnJpQkQ4UFBKVzIwZjA0MkVNTEpiUC03cmRjNXJBSGRYX1V2Z1ZZZV9lSmJFMTh0OG16M0JXa2VfNFVhMTY3b2RiQ05DdjBYOVBmc09IYmZ2N0xHYmFmZEo0R1RZZmZZVjU4VzBkdEJXeXFVUElyNjZpVWc3c0dSUmpiWW1sblIxLXNreE10a1RnemU4dU1J?oc=5)
+Source: [rainews.it](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUXB4VlVkTlJCZXlZbDRnODZDVkpOcnNXY2RCbi1KSUZwc2VZbGw4MDBDTmdjTnlNRzNFSURVdkJtTU15aG9Jc3pENEhwZUVYZExoc2szUG1rRUd0SzJoYV9Vc3k2MXdZaWR0cHRaWXhRWUlvX19FRE5rS1VybElwNU4tVHlfMTBCdGx0UTQ5clJ1U3d5VVQ2Z3poYm16WGZHZl81R3Ytb0l3a2Fyb2psUmVWUEVZZVZQbFZUY3Vhd085US02M0RUNElxdTBUblVCRU1qYVR6VXg0WVFvX0xyeFlWSDQxNE1Vc0hIUndVVHJTNE5nVlJZbFZnd9IBgAJBVV95cUxOT19hVlV5ZW40cEM3MGFkSXI5ZjRkS2MwMDB1aDlhRkkyNmVxUnRlZnI5SFdrS0lFS3BIeERja3pDWk5hRzJDZmZUeVlYYnJMUUpBdi1ud1Zxa0NFZEN2ZVRNc21CMGkyOE1SUEc5dWhhSnJpQkQ4UFBKVzIwZjA0MkVNTEpiUC03cmRjNXJBSGRYX1V2Z1ZZZV9lSmJFMTh0OG16M0JXa2VfNFVhMTY3b2RiQ05DdjBYOVBmc09IYmZ2N0xHYmFmZEo0R1RZZmZZVjU4VzBkdEJXeXFVUElyNjZpVWc3c0dSUmpiWW1sblIxLXNreE10a1RnemU4dU1J?oc=5)
 
 ---
 
-### [Schlafstörungen: Insomnie ist mit 26 Prozent höherem Schlaganfallrisiko verbunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGlsblJfbVE1alJGRi15d1A4bGlUS05SNWpGUXBGUE9wdmNRNlNwOFVZbDVsV2JiNjhSeWdVUHF5MGF6djRMZlhKanFKQzZETXh3ZUgxUVBYQl9ScWxRUEFaYk5MZ0VLN1F1dVBaV3dZQzdjeElTYVRiakpPYjg0UV9jQmpIMXJLMTYtRGtwUkRxcGVJRFBaUGVFaHR2SG5kYTRrc2I2MXVnRDZPYkZubXpSMldGR1haQ3RlZ0pn?oc=5)
+### [Chronische Insomnie erhöht Schlaganfall- und Klinikrisiko deutlich - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGlsblJfbVE1alJGRi15d1A4bGlUS05SNWpGUXBGUE9wdmNRNlNwOFVZbDVsV2JiNjhSeWdVUHF5MGF6djRMZlhKanFKQzZETXh3ZUgxUVBYQl9ScWxRUEFaYk5MZ0VLN1F1dVBaV3dZQzdjeElTYVRiakpPYjg0UV9jQmpIMXJLMTYtRGtwUkRxcGVJRFBaUGVFaHR2SG5kYTRrc2I2MXVnRDZPYkZubXpSMldGR1haQ3RlZ0pn?oc=5)
-
----
-
-### [Dorset boy aged 6 among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
-2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-Source: [itv.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
 
 ---
 
@@ -126,19 +134,19 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+### [Peripheral Arterial Disease: Why Early Detection Matters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZOeE44WjBaUmNjZ2pBcUFXaHA1ZGRLN0xSdkpscThzOEJwMVN6YWllZ1FENGZCUHR3bi14elZBLTNfaWt6VFVlUWZwTU5LVllRQ2ZCa0lKa1BQdUoyeXpIY0tCajRNNWtlVWU5NHZXUC1fZDRrSTFuTE8weWlEVWZqY20zeVp3cFVHaWVpY0FlMEZBSlZLeDNjbDctMVA4ai1hMEU?oc=5)
 
-2026-09-28 <span class="news-indication-tag">ictus</span>
+2026-09-28 <span class="news-indication-tag">stroke</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZOeE44WjBaUmNjZ2pBcUFXaHA1ZGRLN0xSdkpscThzOEJwMVN6YWllZ1FENGZCUHR3bi14elZBLTNfaWt6VFVlUWZwTU5LVllRQ2ZCa0lKa1BQdUoyeXpIY0tCajRNNWtlVWU5NHZXUC1fZDRrSTFuTE8weWlEVWZqY20zeVp3cFVHaWVpY0FlMEZBSlZLeDNjbDctMVA4ai1hMEU?oc=5)
 
 ---
 
-### [AVC chez les jeunes : les cas ont presque doublé en 30 ans](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWFtamJ6bTVTNUZOeEpLa0N0X0pKZ2FuMXVxNk9XQnItZnRsT01ucTlRMklpMzdQREVXc0Y2SHVvU3ZzRkJmN1c3c2xCLTJyUUNnTnhRT0p0bV9kaWNHMHV2TGdlTkYx?oc=5)
+### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWFtamJ6bTVTNUZOeEpLa0N0X0pKZ2FuMXVxNk9XQnItZnRsT01ucTlRMklpMzdQREVXc0Y2SHVvU3ZzRkJmN1c3c2xCLTJyUUNnTnhRT0p0bV9kaWNHMHV2TGdlTkYx?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 
@@ -147,38 +155,6 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWF
 2026-09-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
----
-
-### [Plus de 40% des contraceptifs combinés sont contre-indiqués pour les femmes qui cumulent des facteurs de risque cardiovasculaire](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
-
-2026-09-28 <span class="news-indication-tag">AVC</span>
-
-Source: [franceinfo](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
-
----
-
-### [Tomar entre dos y cuatro tazas de café al día es bueno para el corazón - La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
-
-2026-09-28 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
-
----
-
-### [3 Dangerous Foods for Your Blood Pressure](https://news.google.com/rss/articles/CBMickFVX3lxTE5wdFdpNVZjT1hYQW03R0RhNHhsbzMtVzJiQzMwM0pjNDNYQWlJRkpIekI3NUVvUEVhajFReXpWU1Nla2R1eTEtVHd5R2hMNTMta1ItYzEwcHp0REd3cGdPSnVhNGtVQVFoTHdQazN1YWRWdw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">hypertension</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMickFVX3lxTE5wdFdpNVZjT1hYQW03R0RhNHhsbzMtVzJiQzMwM0pjNDNYQWlJRkpIekI3NUVvUEVhajFReXpWU1Nla2R1eTEtVHd5R2hMNTMta1ItYzEwcHp0REd3cGdPSnVhNGtVQVFoTHdQazN1YWRWdw?oc=5)
-
----
-
-### [Près de 900 000 Français prennent ce médicament : le risque d'AVC augmente dès qu'on l'arrête - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
-2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
-
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
 
 ---
 

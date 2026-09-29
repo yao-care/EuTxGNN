@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ritonavir?">
-<strong>Ritonavir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ritonavir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Ritonavir with the latest he
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Un cancer sur huit est lié à des infections pour la plupart évitables, estime une agence de l'OMS - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTdISmxvWXNBRTNzcXEySHZITnhLYUlaY0ttUF9qbVB3aFJQWXdRUmF0aHRfQ2FYamZjaThYV3dvQlFUYS1rdmtvb0xmTWVBMWJrU1F2Y2E3UWxaZW5HdHBDR1NfT3RRMnQ2UXc5cFRzR0RtUGtyRXFpdHRkU1RQLTF1cVZQQ2tJNDFsQmxMb045VnQwU1lzbFF2YUZaWW1qWUNTVl9RazBFTzdwbm5La3QzRDJqeFhzV014MjJvQmpKeWxPMnd2eVl5YnBxLUxKekpVMENRb3hGeXVhVFN3MFc5dGJEdWlR?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hépatite</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTdISmxvWXNBRTNzcXEySHZITnhLYUlaY0ttUF9qbVB3aFJQWXdRUmF0aHRfQ2FYamZjaThYV3dvQlFUYS1rdmtvb0xmTWVBMWJrU1F2Y2E3UWxaZW5HdHBDR1NfT3RRMnQ2UXc5cFRzR0RtUGtyRXFpdHRkU1RQLTF1cVZQQ2tJNDFsQmxMb045VnQwU1lzbFF2YUZaWW1qWUNTVl9RazBFTzdwbm5La3QzRDJqeFhzV014MjJvQmpKeWxPMnd2eVl5YnBxLUxKekpVMENRb3hGeXVhVFN3MFc5dGJEdWlR?oc=5)
+
+---
 
 
 <div class="disclaimer">

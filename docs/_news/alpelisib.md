@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
-### [El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWEwTGN4bTFjb24xVF9yXzNJa0l4S3RaREsxaFV3WGVOUWNRMGVMTTlSVHhNZ0VSMmM0Ui0xNkd0QTg4NDdEVnpCal9YQUlITk5XUTZZUUpIWTRHUC1HQmFNVm5HOWVzT3dCOEN1LVhrOThmVHQ2RHh0bzNEVFhXVEhQbmd1ejdNbWh5Z2FFTkRkdXBMaWQ3MWVJM3ZMYWRFYldsQ2ZQbUVnZEoxb2NZUkhidmZNckx0aW1zMjJFdU5UY0dfVU1kQjVpMkxmTWJ1VU43R0x3VDNENVk5R1FCUHNUcFhlR1N6RF9jSXdEYw?oc=5)
+### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+2026-09-29 <span class="news-indication-tag">migraine</span>
 
-Source: [infosalus.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSWEwTGN4bTFjb24xVF9yXzNJa0l4S3RaREsxaFV3WGVOUWNRMGVMTTlSVHhNZ0VSMmM0Ui0xNkd0QTg4NDdEVnpCal9YQUlITk5XUTZZUUpIWTRHUC1HQmFNVm5HOWVzT3dCOEN1LVhrOThmVHQ2RHh0bzNEVFhXVEhQbmd1ejdNbWh5Z2FFTkRkdXBMaWQ3MWVJM3ZMYWRFYldsQ2ZQbUVnZEoxb2NZUkhidmZNckx0aW1zMjJFdU5UY0dfVU1kQjVpMkxmTWJ1VU43R0x3VDNENVk5R1FCUHNUcFhlR1N6RF9jSXdEYw?oc=5)
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
 
 ---
 
-### [Dorset boy aged 6 among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
 
-2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-Source: [itv.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+
+---
+
+### [AbbVie presenta resultados positivos de atogepant frente a la migraña en el periodo menstrual](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraña</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzN
 2026-09-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
----
-
-### [Tomar entre dos y cuatro tazas de café al día es bueno para el corazón - La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
-
-2026-09-28 <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">AF</span>
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUm
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
-
----
-
-### [3 Dangerous Foods for Your Blood Pressure](https://news.google.com/rss/articles/CBMickFVX3lxTE5wdFdpNVZjT1hYQW03R0RhNHhsbzMtVzJiQzMwM0pjNDNYQWlJRkpIekI3NUVvUEVhajFReXpWU1Nla2R1eTEtVHd5R2hMNTMta1ItYzEwcHp0REd3cGdPSnVhNGtVQVFoTHdQazN1YWRWdw?oc=5)
-
-2026-09-23 <span class="news-indication-tag">hypertension</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMickFVX3lxTE5wdFdpNVZjT1hYQW03R0RhNHhsbzMtVzJiQzMwM0pjNDNYQWlJRkpIekI3NUVvUEVhajFReXpWU1Nla2R1eTEtVHd5R2hMNTMta1ItYzEwcHp0REd3cGdPSnVhNGtVQVFoTHdQazN1YWRWdw?oc=5)
 
 ---
 

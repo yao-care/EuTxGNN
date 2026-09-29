@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "emicrania (migraine) News"
+title: "migraña (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about emicrania (migraine). 3 articles, 49 related drugs."
+description: "Health news about migraña (migraine). 5 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# emicrania (migraine) News
+# migraña (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about emicrania (migraine)?">
-<strong>emicrania (migraine)</strong> currently has <strong>3 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about migraña (migraine)?">
+<strong>migraña (migraine)</strong> currently has <strong>5 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “emicrania” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “migraña” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,23 @@ This page brings together the latest health news about “emicrania” and lists
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+2026-09-29
+
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+---
+
+### [AbbVie presenta resultados positivos de atogepant frente a la migraña en el periodo menstrual](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+2026-09-29
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+---
 
 ### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 

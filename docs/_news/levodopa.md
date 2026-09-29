@@ -44,25 +44,17 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 
 ## Related News (5)
 
-### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
 
 2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
-
----
-
-### [The sleep red flags that put you at risk of dementia - The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzVPZEUzZFlYWkxSLWdBME9Td3NTb2lwY0prRzF4bUxKQXppY29XeUpndUFCZi1hdVpwZXYwZzY5VUJKZTFUUEtmMXNxbXhoSWtDdERyUUlnVWplU1BTSTRFZkpzRnFFWHhuNEtPSUp3ZlJCNlNwdXpGN0xxQjhybVQ1WU9nYXFIeUdaUThBVE4xR0swMGNpRUdERUdCb2g4T3RYdVVHZUNuaGptWDFVaW93?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
 
 ---
 
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
-2026-09-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-09-27 <span class="news-indication-tag">dementia</span>
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
@@ -72,7 +64,7 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVps
 
 2026-09-27 <span class="news-indication-tag">dementia</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
+Source: [eatingwell.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
 ---
 
@@ -81,6 +73,14 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWF
 2026-09-27 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
+
+---
+
+### [NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
 ---
 

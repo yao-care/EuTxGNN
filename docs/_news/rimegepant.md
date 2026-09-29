@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraine</span>
+
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+---
+
+### [AbbVie presenta resultados positivos de atogepant frente a la migraña en el periodo menstrual](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraña</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+---
 
 ### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 

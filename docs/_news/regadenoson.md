@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraine</span>
+
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+---
+
+### [AbbVie presenta resultados positivos de atogepant frente a la migraña en el periodo menstrual](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraña</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXpnQVpuT1RPRkNVM0tUTVNqUll0b3g2RVB2cjRrVFplTmdNaEw2VEhzWFoyS3NUVWlfOGdSZFhUcWlkR3VENDE2eE9QMnBmOF8tMDFRTl84Zl85TEl6S0lYdzltZjhIWWRhT29KSUMzS0pIZG0xY1NpZlA4UU0wWDBmaGFCSDdLNDhGQks4Q2hlbi03NWM2OUw3djBtbElfUVVpeU0wWkRVdTZJcHVkQlZob1BTd2dfSDM0OHNMWEJGNEFBeDRRQjlUSE5yX2xZUEp3LUJXMmhSZw?oc=5)
+
+---
 
 ### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
 
