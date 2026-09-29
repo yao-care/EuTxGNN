@@ -3,7 +3,7 @@ layout: default
 title: "AF (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AF (atrial fibrillation). 27 articles, 39 related drugs."
+description: "Health news about AF (atrial fibrillation). 26 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="What news is there about AF (atrial fibrillation)?">
-<strong>AF (atrial fibrillation)</strong> currently has <strong>27 news articles</strong> and 39 related drugs.
+<strong>AF (atrial fibrillation)</strong> currently has <strong>26 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,29 +67,29 @@ This page brings together the latest health news about “AF” and lists the dr
 </ul>
 </div>
 
-## Related News (27)
+## Related News (26)
 
-### [Ebola cases surpass 8,000 as DRC struggles to control outbreak](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWJBWTNZVENxc0VpZ1QzeFhfcHN1eHRXU0o3YmYxM0lyTklfUkdIMG9yU2psV0dyejNlM201QmNGN085WnFpMnhMNEluTm8xeFNjT3VwT3BRQzFfUEpqRW8zbzJMdkZUT3luNVRob1Y1MDlEUnNfbmhWMjVCeXhQNXVQX1R6c3VZY3VFaFl0VjNydVF3WW5OMVRJaF9YdnAzNndCWNIBqgFBVV95cUxOa2xRTm53U2ZZTTJOdUVGa3RSLXN4bEx2d0d2NTJib0Z2ZjRDZ3RaZUxaZVdqLXdQS3ItSExBUk1CcUF6azZWWEZCajJ6M0NSRXUzRlBMNFBQSzB4dm95bHNDS21rN1E0Rk4zQmR4VGFtVGJfeEF5R1FJWXd3bndLbFdLX3JXTENJVnRXTW5mRVJnS0drVlhVWTNlNDZfTEwzbTBHWXdOaHlCQQ?oc=5)
+### [Bis zu 13 Jahre mehr ohne Demenz möglich: Diese drei Risiken solltest du meiden](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGZkZkthcXE1SlBoT1VMdlUxcDlqWkVTMlM4NzRyOHhpX3UwODJibS0xeFdSTWdCTEFINWU1b0dWQkR2VUcyYVZDQ0hrZFVhcExHNDFkSU9EY3VmaWVnaklOMnpaYlJLSjk1Qld2UUxJV3hMd0ZKak0yeEFtRjdNU0xqaG5xZw?oc=5)
 
-2026-09-28
+2026-09-29
 
-Source: [aljazeera.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWJBWTNZVENxc0VpZ1QzeFhfcHN1eHRXU0o3YmYxM0lyTklfUkdIMG9yU2psV0dyejNlM201QmNGN085WnFpMnhMNEluTm8xeFNjT3VwT3BRQzFfUEpqRW8zbzJMdkZUT3luNVRob1Y1MDlEUnNfbmhWMjVCeXhQNXVQX1R6c3VZY3VFaFl0VjNydVF3WW5OMVRJaF9YdnAzNndCWNIBqgFBVV95cUxOa2xRTm53U2ZZTTJOdUVGa3RSLXN4bEx2d0d2NTJib0Z2ZjRDZ3RaZUxaZVdqLXdQS3ItSExBUk1CcUF6azZWWEZCajJ6M0NSRXUzRlBMNFBQSzB4dm95bHNDS21rN1E0Rk4zQmR4VGFtVGJfeEF5R1FJWXd3bndLbFdLX3JXTENJVnRXTW5mRVJnS0drVlhVWTNlNDZfTEwzbTBHWXdOaHlCQQ?oc=5)
-
----
-
-### [The hidden dangers of high blood pressure — what you should know - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
-
-2026-09-28
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
+Source: [web.de](https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGZkZkthcXE1SlBoT1VMdlUxcDlqWkVTMlM4NzRyOHhpX3UwODJibS0xeFdSTWdCTEFINWU1b0dWQkR2VUcyYVZDQ0hrZFVhcExHNDFkSU9EY3VmaWVnaklOMnpaYlJLSjk1Qld2UUxJV3hMd0ZKak0yeEFtRjdNU0xqaG5xZw?oc=5)
 
 ---
 
-### [Schlaflosigkeit lässt Zellen schneller altern – doch eine Therapie kann das offenbar umkehren - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVpVUDE5SlUxMmVwelFsVV9jek9iazZDY1JOQnl6S000OWJITTVqbXhRNm1POElVcFNSSEZGTUJDRGh3QXVpMW13VTl4Q0NHSkxmZmRnTE5MNHE0OUltNS1RdElSejZVZlFySGpPNkx6MHJqNXlTRHU3ZW0ydy13bV9KRThwU0tqSWk2cldWVlQ3VkwyTWZYVnI4LXowcXNjMTExczg5NlNPcUFkV2U0?oc=5)
+### [‘Children are dying’: Fiji hopes declaring an HIV emergency will help it tackle crisis - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTFKank3ZFJDR3pLOThxcmpWZHdWa3hfT2Z1OXR6bmlaeUdkcUt3N3ZybkczZjJkWGlCRDlfdUVYcG1mX2pNVU9KWnNhOXhfN09Db1JueS1ZMWZ4dHFJY3BjQjBwVEJ6ZWpmUUNOWjk2SDJBRElQNmRuQTBVMFQ3aW1zd0UyTWg3UTBjeEdZMnRyZEFkYlE?oc=5)
+
+2026-09-29
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVTFKank3ZFJDR3pLOThxcmpWZHdWa3hfT2Z1OXR6bmlaeUdkcUt3N3ZybkczZjJkWGlCRDlfdUVYcG1mX2pNVU9KWnNhOXhfN09Db1JueS1ZMWZ4dHFJY3BjQjBwVEJ6ZWpmUUNOWjk2SDJBRElQNmRuQTBVMFQ3aW1zd0UyTWg3UTBjeEdZMnRyZEFkYlE?oc=5)
+
+---
+
+### [Chronische Insomnie erhöht Schlaganfall- und Klinikrisiko deutlich](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
 
 2026-09-28
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVpVUDE5SlUxMmVwelFsVV9jek9iazZDY1JOQnl6S000OWJITTVqbXhRNm1POElVcFNSSEZGTUJDRGh3QXVpMW13VTl4Q0NHSkxmZmRnTE5MNHE0OUltNS1RdElSejZVZlFySGpPNkx6MHJqNXlTRHU3ZW0ydy13bV9KRThwU0tqSWk2cldWVlQ3VkwyTWZYVnI4LXowcXNjMTExczg5NlNPcUFkV2U0?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
 
 ---
 
@@ -165,11 +165,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUlZdGM
 
 ---
 
-### [Tomar entre dos y cuatro tazas de café al día es bueno para el corazón - La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
+### [¿Aliado o enemigo?, todo lo que debes saber sobre el consumo de café - La Vanguardia](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjdwdC1SOGxDOHdLcUVocVk5cWdHX0ZQNG1lQkt0TDc0azZHVkpoaUphd2dETEhLM1Q5NGVmRmtzT2hPdzU0U3JFS1daSEk4bS1rSU42dkRPSm5oUkN2ZTZUZVcxQjFRTkVrSkI4aWF5NUNWWnlDdUJyX3FhYXBDYlFEWTRxNGs0S0hvelNOeklFekgxMmVDTm9JMVZkaG9OSm5feFRjcU4yNVRrYmdjedIBtgFBVV95cUxQbFNlVGEybXlfMTZUZ0lsWjZ1YzZYLUQ5cUpBQWJ1dldqemhSS2d6WU0yWmJ0V25TQ29UWDRfc3BxSnZONE5iY0JCakhVVHNOQ0Q3bmFUMzc2cE9vMkJFSV83dGlWU3NoMndNZE9SUlNzODhfbUFUSm9mSkVUQV9GNklvWElkREoxRlIwVVBHTUwyY2t1aGtiVXNpUjBISER0NDdNb1E1MGZ3OWFRa1l1VERnb2ZDdw?oc=5)
 
 2026-09-28
 
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS1psb1lWc0VDN1VFcFBpQ1k3N0pmaXNYMWNLR3ZTeHVHLTBqWkZFYWI0YjNoSDVvNHNwMHdqNzU5dnFkMnlXd29jbFVSNFp3eXZkdG1MSDMxZWZwODRDQ3J5VW45VjNfcHFwVExSNzA1WWFEb2tIWjlQUEdpazNhSXpfeVF4enlscGZMMW9SRk51bFhjYWprV2w0ckE4SVhtWjJKS3BncFXSAa4BQVVfeXFMTWlaOWRqRzAzZ3dJQjh4ZUNtVDFOMHl4T3Jpb3lBQWdGQUF3RUtUVVh6R0xUY0V0UDRiQ0gzeEozLUVlUWlETnBDaEE2SmNDWnM5ZWVHNGVoTFBoZ1UtamtrcjVfaGF5dm5KbldBeUhUUGhpcmljUW1EYVBjR0UwbEUyVXlQa293M092dnM3MVM4YXdEVGxTaGU1anhhZlVacHNWc3Rsc1FNQmZfd1h3?oc=5)
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjdwdC1SOGxDOHdLcUVocVk5cWdHX0ZQNG1lQkt0TDc0azZHVkpoaUphd2dETEhLM1Q5NGVmRmtzT2hPdzU0U3JFS1daSEk4bS1rSU42dkRPSm5oUkN2ZTZUZVcxQjFRTkVrSkI4aWF5NUNWWnlDdUJyX3FhYXBDYlFEWTRxNGs0S0hvelNOeklFekgxMmVDTm9JMVZkaG9OSm5feFRjcU4yNVRrYmdjedIBtgFBVV95cUxQbFNlVGEybXlfMTZUZ0lsWjZ1YzZYLUQ5cUpBQWJ1dldqemhSS2d6WU0yWmJ0V25TQ29UWDRfc3BxSnZONE5iY0JCakhVVHNOQ0Q3bmFUMzc2cE9vMkJFSV83dGlWU3NoMndNZE9SUlNzODhfbUFUSm9mSkVUQV9GNklvWElkREoxRlIwVVBHTUwyY2t1aGtiVXNpUjBISER0NDdNb1E1MGZ3OWFRa1l1VERnb2ZDdw?oc=5)
 
 ---
 
@@ -197,19 +197,19 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYk1tZ1F
 
 ---
 
-### [Gesundheit mit Wearables: Zehn Minuten Gehen senken Sterberisiko um 33 Prozent - it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE11SUtLNFRNSFgzZS1Ec3VjRklkQjRLSDhZMW1QdU1ST3diZnpxeXA1Q0JxclhNUVRLNW1raFpRakdDdnRRU1gybjhnNHRYRl9JWTBLdnhvVnRBVTh5a0FIZGx4a0lUNUJsTk4wTzJBLVVkUGlWM0pRTXBKMzVCSkh1S3pTV29kVFEwM1dGdjZUSGRQOTFJMmZsQ3Q0S0NPek00MTNMdTFBUWxEUHc?oc=5)
+### [Gesundheit mit Wearables: Zehn Minuten Gehen senken Sterberisiko um 33 Prozent](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE11SUtLNFRNSFgzZS1Ec3VjRklkQjRLSDhZMW1QdU1ST3diZnpxeXA1Q0JxclhNUVRLNW1raFpRakdDdnRRU1gybjhnNHRYRl9JWTBLdnhvVnRBVTh5a0FIZGx4a0lUNUJsTk4wTzJBLVVkUGlWM0pRTXBKMzVCSkh1S3pTV29kVFEwM1dGdjZUSGRQOTFJMmZsQ3Q0S0NPek00MTNMdTFBUWxEUHc?oc=5)
 
 2026-09-28
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE11SUtLNFRNSFgzZS1Ec3VjRklkQjRLSDhZMW1QdU1ST3diZnpxeXA1Q0JxclhNUVRLNW1raFpRakdDdnRRU1gybjhnNHRYRl9JWTBLdnhvVnRBVTh5a0FIZGx4a0lUNUJsTk4wTzJBLVVkUGlWM0pRTXBKMzVCSkh1S3pTV29kVFEwM1dGdjZUSGRQOTFJMmZsQ3Q0S0NPek00MTNMdTFBUWxEUHc?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdE11SUtLNFRNSFgzZS1Ec3VjRklkQjRLSDhZMW1QdU1ST3diZnpxeXA1Q0JxclhNUVRLNW1raFpRakdDdnRRU1gybjhnNHRYRl9JWTBLdnhvVnRBVTh5a0FIZGx4a0lUNUJsTk4wTzJBLVVkUGlWM0pRTXBKMzVCSkh1S3pTV29kVFEwM1dGdjZUSGRQOTFJMmZsQ3Q0S0NPek00MTNMdTFBUWxEUHc?oc=5)
 
 ---
 
-### [Taunton paramedics detail 'incredibly rare' moment after woman's cardiac arrest - Somerset Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDNPSlkyU2ozblRQdXJSam5SV2d0WGxreEx5M09pVVFjdWJiRFJuQ3NFdml3MnViVGhzRXdGRXBNcFhpMFAyalphX09GQ1ZzTGxPSnBQLW9QaTVxQVZYdlhXZWozR29VQWNBUkFzTWZYQV9ndGNxcTd0QkVXTXZ5djNBTDQ5U0ZSS3dDcVY3eWZDZEJhd1JEdXZHc1fSAaIBQVVfeXFMTWg5emJmY2pjOFZwNkdOT2tRNVlMRVF4OE9NWk1XOHpxd0VVMkNabEp3bGhKVHVudVhJZ0dTNXpld002SG40U2RyMldNa0tqUEdJS1VDZmRJSG1YWklqRmVkLVE3ZDhmZ0Y4OXk2NWdTSTV6VTVzdlZXYXJvUGE1X245M3RoZ3gyQ09YX2RTNF9lSFFuUDVkMjhMOHo5S0Y3ek1B?oc=5)
+### [Taunton paramedics detail 'incredibly rare' moment after woman's cardiac arrest](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDNPSlkyU2ozblRQdXJSam5SV2d0WGxreEx5M09pVVFjdWJiRFJuQ3NFdml3MnViVGhzRXdGRXBNcFhpMFAyalphX09GQ1ZzTGxPSnBQLW9QaTVxQVZYdlhXZWozR29VQWNBUkFzTWZYQV9ndGNxcTd0QkVXTXZ5djNBTDQ5U0ZSS3dDcVY3eWZDZEJhd1JEdXZHc1fSAaIBQVVfeXFMTWg5emJmY2pjOFZwNkdOT2tRNVlMRVF4OE9NWk1XOHpxd0VVMkNabEp3bGhKVHVudVhJZ0dTNXpld002SG40U2RyMldNa0tqUEdJS1VDZmRJSG1YWklqRmVkLVE3ZDhmZ0Y4OXk2NWdTSTV6VTVzdlZXYXJvUGE1X245M3RoZ3gyQ09YX2RTNF9lSFFuUDVkMjhMOHo5S0Y3ek1B?oc=5)
 
 2026-09-27
 
-Source: [Somerset Live](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDNPSlkyU2ozblRQdXJSam5SV2d0WGxreEx5M09pVVFjdWJiRFJuQ3NFdml3MnViVGhzRXdGRXBNcFhpMFAyalphX09GQ1ZzTGxPSnBQLW9QaTVxQVZYdlhXZWozR29VQWNBUkFzTWZYQV9ndGNxcTd0QkVXTXZ5djNBTDQ5U0ZSS3dDcVY3eWZDZEJhd1JEdXZHc1fSAaIBQVVfeXFMTWg5emJmY2pjOFZwNkdOT2tRNVlMRVF4OE9NWk1XOHpxd0VVMkNabEp3bGhKVHVudVhJZ0dTNXpld002SG40U2RyMldNa0tqUEdJS1VDZmRJSG1YWklqRmVkLVE3ZDhmZ0Y4OXk2NWdTSTV6VTVzdlZXYXJvUGE1X245M3RoZ3gyQ09YX2RTNF9lSFFuUDVkMjhMOHo5S0Y3ek1B?oc=5)
+Source: [somersetlive.co.uk](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDNPSlkyU2ozblRQdXJSam5SV2d0WGxreEx5M09pVVFjdWJiRFJuQ3NFdml3MnViVGhzRXdGRXBNcFhpMFAyalphX09GQ1ZzTGxPSnBQLW9QaTVxQVZYdlhXZWozR29VQWNBUkFzTWZYQV9ndGNxcTd0QkVXTXZ5djNBTDQ5U0ZSS3dDcVY3eWZDZEJhd1JEdXZHc1fSAaIBQVVfeXFMTWg5emJmY2pjOFZwNkdOT2tRNVlMRVF4OE9NWk1XOHpxd0VVMkNabEp3bGhKVHVudVhJZ0dTNXpld002SG40U2RyMldNa0tqUEdJS1VDZmRJSG1YWklqRmVkLVE3ZDhmZ0Y4OXk2NWdTSTV6VTVzdlZXYXJvUGE1X245M3RoZ3gyQ09YX2RTNF9lSFFuUDVkMjhMOHo5S0Y3ek1B?oc=5)
 
 ---
 
@@ -229,11 +229,11 @@ Source: [Reading Chronicle](https://news.google.com/rss/articles/CBMipwFBVV95cUx
 
 ---
 
-### [Mum warns against kissing babies after her little one nearly died - The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXE5NWNwYm1pSkRuM09wb0FXQ1I0Z05RM2tfZXhKZlVBWnYxWHRvaEpnMzNzQ05rQm9SOTQwUzNMSklTMGZfUWk3R3dVaS1XRlZkUERpTDdYOU5GX3ViQUxLZnZtNzNnSTN6VzFOTzZsc0ZqVENxM0pQcFlFbEY1eFk5ZHlhUQ?oc=5)
+### [Mum warns against kissing babies after her little one nearly died](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXE5NWNwYm1pSkRuM09wb0FXQ1I0Z05RM2tfZXhKZlVBWnYxWHRvaEpnMzNzQ05rQm9SOTQwUzNMSklTMGZfUWk3R3dVaS1XRlZkUERpTDdYOU5GX3ViQUxLZnZtNzNnSTN6VzFOTzZsc0ZqVENxM0pQcFlFbEY1eFk5ZHlhUQ?oc=5)
 
 2026-09-27
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXE5NWNwYm1pSkRuM09wb0FXQ1I0Z05RM2tfZXhKZlVBWnYxWHRvaEpnMzNzQ05rQm9SOTQwUzNMSklTMGZfUWk3R3dVaS1XRlZkUERpTDdYOU5GX3ViQUxLZnZtNzNnSTN6VzFOTzZsc0ZqVENxM0pQcFlFbEY1eFk5ZHlhUQ?oc=5)
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcXE5NWNwYm1pSkRuM09wb0FXQ1I0Z05RM2tfZXhKZlVBWnYxWHRvaEpnMzNzQ05rQm9SOTQwUzNMSklTMGZfUWk3R3dVaS1XRlZkUERpTDdYOU5GX3ViQUxLZnZtNzNnSTN6VzFOTzZsc0ZqVENxM0pQcFlFbEY1eFk5ZHlhUQ?oc=5)
 
 ---
 
@@ -266,14 +266,6 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-09-22
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNNFBsOWFuM1diUWFuZkQxSFIyVWZNX28wbVcwRHl2MXhOWWpSU0dPa3NpTFhyaXBFRVBjajBZOTQwdGdYN2dSajd1UURqemg1b09QdkdmUTFFajA0SFE?oc=5)
-
----
-
-### [Typ-2-Diabetes bei jungen Erwachsenen: Armut und Migrationserfahrung spielen eine Rolle - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
-
-2026-09-22
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
 
 ---
 

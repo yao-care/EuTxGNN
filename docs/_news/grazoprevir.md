@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [The 2 signs in your voice that could detect deadly diabetes - as 20 second test spots condition quicker than blood tests - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERBemZKWkFZNndoWlhqVHNqMFo2SklWSUd6YXRyN0pXa0tzb2VRMXhzUnMweEFQamtZblRKM256dlNlcmgyNDdOT0FpWE5hZlMxSEpGUko2OXlucGFPakdZZ1Q1QTgtQWdzX3NjUm9zOFlUdUN3a0UtSHByQkEzWTQtOHo3djVPSWMwZks2cEd5Tkk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERBemZKWkFZNndoWlhqVHNqMFo2SklWSUd6YXRyN0pXa0tzb2VRMXhzUnMweEFQamtZblRKM256dlNlcmgyNDdOT0FpWE5hZlMxSEpGUko2OXlucGFPakdZZ1Q1QTgtQWdzX3NjUm9zOFlUdUN3a0UtSHByQkEzWTQtOHo3djVPSWMwZks2cEd5Tkk?oc=5)
+
+---
 
 ### [Multiple Sklerose: Kamuvudine K-9 kehrt Lähmungen im Mausmodell um - AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTQ1QzZoWENkWERNREdYS0t1d3ZONFlLcGVXZjF6YzVnU0RyR2FEM0Rnck1GUlRzVFl0akNqd2pGSUdQWlppSW5ndVUtRTNjRmF4cU83clpRc1ZUNjlZa1UxR3g3b29uU1ladXhDTjFOdDZyaV9GN2dsRjM1d3RNT0NBTEEySjZOM2xEb0ZqRzF4a0w3VDB3TmRVMTRzUGtYTE9BMDdMQnpBbUxzZ1ZpU3EwUWplQQ?oc=5)
 
@@ -62,11 +70,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTQ1Q
 
 ---
 
-### [High screen time can hurt children’s learning and language skills, study suggests](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDU5cXBGekN3X2ZEQXg0VmRQNHpaZDBkeGNQZHpYN1g3Nzh1bThzdmpwVVBqMlhfdk1tRjdFa3F6UFJORXhpejBULUV0alpDY2xMUUdtQzNEcDZWMnNCTUx5VzkwQjhHbGtxeXB3X1JGeHNjdGpUY0lYYnpCblR2UGF0TG1JcXNnNVhDamlDNGZjbVMxWnRTWXdzNG1iWDVPTUpIX0d3SDJBMUdRck5DVVg5SXA3cEJMbVEyR1RtQmVqdw?oc=5)
+### [High screen time can hurt children’s learning and language skills, study suggests - The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDU5cXBGekN3X2ZEQXg0VmRQNHpaZDBkeGNQZHpYN1g3Nzh1bThzdmpwVVBqMlhfdk1tRjdFa3F6UFJORXhpejBULUV0alpDY2xMUUdtQzNEcDZWMnNCTUx5VzkwQjhHbGtxeXB3X1JGeHNjdGpUY0lYYnpCblR2UGF0TG1JcXNnNVhDamlDNGZjbVMxWnRTWXdzNG1iWDVPTUpIX0d3SDJBMUdRck5DVVg5SXA3cEJMbVEyR1RtQmVqdw?oc=5)
 
 2026-09-28 <span class="news-indication-tag">MS</span>
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDU5cXBGekN3X2ZEQXg0VmRQNHpaZDBkeGNQZHpYN1g3Nzh1bThzdmpwVVBqMlhfdk1tRjdFa3F6UFJORXhpejBULUV0alpDY2xMUUdtQzNEcDZWMnNCTUx5VzkwQjhHbGtxeXB3X1JGeHNjdGpUY0lYYnpCblR2UGF0TG1JcXNnNVhDamlDNGZjbVMxWnRTWXdzNG1iWDVPTUpIX0d3SDJBMUdRck5DVVg5SXA3cEJMbVEyR1RtQmVqdw?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDU5cXBGekN3X2ZEQXg0VmRQNHpaZDBkeGNQZHpYN1g3Nzh1bThzdmpwVVBqMlhfdk1tRjdFa3F6UFJORXhpejBULUV0alpDY2xMUUdtQzNEcDZWMnNCTUx5VzkwQjhHbGtxeXB3X1JGeHNjdGpUY0lYYnpCblR2UGF0TG1JcXNnNVhDamlDNGZjbVMxWnRTWXdzNG1iWDVPTUpIX0d3SDJBMUdRck5DVVg5SXA3cEJMbVEyR1RtQmVqdw?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ Source: [theguardian.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN
 2026-09-28 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnl0UlhJV3JVV3NreDdSd21SMHZmc0ZxMnhoTVFIN25zZzRiN2NHb0JMWXRJNDdIbk83LWJNa0llS1NuN3pBQnVNUmNYTlFXcFpTa2Y2Wi12ZF9aZTk0ODRlX1JUejAzdUY3VHBXMWotQ1ZpenQ1am8tVVUyLTFkWWJvT0pJY2lDQUhYNHZ2Q19aVmxEZ3pYNmhESnRnNXVqUDBSb0thajAxMGZaQzhFcExXLUJ5QTM0YnBxTlo0S0VMNFI3dGQ1b1JyUGRCemdRQ3c?oc=5)
-
----
-
-### [Infosalus.- Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWhTRjdhbkpNRUgyb2lfY1JlTFN6T2tYZWtZT3JGVzlzWV95Yl8zQktMRGgyMElZdGd5cEs0ZWFVRU5ldG90NFFqMG1VZ1BITGpreERBZ3VUR0xhdThFOXJNQ1Z5YmxOQ210dE1sN21LaDB0UHdiRXVTMGdBeXhYUDlWOEZHcEROOG5sdFJlUmVnbnE0SXJWS2c5QllPcjc0c0JwU3FsR2t4ZzdNZWFoNng4YTZVNGJDMjRaQncyUHNscEtYY1l6X3lGNlZ4cy13aFBJQTNGdjdZQTBpd1NR?oc=5)
-
-2026-09-28 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-Source: [notimerica.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNWhTRjdhbkpNRUgyb2lfY1JlTFN6T2tYZWtZT3JGVzlzWV95Yl8zQktMRGgyMElZdGd5cEs0ZWFVRU5ldG90NFFqMG1VZ1BITGpreERBZ3VUR0xhdThFOXJNQ1Z5YmxOQ210dE1sN21LaDB0UHdiRXVTMGdBeXhYUDlWOEZHcEROOG5sdFJlUmVnbnE0SXJWS2c5QllPcjc0c0JwU3FsR2t4ZzdNZWFoNng4YTZVNGJDMjRaQncyUHNscEtYY1l6X3lGNlZ4cy13aFBJQTNGdjdZQTBpd1NR?oc=5)
 
 ---
 
@@ -110,6 +110,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxOajN
 
 ---
 
+### [Scientists Studied A Teenager With One Of The Rarest Memory Abilities Humans Can Have. Here’s What They Found](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeTgweUNsZ1JMWjI2YW5xdXBxUmZjWnFuSEFMdjJzZjBvNE0yYTU4dWNYTXN2bklsdUZ2YVplQ1QxUS1BdGJSa1I3Tkt5cDhOSERXN2VUb0k5Nk1JODVJNGJacDFIVVBXN1k5cXY3bEpsWTRRQTVkbnZiVklpNlhETWd3VWlwWXBicWZLckI5cFh3VFFSSjlyX0JIanF2ZEJ4NG0tWVNsZEpaNElkRXhYaXg4Zlg5VFpoVkhCZHRGZmRMYl9GVmFIUkRIOFZyd0gzWkdXYXFrWQ?oc=5)
+
+2026-09-28 <span class="news-indication-tag">MS</span>
+
+Source: [IFLScience](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeTgweUNsZ1JMWjI2YW5xdXBxUmZjWnFuSEFMdjJzZjBvNE0yYTU4dWNYTXN2bklsdUZ2YVplQ1QxUS1BdGJSa1I3Tkt5cDhOSERXN2VUb0k5Nk1JODVJNGJacDFIVVBXN1k5cXY3bEpsWTRRQTVkbnZiVklpNlhETWd3VWlwWXBicWZLckI5cFh3VFFSSjlyX0JIanF2ZEJ4NG0tWVNsZEpaNElkRXhYaXg4Zlg5VFpoVkhCZHRGZmRMYl9GVmFIUkRIOFZyd0gzWkdXYXFrWQ?oc=5)
+
+---
+
 ### [Meningitis vaccinations offered on campus to South East freshers](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOLXZrTkRGZE12QjJZMFphYkhfcE1TakQzZUdiMUt3Y25ZT0VHOFNPRG50VHlOX254RnZtNzRmdThoZUpKRmZ6YmlkMVpaUWVWWThnMlVtdzRndk5JY1E?oc=5)
 
 2026-09-28 <span class="news-indication-tag">MS</span>
@@ -134,27 +142,27 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0k
 
 ---
 
-### [Anti-Aging: Yale-Analyse von 51 Studien findet stärkere Biomarker-Effekte durch Lebensstil - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFU2R0RfV0lXMkJUWmVWWjRhMmtNRUlYRTEtYktuLVdQS3VnTk92T0tPalNRM29Vc3JyZFItY1Y2clFROUVRMlRoZW02a1hyU0p5TjdYRVhPYTFwSUdKTVgwOHprZUpGN1VGQzcyWGNPM0FERVJqMjRHdm1GOVM0dktOQVBwdXZpMVl0ZnJxbXZzblE0WHNwYWFpdTl2SGRVanIzUmdMOHRvb01OLXd6UWo0NXc3bTl3TXZPeTNudw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFU2R0RfV0lXMkJUWmVWWjRhMmtNRUlYRTEtYktuLVdQS3VnTk92T0tPalNRM29Vc3JyZFItY1Y2clFROUVRMlRoZW02a1hyU0p5TjdYRVhPYTFwSUdKTVgwOHprZUpGN1VGQzcyWGNPM0FERVJqMjRHdm1GOVM0dktOQVBwdXZpMVl0ZnJxbXZzblE0WHNwYWFpdTl2SGRVanIzUmdMOHRvb01OLXd6UWo0NXc3bTl3TXZPeTNudw?oc=5)
-
----
-
-### [Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
-
-2026-09-26 <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzBMaEF0TmJRMnhGQzljMEFSZkYyYmx5Q3VRSmtnRTcteXBCZVlzQktTOTBZWHBqcGxfcEJPSkxuZ1pHWFRJU0taQnBTOXEycFEzVlZ2cE9ubEZWRlE?oc=5)
-
----
-
 ### [Memorial for pupils given blood contaminated with HIV at Treloar's](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
 
 2026-09-26 <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4LXl1ZW9VeDdOcnNCMURpZEZ0RFRiUjl4TURnRmxNRUluNzB0VkhURThDUFRzVXBxbU1QX0p5REZqeVcwOG5TaHpYS0tOMU1YNlRWRmtqNDNvVlAyUEE?oc=5)
+
+---
+
+### [New report reveals serious risks linked to ultra-processed foods - The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW91THV4VDJmV3J0X3ZTekNvVDlvTmpMcG0wdC12d2dIVFI0SncxU3FDMnpFMG95b1NmbXdpU3NUMHNSVlZtVUM1ZG51eXFxSkJJZEo5Q2c1NTctdlF5d0VMZm9iS3dXX1hTVDRhdVhKNTRXZVdLaXBQTUxoZHVmeVVpellWcmVqTC1LZTVtUmU5Tm1HUTRYTkoyT2ZMOTlRdWc?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiogFBVV95cUxQWW91THV4VDJmV3J0X3ZTekNvVDlvTmpMcG0wdC12d2dIVFI0SncxU3FDMnpFMG95b1NmbXdpU3NUMHNSVlZtVUM1ZG51eXFxSkJJZEo5Q2c1NTctdlF5d0VMZm9iS3dXX1hTVDRhdVhKNTRXZVdLaXBQTUxoZHVmeVVpellWcmVqTC1LZTVtUmU5Tm1HUTRYTkoyT2ZMOTlRdWc?oc=5)
+
+---
+
+### [Ernährung und Zellalterung: DZNE-Studie mit über 6.000 Teilnehmenden](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHc5RV84R1RBbkpCa1dTZU9tbEN1OTV1RndfbzczV0ZQS0Nyay13ajFXemExX1lGcWNKMTNsSlJmWDIyYWZrdU1pajZ4WXNDUEJzUkg0SXZERmhSX3ZfVVBiVmhSaXNCVFB0SlJTVFRmdk9Jai1tTFlmdHlLRm1mWi1uZTB4Ym9jWXNacVNHaDlESUQyMUpwTTNwa3c?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMinAFBVV95cUxQeHc5RV84R1RBbkpCa1dTZU9tbEN1OTV1RndfbzczV0ZQS0Nyay13ajFXemExX1lGcWNKMTNsSlJmWDIyYWZrdU1pajZ4WXNDUEJzUkg0SXZERmhSX3ZfVVBiVmhSaXNCVFB0SlJTVFRmdk9Jai1tTFlmdHlLRm1mWi1uZTB4Ym9jWXNacVNHaDlESUQyMUpwTTNwa3c?oc=5)
 
 ---
 
@@ -166,11 +174,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6cjN4WVNkWXZkX
 
 ---
 
-### [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
+### [NHS bodies in England impose two-year minimum wait for ADHD and autism assessments - The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
 
 2026-09-24 <span class="news-indication-tag">MS</span>
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmI4T1dVdFU3RFY2cmlPak15WDUzQjktdWFPbl9IWW1QVXdSNjViN1plaFFEeVVaSlByTDBqcGI4NkRkM3ZuR0tiNEtNel9HdGxfa2dhWUFuU0llbm56SkR0bG1rdjd0R09xS2JnYTFMbDQtTjRtODFQcWZxWjF6U3VhMTBvazZVWjVWMXBzaWVucVVvQk1lZExHdk1xVS16MEs3LXlGemVXSzFBYV9qRGJQT05wWXo4N2Y0RXZEOVl3QjUyakxLVg?oc=5)
+
+---
+
+### [In Amish country, nurses go door to door to stop deadly spread of measles](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbGZTeUlmcTEtSW1PczEwa1ZZV1Etam5UbHFqVnZVc2RhV1pIRWRUQUt0SnItSE1ZbG9mZDNFbVExVWh4Y1hkUGlVWTRPNWNoaXBzLS1qS0tHYWc0SlE?oc=5)
+
+2026-09-24 <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zbGZTeUlmcTEtSW1PczEwa1ZZV1Etam5UbHFqVnZVc2RhV1pIRWRUQUt0SnItSE1ZbG9mZDNFbVExVWh4Y1hkUGlVWTRPNWNoaXBzLS1qS0tHYWc0SlE?oc=5)
 
 ---
 
@@ -179,14 +195,6 @@ Source: [theguardian.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM
 2026-09-23 <span class="news-indication-tag">MS</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE55eFlfcG9EME4xQXhZdVNMTWs2TGdGM19kQWlFUndHUFlkRF8wZzY2TnpkTUxTX1BZN2tuX05tQ2RJOWFlRWZES0pTSE9kaXVqLTBIM2owRWx4TDF0a3p3?oc=5)
-
----
-
-### [Cornwall bowel cancer campaign aims to boost early diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
-
-2026-09-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBESlRJZlVQdEVoSGt1YzRUYVZ3N0RuUW54ZE9UQ29sQnBOMTNNd2lSQXEzbmRQc1BNalVPQ3pOZGhFeWVtNms1M2c1Y1Y1elAxUnlnX3pITm9mN01TQUE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/nemolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Nemolizumab?">
-<strong>Nemolizumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Nemolizumab</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Nemolizumab with the latest 
 <p><a href="{{ '/drugs/nemolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (13)
 
 ### [Demenz: Diese Cholesterin-Senker könnten das Risiko überraschend deutlich reduzieren](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
 
-2026-09-28 <span class="news-indication-tag">diabetes</span>
+2026-09-29 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
+
+---
+
+### [The 2 signs in your voice that could detect deadly diabetes - as 20 second test spots condition quicker than blood tests - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERBemZKWkFZNndoWlhqVHNqMFo2SklWSUd6YXRyN0pXa0tzb2VRMXhzUnMweEFQamtZblRKM256dlNlcmgyNDdOT0FpWE5hZlMxSEpGUko2OXlucGFPakdZZ1Q1QTgtQWdzX3NjUm9zOFlUdUN3a0UtSHByQkEzWTQtOHo3djVPSWMwZks2cEd5Tkk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUERBemZKWkFZNndoWlhqVHNqMFo2SklWSUd6YXRyN0pXa0tzb2VRMXhzUnMweEFQamtZblRKM256dlNlcmgyNDdOT0FpWE5hZlMxSEpGUko2OXlucGFPakdZZ1Q1QTgtQWdzX3NjUm9zOFlUdUN3a0UtSHByQkEzWTQtOHo3djVPSWMwZks2cEd5Tkk?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ Source: [Diabetes-Kids.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxP
 
 2026-09-28 <span class="news-indication-tag">diabete</span>
 
-Source: [ANSA](https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdmbzNCTXNreld5S3Faa3EwU0ZwQkNkVGFKY0tMOGlUWjllOFA5TXA0SkVFbEkyejdLUjJFd2kwa2JFYW5ycWRnVm5OMzBJRk13Qll6U2x4TVpSUlExM2hyWHNjVnV5VzN6UGQzRXk4WDVaTUZReVBGbG1DcEk0TWdqdDhjWmxJTlQtLW9TdXRUUEl3UFhaOTljSERPV1JkTjVzRVdUV2txMHR3T1prYmlpLW9Ub0VSYnFMZzlweHV3VDdZWGpmNWpyTUR6STh0X3BJakw3NHVQdjBYMHVZamNtcjQxR09XY2VBam1oMHp5eHUwRV9RLXJpSVBEellFZldQVkVDWTJIMWdXTUNqd9IBmwJBVV95cUxNSXdpRkk1VkRhSGZ5MEZJRi1RSkFzU2pRSEVrdldwdmM3WXZaeEk2X1JFaVo0N2w4ZVlOc1hpU2VtTXJUeFFPQnYzcmlCVHh6X2FfUWhHVnI0VWZDRUxBaENNN2tGTk1wZFBELThIRmJNOW42YnZEaUEzd2MzWUxEQW5pdHFhUHpDQ1N2dk9EbVZkaW43R2Z0Mk9VYVhZN2pyZkhzOGhjd0FEamNDbWdGNGJ5VkhReEx5Mk1qb0NBRVlFSnQxUkZONk92RV80YzF1ams4a0pnVTVZNEJHWk1rT2thSzdqVVJxZEZXUEVvMTBtY0VEU3E1LWV4UDVOYjRBTEIwTFlrY2ZVQ2VqbE94czN0YTMwTFQ0RnA0?oc=5)
+Source: [ansa.it](https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdmbzNCTXNreld5S3Faa3EwU0ZwQkNkVGFKY0tMOGlUWjllOFA5TXA0SkVFbEkyejdLUjJFd2kwa2JFYW5ycWRnVm5OMzBJRk13Qll6U2x4TVpSUlExM2hyWHNjVnV5VzN6UGQzRXk4WDVaTUZReVBGbG1DcEk0TWdqdDhjWmxJTlQtLW9TdXRUUEl3UFhaOTljSERPV1JkTjVzRVdUV2txMHR3T1prYmlpLW9Ub0VSYnFMZzlweHV3VDdZWGpmNWpyTUR6STh0X3BJakw3NHVQdjBYMHVZamNtcjQxR09XY2VBam1oMHp5eHUwRV9RLXJpSVBEellFZldQVkVDWTJIMWdXTUNqd9IBmwJBVV95cUxNSXdpRkk1VkRhSGZ5MEZJRi1RSkFzU2pRSEVrdldwdmM3WXZaeEk2X1JFaVo0N2w4ZVlOc1hpU2VtTXJUeFFPQnYzcmlCVHh6X2FfUWhHVnI0VWZDRUxBaENNN2tGTk1wZFBELThIRmJNOW42YnZEaUEzd2MzWUxEQW5pdHFhUHpDQ1N2dk9EbVZkaW43R2Z0Mk9VYVhZN2pyZkhzOGhjd0FEamNDbWdGNGJ5VkhReEx5Mk1qb0NBRVlFSnQxUkZONk92RV80YzF1ams4a0pnVTVZNEJHWk1rT2thSzdqVVJxZEZXUEVvMTBtY0VEU3E1LWV4UDVOYjRBTEIwTFlrY2ZVQ2VqbE94czN0YTMwTFQ0RnA0?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMilgJBVV95cUxQcnYzbWxGTTdm
 2026-09-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
+
+---
+
+### [Colesterol, hipertensión y diabetes, tres enemigos silenciosos que pueden dañar el corazón sin dar síntomas - Cadena SER](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGJRczMxelJNbEYzRkd3c3FkX0NCeXAzOGJoQ1drekM5WWZWTkpIeU1QY1Y2T05HV2lVMDdRcnlVMFRDRWZQcVdjM2VNcm81Z0diUEE2cVljWUw2VUk4Z2RuTlQ4SXh2YVRabm5IRU1hS0R0dEExQklaTUlhQlNBRVBKT2c2UHVuWTZ6U2JkOTBXX3R5eWQ3eDNCTHd3aVdwcFdGQWZLZThOY0pCclV6bWVQa21oTVBVR09aQzN6TDVXTVh3OG85Q1BhMkhQQ01DeUJiSFdjZWhIbGZvODVkdTJSd2pmNUFKNlJUVFI3aDJXSEgzY0RSV1N0TEvSAZACQVVfeXFMT3N5RHVSODZLWnRMMTdOSHAyUlhSMDJSWU9SMWpkZ0Zud3F5TGZlLVZDQ3M5ZTVHb0JOZzJ3dEFmWEdVMXJfcHNfMnNRdnBzWWt3RGFSWUVCSElEaV9IYnVPLVBzeFZLbzBRRHRRTXhoQXNnc2ZqWC01eDlENFJxNzFNdXJEcXJRMDFMVmVnTnJfMTgwZFM2TDJzaC1rM1BtdEpSWmRNbEx2aEFWVzVaeFpjcjdIZE95YUF5VWQ3NVQyYjRhcjVWamw5eUJkekcycUVVTkhvQnVtR0ZCTldjWHMtZkF2ZEZMcVJJTmx6Nng1MUNNWlN1SU9ESVh5ck5NcFcyNWp3VnBFRFI3T3ZHWTE?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGJRczMxelJNbEYzRkd3c3FkX0NCeXAzOGJoQ1drekM5WWZWTkpIeU1QY1Y2T05HV2lVMDdRcnlVMFRDRWZQcVdjM2VNcm81Z0diUEE2cVljWUw2VUk4Z2RuTlQ4SXh2YVRabm5IRU1hS0R0dEExQklaTUlhQlNBRVBKT2c2UHVuWTZ6U2JkOTBXX3R5eWQ3eDNCTHd3aVdwcFdGQWZLZThOY0pCclV6bWVQa21oTVBVR09aQzN6TDVXTVh3OG85Q1BhMkhQQ01DeUJiSFdjZWhIbGZvODVkdTJSd2pmNUFKNlJUVFI3aDJXSEgzY0RSV1N0TEvSAZACQVVfeXFMT3N5RHVSODZLWnRMMTdOSHAyUlhSMDJSWU9SMWpkZ0Zud3F5TGZlLVZDQ3M5ZTVHb0JOZzJ3dEFmWEdVMXJfcHNfMnNRdnBzWWt3RGFSWUVCSElEaV9IYnVPLVBzeFZLbzBRRHRRTXhoQXNnc2ZqWC01eDlENFJxNzFNdXJEcXJRMDFMVmVnTnJfMTgwZFM2TDJzaC1rM1BtdEpSWmRNbEx2aEFWVzVaeFpjcjdIZE95YUF5VWQ3NVQyYjRhcjVWamw5eUJkekcycUVVTkhvQnVtR0ZCTldjWHMtZkF2ZEZMcVJJTmx6Nng1MUNNWlN1SU9ESVh5ck5NcFcyNWp3VnBFRFI3T3ZHWTE?oc=5)
 
 ---
 
@@ -110,6 +126,14 @@ Source: [diabetes-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQ
 
 ---
 
+### [Zuckermolekül aus rotem Fleisch mit höherem Diabetesrisiko verknüpft](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3YyOGc4c0ZBUkdTQU5hdldCSkdZVkZZWEFXTWZkdGNzOGRMalBYTnd4ZFZIeU9Wem82dHExVXJaMjVSa0FUWEtOd3U1UkJxMzRPM1FUU0tIYUpNMWJFeTNreVFZX3RLN0czb0haV0s4eUZ6d09xTTNXQW9FdzhQdmpmQWJodlZCTUxBSTUyWnlPRXNnQmh0aVpxaVhoZldvUXVlVFVtWWF5NnVV?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3YyOGc4c0ZBUkdTQU5hdldCSkdZVkZZWEFXTWZkdGNzOGRMalBYTnd4ZFZIeU9Wem82dHExVXJaMjVSa0FUWEtOd3U1UkJxMzRPM1FUU0tIYUpNMWJFeTNreVFZX3RLN0czb0haV0s4eUZ6d09xTTNXQW9FdzhQdmpmQWJodlZCTUxBSTUyWnlPRXNnQmh0aVpxaVhoZldvUXVlVFVtWWF5NnVV?oc=5)
+
+---
+
 ### ["I geni non sono destino", essere attivi e ridurre cibi ultraprocessati taglia rischio diabete](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE2QzhVS3hOMmRvLXVvQ2Y4emc5dlJkOXlNWml2bEFHNnM3WV80b191MlZsdnAwaHdNMlU0VWxvWWZueW14aU4wczQ2OHhiaFhsaTF4WEZPNHE1VlYwUWd2Tm1rWVdfbmtCRnY2QWdQMVdRSFozTG5aeXNfbDVTS0hqc1NBSUJUdlZ0TFp0b284bHlZOVBB?oc=5)
 
 2026-09-26 <span class="news-indication-tag">diabete</span>
@@ -118,19 +142,19 @@ Source: [Adnkronos](https://news.google.com/rss/articles/CBMimgFBVV95cUxNX1N5WXE
 
 ---
 
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+### [Diabetesrisiko: Gewichtsverlust und normale Blutzuckerwerte senken es um 73 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
 
 ---
 
-### [Typ-2-Diabetes bei jungen Erwachsenen: Armut und Migrationserfahrung spielen eine Rolle - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
+### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
-2026-09-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0kzMlNtY0E5a1ZZbWZjam1MWmRVdXNES1pqU09SdmdmTFgtQVcwNFFHVE1MaEM5VUpiY0F2OERDcTBodThCc0NrOHdDTnBnQjA3NTBZSGtjRk9aMFFrODE1OEFGWE9lY0xoM2tnX012NFZzU3BxRTg3U1lyN0k5Zmp2RVM1MFNJSnZUSXl1WkowM0hlUkZwT2NnVExvLXlrR0d5c2RVbUEyMmFUNFAxZEs0dHh1a1poeWowZjVJSnM0elZndlZkSVZYMzMwZjFLWUtOQUpoNkVLN2N4?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
 
 ---
 
