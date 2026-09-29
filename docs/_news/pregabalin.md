@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
+
+2026-09-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
+
+---
 
 ### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 

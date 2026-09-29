@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
 
-### [Chronische Insomnie erhöht Schlaganfall- und Klinikrisiko deutlich](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
+### [El Gobierno de La Rioja aborda la prevención de infartos e ictus en el entorno laboral con motivo del Día Mundial del Corazón - Actualidad / Gobierno de La Rioja](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTc2RTJMNG9pN2NtbEJtbDFuX3R1UUlUUXROWmhCbFJEME92ODdvUWMyZWY5X1UyMkRtbDM2U1RKU3ZKdlNueGtmbmtnZDJVRndsa0RnLWlVb3FTS3J4VEhBV2x6RFZpbjBfaTJXRjZkTnVZUVp6Y09SQ2NuUFdMRFk1TVA1dlZlU2lQY0xIdTRxaUs3V0ktM3JrSE4zaTlzMWxCUlVvVTRaeDBON1h4aElPQWRGaW05RmdKNHZPWUNSRXVDNExQQTB0WlN3QkJ3VDc5YWtB?oc=5)
+
+2026-09-29 <span class="news-indication-tag">ictus</span>
+
+Source: [Actualidad / Gobierno de La Rioja](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTTc2RTJMNG9pN2NtbEJtbDFuX3R1UUlUUXROWmhCbFJEME92ODdvUWMyZWY5X1UyMkRtbDM2U1RKU3ZKdlNueGtmbmtnZDJVRndsa0RnLWlVb3FTS3J4VEhBV2x6RFZpbjBfaTJXRjZkTnVZUVp6Y09SQ2NuUFdMRFk1TVA1dlZlU2lQY0xIdTRxaUs3V0ktM3JrSE4zaTlzMWxCUlVvVTRaeDBON1h4aElPQWRGaW05RmdKNHZPWUNSRXVDNExQQTB0WlN3QkJ3VDc5YWtB?oc=5)
+
+---
+
+### [La prima causa di morte? Le malattie cardiovascolari. Eppure l'80% dei casi è prevenibile](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUXB4VlVkTlJCZXlZbDRnODZDVkpOcnNXY2RCbi1KSUZwc2VZbGw4MDBDTmdjTnlNRzNFSURVdkJtTU15aG9Jc3pENEhwZUVYZExoc2szUG1rRUd0SzJoYV9Vc3k2MXdZaWR0cHRaWXhRWUlvX19FRE5rS1VybElwNU4tVHlfMTBCdGx0UTQ5clJ1U3d5VVQ2Z3poYm16WGZHZl81R3Ytb0l3a2Fyb2psUmVWUEVZZVZQbFZUY3Vhd085US02M0RUNElxdTBUblVCRU1qYVR6VXg0WVFvX0xyeFlWSDQxNE1Vc0hIUndVVHJTNE5nVlJZbFZnd9IBgAJBVV95cUxOT19hVlV5ZW40cEM3MGFkSXI5ZjRkS2MwMDB1aDlhRkkyNmVxUnRlZnI5SFdrS0lFS3BIeERja3pDWk5hRzJDZmZUeVlYYnJMUUpBdi1ud1Zxa0NFZEN2ZVRNc21CMGkyOE1SUEc5dWhhSnJpQkQ4UFBKVzIwZjA0MkVNTEpiUC03cmRjNXJBSGRYX1V2Z1ZZZV9lSmJFMTh0OG16M0JXa2VfNFVhMTY3b2RiQ05DdjBYOVBmc09IYmZ2N0xHYmFmZEo0R1RZZmZZVjU4VzBkdEJXeXFVUElyNjZpVWc3c0dSUmpiWW1sblIxLXNreE10a1RnemU4dU1J?oc=5)
+
+2026-09-29 <span class="news-indication-tag">ictus</span>
+
+Source: [RaiNews](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUXB4VlVkTlJCZXlZbDRnODZDVkpOcnNXY2RCbi1KSUZwc2VZbGw4MDBDTmdjTnlNRzNFSURVdkJtTU15aG9Jc3pENEhwZUVYZExoc2szUG1rRUd0SzJoYV9Vc3k2MXdZaWR0cHRaWXhRWUlvX19FRE5rS1VybElwNU4tVHlfMTBCdGx0UTQ5clJ1U3d5VVQ2Z3poYm16WGZHZl81R3Ytb0l3a2Fyb2psUmVWUEVZZVZQbFZUY3Vhd085US02M0RUNElxdTBUblVCRU1qYVR6VXg0WVFvX0xyeFlWSDQxNE1Vc0hIUndVVHJTNE5nVlJZbFZnd9IBgAJBVV95cUxOT19hVlV5ZW40cEM3MGFkSXI5ZjRkS2MwMDB1aDlhRkkyNmVxUnRlZnI5SFdrS0lFS3BIeERja3pDWk5hRzJDZmZUeVlYYnJMUUpBdi1ud1Zxa0NFZEN2ZVRNc21CMGkyOE1SUEc5dWhhSnJpQkQ4UFBKVzIwZjA0MkVNTEpiUC03cmRjNXJBSGRYX1V2Z1ZZZV9lSmJFMTh0OG16M0JXa2VfNFVhMTY3b2RiQ05DdjBYOVBmc09IYmZ2N0xHYmFmZEo0R1RZZmZZVjU4VzBkdEJXeXFVUElyNjZpVWc3c0dSUmpiWW1sblIxLXNreE10a1RnemU4dU1J?oc=5)
+
+---
+
+### [Schlafstörungen: Insomnie ist mit 26 Prozent höherem Schlaganfallrisiko verbunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGlsblJfbVE1alJGRi15d1A4bGlUS05SNWpGUXBGUE9wdmNRNlNwOFVZbDVsV2JiNjhSeWdVUHF5MGF6djRMZlhKanFKQzZETXh3ZUgxUVBYQl9ScWxRUEFaYk5MZ0VLN1F1dVBaV3dZQzdjeElTYVRiakpPYjg0UV9jQmpIMXJLMTYtRGtwUkRxcGVJRFBaUGVFaHR2SG5kYTRrc2I2MXVnRDZPYkZubXpSMldGR1haQ3RlZ0pn?oc=5)
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMinwFBVV95cUxON21zWGtNN0VQUHZZWmFjd2NYVVRObVdPa3RKT3I0ZF83b0JWMV9vQ2tBQkV1S3hnY1laYTlRVV9sWGkxenpGOUQ5dFpzZDZfOWtDa3Z2ZHllSTA2SXhCUXBfR1FzWTlTMWhHT2xqNUp5V2lOWXc0V1c2clh2UDY0SWduU080dG5DTUt5cnVoSmZFZFIzRHZ4ME9LM1M0dWc?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGlsblJfbVE1alJGRi15d1A4bGlUS05SNWpGUXBGUE9wdmNRNlNwOFVZbDVsV2JiNjhSeWdVUHF5MGF6djRMZlhKanFKQzZETXh3ZUgxUVBYQl9ScWxRUEFaYk5MZ0VLN1F1dVBaV3dZQzdjeElTYVRiakpPYjg0UV9jQmpIMXJLMTYtRGtwUkRxcGVJRFBaUGVFaHR2SG5kYTRrc2I2MXVnRDZPYkZubXpSMldGR1haQ3RlZ0pn?oc=5)
 
 ---
 
 ### [Dorset boy aged 6 among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
 
-2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
+2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+Source: [itv.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+
+---
+
+### [Insonnia e ictus, rischio più alto del 26%: cosa rivela il nuovo studio](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSW83bEMtVjdqSHJEanJKSUlwREJZQTJ4bW05aEdCalBfclZTRFU2SkwzTVYyajhyeHBSTmJ2TW8zck0zLWxuUlpZei0yREIybVpadC1DeWRmYTBxV3F5UlQyaF9kcmRIX3Y2NW1ZdmtIRUxqMlZQeGQybmx2N0Fjb1lIWVFHQ1lJWDFVZVpoMXVQUmpmMWRRMFRYUm1EcDBQTTYtaXNTb01rQVlYN0NDaUFBZGI0T3JUN2RydkozWnNmOWVHaElv?oc=5)
+
+2026-09-28 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxPSW83bEMtVjdqSHJEanJKSUlwREJZQTJ4bW05aEdCalBfclZTRFU2SkwzTVYyajhyeHBSTmJ2TW8zck0zLWxuUlpZei0yREIybVpadC1DeWRmYTBxV3F5UlQyaF9kcmRIX3Y2NW1ZdmtIRUxqMlZQeGQybmx2N0Fjb1lIWVFHQ1lJWDFVZVpoMXVQUmpmMWRRMFRYUm1EcDBQTTYtaXNTb01rQVlYN0NDaUFBZGI0T3JUN2RydkozWnNmOWVHaElv?oc=5)
 
 ---
 
@@ -74,15 +98,23 @@ Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJ
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [t-online.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 ---
 
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+
+2026-09-28 <span class="news-indication-tag">ictus</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+
+---
+
+### [AVC chez les jeunes : les cas ont presque doublé en 30 ans](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWFtamJ6bTVTNUZOeEpLa0N0X0pKZ2FuMXVxNk9XQnItZnRsT01ucTlRMklpMzdQREVXc0Y2SHVvU3ZzRkJmN1c3c2xCLTJyUUNnTnhRT0p0bV9kaWNHMHV2TGdlTkYx?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZWFtamJ6bTVTNUZOeEpLa0N0X0pKZ2FuMXVxNk9XQnItZnRsT01ucTlRMklpMzdQREVXc0Y2SHVvU3ZzRkJmN1c3c2xCLTJyUUNnTnhRT0p0bV9kaWNHMHV2TGdlTkYx?oc=5)
 
 ---
 
@@ -90,15 +122,7 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxO
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [franceinfo.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
-
----
-
-### [„Der durch eine krebsassoziierte Koagulopathie ausgelöste Schlaganfall ist eine eigenständige Entität“](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWkR0a1NUM3J4ZE41VDRtaTN5bHFFdVlHdFJFN2tHTDRqdHZiUEpxUnJwY2hxRWgzVGtTUWVIYlVVVnNsLUk2RUhuZm5oX0NqamNYak9zZG1GT2pXRXc1aHl1aVhmc0lGQW1IYWVyXy02UHh3TkJuNGhzNE9seWNCX21LeWdPQkY4QkNuM0ozRWx0NnNDS1BKcXljdEdBV2prWTFtd1Z2YkxXS0h4SG1XQWsxM1lCYWFnUklSSkxSWDVNTm5ObXhuZW1WbHZKUjZEYmw4Z3J2VXh4V3B5cnBN?oc=5)
+Source: [franceinfo](https://news.google.com/rss/articles/CBMiggJBVV95cUxPMUxTVlZreHN6ZU1SblZFdkZid2RDamQ5T19BN0pmb3VUYzM5bGhZa2VjQi1wYnZWUUp5dHNtSk56Rm80bmNQTGxWdENHQlFJS0YzYnNEMWRKenFwOVBuQzFWLUM4eFhDb3Z4Wl93ZUpKUGV3aEQyYUpVT0tZQWh1ZWxPUGFUNTVTVGxfVWRqM3VSUzBIWElwM1FzeGdwRkFUeGhpZFRtVzZBdjZndUFFa2g3NzZfYUJBNFFXY1J3WVhlVzJEQUxxYWJXZ1Bjak9Fdi13NW1ma3ZFeDFWWVpGR0IxZjRibjVJR1c3N0ZmaldhTFdFWUNXN0M0RkJqaVIxQnc?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 2026-09-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjVEbmhkSXdrQUJvWENfYWJ5YUFRWW15RTFsQXRMcWRyNkdBQUpIUmEyS2ppX2QyVEZLU25jV1hENWZjT2h6R1ZkTE5rRDlFZ3RVWVp2Yi1MSE5XWVJCcF84aUZzRXpoRWw2UFZiSUk3QzVncVloM3MtSF9uR3lKc0NDRjdnNDFRNjd5Yk5VWjVaTkdTWGVhbVhSZ2xUMG5HZ010aDlTcjlVZUZkakNFVkk4YW9FeS12ODctdU9ueTlDWjVCMkRHQUxNMzdzbzd3UEJv?oc=5)
-
----
-
-### [Verbessert eine Katheterablation die Aussichten bei Menschen mit Vorhofflimmern nach Mitralklappenreparatur? - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
-
-2026-09-22 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBTZTN4bGZ2anFRWU5NLV9NQ0o3YUx0MG5UZXRyMDZnZlMtRmxNNmtkTl9EM3M2d01DT0FBcXJCZmhUMGNIN1FERDdESW5LSlFyMG0wa2t3aXNJZEd1QUNmVFZZTUJmNm5ORWtHYldlcEtxekZ5eVprLWJBYXkzS1dmc3JSMy0xemFlM2xLU2hfeEtIb1Vqa3hLRWdnMmRyVGd4ZTVNQmQ2STB0YkE2WTZXTlNZVkk1ZmItQTZXd0FfVFczYzhoeWJRR0xOLWgzaWdWVmx5Tjh3Uzd5MV9hbm9ZX2JncTg?oc=5)
 
 ---
 

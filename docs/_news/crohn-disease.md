@@ -31,11 +31,11 @@ This page brings together the latest health news about “Morbus Crohn” and li
 
 ## Related News (1)
 
-### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+### [Spinat, Mandeln & Co.: Oxalat könnte bei Morbus Crohn Entzündungen verstärken](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
 
-2026-09-24
+2026-09-29
 
-Source: [t-online.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
 
 ---
 

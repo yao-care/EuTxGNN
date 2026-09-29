@@ -3,7 +3,7 @@ layout: default
 title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart disease. 2 articles, 57 related drugs."
+description: "Health news about heart disease. 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 2026-09-28
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
----
-
-### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
-
-2026-09-26
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
 ---
 

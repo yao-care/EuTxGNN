@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mirvetuximab Soravtansine?">
-<strong>Mirvetuximab Soravtansine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Mirvetuximab Soravtansine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Mirvetuximab Soravtansine wi
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
 
 2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
+
+---
+
+### [Spostare il reparto "fantasma" di Malattie infettive di Ribera ad Agrigento? Il commissario: "Serve atto deliberativo regionale"](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemdPdWZKekI4VnZMQ2NDck1fV2FLRENjLVJWR0o3d1kwemVtRTVNU2l4am10ZjRZZVZPSHJXMUowSzFobUV0dnFwYlYzTXpyVjQxYTJYcnpycExyUTNEeHk0a2hxbkRKNVd3VzZGOEFINzVGWURfTFN2d2tJX0Vzc2M4dTg3Y1ZwY1dpbS1ZME02V0pXd1NNRVVGcE5OSncwbWhxSDF3TDNjSXBlQTg0TE9yZWpQWXp3Y1BaTmdFLUU4Qkk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">asma</span>
+
+Source: [AgrigentoNotizie](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemdPdWZKekI4VnZMQ2NDck1fV2FLRENjLVJWR0o3d1kwemVtRTVNU2l4am10ZjRZZVZPSHJXMUowSzFobUV0dnFwYlYzTXpyVjQxYTJYcnpycExyUTNEeHk0a2hxbkRKNVd3VzZGOEFINzVGWURfTFN2d2tJX0Vzc2M4dTg3Y1ZwY1dpbS1ZME02V0pXd1NNRVVGcE5OSncwbWhxSDF3TDNjSXBlQTg0TE9yZWpQWXp3Y1BaTmdFLUU4Qkk?oc=5)
 
 ---
 

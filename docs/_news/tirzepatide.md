@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Does GLP-1 use result in significant hair loss? - The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
 
-2026-09-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-09-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
+
+---
+
+### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
+
+2026-09-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
 ---
 

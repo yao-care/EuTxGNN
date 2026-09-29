@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Los datos sobre obesidad en España preocupan a los expertos: "Solo el 56% de las personas que la padecen, la reconoce"](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdFlHX1U5cUpGRjhSZHhZeHJIZjNuajROQUd5aHFLQ2IzNE5aRHNSdGU2MkdJbzZrMTR1Yy02NHU1bUJQVF9GRGlVRHZHRXUxRTRHLUdDYUNOQTlvVUhraURUQkRrREdVWUxZcThxeUNOY2R0NjdwZ1BRQjZQbGNLVzdDN25zQTVIRTN2RzMwSVZnSlRhQi0zbm94dHl6NDFHTkZmUjUyM0JKNlBPQmhlQ3JtQmxfZGNSelJabGYxVE5Ka1N3dXZIQy0tSmd3R0pnalZZQ2dR0gHWAUFVX3lxTE55UmJ2RzNOVWhZTlVQQ1gxX19seGJnRW8wWFRVdEVpdDMwTHM0VE1YMjltdjlWc2o4a2dBSU5rVnk4bGFwY1ROSk04ZFBqalVCZG5KbEl6akFSWEUtT1lOQk12NHNPZzlaa2pXYVhVdzlmdTU4MGtyTDM2LTZEd09NSEljZFVqUWVKQUNIbVpuX1dFbUpYdlA0V2F2aTJLQVA3LVQ1VUN1R2Y4X25sTWR6U3ZjUXlsVklUanV4cVFRTmU0R3hEMXlyeXFHYjZ2ZUYwOUkxUHc?oc=5)
+
+2026-09-29 <span class="news-indication-tag">obesidad</span>
+
+Source: [MARCA](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdFlHX1U5cUpGRjhSZHhZeHJIZjNuajROQUd5aHFLQ2IzNE5aRHNSdGU2MkdJbzZrMTR1Yy02NHU1bUJQVF9GRGlVRHZHRXUxRTRHLUdDYUNOQTlvVUhraURUQkRrREdVWUxZcThxeUNOY2R0NjdwZ1BRQjZQbGNLVzdDN25zQTVIRTN2RzMwSVZnSlRhQi0zbm94dHl6NDFHTkZmUjUyM0JKNlBPQmhlQ3JtQmxfZGNSelJabGYxVE5Ka1N3dXZIQy0tSmd3R0pnalZZQ2dR0gHWAUFVX3lxTE55UmJ2RzNOVWhZTlVQQ1gxX19seGJnRW8wWFRVdEVpdDMwTHM0VE1YMjltdjlWc2o4a2dBSU5rVnk4bGFwY1ROSk04ZFBqalVCZG5KbEl6akFSWEUtT1lOQk12NHNPZzlaa2pXYVhVdzlmdTU4MGtyTDM2LTZEd09NSEljZFVqUWVKQUNIbVpuX1dFbUpYdlA0V2F2aTJLQVA3LVQ1VUN1R2Y4X25sTWR6U3ZjUXlsVklUanV4cVFRTmU0R3hEMXlyeXFHYjZ2ZUYwOUkxUHc?oc=5)
+
+---
 
 ### [Fegato grasso, ce l’ha un bambino su tre con sovrappeso e spesso non dà sintomi](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmF3bmtvOWR1QTRqdzN6VTUxWWtJNGJacW1ZX2paeTBwamNuYXQ0TUd4TklFazRUTzFXY3Vza3ZZdjNrRHM5Z2R1aUY4Q3RxX2JWek9SMENHd2tCOG1qWjNJN0QxNl9MRTl3RkJfV3pidTN0WmlFS3U1amU1NlhUUi1XamhocnVuVmVfMXVUaG51UWNKWENrUXROekpQYllzeHVxaE8xaExOQWhSYW1sd1BESTR1MWd1Qk5ZMXlXbFZtdFV1NWJj?oc=5)
 
-2026-09-28 <span class="news-indication-tag">obesità</span>
+2026-09-28 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmF3bmtvOWR1QTRqdzN6VTUxWWtJNGJacW1ZX2paeTBwamNuYXQ0TUd4TklFazRUTzFXY3Vza3ZZdjNrRHM5Z2R1aUY4Q3RxX2JWek9SMENHd2tCOG1qWjNJN0QxNl9MRTl3RkJfV3pidTN0WmlFS3U1amU1NlhUUi1XamhocnVuVmVfMXVUaG51UWNKWENrUXROekpQYllzeHVxaE8xaExOQWhSYW1sd1BESTR1MWd1Qk5ZMXlXbFZtdFV1NWJj?oc=5)
 
 ---
 
-### [Casi una de cada dos personas con obesidad no reconoce que padece la enfermedad, según una encuesta de Lilly](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+### [Adipositas und Rheuma: Diese Immunzellen verändern sich nach starkem Gewichtsverlust](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpqMlpJRVpPNHNHSk5zWEFDWWhDRy1GbU9zWmg5dUdUeHl4aHhGQjA3by10N3Z6XzlSc3VyajVPeXFNc3R2MENZNm9SMDd6VE9pQ0o1Vmg4dUFjSEZHeFJTVW8yQ2pUYWJVclBiLTM5cGo0SkZBTzZRWHRteTFaR3otQWpQUkstWFRteHNwTnlxWGhpMElzTXJyUkhhMkVmWnU4U0oyQWRRb19jN0s0c09Sa3cxYko0clI3VA?oc=5)
 
-2026-09-28 <span class="news-indication-tag">obesidad</span>
+2026-09-26 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEFJUUdhaUZTY1lMbGVpbnlVTGZwMEUtMUNUUHdSTG5TTlZjTVEwLUtnSWxtQ2lqV2JTb3ZNMmlUd0E3ZGFhYkYwcEsxM2V4bzNQU1JMdnNUcXA3UFBaRHRJM1h0dkJuc2tlUUM4aVhhU3NPdndoWnlxV0RHZGlkVGMzeVByVU5vQ3BIOXFVVXNTdU5obzMtYjlFaUszTDBjZkJlSE5UWjhrOUVuLTRoQ1JnQ3IzTlV1M3hoaS1UeHdkVFRIN3FTZ2ZPUlQ5VHY5WF9hVTJpbEFVMkJYNnZ5OV81dTY?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpqMlpJRVpPNHNHSk5zWEFDWWhDRy1GbU9zWmg5dUdUeHl4aHhGQjA3by10N3Z6XzlSc3VyajVPeXFNc3R2MENZNm9SMDd6VE9pQ0o1Vmg4dUFjSEZHeFJTVW8yQ2pUYWJVclBiLTM5cGo0SkZBTzZRWHRteTFaR3otQWpQUkstWFRteHNwTnlxWGhpMElzTXJyUkhhMkVmWnU4U0oyQWRRb19jN0s0c09Sa3cxYko0clI3VA?oc=5)
 
 ---
 

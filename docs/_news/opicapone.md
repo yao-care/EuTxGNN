@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 
 ## Related News (5)
 
-### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
 
 2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
+Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
 
 ---
 
@@ -72,9 +72,17 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzV
 
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
-2026-09-27 <span class="news-indication-tag">dementia</span>
+2026-09-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+---
+
+### [What Happens to Your Brain When You Read, According to a New Study](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
+
+2026-09-27 <span class="news-indication-tag">dementia</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2ZJWFpvRWd1a0xMbzI2LVZmZVRiRkVEMTZGT3hKc3NGM3pBSlMySjEzOC1BTm1CZzBKQWNPejU3VEN3SEwzOHBCYTVabHJwWGNqT01YRmUxSXpGbzlZVnJaRllVOEs0cEc2NnRwZVFTQUVJUVphMkxqS2pITkNQUkRzNnVveUJoUXc?oc=5)
 
 ---
 
@@ -82,15 +90,7 @@ Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVps
 
 2026-09-27 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [lavenir.net](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
-
----
-
-### [Childhood dementia should be more widely recognised, mother says](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
-
-2026-09-25 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qTVZDOHN2Z3M2SldBT2VILW5NQmoxTUFlTkRad0JPN2lhUFZ4Q2tna0JQSkhiTWZSSkNlTmJtcEdhMlVlWWVlVGRvS2t1TFViVHppVUNSLXhMa0lwdHc?oc=5)
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
@@ -75,14 +75,6 @@ Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFB
 2026-09-26 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUmFRWldyVUFqczFVc1JaVFFOaXI3OTB2cWYxTjBScFJPSy1zM2VHU3l4OThzZUlXZkc4eFJ4djd4a3UxWEFGOE13SlByRGVQN1J3VnZZYlc2YWFKejNQVUF2dl9TczZDczJDc2UzV1plNzB2dDRGeC1JZUtxV3NTSXdJYkRqOEpqT2NXWk9IN3otdmQ3Tk5uVHVwVW1OWjBXMWR0QzJ0c0p0eHZxd2JsVjZvUjZIdk9MZVJnb0prZWNmQmhoZVVMVF9qb0lScUkyam1WbXdPOVl5d0E?oc=5)
-
----
-
-### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
-
-2026-09-26 <span class="news-indication-tag">heart disease</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
 
 ---
 

@@ -40,11 +40,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENN
 
 ---
 
-### [This Nightly Habit Could Be Changing the Structure of Your Heart, New Study Says](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
-2026-09-26 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">arthritis</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiekFVX3lxTE1CQjk2Nk1vSF8yeF84M2xoQkFoVVZKWWpibGFuMF9CX01EVjUzd3BpbXV1dWpMRVpiRGRaWmxGOVhaQmhNU1NpMmU3Nm9YcVRSMVN0REoxclpwazVsV0IzbXZnMXQ4UWpKUjRyWmpZNjctNVlHUGVGV0Nn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
 ---
 

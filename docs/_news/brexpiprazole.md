@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [“Meno cibi ultra-processati, meno sintomi depressivi”: i primi risultati di uno studio pilota - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2JJQThnZkNtNjd0a29ZSmRGWW84d0xUb2dVUURwN3pYU0dGYUVyenQwWUwwZFBaTkZReGx4TVFudkxEbWdDWk5kcHlJMVVFeHRtQjgtc1dXaUZNSWU4RlExR3B4RU9ZUkE5ZjNCSVNDenBZRlFyVHVIZ2VVZm5VR0VaNGxjWTNCNjdYZ01OZndiNXI2V2JydTNpVlhyd0pMTmJR?oc=5)
 
 2026-09-28 <span class="news-indication-tag">depression</span>
 
 Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2JJQThnZkNtNjd0a29ZSmRGWW84d0xUb2dVUURwN3pYU0dGYUVyenQwWUwwZFBaTkZReGx4TVFudkxEbWdDWk5kcHlJMVVFeHRtQjgtc1dXaUZNSWU4RlExR3B4RU9ZUkE5ZjNCSVNDenBZRlFyVHVIZ2VVZm5VR0VaNGxjWTNCNjdYZ01OZndiNXI2V2JydTNpVlhyd0pMTmJR?oc=5)
-
----
-
-### [I’m a psychiatrist. This is the terrifying reality of postpartum psychosis - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
-
-2026-09-27 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS0ktNUhVUWNhanVPV0p5aEh6QWdiLThvYkIwbjJJVUV6dS1hMmsyZWdKQ2k3OWdGOWtYYXlkU0pVMkdaenZkNXNxZjgzT0NfTThYT1lpUG13R0IzajI2ekJUQV9fQ0RvN056eklkX3ZuSnFlTUlvWEljbWNGRE5kX1ZkMW5RUXFXRU5QR3dYOW9WWFpsNUUtMThtZFJiNTF0?oc=5)
 
 ---
 

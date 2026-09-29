@@ -14,7 +14,7 @@ permalink: /news/golimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Golimumab?">
-<strong>Golimumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Golimumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Golimumab with the latest he
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Oft Verdauungsprobleme? Wann gesunde Lebensmittel Entzündungen fördern könnten](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+### [Spinat, Mandeln & Co.: Oxalat könnte bei Morbus Crohn Entzündungen verstärken](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
 
-2026-09-24 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+2026-09-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [t-online.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXh6UlZna0lpeDQ0cXdZZGE5b0RBbFRpVkN6OGxEd0RtOFZJSWdlX3YtM0g0dmZGSzl5UEFUTFVUVnA4X29QNWljSERucFZEOEZIenlVRWd4cjMyRmhVUW1JR01yRnhnMkFJa3JZNlllSzBNbXhQT0VJMFNCOFljcmR3ejVYU2tvdnlPM3lJSUpuQnBhX1I0ME5aUWt5TlNIa3hwbWhMaURMXzh4aGJxVTkyMDdlbVdkeG9PaU96RV9ET3NvY3kwbGdtTkpfcUMxU2dBaQ?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
+
+---
+
+### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
+
+2026-09-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
 
 ---
 
