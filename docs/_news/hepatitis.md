@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hépatite (hepatitis) News"
+title: "hepatitis News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hépatite (hepatitis). 1 articles, 25 related drugs."
+description: "Health news about hepatitis. 1 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
-# hépatite (hepatitis) News
+# hepatitis News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hépatite (hepatitis)?">
-<strong>hépatite (hepatitis)</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<p class="key-answer" data-question="What news is there about hepatitis?">
+<strong>hepatitis</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hépatite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hepatitis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -55,11 +55,11 @@ This page brings together the latest health news about “hépatite” and lists
 
 ## Related News (1)
 
-### [Un cancer sur huit est lié à des infections pour la plupart évitables, estime une agence de l'OMS - Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTdISmxvWXNBRTNzcXEySHZITnhLYUlaY0ttUF9qbVB3aFJQWXdRUmF0aHRfQ2FYamZjaThYV3dvQlFUYS1rdmtvb0xmTWVBMWJrU1F2Y2E3UWxaZW5HdHBDR1NfT3RRMnQ2UXc5cFRzR0RtUGtyRXFpdHRkU1RQLTF1cVZQQ2tJNDFsQmxMb045VnQwU1lzbFF2YUZaWW1qWUNTVl9RazBFTzdwbm5La3QzRDJqeFhzV014MjJvQmpKeWxPMnd2eVl5YnBxLUxKekpVMENRb3hGeXVhVFN3MFc5dGJEdWlR?oc=5)
+### [S3-Leitlinie und STIKO definieren Impfstrategien gegen Hepatitis A und B](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHhjNXZ4VkluYUw4aWVJRjBCaVNhZzN6MU51dzFTeWVpWWZxWmw5bGIzOU1QalZLRFFBUmVIV3l3YnBCcXZqOUxyWW9UUEt6aUFKWTk2bFVkRGZRN2ZDVGdjRDYtUno0Q0JnbHhVNlZ5NTQ5R0tSOVJ5WnhIbDM3NDItRU9CTTVfVTg2dDBNQllLSEpT?oc=5)
 
-2026-09-29
+2026-09-25
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOTdISmxvWXNBRTNzcXEySHZITnhLYUlaY0ttUF9qbVB3aFJQWXdRUmF0aHRfQ2FYamZjaThYV3dvQlFUYS1rdmtvb0xmTWVBMWJrU1F2Y2E3UWxaZW5HdHBDR1NfT3RRMnQ2UXc5cFRzR0RtUGtyRXFpdHRkU1RQLTF1cVZQQ2tJNDFsQmxMb045VnQwU1lzbFF2YUZaWW1qWUNTVl9RazBFTzdwbm5La3QzRDJqeFhzV014MjJvQmpKeWxPMnd2eVl5YnBxLUxKekpVMENRb3hGeXVhVFN3MFc5dGJEdWlR?oc=5)
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHhjNXZ4VkluYUw4aWVJRjBCaVNhZzN6MU51dzFTeWVpWWZxWmw5bGIzOU1QalZLRFFBUmVIV3l3YnBCcXZqOUxyWW9UUEt6aUFKWTk2bFVkRGZRN2ZDVGdjRDYtUno0Q0JnbHhVNlZ5NTQ5R0tSOVJ5WnhIbDM3NDItRU9CTTVfVTg2dDBNQllLSEpT?oc=5)
 
 ---
 

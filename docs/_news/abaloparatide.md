@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>21 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>20 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (20)
 
-### [Demenz: Diese Cholesterin-Senker könnten das Risiko überraschend deutlich reduzieren](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
+### [Typ-2-Diabetes: 5-Jahresrisiko für Nieren-, Herzinsuffizienz oder Tod bei 33 %](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1E3eURXSWxtODFUV24xY0czcTRYbVNHdnJsMUN3T0FrOVVneWxLeTBnVnJka084YmE2UVIwc0g3ejQ5TkhkaGNGeFZfalI5SlVGNTROQXdrNWpoOWpkQjFROUt2Y01VNk5IX1NFXzZSMkNiZXZJcFNfSVQ2djZieWZTUXViU3JJZmk1Yk5IMVdMZlR3TUpadlBNUnZLQ0xrcVZ5X05tZVhYaDlONlQ3Zw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcTgyd2NzSjBocXY0ZlRGYmhrdU14Y0VqMnBPUWM4TmI2djYyODhYdU1zd3F5OEZnWTlSMi1UUlBZVmlpcDhPVFNuRlh2Vm8tX2NrbEE2UnIzTkRWTmVsaXhYaW5MY096MXFyWUo0MU9XZTh0V2NFXy1lOXp5Z1hYQjFZUC1lVnFUUmh0UE9CaEtETzNKNGg0MVFZYmlma21GRlQxV0QyOVVnMW5kZFBXNjhGclRlTHFHOWNXX3VVZUMwREdEME1ESXpIWW5LT3F2TTdPNW5zMFBkVGVERVhua0ExMndPTFVk?oc=5)
+Source: [mgb-medizin.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1E3eURXSWxtODFUV24xY0czcTRYbVNHdnJsMUN3T0FrOVVneWxLeTBnVnJka084YmE2UVIwc0g3ejQ5TkhkaGNGeFZfalI5SlVGNTROQXdrNWpoOWpkQjFROUt2Y01VNk5IX1NFXzZSMkNiZXZJcFNfSVQ2djZieWZTUXViU3JJZmk1Yk5IMVdMZlR3TUpadlBNUnZLQ0xrcVZ5X05tZVhYaDlONlQ3Zw?oc=5)
 
 ---
 
-### [Ein Stoff in rotem Fleisch könnte Diabetes begünstigen – Studie zeigt 63 Prozent höheres Risiko bei hoher Aufnahme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc00xbTRYOGdTTllYSEpoWXF1akg0OVVDb2xrckxYbDNlN0dSNWtxQm01VWp1RkpOWFVuVTREd1NuVW9CNVU1TkRON0VaQ05PTUVQUkhhTTRWYWV1Tl9maHJsQVFYSF9BRXBwaDRPSU5DUXJDbWlIYUd1aW9QNXNaRTB0QUZFZ21SN2VTSGkzaU5oaFJWN3Vvb3hXRmdQRERUaFlXV2xkdk1SX0Nuc3B2VzFvdzB5X182b2tlZnVNN3RpM1M3aWFJYktsbnh0TTQxTTdzYlhyUk11dHhKR1ljRzZEaW1NalZ5RHRv?oc=5)
+### [Ein Stoff in rotem Fleisch könnte Diabetes begünstigen – Studie zeigt 63 Prozent höheres Risiko bei hoher Aufnahme - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMy0xRU9DQTJmSDAzYVBibEl6aFRvVlBOdXh4N3hiWkRSa2JSbXB6SjhBZk8yUlpTd3VHXzhBRWxrbklkRV9zX21XM0VhNjNOZ2xzY19aYXF1aXB6RGlOdHc0SzFBSzFUblc0YWNvVDVMelRVeXBFamktbGpKc2dfNWwtcl9CbjVOTkJsTVk4QW5sQ2RIQ1E0Q2tYaTMtMk5RTmtZS2g4aExWTmp1ZkN5QXdKOVBxM0Z4TS1jWVlhQlZHYUw1VE13MUNHbnc3MVp4TnlMQUJwQQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [Werra-Rundschau](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc00xbTRYOGdTTllYSEpoWXF1akg0OVVDb2xrckxYbDNlN0dSNWtxQm01VWp1RkpOWFVuVTREd1NuVW9CNVU1TkRON0VaQ05PTUVQUkhhTTRWYWV1Tl9maHJsQVFYSF9BRXBwaDRPSU5DUXJDbWlIYUd1aW9QNXNaRTB0QUZFZ21SN2VTSGkzaU5oaFJWN3Vvb3hXRmdQRERUaFlXV2xkdk1SX0Nuc3B2VzFvdzB5X182b2tlZnVNN3RpM1M3aWFJYktsbnh0TTQxTTdzYlhyUk11dHhKR1ljRzZEaW1NalZ5RHRv?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMy0xRU9DQTJmSDAzYVBibEl6aFRvVlBOdXh4N3hiWkRSa2JSbXB6SjhBZk8yUlpTd3VHXzhBRWxrbklkRV9zX21XM0VhNjNOZ2xzY19aYXF1aXB6RGlOdHc0SzFBSzFUblc0YWNvVDVMelRVeXBFamktbGpKc2dfNWwtcl9CbjVOTkJsTVk4QW5sQ2RIQ1E0Q2tYaTMtMk5RTmtZS2g4aExWTmp1ZkN5QXdKOVBxM0Z4TS1jWVlhQlZHYUw1VE13MUNHbnc3MVp4TnlMQUJwQQ?oc=5)
 
 ---
 
@@ -86,19 +86,19 @@ Source: [IsraJ](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGF2a213X3h
 
 ---
 
-### [Rosanna Lambertucci: «Mio fratello ha scoperto il diabete dopo un infarto. Ha fatto le punture, ma ci sono effetti collaterali»](https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1dmZEtNZzYzY1JRMG1ZY1VYbkx0SWxXb0NXX04zUUMycVZxZjVZdkJiQnlwNnpwRVVpcmJrRHh0VkdQcWVHaTVUYk5GVjJabW9RZURKUWZvcl9penZRN1F5bGhLYy1DNkNiaEhOVzhOZTJ1bkFQMEJQTXJFVDZzaFFiZFBIWEpoZThCbDNGM1FCMEJGTEcyaUpXeHhiX2hEN3lnSlh6UGJSSWZESmVyeDVkTm1MRGxsSFBtWlJRTXJJWmtEQkFIazdn0gGwAUFVX3lxTE5lMTNSVFUyZ1E2bnY2a0lmYUJOZkxfU05nVUhOaW1HRFJnVjhXblNYaE9zRE1BcURwc2VaeEFpSU5KRjk4Qkl3dzFaMy1lbVNvYno1bWFaRFh2dm9ka0dLTHBxaFJVUUFpQmhTRzlvTlZOb0d1MmlWMklZRzlISDFWZktCZ3BBa0hGcDFYbll1WW9uVThwR2M1a3p3ZmphMUZuMFVoMjR3WWFRNDZKaXcz?oc=5)
-
-2026-09-29 <span class="news-indication-tag">diabete</span>
-
-Source: [Leggo.it](https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1dmZEtNZzYzY1JRMG1ZY1VYbkx0SWxXb0NXX04zUUMycVZxZjVZdkJiQnlwNnpwRVVpcmJrRHh0VkdQcWVHaTVUYk5GVjJabW9RZURKUWZvcl9penZRN1F5bGhLYy1DNkNiaEhOVzhOZTJ1bkFQMEJQTXJFVDZzaFFiZFBIWEpoZThCbDNGM1FCMEJGTEcyaUpXeHhiX2hEN3lnSlh6UGJSSWZESmVyeDVkTm1MRGxsSFBtWlJRTXJJWmtEQkFIazdn0gGwAUFVX3lxTE5lMTNSVFUyZ1E2bnY2a0lmYUJOZkxfU05nVUhOaW1HRFJnVjhXblNYaE9zRE1BcURwc2VaeEFpSU5KRjk4Qkl3dzFaMy1lbVNvYno1bWFaRFh2dm9ka0dLTHBxaFJVUUFpQmhTRzlvTlZOb0d1MmlWMklZRzlISDFWZktCZ3BBa0hGcDFYbll1WW9uVThwR2M1a3p3ZmphMUZuMFVoMjR3WWFRNDZKaXcz?oc=5)
-
----
-
 ### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
 Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+
+---
+
+### [Diabete di tipo 2: nuove ipotesi sull’efficacia del monitoraggio continuo del glucosio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeTdDMUk0YmVSTjFXeWJndU13RnVKcGpwWHNlLXFCOUFZbURoUGZzN3puTGJmb2Etek8tZ3ZnZWM2MFlnMzgtMmZsdEwxTGdnVTZZLUtGMHEtcTk5RFpHcXhEZVNhMHVoeENfd0FrcXRKMHhyRkp1bWloRkQ2NEhPMC1nT2phLWFMd2tjc1FGQVo3R3l5V29uT1NoRTBUVlRpdkY2MnZReUtEMWdwU2E4Sm5DUzlBQkt5UENCSndkT3hOTFE?oc=5)
+
+2026-09-29 <span class="news-indication-tag">diabete</span>
+
+Source: [CardioInfo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeTdDMUk0YmVSTjFXeWJndU13RnVKcGpwWHNlLXFCOUFZbURoUGZzN3puTGJmb2Etek8tZ3ZnZWM2MFlnMzgtMmZsdEwxTGdnVTZZLUtGMHEtcTk5RFpHcXhEZVNhMHVoeENfd0FrcXRKMHhyRkp1bWloRkQ2NEhPMC1nT2phLWFMd2tjc1FGQVo3R3l5V29uT1NoRTBUVlRpdkY2MnZReUtEMWdwU2E4Sm5DUzlBQkt5UENCSndkT3hOTFE?oc=5)
 
 ---
 
@@ -126,19 +126,19 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFF
 
 ---
 
-### [Diabete, l'intelligenza artificiale lo cerca nella voce: bastano 20 secondi - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHdlWjdkb1F1aXVNaXJlSHd3ejhoOGRwU1FvMS13NHluWk9MY3lxQk9KVU9Tcm1WdnpGclpJOGZ4SG5OcFM4VjlQSzRiaFlkUEp1dV9nM3ZvY2RsdFpCR01MLXdycV91czQwdS0yN0Y5UUMxVjZRREZHeVdLSHBGQXVub1RKRWRRX0FXNEtLMUFUdDdIRTJLSzQxTmhnYmpPcjZJUjBn?oc=5)
+### [AI could detect diabetes from voice recordings - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1JLbjhzd29QM183U2x2RXB1Q0g2U0VoLVlJbm1iNjZHR2FVZnozMzlqYVJrd082S1hSLVM2SFpEVW5tWVBDa2tkdW84YzNQVGtiLUozVEs3QnNycTYwS08waHR4ckd2OUktWE9Bc1lyc19JM09LcU1SbmY1TGtTUFZaX2hXS2tQZEk3RFpyX05FdF9QaXc?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabete</span>
+2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZHdlWjdkb1F1aXVNaXJlSHd3ejhoOGRwU1FvMS13NHluWk9MY3lxQk9KVU9Tcm1WdnpGclpJOGZ4SG5OcFM4VjlQSzRiaFlkUEp1dV9nM3ZvY2RsdFpCR01MLXdycV91czQwdS0yN0Y5UUMxVjZRREZHeVdLSHBGQXVub1RKRWRRX0FXNEtLMUFUdDdIRTJLSzQxTmhnYmpPcjZJUjBn?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1JLbjhzd29QM183U2x2RXB1Q0g2U0VoLVlJbm1iNjZHR2FVZnozMzlqYVJrd082S1hSLVM2SFpEVW5tWVBDa2tkdW84YzNQVGtiLUozVEs3QnNycTYwS08waHR4ckd2OUktWE9Bc1lyc19JM09LcU1SbmY1TGtTUFZaX2hXS2tQZEk3RFpyX05FdF9QaXc?oc=5)
 
 ---
 
-### [AI could detect diabetes from voice recordings - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1JLbjhzd29QM183U2x2RXB1Q0g2U0VoLVlJbm1iNjZHR2FVZnozMzlqYVJrd082S1hSLVM2SFpEVW5tWVBDa2tkdW84YzNQVGtiLUozVEs3QnNycTYwS08waHR4ckd2OUktWE9Bc1lyc19JM09LcU1SbmY1TGtTUFZaX2hXS2tQZEk3RFpyX05FdF9QaXc?oc=5)
+### [Un test della voce per scoprire il diabete: la nuova frontiera dell'intelligenza artificiale](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUFMYVh1QUtsYXcwZ1hmbTVXNTRDVC04QXI1S29obmVkYXV3SjNEOUcwMGZFZ1JQcGlNU1pJaURtZkYySDRyNjZBeFJRVFd4bVIzZFVsaWg1c1M4Yk93cWZDTm9jS3A5U2lya3dhcHhlTnp3Tzg0bHJXZTM3MUtnVUdBUUsyVU5QLXA4cVBHSG5qRkNhanBHQ200NUt2Ukw5Q09xVzQwU2sxZVQ0a0pyQUVOb0xVRFFBMk9DX19aeHczVFV5cnpiR2hCTmhTN2hKbnZPSnZTZkdfWTIxc3Q1dWlWT1dCWnNnWWY5R0x30gHzAUFVX3lxTE1KZl9NRWZka0JaR0JTVHdWUFdLMWVndkxKd0o2VUQ5SmZnM2hlcUlUYlFUZGZ3ZEpXUDRQVVBYWEFORHAtSnE3TEhjOW1VVFhEZ3NabVJJcklEczg2UHg0T2hJMXpDLWY2dlNhS2JFVkRhWHd2M25EUGdCNjUtdGlEMGhXZjAwVGZUdGRyRkdkVkprZFFmakhlNHFpWVI0WHpjRUt2UEg1SXN5U3dHMzFlaFNhUURtaURwQlBUMFNGOW9MMC1YUVVuVWZ2TmE3NkdDelByZVR2ZkZvcmN6Q3ZmZ1dRUHVOTTFod01adndaWW9zaw?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabetes</span>
+2026-09-29 <span class="news-indication-tag">diabete</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1JLbjhzd29QM183U2x2RXB1Q0g2U0VoLVlJbm1iNjZHR2FVZnozMzlqYVJrd082S1hSLVM2SFpEVW5tWVBDa2tkdW84YzNQVGtiLUozVEs3QnNycTYwS08waHR4ckd2OUktWE9Bc1lyc19JM09LcU1SbmY1TGtTUFZaX2hXS2tQZEk3RFpyX05FdF9QaXc?oc=5)
+Source: [RaiNews](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUFMYVh1QUtsYXcwZ1hmbTVXNTRDVC04QXI1S29obmVkYXV3SjNEOUcwMGZFZ1JQcGlNU1pJaURtZkYySDRyNjZBeFJRVFd4bVIzZFVsaWg1c1M4Yk93cWZDTm9jS3A5U2lya3dhcHhlTnp3Tzg0bHJXZTM3MUtnVUdBUUsyVU5QLXA4cVBHSG5qRkNhanBHQ200NUt2Ukw5Q09xVzQwU2sxZVQ0a0pyQUVOb0xVRFFBMk9DX19aeHczVFV5cnpiR2hCTmhTN2hKbnZPSnZTZkdfWTIxc3Q1dWlWT1dCWnNnWWY5R0x30gHzAUFVX3lxTE1KZl9NRWZka0JaR0JTVHdWUFdLMWVndkxKd0o2VUQ5SmZnM2hlcUlUYlFUZGZ3ZEpXUDRQVVBYWEFORHAtSnE3TEhjOW1VVFhEZ3NabVJJcklEczg2UHg0T2hJMXpDLWY2dlNhS2JFVkRhWHd2M25EUGdCNjUtdGlEMGhXZjAwVGZUdGRyRkdkVkprZFFmakhlNHFpWVI0WHpjRUt2UEg1SXN5U3dHMzFlaFNhUURtaURwQlBUMFNGOW9MMC1YUVVuVWZ2TmE3NkdDelByZVR2ZkZvcmN6Q3ZmZ1dRUHVOTTFod01adndaWW9zaw?oc=5)
 
 ---
 
@@ -160,7 +160,7 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ
 
 ### [In Italia 4 milioni di diabetici, si punta sui farmaci multi-target](https://news.google.com/rss/articles/CBMikAJBVV95cUxPRHIycVRSTURwV09LZHRMeU5xTk9ZM0VkZE42bFFSVDlMNUxac3U0Vmtyb3M0UlB1SC1xMi1TNEE5UGw0OEw5WUo0WVgtWFlBYWhtMHdmZnVYc3ZycnJaSWREb1dKaEpNcXRKTEpNN2pwOTE4S1RjU2c0a0dzelJlVUF4WWFJRnZmX05HMFdVZnhtMWZJRFdvWEdVbjhxRk9haldXTVNUdC1RSnBNMW9VNHk4VjN0M1I0bzR4OXNkOFVrbm92RmptRHIzZGJZdzUtQS1tVXFOZGZVV1VLSW01NEJObDRMc0c2eGU5WkUycVBadVR4ZTgxMVh4RjFoNTRxY1RjZWdwZ3ZNZXN4YllNMNIBlgJBVV95cUxPVUhBRks3OVp6MWVBWFpLeEVoZk9UbVlCQWhCMTVOR2ZyV0JFVzY2aFRHeWwtUGpNMVpmTVRvX2M3LTB1R1ZyaDZ2Tk5KTGNTOTIydFdEQjFyNzM3X3ZsaVZwTWx4bXhwV2lDTjlpRU9LMTdkOGtKeHJVdUNqWE9MVmNqaUFsSFhEZ3lDRTl3V0JoTlVzYVNWcVJkeFV3cmxvdXYtcGl3Q01QeVQtc2dreWpma3RlMlpzdFJ1cWRQeE5adUZVRDljZHd5VFNRMlBKcjhQZkNUSWoyaDdybjB2d3RvcFB2UWJUNnJHOWFQT2dob2tIRTk3SGQyREN1R0FtZmExaERtSjZFRmVSMldfelhVd2RUQQ?oc=5)
 
-2026-09-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+2026-09-28 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMikAJBVV95cUxPRHIycVRSTURwV09LZHRMeU5xTk9ZM0VkZE42bFFSVDlMNUxac3U0Vmtyb3M0UlB1SC1xMi1TNEE5UGw0OEw5WUo0WVgtWFlBYWhtMHdmZnVYc3ZycnJaSWREb1dKaEpNcXRKTEpNN2pwOTE4S1RjU2c0a0dzelJlVUF4WWFJRnZmX05HMFdVZnhtMWZJRFdvWEdVbjhxRk9haldXTVNUdC1RSnBNMW9VNHk4VjN0M1I0bzR4OXNkOFVrbm92RmptRHIzZGJZdzUtQS1tVXFOZGZVV1VLSW01NEJObDRMc0c2eGU5WkUycVBadVR4ZTgxMVh4RjFoNTRxY1RjZWdwZ3ZNZXN4YllNMNIBlgJBVV95cUxPVUhBRks3OVp6MWVBWFpLeEVoZk9UbVlCQWhCMTVOR2ZyV0JFVzY2aFRHeWwtUGpNMVpmTVRvX2M3LTB1R1ZyaDZ2Tk5KTGNTOTIydFdEQjFyNzM3X3ZsaVZwTWx4bXhwV2lDTjlpRU9LMTdkOGtKeHJVdUNqWE9MVmNqaUFsSFhEZ3lDRTl3V0JoTlVzYVNWcVJkeFV3cmxvdXYtcGl3Q01QeVQtc2dreWpma3RlMlpzdFJ1cWRQeE5adUZVRDljZHd5VFNRMlBKcjhQZkNUSWoyaDdybjB2d3RvcFB2UWJUNnJHOWFQT2dob2tIRTk3SGQyREN1R0FtZmExaERtSjZFRmVSMldfelhVd2RUQQ?oc=5)
 
@@ -182,6 +182,14 @@ Source: [diabetes-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQ
 
 ---
 
+### [Typ-I-Diabetes : Heilung in Sicht - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3RGOTRfQkpHMGQzSFd6UVp2Z1QybmZiTGZmRlNQdF8ydm5VaEhabVRFdS1sZE5yYldUTnpadE9JamQwS2p6bTlvNnV2QXRkcjl3MDdLc2xLdnhycHhUcUtlMjBtbEY1bTFCMnpVY1F0Vlg5TWpZOWNNN2dYc1RXc0hhMzVnY2JBbHZEQ1J6YUFSdUUzX2dv?oc=5)
+
+2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3RGOTRfQkpHMGQzSFd6UVp2Z1QybmZiTGZmRlNQdF8ydm5VaEhabVRFdS1sZE5yYldUTnpadE9JamQwS2p6bTlvNnV2QXRkcjl3MDdLc2xLdnhycHhUcUtlMjBtbEY1bTFCMnpVY1F0Vlg5TWpZOWNNN2dYc1RXc0hhMzVnY2JBbHZEQ1J6YUFSdUUzX2dv?oc=5)
+
+---
+
 ### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 2026-09-27 <span class="news-indication-tag">emicrania</span>
@@ -190,19 +198,11 @@ Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFB
 
 ---
 
-### [Frauen mit großen Brüsten leiden häufiger an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUmFRWldyVUFqczFVc1JaVFFOaXI3OTB2cWYxTjBScFJPSy1zM2VHU3l4OThzZUlXZkc4eFJ4djd4a3UxWEFGOE13SlByRGVQN1J3VnZZYlc2YWFKejNQVUF2dl9TczZDczJDc2UzV1plNzB2dDRGeC1JZUtxV3NTSXdJYkRqOEpqT2NXWk9IN3otdmQ3Tk5uVHVwVW1OWjBXMWR0QzJ0c0p0eHZxd2JsVjZvUjZIdk9MZVJnb0prZWNmQmhoZVVMVF9qb0lScUkyam1WbXdPOVl5d0E?oc=5)
-
-2026-09-26 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMHVNUmFRWldyVUFqczFVc1JaVFFOaXI3OTB2cWYxTjBScFJPSy1zM2VHU3l4OThzZUlXZkc4eFJ4djd4a3UxWEFGOE13SlByRGVQN1J3VnZZYlc2YWFKejNQVUF2dl9TczZDczJDc2UzV1plNzB2dDRGeC1JZUtxV3NTSXdJYkRqOEpqT2NXWk9IN3otdmQ3Tk5uVHVwVW1OWjBXMWR0QzJ0c0p0eHZxd2JsVjZvUjZIdk9MZVJnb0prZWNmQmhoZVVMVF9qb0lScUkyam1WbXdPOVl5d0E?oc=5)
-
----
-
-### [UCL-Modelle: Typ-2-Diabetes-Risiko lässt sich bis zu 15 Jahre vorher berechnen - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+### [Diabetesrisiko: Gewichtsverlust und normale Blutzuckerwerte senken es um 73 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
 
 2026-09-24 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hNlJNX2VibG82MEgyU1NLVFhRWFBnNUMtMkNHR2VFem1iSDNsd3VLSW9iUkQ3N3o2MUNoSklCNllPNnQzSng1TDk4MFBYZXRiMElwcEFVejBTUXlOaExQa0xGTExucGlJUzdQeXNyRDJ4akFUejJIWHRhSXNUdWFHN3BzSDA2aTBfQU9FMV9RWHY1NThPaFRsdFdYc3RsaGwyUmxmNHBRWjNqTXI4?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDVGUVl0ajRaMWtqeV9PQy1YY18zQy1zdFV4WV83bVVKSVdIUE9IbkotMXFsTnpFQ1FLSnNWVWd3ckZNVlM1M09zTFJtTEM4azUyUUdXcmkySzRpOTRzUlRvbnFQTGY3N1JfcUh4MDVzbGo2VHE1WXI3cmEyN2tYYlBwZmEzWlFzOEpRNVJ2bjMwazdVUUhiNnluZDRMUkM0ODhZdFhraEtEcVN6ajJwRFlSbTJ6WWwtNE5hag?oc=5)
 
 ---
 
@@ -211,14 +211,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPN21hN
 2026-09-23 <span class="news-indication-tag">migraine</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
-
----
-
-### [Diabetes frühzeitig gegensteuern](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
-
-2026-09-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMickFVX3lxTFA3RVFoWm1rQXhEaV9RZmM0OWZyTzdQaW1lZTVlQWNnRC1HalVFM1FFQl9GNVpsWk01WlMxaVYwSE9hVkh4ejRKZlYwTW1ZdWlGX1dpc0Q5THZGMnViNTFyejRFeWU2QnRlT0ZsRUh3ekt5QQ?oc=5)
 
 ---
 

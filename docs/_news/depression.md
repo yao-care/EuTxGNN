@@ -3,7 +3,7 @@ layout: default
 title: "depression News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depression. 1 articles, 7 related drugs."
+description: "Health news about depression. 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depression?">
-<strong>depression</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<strong>depression</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “depression” and list
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Can Insomnia Increase Risk Of Stroke And Other Mental Health Problems?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+
+2026-09-29
+
+Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+
+---
 
 ### [“Meno cibi ultra-processati, meno sintomi depressivi”: i primi risultati di uno studio pilota - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2JJQThnZkNtNjd0a29ZSmRGWW84d0xUb2dVUURwN3pYU0dGYUVyenQwWUwwZFBaTkZReGx4TVFudkxEbWdDWk5kcHlJMVVFeHRtQjgtc1dXaUZNSWU4RlExR3B4RU9ZUkE5ZjNCSVNDenBZRlFyVHVIZ2VVZm5VR0VaNGxjWTNCNjdYZ01OZndiNXI2V2JydTNpVlhyd0pMTmJR?oc=5)
 
