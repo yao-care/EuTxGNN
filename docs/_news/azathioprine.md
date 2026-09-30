@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Spinat, Mandeln & Co.: Oxalat könnte bei Morbus Crohn Entzündungen verstärken](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
-
----
-
-### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
-2026-09-28 <span class="news-indication-tag">arthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (0)
 
-### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
-
----
-
-### [Spostare il reparto "fantasma" di Malattie infettive di Ribera ad Agrigento? Il commissario: "Serve atto deliberativo regionale"](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemdPdWZKekI4VnZMQ2NDck1fV2FLRENjLVJWR0o3d1kwemVtRTVNU2l4am10ZjRZZVZPSHJXMUowSzFobUV0dnFwYlYzTXpyVjQxYTJYcnpycExyUTNEeHk0a2hxbkRKNVd3VzZGOEFINzVGWURfTFN2d2tJX0Vzc2M4dTg3Y1ZwY1dpbS1ZME02V0pXd1NNRVVGcE5OSncwbWhxSDF3TDNjSXBlQTg0TE9yZWpQWXp3Y1BaTmdFLUU4Qkk?oc=5)
-
-2026-09-28 <span class="news-indication-tag">asma</span>
-
-Source: [AgrigentoNotizie](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemdPdWZKekI4VnZMQ2NDck1fV2FLRENjLVJWR0o3d1kwemVtRTVNU2l4am10ZjRZZVZPSHJXMUowSzFobUV0dnFwYlYzTXpyVjQxYTJYcnpycExyUTNEeHk0a2hxbkRKNVd3VzZGOEFINzVGWURfTFN2d2tJX0Vzc2M4dTg3Y1ZwY1dpbS1ZME02V0pXd1NNRVVGcE5OSncwbWhxSDF3TDNjSXBlQTg0TE9yZWpQWXp3Y1BaTmdFLUU4Qkk?oc=5)
-
----
-
-### [Mix di vitamina C e arginina riduce la stanchezza cronica](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
-2026-09-24 <span class="news-indication-tag">BPCO</span>
-
-Source: [ANSA](https://news.google.com/rss/articles/CBMinAJBVV95cUxQZ054bjFmLTJidUNuWGctT0FTMXRPQVdEczd5cGZnUTdYZzZ6eTdidXlWYk9xNnowUkpLMTBnbFlGczdzaURDZFZ2cGVkenJVdVl3ZllRUDFuLWpqNGQyNE9CZzdWVEE0TWJjUmdBZ01qTkt0WWdibmYycmNJaThrM001ZVloNHdLTG5xM0NKOXpwd0tKNlFDSk5NVXRyVHB1SmJDamxaLWt0QW0xM1laaXVEMmcySlZaWHNHZEFxbXBHMVJoTUstQ3VDNWxaS3k4cmpfQlk1b1JfX085MGpjSHVsU1dZb0FnR3RQeGM5NWpRcjNCOExFZ0dDRFVoNWhHeFN2eUozTm42anhVbUlzVkZVX25ldmdKVHhZUNIBogJBVV95cUxOdU9xRmZIUzU1elhaTDBkRHlmQkdsZHFjYUhtYjVEMmVPdjJKNzNldXJRaHc1Z05JRENxT0tNT1lWSUg2dDVZcXExOER3UEZUZ081cG1RR1NaNFNvVHRJM08yQmNMYk5hdGZhRUNMOEsweWc0UHJ3NnA4Z2g1YUg2eVAtSTNwRlQwZEZtM29OSzNRTzFkQllRNXdxQk9WNnBWaThISTViOEM1dXdOek5Fc09tODJpVUt5TFZxUy1VUE01TURiMUdCV3M2dlhLdWttNmp0QVVZQ1FzYUdsQkt2alpKa3hfQ3dTblFOWG9sTXFYYlBzZVFDcG5xbzYzdjhoNmg1ck1CSFV4ZXE4d2FleW1zd293ODFjOWNkOFZxYnlBZw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

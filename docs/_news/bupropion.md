@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Bupropion</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [El 86% de los médicos considera la obesidad tan importante como otras enfermedades crónicas](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmR0WUNOa0JIdWhlRkVmXzlDR1NEWFRGS2ZQTjlIbnRWazdPdm9rZ1dvR1A0YzQwOXRmR1RRYlFWdmdSdi1BZUlkUHJqZjN4dVFwckl6NzBkMTZLbGVucUkxSWdYQmRILU9RN0RxYlhET0hXeVEtdEkzZ2NyTTdBXzJfd2ZoalRBWm10bENDVWtyd1d6T2hmSlhhSnE0alU0RVhEY3kwV0ttZ2tkQ1lEQTZHOXd4UWQyTHhoRUNhTGfSAbsBQVVfeXFMUEVjRTdhZWV2bHczWW5NS2l0N2h3S3FnMVhGeDhjQ214MHA1T3VQdXFydW5sZzNDSjdsQjhjM2gweU5kdU41ZEhlZV9QWWE3NW1PZ0VmQUlnaFZHOXRwdmVRYXk5QV84bmRuMU0wWUNTSkx3cENJWkl6RDRFY1U0cFZ0T1pMNWlpV3kwLTJkV0M0bUJLTW9sU1BUSEhuZFV4WjRYSzlIRWdJTTJ3UE45RVV5djVjS0U1SUNjaw?oc=5)
-
-2026-09-28 <span class="news-indication-tag">obesidad</span>
-
-Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmR0WUNOa0JIdWhlRkVmXzlDR1NEWFRGS2ZQTjlIbnRWazdPdm9rZ1dvR1A0YzQwOXRmR1RRYlFWdmdSdi1BZUlkUHJqZjN4dVFwckl6NzBkMTZLbGVucUkxSWdYQmRILU9RN0RxYlhET0hXeVEtdEkzZ2NyTTdBXzJfd2ZoalRBWm10bENDVWtyd1d6T2hmSlhhSnE0alU0RVhEY3kwV0ttZ2tkQ1lEQTZHOXd4UWQyTHhoRUNhTGfSAbsBQVVfeXFMUEVjRTdhZWV2bHczWW5NS2l0N2h3S3FnMVhGeDhjQ214MHA1T3VQdXFydW5sZzNDSjdsQjhjM2gweU5kdU41ZEhlZV9QWWE3NW1PZ0VmQUlnaFZHOXRwdmVRYXk5QV84bmRuMU0wWUNTSkx3cENJWkl6RDRFY1U0cFZ0T1pMNWlpV3kwLTJkV0M0bUJLTW9sU1BUSEhuZFV4WjRYSzlIRWdJTTJ3UE45RVV5djVjS0U1SUNjaw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

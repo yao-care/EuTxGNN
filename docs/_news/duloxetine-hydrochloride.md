@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [Can Insomnia Increase Risk Of Stroke And Other Mental Health Problems?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
-
-2026-09-29 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
-
----
-
-### [“Meno cibi ultra-processati, meno sintomi depressivi”: i primi risultati di uno studio pilota - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2JJQThnZkNtNjd0a29ZSmRGWW84d0xUb2dVUURwN3pYU0dGYUVyenQwWUwwZFBaTkZReGx4TVFudkxEbWdDWk5kcHlJMVVFeHRtQjgtc1dXaUZNSWU4RlExR3B4RU9ZUkE5ZjNCSVNDenBZRlFyVHVIZ2VVZm5VR0VaNGxjWTNCNjdYZ01OZndiNXI2V2JydTNpVlhyd0pMTmJR?oc=5)
-
-2026-09-28 <span class="news-indication-tag">depression</span>
-
-Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2JJQThnZkNtNjd0a29ZSmRGWW84d0xUb2dVUURwN3pYU0dGYUVyenQwWUwwZFBaTkZReGx4TVFudkxEbWdDWk5kcHlJMVVFeHRtQjgtc1dXaUZNSWU4RlExR3B4RU9ZUkE5ZjNCSVNDenBZRlFyVHVIZ2VVZm5VR0VaNGxjWTNCNjdYZ01OZndiNXI2V2JydTNpVlhyd0pMTmJR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

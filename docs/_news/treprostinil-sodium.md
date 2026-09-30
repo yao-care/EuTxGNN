@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Treprostinil Sodium?">
-<strong>Treprostinil Sodium</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Treprostinil Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,31 +52,9 @@ This page combines the AI-predicted indications for Treprostinil Sodium with the
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (0)
 
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
-
----
-
-### [Elle varie naturellement au cours de la journée : ce médecin nous indique les bons moments pour mesurer sa tension artérielle chez soi - TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">hypertension</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
----
-
-### [The hidden dangers of high blood pressure — what you should know - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
-
-2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

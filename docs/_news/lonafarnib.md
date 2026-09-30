@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <li>kyphoscoliotic heart disease (98.0%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.0%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (97.8%)</li>
-<li class="indication-matched">heart disease (97.8%)<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease (97.8%)</li>
 <li>multiple endocrine neoplasia (97.7%)</li>
 <li>Laubry-Pezzi syndrome (97.7%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (97.6%)</li>
@@ -52,47 +52,9 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (0)
 
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
-
----
-
-### [Elle varie naturellement au cours de la journée : ce médecin nous indique les bons moments pour mesurer sa tension artérielle chez soi - TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">hypertension</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
----
-
-### [The hidden dangers of high blood pressure — what you should know - The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
-
-2026-09-28 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi15dzNybV9nT0pKWWE2SWtHWngwSzJfcW1pSWQ5aU1sdGcwdDVCUTRHd09YNjVLcU4td1hwNFpHWF9QXzRIeVp3RGsxMEZRenlGM2dBcGxwanlXbmdCQUxfMllMNWstWWdBakpIMEJiMnBNTDg2N0xad3MxNHhMSG5MMndLSmNoOFgzcVpvQlNseWtZOTVwWWpRd3ZkT0VmVFU4TWtR?oc=5)
-
----
-
-### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
-2026-09-28 <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
-
----
-
-### [Low-dose radiation shows lasting benefits in patients with knee osteoarthritis](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
-2026-09-28 <span class="news-indication-tag">arthritis</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXBuY1FIWVZFeEZ5ZGVRakRmZ2lNeEFVQWdaZExEbFQ4bWlCMUh3TEVpa2stVWhib01iRVk2VFlrWWZzQUhDaGZvdmtWWlJGOTFqOXh0SHE0OEliV2doRDA1b20yZ3N0S3MxN0w2OFpzT1ZlZkJKLU5QZW5XT3hqRGtvbDFubHVFdjJFbEUyTEN6U1RJeFR3U3poU0RCQmw0Z1NNTmRtX3o4dmNSREQyVU1fbmNxcWJDZjc2THlxX0NUVHBO?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
