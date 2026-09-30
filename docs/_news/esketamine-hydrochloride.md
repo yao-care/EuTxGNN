@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Esketamine Hydrochloride?">
-<strong>Esketamine Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Esketamine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Depressione resistente, una radiochirurgia senza incisioni riduce i sintomi](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
+
+2026-09-29 <span class="news-indication-tag">depression</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
+
+---
+
+### [Togliere questi alimenti dalla dieta è sufficiente per dimagrire](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRC1CY3lEVG1pd2psMkhqRU1uQ1lRYnFpWEJLTlIxc05hbmNEUU9pdDItal8tVkFyaUhFMnVrNm96WTVwVFoxRmROc21rZ0lBazAyeV9VVW9ERnVrZFloZzdOaDU5WnZUaUJxNlBHYk1XamI1V2J1ejNidktjQ2doV2p6ZEtUb3VmWTQ4bTlIUklNS25mTGU3cjgzRTMyN0VSTTZfRzh3YmJNQV80U1BndE5NYW5tUEZ4?oc=5)
+
+2026-09-29 <span class="news-indication-tag">depression</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRC1CY3lEVG1pd2psMkhqRU1uQ1lRYnFpWEJLTlIxc05hbmNEUU9pdDItal8tVkFyaUhFMnVrNm96WTVwVFoxRmROc21rZ0lBazAyeV9VVW9ERnVrZFloZzdOaDU5WnZUaUJxNlBHYk1XamI1V2J1ejNidktjQ2doV2p6ZEtUb3VmWTQ4bTlIUklNS25mTGU3cjgzRTMyN0VSTTZfRzh3YmJNQV80U1BndE5NYW5tUEZ4?oc=5)
+
+---
 
 
 <div class="disclaimer">

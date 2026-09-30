@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel (As Hydrochloride)?">
-<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,31 @@ This page combines the AI-predicted indications for Clopidogrel (As Hydrochlorid
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (3)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión - Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+
+---
+
+### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+2026-09-29 <span class="news-indication-tag">migraine</span>
+
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+
+---
+
+### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+
+2026-09-23 <span class="news-indication-tag">migraine</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+
+---
 
 
 <div class="disclaimer">

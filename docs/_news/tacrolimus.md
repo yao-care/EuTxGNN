@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión - Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+
+---
 
 
 <div class="disclaimer">

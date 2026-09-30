@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Nierenscreening in Deutschland: uACR-Tests erreichen weniger als 1 Prozent](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2VVdkIwNHRZcUJnTWtHMkllWGwwd0R5SGZTRjdOVnoyUEFJQnU2dU1XOGVTUFlXTF9KT2VPT0Q1VmlWVE1xWENXTW95U2Y4RU1PQ3p6UlVhZDBEaU92dEl4akQ5aWhua0I3VEhPcXBIVmJkcUNIb1RPOWlwUFU1Z202bkQwbVA2T1cyR19WX010RjI4dkQ0NDByTmQyWDJWMFE?oc=5)
+
+2026-09-29 <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2VVdkIwNHRZcUJnTWtHMkllWGwwd0R5SGZTRjdOVnoyUEFJQnU2dU1XOGVTUFlXTF9KT2VPT0Q1VmlWVE1xWENXTW95U2Y4RU1PQ3p6UlVhZDBEaU92dEl4akQ5aWhua0I3VEhPcXBIVmJkcUNIb1RPOWlwUFU1Z202bkQwbVA2T1cyR19WX010RjI4dkQ0NDByTmQyWDJWMFE?oc=5)
+
+---
 
 
 <div class="disclaimer">
