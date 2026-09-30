@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depression News"
+title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depression. 2 articles, 7 related drugs."
+description: "Health news about dépression (depression). 4 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# depression News
+# dépression (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about depression?">
-<strong>depression</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about dépression (depression)?">
+<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “depression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “depression” and list
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Blueberries can modify the gut microbiome in older adults with mild depression - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
+
+2026-09-29
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
+
+---
 
 ### [Depressione resistente, una radiochirurgia senza incisioni riduce i sintomi](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
 
 2026-09-29
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
 
 ---
 
@@ -50,6 +58,14 @@ Source: [mondosanita.it](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1
 2026-09-29
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRC1CY3lEVG1pd2psMkhqRU1uQ1lRYnFpWEJLTlIxc05hbmNEUU9pdDItal8tVkFyaUhFMnVrNm96WTVwVFoxRmROc21rZ0lBazAyeV9VVW9ERnVrZFloZzdOaDU5WnZUaUJxNlBHYk1XamI1V2J1ejNidktjQ2doV2p6ZEtUb3VmWTQ4bTlIUklNS25mTGU3cjgzRTMyN0VSTTZfRzh3YmJNQV80U1BndE5NYW5tUEZ4?oc=5)
+
+---
+
+### [« À peine rentré, j’ai déjà envie de me coucher » : ce que l’arrivée de l’automne peut changer à vos soirées - Journal des seniors](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSlQ1SG1VMXBUUmk0T0ZPZGFEalB2dGt0eWVtdHp4ZDBnbzEzamt3Y0JZQ3ltM05YSElyMGZVZVJvNmdjRlNOMHJ5VExndXRMRVBxX0sxUDc3VHZBUnp4VVFRVjAwUkFVYkxYaEIyRHE1NXg4RmpWWkhTMjJzekV3S3hKWXVfRkxuTm9pbl84Rm5yNm56Skt2SG4zNHJBZVAzVkVqcWZJSnFMY2I2Vk9MVGFWaklCLVdIMG15VVQ0NnBnYTZBMTI4UHU1dlZzd3F4OF9IcldBWXJLc3RzcWh0X3JR?oc=5)
+
+2026-09-23
+
+Source: [Journal des seniors](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSlQ1SG1VMXBUUmk0T0ZPZGFEalB2dGt0eWVtdHp4ZDBnbzEzamt3Y0JZQ3ltM05YSElyMGZVZVJvNmdjRlNOMHJ5VExndXRMRVBxX0sxUDc3VHZBUnp4VVFRVjAwUkFVYkxYaEIyRHE1NXg4RmpWWkhTMjJzekV3S3hKWXVfRkxuTm9pbl84Rm5yNm56Skt2SG4zNHJBZVAzVkVqcWZJSnFMY2I2Vk9MVGFWaklCLVdIMG15VVQ0NnBnYTZBMTI4UHU1dlZzd3F4OF9IcldBWXJLc3RzcWh0X3JR?oc=5)
 
 ---
 

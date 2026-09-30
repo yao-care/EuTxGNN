@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel (As Hydrochloride)?">
-<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Clopidogrel (As Hydrochlorid
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
 
-### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión - Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
 2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
+
+---
+
+### [Se confirma la eficacia de la sulfasalazina en la artritis idiopática juvenil - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
+
+---
+
+### [Frauen mit großen Brüsten leiden öfter an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
 
 ---
 
@@ -70,11 +86,11 @@ Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxN
 
 ---
 
-### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">migraine</span>
+2026-09-27 <span class="news-indication-tag">emicrania</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

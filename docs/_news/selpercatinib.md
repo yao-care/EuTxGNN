@@ -54,11 +54,19 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 
 ## Related News (9)
 
-### [People born after 1960 issued warning as pharmacist says 'millions at risk'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+### [People born after 1960 issued warning as pharmacist says 'millions at risk' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
 
 2026-09-30 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+
+---
+
+### [Frauen mit großen Brüsten leiden öfter an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
 
 ---
 
@@ -94,19 +102,11 @@ Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxN
 
 ---
 
-### [Dorset boy, aged 6, among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
-
-Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
----
-
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0
 
 ---
 
-### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
-2026-09-23 <span class="news-indication-tag">migraine</span>
+2026-09-27 <span class="news-indication-tag">emicrania</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

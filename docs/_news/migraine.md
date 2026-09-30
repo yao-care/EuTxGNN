@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraine News"
+title: "Migräne (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraine. 2 articles, 49 related drugs."
+description: "Health news about Migräne (migraine). 3 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# migraine News
+# Migräne (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about migraine?">
-<strong>migraine</strong> currently has <strong>2 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about Migräne (migraine)?">
+<strong>Migräne (migraine)</strong> currently has <strong>3 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “migraine” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Migräne” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ This page brings together the latest health news about “migraine” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Frauen mit großen Brüsten leiden öfter an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
+
+2026-09-30
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
+
+---
 
 ### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
 
@@ -87,11 +95,11 @@ Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxN
 
 ---
 
-### [Swansea woman's migraines dismissed by GP as 'dramatic'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
-2026-09-23
+2026-09-27
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TZlhoVU1MUzhOMnMwSDJ3S1loRWxJenlfTE42bHZab0FmN3dWMURtVHhQQUNsMklZUFlZUWFmbDE2OXBKSk5PRFNUbXZBbzhvX1FfTUh1aVZBbDREWEE?oc=5)
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

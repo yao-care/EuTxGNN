@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Brivaracetam?">
-<strong>Brivaracetam</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Brivaracetam</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -45,16 +45,22 @@ This page combines the AI-predicted indications for Brivaracetam with the latest
 <li>Rett syndrome, congenital variant (98.8%)</li>
 <li>restless legs syndrome (98.1%)</li>
 <li>partial motor epilepsy (97.8%)</li>
-<li>epilepsy (96.2%)</li>
+<li class="indication-matched">epilepsy (96.2%)<span class="indication-tag">📰 epilepsy</span></li>
 <li>trigeminal nerve neoplasm (95.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Andy Burnham told to act after children left severely disabled by NHS-prescribed epilepsy drug despite KNOWN risks - GB News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN204MHllRnJHdEh6NUNrMWVIYlJxaE1OSzY5bG9DVlpQVEE4b2MzRm9KUEltallHd3R0WWNZY000cXBUSEhUaWVGcmhBUDZHYlpmTTVQWnhEeG1OSTJCcWxzZmJqeVRRTmVMVldYTk1UT0N1VkFKNzlkR2pXMGVtQk4yWDdVQWZJS2JtMFlJTlpobWxOcy1FTnBoQlp5TS1iOWJ1bmYya1dDRjJnSnlQUUN2b2NlbmlPOFdlZXZzOGNrYWlfd2t4OUpvQmFxM0puVjBB?oc=5)
+
+2026-09-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
+
+Source: [GB News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN204MHllRnJHdEh6NUNrMWVIYlJxaE1OSzY5bG9DVlpQVEE4b2MzRm9KUEltallHd3R0WWNZY000cXBUSEhUaWVGcmhBUDZHYlpmTTVQWnhEeG1OSTJCcWxzZmJqeVRRTmVMVldYTk1UT0N1VkFKNzlkR2pXMGVtQk4yWDdVQWZJS2JtMFlJTlpobWxOcy1FTnBoQlp5TS1iOWJ1bmYya1dDRjJnSnlQUUN2b2NlbmlPOFdlZXZzOGNrYWlfd2t4OUpvQmFxM0puVjBB?oc=5)
+
+---
 
 
 <div class="disclaimer">

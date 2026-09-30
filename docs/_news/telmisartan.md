@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (17)
 
 ### [„Wir sehen einen bedrohlichen Anstieg von Schlaganfällen bei jungen Menschen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
 
@@ -62,19 +62,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXpr
 
 ---
 
+### [People born after 1960 issued warning as pharmacist says 'millions at risk' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+
+---
+
 ### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
----
-
-### [People born after 1960 issued warning as pharmacist says 'millions at risk'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
 
 ---
 
@@ -98,13 +98,13 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ
 
 2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
 
 ---
 
 ### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
 
-2026-09-29 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
+2026-09-29 <span class="news-indication-tag">AVC</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
 
@@ -134,27 +134,19 @@ Source: [L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNZ1
 
 ---
 
-### [Dorset boy, aged 6, among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
-
-Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
----
-
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 ---
 
-### [Contraception : plus de 40% de femmes exposées à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkE4U1VUaV9yeE0yV3dkekFJRUtUblRZVl9NVnQ1dU5La2VGbVJmVEYxa0RETGViY2lzT1lLNExwQ3VHQy1EaGdieEhCU3FnT3BaOWJJU1BUak1tVDdKN2NCQUZ2NDFFbC1xQVAxZ0JWRjVaRVg2VVJQaUk2SEdiQUFzVTRQSk9fbXBMZ0hJTHBabHY5a1UwUXdDRXZ4NUQwM0dGaU5jSmM?oc=5)
+### [Vorhofflattern | Vorhofflimmern versus -flattern: Unterschied beim Schlaganfallrisiko?](https://news.google.com/rss/articles/CBMizwFBVV95cUxNREE3cm9wQkRoTTdqNllYU09mclJVYVZlZG5YTzB0aVFqX094TDdhTEMtQlhuUmlDOGlmd0ttbHo0YllVYUZ4NXhzOTllMkEyRVJFVFJ3NndjY3lnaVBLdnZXUG1Rc1hlZUxBODdBb2dNZDlJUU9lQ1NEZTFvSHVFcG0xVFBMUkUzVUtaSW1NblFZTkt1eVh2S0tZS2dGRndlRmNVV2g5ZXJueUhxSkNjV0ZhbUpTMTg5VUIxcWg1c1NFRGF0WlQySy1xVE9LNmc?oc=5)
 
-2026-09-29 <span class="news-indication-tag">AVC</span>
+2026-09-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkE4U1VUaV9yeE0yV3dkekFJRUtUblRZVl9NVnQ1dU5La2VGbVJmVEYxa0RETGViY2lzT1lLNExwQ3VHQy1EaGdieEhCU3FnT3BaOWJJU1BUak1tVDdKN2NCQUZ2NDFFbC1xQVAxZ0JWRjVaRVg2VVJQaUk2SEdiQUFzVTRQSk9fbXBMZ0hJTHBabHY5a1UwUXdDRXZ4NUQwM0dGaU5jSmM?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNREE3cm9wQkRoTTdqNllYU09mclJVYVZlZG5YTzB0aVFqX094TDdhTEMtQlhuUmlDOGlmd0ttbHo0YllVYUZ4NXhzOTllMkEyRVJFVFJ3NndjY3lnaVBLdnZXUG1Rc1hlZUxBODdBb2dNZDlJUU9lQ1NEZTFvSHVFcG0xVFBMUkUzVUtaSW1NblFZTkt1eVh2S0tZS2dGRndlRmNVV2g5ZXJueUhxSkNjV0ZhbUpTMTg5VUIxcWg1c1NFRGF0WlQySy1xVE9LNmc?oc=5)
 
 ---
 
@@ -163,14 +155,6 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkE
 2026-09-28 <span class="news-indication-tag">hypertension</span>
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
----
-
-### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
-
-2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 ---
 
@@ -195,6 +179,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZO
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
 Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+
+---
+
+### [Nach einem Mini-Schlaganfall steigt das Demenz-Risiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
 
 ---
 

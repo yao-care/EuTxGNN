@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
-
-### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión - Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1VaLVJQTF9xTzgxQ2V4d0JqVGFPYkUyODBud29NLVQtMV8tc1U0MF9rOVNZcnZqQVFwSkZiVkFkQjUtTE1ObXh0Y21sWFJuR2xvQ0dGQy1lZDhHVTFBNXNCWjAxOWpwRXBsQWY5dnVKUFVXbWN2WmQ2angwYl9YSmc0b3BrU2VubUlKZVItekdpLU8zVDJEbXlXYVR5WDFLcnRSd0hSbWRPR1JTWnVuNmV5d2xwZkVpd1pWZ09vTdIBngFBVV95cUxPTVlMTWswREtIbHFBZk94dlFQOVduUmNjR2EzaUFVeG5SRDhmYzJoUU1hN1RaVGlmM2s3MGxtX1hwcnpxbVRPb1VodFNZam0zakEzZEQyUHlZaWtRTHgxRUV3SUZUdDZWR2xyTWNDTEh1dnZlbmdmR2tuVlFNUU5yNGtPUFUyVmlRUHdhbVgzeHM3VldSblJsVm4ySHN2Zw?oc=5)
-
----
+## Related News (14)
 
 ### [„Wir sehen einen bedrohlichen Anstieg von Schlaganfällen bei jungen Menschen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
 
@@ -70,11 +62,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXpr
 
 ---
 
-### [Schlechte Schlafqualität in der Schwangerschaft mit höherem Adipositasrisiko des Kindes assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDA5TTZVODlzS0h0c2Y1blBSbHktQ2ZtZksxZVhXdVl1eEtzRzQtdDJFaFJ1WGhGU29uU0w5a2YzWjh0R29EaTM1VnFNakNGcHlwOUFMWnFJNXl0dU5pYjctZWpPRWRhYzdVa1lRT3FnTXJtNVdYbG9tTGJIWnpueUNyWHg5MWpQc0doczJxa09ReDdzeFhVQkhFbjVUaEVYWWdLYUhWOUdJSFJoZWRzTzYxTDNTZGM4TnZUcy1xLVlVR0VGSTVpRw?oc=5)
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
-2026-09-30 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">AF</span>
+2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDA5TTZVODlzS0h0c2Y1blBSbHktQ2ZtZksxZVhXdVl1eEtzRzQtdDJFaFJ1WGhGU29uU0w5a2YzWjh0R29EaTM1VnFNakNGcHlwOUFMWnFJNXl0dU5pYjctZWpPRWRhYzdVa1lRT3FnTXJtNVdYbG9tTGJIWnpueUNyWHg5MWpQc0doczJxa09ReDdzeFhVQkhFbjVUaEVYWWdLYUhWOUdJSFJoZWRzTzYxTDNTZGM4TnZUcy1xLVlVR0VGSTVpRw?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
+
+---
+
+### [Solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1l6blNaTlppT1FYUEY4RnZWbi1NOXVlWnVHdTc0bmdWZUU1WXFId1B3THJCS29HWktSZTJpbnpmRWw1dmFQLWs5ZExMUWtPRUMxZmc0d1RKemU0UjAtSG94T2k5M0Y2cDl4T3lwdlZRd3VybHJRQlkxLVBrTVhHWnBGd2RBbEtRc3hNaUZPTjJjR1hCTDJicl9SS3FlcXRBc2ltZ1oxV3ZUSVhBRllkSdIBtgFBVV95cUxOWEpUMXpOZjNpSDQtTXh4RjVaWmhCc3F2Q1RHZ1Yzb3dqLTBUbDlqT3NRZEk3UW9sMTZQeWFoMnp4SGdOV0E1SHFnV3N5SWdsUHhxSEk2V0R1MDdYeXlYUU4zdnhmbm4tdVpNeHFFWi1SSHV3Zi1WdzJjUHhqaE16SkV3MmFuZmlVQ2o0NFRkd2JXN04yY0dLYVJ1cjFZa2lHeFA1SE1KZGdzT0RqU2s0cHhlckJ2dw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">obesidad</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1l6blNaTlppT1FYUEY4RnZWbi1NOXVlWnVHdTc0bmdWZUU1WXFId1B3THJCS29HWktSZTJpbnpmRWw1dmFQLWs5ZExMUWtPRUMxZmc0d1RKemU0UjAtSG94T2k5M0Y2cDl4T3lwdlZRd3VybHJRQlkxLVBrTVhHWnBGd2RBbEtRc3hNaUZPTjJjR1hCTDJicl9SS3FlcXRBc2ltZ1oxV3ZUSVhBRllkSdIBtgFBVV95cUxOWEpUMXpOZjNpSDQtTXh4RjVaWmhCc3F2Q1RHZ1Yzb3dqLTBUbDlqT3NRZEk3UW9sMTZQeWFoMnp4SGdOV0E1SHFnV3N5SWdsUHhxSEk2V0R1MDdYeXlYUU4zdnhmbm4tdVpNeHFFWi1SSHV3Zi1WdzJjUHhqaE16SkV3MmFuZmlVQ2o0NFRkd2JXN04yY0dLYVJ1cjFZa2lHeFA1SE1KZGdzT0RqU2s0cHhlckJ2dw?oc=5)
 
 ---
 
@@ -98,13 +98,13 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMH
 
 2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
 
 ---
 
 ### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
 
-2026-09-29 <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">MS</span>
+2026-09-29 <span class="news-indication-tag">AVC</span>
 
 Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
 
@@ -126,35 +126,11 @@ Source: [L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNZ1
 
 ---
 
-### [Dorset boy, aged 6, among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+### [Vorhofflattern | Vorhofflimmern versus -flattern: Unterschied beim Schlaganfallrisiko?](https://news.google.com/rss/articles/CBMizwFBVV95cUxNREE3cm9wQkRoTTdqNllYU09mclJVYVZlZG5YTzB0aVFqX094TDdhTEMtQlhuUmlDOGlmd0ttbHo0YllVYUZ4NXhzOTllMkEyRVJFVFJ3NndjY3lnaVBLdnZXUG1Rc1hlZUxBODdBb2dNZDlJUU9lQ1NEZTFvSHVFcG0xVFBMUkUzVUtaSW1NblFZTkt1eVh2S0tZS2dGRndlRmNVV2g5ZXJueUhxSkNjV0ZhbUpTMTg5VUIxcWg1c1NFRGF0WlQySy1xVE9LNmc?oc=5)
 
-2026-09-29 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">stroke</span>
+2026-09-29 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
----
-
-### [Esther Gómez, enfermera, sobre la obesidad: “Es una enfermedad muy cruel porque el paciente siente que le van a regañar. Es como si te regañaran por tener cáncer”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZHRyZzR6b2lsVjJhSzRCb3djVF84RnRUcG5qc1hXMkxScWJaN0FLVTlpSkI0ZEV2akJ6aVNDeTZGeGFDTzBlSmw1a3BVLTM5WmFGa0ZWQ1hhUGJ6RFBqd0g0Vm1QeGJGT2ZjQkFGVHhuQnVRbWEtdVY1YndMdlllN19YRFhzNktXV25abFlfbU83VnNMNXBiYlNfNmt2LWg3RWIwdUEwSXU1V3dUUHVsV1oycEluNTdsM1RXbURFNW56dnZSZjJzRFV4cl9QWmswSTlKd2kyVHlVSC1fUDBheG1UWklkRHdkRGpF0gHwAUFVX3lxTE84Q09qNWhoc3A0Y1hvZ0NINXB3SDBqc1N2cF9WZTIxclpaYnJWalhraV9ReGYzUGlodG13NC1uN1lMRy1FRldzUlUzLXBOUy01VW9kR053Y3VfVlg2NEVINFJWU2pNRWpSVU9KRFpUdy1fNmZMTnJuUHhLQ0hyWEd0ZUlGU0EzTjFfSV9VYWVoZzBTZ0cwcVdMb0FDa0tKWFJ2aFVYWlVZZTBKWmRMVl9jUG56NzlLVGpnM0lsXzFhS3RxWTJmR0pUYmZQYi1od1VXYWw0NDN5bWE4d3lqTWE0NEdySGRkaVBxaExBaGUtVQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">obesidad</span>
-
-Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZHRyZzR6b2lsVjJhSzRCb3djVF84RnRUcG5qc1hXMkxScWJaN0FLVTlpSkI0ZEV2akJ6aVNDeTZGeGFDTzBlSmw1a3BVLTM5WmFGa0ZWQ1hhUGJ6RFBqd0g0Vm1QeGJGT2ZjQkFGVHhuQnVRbWEtdVY1YndMdlllN19YRFhzNktXV25abFlfbU83VnNMNXBiYlNfNmt2LWg3RWIwdUEwSXU1V3dUUHVsV1oycEluNTdsM1RXbURFNW56dnZSZjJzRFV4cl9QWmswSTlKd2kyVHlVSC1fUDBheG1UWklkRHdkRGpF0gHwAUFVX3lxTE84Q09qNWhoc3A0Y1hvZ0NINXB3SDBqc1N2cF9WZTIxclpaYnJWalhraV9ReGYzUGlodG13NC1uN1lMRy1FRldzUlUzLXBOUy01VW9kR053Y3VfVlg2NEVINFJWU2pNRWpSVU9KRFpUdy1fNmZMTnJuUHhLQ0hyWEd0ZUlGU0EzTjFfSV9VYWVoZzBTZ0cwcVdMb0FDa0tKWFJ2aFVYWlVZZTBKWmRMVl9jUG56NzlLVGpnM0lsXzFhS3RxWTJmR0pUYmZQYi1od1VXYWw0NDN5bWE4d3lqTWE0NEdySGRkaVBxaExBaGUtVQ?oc=5)
-
----
-
-### [Contraception : plus de 40% de femmes exposées à un risque cardiovasculaire](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkE4U1VUaV9yeE0yV3dkekFJRUtUblRZVl9NVnQ1dU5La2VGbVJmVEYxa0RETGViY2lzT1lLNExwQ3VHQy1EaGdieEhCU3FnT3BaOWJJU1BUak1tVDdKN2NCQUZ2NDFFbC1xQVAxZ0JWRjVaRVg2VVJQaUk2SEdiQUFzVTRQSk9fbXBMZ0hJTHBabHY5a1UwUXdDRXZ4NUQwM0dGaU5jSmM?oc=5)
-
-2026-09-29 <span class="news-indication-tag">AVC</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkE4U1VUaV9yeE0yV3dkekFJRUtUblRZVl9NVnQ1dU5La2VGbVJmVEYxa0RETGViY2lzT1lLNExwQ3VHQy1EaGdieEhCU3FnT3BaOWJJU1BUak1tVDdKN2NCQUZ2NDFFbC1xQVAxZ0JWRjVaRVg2VVJQaUk2SEdiQUFzVTRQSk9fbXBMZ0hJTHBabHY5a1UwUXdDRXZ4NUQwM0dGaU5jSmM?oc=5)
-
----
-
-### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
-
-2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxNREE3cm9wQkRoTTdqNllYU09mclJVYVZlZG5YTzB0aVFqX094TDdhTEMtQlhuUmlDOGlmd0ttbHo0YllVYUZ4NXhzOTllMkEyRVJFVFJ3NndjY3lnaVBLdnZXUG1Rc1hlZUxBODdBb2dNZDlJUU9lQ1NEZTFvSHVFcG0xVFBMUkUzVUtaSW1NblFZTkt1eVh2S0tZS2dGRndlRmNVV2g5ZXJueUhxSkNjV0ZhbUpTMTg5VUIxcWg1c1NFRGF0WlQySy1xVE9LNmc?oc=5)
 
 ---
 
@@ -182,11 +158,11 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxO
 
 ---
 
-### [Adipositas und Rheuma: Diese Immunzellen verändern sich nach starkem Gewichtsverlust](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpqMlpJRVpPNHNHSk5zWEFDWWhDRy1GbU9zWmg5dUdUeHl4aHhGQjA3by10N3Z6XzlSc3VyajVPeXFNc3R2MENZNm9SMDd6VE9pQ0o1Vmg4dUFjSEZHeFJTVW8yQ2pUYWJVclBiLTM5cGo0SkZBTzZRWHRteTFaR3otQWpQUkstWFRteHNwTnlxWGhpMElzTXJyUkhhMkVmWnU4U0oyQWRRb19jN0s0c09Sa3cxYko0clI3VA?oc=5)
+### [Nach einem Mini-Schlaganfall steigt das Demenz-Risiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
 
-2026-09-26 <span class="news-indication-tag">Adipositas</span>
+2026-09-25 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVpqMlpJRVpPNHNHSk5zWEFDWWhDRy1GbU9zWmg5dUdUeHl4aHhGQjA3by10N3Z6XzlSc3VyajVPeXFNc3R2MENZNm9SMDd6VE9pQ0o1Vmg4dUFjSEZHeFJTVW8yQ2pUYWJVclBiLTM5cGo0SkZBTzZRWHRteTFaR3otQWpQUkstWFRteHNwTnlxWGhpMElzTXJyUkhhMkVmWnU4U0oyQWRRb19jN0s0c09Sa3cxYko0clI3VA?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
 
 ---
 

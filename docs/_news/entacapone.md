@@ -54,11 +54,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (8)
 
+### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+
+2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+
+---
+
 ### [Des doses élevées de vitamine D liées à une meilleure cognition chez les personnes âgées ayant des problèmes de mémoire et un sommeil de mauvaise qualité](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
 
 2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
 
 ---
 
@@ -70,27 +78,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3b
 
 ---
 
+### [Is your memory starting to fade? Experts warn of 75p supplement that could 'speed up dementia' - The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHlVd0JyTFhSNVNhME5mS25fVDVGTEdGMzZaYkdEMnA4VVpYTk9lU3dEc0hKeFNydGlZeXQ3ek4xUzNkOWhwQ2N0Z1dPM0dsb3lqSFdJX3N0OEMwajlWandBM0JLLUhTQ1VVc1Biel9tVXAwNUNqOU5EMzNOcjJJbGYzSzdGMTl3R2tUMlBZSllRUmVVZnBWQURrZk0?oc=5)
+
+2026-09-29 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHlVd0JyTFhSNVNhME5mS25fVDVGTEdGMzZaYkdEMnA4VVpYTk9lU3dEc0hKeFNydGlZeXQ3ek4xUzNkOWhwQ2N0Z1dPM0dsb3lqSFdJX3N0OEMwajlWandBM0JLLUhTQ1VVc1Biel9tVXAwNUNqOU5EMzNOcjJJbGYzSzdGMTl3R2tUMlBZSllRUmVVZnBWQURrZk0?oc=5)
+
+---
+
 ### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
-
----
-
-### [Mum tried to hide her dementia but I had a gut feeling something was wrong - Daily Express](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSENCTzZzTktCeDdrM2NJLXM0Q2ZRdzZuaGpwMjdNOE5IWUp6REtxdWNkaGxYMm5iV1BlR1U2bDhLZkU4blJnQ05kOWl3dHhfN1BBYWtSVi02M1FjN09BaDBIUFc0TW1UaFp3clY1cDQ4ZVV0NURMSDkzRXVaRENvYzlrRTNFQTZYT3d4MlBweGd1azZ3cFk2bVF30gGfAUFVX3lxTE5IdWpfYjcxUnNzdTdtNlYzXzhXUFExMEs3SnQyVjRMNGd3TmFfSXNRUjNjbXZ2dVVsU3dKZkJGeWdLY3lvTmxQQU5KMVg4UGNjQkNfdEtJbUtMMEQzSjhieFBIZTRGLUo2X3h0bHJMUWRpZ1d3NWNuY0dLSnNFZ2VUcHB2QnV3d0JGdmZVRGs0VHU2ZG9EU3VkcjFOU0NnUQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">dementia</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMimgFBVV95cUxQSENCTzZzTktCeDdrM2NJLXM0Q2ZRdzZuaGpwMjdNOE5IWUp6REtxdWNkaGxYMm5iV1BlR1U2bDhLZkU4blJnQ05kOWl3dHhfN1BBYWtSVi02M1FjN09BaDBIUFc0TW1UaFp3clY1cDQ4ZVV0NURMSDkzRXVaRENvYzlrRTNFQTZYT3d4MlBweGd1azZ3cFk2bVF30gGfAUFVX3lxTE5IdWpfYjcxUnNzdTdtNlYzXzhXUFExMEs3SnQyVjRMNGd3TmFfSXNRUjNjbXZ2dVVsU3dKZkJGeWdLY3lvTmxQQU5KMVg4UGNjQkNfdEtJbUtMMEQzSjhieFBIZTRGLUo2X3h0bHJMUWRpZ1d3NWNuY0dLSnNFZ2VUcHB2QnV3d0JGdmZVRGs0VHU2ZG9EU3VkcjFOU0NnUQ?oc=5)
-
----
-
-### [Sandwich filler favourite may raise the risk of dementia by 52% – plus 2 other culprits - The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
-
-2026-09-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxvYUMxTkdyWnpKbzVlZnVRUGZRTVZoaUtBR3JxV0N2aDRDOHpPZ19pamNIcW10XzR0NEtQZF9BTHZZYkZOQ1NuelhoXzYycjF6VWhZeHhWMGswT1pIVXVKSEQyb3BHXy1vUXN1WmZRa1poMmYxLUtSOVgxMXRTb3ZCU1R6YlpVdXdBZTZXYWpDdERjclozTWhISVZjNHVZVi1INg?oc=5)
 
 ---
 

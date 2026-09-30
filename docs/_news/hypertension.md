@@ -3,7 +3,7 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 5 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 4 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>5 news articles</strong> and 55 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,13 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [People born after 1960 issued warning as pharmacist says 'millions at risk'](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+### [People born after 1960 issued warning as pharmacist says 'millions at risk' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
 
 2026-09-30
 
-Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
 
 ---
 
@@ -101,19 +101,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlV
 
 ---
 
-### [Dorset boy, aged 6, among rising number of young people suffering strokes | ITV News Meridian](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
+### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 2026-09-29
 
-Source: [ITVX](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT29ma1k5S0tJRHpnbW9nMjlzUHo2WGNCMURzWi1NMFdLZVJ5WGZwS05lbEZ6RU5Ld0VRS1NlRlZLNXhZa1NqZEVXQ3RZLVhyZzBwZUVmc3FTeFpNUUJwQnBlX3UxNmQyVWx3Rjlab3hUNHRDRXdHUUxDeG9oeUE2Z296R09uYTE5YUNrRXp4cEc3SVY0RmtWMC1yaWZ1MlpFVmVmbGVyUDY5a25SOVE?oc=5)
-
----
-
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
-
-2026-09-29
-
-Source: [Univadis](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3RKMDJuRVk1M3JhM1Bmak5uQWU1S1ZwQ1FOa25yV05iMzRQS1lIdEQxQ3lnQ0p3eWh6WVRMZWFQVWZZVlhZT2RobjU2aUljOXhPRWtVdXo2REFnWEM2MW9MRlRraXZweEFhTWhHcDNVWk5rdFY5aGhRZGlQSnk3NXNKTzJzNDRmbHJJajJPN1BKempHVUZIVTU3c2w0WXhkR1Y1VklBQWd6RDE5ZTFJTHVpTFNoRkdWcHZfOG1zTWtFWXZlZEtlNG5PalhPX1psYllrT3BtcXJoM2pMUy1CaVc4TQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 ---
 

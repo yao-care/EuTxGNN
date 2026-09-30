@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Evolocumab with the latest h
 
 ## Related News (1)
 
-### [Hohes kardiovaskuläres Risiko reicht jetzt für Repatha - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivwFBVV95cUxOazhrM2VoWjF6aFhRRHVVS1MzaFIzNjV5eFNQczVvUXBqZUhyeUFyWFd1cHpvcnpRYmRFS3ZxZGZ5LWYySm9JcmN2YkFyRG83Mi00bmtJaTl0NGN6LTR3UlNKRVktd0NOS2ZlRmEzem1iUVZwTEFoMlA0YTVhcXEwNENoMmI4ZDJuV3ZjNXV1SklNdWpwTVpmMTJhWHFNbXZrdUs0WlNXbFpRWHQxVElxa2NVZUQ4SlNPdUZsbDRBbw?oc=5)
+### [Hohes kardiovaskuläres Risiko reicht jetzt für Repatha](https://news.google.com/rss/articles/CBMivwFBVV95cUxOazhrM2VoWjF6aFhRRHVVS1MzaFIzNjV5eFNQczVvUXBqZUhyeUFyWFd1cHpvcnpRYmRFS3ZxZGZ5LWYySm9JcmN2YkFyRG83Mi00bmtJaTl0NGN6LTR3UlNKRVktd0NOS2ZlRmEzem1iUVZwTEFoMlA0YTVhcXEwNENoMmI4ZDJuV3ZjNXV1SklNdWpwTVpmMTJhWHFNbXZrdUs0WlNXbFpRWHQxVElxa2NVZUQ4SlNPdUZsbDRBbw?oc=5)
 
 2026-09-29 <span class="news-drug-tag">Evolocumab</span>
 
-Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMivwFBVV95cUxOazhrM2VoWjF6aFhRRHVVS1MzaFIzNjV5eFNQczVvUXBqZUhyeUFyWFd1cHpvcnpRYmRFS3ZxZGZ5LWYySm9JcmN2YkFyRG83Mi00bmtJaTl0NGN6LTR3UlNKRVktd0NOS2ZlRmEzem1iUVZwTEFoMlA0YTVhcXEwNENoMmI4ZDJuV3ZjNXV1SklNdWpwTVpmMTJhWHFNbXZrdUs0WlNXbFpRWHQxVElxa2NVZUQ4SlNPdUZsbDRBbw?oc=5)
+Source: [deutsche-apotheker-zeitung.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxOazhrM2VoWjF6aFhRRHVVS1MzaFIzNjV5eFNQczVvUXBqZUhyeUFyWFd1cHpvcnpRYmRFS3ZxZGZ5LWYySm9JcmN2YkFyRG83Mi00bmtJaTl0NGN6LTR3UlNKRVktd0NOS2ZlRmEzem1iUVZwTEFoMlA0YTVhcXEwNENoMmI4ZDJuV3ZjNXV1SklNdWpwTVpmMTJhWHFNbXZrdUs0WlNXbFpRWHQxVElxa2NVZUQ4SlNPdUZsbDRBbw?oc=5)
 
 ---
 
