@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
+
+### [EQS-Adhoc: Viromed Medical AG: Studie zur Kaltplasma-Anwendung in der Lunge von einem international führenden medizinischen Fachjournal zur Veröffentlichung angenommen](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
+
+2026-09-30 <span class="news-indication-tag">asma</span>
+
+Source: [Onvista](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
+
+---
 
 ### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
@@ -62,27 +70,11 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3h
 
 ---
 
-### [Se confirma la eficacia de la sulfasalazina en la artritis idiopática juvenil - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">artritis</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
-
----
-
 ### [Spinat, Mandeln & Co.: Oxalat könnte bei Morbus Crohn Entzündungen verstärken](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
-
----
-
-### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">asthma</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
 
 ---
 

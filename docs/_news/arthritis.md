@@ -3,7 +3,7 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 2 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 1 articles, 73 related drugs."
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>1 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -101,21 +101,13 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
 2026-09-30
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
-
----
-
-### [Se confirma la eficacia de la sulfasalazina en la artritis idiopática juvenil - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
-
-2026-09-30
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
 
 ---
 

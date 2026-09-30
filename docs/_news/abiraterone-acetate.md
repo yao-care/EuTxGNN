@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Abiraterone Acetate?">
-<strong>Abiraterone Acetate</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
+<strong>Abiraterone Acetate</strong> currently has <strong>8 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,29 +30,13 @@ This page combines the AI-predicted indications for Abiraterone Acetate with the
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
-
-### [People born after 1960 issued warning as pharmacist says 'millions at risk' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
-
----
+## Related News (8)
 
 ### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
 2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
-
----
-
-### [Se confirma la eficacia de la sulfasalazina en la artritis idiopática juvenil - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">artritis</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
 
 ---
 
@@ -80,14 +64,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ
 
 ---
 
-### [Frequent fatigue, palpitations among often-overlooked early signs of heart disease - The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
-
-2026-09-29 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
-
----
-
 ### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
 
 2026-09-29 <span class="news-indication-tag">migraine</span>
@@ -112,11 +88,11 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0
 
 ---
 
-### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
-2026-09-27 <span class="news-indication-tag">emicrania</span>
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
 
-Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
 ---
 

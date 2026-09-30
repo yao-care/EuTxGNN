@@ -3,7 +3,7 @@ layout: default
 title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart disease. 2 articles, 57 related drugs."
+description: "Health news about heart disease. 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -85,21 +85,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [How you eat fruit may affect your heart disease risk - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
 
 2026-09-30
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
-
----
-
-### [Frequent fatigue, palpitations among often-overlooked early signs of heart disease - The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
-
-2026-09-29
-
-Source: [The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
 
 ---
 

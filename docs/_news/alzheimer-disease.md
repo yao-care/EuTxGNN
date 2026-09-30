@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 8 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 7 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>8 news articles</strong> and 16 related drugs.
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>7 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
@@ -58,15 +58,7 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 2026-09-30
 
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
-
----
-
-### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
-
-2026-09-30
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
+Source: [linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHlVd0JyT
 
 ---
 
-### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 2026-09-29
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 ---
 

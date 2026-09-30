@@ -14,7 +14,7 @@ permalink: /news/clopidogrel-as-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel (As Hydrochloride)?">
-<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Clopidogrel (As Hydrochloride)</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Clopidogrel (As Hydrochlorid
 <p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
 2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
-
----
-
-### [Se confirma la eficacia de la sulfasalazina en la artritis idiopática juvenil - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">artritis</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2dRS2ZXbGNaenhoU1FCOTdlVTNyTUpTRVc0bV9vWW1kbkloVl9PNUliT3BHOVNONm05ejhudHBsMHBJaDZaOVVxajBVSWZxOE5MT3NQcnFSdXFHd3lnSHZDOWpKal9pUXRxdTVJeFVDZDZrTTBPSTdBOGR3M0ZzRDN4WTg4cGswcUlVZzAzWDFtWFR4M1pHWE1SX1FHNmI5N0o0ejRWSlh2cjktTVBFclJxeEJ4Q1NXdVY0cm1EWEJnUdIBvAFBVV95cUxORHFVOHRYQmxMWmZhODlrN3RKWTFoOXppRkduQ1ZkbG9TeWdwYU5CcC1NYTF1elpkQ1A4cG9nMzN6NXk0aUVYaFFzSmVLbTFOY0VJMFhpUHVwWmk2d1F4RVBRUzdrdUhfaTlDSnNkd2hPOXdWMHllRkhDOVdNcnBlU3pTSS01OXhKdy1xWjIzUU9jVjdqSTF3aUtwZkVzUmZ2aFZhLVZ0WVE3bThkd1Fsb19xSVdBcVEtVHZLUw?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW
 2026-09-29 <span class="news-indication-tag">migraine</span>
 
 Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
-
----
-
-### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
-
-2026-09-27 <span class="news-indication-tag">emicrania</span>
-
-Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

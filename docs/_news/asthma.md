@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "asthma News"
+title: "asma (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthma. 1 articles, 47 related drugs."
+description: "Health news about asma (asthma). 1 articles, 47 related drugs."
 permalink: /news/asthma/
 ---
 
-# asthma News
+# asma (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asthma?">
-<strong>asthma</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
+<p class="key-answer" data-question="What news is there about asma (asthma)?">
+<strong>asma (asthma)</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asthma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,11 +77,11 @@ This page brings together the latest health news about “asthma” and lists th
 
 ## Related News (1)
 
-### [Asthma und Diabetes: Therapien mit Synergien - Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
+### [EQS-Adhoc: Viromed Medical AG: Studie zur Kaltplasma-Anwendung in der Lunge von einem international führenden medizinischen Fachjournal zur Veröffentlichung angenommen](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
 
-2026-09-28
+2026-09-30
 
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVFvNDNGNV9zWndmaG1VelZkNS1TTGhpRlE1ZnRJdWNIbS1ZV2RyU2tZcE1MZ245RHpNUzBFbWdqR1VmdkpJckNyYmhSdlc5SkpaWWRSOFpWUHM2djJWQnp0ZjVNVEl1U01NMlpxdHpTRWhVYVNTSnlrMHV1VjN3eWZpY0p0eG5seUozR2FGSUtlNmplZDRtcXZJWHk?oc=5)
+Source: [Onvista](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
 
 ---
 

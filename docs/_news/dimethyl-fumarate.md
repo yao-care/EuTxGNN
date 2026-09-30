@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="What news is there about Dimethyl Fumarate?">
-<strong>Dimethyl Fumarate</strong> currently has <strong>49 news articles</strong>, with 20 predicted indications.
+<strong>Dimethyl Fumarate</strong> currently has <strong>50 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Dimethyl Fumarate with the l
 <p><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (49)
+## Related News (50)
 
 ### [Krebsprävention: Lampertheimer Ausstellung informiert über HPV-Impfung - Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">Krebs</span>
 
 Source: [Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
+
+---
+
+### [L'environnement de travail est-il sous-estimé dans l'apparition des cancers ?](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOHh2MU5zOXhBZWYzTnM3di03QjdJMDV2bjdhckxESWtla1VZSUQ2SjBvRnJVSnBvM0p0NGszNENzUzJYMm9VZHdqZjkwbFBqZmRBa2JHaFM1OGpENDBjbzVUcGw4bk9HQzQxUjVxd3FJbkl0YjNoTExOU1FyS0pCM0htUHpMMHEyczhNcERVcnpqMjhiWkRSMU9oa3lpdDZFMGx2TnJTVFdYWERZcjRqRFRLU18xd1lMRDBFMXY2ejY2VG9la1Itd2tDaXBCS3gteU93b0laX296MGMyZHFnN0Y1MV9Fa05DeHlVSEV3QWFFWHJLZHE5Y3pIZmk5clFETXdQaElPUQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [franceinfo](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOHh2MU5zOXhBZWYzTnM3di03QjdJMDV2bjdhckxESWtla1VZSUQ2SjBvRnJVSnBvM0p0NGszNENzUzJYMm9VZHdqZjkwbFBqZmRBa2JHaFM1OGpENDBjbzVUcGw4bk9HQzQxUjVxd3FJbkl0YjNoTExOU1FyS0pCM0htUHpMMHEyczhNcERVcnpqMjhiWkRSMU9oa3lpdDZFMGx2TnJTVFdYWERZcjRqRFRLU18xd1lMRDBFMXY2ejY2VG9la1Itd2tDaXBCS3gteU93b0laX296MGMyZHFnN0Y1MV9Fa05DeHlVSEV3QWFFWHJLZHE5Y3pIZmk5clFETXdQaElPUQ?oc=5)
+
+---
+
+### [“Il n’a pas été possible pour l’instant de trouver un radiologue qui accepte de participer au tarif proposé”: des financements mais pas de radiologue pour la prévention des cancers à Val-de-Charente - Charente Libre](https://news.google.com/rss/articles/CBMi-AJBVV95cUxPYkRoU1IzSldiQXZZUTBfOHVQLWo1bGgtOU5ZUjFyZDh3N1ZBak5FT1ZYRTg0RFdZRVJJdWd0b2JUUnBFVHhwcjVqckVmdFZxX0FQdFVtM05zcFUtQzV3ZkxicERfZHJuZm83WU44elZBbkRpSlRJVjRIWVR6aWMybkNPdmpHeWRWNDlPQmpsUE1fS2VZajRoUUZsUUg1VEEwVF9YeGpydFF5UDRTQUJieGpyOWRRZzc4UV9tb05GOXZ3TGR4YkVBXzFZODFfZHdGVlF4VzM5WjB5NFVxa296eHZVUnJ5Qi1xTjQxdm1XQ1BTc3puYlNFc2UwaGY5NFFfU3I3TmNRQlBBTGg3Yll6X1dsQkZNcS1BME92X2hVWHhIOHcyZ2dKaThucm0zbnlZNG9GRWFXLS1qNjFZSlBTQnRGQlBWb2wwRlc3b3Z5VHJCSm9jMTlLZE0yRFZab29nN1VWX1RhcUVKUXR0aEZYb3RIbmR0Vzd6?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMi-AJBVV95cUxPYkRoU1IzSldiQXZZUTBfOHVQLWo1bGgtOU5ZUjFyZDh3N1ZBak5FT1ZYRTg0RFdZRVJJdWd0b2JUUnBFVHhwcjVqckVmdFZxX0FQdFVtM05zcFUtQzV3ZkxicERfZHJuZm83WU44elZBbkRpSlRJVjRIWVR6aWMybkNPdmpHeWRWNDlPQmpsUE1fS2VZajRoUUZsUUg1VEEwVF9YeGpydFF5UDRTQUJieGpyOWRRZzc4UV9tb05GOXZ3TGR4YkVBXzFZODFfZHdGVlF4VzM5WjB5NFVxa296eHZVUnJ5Qi1xTjQxdm1XQ1BTc3puYlNFc2UwaGY5NFFfU3I3TmNRQlBBTGg3Yll6X1dsQkZNcS1BME92X2hVWHhIOHcyZ2dKaThucm0zbnlZNG9GRWFXLS1qNjFZSlBTQnRGQlBWb2wwRlc3b3Z5VHJCSm9jMTlLZE0yRFZab29nN1VWX1RhcUVKUXR0aEZYb3RIbmR0Vzd6?oc=5)
 
 ---
 
@@ -70,11 +86,27 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvU3YxV01WVlRxV
 
 ---
 
-### [« Je l’ai fait pour la cause » : Sophie Lainault raconte son combat pour faire reconnaître son cancer du sein comme maladie professionnelle - Sud Ouest](https://news.google.com/rss/articles/CBMipAJBVV95cUxNdWNMQzFwUENfV1NhRkdUZEViVWxEaFJ6cjl4WXE4T1ZQc242V2t3ZXpBTkZKdkNiYm1Lb3paYzd4VkpnV01icHpOeDBlOU1pNEptUHNzNXR2YlB3VjBGdmkzN1NuTHBjYUc3UHl5NjJqVVV3T0JtdFhscEQwOURDU05mN25QaExKRnNEeTZ0WFY0YjI5Yk1yWjktX3RXWjN2Uzc1OW50S25kTTN1QkFsTnpOcE5ONDRyckxkTUVEZm0yRGxHbldPV0REQU9UOTcwWWJVbm5fWE5IejFrTDRuU0xzU2g0R2ZURUF2eUNWNW5VZlFUbk9pTEdTT1Q4YVBlc0pSYzFadExaaHhGYTBVeTBvSjJzeUpySl9FMWl3ZFRkSWNw?oc=5)
+### [El cáncer de tiroides no es una única enfermedad: conocer el tumor permite evitar cirugías innecesarias - Estrategias de Inversión](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5PQmVIMlZpM09TSjVGcWJpcE5uZklYdFNwZWtULVlCTjk4S2lVRFg4elFzWXhkMTU5Qk5ZX0c3UnNmTGxHbHI4cXFHRTBCb0pQOVBkc0V4WnV4UEJnY25RRUFicjhqY0NfMVpvNWFpbW5YS0pBRUcwTVNBUHRkNU1nVldLQnBfVFN0cGtTRGVNV2dCaVlENUFhZVZQOVhxVVktM2U3d1hmWFhnWVhlWk41NlJEM3MwSVZiT1VyVWpCbTTSAaIBQVVfeXFMT2tfNUFUOTdPZkFKQmltX0ZIMm84U29oa3VwVTJRQU54OG1XUnpnZ2JiakFhVTVNdnJjOWJQanJqeGNtZ0RpWWpxUWE3TWc3OTBrMW1UQnVDWkxrNVZPWERqcHpodUJscjgwSENGMzVhcWJlVzA4a0s2UFpoY3JLb1p1NGFNRUxnblNsR3Fqc3FEWGZBYkFVM0xWbDNhNmc2RkRn?oc=5)
+
+2026-09-30 <span class="news-indication-tag">tumor</span>
+
+Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5PQmVIMlZpM09TSjVGcWJpcE5uZklYdFNwZWtULVlCTjk4S2lVRFg4elFzWXhkMTU5Qk5ZX0c3UnNmTGxHbHI4cXFHRTBCb0pQOVBkc0V4WnV4UEJnY25RRUFicjhqY0NfMVpvNWFpbW5YS0pBRUcwTVNBUHRkNU1nVldLQnBfVFN0cGtTRGVNV2dCaVlENUFhZVZQOVhxVVktM2U3d1hmWFhnWVhlWk41NlJEM3MwSVZiT1VyVWpCbTTSAaIBQVVfeXFMT2tfNUFUOTdPZkFKQmltX0ZIMm84U29oa3VwVTJRQU54OG1XUnpnZ2JiakFhVTVNdnJjOWJQanJqeGNtZ0RpWWpxUWE3TWc3OTBrMW1UQnVDWkxrNVZPWERqcHpodUJscjgwSENGMzVhcWJlVzA4a0s2UFpoY3JLb1p1NGFNRUxnblNsR3Fqc3FEWGZBYkFVM0xWbDNhNmc2RkRn?oc=5)
+
+---
+
+### [The likely cause of 2.3 million cancer cases revealed - The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmQ3VUNtUXhjZzczQWpqcktUWlBWN3ZHX1ZLYUdzYlg3SWRNZUhTSFhweFZJVFBzdUV1aDBseVV0YUFfd0owNUdHSGJUWW96SDlDUGJrMnZCdW5EX1IydzhVbk1NUldIci03LXpBRTZILWYwWFFURDlIbUNuc1IwUzhlaGNlVnR4WHVMVWhXbk1WbDVVY3c?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancer</span>
 
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMipAJBVV95cUxNdWNMQzFwUENfV1NhRkdUZEViVWxEaFJ6cjl4WXE4T1ZQc242V2t3ZXpBTkZKdkNiYm1Lb3paYzd4VkpnV01icHpOeDBlOU1pNEptUHNzNXR2YlB3VjBGdmkzN1NuTHBjYUc3UHl5NjJqVVV3T0JtdFhscEQwOURDU05mN25QaExKRnNEeTZ0WFY0YjI5Yk1yWjktX3RXWjN2Uzc1OW50S25kTTN1QkFsTnpOcE5ONDRyckxkTUVEZm0yRGxHbldPV0REQU9UOTcwWWJVbm5fWE5IejFrTDRuU0xzU2g0R2ZURUF2eUNWNW5VZlFUbk9pTEdTT1Q4YVBlc0pSYzFadExaaHhGYTBVeTBvSjJzeUpySl9FMWl3ZFRkSWNw?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmQ3VUNtUXhjZzczQWpqcktUWlBWN3ZHX1ZLYUdzYlg3SWRNZUhTSFhweFZJVFBzdUV1aDBseVV0YUFfd0owNUdHSGJUWW96SDlDUGJrMnZCdW5EX1IydzhVbk1NUldIci03LXpBRTZILWYwWFFURDlIbUNuc1IwUzhlaGNlVnR4WHVMVWhXbk1WbDVVY3c?oc=5)
+
+---
+
+### [Un changement "inhumain" : ce traitement contre le cancer du sein et de la prostate ne sera bientôt plus remboursé](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObktLZlFDQXBpRE9LUmJfOW5KTEdkYmlNa3NXdHJCRWRzV3J5ZEFsTWxfaEdpajAwQU51OEt1LTVLTWx1RmpucTV2SDMyUlJXeUdkTGlGLUhzTlNKMU40dDFLRVhtQlVOd2lXa1Bqd3hiVDVMQV9BRTd1VmJ1RFJqeUxWd2dTam5PdHF0VVl3YXA3enY4ZEJ1WDR2YzhBTHB5ZU5MeVgwWDNSbnpZSXg2UWdHY290enYwOWdPQVFOZklKODJPcE5Cb0I4d21rVGhZdFRpM2RKZ1RwdDU4a25tN0tXTF9acFhtY0trTlpwQ1NjUzVG?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [L'Indépendant](https://news.google.com/rss/articles/CBMi9AFBVV95cUxObktLZlFDQXBpRE9LUmJfOW5KTEdkYmlNa3NXdHJCRWRzV3J5ZEFsTWxfaEdpajAwQU51OEt1LTVLTWx1RmpucTV2SDMyUlJXeUdkTGlGLUhzTlNKMU40dDFLRVhtQlVOd2lXa1Bqd3hiVDVMQV9BRTd1VmJ1RFJqeUxWd2dTam5PdHF0VVl3YXA3enY4ZEJ1WDR2YzhBTHB5ZU5MeVgwWDNSbnpZSXg2UWdHY290enYwOWdPQVFOZklKODJPcE5Cb0I4d21rVGhZdFRpM2RKZ1RwdDU4a25tN0tXTF9acFhtY0trTlpwQ1NjUzVG?oc=5)
 
 ---
 
@@ -86,19 +118,27 @@ Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxN
 
 ---
 
-### [Jeder achte Krebsfall weltweit geht auf eine Infektion zurück - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZjNneEJrRDJYZzc3T0oyYXpncUlxb3pPRVhyN2tTZFA1MHl4Y1BoVXB5amt5dkdldVMwS25URHV0MS1CUERYT1pqaENnZW1HWUIzTDhoMEpJOWRRTWR5ZFdTRzRWWUpyODN5b1M5bF83ZGJ6WmdZVg?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Krebs</span>
-
-Source: [SZ.de](https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZjNneEJrRDJYZzc3T0oyYXpncUlxb3pPRVhyN2tTZFA1MHl4Y1BoVXB5amt5dkdldVMwS25URHV0MS1CUERYT1pqaENnZW1HWUIzTDhoMEpJOWRRTWR5ZFdTRzRWWUpyODN5b1M5bF83ZGJ6WmdZVg?oc=5)
-
----
-
 ### [Attaccare il tumore senza danneggiare i tessuti sani: la dose di radiazioni diventa personalizzata - La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">tumor</span>
 
 Source: [La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
+
+---
+
+### [Tumore papillare della tiroide, essere uomo pesa sulla prognosi? La risposta è nel profilo del tumore](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSS1odjFKRjhrc2RldFVCTWVQTXIxRG1wSXh3Yl9hRzBBOGdZd0pVOHNRMFgtR3FOQ0xueEM5eTZ1T2JyQmxPQjNjRWIzRFVHVW5HTi1qeXJWNW1leVB4VkVLZjlVZVl4VXNYZnM2WWJKdmpmNnNfemlKRzcxOE1UaFdQNm9RdjVJdlBGMzIwRkh3WXRCeE40TkRYWFNOcDNCZmlCMXp0Qjh2TW1zN2h2S0pZZmM5bU9HR2dUYzhkZWpzWlNnUGE2MG5UM2hBN2tFVVR0dnYyMDI5Q3JEZHB5a0Fpc25za3BGYzlXRlV4NmY?oc=5)
+
+2026-09-30 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSS1odjFKRjhrc2RldFVCTWVQTXIxRG1wSXh3Yl9hRzBBOGdZd0pVOHNRMFgtR3FOQ0xueEM5eTZ1T2JyQmxPQjNjRWIzRFVHVW5HTi1qeXJWNW1leVB4VkVLZjlVZVl4VXNYZnM2WWJKdmpmNnNfemlKRzcxOE1UaFdQNm9RdjVJdlBGMzIwRkh3WXRCeE40TkRYWFNOcDNCZmlCMXp0Qjh2TW1zN2h2S0pZZmM5bU9HR2dUYzhkZWpzWlNnUGE2MG5UM2hBN2tFVVR0dnYyMDI5Q3JEZHB5a0Fpc25za3BGYzlXRlV4NmY?oc=5)
+
+---
+
+### [Tumore al cervello, non è solo un mal di testa: i campanelli d'allarme "silenziosi" a cui prestare massima attenzione](https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2kyTEFNdFJ0dVJIRUxVa2ZkaFpuMXpramxGOXFWNmw1b2Qza2Zsc3BQcWNFVWtQS1h5Q1ZwTGt1UlEzdC1KdGxzbVZxQmpNR3YzenNtVXNSVE1fYzJyeFZRS0RjVlc1VUtJRnNtNkNUeERYYmJ1ZUV6SmRxbmpSbWNPb2pqYVJuQV9XYUdsTk02WFhPT0dzbV9fZzdFdHZzMWJzcmhOWE5QemtURHhsSjROZFdJR0FCWmxJc295SGJ2LXJSeXdkWjVR?oc=5)
+
+2026-09-30 <span class="news-indication-tag">tumor</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiygFBVV95cUxOU2kyTEFNdFJ0dVJIRUxVa2ZkaFpuMXpramxGOXFWNmw1b2Qza2Zsc3BQcWNFVWtQS1h5Q1ZwTGt1UlEzdC1KdGxzbVZxQmpNR3YzenNtVXNSVE1fYzJyeFZRS0RjVlc1VUtJRnNtNkNUeERYYmJ1ZUV6SmRxbmpSbWNPb2pqYVJuQV9XYUdsTk02WFhPT0dzbV9fZzdFdHZzMWJzcmhOWE5QemtURHhsSjROZFdJR0FCWmxJc295SGJ2LXJSeXdkWjVR?oc=5)
 
 ---
 
@@ -120,7 +160,7 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNems4Z0
 
 ### [Helicobacter pylori kann Magenkrebs fördern – jetzt wird klarer, was dabei im Körper passiert - smart up news](https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0FoeVQwUm9fVVM2V2hMeVV1RkRzc0ZQS0JTZndvWlUxWWJoUjNpQThVRmdmM1U0emxfeExpaXpvbnMzM21jZVpJcWtYdFBNeG9MNlVzc3NyMjZWSjliNkR3OTQ0WVhQMThPUlE4NTBlM0VPSTk2bmpMVF9SbzhtNFYyT1M4NjNQWUw0TEVJd2ktajJuNFZlMWlWRDhjQXNMVU5USW40MV9McWVSMk93VkJaQVEyRFlpaEFockRoMHBMbWo1VHAw?oc=5)
 
-2026-09-30 <span class="news-indication-tag">Krebs</span>
+2026-09-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
 Source: [smart up news](https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0FoeVQwUm9fVVM2V2hMeVV1RkRzc0ZQS0JTZndvWlUxWWJoUjNpQThVRmdmM1U0emxfeExpaXpvbnMzM21jZVpJcWtYdFBNeG9MNlVzc3NyMjZWSjliNkR3OTQ0WVhQMThPUlE4NTBlM0VPSTk2bmpMVF9SbzhtNFYyT1M4NjNQWUw0TEVJd2ktajJuNFZlMWlWRDhjQXNMVU5USW40MV9McWVSMk93VkJaQVEyRFlpaEFockRoMHBMbWo1VHAw?oc=5)
 
@@ -142,19 +182,27 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi0AFBVV95cU
 
 ---
 
+### [Hausse des cancers en Algérie : le constat glaçant du Pr Senhadji](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmJ5bTAydlhERnFqSHg3c3poXzRxS3dVZnR0OXVwSEl2Z18zQzFuLXVKeG1GZUtuWl9ONC1CbGdub2ZaTDB5ZHlJWnlfLWRjcWxZcTdGcW9SdFBFdFFiYkhCWmY3RlV4bGJZcFVHYi1QcEJMNW5SNHQzZ3o0cDRPRkFIYU9VaGs0c3hqMTZ2eXFaZTFDN2c4?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [tsa-algerie.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmJ5bTAydlhERnFqSHg3c3poXzRxS3dVZnR0OXVwSEl2Z18zQzFuLXVKeG1GZUtuWl9ONC1CbGdub2ZaTDB5ZHlJWnlfLWRjcWxZcTdGcW9SdFBFdFFiYkhCWmY3RlV4bGJZcFVHYi1QcEJMNW5SNHQzZ3o0cDRPRkFIYU9VaGs0c3hqMTZ2eXFaZTFDN2c4?oc=5)
+
+---
+
+### [Zwölf Prozent aller Krebsfälle gehen auf Infektionen zurück – diese drei Erreger sind am gefährlichsten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Krebs</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
+
+---
+
 ### [Max Parisi: "Ho un tumore al pancreas, sono volato in America per provare una nuova terapia"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbkxuQl9hc1dkNWE5RUVnLW9iVVhSSEQtWnFzVTV3dVM3Z21EczlUMU5xMkVNdzRINF90M25mSWhoYVkyWVNyZzc2VXhzenNHOXA4U1ZYZ2JrVTJHa0hoSlFCcHAtYXY5OUdmMXhsUHBVTVVfVGFuREFXUVFFRjhJUGZQZHVPUmhEbWx6QjRvUV9Ec0ZkdXYtRGl3TzJ4VTdnWE9sd0ZMMkVKQ25VT0E1WUZFalQ0Y2lPTHQwQTd2Y2Z2YVdjLTJJaElSV1k1elVzV2NVNEZUTU1NMFBPOGJoUWxMZFdiQndhWTVWNWVKWnZjWVRoZ1AxTVA4WWtkS0nSAYQCQVVfeXFMUE5OeFl6dUc5T2JWZFZ2ZmZKZkJxbkFnMnZLbS1WckNrUjdXNzVKMjg3WDRVdFVKOGtJQWN1LXAxN2hhTkNQMDNqeFl2ZTFqbHNXaHVuWHlKVnhoT1MxTmtZa180R2ZNR25WLXVNX2hNOGxmTVdCNUY1NHEtTEJVbDFDNmdlUk5yRUN4T3Fnb2ZkanJMa3l4UjFBOEV1VjNMbktrOU03bGtzSTI4dHdCc1ktalNlb3hVVU51WDJhRWpMMm5XX09KRVYtSl9pUHdrV04tMkZZWnpBMXhWNnhYUXo1Ync2Vlg2aGdQNXZNcmlMV1NZODV2STd6a3M0VWx1WHBmeXg?oc=5)
 
 2026-09-30 <span class="news-indication-tag">tumor</span>
 
 Source: [RaiNews](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbkxuQl9hc1dkNWE5RUVnLW9iVVhSSEQtWnFzVTV3dVM3Z21EczlUMU5xMkVNdzRINF90M25mSWhoYVkyWVNyZzc2VXhzenNHOXA4U1ZYZ2JrVTJHa0hoSlFCcHAtYXY5OUdmMXhsUHBVTVVfVGFuREFXUVFFRjhJUGZQZHVPUmhEbWx6QjRvUV9Ec0ZkdXYtRGl3TzJ4VTdnWE9sd0ZMMkVKQ25VT0E1WUZFalQ0Y2lPTHQwQTd2Y2Z2YVdjLTJJaElSV1k1elVzV2NVNEZUTU1NMFBPOGJoUWxMZFdiQndhWTVWNWVKWnZjWVRoZ1AxTVA4WWtkS0nSAYQCQVVfeXFMUE5OeFl6dUc5T2JWZFZ2ZmZKZkJxbkFnMnZLbS1WckNrUjdXNzVKMjg3WDRVdFVKOGtJQWN1LXAxN2hhTkNQMDNqeFl2ZTFqbHNXaHVuWHlKVnhoT1MxTmtZa180R2ZNR25WLXVNX2hNOGxmTVdCNUY1NHEtTEJVbDFDNmdlUk5yRUN4T3Fnb2ZkanJMa3l4UjFBOEV1VjNMbktrOU03bGtzSTI4dHdCc1ktalNlb3hVVU51WDJhRWpMMm5XX09KRVYtSl9pUHdrV04tMkZZWnpBMXhWNnhYUXo1Ync2Vlg2aGdQNXZNcmlMV1NZODV2STd6a3M0VWx1WHBmeXg?oc=5)
-
----
-
-### [« C’est inhumain »… Leur traitement contre le cancer va bientôt être déremboursé - 20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUw3eWl1YzFmYUZzVTZJbUN6ZmFmaGJ0V0JOcnVQZ09kZUZtNHNJMV82S0cwMXFaTmowT3huUjNnV1RrcjFkbTlZN2xBTUpzVThaMTktUG9aNUIxMEtxODR1aTNZQnludjRKMHJIdTZfNV9aNXdJVHhrbTZwblRuWkl2N0h3VEdiS05YQ1Y1ZC13RS1tSXpUTTdoakNvVDRybUNOU1ZWdmRqVXc2eWtiQUR0UkItTkE4RFpEanlkamQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">cancer</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUw3eWl1YzFmYUZzVTZJbUN6ZmFmaGJ0V0JOcnVQZ09kZUZtNHNJMV82S0cwMXFaTmowT3huUjNnV1RrcjFkbTlZN2xBTUpzVThaMTktUG9aNUIxMEtxODR1aTNZQnludjRKMHJIdTZfNV9aNXdJVHhrbTZwblRuWkl2N0h3VEdiS05YQ1Y1ZC13RS1tSXpUTTdoakNvVDRybUNOU1ZWdmRqVXc2eWtiQUR0UkItTkE4RFpEanlkamQ?oc=5)
 
 ---
 
@@ -179,14 +227,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNHJJZEdQOUZJR
 2026-09-30 <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE14YTMzWFFYdTZ6bWFtN1Z1VnhOQjUyaEdxSEJxWkdIOTd5OXBIM0Qxb0VPUG5JNERrNGtsd1BCaVJFS0RJdzlYN09manJGZmxyZU5PNVA4c1c3UWtxVGc?oc=5)
-
----
-
-### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
-
-2026-09-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
 
 ---
 
@@ -242,23 +282,15 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiyAFBVV95cU
 
 2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
 
 ---
 
-### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable - La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
+### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">tumor</span>
 
-Source: [La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
-
----
-
-### [Semaglutide, nuove evidenze su cuore e reni: nello studio nordico nessun aumento del rischio di tumore al pancreas](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUFhvMGc4OG5EeHJhblduZ2IwZ2ZsTzY2LW1PVThXaklvZzFxVDRDWnE4V1kzNE8yU1F4VXpxVjQ0QklJajZac2NJOTJaeTF6SXRaeWxGeXRneGZDcVctSHY5dEFpZ3pFQ2xVcUo3eUprcVgyN1hnZ29OaDR5YXFheXNMR0R0VlFrdU51S1J3dUYza1J5Z3JqcVE4dUw0a2ZHdWJhdzUyTlZlOWNiQ0ZJdi1OWjB0Z2FHVE9tSGVGM0E3N2RpZDlmMGkxalFLaHhRa3M4TWpFNjl2VEFaaEQ2QmRRYkFDaEhtZm1EalRlVjhJU3Ayb1M4aVllQ0g4cXQ4WUhpTmNmelk0dnc?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [lanuovasardegna.it](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUFhvMGc4OG5EeHJhblduZ2IwZ2ZsTzY2LW1PVThXaklvZzFxVDRDWnE4V1kzNE8yU1F4VXpxVjQ0QklJajZac2NJOTJaeTF6SXRaeWxGeXRneGZDcVctSHY5dEFpZ3pFQ2xVcUo3eUprcVgyN1hnZ29OaDR5YXFheXNMR0R0VlFrdU51S1J3dUYza1J5Z3JqcVE4dUw0a2ZHdWJhdzUyTlZlOWNiQ0ZJdi1OWjB0Z2FHVE9tSGVGM0E3N2RpZDlmMGkxalFLaHhRa3M4TWpFNjl2VEFaaEQ2QmRRYkFDaEhtZm1EalRlVjhJU3Ayb1M4aVllQ0g4cXQ4WUhpTmNmelk0dnc?oc=5)
+Source: [larazon.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 ---
 
@@ -272,17 +304,17 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTZ0
 
 ### [Dad, 59, goes permanently blind within 2 weeks after using Ozempic, he claims - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
 
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
 
 ---
 
-### [47 Minuten mehr REM-Schlaf – Demenzrisiko in großer Studie 46 Prozent niedriger](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2s1c1o3N1FTTDNLaXZEa0JDZ3ljQ0UwSWN4YlF0T21Qa29wVjVUTDJHQnlZTkFXVGlDbWlWZ0cxVWt6YUI0LXk3NGloYl92bmFPTGNocVc5ZW4tRTVEMVRNRlg0eGlTX21iMW5tTkk0RVUyVlpiZzBQNHp2ZlJCX0R3WjNzMmxHU1k5ZDRZY1ZhNFJ2Z2ROeXdFVTNyNjNzdWhrWGxWMEtXVmlNLWw4SnB2SnljVld5TmRhdQ?oc=5)
+### [47 Minuten mehr REM-Schlaf – Demenzrisiko in großer Studie 46 Prozent niedriger - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2s1c1o3N1FTTDNLaXZEa0JDZ3ljQ0UwSWN4YlF0T21Qa29wVjVUTDJHQnlZTkFXVGlDbWlWZ0cxVWt6YUI0LXk3NGloYl92bmFPTGNocVc5ZW4tRTVEMVRNRlg0eGlTX21iMW5tTkk0RVUyVlpiZzBQNHp2ZlJCX0R3WjNzMmxHU1k5ZDRZY1ZhNFJ2Z2ROeXdFVTNyNjNzdWhrWGxWMEtXVmlNLWw4SnB2SnljVld5TmRhdQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [fr.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2s1c1o3N1FTTDNLaXZEa0JDZ3ljQ0UwSWN4YlF0T21Qa29wVjVUTDJHQnlZTkFXVGlDbWlWZ0cxVWt6YUI0LXk3NGloYl92bmFPTGNocVc5ZW4tRTVEMVRNRlg0eGlTX21iMW5tTkk0RVUyVlpiZzBQNHp2ZlJCX0R3WjNzMmxHU1k5ZDRZY1ZhNFJ2Z2ROeXdFVTNyNjNzdWhrWGxWMEtXVmlNLWw4SnB2SnljVld5TmRhdQ?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2s1c1o3N1FTTDNLaXZEa0JDZ3ljQ0UwSWN4YlF0T21Qa29wVjVUTDJHQnlZTkFXVGlDbWlWZ0cxVWt6YUI0LXk3NGloYl92bmFPTGNocVc5ZW4tRTVEMVRNRlg0eGlTX21iMW5tTkk0RVUyVlpiZzBQNHp2ZlJCX0R3WjNzMmxHU1k5ZDRZY1ZhNFJ2Z2ROeXdFVTNyNjNzdWhrWGxWMEtXVmlNLWw4SnB2SnljVld5TmRhdQ?oc=5)
 
 ---
 
@@ -326,6 +358,14 @@ Source: [L'Indépendant](https://news.google.com/rss/articles/CBMipgJBVV95cUxNZ1
 
 ---
 
+### [Women Are Revealing The Important Things You MUST Know About Perimenopause Before It Happens](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGtsTjBWWExieWVYaGxES0hrWThkYnJTMWVWM3ZMUHlraFNYRWZ6NFdEQXpMSHlUbnNTSklfRk5nb1hVbUNiMFc2cVBZVjlrZHl5QnRTZ2g4clEyTFFSQ1dzT2U0MlRvVGo5RzRSbDIzUGp1WjBfTlBvREZJcWFBWW1OSQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">MS</span>
+
+Source: [BuzzFeed](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGtsTjBWWExieWVYaGxES0hrWThkYnJTMWVWM3ZMUHlraFNYRWZ6NFdEQXpMSHlUbnNTSklfRk5nb1hVbUNiMFc2cVBZVjlrZHl5QnRTZ2g4clEyTFFSQ1dzT2U0MlRvVGo5RzRSbDIzUGp1WjBfTlBvREZJcWFBWW1OSQ?oc=5)
+
+---
+
 ### [Shorter Prostate RT Holds Up at 5 Years, With Caveats](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1lESnFJeUpjdDVQRnU0WmFsckRaTFAzSUZRamRhdVFDWExQclRjeWhvY2ZGRERwcEw5dTlMc2pyOXZjeG9QdFdMUF84anFjYi1LRzd6SEQxM3d1M3YzekpmaDllT29FR1BuRVZnTlZDRk9PSmxwaG94Y0NYMzE3VkVaendWUGx1dFdlNmRnRTZ1UXlYRGc?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span>
@@ -334,51 +374,27 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1lESnFJ
 
 ---
 
-### [1 de cada 8 casos de cáncer en el mundo se debe a infecciones evitables según estudio](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
-
-2026-09-29 <span class="news-indication-tag">tumor</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
-
----
-
-### [One in eight cancer cases linked to preventable infections](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWdNaWZreUhMWkJjSUoycVJ3S2dJTzJ1SndqdHVwVllmeENTZVk2WTlKbE4zTFhTLVZlVGFhVVNXMHdqb3I1RjJrdjdvd0ZXV2hpLUtscF9QNktaNkItRzBoV2lFNy1Kd05kdkVvdjB5QUNoaFFtSDFUelRESlZmakxmdDFnUm5iSzFVeHlnWlE2djZKTkxqVnowZzloVzZoUGlucVNETndDekJjZmxzcjUzTEpmdVdLaWlz?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cancer</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWdNaWZreUhMWkJjSUoycVJ3S2dJTzJ1SndqdHVwVllmeENTZVk2WTlKbE4zTFhTLVZlVGFhVVNXMHdqb3I1RjJrdjdvd0ZXV2hpLUtscF9QNktaNkItRzBoV2lFNy1Kd05kdkVvdjB5QUNoaFFtSDFUelRESlZmakxmdDFnUm5iSzFVeHlnWlE2djZKTkxqVnowZzloVzZoUGlucVNETndDekJjZmxzcjUzTEpmdVdLaWlz?oc=5)
-
----
-
-### [La sangre revela neoantígenos tumorales con potencial para guiar nuevas inmunoterapias - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXlaT0w3b01XWTExRnpJcEpRblVtMHJyN0U3c2hScDNNRzBvQi1GV1gySDlEM3hvMmp2OFlmRzQ0ZFE1MDNxREQ3dTFIZkw0OVpFYXhiUFFmSm5rWjMwd2dVc185WHdfQUQ2d3ZFQ3FyLXI1aXItN3g5dHR3QTRhTHhxQ3o0SlVZbVRpU1JNNjZ2OGJxbjhtcE9MVlZodnI0TDU4LWxlMFJ0RXo2Z3ZLNXQtQzcxYXc5Z1ZlLVdOb0dyUdIBvAFBVV95cUxPdnFadHl4dDgtWWhDcmhpR2hSSGtYUHNkRFBQSk1fYWlfWU8wbzJwU081cjliT3NyY0dGWE5Oa0U0LWRudThBYlhoOXdJQlpycnJXQjV4bWV6M2tRa05vXy1PQlpwVFlnLS1qbXBEa25hZkNOYlBENkZESm44WHJtS2FtQjZ1U3Fab3A0VDJTN1VqdGFrdGhZZzlNTzR1eGJyNnc1dXZtaldBSFJvNHN4YnhVOENHcmxHcUY1cw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">tumor</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXlaT0w3b01XWTExRnpJcEpRblVtMHJyN0U3c2hScDNNRzBvQi1GV1gySDlEM3hvMmp2OFlmRzQ0ZFE1MDNxREQ3dTFIZkw0OVpFYXhiUFFmSm5rWjMwd2dVc185WHdfQUQ2d3ZFQ3FyLXI1aXItN3g5dHR3QTRhTHhxQ3o0SlVZbVRpU1JNNjZ2OGJxbjhtcE9MVlZodnI0TDU4LWxlMFJ0RXo2Z3ZLNXQtQzcxYXc5Z1ZlLVdOb0dyUdIBvAFBVV95cUxPdnFadHl4dDgtWWhDcmhpR2hSSGtYUHNkRFBQSk1fYWlfWU8wbzJwU081cjliT3NyY0dGWE5Oa0U0LWRudThBYlhoOXdJQlpycnJXQjV4bWV6M2tRa05vXy1PQlpwVFlnLS1qbXBEa25hZkNOYlBENkZESm44WHJtS2FtQjZ1U3Fab3A0VDJTN1VqdGFrdGhZZzlNTzR1eGJyNnc1dXZtaldBSFJvNHN4YnhVOENHcmxHcUY1cw?oc=5)
-
----
-
-### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 ---
 
-### ["No perdamos ni un latido ni tampoco las ganas de vivirlos": la reflexión de la periodista Ainhoa Tilve en el Día Mundial del Corazón - Cadena SER](https://news.google.com/rss/articles/CBMijwJBVV95cUxNblNjYWUwUDBqeHFjNFhaTUc1X202UWxpQ3d2bllRa2dhY3RrR0FQZDE2aXBTTGh3MGt4S24tb2JqZFZuTk5KRGtwaHZPdUVHWXNUM2Y4Y2hkVlRzS1hyQXBkSmVKUUZUMnZtYUhKakEtcG1vdENUVDJERnFHYmdwNGp3TV9hNVh4RGhCSkJRN0F6UVlFOUFpVHNQcmhfUV82d2toUmlJSmNWYTRjc3M3YlI4aklleWZIUUo3bGdFZGZfN0dod1FZdVFxUzcyQ1FidWRCc3B4V1BSckltekZlSkxoUkdZLXdVQXVxQUNpMjJ3bmZwSVlfOF9uNU5JQ2d6SkkxSmNoNG9WbTJUY2Nn0gGjAkFVX3lxTE85dXpCX3k4Mng5YW0tWWFrcjBiQzcyUlhycnBTUEVXMEdtUXJkb0M2LTNmM18yQ2xwV3NjLXdOYlFPUGdoSm1QbXBtdUtTVWlDeWY5Vy1xaXQ4enNNdkUxZ0t2NVZIZlBBMVpZbmVsdVhLTV9JN05pS0NnOWJvY1lfX3I2S3VJWHEtVTJGQkQwRUYxMk5CaU5femNqek9WTjhoNVZhdlM4QjE3SUVMLUdRRlY4N1V1a25KdVVJd2JmT0VXZ010MGVnSnBBN0NGanJPOHlERVJNdm4xVWtNVFUxcUhEOW0yRmF6cG53dkNRNkhZbUgySDhISWw3U1BEOG9UUS1CdUoxcE9WQ1VSaUgwN3BqX3VrUndfcWtNcldwblRqUQ?oc=5)
+### [Diabete, l'uso di semaglutide non aumenta il rischio di tumore al pancreas. Lo studio](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
 
-2026-09-29 <span class="news-indication-tag">MS</span>
+2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
-Source: [Cadena SER](https://news.google.com/rss/articles/CBMijwJBVV95cUxNblNjYWUwUDBqeHFjNFhaTUc1X202UWxpQ3d2bllRa2dhY3RrR0FQZDE2aXBTTGh3MGt4S24tb2JqZFZuTk5KRGtwaHZPdUVHWXNUM2Y4Y2hkVlRzS1hyQXBkSmVKUUZUMnZtYUhKakEtcG1vdENUVDJERnFHYmdwNGp3TV9hNVh4RGhCSkJRN0F6UVlFOUFpVHNQcmhfUV82d2toUmlJSmNWYTRjc3M3YlI4aklleWZIUUo3bGdFZGZfN0dod1FZdVFxUzcyQ1FidWRCc3B4V1BSckltekZlSkxoUkdZLXdVQXVxQUNpMjJ3bmZwSVlfOF9uNU5JQ2d6SkkxSmNoNG9WbTJUY2Nn0gGjAkFVX3lxTE85dXpCX3k4Mng5YW0tWWFrcjBiQzcyUlhycnBTUEVXMEdtUXJkb0M2LTNmM18yQ2xwV3NjLXdOYlFPUGdoSm1QbXBtdUtTVWlDeWY5Vy1xaXQ4enNNdkUxZ0t2NVZIZlBBMVpZbmVsdVhLTV9JN05pS0NnOWJvY1lfX3I2S3VJWHEtVTJGQkQwRUYxMk5CaU5femNqek9WTjhoNVZhdlM4QjE3SUVMLUdRRlY4N1V1a25KdVVJd2JmT0VXZ010MGVnSnBBN0NGanJPOHlERVJNdm4xVWtNVFUxcUhEOW0yRmF6cG53dkNRNkhZbUgySDhISWw3U1BEOG9UUS1CdUoxcE9WQ1VSaUgwN3BqX3VrUndfcWtNcldwblRqUQ?oc=5)
+Source: [tg24.sky.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
 
 ---
 
-### [Hospitals in England hit by shortages of common drugs such as paracetamol - The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
+### [Hospitals in England hit by shortages of common drugs such as paracetamol](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
 
 2026-09-29 <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
+Source: [theguardian.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
 
 ---
 
@@ -398,14 +414,6 @@ Source: [Univrmagazine](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUVV
 
 ---
 
-### [Pandemie, Tedros (Oms): “La prossima arriverà, la domanda è quando"](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFZoMjU4VlNkZmZ1aE5fcW9kZkRKNTk3OHFBbFoxcDNzZUItMDhyRVA4ZVhiMUd5YXRNSkF1cGxsYkdmU3d2bkMwVzdXNGpIMzhkQkhVSFZ6NGxpcmNtY3VxWl9YZ3dOd002eUdkcjNQdC1FSUdiOE9VT0xRVUVzYXUzSGp1N0VqYUxvaEpiVGxnT3o5ZGV5aXZhNUY2TXZZa05oVURYeGU1TW5DYlR1OHcwaFg4dFF1am9tNzlIUVZoLXdkN1p4RFVIZ1pHY3ZHRkx0d1RhZXczQdIB3wFBVV95cUxOTHZPcnQwM2RYUXhRSWNZaEFTTUFOc1RLelpOeDBkZ2w5WXpIVHpKb0xMZmxOd0F6SUNLRnJfa0FUWlMzY25xNW1keFBDc3dvekZjUmRPM3Z0UlRseXYxa2pYeHJ4a0V0ZVB6OUhmNjU5U184S3I5aDlzTXN6T3J1MHFaVHFuNnNLcGt4SWxVc1NKYi14X3Z5NTBZZk5SUUNXcExueFpNQmZidEhoUDhvZEI3SEFNZG1QRDZUSXZ1T3RyWWtBSm50TUF6eEZIWFFVUXFRS3M0ekdtQjc1TVg0?oc=5)
-
-2026-09-29 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [RaiNews](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRFZoMjU4VlNkZmZ1aE5fcW9kZkRKNTk3OHFBbFoxcDNzZUItMDhyRVA4ZVhiMUd5YXRNSkF1cGxsYkdmU3d2bkMwVzdXNGpIMzhkQkhVSFZ6NGxpcmNtY3VxWl9YZ3dOd002eUdkcjNQdC1FSUdiOE9VT0xRVUVzYXUzSGp1N0VqYUxvaEpiVGxnT3o5ZGV5aXZhNUY2TXZZa05oVURYeGU1TW5DYlR1OHcwaFg4dFF1am9tNzlIUVZoLXdkN1p4RFVIZ1pHY3ZHRkx0d1RhZXczQdIB3wFBVV95cUxOTHZPcnQwM2RYUXhRSWNZaEFTTUFOc1RLelpOeDBkZ2w5WXpIVHpKb0xMZmxOd0F6SUNLRnJfa0FUWlMzY25xNW1keFBDc3dvekZjUmRPM3Z0UlRseXYxa2pYeHJ4a0V0ZVB6OUhmNjU5U184S3I5aDlzTXN6T3J1MHFaVHFuNnNLcGt4SWxVc1NKYi14X3Z5NTBZZk5SUUNXcExueFpNQmZidEhoUDhvZEI3SEFNZG1QRDZUSXZ1T3RyWWtBSm50TUF6eEZIWFFVUXFRS3M0ekdtQjc1TVg0?oc=5)
-
----
-
 ### [Krebs unter 50: Warum jüngere Generationen biologisch schneller altern](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODJrbFZDTFdZVV9WZDl0SGktc0U4OWc5M19RUTJyZDNzenBrZU5GUFZvakFUZzlKQ0JFLUtQNVVLZ1o2ZkpEMGxwN25FRzVxdzFRNkJGTW5rbVFERUVwdHVfeFZKNjZfT2xlMGl1Z1Z4Rk54cTRXUHM0TUpjc2o3SzlSVU1wWjRzd1ZKMnByZno3RzZMamoweTRsOF9mVVZkdE1KQ3dJeThDeDdLN08tZDNwa0tjbW5Z?oc=5)
 
 2026-09-29 <span class="news-indication-tag">Krebs</span>
@@ -422,11 +430,19 @@ Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxObG5mZnJ
 
 ---
 
-### [Could cats be the key to groundbreaking human cancer treatment? - The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlZqZWYtSXZLRFpVMWlwbHIybENENGYyY0k4ZkVub21EdWhlbEJBZzZvMkpWbVoxQXJhOTBqMm1PNnFWaWZKZVQ2VFZCNTh4dVFIZmUyUm5DOTFrNmQxZ09xbXR4ZFlMSVNDbmlTTUxGRm85RndScHJvNkd6NUtldC0wOHg5bXY1ZjZpYkN0YmJDdnFJR3c?oc=5)
+### [MHT Thrombotic Risks Differ by Route, Dose, and Duration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDNOb2dxRkx3LVh1R29TVWE1dmJkNE9KaXpvQnJsd0hqdlZvdnRLQUt2NF9hNTRGNkZIZldITjFyUjVRX1JQVzVVQnc2S29HQS02aGtWRjZvSGJJYmtRazl6d2g3R3JlMkhackNrYWlIUXE5bENQTC1MTUhOT3g1dFJCMzhmVUUwTFBBTXFUdFAyT1VnZVFfbmFqUlVldWgtQmk3WlNWOHg?oc=5)
 
-2026-09-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+2026-09-28 <span class="news-indication-tag">MS</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlZqZWYtSXZLRFpVMWlwbHIybENENGYyY0k4ZkVub21EdWhlbEJBZzZvMkpWbVoxQXJhOTBqMm1PNnFWaWZKZVQ2VFZCNTh4dVFIZmUyUm5DOTFrNmQxZ09xbXR4ZFlMSVNDbmlTTUxGRm85RndScHJvNkd6NUtldC0wOHg5bXY1ZjZpYkN0YmJDdnFJR3c?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDNOb2dxRkx3LVh1R29TVWE1dmJkNE9KaXpvQnJsd0hqdlZvdnRLQUt2NF9hNTRGNkZIZldITjFyUjVRX1JQVzVVQnc2S29HQS02aGtWRjZvSGJJYmtRazl6d2g3R3JlMkhackNrYWlIUXE5bENQTC1MTUhOT3g1dFJCMzhmVUUwTFBBTXFUdFAyT1VnZVFfbmFqUlVldWgtQmk3WlNWOHg?oc=5)
+
+---
+
+### [Cancer : un vaccin anticancéreux personnalisé confirme son potentiel](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
+
+2026-09-28 <span class="news-indication-tag">cancer</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
 
 ---
 
@@ -435,14 +451,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ
 2026-09-28 <span class="news-indication-tag">cancer</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDFDaFVSX2ZiZWZGMm5wNFo2bFlPbExFeG9HTmEyLUJCaHN3UWtkWDB0Nm1FMUtLV2h1a2kwNjIyem1MYmN4OTV3UkhqUnhpR0dZVU1ZeUNJMFpwU1dzZEVBbFAtdG9IYmZBZDV4VWMyNlVPUVJ4NXAtS28yTGpQSXhGRQ?oc=5)
-
----
-
-### [From weeks to hours - the rapid new test transforming brain tumour diagnosis](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6cjN4WVNkWXZkX2hMM2FQZjhsSGpQaGVjLWktRlBfMnBlamUxQWdlWUltSWQ3ZDlwZG44dnhvUkFlcktLa3djTjQzbHJMR2FHbkxHTXZpMmI5YmJnQXc?oc=5)
-
-2026-09-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6cjN4WVNkWXZkX2hMM2FQZjhsSGpQaGVjLWktRlBfMnBlamUxQWdlWUltSWQ3ZDlwZG44dnhvUkFlcktLa3djTjQzbHJMR2FHbkxHTXZpMmI5YmJnQXc?oc=5)
 
 ---
 

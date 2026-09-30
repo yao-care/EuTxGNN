@@ -62,14 +62,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXpr
 
 ---
 
-### [People born after 1960 issued warning as pharmacist says 'millions at risk' - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWdRZ1hNYnk1QnZPVU8zOTIwTEwwbWMtX3h1OVFieTVaNmtNZnNUeUlmMnRzaDNjLTlxS28zdkpEYnBaZlBZS0RwVWRlcTBwSEJzc19STy1xc2F2UFlXcTBTbUVzTXF1Q05MUXhkV0p6UGdFOWw4TXRqUVFYMmVYS9IBhgFBVV95cUxPdGRaVlcxaVkxSlVYVG9TQ3ZrSmlvVnpjRk9ocG1nWVRXWGgyR3Nkc2RSeHQwZHlxNFFXSGp0anpTcUFkSHJMYXlDNVgzaHBMc3dGYnFsX1VpZ1A5X29GdDdwV25USmtqdjFJdFhaX2c2b2tGYnZjdnlqTUtSaGZfRUtnREVCQQ?oc=5)
-
----
-
 ### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">Schlaganfall</span>
@@ -98,7 +90,15 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ
 
 2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+
+---
+
+### [Dad, 59, goes permanently blind within 2 weeks after using Ozempic, he claims - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
+
+2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXR
 2026-09-29 <span class="news-indication-tag">ictus</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTBIY081ZHdsTVA0M2o4b1ptdlNiTWdGT1ZCWURKTTVKQVBZdVBMamFYY2xwSjNPcDRkYi1Xd1pOUjJ4aW8zNDA5Y29OWWpUVDVWOEdIUHQ5NkVxOThiS0QtZ25tR1N0V2xBWUtsWm5xb1I3VnBzb3ZCM2FQWHFMVnl5NC12ZnhLUXRWcWxZRnZjTzVqX1NGdkFwei12Z2hBeW16bTNNbGhPelNfam5qaw?oc=5)
-
----
-
-### [Frequent fatigue, palpitations among often-overlooked early signs of heart disease - The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
-
-2026-09-29 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Malaysian Reserve](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGY4elFXTzlzVm9IREhudV9PS0g2YW03ajVaSndpcXUxQlg4OElVaF85b2htMlJIS01vSmZjb3JZZWpHS2JVLWJxd09nT1FOUFpHMHFCWjdRYm55VjVTOG5USl9qWkZUZkkwUlhkYk56THpRRG1zRU1QemRNVUg4SVlCWU01M1ZqbzRDOGZaeUpxT1ZTS1FLcFNPWkIweTgyRUZMbHR5U0sxWXNhaHpvVTZYV1FNUWFjeHBZTk1GSEdFV2M?oc=5)
 
 ---
 
@@ -150,19 +142,19 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMizwFBVV95cU
 
 ---
 
+### [Fluctuations in blood pressure over time linked to death and strokes, analysis of UK data finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
+
+2026-09-28 <span class="news-indication-tag">stroke</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
+
+---
+
 ### [Elle varie naturellement au cours de la journée : ce médecin nous indique les bons moments pour mesurer sa tension artérielle chez soi - TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">hypertension</span>
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
----
-
-### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
-
-2026-09-28 <span class="news-indication-tag">ictus</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
 
 ---
 
@@ -187,6 +179,14 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxO
 2026-09-25 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
+
+---
+
+### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+
+2026-09-24 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">AF</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
 
 ---
 

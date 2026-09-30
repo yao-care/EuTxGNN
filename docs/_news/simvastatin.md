@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [„Wir sehen einen bedrohlichen Anstieg von Schlaganfällen bei jungen Menschen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
 
@@ -74,7 +74,15 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR20
 
 2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [finanznachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
+
+---
+
+### [Dad, 59, goes permanently blind within 2 weeks after using Ozempic, he claims - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
+
+2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
 
 ---
 
@@ -110,11 +118,11 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMizwFBVV95cU
 
 ---
 
-### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+### [Fluctuations in blood pressure over time linked to death and strokes, analysis of UK data finds - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
 
-2026-09-28 <span class="news-indication-tag">ictus</span>
+2026-09-28 <span class="news-indication-tag">stroke</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSll0RTdaRVBhb0UwN2VVNmktS3VXNHNDLXl2VS1UUDFmUlhRNWU2WklncFVHSzFkeENqUWRGQ3NwakVCNWRwb0NWY213T3lGSjVsNlFKRlR3NDB3ajItMk4tN1FyaVdGUUxGa2I2dnZacEtrcEJYc1YwWUYzdlc0bW1vaEx0Um5MSEJRVg?oc=5)
 
 ---
 
