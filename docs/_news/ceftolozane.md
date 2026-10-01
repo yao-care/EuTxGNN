@@ -14,7 +14,7 @@ permalink: /news/ceftolozane/
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftolozane?">
-<strong>Ceftolozane</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ceftolozane</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Ceftolozane with the latest 
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Mariano Giménez, farmacéutico: “El ibuprofeno de 600 y el de 400 tienen exactamente el mismo efecto a nivel analgésico, pero el de 600 duplica los efectos adversos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">asma</span>
+
+Source: [Trendencias](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
+
+---
 
 
 <div class="disclaimer">

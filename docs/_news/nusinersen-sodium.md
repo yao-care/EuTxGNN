@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Nusinersen Sodium?">
-<strong>Nusinersen Sodium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Nusinersen Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,9 @@ This page combines the AI-predicted indications for Nusinersen Sodium with the l
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Andy Burnham told to act after children left severely disabled by NHS-prescribed epilepsy drug despite KNOWN risks - GB News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN204MHllRnJHdEh6NUNrMWVIYlJxaE1OSzY5bG9DVlpQVEE4b2MzRm9KUEltallHd3R0WWNZY000cXBUSEhUaWVGcmhBUDZHYlpmTTVQWnhEeG1OSTJCcWxzZmJqeVRRTmVMVldYTk1UT0N1VkFKNzlkR2pXMGVtQk4yWDdVQWZJS2JtMFlJTlpobWxOcy1FTnBoQlp5TS1iOWJ1bmYya1dDRjJnSnlQUUN2b2NlbmlPOFdlZXZzOGNrYWlfd2t4OUpvQmFxM0puVjBB?oc=5)
-
-2026-09-30 <span class="news-indication-tag">epilepsy</span> <span class="news-indication-tag">AF</span>
-
-Source: [GB News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN204MHllRnJHdEh6NUNrMWVIYlJxaE1OSzY5bG9DVlpQVEE4b2MzRm9KUEltallHd3R0WWNZY000cXBUSEhUaWVGcmhBUDZHYlpmTTVQWnhEeG1OSTJCcWxzZmJqeVRRTmVMVldYTk1UT0N1VkFKNzlkR2pXMGVtQk4yWDdVQWZJS2JtMFlJTlpobWxOcy1FTnBoQlp5TS1iOWJ1bmYya1dDRjJnSnlQUUN2b2NlbmlPOFdlZXZzOGNrYWlfd2t4OUpvQmFxM0puVjBB?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

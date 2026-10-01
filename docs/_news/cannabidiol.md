@@ -14,7 +14,7 @@ permalink: /news/cannabidiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Cannabidiol?">
-<strong>Cannabidiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Cannabidiol</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 <p><a href="{{ '/drugs/cannabidiol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Zellbiologie: Cannabidiol beeinflusst wichtige Membranlipide bei Alzheimer](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Cannabidiol</span>
+
+Source: [mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
+
+---
 
 
 <div class="disclaimer">

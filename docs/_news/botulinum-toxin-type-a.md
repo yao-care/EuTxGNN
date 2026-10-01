@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Botulinum Toxin Type A with 
 
 ## Related News (2)
 
-### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2V
 
 2026-09-30 <span class="news-indication-tag">EPOC</span>
 
-Source: [actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
+Source: [Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 ---
 

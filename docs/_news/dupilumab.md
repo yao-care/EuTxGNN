@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [El dupilumab podría aliviar la inflamación del oído en la rinosinusitis crónica grave con pólipos nasales](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Dupilumab</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
+
+---
 
 ### [« Pendant mes règles, je perdais ma vie » : l’adénomyose, ce mal méconnu qui fait souffrir tant de femmes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 2026-09-30 <span class="news-indication-tag">EPOC</span>
 
-Source: [actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
+Source: [Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 ---
 

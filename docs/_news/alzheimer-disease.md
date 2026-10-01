@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 3 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia (alzheimer disease) News
+# maladie d'Alzheimer (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,13 +44,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Your voice can reveal how well — and how quickly — you are ageing - The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
-2026-09-30
+2026-10-01
 
-Source: [The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
 ---
 
@@ -62,19 +62,11 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
+### [NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
-2026-09-30
+2026-09-25
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
-
----
-
-### [Un test sanguin pour détecter la maladie d’Alzheimer : une nouvelle étape vers un meilleur diagnostic](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
-
-2026-09-29
-
-Source: [RTBF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 3 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 1 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
+<strong>ipertensione (hypertension)</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,29 +83,13 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (3)
+## Related News (1)
 
 ### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
 
 2026-09-30
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
-
----
-
-### [Squatting once a week may lower blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlVJaWk5YzhJQ29aYnlyeXJkSmpPQVlqa3Q0UFRDSFZTRU1qMUxKT0pPa2RMODEwRWU1X2RQakhnNHhwdFZpYkdTX1l3eEFPRFlQNFgydDI5ODdpOWFqNU05OWVMWUNtbkFIWmE5d2ZaS201aENORFpvZy0yem9oLTdWQ0J5MjVrYkhMTDB0REZOMkE?oc=5)
-
-2026-09-30
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlVJaWk5YzhJQ29aYnlyeXJkSmpPQVlqa3Q0UFRDSFZTRU1qMUxKT0pPa2RMODEwRWU1X2RQakhnNHhwdFZpYkdTX1l3eEFPRFlQNFgydDI5ODdpOWFqNU05OWVMWUNtbkFIWmE5d2ZaS201aENORFpvZy0yem9oLTdWQ0J5MjVrYkhMTDB0REZOMkE?oc=5)
-
----
-
-### [Anticiparse a la enfermedad: ésta es la prueba médica que detecta un infarto antes de que sientas nada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
-
-2026-09-30
-
-Source: [OkDiario](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (9)
 
-### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
+### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+
+---
+
+### [Un nuevo estudio prueba que semaglutida rebaja la grasa hepática en 9 de cada 10 adultos con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">obesidad</span>
+
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
+
+---
+
+### [El 86% de los médicos opina que la obesidad es una dolencia comparable a otras enfermedades crónicas](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+
+2026-10-01 <span class="news-indication-tag">obesidad</span>
+
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+
+---
+
+### [Klinikum erhält Zertifikat für Adipositaschirurgie](https://news.google.com/rss/articles/CBMitwFBVV95cUxORUVuMjJLcWd2UjRFUFkyVkFsSzRRM3M3N2c3TzNDLTIxelAyZjNIcTNDQUc2QXBFbkRBZG9RbVZ0cEpsbVVEaWlKN29RWTdybWlCcmt3aXBFRDlQUlk1NnhkUUNIUkstaFpTSEhJbU5QNndQcmNVSUZETmJ5M3pDc2VWS0JSQ3ZrN3czQ3hEbEhGQVhBWmczZXVrX0U2VzZwNDVrdXJpYk5Zb3J5WjNuV3lxS3FMb2M?oc=5)
+
+2026-10-01 <span class="news-indication-tag">Adipositas</span>
+
+Source: [112-magazin](https://news.google.com/rss/articles/CBMitwFBVV95cUxORUVuMjJLcWd2UjRFUFkyVkFsSzRRM3M3N2c3TzNDLTIxelAyZjNIcTNDQUc2QXBFbkRBZG9RbVZ0cEpsbVVEaWlKN29RWTdybWlCcmt3aXBFRDlQUlk1NnhkUUNIUkstaFpTSEhJbU5QNndQcmNVSUZETmJ5M3pDc2VWS0JSQ3ZrN3czQ3hEbEhGQVhBWmczZXVrX0U2VzZwNDVrdXJpYk5Zb3J5WjNuV3lxS3FMb2M?oc=5)
+
+---
+
+### [El 57,8% de los pacientes con cáncer presenta exceso de peso y el 23,6%, obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
+
+2026-10-01 <span class="news-indication-tag">obesidad</span>
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
+
+---
+
+### [Jo-Jo-Effekt : Fettgewebe entwickelt Gedächtnis für Adipositas - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
+
+2026-10-01 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
 
 ---
 
@@ -70,11 +110,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ---
 
-### [Solo el 56% de las personas que viven con obesidad identifica que tiene esta enfermedad](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1l6blNaTlppT1FYUEY4RnZWbi1NOXVlWnVHdTc0bmdWZUU1WXFId1B3THJCS29HWktSZTJpbnpmRWw1dmFQLWs5ZExMUWtPRUMxZmc0d1RKemU0UjAtSG94T2k5M0Y2cDl4T3lwdlZRd3VybHJRQlkxLVBrTVhHWnBGd2RBbEtRc3hNaUZPTjJjR1hCTDJicl9SS3FlcXRBc2ltZ1oxV3ZUSVhBRllkSdIBtgFBVV95cUxOWEpUMXpOZjNpSDQtTXh4RjVaWmhCc3F2Q1RHZ1Yzb3dqLTBUbDlqT3NRZEk3UW9sMTZQeWFoMnp4SGdOV0E1SHFnV3N5SWdsUHhxSEk2V0R1MDdYeXlYUU4zdnhmbm4tdVpNeHFFWi1SSHV3Zi1WdzJjUHhqaE16SkV3MmFuZmlVQ2o0NFRkd2JXN04yY0dLYVJ1cjFZa2lHeFA1SE1KZGdzT0RqU2s0cHhlckJ2dw?oc=5)
+### [Ma diabete e obesità fanno venire i tumori? Ecco quello che gli esami della glicemia non dicono - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0ZwM0laQnBfYkF5WGVTamdoOXNCN3p4N19oMjRBSmtJeTIzR2gyMmw2dWQ5YjZ2RUNHRHEwTzM4YjJnQlJPMzFtMXJtdUNpSHRNTjViMU5KTmZpSUVSTHNoelpfR0RxTE82QS1Ud3h0a0tVaEZMLVdTRUIzOG40cS1tR2pFamxOQW12Zmx5N1lmVXZXc0V1aDh0SDU5RGhoSk9XdlEtVjRjVUhfc3NJRnVwblpSdmNhb0VDa3lBd3E?oc=5)
 
-2026-09-30 <span class="news-indication-tag">obesidad</span>
+2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-Source: [ABC](https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1l6blNaTlppT1FYUEY4RnZWbi1NOXVlWnVHdTc0bmdWZUU1WXFId1B3THJCS29HWktSZTJpbnpmRWw1dmFQLWs5ZExMUWtPRUMxZmc0d1RKemU0UjAtSG94T2k5M0Y2cDl4T3lwdlZRd3VybHJRQlkxLVBrTVhHWnBGd2RBbEtRc3hNaUZPTjJjR1hCTDJicl9SS3FlcXRBc2ltZ1oxV3ZUSVhBRllkSdIBtgFBVV95cUxOWEpUMXpOZjNpSDQtTXh4RjVaWmhCc3F2Q1RHZ1Yzb3dqLTBUbDlqT3NRZEk3UW9sMTZQeWFoMnp4SGdOV0E1SHFnV3N5SWdsUHhxSEk2V0R1MDdYeXlYUU4zdnhmbm4tdVpNeHFFWi1SSHV3Zi1WdzJjUHhqaE16SkV3MmFuZmlVQ2o0NFRkd2JXN04yY0dLYVJ1cjFZa2lHeFA1SE1KZGdzT0RqU2s0cHhlckJ2dw?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0ZwM0laQnBfYkF5WGVTamdoOXNCN3p4N19oMjRBSmtJeTIzR2gyMmw2dWQ5YjZ2RUNHRHEwTzM4YjJnQlJPMzFtMXJtdUNpSHRNTjViMU5KTmZpSUVSTHNoelpfR0RxTE82QS1Ud3h0a0tVaEZMLVdTRUIzOG40cS1tR2pFamxOQW12Zmx5N1lmVXZXc0V1aDh0SDU5RGhoSk9XdlEtVjRjVUhfc3NJRnVwblpSdmNhb0VDa3lBd3E?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
 
@@ -67,22 +67,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3
 2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
-
----
-
-### [Squatting once a week may lower blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlVJaWk5YzhJQ29aYnlyeXJkSmpPQVlqa3Q0UFRDSFZTRU1qMUxKT0pPa2RMODEwRWU1X2RQakhnNHhwdFZpYkdTX1l3eEFPRFlQNFgydDI5ODdpOWFqNU05OWVMWUNtbkFIWmE5d2ZaS201aENORFpvZy0yem9oLTdWQ0J5MjVrYkhMTDB0REZOMkE?oc=5)
-
-2026-09-30 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlVJaWk5YzhJQ29aYnlyeXJkSmpPQVlqa3Q0UFRDSFZTRU1qMUxKT0pPa2RMODEwRWU1X2RQakhnNHhwdFZpYkdTX1l3eEFPRFlQNFgydDI5ODdpOWFqNU05OWVMWUNtbkFIWmE5d2ZaS201aENORFpvZy0yem9oLTdWQ0J5MjVrYkhMTDB0REZOMkE?oc=5)
-
----
-
-### [Anticiparse a la enfermedad: ésta es la prueba médica que detecta un infarto antes de que sientas nada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-Source: [OkDiario](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
 
 ---
 

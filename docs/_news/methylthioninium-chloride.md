@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Methylthioninium Chloride wi
 
 2026-09-30 <span class="news-indication-tag">EPOC</span>
 
-Source: [actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
+Source: [Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 ---
 

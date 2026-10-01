@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [Dr. Juan Arenas, jefe del Servicio de Aparato Digestivo de Policlínica Gipuzkoa: "Nunca hemos tenido tantas herramientas para combatir la hepatitis. Hoy podemos prevenirla, diagnosticarla, controlar sus consecuencias e incluso curarla en muchos casos"](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
+
+2026-10-01 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [sevillabuenasnoticias.com](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
+
+---
+
+### ['Bashing out orgasms like a fruit machine on jackpot'... we did the 30 orgasms in 30 days challenge with shock results - The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTJLY29jSDlyWjEtX3hYS1hHLWREZkhwMUp0ZnRzZ3M3RE9HOGlkQlI4c0NSWl9ZSFRCa2d6cFBDMDJKQTRIVDhQU3dhY1JTQmV2bmU0ZmJ0aWFEWkt0VjFTcWhvYjdiM201UlRrQ1RtT2QtSHNJazF1R21iUHp0aFpkRFZTSVZsRGFYUEFCYTB5dG41aFRlU19KbWZnaHQtTnc?oc=5)
+
+2026-10-01 <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTJLY29jSDlyWjEtX3hYS1hHLWREZkhwMUp0ZnRzZ3M3RE9HOGlkQlI4c0NSWl9ZSFRCa2d6cFBDMDJKQTRIVDhQU3dhY1JTQmV2bmU0ZmJ0aWFEWkt0VjFTcWhvYjdiM201UlRrQ1RtT2QtSHNJazF1R21iUHp0aFpkRFZTSVZsRGFYUEFCYTB5dG41aFRlU19KbWZnaHQtTnc?oc=5)
+
+---
 
 ### [Sprachanalyse ermittelt biologisches Alter und Demenzrisiko durch Stimmmuster - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT2hiTlQ5eDV1Qkp4Q2lhUkxqdkNiT3QxVHZlY2l4T0pSYVEtMzdnZUlldVZycVl4NXZhbGx1bFQtLVFqYnYwVGZTVUNXZWZ2QnNpMkNHODhUc000T2tLbnVobGROcHJTbHp1akZfSGd3a18wcmF2YWdBeU1QR2QwNXFlYXRZdU53cjBmT2J0cURDSWZUMjBRVjlhX0FVdTdkNmZkaktjMlJNc3A1SXVvUExQQ1JzbzloODhr?oc=5)
 
@@ -62,19 +78,11 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiuwFBVV9
 
 ---
 
-### [Abnehmspritzen könnten bei Männern Haarausfall fördern - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjMydFd0UW1NcHVqNzJNV3JFcDRXNGh4VXlRVUZ5R2l1UU11WEFfUGVlUE1hejJMVHFMbmtUdzhIQ2JUZ0dMVHB5amlVUkNrQmVEc1pyaTduTTN4dlBFbGNqRk5yVUVibUFMazBEVVVTQlV6eWFGV25mVHUtU01QalFrUFlYNFdBZDhJWXczUjRZbmVQNm10T1VqNk9jUTlnQ3hlY0hZY3lmcllkX2wtc3VmSlNid2gyU29xUXpzVFI?oc=5)
-
-2026-10-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjMydFd0UW1NcHVqNzJNV3JFcDRXNGh4VXlRVUZ5R2l1UU11WEFfUGVlUE1hejJMVHFMbmtUdzhIQ2JUZ0dMVHB5amlVUkNrQmVEc1pyaTduTTN4dlBFbGNqRk5yVUVibUFMazBEVVVTQlV6eWFGV25mVHUtU01QalFrUFlYNFdBZDhJWXczUjRZbmVQNm10T1VqNk9jUTlnQ3hlY0hZY3lmcllkX2wtc3VmSlNid2gyU29xUXpzVFI?oc=5)
-
----
-
 ### [Martha's Rule: Families welcome right to challenge A&E care](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbFFVbEhvV3kxTWdqejJtcW82Z3A0LXJrVU1fU20zV0JMVHM1VVY1by00RF9ZOTltbnVuQUZReEgzRmVxZmtVTEg3U0tMb2JWZDlEUE15X3JJcW4wTlE?oc=5)
 
 2026-10-01 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbFFVbEhvV3kxTWdqejJtcW82Z3A0LXJrVU1fU20zV0JMVHM1VVY1by00RF9ZOTltbnVuQUZReEgzRmVxZmtVTEg3U0tMb2JWZDlEUE15X3JJcW4wTlE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbFFVbEhvV3kxTWdqejJtcW82Z3A0LXJrVU1fU20zV0JMVHM1VVY1by00RF9ZOTltbnVuQUZReEgzRmVxZmtVTEg3U0tMb2JWZDlEUE15X3JJcW4wTlE?oc=5)
 
 ---
 
@@ -90,15 +98,15 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOEtN
 
 2026-09-30 <span class="news-indication-tag">MS</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZWTR6MFRvdlVvc3FhVllUQl9ac3BPYnQ3Z3NHOVh4cEJEUzZLV2ZNSV9iSXFib1FaMUo3T203MjRlWUpNa01aNXNjRF90eHhoQ0l6Tm4tZkVLYUw0T1E?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZWTR6MFRvdlVvc3FhVllUQl9ac3BPYnQ3Z3NHOVh4cEJEUzZLV2ZNSV9iSXFib1FaMUo3T203MjRlWUpNa01aNXNjRF90eHhoQ0l6Tm4tZkVLYUw0T1E?oc=5)
 
 ---
 
-### [Experimental therapy K-9 restores lost vision and mobility in MS mice - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
+### [Experimental therapy K-9 restores lost vision and mobility in MS mice](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
 
 2026-09-30 <span class="news-indication-tag">multiple sclerosis</span>
 
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
+Source: [multiplesclerosisnewstoday.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
 
 ---
 
@@ -118,6 +126,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxQb3FOTHVSZ
 
 ---
 
+### [Mehr REM-Schlaf mit geringerem Risiko für 83 Krankheiten verbunden](https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2ktd3Jkam12Snh1QTZxbEw3UkNHcDFIeW4tWERPYldKc05HS281Zkh1SkpZbWJxNzFPMkNqckN5SjJoTjBIeTlWRUZhWG84cDRTd2hXYVhnajhqVjVTajM0czJoRC1YNkFYVkpfY2M4MUNRTERuUGMtcm01NXA0Ml9CV05wTGNIMnBxTElPTWFNT3FNekpDMjlMOERWMVk?oc=5)
+
+2026-09-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Denkstrom](https://news.google.com/rss/articles/CBMinwFBVV95cUxOS2ktd3Jkam12Snh1QTZxbEw3UkNHcDFIeW4tWERPYldKc05HS281Zkh1SkpZbWJxNzFPMkNqckN5SjJoTjBIeTlWRUZhWG84cDRTd2hXYVhnajhqVjVTajM0czJoRC1YNkFYVkpfY2M4MUNRTERuUGMtcm01NXA0Ml9CV05wTGNIMnBxTElPTWFNT3FNekpDMjlMOERWMVk?oc=5)
+
+---
+
 ### [MSD Animal Health inaugura el lanzamiento de su nueva innovación en immunología felina con un encuentro con su red de colaboradores de distribución](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkF3UDF6TVhKM2RqQzJ1eVNONFhKN0RYcDBiUEg3RU5KS1E5aEpGSGhMUHkzOFVUUEVVTko4aFk3UUVKelRsanQ4S3RRMFFiT1pkM0hYU1QxTDh0ZW14LXloQmtGMGFHWVdqRjhKeDFuRXBHZ0FyRGpwM0NwbFh0bkthbERNSm52SzlRbWljWGVxVFNTYUQ2VUNuVURhek9KYnNvZDh1LWVxTHkzVnBaMl9oSE5BbkdSYVpYSVpVc2NSRmprUUdyOFVQT3JIVzlWaF9JZjVtV2dzc3kwQndnTmtfOG9sM1RnSmV6NlMzaVNDYWfSAfgBQVVfeXFMT0NEc1NwRUZBWEpYZDRhRFBoYUhOSENKZDVHaEs0Y191UDJQQlhob05IUXU5aHNwM1puelBNQ3Jfdm9pdHhrTm9tVDR1WXBzRlRTOWkyaGN4UzVWT0tkeWJEOHFrWU1Gal9tbk13NnNQSG4xc1lWcG1XQ2NPX3FaRF83QVNfQlEyZjM1R0hScUJqbW83SVZKM3M3RTRGeUdodWdXY2Job0lVTVdyUUVvZFRxdGozZVNqVlZDSkt2ejdOLWpCVEtVOEdtcnJvMnhWeTdnWExSM2MzNjZSMDhVOUVmU0JycTRJR2JNV2VPMEEwNkduQzdsbUY?oc=5)
 
 2026-09-30 <span class="news-indication-tag">MS</span>
@@ -126,27 +142,11 @@ Source: [animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxN
 
 ---
 
-### [Schlaf: REM-Phase mit geringerem Risiko für 83 Erkrankungen verbunden](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjhvVDZQZ3lzRmJEYnpnaUdZeVgtMkpVdmxueXdHYWl1M2xuUGhnVnRDblN6dW1iZE1SRC13cU8xNEJWaElMTjJUN2doRUF1eXFkSEtIbDZHcHhsamtuVHZVVUFpc0M4Ym10OE5heXQ0TlhPX0hnQkdsOEVYYmQ1X29SNTFIbDJtakpZZVctTk1ocWRHcG1TZ1hYc2YzdWtrSEdGUTNfN08?oc=5)
-
-2026-09-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjhvVDZQZ3lzRmJEYnpnaUdZeVgtMkpVdmxueXdHYWl1M2xuUGhnVnRDblN6dW1iZE1SRC13cU8xNEJWaElMTjJUN2doRUF1eXFkSEtIbDZHcHhsamtuVHZVVUFpc0M4Ym10OE5heXQ0TlhPX0hnQkdsOEVYYmQ1X29SNTFIbDJtakpZZVctTk1ocWRHcG1TZ1hYc2YzdWtrSEdGUTNfN08?oc=5)
-
----
-
-### [La UB desarrolla un dispositivo para evaluar la respuesta de los biofilms a los antibióticos - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNems4Z0lMaDh2YjY0bFBMMkJJWnEzY0txQjVKR3RwWVJwemR4YU9idjRBX1dyWW5JNXl6X2JrSmp3Qm9WdS1hUG1lZ3ZxeERWdVlWblBjV1NobUFfZDZUMnpnR016WVdjZ1RfbDJPR1VrV0ZhX25HNWUwaWplc3NVcFdZZEJmclJHYmNWVWlpTG01YzNTX3VxLTAtZHh4UENuTlZqQUQ3MXpwREpyNHgwajljZndXUGpsam9IZ3Y2NHFGdFnSAb4BQVVfeXFMT0lzaGo0MWhaeVZKUFhEcE1HRWhEeHdxWmlkLUdBOU9aYUI3bG5pWTJicDJObTVkWFhDTm5SLWxRTXhGbEF6djJaM2J4WWstRXVSbkhsd0JsMkkyQ2gtMmJON2EyV194STU2cDRBdWxUTmRkWGQxWFdrMVVDQ1c4U0d4clVCT0RtZzRKbmdrTzFNUmxPOGJRT21FWkc1eW9IOXhkZmRyc3lqdjQya2RtNUJCN3IxUGZiNVRfUmJqdw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">MS</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNems4Z0lMaDh2YjY0bFBMMkJJWnEzY0txQjVKR3RwWVJwemR4YU9idjRBX1dyWW5JNXl6X2JrSmp3Qm9WdS1hUG1lZ3ZxeERWdVlWblBjV1NobUFfZDZUMnpnR016WVdjZ1RfbDJPR1VrV0ZhX25HNWUwaWplc3NVcFdZZEJmclJHYmNWVWlpTG01YzNTX3VxLTAtZHh4UENuTlZqQUQ3MXpwREpyNHgwajljZndXUGpsam9IZ3Y2NHFGdFnSAb4BQVVfeXFMT0lzaGo0MWhaeVZKUFhEcE1HRWhEeHdxWmlkLUdBOU9aYUI3bG5pWTJicDJObTVkWFhDTm5SLWxRTXhGbEF6djJaM2J4WWstRXVSbkhsd0JsMkkyQ2gtMmJON2EyV194STU2cDRBdWxUTmRkWGQxWFdrMVVDQ1c4U0d4clVCT0RtZzRKbmdrTzFNUmxPOGJRT21FWkc1eW9IOXhkZmRyc3lqdjQya2RtNUJCN3IxUGZiNVRfUmJqdw?oc=5)
-
----
-
-### [La strada che ha portato al vaccino a mRNA per il melanoma. Intervista a Paolo Ascierto - Scienza in rete](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
+### [La strada che ha portato al vaccino a mRNA per il melanoma. Intervista a Paolo Ascierto](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">MS</span>
 
-Source: [Scienza in rete](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
+Source: [scienzainrete.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
 
 ---
 
@@ -154,7 +154,7 @@ Source: [Scienza in rete](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb
 
 2026-09-30 <span class="news-indication-tag">MS</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQ1hyVUJ3bGFlNXNST2pQc1hYdWcwX2VPQWk1OHZ5VGMyR3g1UUpvV0FLNHZObnY2YW8zRmhmUlZXMVVNX3kxZTY3R29YOVhIZm1EclhNV1JMVnpFV1E?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQ1hyVUJ3bGFlNXNST2pQc1hYdWcwX2VPQWk1OHZ5VGMyR3g1UUpvV0FLNHZObnY2YW8zRmhmUlZXMVVNX3kxZTY3R29YOVhIZm1EclhNV1JMVnpFV1E?oc=5)
 
 ---
 
@@ -162,15 +162,7 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rQ1hyVUJ
 
 2026-09-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWkE4RlB1WUo4Wi1XRkNtWkJVd3dPRUxNWHk3OGRfVkVfWHQ1SkN0VkR5Ym9OeGlvOVNVQV9Ma3FGdGsxd3JaUU1yQ3d4TDNpdW1yV3IzdDNyTVRxNGc?oc=5)
-
----
-
-### [Bristol student describes how cat helped saved her life after developing MenB](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNHJJZEdQOUZJRHo3Zmw0VmM1b3hLNVFCN01NbzlDZ0lKSjI5Ym42emZWQjVaWTFGaWNLbjdBZzVuMVB6bEZpU1p2dDVJVUhuZ2lRU0V4UDdVQmRsd3c?oc=5)
-
-2026-09-30 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNHJJZEdQOUZJRHo3Zmw0VmM1b3hLNVFCN01NbzlDZ0lKSjI5Ym42emZWQjVaWTFGaWNLbjdBZzVuMVB6bEZpU1p2dDVJVUhuZ2lRU0V4UDdVQmRsd3c?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWkE4RlB1WUo4Wi1XRkNtWkJVd3dPRUxNWHk3OGRfVkVfWHQ1SkN0VkR5Ym9OeGlvOVNVQV9Ma3FGdGsxd3JaUU1yQ3d4TDNpdW1yV3IzdDNyTVRxNGc?oc=5)
 
 ---
 
@@ -178,15 +170,31 @@ Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GNHJJZEd
 
 2026-09-30 <span class="news-indication-tag">MS</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE14YTMzWFFYdTZ6bWFtN1Z1VnhOQjUyaEdxSEJxWkdIOTd5OXBIM0Qxb0VPUG5JNERrNGtsd1BCaVJFS0RJdzlYN09manJGZmxyZU5PNVA4c1c3UWtxVGc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE14YTMzWFFYdTZ6bWFtN1Z1VnhOQjUyaEdxSEJxWkdIOTd5OXBIM0Qxb0VPUG5JNERrNGtsd1BCaVJFS0RJdzlYN09manJGZmxyZU5PNVA4c1c3UWtxVGc?oc=5)
 
 ---
 
-### [Dad, 59, goes permanently blind within 2 weeks after using Ozempic, he claims - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
+### [NHS confirms double vaccine for pensioners aged between 65 and 80 - Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2tUNXZ5cndsaUVvcm1US1JBZXY4c3d1UnZReVZpeHNLQnE3RDlyNmlkU21XWnR2ZzFoenotRkZzQlktZ2k5MnVNQndxRnlHbW90ZGNZeHBSenVLQlpBTzJ3ZlItVlR3RVBRWkVNQ2YtZUg1NmxNTDhUeFlESlR5cTVuNEtObkpx0gGOAUFVX3lxTE85VlRqbGNQUzhfQ3pYN1RoX3hzckdJR2cyVzhFNlVUUjVVTnI3QTllVGw4UnBTUVRiLXYwTVRYMTZEdkF6RnM2ZGhpUkI3QkUwT2ZoS2tENkJfLUZEZkJDbmNVelRvZWtUaV9CbHFKNnV2VHJmS0pTYTZkdnp3NEhxZmZkRWZtMURpYXV5R3c?oc=5)
 
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-26 <span class="news-indication-tag">MS</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
+Source: [Daily Express](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2tUNXZ5cndsaUVvcm1US1JBZXY4c3d1UnZReVZpeHNLQnE3RDlyNmlkU21XWnR2ZzFoenotRkZzQlktZ2k5MnVNQndxRnlHbW90ZGNZeHBSenVLQlpBTzJ3ZlItVlR3RVBRWkVNQ2YtZUg1NmxNTDhUeFlESlR5cTVuNEtObkpx0gGOAUFVX3lxTE85VlRqbGNQUzhfQ3pYN1RoX3hzckdJR2cyVzhFNlVUUjVVTnI3QTllVGw4UnBTUVRiLXYwTVRYMTZEdkF6RnM2ZGhpUkI3QkUwT2ZoS2tENkJfLUZEZkJDbmNVelRvZWtUaV9CbHFKNnV2VHJmS0pTYTZkdnp3NEhxZmZkRWZtMURpYXV5R3c?oc=5)
+
+---
+
+### [NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
+
+Source: [Reuters](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
+
+---
+
+### [Ancient virus hunters: how we discovered sheeppox DNA hidden in medieval gospels - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXYyeU5nQkFXbTd3eEZxckZVeklUbWx2dE5HTmN4RVRjenZGY0xrNVNoQkhkX1BmZ1lNTmltTXZYbVFmNjBvN0dXbUF1aEpORXJSTk9CTkRfcXhMWFBNOHJ3dFFtMUwxejlCOUpsX0tVdVlQYjQ4dzVRdnU5VUhWWlFPR000bUtNRlRyakgzNTlzNjlZUjZIUmRWNG9OWDZzekdVMGVITGNnLUE3dHl5R3g3Mlk?oc=5)
+
+2026-09-25 <span class="news-indication-tag">MS</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXYyeU5nQkFXbTd3eEZxckZVeklUbWx2dE5HTmN4RVRjenZGY0xrNVNoQkhkX1BmZ1lNTmltTXZYbVFmNjBvN0dXbUF1aEpORXJSTk9CTkRfcXhMWFBNOHJ3dFFtMUwxejlCOUpsX0tVdVlQYjQ4dzVRdnU5VUhWWlFPR000bUtNRlRyakgzNTlzNjlZUjZIUmRWNG9OWDZzekdVMGVITGNnLUE3dHl5R3g3Mlk?oc=5)
 
 ---
 

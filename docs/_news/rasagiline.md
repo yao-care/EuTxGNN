@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Parkinson's</span>
+2026-10-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
 ---
 
-### [Your voice can reveal how well — and how quickly — you are ageing - The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
-2026-09-30 <span class="news-indication-tag">dementia</span>
+2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 ---
 
@@ -78,19 +78,11 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
+### [NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
-2026-09-30 <span class="news-indication-tag">dementia</span>
+2026-09-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
-
----
-
-### [Un test sanguin pour détecter la maladie d’Alzheimer : une nouvelle étape vers un meilleur diagnostic](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
-
-2026-09-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [RTBF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
+Source: [Reuters](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease News"
+title: "maladie cardiaque (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart disease. 1 articles, 57 related drugs."
+description: "Health news about maladie cardiaque (heart disease). 2 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# heart disease News
+# maladie cardiaque (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about maladie cardiaque (heart disease)?">
+<strong>maladie cardiaque (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie cardiaque” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [La renaissance de Régis, guéri de sa maladie cardiaque grâce à l’électroporation : « Mon cœur est désormais peinard - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
+
+2026-10-01
+
+Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
+
+---
 
 ### [How you eat fruit may affect your heart disease risk - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
 
