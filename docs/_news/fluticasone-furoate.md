@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <li>allergic asthma (100.0%)</li>
 <li>intrinsic asthma (100.0%)</li>
 <li>bronchitis (99.9%)</li>
-<li class="indication-matched">asthma (99.9%)<span class="indication-tag">📰 asma</span></li>
+<li>asthma (99.9%)</li>
 <li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
 <li>dermatitis, atopic (99.8%)</li>
 <li>contact dermatitis (99.5%)</li>
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Lecanemab-Studie: 34 von 130 Plasma-Proteinen verändern sich messbar](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVNhdTFtRTN4UFBsUXJsUk0zdEo0bDZJQlJiMXVLZVVtTkhjdURNSVlJQTc5TFhMSnBkUEY1dUdsMXdlaEt3X003eGRGT1lOb21keUhRcmp4UXBqZ3BzcnJjQ081b2M5QWp2NElwbEM1Q0V3V3BUdldwck1NU2h3NWp5QjdpUlZxUVVHOXFaQ0pDdjdmSlhfNmhLNA?oc=5)
+### [« Pendant mes règles, je perdais ma vie » : l’adénomyose, ce mal méconnu qui fait souffrir tant de femmes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
-2026-10-01 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">asma</span>
+2026-09-30 <span class="news-indication-tag">EPOC</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVNhdTFtRTN4UFBsUXJsUk0zdEo0bDZJQlJiMXVLZVVtTkhjdURNSVlJQTc5TFhMSnBkUEY1dUdsMXdlaEt3X003eGRGT1lOb21keUhRcmp4UXBqZ3BzcnJjQ081b2M5QWp2NElwbEM1Q0V3V3BUdldwck1NU2h3NWp5QjdpUlZxUVVHOXFaQ0pDdjdmSlhfNmhLNA?oc=5)
-
----
-
-### [EQS-Adhoc: Viromed Medical AG: Studie zur Kaltplasma-Anwendung in der Lunge von einem international führenden medizinischen Fachjournal zur Veröffentlichung angenommen](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
-
-2026-09-30 <span class="news-indication-tag">asma</span>
-
-Source: [Onvista](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
+Source: [actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 ---
 

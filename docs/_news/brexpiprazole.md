@@ -70,19 +70,19 @@ Source: [BornCity](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlIckdY
 
 ---
 
+### [Can cutting ultra-processed foods help with depression? A new study offers clues - San Francisco Chronicle](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVldvNFllZU1jZDZRTnRmZVlKNkl0eWo0ZmZKRjZIVm12UmwyeDNTSGJBbFRZa250dzNqV2d1cHFLSGtwb1NYR1BKM24wejE5c29seGxYT0I1LXRzYU54eElQN0hDb1ppcXZzQjFiVnMxRDFHZGFVeWNKbWI0ZDdGdjhwb1h6NTlSM1J3MnVjbk43YlpSYVE?oc=5)
+
+2026-09-30 <span class="news-indication-tag">depression</span>
+
+Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMilgFBVV95cUxQVldvNFllZU1jZDZRTnRmZVlKNkl0eWo0ZmZKRjZIVm12UmwyeDNTSGJBbFRZa250dzNqV2d1cHFLSGtwb1NYR1BKM24wejE5c29seGxYT0I1LXRzYU54eElQN0hDb1ppcXZzQjFiVnMxRDFHZGFVeWNKbWI0ZDdGdjhwb1h6NTlSM1J3MnVjbk43YlpSYVE?oc=5)
+
+---
+
 ### [Blueberries can modify the gut microbiome in older adults with mild depression - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
 
 2026-09-29 <span class="news-indication-tag">depression</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
-
----
-
-### [Depressione resistente, una radiochirurgia senza incisioni riduce i sintomi](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
-
-2026-09-29 <span class="news-indication-tag">depression</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1JaZlkxbDNsVTgwR3JPRVh3Z1d1eFhLY3psUlFjWDU5WGNVSzZ1WU9WcHdjSGJtNlhKTEo3Ny1YaFBjY2FsTWE4eWM4OTFyTVVJODVhMG9hSEg5V1pJT2E3WW5FQnFSWklPWlpMekJLdWtXcFlvZ01YMXhxNm5xRzFlQlI2cHFEc2preWpZaUp4NlRWRmFxZUQ4RWZ2S1BVVkc1bnc5UDllRXFPOHlPNVphN2MxbXFraGpkVjNwaC1TT2FzVE1iLVZOT0dLaFk?oc=5)
 
 ---
 

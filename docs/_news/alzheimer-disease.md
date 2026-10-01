@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 5 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Your voice can reveal how well — and how quickly — you are ageing - The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+
+2026-09-30
+
+Source: [The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+
+---
 
 ### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
@@ -54,35 +62,19 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Des doses élevées de vitamine D liées à une meilleure cognition chez les personnes âgées ayant des problèmes de mémoire et un sommeil de mauvaise qualité](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
-
-2026-09-30
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
-
----
-
 ### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
 
 2026-09-30
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
 
 ---
 
-### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+### [Un test sanguin pour détecter la maladie d’Alzheimer : une nouvelle étape vers un meilleur diagnostic](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
 
 2026-09-29
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
-
----
-
-### [Maladie d'Alzheimer : qu'est-ce que l'existence du dépistage par prise de sang change au diagnostic](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
-
-2026-09-27
-
-Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
+Source: [RTBF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
 
 ---
 

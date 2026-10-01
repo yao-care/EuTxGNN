@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Levodopa</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+
+---
+
+### [Your voice can reveal how well — and how quickly — you are ageing - The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQURaWVVmR1hsQnB2eXB0aE8xUVRBVlpEMEpMQzdyaHlfS0tiR2Q3ZS10NDRxcmh2TTE1aHlvOTNFNUI1dk5FSFdzZDlpeVI2Y2kyLU1aOExQYmI5MUNzd2NfaHNON2s4SDdQMzdKa2FqVjhBUDl3X0xPbV9FTldTVQ?oc=5)
 
 ---
 
@@ -60,35 +68,19 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Des doses élevées de vitamine D liées à une meilleure cognition chez les personnes âgées ayant des problèmes de mémoire et un sommeil de mauvaise qualité](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
-
-2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51czlIM040ZjE4c1A4WUpKYXA2ZVRYakpjOXNfY21GRmw4VFhweEZaRC01SzRwbE9sMllSekxCOUt3YWFwbGU3M3hILTd3aTRxckxyUDEwZEVSSlNXVThlOEU0Z2s?oc=5)
-
----
-
 ### [Families plead for help in 'cruel' dementia battle](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
 
 2026-09-30 <span class="news-indication-tag">dementia</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE10N2lhZ1lqbUo3bWtWUlBIb1hUQWIxcFNVSkJvRVR1dWVEQUZMTmhKeVhXNjdNcklFYmNVblQzcTVkeEZxcXZPQlg2V29FYWpHS2g4M0tneU9HWjQzU3c?oc=5)
 
 ---
 
-### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
+### [Un test sanguin pour détecter la maladie d’Alzheimer : une nouvelle étape vers un meilleur diagnostic](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
 
-2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-09-29 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
-
----
-
-### [Maladie d'Alzheimer : qu'est-ce que l'existence du dépistage par prise de sang change au diagnostic](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
-
-2026-09-27 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [L'Avenir](https://news.google.com/rss/articles/CBMihwJBVV95cUxQSzUweUhUcnM2SzB0TXNKcnNXcTFRZUlrWFNJbThxSzdjZ1hEV19FOGlXalpNbUZrREU4WW1iRGlURGJlX0I4Y05EMVdSb2dHTU12R0lnWWlRa1hSLWpRb3F3N3F1R2RIQi1PVVZVVFptR2c2elhQTGZYdWQ4b2ZBRmFOdlVsTGlKbUNOQ0N3T29rU2dmaHV4bXA1RXI4M1RVSUhsN1c4X2pXT1J0dUhLdGY2UmpfazBNRmJfa29HMnlVZkw2N1dMRUZZcEpMN04zRFp6OEhzTXZKLUhnMFd4S2JsbS1TeVZ2aS1aNzdnRUpoV2ZhX1Z4Z3NjNGdZZldSTlJzNWVLVQ?oc=5)
+Source: [RTBF](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUE2NHR1T2ZWWGI0SWJ1eDI5cmtzUV9IVEZ0clliSE9nSTZJYzFjWWZfeFRxLVV4THh3TjF6cHZCT3FlMVR3QUlSeTlpbzVpS09xRGJ2VUFBNE9PZlQwcmVuc0VpalRQOGtIemNkNFdnNzNieDJ6UzVhcGZ0NGhwSmhtSTRraUlpRE1pbFpPRl8tdlo2S1hlWUhxVE12TnBlU0R3VkFydzFtYk1CUFVIT043cTR0MmZwNFI5LURNTXRsY0duZEFzOEFUd1BqdTllRmc?oc=5)
 
 ---
 

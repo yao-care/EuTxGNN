@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 4 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# high blood pressure (hypertension) News
+# ipertensione (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
+<strong>ipertensione (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
+
+### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+
+2026-09-30
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+
+---
 
 ### [Squatting once a week may lower blood pressure - The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlVJaWk5YzhJQ29aYnlyeXJkSmpPQVlqa3Q0UFRDSFZTRU1qMUxKT0pPa2RMODEwRWU1X2RQakhnNHhwdFZpYkdTX1l3eEFPRFlQNFgydDI5ODdpOWFqNU05OWVMWUNtbkFIWmE5d2ZaS201aENORFpvZy0yem9oLTdWQ0J5MjVrYkhMTDB0REZOMkE?oc=5)
 
@@ -93,27 +101,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlV
 
 ---
 
-### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
+### [Anticiparse a la enfermedad: ésta es la prueba médica que detecta un infarto antes de que sientas nada](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
 
-2026-09-29
+2026-09-30
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
-
----
-
-### [Elle varie naturellement au cours de la journée : ce médecin nous indique les bons moments pour mesurer sa tension artérielle chez soi - TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
-2026-09-28
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
-
----
-
-### [Horror blood pressure warning issued to older adults as doctor reveals 7 simple fixes - Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
-
-2026-09-24
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUd6UFhsZFNkeVh2aUszVndrbGt4VGpRcVVHS3gyZDlnV2hsRHMtd2kzeHpnVzY0RThocVdMd1pjckRWcUdyRFJ0UXFidDZuX0djMURRZTBESGRqRjBkclZMZWRLeF9na2EtX25LTHFVUk85dWlKNFNVTG12Um5ZQnpSUmI0TlM0d25hM1daUkw2VEVBU0oxWDlZMDd4MW1U0gGmAUFVX3lxTFBfRWJyQWpVUm1QdlpuUGQ1R3FhMGlldkdaUUl0Y0swYm5wcjdFRVNxc0JOb1JDNkx5X1pKZTdTbGp4aHFpX1lMRFR6TnpsRW5qRjZlUWFwS2htUDB4bHhsYlRWcDdubmdfbGdrc1pfTlhjMUt2elJGekNKTlFHNmRwa1JkMjlIeldnMzNmMnVraDhXU2I0ZV9WZVlKSGpzZTJhdWN4eHc?oc=5)
+Source: [OkDiario](https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzgtdHkySGNZazlmNFhmYkpZS21QQ1VYa3F2NlVvVjNWOXhkVnkyd2txdjNhX0RxcHJCV0lzcGxqcENxVDN4V2RGOE5aZjFpd01pSHI0RFhNU1JvYzdaMFNUT3pCVUU3bWNTNWp6NWVvdmhVbjEyRDhWUlFXa0s1MGdnc1A5UUNlUEFzcWxkS3VRbTItdW00eEViTWtET19ZWnlxQ3lNMy1kYWN0U1Y0WG1JZVptYkFLb3JhbNIBwgFBVV95cUxPSlZ2eHViRjZCcFlKY2d3ZjNIT050UmVoNnh1aW5Pdy1Tb1VJR1ZJQ192WC1jU2VxekRfRkVwZjc1NGQ5WTM5R3NTWWxqR3Z3M1dxMVVaaDl2azBPN0FLZ0FNRDNGdmc3Z09KeXdiSDEtN2loX3g1bnprU08zUGo4WVdxeGVGblpqT2F3OXJEdXdGTUd4b1hEdHpGX1AxN1J5Q3FwWlpKMVlRbzQ3bXJPM0ZRXzM0Z1hwS0VTM3pQb2JWQQ?oc=5)
 
 ---
 
