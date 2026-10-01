@@ -14,7 +14,7 @@ permalink: /news/ixazomib-citrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Ixazomib Citrate?">
-<strong>Ixazomib Citrate</strong> currently has <strong>37 news articles</strong>, with 20 predicted indications.
+<strong>Ixazomib Citrate</strong> currently has <strong>38 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ixazomib Citrate with the la
 <p><a href="{{ '/drugs/ixazomib-citrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (38)
+
+### [Lecanemab-Studie: 34 von 130 Plasma-Proteinen verändern sich messbar](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVNhdTFtRTN4UFBsUXJsUk0zdEo0bDZJQlJiMXVLZVVtTkhjdURNSVlJQTc5TFhMSnBkUEY1dUdsMXdlaEt3X003eGRGT1lOb21keUhRcmp4UXBqZ3BzcnJjQ081b2M5QWp2NElwbEM1Q0V3V3BUdldwck1NU2h3NWp5QjdpUlZxUVVHOXFaQ0pDdjdmSlhfNmhLNA?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Lecanemab</span> <span class="news-indication-tag">asma</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVNhdTFtRTN4UFBsUXJsUk0zdEo0bDZJQlJiMXVLZVVtTkhjdURNSVlJQTc5TFhMSnBkUEY1dUdsMXdlaEt3X003eGRGT1lOb21keUhRcmp4UXBqZ3BzcnJjQ081b2M5QWp2NElwbEM1Q0V3V3BUdldwck1NU2h3NWp5QjdpUlZxUVVHOXFaQ0pDdjdmSlhfNmhLNA?oc=5)
+
+---
 
 ### [EQS-Adhoc: Viromed Medical AG: Studie zur Kaltplasma-Anwendung in der Lunge von einem international führenden medizinischen Fachjournal zur Veröffentlichung angenommen](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcmVCMVN0VG85TXl5YUxNa0ltbkozdGFyTV8zM2lZV3VPMHFaelZvS3Q2UkNOVEtwTW5FWWZnNFhfWkZlbDN2dzR1cHVsSVNTTThfaDlTUmFOVTBMRFBaWDg1MGh1OEEyRE9teHNwdTNJdmthdVhSd0lwdXhXNGEtaHRLNzJYSkJfWmFtWGxobVMzUDVVOF9BTXJUZ0JXeHlqNG0zVTM4N0VVWHAtMVZNd21DMGd6TldwLVM2azJMeFNEUEJfRmJCYUZGTUdiWDNXWHV1dXljZS0yRUhBZ284czRSU3pZNjRxRXlHZF9JWlVzZlhyWDdadEVEUk5qZXN1alU2NElOQm1CWWNPczlFV3NWY3JsNnJZRXBLOHpOd2RMQ2NVZll4YTFIOXV6M0RBc3dXelpvQl9KYTdYdWJyamp3?oc=5)
 
@@ -86,6 +94,14 @@ Source: [Charente Libre](https://news.google.com/rss/articles/CBMi-AJBVV95cUxPYk
 
 ---
 
+### [Mom And Daughter Asked To Never Be Told If The Other Passed Away, And Fate Granted Them That Wish - Bored Panda](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHlyMzlLLWQteFl1YWpFRndCOHppU0l6RGxfV0t5dmNfWHUtaldSeTVDTVBVQVpfellXd2hOODM5NnpsMDE1NldPV0VFMUR5UnBpd3cwb3FWaWJZNV9JUHhZdVVOMEJCaE9DemZWOHlhXzQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHlyMzlLLWQteFl1YWpFRndCOHppU0l6RGxfV0t5dmNfWHUtaldSeTVDTVBVQVpfellXd2hOODM5NnpsMDE1NldPV0VFMUR5UnBpd3cwb3FWaWJZNV9JUHhZdVVOMEJCaE9DemZWOHlhXzQ?oc=5)
+
+---
+
 ### [Bowel cancer screening programme expanded in Northern Ireland](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvU3YxV01WVlRxVFdNWEszOXMycHRYTTNIZGc0Q2ZmcGxEMjYyWFd4bmw1bUpSY3B6ZEE0VGJGZ2NpZ3VZb21rd1ByTjl3cnlsemhZNjd1M0htWV9oalE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancer</span>
@@ -107,6 +123,14 @@ Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMiwwF
 2026-09-30 <span class="news-indication-tag">cancer</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmQ3VUNtUXhjZzczQWpqcktUWlBWN3ZHX1ZLYUdzYlg3SWRNZUhTSFhweFZJVFBzdUV1aDBseVV0YUFfd0owNUdHSGJUWW96SDlDUGJrMnZCdW5EX1IydzhVbk1NUldIci03LXpBRTZILWYwWFFURDlIbUNuc1IwUzhlaGNlVnR4WHVMVWhXbk1WbDVVY3c?oc=5)
+
+---
+
+### [Infektionen verursachen global jeden achten Krebsfall](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWRKNmVtWHJ2M0hvMWU2Y2NMVEVYOTZ3Yi11c09jMUlOQTQ1UUhKZUhXS0I2b3pTTXE5WVpqUm1ONWVMZlQ0N2R1Q1NmYm9kYVpqSFItWGY4bS1UcTBUcUFwelB0b2txOGNNeHJyQXUxLUtRaGNicnpXNkZPY2duMFVMMkdJX1NwQmpYdDFhSmlBbVpn?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Krebs</span>
+
+Source: [scinexx](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWRKNmVtWHJ2M0hvMWU2Y2NMVEVYOTZ3Yi11c09jMUlOQTQ1UUhKZUhXS0I2b3pTTXE5WVpqUm1ONWVMZlQ0N2R1Q1NmYm9kYVpqSFItWGY4bS1UcTBUcUFwelB0b2txOGNNeHJyQXUxLUtRaGNicnpXNkZPY2duMFVMMkdJX1NwQmpYdDFhSmlBbVpn?oc=5)
 
 ---
 
@@ -182,14 +206,6 @@ Source: [tsa-algerie.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd
 
 ---
 
-### [Zwölf Prozent aller Krebsfälle gehen auf Infektionen zurück – diese drei Erreger sind am gefährlichsten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Krebs</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
-
----
-
 ### [Max Parisi: "Ho un tumore al pancreas, sono volato in America per provare una nuova terapia"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbkxuQl9hc1dkNWE5RUVnLW9iVVhSSEQtWnFzVTV3dVM3Z21EczlUMU5xMkVNdzRINF90M25mSWhoYVkyWVNyZzc2VXhzenNHOXA4U1ZYZ2JrVTJHa0hoSlFCcHAtYXY5OUdmMXhsUHBVTVVfVGFuREFXUVFFRjhJUGZQZHVPUmhEbWx6QjRvUV9Ec0ZkdXYtRGl3TzJ4VTdnWE9sd0ZMMkVKQ25VT0E1WUZFalQ0Y2lPTHQwQTd2Y2Z2YVdjLTJJaElSV1k1elVzV2NVNEZUTU1NMFBPOGJoUWxMZFdiQndhWTVWNWVKWnZjWVRoZ1AxTVA4WWtkS0nSAYQCQVVfeXFMUE5OeFl6dUc5T2JWZFZ2ZmZKZkJxbkFnMnZLbS1WckNrUjdXNzVKMjg3WDRVdFVKOGtJQWN1LXAxN2hhTkNQMDNqeFl2ZTFqbHNXaHVuWHlKVnhoT1MxTmtZa180R2ZNR25WLXVNX2hNOGxmTVdCNUY1NHEtTEJVbDFDNmdlUk5yRUN4T3Fnb2ZkanJMa3l4UjFBOEV1VjNMbktrOU03bGtzSTI4dHdCc1ktalNlb3hVVU51WDJhRWpMMm5XX09KRVYtSl9pUHdrV04tMkZZWnpBMXhWNnhYUXo1Ync2Vlg2aGdQNXZNcmlMV1NZODV2STd6a3M0VWx1WHBmeXg?oc=5)
 
 2026-09-30 <span class="news-indication-tag">tumor</span>
@@ -230,11 +246,11 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiyAFBVV95cU
 
 ---
 
-### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
+### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable - La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">tumor</span>
 
-Source: [larazon.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
+Source: [La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 ---
 
@@ -294,11 +310,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1lESnFJ
 
 ---
 
-### [Diabete, l'uso di semaglutide non aumenta il rischio di tumore al pancreas. Lo studio](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
+### [1 de cada 8 casos de cáncer en el mundo se debe a infecciones evitables según estudio](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
 
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+2026-09-29 <span class="news-indication-tag">tumor</span>
 
-Source: [tg24.sky.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
+Source: [es.euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
 
 ---
 
@@ -331,14 +347,6 @@ Source: [Telepolis](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODJrbFZ
 2026-09-29 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxObG5mZnJpNU9HNjRoSG5pNWZfX2dBbmVaS0cxdl8xRElsU2VJaURBLW5BeVJPZGM3WURfZ0NGV0JZOE5hS3ZlZzJVRjBuQ0poWVRibWQ0R2NuSWFfQWFySzRRLXllei00N25jZ181N2Faa1phd2dKQzJwdHNoYlF6UW5PNVZ4dDB3T0RoZ3RkYmdSQQ?oc=5)
-
----
-
-### [Cancer : un vaccin anticancéreux personnalisé confirme son potentiel](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
 
 ---
 

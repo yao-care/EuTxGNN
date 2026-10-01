@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Vitamin D im Herbst: Wie kriegt man genug, was ist zu viel?](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUJnVXFRSlM1VkdURHZuVjVqdjAwWmVQcXZ2UHpZQUsyeE1SS005VGtvMlFiWlhmLVMtbTlPQW9Ea0JXOUNvLTdiTTVaT19EeG5YNFRaTVRWc2VVaGU4cC1YS3RhSnhJSDVwQy1HTW1qWnNNN0RvSUROSXFVV2ctNFdLSmJraWgwTTFyQ00yOFVJenhlM0Q4TEpSUE9BRFB5MkliaGhNTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [24vita.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUJnVXFRSlM1VkdURHZuVjVqdjAwWmVQcXZ2UHpZQUsyeE1SS005VGtvMlFiWlhmLVMtbTlPQW9Ea0JXOUNvLTdiTTVaT19EeG5YNFRaTVRWc2VVaGU4cC1YS3RhSnhJSDVwQy1HTW1qWnNNN0RvSUROSXFVV2ctNFdLSmJraWgwTTFyQ00yOFVJenhlM0Q4TEpSUE9BRFB5MkliaGhNTQ?oc=5)
+
+---
+
+### [Salzstreuer: Häufiges Nachsalzen geht mit 37 Prozent mehr Depressionen einher](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlIckdYcnVVMHZndm00UHhaNFlocTF3RUdzR251c0l5NlJUdG5oMkxYX2JrRGZNQXlJRXMzMndHV1pVUGRJbTIwLTd1OUJmSkVNelA5LUppdmt3U0NkNDJtUjZGbkhyWGF0MV9lelBxQl9GNG1KdjF3Z3VLeFh1MjVJZkZQdWRpdFM0anZxWVpxbzVEeWhxSEpzME1iU1VGWG1QZkotVQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">depression</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlIckdYcnVVMHZndm00UHhaNFlocTF3RUdzR251c0l5NlJUdG5oMkxYX2JrRGZNQXlJRXMzMndHV1pVUGRJbTIwLTd1OUJmSkVNelA5LUppdmt3U0NkNDJtUjZGbkhyWGF0MV9lelBxQl9GNG1KdjF3Z3VLeFh1MjVJZkZQdWRpdFM0anZxWVpxbzVEeWhxSEpzME1iU1VGWG1QZkotVQ?oc=5)
+
+---
 
 ### [Blueberries can modify the gut microbiome in older adults with mild depression - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
 

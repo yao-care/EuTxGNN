@@ -14,7 +14,7 @@ permalink: /news/sargramostim/
 ---
 
 <p class="key-answer" data-question="What news is there about Sargramostim?">
-<strong>Sargramostim</strong> currently has <strong>50 news articles</strong>, with 20 predicted indications.
+<strong>Sargramostim</strong> currently has <strong>52 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sargramostim with the latest
 <p><a href="{{ '/drugs/sargramostim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (50)
+## Related News (52)
+
+### [CGM bei Typ-2-Diabetes: Beobachtungsstudie findet 44 Prozent weniger Todesfälle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekRxU2JrQVM2YllNUlRjRXhEeWNyWnRJNmZqVDk0S09PUFBZTzZlSGRpWUd1aXNCOWlmVjAwZEpXc1BjcDRJZWVoSk94NldzdlNha1c3eG9fa01XbFlzRzU2VERHWmJlWXEwZDlPcDJUYWVRSzB4TzVjU3V4Wm1TNk9DaVNYdEhNVlloS3dZcFdaTGI1eEhlWnVGOWtPR3o0SnUyc282ZHhzdw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekRxU2JrQVM2YllNUlRjRXhEeWNyWnRJNmZqVDk0S09PUFBZTzZlSGRpWUd1aXNCOWlmVjAwZEpXc1BjcDRJZWVoSk94NldzdlNha1c3eG9fa01XbFlzRzU2VERHWmJlWXEwZDlPcDJUYWVRSzB4TzVjU3V4Wm1TNk9DaVNYdEhNVlloS3dZcFdaTGI1eEhlWnVGOWtPR3o0SnUyc282ZHhzdw?oc=5)
+
+---
 
 ### [Diabetic teen had to eat life-saving glucose as family couldn't afford food - Liverpool Echo](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnhHeDNvcmRmUVRMOFQ2NEMtdnhDM3d5RkVxRHgwVEJfS3Rwa3pDSEZjeEJlUU1mMm95TGQ0UjhSR3FWUGI0c0NCNDdidkY1dlJjR0c4YldQV3ZfTm4xRUhpLWtUeXhJRWx6X2oyUTU1X3gyMGFicE1kbm4xbkRaeHluQU9oZmxPZnd6T0l6c0lqR0840gGaAUFVX3lxTFBMVjUwVVQ1TFQwZ25pV1ZVQjJ3N2ZNU2lQNFFxc3hFMTBkWEhXZVdUcFl0bURFNWlqdzlpZVdTVnlvYWhYOEluTXgzYkRmbmhFb0M5RW1HWVZDZWlmR1RCR2lGYkQxWGR1bl9uNUpRYkV5UG16dk85Q2dBSjV2d05jajhvb0tPQ0h6MWZfdjNiUWxhRkpJdTZkS3c?oc=5)
 
@@ -94,6 +102,14 @@ Source: [lifePR](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdzg0cmRoVG
 
 ---
 
+### [Mom And Daughter Asked To Never Be Told If The Other Passed Away, And Fate Granted Them That Wish - Bored Panda](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHlyMzlLLWQteFl1YWpFRndCOHppU0l6RGxfV0t5dmNfWHUtaldSeTVDTVBVQVpfellXd2hOODM5NnpsMDE1NldPV0VFMUR5UnBpd3cwb3FWaWJZNV9JUHhZdVVOMEJCaE9DemZWOHlhXzQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHlyMzlLLWQteFl1YWpFRndCOHppU0l6RGxfV0t5dmNfWHUtaldSeTVDTVBVQVpfellXd2hOODM5NnpsMDE1NldPV0VFMUR5UnBpd3cwb3FWaWJZNV9JUHhZdVVOMEJCaE9DemZWOHlhXzQ?oc=5)
+
+---
+
 ### [Woman's entire back rots away leaving spine and ribs exposed after she ‘ignored diabetes for years’ - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWZLbmN3WFpHVDVla3VIRVlVVHU3dHhoVGhJZnk3SEhDdmJfNS1LbTVYWXJDcHNWWmdWaVV2NGphRHhIT3NiejlDY3RqVml0NUhFQUoxZ2VaUWJRVkxuQWI2alVaWVMzamc4blNJZGgwOTVpeDhjSHhlY1ByN2JFZ3N5bEp0ZzA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -131,6 +147,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS
 2026-09-30 <span class="news-indication-tag">diabetes</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzUzaXpGOXlDXzZGZXpOZUFIWDh4alV2UHFWOUs3bEZCckpodXdIZXdjMFh3WjAyRnVhWjRQc2c5aEtxMndBZEI2R0lOM19rY2h5RFNyNTA3TUN4RERiX1VHRk14cTBRaC1vZ0UwdFl5Z2ZVQlY5Y3hsMUN4a2tlZGdaRUcxZEQwX2g2WGhuampRcXdZLTlDTXUxUzltUTRYcXRxcTZjNXZ2by1yN2NRLUtDbw?oc=5)
+
+---
+
+### [Infektionen verursachen global jeden achten Krebsfall](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWRKNmVtWHJ2M0hvMWU2Y2NMVEVYOTZ3Yi11c09jMUlOQTQ1UUhKZUhXS0I2b3pTTXE5WVpqUm1ONWVMZlQ0N2R1Q1NmYm9kYVpqSFItWGY4bS1UcTBUcUFwelB0b2txOGNNeHJyQXUxLUtRaGNicnpXNkZPY2duMFVMMkdJX1NwQmpYdDFhSmlBbVpn?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Krebs</span>
+
+Source: [scinexx](https://news.google.com/rss/articles/CBMilAFBVV95cUxNTWRKNmVtWHJ2M0hvMWU2Y2NMVEVYOTZ3Yi11c09jMUlOQTQ1UUhKZUhXS0I2b3pTTXE5WVpqUm1ONWVMZlQ0N2R1Q1NmYm9kYVpqSFItWGY4bS1UcTBUcUFwelB0b2txOGNNeHJyQXUxLUtRaGNicnpXNkZPY2duMFVMMkdJX1NwQmpYdDFhSmlBbVpn?oc=5)
 
 ---
 
@@ -214,14 +238,6 @@ Source: [tsa-algerie.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxOd
 
 ---
 
-### [Zwölf Prozent aller Krebsfälle gehen auf Infektionen zurück – diese drei Erreger sind am gefährlichsten - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Krebs</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbFlDLWtIN2RiN2dNSjBmZjhtd2VVVE0zSUktS1dGelhjamxaMG0xRTRZdng3WFNpeWlfMHlkYW94ODI4UTJGNHd2d3YxQTNOSjVCRHA5WWw3aWR2b1RzQ3JYMU1ERTJFOVZCU3NNSzhPOVRnQTB0SE5XTUE4VnJYVHVIc1ozR3pTdDQwR3ltTkVNOTJGZm1Fa0o5NjBtbzhYNlNOVmJLU0JtcXNMN0NmbVE3ZTdIQU45TnBVY05uXzRSakFlR3hOOA?oc=5)
-
----
-
 ### [Max Parisi: "Ho un tumore al pancreas, sono volato in America per provare una nuova terapia"](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbkxuQl9hc1dkNWE5RUVnLW9iVVhSSEQtWnFzVTV3dVM3Z21EczlUMU5xMkVNdzRINF90M25mSWhoYVkyWVNyZzc2VXhzenNHOXA4U1ZYZ2JrVTJHa0hoSlFCcHAtYXY5OUdmMXhsUHBVTVVfVGFuREFXUVFFRjhJUGZQZHVPUmhEbWx6QjRvUV9Ec0ZkdXYtRGl3TzJ4VTdnWE9sd0ZMMkVKQ25VT0E1WUZFalQ0Y2lPTHQwQTd2Y2Z2YVdjLTJJaElSV1k1elVzV2NVNEZUTU1NMFBPOGJoUWxMZFdiQndhWTVWNWVKWnZjWVRoZ1AxTVA4WWtkS0nSAYQCQVVfeXFMUE5OeFl6dUc5T2JWZFZ2ZmZKZkJxbkFnMnZLbS1WckNrUjdXNzVKMjg3WDRVdFVKOGtJQWN1LXAxN2hhTkNQMDNqeFl2ZTFqbHNXaHVuWHlKVnhoT1MxTmtZa180R2ZNR25WLXVNX2hNOGxmTVdCNUY1NHEtTEJVbDFDNmdlUk5yRUN4T3Fnb2ZkanJMa3l4UjFBOEV1VjNMbktrOU03bGtzSTI4dHdCc1ktalNlb3hVVU51WDJhRWpMMm5XX09KRVYtSl9pUHdrV04tMkZZWnpBMXhWNnhYUXo1Ync2Vlg2aGdQNXZNcmlMV1NZODV2STd6a3M0VWx1WHBmeXg?oc=5)
 
 2026-09-30 <span class="news-indication-tag">tumor</span>
@@ -278,11 +294,11 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMH
 
 ---
 
-### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
+### [Un estudio del CNIO descubre una vía para frenar la metástasis cerebral antes de que sea detectable - La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">tumor</span>
 
-Source: [larazon.es](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
+Source: [La Razón](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc1NuN1ZOSWhsaUwweWVUMXdBdFlZSEJKcUROZkd3OUVPdm1TdGFicko1aWI0UzF1TnBfdjhXVWxWV1QtTlRkSHU4aUJfNkk5MG9CRHVSeC1PRlFwVVZ5alN5dkswRFFUOF9Vamc1dmYyNTJ3VW90R0p3N25oUHJnLUVCeUJHTG9QcGU1enR2YnBub2dSbVczZ1JYVnZ6TlJsX1FSdzk2M19GWkx0TDlleVNWaVFObHVLMUVhVnk2WXFfeERHQ3lhdk5uMzFkbW1jSmM3Mkd6OE9MS2phMU800gHzAUFVX3lxTE1LZlo1eDZPWG9NZHA3ZGdPTFZBZl9RczV4Ni0taEk0LU85TVdHZDluWV9ycERkNGlmTUlwV0ZEQ1RHa0hWOS1IaGN6WFdvQ3NITUNNTkczQkpQUkFCV1N0V0VDeGw0bHBFbGFjNHJuQzhPeWZBV1FYVnFHSkEwdnpCak5LU05tUEt0RmRqTkNrSXpuaUNlQV9oQ3lUellHejRZamJOOWpFdms3QmlCNU1CUWs2dG96d3IyeXg0bi01WjliVi1tU2ZLX2ZFUHdRNE5RbG8xMlBSY25mTmlzekpmWkJqNUN4bkozbnBuVzIyQlVrdw?oc=5)
 
 ---
 
@@ -302,11 +318,11 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOelVx
 
 ---
 
-### ["Mio fratello ha cominciato a non camminare, non si muoveva più. Dopo l’infarto ha preso dei nuovi farmaci dimagranti e gli è cambiato il carattere": il racconto di Rosanna Lambertucci a "La volta buona"](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
+### ["Mio fratello ha cominciato a non camminare, non si muoveva più. Dopo l’infarto ha preso dei nuovi farmaci dimagranti e gli è cambiato il carattere": il racconto di Rosanna Lambertucci a "La volta buona" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabete</span>
 
-Source: [ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
+Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
 
 ---
 
@@ -350,6 +366,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1lESnFJ
 
 ---
 
+### [1 de cada 8 casos de cáncer en el mundo se debe a infecciones evitables según estudio](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
+
+2026-09-29 <span class="news-indication-tag">tumor</span>
+
+Source: [es.euronews.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTZZeW5rdjQyZW1vZjBVTWhIT2MwTlpiTXdHR3pqSHZJSjdMVm9FTHhVUHFvZ3dXbkRvOXFVLXhrT2dQZzRZTVlXRkV3eloxQWN4bmNodHZxRk8yNFF0SWE4N1R3am85eXo4YkhwQ1NfSjBXamg4VFkwbHRFVGg3NjNnWnphdk9laHVYcFg2U0NtVmtrejVBSGwzNlR6azFsamJPbjRtUm9fa3drN0RJTk1GSTVGT1d2WFNLdg?oc=5)
+
+---
+
 ### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
@@ -371,14 +395,6 @@ Source: [CardioInfo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeT
 2026-09-29 <span class="news-indication-tag">diabete</span>
 
 Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUJhd2FlZjR1dkxPUGRtX01iT3dRM0VBaXNFeU5Hb0Z6RVVKY1VMZUg1cjFXZTdRdnJLWFowZi1JcEdsUzFFMS1sTndTaVJseTBVR3l3MHZhT183VVQ4b3kxVnVZc3FMTzRoeWFJZ3JuRW9RNmt5cGQteTRocDF4X3ZxOXZRcmQ2dm5SWUlfYjlXMzRoWHU1WDN2SVRfenFNZllKOF94Wnl1WmRmY0x3dTk2eGQxa3JOV1ViaTF5dHhuZw?oc=5)
-
----
-
-### [Diabete, l'uso di semaglutide non aumenta il rischio di tumore al pancreas. Lo studio](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [tg24.sky.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
 
 ---
 
@@ -414,14 +430,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxObG5mZnJ
 
 ---
 
-### [Cancer : un vaccin anticancéreux personnalisé confirme son potentiel](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
-
-2026-09-28 <span class="news-indication-tag">cancer</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMia0FVX3lxTE1GS21rbERwcHlCTlZuMDlqRHN2QmtSdkxJLUpZQVJpRmVONms5TEotd2xuaGVJeXVSdGFmdDRvOGF5MndybkM2dVdCNDcyZjdvZDZUalJKZ00tLUhfZU1OWWNTYlVSbDl4ZE93?oc=5)
-
----
-
 ### [Pflegepersonal, Diabetes-Schulung und KI-Akzeptanz: 94 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
 
 2026-09-28 <span class="news-indication-tag">diabetes</span>
@@ -443,6 +451,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDFDaFVSX
 2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+
+---
+
+### [Empfehlungen zum Umgang mit psychischen Belastungen bei Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
 
 ---
 

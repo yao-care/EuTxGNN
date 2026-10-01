@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,45 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Population-scale immune multiome atlas reveals regulatory disease mechanisms](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQUtPWGFMZ2ZDNTk3RmFHQzQzN0RiYmJaazhGZVphWDZsTjlJSXQ3eG8tYzExbjZrMHR2dk11dDNOaXNBbEVIcWQtb2VyS0JJUG9IUWxhUFV3MnNQTkl3?oc=5)
+
+2026-09-30 <span class="news-indication-tag">MS</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uQUtPWGFMZ2ZDNTk3RmFHQzQzN0RiYmJaazhGZVphWDZsTjlJSXQ3eG8tYzExbjZrMHR2dk11dDNOaXNBbEVIcWQtb2VyS0JJUG9IUWxhUFV3MnNQTkl3?oc=5)
+
+---
+
+### [Experimental therapy K-9 restores lost vision and mobility in MS mice - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeTBMeUo5REdtb1ZJLWJ1OTZKeUExUllSYlc4eS1BdzRJZi01T3Ria0FFamlZbWNRY3UzUEs0NTBfNXlaaVdHaGlHdVRVdy1STGJsellUT3l1d25jQlc5c2pmdGFpZGtGczNlVFYwMkRtTmdBaVRpQnNWRGRuX0Zxd2lxaFJkcXl5eFQ2WHZJLUh3SmdzeUpGSnRqcmItRmJpakc0VTc0TF9aTTR2MGE2UzhFNXBmc3UyT29xZVZSWlJyZw?oc=5)
+
+---
+
+### [How parenting profiles are associated with children's behavioral and emotional problems - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxONTRiUGgzdEdTSkxHbmJ6ZlZXLWVpVmRLQ1V0c3FmMk1XYzEydlExcXlxcXRyZEFBZUdfY1BxcmhzR1pUZnlSelBvRXhMTEVvVGk4WFFoWHIwZElpNjVVY0VPQmFJLUhtZ1FBbGFiVFZvdVN5SzlNd3VpSFd5ZzlmWkIwdHBiNWRVck1fZXhmX0FpcVFkQ1k4?oc=5)
+
+2026-09-30 <span class="news-indication-tag">MS</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxONTRiUGgzdEdTSkxHbmJ6ZlZXLWVpVmRLQ1V0c3FmMk1XYzEydlExcXlxcXRyZEFBZUdfY1BxcmhzR1pUZnlSelBvRXhMTEVvVGk4WFFoWHIwZElpNjVVY0VPQmFJLUhtZ1FBbGFiVFZvdVN5SzlNd3VpSFd5ZzlmWkIwdHBiNWRVck1fZXhmX0FpcVFkQ1k4?oc=5)
+
+---
+
+### [Warnsignal im Alter?: Stimme verrät laut Studie das Demenzrisiko](https://news.google.com/rss/articles/CBMijwFBVV95cUxOM05zdi1rMG5id1dvX2tnVVRjQ2YwS1Q2NnhKZ09oaGM0bmJacGlrYzhXTHZMdkN4SlVqTE5ZcDVHckRqcVFGVkJraFhFYXpuVjJHQWFGd05Ma2wzQktVM2lXdTYyQm0tX0hhOUE1ZTFXazJ5SUtKOGpDQngxZnpGRHdMazRMbTg3b1lsd2dKWQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">MS</span>
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMijwFBVV95cUxOM05zdi1rMG5id1dvX2tnVVRjQ2YwS1Q2NnhKZ09oaGM0bmJacGlrYzhXTHZMdkN4SlVqTE5ZcDVHckRqcVFGVkJraFhFYXpuVjJHQWFGd05Ma2wzQktVM2lXdTYyQm0tX0hhOUE1ZTFXazJ5SUtKOGpDQngxZnpGRHdMazRMbTg3b1lsd2dKWQ?oc=5)
+
+---
 
 ### [MSD Animal Health inaugura el lanzamiento de su nueva innovación en immunología felina con un encuentro con su red de colaboradores de distribución](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkF3UDF6TVhKM2RqQzJ1eVNONFhKN0RYcDBiUEg3RU5KS1E5aEpGSGhMUHkzOFVUUEVVTko4aFk3UUVKelRsanQ4S3RRMFFiT1pkM0hYU1QxTDh0ZW14LXloQmtGMGFHWVdqRjhKeDFuRXBHZ0FyRGpwM0NwbFh0bkthbERNSm52SzlRbWljWGVxVFNTYUQ2VUNuVURhek9KYnNvZDh1LWVxTHkzVnBaMl9oSE5BbkdSYVpYSVpVc2NSRmprUUdyOFVQT3JIVzlWaF9JZjVtV2dzc3kwQndnTmtfOG9sM1RnSmV6NlMzaVNDYWfSAfgBQVVfeXFMT0NEc1NwRUZBWEpYZDRhRFBoYUhOSENKZDVHaEs0Y191UDJQQlhob05IUXU5aHNwM1puelBNQ3Jfdm9pdHhrTm9tVDR1WXBzRlRTOWkyaGN4UzVWT0tkeWJEOHFrWU1Gal9tbk13NnNQSG4xc1lWcG1XQ2NPX3FaRF83QVNfQlEyZjM1R0hScUJqbW83SVZKM3M3RTRGeUdodWdXY2Job0lVTVdyUUVvZFRxdGozZVNqVlZDSkt2ejdOLWpCVEtVOEdtcnJvMnhWeTdnWExSM2MzNjZSMDhVOUVmU0JycTRJR2JNV2VPMEEwNkduQzdsbUY?oc=5)
 
 2026-09-30 <span class="news-indication-tag">MS</span>
 
-Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkF3UDF6TVhKM2RqQzJ1eVNONFhKN0RYcDBiUEg3RU5KS1E5aEpGSGhMUHkzOFVUUEVVTko4aFk3UUVKelRsanQ4S3RRMFFiT1pkM0hYU1QxTDh0ZW14LXloQmtGMGFHWVdqRjhKeDFuRXBHZ0FyRGpwM0NwbFh0bkthbERNSm52SzlRbWljWGVxVFNTYUQ2VUNuVURhek9KYnNvZDh1LWVxTHkzVnBaMl9oSE5BbkdSYVpYSVpVc2NSRmprUUdyOFVQT3JIVzlWaF9JZjVtV2dzc3kwQndnTmtfOG9sM1RnSmV6NlMzaVNDYWfSAfgBQVVfeXFMT0NEc1NwRUZBWEpYZDRhRFBoYUhOSENKZDVHaEs0Y191UDJQQlhob05IUXU5aHNwM1puelBNQ3Jfdm9pdHhrTm9tVDR1WXBzRlRTOWkyaGN4UzVWT0tkeWJEOHFrWU1Gal9tbk13NnNQSG4xc1lWcG1XQ2NPX3FaRF83QVNfQlEyZjM1R0hScUJqbW83SVZKM3M3RTRGeUdodWdXY2Job0lVTVdyUUVvZFRxdGozZVNqVlZDSkt2ejdOLWpCVEtVOEdtcnJvMnhWeTdnWExSM2MzNjZSMDhVOUVmU0JycTRJR2JNV2VPMEEwNkduQzdsbUY?oc=5)
-
----
-
-### [La UB desarrolla un dispositivo para evaluar la respuesta de los biofilms a los antibióticos - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNems4Z0lMaDh2YjY0bFBMMkJJWnEzY0txQjVKR3RwWVJwemR4YU9idjRBX1dyWW5JNXl6X2JrSmp3Qm9WdS1hUG1lZ3ZxeERWdVlWblBjV1NobUFfZDZUMnpnR016WVdjZ1RfbDJPR1VrV0ZhX25HNWUwaWplc3NVcFdZZEJmclJHYmNWVWlpTG01YzNTX3VxLTAtZHh4UENuTlZqQUQ3MXpwREpyNHgwajljZndXUGpsam9IZ3Y2NHFGdFnSAb4BQVVfeXFMT0lzaGo0MWhaeVZKUFhEcE1HRWhEeHdxWmlkLUdBOU9aYUI3bG5pWTJicDJObTVkWFhDTm5SLWxRTXhGbEF6djJaM2J4WWstRXVSbkhsd0JsMkkyQ2gtMmJON2EyV194STU2cDRBdWxUTmRkWGQxWFdrMVVDQ1c4U0d4clVCT0RtZzRKbmdrTzFNUmxPOGJRT21FWkc1eW9IOXhkZmRyc3lqdjQya2RtNUJCN3IxUGZiNVRfUmJqdw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">MS</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNems4Z0lMaDh2YjY0bFBMMkJJWnEzY0txQjVKR3RwWVJwemR4YU9idjRBX1dyWW5JNXl6X2JrSmp3Qm9WdS1hUG1lZ3ZxeERWdVlWblBjV1NobUFfZDZUMnpnR016WVdjZ1RfbDJPR1VrV0ZhX25HNWUwaWplc3NVcFdZZEJmclJHYmNWVWlpTG01YzNTX3VxLTAtZHh4UENuTlZqQUQ3MXpwREpyNHgwajljZndXUGpsam9IZ3Y2NHFGdFnSAb4BQVVfeXFMT0lzaGo0MWhaeVZKUFhEcE1HRWhEeHdxWmlkLUdBOU9aYUI3bG5pWTJicDJObTVkWFhDTm5SLWxRTXhGbEF6djJaM2J4WWstRXVSbkhsd0JsMkkyQ2gtMmJON2EyV194STU2cDRBdWxUTmRkWGQxWFdrMVVDQ1c4U0d4clVCT0RtZzRKbmdrTzFNUmxPOGJRT21FWkc1eW9IOXhkZmRyc3lqdjQya2RtNUJCN3IxUGZiNVRfUmJqdw?oc=5)
+Source: [animalshealth.es](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkF3UDF6TVhKM2RqQzJ1eVNONFhKN0RYcDBiUEg3RU5KS1E5aEpGSGhMUHkzOFVUUEVVTko4aFk3UUVKelRsanQ4S3RRMFFiT1pkM0hYU1QxTDh0ZW14LXloQmtGMGFHWVdqRjhKeDFuRXBHZ0FyRGpwM0NwbFh0bkthbERNSm52SzlRbWljWGVxVFNTYUQ2VUNuVURhek9KYnNvZDh1LWVxTHkzVnBaMl9oSE5BbkdSYVpYSVpVc2NSRmprUUdyOFVQT3JIVzlWaF9JZjVtV2dzc3kwQndnTmtfOG9sM1RnSmV6NlMzaVNDYWfSAfgBQVVfeXFMT0NEc1NwRUZBWEpYZDRhRFBoYUhOSENKZDVHaEs0Y191UDJQQlhob05IUXU5aHNwM1puelBNQ3Jfdm9pdHhrTm9tVDR1WXBzRlRTOWkyaGN4UzVWT0tkeWJEOHFrWU1Gal9tbk13NnNQSG4xc1lWcG1XQ2NPX3FaRF83QVNfQlEyZjM1R0hScUJqbW83SVZKM3M3RTRGeUdodWdXY2Job0lVTVdyUUVvZFRxdGozZVNqVlZDSkt2ejdOLWpCVEtVOEdtcnJvMnhWeTdnWExSM2MzNjZSMDhVOUVmU0JycTRJR2JNV2VPMEEwNkduQzdsbUY?oc=5)
 
 ---
 
@@ -102,27 +126,11 @@ Source: [YourTango](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTHp6Tld
 
 ---
 
-### [Lab-grown brain organoids: time for international oversight](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ2RBVnVRcC0wSTVnMVRkbHl0NWc2TURtV01JUVBSX3RpRFM5cG45OHA4UW1hZmM1alYzQWFvdzNxSGRqSXh0cWhTU3hSVC1ubjdhTVRWWVMwWlp2bm5v?oc=5)
-
-2026-09-29 <span class="news-indication-tag">MS</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQ2RBVnVRcC0wSTVnMVRkbHl0NWc2TURtV01JUVBSX3RpRFM5cG45OHA4UW1hZmM1alYzQWFvdzNxSGRqSXh0cWhTU3hSVC1ubjdhTVRWWVMwWlp2bm5v?oc=5)
-
----
-
 ### [Infections et cancers : des liaisons parfois dangereuses, souvent évitables - Orange Actualités](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVl1T2VTWlBHZFdQVmkxZm16RDZFaDZya2FfWFdPbTduYmp5b1MzMl9XLWgzYW94Q3l1c256RENmV0h0Z1JwUVNxQkVzRlFxTFZHYmZXUGNIRE1ncmgxX2VCanllS3M2T25zM1AzSHNxaWZHZXFvSkg3Z2ZXYlROZ1dkRWNGRHBkSkdUWkR1TDJKTG04N3c5SEg2SGIzMTAzRWNISWdDYU5BNlNXbUpSLU12LXB3TkNjUXRuYXZDSVVXOUllUGRHYQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVl1T2VTWlBHZFdQVmkxZm16RDZFaDZya2FfWFdPbTduYmp5b1MzMl9XLWgzYW94Q3l1c256RENmV0h0Z1JwUVNxQkVzRlFxTFZHYmZXUGNIRE1ncmgxX2VCanllS3M2T25zM1AzSHNxaWZHZXFvSkg3Z2ZXYlROZ1dkRWNGRHBkSkdUWkR1TDJKTG04N3c5SEg2SGIzMTAzRWNISWdDYU5BNlNXbUpSLU12LXB3TkNjUXRuYXZDSVVXOUllUGRHYQ?oc=5)
-
----
-
-### [Can Insomnia Increase Risk Of Stroke And Other Mental Health Problems?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
-
-2026-09-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
 
 ---
 
@@ -142,6 +150,14 @@ Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMivAFBVV9
 
 ---
 
+### [CDC reports second measles death in US while excluding Pennsylvania deaths - The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPN25PTWNTcEZWNmdXTzF3RnhqUEFsNEZsWjFvMUtWcVFtS2ZRS09BbUltZVFOc3RHM0pWMWhmUjUyNVhuNjVWdWVSNm16OWpOblBGbk1sWDlVeHNveHFnMl8wcG9yLVR5d0FTV190Qzc5V1ZZOFhfQjlGVlRFa0d3WnJLYU9YMDQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMihwFBVV95cUxPN25PTWNTcEZWNmdXTzF3RnhqUEFsNEZsWjFvMUtWcVFtS2ZRS09BbUltZVFOc3RHM0pWMWhmUjUyNVhuNjVWdWVSNm16OWpOblBGbk1sWDlVeHNveHFnMl8wcG9yLVR5d0FTV190Qzc5V1ZZOFhfQjlGVlRFa0d3WnJLYU9YMDQ?oc=5)
+
+---
+
 ### [‘I visited my GP three times in one week and my cancer symptoms were still ignored’ - The Independent](https://news.google.com/rss/articles/CBMirAFBVV95cUxPd251WVBiMGxqSzZMeUVBZDloSVB0dzNvcm9tcFN0eTV3RDc1d0J6ZFVTbm9YaWZud0pKdDFsSVFzcTNzS2czVzNQYUEwdUFVOTZzVlRJM1h6Qk1HMUhKWDMzMEhFa2owUEdHOHZRNWRaTWdSTkFvNWVnNWZWV0dZUEdHM0tnc3NjTkd0emhzWjhaSU1vRXBqQ09fSmtWYmZISUhOSzNNdGlDVE85?oc=5)
 
 2026-09-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -158,27 +174,19 @@ Source: [BuzzFeed](https://news.google.com/rss/articles/CBMigwFBVV95cUxNeGtsTjBW
 
 ---
 
-### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk?](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
-
----
-
-### [Hospitals in England hit by shortages of common drugs such as paracetamol](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
+### [UK drugs shortage warning as crisis hits 6 new ‘life-changing’ skin meds used by thousands - The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFA0ejhDc3pjZzYxanZVeW5kUHNRTjJTaFVmdTdvMFRkQkRIZHVrcThuQzdCekhFaE9xbWdPMzlMS0dBZWwzSWRGWkxRQ3Q4MFVhWXRpb1k3cGhDQVZialJqbUtUYjZXQzYyekhhOGtGQUZSbFI4N3hnZThoMA?oc=5)
 
 2026-09-29 <span class="news-indication-tag">MS</span>
 
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHM1MzN0a0RVS2FyWk1wWDY5cXRGSDJPcVlwcXRmdDA4dk1VZ29Ha2IzQlpINHUzaWNZZVItZ0c0bXRjWFp2bUpLcWdySnpha3lqcjFtVnNadk9wRHc4N1VtZ3RiVkhqMHVmd1lQUXpmdmpQSkJ3YUpUQkFvVDdiaUM0UjhkLU94VFdWUWhNY3cxbGtKVnFEb09qU0tmYVYwRUE?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMie0FVX3lxTFA0ejhDc3pjZzYxanZVeW5kUHNRTjJTaFVmdTdvMFRkQkRIZHVrcThuQzdCekhFaE9xbWdPMzlMS0dBZWwzSWRGWkxRQ3Q4MFVhWXRpb1k3cGhDQVZialJqbUtUYjZXQzYyekhhOGtGQUZSbFI4N3hnZThoMA?oc=5)
 
 ---
 
-### [MHT Thrombotic Risks Differ by Route, Dose, and Duration](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDNOb2dxRkx3LVh1R29TVWE1dmJkNE9KaXpvQnJsd0hqdlZvdnRLQUt2NF9hNTRGNkZIZldITjFyUjVRX1JQVzVVQnc2S29HQS02aGtWRjZvSGJJYmtRazl6d2g3R3JlMkhackNrYWlIUXE5bENQTC1MTUhOT3g1dFJCMzhmVUUwTFBBTXFUdFAyT1VnZVFfbmFqUlVldWgtQmk3WlNWOHg?oc=5)
+### [Tell us: have you had the shingles vaccine in the hope of reducing your dementia risk? - The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
-2026-09-28 <span class="news-indication-tag">MS</span>
+2026-09-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDNOb2dxRkx3LVh1R29TVWE1dmJkNE9KaXpvQnJsd0hqdlZvdnRLQUt2NF9hNTRGNkZIZldITjFyUjVRX1JQVzVVQnc2S29HQS02aGtWRjZvSGJJYmtRazl6d2g3R3JlMkhackNrYWlIUXE5bENQTC1MTUhOT3g1dFJCMzhmVUUwTFBBTXFUdFAyT1VnZVFfbmFqUlVldWgtQmk3WlNWOHg?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3VLaG41Rl9STHpQV0VqYUFkcFFmMTRONjlxU3R4NnEzMEdKWjVzZWpZTzhGWWo1bktxRlNyT0Jaem1VSFNUZ2s5SWhPV2ZtMkE1M1U4VUNIeWRiYWNDM0RGRGJacy1VQjhtdnNCSlBKUmk2Mld6YXNpQ1dPRVNzRmJWdXpyMEVweTZVU3Uxc1lNWW1MUGRrZHYtZWZQY2UyT01IQWZKeTJ5a3k0SDNUUDFvbw?oc=5)
 
 ---
 

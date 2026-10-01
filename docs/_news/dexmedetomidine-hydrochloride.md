@@ -70,14 +70,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlV
 
 ---
 
-### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
-
-2026-09-29 <span class="news-indication-tag">migraine</span>
-
-Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
-
----
-
 ### [La imagen cardiaca permite ver la enfermedad cardiovascular años antes de que se produzcan los síntomas](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9fM0ZoaXJBclp2NVhrNHpRb2pucnFUamk2TlZKTmlaUHZxZm4xYXJoa1ZtWXRhazZiNlVrbHF4R0FFbzdfcmdjUWZaN3ZNUmZPVVIzaGdyVm9FZ3hGWDdzcFdUVVRaLVh2aWY0VUd6ZDJiZlp2MXZ6YjItcUhSRVNLS0tYZVNfekgtTjUwVFVwWHZMeTRmck5CanpKbUR0T0hEamU1YlU?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
@@ -91,6 +83,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE40SF9f
 2026-09-28 <span class="news-indication-tag">hypertension</span>
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ2x1V0Z0RmMzLTZvY1R6WUowcjJwRnoxMDBja21ObWtFd1RrZkVTQ2xUZzYyUmdaZ0tUQjBKZzdXVU9XVlBjaHdjeF8wek5CSmp5Nkwyb3p3TEFQclJYX09tRXFaX2JIOS05T1hFZ3RnMm56VGhJcDMwNndqaG1NUzVRU2pxSllubTNVaDcxeFZVNFVtY29lT3RhSzZ0Wk90cU1NcktOMzFwdDVxbElici1ySTkwY3R0TW8xWXlsRm1sYnVWdndHMHJNNDQ2d0t4STZqTEhFRllIQXRZVjZseFk1RkRKUmV3ZjM2a1hWbG9JeXZCbVJnZnVDbjhpb05kcGR5SQ?oc=5)
+
+---
+
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
+
+2026-09-27 <span class="news-indication-tag">emicrania</span>
+
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

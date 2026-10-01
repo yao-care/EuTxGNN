@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (1)
 
-### [Nierenscreening in Deutschland: uACR-Tests erreichen weniger als 1 Prozent](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2VVdkIwNHRZcUJnTWtHMkllWGwwd0R5SGZTRjdOVnoyUEFJQnU2dU1XOGVTUFlXTF9KT2VPT0Q1VmlWVE1xWENXTW95U2Y4RU1PQ3p6UlVhZDBEaU92dEl4akQ5aWhua0I3VEhPcXBIVmJkcUNIb1RPOWlwUFU1Z202bkQwbVA2T1cyR19WX010RjI4dkQ0NDByTmQyWDJWMFE?oc=5)
+### [Chronische Nierenerkrankung bei Herz-Kreislauf-Erkrankungen häufig unerkannt - Gelbe Liste](https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOHNDV3lRTkVFWC1YZnQ1THphcjNOR0hGN3BVRWlvdmV2LW5NNnpSWVltR3lCMU9XTURENEZhVl91UUw1Rk1CU2JTYWVGQzU0NzJzb1lRWFYtMVgtRkNqbVV1U1dZRDVsS2d6N0t3SmYyLTNWZGdUeEpn?oc=5)
 
-2026-09-29 <span class="news-indication-tag">chronische Nierenerkrankung</span>
+2026-09-30 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2VVdkIwNHRZcUJnTWtHMkllWGwwd0R5SGZTRjdOVnoyUEFJQnU2dU1XOGVTUFlXTF9KT2VPT0Q1VmlWVE1xWENXTW95U2Y4RU1PQ3p6UlVhZDBEaU92dEl4akQ5aWhua0I3VEhPcXBIVmJkcUNIb1RPOWlwUFU1Z202bkQwbVA2T1cyR19WX010RjI4dkQ0NDByTmQyWDJWMFE?oc=5)
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiekFVX3lxTE9rOHNDV3lRTkVFWC1YZnQ1THphcjNOR0hGN3BVRWlvdmV2LW5NNnpSWVltR3lCMU9XTURENEZhVl91UUw1Rk1CU2JTYWVGQzU0NzJzb1lRWFYtMVgtRkNqbVV1U1dZRDVsS2d6N0t3SmYyLTNWZGdUeEpn?oc=5)
 
 ---
 

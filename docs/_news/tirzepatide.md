@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
 
 2026-09-30 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Infosalus](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3ZSQ3hCMEF6cHhHZ21zTzFMaXBaY0ZyMjgwZlRoOVpzbkthbURmNEFCZG5Qdy1DSmFmRGJ6Q20yTnVpbDZtTjlVa0YtbWZzYmI0eGV2czJZbTBrdG1iblJ4WXVBUDFYdHNuclAwdjE0X1VWaUpJSlNtVGxXMC12RFZGajNWVVZ6cmlnNmxaY2VSNGpRMzc0VFlISF8zMU9WdExNXzBaV015WlpWWkctTVZBdUt2RnNlU1JHZUJpOU5GWGFxb0loa1VtcmwyMjQ5?oc=5)
-
----
-
-### [Does GLP-1 use result in significant hair loss?](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
-
-2026-09-28 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-Source: [theguardian.com](https://news.google.com/rss/articles/CBMic0FVX3lxTE9GeWc0R29FckFBbmtTZUE2QU5pMkdZRHJ6SUFZZ1N2SzBjTVRXNnFEWWFLNlNVc3Yxb3NEcUxRSGFIWkllTlRBZWJDSjdYTWZFdktwajlxUmZvV3pGcDZLOHRGdnMyX1F3UmFUTVE2dzFZOE0?oc=5)
 
 ---
 

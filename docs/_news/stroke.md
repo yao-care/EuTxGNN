@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 12 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 9 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>12 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,13 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (12)
+## Related News (9)
 
 ### [„Wir sehen einen bedrohlichen Anstieg von Schlaganfällen bei jungen Menschen“](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
 
 2026-09-30
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
+Source: [welt.de](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNLOFJTaXprUGNEZGxiQkVxSkZOWmJ6WWZPemZMeDNGS2RxNzczTUtCVWNUdl9VRzhocnk5T0VzTS1wM3NWTHFSSWZTRl9TT1F2dlcyY2ZCZkZpbV9UMmU5WHhVOGNWRFoxbW15VFpsQ1llNTRmTTNYN0pFZzNMSVJsQ0p4Mk1GRVJKVFJ0M0daTXVQQ0RVYzh5NTd6V0RQNzJJcF9yLXNXMDFkUFRxU1JlSWQ4LXNXcmw5VFVTZ1NpQ0R0OTVKVjRuMGgtZUt5QnBzcnVrc0RVSE02eDJZR3JNajVodw?oc=5)
 
 ---
 
@@ -57,35 +57,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR20
 
 ---
 
-### [Can Insomnia Increase Risk Of Stroke And Other Mental Health Problems?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
-
-2026-09-29
-
-Source: [FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE4xVElsMEtiVWx1bGk1eG1XOTVSRW9JZ1gxZldJVkhaSmttZUFnQ19RTUw4ZU1TWnBJek1YVkhRR1g5a3M3UFZkOUpkZm1EdDBWaUVnTXM4a3B5UjRXQkM1LWw1aEkwSkhjNVJLQTM4Wkx4NER1MzAtTTh3ZjFXTFdESzBSQzFRZzgySVlSY2ZWQTRhTEItNU1zWFBzOWtBb2tJbjhfVDlVUGo4N2Zkd05DR0paUVZpV3Qydmxua2N1MUdFa3FRU1hwVllMelhrNGhQaWFB?oc=5)
-
----
-
 ### [Dad, 59, goes permanently blind within 2 weeks after using Ozempic, he claims - The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
 
 2026-09-29
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFKYXRjRllodDIyRnZRWS1LLXpWbFJZNXktdGx1ajgyaC1EWTFkS2IwUE5UT1BXOTQtakpXUUtKV21CbmI3Qmt5a3U0TzlQc2xmcjlxVFNBRXNvSFpSNjU3X2lEQjJ1X0N4ZUNtSDdSYnJncnEzbnRGWS00cVlkYlhOOA?oc=5)
-
----
-
-### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
-
-2026-09-29
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
-
----
-
-### [Lo stress non fa rumore e così i danni sul cuore si accumulano in silenzio per anni - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTBIY081ZHdsTVA0M2o4b1ptdlNiTWdGT1ZCWURKTTVKQVBZdVBMamFYY2xwSjNPcDRkYi1Xd1pOUjJ4aW8zNDA5Y29OWWpUVDVWOEdIUHQ5NkVxOThiS0QtZ25tR1N0V2xBWUtsWm5xb1I3VnBzb3ZCM2FQWHFMVnl5NC12ZnhLUXRWcWxZRnZjTzVqX1NGdkFwei12Z2hBeW16bTNNbGhPelNfam5qaw?oc=5)
-
-2026-09-29
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTBIY081ZHdsTVA0M2o4b1ptdlNiTWdGT1ZCWURKTTVKQVBZdVBMamFYY2xwSjNPcDRkYi1Xd1pOUjJ4aW8zNDA5Y29OWWpUVDVWOEdIUHQ5NkVxOThiS0QtZ25tR1N0V2xBWUtsWm5xb1I3VnBzb3ZCM2FQWHFMVnl5NC12ZnhLUXRWcWxZRnZjTzVqX1NGdkFwei12Z2hBeW16bTNNbGhPelNfam5qaw?oc=5)
 
 ---
 
@@ -113,11 +89,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxNSl
 
 ---
 
-### [Peripheral Arterial Disease: Why Early Detection Matters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZOeE44WjBaUmNjZ2pBcUFXaHA1ZGRLN0xSdkpscThzOEJwMVN6YWllZ1FENGZCUHR3bi14elZBLTNfaWt6VFVlUWZwTU5LVllRQ2ZCa0lKa1BQdUoyeXpIY0tCajRNNWtlVWU5NHZXUC1fZDRrSTFuTE8weWlEVWZqY20zeVp3cFVHaWVpY0FlMEZBSlZLeDNjbDctMVA4ai1hMEU?oc=5)
+### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 2026-09-28
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZOeE44WjBaUmNjZ2pBcUFXaHA1ZGRLN0xSdkpscThzOEJwMVN6YWllZ1FENGZCUHR3bi14elZBLTNfaWt6VFVlUWZwTU5LVllRQ2ZCa0lKa1BQdUoyeXpIY0tCajRNNWtlVWU5NHZXUC1fZDRrSTFuTE8weWlEVWZqY20zeVp3cFVHaWVpY0FlMEZBSlZLeDNjbDctMVA4ai1hMEU?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+
+---
+
+### [Statine dopo i 70 anni: meno infarti e ictus anche nei sani, ma conta come e a che ora si assumono](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
+
+2026-09-28
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVF2ZzlQdURvZ0tWYlZPLVgwbHF0RWlUWVR0SW41X2ZPWkU0UmxhRWxrT1hVUXF3RG9KUFVsODVqNGtyMllTbDRtRXpoSjZJS3IxRlYySDdacjVOWWdZbVFPV0lqalNZTGU0engzZkwzdW9IbXhWeFUybDR0cVJHQURYN04yZjg3RTdRQ2NSZDM0OUUzdW44LXNLSmVBak1JekpoZ0VnNjczZjJUNTM0dGkzb1pCTFpvcmluUUJDY3MwRldmTEJPeUlwbFNfMlg5aDVpOGxvbUpfNWtTa3RhNEF3?oc=5)
 
 ---
 
@@ -126,14 +110,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkNlWEZO
 2026-09-28
 
 Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
-
----
-
-### [Nach einem Mini-Schlaganfall steigt das Demenz-Risiko](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
-
-2026-09-25
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUG9aZWxmZjBXeHNRTzR0cUZuMzRHYWVSM1ViOTV6NHpiZ2I5SEh3TDhNWDBQMmZQNl9OalhCVzg0REpQbHNmbFEtTDhXX1VjM1loaUdMR2g4OExLa0NOMEdQTko4MFJCRlp5ZWNReXYzX040Uy0yM3h0cFE3emhScjdkRzY5MGtUNmc5YnJ6MGJjb3c?oc=5)
 
 ---
 

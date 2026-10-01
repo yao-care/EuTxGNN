@@ -62,11 +62,11 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW
 
 ---
 
-### [Migraines chez les femmes : ce lien surprenant avec la taille des seins - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+### [Mal di testa a scuola, oltre seicento mila tra bambini e adolescenti convivono con attacchi lancinanti al rientro in aula - Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
-2026-09-29 <span class="news-indication-tag">migraine</span>
+2026-09-27 <span class="news-indication-tag">emicrania</span>
 
-Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3V3SzZsc25YTnotS3MtaWJCaEhCM184a1kzT2l4NFNrZFFEM3ZoeG05YUJUdUM3VFhSX2xVRWtqYkMza043MWJfMmtmTERuMXloQzA3Vm1Pd25PQndNbUM1anFQbDBtdkRMUnA1TUoyU2tET2lKc1BsN180THRJU2ZJS2poTkI2OXdVMU1PdF91b3E5T3haQ3hiakpub2NHUEVjV3VhNFJDZW8?oc=5)
+Source: [Orizzonte Scuola Notizie](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXVkSTlXaDdrMUJ3NDRxcU1SS0wxRWZQcUNGTmhaVjNiUFFUUUFWaFRMQ295Q1NBLXJoc01YdlJ6dmZFOHlJYjVpcHJibmltcU5BdERmbDVfXzFla1g0bkRmdmxDUnQ3UEZjV2dkWTBhT04zbUFZb2xRZVBLd3N6dTJzc3Y2WGFjVFlIbGpMZXpqX1RyQVZsSTZjQjhrRjlZR2pLeDhVbjBabUxocnE1YldxQjdHN3gtLV90RXZfcVpWRkYyalZnam9fMTU0Z0FfUHJaNFlMUkYzajVHVHNFemF0LVJzajg?oc=5)
 
 ---
 

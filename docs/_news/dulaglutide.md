@@ -14,7 +14,7 @@ permalink: /news/dulaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Dulaglutide?">
-<strong>Dulaglutide</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Dulaglutide</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Dulaglutide with the latest 
 <p><a href="{{ '/drugs/dulaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [CGM bei Typ-2-Diabetes: Beobachtungsstudie findet 44 Prozent weniger Todesfälle](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekRxU2JrQVM2YllNUlRjRXhEeWNyWnRJNmZqVDk0S09PUFBZTzZlSGRpWUd1aXNCOWlmVjAwZEpXc1BjcDRJZWVoSk94NldzdlNha1c3eG9fa01XbFlzRzU2VERHWmJlWXEwZDlPcDJUYWVRSzB4TzVjU3V4Wm1TNk9DaVNYdEhNVlloS3dZcFdaTGI1eEhlWnVGOWtPR3o0SnUyc282ZHhzdw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">diabetes</span>
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekRxU2JrQVM2YllNUlRjRXhEeWNyWnRJNmZqVDk0S09PUFBZTzZlSGRpWUd1aXNCOWlmVjAwZEpXc1BjcDRJZWVoSk94NldzdlNha1c3eG9fa01XbFlzRzU2VERHWmJlWXEwZDlPcDJUYWVRSzB4TzVjU3V4Wm1TNk9DaVNYdEhNVlloS3dZcFdaTGI1eEhlWnVGOWtPR3o0SnUyc282ZHhzdw?oc=5)
+
+---
 
 ### [Diabetic teen had to eat life-saving glucose as family couldn't afford food - Liverpool Echo](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnhHeDNvcmRmUVRMOFQ2NEMtdnhDM3d5RkVxRHgwVEJfS3Rwa3pDSEZjeEJlUU1mMm95TGQ0UjhSR3FWUGI0c0NCNDdidkY1dlJjR0c4YldQV3ZfTm4xRUhpLWtUeXhJRWx6X2oyUTU1X3gyMGFicE1kbm4xbkRaeHluQU9oZmxPZnd6T0l6c0lqR0840gGaAUFVX3lxTFBMVjUwVVQ1TFQwZ25pV1ZVQjJ3N2ZNU2lQNFFxc3hFMTBkWEhXZVdUcFl0bURFNWlqdzlpZVdTVnlvYWhYOEluTXgzYkRmbmhFb0M5RW1HWVZDZWlmR1RCR2lGYkQxWGR1bl9uNUpRYkV5UG16dk85Q2dBSjV2d05jajhvb0tPQ0h6MWZfdjNiUWxhRkpJdTZkS3c?oc=5)
 
@@ -100,11 +108,11 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMH
 
 ---
 
-### ["Mio fratello ha cominciato a non camminare, non si muoveva più. Dopo l’infarto ha preso dei nuovi farmaci dimagranti e gli è cambiato il carattere": il racconto di Rosanna Lambertucci a "La volta buona"](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
+### ["Mio fratello ha cominciato a non camminare, non si muoveva più. Dopo l’infarto ha preso dei nuovi farmaci dimagranti e gli è cambiato il carattere": il racconto di Rosanna Lambertucci a "La volta buona" - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabete</span>
 
-Source: [ilfattoquotidiano.it](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
+Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNV9EejVfcDJ0eVlDbmptRW13T0UtSndweU5IaW9rYlViTElvOEk4R1F3d3Z0cVFPV3hwd1Fyb3VsYkt6WnVCeGJvbEJTUjMzaW02Zm9YOHExbUNHRVZnTTh3aC1HS2ROTE1CUVMxQk54eS0tTzlXTkRZb2F0VktRWWlMRVNWa0xJdzhfOWdHcWduU3VOQW1BcTgtTTE5aU9GNEJlenBudXZydzlmMkpyTTN4Ni1FLWtPd1k2MDRMdnZISVBzTUJtRkpSbzlERkU5bG40Z1BBZFJvcEZ0U1ZtSmh0WGg2OXFPU00wNzZRNG53bXpSTTJfLVU2N2liMHkxWF9BXzRLd1VMb01acGc4TV9lalNNNkFEeGNiQ0w3RW5wV2tDYkJFb3BJYkF6eHhlQlVlanZnRk8wanNLbTZaYmdwZDdKTFM2V05kUnNDNFlKVGEzSGc?oc=5)
 
 ---
 
@@ -140,14 +148,6 @@ Source: [sanitainformazione.it](https://news.google.com/rss/articles/CBMiwgFBVV9
 
 ---
 
-### [Diabete, l'uso di semaglutide non aumenta il rischio di tumore al pancreas. Lo studio](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
-
-Source: [tg24.sky.it](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUnlyVkFFaTdUUVdsLWNjQ3NVZFE0RDJnVXNoSDNPbEVHRkVmdkxtclFSb0x3UFVNTnkxWmhwVlRqWUNhamxBeWtYejJ0SjAwdGhkNzlfS19zYzlka0RsYUlwWnk1b2lMLWFEcVJrNnl5dFZ0My1OQ1JfVzBhNWRtMnh3NDlGSUZPMnFzRE5DWmVxNUFsZ3Jv?oc=5)
-
----
-
 ### [Pflegepersonal, Diabetes-Schulung und KI-Akzeptanz: 94 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
 
 2026-09-28 <span class="news-indication-tag">diabetes</span>
@@ -161,6 +161,14 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+
+---
+
+### [Empfehlungen zum Umgang mit psychischen Belastungen bei Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
+
+2026-09-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2ZCUU1sTnZIOFZBLXB5UTlqb3ZaWmc1Y3ZRYkJfdk5ZOURFX0lWS20tNHR0UnFvYk1qbWpRangxcE5iSG55UjlQN0RTYWRkMlNBSUJjd1NtZTRrMmg4VWFFUU0tWkdYMTgtbDBGVHdTOXN0T3Y2aHFiLWwtSTAwQ183RDJnRjdNWnoxc0FfZFB5ejFLTmx6TDc5aHJLcFIwWTdjZ2lxdG5NWlZhdVp4M0hwZ0VucmxaR1JUOHZSVnpIX204d3ZtWW1BVWY1QQ?oc=5)
 
 ---
 
