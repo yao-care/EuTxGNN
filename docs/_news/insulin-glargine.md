@@ -14,7 +14,7 @@ permalink: /news/insulin-glargine/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Glargine?">
-<strong>Insulin Glargine</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Insulin Glargine</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Insulin Glargine with the la
 <p><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (17)
 
-### [Rotes Fleisch: Hohe Neu5Gc-Aufnahme mit 63 Prozent mehr Diabetesrisiko verbunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWdaTFl5eXl2NkZFZ3YxMF9TNW5VZzM3TXV3ZnJrSW0yejg0dGdXVkFpMWtHNTRUYlZpbmVjLTdrTmFhbDJ3Y3VGVU01dXo1WDZpdjg3eGFhS3UxckZZRC1Eb080eV9EWGZCc0J6cG0tWFdUdU9fSDBUNUZUS0pPdWpjelpVbnA2Y1lwTk8zNmhHT09uM29ySnpxWVZoYmhVd3hNTWRUSE1fbndNeGdhSjVHWWdNMGJIdHc?oc=5)
+### [Ein Stoff in rotem Fleisch könnte Diabetes begünstigen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWdaTFl5eXl2NkZFZ3YxMF9TNW5VZzM3TXV3ZnJrSW0yejg0dGdXVkFpMWtHNTRUYlZpbmVjLTdrTmFhbDJ3Y3VGVU01dXo1WDZpdjg3eGFhS3UxckZZRC1Eb080eV9EWGZCc0J6cG0tWFdUdU9fSDBUNUZUS0pPdWpjelpVbnA2Y1lwTk8zNmhHT09uM29ySnpxWVZoYmhVd3hNTWRUSE1fbndNeGdhSjVHWWdNMGJIdHc?oc=5)
+Source: [FITBOOK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
 
 ---
 
-### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+### [Nueva prueba de autoanticuerpos busca detectar diabetes tipo 1 antes de la aparición de síntomas](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenBzb1pOcGFMemFETHhDcGZNSVQyUzQ5czVoeXpKRXFVb3FlaHdPc24ySm5QRU1mWlk2NVRSUkRIcF9YZEpoUXJzbVRHQ0JMN0RlR01xODNtRXdWMzZBNFY3VEkxaVB0LXVROWUyVGxVcWNVVDhwR05RcW1va3o4ZF9OU0JzTnVYRHRfNFg3ZlRKVi0zcVVYSDJNNHZPWjNRMkhJYWo4T0g1UVNlWDRrTVh5QVBVWHRvMHlOd0YzWTM1akdLNHBfVVVBXzhPem9CWnllVHlISUx5eTUwY3RnaVZyN2F3Vy14d1hlejZR0gH3AUFVX3lxTE1PWXg2SVdWcWJHNHl2SVRfbFoycmdtZml4a0ZJSTh1SkdtNnJlelJ5bXJXUDMtTlZFa3A4OTVRaVBjc3F1TzBheUNZeWEyUkNSSWdMYlhYS1ktY08yZERLMVFBS19fUTFiTnJ5VWRvQ2VZNXhNZThqYndnUGtEQXVzOXZnM1VMNzBRWTRBLXdJZXJjS0xoRmFXTUMyck15Rm9naXFwYlJJUmRBYng3cDB6UlRLQ2pPSnhXSFhSZzg4Q2xNMXJoRXpVRDg3aXZIRDRtTnNId3ItUmR2aWZzTU1lbG8tZWpSM1hiRkVoMHBYeEZyUGFFTTg?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-02 <span class="news-indication-tag">diabetes</span>
 
-Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+Source: [labmedica.es](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenBzb1pOcGFMemFETHhDcGZNSVQyUzQ5czVoeXpKRXFVb3FlaHdPc24ySm5QRU1mWlk2NVRSUkRIcF9YZEpoUXJzbVRHQ0JMN0RlR01xODNtRXdWMzZBNFY3VEkxaVB0LXVROWUyVGxVcWNVVDhwR05RcW1va3o4ZF9OU0JzTnVYRHRfNFg3ZlRKVi0zcVVYSDJNNHZPWjNRMkhJYWo4T0g1UVNlWDRrTVh5QVBVWHRvMHlOd0YzWTM1akdLNHBfVVVBXzhPem9CWnllVHlISUx5eTUwY3RnaVZyN2F3Vy14d1hlejZR0gH3AUFVX3lxTE1PWXg2SVdWcWJHNHl2SVRfbFoycmdtZml4a0ZJSTh1SkdtNnJlelJ5bXJXUDMtTlZFa3A4OTVRaVBjc3F1TzBheUNZeWEyUkNSSWdMYlhYS1ktY08yZERLMVFBS19fUTFiTnJ5VWRvQ2VZNXhNZThqYndnUGtEQXVzOXZnM1VMNzBRWTRBLXdJZXJjS0xoRmFXTUMyck15Rm9naXFwYlJJUmRBYng3cDB6UlRLQ2pPSnhXSFhSZzg4Q2xNMXJoRXpVRDg3aXZIRDRtTnNId3ItUmR2aWZzTU1lbG8tZWpSM1hiRkVoMHBYeEZyUGFFTTg?oc=5)
+
+---
+
+### [Lilly busca igualar el acceso a tratamientos para diabetes y obesidad en países de renta baja y media antes de 2040](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2d
 
 ---
 
+### [La monitorización continua de glucosa se asocia con menor mortalidad en diabetes tipo 2 con insulina basal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWhFUGVmNGNnRVl2ckV6TTIxclZ3a1pLakthcmlRYUdIMmlaclJEdlE5djBNYjI4RHg2UmlhN1B0S0RBSUF0Qk04UzdFZWpySVk5c3FYcjhzejVoc29xdXkxakFjNGJYWVRtMUpEcjFaVlBDQXVPcGxJM3UxbXNQcktiX0VGbjdDYlI0cWhhakNwU29FTWlVMll4cndYc2syWGdVb1pjR3BCa0dXVVQ3Ry1yNElsc0xua2JIbldyaU1US2Q0QWV6ZmlFUE1OWDNQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWhFUGVmNGNnRVl2ckV6TTIxclZ3a1pLakthcmlRYUdIMmlaclJEdlE5djBNYjI4RHg2UmlhN1B0S0RBSUF0Qk04UzdFZWpySVk5c3FYcjhzejVoc29xdXkxakFjNGJYWVRtMUpEcjFaVlBDQXVPcGxJM3UxbXNQcktiX0VGbjdDYlI0cWhhakNwU29FTWlVMll4cndYc2syWGdVb1pjR3BCa0dXVVQ3Ry1yNElsc0xua2JIbldyaU1US2Q0QWV6ZmlFUE1OWDNQ?oc=5)
+
+---
+
 ### [Diabete, l'intestino può anticipare il rischio: nel microbioma una firma di 789 batteri](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTVJOQ3pRcldMclZQcncwMjBmc1FMaEg2bjdUaG1VX2QxR25NcHNralppbmJDdUVtaWd3ZWhoSDZSTkV1YUJDVnJmYnlDeXNDUjYzcF9oNlM0LXJ3ZkNKMm9uM2ZieF9rQTQ3bkFFM1ZHUTNiN1daOVhRRWpoMnUwZFpEcjMxVUlWUF93WW1ocmZGM2dfeHN1czNoVVgzS3QxTW1ad2hvTG80T09maXJMU2dsdjNRdGlzQWxKMDltQ25qWU5SLXBSclVsQVdWSHZnNktTNmI0cVVMU3EtcWc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">diabete</span>
@@ -110,11 +126,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV9
 
 ---
 
-### [La monitorización continua de glucosa se asocia con menor mortalidad y menos complicaciones cardiovasculares en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkhUMmgtU1hEWVY2UlV2aWxFTjI5WTVMY0hSdzEzNTJkb2l3Q01mbmFwdjd4MHd1WHpDRFdFdWRDeENja3drZlJpZUtBN2tIdXR6aVVKTXZleDZJaWFUWUV3S043ZlVYSUFTb0JiMXJrZFVabmFGQXZDdjRGbktwcF95d2ZZWkFZUGJ0Y215STllaTJtcWdkSUhhcWRkalluTHZ3RXZUMWhKSkE4NnB4aURzX3VlS1FYOW9qX3JPRjXSAbsBQVVfeXFMTVRLemNYVS10ell6dkxockZ4azdudXR0RnFGVkhzNEVST0x2NVY4NzJJMVFyYjh6T0tVMGoyZURUaExncTV6TVdkNWhHNjJGQXhROFkxSFJuaUFmcjRWU0QxNTBCb3Ztd3pVRHdLcG1VTkR0RmROTkhtTThpSS1GQTBGZEtveG14MExma1FQbnRGc0d6dGM2LTdVeXVKOWV4MmJNOEdubFl4YVMxSmNEZEgzUXNmdy02WmVlTQ?oc=5)
+### [Orforglipron: il farmaco contro l’obesità funziona anche contro il diabete di tipo 2](https://news.google.com/rss/articles/CBMifEFVX3lxTE1iTFU3dGY5cDhNbzVtNUZpQUpTOEFlMWtpYXBPLXE1WVk4RU9aT0Z6ZEd3WHZYcXlwZXZrVWRyWE84YUdwZjY2T0U5MFBlSTZ0UHhWVDB5anc3WDNJX1E4SFNtZzlpMU9tSFB5VXd3dmljNE91VTFMYmMtSjQ?oc=5)
 
-2026-10-01 <span class="news-indication-tag">diabetes</span>
+2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkhUMmgtU1hEWVY2UlV2aWxFTjI5WTVMY0hSdzEzNTJkb2l3Q01mbmFwdjd4MHd1WHpDRFdFdWRDeENja3drZlJpZUtBN2tIdXR6aVVKTXZleDZJaWFUWUV3S043ZlVYSUFTb0JiMXJrZFVabmFGQXZDdjRGbktwcF95d2ZZWkFZUGJ0Y215STllaTJtcWdkSUhhcWRkalluTHZ3RXZUMWhKSkE4NnB4aURzX3VlS1FYOW9qX3JPRjXSAbsBQVVfeXFMTVRLemNYVS10ell6dkxockZ4azdudXR0RnFGVkhzNEVST0x2NVY4NzJJMVFyYjh6T0tVMGoyZURUaExncTV6TVdkNWhHNjJGQXhROFkxSFJuaUFmcjRWU0QxNTBCb3Ztd3pVRHdLcG1VTkR0RmROTkhtTThpSS1GQTBGZEtveG14MExma1FQbnRGc0d6dGM2LTdVeXVKOWV4MmJNOEdubFl4YVMxSmNEZEgzUXNmdy02WmVlTQ?oc=5)
+Source: [open.online](https://news.google.com/rss/articles/CBMifEFVX3lxTE1iTFU3dGY5cDhNbzVtNUZpQUpTOEFlMWtpYXBPLXE1WVk4RU9aT0Z6ZEd3WHZYcXlwZXZrVWRyWE84YUdwZjY2T0U5MFBlSTZ0UHhWVDB5anc3WDNJX1E4SFNtZzlpMU9tSFB5VXd3dmljNE91VTFMYmMtSjQ?oc=5)
 
 ---
 
@@ -126,19 +142,11 @@ Source: [CardioInfo](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFozT0
 
 ---
 
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
+### [Roux-en-Y-Magenbypass: Cochrane sieht stärksten Nutzen bei Diabetes](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkRBZUFpeUNmQ0w3cmVTWnNwRGtjNmZ1VkU0b3NubTRHZ25qNVJoOGE3Umt2a2JjTHhaZWhncnMzSUduM2cwUnJCMEtNVklXZFVtUFZzWjRLejcyY1RuQksxaWhmamw4SmFQcVUzd3hDa0JuMXJ1emJZdlZheGpQcWpmOVNXOGNfd3VOZHI0NjBjQWdnMUJlbklZUTZJaHJ4cXd0RUVjZFV4MkJXYnd6SWRFZ1g5MWc?oc=5)
 
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-09-30 <span class="news-indication-tag">diabetes</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
----
-
-### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
-
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkRBZUFpeUNmQ0w3cmVTWnNwRGtjNmZ1VkU0b3NubTRHZ25qNVJoOGE3Umt2a2JjTHhaZWhncnMzSUduM2cwUnJCMEtNVklXZFVtUFZzWjRLejcyY1RuQksxaWhmamw4SmFQcVUzd3hDa0JuMXJ1emJZdlZheGpQcWpmOVNXOGNfd3VOZHI0NjBjQWdnMUJlbklZUTZJaHJ4cXd0RUVjZFV4MkJXYnd6SWRFZ1g5MWc?oc=5)
 
 ---
 
@@ -150,6 +158,14 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMixgFBVV95cU
 
 ---
 
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+
+2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+
+---
+
 ### [Diabete di tipo 2: nuove ipotesi sull’efficacia del monitoraggio continuo del glucosio](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeTdDMUk0YmVSTjFXeWJndU13RnVKcGpwWHNlLXFCOUFZbURoUGZzN3puTGJmb2Etek8tZ3ZnZWM2MFlnMzgtMmZsdEwxTGdnVTZZLUtGMHEtcTk5RFpHcXhEZVNhMHVoeENfd0FrcXRKMHhyRkp1bWloRkQ2NEhPMC1nT2phLWFMd2tjc1FGQVo3R3l5V29uT1NoRTBUVlRpdkY2MnZReUtEMWdwU2E4Sm5DUzlBQkt5UENCSndkT3hOTFE?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabete</span>
@@ -158,19 +174,19 @@ Source: [CardioInfo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeT
 
 ---
 
-### [Diabete, l'uso di semaglutide non aumenta il rischio di cancro al pancreas](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOW5sOTdicUZRb2lBMjB4VmJqM0kwcEpGdXZuaEVMRlNwZDlYamJlLW9Rb0xrM0J4cE5zSWxUUVBYUk12QWVCZ3JMV2xkbWVERXFoS1EtZy1tWkNzSEpVM3RoUDlPTnVGZTZjSDRHSWEwVWZCazJfNmpDLWtZM2NDZkw1bVk0bjdKLTc4Vzk3aG9RUmhfR1pFbXU5c3UxZ3BWRkF3cmtSSGFIUEpiNVRwaEwyNTNmX2NRa3FKRU1zV29VTDEtVWRNOUdNbXgwN0pFQWVYS1dSWTR2YVNxM1JjQV93VlVja2dJa0HSAe8BQVVfeXFMTWxWOXBVdk5nT21NVld4RGhmSWRyNkRPZjdoWGxYUnByVEVETGZMM3k1TVNkUm55ZmcweWpxWk12WGh2d2NzTlZ3X3pPRjJ6Xzl5LWduTkxMSmhWaUlSYWZoQWhidEs4MVRDWFczOElucktRc284QTA1ck9DVWV5MzN5UlZzSUNxak5SSDdPYzlWaFVjaWFYVXYxSi1SSGlpQ0xERWhsbmhsZ1R1V3pvZWhITnBldnVoMEczZFpZdUpCV2hoVmxpSjd3YnJza1plTGRXQ3c4dGFFTnZYaUFKSWFUcVU4b0Z0S0VIY2V6bTA?oc=5)
+### [Un modello di IA 'legge' il diabete nella voce in 20 secondi](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
 
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+2026-09-29 <span class="news-indication-tag">diabete</span>
 
-Source: [RaiNews](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOW5sOTdicUZRb2lBMjB4VmJqM0kwcEpGdXZuaEVMRlNwZDlYamJlLW9Rb0xrM0J4cE5zSWxUUVBYUk12QWVCZ3JMV2xkbWVERXFoS1EtZy1tWkNzSEpVM3RoUDlPTnVGZTZjSDRHSWEwVWZCazJfNmpDLWtZM2NDZkw1bVk0bjdKLTc4Vzk3aG9RUmhfR1pFbXU5c3UxZ3BWRkF3cmtSSGFIUEpiNVRwaEwyNTNmX2NRa3FKRU1zV29VTDEtVWRNOUdNbXgwN0pFQWVYS1dSWTR2YVNxM1JjQV93VlVja2dJa0HSAe8BQVVfeXFMTWxWOXBVdk5nT21NVld4RGhmSWRyNkRPZjdoWGxYUnByVEVETGZMM3k1TVNkUm55ZmcweWpxWk12WGh2d2NzTlZ3X3pPRjJ6Xzl5LWduTkxMSmhWaUlSYWZoQWhidEs4MVRDWFczOElucktRc284QTA1ck9DVWV5MzN5UlZzSUNxak5SSDdPYzlWaFVjaWFYVXYxSi1SSGlpQ0xERWhsbmhsZ1R1V3pvZWhITnBldnVoMEczZFpZdUpCV2hoVmxpSjd3YnJza1plTGRXQ3c4dGFFTnZYaUFKSWFUcVU4b0Z0S0VIY2V6bTA?oc=5)
+Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
 
 ---
 
-### [Prävention: Schwangerschaftsdiabetes erhöht lebenslang das Risiko für Typ-2-Diabetes](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+### [Diabetes und Schwangerschaft – Update jetzt auf diabetes-news](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDJkU1VBdG9ILXRhRjVIZDlFNWU4d3JhSGY1cWk5MndhODVrNWZfYjJZUFktQ1lWUHVTZ0ZWalhxN1hUeEpaWTJZVUg2eWJjcUVkREFTSHNBZTlLWnhOME1Jc1hub3dCdGg2VjVwUGlzR0dXS0tyRlBYdC1MdGVjYjU0LUNaeVRxR0hrNjE1SDRieUg0VTROeTBiejhEODRidXNrWXA3WFRCazFQT3NPUEpaU3BUM0wtTjdmbGVsdW5IY1dpbUdoTnJzc0hmb1hfeHc?oc=5)
 
-2026-09-27 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEdkNFBOUXlJUk1tUzNSVUhma0hpWEpiRVM5MU5hcWtEYllkM0xfenhwcGVKSHMxLU9QTnNuakZjRmFLTEdVcnNLUWotc0lPal9QSEh0RjZQdkRUcTdpc0xmbnp6akczTGNqcllObmQzdm5nY0pBVGhKVzNlbEJ2R1htUWhEc0UtV0ZOWXdveVZFM08zcFdDaUlqLS1pMmJfX09Va0RuSQ?oc=5)
+Source: [diabetes-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcDJkU1VBdG9ILXRhRjVIZDlFNWU4d3JhSGY1cWk5MndhODVrNWZfYjJZUFktQ1lWUHVTZ0ZWalhxN1hUeEpaWTJZVUg2eWJjcUVkREFTSHNBZTlLWnhOME1Jc1hub3dCdGg2VjVwUGlzR0dXS0tyRlBYdC1MdGVjYjU0LUNaeVRxR0hrNjE1SDRieUg0VTROeTBiejhEODRidXNrWXA3WFRCazFQT3NPUEpaU3BUM0wtTjdmbGVsdW5IY1dpbUdoTnJzc0hmb1hfeHc?oc=5)
 
 ---
 

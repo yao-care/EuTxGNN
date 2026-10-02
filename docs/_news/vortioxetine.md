@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Un estudio sugiere que los pacientes con depresión tienen menos síntomas si comen menos alimentos ultraprocesados](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXpVeHVBaWktMjhzNFFvNEM0MUxMVVBVMmZNeEtoVDVvaWhKWmpwTjBtdk5VMWJZMjA5ZlhkWFMwRVpwNmJnYnRWR2ViVDdyajB5azVlMWppNzl0VTdnM1lPaUN3NGE4Z0QxZGYyY0hEekpodlFBOGxpc2l4N2ItMGZQdnpMdVhaRENMaDhJMWk0ZGVBT2gyTWJYNVdrbmQ1NG05a2ZkUi13N1c5T09LTXRBYklEaTlrenpiMTZ3VUpIS2JXX1FETHhXOGdfVDF4b0HSAdIBQVVfeXFMTjd6VC1mOGtkMEpCZjRuUXRCUG8ySnNsblViN25zTVlIaUhTZzNrbDQ0Z2dEeGQ2TUZZeFBiLVJUVzA1SHJoX0pkeHZBSENiYVlERlR1Wk9xblZYdm5YYXEya0YyRzdHemRtbnlRWHlmQlQ2MEtjcDVPTHh3aGs1UV92UzBkSy1xaEdJblNzZnlTZGtLekROcnlIRTNnTDdfSGJkNXF0SWp5OWRORF8tVTFNM0ZHX0pqRTE5WDcyVVB6NFBIYlZYS0ZOUHloQ3dydWJB?oc=5)
 
@@ -70,19 +70,11 @@ Source: [infocop.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1p5a2
 
 ---
 
-### [Un estudio propone un enfoque basado en la neurobiología de la depresión para su diagnóstico](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3NkaGdpamxNWUVZeEdGM2ticXZkdnExMDFLbDZnNi1TZmNBcHh1M1JDNGVtRElmZGdkUnpHaUhDQkVLa1lCZnFLb1VrajlRbWp0c1ZPWDVicmQ3Q01hNEJzeWQ4bkhDNVpqUVNKc1ZkRjdXOW1IZk15a1pZYldQQUMxLVdFNElSM3hUYndRS0V3d2hrNi16bk9KcWMxMXRaNFZOcnhRek9Kb2JSaU9PUjlodlR2VzRRZHNYNEZIVnpfSnYwZzNJN2VhV1c2Ql83VzlHN0JGWQ?oc=5)
+### [La conectividad cerebral abre la puerta a una clasificación más precisa de la depresión - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBNT0dIcE1ZdTRaTk9YTnlvZTN2TmxVQUVJazBpODNBaS1FTUR4Y1BBbEtHNWdRcE1oS1VOSmI5ZDk0elFlSVNUSUg5MGRLREFDcG1sLTAtWHlOX3N5RURrODFPMUJ3SnZDaHZFbm5SU0xpdkktc25SeEg3ZmNGeF9FRVplMUFxUjFFcklYNXFtbGFmRGFNZXhXeEI3b2dwbC1VX1hEeW04WTRpUlRiM2UtUzNjT1hIZWkxM0ZwVlLSAbsBQVVfeXFMTjFSbDU2R1BVUzdsRWNFeC15TzBmNzRFX1AxR216VlFhTzVXRU9QRlI1cWpxcklsaEVlYnZBZUdVTXNUb3VuUi1UZ1NKS2NPcVlkdTdyZk8wOVNMUENncFE3NEVGbWR6QmRVaS1hWVowOXZ3bWR5VE1JTHJwV1lER25GMFJkZE1uQXFkUTd6cXVscFlEQS1zRVNVQm53cENjTWU4c09NMnNLZ2xzaVBFX1ZZbjUyMDk2cjZQTQ?oc=5)
 
 2026-10-01 <span class="news-indication-tag">depresión</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3NkaGdpamxNWUVZeEdGM2ticXZkdnExMDFLbDZnNi1TZmNBcHh1M1JDNGVtRElmZGdkUnpHaUhDQkVLa1lCZnFLb1VrajlRbWp0c1ZPWDVicmQ3Q01hNEJzeWQ4bkhDNVpqUVNKc1ZkRjdXOW1IZk15a1pZYldQQUMxLVdFNElSM3hUYndRS0V3d2hrNi16bk9KcWMxMXRaNFZOcnhRek9Kb2JSaU9PUjlodlR2VzRRZHNYNEZIVnpfSnYwZzNJN2VhV1c2Ql83VzlHN0JGWQ?oc=5)
-
----
-
-### [Blueberries can modify the gut microbiome in older adults with mild depression - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
-
-2026-09-29 <span class="news-indication-tag">depression</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBNT0dIcE1ZdTRaTk9YTnlvZTN2TmxVQUVJazBpODNBaS1FTUR4Y1BBbEtHNWdRcE1oS1VOSmI5ZDk0elFlSVNUSUg5MGRLREFDcG1sLTAtWHlOX3N5RURrODFPMUJ3SnZDaHZFbm5SU0xpdkktc25SeEg3ZmNGeF9FRVplMUFxUjFFcklYNXFtbGFmRGFNZXhXeEI3b2dwbC1VX1hEeW04WTRpUlRiM2UtUzNjT1hIZWkxM0ZwVlLSAbsBQVVfeXFMTjFSbDU2R1BVUzdsRWNFeC15TzBmNzRFX1AxR216VlFhTzVXRU9QRlI1cWpxcklsaEVlYnZBZUdVTXNUb3VuUi1UZ1NKS2NPcVlkdTdyZk8wOVNMUENncFE3NEVGbWR6QmRVaS1hWVowOXZ3bWR5VE1JTHJwV1lER25GMFJkZE1uQXFkUTd6cXVscFlEQS1zRVNVQm53cENjTWU4c09NMnNLZ2xzaVBFX1ZZbjUyMDk2cjZQTQ?oc=5)
 
 ---
 

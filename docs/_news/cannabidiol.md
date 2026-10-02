@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 
 ## Related News (1)
 
-### [Zellbiologie: Cannabidiol beeinflusst wichtige Membranlipide bei Alzheimer](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
+### [CBD bei Alzheimer? Was der Hanfwirkstoff in unseren Nervenzellen tatsächlich verändert - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk82WVRaOExLMENhbWJITWRXaHpxaWpxOHNlX2xSQktDMkxxVnNDVXFVbWhNeDI2aVRIUXF2WnpFSmM2clpHUE14WDBON0Q1NmVDLWNsRF9TOXk5SllkQjl4OW5ibHpUczRtN2EzYUxrbUJ3OFRrSDNza253b1ZmUDMyb29JQkdjek9nZGRuOGFiaGFxX0tnUUw4SVFYRWd4Tmx2Y2g0MTlWNUFPdFlqMjhXU3pHeUhtcGZwekh6QmtuVjNnNzVvcw?oc=5)
 
-2026-10-01 <span class="news-drug-tag">Cannabidiol</span>
+2026-10-02 <span class="news-drug-tag">Cannabidiol</span>
 
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk82WVRaOExLMENhbWJITWRXaHpxaWpxOHNlX2xSQktDMkxxVnNDVXFVbWhNeDI2aVRIUXF2WnpFSmM2clpHUE14WDBON0Q1NmVDLWNsRF9TOXk5SllkQjl4OW5ibHpUczRtN2EzYUxrbUJ3OFRrSDNza253b1ZmUDMyb29JQkdjek9nZGRuOGFiaGFxX0tnUUw4SVFYRWd4Tmx2Y2g0MTlWNUFPdFlqMjhXU3pHeUhtcGZwekh6QmtuVjNnNzVvcw?oc=5)
 
 ---
 

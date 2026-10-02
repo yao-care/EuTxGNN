@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Investigadores analizan el uso de una dieta medicada para gatos con enfermedad renal crónica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlVXTmtLaTJ6aEpDbWo0SlFtOXUxTVozX0IzWFhpR0NTd1J2Y09YQ2IzMzk2bVd6RXBhVnBpbkV0eWNrc1NEX1hVMjRIZGxiNlQtaWFUaThDNUxqX0Rwemw5NEZja2I0N3RiYXZFWHRXbTJXODlsRW5ObDZtZTBick5jUFVqSmM1SHhMVHl1eWlzYThtWG91OFNKQ3V3d1Z0UFEycUozMXJaR2vSAbABQVVfeXFMTmtKZjlVZUNrb2NiN1NJWlRiQ3FNUWc3X05RRU4zUFhXbWotS256UEVuR29sV2FvNU95YmlJRGVORURZN09tR2QyaVBtSXBtMjVfR3NIeVBvRTIteW85cDVXbU41TUpPb1J5U0Y5ckVMOGNMQ1o0WmZJODBoOE55akU5Q2VBSnFEeWgxTWxad3R5MnlsU1R2ZEstN3MzUjdxNFJUMWNrV0dMNjZLMVV6N1c?oc=5)
+
+2026-10-02 <span class="news-indication-tag">enfermedad renal crónica</span>
+
+Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlVXTmtLaTJ6aEpDbWo0SlFtOXUxTVozX0IzWFhpR0NTd1J2Y09YQ2IzMzk2bVd6RXBhVnBpbkV0eWNrc1NEX1hVMjRIZGxiNlQtaWFUaThDNUxqX0Rwemw5NEZja2I0N3RiYXZFWHRXbTJXODlsRW5ObDZtZTBick5jUFVqSmM1SHhMVHl1eWlzYThtWG91OFNKQ3V3d1Z0UFEycUozMXJaR2vSAbABQVVfeXFMTmtKZjlVZUNrb2NiN1NJWlRiQ3FNUWc3X05RRU4zUFhXbWotS256UEVuR29sV2FvNU95YmlJRGVORURZN09tR2QyaVBtSXBtMjVfR3NIeVBvRTIteW85cDVXbU41TUpPb1J5U0Y5ckVMOGNMQ1o0WmZJODBoOE55akU5Q2VBSnFEeWgxTWxad3R5MnlsU1R2ZEstN3MzUjdxNFJUMWNrV0dMNjZLMVV6N1c?oc=5)
+
+---
 
 
 <div class="disclaimer">

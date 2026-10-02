@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (5)
 
 ### [Gehirn: Wie sich Schlafstörungen auf das Schlaganfallrisiko auswirken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVpb0hRT0k1MS04V2pPdjItMXd3SmoyaFJUYks5YVVtdTdURGF0UDhWdVFuSDdmS2lOb25INVJsdEgxaTBkdVUtbzQ5Q0xWbVdHblNEaE9CcG1tYUp1ZUk0TG5jbzhKbDhRTm15YkxIN1h1WXFhcUE5MXJBdGQybGQ1bDVKdmVUUWNjcVhIRTBsYTlib1RhZ2Nmd0RPZ19aYnpEMFl3NnlTaGRqUmNmR2V4QjJsLWFqdjFFbk1aOFVsVGo2S3ZiMDQ?oc=5)
 
@@ -78,14 +78,6 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2d
 
 ---
 
-### [hsCRP und Herzrisiko: ACC empfiehlt zusätzlichen Blutwert zur Einschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnAtcFlQb3RKVl8yaURLMTNaUXgtRl9jYnlselM4MGdKNlpYVnNrWno1ak1QQ1FOVjluY2d5blBSLTVhOXgwRVRqNTFlaV8tLXRoejh6SkJqYlJONUh3VDNwSTIzLV9NbUhBRE5Vd29JZTIzd0gtOTZnVmdEcnV5S1piVWh4b1lJRVZLY3FWVnJVWDgyd2tqaTJ0bENIZ01hX3poMENqbnZzWURVMDBYc3Y5dGpQV1V3OTV2ZVhQNFJaUQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnAtcFlQb3RKVl8yaURLMTNaUXgtRl9jYnlselM4MGdKNlpYVnNrWno1ak1QQ1FOVjluY2d5blBSLTVhOXgwRVRqNTFlaV8tLXRoejh6SkJqYlJONUh3VDNwSTIzLV9NbUhBRE5Vd29JZTIzd0gtOTZnVmdEcnV5S1piVWh4b1lJRVZLY3FWVnJVWDgyd2tqaTJ0bENIZ01hX3poMENqbnZzWURVMDBYc3Y5dGpQV1V3OTV2ZVhQNFJaUQ?oc=5)
-
----
-
 ### [Extremer Mineralstoffmangel imitiert Symptome eines Schlaganfalls](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZnQtSmd2Rm5kc3JYOWdaTjFYSzlhSE1VLXFnSTVSV3VSSnE0QnF3Y3VZbDdxay1ESUNXNnFzSUNGYWR3NEF3X25pdmtBNzY3QmxBTVc4OTZEX0UtT3pNaWxoU000b2QxU01BS2pkS083azBBZE5FcXJNRUt4bERWRVdsd3p5MkxTOU04dTJsM1VDV2tqaEF1TjBhRmVFd215dFdsUVZVSS12UndTUmY0cy11NV9xWHBLVktIUmZSb2ZYR0ZpRmhsV0RDX2lJUW5JaDhJa2tNVGhBdE45YmQ2TGp3?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
@@ -94,27 +86,11 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4gFBVV95cU
 
 ---
 
-### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">AVC</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
-
----
-
 ### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
-
----
-
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">AVC</span>
-
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 

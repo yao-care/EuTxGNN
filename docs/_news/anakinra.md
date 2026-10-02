@@ -52,11 +52,11 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zellen halten drei von sechs Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
+### [Rheumatoide Arthritis: CAR-T-Zellen halten drei von sechs Patienten in Remission](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">arthritis</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
 
 ---
 

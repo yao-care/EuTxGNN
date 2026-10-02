@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
+
+### [La cardiopatía isquémica lidera la mortalidad mundial mientras la COVID-19 sale del ‘top 10’ - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+2026-10-02 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+---
+
+### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
+
+---
 
 ### [Gehirn: Wie sich Schlafstörungen auf das Schlaganfallrisiko auswirken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVpb0hRT0k1MS04V2pPdjItMXd3SmoyaFJUYks5YVVtdTdURGF0UDhWdVFuSDdmS2lOb25INVJsdEgxaTBkdVUtbzQ5Q0xWbVdHblNEaE9CcG1tYUp1ZUk0TG5jbzhKbDhRTm15YkxIN1h1WXFhcUE5MXJBdGQybGQ1bDVKdmVUUWNjcVhIRTBsYTlib1RhZ2Nmd0RPZ19aYnpEMFl3NnlTaGRqUmNmR2V4QjJsLWFqdjFFbk1aOFVsVGo2S3ZiMDQ?oc=5)
 
@@ -78,19 +94,11 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2d
 
 ---
 
-### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
 
 2026-10-01 <span class="news-indication-tag">high blood pressure</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
-
----
-
-### [hsCRP und Herzrisiko: ACC empfiehlt zusätzlichen Blutwert zur Einschätzung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnAtcFlQb3RKVl8yaURLMTNaUXgtRl9jYnlselM4MGdKNlpYVnNrWno1ak1QQ1FOVjluY2d5blBSLTVhOXgwRVRqNTFlaV8tLXRoejh6SkJqYlJONUh3VDNwSTIzLV9NbUhBRE5Vd29JZTIzd0gtOTZnVmdEcnV5S1piVWh4b1lJRVZLY3FWVnJVWDgyd2tqaTJ0bENIZ01hX3poMENqbnZzWURVMDBYc3Y5dGpQV1V3OTV2ZVhQNFJaUQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnAtcFlQb3RKVl8yaURLMTNaUXgtRl9jYnlselM4MGdKNlpYVnNrWno1ak1QQ1FOVjluY2d5blBSLTVhOXgwRVRqNTFlaV8tLXRoejh6SkJqYlJONUh3VDNwSTIzLV9NbUhBRE5Vd29JZTIzd0gtOTZnVmdEcnV5S1piVWh4b1lJRVZLY3FWVnJVWDgyd2tqaTJ0bENIZ01hX3poMENqbnZzWURVMDBYc3Y5dGpQV1V3OTV2ZVhQNFJaUQ?oc=5)
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
 
 ---
 
@@ -110,19 +118,11 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ
 
 ---
 
-### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
+### [Fegato grasso, essere magri non mette al riparo: è la fibrosi a cambiare davvero il rischio](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
 
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+2026-09-30 <span class="news-indication-tag">ipertensione</span>
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
-
----
-
-### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">AVC</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
 
 ---
 
@@ -134,19 +134,11 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [How Fit You Are Has Nothing To Do With How Fit You Look, Says India's Top Heart Surgeon](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
+### [Pomegranate compound improves heart function by up to 80% in study](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
-2026-09-28 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart failure</span>
 
-Source: [ndtv.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
-
----
-
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">AVC</span>
-
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
 ---
 

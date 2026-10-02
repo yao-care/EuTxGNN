@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "high blood pressure (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 2 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# high blood pressure (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,21 +83,29 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
 
-2026-10-01
+2026-10-02
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
 
 ---
 
-### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
+### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+
+2026-10-01
+
+Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+
+---
+
+### [Fegato grasso, essere magri non mette al riparo: è la fibrosi a cambiare davvero il rischio](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
 
 2026-09-30
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
 
 ---
 

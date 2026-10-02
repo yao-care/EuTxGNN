@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Capsaicin?">
-<strong>Capsaicin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Capsaicin</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [La cardiopatía isquémica lidera la mortalidad mundial mientras la COVID-19 sale del ‘top 10’ - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+2026-10-02 <span class="news-indication-tag">cardiopatía</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+---
 
 ### [Topische Capsaicin-Therapie bei peripheren neuropathischen Schmerzen](https://news.google.com/rss/articles/CBMiogFBVV95cUxNclM4d3dEMXU2UGZxRzJ1VTZiY3NmNFdKd1M4eURUNlpLeUtONVFtM0JiZWEwYTJybW92UGhxSVZzUHpwckZCTkhqUFItQllmM2hTZkc5bXJrVUpZMjJNczBCbVZyTlhRZjhNWm03cnhwSTNKMVdYMEtEeXZqX0tZSHg2MjlocW9FeUR3M0d3RzJSRFZzOU9rSndOOWhkTzh2alE?oc=5)
 
@@ -60,11 +68,11 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ
 
 ---
 
-### [How Fit You Are Has Nothing To Do With How Fit You Look, Says India's Top Heart Surgeon](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
+### [Pomegranate compound improves heart function by up to 80% in study](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
-2026-09-28 <span class="news-indication-tag">heart disease</span>
+2026-09-28 <span class="news-indication-tag">heart failure</span>
 
-Source: [ndtv.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
 ---
 

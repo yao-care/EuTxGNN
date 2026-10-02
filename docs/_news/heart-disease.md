@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie cardiaque (heart disease) News"
+title: "cardiopatía (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie cardiaque (heart disease). 2 articles, 57 related drugs."
+description: "Health news about cardiopatía (heart disease). 3 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# maladie cardiaque (heart disease) News
+# cardiopatía (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie cardiaque (heart disease)?">
-<strong>maladie cardiaque (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about cardiopatía (heart disease)?">
+<strong>cardiopatía (heart disease)</strong> currently has <strong>3 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie cardiaque” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiopatía” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -85,7 +85,15 @@ This page brings together the latest health news about “maladie cardiaque” a
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [La cardiopatía isquémica lidera la mortalidad mundial mientras la COVID-19 sale del ‘top 10’ - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+2026-10-02
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
+
+---
 
 ### [La renaissance de Régis, guéri de sa maladie cardiaque grâce à l’électroporation : « Mon cœur est désormais peinard - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
 
@@ -95,11 +103,11 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ
 
 ---
 
-### [How Fit You Are Has Nothing To Do With How Fit You Look, Says India's Top Heart Surgeon](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
+### [Pomegranate compound improves heart function by up to 80% in study](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
 2026-09-28
 
-Source: [ndtv.com](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ2ZwSlVpVzVBQ0UwaGY1QXQ4R2E3SzRQeGNzbnRJd3hXTEZrOE85THM3R0NPcU5zMldjRjVlX0lKdk8zdXZmeGV3V2R0TXg2REVyNXByRjZscWlrcHBRY0thMThIUHVXblZkV0lNNXlWaWE1dk5NRWdVeFZKM2NTUmR2QnJqVmNWaTN0VnM5WHdRUEdhMkpiMm0wMzl0MVl4Qm1IbHZmcEhWT2V4VmpRX0FFUWdubURhVzBDbE1HQnZ4dWwybmdhNVJHVUVQaHBuV0s4?oc=5)
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 
 ---
 

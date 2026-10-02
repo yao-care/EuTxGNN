@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
+
+---
+
+### [Hearing aids show promise for cognitive recovery, but dementia prevention remains unproven - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
+
+---
 
 ### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
@@ -70,6 +86,14 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnp
 
 ---
 
+### [The way you talk can reveal how quickly you are ageing. Here are the signs - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDVLU0k1ek43cTFWaWN1dVVBS003QXBIZkxiZHJ3UjhDU2U4eXpvOW56RDFYYmREaHhZUmNEUGNyZmc5UWpreXcxbHRqYVdHczFDUmloWnhpVXcxU0VNelNLLUtnSnlwR0dCbTYzVEVzSkVUcXRORVY5NHNIYVJ6bXJWLUhiVE1SUHJ1UlpaVzMwdmtydzluOTdKRGFXYk5INHpDX2ZaMzZYTTNmYUdkbkx1Rmo2Nzg?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVDVLU0k1ek43cTFWaWN1dVVBS003QXBIZkxiZHJ3UjhDU2U4eXpvOW56RDFYYmREaHhZUmNEUGNyZmc5UWpreXcxbHRqYVdHczFDUmloWnhpVXcxU0VNelNLLUtnSnlwR0dCbTYzVEVzSkVUcXRORVY5NHNIYVJ6bXJWLUhiVE1SUHJ1UlpaVzMwdmtydzluOTdKRGFXYk5INHpDX2ZaMzZYTTNmYUdkbkx1Rmo2Nzg?oc=5)
+
+---
+
 ### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
@@ -83,14 +107,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzV
 2026-09-30 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xeHlwdUxHbU9ESTh4QnU5QVNwaC1YdHlZSk5FTzdmYkxIMWRpejBpaU0xWXlPUElnZll4bVZwWnBNOFo2NzdYOEJUdUlod2FUUTR2TnhrcnduTm5IZ21j?oc=5)
-
----
-
-### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
-
-2026-09-27 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 ---
 
