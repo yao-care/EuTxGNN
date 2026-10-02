@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 
 2026-10-01 <span class="news-drug-tag">Dupilumab</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
+Source: [univadis.es](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
 
 ---
 

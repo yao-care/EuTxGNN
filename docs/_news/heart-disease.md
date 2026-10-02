@@ -95,11 +95,11 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ
 
 ---
 
-### [How you eat fruit may affect your heart disease risk - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
-2026-09-30
+2026-09-28
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 ---
 

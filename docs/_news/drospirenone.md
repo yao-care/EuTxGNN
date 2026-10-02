@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Drospirenone?">
-<strong>Drospirenone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Drospirenone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">artritis</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
-
----
-
-### [Mariano Giménez, farmacéutico: “El ibuprofeno de 600 y el de 400 tienen exactamente el mismo efecto a nivel analgésico, pero el de 600 duplica los efectos adversos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
-
-2026-10-01 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">asma</span>
-
-Source: [Trendencias](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
+Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
 ---
 

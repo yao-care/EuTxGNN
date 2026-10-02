@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [La conectividad cerebral abre la puerta a una clasificación más precisa de la depresión - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBNT0dIcE1ZdTRaTk9YTnlvZTN2TmxVQUVJazBpODNBaS1FTUR4Y1BBbEtHNWdRcE1oS1VOSmI5ZDk0elFlSVNUSUg5MGRLREFDcG1sLTAtWHlOX3N5RURrODFPMUJ3SnZDaHZFbm5SU0xpdkktc25SeEg3ZmNGeF9FRVplMUFxUjFFcklYNXFtbGFmRGFNZXhXeEI3b2dwbC1VX1hEeW04WTRpUlRiM2UtUzNjT1hIZWkxM0ZwVlLSAbsBQVVfeXFMTjFSbDU2R1BVUzdsRWNFeC15TzBmNzRFX1AxR216VlFhTzVXRU9QRlI1cWpxcklsaEVlYnZBZUdVTXNUb3VuUi1UZ1NKS2NPcVlkdTdyZk8wOVNMUENncFE3NEVGbWR6QmRVaS1hWVowOXZ3bWR5VE1JTHJwV1lER25GMFJkZE1uQXFkUTd6cXVscFlEQS1zRVNVQm53cENjTWU4c09NMnNLZ2xzaVBFX1ZZbjUyMDk2cjZQTQ?oc=5)
+### [Un estudio propone un enfoque basado en la neurobiología de la depresión para su diagnóstico](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3NkaGdpamxNWUVZeEdGM2ticXZkdnExMDFLbDZnNi1TZmNBcHh1M1JDNGVtRElmZGdkUnpHaUhDQkVLa1lCZnFLb1VrajlRbWp0c1ZPWDVicmQ3Q01hNEJzeWQ4bkhDNVpqUVNKc1ZkRjdXOW1IZk15a1pZYldQQUMxLVdFNElSM3hUYndRS0V3d2hrNi16bk9KcWMxMXRaNFZOcnhRek9Kb2JSaU9PUjlodlR2VzRRZHNYNEZIVnpfSnYwZzNJN2VhV1c2Ql83VzlHN0JGWQ?oc=5)
 
 2026-10-01 <span class="news-indication-tag">depresión</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVBNT0dIcE1ZdTRaTk9YTnlvZTN2TmxVQUVJazBpODNBaS1FTUR4Y1BBbEtHNWdRcE1oS1VOSmI5ZDk0elFlSVNUSUg5MGRLREFDcG1sLTAtWHlOX3N5RURrODFPMUJ3SnZDaHZFbm5SU0xpdkktc25SeEg3ZmNGeF9FRVplMUFxUjFFcklYNXFtbGFmRGFNZXhXeEI3b2dwbC1VX1hEeW04WTRpUlRiM2UtUzNjT1hIZWkxM0ZwVlLSAbsBQVVfeXFMTjFSbDU2R1BVUzdsRWNFeC15TzBmNzRFX1AxR216VlFhTzVXRU9QRlI1cWpxcklsaEVlYnZBZUdVTXNUb3VuUi1UZ1NKS2NPcVlkdTdyZk8wOVNMUENncFE3NEVGbWR6QmRVaS1hWVowOXZ3bWR5VE1JTHJwV1lER25GMFJkZE1uQXFkUTd6cXVscFlEQS1zRVNVQm53cENjTWU4c09NMnNLZ2xzaVBFX1ZZbjUyMDk2cjZQTQ?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY3NkaGdpamxNWUVZeEdGM2ticXZkdnExMDFLbDZnNi1TZmNBcHh1M1JDNGVtRElmZGdkUnpHaUhDQkVLa1lCZnFLb1VrajlRbWp0c1ZPWDVicmQ3Q01hNEJzeWQ4bkhDNVpqUVNKc1ZkRjdXOW1IZk15a1pZYldQQUMxLVdFNElSM3hUYndRS0V3d2hrNi16bk9KcWMxMXRaNFZOcnhRek9Kb2JSaU9PUjlodlR2VzRRZHNYNEZIVnpfSnYwZzNJN2VhV1c2Ql83VzlHN0JGWQ?oc=5)
+
+---
+
+### [Gehirn: Der signifikante Einfluss von Schlafstörungen auf das Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
+
+2026-10-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ Source: [borncity.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHlI
 
 ---
 
-### [Depression rund um die Schwangerschaft mit Förderbedarf beim Kind verknüpft](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHhiMjZ4eDVCR2VOOFkwelF1dWtjTWJadV9OZEZyWm1jclJyN0pUN1NRRjMtZ24yLWg2d1FLYktVZ0gtWnlsNERUUGdlNUE5TkVlTGl6ZEtqQmRibGNlYmh5bldBVVcxZjZhRzBlWkZvUURQYXRBVG5Ud2RtT0FfNFFSM05HalVOb2pxb1FlOEdIWkg3SjZsYWZLUGZBQnNLV281WmkyamZ0T2RhdVFJTUladzg?oc=5)
+### [Blueberries can modify the gut microbiome in older adults with mild depression - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
 
-2026-09-29 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-09-29 <span class="news-indication-tag">depression</span>
 
-Source: [Scinexx](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOHhiMjZ4eDVCR2VOOFkwelF1dWtjTWJadV9OZEZyWm1jclJyN0pUN1NRRjMtZ24yLWg2d1FLYktVZ0gtWnlsNERUUGdlNUE5TkVlTGl6ZEtqQmRibGNlYmh5bldBVVcxZjZhRzBlWkZvUURQYXRBVG5Ud2RtT0FfNFFSM05HalVOb2pxb1FlOEdIWkg3SjZsYWZLUGZBQnNLV281WmkyamZ0T2RhdVFJTUladzg?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXhvay0zbWJXcDJuX0ZHV01ZbTdtUUhUMlJmZGpJRmY1TTctcTFFYm9ETkNMcFNQZElXVWZMSjNxRmE5aDRUbkZqeUtPSGY3SVNFMUZqWGJzV1dSdnNpTmhtTkRFUkd1M1hzVVF2U1M4cDhPV0t1LVJ0LWd1bC03Vm02cE03dGdyOHdV?oc=5)
 
 ---
 

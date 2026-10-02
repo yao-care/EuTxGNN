@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 9 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 8 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,13 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (9)
+## Related News (8)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 2026-10-01
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 
@@ -58,7 +58,7 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 2026-10-01
 
-Source: [EntreMayores](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+Source: [entremayores.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 2026-09-30
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0ZwM0laQnBfYkF5WGVTamdoOXNCN3p4N19oMjRBSmtJeTIzR2gyMmw2dWQ5YjZ2RUNHRHEwTzM4YjJnQlJPMzFtMXJtdUNpSHRNTjViMU5KTmZpSUVSTHNoelpfR0RxTE82QS1Ud3h0a0tVaEZMLVdTRUIzOG40cS1tR2pFamxOQW12Zmx5N1lmVXZXc0V1aDh0SDU5RGhoSk9XdlEtVjRjVUhfc3NJRnVwblpSdmNhb0VDa3lBd3E?oc=5)
-
----
-
-### [Diabete e obesità: nuove evidenze su semaglutide tra cuore, reni e sicurezza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
-
-2026-09-29
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
 
 ---
 

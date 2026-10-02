@@ -3,7 +3,7 @@ layout: default
 title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 5 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
 
 ### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
@@ -54,11 +54,27 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cU
 
 ---
 
-### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+### [Une ménopause précoce pourrait augmenter le risque de maladie d’Alzheimer](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnpyNTVNSy0zRVVKendXdHRIMWVLR3h4MkpaamJoY09zZ3ljZ3ZzOFRlZUNpX1JXZHBNbTdhTC1wMW81VHY5TmZjRUFWUDBLWl9kZmF6UC1WWWNsZDVxaGlSaGZFQ0lsUXVnR05HM0xmbmhSUEVrNVIzY2JUX21SZVRlbjQwUQ?oc=5)
+
+2026-10-01
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnpyNTVNSy0zRVVKendXdHRIMWVLR3h4MkpaamJoY09zZ3ljZ3ZzOFRlZUNpX1JXZHBNbTdhTC1wMW81VHY5TmZjRUFWUDBLWl9kZmF6UC1WWWNsZDVxaGlSaGZFQ0lsUXVnR05HM0xmbmhSUEVrNVIzY2JUX21SZVRlbjQwUQ?oc=5)
+
+---
+
+### [How Much You Walk Every Day Is Linked To Dementia Risk - HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
 
 2026-09-30
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
+
+---
+
+### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+2026-09-27
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 ---
 

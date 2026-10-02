@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 
 ## Related News (6)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
-
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
-
----
-
 ### [La renaissance de Régis, guéri de sa maladie cardiaque grâce à l’électroporation : « Mon cœur est désormais peinard - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
 
 2026-10-01 <span class="news-indication-tag">maladie cardiaque</span>
 
 Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
+
+---
+
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
+
+2026-10-01 <span class="news-indication-tag">artritis</span>
+
+Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5c
 
 ---
 
-### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW
 
 ---
 
-### [How you eat fruit may affect your heart disease risk - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
-2026-09-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 ---
 

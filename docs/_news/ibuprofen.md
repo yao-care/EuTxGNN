@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">artritis</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
-
----
-
-### [Mariano Giménez, farmacéutico: “El ibuprofeno de 600 y el de 400 tienen exactamente el mismo efecto a nivel analgésico, pero el de 600 duplica los efectos adversos”](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
-
-2026-10-01 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">asma</span>
-
-Source: [Trendencias](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFVmd3UUplVFl2bGZLZmZZd2o5U19LZnNsbl9VZzNWeUpBMnZLMEp1d1FKV1NHVVNnWkd4VVpLX1YxZGFUbExITnNFUTl3c2JGaGRWZGZCdjFBTjFrc0ctQV9lTUVBQW9tWlVFM01RUGxPbm1nT21RVTgteWdDZ3ZDUkVYeUl2cW9MZjdpMXNYSGlibE9hV3FiQUxteldwZDdZU0Vva1dQbUNjSHFfTzBsWmtkTmloNlpLRlBxWTFwOTFQYTlCWU1zZGdFMkdPY1V6NE9xNVFHNkdob19NYWhtZTdfWFJoRkpZ0gHwAUFVX3lxTE1hNWJtdGQ3aWtPU3c2ZkQ3ejBRN014dFdXeldEX0QxUHJrVG92Sk90alBXdDU5V0lFOFpsRy1CM3U1aWJNa2h4eWhrSlFXd1lWRk0teUwzNFJjVUJNRFd5MVhiMV90WDhzc0VuMUhFbUVKaWVabFk4c19KWVg5dnIyWnpsd2ZkYU11SUU2QWh3MXZfckx2YlZpTFRMQXBva05OeVhPbVFTSWNhcDVmbVg3UXgzZWlxalpqUGo2WG01OVZzWUZ5cTBmZzlaV1pZX1ZQVWNQMDhldVFyMmxRRXlFSmRVZzFLNUFQUUxNblBkRA?oc=5)
+Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
 ---
 
@@ -75,14 +67,6 @@ Source: [Trendencias](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSmFFV
 2026-10-01 <span class="news-indication-tag">arthritis</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
-
----
-
-### [New ibuprofen and paracetamol warning for anyone taking flu jab - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXc5WXNfUllJX29HUUVpNHdCdUs1ek9WeFJLdjhJRWZMSUwzYzdUWGRFYUxxZlpLSG1maGpwUHduUXZyemdYN1JfNWx1QktwMVpkNHZsdFVWQkxRZ3JoODh6dS0wMThOd1VKSC16VTZJTkk4eXhNRnJVWnh1d2FqNmMyRmJFQk5CMzljV00zUdIBlAFBVV95cUxOcmRSSHBBUnJ1MnlfTDlTeldjY19FU2dsY3lHOWctYWhGUlNVVHQxQ2h4aHlzcU1lRENvc1BwTEwyUzNvU09sdHhPM2tNc241THFBSlo2M0tzTGNJZFJNNkk4cV9mUVpLdEs0R19IenVrUGRjUW9wZU1zdWFJRkdRSjhqUlZ6US1VOXA2MC0xa2VfRy1X?oc=5)
-
-2026-09-30 <span class="news-drug-tag">Ibuprofen</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXc5WXNfUllJX29HUUVpNHdCdUs1ek9WeFJLdjhJRWZMSUwzYzdUWGRFYUxxZlpLSG1maGpwUHduUXZyemdYN1JfNWx1QktwMVpkNHZsdFVWQkxRZ3JoODh6dS0wMThOd1VKSC16VTZJTkk4eXhNRnJVWnh1d2FqNmMyRmJFQk5CMzljV00zUdIBlAFBVV95cUxOcmRSSHBBUnJ1MnlfTDlTeldjY19FU2dsY3lHOWctYWhGUlNVVHQxQ2h4aHlzcU1lRENvc1BwTEwyUzNvU09sdHhPM2tNc241THFBSlo2M0tzTGNJZFJNNkk4cV9mUVpLdEs0R19IenVrUGRjUW9wZU1zdWFJRkdRSjhqUlZ6US1VOXA2MC0xa2VfRy1X?oc=5)
 
 ---
 

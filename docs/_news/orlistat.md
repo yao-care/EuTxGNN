@@ -54,19 +54,27 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (16)
 
+### [Schlaganfall: Vitamin K gegen Verkalkungen? Diese Fakten sind wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [welt.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+---
+
 ### [Schlaganfall: Warum es immer mehr junge Menschen trifft – Forscher rätseln über Ursachen](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
 ---
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 2026-10-01 <span class="news-indication-tag">obesidad</span>
 
-Source: [EntreMayores](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+Source: [entremayores.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
 
 ---
 
@@ -104,7 +112,7 @@ Source: [112-magazin](https://news.google.com/rss/articles/CBMitwFBVV95cUxORUVuM
 
 ### [El 57,8% de los pacientes con cáncer presenta exceso de peso y el 23,6%, obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 Source: [Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
 
@@ -120,7 +128,7 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBV
 
 ### [Gehirn: Der signifikante Einfluss von Schlafstörungen auf das Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
@@ -150,14 +158,6 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR20
 
 ---
 
-### [Diabete e obesità: nuove evidenze su semaglutide tra cuore, reni e sicurezza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
-
----
-
 ### [Infarctus, AVC… l'Europe veut renforcer le dépistage dès 35 ans](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXRycTBYU3p4RmZWd05XOUp3N0tRVXE0clpobS1Tb3RxVmdIcW1JbVdwbm1pQW12S09JWnFpTUREamk1SnBkaW4tUHVuUlBDQkx0OVBBNVVNVXBsQmx4b0kxTGd2WXJOLUdjdE1WYkE2Qmx1VzlKaFhGUUtxWW83Wm5JTVUteTdpWE16UFQ4aDZ1WHAtQXlkcWVITQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">AVC</span>
@@ -174,11 +174,11 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+### [AVC chez les jeunes: «On est face à une bombe à retardement»](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [sante.lefigaro.fr](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 

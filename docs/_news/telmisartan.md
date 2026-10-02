@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Schlaganfall: Vitamin K gegen Verkalkungen? Diese Fakten sind wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [welt.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+---
 
 ### [Schlaganfall: Warum es immer mehr junge Menschen trifft – Forscher rätseln über Ursachen](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
@@ -80,17 +88,17 @@ Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ
 
 ### [Gehirn: Der signifikante Einfluss von Schlafstörungen auf das Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
 ---
 
-### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
 ---
 
@@ -99,14 +107,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3
 2026-09-30 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
----
-
-### [How you eat fruit may affect your heart disease risk - The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmh3QjlBMFRRUG1CcU1vX1FkaFBzY2R0UExsT29LalNELWYwTWxub1A5NjlsTF8zek5pOEZZdEkzeURwSEVzUTMxbHRQVEJ3WnZjc1VncnVHNWN3anNxNGowMEIzQU9KNFA2dmdjaVBlVjFra3pidnFtMVBLWEhGM1JvZ0JibzRKbkdPYnZqZ2llZw?oc=5)
 
 ---
 
@@ -126,11 +126,19 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+### [AVC chez les jeunes: «On est face à une bombe à retardement»](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [sante.lefigaro.fr](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+
+---
+
+### [A survey of 371,000 adults links heart disease to eating whole fruit less often](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
+
+2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRENNZVZLcEs0LTlITVhTSnBrM3VTdUJfZjYxSXI5WE05cloybVgyYUxWRXRVMnpZVDBlUjhTdXp2MTdZX2swbGlBZDNHZTRSWEp6MEFrcnl6RGZIbHk1dE1sVHBRVjFFUkJKUmh5TVhJVnc1YVF3R2VQZDQ3aFN1a3ZjUUlfM2Q5ZUxnNlJLX3ViWGV6YzhXcXRCYXpCejl3Z3QxQ3NDM1pwMXpHS3Joc2lEamtEOTB4STJqM0R5ZWJLZW56?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/crizotinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Crizotinib?">
-<strong>Crizotinib</strong> currently has <strong>37 news articles</strong>, with 20 predicted indications.
+<strong>Crizotinib</strong> currently has <strong>40 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Crizotinib with the latest h
 <p><a href="{{ '/drugs/crizotinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (40)
 
 ### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
 2026-10-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
+
+---
+
+### [Une ménopause précoce pourrait augmenter le risque de maladie d’Alzheimer](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnpyNTVNSy0zRVVKendXdHRIMWVLR3h4MkpaamJoY09zZ3ljZ3ZzOFRlZUNpX1JXZHBNbTdhTC1wMW81VHY5TmZjRUFWUDBLWl9kZmF6UC1WWWNsZDVxaGlSaGZFQ0lsUXVnR05HM0xmbmhSUEVrNVIzY2JUX21SZVRlbjQwUQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnpyNTVNSy0zRVVKendXdHRIMWVLR3h4MkpaamJoY09zZ3ljZ3ZzOFRlZUNpX1JXZHBNbTdhTC1wMW81VHY5TmZjRUFWUDBLWl9kZmF6UC1WWWNsZDVxaGlSaGZFQ0lsUXVnR05HM0xmbmhSUEVrNVIzY2JUX21SZVRlbjQwUQ?oc=5)
 
 ---
 
@@ -74,7 +82,7 @@ Source: [Sud Ouest](https://news.google.com/rss/articles/CBMisAJBVV95cUxOdEo3Wnd
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
-Source: [MyPetition.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE8yb3ZIZlR0SUR2SnBTNHFCUG5ncmxfcDI0YTczOW9YcWduWm5wQm1aWldsMkdHMjE5N1psNldYdWJ0eHRkbm54WGhkR1EzQU5MWnFqOXJ0WFZITUZOMHBjaTlOSlhFSk12Z2RiRUhnbzIydHN4dk1jQ3pxOVBWSHVyRjczSmw1S0tNaFdocEVycmU1OEhvdHhR?oc=5)
+Source: [mypetition.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE8yb3ZIZlR0SUR2SnBTNHFCUG5ncmxfcDI0YTczOW9YcWduWm5wQm1aWldsMkdHMjE5N1psNldYdWJ0eHRkbm54WGhkR1EzQU5MWnFqOXJ0WFZITUZOMHBjaTlOSlhFSk12Z2RiRUhnbzIydHN4dk1jQ3pxOVBWSHVyRjczSmw1S0tNaFdocEVycmU1OEhvdHhR?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ Source: [MyPetition.org](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVE
 2026-10-01 <span class="news-indication-tag">tumor</span>
 
 Source: [VareseNews](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjVMc19NQ0lGYkJROXJpLTF4QTlaaEgyVDRVeEdWaUFFUmFUSjNJMHY3WXdWWFBXYkFaeGx4d2NOQ1pWLXNEbjVKSGRpYU9nOTlWX2ozYjNtWS1SMC1rV21KdW1zVVAtOFlzeDY4M2lILUdtQmVHbUk4bTRnLXdRRWxFeHFYSjJtTjdESWNqM2o0SXZsQk5ORDJ5ejZ2RkhQdDlQS1dlMnI3cU1EYUh1elpQSG94X1FWT3YxeDdCSkxDTWp6Ymx0ZWdaMUlwRWFBTkFXNTk0MXZUcEhE?oc=5)
+
+---
+
+### [La storia di Angelica Pasculli stasera a "Le Iene"](https://news.google.com/rss/articles/CBMikAFBVV95cUxOblhMMGdBN0pRT244eGk1X1Y0QkRJN1l4ZGZsR2gycl9OOWlVU3RSRGoyT2NzakJqMmI2S0JHdnpnMU1nb1lhUnVOTUE2c3NVRWN6WHMtWnNmSWZjX3RoWlNGMy1nYzRMd19JZUhzTkZZM3VOM1ZvdVlXMDJsOERRVzlqZWVJYW4wd1BidFpYYTPSAZYBQVVfeXFMTmVRVmhfM1E1QkJtZkxPNENoWTlvbTNmOW1yZTZ4Nk85VnJUcWZpTmRVeDNFdnAwMVMwRHhJMkpBWWdlT1R6YldzR0dQOEg2Z0U2ZUx4b0Qwem0xTE9WSmJRNDE2aHNvZll5cmZNRnR6WmdJdl9VYVFySEpMa0NDWmY5aHNBY0FaODVZN0xLdUhXTEFhS0Vn?oc=5)
+
+2026-10-01 <span class="news-indication-tag">tumor</span>
+
+Source: [GiovinazzoViva](https://news.google.com/rss/articles/CBMikAFBVV95cUxOblhMMGdBN0pRT244eGk1X1Y0QkRJN1l4ZGZsR2gycl9OOWlVU3RSRGoyT2NzakJqMmI2S0JHdnpnMU1nb1lhUnVOTUE2c3NVRWN6WHMtWnNmSWZjX3RoWlNGMy1nYzRMd19JZUhzTkZZM3VOM1ZvdVlXMDJsOERRVzlqZWVJYW4wd1BidFpYYTPSAZYBQVVfeXFMTmVRVmhfM1E1QkJtZkxPNENoWTlvbTNmOW1yZTZ4Nk85VnJUcWZpTmRVeDNFdnAwMVMwRHhJMkpBWWdlT1R6YldzR0dQOEg2Z0U2ZUx4b0Qwem0xTE9WSmJRNDE2aHNvZll5cmZNRnR6WmdJdl9VYVFySEpMa0NDWmY5aHNBY0FaODVZN0xLdUhXTEFhS0Vn?oc=5)
 
 ---
 
@@ -118,11 +134,11 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjIzdG
 
 ---
 
-### [En Occitanie, des kinés "lanceurs d'alerte" formés à repérer les mélanomes](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjZSb1hwMDRxYmNlWEZ5Zkp4bzRGUWdEUHZSb0lVdzRROU9RYlpOdkxsSUFPcktveXZHYl9UY1o2YVQ4ekFjMkxhVDNqSjFjSnZOVXNuUkdmMFllM0NTYkQ4RWRxZDViWTMzZDhYOU50UjlrY2RZYUZnTldyT3d0UXVQZ2pZc1NMdmpRVWRKUFhoLUwyRE1aTVJ3b1dNX0RvZHFhcEpwal9rTEZmVnoxMFQxc3E2RXduOW1Da3FJMVBZd2dOUWNpSDh4NA?oc=5)
+### [En Occitanie, des kinés "lanceurs d'alerte" formés à repérer les mélanomes - Orange Actualités](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjZSb1hwMDRxYmNlWEZ5Zkp4bzRGUWdEUHZSb0lVdzRROU9RYlpOdkxsSUFPcktveXZHYl9UY1o2YVQ4ekFjMkxhVDNqSjFjSnZOVXNuUkdmMFllM0NTYkQ4RWRxZDViWTMzZDhYOU50UjlrY2RZYUZnTldyT3d0UXVQZ2pZc1NMdmpRVWRKUFhoLUwyRE1aTVJ3b1dNX0RvZHFhcEpwal9rTEZmVnoxMFQxc3E2RXduOW1Da3FJMVBZd2dOUWNpSDh4NA?oc=5)
 
 2026-10-01 <span class="news-indication-tag">cancer</span>
 
-Source: [actu.orange.fr](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjZSb1hwMDRxYmNlWEZ5Zkp4bzRGUWdEUHZSb0lVdzRROU9RYlpOdkxsSUFPcktveXZHYl9UY1o2YVQ4ekFjMkxhVDNqSjFjSnZOVXNuUkdmMFllM0NTYkQ4RWRxZDViWTMzZDhYOU50UjlrY2RZYUZnTldyT3d0UXVQZ2pZc1NMdmpRVWRKUFhoLUwyRE1aTVJ3b1dNX0RvZHFhcEpwal9rTEZmVnoxMFQxc3E2RXduOW1Da3FJMVBZd2dOUWNpSDh4NA?oc=5)
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjZSb1hwMDRxYmNlWEZ5Zkp4bzRGUWdEUHZSb0lVdzRROU9RYlpOdkxsSUFPcktveXZHYl9UY1o2YVQ4ekFjMkxhVDNqSjFjSnZOVXNuUkdmMFllM0NTYkQ4RWRxZDViWTMzZDhYOU50UjlrY2RZYUZnTldyT3d0UXVQZ2pZc1NMdmpRVWRKUFhoLUwyRE1aTVJ3b1dNX0RvZHFhcEpwal9rTEZmVnoxMFQxc3E2RXduOW1Da3FJMVBZd2dOUWNpSDh4NA?oc=5)
 
 ---
 
@@ -174,11 +190,11 @@ Source: [L'essentiel](https://news.google.com/rss/articles/CBMitgFBVV95cUxOSVg3S
 
 ---
 
-### [Santé. Zoladex : pourquoi ce traitement des cancers du sein et de la prostate sera déremboursé - Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnI4ZmtrM1NPamtZajN0NWFRZ1p2aFhiUWtkNmZVTzc4YVVaS2dCZWFDdlc5UmRjWmFEby12NG5XVm4wa2l4S0dTZlBsYklvQUgzbkNrbUswbGxBVmxJT2x5dVE2OVQ5aE9HRHlEbHQ5S0g2ZURmTlRxYWJkNWsxTTlwQ2R2OHVxWEFLV0xxbDBTU3U5M0tFLVhuM0FtdkJUX1B6TjhmME5zVDhTb29SYTMxa3JNMVBsQ2FvdlZ0RVV2aTU2akpGWA?oc=5)
+### [Santé. Zoladex : pourquoi ce traitement des cancers du sein et de la prostate sera déremboursé](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnI4ZmtrM1NPamtZajN0NWFRZ1p2aFhiUWtkNmZVTzc4YVVaS2dCZWFDdlc5UmRjWmFEby12NG5XVm4wa2l4S0dTZlBsYklvQUgzbkNrbUswbGxBVmxJT2x5dVE2OVQ5aE9HRHlEbHQ5S0g2ZURmTlRxYWJkNWsxTTlwQ2R2OHVxWEFLV0xxbDBTU3U5M0tFLVhuM0FtdkJUX1B6TjhmME5zVDhTb29SYTMxa3JNMVBsQ2FvdlZ0RVV2aTU2akpGWA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancer</span>
 
-Source: [Le Dauphiné Libéré](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnI4ZmtrM1NPamtZajN0NWFRZ1p2aFhiUWtkNmZVTzc4YVVaS2dCZWFDdlc5UmRjWmFEby12NG5XVm4wa2l4S0dTZlBsYklvQUgzbkNrbUswbGxBVmxJT2x5dVE2OVQ5aE9HRHlEbHQ5S0g2ZURmTlRxYWJkNWsxTTlwQ2R2OHVxWEFLV0xxbDBTU3U5M0tFLVhuM0FtdkJUX1B6TjhmME5zVDhTb29SYTMxa3JNMVBsQ2FvdlZ0RVV2aTU2akpGWA?oc=5)
+Source: [ledauphine.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnI4ZmtrM1NPamtZajN0NWFRZ1p2aFhiUWtkNmZVTzc4YVVaS2dCZWFDdlc5UmRjWmFEby12NG5XVm4wa2l4S0dTZlBsYklvQUgzbkNrbUswbGxBVmxJT2x5dVE2OVQ5aE9HRHlEbHQ5S0g2ZURmTlRxYWJkNWsxTTlwQ2R2OHVxWEFLV0xxbDBTU3U5M0tFLVhuM0FtdkJUX1B6TjhmME5zVDhTb29SYTMxa3JNMVBsQ2FvdlZ0RVV2aTU2akpGWA?oc=5)
 
 ---
 
@@ -198,11 +214,19 @@ Source: [Le Progrès](https://news.google.com/rss/articles/CBMivwFBVV95cUxPelF2U
 
 ---
 
-### [Krebsprävention: Lampertheimer Ausstellung informiert über HPV-Impfung - Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
+### ['At 56, I was diagnosed with stage 2 endometrial cancer – this is the symptom I want every woman to know' - Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTJzN0ZqODhyQmRrT1R1QWxPc0FaV0NQb2NsN2RvUFRYaTlJWklJUWtjYnFzazV5WDktaWh1QkpZMDBFTEpKdkJvLUNPQ1ZtZ0pBSHVoTjlIaGpxRzdIeUVGeHA3THNFWlBKUlB2Q2ZvNDZuTHFvdDNpem9iZlNUZlUtMzR2RlBjdERSbXJ1MXAzelpqRnc?oc=5)
+
+2026-09-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Women's Health](https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTJzN0ZqODhyQmRrT1R1QWxPc0FaV0NQb2NsN2RvUFRYaTlJWklJUWtjYnFzazV5WDktaWh1QkpZMDBFTEpKdkJvLUNPQ1ZtZ0pBSHVoTjlIaGpxRzdIeUVGeHA3THNFWlBKUlB2Q2ZvNDZuTHFvdDNpem9iZlNUZlUtMzR2RlBjdERSbXJ1MXAzelpqRnc?oc=5)
+
+---
+
+### [Krebsprävention: Lampertheimer Ausstellung informiert über HPV-Impfung](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
+Source: [mannheimer-morgen.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
 
 ---
 
@@ -211,14 +235,6 @@ Source: [Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUx
 2026-09-30 <span class="news-indication-tag">cancer</span>
 
 Source: [franceinfo](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOHh2MU5zOXhBZWYzTnM3di03QjdJMDV2bjdhckxESWtla1VZSUQ2SjBvRnJVSnBvM0p0NGszNENzUzJYMm9VZHdqZjkwbFBqZmRBa2JHaFM1OGpENDBjbzVUcGw4bk9HQzQxUjVxd3FJbkl0YjNoTExOU1FyS0pCM0htUHpMMHEyczhNcERVcnpqMjhiWkRSMU9oa3lpdDZFMGx2TnJTVFdYWERZcjRqRFRLU18xd1lMRDBFMXY2ejY2VG9la1Itd2tDaXBCS3gteU93b0laX296MGMyZHFnN0Y1MV9Fa05DeHlVSEV3QWFFWHJLZHE5Y3pIZmk5clFETXdQaElPUQ?oc=5)
-
----
-
-### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
-
-2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 ---
 
@@ -246,11 +262,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvU3YxV01WVlRxV
 
 ---
 
-### [El cáncer de tiroides no es una única enfermedad: conocer el tumor permite evitar cirugías innecesarias - Estrategias de Inversión](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5PQmVIMlZpM09TSjVGcWJpcE5uZklYdFNwZWtULVlCTjk4S2lVRFg4elFzWXhkMTU5Qk5ZX0c3UnNmTGxHbHI4cXFHRTBCb0pQOVBkc0V4WnV4UEJnY25RRUFicjhqY0NfMVpvNWFpbW5YS0pBRUcwTVNBUHRkNU1nVldLQnBfVFN0cGtTRGVNV2dCaVlENUFhZVZQOVhxVVktM2U3d1hmWFhnWVhlWk41NlJEM3MwSVZiT1VyVWpCbTTSAaIBQVVfeXFMT2tfNUFUOTdPZkFKQmltX0ZIMm84U29oa3VwVTJRQU54OG1XUnpnZ2JiakFhVTVNdnJjOWJQanJqeGNtZ0RpWWpxUWE3TWc3OTBrMW1UQnVDWkxrNVZPWERqcHpodUJscjgwSENGMzVhcWJlVzA4a0s2UFpoY3JLb1p1NGFNRUxnblNsR3Fqc3FEWGZBYkFVM0xWbDNhNmc2RkRn?oc=5)
+### [This Pill Will Change Cancer Treatment Forever](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
 
-2026-09-30 <span class="news-indication-tag">tumor</span>
+2026-09-30 <span class="news-indication-tag">cancer</span>
 
-Source: [Estrategias de Inversión](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRG5PQmVIMlZpM09TSjVGcWJpcE5uZklYdFNwZWtULVlCTjk4S2lVRFg4elFzWXhkMTU5Qk5ZX0c3UnNmTGxHbHI4cXFHRTBCb0pQOVBkc0V4WnV4UEJnY25RRUFicjhqY0NfMVpvNWFpbW5YS0pBRUcwTVNBUHRkNU1nVldLQnBfVFN0cGtTRGVNV2dCaVlENUFhZVZQOVhxVVktM2U3d1hmWFhnWVhlWk41NlJEM3MwSVZiT1VyVWpCbTTSAaIBQVVfeXFMT2tfNUFUOTdPZkFKQmltX0ZIMm84U29oa3VwVTJRQU54OG1XUnpnZ2JiakFhVTVNdnJjOWJQanJqeGNtZ0RpWWpxUWE3TWc3OTBrMW1UQnVDWkxrNVZPWERqcHpodUJscjgwSENGMzVhcWJlVzA4a0s2UFpoY3JLb1p1NGFNRUxnblNsR3Fqc3FEWGZBYkFVM0xWbDNhNmc2RkRn?oc=5)
+Source: [gizmodo.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVo2RHNhYWlkbHRzd1BZUFhneFRGMkFsc1h4UGdwbUktZXBrNEpGMXVWaDlxckg0SHNoVFJ2WFBjbXo5UDNNUFBoLVVRbXFJUVdsWlJuWjNxQndxRElnWW16N2p2cEREdTBvME9tN09pbkJWSnl1MEVrMzNrZWV5RVFkOA?oc=5)
+
+---
+
+### [How Much You Walk Every Day Is Linked To Dementia Risk - HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
+
+2026-09-30 <span class="news-indication-tag">dementia</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
 
 ---
 
@@ -262,19 +286,11 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS
 
 ---
 
-### [Attaccare il tumore senza danneggiare i tessuti sani: la dose di radiazioni diventa personalizzata](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
+### [Attaccare il tumore senza danneggiare i tessuti sani: la dose di radiazioni diventa personalizzata - La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">tumor</span>
 
-Source: [lastampa.it](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
-
----
-
-### [Tumore papillare della tiroide, essere uomo pesa sulla prognosi? La risposta è nel profilo del tumore](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSS1odjFKRjhrc2RldFVCTWVQTXIxRG1wSXh3Yl9hRzBBOGdZd0pVOHNRMFgtR3FOQ0xueEM5eTZ1T2JyQmxPQjNjRWIzRFVHVW5HTi1qeXJWNW1leVB4VkVLZjlVZVl4VXNYZnM2WWJKdmpmNnNfemlKRzcxOE1UaFdQNm9RdjVJdlBGMzIwRkh3WXRCeE40TkRYWFNOcDNCZmlCMXp0Qjh2TW1zN2h2S0pZZmM5bU9HR2dUYzhkZWpzWlNnUGE2MG5UM2hBN2tFVVR0dnYyMDI5Q3JEZHB5a0Fpc25za3BGYzlXRlV4NmY?oc=5)
-
-2026-09-30 <span class="news-indication-tag">tumor</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSS1odjFKRjhrc2RldFVCTWVQTXIxRG1wSXh3Yl9hRzBBOGdZd0pVOHNRMFgtR3FOQ0xueEM5eTZ1T2JyQmxPQjNjRWIzRFVHVW5HTi1qeXJWNW1leVB4VkVLZjlVZVl4VXNYZnM2WWJKdmpmNnNfemlKRzcxOE1UaFdQNm9RdjVJdlBGMzIwRkh3WXRCeE40TkRYWFNOcDNCZmlCMXp0Qjh2TW1zN2h2S0pZZmM5bU9HR2dUYzhkZWpzWlNnUGE2MG5UM2hBN2tFVVR0dnYyMDI5Q3JEZHB5a0Fpc25za3BGYzlXRlV4NmY?oc=5)
+Source: [La Stampa](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVVeFNQUjg0MDByYjdhWkRacmxReDRpbjZVa0JkUHEzQ2VFdWtwWmV4d1ByX2VxZmxvNVNvQlplWVhoS3ItektsSllGZnZTUW5zTUhnQmRSMGxEN3ZuMlRJQlpnMk04aW5ES0t6cTlaS3ZpSjZUaU53VUF4NGtCZ05PTk9LSk1zS2wzVlBZVmVXZkFPWjZ0ZnpzbzdxUngzRm5wakRtQVNjTXBFdmR1NUJiOXVfa0ww0gG-AUFVX3lxTE15TnM4WjRIUmljSURsOW82eVJGcXZqVGNaX1J1MzNpSnl0YXUzS283Ri1wUFlIbWxOUDlpMnB2a2xrVlRjSWF0c3QyeGh4eHpoUUNubnhfcUZxV1J5c211VEppWWh3Tms2eS1qUUJ3akZ3b1NJRTdhUi0wdVJfQkpoUXBlbTZCS25IVk9uaDlNU093NjFtM0JKYW9jRTZSTVZHVDh0M2I5M0xjRTNobnlmVzJfQnl4MWprb09kQVE?oc=5)
 
 ---
 
@@ -286,11 +302,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NdHRhUXAzUXAyU
 
 ---
 
-### [La strada che ha portato al vaccino a mRNA per il melanoma. Intervista a Paolo Ascierto](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
+### [La strada che ha portato al vaccino a mRNA per il melanoma. Intervista a Paolo Ascierto - Scienza in rete](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancro</span> <span class="news-indication-tag">MS</span>
 
-Source: [scienzainrete.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
+Source: [Scienza in rete](https://news.google.com/rss/articles/CBMixgFBVV95cUxOb2gtYmFNaXppeXFkY1ZJemVyZXJCRXVCVW16aUV1eU5va0tiLTZjLU5NQllEZVBIVThRdExYVzdTR21Pc09qWmhvZDFIcm1qTVdveGxnd3VVbU9OX19aVUQ0TGp2aTN5ZTVVelhZUU1odHhJc0RSQlRTUzZQd3NGQkRXR1pjQzBpaU5lLVpMSXI0TG9DWTJYbjY2Z3VlYkRuMDM1anE0MWdXWTl0Xy1IYnBNSGlnWlhOVTVFTUl2U256LTZXV1E?oc=5)
 
 ---
 
@@ -331,6 +347,14 @@ Source: [Telepolis](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODJrbFZ
 2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
 
 Source: [RaiNews](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOW5sOTdicUZRb2lBMjB4VmJqM0kwcEpGdXZuaEVMRlNwZDlYamJlLW9Rb0xrM0J4cE5zSWxUUVBYUk12QWVCZ3JMV2xkbWVERXFoS1EtZy1tWkNzSEpVM3RoUDlPTnVGZTZjSDRHSWEwVWZCazJfNmpDLWtZM2NDZkw1bVk0bjdKLTc4Vzk3aG9RUmhfR1pFbXU5c3UxZ3BWRkF3cmtSSGFIUEpiNVRwaEwyNTNmX2NRa3FKRU1zV29VTDEtVWRNOUdNbXgwN0pFQWVYS1dSWTR2YVNxM1JjQV93VlVja2dJa0HSAe8BQVVfeXFMTWxWOXBVdk5nT21NVld4RGhmSWRyNkRPZjdoWGxYUnByVEVETGZMM3k1TVNkUm55ZmcweWpxWk12WGh2d2NzTlZ3X3pPRjJ6Xzl5LWduTkxMSmhWaUlSYWZoQWhidEs4MVRDWFczOElucktRc284QTA1ck9DVWV5MzN5UlZzSUNxak5SSDdPYzlWaFVjaWFYVXYxSi1SSGlpQ0xERWhsbmhsZ1R1V3pvZWhITnBldnVoMEczZFpZdUpCV2hoVmxpSjd3YnJza1plTGRXQ3c4dGFFTnZYaUFKSWFUcVU4b0Z0S0VIY2V6bTA?oc=5)
+
+---
+
+### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
+
+2026-09-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Schlaganfall: Vitamin K gegen Verkalkungen? Diese Fakten sind wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [welt.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+---
 
 ### [Schlaganfall: Warum es immer mehr junge Menschen trifft – Forscher rätseln über Ursachen](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
@@ -72,7 +80,7 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4gFBVV95cU
 
 ### [Gehirn: Der signifikante Einfluss von Schlafstörungen auf das Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-01 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi3gFBVV95cUxONlVpOGRsb19OUHZQNkxsZlpaTlR2b3Z3VFdZa2dVN25OdUp1d2x0akMzU21YVnBXVW1jRXdSODhva2hkOXozbE5NUERBUmFFNTBlek9ENU9zeEtXSndLQWw1aExrYUxNZ3FQRU5Sa3BZNFhBOGZaZ1FpYzFNUFJiNVl5UzFPMDctTVZmbjA1ay1vT3VHM3dXNm5Ta3prUG9nbmlCdVU3UWZiWlkwT2tKNi1NQ3Boc0djY3BXTmlVUWgxNWhKTElRVzdxWVZlalVWNWVBWU9BSmkwZ09hWUE?oc=5)
 
@@ -102,11 +110,11 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+### [AVC chez les jeunes: «On est face à une bombe à retardement»](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AVC</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [sante.lefigaro.fr](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 

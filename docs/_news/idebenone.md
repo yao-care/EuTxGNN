@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 
 ## Related News (1)
 
-### [Cuore a rischio, il segnale può arrivare da un esame delle urine](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span>
+2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMTI3SVNXYkdzd1FaTUEwZ1BmZUx1UFVVZm5PTlF5UHlYUFIzRFN0QVo0bmlXTTZFUFJzMXh3Q2JtV29peWJyNEpHM0FtdWI1OXRzRXhLdGdvSWlTTFBMZDlHd2xmWFM5WTQ4WHBHa3ZpV012U0RWTnlCaWFYMnItbUI1cThzcGxWdUZwSWFUcHpweTNnZEZhVHQzb0xwbTkyXzBjV0FMSFgxRjBYNGJyM01FTHNfb0F0NW53VVE4VQ?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 7 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 8 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,11 +39,19 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Schlaganfall: Vitamin K gegen Verkalkungen? Diese Fakten sind wissenschaftlich erwiesen](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+2026-10-02
+
+Source: [welt.de](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcmxxMUxzb3ZpTnJCYUE0ZUZURDMyXzRyQkt2Qk9YYVVtbU9IRFRPOU5sdTJoYnVxdDdPYTNrQ3RnU3hDQmFxSmgzejRyVXNoTGpkYmZqRmtwQWNvaW90NDh4Ym9Mdmw3SUlZdFY0Q0kyRWptNlJrbThCbUF2Ync1bEpIR19jWFB2a3ZLSFlqNkdqeDlYUUJ2RnJuMXBOZkxhaVRaM0Fudi05RGtBMWh3MFhpc2RhN1FTZUhCSVFJWG8zeVNpS2RUb2s3MXplcGUzNGpfWUtfdW5LRzdMSm1sc1d1dWxZUkxU?oc=5)
+
+---
 
 ### [Schlaganfall: Warum es immer mehr junge Menschen trifft – Forscher rätseln über Ursachen](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
-2026-10-01
+2026-10-02
 
 Source: [welt.de](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTXhvOV9uaUtnVG4tX2ljUEcxeVpON2Y5dEl1anNNQWNweU5oQ0Jfc0RfZ3p3Y2F0MGY4a0dZTWp6RF9sa2NkM3ZRNXY3eWJ4cEQzUVdsZFdOUlNUQW9mNVZtRTRRY0c4dDA3QUVRc3NQazR5a2ZYQ2tUNUdEd24zOG55X2tWUzlJOEpya0RxVDY1NUZmaURldERhWDB6bmw3YjkzTFoxUUNJVjhxcXdxZXRUM3FCNDR2WlF6UVhrZG5OQ2hwc0MzSmpBaU5CY3N3VkRmRHRwTjlBYUtrWVNLa1NsSE1zdi05TUx3?oc=5)
 
@@ -89,11 +97,11 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxk
 
 ---
 
-### [AVC chez les jeunes: «On est face à une bombe à retardement» - Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+### [AVC chez les jeunes: «On est face à une bombe à retardement»](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 2026-09-28
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
+Source: [sante.lefigaro.fr](https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0swV05fTmNxR2JESzFNekJnTkxWMXBtTzlUYVBkYkkxNFlxSjhaa0VjM1RrQndXM0RKN2FMVG9oRnRodF9KdEdjdnFscV9rWGJFUHR0QzVHSzNFZEF3NllNSGVEVWxiMzlJbTRxQnZ0Y08xTFNMVEFoRmp0Qjc3a0ZVc3dEZUMydmM2VEpYMjJ4VDFhSlhVbnlTSVRLT2pPMUFZ?oc=5)
 
 ---
 

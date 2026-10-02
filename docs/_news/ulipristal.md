@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Ulipristal with the latest h
 
 ## Related News (2)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">artritis</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
 ---
 

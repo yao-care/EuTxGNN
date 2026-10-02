@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [La artritis reumatoide puede causar un daño irreversible: así cambia el pronóstico con un abordaje precoz](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV1N1OFMwLWxUSXRfUUlIVVM1OEFteEt5UjE3T2MtVElRNTF5TXlWcnVKVlV2dWxuM0Q3S2hta3JCVmVPTGJvejkxSWFVNEdpMHllbnh5UmU5Nlk1MmFUdURqcy14NGdhNTg4cS1kRWhQMWU0RHllcVpfTy1lVE9JallqRzJEaklpUEJRalNIQzZxQ19QaFpKTE1RLWxieEF6TEVWWlBuM3ZPVjRrRjBocm85UVV0ejNBSlplSGItTFU4UTNWemRhOXBueW1FLU9MSGRGcW9za2p3Umc?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 2026-10-01 <span class="news-indication-tag">obesidad</span>
 
-Source: [EntreMayores](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+Source: [entremayores.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
 
 ---
 
@@ -88,7 +88,7 @@ Source: [112-magazin](https://news.google.com/rss/articles/CBMitwFBVV95cUxORUVuM
 
 ### [El 57,8% de los pacientes con cáncer presenta exceso de peso y el 23,6%, obesidad - Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">obesidad</span>
+2026-10-01 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">AF</span>
 
 Source: [Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzVyV0k0U3E1clZ4WExDbS12MEVoMjZlMUpEcXlsd1pOS0lXRjhhUmY1c0V2aEYxX2FTcVA3V1ZxMElEN1lVbC1hcUlOUUZPbkdQNTAzZ2xaY2k1dFdWem1UaHJWX2dsMV95OVA2WFp6LV9hazhpZ1oyRGpTSkE0Tl91YmRMSWJJRzJqRWlja0paMnBpQXVxZ3k5enlTOElUR3NOckF4LVJnU29vTGk1Vy1PbjlSZw?oc=5)
 
@@ -123,14 +123,6 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0
 2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
-
----
-
-### [Diabete e obesità: nuove evidenze su semaglutide tra cuore, reni e sicurezza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHdCZU9QTl9WZVZ6S2MxV0t5Rl9vaGhHaFNqUUNwY2lSSlVDWTc4bk1Zc0w1dHNVSTFqbTdKUGdSQjFXdG9KeTg2ajBnX3lSdVZhX3VjOUNmY0FqME1ZV3VZQWhuWGVMWkxJV1k0dUh6SlEzMDZMUXZMQ3hKdXViek4tbm41NVZ3QkVlN1lDd2x5bHlDdzBoY3l1RVVrTDBUeVhRdlpLYWRieUhq?oc=5)
 
 ---
 
