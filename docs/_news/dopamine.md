@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Covid fatigue linked to reduced brain blood flow - The Conversation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb21QbHdhQWR6SUZnb0dacG53WmZlejlGa3B3TFV6a0VpZlZrQ25xYkUydklpNFA4a2FYOEswbnpnTWdBeFJ3SDJiNkYxVGQxSlY4c0RRdjBWSnZCR2liN2ZNdXhVOWNKNzRfQmNIQzVEWjVVUUVBcDRBZ1NWOHZGSzlBcU55d2hsMzNZ?oc=5)
+
+2026-09-30 <span class="news-drug-tag">Dopamine</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb21QbHdhQWR6SUZnb0dacG53WmZlejlGa3B3TFV6a0VpZlZrQ25xYkUydklpNFA4a2FYOEswbnpnTWdBeFJ3SDJiNkYxVGQxSlY4c0RRdjBWSnZCR2liN2ZNdXhVOWNKNzRfQmNIQzVEWjVVUUVBcDRBZ1NWOHZGSzlBcU55d2hsMzNZ?oc=5)
+
+---
 
 
 <div class="disclaimer">

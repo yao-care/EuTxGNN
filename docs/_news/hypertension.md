@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ipertensione (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 1 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# ipertensione (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+
+2026-10-01
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+
+---
 
 ### [Malattia renale per 4 milioni in Italia: il paradosso del test che c’è ma «non si vede» - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMisAFBVV95cUxQamhTeFc2LTJxVjV2aURZYm9MNVRldnZWRG84d2lkd193ZDJHSFA0czJFczhCaThZbjRHanhPTkVkazRRUWVFWEx1S083QUZ2Y3dWOHBpVUJWbzNyaDdYVlhtUnhfZGVpdHdOM2JzNnJmY2NwOF8xUURTQVQ4NThwTkE0Y1BURXZNRjdmb3hDcEtBeUo5aU03NkFLTVhYNmVQcUt2UGdERkpSZGNkLWhSRA?oc=5)
 

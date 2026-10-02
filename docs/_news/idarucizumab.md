@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
+### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
-2026-10-01 <span class="news-indication-tag">artritis</span>
+2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNv
 2026-10-01 <span class="news-indication-tag">arthritis</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
-
----
-
-### [« Pendant mes règles, je perdais ma vie » : l’adénomyose, ce mal méconnu qui fait souffrir tant de femmes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
-
-2026-09-30 <span class="news-indication-tag">EPOC</span>
-
-Source: [Actu.fr](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM1JRRmZ3M1FTaEJzY2pUOGFRMHJjeWxEXzJqa0s4QnpjTV9fRWZVZURBOGxZMDM1MnA0S3B5UWxpSGZXbnYyM2UwN0VHR2dvZ3lYUjNVRHR1cDBPcmNGbjBDTFlDakEyT1duN0pDdmo4c2k1WFNVdnZneUkyazRpS2NpdzVXS0JnMHlHY010TlQ0dnk5ZWhFdkZzcXJ0N0xET1B1OVgtV2Q1aTN3NjQ0RERveFREcFlCbHBwaDFrM2ppR1pnbGtXaTJldFYtajY3?oc=5)
 
 ---
 

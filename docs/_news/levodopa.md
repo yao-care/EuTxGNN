@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Levodopa</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Cette pilule que des millions de seniors avalent contre l'arthrose accélère Alzheimer de 25%, selon une étude - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiggFBVV95cUxPelpJUC1QR3BteHllSU9vem9Gc2E1c2sxcFRYTF8zSi03bXdmb0NpS1FpQlI1Qnpvb29taVJKcnpGWElHMk8tWW01M0VNSmI1OWV2dkdrX2VVMTVsajFtTGJvTGZXREUzdGxENVRnNGc4eXRfZkhVbVVoRG9MTmVBZl9R?oc=5)
 
@@ -68,27 +68,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzV
 
 ---
 
-### [How Much You Walk Every Day Is Linked To Dementia Risk - HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
+### [Prion-like transmission of human tau strains in the mouse brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xeHlwdUxHbU9ESTh4QnU5QVNwaC1YdHlZSk5FTzdmYkxIMWRpejBpaU0xWXlPUElnZll4bVZwWnBNOFo2NzdYOEJUdUlod2FUUTR2TnhrcnduTm5IZ21j?oc=5)
 
-2026-09-30 <span class="news-indication-tag">dementia</span>
+2026-09-30 <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHlNYjNpc25iZTlvelBsV0dBWkQxcThXbGtDcUJjQjdzckF1NzF5SG5XcHNubFp0VWt6b09ycXdxN1p6X29TemNvOWI0QmVRZ0pRcHlMaDBfVm9Mb3VzbW1rMlBxZGxDYVpSVGo5NWdaU3RoSlhnUEhNMm9BeEtUWlFJTURrQ1pfYmpQUzlmYmNsZWgzdlFYQjk1N2ZrUXRUNHRRMjhNTQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xeHlwdUxHbU9ESTh4QnU5QVNwaC1YdHlZSk5FTzdmYkxIMWRpejBpaU0xWXlPUElnZll4bVZwWnBNOFo2NzdYOEJUdUlod2FUUTR2TnhrcnduTm5IZ21j?oc=5)
 
 ---
 
 ### [Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
 
-2026-09-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-09-27 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0zVVpsX0dUaWU1SDZzRVdFM24xbHhhVVVLUzdKS05aUzZuV1NCNlZIS1VzeUlDdXUxQmtESm1kSnIta3BuWDVsanFiSFZCM0lNamlkSjhUbWNwYjFobnNaOWRxczRfQWFPTm5zNkJsYw?oc=5)
-
----
-
-### [NEWSLETTER: Genetic discovery yields clues toward reversal of Alzheimer's brain damage](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
-
-2026-09-25 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">MS</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0l3aFBrY0lNVDZjVkhyckhzQUw3WFNtRzNuMEItaTdZcmxzUmpPTGhySXdWc0s0MVlaRGNodWNYU1lHd3pQWndmR1ZRWkp6MWwzV2JHc25MdU8tZk4zeUxzc1RnS0lVX2RDa1BteDlxZnlGWXlwNFJiQzJSZDQxZ0RVaG1tSWVLa0plSnpINzZMX3pQdXhjV1NEYTdPejZrVzR3dVNwMktOZW93VzIxRTNNcGl1Q1dUSTV2ZUs1RFl4TndES2hjRGR2Y2oybzRkVU5uYzY3M2tyUQ?oc=5)
 
 ---
 

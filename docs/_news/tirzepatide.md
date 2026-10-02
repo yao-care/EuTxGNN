@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+
+2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+
+---
+
+### [«I farmaci per perdere peso proteggono anche da altre patologie: ridotti infarti e ictus, -30% di tumori al seno»: parla il professor... - Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
+
+---
 
 ### [I lost nine stone with Mounjaro, but no one warned me of this side effect - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmZFd2RhenU5TjROVklQTnVWWk9VdkhGeGNqMTIwWGpHazNIYWlndVJCQ2NpZ19HT2lNdjMteXZRRzNyYzNRV0VLX1VaUXFTVV9tN1lQVVlzQXptenB4cDI3QW1oS0VqZjNKZEs3YW9sU3pDN2ZySnI2bF9odmNIZkg2Q1BhbzMwb2Vz?oc=5)
 
 2026-10-01 <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmZFd2RhenU5TjROVklQTnVWWk9VdkhGeGNqMTIwWGpHazNIYWlndVJCQ2NpZ19HT2lNdjMteXZRRzNyYzNRV0VLX1VaUXFTVV9tN1lQVVlzQXptenB4cDI3QW1oS0VqZjNKZEs3YW9sU3pDN2ZySnI2bF9odmNIZkg2Q1BhbzMwb2Vz?oc=5)
-
----
-
-### [Detectar a tiempo la artritis puede evitar el daño articular y frenar su progresión](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
-
-2026-10-01 <span class="news-indication-tag">artritis</span>
-
-Source: [Quirónsalud](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTNvRS1xS21BamxwMjlrUHNfVEM0bW5IZFBvTGh3NGJrVXU3bkp3UUN6R3RtbVp1Yk1oQ2Vza0VVazlwUzlIOGF4bHdVdHUzcTFzTE92MkowN1RBRk5uSDBrT0sxOGJSVFJVaFhvb3JRd1ozTlBFSVNNajFiaUhJWnExQTVhNVFmb1l4RTF5dDhwV2RuTE83RWNtWGpmMFl1dVQyWkZkNkR4aUxJclpiZ3h4RlV6WUV1TWwweg?oc=5)
 
 ---
 

@@ -54,19 +54,35 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 
 ## Related News (9)
 
+### [La obesidad activa un mecanismo que altera la relajación del corazón](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS05KVklENk1aUDJENDVobUtFYnI1M3ZPbEpXNVpKVFdFbDI3ekx1bnFldVZqVGFlczRSUXR4Y1pveXkxSTlYVTdmbV9EVTNVS05DcW1sY09UZXViNHQ2OVRkRS14QmJ1dHJTUWFwaGQyV3k5eUdaMDBrNEtnZmxsQ0hEazhsQngtUTQ3dGpMVmRqQjBHNUhReVg1U1NCcjBjejV5REN4MA?oc=5)
+
+2026-10-02 <span class="news-indication-tag">obesidad</span>
+
+Source: [Sinc](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS05KVklENk1aUDJENDVobUtFYnI1M3ZPbEpXNVpKVFdFbDI3ekx1bnFldVZqVGFlczRSUXR4Y1pveXkxSTlYVTdmbV9EVTNVS05DcW1sY09UZXViNHQ2OVRkRS14QmJ1dHJTUWFwaGQyV3k5eUdaMDBrNEtnZmxsQ0hEazhsQngtUTQ3dGpMVmRqQjBHNUhReVg1U1NCcjBjejV5REN4MA?oc=5)
+
+---
+
 ### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 
-### [Un nuevo estudio prueba que semaglutida rebaja la grasa hepática en 9 de cada 10 adultos con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
+### [«I farmaci per perdere peso proteggono anche da altre patologie: ridotti infarti e ictus, -30% di tumori al seno»: parla il professor... - Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
+
+---
+
+### [Un nuevo estudio prueba que semaglutida rebaja la grasa hepática en 9 de cada 10 adultos con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWg?oc=5)
 
 2026-10-01 <span class="news-indication-tag">obesidad</span>
 
-Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWg?oc=5)
 
 ---
 
@@ -74,7 +90,7 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 2026-10-01 <span class="news-indication-tag">obesidad</span>
 
-Source: [entremayores.es](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDlpUl9jRU5yYWQ0NHU3aVV4YURIVGxuekJVUGlGR3g1WGRDUTZ3YXUtbk5fX2JDdFlKTlgzYjhOZ3FZd3pxMzJLZy1zbEVyYktfWkE1RzR3bW83czNuN0c0QUh0MTJYYzVwdURoUW5aUlczMkFRM3V6aXZQY3JuWGVJY1JjYjNjM1plMWQ4U18tM0tROUFqaktSTWJMMVpMVjJtWkhnNW9PNFJnWnhrVFFNY3pCaHhQUlBHNzBJVnd3RS1lemZER3FR?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMitgFBVV95cUxNTz
 
 ---
 
-### [Jo-Jo-Effekt : Fettgewebe entwickelt Gedächtnis für Adipositas - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
+### [TRIUMPH-2: retatrutide riduce il peso e migliora il controllo glicemico nel diabete tipo 2](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFozT0h5S283ZEdzVlNNVkJtclJUbVdQTmpIVjlLODdDT1FzT2huanBLcXhmT3dtMXhGSTJjWWFSaUszWXR0VU9QbWkxRFZjanYyeG5uYV9jbDBrNFNQNko4R010eUpuVVFlM3JrOVpHMHNfX2M1cXRISEJjMDFWNE5ZSjA5bkJSblVvdnplTzYwRUlJY1pkcmJHaTdfR3UtYzFpWEYtWXNJaFZ3d1Ryek5ZTk11SGFXUkdLQ3A0bHJQOXJiVkZTZEdmOWo?oc=5)
 
-2026-10-01 <span class="news-indication-tag">Adipositas</span>
+2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
+Source: [CardioInfo](https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFozT0h5S283ZEdzVlNNVkJtclJUbVdQTmpIVjlLODdDT1FzT2huanBLcXhmT3dtMXhGSTJjWWFSaUszWXR0VU9QbWkxRFZjanYyeG5uYV9jbDBrNFNQNko4R010eUpuVVFlM3JrOVpHMHNfX2M1cXRISEJjMDFWNE5ZSjA5bkJSblVvdnplTzYwRUlJY1pkcmJHaTdfR3UtYzFpWEYtWXNJaFZ3d1Ryek5ZTk11SGFXUkdLQ3A0bHJQOXJiVkZTZEdmOWo?oc=5)
 
 ---
 
@@ -107,22 +123,6 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBV
 2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
----
-
-### [Ma diabete e obesità fanno venire i tumori? Ecco quello che gli esami della glicemia non dicono - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0ZwM0laQnBfYkF5WGVTamdoOXNCN3p4N19oMjRBSmtJeTIzR2gyMmw2dWQ5YjZ2RUNHRHEwTzM4YjJnQlJPMzFtMXJtdUNpSHRNTjViMU5KTmZpSUVSTHNoelpfR0RxTE82QS1Ud3h0a0tVaEZMLVdTRUIzOG40cS1tR2pFamxOQW12Zmx5N1lmVXZXc0V1aDh0SDU5RGhoSk9XdlEtVjRjVUhfc3NJRnVwblpSdmNhb0VDa3lBd3E?oc=5)
-
-2026-09-30 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc0ZwM0laQnBfYkF5WGVTamdoOXNCN3p4N19oMjRBSmtJeTIzR2gyMmw2dWQ5YjZ2RUNHRHEwTzM4YjJnQlJPMzFtMXJtdUNpSHRNTjViMU5KTmZpSUVSTHNoelpfR0RxTE82QS1Ud3h0a0tVaEZMLVdTRUIzOG40cS1tR2pFamxOQW12Zmx5N1lmVXZXc0V1aDh0SDU5RGhoSk9XdlEtVjRjVUhfc3NJRnVwblpSdmNhb0VDa3lBd3E?oc=5)
-
----
-
-### [Frauen mit großen Brüsten leiden öfter an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
 
 ---
 
