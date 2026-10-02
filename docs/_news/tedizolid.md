@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="What news is there about Tedizolid?">
-<strong>Tedizolid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tedizolid</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Tedizolid with the latest he
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [BPCO, quando il respiro si restringe: che cos’è e perché può peggiorare all’improvviso](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
+
+2026-10-02 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

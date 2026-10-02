@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
@@ -62,11 +62,19 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV
 
 ---
 
-### [Rheumatoide Arthritis: CAR-T-Zellen halten drei von sechs Patienten in Remission](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
+### [BPCO, quando il respiro si restringe: che cos’è e perché può peggiorare all’improvviso](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
+
+2026-10-02 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: CAR-T-Zellen halten drei von sechs Patienten in Remission - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">arthritis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5cENXT3gxSkxPN0pZajFvSTJwWE14N29Ea1FacUwtaDVfYm9uQy1ZVFVMaWFqd3RYRU1zVzlKNmhpb1ZQb1VLS0FsVTNLX09XaHN4LXN6NVhMbGQtMkY3Qkp6VVM2SkR1U1NFQTg3NE1PZ1JQVUNUanFGU21Pd05reUx4aTZ2WHhrcmplTzZlRTlBOE03bm11SGxVQURLNnRQeDRqMW9qbjktRVFnUnh5b1RZRXZFVmc?oc=5)
 
 ---
 

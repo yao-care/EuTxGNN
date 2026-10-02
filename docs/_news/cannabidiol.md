@@ -14,7 +14,7 @@ permalink: /news/cannabidiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Cannabidiol?">
-<strong>Cannabidiol</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Cannabidiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 <p><a href="{{ '/drugs/cannabidiol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [CBD bei Alzheimer? Was der Hanfwirkstoff in unseren Nervenzellen tatsächlich verändert - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk82WVRaOExLMENhbWJITWRXaHpxaWpxOHNlX2xSQktDMkxxVnNDVXFVbWhNeDI2aVRIUXF2WnpFSmM2clpHUE14WDBON0Q1NmVDLWNsRF9TOXk5SllkQjl4OW5ibHpUczRtN2EzYUxrbUJ3OFRrSDNza253b1ZmUDMyb29JQkdjek9nZGRuOGFiaGFxX0tnUUw4SVFYRWd4Tmx2Y2g0MTlWNUFPdFlqMjhXU3pHeUhtcGZwekh6QmtuVjNnNzVvcw?oc=5)
-
-2026-10-02 <span class="news-drug-tag">Cannabidiol</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQk82WVRaOExLMENhbWJITWRXaHpxaWpxOHNlX2xSQktDMkxxVnNDVXFVbWhNeDI2aVRIUXF2WnpFSmM2clpHUE14WDBON0Q1NmVDLWNsRF9TOXk5SllkQjl4OW5ibHpUczRtN2EzYUxrbUJ3OFRrSDNza253b1ZmUDMyb29JQkdjek9nZGRuOGFiaGFxX0tnUUw4SVFYRWd4Tmx2Y2g0MTlWNUFPdFlqMjhXU3pHeUhtcGZwekh6QmtuVjNnNzVvcw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

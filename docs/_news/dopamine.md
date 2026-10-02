@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Vieillissement : le café pourrait permettre de vivre plus longtemps et en meilleure santé - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa084cE9IZFpiT0hwMUgzd2NxelEyYkZCbGZNOXNDeWhjQ3U4SkFHQjlidUZMaFBRSTRUWTNnWWtWanV0ZE55X2pDY0ZiWGgyLS1IazA3b2YzN2FobVhMY3NhZWhFd2JhRE55S2lZcWhLQ0RrME9adzVYSW0zamZZWkk5bWNxTmpLenJzcUFUdnNiZi1pOHR2Y3pCM1dCWk9WdFZ3ek9BVVI2NkJFeWMwTE1NcFJpR25WdHNFTk0tRndXWEJmYmNnaTJMTENyYWxpaVdxS054a01ZYnNsT21OSzNR?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">AF</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa084cE9IZFpiT0hwMUgzd2NxelEyYkZCbGZNOXNDeWhjQ3U4SkFHQjlidUZMaFBRSTRUWTNnWWtWanV0ZE55X2pDY0ZiWGgyLS1IazA3b2YzN2FobVhMY3NhZWhFd2JhRE55S2lZcWhLQ0RrME9adzVYSW0zamZZWkk5bWNxTmpLenJzcUFUdnNiZi1pOHR2Y3pCM1dCWk9WdFZ3ek9BVVI2NkJFeWMwTE1NcFJpR25WdHNFTk0tRndXWEJmYmNnaTJMTENyYWxpaVdxS054a01ZYnNsT21OSzNR?oc=5)
+
+---
 
 ### [Covid fatigue linked to reduced brain blood flow - The Conversation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb21QbHdhQWR6SUZnb0dacG53WmZlejlGa3B3TFV6a0VpZlZrQ25xYkUydklpNFA4a2FYOEswbnpnTWdBeFJ3SDJiNkYxVGQxSlY4c0RRdjBWSnZCR2liN2ZNdXhVOWNKNzRfQmNIQzVEWjVVUUVBcDRBZ1NWOHZGSzlBcU55d2hsMzNZ?oc=5)
 

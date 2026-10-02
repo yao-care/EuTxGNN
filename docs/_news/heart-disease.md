@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiopatía (heart disease) News"
+title: "heart failure (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiopatía (heart disease). 3 articles, 57 related drugs."
+description: "Health news about heart failure (heart disease). 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# cardiopatía (heart disease) News
+# heart failure (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiopatía (heart disease)?">
-<strong>cardiopatía (heart disease)</strong> currently has <strong>3 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about heart failure (heart disease)?">
+<strong>heart failure (heart disease)</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiopatía” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart failure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -85,23 +85,7 @@ This page brings together the latest health news about “cardiopatía” and li
 </ul>
 </div>
 
-## Related News (3)
-
-### [La cardiopatía isquémica lidera la mortalidad mundial mientras la COVID-19 sale del ‘top 10’ - Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
-
-2026-10-02
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1pmVU55dm44WGluNmtwblBrWVhLYjRpeDVQdERzc0ZRdmdUMmRGa0JWa25VcHRzWl9FdVJUbEtRWjZ2ZUZJbzNGdTI0N2FpNjc2RHl2eWozcUhvSy1qT20yT0laQ2NjUVdtaDFTTEJDanh2aTA2LVRlS0dwRWVIUEZ0X2ZfUE82cDdodG42eFpkMWZWd2VfVF91NUdWZ3VyNlZqQ1h1UVJvQVoy?oc=5)
-
----
-
-### [La renaissance de Régis, guéri de sa maladie cardiaque grâce à l’électroporation : « Mon cœur est désormais peinard - Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
-
-2026-10-01
-
-Source: [Le Parisien](https://news.google.com/rss/articles/CBMinAJBVV95cUxPX2NuZ0JrbXc0STF6eW5RbFVTYm1ZaE5zd25MeXg0bUFIZHdoVDM3ZmxOR2ZmenJBY1IxT2pQdklMdVFSZjZwTnphcTUzQVNVR09EWTZZRVF0SnYtQTg3cFNkTloybjRqMkhVTjJHVzN0NGNUelAyYzliNFpCV2p4SzZBdGJaUS12N082cUVaSWpRenZ6Q2RrSHZZZklPdDFqRmh2RXhtdERFQXN0RlJ3T1N0azNXS0YwdGVnbHV6VVl2cXJCMkFoa2t1emg0ejBHQW44LTVUUkFQdXdjUUNaVFdpOS1nbTRfT1ZvTkNlMnNNMm1SMEJwQU9ZN1JrTTZUenBrWnRwaThKSzJ1UWdoX3J3TXhmTXdiZDdudQ?oc=5)
-
----
+## Related News (1)
 
 ### [Pomegranate compound improves heart function by up to 80% in study](https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLXpBZjB3dVRkTjdrNU1fa1l4Y3BJSXlOM05wRjc0allkRnZhWlVlU1RSNDhUTi1udXoyZno5eVlLS0xjQ0ZzclBJRFhHUmVWeExvOXk3SWdzNktLNDhyLWRVd0FUOTU2cVpsZE9wWQ?oc=5)
 

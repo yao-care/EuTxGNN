@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Quando le parole scompaiono e la mente si scinde: l’ictus descritto da un medico che studia il cervello](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2VJY1ZVejdOdjVIeEptOTg3Uzg5ek9NRTNsUFB6OExsMHV0VmNMdDQ3Q2RXOFlXenRaeHVleW9zU3l6OW91MHhkUlZVQ2hjbDdybS1CS3ZvWWo1NWdKNU91NTY4RVpfQ1JzRGk2YzB1OWtMMzUyVkNmUGhXamFVNmdraHRXTUpKY05tWnZnRnEwbmFxX2FqZ1pOdl81SWRjYjREVW1wVVlLeEJKU21ScjJTU1RSanFIaXhRZkVJVTl0b29RTzhkRzV0Nzdja2E3bmhzaHdjZkRNaDFRY3VuRjF6N1RzRG8?oc=5)
+
+2026-10-02 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2VJY1ZVejdOdjVIeEptOTg3Uzg5ek9NRTNsUFB6OExsMHV0VmNMdDQ3Q2RXOFlXenRaeHVleW9zU3l6OW91MHhkUlZVQ2hjbDdybS1CS3ZvWWo1NWdKNU91NTY4RVpfQ1JzRGk2YzB1OWtMMzUyVkNmUGhXamFVNmdraHRXTUpKY05tWnZnRnEwbmFxX2FqZ1pOdl81SWRjYjREVW1wVVlLeEJKU21ScjJTU1RSanFIaXhRZkVJVTl0b29RTzhkRzV0Nzdja2E3bmhzaHdjZkRNaDFRY3VuRjF6N1RzRG8?oc=5)
+
+---
 
 ### [Gehirn: Wie sich Schlafstörungen auf das Schlaganfallrisiko auswirken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVpb0hRT0k1MS04V2pPdjItMXd3SmoyaFJUYks5YVVtdTdURGF0UDhWdVFuSDdmS2lOb25INVJsdEgxaTBkdVUtbzQ5Q0xWbVdHblNEaE9CcG1tYUp1ZUk0TG5jbzhKbDhRTm15YkxIN1h1WXFhcUE5MXJBdGQybGQ1bDVKdmVUUWNjcVhIRTBsYTlib1RhZ2Nmd0RPZ19aYnpEMFl3NnlTaGRqUmNmR2V4QjJsLWFqdjFFbk1aOFVsVGo2S3ZiMDQ?oc=5)
 
@@ -62,17 +70,17 @@ Source: [WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVp
 
 ---
 
-### [Schwache Denkleistung mit 60? Forscher sehen darin ein Warnsignal für Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+### [Schlaganfall-Risiko schon mit 60 erkennen? „Stille“ Hirnschäden könnten frühe Hinweise liefern - smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
 
 2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+Source: [smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
 
 ---
 
 ### [«I farmaci per perdere peso proteggono anche da altre patologie: ridotti infarti e ictus, -30% di tumori al seno»: parla il professor... - Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
 
-2026-10-01 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2dhXzFHdzdUTno4NDNOajR1NzI5Ymw0aXRtQnpmTUdCYUxOUkJwVVRiM2ZLTXFPVFVOeGl2aFJENFlOMlVidGt4SFVLaXdMeEx3aTkwSFQxZU40OVV5a2ZHTERjMmNYaW5vZG9CMk5jM2RvWmVEN0w2bFc2azJfTEh0TU1FdWhXQWR0cWpsRE1aOU5Tenh1aW5jWlF1cGJYS1ZzdjE3TzF2Q1Rxbm5HOVhwTl9qVDVyWExfZlRFRFdCamVzNUxTWtIBxgFBVV95cUxQQ1htaGxKclFmZ01vNm1qcmt5Rk1BZl8tX09fcVhnM3lvQk9nSklaYVRPdkp0b0xnQllYWEI4Qk5tdHhfYzNpal9iYnlGRks2d1VLbm4tSENNSnpUcURFcmpkbVJTQlpkdldQbTV4eHV6eEsxRElXRmtwYkItMjRtNUNrZzJqeVZZbXc4S2w3QVpabmJLQTZTektwVjJRa1lXT3lVX0JCTjJtVzczTFZ1WFViLVlzQWdYSEp1V1JIeTJ6SmFHSFE?oc=5)
 

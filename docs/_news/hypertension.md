@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hipertensión (hypertension) News"
+title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 4 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# hipertensión (hypertension) News
+# ipertensione (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
+<strong>ipertensione (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ipertensione” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [30 grammi di frutta secca al giorno: cosa succede al rischio di ipertensione?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBjOWRtSzBtSHJHbHpJV3RsQlVvb3JfTi1KbklDT0F4dWttMkk1RXZSdG02TzFrN0JBVEJmbUgxLUFib1M3SzE3dk5fZFJNNXpES3RSRThQSTJOelcxUXJDeU5nZmI4SDZIWEhYcGdJWW4xSGJ2SFJ6V0ZrVDRwdlhqZ2diQVdMUjA1SlFYWlN0WHVueGhCTmFWMmFheWdWWkpVYXRiT2FYVU5VeUFOWFpmdjBXbGdVc0JFTnExRk4wb0x5N3JTRW5DOUZiOWRV?oc=5)
+
+2026-10-02
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBjOWRtSzBtSHJHbHpJV3RsQlVvb3JfTi1KbklDT0F4dWttMkk1RXZSdG02TzFrN0JBVEJmbUgxLUFib1M3SzE3dk5fZFJNNXpES3RSRThQSTJOelcxUXJDeU5nZmI4SDZIWEhYcGdJWW4xSGJ2SFJ6V0ZrVDRwdlhqZ2diQVdMUjA1SlFYWlN0WHVueGhCTmFWMmFheWdWWkpVYXRiT2FYVU5VeUFOWFpmdjBXbGdVc0JFTnExRk4wb0x5N3JTRW5DOUZiOWRV?oc=5)
+
+---
 
 ### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
 
@@ -93,19 +101,19 @@ Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95c
 
 ---
 
-### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life'](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+### [Ipertensione e fibrillazione atriale: i segni potrebbero essere colti molto prima dei sintomi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJjc1dqTnY4b2FJb2NfMGNXaTRTbmJSbE9EbHE0eEVtN0J2WmRReUVQdVAtVDRJcXYtc08tLXk5SmZmV1RjS3QwQnFHRlJteHFCa3dTVUJ2UUkwMjZaNldrUm14bE5IdkY0VzRHT1ZvbkRhMGxvZmZvbGxBNFdSMFA1SWtfcURrWXdPdk01LVVic3NWQU1YNUl4UE0tVjBJYzJORDhuNVkybGdWY0N2UVlDc3I0WTk0eU5LMHR0ZXc2SDl4WFFwVV9FVF8xdmNUTUkxd0xtSkhsZWJRSVQ0YUUwcmJKNUk?oc=5)
 
-2026-10-01
+2026-10-02
 
-Source: [mirror.co.uk](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJjc1dqTnY4b2FJb2NfMGNXaTRTbmJSbE9EbHE0eEVtN0J2WmRReUVQdVAtVDRJcXYtc08tLXk5SmZmV1RjS3QwQnFHRlJteHFCa3dTVUJ2UUkwMjZaNldrUm14bE5IdkY0VzRHT1ZvbkRhMGxvZmZvbGxBNFdSMFA1SWtfcURrWXdPdk01LVVic3NWQU1YNUl4UE0tVjBJYzJORDhuNVkybGdWY0N2UVlDc3I0WTk0eU5LMHR0ZXc2SDl4WFFwVV9FVF8xdmNUTUkxd0xtSkhsZWJRSVQ0YUUwcmJKNUk?oc=5)
 
 ---
 
-### [Fegato grasso, essere magri non mette al riparo: è la fibrosi a cambiare davvero il rischio](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
+### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
 
-2026-09-30
+2026-10-01
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMDdLQUtTR2txS2VRbm9zSWpkcVNJNUVuaVhkMmZXQklKQUxUaDFSODNXQVFNdjNUWERoNXhNTkhaV01UM1FrYUZqLWlyT1gtQV9UMkNLbk1FcUtDSEFpVHRhaUlzbVFfZEc1bDY4aEJaTmZnc2R6a05DNEpTMV9SSHBnSDFKU01ZcFJqRE56dThRbzNwUGRXSXA4dkdrSlNVdzMxWE9UTDZ0eHRxSXRtalhQNk5IaFRtSFBzSlIzZ0poNEN6V3lpR21BVlVHTWJyY2x2MlZCdmlrRlBfYzlYdUQ4QQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
 
 ---
 

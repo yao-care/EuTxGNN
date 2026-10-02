@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 5 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 6 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>5 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,15 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Quando le parole scompaiono e la mente si scinde: l’ictus descritto da un medico che studia il cervello](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2VJY1ZVejdOdjVIeEptOTg3Uzg5ek9NRTNsUFB6OExsMHV0VmNMdDQ3Q2RXOFlXenRaeHVleW9zU3l6OW91MHhkUlZVQ2hjbDdybS1CS3ZvWWo1NWdKNU91NTY4RVpfQ1JzRGk2YzB1OWtMMzUyVkNmUGhXamFVNmdraHRXTUpKY05tWnZnRnEwbmFxX2FqZ1pOdl81SWRjYjREVW1wVVlLeEJKU21ScjJTU1RSanFIaXhRZkVJVTl0b29RTzhkRzV0Nzdja2E3bmhzaHdjZkRNaDFRY3VuRjF6N1RzRG8?oc=5)
+
+2026-10-02
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR2VJY1ZVejdOdjVIeEptOTg3Uzg5ek9NRTNsUFB6OExsMHV0VmNMdDQ3Q2RXOFlXenRaeHVleW9zU3l6OW91MHhkUlZVQ2hjbDdybS1CS3ZvWWo1NWdKNU91NTY4RVpfQ1JzRGk2YzB1OWtMMzUyVkNmUGhXamFVNmdraHRXTUpKY05tWnZnRnEwbmFxX2FqZ1pOdl81SWRjYjREVW1wVVlLeEJKU21ScjJTU1RSanFIaXhRZkVJVTl0b29RTzhkRzV0Nzdja2E3bmhzaHdjZkRNaDFRY3VuRjF6N1RzRG8?oc=5)
+
+---
 
 ### [Gehirn: Wie sich Schlafstörungen auf das Schlaganfallrisiko auswirken](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVpb0hRT0k1MS04V2pPdjItMXd3SmoyaFJUYks5YVVtdTdURGF0UDhWdVFuSDdmS2lOb25INVJsdEgxaTBkdVUtbzQ5Q0xWbVdHblNEaE9CcG1tYUp1ZUk0TG5jbzhKbDhRTm15YkxIN1h1WXFhcUE5MXJBdGQybGQ1bDVKdmVUUWNjcVhIRTBsYTlib1RhZ2Nmd0RPZ19aYnpEMFl3NnlTaGRqUmNmR2V4QjJsLWFqdjFFbk1aOFVsVGo2S3ZiMDQ?oc=5)
 
@@ -49,11 +57,11 @@ Source: [WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVp
 
 ---
 
-### [Schwache Denkleistung mit 60? Forscher sehen darin ein Warnsignal für Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+### [Schlaganfall-Risiko schon mit 60 erkennen? „Stille“ Hirnschäden könnten frühe Hinweise liefern - smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
 
 2026-10-02
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+Source: [smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
 
 ---
 
