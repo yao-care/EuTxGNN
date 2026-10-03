@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 </ul>
 </div>
 
-## Related News (2)
-
-### [Votre voix pourrait révéler votre âge et à quelle vitesse vous vieillissez - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
-
-2026-10-03
-
-Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
-
----
+## Related News (1)
 
 ### [Prion-like transmission of human tau strains in the mouse brain](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xeHlwdUxHbU9ESTh4QnU5QVNwaC1YdHlZSk5FTzdmYkxIMWRpejBpaU0xWXlPUElnZll4bVZwWnBNOFo2NzdYOEJUdUlod2FUUTR2TnhrcnduTm5IZ21j?oc=5)
 

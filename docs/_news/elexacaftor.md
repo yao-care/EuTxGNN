@@ -54,11 +54,19 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 
 ## Related News (6)
 
+### [‘One day my nan had to carry me home from school’: Thousands of children facing silent battle against arthritis - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+---
+
 ### [Danno renale da ipertensione: 5 campanelli d'allarme del corpo da non sottovalutare mai](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBj
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
-
----
-
-### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">hipertensión</span>
-
-Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Danno renale da ipertensione: 5 campanelli d'allarme del corpo da non sottovalutare mai](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cU
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBjOWRtSzBtSHJHbHpJV3RsQlVvb3JfTi1KbklDT0F4dWttMkk1RXZSdG02TzFrN0JBVEJmbUgxLUFib1M3SzE3dk5fZFJNNXpES3RSRThQSTJOelcxUXJDeU5nZmI4SDZIWEhYcGdJWW4xSGJ2SFJ6V0ZrVDRwdlhqZ2diQVdMUjA1SlFYWlN0WHVueGhCTmFWMmFheWdWWkpVYXRiT2FYVU5VeUFOWFpmdjBXbGdVc0JFTnExRk4wb0x5N3JTRW5DOUZiOWRV?oc=5)
-
----
-
-### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">hipertensión</span>
-
-Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
 
 ---
 

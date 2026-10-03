@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (16)
 
 ### [Icotrokinra, con luz verde como primer péptido oral dirigido a IL-23 para tratar la psoriasis](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFp4STdHLThJS0hVQm9WM3dldnNpbmpWaEE4ZkhaNmo0dDRnc29QR200UWJrdVVCUXUtR0RzWUdoYjBzR0plblpvazNmWjVRRHZBUUgxY3Nzb0RJZVJ3cDJWY1VkZlJ5bjFNQW5CbFotYmhRLVRybGZpQVNlOHJlZjVkOXo3YXl4NnpSbzlNT0xRQnZhTmNZck9JbFIzVzYwN3R6ajVsQ05lazhLalF0d2ZiYVNOdlhNa2c?oc=5)
 
@@ -118,14 +118,6 @@ Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT
 
 ---
 
-### [Mit dieser schweren Erkrankung ist Diabetes oft verknüpft](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
-
----
-
 ### [La monitorización continua de glucosa se asocia con menor mortalidad en diabetes tipo 2 con insulina basal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWhFUGVmNGNnRVl2ckV6TTIxclZ3a1pLakthcmlRYUdIMmlaclJEdlE5djBNYjI4RHg2UmlhN1B0S0RBSUF0Qk04UzdFZWpySVk5c3FYcjhzejVoc29xdXkxakFjNGJYWVRtMUpEcjFaVlBDQXVPcGxJM3UxbXNQcktiX0VGbjdDYlI0cWhhakNwU29FTWlVMll4cndYc2syWGdVb1pjR3BCa0dXVVQ3Ry1yNElsc0xua2JIbldyaU1US2Q0QWV6ZmlFUE1OWDNQ?oc=5)
 
 2026-10-01 <span class="news-indication-tag">diabetes</span>
@@ -154,7 +146,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 2026-09-30 <span class="news-indication-tag">diabete</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
 
 ---
 

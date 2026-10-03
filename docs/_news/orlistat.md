@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (14)
 
 ### [The ‘healthy’ sweetener linked to heart attacks and strokes - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
 
@@ -78,11 +78,19 @@ Source: [Werra-Rundschau](https://news.google.com/rss/articles/CBMizgFBVV95cUxOM
 
 ---
 
-### [La obesidad activa un mecanismo que altera la relajación del corazón: investigación liderada por Centro Nacional de Investigaciones Cardiovasculares Carlos III - La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
+### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+
+2026-10-02 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+
+---
+
+### [La obesidad activa un mecanismo que altera la relajación del corazón: investigación liderada por Centro Nacional de Investigaciones Cardiovasculares Carlos III](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
 
 2026-10-02 <span class="news-indication-tag">obesidad</span>
 
-Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
+Source: [lawebdelasalud.com](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
 
 ---
 
@@ -126,27 +134,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3
 
 ---
 
-### [Un nuevo estudio prueba que semaglutida rebaja la grasa hepática en 9 de cada 10 adultos con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
+### [Semaglutida redujo la grasa del hígado en análisis de pacientes con obesidad - Diario de Salud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUlncmp2UnpvMWVvUGxRdmJxYjZFVzUwRFg4RGFzZlkxaDFlTlkwdEQ3TkVIQkZmZGxCMGFHZDNzbEJVT3RIb0liSkJkUG9NYUZrZG9JcVBhbXFscTRIN0NDcEtfS0xBZF9TZ0xTN2F5S0JIZTFyTTdaZHU0SEs4ZUhwdWgwYnY2V2Q4ZmtMNFNJeWx0TjJXTm02cHN2NEE3VFdENXY0Nm9VdFJBOXBKeENQd1B1OWxyVTctR3B3?oc=5)
 
 2026-10-01 <span class="news-indication-tag">obesidad</span>
 
-Source: [Redacción médica](https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmFaQ0ZyNXUzU0x0ZWtKdk1UNU12RG8yVFJ0THJBTVBmek5xX0pLUDF6UEVjc1hjTkROVDM3X196QjdlNl9ZenBUZS1jOElhWENBVk5Dc24wTXZjM0V1NE9HbUVOb0VVb1JZbElCSG12Yk5fUFpQT1J0cjY3WXdUOE9VMTVIVzFFOTV2WWFscW9EbEYxcWx4WEV1cDhTV0ZDdkIzN1BFcFJfM3pSeVRlODF0WDhSYWM1MFFoY1JRVGdPV3A2QXNwWEotZmVYSFdZcGsxdzdpYi0xMXpiQXRudEtfMlF2Z0lfUjRvSG5aa2pQWXJMbWpHeGVDX3hkNURrcDNValQzUVpsekZUQzFyWtIBlgJBVV95cUxNSHM2QzNvUmI0enUxVnhMTVdRaWF6T05xNGtVTGtyUEZMQzA5Y0xhTDdJWWhrZFF6SmE5czJtSXJuZXZSUDJTQ2hoRjJZdFcweU9pOEhGMUtKdm1GTTFyZVl1UEpaVC1CZkx3Tkh6QTlLdkcxd0x5T2tuN1RveDRiaUJBUDgzS2ZleTlQa3FlYVRiMFNKOEs1THhfMF9mMUU0TnBXOU9fWlpfRC1Qc01tRENjRGQtc2FZZXhDRWM3ZzhmUGJJM1h6OTJ3NTFqR29UZkxWS3FVT2owNjkwNDBOb2VRYjVfYWxWcFZ5WExtTHBvRXBzcDRJalFIcDNmMElUTHFKcy1sazktMi14Zi1TSC1JQVFrQQ?oc=5)
-
----
-
-### [Extremer Mineralstoffmangel imitiert Symptome eines Schlaganfalls](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZnQtSmd2Rm5kc3JYOWdaTjFYSzlhSE1VLXFnSTVSV3VSSnE0QnF3Y3VZbDdxay1ESUNXNnFzSUNGYWR3NEF3X25pdmtBNzY3QmxBTVc4OTZEX0UtT3pNaWxoU000b2QxU01BS2pkS083azBBZE5FcXJNRUt4bERWRVdsd3p5MkxTOU04dTJsM1VDV2tqaEF1TjBhRmVFd215dFdsUVZVSS12UndTUmY0cy11NV9xWHBLVktIUmZSb2ZYR0ZpRmhsV0RDX2lJUW5JaDhJa2tNVGhBdE45YmQ2TGp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZnQtSmd2Rm5kc3JYOWdaTjFYSzlhSE1VLXFnSTVSV3VSSnE0QnF3Y3VZbDdxay1ESUNXNnFzSUNGYWR3NEF3X25pdmtBNzY3QmxBTVc4OTZEX0UtT3pNaWxoU000b2QxU01BS2pkS083azBBZE5FcXJNRUt4bERWRVdsd3p5MkxTOU04dTJsM1VDV2tqaEF1TjBhRmVFd215dFdsUVZVSS12UndTUmY0cy11NV9xWHBLVktIUmZSb2ZYR0ZpRmhsV0RDX2lJUW5JaDhJa2tNVGhBdE45YmQ2TGp3?oc=5)
-
----
-
-### [Un estudio revela que casi el 60 % de los diagnosticados de cáncer en España presenta exceso de peso](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0gzdTVXb0RWMW1hclBpdW1acmRkS3pENE5jX0xCLTA1dllmRWppX094TmVVcFZGLXFpSTY3NmF2aHdmZXdldHBKU3RheHo1YVJXQkE1UUNXV1RsVExrUzRzeTFmOFNWWDZHQ09DUHpWVGJZT1RmM3NnNXRTQlZiN0NFeTNPY2FzMzdHbkxXNmRkWGtfUWdhUDFnaVJYcGhZTlBVMkhEQkU1c0VBeGNfU3JIWXk0a19LT3ZMR1cwTEdYcF9YdFpnU2UtOFdLY0F2Rm5sWVFXLUxsUEU?oc=5)
-
-2026-10-01 <span class="news-indication-tag">obesidad</span>
-
-Source: [catalunyapress.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0gzdTVXb0RWMW1hclBpdW1acmRkS3pENE5jX0xCLTA1dllmRWppX094TmVVcFZGLXFpSTY3NmF2aHdmZXdldHBKU3RheHo1YVJXQkE1UUNXV1RsVExrUzRzeTFmOFNWWDZHQ09DUHpWVGJZT1RmM3NnNXRTQlZiN0NFeTNPY2FzMzdHbkxXNmRkWGtfUWdhUDFnaVJYcGhZTlBVMkhEQkU1c0VBeGNfU3JIWXk0a19LT3ZMR1cwTEdYcF9YdFpnU2UtOFdLY0F2Rm5sWVFXLUxsUEU?oc=5)
+Source: [Diario de Salud](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUlncmp2UnpvMWVvUGxRdmJxYjZFVzUwRFg4RGFzZlkxaDFlTlkwdEQ3TkVIQkZmZGxCMGFHZDNzbEJVT3RIb0liSkJkUG9NYUZrZG9JcVBhbXFscTRIN0NDcEtfS0xBZF9TZ0xTN2F5S0JIZTFyTTdaZHU0SEs4ZUhwdWgwYnY2V2Q4ZmtMNFNJeWx0TjJXTm02cHN2NEE3VFdENXY0Nm9VdFJBOXBKeENQd1B1OWxyVTctR3B3?oc=5)
 
 ---
 
@@ -155,14 +147,6 @@ Source: [catalunyapress.es](https://news.google.com/rss/articles/CBMi2wFBVV95cUx
 2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
----
-
-### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
 
 ---
 
@@ -178,7 +162,7 @@ Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cU
 
 2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
+Source: [t-online.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 ---
 

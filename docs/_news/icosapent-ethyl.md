@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Icosapent Ethyl?">
-<strong>Icosapent Ethyl</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Icosapent Ethyl</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [‘One day my nan had to carry me home from school’: Thousands of children facing silent battle against arthritis - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+---
 
 ### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+
+---
+
+### [What your eyes could reveal about your heart health - The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
 
 ---
 

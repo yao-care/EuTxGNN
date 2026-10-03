@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Vieillissement : cette boisson très consommée pourrait vous aider à mieux vieillir - Charente Libre](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmJxbXpLRVlWZXFISnhIbWNTbWpITFpuT3FWZGJwVDIxSVNaTmxWVXdISWI4bVN4NXJER25mRW1SSXFXaDJvbjFUSG1wVUtoczcxT0lkeEM2XzNNNVg3WF9zSVdBdC1aNXVLY1VzdktGZldSVHdiNGhKNkFfWjVxOGU0cEdwcVVyUW1VWEJRUEllamVXYTVuU2Y1Mkt5TzZhbHp1Sy02MFphVkdtV3FKb3RTWjRjeko4aXc3MmVmeHBNck11VnhzT0xn?oc=5)
 
 2026-10-02 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">AF</span>
 
 Source: [Charente Libre](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmJxbXpLRVlWZXFISnhIbWNTbWpITFpuT3FWZGJwVDIxSVNaTmxWVXdISWI4bVN4NXJER25mRW1SSXFXaDJvbjFUSG1wVUtoczcxT0lkeEM2XzNNNVg3WF9zSVdBdC1aNXVLY1VzdktGZldSVHdiNGhKNkFfWjVxOGU0cEdwcVVyUW1VWEJRUEllamVXYTVuU2Y1Mkt5TzZhbHp1Sy02MFphVkdtV3FKb3RTWjRjeko4aXc3MmVmeHBNck11VnhzT0xn?oc=5)
-
----
-
-### [Covid fatigue linked to reduced brain blood flow - The Conversation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb21QbHdhQWR6SUZnb0dacG53WmZlejlGa3B3TFV6a0VpZlZrQ25xYkUydklpNFA4a2FYOEswbnpnTWdBeFJ3SDJiNkYxVGQxSlY4c0RRdjBWSnZCR2liN2ZNdXhVOWNKNzRfQmNIQzVEWjVVUUVBcDRBZ1NWOHZGSzlBcU55d2hsMzNZ?oc=5)
-
-2026-09-30 <span class="news-drug-tag">Dopamine</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb21QbHdhQWR6SUZnb0dacG53WmZlejlGa3B3TFV6a0VpZlZrQ25xYkUydklpNFA4a2FYOEswbnpnTWdBeFJ3SDJiNkYxVGQxSlY4c0RRdjBWSnZCR2liN2ZNdXhVOWNKNzRfQmNIQzVEWjVVUUVBcDRBZ1NWOHZGSzlBcU55d2hsMzNZ?oc=5)
 
 ---
 

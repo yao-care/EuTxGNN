@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Danno renale da ipertensione: 5 campanelli d'allarme del corpo da non sottovalutare mai](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
 
 ---
 
@@ -78,14 +78,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBj
 
 ---
 
-### [La placa en las arterias aparece ya en 1 de cada 13 adultos de menos de 30 años - Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">hipertensión</span>
-
-Source: [Martin Cid Magazine](https://news.google.com/rss/articles/CBMiswFBVV95cUxQclpmZUJhek1ZNFNRTUF2RFN0TmxIX3pETWZjYk1hbXpXaXlsZmY1dHR4LU9RVEw4dWJpVHE2RlhsWUYxWlpMLTI2RE9tRnlOWHRpNE1WSGE3b1UzR1VrdlhjaHg0bW5mX3lJazEtOEwxd0VQYkJNdUhhM0RQTzBVcGsycUtTUkRrQmY5aThtR2g3TzRBYWRERTZzeHVMMWNsNXAwM1BLYkJscV9NclVXTzFiTQ?oc=5)
-
----
-
 ### [Ipertensione e fibrillazione atriale: i segni potrebbero essere colti molto prima dei sintomi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJjc1dqTnY4b2FJb2NfMGNXaTRTbmJSbE9EbHE0eEVtN0J2WmRReUVQdVAtVDRJcXYtc08tLXk5SmZmV1RjS3QwQnFHRlJteHFCa3dTVUJ2UUkwMjZaNldrUm14bE5IdkY0VzRHT1ZvbkRhMGxvZmZvbGxBNFdSMFA1SWtfcURrWXdPdk01LVVic3NWQU1YNUl4UE0tVjBJYzJORDhuNVkybGdWY0N2UVlDc3I0WTk0eU5LMHR0ZXc2SDl4WFFwVV9FVF8xdmNUTUkxd0xtSkhsZWJRSVQ0YUUwcmJKNUk?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
@@ -94,19 +86,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJj
 
 ---
 
+### [Hepatitis C: el reto ya no es curarla, sino encontrarla - IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
+
+2026-10-02 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
+
+---
+
 ### [NHS doctor tells anyone over 35 buy £30 item today 'it could save life' - The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
 
 2026-10-01 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMif0FVX3lxTE5oTFNKd3BXalpDZXFUUHo2WU0xQ1NYZklIMXZKckJVM3RGNkxmdE1DYmFaQWNaMTE1Nl9jdjdtdE11UXFKODktZ2VrMzJtenFqcHNiTzlLdlZza19OclozYm5BRzZxY0IyOU9YM2Z5ZE1mQ2NES1FTRE5jN2VmMW_SAYQBQVVfeXFMUFVtdWhyOUp5eThNZHMxYnVnajNQUDFPbU9sSlA2dE94a28wY3ZCTFJXUG5PQTQ0cTFJN3kyX3ZTbi1ULXdUUDVXTkZxTHdjczhHR0FxdWl5bHdGWkRMak5fRW1lem1TN3Nsb0N1WlE5bWVRWEpaQlRUa2VCMUtmTUhjZndf?oc=5)
-
----
-
-### [Dr. Juan Arenas, jefe del Servicio de Aparato Digestivo de Policlínica Gipuzkoa: "Nunca hemos tenido tantas herramientas para combatir la hepatitis. Hoy podemos prevenirla, diagnosticarla, controlar sus consecuencias e incluso curarla en muchos casos" - Sevilla Buenas Noticias](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
-
-2026-10-01 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Sevilla Buenas Noticias](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
 
 ---
 

@@ -110,11 +110,11 @@ Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT
 
 ---
 
-### [Mit dieser schweren Erkrankung ist Diabetes oft verknüpft](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
+### [What your eyes could reveal about your heart health - The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabetes</span>
+2026-10-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
 
-Source: [T-Online](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
 
 ---
 
@@ -146,7 +146,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 2026-09-30 <span class="news-indication-tag">diabete</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
+Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
 
 ---
 

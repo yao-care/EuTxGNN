@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Votre voix pourrait révéler votre âge et à quelle vitesse vous vieillissez - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
-
----
+## Related News (2)
 
 ### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 

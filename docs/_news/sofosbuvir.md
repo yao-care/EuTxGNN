@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>19 news articles</strong>, with 20 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>20 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (20)
+
+### [Was der Zeitpunkt der Wechseljahre über das spätere Alzheimer-Risiko verrät](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGp3S3NKbWxKNEhveW51Y2VUM0tleGM3dllVaXZsQXBTNGRlWE53bXRlazVRQm1KN2NVTkE3Y1BJOHR0VzV2S0xCWXpsSTlGX3d1Rk4xZWZxTGQ0RVMxdGUtQzJuRUlIUHF3UV9SMXpZRks2VnFIQzg3WE1pNFl4blhjVHp2UFpyTkpic1RTOEs2SDhoTEV2NTJGZFFGZlhxRk9XR3RqUlllczVKTnRXWGlCRGhoOFc2b3dQalJCcUVvM203TnRrb1o2MXJ2RWVEY2ZTMnNpY2V3WjFIS0JxTHVIRXFacHVYdENZ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRGp3S3NKbWxKNEhveW51Y2VUM0tleGM3dllVaXZsQXBTNGRlWE53bXRlazVRQm1KN2NVTkE3Y1BJOHR0VzV2S0xCWXpsSTlGX3d1Rk4xZWZxTGQ0RVMxdGUtQzJuRUlIUHF3UV9SMXpZRks2VnFIQzg3WE1pNFl4blhjVHp2UFpyTkpic1RTOEs2SDhoTEV2NTJGZFFGZlhxRk9XR3RqUlllczVKTnRXWGlCRGhoOFc2b3dQalJCcUVvM203TnRrb1o2MXJ2RWVEY2ZTMnNpY2V3WjFIS0JxTHVIRXFacHVYdENZ?oc=5)
+
+---
+
+### [Wie Sprache frühe Anzeichen von Gehirnalterung liefern könnte](https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2FUTFkxNWt1dmN5RnpOb0RYYWtHT2RQRVlRdUVqaXd5OWNOVXE1Zm9neGlzSGN5bm52VzRHcjhrT1ZkWHdOcXZLX1JPc0tDYkk2Ymt2N3c0R3RPS0VCYXVreEFYOTVzVFU2NkRyRS1vRHhWU3ZHWWRiLXNjQXNiMnpGdTRiVmVrWGNNbG5MNm5LbFAwRnpjSnoyM18?oc=5)
+
+2026-10-03 <span class="news-indication-tag">MS</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2FUTFkxNWt1dmN5RnpOb0RYYWtHT2RQRVlRdUVqaXd5OWNOVXE1Zm9neGlzSGN5bm52VzRHcjhrT1ZkWHdOcXZLX1JPc0tDYkk2Ymt2N3c0R3RPS0VCYXVreEFYOTVzVFU2NkRyRS1vRHhWU3ZHWWRiLXNjQXNiMnpGdTRiVmVrWGNNbG5MNm5LbFAwRnpjSnoyM18?oc=5)
+
+---
 
 ### [Worst ever outbreak of bluetongue hits British farms - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2s5TzhudzYzNGRhVndxQjdqNzE4MWl3elJFdlZjUXJFeHpuMWdkTVdOQkZ0eXhycUtiZ2pPTDVUbV9oRjR3Y1FWS2hSb1R4OThDREtNZFE3eWVEUEs5eVpYSzJWQnE4dGFwVG1WNUJFQUwwQWU2T2hvQWl2QTNoX3ZvaWNmOTFObXZz?oc=5)
 
 2026-10-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2s5TzhudzYzNGRhVndxQjdqNzE4MWl3elJFdlZjUXJFeHpuMWdkTVdOQkZ0eXhycUtiZ2pPTDVUbV9oRjR3Y1FWS2hSb1R4OThDREtNZFE3eWVEUEs5eVpYSzJWQnE4dGFwVG1WNUJFQUwwQWU2T2hvQWl2QTNoX3ZvaWNmOTFObXZz?oc=5)
+
+---
+
+### [Ticks carrying life-threatening virus living longer in UK due to heatwaves, expert warns](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmVJWS1iMG01Y3huUXNpRlg1VURnclRZVm1taExNUUVPSGRmWUJCelNyM0ZCa2xDMnVnR3ZJWXBoWTg3cml6a2R3c0lHcWdYT2JCc1ZUNG80c2JLaHhZV2dDdjdzNFJVQmNKckl2WEM2VmJLTGdLSm5tZXE1X0o4YnJ5UWxzT2p4dm5JanpFak41dzJHdVZZMWptUTJRUlVSUDRFbUYyZHFzTTE5aXlzYmU0Y0U0d0dlRi0xMjljalE?oc=5)
+
+2026-10-02 <span class="news-indication-tag">MS</span>
+
+Source: [news.sky.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmVJWS1iMG01Y3huUXNpRlg1VURnclRZVm1taExNUUVPSGRmWUJCelNyM0ZCa2xDMnVnR3ZJWXBoWTg3cml6a2R3c0lHcWdYT2JCc1ZUNG80c2JLaHhZV2dDdjdzNFJVQmNKckl2WEM2VmJLTGdLSm5tZXE1X0o4YnJ5UWxzT2p4dm5JanpFak41dzJHdVZZMWptUTJRUlVSUDRFbUYyZHFzTTE5aXlzYmU0Y0U0d0dlRi0xMjljalE?oc=5)
 
 ---
 
@@ -78,11 +102,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1Vf
 
 ---
 
-### [Experts have found an unexpected side-effect of weight-loss drugs - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGt6blNTZkZjNzVWb2pCYmxpUWJyRnFkTndaVXpZN2hnZkJvbWgya0NvaFdNSnVRZGFVUXkwSEdiak90dFF0X0hiOHFQSXpKUmxrbVJKeFY0MXNQMEZDSUtJb2Z4eW83Zk1DbHNtcDVubllwVWEyaG1BV280R2p6UjBIT2tnU25ReFRqZVN6U2UzVDl5T3lkczBpbmcwNDFPWHFoYzVSX1JvZVY3cmc?oc=5)
+### [Mpox-Studie findet Hinweise auf zahlreiche falsch positive PCR-Befunde](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNDRWVFNGLUVIcURjLWZmb1lhOUFxYldkTENvSURlM0gwTHNXS3VDS2ZCSkJmRXBHQmtEUlVrdlZ1dHZwbHRhejZfMU5famwxcDJxS3Y2eXV5T1BRRGNqNUl1bGM?oc=5)
 
-2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+2026-10-02 <span class="news-indication-tag">MS</span>
 
-Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGt6blNTZkZjNzVWb2pCYmxpUWJyRnFkTndaVXpZN2hnZkJvbWgya0NvaFdNSnVRZGFVUXkwSEdiak90dFF0X0hiOHFQSXpKUmxrbVJKeFY0MXNQMEZDSUtJb2Z4eW83Zk1DbHNtcDVubllwVWEyaG1BV280R2p6UjBIT2tnU25ReFRqZVN6U2UzVDl5T3lkczBpbmcwNDFPWHFoYzVSX1JvZVY3cmc?oc=5)
+Source: [ms-aktuell.de](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xNDRWVFNGLUVIcURjLWZmb1lhOUFxYldkTENvSURlM0gwTHNXS3VDS2ZCSkJmRXBHQmtEUlVrdlZ1dHZwbHRhejZfMU5famwxcDJxS3Y2eXV5T1BRRGNqNUl1bGM?oc=5)
 
 ---
 
@@ -110,19 +134,11 @@ Source: [Chronicle Live](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcj
 
 ---
 
-### [Quanto viviamo oggi? In media 73,3 anni, ma 11 non in buona salute. Le nuove stime dell'Oms sull'aspettativa di vita - Corriere della Sera](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVFE2M2FzX0VSNTVfZEFLRHhiVkNZdFp5UEM3WmtSSHlIRnA1cEs1UjgxTWJVM3h5alRKQm0wblBIQzVFeWp1LTdZUm1aWVB6SW00MHF1NmlHRy0ySTRsREd2RmJoZlNHZ3lXUVBmWHctczAtY0lLQVFfb1ZyNll6ZWZ4NDZHVTg3UHVjUmlBREpSbmFvNm5XVVpjd19nMmV1alBBaXBDcjhUUGJyQlRKTlZFQTBzMFBUNmR1bkZwaHlEMkl0dUo0SVRKcUx6MHYyc0p6aUhFQTgtLTNlVjMtdmxXTy1ZN3Vldk4xZWxtbjlhNGNPbjNtcHdySUFTWXBHSVd2b1Z3MjB0a21GeV81U19GU21iOGdSNGJ3WWstdk9oZlZ2YVdtV9IBrgJBVV95cUxQWW0yREdDSWhCcV8wM3V0VXNVanROcDR6ME5TcEd2N0hXaC1pbDRjQ2pPSnprOVpZVmdzYTZtMHdzaUZoLUt0VVA5Q3dFRVdaVkV0Y0NpLXdHM2RxN3RHTHV3cEVhZGNheEpaVENfMWprWXVPYmNSQXlfd3A3RWQxOGJISFdTUDhDVnpPSWJ1NUNpaVhySXZBTl9nZktlT1g2LXI0N1pTMDFzMENPbWRkanFNUURWN3BwMUtFNGliR0c5cVBJS016Mmc4eEVYWUVfRWs5ZzV4R1RXTGJYR1NjTzRBSUNyNmtFTUlWNmJsOHFaTU11LU5SUTVxR2NRREExY2twZDZMNkhoOXJSNDY5NzlCcmVEV1N6Rl8zdnhLOTZiMUdtTUozSVBZOGk0Zw?oc=5)
+### [Quanto viviamo oggi? In media 73,3 anni, ma 11 non in buona salute. Le nuove stime dell'Oms sull'aspettativa di vita](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVFE2M2FzX0VSNTVfZEFLRHhiVkNZdFp5UEM3WmtSSHlIRnA1cEs1UjgxTWJVM3h5alRKQm0wblBIQzVFeWp1LTdZUm1aWVB6SW00MHF1NmlHRy0ySTRsREd2RmJoZlNHZ3lXUVBmWHctczAtY0lLQVFfb1ZyNll6ZWZ4NDZHVTg3UHVjUmlBREpSbmFvNm5XVVpjd19nMmV1alBBaXBDcjhUUGJyQlRKTlZFQTBzMFBUNmR1bkZwaHlEMkl0dUo0SVRKcUx6MHYyc0p6aUhFQTgtLTNlVjMtdmxXTy1ZN3Vldk4xZWxtbjlhNGNPbjNtcHdySUFTWXBHSVd2b1Z3MjB0a21GeV81U19GU21iOGdSNGJ3WWstdk9oZlZ2YVdtV9IBrgJBVV95cUxQWW0yREdDSWhCcV8wM3V0VXNVanROcDR6ME5TcEd2N0hXaC1pbDRjQ2pPSnprOVpZVmdzYTZtMHdzaUZoLUt0VVA5Q3dFRVdaVkV0Y0NpLXdHM2RxN3RHTHV3cEVhZGNheEpaVENfMWprWXVPYmNSQXlfd3A3RWQxOGJISFdTUDhDVnpPSWJ1NUNpaVhySXZBTl9nZktlT1g2LXI0N1pTMDFzMENPbWRkanFNUURWN3BwMUtFNGliR0c5cVBJS016Mmc4eEVYWUVfRWs5ZzV4R1RXTGJYR1NjTzRBSUNyNmtFTUlWNmJsOHFaTU11LU5SUTVxR2NRREExY2twZDZMNkhoOXJSNDY5NzlCcmVEV1N6Rl8zdnhLOTZiMUdtTUozSVBZOGk0Zw?oc=5)
 
 2026-10-02 <span class="news-indication-tag">MS</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVFE2M2FzX0VSNTVfZEFLRHhiVkNZdFp5UEM3WmtSSHlIRnA1cEs1UjgxTWJVM3h5alRKQm0wblBIQzVFeWp1LTdZUm1aWVB6SW00MHF1NmlHRy0ySTRsREd2RmJoZlNHZ3lXUVBmWHctczAtY0lLQVFfb1ZyNll6ZWZ4NDZHVTg3UHVjUmlBREpSbmFvNm5XVVpjd19nMmV1alBBaXBDcjhUUGJyQlRKTlZFQTBzMFBUNmR1bkZwaHlEMkl0dUo0SVRKcUx6MHYyc0p6aUhFQTgtLTNlVjMtdmxXTy1ZN3Vldk4xZWxtbjlhNGNPbjNtcHdySUFTWXBHSVd2b1Z3MjB0a21GeV81U19GU21iOGdSNGJ3WWstdk9oZlZ2YVdtV9IBrgJBVV95cUxQWW0yREdDSWhCcV8wM3V0VXNVanROcDR6ME5TcEd2N0hXaC1pbDRjQ2pPSnprOVpZVmdzYTZtMHdzaUZoLUt0VVA5Q3dFRVdaVkV0Y0NpLXdHM2RxN3RHTHV3cEVhZGNheEpaVENfMWprWXVPYmNSQXlfd3A3RWQxOGJISFdTUDhDVnpPSWJ1NUNpaVhySXZBTl9nZktlT1g2LXI0N1pTMDFzMENPbWRkanFNUURWN3BwMUtFNGliR0c5cVBJS016Mmc4eEVYWUVfRWs5ZzV4R1RXTGJYR1NjTzRBSUNyNmtFTUlWNmJsOHFaTU11LU5SUTVxR2NRREExY2twZDZMNkhoOXJSNDY5NzlCcmVEV1N6Rl8zdnhLOTZiMUdtTUozSVBZOGk0Zw?oc=5)
-
----
-
-### [Was die Stimme über das Demenzrisiko verraten kann](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGxWOVg5RUt5ODNPQkVKZjFZWjVweHdBR2QwX3BvWG5Vd2pVbGFwYnRmN0dqUm5LR3Y2ejNmczY1YmpFZlhzV1loUjZaaWhES0p5UjcxY1NYT3B2UDliNnh0MjVHWnFIZVdBbjFvOTRlVW5mb0QyVjBmYjNZcmxNZHFncVdyaVhTZHdkTHpZNUpRcjR4ZFZEZ3hSZkxJcXRrSG15U01qVGFaZElIX1pYa05aV3NPVXpSTndlTXBHNVZKRmM?oc=5)
-
-2026-10-02 <span class="news-indication-tag">MS</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWGxWOVg5RUt5ODNPQkVKZjFZWjVweHdBR2QwX3BvWG5Vd2pVbGFwYnRmN0dqUm5LR3Y2ejNmczY1YmpFZlhzV1loUjZaaWhES0p5UjcxY1NYT3B2UDliNnh0MjVHWnFIZVdBbjFvOTRlVW5mb0QyVjBmYjNZcmxNZHFncVdyaVhTZHdkTHpZNUpRcjR4ZFZEZ3hSZkxJcXRrSG15U01qVGFaZElIX1pYa05aV3NPVXpSTndlTXBHNVZKRmM?oc=5)
+Source: [corriere.it](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVFE2M2FzX0VSNTVfZEFLRHhiVkNZdFp5UEM3WmtSSHlIRnA1cEs1UjgxTWJVM3h5alRKQm0wblBIQzVFeWp1LTdZUm1aWVB6SW00MHF1NmlHRy0ySTRsREd2RmJoZlNHZ3lXUVBmWHctczAtY0lLQVFfb1ZyNll6ZWZ4NDZHVTg3UHVjUmlBREpSbmFvNm5XVVpjd19nMmV1alBBaXBDcjhUUGJyQlRKTlZFQTBzMFBUNmR1bkZwaHlEMkl0dUo0SVRKcUx6MHYyc0p6aUhFQTgtLTNlVjMtdmxXTy1ZN3Vldk4xZWxtbjlhNGNPbjNtcHdySUFTWXBHSVd2b1Z3MjB0a21GeV81U19GU21iOGdSNGJ3WWstdk9oZlZ2YVdtV9IBrgJBVV95cUxQWW0yREdDSWhCcV8wM3V0VXNVanROcDR6ME5TcEd2N0hXaC1pbDRjQ2pPSnprOVpZVmdzYTZtMHdzaUZoLUt0VVA5Q3dFRVdaVkV0Y0NpLXdHM2RxN3RHTHV3cEVhZGNheEpaVENfMWprWXVPYmNSQXlfd3A3RWQxOGJISFdTUDhDVnpPSWJ1NUNpaVhySXZBTl9nZktlT1g2LXI0N1pTMDFzMENPbWRkanFNUURWN3BwMUtFNGliR0c5cVBJS016Mmc4eEVYWUVfRWs5ZzV4R1RXTGJYR1NjTzRBSUNyNmtFTUlWNmJsOHFaTU11LU5SUTVxR2NRREExY2twZDZMNkhoOXJSNDY5NzlCcmVEV1N6Rl8zdnhLOTZiMUdtTUozSVBZOGk0Zw?oc=5)
 
 ---
 
@@ -158,6 +174,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxORlpZSGhOS
 
 ---
 
+### [Hepatitis C: el reto ya no es curarla, sino encontrarla - IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
+
+2026-10-02 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
+
+---
+
 ### [Schlafqualität: 48 Minuten mehr REM-Schlaf hängen mit 26 Prozent weniger Herzschwäche zusammen - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUl9kMUVaMmhaQzVEUlBtazlDdHFKWjBOSG5qU1VnXzZHbWxwMFBoR1BSUDJ4MGp0NnVpeHI5ZGhrYzkxeTJxX2h1ZUFYcWx5Q3FZQzR1T3ZoOFRCUVNQWkFXSF9WNHNmcXY4M2ZnUkNPR003ZkNQVXpWbTlLMTNYRWxCSVhUZTZUdExDQTVWamg3UXVpOXJlSUE5OGlnVk10Z3dLT2VOazBCc1VFSmdSQThXTFF4QU9lR2xITF9zSQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -166,27 +190,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxNUl9kM
 
 ---
 
-### [Underlying causes of recurrent bacterial vaginosis identified by Australian scientists - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHNVTkN1R1kwVVdhaEk2V3NWWVBGMG1TVzFpejFWNS1Id0hBOEpjaDhWQ0FFX0o3WEVESVE1dDNCRi1VNmFFc0w5cm9VWnh6cllhVmhESFVSOEN2TDFrancyOTVzRlNQS1dlNjdsdWhhaUVIbVVtM2gtUDZJYjlDTDVYTnhGS3ZRQ0lVNlJuOHBZZlFaTVVBZTM1ZGJtSk9UNzl0ZGJOMVI5YVE2VjVLYU1XWnZJRDRYakRTTGV4VlFWZU1PTzJFMF9pZ3Z5N1ZQV0VyTmVfbXg?oc=5)
-
-2026-10-01 <span class="news-indication-tag">MS</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHNVTkN1R1kwVVdhaEk2V3NWWVBGMG1TVzFpejFWNS1Id0hBOEpjaDhWQ0FFX0o3WEVESVE1dDNCRi1VNmFFc0w5cm9VWnh6cllhVmhESFVSOEN2TDFrancyOTVzRlNQS1dlNjdsdWhhaUVIbVVtM2gtUDZJYjlDTDVYTnhGS3ZRQ0lVNlJuOHBZZlFaTVVBZTM1ZGJtSk9UNzl0ZGJOMVI5YVE2VjVLYU1XWnZJRDRYakRTTGV4VlFWZU1PTzJFMF9pZ3Z5N1ZQV0VyTmVfbXg?oc=5)
-
----
-
 ### [Reading, socialising and doing puzzles can help preserve cognitive health – large study shows - The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaF9EUVlqcHRLanJDY2dteWZwMUNCSlh6OGtnN2ZmWjZoZlQ4R1VmZ1NnU2ROSlB1RFdxdmxBYlhpZnpzbTdKd1BPdFVNeTFwbjFuOU9MSWRBQkZIa3JWbFc1WFNXWklIYTl4TmhiOXItZDByVmRMOXgtd0MtTWoyTlJaLWMxN0NOMURKYXM5SkRPYS11Ml9GQXkzWW9Xb0l0a3A5WURUejhGZW9uNU5TWXlxdUp2Sk1lejVYY3RTV2ZPdDA?oc=5)
 
 2026-10-01 <span class="news-indication-tag">MS</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaF9EUVlqcHRLanJDY2dteWZwMUNCSlh6OGtnN2ZmWjZoZlQ4R1VmZ1NnU2ROSlB1RFdxdmxBYlhpZnpzbTdKd1BPdFVNeTFwbjFuOU9MSWRBQkZIa3JWbFc1WFNXWklIYTl4TmhiOXItZDByVmRMOXgtd0MtTWoyTlJaLWMxN0NOMURKYXM5SkRPYS11Ml9GQXkzWW9Xb0l0a3A5WURUejhGZW9uNU5TWXlxdUp2Sk1lejVYY3RTV2ZPdDA?oc=5)
-
----
-
-### [Dr. Juan Arenas, jefe del Servicio de Aparato Digestivo de Policlínica Gipuzkoa: "Nunca hemos tenido tantas herramientas para combatir la hepatitis. Hoy podemos prevenirla, diagnosticarla, controlar sus consecuencias e incluso curarla en muchos casos" - Sevilla Buenas Noticias](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
-
-2026-10-01 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Sevilla Buenas Noticias](https://news.google.com/rss/articles/CBMixAJBVV95cUxQcC13Y1pUNXVJalB6ZjNlaERHYm5zX1FER0dlQjhXOThIUlhjNTRMcWZhWHpad0V4Q2prejBsdWpyS2xOSEllYUNKUFEzWVp4N1lGSHJ2R3ZTODJud2c4dTY1NkV3cnplLXR1X3RtdGhDemNnSUwwYUF4NUJNZGdReFk3aUN5T3BhX0MzaDdLTXB2ZGE3dFVFMzN4SlRlYVN2ZWxfSDUtSW1BNUxUTVN6YlhLX2dWSGVYb2VDTG1QbWw2V0dPUU00T3NUZWFqaE0tMFVjZE5NRTI0Z2FHcTEybDFZQ1NRWVlOd21NZXE1enY3RFB6S3VUamd4cGlfV0RqWTFwYWJhSWJiYXoxTXNmRmtfdmM4MEI4b19mX2V6VzJxbl9oMWVoRVFoLWQwSXllVDNxUXFhczlOczM1TThUZE1SZkU?oc=5)
 
 ---
 

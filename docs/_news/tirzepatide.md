@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (3)
 
+### [‘One day my nan had to carry me home from school’: Thousands of children facing silent battle against arthritis - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1oyMHhUUzFwd1VOWmhmc0JhVlJjNUNFc0tsUWpJTThkRWVxRFhBSnhHa1FyUDBKdjEyRk0yLTZmb0FmbjdhYmNkVEZ6d1EySlNqRHUxVUFYRk5fbE5lUE9FWFVIYmk1cUM0SU1IQl9CLXVXem5md3lhUXdRdldPbVZrSmtwTjhXSlZqeXFDT2V5V3NpWlI2b01jRDFsQmc?oc=5)
+
+---
+
 ### [The mums on Mounjaro: ‘It’s how we all lose the baby weight now’ - The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxPM05tRTY5ODVjMXRnY0xRcFdUSEc3MEg2NnlCTW9jSTJxYzNlZFpJc1F3eHpfVVJXbkZzc2t2QnRZRjV5OTM2LXFDakdYOEFoeXFqeHlNOFg1Y00xNEotSkthNk40OHRkNFgwSmJtR2ROeXIyLWxNRFNzdk1fdmplbzhlZVFMYkNTOVhKSFdueU5HamlpamdFRkE5WFRHN3JjNkxwbnVUUGxfS0hUajItdE1pZm1DUVk?oc=5)
 
 2026-10-02 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
@@ -67,14 +75,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMitwFBVV95cUxPM05tRTY
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
-
----
-
-### [I lost nine stone with Mounjaro, but no one warned me of this side effect - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmZFd2RhenU5TjROVklQTnVWWk9VdkhGeGNqMTIwWGpHazNIYWlndVJCQ2NpZ19HT2lNdjMteXZRRzNyYzNRV0VLX1VaUXFTVV9tN1lQVVlzQXptenB4cDI3QW1oS0VqZjNKZEs3YW9sU3pDN2ZySnI2bF9odmNIZkg2Q1BhbzMwb2Vz?oc=5)
-
-2026-10-01 <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNmZFd2RhenU5TjROVklQTnVWWk9VdkhGeGNqMTIwWGpHazNIYWlndVJCQ2NpZ19HT2lNdjMteXZRRzNyYzNRV0VLX1VaUXFTVV9tN1lQVVlzQXptenB4cDI3QW1oS0VqZjNKZEs3YW9sU3pDN2ZySnI2bF9odmNIZkg2Q1BhbzMwb2Vz?oc=5)
 
 ---
 
