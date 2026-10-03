@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [BPCO, quando il respiro si restringe: che cos’è e perché può peggiorare all’improvviso](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
 
 2026-10-02 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMizgFBVV95cUxORWF3U01vMWFiZ0puSmZjUV9hTnY5TWxMZjU1RW85SXZ3a1ZBa3Q5WkhLQXFGaDY3SnpoUTlNMHZXTVRCSDZ4MHJ0YXUwb3VFRHV5Q1U2OENDOXRpamxLNG9HQllqY19pR2JKX00yWWdVU05CVnhINEpUQW1aWmdYOHBWZjNhWVJacDZWeXI4Vm9wTko2R0tjUEI3WHZqd2NOOHVMVjRaVUVGbWNMbk1NcmNHRXZ0REhLTHF4aEJvYlZsbWNHTE9ibFlPZW5CZw?oc=5)
+
+---
+
+### [El dupilumab podría aliviar la inflamación del oído en la rinosinusitis crónica grave con pólipos nasales](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
+
+2026-10-01 <span class="news-drug-tag">Dupilumab</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMirgFBVV95cUxOUkRPNmt2OTFHQ2MyeXdJZTZFTUZueU8zWjN5dWNtN21XdUdDaGxxVWZtVTdvV2k5d05GaXNWZ0p1Ym9GVTh1TTdFeHJ6QlQ4ZFlzX0RFUHdKZGhONk5ZaFlKSEhLR2MtRDlKVF9sYy1Zc1JsSnQ1YmNJNnNqS1R1OUY3cDB5M09nSEZ2S295YzhPNUdsUHB1cjlsYnc3VU9oYjlXakN0VUhEeDQ3Vnc?oc=5)
 
 ---
 

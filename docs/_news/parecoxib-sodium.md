@@ -40,11 +40,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBj
 
 ---
 
-### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+Source: [elmedicointeractivo.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 ---
 

@@ -86,19 +86,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMizwFBVV95cUxOc2NXd2o2SjVp
 
 ---
 
+### [Schwache Denkleistung mit 60? Forscher sehen darin ein Warnsignal für Schlaganfall - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+
+2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1FibVJDdHpKeFdqV0FmbGFpOENhVUt5c0RVb3ZpcjlpdkVlY1pYWFlyQlJxMHUtRUN5dXZpVzVPeDJaRlBMbnhmbTdXc3lRR0p0d2hlai0tS0FzeUZueXhZZTNTOWNPR29Bbm9McU1xX3VVVHBkaG5wak9CaVlfemktZDFWZjdYNDVpNktOYXRyS3Rlc3BZbzkyRVF1RXU0N2hST3NvYWZIWlQ1NnZLMFE1TGxJaE0?oc=5)
+
+---
+
 ### [Ipertensione e fibrillazione atriale: i segni potrebbero essere colti molto prima dei sintomi](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJjc1dqTnY4b2FJb2NfMGNXaTRTbmJSbE9EbHE0eEVtN0J2WmRReUVQdVAtVDRJcXYtc08tLXk5SmZmV1RjS3QwQnFHRlJteHFCa3dTVUJ2UUkwMjZaNldrUm14bE5IdkY0VzRHT1ZvbkRhMGxvZmZvbGxBNFdSMFA1SWtfcURrWXdPdk01LVVic3NWQU1YNUl4UE0tVjBJYzJORDhuNVkybGdWY0N2UVlDc3I0WTk0eU5LMHR0ZXc2SDl4WFFwVV9FVF8xdmNUTUkxd0xtSkhsZWJRSVQ0YUUwcmJKNUk?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ipertensione</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQzJjc1dqTnY4b2FJb2NfMGNXaTRTbmJSbE9EbHE0eEVtN0J2WmRReUVQdVAtVDRJcXYtc08tLXk5SmZmV1RjS3QwQnFHRlJteHFCa3dTVUJ2UUkwMjZaNldrUm14bE5IdkY0VzRHT1ZvbkRhMGxvZmZvbGxBNFdSMFA1SWtfcURrWXdPdk01LVVic3NWQU1YNUl4UE0tVjBJYzJORDhuNVkybGdWY0N2UVlDc3I0WTk0eU5LMHR0ZXc2SDl4WFFwVV9FVF8xdmNUTUkxd0xtSkhsZWJRSVQ0YUUwcmJKNUk?oc=5)
-
----
-
-### [Schlaganfall-Risiko schon mit 60 erkennen? „Stille“ Hirnschäden könnten frühe Hinweise liefern - smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
-
-2026-10-02 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [smart up news](https://news.google.com/rss/articles/CBMiygFBVV95cUxQaDlJZkpVa3JkMmw2ZGlyUGtXWDRzNTVEVWdsUURXWXlZb18xOVNOenFkbFRkY0dqcFY1ejdzRWRiLTd4Zm5YTnNOVVIyV0k1M2FUNDVEOXFwdnhRMWZGMFh2RHRmU1dnSnNsdHNBQUtXUFJFaTZpSHBmSzY4ZTA1VHViaXJnVnNnMXJsSkRITW1Kd28xekFIWmNqU191LTRheXNDaEJvd0xCRy14U0dnUjZVQ1lQem1vR3gtVk1PNmpYcDZEdWcxX3VB?oc=5)
 
 ---
 

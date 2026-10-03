@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>18 news articles</strong>, with 10 predicted indications.
+<strong>Metformin</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (17)
+
+### [Hiperbaric impulsa el procesado en frío con su tecnología de altas presiones HPP - Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkpsWHlJYzRjU0RCWXM2QzJuak94YkFGVWR5cTIyM0tjNE92MzQwZy1XR1N6ZGFtbHZ5OVZ6Z18ydmxOZmdjdUk0YTFJN2FtbHFZTE45dkd6OVUzZ0xpU0NQTUdTWkpmbWwybnBvTWJVVHN0UXhhV3Q5VS1pUERfN051NDhSVUNGMnM4UEhmNUF3UjF6R1JYNmJnNkRsTFZMVXFfTnhybjZfek9kWUtuam5Yb1pEa2xuUWgzQ1VXdE1IakJDRERaM0l4a1hkUFk?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkpsWHlJYzRjU0RCWXM2QzJuak94YkFGVWR5cTIyM0tjNE92MzQwZy1XR1N6ZGFtbHZ5OVZ6Z18ydmxOZmdjdUk0YTFJN2FtbHFZTE45dkd6OVUzZ0xpU0NQTUdTWkpmbWwybnBvTWJVVHN0UXhhV3Q5VS1pUERfN051NDhSVUNGMnM4UEhmNUF3UjF6R1JYNmJnNkRsTFZMVXFfTnhybjZfek9kWUtuam5Yb1pEa2xuUWgzQ1VXdE1IakJDRERaM0l4a1hkUFk?oc=5)
+
+---
 
 ### [Fino a dove possono arrivare i farmaci per dimagrire - Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
@@ -76,14 +84,6 @@ Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT
 
 ---
 
-### [Mit dieser schweren Erkrankung ist Diabetes oft verknüpft](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
-
----
-
 ### [Typ-2-Diabetes bei jungen Erwachsenen: Armut und Migration erhöhen das Risiko](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQl9uUFV3NmZKX1BONWl2YjZYdHJyNHpQVkFPSVhmbEEweXRMVUZjdUgzQUtxLW9sVjZVUTNGMUpkT0hEVVRGOFJnWV9MdklRX3UtZ0ZZY09KdDBSWDBxS0t1dnhGYUVXN05OZzdSbFh1UU5fTGhmbUtPSk4wOEUwak9jWjVybTI3dWtLd3hLWndJZzFHNk9OcHRoVG50eXlYRm4yYWRUTQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
@@ -100,19 +100,19 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2d
 
 ---
 
-### [La monitorización continua de glucosa se asocia con menor mortalidad en diabetes tipo 2 con insulina basal](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWhFUGVmNGNnRVl2ckV6TTIxclZ3a1pLakthcmlRYUdIMmlaclJEdlE5djBNYjI4RHg2UmlhN1B0S0RBSUF0Qk04UzdFZWpySVk5c3FYcjhzejVoc29xdXkxakFjNGJYWVRtMUpEcjFaVlBDQXVPcGxJM3UxbXNQcktiX0VGbjdDYlI0cWhhakNwU29FTWlVMll4cndYc2syWGdVb1pjR3BCa0dXVVQ3Ry1yNElsc0xua2JIbldyaU1US2Q0QWV6ZmlFUE1OWDNQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabetes</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWhFUGVmNGNnRVl2ckV6TTIxclZ3a1pLakthcmlRYUdIMmlaclJEdlE5djBNYjI4RHg2UmlhN1B0S0RBSUF0Qk04UzdFZWpySVk5c3FYcjhzejVoc29xdXkxakFjNGJYWVRtMUpEcjFaVlBDQXVPcGxJM3UxbXNQcktiX0VGbjdDYlI0cWhhakNwU29FTWlVMll4cndYc2syWGdVb1pjR3BCa0dXVVQ3Ry1yNElsc0xua2JIbldyaU1US2Q0QWV6ZmlFUE1OWDNQ?oc=5)
-
----
-
 ### [Typ-1-Diabetes: Sex birgt offenbar kein relevantes Hypoglykämierisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
 
 2026-10-01 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
+
+---
+
+### [La monitorización continua de glucosa se asocia con menor mortalidad y menos complicaciones cardiovasculares en diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkhUMmgtU1hEWVY2UlV2aWxFTjI5WTVMY0hSdzEzNTJkb2l3Q01mbmFwdjd4MHd1WHpDRFdFdWRDeENja3drZlJpZUtBN2tIdXR6aVVKTXZleDZJaWFUWUV3S043ZlVYSUFTb0JiMXJrZFVabmFGQXZDdjRGbktwcF95d2ZZWkFZUGJ0Y215STllaTJtcWdkSUhhcWRkalluTHZ3RXZUMWhKSkE4NnB4aURzX3VlS1FYOW9qX3JPRjXSAbsBQVVfeXFMTVRLemNYVS10ell6dkxockZ4azdudXR0RnFGVkhzNEVST0x2NVY4NzJJMVFyYjh6T0tVMGoyZURUaExncTV6TVdkNWhHNjJGQXhROFkxSFJuaUFmcjRWU0QxNTBCb3Ztd3pVRHdLcG1VTkR0RmROTkhtTThpSS1GQTBGZEtveG14MExma1FQbnRGc0d6dGM2LTdVeXVKOWV4MmJNOEdubFl4YVMxSmNEZEgzUXNmdy02WmVlTQ?oc=5)
+
+2026-10-01 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkhUMmgtU1hEWVY2UlV2aWxFTjI5WTVMY0hSdzEzNTJkb2l3Q01mbmFwdjd4MHd1WHpDRFdFdWRDeENja3drZlJpZUtBN2tIdXR6aVVKTXZleDZJaWFUWUV3S043ZlVYSUFTb0JiMXJrZFVabmFGQXZDdjRGbktwcF95d2ZZWkFZUGJ0Y215STllaTJtcWdkSUhhcWRkalluTHZ3RXZUMWhKSkE4NnB4aURzX3VlS1FYOW9qX3JPRjXSAbsBQVVfeXFMTVRLemNYVS10ell6dkxockZ4azdudXR0RnFGVkhzNEVST0x2NVY4NzJJMVFyYjh6T0tVMGoyZURUaExncTV6TVdkNWhHNjJGQXhROFkxSFJuaUFmcjRWU0QxNTBCb3Ztd3pVRHdLcG1VTkR0RmROTkhtTThpSS1GQTBGZEtveG14MExma1FQbnRGc0d6dGM2LTdVeXVKOWV4MmJNOEdubFl4YVMxSmNEZEgzUXNmdy02WmVlTQ?oc=5)
 
 ---
 
@@ -132,14 +132,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ---
 
-### [Roux-en-Y-Magenbypass: Cochrane sieht stärksten Nutzen bei Diabetes - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkRBZUFpeUNmQ0w3cmVTWnNwRGtjNmZ1VkU0b3NubTRHZ25qNVJoOGE3Umt2a2JjTHhaZWhncnMzSUduM2cwUnJCMEtNVklXZFVtUFZzWjRLejcyY1RuQksxaWhmamw4SmFQcVUzd3hDa0JuMXJ1emJZdlZheGpQcWpmOVNXOGNfd3VOZHI0NjBjQWdnMUJlbklZUTZJaHJ4cXd0RUVjZFV4MkJXYnd6SWRFZ1g5MWc?oc=5)
-
-2026-09-30 <span class="news-indication-tag">diabetes</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkRBZUFpeUNmQ0w3cmVTWnNwRGtjNmZ1VkU0b3NubTRHZ25qNVJoOGE3Umt2a2JjTHhaZWhncnMzSUduM2cwUnJCMEtNVklXZFVtUFZzWjRLejcyY1RuQksxaWhmamw4SmFQcVUzd3hDa0JuMXJ1emJZdlZheGpQcWpmOVNXOGNfd3VOZHI0NjBjQWdnMUJlbklZUTZJaHJ4cXd0RUVjZFV4MkJXYnd6SWRFZ1g5MWc?oc=5)
-
----
-
 ### [Metformina in gravidanza, cosa succede ai figli quando arrivano a scuola? Lo studio su 177mila bambini](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVHpIVC11WV9fZUk0Skd3U2ZVZFk4RHBHT0ZCVEpiVTVSSzRrdDJxdzVsQzNGbGVVbm9WWFRtYXMwZmNJM1VxNWF0UWF4QTRmS2NzWTU3VWR2aXFvY0p1alBncW1VLWJwVmtGWWQwZ2xwc3JJd3FhcXkwbHQxLUVlVUVnbmFjdkFWcXdUbE1iNDE0UEZ5X25KUkNYYnpLLXI4MUNzbFNzNGI3LUlMbnFaZmpicUpyMkhfV0JlQjlKMUpteHVVVTNYUGtTRlRzNFU1eWlQTTkyQUdJWkFiaGVPcEZKQzlNTWpUUmxOaVlYemZndw?oc=5)
 
 2026-09-30 <span class="news-drug-tag">Metformin</span>
@@ -156,11 +148,11 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMixgFBVV95cU
 
 ---
 
-### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [vanityfair.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
 
 2026-10-02
 
 Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
+
+---
+
+### [Hearing aids show promise for cognitive recovery, but dementia prevention remains unproven - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
+
+2026-10-01
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 3 articles, 7 related drugs."
+description: "Health news about depresión (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Un estudio sugiere que los pacientes con depresión tienen menos síntomas si comen menos alimentos ultraprocesados](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXpVeHVBaWktMjhzNFFvNEM0MUxMVVBVMmZNeEtoVDVvaWhKWmpwTjBtdk5VMWJZMjA5ZlhkWFMwRVpwNmJnYnRWR2ViVDdyajB5azVlMWppNzl0VTdnM1lPaUN3NGE4Z0QxZGYyY0hEekpodlFBOGxpc2l4N2ItMGZQdnpMdVhaRENMaDhJMWk0ZGVBT2gyTWJYNVdrbmQ1NG05a2ZkUi13N1c5T09LTXRBYklEaTlrenpiMTZ3VUpIS2JXX1FETHhXOGdfVDF4b0HSAdIBQVVfeXFMTjd6VC1mOGtkMEpCZjRuUXRCUG8ySnNsblViN25zTVlIaUhTZzNrbDQ0Z2dEeGQ2TUZZeFBiLVJUVzA1SHJoX0pkeHZBSENiYVlERlR1Wk9xblZYdm5YYXEya0YyRzdHemRtbnlRWHlmQlQ2MEtjcDVPTHh3aGs1UV92UzBkSy1xaEdJblNzZnlTZGtLekROcnlIRTNnTDdfSGJkNXF0SWp5OWRORF8tVTFNM0ZHX0pqRTE5WDcyVVB6NFBIYlZYS0ZOUHloQ3dydWJB?oc=5)
-
-2026-10-02
-
-Source: [Expansión](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcXpVeHVBaWktMjhzNFFvNEM0MUxMVVBVMmZNeEtoVDVvaWhKWmpwTjBtdk5VMWJZMjA5ZlhkWFMwRVpwNmJnYnRWR2ViVDdyajB5azVlMWppNzl0VTdnM1lPaUN3NGE4Z0QxZGYyY0hEekpodlFBOGxpc2l4N2ItMGZQdnpMdVhaRENMaDhJMWk0ZGVBT2gyTWJYNVdrbmQ1NG05a2ZkUi13N1c5T09LTXRBYklEaTlrenpiMTZ3VUpIS2JXX1FETHhXOGdfVDF4b0HSAdIBQVVfeXFMTjd6VC1mOGtkMEpCZjRuUXRCUG8ySnNsblViN25zTVlIaUhTZzNrbDQ0Z2dEeGQ2TUZZeFBiLVJUVzA1SHJoX0pkeHZBSENiYVlERlR1Wk9xblZYdm5YYXEya0YyRzdHemRtbnlRWHlmQlQ2MEtjcDVPTHh3aGs1UV92UzBkSy1xaEdJblNzZnlTZGtLekROcnlIRTNnTDdfSGJkNXF0SWp5OWRORF8tVTFNM0ZHX0pqRTE5WDcyVVB6NFBIYlZYS0ZOUHloQ3dydWJB?oc=5)
-
----
-
-### [La conectividad cerebral revela nuevas perspectivas para una psiquiatría más personalizada en la depresión. - Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
+### [La conectividad cerebral revela nuevas perspectivas para una psiquiatría más personalizada en la depresión.](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
 
 2026-10-02
 
-Source: [Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
+Source: [adamedtv.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
 
 ---
 

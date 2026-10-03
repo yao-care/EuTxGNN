@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <li>acrodermatitis chronica atrophicans (98.7%)</li>
 <li>rheumatoid arthritis (98.7%)</li>
 <li>acne keloid (98.7%)</li>
-<li>psoriasis (98.7%)</li>
+<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis (98.6%)</li>
 <li>exanthem (disease) (98.6%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+### [Icotrokinra, con luz verde como primer péptido oral dirigido a IL-23 para tratar la psoriasis](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFp4STdHLThJS0hVQm9WM3dldnNpbmpWaEE4ZkhaNmo0dDRnc29QR200UWJrdVVCUXUtR0RzWUdoYjBzR0plblpvazNmWjVRRHZBUUgxY3Nzb0RJZVJ3cDJWY1VkZlJ5bjFNQW5CbFotYmhRLVRybGZpQVNlOHJlZjVkOXo3YXl4NnpSbzlNT0xRQnZhTmNZck9JbFIzVzYwN3R6ajVsQ05lazhLalF0d2ZiYVNOdlhNa2c?oc=5)
+
+2026-10-02 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Farmacosalud](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVFp4STdHLThJS0hVQm9WM3dldnNpbmpWaEE4ZkhaNmo0dDRnc29QR200UWJrdVVCUXUtR0RzWUdoYjBzR0plblpvazNmWjVRRHZBUUgxY3Nzb0RJZVJ3cDJWY1VkZlJ5bjFNQW5CbFotYmhRLVRybGZpQVNlOHJlZjVkOXo3YXl4NnpSbzlNT0xRQnZhTmNZck9JbFIzVzYwN3R6ajVsQ05lazhLalF0d2ZiYVNOdlhNa2c?oc=5)
+
+---
+
+### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+Source: [elmedicointeractivo.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 ---
 

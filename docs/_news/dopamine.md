@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 
 ## Related News (2)
 
-### [Vieillissement : le café pourrait permettre de vivre plus longtemps et en meilleure santé - Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa084cE9IZFpiT0hwMUgzd2NxelEyYkZCbGZNOXNDeWhjQ3U4SkFHQjlidUZMaFBRSTRUWTNnWWtWanV0ZE55X2pDY0ZiWGgyLS1IazA3b2YzN2FobVhMY3NhZWhFd2JhRE55S2lZcWhLQ0RrME9adzVYSW0zamZZWkk5bWNxTmpLenJzcUFUdnNiZi1pOHR2Y3pCM1dCWk9WdFZ3ek9BVVI2NkJFeWMwTE1NcFJpR25WdHNFTk0tRndXWEJmYmNnaTJMTENyYWxpaVdxS054a01ZYnNsT21OSzNR?oc=5)
+### [Vieillissement : cette boisson très consommée pourrait vous aider à mieux vieillir - Charente Libre](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmJxbXpLRVlWZXFISnhIbWNTbWpITFpuT3FWZGJwVDIxSVNaTmxWVXdISWI4bVN4NXJER25mRW1SSXFXaDJvbjFUSG1wVUtoczcxT0lkeEM2XzNNNVg3WF9zSVdBdC1aNXVLY1VzdktGZldSVHdiNGhKNkFfWjVxOGU0cEdwcVVyUW1VWEJRUEllamVXYTVuU2Y1Mkt5TzZhbHp1Sy02MFphVkdtV3FKb3RTWjRjeko4aXc3MmVmeHBNck11VnhzT0xn?oc=5)
 
-2026-10-01 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">AF</span>
+2026-10-02 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">AF</span>
 
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa084cE9IZFpiT0hwMUgzd2NxelEyYkZCbGZNOXNDeWhjQ3U4SkFHQjlidUZMaFBRSTRUWTNnWWtWanV0ZE55X2pDY0ZiWGgyLS1IazA3b2YzN2FobVhMY3NhZWhFd2JhRE55S2lZcWhLQ0RrME9adzVYSW0zamZZWkk5bWNxTmpLenJzcUFUdnNiZi1pOHR2Y3pCM1dCWk9WdFZ3ek9BVVI2NkJFeWMwTE1NcFJpR25WdHNFTk0tRndXWEJmYmNnaTJMTENyYWxpaVdxS054a01ZYnNsT21OSzNR?oc=5)
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmJxbXpLRVlWZXFISnhIbWNTbWpITFpuT3FWZGJwVDIxSVNaTmxWVXdISWI4bVN4NXJER25mRW1SSXFXaDJvbjFUSG1wVUtoczcxT0lkeEM2XzNNNVg3WF9zSVdBdC1aNXVLY1VzdktGZldSVHdiNGhKNkFfWjVxOGU0cEdwcVVyUW1VWEJRUEllamVXYTVuU2Y1Mkt5TzZhbHp1Sy02MFphVkdtV3FKb3RTWjRjeko4aXc3MmVmeHBNck11VnhzT0xn?oc=5)
 
 ---
 

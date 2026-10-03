@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
+
+---
+
+### [Hearing aids show promise for cognitive recovery, but dementia prevention remains unproven - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
+
+2026-10-01 <span class="news-indication-tag">dementia</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
 
 ---
 

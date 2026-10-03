@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (4)
 
-### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide - El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+### [La detección precoz y los nuevos tratamientos transforman el abordaje de la artritis reumatoide](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
+Source: [elmedicointeractivo.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlljeXZpbVItVzVfWmtScExfR09RTE1xTGEybHpEeTNzcm9WZ2hueWszaTE1cGRzT2cwNnZvR0ZPVXptMGZWOFl3LTlWRVpsWXFZcWJVOXh6WlduY3p2VEUxWnZ6eldrTy1sVl9GRXhULWxFclhaaEt3TThMamJxMVptZjRYenBIYkthbW9QZmxhWTZ3UmViZEZ6T3BrQUFFUjktaTBzTXUxTnlqd1IyeWZOclA4YlM4X3R3bjVrU0J6Q3pielhr?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTR5c
 
 ---
 
-### [New weight jab 'burns fat with half the side-effects' of Mounjaro and Wegovy](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHdDMWMtR2M2dURBd0pQSC1UQlpWcGFQTThSYWlMSUxUU1F6Snk4c3UyeWZmdTlrRUZvMTBDX3E0UlZYTVRCWjRTcFhaNGNTSnBmZ1Q5M0RGS19DcVRuMk9CWFZDSW92Z1pza0pBazNVazF1bW5SVWhwVU9RMGNxeVB3elBYVGM1eTJpOGpmR2J3TUlRNmE4OE5uVQ?oc=5)
+### [New weight jab 'burns fat with half the side-effects' of Mounjaro and Wegovy - The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHdDMWMtR2M2dURBd0pQSC1UQlpWcGFQTThSYWlMSUxUU1F6Snk4c3UyeWZmdTlrRUZvMTBDX3E0UlZYTVRCWjRTcFhaNGNTSnBmZ1Q5M0RGS19DcVRuMk9CWFZDSW92Z1pza0pBazNVazF1bW5SVWhwVU9RMGNxeVB3elBYVGM1eTJpOGpmR2J3TUlRNmE4OE5uVQ?oc=5)
 
 2026-09-30 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
 
-Source: [thesun.co.uk](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHdDMWMtR2M2dURBd0pQSC1UQlpWcGFQTThSYWlMSUxUU1F6Snk4c3UyeWZmdTlrRUZvMTBDX3E0UlZYTVRCWjRTcFhaNGNTSnBmZ1Q5M0RGS19DcVRuMk9CWFZDSW92Z1pza0pBazNVazF1bW5SVWhwVU9RMGNxeVB3elBYVGM1eTJpOGpmR2J3TUlRNmE4OE5uVQ?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHdDMWMtR2M2dURBd0pQSC1UQlpWcGFQTThSYWlMSUxUU1F6Snk4c3UyeWZmdTlrRUZvMTBDX3E0UlZYTVRCWjRTcFhaNGNTSnBmZ1Q5M0RGS19DcVRuMk9CWFZDSW92Z1pza0pBazNVazF1bW5SVWhwVU9RMGNxeVB3elBYVGM1eTJpOGpmR2J3TUlRNmE4OE5uVQ?oc=5)
 
 ---
 
