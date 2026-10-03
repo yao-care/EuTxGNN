@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's (alzheimer disease) News
+# maladie d'Alzheimer (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
+### [Votre voix pourrait révéler votre âge et à quelle vitesse vous vieillissez - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
 
-2026-10-02
+2026-10-03
 
-Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
-
----
-
-### [Hearing aids show promise for cognitive recovery, but dementia prevention remains unproven - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
-
-2026-10-01
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1xc1Vsb2JZRl9pTnlpNkQwV1hSTEFLbkxpNWNKdEFzTFltdVV4YXZRUk9SNmNLZHFEVUVtUm9wNkJVdVkyTzFuWWk1aVdnYkd0cERJMWdRcmNCM3FxajFZOGMxVFktandyeFV1N01teTdKTGNTc01qZWxjQ1BWelRIRzBkLThYa0p1enRBYVhqazM2aG9GMGFycXByNzY1ZnRqSWtDYUFNRDNvSExESHpkQQ?oc=5)
 
 ---
 

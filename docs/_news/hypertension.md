@@ -3,7 +3,7 @@ layout: default
 title: "ipertensione (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ipertensione (hypertension). 4 articles, 55 related drugs."
+description: "Health news about ipertensione (hypertension). 5 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about ipertensione (hypertension)?">
-<strong>ipertensione (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
+<strong>ipertensione (hypertension)</strong> currently has <strong>5 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “ipertensione” and li
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Danno renale da ipertensione: 5 campanelli d'allarme del corpo da non sottovalutare mai](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
+
+2026-10-02
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3NfcWNGU3JuX1JFTkFKUVdmTVFvNzgtVHRhcjJpb0s5RUU1Ri10UTFZbVpGYTkwb3NHS3NiT3NHXzBXMzVYWkdCdDJSRmVtTEpicTBNYWhiMU1TQWl2c3pINk01Szg5MS04SlVlbW5LSFpCeG1uX2FaTTdSVlphQU4tcFNKR3pjZVpXcS05cG1vNzdraUpfZ2JDN3VCanI5UnN6aGlBR3FTWWtRR3dwOV9LWlp0S2o1bi1UaHJ0dVVjWlRSSW42RTJfVV8tVjBXUW5XWDIyWWswUQ?oc=5)
+
+---
 
 ### [30 grammi di frutta secca al giorno: cosa succede al rischio di ipertensione?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajBjOWRtSzBtSHJHbHpJV3RsQlVvb3JfTi1KbklDT0F4dWttMkk1RXZSdG02TzFrN0JBVEJmbUgxLUFib1M3SzE3dk5fZFJNNXpES3RSRThQSTJOelcxUXJDeU5nZmI4SDZIWEhYcGdJWW4xSGJ2SFJ6V0ZrVDRwdlhqZ2diQVdMUjA1SlFYWlN0WHVueGhCTmFWMmFheWdWWkpVYXRiT2FYVU5VeUFOWFpmdjBXbGdVc0JFTnExRk4wb0x5N3JTRW5DOUZiOWRV?oc=5)
 

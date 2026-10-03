@@ -14,7 +14,7 @@ permalink: /news/nusinersen-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Nusinersen Sodium?">
-<strong>Nusinersen Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Nusinersen Sodium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,9 +30,15 @@ This page combines the AI-predicted indications for Nusinersen Sodium with the l
 <p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [El consumo frecuente de cannabis se asocia con una epilepsia más grave y más convulsiones](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSndvbVB5SGtNdWVmNy05U1IwYzBQalVwUU4xaUMwa1g1RDJyMFl4cjRwamg2Y0lnQy1YZUdBcUk3Rnp1UnQ2Z21mVk1LcDd0d3JVQURLTWFRZk9CQllyV0ZaOXpKZGhNWVh3MUpKelZvaFUzNDZXeHc3eE41c2pObUxQd2kzLUJ5VklGa2JGZ195MGhmTVptblFoQTQ1aGFmQXFqU1RnVmVRZXNfVkFXX1ltVXNTdTA3YzZTdlpVdjVKaDNFeHNF?oc=5)
+
+2026-10-03 <span class="news-indication-tag">epilepsia</span>
+
+Source: [consalud.es](https://news.google.com/rss/articles/CBMixwFBVV95cUxOSndvbVB5SGtNdWVmNy05U1IwYzBQalVwUU4xaUMwa1g1RDJyMFl4cjRwamg2Y0lnQy1YZUdBcUk3Rnp1UnQ2Z21mVk1LcDd0d3JVQURLTWFRZk9CQllyV0ZaOXpKZGhNWVh3MUpKelZvaFUzNDZXeHc3eE41c2pObUxQd2kzLUJ5VklGa2JGZ195MGhmTVptblFoQTQ1aGFmQXFqU1RnVmVRZXNfVkFXX1ltVXNTdTA3YzZTdlpVdjVKaDNFeHNF?oc=5)
+
+---
 
 
 <div class="disclaimer">
