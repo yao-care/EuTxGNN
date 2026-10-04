@@ -52,11 +52,11 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cU
 
 ---
 
-### [Amyloid-PET prognostiziert Alzheimer-Risiko unabhängig von der Auswertungsmethode - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+### [Amyloid-PET prognostiziert Alzheimer-Risiko unabhängig von der Auswertungsmethode](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
 
 2026-10-04 <span class="news-indication-tag">Alzheimer-Krankheit</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+Source: [it-boltwise.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
 
 ---
 

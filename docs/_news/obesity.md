@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 11 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 12 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>11 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>12 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [Enicepatida, con resultados positivos en personas que viven con diabetes tipo 2 y sobrepeso u obesidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
 
@@ -70,11 +70,11 @@ Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3en
 
 ---
 
-### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie »](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
 2026-10-03
 
-Source: [lemonde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
 ---
 
@@ -94,11 +94,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cU
 
 ---
 
-### [La obesidad activa un mecanismo que altera la relajación del corazón: investigación liderada por Centro Nacional de Investigaciones Cardiovasculares Carlos III - La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
+### [obesidad y disfunción diastólica: receptor de glucocorticoides - Diario Occidente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi1ZbnQyYjhXZ0tSbUVfU2NxTUhKMEcxd0ZYSlhZbklKWDF5RmkxRG56YWhvSGg4enZqNnRfZF9vM1Y5OW5qYl9YeW1Oc1htaTdOQWNhSC1qYXo4NEtxLUh2clNYS1JIQ1FLcDRsMmdVU3VOMUVndmFISHAxNnBBVHBoanBCSEdEdUxjd2ZJMUF3Rm00dDhqLVFn0gGkAUFVX3lxTFBQcDhhM1dUT0d1djV1TlF3aUN3MWcyclNoNmpobWhGSWRBTFV2Nk9hRkp1b1Frc3pTV3FsQmUxRkZkMDd6c2V0NmxOVGRXM2RrS0V2aTBybG1Kc1R2U0M1eGpkTEpoLXZmbDRldGxJVVRvTWtpbkxYMXRPMWMyTmxYTGJIcFdSMlhDQmRWaERROS13dy12ZUc4WFVEcVM3dWVFVDJH?oc=5)
 
 2026-10-02
 
-Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
+Source: [Diario Occidente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi1ZbnQyYjhXZ0tSbUVfU2NxTUhKMEcxd0ZYSlhZbklKWDF5RmkxRG56YWhvSGg4enZqNnRfZF9vM1Y5OW5qYl9YeW1Oc1htaTdOQWNhSC1qYXo4NEtxLUh2clNYS1JIQ1FLcDRsMmdVU3VOMUVndmFISHAxNnBBVHBoanBCSEdEdUxjd2ZJMUF3Rm00dDhqLVFn0gGkAUFVX3lxTFBQcDhhM1dUT0d1djV1TlF3aUN3MWcyclNoNmpobWhGSWRBTFV2Nk9hRkp1b1Frc3pTV3FsQmUxRkZkMDd6c2V0NmxOVGRXM2RrS0V2aTBybG1Kc1R2U0M1eGpkTEpoLXZmbDRldGxJVVRvTWtpbkxYMXRPMWMyTmxYTGJIcFdSMlhDQmRWaERROS13dy12ZUc4WFVEcVM3dWVFVDJH?oc=5)
 
 ---
 
@@ -118,11 +118,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ---
 
-### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 2026-09-29
 
-Source: [vanityfair.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+
+---
+
+### [Controlar artritis reumatoide reduce riesgo de infecciones, enfermedad cardiovascular y obesidad](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+
+2026-09-29
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

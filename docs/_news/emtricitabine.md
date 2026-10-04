@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Emtricitabine?">
-<strong>Emtricitabine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Emtricitabine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Emtricitabine with the lates
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Hepatitis A cases confirmed at two Newcastle primary schools as parents sent urgent warning - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHZnTlZzSFZValhOMkJ1OGhMMEJfTV9Rczc0VFRLT0Z4RWNIdGJxUTBYdkt2SUhHWC1Fa3BDSUJPcWZKeFEySk9reHg0aWRsLU9ORHhXSEIxR2psRlpRZEwxakJVS2FWQ3p2bFhPVGFCZlRLUTB3czQzYTRudHQxT2JqWm16dS1QN0JXbNIBkgFBVV95cUxQNWdZY3RmcXQwOEl4TXZlXzlLZG5veFBSX1BSUUoxQWRKUDRFdllQZ1RHZ20xeXNYNUlCN2d2WkFfNzMwRzJFSC1ya1B3bWtWT2JOUUFFYklpTzBLOGRneGhSOGZzbURUTE9sM2tlVThpZUxzSmlhc2MyS2xWZThxMG9Fb3dKeGRCSEtrdjFUZDh1QQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">hepatitis</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHZnTlZzSFZValhOMkJ1OGhMMEJfTV9Rczc0VFRLT0Z4RWNIdGJxUTBYdkt2SUhHWC1Fa3BDSUJPcWZKeFEySk9reHg0aWRsLU9ORHhXSEIxR2psRlpRZEwxakJVS2FWQ3p2bFhPVGFCZlRLUTB3czQzYTRudHQxT2JqWm16dS1QN0JXbNIBkgFBVV95cUxQNWdZY3RmcXQwOEl4TXZlXzlLZG5veFBSX1BSUUoxQWRKUDRFdllQZ1RHZ20xeXNYNUlCN2d2WkFfNzMwRzJFSC1ya1B3bWtWT2JOUUFFYklpTzBLOGRneGhSOGZzbURUTE9sM2tlVThpZUxzSmlhc2MyS2xWZThxMG9Fb3dKeGRCSEtrdjFUZDh1QQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

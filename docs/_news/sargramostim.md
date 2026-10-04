@@ -14,7 +14,7 @@ permalink: /news/sargramostim/
 ---
 
 <p class="key-answer" data-question="What news is there about Sargramostim?">
-<strong>Sargramostim</strong> currently has <strong>48 news articles</strong>, with 20 predicted indications.
+<strong>Sargramostim</strong> currently has <strong>42 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Sargramostim with the latest
 <p><a href="{{ '/drugs/sargramostim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (48)
+## Related News (42)
 
 ### [Enicepatida, con resultados positivos en personas que viven con diabetes tipo 2 y sobrepeso u obesidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Farmacosalud](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
+
+---
+
+### [Sangue nelle urine: un nuovo test molecolare può svelare subito se si tratta di calcoli o di un tumore alla vescica](https://news.google.com/rss/articles/CBMihAJBVV95cUxQdjZOdWl6TEdvOTVvNDVpaUpUbGdBQUpRbXltZkVzblZWQ2hWdjIwM3l3TVVIdWJ1NFFiUWNjdzctY1h6WEg1RFc5dWpiQTg1MFpaZEwtaklNSlhpLTlrY0Vza3c4Z3hPWXNNM1B3REtzRzVUMjIwN1liZVZ1cTI2SlFFT3FWMWh2Z18tSDRJMlZUeC10ZTAxdlpXaG1XVXlEbFQyc1dXZVFKNURMYnJySGJkRmlaRERWcklQM2U4T0NNNlJXUkZQTFp4RDhBR1FheEM4SU1Qc1I1WU5HZkZENHNsNmRDeDVlbjRFNVN4OVYxampfYWpWZ2NCTlIxSFNqcG1DNQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMihAJBVV95cUxQdjZOdWl6TEdvOTVvNDVpaUpUbGdBQUpRbXltZkVzblZWQ2hWdjIwM3l3TVVIdWJ1NFFiUWNjdzctY1h6WEg1RFc5dWpiQTg1MFpaZEwtaklNSlhpLTlrY0Vza3c4Z3hPWXNNM1B3REtzRzVUMjIwN1liZVZ1cTI2SlFFT3FWMWh2Z18tSDRJMlZUeC10ZTAxdlpXaG1XVXlEbFQyc1dXZVFKNURMYnJySGJkRmlaRERWcklQM2U4T0NNNlJXUkZQTFp4RDhBR1FheEM4SU1Qc1I1WU5HZkZENHNsNmRDeDVlbjRFNVN4OVYxampfYWpWZ2NCTlIxSFNqcG1DNQ?oc=5)
 
 ---
 
@@ -138,7 +146,7 @@ Source: [Perfil](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3pyR2pubm
 
 2026-10-03 <span class="news-indication-tag">tumor</span>
 
-Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1ltOWMtcUR5NUQtSnR4QkphUlJhRWlYcDFreC1hVlBoNDR5clVRSmFvbW5IS2dxUmhmS2VXbWREX0lrZUE1X3Bqc0JOdU1tNTlWci1XbUJyOThoRHhPMEpEZ1VRMnRZRTNaODhoNnlwWldMMVo2c0tQZlFLbHhYWjZEeTNPZDBxVUdoUkhVTjk1OWp0My05cUhrcGMxeTBOUHNybDVfYTI?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ1ltOWMtcUR5NUQtSnR4QkphUlJhRWlYcDFreC1hVlBoNDR5clVRSmFvbW5IS2dxUmhmS2VXbWREX0lrZUE1X3Bqc0JOdU1tNTlWci1XbUJyOThoRHhPMEpEZ1VRMnRZRTNaODhoNnlwWldMMVo2c0tQZlFLbHhYWjZEeTNPZDBxVUdoUkhVTjk1OWp0My05cUhrcGMxeTBOUHNybDVfYTI?oc=5)
 
 ---
 
@@ -155,22 +163,6 @@ Source: [BILD](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZEtxWmd1ZHdp
 2026-10-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3enlfUlF5YXZ5TmJrc0JpeUxJdzdGSHBvZEo3Uk42OG9kOEk5YXBvM19EdmdneWZQZFdlbVNiNWQyMVhPM19YNFdXLXlxWE5TbTV6VWhoY2ZQcGdkX0FVdWI1OWh1d3VJVEtTc2hjOFFCNks3T29LOW5wZkMtaHMzU0p4bWcyNmhPTEs0dE85RXZMRDQyOUtheUlLVWg3akxPMTB3SzJBamNic09yNHJDZ3RQNEJsZmtjSHpiVkQtLXR6RTQ4d0hmQQ?oc=5)
-
----
-
-### [Tumore della vescica: test delle urine a Rna per diagnosi e terapie personalizzate](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0plcHdxeDZINVRlSGZteWViOWdIYkxvZGVpYUFJMnlEa2xpN1pncDR5YjNQcEtKcVlnZWFmUUFjUVF5WWVwWUk5ZlByak1PR2Q4U1lqc29lZGtUSnR0S0JBd1JORVNVbzJ0bl9BQUJrXzJlM01QTmdpTDNwU2VuUEd3ZnlhYXJ0cnEtMnpYaFpNcWs5bFd5UUFnaTAwdmJDMHkxeGlPRzhXc2ZoSWlyZzZXeDE4dnF2VnBCcGpWX1Bha1J1azJxdl81UnNOZWpfeDhicWFueEJYd3hQ0gFoQVVfeXFMT3lrZmVTeVBEUnp0TlAtN2o3NTZTZXpnTk53TWFMa1paVkNTOUpGSnBNZlJWT1NUM3JWd1BrQWo1VXBXd0VqNWJna09iOFlZSUZ0aDhWakZvcVJtMEY2b1VXVlVBT2JNeDU?oc=5)
-
-2026-10-03 <span class="news-indication-tag">tumor</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ0plcHdxeDZINVRlSGZteWViOWdIYkxvZGVpYUFJMnlEa2xpN1pncDR5YjNQcEtKcVlnZWFmUUFjUVF5WWVwWUk5ZlByak1PR2Q4U1lqc29lZGtUSnR0S0JBd1JORVNVbzJ0bl9BQUJrXzJlM01QTmdpTDNwU2VuUEd3ZnlhYXJ0cnEtMnpYaFpNcWs5bFd5UUFnaTAwdmJDMHkxeGlPRzhXc2ZoSWlyZzZXeDE4dnF2VnBCcGpWX1Bha1J1azJxdl81UnNOZWpfeDhicWFueEJYd3hQ0gFoQVVfeXFMT3lrZmVTeVBEUnp0TlAtN2o3NTZTZXpnTk53TWFMa1paVkNTOUpGSnBNZlJWT1NUM3JWd1BrQWo1VXBXd0VqNWJna09iOFlZSUZ0aDhWakZvcVJtMEY2b1VXVlVBT2JNeDU?oc=5)
-
----
-
-### [Testing breast milk ‘may lead to earlier cancer diagnosis’ - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHU2ZFJnNExXVW94cGVHQUlyb2N4ZVYzTWpWcDlCcy1IWXFRMWFXWEhJQVJ3YXN0MmE0UEdWZ3Q1ZlpkWkp3ZDlvMXBFRFJFUHFYbk9heE9YZzhrODdVWDdzR1NIUWtGeXl3eExjMm56NFB0OVltT0Y2OFpEUDI4YU9nSlk1em1zTXBqMURYZmU3Z1ZjNWMyQm42MklOQ1BkaG1URkVn?oc=5)
-
-2026-10-03 <span class="news-indication-tag">cancer</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxOVHU2ZFJnNExXVW94cGVHQUlyb2N4ZVYzTWpWcDlCcy1IWXFRMWFXWEhJQVJ3YXN0MmE0UEdWZ3Q1ZlpkWkp3ZDlvMXBFRFJFUHFYbk9heE9YZzhrODdVWDdzR1NIUWtGeXl3eExjMm56NFB0OVltT0Y2OFpEUDI4YU9nSlk1em1zTXBqMURYZmU3Z1ZjNWMyQm42MklOQ1BkaG1URkVn?oc=5)
 
 ---
 
@@ -214,14 +206,6 @@ Source: [Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95c
 
 ---
 
-### [Retinal Thinning Seen Below Prediabetes A1c Threshold](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlIU1hiMmNMR2Z6aE92aTh0OWlUZzA5VWY1Y0RQeWNVZUJIYUpxZ0dCU0s5Q1p5cFYzdGVXSzhxNllkRWxXRFpKWTZINklJMldfd210VTBSTGJ3cUsyamVXd3VpMkhyLW1haWhsS3E2ZWYyd2gyeXJWVTQxUm0xV1dMNHFrSzhTNTZRd1FkVkoxYk14U3JfT0NycWg1M0xnSmp6TW5qSTFlbWxn?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlIU1hiMmNMR2Z6aE92aTh0OWlUZzA5VWY1Y0RQeWNVZUJIYUpxZ0dCU0s5Q1p5cFYzdGVXSzhxNllkRWxXRFpKWTZINklJMldfd210VTBSTGJ3cUsyamVXd3VpMkhyLW1haWhsS3E2ZWYyd2gyeXJWVTQxUm0xV1dMNHFrSzhTNTZRd1FkVkoxYk14U3JfT0NycWg1M0xnSmp6TW5qSTFlbWxn?oc=5)
-
----
-
 ### [Investigación vincula edad al diagnóstico con riesgo cardiovascular y mortalidad en diabetes tipo 2 - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
@@ -259,14 +243,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb
 2026-10-02 <span class="news-indication-tag">cancer</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3lkdUEzekxFWC10cUNNcExLcm02MEtTLVpEY3RCT0Y0eVVLMHZKZ3AtaVV0OHh1cG9ITGg5UUI4dVdmYXFlVS1kY2JwZjFsX3dZWDR4YjRQbTJyTE1XdmZLRWg1UWlOV1lSTzRNYmoyanVRZ1gyUEk1c1l6R2lKQlI1XzHSAYoBQVVfeXFMUFVsZy1NZFdKc1NjdTNkeTNyTkJfaWJYQ01hRy1JS3Q4R1p5OURENVM4N2s3MG1VOVJpRWZGdHJYSndyRnhMVzBHclFhMi1HZkxLMVljQ3N4S1dPRVFDUDc4X3dNWjh1YmhISC1TVnJuVE1ZQWQ4X0RLSFhrM1plU01VaG9FeFItcjNB?oc=5)
-
----
-
-### [Urine cell-free RNA for bladder cancer detection and treatment response prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WWRvRHYxNWctYnYtbjFMNVlLN2VDNm9vTklLd0pQQlhxUFNxUzhHcnFDOEp4cXF3WXY3VWFuM3lUWTBEUjRxVUlFWUNTNU1UVkdndkxWcERrY1hVMUJV?oc=5)
-
-2026-10-02 <span class="news-indication-tag">cancer</span>
-
-Source: [nature.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE54WWRvRHYxNWctYnYtbjFMNVlLN2VDNm9vTklLd0pQQlhxUFNxUzhHcnFDOEp4cXF3WXY3VWFuM3lUWTBEUjRxVUlFWUNTNU1UVkdndkxWcERrY1hVMUJV?oc=5)
 
 ---
 
@@ -342,35 +318,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ---
 
-### [Krebsprävention: Lampertheimer Ausstellung informiert über HPV-Impfung - Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Krebs</span>
-
-Source: [Mannheimer Morgen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUl81N3dTWGVPLUVWYkE2T0djdFdHd0s4bjlUMlZaaTdfcEVueHdzWFplM3A3Z2stQzhVdzNRV0oydmV1cGM4Y2k1THJHSlZUSHBtUjJ1Y3VvZUhZNzlVN2NENDNHUlA1Ny1ZRjhKOU8teC01MGtyVGJoaWRIQlA4RnUxSXpleU0taEI3a2diVkZHYVlSQkpucTl1YW9GY25ZSC1fRnNza1RtSUlxU0dtc0gxNU1HREpnUVNRaTg0N09DYTRxQTAzZk5CWFBFVVlrWE42NWVia2gyTk11SUtqV0FQZzlwSm1jbUNTZjhhbEtsWFE?oc=5)
-
----
-
-### [L'environnement de travail est-il sous-estimé dans l'apparition des cancers ?](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOHh2MU5zOXhBZWYzTnM3di03QjdJMDV2bjdhckxESWtla1VZSUQ2SjBvRnJVSnBvM0p0NGszNENzUzJYMm9VZHdqZjkwbFBqZmRBa2JHaFM1OGpENDBjbzVUcGw4bk9HQzQxUjVxd3FJbkl0YjNoTExOU1FyS0pCM0htUHpMMHEyczhNcERVcnpqMjhiWkRSMU9oa3lpdDZFMGx2TnJTVFdYWERZcjRqRFRLU18xd1lMRDBFMXY2ejY2VG9la1Itd2tDaXBCS3gteU93b0laX296MGMyZHFnN0Y1MV9Fa05DeHlVSEV3QWFFWHJLZHE5Y3pIZmk5clFETXdQaElPUQ?oc=5)
-
-2026-09-30 <span class="news-indication-tag">cancer</span>
-
-Source: [franceinfo.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxQOHh2MU5zOXhBZWYzTnM3di03QjdJMDV2bjdhckxESWtla1VZSUQ2SjBvRnJVSnBvM0p0NGszNENzUzJYMm9VZHdqZjkwbFBqZmRBa2JHaFM1OGpENDBjbzVUcGw4bk9HQzQxUjVxd3FJbkl0YjNoTExOU1FyS0pCM0htUHpMMHEyczhNcERVcnpqMjhiWkRSMU9oa3lpdDZFMGx2TnJTVFdYWERZcjRqRFRLU18xd1lMRDBFMXY2ejY2VG9la1Itd2tDaXBCS3gteU93b0laX296MGMyZHFnN0Y1MV9Fa05DeHlVSEV3QWFFWHJLZHE5Y3pIZmk5clFETXdQaElPUQ?oc=5)
-
----
-
 ### [Bowel cancer screening programme expanded in Northern Ireland](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvU3YxV01WVlRxVFdNWEszOXMycHRYTTNIZGc0Q2ZmcGxEMjYyWFd4bmw1bUpSY3B6ZEE0VGJGZ2NpZ3VZb21rd1ByTjl3cnlsemhZNjd1M0htWV9oalE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvU3YxV01WVlRxVFdNWEszOXMycHRYTTNIZGc0Q2ZmcGxEMjYyWFd4bmw1bUpSY3B6ZEE0VGJGZ2NpZ3VZb21rd1ByTjl3cnlsemhZNjd1M0htWV9oalE?oc=5)
-
----
-
-### [Creato in laboratorio il probiotico anti-diabete: produce GLP-1 e riduce la glicemia](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
-
-2026-09-30 <span class="news-indication-tag">diabete</span>
-
-Source: [my-personaltrainer.it](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnJvTkt1dG9fZnJsQlRLOUJnSXZtMVpHaDFHSWxXSFdkU3FDNXRWQklQNVFfVDR3aEU3a3lZMXRXTVpFQlFfb19RQVU4eUs4TGZXcFp6ejJMOWJRS3FMOEgxMmd5SDVvUUQ5Q1ZZQjBKMGM0c0l3ZGFqc2IxeklKVkZMcGI5LUY3cFo3eW92WF9MU2llaS0ybllhb1VvWDNCdkpCaG5vVFJ3OGV3bUpFMVlwa0d4bDNMb3d5LVdqbzNBQk1BZmc?oc=5)
 
 ---
 
@@ -390,11 +342,11 @@ Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUw3eW
 
 ---
 
-### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [vanityfair.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
 ---
 
@@ -403,6 +355,14 @@ Source: [vanityfair.it](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg
 2026-09-29 <span class="news-indication-tag">Krebs</span>
 
 Source: [Telepolis](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODJrbFZDTFdZVV9WZDl0SGktc0U4OWc5M19RUTJyZDNzenBrZU5GUFZvakFUZzlKQ0JFLUtQNVVLZ1o2ZkpEMGxwN25FRzVxdzFRNkJGTW5rbVFERUVwdHVfeFZKNjZfT2xlMGl1Z1Z4Rk54cTRXUHM0TUpjc2o3SzlSVU1wWjRzd1ZKMnByZno3RzZMamoweTRsOF9mVVZkdE1KQ3dJeThDeDdLN08tZDNwa0tjbW5Z?oc=5)
+
+---
+
+### [Hallada una nueva diana terapéutica que acerca el objetivo de prevenir la metástasis cerebral y evitar recaídas - La Voz de Galicia](https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGJFXzNwR1lCVVlhTDFtOThYMnJFVHlsNzQ2M3I0NFJfUVVtUTNIbWtvdnZ6dDVkanFrQ3RjVUZRNHYzb1k0WGJoeGpaMU91VXVXcVZoS1E1ZnRySlpfdWdQM0dHSF8tVGVtcmVEamZPbDBGY0ZsU0JrUXdsbnpVSXJMOWtlMExfdDU0QjBQSzctY2lnSG1Fb3B6SmxnalhXUlhqVUtUVTJvUHBHVk5kaS0ydWJuMXh0RkhmVDJpb2lJejNaS1RzRXZ3N1hMSFhpOFNUMUJVWHlQYWxpcTlGbWNKZnA0ZzFNZ2tWcm13b3dDa0ZTUzRUSUxiX2JCWnc1MDJYQXktN3pLclk2RkxEc1N0dTEtMVpNR3FpWFc0d05meVk?oc=5)
+
+2026-09-28 <span class="news-indication-tag">tumor</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGJFXzNwR1lCVVlhTDFtOThYMnJFVHlsNzQ2M3I0NFJfUVVtUTNIbWtvdnZ6dDVkanFrQ3RjVUZRNHYzb1k0WGJoeGpaMU91VXVXcVZoS1E1ZnRySlpfdWdQM0dHSF8tVGVtcmVEamZPbDBGY0ZsU0JrUXdsbnpVSXJMOWtlMExfdDU0QjBQSzctY2lnSG1Fb3B6SmxnalhXUlhqVUtUVTJvUHBHVk5kaS0ydWJuMXh0RkhmVDJpb2lJejNaS1RzRXZ3N1hMSFhpOFNUMUJVWHlQYWxpcTlGbWNKZnA0ZzFNZ2tWcm13b3dDa0ZTUzRUSUxiX2JCWnc1MDJYQXktN3pLclk2RkxEc1N0dTEtMVpNR3FpWFc0d05meVk?oc=5)
 
 ---
 
@@ -419,14 +379,6 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiowFBVV95cU
 2026-09-28 <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
-
----
-
-### [Colesterol, hipertensión y diabetes, tres enemigos silenciosos que pueden dañar el corazón sin dar síntomas - Cadena SER](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGJRczMxelJNbEYzRkd3c3FkX0NCeXAzOGJoQ1drekM5WWZWTkpIeU1QY1Y2T05HV2lVMDdRcnlVMFRDRWZQcVdjM2VNcm81Z0diUEE2cVljWUw2VUk4Z2RuTlQ4SXh2YVRabm5IRU1hS0R0dEExQklaTUlhQlNBRVBKT2c2UHVuWTZ6U2JkOTBXX3R5eWQ3eDNCTHd3aVdwcFdGQWZLZThOY0pCclV6bWVQa21oTVBVR09aQzN6TDVXTVh3OG85Q1BhMkhQQ01DeUJiSFdjZWhIbGZvODVkdTJSd2pmNUFKNlJUVFI3aDJXSEgzY0RSV1N0TEvSAZACQVVfeXFMT3N5RHVSODZLWnRMMTdOSHAyUlhSMDJSWU9SMWpkZ0Zud3F5TGZlLVZDQ3M5ZTVHb0JOZzJ3dEFmWEdVMXJfcHNfMnNRdnBzWWt3RGFSWUVCSElEaV9IYnVPLVBzeFZLbzBRRHRRTXhoQXNnc2ZqWC01eDlENFJxNzFNdXJEcXJRMDFMVmVnTnJfMTgwZFM2TDJzaC1rM1BtdEpSWmRNbEx2aEFWVzVaeFpjcjdIZE95YUF5VWQ3NVQyYjRhcjVWamw5eUJkekcycUVVTkhvQnVtR0ZCTldjWHMtZkF2ZEZMcVJJTmx6Nng1MUNNWlN1SU9ESVh5ck5NcFcyNWp3VnBFRFI3T3ZHWTE?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
-
-Source: [Cadena SER](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcGJRczMxelJNbEYzRkd3c3FkX0NCeXAzOGJoQ1drekM5WWZWTkpIeU1QY1Y2T05HV2lVMDdRcnlVMFRDRWZQcVdjM2VNcm81Z0diUEE2cVljWUw2VUk4Z2RuTlQ4SXh2YVRabm5IRU1hS0R0dEExQklaTUlhQlNBRVBKT2c2UHVuWTZ6U2JkOTBXX3R5eWQ3eDNCTHd3aVdwcFdGQWZLZThOY0pCclV6bWVQa21oTVBVR09aQzN6TDVXTVh3OG85Q1BhMkhQQ01DeUJiSFdjZWhIbGZvODVkdTJSd2pmNUFKNlJUVFI3aDJXSEgzY0RSV1N0TEvSAZACQVVfeXFMT3N5RHVSODZLWnRMMTdOSHAyUlhSMDJSWU9SMWpkZ0Zud3F5TGZlLVZDQ3M5ZTVHb0JOZzJ3dEFmWEdVMXJfcHNfMnNRdnBzWWt3RGFSWUVCSElEaV9IYnVPLVBzeFZLbzBRRHRRTXhoQXNnc2ZqWC01eDlENFJxNzFNdXJEcXJRMDFMVmVnTnJfMTgwZFM2TDJzaC1rM1BtdEpSWmRNbEx2aEFWVzVaeFpjcjdIZE95YUF5VWQ3NVQyYjRhcjVWamw5eUJkekcycUVVTkhvQnVtR0ZCTldjWHMtZkF2ZEZMcVJJTmx6Nng1MUNNWlN1SU9ESVh5ck5NcFcyNWp3VnBFRFI3T3ZHWTE?oc=5)
 
 ---
 
