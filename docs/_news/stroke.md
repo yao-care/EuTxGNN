@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 5 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 4 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>5 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Schlaflosigkeit macht mehr als müde: Studie findet Verbindung zu Schlaganfall und Alzheimer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
 
@@ -57,19 +57,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9
 
 ---
 
-### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 2026-10-02
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
-
----
-
-### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
-2026-09-30
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
+Source: [ilsole24ore.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
 
 ### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
 
 2026-10-03 <span class="news-indication-tag">emicrania</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
+
+---
+
+### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">dépression</span>
+
+Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
 
 ---
 
@@ -83,6 +91,14 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektyMEV
 2026-10-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
+
+---
+
+### [Frauen mit großen Brüsten leiden öfter an Migräne, Nackenschmerzen & Schlafapnoe](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
+
+2026-09-30 <span class="news-indication-tag">Migräne</span> <span class="news-indication-tag">AF</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOak5wcW9ZbDZoMjk2TDZ3bG5STDZyYlUyZnJDdGNKTGg0VlJwTWRfSkdCcXd5TzZ6UTUzSGxsS193aHdLTElYaFVsZXJKYlFvSTh6TXNPMUVJUGNOQ25TdWZ4UWdNWjFJaWJ6eXROLUVFa21OWi1IMmdKLVhyQV9aRnhJY1h6WmprWnl6UUIzRDlVc3VycEdwbG1YYWwwOVdkeENzQWZDOVM0M1VvMEdUUGFjeGhBYnpjeXpsM0pBdmFVbXp3aURUU1FRREFDMDBheXRPUVZoUXdTZw?oc=5)
 
 ---
 

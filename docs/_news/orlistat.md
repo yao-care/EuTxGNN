@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [Schlaflosigkeit macht mehr als müde: Studie findet Verbindung zu Schlaganfall und Alzheimer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
 
 2026-10-03 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [Come-on](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
-
----
-
-### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
-2026-10-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
 ---
 
@@ -86,11 +78,19 @@ Source: [The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzY
 
 ---
 
-### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+
+2026-10-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+
+---
+
+### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 2026-10-02 <span class="news-indication-tag">ictus</span>
 
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+Source: [ilsole24ore.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 ---
 
@@ -114,7 +114,7 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [corresponsables.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
 
 ---
 
@@ -126,17 +126,9 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ---
 
-### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
-2026-09-30 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
----
-
 ### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 

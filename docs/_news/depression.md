@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "depresión (depression) News"
+title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 2 articles, 7 related drugs."
+description: "Health news about dépression (depression). 3 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# depresión (depression) News
+# dépression (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about dépression (depression)?">
+<strong>dépression (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+
+2026-10-03
+
+Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+
+---
 
 ### [La conectividad cerebral revela nuevas perspectivas para una psiquiatría más personalizada en la depresión. - Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
 

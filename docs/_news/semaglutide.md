@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>20 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>21 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (21)
 
 ### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
@@ -102,11 +102,11 @@ Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMirg
 
 ---
 
-### [Investigación vincula edad al diagnóstico con riesgo cardiovascular y mortalidad en diabetes tipo 2 - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
+### [Investigación vincula edad al diagnóstico con riesgo cardiovascular y mortalidad en diabetes tipo 2](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
 
-Source: [Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
+Source: [cordobabn.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ Source: [Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFB
 2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
-
----
-
-### [Ein Stoff in rotem Fleisch könnte Diabetes begünstigen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
 
 ---
 
@@ -146,7 +138,15 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJf
 
 2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [corresponsables.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+
+---
+
+### [Rotes Fleisch: Hohe Neu5Gc-Aufnahme mit 63 Prozent mehr Diabetesrisiko verbunden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWdaTFl5eXl2NkZFZ3YxMF9TNW5VZzM3TXV3ZnJrSW0yejg0dGdXVkFpMWtHNTRUYlZpbmVjLTdrTmFhbDJ3Y3VGVU01dXo1WDZpdjg3eGFhS3UxckZZRC1Eb080eV9EWGZCc0J6cG0tWFdUdU9fSDBUNUZUS0pPdWpjelpVbnA2Y1lwTk8zNmhHT09uM29ySnpxWVZoYmhVd3hNTWRUSE1fbndNeGdhSjVHWWdNMGJIdHc?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQRWdaTFl5eXl2NkZFZ3YxMF9TNW5VZzM3TXV3ZnJrSW0yejg0dGdXVkFpMWtHNTRUYlZpbmVjLTdrTmFhbDJ3Y3VGVU01dXo1WDZpdjg3eGFhS3UxckZZRC1Eb080eV9EWGZCc0J6cG0tWFdUdU9fSDBUNUZUS0pPdWpjelpVbnA2Y1lwTk8zNmhHT09uM29ySnpxWVZoYmhVd3hNTWRUSE1fbndNeGdhSjVHWWdNMGJIdHc?oc=5)
 
 ---
 
@@ -155,6 +155,14 @@ Source: [corresponsables.com](https://news.google.com/rss/articles/CBMiswFBVV95c
 2026-10-02 <span class="news-indication-tag">diabetes</span>
 
 Source: [T-Online](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
+
+---
+
+### [Giornata mondiale della vista: controlli gratuiti in 90 città per tutelare un bene prezioso](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXBEZGRuWDhSVkJwYWRYU0RPaDNZeXRPVUs5ZjVUOXN0VllRVG90d3Rjdno4NklfVndWRjAyeUpuQWx4WU9FVF9BUS1ONld6alQ3bi1FeHNoRjJITG9VVFNMd0VwQnMwZlIzLVczVDVHUkFnZ3dtLXNRY2VrS3ZHdkpqT2VvelN5X0NiS3YzOE1hWVhJVmJUd09zcGRfLUxCS3lSTzZsV0Y5azVJTEhSdnJKOEZvY2d5RnVoa010aG12dmRULUVPbEMwNGR4UFlUa0pKZ1VGQTk?oc=5)
+
+2026-10-01 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXBEZGRuWDhSVkJwYWRYU0RPaDNZeXRPVUs5ZjVUOXN0VllRVG90d3Rjdno4NklfVndWRjAyeUpuQWx4WU9FVF9BUS1ONld6alQ3bi1FeHNoRjJITG9VVFNMd0VwQnMwZlIzLVczVDVHUkFnZ3dtLXNRY2VrS3ZHdkpqT2VvelN5X0NiS3YzOE1hWVhJVmJUd09zcGRfLUxCS3lSTzZsV0Y5azVJTEhSdnJKOEZvY2d5RnVoa010aG12dmRULUVPbEMwNGR4UFlUa0pKZ1VGQTk?oc=5)
 
 ---
 
@@ -184,7 +192,7 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMixgFBVV95cU
 
 ### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
@@ -198,11 +206,11 @@ Source: [CardioInfo](https://news.google.com/rss/articles/CBMixgFBVV95cUxOazJMeT
 
 ---
 
-### [Un modello di IA 'legge' il diabete nella voce in 20 secondi](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
+### [Roche anuncia resultados positivos fase II para el agonista dual del receptor GLP-1/GIP enicepatida en personas que viven con diabetes tipo 2 - Revista Pharma Market](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYy0wV2hNdjExMThFSGZUVGg0dHgxdnV1aHZaUnl0XzFNVVZmdFhmOVBGcHdqc1RYVmw0MzRiUnBOMTYzdmhPeFl6WFljaE9idTJ3RHo3Z25FZG9xa2lKajFZd0hoc0tfZEktZFhfdk0wMDFvdm5hOFNvTTl0cXd2bGFYMXZTZU50RWJiYUdUSVhGNVV4eS1LZ3hHcXJvb1lNRzVEdzB1MnpMei1BY1ZvWGlqV0ZuUTdiZGtrT2tVVXBpRkxLNE4wdjA4cFpmWFY0Z1lSNkU2SG4zb2JhRG9ibHgyVVN0WTg5XzFLMzd5LXpxck9nclNF?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabete</span>
+2026-09-29 <span class="news-indication-tag">diabetes</span>
 
-Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYy0wV2hNdjExMThFSGZUVGg0dHgxdnV1aHZaUnl0XzFNVVZmdFhmOVBGcHdqc1RYVmw0MzRiUnBOMTYzdmhPeFl6WFljaE9idTJ3RHo3Z25FZG9xa2lKajFZd0hoc0tfZEktZFhfdk0wMDFvdm5hOFNvTTl0cXd2bGFYMXZTZU50RWJiYUdUSVhGNVV4eS1LZ3hHcXJvb1lNRzVEdzB1MnpMei1BY1ZvWGlqV0ZuUTdiZGtrT2tVVXBpRkxLNE4wdjA4cFpmWFY0Z1lSNkU2SG4zb2JhRG9ibHgyVVN0WTg5XzFLMzd5LXpxck9nclNF?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/meropenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Meropenem?">
-<strong>Meropenem</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Meropenem</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Meropenem with the latest he
 <p><a href="{{ '/drugs/meropenem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Infezioni del sangue nei bambini, il 73% degli isolati di Klebsiella resiste al meropenem](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDdFYmYySTZIYU1Oa01LaHBvYjZFVFFuQnMzM3VjT2V3R1p2NVgzcVcxaUVqT0t2dUl2OU11TVAzcW4zZkJ6TURLYU1kZ1IwR3Z2UG01ODhTTmc0aFZsRXp4Qk5VaWxZSTFGaFhacVQta0pESDM2YkFlSU9qRWpSV3J3TGJLZlIwN1RMdGZJbGFEMm9QN2VMaVJrS3VBYWw2US00WTY0Zjd6MG5NT1pxRUZtWUExVUV5RWpfb0NMcG01ZDNJX3RzeUNZVkNtYXFXekNQd1UxcVNoZk9tamY5NA?oc=5)
+
+2026-10-03 <span class="news-drug-tag">Meropenem</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDdFYmYySTZIYU1Oa01LaHBvYjZFVFFuQnMzM3VjT2V3R1p2NVgzcVcxaUVqT0t2dUl2OU11TVAzcW4zZkJ6TURLYU1kZ1IwR3Z2UG01ODhTTmc0aFZsRXp4Qk5VaWxZSTFGaFhacVQta0pESDM2YkFlSU9qRWpSV3J3TGJLZlIwN1RMdGZJbGFEMm9QN2VMaVJrS3VBYWw2US00WTY0Zjd6MG5NT1pxRUZtWUExVUV5RWpfb0NMcG01ZDNJX3RzeUNZVkNtYXFXekNQd1UxcVNoZk9tamY5NA?oc=5)
+
+---
 
 ### [Expertos destacan los avances en biomarcadores y ecografía para tratar la artritis reumatoide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektyMEV2eVoyY1pxOTVVVFFzYjdfZXNBbktWbDdBQ1hUVUVRYkg5T2hzdDAxMmZDZGp4SFlkM1RRSUdYcDVwaWNRN1NSNGgzSDBHV01XcENYWjZvYUh6RmVzd3JlTVlZM1ViWXBnLVdWWnRfZ25aUFpOcmRFOVhrZ1I2LXJBZXZPNE81c2Vma0xJSl82RkRoZUN5T1NNMzItZkx4VXZ4bC1yemNZa3M3NzhWYlBWb0VZSlFnMmFhMG9mU042RUI5YzEzaC13Tk00eWNEb19XQVg?oc=5)
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obésité (obesity) News"
+title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 7 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obésité (obesity) News
+# obesidad (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
+<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -38,19 +38,19 @@ This page brings together the latest health news about “obésité” and lists
 
 ## Related News (7)
 
-### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
-2026-10-03
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
----
-
 ### [Solo el 56% de las personas con obesidad sabe que la tiene: el dato que sorprende a los médicos - The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzYwa1NuSDFpU1V2YWJxN3ZaMkZpcXNjRURPeGc3cmJhMXZCQTFmYmhvcnZHT1ZhV2Y5Wk9fQ2c1dlV2YUx6dEo3RHFtaFFFU0NHMjlHOXFPQkdzR2F2TEoxLXIyN1d1dF9weEFHam1fM0RiR1Axd0hFWlNacURVLW9tWUJGb21QRTdWczUyNlJfLXl2UUZQSTV4ZHVSVjNjVU9rUUJYTUgxaGFrWmFwcm5NR1AxNmdUX183V3JuNExkVS14SmEyaXJTdWlpeXJjWjJDbmlMQdIB3AFBVV95cUxPc2QtNWxlYXJGMUkxeHB2NHZaaHpPaVB0Sy11YU53SnJFMFk2V0lyR1RKQzJTb2dZQlp5QnBDbTRsSnZuWF9lVzljaldZbXJHSDFkSV9WZDNlTGpxWTBZbFJrcXhyQmNlQk1OM0xTZE5qWW1VbjkwMFFlX1dRU2Jxb3JmS0VNeXQyYnQwVUY2VlVsQkNHM1IzTjZ0NXFNRm95Ql8tTkNXLWFZYjhCcDRoY1o3ejkwNXlheG03TWw3OE9rT3ZZcFpZbjdoVE9WeXA3M2I1YWZaYTB0U05v?oc=5)
 
 2026-10-03
 
 Source: [The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzYwa1NuSDFpU1V2YWJxN3ZaMkZpcXNjRURPeGc3cmJhMXZCQTFmYmhvcnZHT1ZhV2Y5Wk9fQ2c1dlV2YUx6dEo3RHFtaFFFU0NHMjlHOXFPQkdzR2F2TEoxLXIyN1d1dF9weEFHam1fM0RiR1Axd0hFWlNacURVLW9tWUJGb21QRTdWczUyNlJfLXl2UUZQSTV4ZHVSVjNjVU9rUUJYTUgxaGFrWmFwcm5NR1AxNmdUX183V3JuNExkVS14SmEyaXJTdWlpeXJjWjJDbmlMQdIB3AFBVV95cUxPc2QtNWxlYXJGMUkxeHB2NHZaaHpPaVB0Sy11YU53SnJFMFk2V0lyR1RKQzJTb2dZQlp5QnBDbTRsSnZuWF9lVzljaldZbXJHSDFkSV9WZDNlTGpxWTBZbFJrcXhyQmNlQk1OM0xTZE5qWW1VbjkwMFFlX1dRU2Jxb3JmS0VNeXQyYnQwVUY2VlVsQkNHM1IzTjZ0NXFNRm95Ql8tTkNXLWFZYjhCcDRoY1o3ejkwNXlheG03TWw3OE9rT3ZZcFpZbjdoVE9WeXA3M2I1YWZaYTB0U05v?oc=5)
+
+---
+
+### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+
+2026-10-03
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
 ---
 
@@ -74,7 +74,7 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 2026-10-02
 
-Source: [corresponsables.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">dépression</span>
+
+Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+
+---
 
 ### [La conectividad cerebral revela nuevas perspectivas para una psiquiatría más personalizada en la depresión. - Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
 

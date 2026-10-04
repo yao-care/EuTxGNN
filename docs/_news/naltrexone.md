@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 
 ## Related News (7)
 
-### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
-2026-10-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
----
-
 ### [Solo el 56% de las personas con obesidad sabe que la tiene: el dato que sorprende a los médicos - The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzYwa1NuSDFpU1V2YWJxN3ZaMkZpcXNjRURPeGc3cmJhMXZCQTFmYmhvcnZHT1ZhV2Y5Wk9fQ2c1dlV2YUx6dEo3RHFtaFFFU0NHMjlHOXFPQkdzR2F2TEoxLXIyN1d1dF9weEFHam1fM0RiR1Axd0hFWlNacURVLW9tWUJGb21QRTdWczUyNlJfLXl2UUZQSTV4ZHVSVjNjVU9rUUJYTUgxaGFrWmFwcm5NR1AxNmdUX183V3JuNExkVS14SmEyaXJTdWlpeXJjWjJDbmlMQdIB3AFBVV95cUxPc2QtNWxlYXJGMUkxeHB2NHZaaHpPaVB0Sy11YU53SnJFMFk2V0lyR1RKQzJTb2dZQlp5QnBDbTRsSnZuWF9lVzljaldZbXJHSDFkSV9WZDNlTGpxWTBZbFJrcXhyQmNlQk1OM0xTZE5qWW1VbjkwMFFlX1dRU2Jxb3JmS0VNeXQyYnQwVUY2VlVsQkNHM1IzTjZ0NXFNRm95Ql8tTkNXLWFZYjhCcDRoY1o3ejkwNXlheG03TWw3OE9rT3ZZcFpZbjdoVE9WeXA3M2I1YWZaYTB0U05v?oc=5)
 
 2026-10-03 <span class="news-indication-tag">obesidad</span>
 
 Source: [The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzYwa1NuSDFpU1V2YWJxN3ZaMkZpcXNjRURPeGc3cmJhMXZCQTFmYmhvcnZHT1ZhV2Y5Wk9fQ2c1dlV2YUx6dEo3RHFtaFFFU0NHMjlHOXFPQkdzR2F2TEoxLXIyN1d1dF9weEFHam1fM0RiR1Axd0hFWlNacURVLW9tWUJGb21QRTdWczUyNlJfLXl2UUZQSTV4ZHVSVjNjVU9rUUJYTUgxaGFrWmFwcm5NR1AxNmdUX183V3JuNExkVS14SmEyaXJTdWlpeXJjWjJDbmlMQdIB3AFBVV95cUxPc2QtNWxlYXJGMUkxeHB2NHZaaHpPaVB0Sy11YU53SnJFMFk2V0lyR1RKQzJTb2dZQlp5QnBDbTRsSnZuWF9lVzljaldZbXJHSDFkSV9WZDNlTGpxWTBZbFJrcXhyQmNlQk1OM0xTZE5qWW1VbjkwMFFlX1dRU2Jxb3JmS0VNeXQyYnQwVUY2VlVsQkNHM1IzTjZ0NXFNRm95Ql8tTkNXLWFZYjhCcDRoY1o3ejkwNXlheG03TWw3OE9rT3ZZcFpZbjdoVE9WeXA3M2I1YWZaYTB0U05v?oc=5)
+
+---
+
+### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
+
+2026-10-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
 
 ---
 
@@ -90,7 +90,7 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [corresponsables.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
+Source: [Corresponsables](https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2U1cVh0UDVxaS1LQS1HeExHTHJnT1dwc3NCVmxXdlJQUzl0Rlp6YUhCbXNVenhhM0ZuQVQ5a0dEOVFTdHRyYTZfSFpMMXNmYjBPZFFVbG1iQXNYbWFXNXdPdUhwWF9kOVFPbWpDR0Nvb2d5VHgwbE4zWGxwLUhsRVY3cGcydG9sUXZ5ZXBWQ1czZUs3dmZNbUxxRG44TzZnSzlRWVpMR2RhS3MzejlFTXdMTQ?oc=5)
 
 ---
 
@@ -104,7 +104,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVl
 
 ### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
-2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
 
