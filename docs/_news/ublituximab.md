@@ -14,7 +14,7 @@ permalink: /news/ublituximab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ublituximab?">
-<strong>Ublituximab</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Ublituximab</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Ublituximab with the latest 
 <p><a href="{{ '/drugs/ublituximab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
+
+### [EASD 2026, la rivoluzione della diabetologia: dai farmaci per la glicemia e il dimagramento alla protezione di cuore, reni e fegato](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+
+2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+
+---
 
 ### [Enicepatida, con resultados positivos en personas que viven con diabetes tipo 2 y sobrepeso u obesidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Farmacosalud](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
+
+---
+
+### [Health, diabete di tipo 2: l’emergenza globale che continua a crescere - Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgzOFZOUXFqZWl6Y0V3Z2t5UmRvWjZrRWNOdFdYY3p0bk9ndGRDTjdiN2I1bHVxeDN6TlFQdVE4U3kwdE9lMlNZSDVIZU80anpSQmM4S2NjUnJHaGhhb3NUblNyZkFCdVlLUTRxTThDRGgteTZnbkI0S00?oc=5)
+
+2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgzOFZOUXFqZWl6Y0V3Z2t5UmRvWjZrRWNOdFdYY3p0bk9ndGRDTjdiN2I1bHVxeDN6TlFQdVE4U3kwdE9lMlNZSDVIZU80anpSQmM4S2NjUnJHaGhhb3NUblNyZkFCdVlLUTRxTThDRGgteTZnbkI0S00?oc=5)
 
 ---
 
@@ -86,14 +102,6 @@ Source: [Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95c
 
 ---
 
-### [Investigación vincula edad al diagnóstico con riesgo cardiovascular y mortalidad en diabetes tipo 2 - Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [Córdoba Buenas Noticias](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSW5ncWZpLXk1NVVwRl9lTDItNDh6OGphVW0waTYzd25iS2sxWmVvNDhsTHZwWDZjdy1hMzN3MUVCTWkyRU9UdHBGT0dSVEU2UWNrZzJGOVJyOTlqc1o3WmstZExvUUV3UERmdE1ROW9DTVNUQ3c2MVIwUmRoNF9CY0dWQ2wwWTBSQmd4eXYxemRoMllOclhDbEtzZ2hZMEY2bEtLaTVZVWVfZjFkTzFXdDNuaWZtSW4zdHhqODZUQWNQanVfNHdsdWlKbmRVd3I4VV90aGdQTkzSAd4BQVVfeXFMT2lwcTR3Y0FSOHJZU1NsUUpBNnQ5c0tsZ1J3TnJlOVhrWGVkbC1TREFXbG4wdFF3YXdoaF9MbnFPdF9IWXJnNlVPajJQVTJ3T1RIZXlGVDJuUk1zdWFlU2F0UkdlWHlyd2VIcFctVURZQk5RWE13dXEzNm1abjdvWTF2Q2dMejFNb2c5MzZBS0xwaktiai1Tb3UtdEhEaENSUVEzYVZGRXpUdmhyblVVVkYzcF94cUVNNmhpdExZM0htLUtQY1JEMkctdDJJdFl1akRVSjhFelI5OUtPUHBn?oc=5)
-
----
-
 ### [Fino a dove possono arrivare i farmaci per dimagrire - Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -104,9 +112,9 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 ### [Non solo peso e diabete: gli analoghi GLP-1 proteggono il fegato e cambiano la sfida alla steatosi epatica (MASH)](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
 
-2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span>
+2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
 
 ---
 
@@ -122,23 +130,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV9
 
 2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
----
-
-### [Fuori Congresso, la salute cardiometabolica anima le vie di Milano con Lilly - Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
-
-2026-09-29 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMizgFBVV95cUxPNTg2TkVZYW1MNi1xN1c0ZlRQQlkzTjRWekkwWXhWNEdLS2NndkNqV28wdFN1eFpBaUNiTENvQlphRGM5R2FTaDZzbGdVbXBSSTYxUW0zR3JWQ3hULUxJTTdwZHV1NG02QjY4Ulpyb1BPb0hxc09Ob3BTa0xLQW1GdG9WWTZDWVRtQ0JiWm9fcXpRRGRtY3BHaGdKWEJVWWFDRWxzOEZoWmdzVG1BNEFuQTY5ZnNPcEZqTXNpVnBfVzNCMzVoZHh4MmZ5SXVvZw?oc=5)
-
----
-
-### [Pflegepersonal, Diabetes-Schulung und KI-Akzeptanz: 94 Studien - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
-
-2026-09-28 <span class="news-indication-tag">diabetes</span>
-
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVJiUlZwblN0SzZsaDFONW1GM3RTOEVBa0ozNnp0bkd1a2JGM0RFVERna1NRVnFQcTVYTGFiTGhuZ1ZGb0VKczlrUHh3V1B5Q0FOdDZhbng3VGxlMlE5LUVpZnRzT09XenI3MS1qMGJJeGpWQWk2dk00SmktQS1jUF92T0d2dFdIWmZiV0tURTRoLUttbDdhU3hrcm8zWXdOT1BBSUt5TTlWUThFRGdV?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
 
 ---
 

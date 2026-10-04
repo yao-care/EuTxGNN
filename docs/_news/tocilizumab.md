@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Tocilizumab with the latest 
 
 2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

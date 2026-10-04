@@ -66,7 +66,15 @@ Source: [OkDiario](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFN
 
 2026-10-03 <span class="news-indication-tag">BPCO</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+
+---
+
+### [Patient died by suicide after insurance delayed medication: report - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
+
+2026-10-02 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
 
 ---
 
@@ -74,15 +82,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpP
 
 2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
-
----
-
-### [Spinat, Mandeln & Co.: Oxalat könnte bei Morbus Crohn Entzündungen verstärken](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSU5ORWVlU3lLM19XZTBGVkd2blNpSk1qd0gzQXFwQUhsdW5RWjZWTzNMUHYwS3hoOHYyTWhIbEZsLXlmc1BJOGRaVmhyM2Y3b201T0plcEptdHN4S3A0NXQ1eEc5TkVkUndpWTk4SlpOdW9NUldyZ2w1cG0xTEh6WHZtQU1IdEtmellnMnZpcXF4c2lYcWJZazR1ZWJ3eUExQmVSSG9UMktvMTUwUDZ0OQ?oc=5)
+Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

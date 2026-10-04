@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <li>multiple endocrine neoplasia (97.1%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (96.9%)</li>
 <li>homozygous familial hypercholesterolemia (96.6%)</li>
-<li class="indication-matched">heart disease (96.3%)<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease (96.3%)<span class="indication-tag">📰 cardiovascular disease</span></li>
 <li>Laubry-Pezzi syndrome (96.3%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (96.3%)</li>
 <li>Jeune syndrome situs inversus (96.2%)</li>
@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 
 ## Related News (2)
 
-### [What your eyes could reveal about your heart health - The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">atrial fibrillation</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDFqbW5sQ2xXOVVaSkpPOGRVU2JCeVRnQmZuc2JwV3JxdXhJT0txaEhJLWkwMjk4TFF5VmR3bEs0bDRVMTVmbmRtb0lrMHdUZ0NMbE56X0t4cHMwYW1vWldtM3RMLVl2TXdCU29HR0FjbVFad3Z3TVFFb1EzTnlmazlQTWhzY19UXzNnZHVTQQ?oc=5)
-
----
-
 ### [Controlar artritis reumatoide reduce riesgo de infecciones, enfermedad cardiovascular y obesidad](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+
+---
+
+### [Infosalus.- El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
+
+2026-09-29 <span class="news-indication-tag">cardiovascular disease</span>
+
+Source: [notimerica.com](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
 
 ---
 

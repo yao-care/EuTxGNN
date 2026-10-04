@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depression News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 2 articles, 7 related drugs."
+description: "Health news about depression. 3 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# dépression (depression) News
+# depression News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depression?">
+<strong>depression</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+### [Woman with bipolar disorder hopes new diet trial could transform treatment - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
 
-2026-10-03
+2026-10-04
 
-Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
+
+---
+
+### [Depressione, l’erba di San Giovanni funziona? Cosa dicono gli ultimi studi e quando evitarla](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
+
+2026-10-04
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
 
 ---
 

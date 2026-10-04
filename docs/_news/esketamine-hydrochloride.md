@@ -14,7 +14,7 @@ permalink: /news/esketamine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Esketamine Hydrochloride?">
-<strong>Esketamine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Esketamine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+### [Woman with bipolar disorder hopes new diet trial could transform treatment - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
 
-2026-10-03 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">dépression</span>
+2026-10-04 <span class="news-indication-tag">depression</span>
 
-Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
+Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
+
+---
+
+### [Depressione, l’erba di San Giovanni funziona? Cosa dicono gli ultimi studi e quando evitarla](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
+
+2026-10-04 <span class="news-indication-tag">depression</span>
+
+Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
 
 ---
 
