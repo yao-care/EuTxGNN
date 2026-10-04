@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [El lado íntimo de la enfermedad de Crohn: «Temes tener una fuga durante el sexo»](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFNZUhjNTRLWjJ6MngzdlhpUW1WR3Y1WmZ6U0xTbHJnRTNHNHc3a3VxVnNsYkI3blVIQWxQVjRxdEtYS0pKTnhOYWFwbHBhMGl2U25hS2xKNkVQVWxhSDYtVExQOE1hWHNkUC1mNDlZRjNDSE9OZFVGeFF6dzJMMHJXRlpSV2wtdjlBcVdTLUMwcWw5YnBR0gGfAUFVX3lxTE83LWYxdUVlVjUyV3p4MmRRUV9sbEZUZ3loSmUwdk9QUFd5TW1jOTBERGtjQ3JvOHktdWFFNmpoaHczeGVsSGV2N0JvaGVwNkZDdklkV3V1b29lSmVWclpHU3JwMHpTV2FXYjZFVnZPMnZueUJzcTJPeGpZaHJjcnl3QjNVRWVtNDY2bGg1MUN6Z2xraUVWZ3hDaFQ2OFBNTQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">enfermedad de Crohn</span>
+
+Source: [OkDiario](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFNZUhjNTRLWjJ6MngzdlhpUW1WR3Y1WmZ6U0xTbHJnRTNHNHc3a3VxVnNsYkI3blVIQWxQVjRxdEtYS0pKTnhOYWFwbHBhMGl2U25hS2xKNkVQVWxhSDYtVExQOE1hWHNkUC1mNDlZRjNDSE9OZFVGeFF6dzJMMHJXRlpSV2wtdjlBcVdTLUMwcWw5YnBR0gGfAUFVX3lxTE83LWYxdUVlVjUyV3p4MmRRUV9sbEZUZ3loSmUwdk9QUFd5TW1jOTBERGtjQ3JvOHktdWFFNmpoaHczeGVsSGV2N0JvaGVwNkZDdklkV3V1b29lSmVWclpHU3JwMHpTV2FXYjZFVnZPMnZueUJzcTJPeGpZaHJjcnl3QjNVRWVtNDY2bGg1MUN6Z2xraUVWZ3hDaFQ2OFBNTQ?oc=5)
+
+---
 
 ### [BPCO, quando arriva una crisi cambia anche il «mondo dei virus» nelle vie aeree](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
 
@@ -62,11 +70,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpP
 
 ---
 
-### [Expertos destacan los avances en biomarcadores y ecografía para tratar la artritis reumatoide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektyMEV2eVoyY1pxOTVVVFFzYjdfZXNBbktWbDdBQ1hUVUVRYkg5T2hzdDAxMmZDZGp4SFlkM1RRSUdYcDVwaWNRN1NSNGgzSDBHV01XcENYWjZvYUh6RmVzd3JlTVlZM1ViWXBnLVdWWnRfZ25aUFpOcmRFOVhrZ1I2LXJBZXZPNE81c2Vma0xJSl82RkRoZUN5T1NNMzItZkx4VXZ4bC1yemNZa3M3NzhWYlBWb0VZSlFnMmFhMG9mU042RUI5YzEzaC13Tk00eWNEb19XQVg?oc=5)
+### [Pacientes con artritis destacan la importancia de visibilizar la enfermedad y de promover diagnóstico precoz](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaUhNaU1xSGxIOUxUUGNJNTBoSWJRMEd4U09CSkR3SkFvR1VsODl0SDBVdUg1LTBaM1FuNVBBODllMDZ4TS1Ibnp3TWhjRHNDNmstek01VnQzQ2dGMXk4Smp3WXVhNnFuTEUxUENZLTNTTEM3VzJYdE9mc2JIeGJxd1pWeEtXSzBwSlp0ZlpDbXkwdGRaRVVwVmk3OExzQnRBZmtGWDFGMlRtWjJ5Q2hoNk9NakEzTUdUWTROTkdDUHVDNThBdktLOVNER25PY0ZmWlNtbnpjOGItZWdjaXdXVVlWSkFrMERHNXFxcHprS3pzLXVB0gH6AUFVX3lxTFBxS0NnOWp4YUFyQzc4eC1PYVg1c1F2S1IxSWR4UDlfcUFxYXk1RUk1V3VRMXQtUnZVUnl1b2pVLVhWNlFFTWNlTzd4WFRKbXFJVW9mYlVsUnJCSWhxbFRXY3JyMkJKNkx3YjNRT0pmampPVElheFZCMjZpcW5sYkFGYWV5azFTcGtPbmE4UHUxd0gySFRoRE5YMDVITHBoYUdZRFhSMzh0REMzYlp4TDJmWU9ZWk5nWEhQMGZDRC1KbkxCRFRJZERobnRMSFFjemFxMHZVeEYzR3hlZXdrY1JlT3kzME5pM3V5LUlGUHgyYmw3dkNDdEtvYVE?oc=5)
 
-2026-10-02 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+2026-10-02 <span class="news-indication-tag">artritis</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQektyMEV2eVoyY1pxOTVVVFFzYjdfZXNBbktWbDdBQ1hUVUVRYkg5T2hzdDAxMmZDZGp4SFlkM1RRSUdYcDVwaWNRN1NSNGgzSDBHV01XcENYWjZvYUh6RmVzd3JlTVlZM1ViWXBnLVdWWnRfZ25aUFpOcmRFOVhrZ1I2LXJBZXZPNE81c2Vma0xJSl82RkRoZUN5T1NNMzItZkx4VXZ4bC1yemNZa3M3NzhWYlBWb0VZSlFnMmFhMG9mU042RUI5YzEzaC13Tk00eWNEb19XQVg?oc=5)
+Source: [Teleprensa](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaUhNaU1xSGxIOUxUUGNJNTBoSWJRMEd4U09CSkR3SkFvR1VsODl0SDBVdUg1LTBaM1FuNVBBODllMDZ4TS1Ibnp3TWhjRHNDNmstek01VnQzQ2dGMXk4Smp3WXVhNnFuTEUxUENZLTNTTEM3VzJYdE9mc2JIeGJxd1pWeEtXSzBwSlp0ZlpDbXkwdGRaRVVwVmk3OExzQnRBZmtGWDFGMlRtWjJ5Q2hoNk9NakEzTUdUWTROTkdDUHVDNThBdktLOVNER25PY0ZmWlNtbnpjOGItZWdjaXdXVVlWSkFrMERHNXFxcHprS3pzLXVB0gH6AUFVX3lxTFBxS0NnOWp4YUFyQzc4eC1PYVg1c1F2S1IxSWR4UDlfcUFxYXk1RUk1V3VRMXQtUnZVUnl1b2pVLVhWNlFFTWNlTzd4WFRKbXFJVW9mYlVsUnJCSWhxbFRXY3JyMkJKNkx3YjNRT0pmampPVElheFZCMjZpcW5sYkFGYWV5azFTcGtPbmE4UHUxd0gySFRoRE5YMDVITHBoYUdZRFhSMzh0REMzYlp4TDJmWU9ZWk5nWEhQMGZDRC1KbkxCRFRJZERobnRMSFFjemFxMHZVeEYzR3hlZXdrY1JlT3kzME5pM3V5LUlGUHgyYmw3dkNDdEtvYVE?oc=5)
 
 ---
 

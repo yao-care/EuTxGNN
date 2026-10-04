@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Demenz vorbeugen: Was zwei Neurologen für ein gesundes Gehirn empfehlen - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUhYX3FBSjFOLXBIcUIwUWtNckJJRllJSUs5M0xhM1doTXdpRFFQOEloT2tWTUQxV3F5S3ZubENiTjhCU1VqSU1vT0xTWF9CWjBiZzF3OHpFQ3dkcTF5bUpkRGJsMmpaOE9nMFRKX2U2b1VHXzVGeTNGMm5OeWR0QXZobFpadUNwVW9idmtHWWlVdGtzM2Z2dmpXcS05bVp0ZWI4VklrT0x1QWs4amZuUmlBWQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">CKD</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUhYX3FBSjFOLXBIcUIwUWtNckJJRllJSUs5M0xhM1doTXdpRFFQOEloT2tWTUQxV3F5S3ZubENiTjhCU1VqSU1vT0xTWF9CWjBiZzF3OHpFQ3dkcTF5bUpkRGJsMmpaOE9nMFRKX2U2b1VHXzVGeTNGMm5OeWR0QXZobFpadUNwVW9idmtHWWlVdGtzM2Z2dmpXcS05bVp0ZWI4VklrT0x1QWs4amZuUmlBWQ?oc=5)
-
----
-
-### [Investigadores analizan el uso de una dieta medicada para gatos con enfermedad renal crónica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlVXTmtLaTJ6aEpDbWo0SlFtOXUxTVozX0IzWFhpR0NTd1J2Y09YQ2IzMzk2bVd6RXBhVnBpbkV0eWNrc1NEX1hVMjRIZGxiNlQtaWFUaThDNUxqX0Rwemw5NEZja2I0N3RiYXZFWHRXbTJXODlsRW5ObDZtZTBick5jUFVqSmM1SHhMVHl1eWlzYThtWG91OFNKQ3V3d1Z0UFEycUozMXJaR2vSAbABQVVfeXFMTmtKZjlVZUNrb2NiN1NJWlRiQ3FNUWc3X05RRU4zUFhXbWotS256UEVuR29sV2FvNU95YmlJRGVORURZN09tR2QyaVBtSXBtMjVfR3NIeVBvRTIteW85cDVXbU41TUpPb1J5U0Y5ckVMOGNMQ1o0WmZJODBoOE55akU5Q2VBSnFEeWgxTWxad3R5MnlsU1R2ZEstN3MzUjdxNFJUMWNrV0dMNjZLMVV6N1c?oc=5)
-
-2026-10-02 <span class="news-indication-tag">enfermedad renal crónica</span>
-
-Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlVXTmtLaTJ6aEpDbWo0SlFtOXUxTVozX0IzWFhpR0NTd1J2Y09YQ2IzMzk2bVd6RXBhVnBpbkV0eWNrc1NEX1hVMjRIZGxiNlQtaWFUaThDNUxqX0Rwemw5NEZja2I0N3RiYXZFWHRXbTJXODlsRW5ObDZtZTBick5jUFVqSmM1SHhMVHl1eWlzYThtWG91OFNKQ3V3d1Z0UFEycUozMXJaR2vSAbABQVVfeXFMTmtKZjlVZUNrb2NiN1NJWlRiQ3FNUWc3X05RRU4zUFhXbWotS256UEVuR29sV2FvNU95YmlJRGVORURZN09tR2QyaVBtSXBtMjVfR3NIeVBvRTIteW85cDVXbU41TUpPb1J5U0Y5ckVMOGNMQ1o0WmZJODBoOE55akU5Q2VBSnFEeWgxTWxad3R5MnlsU1R2ZEstN3MzUjdxNFJUMWNrV0dMNjZLMVV6N1c?oc=5)
-
----
+## Related News (1)
 
 ### [Longitudinal impact of sodium bicarbonate therapy on health-related quality of life in pre-dialysis chronic kidney disease with metabolic acidosis: a pragmatic trial in Malaysia](https://news.google.com/rss/articles/CBMirgFBVV95cUxPREgwa2dGNDZnQUlSY3lGNl96bnZlSm1pdU9ad0lQQnZubkUwUnZIZ01yaDItMjRub29aMXZ3di1LMkJBZ3hFdTV3SkZNb1J1XzYtZzhqQS1zZlo1NlFOUXIwcTE1VG5RY3ozVFlSZ0J3YUhtZHZwckwzamhobWlYMTVoQUNkTF9WZ3BWLW1aT3RIUVpUVUw3bVhpdFAyaWFsSEVjRUo3LUZSRVFYS1E?oc=5)
 

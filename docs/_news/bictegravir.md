@@ -14,7 +14,7 @@ permalink: /news/bictegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Bictegravir?">
-<strong>Bictegravir</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Bictegravir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Bictegravir with the latest 
 <p><a href="{{ '/drugs/bictegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Hepatitis A cases confirmed at TWO primary schools in UK city as warning sent to parents - The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSk9KT2w5RFVjcGlWZVF3ZFdvdjNRQ2lrd0pQWGNXdmt3SlNPWUN4eG91OTN1blV5bEJaSEJLUVd5RU1nVC13NEZwek43OV92NFdqdXpWanhtU0c2Y1pEZHdVU2d4Z21uRTROREZiQXhmOXN1VW9oRGpsMlVkcmI4ekVVSm5KZ1hZQzJNakR6MA?oc=5)
+### [Hepatitis A cases confirmed at two Newcastle primary schools as parents sent urgent warning - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHZnTlZzSFZValhOMkJ1OGhMMEJfTV9Rczc0VFRLT0Z4RWNIdGJxUTBYdkt2SUhHWC1Fa3BDSUJPcWZKeFEySk9reHg0aWRsLU9ORHhXSEIxR2psRlpRZEwxakJVS2FWQ3p2bFhPVGFCZlRLUTB3czQzYTRudHQxT2JqWm16dS1QN0JXbNIBkgFBVV95cUxQNWdZY3RmcXQwOEl4TXZlXzlLZG5veFBSX1BSUUoxQWRKUDRFdllQZ1RHZ20xeXNYNUlCN2d2WkFfNzMwRzJFSC1ya1B3bWtWT2JOUUFFYklpTzBLOGRneGhSOGZzbURUTE9sM2tlVThpZUxzSmlhc2MyS2xWZThxMG9Fb3dKeGRCSEtrdjFUZDh1QQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">hepatitis</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSk9KT2w5RFVjcGlWZVF3ZFdvdjNRQ2lrd0pQWGNXdmt3SlNPWUN4eG91OTN1blV5bEJaSEJLUVd5RU1nVC13NEZwek43OV92NFdqdXpWanhtU0c2Y1pEZHdVU2d4Z21uRTROREZiQXhmOXN1VW9oRGpsMlVkcmI4ekVVSm5KZ1hZQzJNakR6MA?oc=5)
-
----
-
-### [Hepatitis C: el reto ya no es curarla, sino encontrarla - IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
-
-2026-10-02 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEJYT3FVcTFCcGlkaGV3QW1lMWg2SDZkbTNhVi00STQ5U2lhR3B5RmlzeUVpQTlScE1wTnVzME1xY1pDX09GSGlYZGpGVzJNT2t2eGdGTVdXTURJYjZXQTFuOFVYUjdWVy02VUNJeWxiYjZrekppSkFXaE9zQTVJZGE4T0VRTVZDcVJrMGNFd0NSN0Q4YXNfb2djZlUydTV5SjlIZFpoUlMwZEto0gGnAUFVX3lxTE8tU0NWR2xTQkRxekRtdkR3QmFjTFBpdUhWQXlRS1FEcXRvbnhHcU4tSzFrR2VGQlg2RmdXdFViTVRjVGFMTWdRNElFMmRpemgtWjRlVnZ6eWt4LTNtTmJ1bnA0bEpMbXBCYVFMQ0ppTG4zMWZTUTVTTGJnbm5xbGxPelpOSTVoZUJRV2pQNG9ka2xkaWpfUENpeVhWWHc3aDBBc1h1aF84?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHZnTlZzSFZValhOMkJ1OGhMMEJfTV9Rczc0VFRLT0Z4RWNIdGJxUTBYdkt2SUhHWC1Fa3BDSUJPcWZKeFEySk9reHg0aWRsLU9ORHhXSEIxR2psRlpRZEwxakJVS2FWQ3p2bFhPVGFCZlRLUTB3czQzYTRudHQxT2JqWm16dS1QN0JXbNIBkgFBVV95cUxQNWdZY3RmcXQwOEl4TXZlXzlLZG5veFBSX1BSUUoxQWRKUDRFdllQZ1RHZ20xeXNYNUlCN2d2WkFfNzMwRzJFSC1ya1B3bWtWT2JOUUFFYklpTzBLOGRneGhSOGZzbURUTE9sM2tlVThpZUxzSmlhc2MyS2xWZThxMG9Fb3dKeGRCSEtrdjFUZDh1QQ?oc=5)
 
 ---
 

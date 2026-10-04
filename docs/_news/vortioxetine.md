@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [« J’ai pris cette pilule 26 ans et j’ai une tumeur cérébrale de 4 cm » - Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
 
-2026-10-03 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">dépression</span>
+2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">dépression</span>
 
 Source: [Le JSL](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTVGSHM1Z0NoSjZVWWFCekNWTXBNWTVNT1ZndlJxM0tNdDB1d1JWaWx4T2RKSk5Ic0I1WE1PRE5mUmg4VlYxTDBiYlVjZVNVdk5URHlrTGVoMUJrYmhlNkVVS05sZUE4MUVHajMyUzdzSEUtTW9vdzI3ZDQzWncyWkRJQTVzX2ZZbHF3WDR5T21oNF80akhieGxYZXFoUnAyRTI1U2RKQnc?oc=5)
 
 ---
 
-### [La conectividad cerebral revela nuevas perspectivas para una psiquiatría más personalizada en la depresión. - Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
+### [Brain scans show shared changes during depression treatment and distinct antidepressant effects in some patients - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjVtV1lOTHhwYkI4LWtaRlZCRUxlMDFwTlZ6YzJYM28wWlB2cVZqNzJqaGdWUkx6V2RIUnpiS1lHc1N6UEUzQlJLa1pWMGdsTmxqRE9OTFNkWVVKOG1xVTVtSzNaSUJ5V3E0UDNlOGtzNmFZSWVvU0trODVMYWREQ3h1dWMzNnJIRFB5SVh3?oc=5)
 
-2026-10-02 <span class="news-indication-tag">depresión</span>
+2026-10-03 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-Source: [Adamed TV](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVmlydnZIbGxGaGdTS0lMV0FzdUdlV1VTbWJ1T2hMX0w1RWVkYzg2SFZkcEJXMGdKOUJQcFVKX3JCVHdvZGNQbTk2RFg5dG96dHNKcnRZNGVPQmYwNFFGaXJlREJXUDZkTVc2R2wxWUdqN2JPdHU1WjlJNXlsa2VsVXB4ZjY1X3dDMXI0cUxGLW1XdjVHc2tMR2t1LXBUMVpRM2F3dGRSUlI0UFUyWjhLY1owNkFPSGI5YkJBaFhMdnFyZjZxTWNmNVFCcW9lQ2paLVFZTQ?oc=5)
-
----
-
-### [La depresión podría generar pérdidas económicas globales de unos 12 billones de dólares hasta 2050](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1p5a2NBUElCNmZ2MlBPSVEwMzROWkZ6ZmhRNkFHN3l5TTNpdGFmSUE0Q3FWbHhkZHk1WTNfMDRHMlVkQU9HU05ndHN3ZWdVS2V1b1E5eXJuQzgyNkpoZ3JWSWJ2VDNUZVduWndyd2pYUGVRS3VoU0ZWV2tWMlB4b3VtWGxuNHd2d1lOZTdOa2VpYTRoY1NJc2l2RTBXWUdyc2R0VU1jbVo5UWRtSXR2VmxINWNxZWdEeGthWWdKUQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">depresión</span>
-
-Source: [infocop.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxPU1p5a2NBUElCNmZ2MlBPSVEwMzROWkZ6ZmhRNkFHN3l5TTNpdGFmSUE0Q3FWbHhkZHk1WTNfMDRHMlVkQU9HU05ndHN3ZWdVS2V1b1E5eXJuQzgyNkpoZ3JWSWJ2VDNUZVduWndyd2pYUGVRS3VoU0ZWV2tWMlB4b3VtWGxuNHd2d1lOZTdOa2VpYTRoY1NJc2l2RTBXWUdyc2R0VU1jbVo5UWRtSXR2VmxINWNxZWdEeGthWWdKUQ?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjVtV1lOTHhwYkI4LWtaRlZCRUxlMDFwTlZ6YzJYM28wWlB2cVZqNzJqaGdWUkx6V2RIUnpiS1lHc1N6UEUzQlJLa1pWMGdsTmxqRE9OTFNkWVVKOG1xVTVtSzNaSUJ5V3E0UDNlOGtzNmFZSWVvU0trODVMYWREQ3h1dWMzNnJIRFB5SVh3?oc=5)
 
 ---
 

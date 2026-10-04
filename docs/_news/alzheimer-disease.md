@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "maladie d'Alzheimer (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
+description: "Health news about maladie d'Alzheimer (alzheimer disease). 5 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia (alzheimer disease) News
+# maladie d'Alzheimer (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
+<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>5 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -44,7 +44,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Ce complément pour les articulations, pris par 8 % des patients étudiés, inquiète des chercheurs américains - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
+
+2026-10-04
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
+
+---
+
+### [Amyloid-PET prognostiziert Alzheimer-Risiko unabhängig von der Auswertungsmethode - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+
+2026-10-04
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+
+---
 
 ### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
@@ -59,14 +75,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlV
 2026-10-03
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhVVFFsQUxzM3YwNXpuQVBGYUNGdmo3eFZ2eEJValBLZlVqSXZvdTluQzBLMnlpdm4tNW0weDBuV0VyR1hqaExKcVE3MzZPTVo2ZE1lTmRMa2RQN2dua051RGNUUTY0R3NhR2ZTNzY1b05rMzNLN0JkTlZ6LWRfNDk1eFJhWF9wVS1IcW5sQ09MdUhZOFJCbHB3?oc=5)
-
----
-
-### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
-
-2026-10-02
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
 
 ---
 

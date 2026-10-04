@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "AVC (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 4 articles, 11 related drugs."
+description: "Health news about AVC (stroke). 7 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# Schlaganfall (stroke) News
+# AVC (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about AVC (stroke)?">
+<strong>AVC (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,13 +39,29 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (4)
+## Related News (7)
+
+### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
+
+2026-10-04
+
+Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
+
+---
 
 ### [Schlaflosigkeit macht mehr als müde: Studie findet Verbindung zu Schlaganfall und Alzheimer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
 
 2026-10-03
 
-Source: [Come-on](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
+Source: [come-on.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
+
+---
+
+### [Nuove terapie contro l'obesità, ma resta lo stigma: “Molti non si curano per paura del giudizio”](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3enlfUlF5YXZ5TmJrc0JpeUxJdzdGSHBvZEo3Uk42OG9kOEk5YXBvM19EdmdneWZQZFdlbVNiNWQyMVhPM19YNFdXLXlxWE5TbTV6VWhoY2ZQcGdkX0FVdWI1OWh1d3VJVEtTc2hjOFFCNks3T29LOW5wZkMtaHMzU0p4bWcyNmhPTEs0dE85RXZMRDQyOUtheUlLVWg3akxPMTB3SzJBamNic09yNHJDZ3RQNEJsZmtjSHpiVkQtLXR6RTQ4d0hmQQ?oc=5)
+
+2026-10-03
+
+Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3enlfUlF5YXZ5TmJrc0JpeUxJdzdGSHBvZEo3Uk42OG9kOEk5YXBvM19EdmdneWZQZFdlbVNiNWQyMVhPM19YNFdXLXlxWE5TbTV6VWhoY2ZQcGdkX0FVdWI1OWh1d3VJVEtTc2hjOFFCNks3T29LOW5wZkMtaHMzU0p4bWcyNmhPTEs0dE85RXZMRDQyOUtheUlLVWg3akxPMTB3SzJBamNic09yNHJDZ3RQNEJsZmtjSHpiVkQtLXR6RTQ4d0hmQQ?oc=5)
 
 ---
 
@@ -57,11 +73,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9
 
 ---
 
-### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 2026-10-02
 
-Source: [ilsole24ore.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
+
+---
+
+### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
+
+2026-09-30
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
 
 ---
 

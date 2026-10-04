@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Ce complément pour les articulations, pris par 8 % des patients étudiés, inquiète des chercheurs américains - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
+
+2026-10-04 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
+
+---
+
+### [Amyloid-PET prognostiziert Alzheimer-Risiko unabhängig von der Auswertungsmethode - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+
+2026-10-04 <span class="news-indication-tag">Alzheimer-Krankheit</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
+
+---
 
 ### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
@@ -70,15 +86,7 @@ Source: [Euronews.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHhV
 
 ---
 
-### [Common pill taken by millions linked to faster Alzheimer's decline - Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [Wales Online](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeHlDZXlQTGl4M1RmRFRmZ0dsZG8tSXYwLUZ1M1FCTEZaQnU2TDZNMVdNSDNOaEFSZzZUSFhFVVNYc1ZWbXRwNGxkSk5SUWJfUDZkaTVXS2hwSjZ3WlpPY2JraV80RmlhVHFPdXJtMndPMzlRcnhhZG9qMTQySThYUVBEYm9NRFk1VkYwLdIBkgFBVV95cUxOYzZudksxb2FlOG1JNTRTbkIzU0VIQWRyZENPbDRlUkNHZEpmZ1dIaHZ1Rk54dUlGcGdUUExwTHZKN01JNVg5aDlFdzhsUFE2UGViYXVHOTR3bFFoMnpoU3otbUZvdnlGcVM0NW9WREh5SlVKMF9uamNUQ04yVlRPdVNQUDFBSnRvVU0zTlVRR0ZJUQ?oc=5)
-
----
-
-### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
