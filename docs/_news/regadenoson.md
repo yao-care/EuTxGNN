@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Hacer ejercicio puede desencadenar una migraña. También puede ser una de las mejores formas de prevenirla](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
+
+2026-10-05 <span class="news-indication-tag">migraña</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
+
+---
+
+### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+2026-10-04 <span class="news-indication-tag">asma</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
 
 ### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
 

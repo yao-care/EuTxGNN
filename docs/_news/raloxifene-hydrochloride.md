@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
+
+---
+
+### [Herz-Kreislauf: Der überraschende Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
+
+---
+
+### [Schlafrhythmus: Unregelmäßige Zeiten verdoppeln Risiko für Herzinfarkt und Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFhuaVhkOUNkb09adFJLRS1hbTg5Sl81Q3ZoeDllaC1kbzgzR0dpNlNHUWNqMEhuNURoMFZtaFAyR3Q1ZmdXeTBvVHJMenhGakVEMUY1TE5OWlJpa3lrQ1VBbS01Z1V4TWs0LU5QR095R2hhczAtLVhyMlBfSVVmYktKWktkNnF3aFhTeVp5SVc1dm00di1zUXkxbXcyVHkxcnRuUEFHRUlQZHJ4azV1Z0pBVU5XMXZkX0lEWUx3?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFhuaVhkOUNkb09adFJLRS1hbTg5Sl81Q3ZoeDllaC1kbzgzR0dpNlNHUWNqMEhuNURoMFZtaFAyR3Q1ZmdXeTBvVHJMenhGakVEMUY1TE5OWlJpa3lrQ1VBbS01Z1V4TWs0LU5QR095R2hhczAtLVhyMlBfSVVmYktKWktkNnF3aFhTeVp5SVc1dm00di1zUXkxbXcyVHkxcnRuUEFHRUlQZHJ4azV1Z0pBVU5XMXZkX0lEWUx3?oc=5)
+
+---
 
 ### [STAREE-Studie: Atorvastatin senkt schwere Herzereignisse bei Älteren um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
 
 2026-10-05 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
-
----
-
-### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
-
-2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
-
-Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
-
----
-
-### [Schlaflosigkeit macht mehr als müde: Studie findet Verbindung zu Schlaganfall und Alzheimer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
-
-2026-10-03 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [Come-on](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFBmdncwdW5sdkkxTHhsSF83Rml5elNPSWF3eTRRZkI1aHpEYkxyQUo2N3VGSk1Ca3Judm1JUmhBNUlmZ3UtSWRzZHVZSXJmQ0dlOWdoSW5LSl92b2ZNaWtFQnB2OHB6ZUpHekdkVEJxbnVpM1p1Y2hlejRSVnMzR1NoS0NITGtoMEx1dndPMmpuYTRhQzdHQ20tbHQxTmZWRDdLc3BvT1VIYWJ2R0NWVEFtOUhBU2dWWEVPTHlhaG4?oc=5)
 
 ---
 

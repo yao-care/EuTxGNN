@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 
 ## Related News (3)
 
-### [Woman with bipolar disorder hopes new diet trial could transform treatment - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
+### [One Diet Change May Ease Depression Symptoms in Just 4 Weeks, Small Trial Finds](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
 
-2026-10-04 <span class="news-indication-tag">depression</span>
+2026-10-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
 
 ---
 
-### [Depressione, l’erba di San Giovanni funziona? Cosa dicono gli ultimi studi e quando evitarla](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
+### [Woman with bipolar disorder hopes new diet trial could transform treatment - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
 
-2026-10-04 <span class="news-indication-tag">depression</span>
+2026-10-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUzNzSGJId2ZWMTBhR2FmVTNYWmo4N0haeXVkZTRHOGhQRzNqVzEzZWNJaW9DUEZUcTBkZVpaWXdncFZrbDlYWVFXTzZaeXI1WVlyZTBkZ00wcGpfei1aeW5BazMzRzZxQWg1RlBMektHTXAxOFdCVlNONzM5WFpSR3BTejYzWmVNY0FtS282Mzh5d3c0OVU1MC1fcVBQS3dFSkhoNVRJLWZrZjUxNzI1dk8wZ2p1d1EtTUJRNk5xYmR0VnVUWkRpQXNyczNfVkotUU9nYVFSNWxZMy03OE5uS0x3?oc=5)
+Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
 
 ---
 

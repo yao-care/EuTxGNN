@@ -14,7 +14,7 @@ permalink: /news/varenicline/
 ---
 
 <p class="key-answer" data-question="What news is there about Varenicline?">
-<strong>Varenicline</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Varenicline</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Varenicline with the latest 
 <p><a href="{{ '/drugs/varenicline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Hacer ejercicio puede desencadenar una migraña. También puede ser una de las mejores formas de prevenirla](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
+
+2026-10-05 <span class="news-indication-tag">migraña</span>
+
+Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
+
+---
 
 ### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
 
-2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
+2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
 
 Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
 

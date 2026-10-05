@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+---
+
+### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+2026-10-04 <span class="news-indication-tag">asma</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
 
 ### [El lado íntimo de la enfermedad de Crohn: «Temes tener una fuga durante el sexo»](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFNZUhjNTRLWjJ6MngzdlhpUW1WR3Y1WmZ6U0xTbHJnRTNHNHc3a3VxVnNsYkI3blVIQWxQVjRxdEtYS0pKTnhOYWFwbHBhMGl2U25hS2xKNkVQVWxhSDYtVExQOE1hWHNkUC1mNDlZRjNDSE9OZFVGeFF6dzJMMHJXRlpSV2wtdjlBcVdTLUMwcWw5YnBR0gGfAUFVX3lxTE83LWYxdUVlVjUyV3p4MmRRUV9sbEZUZ3loSmUwdk9QUFd5TW1jOTBERGtjQ3JvOHktdWFFNmpoaHczeGVsSGV2N0JvaGVwNkZDdklkV3V1b29lSmVWclpHU3JwMHpTV2FXYjZFVnZPMnZueUJzcTJPeGpZaHJjcnl3QjNVRWVtNDY2bGg1MUN6Z2xraUVWZ3hDaFQ2OFBNTQ?oc=5)
 
@@ -67,14 +83,6 @@ Source: [OkDiario](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFN
 2026-10-03 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
-
----
-
-### [Controlar artritis reumatoide reduce riesgo de infecciones, enfermedad cardiovascular y obesidad](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

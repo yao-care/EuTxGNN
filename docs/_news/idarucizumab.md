@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 
 ## Related News (2)
 
+### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+---
+
 ### [BPCO, quando arriva una crisi cambia anche il «mondo dei virus» nelle vie aeree](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
 
 2026-10-03 <span class="news-indication-tag">BPCO</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
-
----
-
-### [Controlar artritis reumatoide reduce riesgo de infecciones, enfermedad cardiovascular y obesidad](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

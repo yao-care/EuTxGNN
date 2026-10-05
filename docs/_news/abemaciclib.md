@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Controlar artritis reumatoide reduce riesgo de infecciones, enfermedad cardiovascular y obesidad](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
 
-2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
+2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+---
+
+### [Exact date you should turn heating back on as autumn chill to arrive this week - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
+
+2026-10-05 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
 
 ---
 

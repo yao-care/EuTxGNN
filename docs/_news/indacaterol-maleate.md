@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="What news is there about Indacaterol Maleate?">
-<strong>Indacaterol Maleate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Indacaterol Maleate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Indacaterol Maleate with the
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+2026-10-04 <span class="news-indication-tag">asma</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
 
 
 <div class="disclaimer">

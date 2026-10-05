@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,45 +42,13 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (3)
 
 ### [No es la edad, son las hormonas: la menopausia altera proteínas en sangre asociadas al envejecimiento cerebral y al alzhéimer - Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
 
 2026-10-04 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
-
----
-
-### [Ce complément pour les articulations, pris par 8 % des patients étudiés, inquiète des chercheurs américains - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
-
-2026-10-04 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilwFBVV95cUxPQjNaRGZZdDROOEVkc0xncmdmRVp3T2FLVWR0TTNiNHdXUWM5QVltYlRCNmRqR3pzNXI3RUpIRWVpS3p0ZDliUS05dkJjRnpEZk8zTkcwMVBzVkd0MkktNjFoUmc1SFdsU0M5MHNzelplSHdMUkJXSGtSRjN3b2VSX21HZG1uclgxYVpCRUJCMXF3M3NSbFNz?oc=5)
-
----
-
-### [Amyloid-PET prognostiziert Alzheimer-Risiko unabhängig von der Auswertungsmethode - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
-
-2026-10-04 <span class="news-indication-tag">Alzheimer-Krankheit</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzlzQmIzZ0ZwazZ4Ml9hYkJTRXZ0bU1nRW1aX24xUEpUMWZuczh1bEJzbUNPZEVwYktJa1laYnptM2M1dmFFZEQ5TTIwanYwMFNMUTRGSmNLNXdPUXZyc1RuVWVHNjFvZVdobF9lNmVORWM4Q1V1T204Z1g0NVdwb1VINE9LeUxtVlR6VHBYbWFHbXNSVnZ4WXM0RGNPT0RCako1UlhtNVdnTWhoWnZxRGR6WEg?oc=5)
-
----
-
-### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
-2026-10-03 <span class="news-indication-tag">dementia</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
----
-
-### [Hearing aids show promise for cognitive recovery, but dementia prevention remains unproven - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
-
-2026-10-01 <span class="news-indication-tag">dementia</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRkVk5hTzVKM2xJLWxyNFdQbWpYN3poYjltVERSSFNIdUFtQmNfTFdya2VfcVhNaHRvMkhOUy1iYV9ITmdPaUpZektJWF9oTG11V3ZMazU5OTI3cEUtcG5DRkhuazlYem5YQW8zdENXbHc2dnp6RlhXdDZKV1NqejFSTlFXcjdDaHpLbV9R?oc=5)
 
 ---
 

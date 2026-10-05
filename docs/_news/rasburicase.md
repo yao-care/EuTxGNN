@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Rasburicase with the latest 
 
 ### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
 
-2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AVC</span> <span class="news-indication-tag">AF</span>
+2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
 
 Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
 
