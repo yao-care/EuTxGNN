@@ -3,7 +3,7 @@ layout: default
 title: "asma (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asma (asthma). 1 articles, 47 related drugs."
+description: "Health news about asma (asthma). 2 articles, 47 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about asma (asthma)?">
-<strong>asma (asthma)</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
+<strong>asma (asthma)</strong> currently has <strong>2 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ This page brings together the latest health news about “asma” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
 
 2026-10-04
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
+
+### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
+
+2026-10-02
+
+Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 ---
 

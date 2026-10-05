@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [Exact date you should turn heating back on as autumn chill to arrive this week - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
+### [What your penis can reveal about your health - from heart disease to cancer - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
-2026-10-05 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4R
 2026-10-05 <span class="news-indication-tag">migraña</span>
 
 Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
-
----
-
-### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
-
----
-
-### [Infosalus.- El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cardiovascular disease</span>
-
-Source: [Notimérica](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/atosiban-as-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Atosiban (As Acetate)?">
-<strong>Atosiban (As Acetate)</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Atosiban (As Acetate)</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Atosiban (As Acetate) with t
 <p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Exact date you should turn heating back on as autumn chill to arrive this week - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
+### [What your penis can reveal about your health - from heart disease to cancer - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
-2026-10-05 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MS</span>
+2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
-
----
-
-### [Infosalus.- El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
-
-2026-09-29 <span class="news-indication-tag">cardiovascular disease</span>
-
-Source: [Notimérica](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
 ---
 

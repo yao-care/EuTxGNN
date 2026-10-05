@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
+
+### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+
+2026-10-05 <span class="news-indication-tag">hipertensión</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+
+---
 
 ### [Hacer ejercicio puede desencadenar una migraña. También puede ser una de las mejores formas de prevenirla](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
 
 2026-10-05 <span class="news-indication-tag">migraña</span>
 
 Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
-
----
-
-### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
-
-2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
-
-Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
-
----
-
-### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
 
 ---
 

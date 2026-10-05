@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (8)
+
+### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+---
+
+### [Un traitement unique au monde pour ralentir la maladie d'Alzheimer autorisé à 1h30 de Lyon - Le Bonbon](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVR2UGJ3a3lfSEFZbk5pNVRFRmxjOEtwMnp3X2c1WWswamlhNEZXbXh0ME9paTE5NWo3RGM0cGJjTUFhMWpBeXN5Yl9MZ0UzUDlDWGpBNEJUMXd1QzRQWXM3Slg2bmpHZzlteFo4b3VHbXEtRGFQa3UwNHJDdmVjUDB1YjBRanYwREtqRFBqUkItWFBsOWhnTndFaUNSVDhYQ0dj?oc=5)
+
+2026-10-05 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Le Bonbon](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVR2UGJ3a3lfSEFZbk5pNVRFRmxjOEtwMnp3X2c1WWswamlhNEZXbXh0ME9paTE5NWo3RGM0cGJjTUFhMWpBeXN5Yl9MZ0UzUDlDWGpBNEJUMXd1QzRQWXM3Slg2bmpHZzlteFo4b3VHbXEtRGFQa3UwNHJDdmVjUDB1YjBRanYwREtqRFBqUkItWFBsOWhnTndFaUNSVDhYQ0dj?oc=5)
+
+---
+
+### [Alexandra Soriano, neurologue : "La maladie de Parkinson peut commencer à se manifester par des symptômes non moteurs, comme la constipation ou l'urgence urinaire"](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+---
 
 ### [No es la edad, son las hormonas: la menopausia altera proteínas en sangre asociadas al envejecimiento cerebral y al alzhéimer - Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
 
 2026-10-04 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
+
+---
+
+### [How little exercise can you get away with? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1c0dEp5NTJhWXVMOWVTTDJCeHlySXNydHVYbXlieXk5Vi0xcTlIamF5bUxOX29TZzVETGRsQ2cyOFNLNC1QMm5vdjRDaDV3dzR6N1NuUTN1T016NnZ0ektYN00tTGMtSG5xZkQxVmdwVVAtVlB2dzUwVVltcTRpV2FaVlNTcUIwTGRfVFhmd3dtSFd4VWRta1pKbTdmZGVKVzlVTVBYTF8wNkFzRjJ3?oc=5)
+
+2026-10-03 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1c0dEp5NTJhWXVMOWVTTDJCeHlySXNydHVYbXlieXk5Vi0xcTlIamF5bUxOX29TZzVETGRsQ2cyOFNLNC1QMm5vdjRDaDV3dzR6N1NuUTN1T016NnZ0ektYN00tTGMtSG5xZkQxVmdwVVAtVlB2dzUwVVltcTRpV2FaVlNTcUIwTGRfVFhmd3dtSFd4VWRta1pKbTdmZGVKVzlVTVBYTF8wNkFzRjJ3?oc=5)
+
+---
+
+### [If you had 50-50 chance of getting dementia, would you want to know? - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
+
+2026-10-02 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
 
 ---
 

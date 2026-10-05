@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "enfermedad de Crohn (crohn disease) News"
+title: "Morbus Crohn (crohn disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about enfermedad de Crohn (crohn disease). 1 articles, 1 related drugs."
+description: "Health news about Morbus Crohn (crohn disease). 4 articles, 1 related drugs."
 permalink: /news/crohn-disease/
 ---
 
-# enfermedad de Crohn (crohn disease) News
+# Morbus Crohn (crohn disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about enfermedad de Crohn (crohn disease)?">
-<strong>enfermedad de Crohn (crohn disease)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about Morbus Crohn (crohn disease)?">
+<strong>Morbus Crohn (crohn disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “enfermedad de Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Morbus Crohn” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,37 @@ This page brings together the latest health news about “enfermedad de Crohn”
 </ul>
 </div>
 
-## Related News (1)
+## Related News (4)
 
-### [El lado íntimo de la enfermedad de Crohn: «Temes tener una fuga durante el sexo»](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFNZUhjNTRLWjJ6MngzdlhpUW1WR3Y1WmZ6U0xTbHJnRTNHNHc3a3VxVnNsYkI3blVIQWxQVjRxdEtYS0pKTnhOYWFwbHBhMGl2U25hS2xKNkVQVWxhSDYtVExQOE1hWHNkUC1mNDlZRjNDSE9OZFVGeFF6dzJMMHJXRlpSV2wtdjlBcVdTLUMwcWw5YnBR0gGfAUFVX3lxTE83LWYxdUVlVjUyV3p4MmRRUV9sbEZUZ3loSmUwdk9QUFd5TW1jOTBERGtjQ3JvOHktdWFFNmpoaHczeGVsSGV2N0JvaGVwNkZDdklkV3V1b29lSmVWclpHU3JwMHpTV2FXYjZFVnZPMnZueUJzcTJPeGpZaHJjcnl3QjNVRWVtNDY2bGg1MUN6Z2xraUVWZ3hDaFQ2OFBNTQ?oc=5)
+### [Morbus Crohn: Top-Down-Behandlung vermeidet langfristig Operationen und andere Komplikationen](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
 
-2026-10-04
+2026-10-05
 
-Source: [OkDiario](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVM1eEFNZUhjNTRLWjJ6MngzdlhpUW1WR3Y1WmZ6U0xTbHJnRTNHNHc3a3VxVnNsYkI3blVIQWxQVjRxdEtYS0pKTnhOYWFwbHBhMGl2U25hS2xKNkVQVWxhSDYtVExQOE1hWHNkUC1mNDlZRjNDSE9OZFVGeFF6dzJMMHJXRlpSV2wtdjlBcVdTLUMwcWw5YnBR0gGfAUFVX3lxTE83LWYxdUVlVjUyV3p4MmRRUV9sbEZUZ3loSmUwdk9QUFd5TW1jOTBERGtjQ3JvOHktdWFFNmpoaHczeGVsSGV2N0JvaGVwNkZDdklkV3V1b29lSmVWclpHU3JwMHpTV2FXYjZFVnZPMnZueUJzcTJPeGpZaHJjcnl3QjNVRWVtNDY2bGg1MUN6Z2xraUVWZ3hDaFQ2OFBNTQ?oc=5)
+Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
+
+---
+
+### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+
+2026-10-05
+
+Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+
+---
+
+### [Malattia di Crohn, con nuovo farmaco remissione nel 54% dei casi](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
+
+2026-10-05
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
+
+---
+
+### [GETECCU sitúa la atención integral en el centro del abordaje de la Enfermedad Inflamatoria Intestinal en España](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc29FVVgtWHd5SnRMSjgyZGVMTVNrQWV4dEFqdlUtdk8yRmhGMTJmbzU4MmN3SlItSXNaR19GWTc5Yl9Leng5Q2pZOTlSQ1ZQNFN2NVZKd1RyaTRLZ3JRUFMxSmU0OVFsOEJyMW5KaVJ0bEdkMmpQNzFBVlZiVDgtQ1JXTmgyT3dMdjkyaHhBUGtoS29fbHFjZDJyOWZLMkVjRFh1dXk2RURYRDl6b0N2UDJHeFlwSWc?oc=5)
+
+2026-10-01
+
+Source: [gacetamedica.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxPc29FVVgtWHd5SnRMSjgyZGVMTVNrQWV4dEFqdlUtdk8yRmhGMTJmbzU4MmN3SlItSXNaR19GWTc5Yl9Leng5Q2pZOTlSQ1ZQNFN2NVZKd1RyaTRLZ3JRUFMxSmU0OVFsOEJyMW5KaVJ0bEdkMmpQNzFBVlZiVDgtQ1JXTmgyT3dMdjkyaHhBUGtoS29fbHFjZDJyOWZLMkVjRFh1dXk2RURYRDl6b0N2UDJHeFlwSWc?oc=5)
 
 ---
 

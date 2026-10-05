@@ -3,7 +3,7 @@ layout: default
 title: "migraña (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraña (migraine). 2 articles, 49 related drugs."
+description: "Health news about migraña (migraine). 1 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/migraine/
 ---
 
 <p class="key-answer" data-question="What news is there about migraña (migraine)?">
-<strong>migraña (migraine)</strong> currently has <strong>2 news articles</strong> and 49 related drugs.
+<strong>migraña (migraine)</strong> currently has <strong>1 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -77,21 +77,13 @@ This page brings together the latest health news about “migraña” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Hacer ejercicio puede desencadenar una migraña. También puede ser una de las mejores formas de prevenirla](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
 
 2026-10-05
 
 Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
-
----
-
-### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
-
-2026-10-03
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
 
 ---
 

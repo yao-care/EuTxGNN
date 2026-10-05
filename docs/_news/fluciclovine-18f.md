@@ -14,7 +14,7 @@ permalink: /news/fluciclovine-18f/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluciclovine (18F)?">
-<strong>Fluciclovine (18F)</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fluciclovine (18F)</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Fluciclovine (18F) with the 
 <p><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Hacer ejercicio puede desencadenar una migraña. También puede ser una de las mejores formas de prevenirla](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
 
 2026-10-05 <span class="news-indication-tag">migraña</span>
 
 Source: [Xataka](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHJ0S3NfLUgxOFd0MlpZNWtxVnVsRVRHVnQ3RGhXWnhrQVR3cVNLSS1mWDE2NFJlSlAyQjAyRmVqRVdFMF9lOHk2Y0psa21QNEY4bkFNUHdrbzFodXdqODNMeDdUTW9NRWc2ZjZhU2l5QXJRMXlLQlV5TVNjc01kUElBY3B6c0hBZHJiNnNTZmlTOUFoY24ybV9RcmpuSjk0d0NwR0g4OF8zZFpiTzJQVXNraEtCYkRCUXIwcUQwTTB5OVZZaG5MVGgweS10dkgyNHB5dkhyeHlHUdIB3wFBVV95cUxNa2FMYVlRZHp6R1pLYURxcUxpR2RQRzd6aEpVdDktTVhaWHA5STFubHlEYWFSeFJsRkc4UDEyV3R0S0hfUzFPd09VdEtfVThOWTlUWVVRWU1hMXBFamtvV1F3aGdNd3F3c2hRNmE2S3JzQTlhZ052VmV3d2dzMTB5cU1nRzZucFVDaGJBcXVSMHJWY3BpYnY4b1FnTzdnODYyYWd6WVJ5U2labVNud0xXZ2ItUmVFNUNSRXFwZHFGNHI4WE9Kblg5bGJJS3U5VW1xUkFLd1RIYUZRQmxDbnZR?oc=5)
-
----
-
-### [Cannabis per emicrania e mal di schiena: cosa funziona davvero e cosa si può usare in Italia](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">emicrania</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalRXR3dhUTV0UU5MYzZpbU1jMzlSM1VZelAxZnJoajl3Z0JuamVJNmJodlEzSWg1alVod3B0SElta0Q3OG5hNU43ZWRHTWZycnBRZ1EwVENlTjd5akRhQkYtaFBXbGRyOXBPd3dJWDFPQUxiMktzNGNiTF9ha2RCckprMzdtZDdBOHF4TDN1d1FpdFdDWThwTUZXVGwxVzJud29DcmJnYnlCaFFoeThoTUlMWlV2UHJHWnQyWFZfeXpraTVFSzN3ZFlva1dTcDNkcWxub3JvNDR5cjV3bks5VTVWT0pYUQ?oc=5)
 
 ---
 

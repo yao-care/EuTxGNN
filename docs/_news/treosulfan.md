@@ -14,7 +14,7 @@ permalink: /news/treosulfan/
 ---
 
 <p class="key-answer" data-question="What news is there about Treosulfan?">
-<strong>Treosulfan</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Treosulfan</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Treosulfan with the latest h
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [Demenz: Diese Cholesterin-Senker könnten das Risiko überraschend deutlich senken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX2dRZ05HbjBwNDhUbWJVRnhSeUdackUwa2c2UzE5Z2E0MEJ6NEFYTU1PU1J5SGQzMlEySnk5Rm9kRUJDNXdYSnlnVFgzZVVDNmNPN1B2eHQ0R1M5RjU4RDBRb180SWEwRjdFMDBlVHlkeTM0Nk1KRHpxT1pSWnVNZlpvdlgyblVHSjdEWVR2aXZHUXlscTQxZTR4R1huUzFkdm42Qlg1aE9DZk9oVnpTMENKdFFNRXdxMlhpUVpnNV8xUjhCczZJZ3ItRGhaYk9WVXZZdWdIa2RXdW1qX3FfLTNBSQ?oc=5)
 
 2026-10-05 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX2dRZ05HbjBwNDhUbWJVRnhSeUdackUwa2c2UzE5Z2E0MEJ6NEFYTU1PU1J5SGQzMlEySnk5Rm9kRUJDNXdYSnlnVFgzZVVDNmNPN1B2eHQ0R1M5RjU4RDBRb180SWEwRjdFMDBlVHlkeTM0Nk1KRHpxT1pSWnVNZlpvdlgyblVHSjdEWVR2aXZHUXlscTQxZTR4R1huUzFkdm42Qlg1aE9DZk9oVnpTMENKdFFNRXdxMlhpUVpnNV8xUjhCczZJZ3ItRGhaYk9WVXZZdWdIa2RXdW1qX3FfLTNBSQ?oc=5)
+
+---
+
+### [CagriSema muestra efectos más allá del peso en cerebro, grasa abdominal y salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
+
+2026-10-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
 
 ---
 
@@ -86,43 +94,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VT
 
 ---
 
-### [Enicepatida, con resultados positivos en personas que viven con diabetes tipo 2 y sobrepeso u obesidad](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
-
-2026-10-04 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Farmacosalud](https://news.google.com/rss/articles/CBMixgFBVV95cUxNRVlkOFJsMlAxWXdHTXZZcDA3TFk0eFpwcXRVbXNsbkxKWGJKX29QQzY0enNTQl82MXZfZlowRjN5Q0pQN2xYQWhINGRZNTFKNVVub1d6VDdWU1JpVG9NNVRKaWpybDJsdWNhcm9TQmFSUzBhY2x5NnFJaE4zRFFJY3ZwWl8tcXhwOWZfaHFfb1ZWNUxGejJXQ29aYnprVE1xeGduNTdKWk9EYzdpZ2pDSXlXWVI1aFFmV0t0VUIwLWp1dWhGZ1E?oc=5)
-
----
-
 ### [Health, diabete di tipo 2: l’emergenza globale che continua a crescere - Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgzOFZOUXFqZWl6Y0V3Z2t5UmRvWjZrRWNOdFdYY3p0bk9ndGRDTjdiN2I1bHVxeDN6TlFQdVE4U3kwdE9lMlNZSDVIZU80anpSQmM4S2NjUnJHaGhhb3NUblNyZkFCdVlLUTRxTThDRGgteTZnbkI0S00?oc=5)
 
-2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-10-04 <span class="news-indication-tag">diabete</span>
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgzOFZOUXFqZWl6Y0V3Z2t5UmRvWjZrRWNOdFdYY3p0bk9ndGRDTjdiN2I1bHVxeDN6TlFQdVE4U3kwdE9lMlNZSDVIZU80anpSQmM4S2NjUnJHaGhhb3NUblNyZkFCdVlLUTRxTThDRGgteTZnbkI0S00?oc=5)
 
 ---
 
-### [Prédiabète : ces petits-déjeuners d’automne qui évitent le coup de barre de 11h - Le Tribunal du Net](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
+### [Prédiabète : ces petits-déjeuners d’automne qui évitent le coup de barre de 11h](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabète</span>
 
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
-
----
-
-### [Fino a dove possono arrivare i farmaci per dimagrire - Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
-
-Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
-
----
-
-### [Nueva prueba de autoanticuerpos busca detectar diabetes tipo 1 antes de la aparición de síntomas](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenBzb1pOcGFMemFETHhDcGZNSVQyUzQ5czVoeXpKRXFVb3FlaHdPc24ySm5QRU1mWlk2NVRSUkRIcF9YZEpoUXJzbVRHQ0JMN0RlR01xODNtRXdWMzZBNFY3VEkxaVB0LXVROWUyVGxVcWNVVDhwR05RcW1va3o4ZF9OU0JzTnVYRHRfNFg3ZlRKVi0zcVVYSDJNNHZPWjNRMkhJYWo4T0g1UVNlWDRrTVh5QVBVWHRvMHlOd0YzWTM1akdLNHBfVVVBXzhPem9CWnllVHlISUx5eTUwY3RnaVZyN2F3Vy14d1hlejZR0gH3AUFVX3lxTE1PWXg2SVdWcWJHNHl2SVRfbFoycmdtZml4a0ZJSTh1SkdtNnJlelJ5bXJXUDMtTlZFa3A4OTVRaVBjc3F1TzBheUNZeWEyUkNSSWdMYlhYS1ktY08yZERLMVFBS19fUTFiTnJ5VWRvQ2VZNXhNZThqYndnUGtEQXVzOXZnM1VMNzBRWTRBLXdJZXJjS0xoRmFXTUMyck15Rm9naXFwYlJJUmRBYng3cDB6UlRLQ2pPSnhXSFhSZzg4Q2xNMXJoRXpVRDg3aXZIRDRtTnNId3ItUmR2aWZzTU1lbG8tZWpSM1hiRkVoMHBYeEZyUGFFTTg?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [labmedica.es](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNenBzb1pOcGFMemFETHhDcGZNSVQyUzQ5czVoeXpKRXFVb3FlaHdPc24ySm5QRU1mWlk2NVRSUkRIcF9YZEpoUXJzbVRHQ0JMN0RlR01xODNtRXdWMzZBNFY3VEkxaVB0LXVROWUyVGxVcWNVVDhwR05RcW1va3o4ZF9OU0JzTnVYRHRfNFg3ZlRKVi0zcVVYSDJNNHZPWjNRMkhJYWo4T0g1UVNlWDRrTVh5QVBVWHRvMHlOd0YzWTM1akdLNHBfVVVBXzhPem9CWnllVHlISUx5eTUwY3RnaVZyN2F3Vy14d1hlejZR0gH3AUFVX3lxTE1PWXg2SVdWcWJHNHl2SVRfbFoycmdtZml4a0ZJSTh1SkdtNnJlelJ5bXJXUDMtTlZFa3A4OTVRaVBjc3F1TzBheUNZeWEyUkNSSWdMYlhYS1ktY08yZERLMVFBS19fUTFiTnJ5VWRvQ2VZNXhNZThqYndnUGtEQXVzOXZnM1VMNzBRWTRBLXdJZXJjS0xoRmFXTUMyck15Rm9naXFwYlJJUmRBYng3cDB6UlRLQ2pPSnhXSFhSZzg4Q2xNMXJoRXpVRDg3aXZIRDRtTnNId3ItUmR2aWZzTU1lbG8tZWpSM1hiRkVoMHBYeEZyUGFFTTg?oc=5)
+Source: [letribunaldunet.fr](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
 
 ---
 
@@ -134,11 +118,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJf
 
 ---
 
-### [Typ-1-Diabetes: Sex birgt offenbar kein relevantes Hypoglykämierisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
+### [Typ-1-Diabetes: Sex birgt offenbar kein relevantes Hypoglykämierisiko – News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
 
 2026-10-01 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
+Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
 
 ---
 
@@ -147,6 +131,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV9
 2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
+
+---
+
+### [Un modello di IA 'legge' il diabete nella voce in 20 secondi](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
+
+2026-09-29 <span class="news-indication-tag">diabete</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxQZV9fckxQcGZna3NXQko1QTcwZ1R0Q2RyU202Wk9mSWVMbEJERUpjWlpUeTYwMU1KVk9RNkp3SnpDaWFvWlQzMlNKamg4X1pGbWpPckpMRVdsc2w3aXlvQlZwbHp1TnVfVUsxWkV6MWRMb0RQV1FvMVduamhhbjlNNFZPbXJxN0JVRnpFdldZeTU2VE9uWmZaNWRLc3dHWEdfVXNiNEMzTkFpQUkyVnhZTnZ0TTZxTWVhSFp6TmNnM3YzYjFrUlVaOHYzbE83WFIxVEZhd3pUUW1aNFVCN0NDV1RPdzhtdEtfeE1Ud3BRNkY3Q3FPaHNZRW84SzNsNzJj0gGGAkFVX3lxTE52VmpiQTk4NEo0Rk9LU3ZzSzM0a1RsYXBrNFluSG4zVk14V2E0dmU2ckEtZC1RQ3EwUHBZOGxFWHIybmc4c01ZSGRMcVVjRG5VR2JWWjExLXlsd3lMUXJnVFhnRXFueUgtY0hSS0JsSm42Wmg3Q3RSTGpSRDU2RXZOeWZmalFtXzBRaHhyRlhnVjgydUNTekVrTXA5LTNqVGd4NEk3T2NrTWQ1SFhFYUI2N0MtOVlUVEdvLXg4elA1ZVhwUU9Vd0dDc1FtS0ZiUi1SLXBzd0NlRHkzLWM4dFZMcTVuNTNZVWpwYkJZV0FjNTdoVl9acWRrY3d5aWh6NkZfaDdzTWc?oc=5)
 
 ---
 

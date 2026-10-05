@@ -54,11 +54,19 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 
 ## Related News (3)
 
-### [One Diet Change May Ease Depression Symptoms in Just 4 Weeks, Small Trial Finds](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
+### [Therapieresistente Depression: MindShift kombiniert KI mit Neurostimulation - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamEyYkNGX2dma1VJMS14M2J0S3psUkxZZ0FEb1dJRDRnN09FaEhlbjVRVFdpSXJGWGxya1hmNWg4MzdINXpySVR6Mkowd2pNSmw4bHlYczVyYk9vV0pOb3czV1ZZd2hLaWJ0RnU4bmpfMkViLVB6TDluQWNPV003VmVudVh2TDItNXRVRFNOUzFSdlozeHpraVFyY0pGQnhfaG9URWlfTWlqQQ?oc=5)
 
-2026-10-05 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-10-05 <span class="news-indication-tag">depression</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lMekFHbTYwM2xlb1ZwWHNaWkpQZnR6Um9TZmphMEJVTXRvNWhRVl8ySjJwSnZvVmY4bFNFWlBiSFhkbjRTck5JVUpXR1dvZk1Pcy1PNDljLUtFZHJCYkpFQzZjbEgtZ21USjJTM29TMEhkZHVPR2JZVHFnR2JKRDZnRm56VFVsZ2NxSWJJWnQxVk4yNXFTczJ6ZzBUa3prRmdPRHFXaXRSQVU?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamEyYkNGX2dma1VJMS14M2J0S3psUkxZZ0FEb1dJRDRnN09FaEhlbjVRVFdpSXJGWGxya1hmNWg4MzdINXpySVR6Mkowd2pNSmw4bHlYczVyYk9vV0pOb3czV1ZZd2hLaWJ0RnU4bmpfMkViLVB6TDluQWNPV003VmVudVh2TDItNXRVRFNOUzFSdlozeHpraVFyY0pGQnhfaG9URWlfTWlqQQ?oc=5)
+
+---
+
+### [Ansia e depressione, a Bergamo screening gratuiti anche per i neopapà - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
+
+2026-10-05 <span class="news-indication-tag">depression</span>
+
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT1lM
 2026-10-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
-
----
-
-### [Brain scans show shared changes during depression treatment and distinct antidepressant effects in some patients - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjVtV1lOTHhwYkI4LWtaRlZCRUxlMDFwTlZ6YzJYM28wWlB2cVZqNzJqaGdWUkx6V2RIUnpiS1lHc1N6UEUzQlJLa1pWMGdsTmxqRE9OTFNkWVVKOG1xVTVtSzNaSUJ5V3E0UDNlOGtzNmFZSWVvU0trODVMYWREQ3h1dWMzNnJIRFB5SVh3?oc=5)
-
-2026-10-03 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjVtV1lOTHhwYkI4LWtaRlZCRUxlMDFwTlZ6YzJYM28wWlB2cVZqNzJqaGdWUkx6V2RIUnpiS1lHc1N6UEUzQlJLa1pWMGdsTmxqRE9OTFNkWVVKOG1xVTVtSzNaSUJ5V3E0UDNlOGtzNmFZSWVvU0trODVMYWREQ3h1dWMzNnJIRFB5SVh3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
 
@@ -67,6 +67,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFa
 2026-10-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
+
+---
+
+### [El 'jet lag' alimentario: las consecuencias de cambiar tus horarios el fin de semana - National Geographic España](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3hfdFcydUJrQm1BX2g0MEhodndrMldUUWJnb0dtZU9GRm1QQi10RlN1TVZ0akxvWVU4Mmc2WWxkcWROWjVIQjhaaW5QM0RsUng1NXR3WFRrSDZVREo3U21kLWpydll1RDAxNmQzYUlMZUx1YWhxN2RzVllxcjJhSXVDa0tGRVRYSC10NU9fU0J6OVYzc2VEU3JiYkc2aktsX2ZsWUk0aURkX0s1RGtBQ0RBX2RVNWhSWllv?oc=5)
+
+2026-10-05 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">ictus</span>
+
+Source: [National Geographic España](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3hfdFcydUJrQm1BX2g0MEhodndrMldUUWJnb0dtZU9GRm1QQi10RlN1TVZ0akxvWVU4Mmc2WWxkcWROWjVIQjhaaW5QM0RsUng1NXR3WFRrSDZVREo3U21kLWpydll1RDAxNmQzYUlMZUx1YWhxN2RzVllxcjJhSXVDa0tGRVRYSC10NU9fU0J6OVYzc2VEU3JiYkc2aktsX2ZsWUk0aURkX0s1RGtBQ0RBX2RVNWhSWllv?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZU
 
 ---
 
-### [Nuove terapie contro l'obesità, ma resta lo stigma: “Molti non si curano per paura del giudizio”](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3enlfUlF5YXZ5TmJrc0JpeUxJdzdGSHBvZEo3Uk42OG9kOEk5YXBvM19EdmdneWZQZFdlbVNiNWQyMVhPM19YNFdXLXlxWE5TbTV6VWhoY2ZQcGdkX0FVdWI1OWh1d3VJVEtTc2hjOFFCNks3T29LOW5wZkMtaHMzU0p4bWcyNmhPTEs0dE85RXZMRDQyOUtheUlLVWg3akxPMTB3SzJBamNic09yNHJDZ3RQNEJsZmtjSHpiVkQtLXR6RTQ4d0hmQQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3enlfUlF5YXZ5TmJrc0JpeUxJdzdGSHBvZEo3Uk42OG9kOEk5YXBvM19EdmdneWZQZFdlbVNiNWQyMVhPM19YNFdXLXlxWE5TbTV6VWhoY2ZQcGdkX0FVdWI1OWh1d3VJVEtTc2hjOFFCNks3T29LOW5wZkMtaHMzU0p4bWcyNmhPTEs0dE85RXZMRDQyOUtheUlLVWg3akxPMTB3SzJBamNic09yNHJDZ3RQNEJsZmtjSHpiVkQtLXR6RTQ4d0hmQQ?oc=5)
-
----
-
 ### [The ‘healthy’ sweetener linked to heart attacks and strokes - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
 
 2026-10-03 <span class="news-indication-tag">stroke</span>
@@ -107,14 +107,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9
 2026-10-02 <span class="news-indication-tag">ictus</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
-
----
-
-### [Mini-Schlaganfall und Demenz: Studie enthüllt Langzeitrisiko](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
-
-2026-09-28 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFBlVmxkc2ZwUG1LaVNadTJ3MzFRb1NMT2t0dUw2RE1hQjdkSl9RSXFNRTRBcmlDSVR5MzhUaER2R1RncXYxbUxEdWFmUGhCMmNuSE15UzBrM3NOUmFwUUVJUi00dkoxZldBbl9KeF9jb2RhYXhySUdQVWttUEhvNEVXLU1yajhhS3BXaVA1RnZweHVSVGwxeVhPQW5sTW1XX1l1alhPUDVoS1RCSHdsY0RVd3J0Nmw1cktDRWNqSUlwZWtSc2treTRUNA?oc=5)
 
 ---
 

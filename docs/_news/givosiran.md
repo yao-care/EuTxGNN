@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
+### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
 
-2026-10-04 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">AF</span>
+2026-10-05 <span class="news-indication-tag">hipertensión</span>
 
-Source: [ladepeche.fr](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+
+---
+
+### [Hepatitis A alert issued to UK primary schools after new cases confirmed - The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTRoVVBILUdBRnRTc0JXbnZuX3Nuc0hONHZWMG1rX01weEJOVUMxTTRhS2tVcTY2Nkt4OFJHTVZtMk1nODExM2swM3c2ZnhDYUxtSEN0T29MaVh4d2xHUU1MOTVCMmprTDFmTndCMHMyRzZrQzR0NEs2cmV0VEktV241Wjl0WmNBUS1GU0N4eXl6eGdvblZkTHItUTYyYWVyMUdGTGxLMWtoTUI0ZEcwdXBPcw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTRoVVBILUdBRnRTc0JXbnZuX3Nuc0hONHZWMG1rX01weEJOVUMxTTRhS2tVcTY2Nkt4OFJHTVZtMk1nODExM2swM3c2ZnhDYUxtSEN0T29MaVh4d2xHUU1MOTVCMmprTDFmTndCMHMyRzZrQzR0NEs2cmV0VEktV241Wjl0WmNBUS1GU0N4eXl6eGdvblZkTHItUTYyYWVyMUdGTGxLMWtoTUI0ZEcwdXBPcw?oc=5)
 
 ---
 

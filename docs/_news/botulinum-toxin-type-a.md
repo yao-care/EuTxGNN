@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="What news is there about Botulinum Toxin Type A?">
-<strong>Botulinum Toxin Type A</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Botulinum Toxin Type A</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Botulinum Toxin Type A with 
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+---
+
+### [Alexandra Soriano, neurologue : "La maladie de Parkinson peut commencer à se manifester par des symptômes non moteurs, comme la constipation ou l'urgence urinaire"](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+---
 
 ### [BPCO, quando arriva una crisi cambia anche il «mondo dei virus» nelle vie aeree](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
 

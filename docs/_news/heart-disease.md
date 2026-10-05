@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 2 articles, 57 related drugs."
+description: "Health news about heart disease. 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# cardiovascular disease (heart disease) News
+# heart disease News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease?">
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -85,21 +85,13 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Exact date you should turn heating back on as autumn chill to arrive this week - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
+### [What your penis can reveal about your health - from heart disease to cancer - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
 2026-10-05
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEpFNzA4RjhMOUxRdndScE1kZ2xCTWE4ZUVRakRFSXkyM2Q2bzJuenp1ZU1LZjM1U0R6bFRTNkNYeEg4b255MkZyakZzU05COUVURHd4Y1BOeEFSS29yWTJoZGpSSktMajRlYjhhbWtxZWtFM003QmhBVkNzMG1BSy1yTmtsUWlSZmc?oc=5)
-
----
-
-### [Infosalus.- El CNIC lanza 'Cada latido cuenta' para acercar a la sociedad los avances en enfermedades cardiovasculares](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
-
-2026-09-29
-
-Source: [Notimérica](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjdTNTZ3T1dUekUwUFVwc1VIN0pwbTJDc2VZbXJaRFVsbkY2aktxbUY3ZHNkbUxKN3k2VUctckFsb3NQVUQ5cmdqUmtHZzktZVExNzViX2xUUmxLT19IMC1aM1BDN19jNlNpa1NRY1FmZWNsd1Q0ZHdLdkpmSkNwczh2YWdCeGVScjlRN3hLMlQ0dkNhY2JtSzJBREsxWFNwSS1OS29Eck85UjN5NThWMFJzNEVxcWE3TzRZYnNycE9YSFN0Zjl2LThybHBhaktyRTlud2xjVEllWi1GQ01HRHlHMG1xZzNfSkE?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 
 ---
 

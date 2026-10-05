@@ -3,7 +3,7 @@ layout: default
 title: "Parkinson's (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Parkinson's (parkinson disease). 1 articles, 7 related drugs."
+description: "Health news about Parkinson's (parkinson disease). 3 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Parkinson's (parkinson disease)?">
-<strong>Parkinson's (parkinson disease)</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
+<strong>Parkinson's (parkinson disease)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “Parkinson's” and lis
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+2026-10-05
+
+Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+
+---
+
+### [Alexandra Soriano, neurologue : "La maladie de Parkinson peut commencer à se manifester par des symptômes non moteurs, comme la constipation ou l'urgence urinaire"](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+2026-10-05
+
+Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
+
+---
 
 ### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 

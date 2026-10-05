@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="What news is there about Tazobactam?">
-<strong>Tazobactam</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tazobactam</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tazobactam with the latest h
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
 
-### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+### [La artritis idiopática juvenil afecta a casi 8.000 menores en España: ¿cuáles son las claves para combatirla?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
 
 2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
+
+---
+
+### [La artritis reumatoide afecta a más de 400.000 personas en España](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+
+2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [diariodesevilla.es](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
 
 ---
 
@@ -67,6 +75,14 @@ Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUx
 2026-10-04 <span class="news-indication-tag">asma</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
+
+### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
+
+2026-10-02 <span class="news-indication-tag">asthma</span>
+
+Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 ---
 
