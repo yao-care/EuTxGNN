@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Canagliflozin with the lates
 
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
 
 ---
 
@@ -76,25 +76,25 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMikAFBVV95cU
 
 ---
 
-### [Your liver may be tired too: 7 everyday habits that could be affecting liver health, even when there are no obvious symptoms - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
+### [Occhi spia della salute, ecco come svelano diabete e altre malattie](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1NIQXlTX1QzMFF6amp5c3NlUkNmRDlOdE5SSkxhX1VfNVBwaFAtSU5GUEFxSTRTaTg5QlVmM2NPOC1VekpMaVRQRHNjX1pqS1hxSEFOb25PZEhCS2s0QjFNdUZ1cXAxS2JZbU5jREpBakxxM0pZM0J1NUVXYVhsN3VYdXlVZXlxS1JhSTl6elQ4d3M4d0tMQWdNQmQwdEpxREx0ZjEwNGMtdw?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-03 <span class="news-indication-tag">diabete</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
+Source: [Adnkronos](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1NIQXlTX1QzMFF6amp5c3NlUkNmRDlOdE5SSkxhX1VfNVBwaFAtSU5GUEFxSTRTaTg5QlVmM2NPOC1VekpMaVRQRHNjX1pqS1hxSEFOb25PZEhCS2s0QjFNdUZ1cXAxS2JZbU5jREpBakxxM0pZM0J1NUVXYVhsN3VYdXlVZXlxS1JhSTl6elQ4d3M4d0tMQWdNQmQwdEpxREx0ZjEwNGMtdw?oc=5)
 
 ---
 
-### [Hiperbaric impulsa el procesado en frío con su tecnología de altas presiones HPP - Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkpsWHlJYzRjU0RCWXM2QzJuak94YkFGVWR5cTIyM0tjNE92MzQwZy1XR1N6ZGFtbHZ5OVZ6Z18ydmxOZmdjdUk0YTFJN2FtbHFZTE45dkd6OVUzZ0xpU0NQTUdTWkpmbWwybnBvTWJVVHN0UXhhV3Q5VS1pUERfN051NDhSVUNGMnM4UEhmNUF3UjF6R1JYNmJnNkRsTFZMVXFfTnhybjZfek9kWUtuam5Yb1pEa2xuUWgzQ1VXdE1IakJDRERaM0l4a1hkUFk?oc=5)
+### [Retinal Thinning Seen Below Prediabetes A1c Threshold](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlIU1hiMmNMR2Z6aE92aTh0OWlUZzA5VWY1Y0RQeWNVZUJIYUpxZ0dCU0s5Q1p5cFYzdGVXSzhxNllkRWxXRFpKWTZINklJMldfd210VTBSTGJ3cUsyamVXd3VpMkhyLW1haWhsS3E2ZWYyd2gyeXJWVTQxUm0xV1dMNHFrSzhTNTZRd1FkVkoxYk14U3JfT0NycWg1M0xnSmp6TW5qSTFlbWxn?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
 
-Source: [Interempresas Media](https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkpsWHlJYzRjU0RCWXM2QzJuak94YkFGVWR5cTIyM0tjNE92MzQwZy1XR1N6ZGFtbHZ5OVZ6Z18ydmxOZmdjdUk0YTFJN2FtbHFZTE45dkd6OVUzZ0xpU0NQTUdTWkpmbWwybnBvTWJVVHN0UXhhV3Q5VS1pUERfN051NDhSVUNGMnM4UEhmNUF3UjF6R1JYNmJnNkRsTFZMVXFfTnhybjZfek9kWUtuam5Yb1pEa2xuUWgzQ1VXdE1IakJDRERaM0l4a1hkUFk?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGlIU1hiMmNMR2Z6aE92aTh0OWlUZzA5VWY1Y0RQeWNVZUJIYUpxZ0dCU0s5Q1p5cFYzdGVXSzhxNllkRWxXRFpKWTZINklJMldfd210VTBSTGJ3cUsyamVXd3VpMkhyLW1haWhsS3E2ZWYyd2gyeXJWVTQxUm0xV1dMNHFrSzhTNTZRd1FkVkoxYk14U3JfT0NycWg1M0xnSmp6TW5qSTFlbWxn?oc=5)
 
 ---
 
 ### [Fino a dove possono arrivare i farmaci per dimagrire - Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
@@ -104,7 +104,15 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
+
+---
+
+### [Investigadores plantean extender por Europa el cribado de la diabetes tipo 1 en tres periodos de edad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbGl3bUp5TTZYOHU2Q245dmZ2TW8zdG1hTW5fa2M4UEFVN2xyWGdHRHBrZ2dzSFFYQXQxbWpjNC1lQkpHZ3JRU3NVMUFkdWpQNHhJdm9ad05wT2xYeHg1WXFtMUtWQzRRZFFiQlp5OUJ1Yjd6TGlVREVzNDF3WndBTTdpU1JyX1lEbXBKTlFPQ0Jja1JUc0tuYTVmaG8xTHJUeFRtcGs2bDNMR3VNSF9iMDVVM1d0eGtvU2RsT3BIUl9mMnJna1BMaXlhSDZqU2pRWUlUdkNQZk1mMmZhMm5LdjhFZFhPeW5aekE?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbGl3bUp5TTZYOHU2Q245dmZ2TW8zdG1hTW5fa2M4UEFVN2xyWGdHRHBrZ2dzSFFYQXQxbWpjNC1lQkpHZ3JRU3NVMUFkdWpQNHhJdm9ad05wT2xYeHg1WXFtMUtWQzRRZFFiQlp5OUJ1Yjd6TGlVREVzNDF3WndBTTdpU1JyX1lEbXBKTlFPQ0Jja1JUc0tuYTVmaG8xTHJUeFRtcGs2bDNMR3VNSF9iMDVVM1d0eGtvU2RsT3BIUl9mMnJna1BMaXlhSDZqU2pRWUlUdkNQZk1mMmZhMm5LdjhFZFhPeW5aekE?oc=5)
 
 ---
 
@@ -113,14 +121,6 @@ Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTE
 2026-10-01 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
 
 ---
 

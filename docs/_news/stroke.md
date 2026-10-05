@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "AVC (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AVC (stroke). 7 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 7 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# AVC (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about AVC (stroke)?">
-<strong>AVC (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “AVC” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -40,6 +40,14 @@ This page brings together the latest health news about “AVC” and lists the d
 </div>
 
 ## Related News (7)
+
+### [STAREE-Studie: Atorvastatin senkt schwere Herzereignisse bei Älteren um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
+
+2026-10-05
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
+
+---
 
 ### [Hypertension : comment bien prendre sa tension à la maison, les bons gestes à connaître](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdkNKSFZ2MTZwWjBySmZKLWpXeTdkbUpRQWluaFJnclMxWXlwZ3JrSVhuR1BsYS1IdjBBSjllVjZ5U2d4a1oyYkRJcjdFVGhrSjB5ZFJtZkFjdHNXS0g4alhoVkRlLXFpa1VvUE5QczhlYWNEeWpzVWVKT2VrNUt4RXlTZVcyUDlQejVnVDZhdU1MejJycjlxSlFVbGc3SmM5dkQzVzVNVkF1cXloMDBfcW1KVE15QjQ2MUJRcWFJRlUxNjRkaDVfTHhBcGd1UQ?oc=5)
 
@@ -78,14 +86,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9
 2026-10-02
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
-
----
-
-### [Statine ab 70: Auch im Alter können die Cholesterinsenker Herzinfarkt und Schlaganfall vorbeugen](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
-
-2026-09-30
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3ViR202VGpkTmMxQldwdTZsZDNfSEJFSmJOQU9WTXBqZVF2Nl8tb1J4Ni13anY3Zzhld3FCSlNZR2diMTVSUjV0Yy1QMjBCaTA0WWxzRVJjVkRTdmRkc003SzRZak91eVlsb3lmbnlMNm9jQS10U0FxVEJucmtwcG95SkwyYmNmRTFpUktKeGtuSFJXYWFiXzNncVQ0VzNMSGR2cHhLWkNEOEJPUzBUdml2TW85RDJReWpFRVQyUzNlSlFKR2RvdzFXNzE?oc=5)
 
 ---
 

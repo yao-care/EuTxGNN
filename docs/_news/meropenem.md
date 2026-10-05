@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Meropenem with the latest he
 
 2026-10-03 <span class="news-drug-tag">Meropenem</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDdFYmYySTZIYU1Oa01LaHBvYjZFVFFuQnMzM3VjT2V3R1p2NVgzcVcxaUVqT0t2dUl2OU11TVAzcW4zZkJ6TURLYU1kZ1IwR3Z2UG01ODhTTmc0aFZsRXp4Qk5VaWxZSTFGaFhacVQta0pESDM2YkFlSU9qRWpSV3J3TGJLZlIwN1RMdGZJbGFEMm9QN2VMaVJrS3VBYWw2US00WTY0Zjd6MG5NT1pxRUZtWUExVUV5RWpfb0NMcG01ZDNJX3RzeUNZVkNtYXFXekNQd1UxcVNoZk9tamY5NA?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbDdFYmYySTZIYU1Oa01LaHBvYjZFVFFuQnMzM3VjT2V3R1p2NVgzcVcxaUVqT0t2dUl2OU11TVAzcW4zZkJ6TURLYU1kZ1IwR3Z2UG01ODhTTmc0aFZsRXp4Qk5VaWxZSTFGaFhacVQta0pESDM2YkFlSU9qRWpSV3J3TGJLZlIwN1RMdGZJbGFEMm9QN2VMaVJrS3VBYWw2US00WTY0Zjd6MG5NT1pxRUZtWUExVUV5RWpfb0NMcG01ZDNJX3RzeUNZVkNtYXFXekNQd1UxcVNoZk9tamY5NA?oc=5)
 
 ---
 
@@ -66,7 +66,7 @@ Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbD
 
 2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 

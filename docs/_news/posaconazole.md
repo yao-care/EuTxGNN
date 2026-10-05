@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Posaconazole?">
-<strong>Posaconazole</strong> currently has <strong>37 news articles</strong>, with 20 predicted indications.
+<strong>Posaconazole</strong> currently has <strong>35 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Posaconazole with the latest
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (37)
+## Related News (35)
+
+### [Decaf Coffee Might Have A Surprising Advantage Over Caffeinated, Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTRhbEcxejhXVGwtWlhWR1V2SkYtZ3hMVGVNS3MzbFF4SS03cDVrRnpBdklyRmFUMV9uLUdZYWhtRVZZNFJ1MEk0UDNNZUdNSC1jZUhFMDQyd3ZydmpSVDY1Q29CS2tEV1QwekRRMG1SLXB5cFBMSklYa182aHpxSzdXYi1GUmo0Zm5aTVZDeFhXUEh4aF9yRkdNeUp0dUFDYjFVcEU0TQ?oc=5)
+
+2026-10-05 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTRhbEcxejhXVGwtWlhWR1V2SkYtZ3hMVGVNS3MzbFF4SS03cDVrRnpBdklyRmFUMV9uLUdZYWhtRVZZNFJ1MEk0UDNNZUdNSC1jZUhFMDQyd3ZydmpSVDY1Q29CS2tEV1QwekRRMG1SLXB5cFBMSklYa182aHpxSzdXYi1GUmo0Zm5aTVZDeFhXUEh4aF9yRkdNeUp0dUFDYjFVcEU0TQ?oc=5)
+
+---
+
+### [Krebs: Hätte eine HPV-Impfung Sandra Fuchs die Todesangst ersparen können?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkFtT01OOWU0ZFZjaEYyOHVxeHkyb1BiMGdScHJuRDB4R3VNeHo1YXVFVV9QUG83c2FxZnc3eW91UzFzay1RUDg4M2I5enBnTDU2b1plU3otNXh0VnNZWmtIcFN2R21ZVFBjNjNTWWx3bUU2QVZlQmhyZm5OQUVNSVVkTVZlRG9BNGpKQndlRWkwQmZrV0IxNXljQzJxOFM2UnIwRzBSYTliZHBjU2hfdUE2ZDdVaXpzamhGOTR4YjNwWFdyWFk0RA?oc=5)
+
+2026-10-04 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">AF</span>
+
+Source: [waz.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkFtT01OOWU0ZFZjaEYyOHVxeHkyb1BiMGdScHJuRDB4R3VNeHo1YXVFVV9QUG83c2FxZnc3eW91UzFzay1RUDg4M2I5enBnTDU2b1plU3otNXh0VnNZWmtIcFN2R21ZVFBjNjNTWWx3bUU2QVZlQmhyZm5OQUVNSVVkTVZlRG9BNGpKQndlRWkwQmZrV0IxNXljQzJxOFM2UnIwRzBSYTliZHBjU2hfdUE2ZDdVaXpzamhGOTR4YjNwWFdyWFk0RA?oc=5)
+
+---
 
 ### [Abnehmen mit Zero-Getränken? Neue Studie zeigt überraschenden Effekt - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnZvc1hPMlJiUmtKQjQ0Ry1lcDllUlQ4Y1ZuWFlscUVQZHRsRFZONGcxdjNtN0x5R0lGc1o4NVRWYnVkX2xjdkRTc2R1RGQtUkFhVzJCYllESVlCdFRJQmlwcnI2R0RuYXotTjVwNlZuNzdMaVdkUFZNdFJwbkwzYjQ1dVJmVFhwWUVPOV9KS2hJaWxGcEVLUmRYTWtscjdYcGxWbDBoTWtUbldScU9nMldPTVlOQ0FQM3ZaLVpnalNibEszbDYtR0MySUw5QQ?oc=5)
 
@@ -70,11 +86,11 @@ Source: [berliner-kurier.de](https://news.google.com/rss/articles/CBMiswFBVV95cU
 
 ---
 
-### [Decaf Coffee Might Have A Surprising Advantage Over Caffeinated, Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTRhbEcxejhXVGwtWlhWR1V2SkYtZ3hMVGVNS3MzbFF4SS03cDVrRnpBdklyRmFUMV9uLUdZYWhtRVZZNFJ1MEk0UDNNZUdNSC1jZUhFMDQyd3ZydmpSVDY1Q29CS2tEV1QwekRRMG1SLXB5cFBMSklYa182aHpxSzdXYi1GUmo0Zm5aTVZDeFhXUEh4aF9yRkdNeUp0dUFDYjFVcEU0TQ?oc=5)
+### ['American Covid' Strain Drives Rise In UK Hospital Admissions: All You Need To Know](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDgwVWFybkZsTEhKTzlNUUsyVTFyMHVqTzBfeTVxeElyd2RPNlNQMW0zYmxoV0xWUDhtaTRQUWtJZHhxUm9fMFRubXF1blVrRFNQaG53U2RZSk8wb01nYzhha0czaDY4Q0pTNktfalRTeENRWUN0cTNaLVA3VmI2djI3VEtqS0pCcmltdE5hQ1JGTS12RktHakFvWHN1eU5hQVVlT005Q0M4TkhyV2xmaGJKMkY0YlpkbkRTOFNR0gHGAUFVX3lxTFBzblg1akw5SXJTWE4tQ1pCcmdIekQ2c01BWnRHSVc1dHZQWllnQ05VVGdwOXNVZWRNcWw3WGtMT0RqSjFQaGVmWl9DQkR5TU1McE5kZEZ2Rl9zVUNHOGxEemFWWFk5ZXEyQ2Z5RU5vOFZzSjlMLTg1NkhaYmR1Zm5aeF9qb3hzWGNWYWRuNUR0c3NXNUpHeXRvVXVxVHpzWmNRcVJfTlMzVlA2N3BCeUlPck5BMk5hR1lrck1JcENCRXgwcVJsdw?oc=5)
 
 2026-10-04 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTRhbEcxejhXVGwtWlhWR1V2SkYtZ3hMVGVNS3MzbFF4SS03cDVrRnpBdklyRmFUMV9uLUdZYWhtRVZZNFJ1MEk0UDNNZUdNSC1jZUhFMDQyd3ZydmpSVDY1Q29CS2tEV1QwekRRMG1SLXB5cFBMSklYa182aHpxSzdXYi1GUmo0Zm5aTVZDeFhXUEh4aF9yRkdNeUp0dUFDYjFVcEU0TQ?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDgwVWFybkZsTEhKTzlNUUsyVTFyMHVqTzBfeTVxeElyd2RPNlNQMW0zYmxoV0xWUDhtaTRQUWtJZHhxUm9fMFRubXF1blVrRFNQaG53U2RZSk8wb01nYzhha0czaDY4Q0pTNktfalRTeENRWUN0cTNaLVA3VmI2djI3VEtqS0pCcmltdE5hQ1JGTS12RktHakFvWHN1eU5hQVVlT005Q0M4TkhyV2xmaGJKMkY0YlpkbkRTOFNR0gHGAUFVX3lxTFBzblg1akw5SXJTWE4tQ1pCcmdIekQ2c01BWnRHSVc1dHZQWllnQ05VVGdwOXNVZWRNcWw3WGtMT0RqSjFQaGVmWl9DQkR5TU1McE5kZEZ2Rl9zVUNHOGxEemFWWFk5ZXEyQ2Z5RU5vOFZzSjlMLTg1NkhaYmR1Zm5aeF9qb3hzWGNWYWRuNUR0c3NXNUpHeXRvVXVxVHpzWmNRcVJfTlMzVlA2N3BCeUlPck5BMk5hR1lrck1JcENCRXgwcVJsdw?oc=5)
 
 ---
 
@@ -102,19 +118,19 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgz
 
 ---
 
-### [Eating green bananas can ‘boost your mood’ this autumn - plus 4 other cheap staples to eat every day - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTJsZVZPOXBjY1lNZnVSYkRMQV93b0ExeEw4RDRldlI5VTluTUdzRmplcXlaMjZxUzlGUTdLUDkxVlExb1Fvb0JwRWMzZUY5b01weGdyRE0teWtzRlZ6TjdsWWJOdzVkYjhibFZUTGM1Z0N1M1NNU291SFViZjRwXzhCamQ0N2M?oc=5)
+### [Doctor's Omeprazole and Lansoprazole 'long-term' warning to anyone taking PPIs - The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjNlVXRlRHNWZURhNDBneVVESXZyZkpFNWNMUlRRQk5HRTVmUFhMNkNablNNaDlVVE1nZm53RFdnWUg5eDYzbGUxNG5sQlBwNF9IYzdGaXNfWUNycE40WlBhc2V0YzNLcEJmOENxM0hrdF9rTUEtVGpfcnFqZ3lKMUVyLWdzaXNBY0JQdlo5em7SAZYBQVVfeXFMTUREcjRRX3hPVHpWakNGeXdjMkpVcnFUOTF3MTF4ME9fY3lIMU56dDFIYTRjcllteVRRZE1TUTRDWFpyTzRXcUJMQlBFY3gtdlk1VG42aDAtUEFiTkhkUzExNktlVjM3dUhiX0lMeldBcURPQ0F2QUdBVFAyNWNXaHNzWGtMSFlsQ052eVIxc1R0d2hGc1RR?oc=5)
 
 2026-10-04 <span class="news-indication-tag">AF</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTJsZVZPOXBjY1lNZnVSYkRMQV93b0ExeEw4RDRldlI5VTluTUdzRmplcXlaMjZxUzlGUTdLUDkxVlExb1Fvb0JwRWMzZUY5b01weGdyRE0teWtzRlZ6TjdsWWJOdzVkYjhibFZUTGM1Z0N1M1NNU291SFViZjRwXzhCamQ0N2M?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjNlVXRlRHNWZURhNDBneVVESXZyZkpFNWNMUlRRQk5HRTVmUFhMNkNablNNaDlVVE1nZm53RFdnWUg5eDYzbGUxNG5sQlBwNF9IYzdGaXNfWUNycE40WlBhc2V0YzNLcEJmOENxM0hrdF9rTUEtVGpfcnFqZ3lKMUVyLWdzaXNBY0JQdlo5em7SAZYBQVVfeXFMTUREcjRRX3hPVHpWakNGeXdjMkpVcnFUOTF3MTF4ME9fY3lIMU56dDFIYTRjcllteVRRZE1TUTRDWFpyTzRXcUJMQlBFY3gtdlk1VG42aDAtUEFiTkhkUzExNktlVjM3dUhiX0lMeldBcURPQ0F2QUdBVFAyNWNXaHNzWGtMSFlsQ052eVIxc1R0d2hGc1RR?oc=5)
 
 ---
 
-### [Doctor's Omeprazole and Lansoprazole 'long-term' warning to anyone taking PPIs - Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjNlVXRlRHNWZURhNDBneVVESXZyZkpFNWNMUlRRQk5HRTVmUFhMNkNablNNaDlVVE1nZm53RFdnWUg5eDYzbGUxNG5sQlBwNF9IYzdGaXNfWUNycE40WlBhc2V0YzNLcEJmOENxM0hrdF9rTUEtVGpfcnFqZ3lKMUVyLWdzaXNBY0JQdlo5em7SAZYBQVVfeXFMTUREcjRRX3hPVHpWakNGeXdjMkpVcnFUOTF3MTF4ME9fY3lIMU56dDFIYTRjcllteVRRZE1TUTRDWFpyTzRXcUJMQlBFY3gtdlk1VG42aDAtUEFiTkhkUzExNktlVjM3dUhiX0lMeldBcURPQ0F2QUdBVFAyNWNXaHNzWGtMSFlsQ052eVIxc1R0d2hGc1RR?oc=5)
+### [Die weißen Punkte am blauen Himmel sind die eigenen Blutkörperchen - Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMivwFBVV95cUxNekprVlhaaWlaU2wzVHhqSTVMVzdGV19icklYR0VoSWFzU0kwR0taM3dNTGNER2R4c2FQZlF0N2gxM0kwTVRXd0oxdHdpQjFHamJ4ajU4Z1Z5Y1BGenk2SGhBalEyMnhvd2dWeUk2NU1rNWdzLXg1LWMwV2lkTklUMkdPejFySGJsOTkyc194SE1QbnJDa2NPUGNpMFN2ZEwzSHo4ejFUcmN2RkJLcDgtT1ZMYXk5RnlNbUZCX1pFbw?oc=5)
 
 2026-10-04 <span class="news-indication-tag">AF</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjNlVXRlRHNWZURhNDBneVVESXZyZkpFNWNMUlRRQk5HRTVmUFhMNkNablNNaDlVVE1nZm53RFdnWUg5eDYzbGUxNG5sQlBwNF9IYzdGaXNfWUNycE40WlBhc2V0YzNLcEJmOENxM0hrdF9rTUEtVGpfcnFqZ3lKMUVyLWdzaXNBY0JQdlo5em7SAZYBQVVfeXFMTUREcjRRX3hPVHpWakNGeXdjMkpVcnFUOTF3MTF4ME9fY3lIMU56dDFIYTRjcllteVRRZE1TUTRDWFpyTzRXcUJMQlBFY3gtdlk1VG42aDAtUEFiTkhkUzExNktlVjM3dUhiX0lMeldBcURPQ0F2QUdBVFAyNWNXaHNzWGtMSFlsQ052eVIxc1R0d2hGc1RR?oc=5)
+Source: [Wissenschaft und Forschung](https://news.google.com/rss/articles/CBMivwFBVV95cUxNekprVlhaaWlaU2wzVHhqSTVMVzdGV19icklYR0VoSWFzU0kwR0taM3dNTGNER2R4c2FQZlF0N2gxM0kwTVRXd0oxdHdpQjFHamJ4ajU4Z1Z5Y1BGenk2SGhBalEyMnhvd2dWeUk2NU1rNWdzLXg1LWMwV2lkTklUMkdPejFySGJsOTkyc194SE1QbnJDa2NPUGNpMFN2ZEwzSHo4ejFUcmN2RkJLcDgtT1ZMYXk5RnlNbUZCX1pFbw?oc=5)
 
 ---
 
@@ -166,14 +182,6 @@ Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3en
 
 ---
 
-### ['American Covid' strain warning after cases surge in England](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjBlTXlTVGhmWjdod01QbEgtbTR5Qk5PRU85Z1FFNGZyRDlhVzg1dnAxVkIzSDdjMWFLeHpIdFdpUVI5T3AyX2JZem5ydTZKdGN6RkNkclY4QlltVGxLS0s3TmNmUEppQV9HbU5CQ2E2N3ItaWY2UUh4cU53RmtvUk9XOFRuNUlTT05HanJPNi1QTWRN0gGaAUFVX3lxTE1ITFdjX0VOLW5yRFo5Ni01TjJYTy02Nnp3UkVqcnRLVXJIdjlNSnB3MVpUNXZuQkF5cUYySWRYcE4yUF9VMWVmcXp5ZU5TRkJ1dFc0TFZOVW5DTDdlcFJoQWhvWTIySU04Nklsc3pvb0RXSjZMZWFmNTVsVHBQazF2akI2UzZkeEllU0ZsLVZWQkZxY3NaVjdKU1E?oc=5)
-
-2026-10-03 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjBlTXlTVGhmWjdod01QbEgtbTR5Qk5PRU85Z1FFNGZyRDlhVzg1dnAxVkIzSDdjMWFLeHpIdFdpUVI5T3AyX2JZem5ydTZKdGN6RkNkclY4QlltVGxLS0s3TmNmUEppQV9HbU5CQ2E2N3ItaWY2UUh4cU53RmtvUk9XOFRuNUlTT05HanJPNi1QTWRN0gGaAUFVX3lxTE1ITFdjX0VOLW5yRFo5Ni01TjJYTy02Nnp3UkVqcnRLVXJIdjlNSnB3MVpUNXZuQkF5cUYySWRYcE4yUF9VMWVmcXp5ZU5TRkJ1dFc0TFZOVW5DTDdlcFJoQWhvWTIySU04Nklsc3pvb0RXSjZMZWFmNTVsVHBQazF2akI2UzZkeEllU0ZsLVZWQkZxY3NaVjdKU1E?oc=5)
-
----
-
 ### [Mixomatosi nelle lepri, è allerta a Ferrara: sono 17 i casi sospetti - La Nuova Ferrara](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdzdZZ002UExncnNuWW4wZHlyY2V6T2laNDhnc0QzOE0zZmlKLWdSQzNFT1pPUTR3WXlaNUt3R1p3MTdTUmh1NEl6cWRaMkpicW83T1RYVDFiaFRxVmpNbkQ4OWpxUmcyd2xfQXpkSHU5aXZwamtPdVNTS0xCME1IMzh1alNLTnI4OW5KMEJDVzlhUG5WMjltSGhpakNuM1Bvd3pfWGgzSmJNcGJuUGdFNGROaXk1SGxKNkJRZkM5U1RaSTZZdklCN0RXakRXcUJQdGUtc2ROc0todw?oc=5)
 
 2026-10-03 <span class="news-indication-tag">AF</span>
@@ -208,7 +216,7 @@ Source: [Trends der Zukunft](https://news.google.com/rss/articles/CBMiowFBVV95cU
 
 ### [Your liver may be tired too: 7 everyday habits that could be affecting liver health, even when there are no obvious symptoms - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-02 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
 
@@ -218,7 +226,7 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cU
 
 2026-10-02 <span class="news-indication-tag">AF</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEdxUld2R0pYTlV5THFfX3l5R2ZHRk1JcE9walcySmx2dmRXZFQ5MDVyVTlYZ08xbHFyYnhhSXpVNHJSOWg4Z3phVnJwYmx3VG9TdThsbmMzWnhOYlpPcGVMRXNEYkkzWGNFd3pINW5wMlctQm4tT1J6ampLcHlWNjg3TXU5b0l5UWFhY3ZyVG1zaERoQWxXZEp3blhVcm1XNmQtb3cxX3phY05WN1R3YmtOU1N0MkZYMTl1QnZQR0JGQzcw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEdxUld2R0pYTlV5THFfX3l5R2ZHRk1JcE9walcySmx2dmRXZFQ5MDVyVTlYZ08xbHFyYnhhSXpVNHJSOWg4Z3phVnJwYmx3VG9TdThsbmMzWnhOYlpPcGVMRXNEYkkzWGNFd3pINW5wMlctQm4tT1J6ampLcHlWNjg3TXU5b0l5UWFhY3ZyVG1zaERoQWxXZEp3blhVcm1XNmQtb3cxX3phY05WN1R3YmtOU1N0MkZYMTl1QnZQR0JGQzcw?oc=5)
 
 ---
 
@@ -226,15 +234,15 @@ Source: [mondosanita.it](https://news.google.com/rss/articles/CBMixAFBVV95cUxPME
 
 2026-10-02 <span class="news-indication-tag">AF</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDgwR1ZhY1RHVjhwdnhXTzllVDA2VGR1Qy15YkwtWlU5QW1PVzVwb1padWVuTWtGNWd4LXY5SEFWMWRYdlFBYUxLeS1TUG4tWHBHT3V4OEF3WWwwcVcwaTNTUnNUb1dfQm91TEwwYXRqVHBlX1g2VXVFTktGWmJldmVnVlVvVUpvcFg1NDZ5ejJWSF9hcV83LXJsWHNkV2VOblBZb1RsZmdWNEswVFhlaktYTGVWS0hZenhZOVVmelFKNFJhdlR1NGxuRnR0VFBzeW9xOEs0N0NXdGoyQjBLWUZMZWxpSmxjc3JBNw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdDgwR1ZhY1RHVjhwdnhXTzllVDA2VGR1Qy15YkwtWlU5QW1PVzVwb1padWVuTWtGNWd4LXY5SEFWMWRYdlFBYUxLeS1TUG4tWHBHT3V4OEF3WWwwcVcwaTNTUnNUb1dfQm91TEwwYXRqVHBlX1g2VXVFTktGWmJldmVnVlVvVUpvcFg1NDZ5ejJWSF9hcV83LXJsWHNkV2VOblBZb1RsZmdWNEswVFhlaktYTGVWS0hZenhZOVVmelFKNFJhdlR1NGxuRnR0VFBzeW9xOEs0N0NXdGoyQjBLWUZMZWxpSmxjc3JBNw?oc=5)
 
 ---
 
-### [Patient died by suicide after insurance delayed medication: report - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
+### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
-2026-10-02 <span class="news-indication-tag">copd</span> <span class="news-indication-tag">AF</span>
+2026-10-02 <span class="news-indication-tag">AF</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1M0Tll5bW52ejczOWVzaVMtWXlBZXdhbmZ6N3d0bE5Bb3BHWXRnSERCQlBSLWtaMHdyd3R1WmxOUWdiYmxKS1pic2R5T055OUZfeFY3NHZxeWRzanViZWtZSjF3SHlUNDFsYjUzR1pHQzFxUVZibWZLektyZGJDU1o5RHNuOEd6V01SeHV4Vlkzc0lBTGVoYzBwOVB2TWVlWWhrRg?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
 ---
 
@@ -251,22 +259,6 @@ Source: [Charente Libre](https://news.google.com/rss/articles/CBMiygFBVV95cUxNSm
 2026-10-02 <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Gbm9kY3BDdjdxdmhVd0ZZYjdxNXZGLWtJUWF2c3lNUEpORHh6LW45LXJDWnZDUFUwUzVpcFFJMThsSE93Y0JnLUdSMkcxVFNNZGZSMGxOTkZEZ2dhZ0E?oc=5)
-
----
-
-### [Choice of Tea or Coffee Might Affect Risk of Osteoporosis in Older Women](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2RFR3FnVzF4ZWZsVVhlTm5FbkFBXzlwOWthVVhubDdrMDRhbHFMYzhmaXJ6U21EZGZ4dmotOUNWM1JoaTE2TENMNm1GeTV2Y083c1BOTzVLaVVJMVBubUdPLXdJUWR2TG01bFVhS25WTDFyR3pobVRfZTJqcnN1SXpFWjB1R2twMHR2c1RXNGM2UXh3M2hQbHlFZk9NVWZ1YUQ0?oc=5)
-
-2026-10-02 <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2RFR3FnVzF4ZWZsVVhlTm5FbkFBXzlwOWthVVhubDdrMDRhbHFMYzhmaXJ6U21EZGZ4dmotOUNWM1JoaTE2TENMNm1GeTV2Y083c1BOTzVLaVVJMVBubUdPLXdJUWR2TG01bFVhS25WTDFyR3pobVRfZTJqcnN1SXpFWjB1R2twMHR2c1RXNGM2UXh3M2hQbHlFZk9NVWZ1YUQ0?oc=5)
-
----
-
-### [Leeds mum loses 80% of her nose after jumping into sea on holiday - Yorkshire Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2ZzNVdNQy0zbjBacGRwc1NPeGtfa2hQRG5ua1RIWUFpcHRuMThWY3ppNXJhaE80NEhnM2pQTHJnSVUyaURfWjNkeFUwUDNWNkt4Q05KamZqOHlWYzVvQXdhelJxR0ZIcV9PRkRJRHZ6MTZ2MVctOXZFQTNQR1JTZzctX20?oc=5)
-
-2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2ZzNVdNQy0zbjBacGRwc1NPeGtfa2hQRG5ua1RIWUFpcHRuMThWY3ppNXJhaE80NEhnM2pQTHJnSVUyaURfWjNkeFUwUDNWNkt4Q05KamZqOHlWYzVvQXdhelJxR0ZIcV9PRkRJRHZ6MTZ2MVctOXZFQTNQR1JTZzctX20?oc=5)
 
 ---
 
@@ -318,19 +310,11 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdm9rb2JwelA5a
 
 ---
 
-### [Nuova influenza australiana in arrivo: i tre sintomi per riconoscerla - la Repubblica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlpkU1VVcDlnZ09HOER2czlJYjMxcDhfNkRldnlYaXVhOWlJOXRjWTZjNzJIUWhDVGtyWmVDeGVqZEhzZFFBc1Z5bHI2ZUQzLU9wcU9WQjNlVlZwVE56a0VFWWF2ZXl6WHZsSnJIMTROa1dOdnVDRmk5SzJOcWVQVkJldHRGNWMzczRMWWJOakp3WXQwT3B5VmFiYzhMVE9M0gGmAUFVX3lxTE9fdXZvdzREb2lFSFd3bUNVVEtCTFdPODJGZDh0a1hwRkktSm1VZmVpcEN3Rk4xclkzLTVGaDM2dmpIb2otVmdQQXBvQml5WTZlOFJ3NWRoaTMzS210dE9tSjgtY2F0WEFVdFc2T054THlrYWtScjNCN2JhTDloeEctNHFxLXNubGV2RExGdTB0dndZMzNwd1piN3dOaDRMZ3VhRVZnWUE?oc=5)
+### [Nuova influenza australiana in arrivo: i tre sintomi per riconoscerla](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlpkU1VVcDlnZ09HOER2czlJYjMxcDhfNkRldnlYaXVhOWlJOXRjWTZjNzJIUWhDVGtyWmVDeGVqZEhzZFFBc1Z5bHI2ZUQzLU9wcU9WQjNlVlZwVE56a0VFWWF2ZXl6WHZsSnJIMTROa1dOdnVDRmk5SzJOcWVQVkJldHRGNWMzczRMWWJOakp3WXQwT3B5VmFiYzhMVE9M0gGmAUFVX3lxTE9fdXZvdzREb2lFSFd3bUNVVEtCTFdPODJGZDh0a1hwRkktSm1VZmVpcEN3Rk4xclkzLTVGaDM2dmpIb2otVmdQQXBvQml5WTZlOFJ3NWRoaTMzS210dE9tSjgtY2F0WEFVdFc2T054THlrYWtScjNCN2JhTDloeEctNHFxLXNubGV2RExGdTB0dndZMzNwd1piN3dOaDRMZ3VhRVZnWUE?oc=5)
 
 2026-09-30 <span class="news-indication-tag">AF</span>
 
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlpkU1VVcDlnZ09HOER2czlJYjMxcDhfNkRldnlYaXVhOWlJOXRjWTZjNzJIUWhDVGtyWmVDeGVqZEhzZFFBc1Z5bHI2ZUQzLU9wcU9WQjNlVlZwVE56a0VFWWF2ZXl6WHZsSnJIMTROa1dOdnVDRmk5SzJOcWVQVkJldHRGNWMzczRMWWJOakp3WXQwT3B5VmFiYzhMVE9M0gGmAUFVX3lxTE9fdXZvdzREb2lFSFd3bUNVVEtCTFdPODJGZDh0a1hwRkktSm1VZmVpcEN3Rk4xclkzLTVGaDM2dmpIb2otVmdQQXBvQml5WTZlOFJ3NWRoaTMzS210dE9tSjgtY2F0WEFVdFc2T054THlrYWtScjNCN2JhTDloeEctNHFxLXNubGV2RExGdTB0dndZMzNwd1piN3dOaDRMZ3VhRVZnWUE?oc=5)
-
----
-
-### [Vaccinazioni, al via la campagna anti-influenzale](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3hPMjhOa2d2QXRfTVk1RkZ4UTQ1dzRpOE0wNjhFc3hubm9RdHR2X3FDcVhxcmxuZWRoZUFlb2M5MFU0TU9BWkxWcUdFdEdGLWZQdW1xMUFjdmFzcS05bWdvcUNpLU9yemlxWnFPZE1JWVRWUnN2OFhGZTJZclAwU2RPT0NNcmxqbE9PUmlDS3gwTHdFZjNPXzNoenBteGc?oc=5)
-
-2026-09-28 <span class="news-indication-tag">AF</span>
-
-Source: [regione.piemonte.it](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3hPMjhOa2d2QXRfTVk1RkZ4UTQ1dzRpOE0wNjhFc3hubm9RdHR2X3FDcVhxcmxuZWRoZUFlb2M5MFU0TU9BWkxWcUdFdEdGLWZQdW1xMUFjdmFzcS05bWdvcUNpLU9yemlxWnFPZE1JWVRWUnN2OFhGZTJZclAwU2RPT0NNcmxqbE9PUmlDS3gwTHdFZjNPXzNoenBteGc?oc=5)
+Source: [repubblica.it](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVlpkU1VVcDlnZ09HOER2czlJYjMxcDhfNkRldnlYaXVhOWlJOXRjWTZjNzJIUWhDVGtyWmVDeGVqZEhzZFFBc1Z5bHI2ZUQzLU9wcU9WQjNlVlZwVE56a0VFWWF2ZXl6WHZsSnJIMTROa1dOdnVDRmk5SzJOcWVQVkJldHRGNWMzczRMWWJOakp3WXQwT3B5VmFiYzhMVE9M0gGmAUFVX3lxTE9fdXZvdzREb2lFSFd3bUNVVEtCTFdPODJGZDh0a1hwRkktSm1VZmVpcEN3Rk4xclkzLTVGaDM2dmpIb2otVmdQQXBvQml5WTZlOFJ3NWRoaTMzS210dE9tSjgtY2F0WEFVdFc2T054THlrYWtScjNCN2JhTDloeEctNHFxLXNubGV2RExGdTB0dndZMzNwd1piN3dOaDRMZ3VhRVZnWUE?oc=5)
 
 ---
 
@@ -342,11 +326,11 @@ Source: [diabetes-news.de](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQ
 
 ---
 
-### [New prescription warning for blood pressure, statins, iron medications - Daily Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFJwZ3otVnlmdF9GTlVlTHM3RWZ6UVVNcHhteTg2TnVRZEt6VUtDSG00WDBlQllsa0NCWmFkY1kxMjNhTmdrSHFEOExoNWRNcGZLN05TelJnQUdaeFFIWkRUMXpfamlTa0lvbFo0V2VIVXlnR0dnbUZxVnpmbm1jNklSQWRwT2JnUVVQStIBkgFBVV95cUxQWnJYOUEzX0x5dXVmUVVLT3Uzb1NMRFVyVzNvOUhiajNwVlplbWNIVkt1SW8wR0J0Nmg0MC04WjBFV1dGOEJGMDk3RjJtX0lvMXYzSkQzSGpLZmdpZGJIY25FN3hFREZXSkg4SHQxS0VUdlQ1dkNoQmFYYVdyWXF0Uk1GQnlYT0pxTC13MnJrajNaZw?oc=5)
+### [New prescription warning for blood pressure, statins, iron medications - The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFJwZ3otVnlmdF9GTlVlTHM3RWZ6UVVNcHhteTg2TnVRZEt6VUtDSG00WDBlQllsa0NCWmFkY1kxMjNhTmdrSHFEOExoNWRNcGZLN05TelJnQUdaeFFIWkRUMXpfamlTa0lvbFo0V2VIVXlnR0dnbUZxVnpmbm1jNklSQWRwT2JnUVVQStIBkgFBVV95cUxQWnJYOUEzX0x5dXVmUVVLT3Uzb1NMRFVyVzNvOUhiajNwVlplbWNIVkt1SW8wR0J0Nmg0MC04WjBFV1dGOEJGMDk3RjJtX0lvMXYzSkQzSGpLZmdpZGJIY25FN3hFREZXSkg4SHQxS0VUdlQ1dkNoQmFYYVdyWXF0Uk1GQnlYT0pxTC13MnJrajNaZw?oc=5)
 
 2026-09-28 <span class="news-indication-tag">AF</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFJwZ3otVnlmdF9GTlVlTHM3RWZ6UVVNcHhteTg2TnVRZEt6VUtDSG00WDBlQllsa0NCWmFkY1kxMjNhTmdrSHFEOExoNWRNcGZLN05TelJnQUdaeFFIWkRUMXpfamlTa0lvbFo0V2VIVXlnR0dnbUZxVnpmbm1jNklSQWRwT2JnUVVQStIBkgFBVV95cUxQWnJYOUEzX0x5dXVmUVVLT3Uzb1NMRFVyVzNvOUhiajNwVlplbWNIVkt1SW8wR0J0Nmg0MC04WjBFV1dGOEJGMDk3RjJtX0lvMXYzSkQzSGpLZmdpZGJIY25FN3hFREZXSkg4SHQxS0VUdlQ1dkNoQmFYYVdyWXF0Uk1GQnlYT0pxTC13MnJrajNaZw?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeFJwZ3otVnlmdF9GTlVlTHM3RWZ6UVVNcHhteTg2TnVRZEt6VUtDSG00WDBlQllsa0NCWmFkY1kxMjNhTmdrSHFEOExoNWRNcGZLN05TelJnQUdaeFFIWkRUMXpfamlTa0lvbFo0V2VIVXlnR0dnbUZxVnpmbm1jNklSQWRwT2JnUVVQStIBkgFBVV95cUxQWnJYOUEzX0x5dXVmUVVLT3Uzb1NMRFVyVzNvOUhiajNwVlplbWNIVkt1SW8wR0J0Nmg0MC04WjBFV1dGOEJGMDk3RjJtX0lvMXYzSkQzSGpLZmdpZGJIY25FN3hFREZXSkg4SHQxS0VUdlQ1dkNoQmFYYVdyWXF0Uk1GQnlYT0pxTC13MnJrajNaZw?oc=5)
 
 ---
 

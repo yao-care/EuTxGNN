@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
+
+### [Farmaci anti obesità, capelli e unghie: il segnale cresce, ma la domanda “è colpa del farmaco?” resta aperta](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUktSTRQTzM3X1A3bTFCMnhFSFNydEEzdjViRTN2N0ZSQ3JHOGxIOEJZNmRYNmpTNHZLRGhleF93YkJ0eXhkdzlzMC04cTNTamlfMmlmRGhOSkRKNzJrLUlabWNTZ1ZWa2dNQ3U4X1JIR2J0a0NIOW9oa0ZYWENnaktCTGR6RlZZUmJZdFMzRXZQNTlRaTZqV28zR1ppUnBFU0w2VzRJVUtRYnpWb0V4Rk8ycjY5bFU3eUFkbURFV2xfWWtpV0xxY20yTTNIUlBfeGRKaU53S0RGQUpHOHhsdjhjNEoxbVFBdFhsUHQxZEg0TVEx?oc=5)
+
+2026-10-04 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSUktSTRQTzM3X1A3bTFCMnhFSFNydEEzdjViRTN2N0ZSQ3JHOGxIOEJZNmRYNmpTNHZLRGhleF93YkJ0eXhkdzlzMC04cTNTamlfMmlmRGhOSkRKNzJrLUlabWNTZ1ZWa2dNQ3U4X1JIR2J0a0NIOW9oa0ZYWENnaktCTGR6RlZZUmJZdFMzRXZQNTlRaTZqV28zR1ppUnBFU0w2VzRJVUtRYnpWb0V4Rk8ycjY5bFU3eUFkbURFV2xfWWtpV0xxY20yTTNIUlBfeGRKaU53S0RGQUpHOHhsdjhjNEoxbVFBdFhsUHQxZEg0TVEx?oc=5)
+
+---
 
 ### [EASD 2026, la rivoluzione della diabetologia: dai farmaci per la glicemia e il dimagramento alla protezione di cuore, reni e fegato](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
 
 ---
 
@@ -82,7 +90,7 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMirwJBVV95cU
 
 2026-10-03 <span class="news-indication-tag">obesità</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcWtnSzZQYXZOZEdFX29TcTRMU2J4WEd5SWRMcG9ZN1JNdWpCYVVrM2tiT3JtWGwycjFkcVYtc0ZMTVBJSzB1LUhENkdnYkR2b0d6WmF2X1hFbzdieGpCME5TNnNJYTJlQmpiOVdya3NkMFBVVkExRV8xbV9KUVRuZk5oc01aRXNGRjdrUzVNS2RXRndoOWpEZE93WXR3QmJTY1JVRHAtLU9qYUo3TWVvX1B6TmdFaU1UTUJCV2lXU1Fyc1hyMERObA?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcWtnSzZQYXZOZEdFX29TcTRMU2J4WEd5SWRMcG9ZN1JNdWpCYVVrM2tiT3JtWGwycjFkcVYtc0ZMTVBJSzB1LUhENkdnYkR2b0d6WmF2X1hFbzdieGpCME5TNnNJYTJlQmpiOVdya3NkMFBVVkExRV8xbV9KUVRuZk5oc01aRXNGRjdrUzVNS2RXRndoOWpEZE93WXR3QmJTY1JVRHAtLU9qYUo3TWVvX1B6TmdFaU1UTUJCV2lXU1Fyc1hyMERObA?oc=5)
 
 ---
 
@@ -102,14 +110,6 @@ Source: [UdineToday](https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTN3en
 
 ---
 
-### [« L’arrivée des médicaments antiobésité en France, comme Wegovy et Mounjaro, ne permet pas de prédire la disparition de la grossophobie » - Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
-2026-10-03 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMiggJBVV95cUxPalVtUmphY2Z2QnktMFhsV1VlQV9uT3hGMlh1eWVCT2hIaEF0bWwxb2RPMUN3Z29oTm5yRnFBbks2NFRDSk5yUmhVUlc1NllEU0NRV2JwUW9GT1NoT1hYcjduTkhyZzQ2dlhJbGI1cUxwaDN0N0hLRldYZVpfcmJwLWdrVkJXNkRScHd1RUtGd01MV1hPd215S1RPS0g4Um9JaGZFZ3BTUzIzSUhfNjdta1dvVEkxQlAzZDluSmFPMlNfZ3RrTVBLbGZRTUY2aU1JdXhadmd1NWY4RE1rXzllakVQcmxubUZhdUh3YmU4TjdzNl9OSm1NQ09yT3hqbVlGOWc?oc=5)
-
----
-
 ### [Solo el 56% de las personas con obesidad sabe que la tiene: el dato que sorprende a los médicos - The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzYwa1NuSDFpU1V2YWJxN3ZaMkZpcXNjRURPeGc3cmJhMXZCQTFmYmhvcnZHT1ZhV2Y5Wk9fQ2c1dlV2YUx6dEo3RHFtaFFFU0NHMjlHOXFPQkdzR2F2TEoxLXIyN1d1dF9weEFHam1fM0RiR1Axd0hFWlNacURVLW9tWUJGb21QRTdWczUyNlJfLXl2UUZQSTV4ZHVSVjNjVU9rUUJYTUgxaGFrWmFwcm5NR1AxNmdUX183V3JuNExkVS14SmEyaXJTdWlpeXJjWjJDbmlMQdIB3AFBVV95cUxPc2QtNWxlYXJGMUkxeHB2NHZaaHpPaVB0Sy11YU53SnJFMFk2V0lyR1RKQzJTb2dZQlp5QnBDbTRsSnZuWF9lVzljaldZbXJHSDFkSV9WZDNlTGpxWTBZbFJrcXhyQmNlQk1OM0xTZE5qWW1VbjkwMFFlX1dRU2Jxb3JmS0VNeXQyYnQwVUY2VlVsQkNHM1IzTjZ0NXFNRm95Ql8tTkNXLWFZYjhCcDRoY1o3ejkwNXlheG03TWw3OE9rT3ZZcFpZbjdoVE9WeXA3M2I1YWZaYTB0U05v?oc=5)
 
 2026-10-03 <span class="news-indication-tag">obesidad</span>
@@ -118,25 +118,17 @@ Source: [The Objective](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzY
 
 ---
 
-### [Your liver may be tired too: 7 everyday habits that could be affecting liver health, even when there are no obvious symptoms - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">overweight</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxNMXBoWjJRMlJ0dEI4eXR6M0s5d1FydjkxWFhGUHlPU1liQ2FHQjBzNHhCeVNidWUxNDBjS0R4Y2lxWHNDMXRSdjRpZklZSThXbGtfX0dsdnVoMjdyOXc0azQtT3RkTEtnQXFBRUdqQ2NER0NDVzdidXZmZXJwTHpxTWp2SS1jT2VIQUxQTlRPdFRFVXRKTzNWcGVWWXZSNjl5TFJidXIyZ0RyUlBRTFpNWVB5aUJZU2VyZjVhbTdJLUVud2RoVzVSYTAyZmt2djBWWF9NTHU1aU9udVl5Tk9sdkJFRVNIWnNJNDFxZkNaOTZHck10emNJOTlYbEc3dXZ5c21FdGpxLUZjMjN3UmRGQmtTXzhoall1UVHSAaICQVVfeXFMUEJHZTNCNXp2ZXN0Q3o3d3NKQzg5OVVINkRDcHBpTFYyWVVRRkw5XzNhSXlpYUtMZDJDVnRucDg3eC1FZ1ZOXzMyYjFhQUlVWmJWZ1JGSnZOX0lVM2tna3l3OEk1YlA1Z3Rtak84a2oySmxSbEVfSzl0ZFJoZWdHV3VWMGhILU0xbFA5T01CVkpoY0VlRVVFRWo2RGhJSXQ1dEdJcG43Q2cxb09uVXUtbWl2LVRKZWNvdlF1aVlnenJRMFY2aXRpY09FalcwLVJHT0lXYzRTMmZyS2dlUlNTOU1kTGgxVTRFTjI0eGdISTBPYXljbVJoY2FQWVR5SmlCQ2VGbTdDa2FEV0x5cHhTc2NwVFpIdjdENGplOGFmTzcxQkE?oc=5)
-
----
-
-### [obesidad y disfunción diastólica: receptor de glucocorticoides - Diario Occidente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi1ZbnQyYjhXZ0tSbUVfU2NxTUhKMEcxd0ZYSlhZbklKWDF5RmkxRG56YWhvSGg4enZqNnRfZF9vM1Y5OW5qYl9YeW1Oc1htaTdOQWNhSC1qYXo4NEtxLUh2clNYS1JIQ1FLcDRsMmdVU3VOMUVndmFISHAxNnBBVHBoanBCSEdEdUxjd2ZJMUF3Rm00dDhqLVFn0gGkAUFVX3lxTFBQcDhhM1dUT0d1djV1TlF3aUN3MWcyclNoNmpobWhGSWRBTFV2Nk9hRkp1b1Frc3pTV3FsQmUxRkZkMDd6c2V0NmxOVGRXM2RrS0V2aTBybG1Kc1R2U0M1eGpkTEpoLXZmbDRldGxJVVRvTWtpbkxYMXRPMWMyTmxYTGJIcFdSMlhDQmRWaERROS13dy12ZUc4WFVEcVM3dWVFVDJH?oc=5)
+### [La obesidad activa un mecanismo que altera la relajación del corazón: investigación liderada por Centro Nacional de Investigaciones Cardiovasculares Carlos III - La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
 
 2026-10-02 <span class="news-indication-tag">obesidad</span>
 
-Source: [Diario Occidente](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZi1ZbnQyYjhXZ0tSbUVfU2NxTUhKMEcxd0ZYSlhZbklKWDF5RmkxRG56YWhvSGg4enZqNnRfZF9vM1Y5OW5qYl9YeW1Oc1htaTdOQWNhSC1qYXo4NEtxLUh2clNYS1JIQ1FLcDRsMmdVU3VOMUVndmFISHAxNnBBVHBoanBCSEdEdUxjd2ZJMUF3Rm00dDhqLVFn0gGkAUFVX3lxTFBQcDhhM1dUT0d1djV1TlF3aUN3MWcyclNoNmpobWhGSWRBTFV2Nk9hRkp1b1Frc3pTV3FsQmUxRkZkMDd6c2V0NmxOVGRXM2RrS0V2aTBybG1Kc1R2U0M1eGpkTEpoLXZmbDRldGxJVVRvTWtpbkxYMXRPMWMyTmxYTGJIcFdSMlhDQmRWaERROS13dy12ZUc4WFVEcVM3dWVFVDJH?oc=5)
+Source: [La Web de la Salud](https://news.google.com/rss/articles/CBMilAJBVV95cUxNMTNWUm5QaTh6SkhKY3VjQjM5TEJFX2k1MzMxQTRlby1oNkFyWE41eVJJZlNHc3BqQ0pLdTZvcnk5WlpPdzlnYzl6aEh0WFBPM3pEMmY3QUNwNXNmcGVYRnYwYXg4SDNTQmxMUTQ1ZWt6cDBRLUhlMmxhNzJTTExLb3R2Szh1UWp5cHlIZEVUZGtkOVJHd1gtenkzZTNwR2pjU2Y5ZmdxRVlIUnlqWFRYTExLZWJrVERiNjE2aUxYWFE2UXhEdzNTNG5BclktdUtVd1hYay1EbGJCN1JWZlhOejRJRGN1U0s2WGdoZXJJZ0RuMUJsVGpUWGtjZzVESG45ZThKOW03TzRaQ2hCakN1YXZlbWg?oc=5)
 
 ---
 
 ### [Fino a dove possono arrivare i farmaci per dimagrire - Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
-2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-02 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">MS</span>
 
 Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwVGtzdkEwVWUtVE5obmFqUlZkQmYwZmtiRWFnOEdLZ3JDcFpzUjR3TjRhM0l1ZmlQNVAxSFFxdnBPT3FheDg4Q19jU1FYVDFBai1GcHZEMGMtRXVzNldqNzI1Q18zZWhR?oc=5)
 
@@ -146,15 +138,7 @@ Source: [Il Post](https://news.google.com/rss/articles/CBMibkFVX3lxTE8zM2RybnEwV
 
 2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [mondosanita.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
 
 ---
 
@@ -162,7 +146,7 @@ Source: [mondosanita.it](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUz
 
 2026-09-29 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [espanol.medscape.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdnJVMlNGTkRMQnFTRGhBQTFpY3VERDB1aWl1TXZhbG1ITXJMWnB1QXNkZmZ1N2h6ZlgteW5oclJIVnp0aW5zazdhaDAzVzFSSWZ3LW9QSVFfVkJVUnVONGVBWlMydmdET3dNcThjN0dqUEN3ZUNpcDF0VEZuMlBGLVFPUmlkN1BoblpzaEZnV1dzcnZSa0dSenliYmwtQzBkeVJfR1hiTEZYRUMzVlE?oc=5)
 
 ---
 
