@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Notificaciones fantasma e hiperconexión digital](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">asma</span>
+
+Source: [consumer.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+
+---
+
+### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+
+2026-10-06 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">colite ulcerosa</span>
+
+Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+
+---
 
 ### [Morbus Crohn: Top-Down-Behandlung vermeidet langfristig Operationen und andere Komplikationen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
 
@@ -62,17 +78,17 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV9
 
 ---
 
-### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
 
-2026-10-05 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">colite ulcerosa</span>
+2026-10-05 <span class="news-indication-tag">artrite</span>
 
-Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
 
 ---
 
 ### [Malattia di Crohn, con nuovo farmaco remissione nel 54% dei casi](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
 
-2026-10-05 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">AF</span>
+2026-10-05 <span class="news-indication-tag">malattia di Crohn</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
 
@@ -102,19 +118,19 @@ Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMisgFBVV95cUx
 
 ---
 
-### [BPCO, quando arriva una crisi cambia anche il «mondo dei virus» nelle vie aeree](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
 
-2026-10-03 <span class="news-indication-tag">BPCO</span>
+2026-10-04 <span class="news-indication-tag">asma</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
 
 ---
 
-### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2ZTRUJ6a0oyYnNtOFQwQS1vbEhGS21BN1hjX0praG92MkpGWmZHWFZzRm1CRC1XdldnLUhuLXlfaVNoOF9MNFV0cS12NG9NVGg5RHJrNXMzRm1IMGRsN0g3eGxKMEFYRTBDaVM3dVZySzFFaHZVemlSbGFnemQ4NUUzWVlGazNJV3VqTHVmVWRfblB6QVozZ3JyNlliTFBjcTV0d2ZwRlFzYnd2azF0aVVfSDZrd000ZU4wWVYwd0kxWkJNQnB3UUY4NG5rRHY5UkJfMUEydmhYcHhMYXVrY0dhWjdtZw?oc=5)
+### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 2026-10-02 <span class="news-indication-tag">asthma</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2ZTRUJ6a0oyYnNtOFQwQS1vbEhGS21BN1hjX0praG92MkpGWmZHWFZzRm1CRC1XdldnLUhuLXlfaVNoOF9MNFV0cS12NG9NVGg5RHJrNXMzRm1IMGRsN0g3eGxKMEFYRTBDaVM3dVZySzFFaHZVemlSbGFnemQ4NUUzWVlGazNJV3VqTHVmVWRfblB6QVozZ3JyNlliTFBjcTV0d2ZwRlFzYnd2azF0aVVfSDZrd000ZU4wWVYwd0kxWkJNQnB3UUY4NG5rRHY5UkJfMUEydmhYcHhMYXVrY0dhWjdtZw?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 8 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 7 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,45 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
-### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
-
-2026-10-06
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
-
----
-
-### [Herz-Kreislauf: Der überraschende Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
+### [STAREE-Studie: Atorvastatin senkt Herzrisiken bei Älteren um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhaM1FzRzRLVGJEenZTYjdVYi0xZTZLUFp5Z3JzcWFOZmQxeFZYcUcyWGpuN3QwTDEwUkdGYk9CSldoM3F3QTRiQ19lbkNrUEZWeG10Y2pMaHhxMzNwdVRBVTBwRHN1YUdmZmUyMUNZeVpnZFZiY0MxTXZqRmxQYmJXTmhMZ2ZvLWYtdzFoUEhQMUloVExKRURLQXhGQnVkTmI2QV9DUHl1TWNRcms5WkRLdnpFOVlkSXVyYw?oc=5)
 
 2026-10-06
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhaM1FzRzRLVGJEenZTYjdVYi0xZTZLUFp5Z3JzcWFOZmQxeFZYcUcyWGpuN3QwTDEwUkdGYk9CSldoM3F3QTRiQ19lbkNrUEZWeG10Y2pMaHhxMzNwdVRBVTBwRHN1YUdmZmUyMUNZeVpnZFZiY0MxTXZqRmxQYmJXTmhMZ2ZvLWYtdzFoUEhQMUloVExKRURLQXhGQnVkTmI2QV9DUHl1TWNRcms5WkRLdnpFOVlkSXVyYw?oc=5)
 
 ---
 
-### [El 'jet lag' alimentario: las consecuencias de cambiar tus horarios el fin de semana - National Geographic España](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3hfdFcydUJrQm1BX2g0MEhodndrMldUUWJnb0dtZU9GRm1QQi10RlN1TVZ0akxvWVU4Mmc2WWxkcWROWjVIQjhaaW5QM0RsUng1NXR3WFRrSDZVREo3U21kLWpydll1RDAxNmQzYUlMZUx1YWhxN2RzVllxcjJhSXVDa0tGRVRYSC10NU9fU0J6OVYzc2VEU3JiYkc2aktsX2ZsWUk0aURkX0s1RGtBQ0RBX2RVNWhSWllv?oc=5)
+### [Das „gesunde“ Süßungsmittel, das Ihr Herzinfarkt-Risiko um 57 Prozent erhöhen könnte - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
 
-2026-10-05
+2026-10-06
 
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3hfdFcydUJrQm1BX2g0MEhodndrMldUUWJnb0dtZU9GRm1QQi10RlN1TVZ0akxvWVU4Mmc2WWxkcWROWjVIQjhaaW5QM0RsUng1NXR3WFRrSDZVREo3U21kLWpydll1RDAxNmQzYUlMZUx1YWhxN2RzVllxcjJhSXVDa0tGRVRYSC10NU9fU0J6OVYzc2VEU3JiYkc2aktsX2ZsWUk0aURkX0s1RGtBQ0RBX2RVNWhSWllv?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
+
+---
+
+### [Schlaf und Demenz: 48 Minuten mehr REM-Schlaf hängen mit geringerem Risiko zusammen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
+
+2026-10-06
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
+
+---
+
+### [Ictus, il rischio sale se non sono ok i test di memoria e attenzione tra i 60 anni e i 70 anni - la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
+
+2026-10-06
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
+
+---
+
+### [Schlaganfall: Darmbakterien-Botenstoff Indol kann Hirnschäden verstärken - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
+
+2026-10-06
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
 
 ---
 
@@ -73,35 +89,11 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cU
 
 ---
 
-### [Schlafrhythmus: Unregelmäßige Zeiten verdoppeln Risiko für Herzinfarkt und Schlaganfall - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFhuaVhkOUNkb09adFJLRS1hbTg5Sl81Q3ZoeDllaC1kbzgzR0dpNlNHUWNqMEhuNURoMFZtaFAyR3Q1ZmdXeTBvVHJMenhGakVEMUY1TE5OWlJpa3lrQ1VBbS01Z1V4TWs0LU5QR095R2hhczAtLVhyMlBfSVVmYktKWktkNnF3aFhTeVp5SVc1dm00di1zUXkxbXcyVHkxcnRuUEFHRUlQZHJ4azV1Z0pBVU5XMXZkX0lEWUx3?oc=5)
-
-2026-10-05
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFhuaVhkOUNkb09adFJLRS1hbTg5Sl81Q3ZoeDllaC1kbzgzR0dpNlNHUWNqMEhuNURoMFZtaFAyR3Q1ZmdXeTBvVHJMenhGakVEMUY1TE5OWlJpa3lrQ1VBbS01Z1V4TWs0LU5QR095R2hhczAtLVhyMlBfSVVmYktKWktkNnF3aFhTeVp5SVc1dm00di1zUXkxbXcyVHkxcnRuUEFHRUlQZHJ4azV1Z0pBVU5XMXZkX0lEWUx3?oc=5)
-
----
-
-### [STAREE-Studie: Atorvastatin senkt schwere Herzereignisse bei Älteren um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
-
-2026-10-05
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxPbVdZUEphaWRPSl9fbnlsSnl3LV9YNnViS1U2LUhpUE5Vb3V2Mm5oNFhkOEtPdndoYTVKTE94LVFuQ1M2N3ZEeXdnU2o4ZU9xeUd5MHAtVV8tUG8zbkM2NkE5MkhzTlZzNVpTeXBDcEExSDBwMGVfYW1BcHI0a01zTGNaOERwdm13eGJYVENHWnJRdS1RbE1zSS1OeThXRWYtS2lwSlBSZUNBa2J0V1pPYWJaWUJZdlNxNFI3Mg?oc=5)
-
----
-
 ### [The ‘healthy’ sweetener linked to heart attacks and strokes - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
 
 2026-10-03
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
-
----
-
-### [Ictus: l’arteria è riaperta ma il sangue non scorre, l’errore del cervello dopo l’ischemia - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
-
-2026-10-02
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkl5M1BHd1FsdnpQNUVUVFNteDNlcHdwRHM3R1FHUUowUXFjOWh0T0IydHBiUVJRTzVsbU5ZVDIzS2NWSnAwcXY5X2ZtSF9mNEk3T3k0dU1iSUMtVVJwbUJCT0lBdlVuTTZUQXh6WWx6Z29zN2pYSVpKYXRfaDd1eWlDRTlDWmp4enU1YW9PYzhYVlVUOE9lTHc0d3JGcXBjc2x1R2IzX2pkaXE2eEpsREMyMFl5cl9s?oc=5)
 
 ---
 

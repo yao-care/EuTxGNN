@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (5)
 
 ### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
 
 2026-10-05 <span class="news-indication-tag">Parkinson's</span>
 
 Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
-
----
-
-### [Un traitement unique au monde pour ralentir la maladie d'Alzheimer autorisé à 1h30 de Lyon - Le Bonbon](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVR2UGJ3a3lfSEFZbk5pNVRFRmxjOEtwMnp3X2c1WWswamlhNEZXbXh0ME9paTE5NWo3RGM0cGJjTUFhMWpBeXN5Yl9MZ0UzUDlDWGpBNEJUMXd1QzRQWXM3Slg2bmpHZzlteFo4b3VHbXEtRGFQa3UwNHJDdmVjUDB1YjBRanYwREtqRFBqUkItWFBsOWhnTndFaUNSVDhYQ0dj?oc=5)
-
-2026-10-05 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Le Bonbon](https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVR2UGJ3a3lfSEFZbk5pNVRFRmxjOEtwMnp3X2c1WWswamlhNEZXbXh0ME9paTE5NWo3RGM0cGJjTUFhMWpBeXN5Yl9MZ0UzUDlDWGpBNEJUMXd1QzRQWXM3Slg2bmpHZzlteFo4b3VHbXEtRGFQa3UwNHJDdmVjUDB1YjBRanYwREtqRFBqUkItWFBsOWhnTndFaUNSVDhYQ0dj?oc=5)
 
 ---
 
@@ -68,19 +60,11 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQ
 
 ---
 
-### [How little exercise can you get away with? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1c0dEp5NTJhWXVMOWVTTDJCeHlySXNydHVYbXlieXk5Vi0xcTlIamF5bUxOX29TZzVETGRsQ2cyOFNLNC1QMm5vdjRDaDV3dzR6N1NuUTN1T016NnZ0ektYN00tTGMtSG5xZkQxVmdwVVAtVlB2dzUwVVltcTRpV2FaVlNTcUIwTGRfVFhmd3dtSFd4VWRta1pKbTdmZGVKVzlVTVBYTF8wNkFzRjJ3?oc=5)
-
-2026-10-03 <span class="news-indication-tag">dementia</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1c0dEp5NTJhWXVMOWVTTDJCeHlySXNydHVYbXlieXk5Vi0xcTlIamF5bUxOX29TZzVETGRsQ2cyOFNLNC1QMm5vdjRDaDV3dzR6N1NuUTN1T016NnZ0ektYN00tTGMtSG5xZkQxVmdwVVAtVlB2dzUwVVltcTRpV2FaVlNTcUIwTGRfVFhmd3dtSFd4VWRta1pKbTdmZGVKVzlVTVBYTF8wNkFzRjJ3?oc=5)
-
----
-
-### [If you had 50-50 chance of getting dementia, would you want to know? - The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
+### [If you had 50-50 chance of getting dementia, would you want to know?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
 
 2026-10-02 <span class="news-indication-tag">dementia</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
+Source: [thetimes.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
 
 ---
 
@@ -88,15 +72,15 @@ Source: [The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjU
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
-Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 ---
 
-### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [futura-sciences.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
+
+2026-10-05 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
+
+---
 
 ### [What your penis can reveal about your health - from heart disease to cancer - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
 

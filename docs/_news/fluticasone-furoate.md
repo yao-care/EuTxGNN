@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [BPCO, quando arriva una crisi cambia anche il «mondo dei virus» nelle vie aeree](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+### [Notificaciones fantasma e hiperconexión digital](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
-2026-10-03 <span class="news-indication-tag">BPCO</span>
+2026-10-06 <span class="news-indication-tag">asma</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWpPTXZiR1BMdDFHUUl5ZDVUUlhkc3kyOUZuUDlUcXZ6UEx4RDNieDZaN0lGdkZPbElzbVdKU1I1bEVvN2dleE9zeVBPRk9hd3hpanFXM3A3SU1JNU1ZNTVBS05EeV8zTS01WGZ6ZXNRRF9qY19JV3VyczM2MXBxRngxR05Rc0hldWlnWDdjcWNMUC14aWE1cGJsVzN4cFlNVHZqcHNlRFVZc1VCX0Y5OEM2UkhDLW1NR19fd0doWGxCNEdZeEdNdEhpajNfRUZDTXc?oc=5)
+Source: [consumer.es](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
 ---
 
-### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2ZTRUJ6a0oyYnNtOFQwQS1vbEhGS21BN1hjX0praG92MkpGWmZHWFZzRm1CRC1XdldnLUhuLXlfaVNoOF9MNFV0cS12NG9NVGg5RHJrNXMzRm1IMGRsN0g3eGxKMEFYRTBDaVM3dVZySzFFaHZVemlSbGFnemQ4NUUzWVlGazNJV3VqTHVmVWRfblB6QVozZ3JyNlliTFBjcTV0d2ZwRlFzYnd2azF0aVVfSDZrd000ZU4wWVYwd0kxWkJNQnB3UUY4NG5rRHY5UkJfMUEydmhYcHhMYXVrY0dhWjdtZw?oc=5)
+### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+2026-10-04 <span class="news-indication-tag">asma</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
+
+---
+
+### [Hygiene-Hypothese: Oraler Bakterienextrakt schützt Kinder nicht vor Asthma – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 2026-10-02 <span class="news-indication-tag">asthma</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb2ZTRUJ6a0oyYnNtOFQwQS1vbEhGS21BN1hjX0praG92MkpGWmZHWFZzRm1CRC1XdldnLUhuLXlfaVNoOF9MNFV0cS12NG9NVGg5RHJrNXMzRm1IMGRsN0g3eGxKMEFYRTBDaVM3dVZySzFFaHZVemlSbGFnemQ4NUUzWVlGazNJV3VqTHVmVWRfblB6QVozZ3JyNlliTFBjcTV0d2ZwRlFzYnd2azF0aVVfSDZrd000ZU4wWVYwd0kxWkJNQnB3UUY4NG5rRHY5UkJfMUEydmhYcHhMYXVrY0dhWjdtZw?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2hCVlJHcDRUWXNlTHI1RUhSRnl4a1MtUTQtckVxOXZqQ1hDMzdNU0xYMGktTWdXRVhVZlVYN3BnRWt0ekpYcWx4S1BpbUxiTXJLbVVlWW5HUUdDWFFUaTdjblFmbkhYdzNrQkYzVzNpOWlVWjJBOHQxdnpWZGNNUV9EQXVBdTd0YnRxTlVtcnk5bnVUeWZRVlJ2a0JnR000X1BnQ2JWd3QtNjlTaVBjX0NpZWpOZ25SZVRUYlNtd2FDNjZ3Znp6LWZ4dnVaaDdZZGpLLWpWYmpYdw?oc=5)
 
 ---
 

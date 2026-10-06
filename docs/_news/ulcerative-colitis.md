@@ -36,7 +36,7 @@ This page brings together the latest health news about “colite ulcerosa” and
 
 ### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
 
-2026-10-05
+2026-10-06
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
 

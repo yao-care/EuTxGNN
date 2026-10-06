@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [Therapieresistente Depression: MindShift kombiniert KI mit Neurostimulation - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamEyYkNGX2dma1VJMS14M2J0S3psUkxZZ0FEb1dJRDRnN09FaEhlbjVRVFdpSXJGWGxya1hmNWg4MzdINXpySVR6Mkowd2pNSmw4bHlYczVyYk9vV0pOb3czV1ZZd2hLaWJ0RnU4bmpfMkViLVB6TDluQWNPV003VmVudVh2TDItNXRVRFNOUzFSdlozeHpraVFyY0pGQnhfaG9URWlfTWlqQQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">depression</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamEyYkNGX2dma1VJMS14M2J0S3psUkxZZ0FEb1dJRDRnN09FaEhlbjVRVFdpSXJGWGxya1hmNWg4MzdINXpySVR6Mkowd2pNSmw4bHlYczVyYk9vV0pOb3czV1ZZd2hLaWJ0RnU4bmpfMkViLVB6TDluQWNPV003VmVudVh2TDItNXRVRFNOUzFSdlozeHpraVFyY0pGQnhfaG9URWlfTWlqQQ?oc=5)
-
----
-
-### [Ansia e depressione, a Bergamo screening gratuiti anche per i neopapà](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
+### [Ansia e depressione, a Bergamo screening gratuiti anche per i neopapà - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
 
 2026-10-05 <span class="news-indication-tag">depression</span>
 
-Source: [ecodibergamo.it](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
-
----
-
-### [Woman with bipolar disorder hopes new diet trial could transform treatment - STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
-
-2026-10-04 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [STV News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV08zR2hEYW9tSmZCR0tjYkJVYTJ5R3VsUmlWT192NHdoSXdqcEdhVzREdGR3TUhIM0RlamkwMkxZRzJpMWE0YzJNTjViYWZVdGk3dU5GOWJDQU9oMUdOSzVQekcwZFdGNmRQN1U1Q1pwbi1nU29JNVZoTkhtSkxEd3NOY2JZT2NoU0dCXzFVU2RNSWpJbmZCZ1lDeTQ5cWd0SkxFZ21FSVE1RUk?oc=5)
+Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
 
 ---
 

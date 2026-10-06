@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
 
-2026-10-05 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">colite ulcerosa</span>
+2026-10-06 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">colite ulcerosa</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
+
+---
+
+### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
+
+2026-10-05 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
 
 ---
 
