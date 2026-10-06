@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+### [Si vous puez du nombril, vous êtes peut-être atteint de la maladie de Parkinson](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
 
-2026-10-05 <span class="news-indication-tag">Parkinson's</span>
+2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
 
-Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
+
+---
+
+### [VÉRIF' - Est-il vrai que 45% des cas d'Alzheimer pourraient être évités avec de la prévention ? - TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
 
 ---
 
@@ -70,27 +78,11 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQ
 
 ---
 
-### [If you had 50-50 chance of getting dementia, would you want to know?](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
-
-2026-10-02 <span class="news-indication-tag">dementia</span>
-
-Source: [thetimes.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjUtdExTbE9jWGZHcGlBWElJN18zRjZSb1pmVkJpc0tfUkxEVUwxLW5la2J2RldDYTBKQU42a1Y0V25pNkVyUkhlNnY5WlJoRkRnUWpTclZRcXNOVVlRMHBic3I0OUNqcmZPUlZNeGhYaFIwOHhlMEpOaE02TDduZ2NDV3E5bmhNbUdzbUpBS1gxZGFmZEFsR3FYd2NiUDJHd1JuRl9Odjdmd2J3NzNrdHFIOWZ6RGNsOF9PZXE?oc=5)
-
----
-
 ### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
-
----
-
-### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
-
-2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 ---
 

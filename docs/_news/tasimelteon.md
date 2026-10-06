@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Ansia e depressione, a Bergamo screening gratuiti anche per i neopapà - L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
-
-2026-10-05 <span class="news-indication-tag">depression</span>
-
-Source: [L'Eco di Bergamo](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFqTVR6cHI1c2d1T1R2NHUxd0lJdVJ0MFI1dlZ0ckRiZEVqZFkwUzFvRmZubU43eWdPMWNXTmFkeDRTZHFvd1l6S1BSS1pHZlVNX3dIZVdwcUdpcDNacVJwVFVyN3VwLTltT0I3YjUwNWx2YzlTMFVrVlg2MUFzUjdvcHBWUGZOZ2NnSHlfTWtZdGlwYm9kYjJ6a2JMRHdneVRzWmphemROVVZIZ19aSVhBS2hhcmdRUHR0VHBydWhHdXZFMW1lcEdPNUIxVlJYTXc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Parkinson's (parkinson disease) News"
+title: "maladie de Parkinson (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Parkinson's (parkinson disease). 3 articles, 7 related drugs."
+description: "Health news about maladie de Parkinson (parkinson disease). 3 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
 ---
 
-# Parkinson's (parkinson disease) News
+# maladie de Parkinson (parkinson disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Parkinson's (parkinson disease)?">
-<strong>Parkinson's (parkinson disease)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about maladie de Parkinson (parkinson disease)?">
+<strong>maladie de Parkinson (parkinson disease)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Parkinson's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “maladie de Parkinson” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ This page brings together the latest health news about “Parkinson's” and lis
 
 ## Related News (3)
 
-### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+### [Si vous puez du nombril, vous êtes peut-être atteint de la maladie de Parkinson](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
 
 2026-10-05
 
-Source: [STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
 
 ---
 

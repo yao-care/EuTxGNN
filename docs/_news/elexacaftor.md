@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="What news is there about Elexacaftor?">
-<strong>Elexacaftor</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Elexacaftor</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
-
----
+## Related News (2)
 
 ### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
 
 2026-10-05 <span class="news-indication-tag">hipertensión</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
-
----
-
-### [La artritis idiopática juvenil afecta a casi 8.000 menores en España: ¿cuáles son las claves para combatirla?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
 
 ---
 

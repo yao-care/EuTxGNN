@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (9)
 
-### [STAREE-Studie: Atorvastatin senkt Herzrisiken bei Älteren um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhaM1FzRzRLVGJEenZTYjdVYi0xZTZLUFp5Z3JzcWFOZmQxeFZYcUcyWGpuN3QwTDEwUkdGYk9CSldoM3F3QTRiQ19lbkNrUEZWeG10Y2pMaHhxMzNwdVRBVTBwRHN1YUdmZmUyMUNZeVpnZFZiY0MxTXZqRmxQYmJXTmhMZ2ZvLWYtdzFoUEhQMUloVExKRURLQXhGQnVkTmI2QV9DUHl1TWNRcms5WkRLdnpFOVlkSXVyYw?oc=5)
+### [Atorvastatin ab 70: STAREE-Studie senkt schwere Herz-Kreislauf-Ereignisse um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
 
 2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFhaM1FzRzRLVGJEenZTYjdVYi0xZTZLUFp5Z3JzcWFOZmQxeFZYcUcyWGpuN3QwTDEwUkdGYk9CSldoM3F3QTRiQ19lbkNrUEZWeG10Y2pMaHhxMzNwdVRBVTBwRHN1YUdmZmUyMUNZeVpnZFZiY0MxTXZqRmxQYmJXTmhMZ2ZvLWYtdzFoUEhQMUloVExKRURLQXhGQnVkTmI2QV9DUHl1TWNRcms5WkRLdnpFOVlkSXVyYw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
 
 ---
 
-### [Das „gesunde“ Süßungsmittel, das Ihr Herzinfarkt-Risiko um 57 Prozent erhöhen könnte - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
+### [Cervelletto, la stimolazione “sintonizzata” sui ritmi cerebrali apre nuove prospettive per la neuroriabilitazione - Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZURITEVtU0ViakNHcUlKVmtyYW9GQXZYeTZPRm9EeHFWbFh2S1VkRTNFNEdyaXpFUzdaX2R0NFEzc09BMkdZZnR6NDNPa1dHclgzVDBQVy1JNGlJU3hFblFtZl9WRnlHZGExc0NyblNlY19OcnlES0xhb1ladGFuUE5uRzM2aDhfdndNMExqa1UtS1VsVWlmLTRhNkRRczNRVGpGbm03azZod1VPcTZ3ODVRQ1F5QVVoSGozbjR3NEZyN3lwaVhRWVBOcWJmWk02TFpUQzI4U2hmUnJuWVE?oc=5)
 
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-06 <span class="news-indication-tag">ictus</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
+Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZURITEVtU0ViakNHcUlKVmtyYW9GQXZYeTZPRm9EeHFWbFh2S1VkRTNFNEdyaXpFUzdaX2R0NFEzc09BMkdZZnR6NDNPa1dHclgzVDBQVy1JNGlJU3hFblFtZl9WRnlHZGExc0NyblNlY19OcnlES0xhb1ladGFuUE5uRzM2aDhfdndNMExqa1UtS1VsVWlmLTRhNkRRczNRVGpGbm03azZod1VPcTZ3ODVRQ1F5QVVoSGozbjR3NEZyN3lwaVhRWVBOcWJmWk02TFpUQzI4U2hmUnJuWVE?oc=5)
 
 ---
 
@@ -86,11 +86,11 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9
 
 ---
 
-### [Schlaganfall: Darmbakterien-Botenstoff Indol kann Hirnschäden verstärken - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
+### [Darmbakterien beeinflussen Hirnschäden nach Schlaganfall](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnBpVlg5VC10dWJfXy1DSDFNbzctWVF5eU1zbGlQOEJTLThWU2kzcDZQaUlYY3d0RkZZeVhFZVRkZ3BGSE9BbTBGX2ZINE0ycnVWSWdGY1NxOEJuU1dLeDlKbjAyREJnWlBZMENBSXNzRWpwcldzZmRYMXpmTFVacGQzYTNrT0pCUDQwOGVfd1F2QkpSelc5RlNiNC0?oc=5)
 
 2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnBpVlg5VC10dWJfXy1DSDFNbzctWVF5eU1zbGlQOEJTLThWU2kzcDZQaUlYY3d0RkZZeVhFZVRkZ3BGSE9BbTBGX2ZINE0ycnVWSWdGY1NxOEJuU1dLeDlKbjAyREJnWlBZMENBSXNzRWpwcldzZmRYMXpmTFVacGQzYTNrT0pCUDQwOGVfd1F2QkpSelc5RlNiNC0?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMa
 
 ---
 
-### [The ‘healthy’ sweetener linked to heart attacks and strokes - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
+### [A low score on these tests may warn of greater chance of stroke, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
 
-2026-10-03 <span class="news-indication-tag">stroke</span>
+2026-10-01 <span class="news-indication-tag">stroke</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW9WeHYxNVgxQjAtSkV5bkYyWmE5UlJnMllJQWZlOFpwOTdSYlZuR01EVjFNdTQ4Z2EzMVltZF95UFE0bUZyT0tSR3Jjck5NVm5aRW5zZXpPblZPazBMVnpSaFN5RjRJTy0wMFJ4bkIxZ3BwcE5feHQyNzU4c0pmTzFPUnV5RTJ2N2pZS205OVBYNHdVbkdsNno1cnpQOXZV?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
 
 ---
 

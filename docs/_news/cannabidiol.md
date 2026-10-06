@@ -58,7 +58,7 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 
 2026-10-01 <span class="news-drug-tag">Cannabidiol</span>
 
-Source: [mt-portal.de](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjRCaHZCakJJT2plM0t0Z3YzM3UzaGFtOXUtLU51aE1EWE5aX3lOQ2RvQ05LeHNZUW5kaEF5SHdscVplcUZpZml4ejluNWNLWTdoQ3ZObVQySThMaGVxYXRxQ3FsSVU3WDVsdkZsRWpkZDNSMUR1dElpMGJOSGJrSHdjaGlVeFJKR1RyX0I4aERMZDVV?oc=5)
 
 ---
 

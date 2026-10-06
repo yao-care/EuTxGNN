@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="What news is there about Apixaban?">
-<strong>Apixaban</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Apixaban</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
+### [Eliquis : les prix s’effondrent en novembre - Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVBPTm1qSVRzeHJPVzJiLWIzV2ZpR2JVblc0Wm4xVU02UnJ5VkFQZzlkaksydjc5czVuLWV1bWY1TjhVY1NrcGhzQ01yQkJQYzRXaDhIQnd1REd0MDBSTzJtMXdSeHF4OERLd0pLRUNzWEtweTJjOHB5TkpxR1pTbGpUbUFYVkZHQndsd1F4Q3V0SUhNT1E1eW9JbHZnUWp0aG9LRExB?oc=5)
 
-2026-10-05 <span class="news-indication-tag">artrite</span>
+2026-10-06 <span class="news-drug-tag">Apixaban</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
+Source: [Le Moniteur des pharmacies](https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVBPTm1qSVRzeHJPVzJiLWIzV2ZpR2JVblc0Wm4xVU02UnJ5VkFQZzlkaksydjc5czVuLWV1bWY1TjhVY1NrcGhzQ01yQkJQYzRXaDhIQnd1REd0MDBSTzJtMXdSeHF4OERLd0pLRUNzWEtweTJjOHB5TkpxR1pTbGpUbUFYVkZHQndsd1F4Q3V0SUhNT1E1eW9JbHZnUWp0aG9LRExB?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl
 2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
-
----
-
-### [La artritis idiopática juvenil afecta a casi 8.000 menores en España: ¿cuáles son las claves para combatirla?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
 
 ---
 

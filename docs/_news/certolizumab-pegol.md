@@ -14,7 +14,7 @@ permalink: /news/certolizumab-pegol/
 ---
 
 <p class="key-answer" data-question="What news is there about Certolizumab Pegol?">
-<strong>Certolizumab Pegol</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Certolizumab Pegol</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,7 @@ This page combines the AI-predicted indications for Certolizumab Pegol with the 
 <p><a href="{{ '/drugs/certolizumab-pegol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Artrosi e artrite reumatoide: quali sono le 3 differenze principali e quando sospettare una o l'altra](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSWV2MWlOWVB2VEQxeE1JV0Z5ekx2cGpDZ3lubnVORGg5eE40UFJIYlc5TnY5Q2VIek9IQWZJbEw5SERrZ2tHOFBkTkxCbDBDbGUzSTdWd2NQWDFnMF9XRnJzWFNEbDkySmZZRW1aRmhGQzBnQm9yWFVGS19LZERVSnV2YllXTUdzdzZBRnBrYWRZV3dzQ281OHp2QTJzcGY4TWRhalpVUnFURVlnZkRINFpWeUlndVR1cjZ3ekhQNnNLM2J4MDNMajJ4dl9jMW40NUFNOXp4SVF3dkQ3bExhcWswWFFRM3N1dGthQg?oc=5)
-
----
-
-### [La artritis idiopática juvenil afecta a casi 8.000 menores en España: ¿cuáles son las claves para combatirla?](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [consalud.es](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYVdnOGRDNlB4YVZQcS1GSV9qOTFnWlJJZGFwR1BEenFIdW95SHNpbS1TTjJzTVVWc2g3dWdtWWxlRWQ2ZGg2cUh1dVpZWXV0dElQa3BGc3FHejJjQ1laRGwwZ2t3MHI1YVh2bmRJOTFEdS16NVJMaDM1WjJmMlJVbjJ5Q0Y1aFBqM3pUU0pnOUdFWE92ZlZGU3RwbC1yUGR1WTVUX0g3WGp5OU1LLS1CSDdoZnJZU0RJU2JDRkdXX25YSnU4S3d6LWdlNzl5Y2oyRGxNTURPQ2xwTjlr?oc=5)
-
----
+## Related News (1)
 
 ### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
 
