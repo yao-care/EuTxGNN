@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Dad with Parkinson's finds hope in 'revolutionary' drug trial - STV News](https://news.google.com/rss/articles/CBMingFBVV95cUxPNDJqdmlFTUV1TG42ZjJuaWt4Nm1hWXFac1llbFlab2lqVnNhd05kWnRpbVRLbE91QnVMMk05dk9aa2daQ092X1Vwa0U1Qm1ZQWI0SVlhSk9kaW9kVWNPeDRlbDhkMWhiSWJ0dmlhVm43Z2g1UGpoZ3BTbVpGZEN1SWtKc1Jibno5ZFJoMHpMUlFwX1ltUXJPYWJ5Ukh4Zw?oc=5)
 
@@ -78,14 +78,6 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQ
 
 ---
 
-### [No es la edad, son las hormonas: la menopausia altera proteínas en sangre asociadas al envejecimiento cerebral y al alzhéimer - Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
-
-2026-10-04 <span class="news-indication-tag">enfermedad de Alzheimer</span> <span class="news-indication-tag">AF</span>
-
-Source: [Redacción médica](https://news.google.com/rss/articles/CBMimAJBVV95cUxOYnJzaVZWd0FlSXdLblFlaFZpQmNzVjlVTVR2cExvb3VpTjdVcWozMGlIOHZhNUMtRkliVTJiZjdaQi0yREdJWHhQZ2xqQUlZcFk2VWhxNXE0NnMzZGVhRXgwRUFNZXIycmNzRnFvbE1YRUE5SFZ0WG8tckNpSXFYN1pvWVd6bGNDVkg4R2JoWXVJQjVrM2JPY3oxZEw1ajdqaGxCcUgxSDVKWGRHMzE4N0NWMlpyVDBVVnZ0OUVCUzU5UWJUdENIZVhZal9Jb2Z5eW5CMlJYNEtCUTJYVFdPbUVDaFg0UzBaZXZnMWtUOHJkaWN4MWk2RjQyYkNMVjA5eTYzdWJfMC1Bazh5a2Y5WlpwM2VwV2Vy0gGeAkFVX3lxTE01Tm9EcG1YdGJ3NUE1cE1udjRaU19RME9oVkgwQnhsWVZ0ZUFtWXhMRk1URUx3NVJsMFVBc0ZQRURxOXdmNHR3Zk8wY3JvZHRldW9DcEZJNHJjdzRuZTZUVTJoOExrUTFsUG1lLVBFRnFvYWlqN3kwRmpUTkI4emtOb3dqZ1JVamdiNUxRQ2pyV2Q4a2NUQUZzcHhhZGsySG4zNEIzZURtUXdUR3FSREphdVExTTlQZXdEMV9sOGIwdkdvQXdBQ3NBbUtUaUY1aU9OQ0M1ZVQwN2huZVp4anZCWS1HRkQ3LTQzTzNRRncyNThkeXlnTXpxTGpFWGx3b2RoMGNMcVlCcllNN0doRUlKcG44Q2lUdE5pc0lfQ3c?oc=5)
-
----
-
 ### [How little exercise can you get away with? - The Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1c0dEp5NTJhWXVMOWVTTDJCeHlySXNydHVYbXlieXk5Vi0xcTlIamF5bUxOX29TZzVETGRsQ2cyOFNLNC1QMm5vdjRDaDV3dzR6N1NuUTN1T016NnZ0ektYN00tTGMtSG5xZkQxVmdwVVAtVlB2dzUwVVltcTRpV2FaVlNTcUIwTGRfVFhmd3dtSFd4VWRta1pKbTdmZGVKVzlVTVBYTF8wNkFzRjJ3?oc=5)
 
 2026-10-03 <span class="news-indication-tag">dementia</span>
@@ -106,15 +98,15 @@ Source: [The Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZkYjU
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+Source: [bbc.co.uk](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 ---
 
-### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+### [Ménopause : une étude de 18 ans révèle un lien inquiétant entre son âge d'apparition et la maladie d'Alzheimer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 2026-09-30 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
+Source: [futura-sciences.com](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNc3pybi1lZUpWTU1xRHY5UjVjR2NKa0Zsd1B4ckU0OVhXbEpEVFdLM3JoRDFoQ0hxY3pMVHN6VXU0ZzYtQlgtUHZSNW9zX2tsR0djMmZDd292bEY2aWU0UVB2Y1dqNlR5U0Q3Uk5xdk84OFV5V2lyZ2lMTUxsTGxBMHpuSTFqZlZfdE5VTkVkbUMtX2RMZHYwcko4WWdpaFpxdjQxdUdDdDZETG1TRVIzaHRudm1LSWt0MUhzQ2dCc3ZoUzFUakpmY3NQM0o1N0F2OFNFanpXcUR4a2dPY0JNVUl4OA?oc=5)
 
 ---
 

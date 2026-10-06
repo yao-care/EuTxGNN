@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="What news is there about Oseltamivir?">
-<strong>Oseltamivir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Oseltamivir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Oseltamivir with the latest 
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Fieber-Alarm: Patientenservice registriert über 8.000 Meldungen in einer Woche!](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVFOSGlXZFRBcHN4WGc4TUV6WWkzX1pQdnJ3VkJjWnVkQTVWb1hySzh6eXd5RnRyc2d6dU90SFAwZzJDZ3c3ODYwWng4d0NkUjhDalRaTzhJc1BsU1lkRkZCT1daV3ZUMFcwWGdDREw2TjFkWllnVVBTd1FrTkFMSGpDSDNPZkpQX0N2TEJNcnJDcFB4X2JNT1h3RHN2Q1p4R1F0S2ozX0FPV05mWVJSUnRFUW5hVGlsREo0RDhpQV9DTGthZzJ5Vm9WQ3dvbm5mYUotMnd1RDd4S3NiN3NwcFRR?oc=5)
-
-2026-10-05 <span class="news-drug-tag">Oseltamivir</span> <span class="news-indication-tag">MS</span>
-
-Source: [News.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQVFOSGlXZFRBcHN4WGc4TUV6WWkzX1pQdnJ3VkJjWnVkQTVWb1hySzh6eXd5RnRyc2d6dU90SFAwZzJDZ3c3ODYwWng4d0NkUjhDalRaTzhJc1BsU1lkRkZCT1daV3ZUMFcwWGdDREw2TjFkWllnVVBTd1FrTkFMSGpDSDNPZkpQX0N2TEJNcnJDcFB4X2JNT1h3RHN2Q1p4R1F0S2ozX0FPV05mWVJSUnRFUW5hVGlsREo0RDhpQV9DTGthZzJ5Vm9WQ3dvbm5mYUotMnd1RDd4S3NiN3NwcFRR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

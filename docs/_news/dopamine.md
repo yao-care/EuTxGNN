@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Jusqu'à huit tasses par jour : des chercheurs ont suivi 500 000 Britanniques pendant dix ans et trouvent un lien avec l'espérance de vie](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNjFUWFNjNDhXdzZnTzJSODVROUFMN0h6cVlNWVYzMUo3N3hXWHVLNkRQelkwZWtFTC01SDlIVUl5bTlwSWx5LWljWnE0WnJqd1hMb1lLUXhTQ3B2RlRwU2RsZVRPUXhqOEp4WjhDUGFWRFRlQUl0eDFXMWNhZ3dRQkxmelpfSG5xQ1ZtVzVJVFhzUmVPQXJ1Wnd2NTRyMDI3eW5ndkQ1TEJFYTZEYWxrNl92aFNTUlBCejI0bEhHU0RINXR6eW1JSVVxR2pMZHl0R3plNTA3eHZELVNPVjVmdEtCdS03WGd6QjBoMw?oc=5)
-
-2026-10-05 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">AF</span>
-
-Source: [Sciencepost](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNjFUWFNjNDhXdzZnTzJSODVROUFMN0h6cVlNWVYzMUo3N3hXWHVLNkRQelkwZWtFTC01SDlIVUl5bTlwSWx5LWljWnE0WnJqd1hMb1lLUXhTQ3B2RlRwU2RsZVRPUXhqOEp4WjhDUGFWRFRlQUl0eDFXMWNhZ3dRQkxmelpfSG5xQ1ZtVzVJVFhzUmVPQXJ1Wnd2NTRyMDI3eW5ndkQ1TEJFYTZEYWxrNl92aFNTUlBCejI0bEhHU0RINXR6eW1JSVVxR2pMZHl0R3plNTA3eHZELVNPVjVmdEtCdS03WGd6QjBoMw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

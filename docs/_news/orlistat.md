@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
 
 ### [„Solche Herzschäden können sich über Jahre entwickeln, ohne dass Betroffene etwas bemerken“](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
 
-2026-10-05 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFaM2lJS0c4Q0oybm9BZmhaZHdIaXJEcml0bjQwaDROeTJxZWpBclBKMW1pdXk1SHBBci1jcXZ3cXp1VFh5bjZWUjdVNXNxMF9UMFQwSEdlUm9GX1VmMU1fTl9UY1NkV1hYNjBJRXBUbTNEWkQ0aXpKQzhlYmZLTkRxSlg3Z0FjMXJOdnB2TUpodXItTGo2bTRnV19RN05lVlpFRUNZejVtaGJvb2JZTHB5LU1GTFd1aGo4OTc2ZFUyWmI5czlFZjB5WjVsaXg1RHhoMG5YdldJZUpNa01uTGFXbEhIZFlpNnZnei1xMUdF?oc=5)
 
@@ -64,7 +64,7 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeUlyS1ItVjFa
 
 ### [Herz-Kreislauf: Der überraschende Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
 
-2026-10-05 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-06 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOR01LT1EyTktxY05IUWdFZHRERFV0Q00zWU8tWDdnQTd5d1FMcHdvQm9qT2dzeFFUaG0tWU1RRXRNSUR3MXhrYUtOaXFnQlZ6bkd0TlpyNHJnQWxRQmc1S0IxUEY1a0pIX1ljMUk5OTdZZk9weGJ0QlBvem13YW1MQ2k4SWw1VGYxMjE4Z2ZRLWxTa2NkY0J2RDRkS3VMWjhMYmc3R2Y0VTRQM2dyLUVJUVVpWXJPREQwZU5IeGxYYjBER1V5TEsyLURvWGIxS29KRWY2bG9WRWExZ2lLYUVSR244N1VPQlc0UF9fc0hjQThTdnNweVE?oc=5)
 
@@ -86,6 +86,14 @@ Source: [National Geographic España](https://news.google.com/rss/articles/CBMiu
 
 ---
 
+### [Menopausa e rischio neurologico: cosa dicono gli studi recenti su demenza e ictus](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXg0VWY0azJVWkZoblM0T0VBSFp6U3YwZGE4WC1mUWI4dmJiVXd4a1VwVVlLQ29sWmcwQ1U3ZWNsdHVrNkFXMDNsTkRadTJKTVR4YTBTc0RKR3FqZjRvbHhwMEdDUm1RcnV5Z3dsZWd5SVpldU5nSExJbWhtMmNYSXE4ZjRIRTJxYTkxMUhXLUJPcXpKcXQxdmh6cGRCYjZ0Tk00R2p0NTU?oc=5)
+
+2026-10-05 <span class="news-indication-tag">ictus</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXg0VWY0azJVWkZoblM0T0VBSFp6U3YwZGE4WC1mUWI4dmJiVXd4a1VwVVlLQ29sWmcwQ1U3ZWNsdHVrNkFXMDNsTkRadTJKTVR4YTBTc0RKR3FqZjRvbHhwMEdDUm1RcnV5Z3dsZWd5SVpldU5nSExJbWhtMmNYSXE4ZjRIRTJxYTkxMUhXLUJPcXpKcXQxdmh6cGRCYjZ0Tk00R2p0NTU?oc=5)
+
+---
+
 ### [Adipositas in Deutschland: administrative Prävalenz, Komorbiditäten, Mortalität und Behandlungskosten - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
 
 2026-10-05 <span class="news-indication-tag">Adipositas</span>
@@ -98,15 +106,15 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 
 2026-10-05 <span class="news-indication-tag">obesidad</span>
 
-Source: [atresmedia.com](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN0VHQlF4aHktS3VNU2RQYmtLci1oSjhJY3pNMWxhQ052ZWREanBqaXNUZ0g5UTRmcHpGNi1fUTVERjFMbkZXYnI5LUlyQTRMLVBkdTBvdWdjaVVWM2hWNkx1Rlc0a3dHT1M2OGc3UFJLZDAxeWpFLWMtc3FNWEc1cGFOLVZ0ZTgxbVdqUVRhMWFsRkZBWFQybWZEcG51Zk4zNXIzZ2ZBd28zaVhjenV4SWhpU2xKNzkwSnBQM3ZYQm9fVjh3YlNJWjJyRTgtWlBaaDF4NURfY0F2Vnk5WE1qNzdCbVAzd0RIUnhISHI0TDRwWm930gH0AUFVX3lxTFBFZlprTEl0OVJuem9tTWJLSWxhakN2SzdQTmJWUEJ1cmdiQkZ2eVJmTnlRM2M4SkFLeXg4bnpWT3E1dzdGQWNnU3lPaHVJcUQ3OHZoVEpQalBBY3BCN1UxVXJFdjhDNF9XQnFZbF9zSFl1bkFIaW9ld3hLeVQweVFLczE2U3Nic0J2RU01dklPN1dpa1AwZEZ4Vm11OVZ0M2NkN0dZUFVlVUtCbEVaUjFTMEYwU0ZTUEZpOXF2dEdzWXhGRUFiaGljcDVfMmwzajZfdHpVelNaRmpGWEdIRlBZa0dhUW5zUUQ2WWxpMWg5c3d1aUo?oc=5)
+Source: [Atresmedia](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN0VHQlF4aHktS3VNU2RQYmtLci1oSjhJY3pNMWxhQ052ZWREanBqaXNUZ0g5UTRmcHpGNi1fUTVERjFMbkZXYnI5LUlyQTRMLVBkdTBvdWdjaVVWM2hWNkx1Rlc0a3dHT1M2OGc3UFJLZDAxeWpFLWMtc3FNWEc1cGFOLVZ0ZTgxbVdqUVRhMWFsRkZBWFQybWZEcG51Zk4zNXIzZ2ZBd28zaVhjenV4SWhpU2xKNzkwSnBQM3ZYQm9fVjh3YlNJWjJyRTgtWlBaaDF4NURfY0F2Vnk5WE1qNzdCbVAzd0RIUnhISHI0TDRwWm930gH0AUFVX3lxTFBFZlprTEl0OVJuem9tTWJLSWxhakN2SzdQTmJWUEJ1cmdiQkZ2eVJmTnlRM2M4SkFLeXg4bnpWT3E1dzdGQWNnU3lPaHVJcUQ3OHZoVEpQalBBY3BCN1UxVXJFdjhDNF9XQnFZbF9zSFl1bkFIaW9ld3hLeVQweVFLczE2U3Nic0J2RU01dklPN1dpa1AwZEZ4Vm11OVZ0M2NkN0dZUFVlVUtCbEVaUjFTMEYwU0ZTUEZpOXF2dEdzWXhGRUFiaGljcDVfMmwzajZfdHpVelNaRmpGWEdIRlBZa0dhUW5zUUQ2WWxpMWg5c3d1aUo?oc=5)
 
 ---
 
-### [CagriSema muestra efectos más allá del peso en cerebro, grasa abdominal y salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
+### [CagriSema muestra efectos más allá del peso en cerebro, grasa abdominal y salud ósea](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
 
 2026-10-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
+Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
 
 ---
 
@@ -158,19 +166,19 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORk
 
 ---
 
-### [Non solo peso e diabete: gli analoghi GLP-1 proteggono il fegato e cambiano la sfida alla steatosi epatica (MASH)](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
-
-2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
-
----
-
 ### [Cheaper chips and melty mint slices: I try making five common ultra-processed foods from scratch – without the additives - The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZU0c2U2tLeXFGbTcyYnJ6U1kySXNQR0Rvc2RrNnZXd1gtRWM1eVdwbjZXaG1WLS1yQTFDWEFaMm1xV2F4Wkx6QURxclpCSkVWTVlDUXlnbFo3dktYZkhKN2pERmMxVTBXRVZ5OXgtd2M0V0ZaeEVaS2tJaVJkbW5pTjJGRkhJNHkweXV2eXZhVEVQbTZBUjNZN2RiM3Nma251eEgzb3hhWmhV?oc=5)
 
 2026-10-02 <span class="news-indication-tag">adiposity</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZU0c2U2tLeXFGbTcyYnJ6U1kySXNQR0Rvc2RrNnZXd1gtRWM1eVdwbjZXaG1WLS1yQTFDWEFaMm1xV2F4Wkx6QURxclpCSkVWTVlDUXlnbFo3dktYZkhKN2pERmMxVTBXRVZ5OXgtd2M0V0ZaeEVaS2tJaVJkbW5pTjJGRkhJNHkweXV2eXZhVEVQbTZBUjNZN2RiM3Nma251eEgzb3hhWmhV?oc=5)
+
+---
+
+### [Jo-Jo-Effekt : Fettgewebe entwickelt Gedächtnis für Adipositas - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkxWMjg2aGNXdzZsTUlGdDFhNFNmR3FhT2RNMU8weXUtV2NwZTItZ0xTNVg2dkxVdUNWM1FaZ1RvU3F4ZFFkZjdReDlmbTc1TTFaQnpkQkpmUnFUalpMU2RlNU83VXdnNjQyY1F1X1ZSenRSWnZDSklPSExBdnVUcGpQeVhfcEd0UzQwVmlLZGZCS2w0czNUYzREM3Z3VXl6RFRBUEkxMDlqMi1xRGlkanBWSm93ZXo4RzlYSVNQaWV4bHdXc0tRSWRkQ01XTmZUQmg5QVBXNTdUNjhxdGtj?oc=5)
+
+2026-10-01 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZkxWMjg2aGNXdzZsTUlGdDFhNFNmR3FhT2RNMU8weXUtV2NwZTItZ0xTNVg2dkxVdUNWM1FaZ1RvU3F4ZFFkZjdReDlmbTc1TTFaQnpkQkpmUnFUalpMU2RlNU83VXdnNjQyY1F1X1ZSenRSWnZDSklPSExBdnVUcGpQeVhfcEd0UzQwVmlLZGZCS2w0czNUYzREM3Z3VXl6RFRBUEkxMDlqMi1xRGlkanBWSm93ZXo4RzlYSVNQaWV4bHdXc0tRSWRkQ01XTmZUQmg5QVBXNTdUNjhxdGtj?oc=5)
 
 ---
 

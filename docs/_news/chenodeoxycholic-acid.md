@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Chenodeoxycholic Acid?">
-<strong>Chenodeoxycholic Acid</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Chenodeoxycholic Acid</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Chenodeoxycholic Acid with t
 <p><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
 
 ### [Demenz: Diese Cholesterin-Senker könnten das Risiko überraschend deutlich senken](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX2dRZ05HbjBwNDhUbWJVRnhSeUdackUwa2c2UzE5Z2E0MEJ6NEFYTU1PU1J5SGQzMlEySnk5Rm9kRUJDNXdYSnlnVFgzZVVDNmNPN1B2eHQ0R1M5RjU4RDBRb180SWEwRjdFMDBlVHlkeTM0Nk1KRHpxT1pSWnVNZlpvdlgyblVHSjdEWVR2aXZHUXlscTQxZTR4R1huUzFkdm42Qlg1aE9DZk9oVnpTMENKdFFNRXdxMlhpUVpnNV8xUjhCczZJZ3ItRGhaYk9WVXZZdWdIa2RXdW1qX3FfLTNBSQ?oc=5)
 
@@ -62,19 +62,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX2dRZ05HbjBw
 
 ---
 
-### [CagriSema muestra efectos más allá del peso en cerebro, grasa abdominal y salud ósea - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
+### [CagriSema muestra efectos más allá del peso en cerebro, grasa abdominal y salud ósea](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
 
 2026-10-05 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
+Source: [immedicohospitalario.es](https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjBuemZmZzByaFhjNmxCQ0lVQ2JleHkxaDNFTGVvN0E2WF9wRDZHRHVDZUVtd2xVQ3B6bjVTQ0FldlBsZ3FWbVpvbklhSEhra2psRnVXd0hmMmtjMUp0NEZsdHQ0QUJZWGUxQnJ6eE5QajNWM2ZraEQySFFNTXRueGYtMkhRY2czMnlFRTJvbHl3T2dnZEhqY3VqZEpIb1VTZE4tWFRzUlcxaHNCaTVsbWd6TDFSeUNPVGNkQzZvVdIBugFBVV95cUxOLXV3cHVLS0NrTHFld3o3X0pyZWxhdWRSWHgzdG5ZRnBmdkQwWE1fUlZQVDQ4R0hFeXFpTVZEREJKZ0RzSlo2b1laZjNadXpIUWNEc25RNGd2Tk14dXdXbHhCbWlsT2V5bmdxd3g5cTViS21jY3ZMamhodjBTNmlaS3Vid0swckVtZFM2anpuSnJ0SXBNR0hyZVh6OUh5NU56N1lLX3hKSGVPZWJQd2NvOVNfbnpkUDZSeWc?oc=5)
 
 ---
 
-### [Problème d’érection, baisse du plaisir… Le diabète peut créer des troubles sexuels - 20 Minutes](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUJQVmhoTnhqS1hrRzhhYkFZWnptbFo2VHdaR1NsM1JjYUx3akg2QVpKXzZoTmJDbGEtY1RUQ3lHV0Fvd05RRnpoMmhWVkhldFdBOExXcnptYjJmZFZFODlBWm9XOURpbzY0dU0zMWFDZkZGYm1qTnlfb2xiNzY0aW9SRFh6ai05clJoUlQyN25FcFlveHhkZEdBYzF5ZlZwakREZlo0RkluaTJrZ0lpQVBSRDZyMXZsbVd5cHRlb3FVVGtTbUJMb3VNZThGS2p1RldPZlFCQkxuUmlmSjlvbA?oc=5)
+### [Problème d’érection, baisse du plaisir… Le diabète peut créer des troubles sexuels](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUJQVmhoTnhqS1hrRzhhYkFZWnptbFo2VHdaR1NsM1JjYUx3akg2QVpKXzZoTmJDbGEtY1RUQ3lHV0Fvd05RRnpoMmhWVkhldFdBOExXcnptYjJmZFZFODlBWm9XOURpbzY0dU0zMWFDZkZGYm1qTnlfb2xiNzY0aW9SRFh6ai05clJoUlQyN25FcFlveHhkZEdBYzF5ZlZwakREZlo0RkluaTJrZ0lpQVBSRDZyMXZsbVd5cHRlb3FVVGtTbUJMb3VNZThGS2p1RldPZlFCQkxuUmlmSjlvbA?oc=5)
 
 2026-10-05 <span class="news-indication-tag">diabète</span>
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUJQVmhoTnhqS1hrRzhhYkFZWnptbFo2VHdaR1NsM1JjYUx3akg2QVpKXzZoTmJDbGEtY1RUQ3lHV0Fvd05RRnpoMmhWVkhldFdBOExXcnptYjJmZFZFODlBWm9XOURpbzY0dU0zMWFDZkZGYm1qTnlfb2xiNzY0aW9SRFh6ai05clJoUlQyN25FcFlveHhkZEdBYzF5ZlZwakREZlo0RkluaTJrZ0lpQVBSRDZyMXZsbVd5cHRlb3FVVGtTbUJMb3VNZThGS2p1RldPZlFCQkxuUmlmSjlvbA?oc=5)
+Source: [20minutes.fr](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUJQVmhoTnhqS1hrRzhhYkFZWnptbFo2VHdaR1NsM1JjYUx3akg2QVpKXzZoTmJDbGEtY1RUQ3lHV0Fvd05RRnpoMmhWVkhldFdBOExXcnptYjJmZFZFODlBWm9XOURpbzY0dU0zMWFDZkZGYm1qTnlfb2xiNzY0aW9SRFh6ai05clJoUlQyN25FcFlveHhkZEdBYzF5ZlZwakREZlo0RkluaTJrZ0lpQVBSRDZyMXZsbVd5cHRlb3FVVGtTbUJMb3VNZThGS2p1RldPZlFCQkxuUmlmSjlvbA?oc=5)
 
 ---
 
@@ -102,27 +102,11 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSlVObVgz
 
 ---
 
-### [Prédiabète : ces petits-déjeuners d’automne qui évitent le coup de barre de 11h](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
-
-2026-10-04 <span class="news-indication-tag">diabète</span>
-
-Source: [letribunaldunet.fr](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzdQeHlGRE5ZZ2ExcC16b1JBMU5NTW9SOFFzLXZVQlRnRzhqSGhEMkRNcGlCVF9iZjNBRFZ0My1MaElIV0Uzd082MHgyUHZZb1drWkY0dWJpYmtMeDFjUWFLRmRYT001Z181R0JjbTFzUjl3X3hocWdRV1FYbGdxLUwxb1Frd2dNbDlGX2lnWHc?oc=5)
-
----
-
-### [Non solo peso e diabete: gli analoghi GLP-1 proteggono il fegato e cambiano la sfida alla steatosi epatica (MASH)](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
-
-2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTEJfcEhHNUg2UUs0RW1vdGt4Z2hWMjdOdjF1bHpPd2Y1VlBrYll4TmVnempQV05ISlAzMjJXUTRmYk4yOUFUVFdYMmxTTTZkNTNxTmNoQm5oZXdnNm44bGZzM3RSQi1NMUNza2I0eG9lcDFhRkthRFpRcUFvM09tLXNneXpwa1F3Z0hPeHo2TDZNbG8wMTZuQmVUY2k4VThTcXI0RU5aaUdMT0wzeWVtd0FvVjkzZDFuRkhwbGFscUplVGY0Mk9KTDk2RjlMLUVrX3l3dDlLem95YlJFS0JFVjBjS2ZUdnR0OUxIYXlyLWpFQlBZRGV0ZFNOMURLcmM?oc=5)
-
----
-
-### [Typ-1-Diabetes: Sex birgt offenbar kein relevantes Hypoglykämierisiko – News](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
+### [Typ-1-Diabetes: Sex birgt offenbar kein relevantes Hypoglykämierisiko – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
 
 2026-10-01 <span class="news-indication-tag">diabetes</span>
 
-Source: [aerzteblatt.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHhHWFV3YlR0SExOYUxONDVVY1dPNHdidFVCWUY3SUJqT050YkhfNXl1cGtYTFFkaGptdzdELWZPMXA5QUczNzRTYnRzemljY3pWeGN4ZFVGUXVLVjBDb09ISmVaM2Vad19wUHNQazE4T09aRGNOUmtqWWFlREM1aFl3VzB1UFhzNlV5MmtrZkpxRVk2VHp5U3A4S3pSRUd3NlNXMzFCVFBDYzRabHFWVDBfTzFMXzNic1NNc3c4ZzFZZFNibTZtbXgwU3JqNWlhaE04?oc=5)
 
 ---
 
