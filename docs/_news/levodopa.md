@@ -44,14 +44,6 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 
 ## Related News (4)
 
-### [Our boy's EYEBROWS were sign of dementia - new drug offers hope but isn't on NHS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
-
-2026-10-07 <span class="news-indication-tag">dementia</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
-
----
-
 ### [Si vous puez du nombril, vous êtes peut-être atteint de la maladie de Parkinson](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
 
 2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
@@ -68,7 +60,15 @@ Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQ
 
 ---
 
-### [Son who used AI to help save mum's life hopes case can help other Parkinson's patients](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
+### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
+
+---
+
+### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Parkinson's</span>
 

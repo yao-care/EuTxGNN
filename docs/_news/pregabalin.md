@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 
 ## Related News (1)
 
-### [Avances en biomarcadores y ecografía para tratar la artritis reumatoide - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
+### [Nuevos tratamientos cambian el abordaje de la migraña: “El objetivo debe ser recuperar calidad de vida”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
 
-2026-10-07 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">migraña</span>
 
-Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
 
 ---
 

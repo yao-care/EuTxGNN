@@ -62,19 +62,19 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtm
 
 ---
 
-### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
-
-2026-10-07 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
-
----
-
 ### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
 
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV
 
 ---
 
-### [What your penis can reveal about your health - from heart disease to cancer - The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
-
----
-
 ### [AID-Systeme auch bei Typ-2-Diabetes einsetzen – ist das sinnvoll? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV95cUxOODJTMFJTSF9VeURxNEtRZ3NyQVdlb2lZYzJ1VGtzcTJUU2FscDRYOXRjdlV5QnVfMmtpalFVQ1JtMGhDdnRhd25veTNXanNDNkMwRzVlc0VWd0tVSGZJVW5oMkNfX3BYdGpwYWUwdWhmajBDb3F0STlZUlI3bWoyS1JhcUo3N0QzWlNybDdzWnJ4SGlkd0tsMkp5V3ljWDV2Q0laWERR?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabetes</span>
@@ -131,6 +123,14 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+
+---
+
+### [Neue Langzeit-Studie zu Diabetes-Risiko: Dieser Fleisch-Stoff macht Forschern Sorgen](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
 
 ---
 

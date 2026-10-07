@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
 ### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtmUEM0V2c3WkpiSFU5Z3lWb2lNU0d1aUNodnhzenhFSGtwaFhwYXJCdjA0MzJrT0gyWmh6Q1JoYkxSM0xqOTZQOFhYOEVBeFN5Q1lScE9TX0NDVFBlM0R3eEZQWVVvVE1nMExNRlByZ2pHMlRzaTItbm0wLVlTdWhJOEFGSWVzQURsZGtKa1pRQ0dWQXFmZW9vdWVWY3hiRVdmYnlLOHQzN3J3YWZKMFh6UVlNWE1tcXgyQ1JkYzNnRUpFUlduNi0zOEdkaDBlSQ?oc=5)
 
@@ -62,19 +62,27 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtm
 
 ---
 
-### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
-
-2026-10-07 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
-
----
-
 ### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
 
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Nuevos tratamientos cambian el abordaje de la migraña: “El objetivo debe ser recuperar calidad de vida”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
+
+2026-10-07 <span class="news-indication-tag">migraña</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
+
+---
+
+### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
 
 ---
 
@@ -115,6 +123,14 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
+
+---
+
+### [Neue Langzeit-Studie zu Diabetes-Risiko: Dieser Fleisch-Stoff macht Forschern Sorgen](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
+
+2026-10-02 <span class="news-indication-tag">diabetes</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
 
 ---
 

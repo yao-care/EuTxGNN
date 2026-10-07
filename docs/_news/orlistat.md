@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,27 +52,35 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (14)
 
-### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+### [Nouveaux médicaments anti-obésité : en un an, 515 effets indésirables graves dont 13 décès pour 840 000 personnes traitées - Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
 
-2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
 
 ---
 
-### [Una tecnología de grafeno ofrece información en tiempo real sobre la vulnerabilidad neuronal tras un ictus - Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+### [La OMS desaconseja el uso de adelgazantes tipo Ozempic en menores de 10 años con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
+
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
+
+---
+
+### [Un sensor de grafeno permite detectar más daños cerebrales en tiempo real tras sufrir un ictus](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
 
 2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
 
 ---
 
 ### [New global guidelines warn against obesity drugs for children under 10](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 
-2026-10-07 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">obesity</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 
@@ -91,30 +99,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHp
 2026-10-06 <span class="news-indication-tag">ictus</span>
 
 Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZURITEVtU0ViakNHcUlKVmtyYW9GQXZYeTZPRm9EeHFWbFh2S1VkRTNFNEdyaXpFUzdaX2R0NFEzc09BMkdZZnR6NDNPa1dHclgzVDBQVy1JNGlJU3hFblFtZl9WRnlHZGExc0NyblNlY19OcnlES0xhb1ladGFuUE5uRzM2aDhfdndNMExqa1UtS1VsVWlmLTRhNkRRczNRVGpGbm03azZod1VPcTZ3ODVRQ1F5QVVoSGozbjR3NEZyN3lwaVhRWVBOcWJmWk02TFpUQzI4U2hmUnJuWVE?oc=5)
-
----
-
-### [Major update for anyone taking Atorvastatin after huge trial - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
-2026-10-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
----
-
-### [Schlaf und Demenz: 48 Minuten mehr REM-Schlaf hängen mit geringerem Risiko zusammen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
-
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
-
----
-
-### [Ictus, il rischio sale se non sono ok i test di memoria e attenzione tra i 60 anni e i 70 anni - la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
-
-2026-10-06 <span class="news-indication-tag">ictus</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
 
 ---
 
@@ -158,11 +142,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZ
 
 ---
 
-### [A low score on these tests may warn of greater chance of stroke, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
+### [Tiefschlaf und Alzheimer: Schutz durch Hirnreinigung? - Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
 
-2026-10-01 <span class="news-indication-tag">stroke</span>
+2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
 
 ---
 

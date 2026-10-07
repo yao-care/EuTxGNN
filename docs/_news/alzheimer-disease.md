@@ -46,11 +46,11 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (1)
 
-### [Our boy's EYEBROWS were sign of dementia - new drug offers hope but isn't on NHS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
+### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
-2026-10-07
+2026-10-03
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
 ---
 

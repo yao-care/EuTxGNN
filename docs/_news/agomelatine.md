@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 
 ## Related News (2)
 
+### [ADHS im Erwachsenenalter: Betroffene haben womöglich ein erhöhtes Demenrisiko](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpaZVZoZm1yRzJEQURjNTlzWkgtTW5YTV9YbUNZcFo2SHVEcW5NbGlKSWVBV0pmTVJwTnBUaTltVV9UdlVxU0xZTDh2NjFiUGhUOWpUUjV6MnBuVmFCWVEyeU1RVkZnaDVJN3ZDeVFOYWpweWpTcmhMdUVnZVduUmNMZjdIbjdRZlZiWHQ2eWpEWWpLZUt6QmZGUHRyNlpsRkVEVDlSdFJ6cHU5R01oUHdVMGtVNEVIS3c?oc=5)
+
+2026-10-07 <span class="news-drug-tag">Travoprost</span> <span class="news-indication-tag">depression</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpaZVZoZm1yRzJEQURjNTlzWkgtTW5YTV9YbUNZcFo2SHVEcW5NbGlKSWVBV0pmTVJwTnBUaTltVV9UdlVxU0xZTDh2NjFiUGhUOWpUUjV6MnBuVmFCWVEyeU1RVkZnaDVJN3ZDeVFOYWpweWpTcmhMdUVnZVduUmNMZjdIbjdRZlZiWHQ2eWpEWWpLZUt6QmZGUHRyNlpsRkVEVDlSdFJ6cHU5R01oUHdVMGtVNEVIS3c?oc=5)
+
+---
+
 ### [Probiotics linked to less fatigue and depression in relapsing-remitting MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
 
 2026-10-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
-
----
-
-### [Più sport da bambini meno depressione da grandi: lo studio arriva dall'Australia](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUhaMnpxa3dvdDIzWDZCdFR0Y2NaMW1ybDdIdjNlVUEySEgxa0NSaHFoZUdqeXEzdEU3Snk2R3k3Y1REbzRKdDBQSmZTV2tKMU9PbkVpTzRmTXp1bW40S2NpcmZ5M0FPT0c2TkczZXVNem0zYUU4eG5ZRy11Wm42eFVhdHpNLTg3NEZ3bFN0blZQalNWOXo4TUFwbmlqQ0dweGtWZGZoVDR3cVg4c1dmcDJR0gFoQVVfeXFMT0pvbmU3QlZ6YzYzalVRUEVleTVoUnlZMkRzUU9KM2VQdlAyNFFYU3kxX09OOGp2dEk2YXNrMGFEWElSd0l6LWJldzlpLU9zbEc2R2Z6cTdlV05oZFFOa2xXcEpPRjlHMjg?oc=5)
-
-2026-10-06 <span class="news-indication-tag">depression</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUhaMnpxa3dvdDIzWDZCdFR0Y2NaMW1ybDdIdjNlVUEySEgxa0NSaHFoZUdqeXEzdEU3Snk2R3k3Y1REbzRKdDBQSmZTV2tKMU9PbkVpTzRmTXp1bW40S2NpcmZ5M0FPT0c2TkczZXVNem0zYUU4eG5ZRy11Wm42eFVhdHpNLTg3NEZ3bFN0blZQalNWOXo4TUFwbmlqQ0dweGtWZGZoVDR3cVg4c1dmcDJR0gFoQVVfeXFMT0pvbmU3QlZ6YzYzalVRUEVleTVoUnlZMkRzUU9KM2VQdlAyNFFYU3kxX09OOGp2dEk2YXNrMGFEWElSd0l6LWJldzlpLU9zbEc2R2Z6cTdlV05oZFFOa2xXcEpPRjlHMjg?oc=5)
 
 ---
 

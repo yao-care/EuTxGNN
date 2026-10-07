@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,35 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+### [Nuevos tratamientos cambian el abordaje de la migraña: “El objetivo debe ser recuperar calidad de vida”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
+
+2026-10-07 <span class="news-indication-tag">migraña</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
+
+---
+
+### [Nouveaux médicaments anti-obésité : en un an, 515 effets indésirables graves dont 13 décès pour 840 000 personnes traitées - Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
+
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
+
+---
+
+### [La OMS desaconseja el uso de adelgazantes tipo Ozempic en menores de 10 años con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
 
 2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
 
 ---
 
 ### [New global guidelines warn against obesity drugs for children under 10](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 
-2026-10-07 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">obesity</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
 
-### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+### [Krebs: Diese 5 Erreger lösen die meisten Infektions-Tumore aus – so schützen Sie sich](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHByeTZVMklrZXVEZzN2YXJqNS0xOWpxTEs2TU83V016b0NCcFJNdklTcERCUFV5NHVRaVB6YTFMdlp5Sm1mTnV2YjM4X2dVS2pWbmpReVJwYmd2MDlhdDU5Q3FxaC1UT0tjamtTUVA5SG5XTmRncUVEbkU2Q184emRPTmNjN0lvcE44dHBDUU5zMXJKcGczQkxuTDdlQWNfM1E2anc3TW5la3QxUmkwMW16VFFkZ19uMVB2SlpJYTdjVVRkcXNWbXdFTDF5dFpzT0ZlQ3pDaGUyc1VHRHZNZFR4VEZVdV9mX2c?oc=5)
+
+2026-10-07 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHByeTZVMklrZXVEZzN2YXJqNS0xOWpxTEs2TU83V016b0NCcFJNdklTcERCUFV5NHVRaVB6YTFMdlp5Sm1mTnV2YjM4X2dVS2pWbmpReVJwYmd2MDlhdDU5Q3FxaC1UT0tjamtTUVA5SG5XTmRncUVEbkU2Q184emRPTmNjN0lvcE44dHBDUU5zMXJKcGczQkxuTDdlQWNfM1E2anc3TW5la3QxUmkwMW16VFFkZ19uMVB2SlpJYTdjVVRkcXNWbXdFTDF5dFpzT0ZlQ3pDaGUyc1VHRHZNZFR4VEZVdV9mX2c?oc=5)
+
+---
+
+### [Gene therapy can partly restore sight in blind people, researchers reveal - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
+
+---
+
+### [La OMS desaconseja el uso de adelgazantes tipo Ozempic en menores de 10 años con obesidad - Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
 
 2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
 
 ---
 
@@ -110,19 +126,19 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHdEQ
 
 ---
 
-### [MSD Animal Health presenta nuevas investigaciones que impulsan la salud de los rumiantes en el Congreso Mundial de Buiatría](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2p1RnU3ZlFCUVMzVGx3Tm5SX0g2SW44cHlSdmYwVng4OTd5bldUNFRqNktyREpONWNaV1g1M0V5VkM5VG4tLUhoZTdfQ1BXeXVQeU5JNW1oYmxnQjBzZVRyWkJ0TUhPRmxQXzAxblA0bzlKRGZPTnMzM0lOQzNFVU9hMUQ2amVMRGc3eVFYWUZCcUlROUZBUTFPUXdZZVphZXNnQk5LUkQwYWZGeVl5bzlPWlFrWG1TSkdKUzQwdHBiTV9vNEd4Z19Pcy1zdkFPVFozWThmd23SAd4BQVVfeXFMTzB6Q1Z1MW43dDVVblRCSy1oeHFtUTZqNFhrdnNSYnV5TllPeElkcjg3R0Vjb29JZ0d0OFdrdmh0RlRkVmxRY09WMGNqdldjZGw3S1hIaTRXTXdZY2FRYTdudGNtMzJDVG00UkZPNkF1Z083bURkdGxpNnk3dDQ5THhfYnk0RzdsbzF5WFlqZjVIUVQ0YnlRQUZjbEEwQW9pSXFXT051djllckhfNV9kTUNQdGc4VkJkQmFHZmFETGRKSWZQRkxETkRDSlNMUGhsX2hmTmFMSUFoWm9id0RR?oc=5)
-
-2026-10-06 <span class="news-indication-tag">MS</span>
-
-Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2p1RnU3ZlFCUVMzVGx3Tm5SX0g2SW44cHlSdmYwVng4OTd5bldUNFRqNktyREpONWNaV1g1M0V5VkM5VG4tLUhoZTdfQ1BXeXVQeU5JNW1oYmxnQjBzZVRyWkJ0TUhPRmxQXzAxblA0bzlKRGZPTnMzM0lOQzNFVU9hMUQ2amVMRGc3eVFYWUZCcUlROUZBUTFPUXdZZVphZXNnQk5LUkQwYWZGeVl5bzlPWlFrWG1TSkdKUzQwdHBiTV9vNEd4Z19Pcy1zdkFPVFozWThmd23SAd4BQVVfeXFMTzB6Q1Z1MW43dDVVblRCSy1oeHFtUTZqNFhrdnNSYnV5TllPeElkcjg3R0Vjb29JZ0d0OFdrdmh0RlRkVmxRY09WMGNqdldjZGw3S1hIaTRXTXdZY2FRYTdudGNtMzJDVG00UkZPNkF1Z083bURkdGxpNnk3dDQ5THhfYnk0RzdsbzF5WFlqZjVIUVQ0YnlRQUZjbEEwQW9pSXFXT051djllckhfNV9kTUNQdGc4VkJkQmFHZmFETGRKSWZQRkxETkRDSlNMUGhsX2hmTmFMSUFoWm9id0RR?oc=5)
-
----
-
 ### ['Life-saving' Frome Birth Talk charity for mums may stop support](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTWdjRjIzUnRKTF9UUXhYRVdxWk5tSWhTblJUNlFlZlBkWERhLTA3UVh2SzVHUGNndlRZaVh4SDVYQlVlWEpUUDlWTXF4YUMtd3FteThQdnExeWhydnc?oc=5)
 
 2026-10-06 <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTWdjRjIzUnRKTF9UUXhYRVdxWk5tSWhTblJUNlFlZlBkWERhLTA3UVh2SzVHUGNndlRZaVh4SDVYQlVlWEpUUDlWTXF4YUMtd3FteThQdnExeWhydnc?oc=5)
+
+---
+
+### [Bumblebees carry bacteria-killing viruses to cherry blossoms, reducing bacterial populations in experiments](https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0RPdXFsSHF2Ql9rYUlkQjhnR2lZU3VoclJtekhIaWxwTXR0RlQ2dUlvazlfOEE5ck1GbkMtOTk5bEVTeEhadlZ3bF9ROWhwczV0QWxEdDBYaUlheVV4Vkkydk9RSGNKMFE1dFVTRVd6dnFWZ1ZDUjNKamZET3doUDVETkM?oc=5)
+
+2026-10-05 <span class="news-indication-tag">MS</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0RPdXFsSHF2Ql9rYUlkQjhnR2lZU3VoclJtekhIaWxwTXR0RlQ2dUlvazlfOEE5ck1GbkMtOTk5bEVTeEhadlZ3bF9ROWhwczV0QWxEdDBYaUlheVV4Vkkydk9RSGNKMFE1dFVTRVd6dnFWZ1ZDUjNKamZET3doUDVETkM?oc=5)
 
 ---
 

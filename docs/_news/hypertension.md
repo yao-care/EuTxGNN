@@ -3,7 +3,7 @@ layout: default
 title: "hypertension News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hypertension. 1 articles, 55 related drugs."
+description: "Health news about hypertension. 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about hypertension?">
-<strong>hypertension</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
+<strong>hypertension</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “hypertension” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Hypertension et arthrose : un lien jusque-là insoupçonné se précise - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BvbjU0Mm85d3BXd0dSM0JiSnZqSU9KUVRidE4xcWlWc016R3hTNEI3Q3ZwSlczMnBkMXkyV3FCaWdaRXF0NWE5MGlKeHFvSF8zaTFjNWNSVWRQMDEyMEpPR3ROc3o5QndJYmhJTDBmdkZiWDdja1ZWc2w3R3JuZkVNZFZKZ0xGRTV3VWVJYVp4ZHhHYUhWU3lKOGVBYXRRRjNqTXM0LV9oMTJqMEVOeHp4QkpmZVpLc2c?oc=5)
+
+2026-10-07
+
+Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BvbjU0Mm85d3BXd0dSM0JiSnZqSU9KUVRidE4xcWlWc016R3hTNEI3Q3ZwSlczMnBkMXkyV3FCaWdaRXF0NWE5MGlKeHFvSF8zaTFjNWNSVWRQMDEyMEpPR3ROc3o5QndJYmhJTDBmdkZiWDdja1ZWc2w3R3JuZkVNZFZKZ0xGRTV3VWVJYVp4ZHhHYUhWU3lKOGVBYXRRRjNqTXM0LV9oMTJqMEVOeHp4QkpmZVpLc2c?oc=5)
+
+---
 
 ### [Hypertension : des neurones chargés de la respiration pourraient aussi faire grimper votre pression artérielle - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
 

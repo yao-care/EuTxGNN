@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Schockdiagnose Krebs: UKSH-Expertin erklärt, wie wir das Risiko senken und moderne Therapien wirken](https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3dwMjNVM19YRWstY3NrMDdCMWdNRktvcVRUOFdsd0RBd3YyZFp0Qm1TYXdWR0lPb2lZZmJfdXZBU25xYktld1pGb3EtLXBsQmxtUDhnUmxYWmxLX1U3VmE3ZGhRcjVTcGk3RUZ6bGVPV0hGSS1oSGpJX2VLdzdnbEgzUkV0UTV1bE9UY1J2ZE9FcXktOFpTVDdhcEVkdnV3ZHlVN1h3bUJWdFIzZHdr?oc=5)
-
-2026-10-07 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">CKD</span>
-
-Source: [shz.de](https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3dwMjNVM19YRWstY3NrMDdCMWdNRktvcVRUOFdsd0RBd3YyZFp0Qm1TYXdWR0lPb2lZZmJfdXZBU25xYktld1pGb3EtLXBsQmxtUDhnUmxYWmxLX1U3VmE3ZGhRcjVTcGk3RUZ6bGVPV0hGSS1oSGpJX2VLdzdnbEgzUkV0UTV1bE9UY1J2ZE9FcXktOFpTVDdhcEVkdnV3ZHlVN1h3bUJWdFIzZHdr?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

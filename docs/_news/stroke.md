@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 9 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 6 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,13 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (9)
+## Related News (6)
 
-### [Una tecnología de grafeno ofrece información en tiempo real sobre la vulnerabilidad neuronal tras un ictus - Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+### [Un sensor de grafeno permite detectar más daños cerebrales en tiempo real tras sufrir un ictus](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
 
 2026-10-07
 
-Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
 
 ---
 
@@ -65,30 +65,6 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95
 
 ---
 
-### [Major update for anyone taking Atorvastatin after huge trial - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
-2026-10-06
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
----
-
-### [Schlaf und Demenz: 48 Minuten mehr REM-Schlaf hängen mit geringerem Risiko zusammen - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
-
-2026-10-06
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQjNhN2FqMjZ2emFlTjlYZWhhNlpIdF9NeDRncEFqZzVfZEZyQkN3bklSM0NQdXhIT0s2WWNaaG9zN1RIOWVvOTVyUzF5N1FTMkJQQ19wMkhzY2RMVmdiMlZOMmVRYTJ5OFVFZl9DcGFzR0JWSzNTX25SR1hCR0RqdkZJMk54VXB2SDZ4b2hwMUZlc0F2bnktWU9SX1BoOXV1VzYtdnRyU1JQU0ZFWjBHbzJ0TTk0Z0k?oc=5)
-
----
-
-### [Ictus, il rischio sale se non sono ok i test di memoria e attenzione tra i 60 anni e i 70 anni - la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
-
-2026-10-06
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9Rb3JGakNBajBmbXlpbkdWRy1PbnRSWl9FSGFfRV9IdERWTWJPa252TFVJcXAwS0JnNi0xX3poeXE1Rl9qcjEtY0VyN3BNd21jNWxUS3AzNUtXNWtCUXNzWE14TFZYV2JJUlJVZXVHYmc2Rlo3cjBrb1gwUkNIMkZUaDc1MkhiNEswQkttdTd6cjBzNzFQMU5LMjJhRTBNR2xhUjNfTWUtU1RvTUthak0yQ3JKS2VWaGJLaUY0OUktVUUwRFRDaGNoLUpVSXdxTWp5OWctd1Fvb28wcjB5MHdQTHJ2MWVTVjRjQTNDYk9UUnF6Wjd0dnpndGFxWWRVWEFzX3RXLS3SAY4CQVVfeXFMTXllcmZINi1YSUlnMk1lN2NtTDZtODFLcEttSnhZYlNfQzVrcm1IeTJ6emhYVUswcHN3OTBUcDZFblN2RW1vNUdBZ3lWcThQb3FrSzBkVEVOaEZ4YTZwRWtLZnllcXhKcUVmbW1pSUpIOEtsckdjQ1VXZl8xQW1JNm1NU0ZNZFlXM3o0UlUyeXJlR3ZzczVCVXM3d2hHTmJRQzBzUU0zUjlTMWdKelo1V3Q0TXRyXy13VGpjVDdUbEJwN281SmFqV3FyWEhjM0JZM0tUVlFLMllPTG9BNkViUlItZGhZcFV4aDVwVmxiZFVKTy1TZ3diZktMRXpVVUdySm5mN1hlX01qLTBIalJ3?oc=5)
-
----
-
 ### [Schlaganfall: Darmbakterien-Botenstoff Indol kann Hirnschäden verstärken - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
 
 2026-10-06
@@ -105,11 +81,11 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cU
 
 ---
 
-### [A low score on these tests may warn of greater chance of stroke, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
+### [Tiefschlaf und Alzheimer: Schutz durch Hirnreinigung? - Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
 
 2026-10-01
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTZBanh6R2RTM21WR1R0WmVGQWxIVkJfLXZiWjcxdi1fVVl3VWhDaFgyVVFrbURzVnRydDlURXg2aGFBR2Z2Q1JLYVg0aklOZzV3N1NXSXk5WHlidncwTEhVNmd3cmYyZkdGWGxsdVZsZzV6NVNnOWt2YnhyMHpsa3o3eDZRaGVOeFl5SVcxcmdmeDNMRVF6ZmJIT2xLVmgwMk02cQ?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
 
 ---
 

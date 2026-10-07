@@ -14,7 +14,7 @@ permalink: /news/drospirenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Drospirenone?">
-<strong>Drospirenone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Drospirenone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Avances en biomarcadores y ecografía para tratar la artritis reumatoide - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
-
-2026-10-07 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
-
----
+## Related News (1)
 
 ### [La storia di Beatrice nata con la Sma, la mamma: «Mia figlia si è salvata grazie allo screening neonatale» - Corriere della Sera](https://news.google.com/rss/articles/CBMitwJBVV95cUxOQURlN3FCV1YtYUZNVk9JRHplSEZrZk1GcV9HUm1kODgyT2M3aVB5OGtmZWg4Z2FITVlMS1BqdkF5aWNCbDY0M1Nqdy11NlF6SzN3bHFRSGl0Q0hMdDd6THpfX1VleVR0ZkY3dmlPbDBZT2NKQjc2X1lfelZ4RHd3aFdvRjRQWHhkSm1UalV4VUZheXdpVVJicEM4ZUdLZkpIWmJUR1hGN0s3SjdvUDBOQU9ZZkxjaElIaGFMX0lTVHdOYWdvaVdzY0xZdzJ3cWZsMmd5dW9DeDl6blhpcXQ3WEF6SWhHMkRnQkc5MEFXR1VpV2lUdm5Qdk1VV3pITGtYRTVfNjZ0SDZwUDctN1R1S3FQdTdXZ1J2VzdiRl9zRzYxT2l6b3BxVFVyOGJVbW5KZFJPYTQ2UdIBvAJBVV95cUxPWXNpVFJTcVRlOWVlMHpXNWJVU0wzUTRIeTg2V0hRN2FMOElaYjJRWmlNbkEzQy1ycTd1VzI1LU9YLUhnUWlGTGFUaUhCMEhlQnUydEdPLVZuUVVqbHJGamFmY3dMaTZaUVBTRDRuTzdyQnpON19MU2MtMG50VXViV3pYNDRwZURtalFMTjRHaDZmWHFoVjNOY1NBRHpCVnNuNEU4Q2NDbHFuN1RILXU5NFRvM2xBdmtNVE04eFdyZmVXQjJCLXdqSkJRaEU0anM5eGdRbDhEak52WWpzdmk5aWpqNDhsUWRnTC05NTh2SnV5dG9lbTJiM3ptUDNaTHQycTY1cjBvSDNGMDl0MHQ3WnBKN0FKbEIySVA1cXh4UGF0aGFQNnJma0hNOENfNmRrdmNDLTc2eXdMX3da?oc=5)
 
