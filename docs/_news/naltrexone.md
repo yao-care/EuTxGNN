@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Las variables socioeconómicas deben considerarse en el abordaje de la obesidad - El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
+### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
 
-2026-10-06 <span class="news-indication-tag">obesidad</span>
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
+Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+
+---
+
+### [New global guidelines warn against obesity drugs for children under 10](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
+
+2026-10-07 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 
 ---
 

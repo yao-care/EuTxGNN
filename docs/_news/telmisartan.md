@@ -54,11 +54,27 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (11)
 
-### [Atorvastatin ab 70: STAREE-Studie senkt schwere Herz-Kreislauf-Ereignisse um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
+### [Una tecnología de grafeno ofrece información en tiempo real sobre la vulnerabilidad neuronal tras un ictus - Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
 
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+
+---
+
+### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+
+---
+
+### [Hypertension : des neurones chargés de la respiration pourraient aussi faire grimper votre pression artérielle - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
+
+2026-10-07 <span class="news-indication-tag">hypertension</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95
 2026-10-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
----
-
-### [Das „gesunde“ Süßungsmittel, das Ihr Herzinfarkt-Risiko um 57 Prozent erhöhen könnte - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
 
 ---
 
@@ -107,14 +115,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNek9
 2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
-
----
-
-### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
-
-2026-10-05 <span class="news-indication-tag">hipertensión</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
 
 ---
 

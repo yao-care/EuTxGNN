@@ -14,7 +14,7 @@ permalink: /news/sitagliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Sitagliptin?">
-<strong>Sitagliptin</strong> currently has <strong>6 news articles</strong>, with 11 predicted indications.
+<strong>Sitagliptin</strong> currently has <strong>9 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,53 @@ This page combines the AI-predicted indications for Sitagliptin with the latest 
 <p><a href="{{ '/drugs/sitagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtmUEM0V2c3WkpiSFU5Z3lWb2lNU0d1aUNodnhzenhFSGtwaFhwYXJCdjA0MzJrT0gyWmh6Q1JoYkxSM0xqOTZQOFhYOEVBeFN5Q1lScE9TX0NDVFBlM0R3eEZQWVVvVE1nMExNRlByZ2pHMlRzaTItbm0wLVlTdWhJOEFGSWVzQURsZGtKa1pRQ0dWQXFmZW9vdWVWY3hiRVdmYnlLOHQzN3J3YWZKMFh6UVlNWE1tcXgyQ1JkYzNnRUpFUlduNi0zOEdkaDBlSQ?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtmUEM0V2c3WkpiSFU5Z3lWb2lNU0d1aUNodnhzenhFSGtwaFhwYXJCdjA0MzJrT0gyWmh6Q1JoYkxSM0xqOTZQOFhYOEVBeFN5Q1lScE9TX0NDVFBlM0R3eEZQWVVvVE1nMExNRlByZ2pHMlRzaTItbm0wLVlTdWhJOEFGSWVzQURsZGtKa1pRQ0dWQXFmZW9vdWVWY3hiRVdmYnlLOHQzN3J3YWZKMFh6UVlNWE1tcXgyQ1JkYzNnRUpFUlduNi0zOEdkaDBlSQ?oc=5)
+
+---
+
+### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+
+---
+
+### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Formación en hábitos saludables y el manejo de la diabetes en centros escolares de Murcia - La Verdad](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2NqWGtpTWd1QktsU1d0M055YkgtdmgxVktPQ3lkcnRZSy1WS3FEQ1ZiZ1JOU0FGOUM2QXlIZ2pwNUJBYWxENTczMWRPVmNKUkhyakJLekxSenNnTnpjODYzc1gxNWNjblBhNUdGaFpWSFUzM0lJX2hGc3VqWWtrUC1VbG5Yd1M0U0lmRGFUbmJHeHo0WUdxTTNLSXl6RnNCQUZpekdBYTZXdnVBM0NHdl92S1FLLWNzT1RHMElfTEt6WlZhYV9rdlJ30gHPAUFVX3lxTFBtRXFkWTBOZXVEeVl2TXY4RkZobGZ3UF9JbzVlQlkwVTFuSE1yaEtsVVhLUUQ0VFNJSFk4aFV2MkNCeDhsQW11eW1qVkkxaFNZYmFxMUlqQ1pCWlZZcDZwczVnOUVxeFlEbURVTThEMDZ6UHdBcDFNSWVkeVFtcjR4bVVxcHNFVlBwQ0Z0MlZ1Q2prVjZpSHQ5cmxUNVNRa25GNUF4VThIdDl3cWUxaDh2M05iT1lqdGlXRExYVUFZYnlremlqWmdPN21VZGJqcw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [La Verdad](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2NqWGtpTWd1QktsU1d0M055YkgtdmgxVktPQ3lkcnRZSy1WS3FEQ1ZiZ1JOU0FGOUM2QXlIZ2pwNUJBYWxENTczMWRPVmNKUkhyakJLekxSenNnTnpjODYzc1gxNWNjblBhNUdGaFpWSFUzM0lJX2hGc3VqWWtrUC1VbG5Yd1M0U0lmRGFUbmJHeHo0WUdxTTNLSXl6RnNCQUZpekdBYTZXdnVBM0NHdl92S1FLLWNzT1RHMElfTEt6WlZhYV9rdlJ30gHPAUFVX3lxTFBtRXFkWTBOZXVEeVl2TXY4RkZobGZ3UF9JbzVlQlkwVTFuSE1yaEtsVVhLUUQ0VFNJSFk4aFV2MkNCeDhsQW11eW1qVkkxaFNZYmFxMUlqQ1pCWlZZcDZwczVnOUVxeFlEbURVTThEMDZ6UHdBcDFNSWVkeVFtcjR4bVVxcHNFVlBwQ0Z0MlZ1Q2prVjZpSHQ5cmxUNVNRa25GNUF4VThIdDl3cWUxaDh2M05iT1lqdGlXRExYVUFZYnlremlqWmdPN21VZGJqcw?oc=5)
+
+---
+
+### [Dal 6 al 13 ottobre screening gratuiti della pressione oculare e non solo, in occasione della Giornata mondiale della vista. - Gazzetta di Benevento](https://news.google.com/rss/articles/CBMizwFBVV95cUxOaU9iVFZJTm9OMHJ0cHlMTU1lZDA3eUkwaF8zTHE4dVJDeUp3cTV0TVVYR0h5UGlJbFJYdlhZU0hwNDd2aUdLeG5YcGIxQkFxaGdIaXE5NVdoa00taDVLNTBqVHFYOUFzZGJiX3ZZSk9zXzRkNmdEZHg5a3FUSGxZQ0xZMEphajRYcDhuejFLektTZzc0UzE3TG03dzdrcDFpZUtwSV9oVGZLTzR4MHprY1plNmxaZ0ZuczN6WjBjVFhiZkVrM0FjMkhULTRvLVU?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabete</span>
+
+Source: [Gazzetta di Benevento](https://news.google.com/rss/articles/CBMizwFBVV95cUxOaU9iVFZJTm9OMHJ0cHlMTU1lZDA3eUkwaF8zTHE4dVJDeUp3cTV0TVVYR0h5UGlJbFJYdlhZU0hwNDd2aUdLeG5YcGIxQkFxaGdIaXE5NVdoa00taDVLNTBqVHFYOUFzZGJiX3ZZSk9zXzRkNmdEZHg5a3FUSGxZQ0xZMEphajRYcDhuejFLektTZzc0UzE3TG03dzdrcDFpZUtwSV9oVGZLTzR4MHprY1plNmxaZ0ZuczN6WjBjVFhiZkVrM0FjMkhULTRvLVU?oc=5)
+
+---
 
 ### [Santé. Diabète de type 5 : c'est quoi cette maladie qui pourrait concerner des millions de personnes ? - Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">diabète</span>
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
-
----
-
-### [Große Studie zu Ursachen von Typ-1-Diabetes zeigt: Bei Risikokindern fällt die Darmflora schon Jahre vorher auf - smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
-
-2026-10-06 <span class="news-indication-tag">diabetes</span>
-
-Source: [smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
 
 ---
 
@@ -74,14 +106,6 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
-
----
-
-### [Ein Stoff in rotem Fleisch könnte Diabetes begünstigen](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
-
-2026-10-02 <span class="news-indication-tag">diabetes</span>
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5SzV3UnZWN0ZOaE0wUkRuUmpYOG83eHdQWlAtRmdVaV9xdnExektnNjQ4Yjg1b3lOZ24zQjBUQ2dTUWdzNGhRNFo4ZF83ZnFrLWNaR2w4eHRkei1BbDl2S2JVRHZRQlRyYVk5ZzU1OGNFekFwNHBRVmx5aUhfWlo?oc=5)
 
 ---
 

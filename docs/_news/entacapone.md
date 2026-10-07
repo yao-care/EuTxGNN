@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (4)
 
+### [Our boy's EYEBROWS were sign of dementia - new drug offers hope but isn't on NHS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
+
+2026-10-07 <span class="news-indication-tag">dementia</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
+
+---
+
 ### [Si vous puez du nombril, vous êtes peut-être atteint de la maladie de Parkinson](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
 
 2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
 
 Source: [Slate.fr](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
-
----
-
-### [VÉRIF' - Est-il vrai que 45% des cas d'Alzheimer pourraient être évités avec de la prévention ? - TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
-
-2026-10-05 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
 
 ---
 

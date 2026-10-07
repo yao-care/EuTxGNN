@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Netupitant?">
-<strong>Netupitant</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Netupitant</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Netupitant with the latest h
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
 
-2026-10-05 <span class="news-indication-tag">hipertensión</span>
+2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+
+---
+
+### [Hypertension : des neurones chargés de la respiration pourraient aussi faire grimper votre pression artérielle - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
+
+2026-10-07 <span class="news-indication-tag">hypertension</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
 
 ---
 

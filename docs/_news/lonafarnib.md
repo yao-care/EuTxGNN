@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Vinculan la hipertensión pulmonar con la radioterapia cardiopulmonar - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
 
-2026-10-05 <span class="news-indication-tag">hipertensión</span>
+2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl9KeGI0MGsxZm5RTGhUek1qYlZVUF9Vdmx5NlJ6TnBhbFE0VkEwS0xQdkx5TzFnSWJ2YjdMaVktZ1pqMWk2R1ExNTU2Z1RDVHdLVlZteFJ3ck5pOEJMUlNqWldFdklCUVFpTnlsNVRCMko0WW5ITDJfWHZ2NFRSekNhbTRLUklDMEtVUFRqeHlJZjVKaUpEOGk0cVRkUlJkUEhEWnluTlpFSlNmM1BGdkJzRnBvT1FkRdIBtwFBVV95cUxQZHNVOUFOQ19BakJHTFluaEVMX29mcV9wanZXSUs4VG45RlRjZmdjc2Z3NHU2LUdWbWVxOENQWHdVNnpWalU2c0VEZUgzdEJtZ0VtVkZfVlYycW0xTXlVTnBNUmUweUJzZVJfdjhxTEJ2aVVPaUpHZTFhMGw1MGdDVFIyRE9aUXpURk1Xcl9KakNzT1JYelFGb2VqdmJDdzI2eEtJdXZJWGFoRElNT2ZvU3hvMjhyVXM?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+
+---
+
+### [Hypertension : des neurones chargés de la respiration pourraient aussi faire grimper votre pression artérielle - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
+
+2026-10-07 <span class="news-indication-tag">hypertension</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWUN5Mld4cXdjNmFOd2QwVlJ5Z0NKd25oTGFIczBFRlR6Z3Itay1rQmFvM2c1cG5xc0sxWExtdVI3TGQwTEY4MFlzTHJEdENFbU5nTG42TWJoclowNndTRFZLMmZYVXZRMEZPZld4cVRCdU5RQkp4cmM2ZERXNTZxUlI0QXlfeXNMOHJYV3JsdnB3Wm5MTXZma2JhdWxvRXVuQUdnem9FblJOekdYVVhVSV91UkRqakc2Wk5TUDNqN0hSRU9LU1l5MUlNVDhqVVRKTllWaVJUbHZUY010UUgyQmpleGFJS2tpQkdObElGUUd5Q1NDWHVaenh0Ti0?oc=5)
+
+---
+
+### [Avances en biomarcadores y ecografía para tratar la artritis reumatoide - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
+
+2026-10-07 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+
+Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
 
 ---
 
@@ -67,14 +83,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzQ1cl
 2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVJWNXNMaUpRMUMyZld0NFdJbUVxRlEyRC1jY0NCVGlJRHVHb3ZsU3RuYjFHMGJtc3FnTEJFdTc2UVhZZmhKMWtCeXdGaFEzNTJVV3ZweENFZ0NCaDNsNDBkNDVKeFRmcXJ0dlVSNUlRa0o4VVh2RF9PY0JQMklPdWlZeGpCVjNiazZZVGFlTnpZVkdH?oc=5)
-
----
-
-### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
 
 ---
 

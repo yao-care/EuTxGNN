@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,37 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (10)
 
-### [Fears in Devon over bluetongue's effect on livestock fertility](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YNlhzUXBVSFVDS1hLSlh3V25hOEozbUZkX3ZBaXdPZ0NvaEdEV181OG1wSVZhTUxKbGllTVJmUXkyMTBiUnlrUzJVdVdUZTR6cjAxVUN1bzN1RmpZRXc?oc=5)
+### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
 
-2026-10-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YNlhzUXBVSFVDS1hLSlh3V25hOEozbUZkX3ZBaXdPZ0NvaEdEV181OG1wSVZhTUxKbGllTVJmUXkyMTBiUnlrUzJVdVdUZTR6cjAxVUN1bzN1RmpZRXc?oc=5)
+Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
 
 ---
 
-### [What is the XFG Covid variant? Cases on rise as hospitalisations up more than 400% in a month - The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVMxSUQzOWdUMjRvZ25OYkYyYjVkTmtacmhpelp4NW1MU1NxNi1EdG1UbEd6MFp0Z0pPNW1xOUpDVHFOb0d2NWhRNnNtckdSVUQxTEQwTG54QVFqR1JmczRwanNDZDdCMmlzMWtOV1MwMEs0MlY0RVkwZTJXa1hvZmw5UDdibVM4R0FvVHFMMVhwLURuQk9rWW0xQ1d5a3ZlTWt1VjNwU1Z5cXhvMkZGUzlsZEZ3VHZGMVE?oc=5)
+### [What is XFG Covid strain? Symptoms to look out for as UK cases grow - The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxORXVvYWhYQm8tSnY4VUh4OU9DRzR2dGVVM0NNWTl1RVVQNDVtN3FQYXhKSlZzRGxQc0Y4a2JydzNlSHRjOWF5R0h4M2gycm5zN1pWeTlKYUtRQzdhTnJYcXVMVXR4T2NrMmZDLXFSeEIzdnIzVnhIb3QxM0JXLVRGa0xyRGJNUE5zQksxWXdYZk9uaURyYlZ6WU9KbkkwQQ?oc=5)
 
-2026-10-06 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">MS</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVMxSUQzOWdUMjRvZ25OYkYyYjVkTmtacmhpelp4NW1MU1NxNi1EdG1UbEd6MFp0Z0pPNW1xOUpDVHFOb0d2NWhRNnNtckdSVUQxTEQwTG54QVFqR1JmczRwanNDZDdCMmlzMWtOV1MwMEs0MlY0RVkwZTJXa1hvZmw5UDdibVM4R0FvVHFMMVhwLURuQk9rWW0xQ1d5a3ZlTWt1VjNwU1Z5cXhvMkZGUzlsZEZ3VHZGMVE?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMingFBVV95cUxORXVvYWhYQm8tSnY4VUh4OU9DRzR2dGVVM0NNWTl1RVVQNDVtN3FQYXhKSlZzRGxQc0Y4a2JydzNlSHRjOWF5R0h4M2gycm5zN1pWeTlKYUtRQzdhTnJYcXVMVXR4T2NrMmZDLXFSeEIzdnIzVnhIb3QxM0JXLVRGa0xyRGJNUE5zQksxWXdYZk9uaURyYlZ6WU9KbkkwQQ?oc=5)
+
+---
+
+### [I blamed my symptoms on my mouthwash – then I was told it was life or death at 21 - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenNBSWVWV1pIQThLcUxZTGpvUmNWOV9VUjNLU04tc1huVEU4ZmJuQWk2V1RuY3lXd0pnN21VNWRLc1kwUEQ2djJnMXVLeFdNeE5DRnpTWm13cTg3eWZPTjlESjRObWVWbnFzLTRoaEE3bmN6MGdvcGFvbVhVZUM4eVNFQ1FRWjRCSmtN?oc=5)
+
+2026-10-07 <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenNBSWVWV1pIQThLcUxZTGpvUmNWOV9VUjNLU04tc1huVEU4ZmJuQWk2V1RuY3lXd0pnN21VNWRLc1kwUEQ2djJnMXVLeFdNeE5DRnpTWm13cTg3eWZPTjlESjRObWVWbnFzLTRoaEE3bmN6MGdvcGFvbVhVZUM4eVNFQ1FRWjRCSmtN?oc=5)
+
+---
+
+### [Probiotics linked to less fatigue and depression in relapsing-remitting MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
+
+2026-10-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
 
 ---
 
@@ -75,14 +91,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa
 2026-10-06 <span class="news-indication-tag">MS</span>
 
 Source: [lifePR](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNaHl4TngyTHFsekZvT0dhR1lFQzVIV3dGMGpHQVhHY2NIdE1lY2tFRHAzT0tLeFhuZk5LMkUxcV9wUG9aek1yV3hiRlpTNVhodThla0Z4YkZERmlpVVhVdkdtMnhEd21NMms3YUVKTUhWekppSW1MR1FLSjltUS04V2REb0pwY1ZCV0VkNlRuYzdKTjJRbGd2enhzMm5KOFpmWFdEZ0RUeGpyY2RLanNLNEthV3JaQVB2N3dJVEl6WG52bmtuOXFPM2FzcmtJYUpEM2lUTU9FYU91WFQzcEZ0RFhyYjRJZ01waldJSlQ0dTdJemZMT1VrN0xXM2V6aTlFZFRFUU5GY1J0R05tTEtjVWQwaW9VWFFaa1ZBYlJkNjFVSmhUOEgwNWtsekV4d1ZYMXZlbFR5YWtRRi1VczhKSklNYl9nNU4t?oc=5)
-
----
-
-### [Hitze bremst den Appetit, kann aber dennoch Gewichtszunahme fördern](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzRfXzlMVjR1ay01WVVKY1FfQjgydHhvZDFPOUxVRlhjQl9CMk90blpLdlJtNlJFRG1MSGEyc3hWQlIzRTFRN2p2bDJwZzl4M3FXMHNaRk9tazVXenI4VFpzMHVpYzdrbGJwQ0JFWFlLUU5tdjFOdVZTR3E4dmZiN001aWZ3QUJmNFEtWXJWTUJwQVp0ZmJrUjdpc1FISHc5UVhyN3BzazV4UQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">MS</span>
-
-Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzRfXzlMVjR1ay01WVVKY1FfQjgydHhvZDFPOUxVRlhjQl9CMk90blpLdlJtNlJFRG1MSGEyc3hWQlIzRTFRN2p2bDJwZzl4M3FXMHNaRk9tazVXenI4VFpzMHVpYzdrbGJwQ0JFWFlLUU5tdjFOdVZTR3E4dmZiN001aWZ3QUJmNFEtWXJWTUJwQVp0ZmJrUjdpc1FISHc5UVhyN3BzazV4UQ?oc=5)
 
 ---
 
@@ -118,43 +126,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WTWdjRjIzUnRKT
 
 ---
 
-### [Langlebigkeit: Stimme sagt Alterungsprozess vorher - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWJrS3Q5MWVuWE1ubGF6LUxka2NSMjcyUWZhZUVUajY3bGRXaUtJRjEyUXlXN2JpMWhTN0RNM1ZjOW1uQnUxZ0cyWi15eUlaRllNblE1RnlFNlhJMF9kRHY5LXFSN0tKYk9iNkpnN0hrcUJkMmNBVmJQT25fa0lJT3VZZlhHZUItNkE?oc=5)
-
-2026-10-06 <span class="news-indication-tag">MS</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWJrS3Q5MWVuWE1ubGF6LUxka2NSMjcyUWZhZUVUajY3bGRXaUtJRjEyUXlXN2JpMWhTN0RNM1ZjOW1uQnUxZ0cyWi15eUlaRllNblE1RnlFNlhJMF9kRHY5LXFSN0tKYk9iNkpnN0hrcUJkMmNBVmJQT25fa0lJT3VZZlhHZUItNkE?oc=5)
-
----
-
-### [Dorchester mum says cancer diagnosis taught her to 'make life happen' - Dorset Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFRZ2syOWtpSjl0Y0Ftb1BJcWt4bVFaaW9nVFJlbnd6T2l3Vko4d19RYVkyeXVJd1VkcDFmYlBxN0dJcVViNFYzazZlTHN6OGZNM3JtamUxM2xZa0dKNlBCU0hNUUZUT28zeWVkMXlIT1g2OFc2NUstN1J6eF9mWGxQeUxfenhpZ3RZb2R5WDNVMmxjUTk4bWxR?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Dorset Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFRZ2syOWtpSjl0Y0Ftb1BJcWt4bVFaaW9nVFJlbnd6T2l3Vko4d19RYVkyeXVJd1VkcDFmYlBxN0dJcVViNFYzazZlTHN6OGZNM3JtamUxM2xZa0dKNlBCU0hNUUZUT28zeWVkMXlIT1g2OFc2NUstN1J6eF9mWGxQeUxfenhpZ3RZb2R5WDNVMmxjUTk4bWxR?oc=5)
-
----
-
-### [I'm a cancer doctor — these are the 3 symptoms most commonly-overlooked](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkVUSklIbmNrTktzM3NNcmlXZHVzcHVxaXVqTmhIMHFrX3JHZDA4bGh2ZjdIWlBBNm54X2dfdUIwdHg1YVI0cFFJeHVITXZiVmpyX2Fud1cwSHp5dkxSSlBKOHZxdEVIbEpuWncwdFVSV1p3cWVQNmhpRXdReUk5ekZqbkt0ZnN1Tk5xdUJnc0xxcHhkMHV1MDdSb1c3QVpKemthS1BiLU8zWWdKLUHSAbMBQVVfeXFMTmtjMzh2ME1BamQxa214Z2lKajhLdGFSODlmcWlBRVBVc2VLVkJuOFAwemU3aUFtUTJwWnFNUzBaaTJWSGRsT1hDMk1uOGY5ZFltY2ZlczhweG9qZkpJY3p4M2REYTVvLUNsNUY5bnZlcmdvUVdmc2Y5WDA4UnFucEJlaEJ2dHREd1FlZkZXR0dfSHpWbUFEb1A1ZUNQWTg2ZDQyNjA1RWdYWTlmTVNEaGcza1k?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkVUSklIbmNrTktzM3NNcmlXZHVzcHVxaXVqTmhIMHFrX3JHZDA4bGh2ZjdIWlBBNm54X2dfdUIwdHg1YVI0cFFJeHVITXZiVmpyX2Fud1cwSHp5dkxSSlBKOHZxdEVIbEpuWncwdFVSV1p3cWVQNmhpRXdReUk5ekZqbkt0ZnN1Tk5xdUJnc0xxcHhkMHV1MDdSb1c3QVpKemthS1BiLU8zWWdKLUHSAbMBQVVfeXFMTmtjMzh2ME1BamQxa214Z2lKajhLdGFSODlmcWlBRVBVc2VLVkJuOFAwemU3aUFtUTJwWnFNUzBaaTJWSGRsT1hDMk1uOGY5ZFltY2ZlczhweG9qZkpJY3p4M2REYTVvLUNsNUY5bnZlcmdvUVdmc2Y5WDA4UnFucEJlaEJ2dHREd1FlZkZXR0dfSHpWbUFEb1A1ZUNQWTg2ZDQyNjA1RWdYWTlmTVNEaGcza1k?oc=5)
-
----
-
-### [Mum told by doctors her symptoms 'were just hormones' gets devastating diagnosis - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+### [Mum told by doctors her symptoms 'were just hormones' gets devastating diagnosis - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
 
 2026-10-04 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
-
----
-
-### [Experts have found an unexpected side-effect of weight-loss drugs - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGt6blNTZkZjNzVWb2pCYmxpUWJyRnFkTndaVXpZN2hnZkJvbWgya0NvaFdNSnVRZGFVUXkwSEdiak90dFF0X0hiOHFQSXpKUmxrbVJKeFY0MXNQMEZDSUtJb2Z4eW83Zk1DbHNtcDVubllwVWEyaG1BV280R2p6UjBIT2tnU25ReFRqZVN6U2UzVDl5T3lkczBpbmcwNDFPWHFoYzVSX1JvZVY3cmc?oc=5)
-
-2026-10-02 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGt6blNTZkZjNzVWb2pCYmxpUWJyRnFkTndaVXpZN2hnZkJvbWgya0NvaFdNSnVRZGFVUXkwSEdiak90dFF0X0hiOHFQSXpKUmxrbVJKeFY0MXNQMEZDSUtJb2Z4eW83Zk1DbHNtcDVubllwVWEyaG1BV280R2p6UjBIT2tnU25ReFRqZVN6U2UzVDl5T3lkczBpbmcwNDFPWHFoYzVSX1JvZVY3cmc?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
 
 ---
 

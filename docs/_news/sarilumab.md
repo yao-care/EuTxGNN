@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (4)
 
-### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+### [Avances en biomarcadores y ecografía para tratar la artritis reumatoide - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
 
-2026-10-06 <span class="news-indication-tag">asma</span>
+2026-10-07 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
 
 ---
 
@@ -78,35 +78,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV9
 
 ---
 
-### [Malattia di Crohn e colite ulcerosa, allarme del Sant'Andrea: "Casi in aumento del 25% tra i bambini"](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
-
-2026-10-05 <span class="news-indication-tag">malattia di Crohn</span> <span class="news-indication-tag">colite ulcerosa</span>
-
-Source: [RomaToday](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNE9fcEt1b0ZEekgzdWE1YWlhdWVCNlJ1d0RmVmZJZkRub0tqTkFkejJFRlhBNXVrV2JrSGNKVDNHMWdpQVpBTWFuaWVLZEw2c1dicXhDempnNFpIaXNxX0JHZDBzRnBqdU5fVTQzcUFYVy1Wajl5UHFiSTFpd1FYR1lhb2JqcllYNzg0cVAzS2ZXMFNQa3pEbWtROA?oc=5)
-
----
-
 ### [Malattia di Crohn, con nuovo farmaco remissione nel 54% dei casi](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
 
 2026-10-05 <span class="news-indication-tag">malattia di Crohn</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMikwJBVV95cUxNYVdNNVZFZTJwU1NOMHRIbDJZYml4R29YOURSV3FlcVJHR1ViRVhEbVVzejh3WTg4MkZVVXRHTnJKNEN4U2w3ZU1XM2tCLUFWVmFRRFRma1ZmUzBNZmVIWm5xVXlUbXZZOUdxRW84WUloeUFrTzlhXzRoVFZoTmxtUFRkNnpKMnlwcEQ4bTk2MWNXOVJ2STcyUG15V3NnSTU1Yzd1U0M4UlhxejhicWJHZW5qMmVlTGNheWFmQjRMeDFPLU0yeEpPbW1Ga2oxUnE2ZUE4SXBsYW5wcDduWXBpTktCR1FPdm5rMzBsM2t1MEVXV3lnb1FaamhObVkwWnpmVEt3WlBSZXlLNGUyTXFnUENrVQ?oc=5)
-
----
-
-### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
-
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
-
-Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
-
----
-
-### [Lo smartphone a 12 anni aumenta il rischio di disturbi alimentari a 14: lo studio su 9mila ragazzi - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
-
-2026-10-04 <span class="news-indication-tag">asma</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHE5QmxYdVhsQUFxejdJcWs4eDJsbm9SMmJ5NHBEWFdEckJLUjdCbUtlNE9DSG9tZjJwX2ZoczRYY1NEdlJ3bnl4dmFOVzNrclg5Y3pjRHd6V2xJWTV5SElWVmxYYVJsSE5UbnVBZXJZNmJEU2R0em9lbjBwU2EyaVRHSWctZHlYZElFMF9yckJQdjNLMHJQa3czQm5tekxaMWhpM3d3dmVrNWvSAbABQVVfeXFMTTBzcl9razlDd2YyWkVmNmJpOUQ1WW1hRzZ4NWtsQ1drWUJQWjVYMGUwV0hjTGcweGp5OWowQlQ3VFNxdG1GMm9VOGVOVGhYM2lhSGRoeVBiM0pFN2p6cEhrZ3l4ek1qZHlIOG5UbDFlN0YtcFZ2VElKS001ZGV1eVJvQTBDOEFJVWtVSEpoWDlxYVBaNmg0eVU5VzNWZms0OEt5V1EydHRhYTFoM2ZVa1o?oc=5)
 
 ---
 

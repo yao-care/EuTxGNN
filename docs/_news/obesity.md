@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Las variables socioeconómicas deben considerarse en el abordaje de la obesidad - El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
+### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
 
-2026-10-06
+2026-10-07
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
+Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+
+---
+
+### [New global guidelines warn against obesity drugs for children under 10](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
+
+2026-10-07
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
 
 ---
 

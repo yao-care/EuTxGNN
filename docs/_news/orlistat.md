@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (16)
 
-### [Atorvastatin ab 70: STAREE-Studie senkt schwere Herz-Kreislauf-Ereignisse um 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
+### [La OMS advierte contra los tratamientos antiobesidad en menores de 10 años - France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
 
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivgFBVV95cUxQdm1EMzVOdzAzbDdZNGhZMGZnMmNjRGd0VUZVNWJIS3ZPd2dHMUhPZmtDbG50aDM3Mk1ud1F2a0d0Y0Izd09XQkg5aFZXRW9XODlQbGJRbVd3dHBRU0x3QmVYVUpNRUpHeFJhMjJJVzlTWklBZno3RW9IWjFqbVZrVXFxTFlrVExKLVQyT0drQkhmLUZQU2FjTUJxRUFuYmdZOTk1eUZuYXFqX1d1VkVVUlVfbHhrdG5aRXJNeTdn?oc=5)
+Source: [France 24](https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWp6VHVPcmx3Q0ZxQXNoR1IzMHNNSHNuWXA5Z1lfNUxMbzg0ZDNnUjV5bFFmdHlpSFZBemx2czNnVElOUEVaMmFPWkhTdUdfbUVpcEhsdXNqWWVTZTdlQ2JDZlFmU3VkTTlvU3AtdHZLSXNGT2dyOE9RTDRtcUdFbXN5eFp3TG1ZWF9rZE1PV3ROTi1BRmdCUjFxTWR2LVZvRGFyeTlnQTE3UGZZX25WS1RFRUtVdFhJYzBiR1BXMU9ydmtxeE5UYlNOSFY?oc=5)
+
+---
+
+### [Una tecnología de grafeno ofrece información en tiempo real sobre la vulnerabilidad neuronal tras un ictus - Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+
+2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb3IwZ3BiWVNmejVIcFBxdXhGUzNfMHRhamxfd0xZR2RCSjUzV2lzWFVrUnloTHZfMnJ5N0RoalJQTDUwRGQ4VmxPelhvU2RDSXViWlkwdXBGTGJOX3JoUXN5TjZ4QWxaZEYwMzhDcnZmbDNiMndJS3RQOHJ5d0dZeDBfemJMQjJlX3JVaXF5dzRhYXNNbklPaHFXTGtTYWZXdjZJMkk1UEhobXFPZFBkQ295UzFvQ2xMMndNcHRCWGJkRjlRN0dFT21za1d5d0Z3dDVVcTJzTDNLZWEwQm14RTFXbw?oc=5)
+
+---
+
+### [New global guidelines warn against obesity drugs for children under 10](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
+
+2026-10-07 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT1lGVGw2bEdlcGFtR1hBbTJIVWlXdWlGMVRQUlNpVVNINWxlT2x4TVYtejlobmRHRk1Db2hPTGotcnMxTGRKQUdBVkNTZ2NQcVpmTXc?oc=5)
+
+---
+
+### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
 
 ---
 
@@ -70,27 +94,11 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95
 
 ---
 
-### [Las variables socioeconómicas deben considerarse en el abordaje de la obesidad - El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
-
-2026-10-06 <span class="news-indication-tag">obesidad</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3AzLVVVUEFvb0dtLUpUTHp1S3BiT2Nhd3VRSExaYm1zd1IzMThtdWpRWWlvb1ZNZ3pJb3MtZjh2MlF3UzNBV1J2cFBIZE5LYU94Q19kZmk3UzBibktSelVDZ0hEM2tfNzRuNjgtM2t4OW93aXJIdmhyaElIZjFHeXZn?oc=5)
-
----
-
 ### [Major update for anyone taking Atorvastatin after huge trial - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
 
 2026-10-06 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
-
----
-
-### [Das „gesunde“ Süßungsmittel, das Ihr Herzinfarkt-Risiko um 57 Prozent erhöhen könnte - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDR5QzZxQkt5ZE1oVE5sdnFITGN2QmhfWHFIMU9LdzY5VlVmeUoyeFl2cnBpbDFKa1BGRE9kZGM4Qmk1MW1HZzlEX3FWTE0wRkZMWkFvRDhXanJsc1lIb0lXNkMzckJnX0Q1WERabWNnN1hiS3hSbGNqNjhEbExSV0hLbzl5d01WdDdBWE1sbVJKQ3hIUmxha3UtaWE2eVhOX0NTM2hsZzFSMkhpUGl5RmZEQQ?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "maladie d'Alzheimer (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about maladie d'Alzheimer (alzheimer disease). 1 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# maladie d'Alzheimer (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about maladie d'Alzheimer (alzheimer disease)?">
-<strong>maladie d'Alzheimer (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “maladie d'Alzheimer” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -46,11 +46,11 @@ This page brings together the latest health news about “maladie d'Alzheimer”
 
 ## Related News (1)
 
-### [VÉRIF' - Est-il vrai que 45% des cas d'Alzheimer pourraient être évités avec de la prévention ? - TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
+### [Our boy's EYEBROWS were sign of dementia - new drug offers hope but isn't on NHS - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
 
-2026-10-05
+2026-10-07
 
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmJzYWFPRTFCdkViekpZSUNEakFmLUxsd2MwRzdPR19DZ1JONDlTT09GOVlwWU93T0QwS1RiUGJMWU4xQmNuc3lvRHVsVXVuNnpma284dVNwZzRtMUZkTzBSeWNVNFdnRnoweUFHWFhJNmhyVFpXVnlCWU56eVYxRlVPcUtHYlZBQW12UHE4NzVyNzFKOWt1OFA5alN1UHc3MHR2ODQ0ODVSbDhCUzhEWTk3UkY3UG1qYVhXSlI2SkNuZXZqLWliTjlMZw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3Y4dnUzb3BEbWY3REZMU1AzV1FFcC1qaW9YVjhyWHJ6TmZ5b0JFaVFyZ0VEemZJN3FTbGo0NXVpN1BjR2QxWEZEaTlrbm1aTm9jMnpreEhJY2ZhRUkxeDVUQUpNUHdzMFJaN09yN283VzI5QWpKVEVTRHdIblR5YjNXTzNQMFBKbElvSms5UHU3UQ?oc=5)
 
 ---
 

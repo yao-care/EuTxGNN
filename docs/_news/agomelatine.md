@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Probiotics linked to less fatigue and depression in relapsing-remitting MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
+
+2026-10-06 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR29tN1Z2a2xlMlNoX0VOM1pHMUowZHV2bDdMVG10Wl8wbGJnSl8zMmZFdHFnQWhCNzNpXzJHYm82VDkxNlZfM3NSX3ZRVjFiY0FMdUl2MTVxaW5GUFVJUVZzM2FaYWtTY2UyeGl0aFptbVJuVzlaU18tbTNpQ2M3Sl9UV0ZQbDNHMW1PWXBvR043QlhOTnNsY3k2SXJKMkh3ZEJTU01MNDFVaHFWNFVGbmVZa2JZSUYtdzdoWjhjNW9saURo?oc=5)
+
+---
+
+### [Più sport da bambini meno depressione da grandi: lo studio arriva dall'Australia](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUhaMnpxa3dvdDIzWDZCdFR0Y2NaMW1ybDdIdjNlVUEySEgxa0NSaHFoZUdqeXEzdEU3Snk2R3k3Y1REbzRKdDBQSmZTV2tKMU9PbkVpTzRmTXp1bW40S2NpcmZ5M0FPT0c2TkczZXVNem0zYUU4eG5ZRy11Wm42eFVhdHpNLTg3NEZ3bFN0blZQalNWOXo4TUFwbmlqQ0dweGtWZGZoVDR3cVg4c1dmcDJR0gFoQVVfeXFMT0pvbmU3QlZ6YzYzalVRUEVleTVoUnlZMkRzUU9KM2VQdlAyNFFYU3kxX09OOGp2dEk2YXNrMGFEWElSd0l6LWJldzlpLU9zbEc2R2Z6cTdlV05oZFFOa2xXcEpPRjlHMjg?oc=5)
+
+2026-10-06 <span class="news-indication-tag">depression</span>
+
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUhaMnpxa3dvdDIzWDZCdFR0Y2NaMW1ybDdIdjNlVUEySEgxa0NSaHFoZUdqeXEzdEU3Snk2R3k3Y1REbzRKdDBQSmZTV2tKMU9PbkVpTzRmTXp1bW40S2NpcmZ5M0FPT0c2TkczZXVNem0zYUU4eG5ZRy11Wm42eFVhdHpNLTg3NEZ3bFN0blZQalNWOXo4TUFwbmlqQ0dweGtWZGZoVDR3cVg4c1dmcDJR0gFoQVVfeXFMT0pvbmU3QlZ6YzYzalVRUEVleTVoUnlZMkRzUU9KM2VQdlAyNFFYU3kxX09OOGp2dEk2YXNrMGFEWElSd0l6LWJldzlpLU9zbEc2R2Z6cTdlV05oZFFOa2xXcEpPRjlHMjg?oc=5)
+
+---
 
 
 <div class="disclaimer">

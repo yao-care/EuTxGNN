@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [La artritis reumatoide afecta a más de 400.000 personas en España - Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
+### [Avances en biomarcadores y ecografía para tratar la artritis reumatoide - 65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
 
-2026-10-05 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">AF</span>
 
-Source: [Diario de Sevilla](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWJ4aHduWUg0LXNFVVA5NGk2dHhWMkp1Z2xpeHJob2pTQ1QyVnl4WDlmQ1NHempKMklzeU4wOXMyaTNMb3J1YzhLT2h2LVpZR1g2Mk16YVRSd1dzdWE0SWJremdBN0thSzNDTXM3aWFaS0VqN2xYNXN5WDhHSWJ5Uk5VNHNMRzdvczNfTXhnbGhDeGd5VHRZYnAyNk44d1JaU2fSAacBQVVfeXFMUF9QVEs3RVZBclhyOE5YRjhfUjZMZERYQlNHb0R6U1ByLTVHRGlpdUQzWkMyQnhQYXFaTUVCMVg3MDFxUUx5bFFrWEpoN0FLRVVNYUJGUVp4SFoxRkYydDJuOXpvekVGRW0ya19wYmZRVGtDdXV1OEdXWENKb3Q3MnVXX0FFU2hRbGhRT2IwRnFjQWZZUnhBeVh2SDByUnlpMHltbjRqV00?oc=5)
-
----
-
-### [New ibuprofen and paracetamol warning for anyone taking flu jab - The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXc5WXNfUllJX29HUUVpNHdCdUs1ek9WeFJLdjhJRWZMSUwzYzdUWGRFYUxxZlpLSG1maGpwUHduUXZyemdYN1JfNWx1QktwMVpkNHZsdFVWQkxRZ3JoODh6dS0wMThOd1VKSC16VTZJTkk4eXhNRnJVWnh1d2FqNmMyRmJFQk5CMzljV00zUdIBlAFBVV95cUxOcmRSSHBBUnJ1MnlfTDlTeldjY19FU2dsY3lHOWctYWhGUlNVVHQxQ2h4aHlzcU1lRENvc1BwTEwyUzNvU09sdHhPM2tNc241THFBSlo2M0tzTGNJZFJNNkk4cV9mUVpLdEs0R19IenVrUGRjUW9wZU1zdWFJRkdRSjhqUlZ6US1VOXA2MC0xa2VfRy1X?oc=5)
-
-2026-09-30 <span class="news-drug-tag">Ibuprofen</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXc5WXNfUllJX29HUUVpNHdCdUs1ek9WeFJLdjhJRWZMSUwzYzdUWGRFYUxxZlpLSG1maGpwUHduUXZyemdYN1JfNWx1QktwMVpkNHZsdFVWQkxRZ3JoODh6dS0wMThOd1VKSC16VTZJTkk4eXhNRnJVWnh1d2FqNmMyRmJFQk5CMzljV00zUdIBlAFBVV95cUxOcmRSSHBBUnJ1MnlfTDlTeldjY19FU2dsY3lHOWctYWhGUlNVVHQxQ2h4aHlzcU1lRENvc1BwTEwyUzNvU09sdHhPM2tNc241THFBSlo2M0tzTGNJZFJNNkk4cV9mUVpLdEs0R19IenVrUGRjUW9wZU1zdWFJRkdRSjhqUlZ6US1VOXA2MC0xa2VfRy1X?oc=5)
+Source: [65 y más](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmdUeVdlaENPTlBaVnNrcU5rTkx5Z3J4N3FzZjZGbkxWNFZGa2lvWWhlMGkzejlmWU5mRE04eFNLc0JHcW5mblhwZXNPYnNqTF9rLVZZQ1JscXNja2ZiOE5aY2hHekg5R2Q0S05xeW9QcDhsVGVLNFhYcW5hQ25aWnJHU2o3aGc2ZVkxOXFFR0pseXItc3pqbWI3TTFSdF9xX2hIdDdBUmQ?oc=5)
 
 ---
 
