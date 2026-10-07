@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="What news is there about Somapacitan?">
-<strong>Somapacitan</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Somapacitan</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
@@ -67,6 +67,14 @@ Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNe
 2026-10-06 <span class="news-indication-tag">diabète</span>
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
+
+---
+
+### [Große Studie zu Ursachen von Typ-1-Diabetes zeigt: Bei Risikokindern fällt die Darmflora schon Jahre vorher auf - smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
 
 ---
 

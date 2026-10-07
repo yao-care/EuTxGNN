@@ -80,6 +80,14 @@ Source: [lifePR](https://news.google.com/rss/articles/CBMiyAJBVV95cUxNaHl4TngyTH
 
 ---
 
+### [Hitze bremst den Appetit, kann aber dennoch Gewichtszunahme fördern](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzRfXzlMVjR1ay01WVVKY1FfQjgydHhvZDFPOUxVRlhjQl9CMk90blpLdlJtNlJFRG1MSGEyc3hWQlIzRTFRN2p2bDJwZzl4M3FXMHNaRk9tazVXenI4VFpzMHVpYzdrbGJwQ0JFWFlLUU5tdjFOdVZTR3E4dmZiN001aWZ3QUJmNFEtWXJWTUJwQVp0ZmJrUjdpc1FISHc5UVhyN3BzazV4UQ?oc=5)
+
+2026-10-06
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzRfXzlMVjR1ay01WVVKY1FfQjgydHhvZDFPOUxVRlhjQl9CMk90blpLdlJtNlJFRG1MSGEyc3hWQlIzRTFRN2p2bDJwZzl4M3FXMHNaRk9tazVXenI4VFpzMHVpYzdrbGJwQ0JFWFlLUU5tdjFOdVZTR3E4dmZiN001aWZ3QUJmNFEtWXJWTUJwQVp0ZmJrUjdpc1FISHc5UVhyN3BzazV4UQ?oc=5)
+
+---
+
 ### [From green snot to a morning sore throat - cold symptoms reveal how long you'll be sick… & 4 signs you should get help - The Sun](https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZmQ4RkRVV05fa3Q1UFlkYXBuaWZDZ3B0YWRzZElWbXhoTFNQUkJza3N0TzJlWVNHbFM3eTlQaTV1Rjk2RENUUUVsM3l3bzhpS2dOV2RDY0o2eDdkVmF6eGN5WURVTTczSkV3R0Z5Q2dMUERU?oc=5)
 
 2026-10-06
@@ -125,14 +133,6 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMiigFBV
 2026-10-06
 
 Source: [Dorset Echo](https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFRZ2syOWtpSjl0Y0Ftb1BJcWt4bVFaaW9nVFJlbnd6T2l3Vko4d19RYVkyeXVJd1VkcDFmYlBxN0dJcVViNFYzazZlTHN6OGZNM3JtamUxM2xZa0dKNlBCU0hNUUZUT28zeWVkMXlIT1g2OFc2NUstN1J6eF9mWGxQeUxfenhpZ3RZb2R5WDNVMmxjUTk4bWxR?oc=5)
-
----
-
-### [Jeder achte Krebsfall beginnt mit einer Infektion – diese Erreger erhöhen das Risiko](https://news.google.com/rss/articles/CBMidEFVX3lxTE5aSUdwdE85OTZqaWVjRHRIVFI3Q2t0b0ZYeERVcHpaN0JtcjlqUG5JRk1OMWZGcG83YTRvS0lOQ0x0MDBoYWRQTG93d1pWcXFNSGp1NnhlZUVkVEtNWkpsM0ZMVzRNbXgtbk5CdHFWM1ZLWW0t?oc=5)
-
-2026-10-05
-
-Source: [FITBOOK](https://news.google.com/rss/articles/CBMidEFVX3lxTE5aSUdwdE85OTZqaWVjRHRIVFI3Q2t0b0ZYeERVcHpaN0JtcjlqUG5JRk1OMWZGcG83YTRvS0lOQ0x0MDBoYWRQTG93d1pWcXFNSGp1NnhlZUVkVEtNWkpsM0ZMVzRNbXgtbk5CdHFWM1ZLWW0t?oc=5)
 
 ---
 

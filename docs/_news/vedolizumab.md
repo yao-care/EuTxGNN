@@ -62,6 +62,14 @@ Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV
 
 ---
 
+### [Große Studie zu Ursachen von Typ-1-Diabetes zeigt: Bei Risikokindern fällt die Darmflora schon Jahre vorher auf - smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span>
+
+Source: [smart up news](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc1JoM2NWZWV0UXNWOEVLWGRhSXFvNFZPdVR6T0w3bTR6WHM4aF9mQnE2Sm9wMDZWcGppZkhPS1dVclloVzdWcElZUUZSVnEzbVM3Q29XY3dBX2Nhd0FaSWFGTU02Vjl6N1plX2Nzb1ZHRlFIZjNLQWhMTXlWLVRWcEpyZnZrVWtLcGx2WTFTSzZLMHRGT3VwenJpTkxDaVp0ZndmdV85RzJmMnJPRlpOVFVFd19YNXVNNVlYSHhTWXNhd2FzcUVsUWFXTlQyX0U5dExXanNNTjJWZlIyUWt1dkZR?oc=5)
+
+---
+
 ### [AID-Systeme auch bei Typ-2-Diabetes einsetzen – ist das sinnvoll? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV95cUxOODJTMFJTSF9VeURxNEtRZ3NyQVdlb2lZYzJ1VGtzcTJUU2FscDRYOXRjdlV5QnVfMmtpalFVQ1JtMGhDdnRhd25veTNXanNDNkMwRzVlc0VWd0tVSGZJVW5oMkNfX3BYdGpwYWUwdWhmajBDb3F0STlZUlI3bWoyS1JhcUo3N0QzWlNybDdzWnJ4SGlkd0tsMkp5V3ljWDV2Q0laWERR?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabetes</span>
@@ -91,14 +99,6 @@ Source: [FITBOOK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmtOSVF5S
 2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
----
-
-### [Chronisch-entzündliche Darmerkrankungen: Früh und gezielt mit Vedolizumab zur effektiven Krankheitskontrolle](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJsZW5GWjVZMDgzRTJNY0hXME9aMmlKNjh5ZnJBUGFwUmVqQ1lrdUNXLVRadmlTTVR4MEw0dFFEMnBuQ0NtWE5zMFRrNXVoeDBPZkRBQTJ5S0tHRkI1cFhac2hhVGxtclo3NE5EUlhBNU5DcjZGcEJiX0ZkRnNIV21LYXpsa2k3dDdSUzhsNDJwbGo4eWFxYTNXMm5PQnVZQm9IaU1n?oc=5)
-
-2026-09-30 <span class="news-drug-tag">Vedolizumab</span>
-
-Source: [Journalmed.de](https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEJsZW5GWjVZMDgzRTJNY0hXME9aMmlKNjh5ZnJBUGFwUmVqQ1lrdUNXLVRadmlTTVR4MEw0dFFEMnBuQ0NtWE5zMFRrNXVoeDBPZkRBQTJ5S0tHRkI1cFhac2hhVGxtclo3NE5EUlhBNU5DcjZGcEJiX0ZkRnNIV21LYXpsa2k3dDdSUzhsNDJwbGo4eWFxYTNXMm5PQnVZQm9IaU1n?oc=5)
 
 ---
 
