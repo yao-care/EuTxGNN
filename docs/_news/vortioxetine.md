@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,23 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Vitamine D : le poisson le plus riche dépasse les besoins quotidiens en un seul repas - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">dépression</span>
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
+
+---
+
+### [UCSF: Hochverarbeitete Lebensmittel senken MADRS-Werte bei Depressionen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
+
+2026-10-04 <span class="news-indication-tag">depression</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
+
+---
 
 
 <div class="disclaimer">

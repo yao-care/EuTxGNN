@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Schlaganfall: Immer mehr junge Menschen betroffen – Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
+
+2026-10-08 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
+
+---
 
 
 <div class="disclaimer">

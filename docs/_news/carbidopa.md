@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,39 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (4)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Experts uncover link between ADHD and memory problems in later life - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkdQWFdvdks3WWtIeHFZcDdmQlROcC10TWFjeVZOa19uYktLWGxYb1dBRUxZcXFHVHVXXzUtSmxiZ054RHpZZlhlSGt3ZzZHZENWckFJZ0FYRG9xY3hIczM0ZjUxaFJCa01MSTZ5SmozNFRMTEM3d0RZd3pNUkEyVi1hbjZmMWItZExjNlRGYUFpVV82eDdaT2ZsejVlWnc?oc=5)
+
+2026-10-07 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkdQWFdvdks3WWtIeHFZcDdmQlROcC10TWFjeVZOa19uYktLWGxYb1dBRUxZcXFHVHVXXzUtSmxiZ054RHpZZlhlSGt3ZzZHZENWckFJZ0FYRG9xY3hIczM0ZjUxaFJCa01MSTZ5SmozNFRMTEM3d0RZd3pNUkEyVi1hbjZmMWItZExjNlRGYUFpVV82eDdaT2ZsejVlWnc?oc=5)
+
+---
+
+### [Exercise Tied to Long-Term Cognitive and Motor Benefits in Parkinson's](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
+
+---
+
+### [Major Parkinson’s breakthrough as new pill offers hope of treating symptoms and has fewer side-effects - The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+
+2026-10-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+
+---
+
+### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
+
+2026-10-03 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
+
+---
 
 
 <div class="disclaimer">
