@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Nouveaux médicaments anti-obésité : en un an, 515 effets indésirables graves dont 13 décès pour 840 000 personnes traitées - Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
 
@@ -107,14 +107,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZ
 2026-10-01 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
 
 ---
 

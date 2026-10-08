@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="What news is there about Degarelix?">
-<strong>Degarelix</strong> currently has <strong>27 news articles</strong>, with 20 predicted indications.
+<strong>Degarelix</strong> currently has <strong>29 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Degarelix with the latest he
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (27)
+## Related News (29)
+
+### [Viren: Grippezeit beginnt: So ist die Lage in Hessen - DIE ZEIT](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVFrOWVVaDhxY2w1WjZyaDV1andkNUtzWjBJam5IWlRYZzFFSlVremRsZXg1WjNRRFpMdTZtTjZLVTloRHJUaTBKYVpsdlpVRXVEUmNRRUQxTGpIOWdVNm1JNlVmVk13ZnZOSUFNaUZBaGJwdkdoU0trVUV1WHBObkhCOGxTWFE?oc=5)
+
+2026-10-08 <span class="news-indication-tag">AF</span>
+
+Source: [DIE ZEIT](https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVFrOWVVaDhxY2w1WjZyaDV1andkNUtzWjBJam5IWlRYZzFFSlVremRsZXg1WjNRRFpMdTZtTjZLVTloRHJUaTBKYVpsdlpVRXVEUmNRRUQxTGpIOWdVNm1JNlVmVk13ZnZOSUFNaUZBaGJwdkdoU0trVUV1WHBObkhCOGxTWFE?oc=5)
+
+---
+
+### [El avance contra las secuelas del ictus: una tecnología de grafeno permite analizar la vulnerabilidad neuronal en tiempo real - El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPMFdLdHVEcG1VM21ZUXptMjZhRVNFS0s3X09iMWwzdG1jeTVMZTZoOGNpTWdCMThkZ2pqVGp3bEkwMERjX2EtWG5BdEd6NHpQUWRlcHRDWWxrcThjNk1BdE1wcnExVkp4NXRCWjNoX24ydE14d2FuOXdyYlNJbHFZUDY2OVlIcTdUSEJIS1hQUzRvSlZ2OWdfYjRUNHRjYTlaZl9sQXNUOE5GaTA4ekxTcmNzWV9zemJrVkJnYkpfYUJnRWlFOXYyMDd2OG1yODcyWHY4U3drZll3Xy1Mc205VlVFX2xWT0ZmTWsxN2NsTF9SM1NkejgzZVB3RWJqMzhzeFNQbnJjd3N2ZHVkNXFfQjFNNXpCTDJrWnc4UW9sckY5cTFKemJGWHFiYTFNTjZWZVlTSWhGQTZwUdIBpAJBVV95cUxNWVo1ckl2SjRDOThkTVdtZDFScWM2MmZndTJHSFFKZzB6Snl0clFObVdxaWdLNmJYWUhBQXpUemRGUUlrNW9LcFplT0JnSFFVWkF2RUdWNHoyb196eU1XSkotcFJsT1N4a0xVZnBfQXRnQktMc050U2NMbDBfRXBqSDV3RUZFNVRIdHNWQURTX0Q2LXVUd2dxOEhfM01VOTdrU091RDRQYm5DTC1oZmhKUlI4NmVhQ3pnTGJHemlXS0RPMV82UXNTOHUwdXhyR0o1dTNUNWJzcjF1aVNmcTR3Ri1EcVhuNFZObnBmbHdrbGR4R2pmSy1zMnhsc0UzMWRfQUdVZHJNaWN4anMxSy05SzdTVVFsbXUzTURYbjh0c0UyaTE2?oc=5)
+
+2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPMFdLdHVEcG1VM21ZUXptMjZhRVNFS0s3X09iMWwzdG1jeTVMZTZoOGNpTWdCMThkZ2pqVGp3bEkwMERjX2EtWG5BdEd6NHpQUWRlcHRDWWxrcThjNk1BdE1wcnExVkp4NXRCWjNoX24ydE14d2FuOXdyYlNJbHFZUDY2OVlIcTdUSEJIS1hQUzRvSlZ2OWdfYjRUNHRjYTlaZl9sQXNUOE5GaTA4ekxTcmNzWV9zemJrVkJnYkpfYUJnRWlFOXYyMDd2OG1yODcyWHY4U3drZll3Xy1Mc205VlVFX2xWT0ZmTWsxN2NsTF9SM1NkejgzZVB3RWJqMzhzeFNQbnJjd3N2ZHVkNXFfQjFNNXpCTDJrWnc4UW9sckY5cTFKemJGWHFiYTFNTjZWZVlTSWhGQTZwUdIBpAJBVV95cUxNWVo1ckl2SjRDOThkTVdtZDFScWM2MmZndTJHSFFKZzB6Snl0clFObVdxaWdLNmJYWUhBQXpUemRGUUlrNW9LcFplT0JnSFFVWkF2RUdWNHoyb196eU1XSkotcFJsT1N4a0xVZnBfQXRnQktMc050U2NMbDBfRXBqSDV3RUZFNVRIdHNWQURTX0Q2LXVUd2dxOEhfM01VOTdrU091RDRQYm5DTC1oZmhKUlI4NmVhQ3pnTGJHemlXS0RPMV82UXNTOHUwdXhyR0o1dTNUNWJzcjF1aVNmcTR3Ri1EcVhuNFZObnBmbHdrbGR4R2pmSy1zMnhsc0UzMWRfQUdVZHJNaWN4anMxSy05SzdTVVFsbXUzTURYbjh0c0UyaTE2?oc=5)
+
+---
 
 ### [Ail et miel fermentés pour booster son immunité : pourquoi cette astuce virale vous expose à une maladie mortelle](https://news.google.com/rss/articles/CBMiqgJBVV95cUxOLTRLaDBPUm5odUR5LWhnWldfQldvTEFKQWNDZjNmQXdQTmh3ekE1a0g0S3d3amNDbWQ0Y2dLUVVsQVNlRzJ1MUI5SWhEb3M4bWloYjdveXNqVkIzemJiNXMzWGxmU0ZCd2FwRzhLVUd2aGRDZTNmMlZHTkZfbW1YUDJVVVl4OVJBbVpSWXNodkRKeTkybUVtOVFMX2lzU1JMbnhObWNEQzliQnZ1aXE0anFScHhZMWRQdm5oenZXazI2bW40V3NlVmlWenVrbzVRUVhQNUcyMWRJRmlMdlQ0WGZ0MjU4QkYxWlhLenFIbDlkbFFQbmhWeDFQM2wyaEc2bkZkbHRWY3NTRkZuZFk2WWZzRnhvNG4zNDhlSE9SYm5lUGV4MThfd0RR?oc=5)
 
@@ -94,14 +110,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWFxTGs5S
 
 ---
 
-### [Un sensor de grafeno permite detectar más daños cerebrales en tiempo real tras sufrir un ictus](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
-
-2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-Source: [Servimedia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
-
----
-
 ### [Casi di salmonella, stop ai pomodori crudi nelle mense foggiane: la disposizione dell'Asl](https://news.google.com/rss/articles/CBMihgFBVV95cUxNUktZUTgxcjRSUGphUS1QbzRsVkdOazJRLWFEcUJoX3FPenhKeXVpLVYwUUwtbzVKS2h1ZmwxT0pnNGtYd0t6RC1laF9BY25CQmE5SldSbVpTWjBfVVA0V1IwR1RuQ3NyYlJkNFprdjhtdElpVGpJM1EwT1BpLU1YWTFMVTFQQQ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">AF</span>
@@ -118,11 +126,19 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXN
 
 ---
 
-### [Herz: Der überraschende Zusammenhang zwischen Testosteronwerten und Vorhofflimmern](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOGdDaWNiX0xTVnVOYXJhbTNwLUhhZjVlZ1I4cVJxT0dWd3hUdG5YeERiUS1MYTdtS2ZqTVBzc3prYkFzTWZfYVBkRi1MRW0ydzJjRm0yZ0hFSlJib0ZRNnMzQWg3cjQ1Tm1oaWRFOERXNE9DV2NWTWRxZ1I4M0MyVXJaTFpyVTZ3UjZMUkNtaEFwQlpPc1lBMTNIcHpXVEk4cEhmcE9FNTdWUFQ4d0dxWjVDQ3pkQWEtYmJQcnpNVXI0NkROVXBYcXE5M01uV3dIRWpwUmk2WVM2Z24tZ3VCbDZLUXM5UGs?oc=5)
+### [Zu wenig oder zu viel Testosteron – beides könnte Vorhofflimmern begünstigen - smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1MyeFp6N2NUZUk3a29ha1lvWjZ4MmVBaGJ1by14MUxJRzhKbUNCTDVobHZCWS1fTW5EUlphVldtSnQxX1pvNzV6dm1FbF9QTG9uajVtUWJXWnV3em5mZ2lTc1BKekthblhiZFlYLTVLR3l6T3hHVllyNEh4cHNZcG5aNFVUQW9TeWpBRTJLWTV1d0ZTS0RsSFJPSktDUGxWTWpWVXh1TlVTbWZBMlk2WlZn?oc=5)
 
 2026-10-07 <span class="news-indication-tag">Vorhofflimmern</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOGdDaWNiX0xTVnVOYXJhbTNwLUhhZjVlZ1I4cVJxT0dWd3hUdG5YeERiUS1MYTdtS2ZqTVBzc3prYkFzTWZfYVBkRi1MRW0ydzJjRm0yZ0hFSlJib0ZRNnMzQWg3cjQ1Tm1oaWRFOERXNE9DV2NWTWRxZ1I4M0MyVXJaTFpyVTZ3UjZMUkNtaEFwQlpPc1lBMTNIcHpXVEk4cEhmcE9FNTdWUFQ4d0dxWjVDQ3pkQWEtYmJQcnpNVXI0NkROVXBYcXE5M01uV3dIRWpwUmk2WVM2Z24tZ3VCbDZLUXM5UGs?oc=5)
+Source: [smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxQY1MyeFp6N2NUZUk3a29ha1lvWjZ4MmVBaGJ1by14MUxJRzhKbUNCTDVobHZCWS1fTW5EUlphVldtSnQxX1pvNzV6dm1FbF9QTG9uajVtUWJXWnV3em5mZ2lTc1BKekthblhiZFlYLTVLR3l6T3hHVllyNEh4cHNZcG5aNFVUQW9TeWpBRTJLWTV1d0ZTS0RsSFJPSktDUGxWTWpWVXh1TlVTbWZBMlk2WlZn?oc=5)
+
+---
+
+### [Santé. Boire régulièrement du café augmente-t-il l'espérance de vie ? Ce qu'en dit la science - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXVWUk9TYXVVNnR4QW52eTg3TVhpWDlUUGVqa1lKdDJzU3dfVFh5QjEyaUlaSXlQanppRXVZQXVkMnN3V3NfNktocURoUzF3ZjV1TTJ2T1lZamVkcUtCSndfRFdSMV9uY19makhxQks1OWhESXhqZjNPU3EwMkloVXJIRjRtemF2cjJyTm92cDdleU5pTXBfT3hrMnktSFpzOVNDQUdmMHhaZkFnMHRlcXM5ZmhOZVk1b0ZlRzVjZVhDV2NsSk4zaGZybFNSTGFF?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXVWUk9TYXVVNnR4QW52eTg3TVhpWDlUUGVqa1lKdDJzU3dfVFh5QjEyaUlaSXlQanppRXVZQXVkMnN3V3NfNktocURoUzF3ZjV1TTJ2T1lZamVkcUtCSndfRFdSMV9uY19makhxQks1OWhESXhqZjNPU3EwMkloVXJIRjRtemF2cjJyTm92cDdleU5pTXBfT3hrMnktSFpzOVNDQUdmMHhaZkFnMHRlcXM5ZmhOZVk1b0ZlRzVjZVhDV2NsSk4zaGZybFNSTGFF?oc=5)
 
 ---
 
@@ -158,6 +174,14 @@ Source: [Teesside Live](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWM
 
 ---
 
+### [Bildqualität in der Superauflösungsmikroskopie erhöht - Analytik NEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pc0xhQl9qVzE5dGR1MC1PMkNWNGwzMXl6ZVA2bkVHSjFKRFhWMTFIbnNaQ1ZoRE5LdkNGUFdxZGpQZ1g4ZktoOW9lNS15S3QxOFB4Uw?oc=5)
+
+2026-10-06 <span class="news-indication-tag">AF</span>
+
+Source: [Analytik NEWS](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pc0xhQl9qVzE5dGR1MC1PMkNWNGwzMXl6ZVA2bkVHSjFKRFhWMTFIbnNaQ1ZoRE5LdkNGUFdxZGpQZ1g4ZktoOW9lNS15S3QxOFB4Uw?oc=5)
+
+---
+
 ### [La campaña de vacunación contra la gripe llega este mismo jueves a los trabadores y usuarios de la Residencia Municipal “San Iñigo” de Calatayud - dukvi tv](https://news.google.com/rss/articles/CBMigAJBVV95cUxPT0dEbW9TdE9nUkRpY2Y5aDkyWFFwYXRZNklDLUh5TTFUR0RBalBNRTd4ZXcxVGU0dy04TEdlX1hJVGZBMnRUTWp3RmFLdVNMMDk1Z2tpRFoxemstSVFrUng1bTZhektHclZBbVFRblRPTjJuUHhPeElGdlBSa2F2UUtkc3pUZ09rbzVZZ0I5LTZ6LWFabzlqZUhqOVlDRjgwM3dGWnhsdEI1QVFJZU9FOVA3blU2R0JVMXpidWNMWHFuLW85WXdXTWJFVXhCRDU5QXVNa0xfT3lwUGxhS1ZTSkUyWHRGUlVEMm50MkUzY1F3VmZ3N3hEck5MbVhTV2t6?oc=5)
 
 2026-10-06 <span class="news-indication-tag">AF</span>
@@ -174,14 +198,6 @@ Source: [The Irish News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxObH
 
 ---
 
-### [Woman's shock discovery after falling down the stairs ten times - The Argus](https://news.google.com/rss/articles/CBMimAFBVV95cUxQblpQUE8yOEFJc2xVcUphLWlDQmUtVFpWMHJlVk5JSWQ2MHpJSE13eGNEaTZ4b1pDVkVZbjg0MnpXUS1NWjdwV0V5eGpxQkRyX1hPTEtLTWdzMzV6Vl9iUEJrOEtqUy1hOGJRMzZzV292NUVCVkppNVZrY014dGNnYXdDU3pucHVUSTh0SEE0TEdMSG1BdU1Udg?oc=5)
-
-2026-10-06 <span class="news-indication-tag">AF</span>
-
-Source: [The Argus](https://news.google.com/rss/articles/CBMimAFBVV95cUxQblpQUE8yOEFJc2xVcUphLWlDQmUtVFpWMHJlVk5JSWQ2MHpJSE13eGNEaTZ4b1pDVkVZbjg0MnpXUS1NWjdwV0V5eGpxQkRyX1hPTEtLTWdzMzV6Vl9iUEJrOEtqUy1hOGJRMzZzV292NUVCVkppNVZrY014dGNnYXdDU3pucHVUSTh0SEE0TEdMSG1BdU1Udg?oc=5)
-
----
-
 ### [Allarme morbillo negli Usa: cinque vittime in Pennsylvania, New York dichiara lo stato d'emergenza](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcm1CTzBYNkFoeFREcHJfemlOdF9mR015RzdTeUNaVUhpLWpHbVdUXzJJQUM4X3ktZ2xzTl9xNzl3NGNIalVDQnZPT0E2UmItWTFXbFNxQ3JXLUtEdGhXWnRSUDJqWlJ5U0tfaVFDdEdvbU5YMk5ydi1DblFpSGExRWQ0Q1dEX1BqOElIX0ROMTFNbDhud3NkRWNRWVRFZWR1UEHSAWhBVV95cUxNcDFqOGplR1VVZUQwUnFKdFhQVmxQU05jdzZPV2U0M0ltWXBZR2pVZUJFSHR4YW41M0d3RThXMUs1Sm1EYURGSDFYYXZaOGpyRVI2UzRxZDF1ZFVlcDhCQTdhY2dtYmVaZw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">AF</span>
@@ -190,11 +206,19 @@ Source: [Tgcom24](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcm1CTzBYN
 
 ---
 
-### [Patient designed cancer centre opens after revamp](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSlNyaG9vLTRFQVZMNTRrTFY5aG9aSnNaSlh6VGtJMlRUVmRRVWhrU2FJQWRzYjBmZHYtWTNxRE44UkhwTmZkMmxBT0JnOG5HcThwazdiXzBBTmxOSnc?oc=5)
+### [New York governor declares state of emergency after spike in measles cases - The Guardian](https://news.google.com/rss/articles/CBMiekFVX3lxTFBGTno0TFQ3RnhyUTRjVHlEekllLVRxSlRVbUxWN0had0k2VWFLdWlTSU1mOHVaY1VIbDc0bkh6VF81M1lZdTZUa3NqanpfMmVxX05UUTkxTWlrOWpYR2x2amJ3VkZSOWRWd1g0UDZZa09QdDZ3Z3lkVERR?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+2026-10-06 <span class="news-indication-tag">AF</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSlNyaG9vLTRFQVZMNTRrTFY5aG9aSnNaSlh6VGtJMlRUVmRRVWhrU2FJQWRzYjBmZHYtWTNxRE44UkhwTmZkMmxBT0JnOG5HcThwazdiXzBBTmxOSnc?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiekFVX3lxTFBGTno0TFQ3RnhyUTRjVHlEekllLVRxSlRVbUxWN0had0k2VWFLdWlTSU1mOHVaY1VIbDc0bkh6VF81M1lZdTZUa3NqanpfMmVxX05UUTkxTWlrOWpYR2x2amJ3VkZSOWRWd1g0UDZZa09QdDZ3Z3lkVERR?oc=5)
+
+---
+
+### [West Nile, i due casi genovesi in condizioni gravissime. Al via disinfestazione in Mura degli Angeli](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2Zod1E0R2o1X0VXelROSzJtcWFqVXRYTmNpOXJQa2RVeUZ5Vk1jTHk2cHdCRnlrQTVFcm1ZbVQtVnozakdCR09MZWRfQW1xQURCd2J3WEtwZzFtb3lvLVF4VnJhMGR6d1prNGxBM01sLXlxZ2xjOE5rcEZsdlNuVHRGSmlJdjJvaVA0S0NLUmYxcXV4Q0ZabU9iWXJvNTByZU1NT1BjNW5tQjRFRlJmY0NpUm1hWHPSAbwBQVVfeXFMUGhDdGdsWDdIci05VnQ2dHpLa29fMkVqY3A2ek0wZ2EzVnAzR1ByVXNFQ19iT1FMTGp2LVpLQzRjeWo4N3B6U1J4cldPQTUyZ0tmQUxIODZKZ09iNTJ4bl9WSUdqeHZtVzZEMFpjUjdoX1MyN3hnVGE1LTlDZ1hWelZobHJJNDJVQnhZbVhGVV8ybi1WYWxOWVV5M0VWZXl4N3JQT0xlNU9DZXZibWQ1LWlYZ2tzYWgtNVhvemE?oc=5)
+
+2026-10-06 <span class="news-indication-tag">AF</span>
+
+Source: [Primocanale](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2Zod1E0R2o1X0VXelROSzJtcWFqVXRYTmNpOXJQa2RVeUZ5Vk1jTHk2cHdCRnlrQTVFcm1ZbVQtVnozakdCR09MZWRfQW1xQURCd2J3WEtwZzFtb3lvLVF4VnJhMGR6d1prNGxBM01sLXlxZ2xjOE5rcEZsdlNuVHRGSmlJdjJvaVA0S0NLUmYxcXV4Q0ZabU9iWXJvNTByZU1NT1BjNW5tQjRFRlJmY0NpUm1hWHPSAbwBQVVfeXFMUGhDdGdsWDdIci05VnQ2dHpLa29fMkVqY3A2ek0wZ2EzVnAzR1ByVXNFQ19iT1FMTGp2LVpLQzRjeWo4N3B6U1J4cldPQTUyZ0tmQUxIODZKZ09iNTJ4bl9WSUdqeHZtVzZEMFpjUjdoX1MyN3hnVGE1LTlDZ1hWelZobHJJNDJVQnhZbVhGVV8ybi1WYWxOWVV5M0VWZXl4N3JQT0xlNU9DZXZibWQ1LWlYZ2tzYWgtNVhvemE?oc=5)
 
 ---
 
@@ -206,11 +230,19 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHdEQ
 
 ---
 
-### [Major update for anyone taking Atorvastatin after huge trial - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
+### [Molekulare Signaturen genetischer Herzmuskelerkrankungen entschlüsselt - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE44cktmTFh6UjhKU0hHbjVSTS13eDRzZVNXRFNuT3FIaGx0NjdzcVVmaXFtbVpYbF9pTGtrQl9Wb1dJNFBtaWpzTmtybw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">AF</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE44cktmTFh6UjhKU0hHbjVSTS13eDRzZVNXRFNuT3FIaGx0NjdzcVVmaXFtbVpYbF9pTGtrQl9Wb1dJNFBtaWpzTmtybw?oc=5)
+
+---
+
+### [Major update for anyone taking Atorvastatin after huge trial - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">AF</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCekNZX0RXM193UEhaRUdmRlo0UlB5V2RROEhQT3RlODNLRmlLYTZhVHltTHFHRDFzc3ljanU0R0lUZDlMQ09kM3NvYlBacUFUdHlpRUdVYng1MmktYkswNzNJX0llOWlFQVVhV3Y2NVozMFptZDRaNGdhUWJOVnFob2hDazJydmwtQ1Zn?oc=5)
 
 ---
 
@@ -219,14 +251,6 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnJCek
 2026-10-06 <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfT25DVFhDa1pfcG9KZjRDQXNJX0pHWF9jbXFsaEJhVGNtRllXTnRLSWRzX2dGX3ljS1pwbnVmOExsTEVRS3Q1OEFtWlFLRWRhNGs0NVRxMTh5NkZlNGc?oc=5)
-
----
-
-### [US measles outbreak: State of emergency declared in New York as cases rise - Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemFhcjFOWm1BSEtrODBTUlpJNGhGczgwWGVWWkF5UUdEakpIT2trVzBkZGU4WUVTbEdIMXBtYVR6UFlkV1FRMXFCMnJUaGswbW4zN2NvUEpuZ1FuVjhCOG9kR1BuMkZGLVVHQUhKeFBUMGRCUkVnY3JhMHVPSm9zRmpIV29rX2lrZ0Y2b3gyU0pROFhFLXBWeGRkZi1WVjJWUmJMd1ZTeklFcTNET3c?oc=5)
-
-2026-10-06 <span class="news-indication-tag">AF</span>
-
-Source: [Sky News](https://news.google.com/rss/articles/CBMirgFBVV95cUxNemFhcjFOWm1BSEtrODBTUlpJNGhGczgwWGVWWkF5UUdEakpIT2trVzBkZGU4WUVTbEdIMXBtYVR6UFlkV1FRMXFCMnJUaGswbW4zN2NvUEpuZ1FuVjhCOG9kR1BuMkZGLVVHQUhKeFBUMGRCUkVnY3JhMHVPSm9zRmpIV29rX2lrZ0Y2b3gyU0pROFhFLXBWeGRkZi1WVjJWUmJMd1ZTeklFcTNET3c?oc=5)
 
 ---
 
@@ -246,19 +270,11 @@ Source: [Sky TG24](https://news.google.com/rss/articles/CBMimwFBVV95cUxOV0xreTNu
 
 ---
 
-### [The 10-minute exercise routine to stop you stooping after 60 - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pGOXA4VWtrSm1HdjlGanUtd1FHaFBIUzFmd2xtbWlkRkdTdDF0eUl1aURHTTM3a2pSOFg3RUtDRkY3LXd2R0N4VkVfbTVyM2Y3S2c3UDNOc2JWRzl6bElzX2N3N3k2WjlGdF9NdjNudndXR0NyZmJGUl9TVmh2eEpqZmxEV0dEZnJja1F1SnU0OFRPY0JNOHRxMlpkZw?oc=5)
+### [Un graffio sul braccio, poi otto operazioni: una docente ha rischiato la vita](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEdxUld2R0pYTlV5THFfX3l5R2ZHRk1JcE9walcySmx2dmRXZFQ5MDVyVTlYZ08xbHFyYnhhSXpVNHJSOWg4Z3phVnJwYmx3VG9TdThsbmMzWnhOYlpPcGVMRXNEYkkzWGNFd3pINW5wMlctQm4tT1J6ampLcHlWNjg3TXU5b0l5UWFhY3ZyVG1zaERoQWxXZEp3blhVcm1XNmQtb3cxX3phY05WN1R3YmtOU1N0MkZYMTl1QnZQR0JGQzcw?oc=5)
 
-2026-10-05 <span class="news-indication-tag">AF</span>
+2026-10-02 <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxNb3pGOXA4VWtrSm1HdjlGanUtd1FHaFBIUzFmd2xtbWlkRkdTdDF0eUl1aURHTTM3a2pSOFg3RUtDRkY3LXd2R0N4VkVfbTVyM2Y3S2c3UDNOc2JWRzl6bElzX2N3N3k2WjlGdF9NdjNudndXR0NyZmJGUl9TVmh2eEpqZmxEV0dEZnJja1F1SnU0OFRPY0JNOHRxMlpkZw?oc=5)
-
----
-
-### [Tiefschlaf und Alzheimer: Schutz durch Hirnreinigung? - Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEdxUld2R0pYTlV5THFfX3l5R2ZHRk1JcE9walcySmx2dmRXZFQ5MDVyVTlYZ08xbHFyYnhhSXpVNHJSOWg4Z3phVnJwYmx3VG9TdThsbmMzWnhOYlpPcGVMRXNEYkkzWGNFd3pINW5wMlctQm4tT1J6ampLcHlWNjg3TXU5b0l5UWFhY3ZyVG1zaERoQWxXZEp3blhVcm1XNmQtb3cxX3phY05WN1R3YmtOU1N0MkZYMTl1QnZQR0JGQzcw?oc=5)
 
 ---
 

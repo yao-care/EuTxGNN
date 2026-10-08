@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [Nuevos tratamientos cambian el abordaje de la migraña: “El objetivo debe ser recuperar calidad de vida”](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN0VnTFhHOGtCWEUxZWpzN2xaWHhfREdMcmNoUnBJUno4MEdpYVZGZFJXV0ZGTVVVV0FJMnlXQWg3OUcycTFZWUF2UUNNZWRqY1FaUS1SbXlic3JHX2tEZmQwVkJaazdxNVo5VWxJamgyZG1qSDYtNDlicVh4MGh2dVcwRFJhcnhhSVBscTZXMGFGRW1MUnRFekx4QW0taTdDWk8zOS0wcjVac1FhQ2Q2LW5CNG9abjBQNElQS1hmU0JJN2NlUXdNRDRMLWFxU0Y0bnFtdTlXeHZHN0NRNTk3aFR3?oc=5)
 
@@ -115,14 +115,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZ
 2026-10-01 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
 
 ---
 

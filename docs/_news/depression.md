@@ -3,7 +3,7 @@ layout: default
 title: "depression News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depression. 2 articles, 7 related drugs."
+description: "Health news about depression. 3 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depression?">
-<strong>depression</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<strong>depression</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “depression” and list
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Depression und Ernährung: 85 Prozent weniger Fertigprodukte, besseres Befinden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
+
+2026-10-07
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
+
+---
 
 ### [ADHS im Erwachsenenalter: Betroffene haben womöglich ein erhöhtes Demenrisiko](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpaZVZoZm1yRzJEQURjNTlzWkgtTW5YTV9YbUNZcFo2SHVEcW5NbGlKSWVBV0pmTVJwTnBUaTltVV9UdlVxU0xZTDh2NjFiUGhUOWpUUjV6MnBuVmFCWVEyeU1RVkZnaDVJN3ZDeVFOYWpweWpTcmhMdUVnZVduUmNMZjdIbjdRZlZiWHQ2eWpEWWpLZUt6QmZGUHRyNlpsRkVEVDlSdFJ6cHU5R01oUHdVMGtVNEVIS3c?oc=5)
 

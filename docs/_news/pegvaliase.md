@@ -56,9 +56,25 @@ This page combines the AI-predicted indications for Pegvaliase with the latest h
 
 ### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtmUEM0V2c3WkpiSFU5Z3lWb2lNU0d1aUNodnhzenhFSGtwaFhwYXJCdjA0MzJrT0gyWmh6Q1JoYkxSM0xqOTZQOFhYOEVBeFN5Q1lScE9TX0NDVFBlM0R3eEZQWVVvVE1nMExNRlByZ2pHMlRzaTItbm0wLVlTdWhJOEFGSWVzQURsZGtKa1pRQ0dWQXFmZW9vdWVWY3hiRVdmYnlLOHQzN3J3YWZKMFh6UVlNWE1tcXgyQ1JkYzNnRUpFUlduNi0zOEdkaDBlSQ?oc=5)
 
-2026-10-07 <span class="news-indication-tag">diabetes</span>
+2026-10-08 <span class="news-indication-tag">diabetes</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSmlPY3ppeEtmUEM0V2c3WkpiSFU5Z3lWb2lNU0d1aUNodnhzenhFSGtwaFhwYXJCdjA0MzJrT0gyWmh6Q1JoYkxSM0xqOTZQOFhYOEVBeFN5Q1lScE9TX0NDVFBlM0R3eEZQWVVvVE1nMExNRlByZ2pHMlRzaTItbm0wLVlTdWhJOEFGSWVzQURsZGtKa1pRQ0dWQXFmZW9vdWVWY3hiRVdmYnlLOHQzN3J3YWZKMFh6UVlNWE1tcXgyQ1JkYzNnRUpFUlduNi0zOEdkaDBlSQ?oc=5)
+
+---
+
+### [Normoglykämisch – trotzdem Diabetes-gefährdet? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
+
+2026-10-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
+
+---
+
+### [Typ-2-Diabetes: 54 % Remission nach 24 Wochen durch Diät und Training - it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpYb0JzUkstVV9BRkhWeDdJWmJGNmVwdVNGM0ZhRGdMajVoVnA3cnE4ZjVHazFUc3VNd1JiSUI2Umt2ZmRWQ25idDBMWWFSVGdlaWxDdTAyUjNfQ2xJUWhzVjAtU0N6TGNwVFhXd0xxOGxQRXVMc1Q5XzNJM2dFTnl2eWgyOEFuMTE1ZjFlR1dXbkdfQ0hBSGdoeld6VzV0?oc=5)
+
+2026-10-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFpYb0JzUkstVV9BRkhWeDdJWmJGNmVwdVNGM0ZhRGdMajVoVnA3cnE4ZjVHazFUc3VNd1JiSUI2Umt2ZmRWQ25idDBMWWFSVGdlaWxDdTAyUjNfQ2xJUWhzVjAtU0N6TGNwVFhXd0xxOGxQRXVMc1Q5XzNJM2dFTnl2eWgyOEFuMTE1ZjFlR1dXbkdfQ0hBSGdoeld6VzV0?oc=5)
 
 ---
 
@@ -70,27 +86,27 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 
 ---
 
-### [Hohes kardiorenales Risiko nach Diagnose von Typ-2-Diabetes – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+### [Früherkennung und Ketoazidose: Abbott Big City Talk in Berlin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWhiRUhHYzlTT0FWdk4xQWRLajJSRWp3WjJTQnlXeFNaLVRYSVFSMUMtSnJmR2dEclNCd3NUbl8tQS1FZW5uUENBYTdsVWtFa0t4c051VVpGQnNTY0VuejRSbjhMbnZQY3B2SmZqLTlYTXdNc0NYRDRZOHNiMUgxTEJseS1GOVdrUHc1SHVqSVFoV0Jxb3pEd00yeDJQWHlXYTZmY3BCLTZuVzU1V0w3cFpiSjZlcG95NjBlZzNjWXdNb0d0OGJR?oc=5)
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
 
 ---
 
-### [Formación en hábitos saludables y el manejo de la diabetes en centros escolares de Murcia - La Verdad](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2NqWGtpTWd1QktsU1d0M055YkgtdmgxVktPQ3lkcnRZSy1WS3FEQ1ZiZ1JOU0FGOUM2QXlIZ2pwNUJBYWxENTczMWRPVmNKUkhyakJLekxSenNnTnpjODYzc1gxNWNjblBhNUdGaFpWSFUzM0lJX2hGc3VqWWtrUC1VbG5Yd1M0U0lmRGFUbmJHeHo0WUdxTTNLSXl6RnNCQUZpekdBYTZXdnVBM0NHdl92S1FLLWNzT1RHMElfTEt6WlZhYV9rdlJ30gHPAUFVX3lxTFBtRXFkWTBOZXVEeVl2TXY4RkZobGZ3UF9JbzVlQlkwVTFuSE1yaEtsVVhLUUQ0VFNJSFk4aFV2MkNCeDhsQW11eW1qVkkxaFNZYmFxMUlqQ1pCWlZZcDZwczVnOUVxeFlEbURVTThEMDZ6UHdBcDFNSWVkeVFtcjR4bVVxcHNFVlBwQ0Z0MlZ1Q2prVjZpSHQ5cmxUNVNRa25GNUF4VThIdDl3cWUxaDh2M05iT1lqdGlXRExYVUFZYnlremlqWmdPN21VZGJqcw?oc=5)
+### [Santé. Boire régulièrement du café augmente-t-il l'espérance de vie ? Ce qu'en dit la science - Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXVWUk9TYXVVNnR4QW52eTg3TVhpWDlUUGVqa1lKdDJzU3dfVFh5QjEyaUlaSXlQanppRXVZQXVkMnN3V3NfNktocURoUzF3ZjV1TTJ2T1lZamVkcUtCSndfRFdSMV9uY19makhxQks1OWhESXhqZjNPU3EwMkloVXJIRjRtemF2cjJyTm92cDdleU5pTXBfT3hrMnktSFpzOVNDQUdmMHhaZkFnMHRlcXM5ZmhOZVk1b0ZlRzVjZVhDV2NsSk4zaGZybFNSTGFF?oc=5)
 
-2026-10-06 <span class="news-indication-tag">diabetes</span>
+2026-10-07 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">AF</span>
 
-Source: [La Verdad](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2NqWGtpTWd1QktsU1d0M055YkgtdmgxVktPQ3lkcnRZSy1WS3FEQ1ZiZ1JOU0FGOUM2QXlIZ2pwNUJBYWxENTczMWRPVmNKUkhyakJLekxSenNnTnpjODYzc1gxNWNjblBhNUdGaFpWSFUzM0lJX2hGc3VqWWtrUC1VbG5Yd1M0U0lmRGFUbmJHeHo0WUdxTTNLSXl6RnNCQUZpekdBYTZXdnVBM0NHdl92S1FLLWNzT1RHMElfTEt6WlZhYV9rdlJ30gHPAUFVX3lxTFBtRXFkWTBOZXVEeVl2TXY4RkZobGZ3UF9JbzVlQlkwVTFuSE1yaEtsVVhLUUQ0VFNJSFk4aFV2MkNCeDhsQW11eW1qVkkxaFNZYmFxMUlqQ1pCWlZZcDZwczVnOUVxeFlEbURVTThEMDZ6UHdBcDFNSWVkeVFtcjR4bVVxcHNFVlBwQ0Z0MlZ1Q2prVjZpSHQ5cmxUNVNRa25GNUF4VThIdDl3cWUxaDh2M05iT1lqdGlXRExYVUFZYnlremlqWmdPN21VZGJqcw?oc=5)
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXVWUk9TYXVVNnR4QW52eTg3TVhpWDlUUGVqa1lKdDJzU3dfVFh5QjEyaUlaSXlQanppRXVZQXVkMnN3V3NfNktocURoUzF3ZjV1TTJ2T1lZamVkcUtCSndfRFdSMV9uY19makhxQks1OWhESXhqZjNPU3EwMkloVXJIRjRtemF2cjJyTm92cDdleU5pTXBfT3hrMnktSFpzOVNDQUdmMHhaZkFnMHRlcXM5ZmhOZVk1b0ZlRzVjZVhDV2NsSk4zaGZybFNSTGFF?oc=5)
 
 ---
 
-### [Dal 6 al 13 ottobre screening gratuiti della pressione oculare e non solo, in occasione della Giornata mondiale della vista. - Gazzetta di Benevento](https://news.google.com/rss/articles/CBMizwFBVV95cUxOaU9iVFZJTm9OMHJ0cHlMTU1lZDA3eUkwaF8zTHE4dVJDeUp3cTV0TVVYR0h5UGlJbFJYdlhZU0hwNDd2aUdLeG5YcGIxQkFxaGdIaXE5NVdoa00taDVLNTBqVHFYOUFzZGJiX3ZZSk9zXzRkNmdEZHg5a3FUSGxZQ0xZMEphajRYcDhuejFLektTZzc0UzE3TG03dzdrcDFpZUtwSV9oVGZLTzR4MHprY1plNmxaZ0ZuczN6WjBjVFhiZkVrM0FjMkhULTRvLVU?oc=5)
+### [Crema. Giornata della vista, screening gratuiti](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUFuelJFaXRIUkRsTFRVb1cxUlpxZDJ5SllacUhfelNuWjVVRHd3YTRCX0RsWXZNcjZYdVhwSWdNWEktUzRZS2UxZWNhMGN1YUZyejJjZkxNeHU1TTh3eGNqck9EYkdtb2FNZVJIcmNleDlrVkV3OG5rRnJRVVk4ZXFoMVRWeU5TRzJILWk0WURsSW9EMGNtZXJ5cw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">diabete</span>
 
-Source: [Gazzetta di Benevento](https://news.google.com/rss/articles/CBMizwFBVV95cUxOaU9iVFZJTm9OMHJ0cHlMTU1lZDA3eUkwaF8zTHE4dVJDeUp3cTV0TVVYR0h5UGlJbFJYdlhZU0hwNDd2aUdLeG5YcGIxQkFxaGdIaXE5NVdoa00taDVLNTBqVHFYOUFzZGJiX3ZZSk9zXzRkNmdEZHg5a3FUSGxZQ0xZMEphajRYcDhuejFLektTZzc0UzE3TG03dzdrcDFpZUtwSV9oVGZLTzR4MHprY1plNmxaZ0ZuczN6WjBjVFhiZkVrM0FjMkhULTRvLVU?oc=5)
+Source: [Cremaonline](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUFuelJFaXRIUkRsTFRVb1cxUlpxZDJ5SllacUhfelNuWjVVRHd3YTRCX0RsWXZNcjZYdVhwSWdNWEktUzRZS2UxZWNhMGN1YUZyejJjZkxNeHU1TTh3eGNqck9EYkdtb2FNZVJIcmNleDlrVkV3OG5rRnJRVVk4ZXFoMVRWeU5TRzJILWk0WURsSW9EMGNtZXJ5cw?oc=5)
 
 ---
 
@@ -102,14 +118,6 @@ Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV
 
 ---
 
-### [AID-Systeme auch bei Typ-2-Diabetes einsetzen – ist das sinnvoll? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV95cUxOODJTMFJTSF9VeURxNEtRZ3NyQVdlb2lZYzJ1VGtzcTJUU2FscDRYOXRjdlV5QnVfMmtpalFVQ1JtMGhDdnRhd25veTNXanNDNkMwRzVlc0VWd0tVSGZJVW5oMkNfX3BYdGpwYWUwdWhmajBDb3F0STlZUlI3bWoyS1JhcUo3N0QzWlNybDdzWnJ4SGlkd0tsMkp5V3ljWDV2Q0laWERR?oc=5)
-
-2026-10-04 <span class="news-indication-tag">diabetes</span>
-
-Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMipgFBVV95cUxOODJTMFJTSF9VeURxNEtRZ3NyQVdlb2lZYzJ1VGtzcTJUU2FscDRYOXRjdlV5QnVfMmtpalFVQ1JtMGhDdnRhd25veTNXanNDNkMwRzVlc0VWd0tVSGZJVW5oMkNfX3BYdGpwYWUwdWhmajBDb3F0STlZUlI3bWoyS1JhcUo3N0QzWlNybDdzWnJ4SGlkd0tsMkp5V3ljWDV2Q0laWERR?oc=5)
-
----
-
 ### [EASD 2026, la rivoluzione della diabetologia: dai farmaci per la glicemia e il dimagramento alla protezione di cuore, reni e fegato](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VTdjFpdExROFdsdFlIZE5haEZfejBOcHdNaHBnb3huSVY1ajAyYnZERnZLV0hZemJjdThpakx3WXFHSVBMNnF5ZTJLSjUxSjhwYTlXZnlORVFHWkpxN0R5R2lWQnRlSm5tcW1fVEV6UzR2REtXM3l2RmtjdjhFWDNGc3dqOHp3clhnMmdhaDFBSjZNeTV1ZFZjQlVwM3BYYXp0TkxLcjFpZlZVRHAxWFVmUXI3M01NTFltTE1qWGUxOUREeDRFYkl0SVRjU25OeXdEbWZBbjZoNHMtd2d1ZHRyMEpORnBZOTlueEF2Y29uNS0wcW5ENmlpS2YxTDJWRW9DMEVpMzNzaGptRUNval9UU2pnaDg?oc=5)
 
 2026-10-04 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -118,19 +126,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMilwJBVV95cUxOU1VT
 
 ---
 
-### [Neue Langzeit-Studie zu Diabetes-Risiko: Dieser Fleisch-Stoff macht Forschern Sorgen](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
+### [Mit dieser schweren Erkrankung ist Diabetes oft verknüpft](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
 
 2026-10-02 <span class="news-indication-tag">diabetes</span>
 
-Source: [BILD](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaTZUU2hKZUtzSENfei1xWEVVcHNycFJYNXFRWi1wTHVWWVMxT1VfV0c1bzVaSnhlamRJVW02ajgwdkNSRmtoZ0dSUzQ5Y0dUWEdwcG9FMEVrSmpxMTlXOG5yeW9qYm5yZEhqdklDQmdGUEtsX0tjdmc2M1FBY18tcXFyZUtQRTB0bmk1dDdyRkhqT3FZWFRUcFRLVW1tSk83aVgzWFprbEV0ZkpVY0V1VDhVVXpZLVlKM0NlMnhXeDRiNFVfelFvLUUxbTBLeGNoRkphdERQU05PaVJK?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMi6gFBVV95cUxORFNqcnBtOHFOR1Q4d1hLWGFrVm5zZTlob2E4Vk8tQnFiTTdnc1NuaHpDVXNGRmJsd2Q0RzNUb1pzN3k5YnlhQ1RaZFNDcGJLSFJrMXdNaFFpa2lmcEJxeDgtMU9nV3M3dmZBQzZQam15WjZjUmN0RHFMVWVVM056bUs4SmNWLUFPNm83S0kxaFdybDZEUk9YaTZhc0JRQWU5Q3dfcnd4TkViWFNudWNzZWNHWkx5Z1E0MnJ3c0ZYZWVCb0paVWZYNHM1UzlZZUwwM0lyS0g2YXRZc0NBakRpbkVIa2VPWkIzNEE?oc=5)
 
 ---
 

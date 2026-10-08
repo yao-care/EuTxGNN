@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (10)
+
+### [El avance contra las secuelas del ictus: una tecnología de grafeno permite analizar la vulnerabilidad neuronal en tiempo real - El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPMFdLdHVEcG1VM21ZUXptMjZhRVNFS0s3X09iMWwzdG1jeTVMZTZoOGNpTWdCMThkZ2pqVGp3bEkwMERjX2EtWG5BdEd6NHpQUWRlcHRDWWxrcThjNk1BdE1wcnExVkp4NXRCWjNoX24ydE14d2FuOXdyYlNJbHFZUDY2OVlIcTdUSEJIS1hQUzRvSlZ2OWdfYjRUNHRjYTlaZl9sQXNUOE5GaTA4ekxTcmNzWV9zemJrVkJnYkpfYUJnRWlFOXYyMDd2OG1yODcyWHY4U3drZll3Xy1Mc205VlVFX2xWT0ZmTWsxN2NsTF9SM1NkejgzZVB3RWJqMzhzeFNQbnJjd3N2ZHVkNXFfQjFNNXpCTDJrWnc4UW9sckY5cTFKemJGWHFiYTFNTjZWZVlTSWhGQTZwUdIBpAJBVV95cUxNWVo1ckl2SjRDOThkTVdtZDFScWM2MmZndTJHSFFKZzB6Snl0clFObVdxaWdLNmJYWUhBQXpUemRGUUlrNW9LcFplT0JnSFFVWkF2RUdWNHoyb196eU1XSkotcFJsT1N4a0xVZnBfQXRnQktMc050U2NMbDBfRXBqSDV3RUZFNVRIdHNWQURTX0Q2LXVUd2dxOEhfM01VOTdrU091RDRQYm5DTC1oZmhKUlI4NmVhQ3pnTGJHemlXS0RPMV82UXNTOHUwdXhyR0o1dTNUNWJzcjF1aVNmcTR3Ri1EcVhuNFZObnBmbHdrbGR4R2pmSy1zMnhsc0UzMWRfQUdVZHJNaWN4anMxSy05SzdTVVFsbXUzTURYbjh0c0UyaTE2?oc=5)
+
+2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMiugJBVV95cUxPMFdLdHVEcG1VM21ZUXptMjZhRVNFS0s3X09iMWwzdG1jeTVMZTZoOGNpTWdCMThkZ2pqVGp3bEkwMERjX2EtWG5BdEd6NHpQUWRlcHRDWWxrcThjNk1BdE1wcnExVkp4NXRCWjNoX24ydE14d2FuOXdyYlNJbHFZUDY2OVlIcTdUSEJIS1hQUzRvSlZ2OWdfYjRUNHRjYTlaZl9sQXNUOE5GaTA4ekxTcmNzWV9zemJrVkJnYkpfYUJnRWlFOXYyMDd2OG1yODcyWHY4U3drZll3Xy1Mc205VlVFX2xWT0ZmTWsxN2NsTF9SM1NkejgzZVB3RWJqMzhzeFNQbnJjd3N2ZHVkNXFfQjFNNXpCTDJrWnc4UW9sckY5cTFKemJGWHFiYTFNTjZWZVlTSWhGQTZwUdIBpAJBVV95cUxNWVo1ckl2SjRDOThkTVdtZDFScWM2MmZndTJHSFFKZzB6Snl0clFObVdxaWdLNmJYWUhBQXpUemRGUUlrNW9LcFplT0JnSFFVWkF2RUdWNHoyb196eU1XSkotcFJsT1N4a0xVZnBfQXRnQktMc050U2NMbDBfRXBqSDV3RUZFNVRIdHNWQURTX0Q2LXVUd2dxOEhfM01VOTdrU091RDRQYm5DTC1oZmhKUlI4NmVhQ3pnTGJHemlXS0RPMV82UXNTOHUwdXhyR0o1dTNUNWJzcjF1aVNmcTR3Ri1EcVhuNFZObnBmbHdrbGR4R2pmSy1zMnhsc0UzMWRfQUdVZHJNaWN4anMxSy05SzdTVVFsbXUzTURYbjh0c0UyaTE2?oc=5)
+
+---
 
 ### [Nouveaux médicaments anti-obésité : en un an, 515 effets indésirables graves dont 13 décès pour 840 000 personnes traitées - Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUVdkUkVIX0hfN29Zc19YRjVQZl8ySUFsQ0FMYTgtUkZlVmFxYUlNYmJtV2l0R2oyZXVqMHZsd2hjNE92SjNhWjZiV0NiLTVuS1A3UHh5MlV0OFNLMl9lRWU5Y2cwakYwT3lTV2dfQTJMNnpodnhjMDBiTFFzVmliRXhGQmY4ZGxILWhzS1AyaEdyNmdEcGxidW9jbFByMjQ5d3g3SUxyS1FlOFNzTjI3TU4waURFT1ZxbGI2S3lmUnh6WkpfM3hhQ09KYTRSczlHbENEYWlPcDY4MWotcXRwRUJCR1RSUEJRUW5kVHZjNE4xMFNSYWVr?oc=5)
 
@@ -67,14 +75,6 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQ
 2026-10-07 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [Redacción médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVkFVVm5idl91M2J3MjhvT0o3OXFXd0NVbHlVMkwyTHhTeXdfNWUyemtRWFlzTmNKbG9UQlVJNUw1bTZvTXU3N2FxRlBtZ25YUmZXVl9idVE1Ul9FcWRnNHQzN2UyY2pqQUh2U0VlX1VHdUw5VUpRM19FajI4Zmd0Qk5Kai1RMmNxQVlOOVRhNk41MDZ4UnJIcHgtcVhUM09jZkc2NE13WlhhcWdpd1lxUUs0YWdRVGZCczNFUDhPY2ZiaG9uZU5lRlpCTkpyS1h3Z3RINlFyU2ZBTnItRG9FbDNiYUR3YkJmb1lTQkMxQi1BYzTSAfgBQVVfeXFMTXcyd20zZElEUnB0WTNwWDhnNnM0R3BkUjV6REZZdE1TdHBqem5YbW1sdEU0LXhvOUJoXzhQWDRucmk0NUp3MHVmTlE1WHFiV1B0LUsxZElyWXpCejdYczNlaXpPY3FISENhdEZBbXI2VVFoaENrMW1fbmdhbEJPeW4wcmFySENDUzNkbXBCaklHTHNTZWNTbUM5T0twZmplaklrTXA0a0FVd19FRTFpbU43WjFadFZ0azFKZDg0REExUDJVQktfb2d1amFhTEVISnRJSDh0bEJVcWpHUHpzRVBySnlCOHRUeHdzWk1rOWs1WndrbnJxS2o?oc=5)
-
----
-
-### [Un sensor de grafeno permite detectar más daños cerebrales en tiempo real tras sufrir un ictus](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
-
-2026-10-07 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-Source: [Servimedia](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUi1URVdwUkZUMDFVZ25IZnpGY3RmQ3ZmZlhxdFFGU0N4Sm1lZUdEbExmRU82UV9SVklSN2MwbEpodWstTVBYZVJGSlF3MzNSR1hTVUp2UUkwOExvbkpDZUI4d1NQNHQwV0FjOFp4eXlvR2RadERyYWV3YTF1NEt6MnlhSm52Q3lqQk9TSFFXcUtucTFsbks5bXhiRDRHVldLZ0hBTEVibTlWSjVQS0tfMmgxdGdQbS16aU1uZVQ2cUs1OFdHU1NN?oc=5)
 
 ---
 
@@ -102,22 +102,6 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi3gFBVV95
 
 ---
 
-### [Schlaganfall: Darmbakterien-Botenstoff Indol kann Hirnschäden verstärken - AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
-
-2026-10-06 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivwFBVV95cUxOODZOYi1wbXB1bE1jWC1xcU1ENlZQVnEwQ0dNUTMwbVMwWlVfNkRIV09QTlJ6bXQtd2NjaWZJUmxvdnB6N1VSR1Jabm1GanI4NHRVREhFQmE5Vms0YUgxd3BxbzcyeUl3VE1KR0NzOTVsWExFV2Z4S2dPQWd5S1lpSGEzTF8wT0FzR2dlb1ZNMVhXN2IwZXVXZVZ3c2hfeEN3NWxOUmotQlIyYmRhZkFtQXJmbVRpUlJMa1pSZy1WNA?oc=5)
-
----
-
-### [Menopausa e rischio neurologico: cosa dicono gli studi recenti su demenza e ictus](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXg0VWY0azJVWkZoblM0T0VBSFp6U3YwZGE4WC1mUWI4dmJiVXd4a1VwVVlLQ29sWmcwQ1U3ZWNsdHVrNkFXMDNsTkRadTJKTVR4YTBTc0RKR3FqZjRvbHhwMEdDUm1RcnV5Z3dsZWd5SVpldU5nSExJbWhtMmNYSXE4ZjRIRTJxYTkxMUhXLUJPcXpKcXQxdmh6cGRCYjZ0Tk00R2p0NTU?oc=5)
-
-2026-10-05 <span class="news-indication-tag">ictus</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcXg0VWY0azJVWkZoblM0T0VBSFp6U3YwZGE4WC1mUWI4dmJiVXd4a1VwVVlLQ29sWmcwQ1U3ZWNsdHVrNkFXMDNsTkRadTJKTVR4YTBTc0RKR3FqZjRvbHhwMEdDUm1RcnV5Z3dsZWd5SVpldU5nSExJbWhtMmNYSXE4ZjRIRTJxYTkxMUhXLUJPcXpKcXQxdmh6cGRCYjZ0Tk00R2p0NTU?oc=5)
-
----
-
 ### [Adipositas in Deutschland: administrative Prävalenz, Komorbiditäten, Mortalität und Behandlungskosten - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
 
 2026-10-05 <span class="news-indication-tag">Adipositas</span>
@@ -142,27 +126,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjBZ
 
 ---
 
-### [Tiefschlaf und Alzheimer: Schutz durch Hirnreinigung? - Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmViMmtpUjV1ZjBWaGZ5ajZpcFhZWG9ieno0M3BVbG9zbUlEeE9tdWRYWm5TbW1KSkNCQUR2d1VmbWVabGlxU1ZNbldOS3JNNzZGVkFhcEh4NUJpYkQxTFFWQUh6aEVZa0ZoM2d6WFc3Q0hYWTBCQnlsdnI5SnFiSHozNnJvNlJNWm9BWWJZVWE?oc=5)
-
----
-
 ### [Jo-Jo-Effekt : Fettgewebe entwickelt Gedächtnis für Adipositas - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
 
 2026-10-01 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWRwRUFWOUs1V2FSd19rY1d1d1dyanVjeFdxTUx5RmZtVmMyeTFzZXdyeVoxWWp3NDAxTDIxZmVjMFlVZkhIMXRPamg5cEFia2UxSXBzSVRVVGhrN0Zlakd3Q1R3UmJiQUtubWJybTJFMFhJcXQzVnUzTl9uWndvRnN3NWYxb29nSnlCclk2Y2ZKZVF5c1ZzZld2M1g?oc=5)
-
----
-
-### [Diabete di tipo 2: due anni di studi per il GLP-1 in compressa](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
-
-2026-10-01 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUzVleEhreC05dkZiYWo4dnRrWE9JNHVQc3FFc0lzUHZxSkpuOHRkVjc5WDJqVjBmNmYwclVKNkRxYUFMRHE4UVB6amhSaVVBWFZzVVh0ZkJBX3BUVmFDRk9fU3FIVDBYQVRQZ2F0bmhzSGs1UThSQW54YUhMU1VrY0pmelJnaVl6REd6VUREVFI2bWdST09Uc3IyTGZLbG9McTkxMGlzMzhoUlEyN3dSTHNoTkJNekJQSkRxcXp3?oc=5)
 
 ---
 

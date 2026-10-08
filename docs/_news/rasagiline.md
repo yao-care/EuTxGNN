@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,37 +52,13 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Si vous puez du nombril, vous êtes peut-être atteint de la maladie de Parkinson](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
-
-2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
-
-Source: [Slate.fr](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjU0NFY5bTFKRENGRkJCZ0J0REdrVGNWcnRiOUlwNE9zY1otelAwN2ZGalJlWC1nd29WdGxkLXp2Vkx5QnZENVhxNUZrUE9PSjc2bzBYdG5vd0tSZWxVTW5kUEpoUllXZFpoeUZsYUlPR0JqZzQ2Z1I4cjJVbHM1aFRNRndQSEtya192Vg?oc=5)
-
----
-
-### [Alexandra Soriano, neurologue : "La maladie de Parkinson peut commencer à se manifester par des symptômes non moteurs, comme la constipation ou l'urgence urinaire"](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">maladie de Parkinson</span>
-
-Source: [Linternaute.com](https://news.google.com/rss/articles/CBMickFVX3lxTFBLQTNGOXdZd1NFcDh6MEZ2RjFrSDM1ODctWnFEM1dZUXNPTTFZMFF5VFFrazJxX3JEVmdFT3ZBQkpPWmdJcmdfNnVjY0ZpWVFuank0a3NRc3FlN2RIeF94WWpOZFRROVkzQnB3VGRKRkJ2QQ?oc=5)
-
----
+## Related News (1)
 
 ### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
 2026-10-03 <span class="news-indication-tag">dementia</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
----
-
-### [Son who used AI to help save mum's life hopes case offers Parkinson's clues](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
-
-2026-10-01 <span class="news-indication-tag">Parkinson's</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XVTNBb2VtanAzVGJ1c3NvUUVmd3lOZ19DZHV4YS1HUFF2RC1HVm1FRU4ySkRUZnEtSzYtcGZWbDF3UTJXZWMzRjVnX1IxZGpPZGp3RmJidkpBMW5nLXc?oc=5)
 
 ---
 
