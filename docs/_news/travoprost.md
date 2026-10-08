@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Travoprost?">
-<strong>Travoprost</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Travoprost</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,23 +52,9 @@ This page combines the AI-predicted indications for Travoprost with the latest h
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [ADHS im Erwachsenenalter: Betroffene haben womöglich ein erhöhtes Demenrisiko](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpaZVZoZm1yRzJEQURjNTlzWkgtTW5YTV9YbUNZcFo2SHVEcW5NbGlKSWVBV0pmTVJwTnBUaTltVV9UdlVxU0xZTDh2NjFiUGhUOWpUUjV6MnBuVmFCWVEyeU1RVkZnaDVJN3ZDeVFOYWpweWpTcmhMdUVnZVduUmNMZjdIbjdRZlZiWHQ2eWpEWWpLZUt6QmZGUHRyNlpsRkVEVDlSdFJ6cHU5R01oUHdVMGtVNEVIS3c?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Travoprost</span> <span class="news-indication-tag">depression</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUpaZVZoZm1yRzJEQURjNTlzWkgtTW5YTV9YbUNZcFo2SHVEcW5NbGlKSWVBV0pmTVJwTnBUaTltVV9UdlVxU0xZTDh2NjFiUGhUOWpUUjV6MnBuVmFCWVEyeU1RVkZnaDVJN3ZDeVFOYWpweWpTcmhMdUVnZVduUmNMZjdIbjdRZlZiWHQ2eWpEWWpLZUt6QmZGUHRyNlpsRkVEVDlSdFJ6cHU5R01oUHdVMGtVNEVIS3c?oc=5)
-
----
-
-### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <li>multiple endocrine neoplasia (97.1%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (96.9%)</li>
 <li>homozygous familial hypercholesterolemia (96.6%)</li>
-<li class="indication-matched">heart disease (96.3%)<span class="indication-tag">📰 heart disease</span></li>
+<li>heart disease (96.3%)</li>
 <li>Laubry-Pezzi syndrome (96.3%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (96.3%)</li>
 <li>Jeune syndrome situs inversus (96.2%)</li>
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

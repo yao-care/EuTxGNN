@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
-2026-10-03 <span class="news-indication-tag">dementia</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

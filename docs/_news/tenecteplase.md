@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenecteplase?">
-<strong>Tenecteplase</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tenecteplase</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
