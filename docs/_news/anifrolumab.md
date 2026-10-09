@@ -14,7 +14,7 @@ permalink: /news/anifrolumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Gare au détournement des médicaments anti-obésité - 20 Minutes](https://news.google.com/rss/articles/CBMizgFBVV95cUxOakFQeTJkZjJidXk1TTJoY2tUTENhOWptcmVFYjd5TFJ3Zzc3S0VnRDF0MEc0R1hJUHkwWVdBUlJMd2ROM01lbVB5MGJxcG85U1V0WFN0UjV0Q1RhYzJWUmtBZGVuNXVBcXNqV1RQUXo5QW5IXzFrMGRpZ210TzFYUzRfQ3VsSVRsVXBxV2xGSThXdGYxUWJuMHRzYV9TQ0otRjZxWGV1RDBaWEQ1anRqbWZMcDIyYUI5WDdxcGF0SFMzbnNUb2s2b3A3UlNoUQ?oc=5)
 
 2026-10-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMizgFBVV95cUxOakFQeTJkZjJidXk1TTJoY2tUTENhOWptcmVFYjd5TFJ3Zzc3S0VnRDF0MEc0R1hJUHkwWVdBUlJMd2ROM01lbVB5MGJxcG85U1V0WFN0UjV0Q1RhYzJWUmtBZGVuNXVBcXNqV1RQUXo5QW5IXzFrMGRpZ210TzFYUzRfQ3VsSVRsVXBxV2xGSThXdGYxUWJuMHRzYV9TQ0otRjZxWGV1RDBaWEQ1anRqbWZMcDIyYUI5WDdxcGF0SFMzbnNUb2s2b3A3UlNoUQ?oc=5)
-
----
-
-### [Emerge un nuevo biomarcador de fibrosis renal en la diabetes - IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
 
 ---
 

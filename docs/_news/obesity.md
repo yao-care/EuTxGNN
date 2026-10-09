@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [Obesidad infantil y adolescente: la OMS desaconseja fármacos y cirugía](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONS12VEprVks2VGhEYkZwY3NYaWV6NW1kaVZKOGotSDNBRS1uYVBLWmJrb2lyVzZQU0hYdkZKa1VkdEpOTW1UZVloR1JQYXYxQmZFR2ZVcEJCUnJ0ZVhwWHNROHRNa29KNkQyZ1I2a0IxUjNUUUJVcUo2alVwWnZJM1M1MkRDVWgtX2JlWUxaX3ZxNnplZ214OTBsMHZ4a3ptSWwyOFVrcGRtYXhVaWF2WVRVR29NZzVFd19V?oc=5)
 
@@ -83,6 +83,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT
 2026-10-06
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3BWVWN0eTBrZ0VrZXVZb0VlMjkxTC03Q3I3X1F2dndaQTNFMk4zVDMwdm4wYi1rVjY4RmV2WmVtc281OVpqc3BVQXRRT2cxanpuZUdHTE9OXzFveXE0ZEI4VjVIbHVGY3NydjJqNnZqck11NEVkYXA1TmtoNVpKUTdsUC1RejgyczBmSVlYbmtVa1N5VUlEdDl5RjMtRzdjbjM4NWFndTJwX2oweWd0aFVocnY4c0FIRW5iQTBSN0VPY3Q5LXc?oc=5)
+
+---
+
+### [Adipositas in Deutschland: administrative Prävalenz, Komorbiditäten, Mortalität und Behandlungskosten - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
+
+2026-10-05
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
 
 ---
 

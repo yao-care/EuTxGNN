@@ -45,11 +45,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tp
 
 ---
 
-### [Major Parkinson’s breakthrough as new pill offers hope of treating symptoms and has fewer side-effects - The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+### [Daily pill heralds new era in Parkinson’s treatment - The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
 
 2026-10-07
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
 
 ---
 

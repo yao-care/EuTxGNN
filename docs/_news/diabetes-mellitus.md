@@ -3,7 +3,7 @@ layout: default
 title: "diabète (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabète (diabetes mellitus). 8 articles, 86 related drugs."
+description: "Health news about diabète (diabetes mellitus). 7 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="What news is there about diabète (diabetes mellitus)?">
-<strong>diabète (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
+<strong>diabète (diabetes mellitus)</strong> currently has <strong>7 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -114,21 +114,13 @@ This page brings together the latest health news about “diabète” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Gare au détournement des médicaments anti-obésité - 20 Minutes](https://news.google.com/rss/articles/CBMizgFBVV95cUxOakFQeTJkZjJidXk1TTJoY2tUTENhOWptcmVFYjd5TFJ3Zzc3S0VnRDF0MEc0R1hJUHkwWVdBUlJMd2ROM01lbVB5MGJxcG85U1V0WFN0UjV0Q1RhYzJWUmtBZGVuNXVBcXNqV1RQUXo5QW5IXzFrMGRpZ210TzFYUzRfQ3VsSVRsVXBxV2xGSThXdGYxUWJuMHRzYV9TQ0otRjZxWGV1RDBaWEQ1anRqbWZMcDIyYUI5WDdxcGF0SFMzbnNUb2s2b3A3UlNoUQ?oc=5)
 
 2026-10-08
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMizgFBVV95cUxOakFQeTJkZjJidXk1TTJoY2tUTENhOWptcmVFYjd5TFJ3Zzc3S0VnRDF0MEc0R1hJUHkwWVdBUlJMd2ROM01lbVB5MGJxcG85U1V0WFN0UjV0Q1RhYzJWUmtBZGVuNXVBcXNqV1RQUXo5QW5IXzFrMGRpZ210TzFYUzRfQ3VsSVRsVXBxV2xGSThXdGYxUWJuMHRzYV9TQ0otRjZxWGV1RDBaWEQ1anRqbWZMcDIyYUI5WDdxcGF0SFMzbnNUb2s2b3A3UlNoUQ?oc=5)
-
----
-
-### [Emerge un nuevo biomarcador de fibrosis renal en la diabetes - IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
-
-2026-10-08
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
 
 ---
 

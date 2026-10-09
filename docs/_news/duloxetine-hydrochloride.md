@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 
 ## Related News (2)
 
+### [Depression und Ernährung: 85 Prozent weniger Fertigprodukte, besseres Befinden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
+
+2026-10-07 <span class="news-indication-tag">depression</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
+
+---
+
 ### [Vitamine D : le poisson le plus riche dépasse les besoins quotidiens en un seul repas - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
 
 2026-10-06 <span class="news-indication-tag">dépression</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
-
----
-
-### [UCSF: Hochverarbeitete Lebensmittel senken MADRS-Werte bei Depressionen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
-
-2026-10-04 <span class="news-indication-tag">depression</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
 
 ---
 

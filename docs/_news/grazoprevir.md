@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 
 ### [Don’t let shingles symptoms slow you down - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
-2026-10-08 <span class="news-indication-tag">MS</span>
+2026-10-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
@@ -67,6 +67,14 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRp
 2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [iSanidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONS12VEprVks2VGhEYkZwY3NYaWV6NW1kaVZKOGotSDNBRS1uYVBLWmJrb2lyVzZQU0hYdkZKa1VkdEpOTW1UZVloR1JQYXYxQmZFR2ZVcEJCUnJ0ZVhwWHNROHRNa29KNkQyZ1I2a0IxUjNUUUJVcUo2alVwWnZJM1M1MkRDVWgtX2JlWUxaX3ZxNnplZ214OTBsMHZ4a3ptSWwyOFVrcGRtYXhVaWF2WVRVR29NZzVFd19V?oc=5)
+
+---
+
+### [What is the XFG Covid strain? Symptoms and what to know as the variant hits the UK - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
+
+2026-10-08 <span class="news-indication-tag">MS</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
 
 ---
 
@@ -86,19 +94,11 @@ Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMimAFBVV95cUxOLWc4d
 
 ---
 
-### [What is the XFG Covid variant? Symptoms explained as cases rise in London - London Evening Standard](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkJQaDVxcXdTNzhpNmlRaThucjRrbWRhVW5WUjZiN3AybzdQTF9FVU9JdWlZamk5VjlhRWw3VTVUWVE0Zlk5WnN4Y2VzSzR0T0RrS1VwNFlHNDB2b3NxSTFkWHFEQ182X0RoczBldFd2YkYxTlRmM0pUc1k1NmFmVlhNQTlXT19fbDVud0hsWjdXSzR5b1N3R2ktQzFMZGdWeEE?oc=5)
+### [The disease that once ravaged Europe still exists: could plague return to Spain?](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGxRUTFxRHk0VHFPUkUtU0I5Wnk4OHI1Q0RqN3R5U2haVGlYMlJ1OFJQNjBuZGhoa05kWFlDMlh3Ny1udkFQZWFmU3ptX1FrWEpGbFd2MGhENWFqd1hsN1BaZTBGYzVFLVRyLUlzcjhvcVBtdFFJU3d1TlJNVks5eGpUMG5kLTM0eklsQ0lJdUNFS1JOVzRhTFNjRER5WV8xa0lOc1hmLTJZSWRpWlBaTFpvc20?oc=5)
 
 2026-10-08 <span class="news-indication-tag">MS</span>
 
-Source: [London Evening Standard](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkJQaDVxcXdTNzhpNmlRaThucjRrbWRhVW5WUjZiN3AybzdQTF9FVU9JdWlZamk5VjlhRWw3VTVUWVE0Zlk5WnN4Y2VzSzR0T0RrS1VwNFlHNDB2b3NxSTFkWHFEQ182X0RoczBldFd2YkYxTlRmM0pUc1k1NmFmVlhNQTlXT19fbDVud0hsWjdXSzR5b1N3R2ktQzFMZGdWeEE?oc=5)
-
----
-
-### [‘Nightmare’ Victorian disease now spreading in UK after hospital wards forced to CLOSE - The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkEzU21DUHRsWFdVRnczRHk5SHdRUEdCTldzRkR5ZlhqcGJ0QlFmM2xSQVlCWDBFOEpTRVNjOGFEYUNOdW9LaDNkVE9OSE93emxEZllEMnBUZ3lTTGthSHIzRzZXbEtvRVZST29ZeWMzU1pNU2hhaWctX2EzRndGcFhmZXM1Tm53ZzhnRnptT1hKc3pyb0prbFhYNTh2Tk1JZVdDZjNR?oc=5)
-
-2026-10-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkEzU21DUHRsWFdVRnczRHk5SHdRUEdCTldzRkR5ZlhqcGJ0QlFmM2xSQVlCWDBFOEpTRVNjOGFEYUNOdW9LaDNkVE9OSE93emxEZllEMnBUZ3lTTGthSHIzRzZXbEtvRVZST29ZeWMzU1pNU2hhaWctX2EzRndGcFhmZXM1Tm53ZzhnRnptT1hKc3pyb0prbFhYNTh2Tk1JZVdDZjNR?oc=5)
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWGxRUTFxRHk0VHFPUkUtU0I5Wnk4OHI1Q0RqN3R5U2haVGlYMlJ1OFJQNjBuZGhoa05kWFlDMlh3Ny1udkFQZWFmU3ptX1FrWEpGbFd2MGhENWFqd1hsN1BaZTBGYzVFLVRyLUlzcjhvcVBtdFFJU3d1TlJNVks5eGpUMG5kLTM0eklsQ0lJdUNFS1JOVzRhTFNjRER5WV8xa0lOc1hmLTJZSWRpWlBaTFpvc20?oc=5)
 
 ---
 
@@ -107,6 +107,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkEzU21DU
 2026-10-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
 
 Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT1lUblRLTVhmamY1bERqQXlYaDFHU1oweWhhemtfaGh0Ump3QlZSSW04akhSOXZhekhDRm9iazQ5TF91TGpna0NGLW5rVy02amRUSVlMbHJSWjJjS1lpZFI4dkhmbW1iUDdYVGl5S09BT0tWTWV0U0l1cWVjdks0SzlreWxrQ2s2UFZmU1RBUU1BT1kybEY3c1pGV3hub0U3VnhZa0NYZVVJWF90WVBwN0Z3WGsxY2dFLVR1S1pGVEZwdmdVeFc5d2ctX19RTGQ2MWFhZVhGZVE5Y3lKV2FjU2Fn?oc=5)
+
+---
+
+### [DWP confirms full list of 45 eye conditions that qualify for £114 weekly PIP payment - Yorkshire Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSks3UzB5eHA3WXZkTzlOTkFTTFlwMllaRnI1NG5Rd0dlWnJhbVlxYU9fRm45TERJOTBXbXViMmItbnA3blJwWFh0NFFFTGNrWW4xV2dtbC1nU01YUmpyLVJJRE9aamkyWl8tbTNiUmNWUEZGX3lHcm5hMHJ4OEZCTHYwdUxuLUdKdzFoYVZ30gGTAUFVX3lxTE05M3VFcTBTY3FvdGx5MEdlSU9SSXQyNzNaZnhEX2h5RFZrRS1PeGh5NDVpamtnenJmV3RITkdqNDhNdFloODlFTURVWlhvZzdLUExjTVZwOUxGZnRGNXpyb3dzSkdFa3A0SFJ4b21WbEJIQlgyU0ZUWHRlRXdEbmYxNHNCLXhnNjRJVThkRGdOZzdBSQ?oc=5)
+
+2026-10-08 <span class="news-indication-tag">MS</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSks3UzB5eHA3WXZkTzlOTkFTTFlwMllaRnI1NG5Rd0dlWnJhbVlxYU9fRm45TERJOTBXbXViMmItbnA3blJwWFh0NFFFTGNrWW4xV2dtbC1nU01YUmpyLVJJRE9aamkyWl8tbTNiUmNWUEZGX3lHcm5hMHJ4OEZCTHYwdUxuLUdKdzFoYVZ30gGTAUFVX3lxTE05M3VFcTBTY3FvdGx5MEdlSU9SSXQyNzNaZnhEX2h5RFZrRS1PeGh5NDVpamtnenJmV3RITkdqNDhNdFloODlFTURVWlhvZzdLUExjTVZwOUxGZnRGNXpyb3dzSkdFa3A0SFJ4b21WbEJIQlgyU0ZUWHRlRXdEbmYxNHNCLXhnNjRJVThkRGdOZzdBSQ?oc=5)
 
 ---
 
@@ -150,11 +158,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQ
 
 ---
 
-### [Major Parkinson’s breakthrough as new pill offers hope of treating symptoms and has fewer side-effects - The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+### [Daily pill heralds new era in Parkinson’s treatment - The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
 
 2026-10-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMivwFBVV95cUxQTk9XbENyYnhHNWV0TDV1NnlMVi03OUZNZFM2TWhGR2VZUjlfOG5yTVB0UDVSSEc4Z1N5LS1yUmNMS0tMX1NIaG9OYXVzWXEzYW1IVGhvQmtIR0tMYnh1ZE9SQ3ZkZV9zcjFCUXFEZzlneXhXeWJFUDYzT2E0R2dWcmlrcHNOSVN4NjhZOTM3eW1rSERXWlg1aDAzYlhtRjVNSXF1R3hXOWhmVWxaRXdkWWZUdklEd3VScEpqQk1oQQ?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
 
 ---
 
@@ -182,27 +190,19 @@ Source: [Volksfreund](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXJGS
 
 ---
 
-### [Flu season could kick off ‘incredibly’ early — what scientists are watching](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZGZfeGp2NVdzUjlOYkNSMjNEQ1hmdmYyOFhJTWRzYVE3NUpNdFVROTlGN2VBNEJfSHduYk9IdDh1OVJ5WXJTcDFoTVZja3lhWklQMS1sbll2eGk4WUdn?oc=5)
+### [Die Zahl der MS-Erkrankten überscheitet erstmals die 3-Millionen-Marke](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNTNncUdnRW91YTl2RTFvTkhrRU1GRjMyTGFJQmZnUXBqVi00NzVXOXNfMTQwTGJ1SWw5MkZzT1hIMU4xU3dtdURDUFhQaFFxeUZUeEl0NkVQbjNxU0hyRlZtTVpTVGN2V2JfTmxDTFFzXzdsSVhiSmJBbHktUUpLNzV0dEVnbjVINXFRR1JzVGdFSGRnODN2TG5uejNVazBoTzI5TUdFUEw5V0xSdlhscVRMRTJvN19OTWM0XzVLNzFrS3ozbWwwZ3pmYndGbkRGa29mZVdMX0R2bEVEa1BDTTl1MmNuNEtPdl9RRzYtWHRaVTRPQURXVUk1ZlN1dVk3b29EWkRFcGk2clk?oc=5)
 
 2026-10-06 <span class="news-indication-tag">MS</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZGZfeGp2NVdzUjlOYkNSMjNEQ1hmdmYyOFhJTWRzYVE3NUpNdFVROTlGN2VBNEJfSHduYk9IdDh1OVJ5WXJTcDFoTVZja3lhWklQMS1sbll2eGk4WUdn?oc=5)
+Source: [lifePR](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNTNncUdnRW91YTl2RTFvTkhrRU1GRjMyTGFJQmZnUXBqVi00NzVXOXNfMTQwTGJ1SWw5MkZzT1hIMU4xU3dtdURDUFhQaFFxeUZUeEl0NkVQbjNxU0hyRlZtTVpTVGN2V2JfTmxDTFFzXzdsSVhiSmJBbHktUUpLNzV0dEVnbjVINXFRR1JzVGdFSGRnODN2TG5uejNVazBoTzI5TUdFUEw5V0xSdlhscVRMRTJvN19OTWM0XzVLNzFrS3ozbWwwZ3pmYndGbkRGa29mZVdMX0R2bEVEa1BDTTl1MmNuNEtPdl9RRzYtWHRaVTRPQURXVUk1ZlN1dVk3b29EWkRFcGk2clk?oc=5)
 
 ---
 
-### [Die Zahl der Multiple Sklerose -Erkrankten überscheitet weltweit erstmals die 3-Millionen-Marke - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTZfUFVXWEE1ZjYxVTBDc3VYTTc3SWZPanh0eHFqMU9pWTlHYUdkOW9memNSVDMzdXlDVlBsYW52UG95MUdYZWplQkJ0c1Nxc0ozazljYUNELWxNTkRsdnNZTkI1RURnaExuRkdYck5hVGoxT0tyc2ptcG9ROUhIc3BPeGlZbFJ2Q1IwbS0tbTJIYm9OTUxKcXl6V1RIa2F5QUliZUFIZnJDYjUtQWpsZGswZGROdWg0UmtjVmZKaERzcS1xYVV3bGpBcGlIdTg?oc=5)
-
-2026-10-06 <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
-
-Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTZfUFVXWEE1ZjYxVTBDc3VYTTc3SWZPanh0eHFqMU9pWTlHYUdkOW9memNSVDMzdXlDVlBsYW52UG95MUdYZWplQkJ0c1Nxc0ozazljYUNELWxNTkRsdnNZTkI1RURnaExuRkdYck5hVGoxT0tyc2ptcG9ROUhIc3BPeGlZbFJ2Q1IwbS0tbTJIYm9OTUxKcXl6V1RIa2F5QUliZUFIZnJDYjUtQWpsZGswZGROdWg0UmtjVmZKaERzcS1xYVV3bGpBcGlIdTg?oc=5)
-
----
-
-### [Mum told by doctors her symptoms 'were just hormones' gets devastating diagnosis - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+### [Mum told by doctors her symptoms 'were just hormones' gets devastating diagnosis - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
 
 2026-10-04 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
 
 ---
 

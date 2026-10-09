@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Melatonina: una aliada inesperada contra el tumor cerebral más agresivo - The Conversation](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWZtWHRWSU1KRlo1VnpfaDNhdnNmdHVhVjBTMmpYUmhqY3cxYkF2Rmx3bDB3RjZSMmFKV29NXzNpb3dKT2JVYlpoZlA4bGZLYmNWZXpsb3Y2MU4tSWdUVm0yNlBQYnBzbnZ2dTBRR1lKRU9ueWQ3ZDh5VHFEZUFaaUJuTS0tbXFqRUZzUXdpalJLR2tadnROTjJEeno0WVctWVVvUkJ6a0U?oc=5)
 
@@ -115,6 +115,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aY0ktNm95UzhCT
 2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3BWVWN0eTBrZ0VrZXVZb0VlMjkxTC03Q3I3X1F2dndaQTNFMk4zVDMwdm4wYi1rVjY4RmV2WmVtc281OVpqc3BVQXRRT2cxanpuZUdHTE9OXzFveXE0ZEI4VjVIbHVGY3NydjJqNnZqck11NEVkYXA1TmtoNVpKUTdsUC1RejgyczBmSVlYbmtVa1N5VUlEdDl5RjMtRzdjbjM4NWFndTJwX2oweWd0aFVocnY4c0FIRW5iQTBSN0VPY3Q5LXc?oc=5)
+
+---
+
+### [Adipositas in Deutschland: administrative Prävalenz, Komorbiditäten, Mortalität und Behandlungskosten - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
+
+2026-10-05 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX2c5bkRPaHBjd3FRSklubHM4M3Nldk5mc0M3YnNlZ2JkR0RTSUdfb2VTVExiOV9INXFxM1pMOUR5eWJtZl90M0pQc2pUVHB2VXFnVkpuRWN0Y1pxdnJUWmFfWkRORXNHSjJnd1RBNHJFTzBicmc3N094QTE3YklLSU1naHpSYWdmMHR5LVJuVzQ1VWxlNnQ1Q1JjcVQzd2hzZFFxelB2Nkp3bkZiVWlJS082ODYxUmVEakNtdDhwYnFGTXNaZUtTQ3dXSW5NZHV6VlFDUDdrdDA3Vm83MnhxZllwdkE3LWdUeWF3Ukt3?oc=5)
 
 ---
 

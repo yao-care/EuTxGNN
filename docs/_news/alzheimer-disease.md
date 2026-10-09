@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Experts uncover link between ADHD and memory problems in later life - The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkdQWFdvdks3WWtIeHFZcDdmQlROcC10TWFjeVZOa19uYktLWGxYb1dBRUxZcXFHVHVXXzUtSmxiZ054RHpZZlhlSGt3ZzZHZENWckFJZ0FYRG9xY3hIczM0ZjUxaFJCa01MSTZ5SmozNFRMTEM3d0RZd3pNUkEyVi1hbjZmMWItZExjNlRGYUFpVV82eDdaT2ZsejVlWnc?oc=5)
 
 2026-10-07
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkdQWFdvdks3WWtIeHFZcDdmQlROcC10TWFjeVZOa19uYktLWGxYb1dBRUxZcXFHVHVXXzUtSmxiZ054RHpZZlhlSGt3ZzZHZENWckFJZ0FYRG9xY3hIczM0ZjUxaFJCa01MSTZ5SmozNFRMTEM3d0RZd3pNUkEyVi1hbjZmMWItZExjNlRGYUFpVV82eDdaT2ZsejVlWnc?oc=5)
-
----
-
-### [My husband’s dementia diagnosis took 15 months – and our fight for help was just beginning - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
-
-2026-10-03
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlVUQjV4cWlvMGFhSVliMTExU3k4dFcxaTdtY2ItekF5LXFyRXc4Zm1oSWRQU00zdElkdS1jZUdvMkotb1RfQzd1d0htWHFxeW55Tk03ckQ2cFNSV3ZRSm1tdEh6Z1RHXzcwRWljNHlsd3N2OGpDQUoxeF9iSm51N0pZdU9EbkZTSHRsUmJLTm94QjNuRUFLRWhmNUpVTEFFSGc?oc=5)
 
 ---
 

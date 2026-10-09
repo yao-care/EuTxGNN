@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ### [Schlaganfall: Immer mehr junge Menschen betroffen – Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
 
-2026-10-08 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-09 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
 

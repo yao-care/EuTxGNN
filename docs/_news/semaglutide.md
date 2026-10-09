@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Obesidad infantil y adolescente: la OMS desaconseja fármacos y cirugía](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONS12VEprVks2VGhEYkZwY3NYaWV6NW1kaVZKOGotSDNBRS1uYVBLWmJrb2lyVzZQU0hYdkZKa1VkdEpOTW1UZVloR1JQYXYxQmZFR2ZVcEJCUnJ0ZVhwWHNROHRNa29KNkQyZ1I2a0IxUjNUUUJVcUo2alVwWnZJM1M1MkRDVWgtX2JlWUxaX3ZxNnplZ214OTBsMHZ4a3ptSWwyOFVrcGRtYXhVaWF2WVRVR29NZzVFd19V?oc=5)
 
@@ -67,14 +67,6 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMiuwFBVV95cUxONS12VEpr
 2026-10-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMizgFBVV95cUxOakFQeTJkZjJidXk1TTJoY2tUTENhOWptcmVFYjd5TFJ3Zzc3S0VnRDF0MEc0R1hJUHkwWVdBUlJMd2ROM01lbVB5MGJxcG85U1V0WFN0UjV0Q1RhYzJWUmtBZGVuNXVBcXNqV1RQUXo5QW5IXzFrMGRpZ210TzFYUzRfQ3VsSVRsVXBxV2xGSThXdGYxUWJuMHRzYV9TQ0otRjZxWGV1RDBaWEQ1anRqbWZMcDIyYUI5WDdxcGF0SFMzbnNUb2s2b3A3UlNoUQ?oc=5)
-
----
-
-### [Emerge un nuevo biomarcador de fibrosis renal en la diabetes - IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi13ZkpGdG5KLVlfOUNlWUJnX2RaZVVnMVU1UEwzRmxndklHa1RuSDhILXc3N0xGbHlMSEFLTll1anJieGJCUVlmUHNpVDhld1dza2ViaUM2WUhycEI2N2M3YjRCc1g5Z19oaXVLVmtoLUQyMW5yOUFRb3RoZzBKaVFhTDJOMkRtblhaMmZHcGsyNW8zSkM0azl4QU1qck1GdVlZZ1BsWDNndHhGS0xpajFYUdIBsAFBVV95cUxPWDdCd1hBZVY4aDA3Q0pJNHRFNmxxajd4dzJUWmtjZXlKN0NqVkRjMGE5MlB6blNESGdSN01rTnI4WjBMTDVyb1dtcEsza1M2WWVUbHhiTVlqTHcwM18xUk9tSlI3NThpa1Z1RGtvUmZkcFh3STVLeDBWay1tc2tZbXhwUVpoZ2ZtY3Rab3BYaWZUeWw0WVR5NmlzNkwyY25RendWWkxfOUY4Tk1tVkktdQ?oc=5)
 
 ---
 
@@ -126,19 +118,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 
 ---
 
-### [Nell'era Ozempic la magrezza assoluta torna protagonista: in passerella non c'è posto per corpi veri](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTBidzU0RE1Qc2NCbnpRSGR1bEhRcl91a2lmQUhZNWgzeFhKYTBVVkxCWTBHTlJzMjlyWm5MZlhURDA3Q2JTODJ2Z1BOZjZnTFpWZWJ4WDRMS3pFUS1LYWJvRGphcnNXM1h6ZHBsXy1ZWEdyNGNaTU1uSWJJSW5SNXdiR09OTVEyNHhTOG1Dd3lmNDh1M1lDUTFVTWxkYUV0VV9iam9adGZuZ1E1T2c4MWxnOVVJOEVEVU1YOTg5dnhVUzJINTFVbGgxVGxMM2FHSFFZN1pJWQ?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Semaglutide</span>
-
-Source: [Fanpage](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTBidzU0RE1Qc2NCbnpRSGR1bEhRcl91a2lmQUhZNWgzeFhKYTBVVkxCWTBHTlJzMjlyWm5MZlhURDA3Q2JTODJ2Z1BOZjZnTFpWZWJ4WDRMS3pFUS1LYWJvRGphcnNXM1h6ZHBsXy1ZWEdyNGNaTU1uSWJJSW5SNXdiR09OTVEyNHhTOG1Dd3lmNDh1M1lDUTFVTWxkYUV0VV9iam9adGZuZ1E1T2c4MWxnOVVJOEVEVU1YOTg5dnhVUzJINTFVbGgxVGxMM2FHSFFZN1pJWQ?oc=5)
-
----
-
 ### [Santé. Diabète de type 5 : c'est quoi cette maladie qui pourrait concerner des millions de personnes ? - Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">diabète</span>
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
+
+---
+
+### [Probing the many benefits of GLP-1 receptor agonists](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
+
+2026-10-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
 
 ---
 
