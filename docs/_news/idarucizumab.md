@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 
 ## Related News (1)
 
-### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+### [Bpco, Papi (UniFe): "Obiettivo terapeutico deve essere zero riacutizzazioni" - Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 
-2026-10-05 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">arthritis</span>
+2026-10-09 <span class="news-indication-tag">BPCO</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 
 ---
 

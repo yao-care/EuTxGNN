@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="What news is there about Botulinum Toxin Type A?">
-<strong>Botulinum Toxin Type A</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Botulinum Toxin Type A</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Botulinum Toxin Type A with 
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Bpco, Papi (UniFe): "Obiettivo terapeutico deve essere zero riacutizzazioni" - Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">BPCO</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
+
+---
+
+### [Daily pill raises hopes of first major new class of Parkinson's treatment in decades - GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
+
+2026-10-09 <span class="news-indication-tag">Parkinson's</span>
+
+Source: [GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
+
+---
 
 ### [Exercise Tied to Long-Term Cognitive and Motor Benefits in Parkinson's](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
 
 2026-10-07 <span class="news-indication-tag">Parkinson's</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
-
----
-
-### [Daily pill heralds new era in Parkinson’s treatment - The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
-
-2026-10-07 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnROY3c2NlUtTnlyQnFnUGNGTndBRXFESGwtOUp5VzNKcFFxRTlQdzRWa1BxMUN3U1ZuU3o0SnpLNTVRTmY2UXQ0bi1aODhRRjdYeDgxYlJ1VU5FemZCY3Q3cHF6ZUptRU1wYzJKVmd3cWFic2VSSG1UZ1A0RHdTZzRxSjdCUQ?oc=5)
 
 ---
 

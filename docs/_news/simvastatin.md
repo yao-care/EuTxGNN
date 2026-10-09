@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (1)
 
-### [Schlaganfall: Immer mehr junge Menschen betroffen – Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
+### [Le Dr José Manuel Felices alerte : « Un AVC ne commence pas toujours par un visage déformé ou un bras paralysé » - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9jWmRwQkVGN1ktamx1UC1kZTZQYnhDWkRLekRpNlB5R0NDOEtMRDFqX3lhb21lVTYzVmNSR3BOczYxRlpVNzAybWtZVnhmdGJYNUc5cXRRNHFDU0Zuel9kLTRNSHBzUUx1eVpqZ25ta21XZnFGSFp4YUpNdVhxNWRNR184V3FQSE51YlBHTG96MUdz?oc=5)
 
-2026-10-09 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-09 <span class="news-indication-tag">AVC</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdlpSYjFlY0E3TmxOUXM0SUlYMlowdWhMYURRM1dPeXNzWmdzWFl3bUQ5STE0dU1VbXphNFdlYVI0V3BtaVhEbXF3T0Z4NDZkYUJDcDRmd0lnaGhGb3pjcWhiMDFsUy1HTGk4TEhCc05GdUlrSFdjcWNTZ1VxX2gtTUxvaXVqRmI4UDFlQWJGVnU2RUdCeV9tQk5mRWEzdUIxNENweEVieTN3OER1czZGaUQzZ1YyajJBRTZjcENJS25uN3VMeVFKR242RXZTV2VuMGktM2JFbThMcWpWZlQzdmh5bnJoWTl5Sk5RY2dBenA?oc=5)
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9jWmRwQkVGN1ktamx1UC1kZTZQYnhDWkRLekRpNlB5R0NDOEtMRDFqX3lhb21lVTYzVmNSR3BOczYxRlpVNzAybWtZVnhmdGJYNUc5cXRRNHFDU0Zuel9kLTRNSHBzUUx1eVpqZ25ta21XZnFGSFp4YUpNdVhxNWRNR184V3FQSE51YlBHTG96MUdz?oc=5)
 
 ---
 

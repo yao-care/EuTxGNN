@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Idebenone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [Bluthochdruck im Antrag, Prävention im Gespräch](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzkwMTZRWGdzQU4xZk5tblRjLTBKa1lsYnNuU3RVMDJZM1J3SXN1eEFvM1hhQkpBaV9EZzcyNjZmN09JcFRxVVMyeEFLZTFYWVVraGFTZUFtaGFwMzJxUzZHLWJ4ZVhQZUhkZ1d4dHVEZjh5YkE5WUtaWTJRc3Z4VTBlNHJHRVM1NFlTbVd2eFN5TmRyQmlwZHFHdHUyX1dQdXV6NThyU3h0bndD?oc=5)
+### [Professeur Steg, cardiologue : "La tension idéale à 60 ans a changé, les médecins ne visent plus les mêmes chiffres" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
 
-2026-10-08 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-09 <span class="news-indication-tag">hypertension</span>
 
-Source: [procontra](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzkwMTZRWGdzQU4xZk5tblRjLTBKa1lsYnNuU3RVMDJZM1J3SXN1eEFvM1hhQkpBaV9EZzcyNjZmN09JcFRxVVMyeEFLZTFYWVVraGFTZUFtaGFwMzJxUzZHLWJ4ZVhQZUhkZ1d4dHVEZjh5YkE5WUtaWTJRc3Z4VTBlNHJHRVM1NFlTbVd2eFN5TmRyQmlwZHFHdHUyX1dQdXV6NThyU3h0bndD?oc=5)
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
 
 ---
 
@@ -67,22 +67,6 @@ Source: [procontra](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzkwMTZ
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
----
-
-### [Hypertension et arthrose : un lien jusque-là insoupçonné se précise - Pourquoi Docteur](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BvbjU0Mm85d3BXd0dSM0JiSnZqSU9KUVRidE4xcWlWc016R3hTNEI3Q3ZwSlczMnBkMXkyV3FCaWdaRXF0NWE5MGlKeHFvSF8zaTFjNWNSVWRQMDEyMEpPR3ROc3o5QndJYmhJTDBmdkZiWDdja1ZWc2w3R3JuZkVNZFZKZ0xGRTV3VWVJYVp4ZHhHYUhWU3lKOGVBYXRRRjNqTXM0LV9oMTJqMEVOeHp4QkpmZVpLc2c?oc=5)
-
-2026-10-07 <span class="news-indication-tag">hypertension</span>
-
-Source: [Pourquoi Docteur](https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3BvbjU0Mm85d3BXd0dSM0JiSnZqSU9KUVRidE4xcWlWc016R3hTNEI3Q3ZwSlczMnBkMXkyV3FCaWdaRXF0NWE5MGlKeHFvSF8zaTFjNWNSVWRQMDEyMEpPR3ROc3o5QndJYmhJTDBmdkZiWDdja1ZWc2w3R3JuZkVNZFZKZ0xGRTV3VWVJYVp4ZHhHYUhWU3lKOGVBYXRRRjNqTXM0LV9oMTJqMEVOeHp4QkpmZVpLc2c?oc=5)
-
----
-
-### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
 
 ---
 

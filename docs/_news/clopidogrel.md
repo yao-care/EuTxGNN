@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel?">
-<strong>Clopidogrel</strong> currently has <strong>0 news articles</strong>, with 12 predicted indications.
+<strong>Clopidogrel</strong> currently has <strong>1 news articles</strong>, with 12 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -44,9 +44,15 @@ This page combines the AI-predicted indications for Clopidogrel with the latest 
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [This is the official date you should turn on your central heating, and 7 ways you can delay it - Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
+
+2026-10-08 <span class="news-indication-tag">heart disease</span>
+
+Source: [Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
+
+---
 
 
 <div class="disclaimer">

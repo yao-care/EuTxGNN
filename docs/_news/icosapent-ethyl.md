@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 
 ## Related News (1)
 
-### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+### [This is the official date you should turn on your central heating, and 7 ways you can delay it - Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
 
-2026-10-05 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">arthritis</span>
+2026-10-08 <span class="news-indication-tag">heart disease</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+Source: [Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
 
 ---
 

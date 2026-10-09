@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Morbus Crohn: Top-Down-Behandlung vermeidet langfristig Operationen und andere Komplikationen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
+### [Bpco, Papi (UniFe): "Obiettivo terapeutico deve essere zero riacutizzazioni" - Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 
-2026-10-06 <span class="news-indication-tag">Morbus Crohn</span>
+2026-10-09 <span class="news-indication-tag">BPCO</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
-
----
-
-### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">arthritis</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 
 ---
 
