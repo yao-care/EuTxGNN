@@ -3,7 +3,7 @@ layout: default
 title: "Parkinson's (parkinson disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Parkinson's (parkinson disease). 2 articles, 7 related drugs."
+description: "Health news about Parkinson's (parkinson disease). 1 articles, 7 related drugs."
 permalink: /news/parkinson-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parkinson-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Parkinson's (parkinson disease)?">
-<strong>Parkinson's (parkinson disease)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
+<strong>Parkinson's (parkinson disease)</strong> currently has <strong>1 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page brings together the latest health news about “Parkinson's” and lis
 </ul>
 </div>
 
-## Related News (2)
-
-### [Daily pill raises hopes of first major new class of Parkinson's treatment in decades - GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
-
-2026-10-09
-
-Source: [GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
-
----
+## Related News (1)
 
 ### [Exercise Tied to Long-Term Cognitive and Motor Benefits in Parkinson's](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
 

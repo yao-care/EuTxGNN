@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
+### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
 
-2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+
+---
+
+### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+2026-10-09 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+---
+
+### [Probing the many benefits of GLP-1 receptor agonists](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
+
+2026-10-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
 
 ---
 

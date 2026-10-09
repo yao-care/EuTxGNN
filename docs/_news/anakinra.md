@@ -14,7 +14,7 @@ permalink: /news/anakinra/
 ---
 
 <p class="key-answer" data-question="What news is there about Anakinra?">
-<strong>Anakinra</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Anakinra</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ This page combines the AI-predicted indications for Anakinra with the latest hea
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+2026-10-09 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/thyrotropin-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Thyrotropin Alfa?">
-<strong>Thyrotropin Alfa</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Thyrotropin Alfa</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Thyrotropin Alfa with the la
 <p><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">hypertension</span>
+
+Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+
+---
 
 ### [Professeur Steg, cardiologue : "La tension idéale à 60 ans a changé, les médecins ne visent plus les mêmes chiffres" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
 

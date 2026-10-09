@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [IL-23-Inhibitor zeigt auch langfristig großes Potenzial beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkc1STZhQ1FrVGVsQjc3bDlxcldTUEVrMUdLUmhRV2YxLWtBbDVZLXNPYWhZZEp6bWtPNnNGODFOaGlnQmt4SDJHSzFSSGdBSDUxd09FYi1RVlpMeWFjR25HemR1X05ybHd0Mm9nVjRSSk5CTTVoT0duaDdEVUdyanBwS3Z5VUQ5RU04Q3U3QXNTWmZpdHFVOUNYc1hQckNIT3lHNmppNmVhc2NfRkc0eWtNR0tkNURyRm5ObWNhTm10djhVaG5BWGlMY1BNUlAyVUN4SmhTR0p3ZzQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkc1STZhQ1FrVGVsQjc3bDlxcldTUEVrMUdLUmhRV2YxLWtBbDVZLXNPYWhZZEp6bWtPNnNGODFOaGlnQmt4SDJHSzFSSGdBSDUxd09FYi1RVlpMeWFjR25HemR1X05ybHd0Mm9nVjRSSk5CTTVoT0duaDdEVUdyanBwS3Z5VUQ5RU04Q3U3QXNTWmZpdHFVOUNYc1hQckNIT3lHNmppNmVhc2NfRkc0eWtNR0tkNURyRm5ObWNhTm10djhVaG5BWGlMY1BNUlAyVUN4SmhTR0p3ZzQ?oc=5)
+
+---
+
+### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+2026-10-09 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+
+---
 
 ### [Bpco, Papi (UniFe): "Obiettivo terapeutico deve essere zero riacutizzazioni" - Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 

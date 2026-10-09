@@ -3,7 +3,7 @@ layout: default
 title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about high blood pressure (hypertension). 2 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
-<strong>high blood pressure (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<strong>high blood pressure (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,7 +83,15 @@ This page brings together the latest health news about “high blood pressure”
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+
+2026-10-09
+
+Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+
+---
 
 ### [Professeur Steg, cardiologue : "La tension idéale à 60 ans a changé, les médecins ne visent plus les mêmes chiffres" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
 

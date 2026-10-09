@@ -37,6 +37,14 @@ This page brings together the latest health news about “dépression” and lis
 
 ## Related News (4)
 
+### [Pränatale Depressionen erhöhen das Risiko für neurologische Entwicklungsstörungen - Biermann Medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakoxYzBiYmtHME1ZbXBYcm1QeV9VZTZ2QTlQOVVXYktNYzVaa1hwX0Q4QTlSbTV6QWdLdmVJV0xqeTRWU0QwVVp0d0lkZGI4U2VsOE4xcUJVdkdPellSUFc1M2dGZHFnVWdfZ3l4N1J5YmdHeC1rZWhPZExqRFlBeWwzY0VPTFlpbEpRdnQxQndPZnBOcWFXODZfUHlTcVZ1bmQ2ajRhS3hfY3o2TzhFWmtJWTY?oc=5)
+
+2026-10-09
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakoxYzBiYmtHME1ZbXBYcm1QeV9VZTZ2QTlQOVVXYktNYzVaa1hwX0Q4QTlSbTV6QWdLdmVJV0xqeTRWU0QwVVp0d0lkZGI4U2VsOE4xcUJVdkdPellSUFc1M2dGZHFnVWdfZ3l4N1J5YmdHeC1rZWhPZExqRFlBeWwzY0VPTFlpbEpRdnQxQndPZnBOcWFXODZfUHlTcVZ1bmQ2ajRhS3hfY3o2TzhFWmtJWTY?oc=5)
+
+---
+
 ### [Unterschiedliche Mechanismen beeinflussen das Demenzrisiko bei Depression - Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5TRXFuZDJsYlZEdDR3Y2h0N1lsZWZVREVWMUFKYkxxV3BsUjd1R21PZHdMTkx2Q0YxNUJPdkxHTHd2RDJPYzFXdEN2aUNOcXpfQzNfaDJTNUhBaGFseHhiMjRNLU5pWmh4REcxeHRpak1PRFhVeEVRU1NYVUJKd3h4d1ZFQ1lFX1c2eE9jdzIzdmxYLWl6QlNCa0I3OWlkdHdQOQ?oc=5)
 
 2026-10-09
@@ -50,14 +58,6 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxP
 2026-10-08
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0xiY2hORm9kaDB3dFBodFYxVEtBcnlDdXFCM2xjQ2ZaYm90WmRDN0pvVTMxRGhOX0w3c1lES2lCWXEzWGtLdE5DVFVRTFB0Vjl0Q1RtY2xiMGdHU0pqNmNmVVU1M3ZzSVgzdE4wdVBoQmpoQy10ZkVaRHd5Yk5vRmdzQUtfV1NvdS0yakptc1RaQUxiZE9vdlhfVnFtcXNtT1dPdXlKNjZ3REt6Ui1Td2piUFNoM3U3bGRlUlJ2eTRYdklZZmx0OU5wd1k3LVVUVWN0SVJmLWdiR2RGdkl2bm4yWlN3MWdHTHNGOVp6eGJzVXN6Qnl4UGFTbVg2V0hrWUdfcXln?oc=5)
-
----
-
-### [Depression und Ernährung: 85 Prozent weniger Fertigprodukte, besseres Befinden - AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
-
-2026-10-07
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZThBa2d4X2JRUHpFU2NHTVRDTTFDN0laTVEwRGVfNDE1S04wUWMzcEFqODVCNzFaZG50T05xM1JwMEs1eWVtWWhuRW16dHFxREZHaFRhS3JkT0pWWHhORVhwUG1pVnpCT0VlOGVGWXZvQ0RjVGM1Njd3QVlRRHRESy1IZnVPd1Z6RmtZOXV0WkRDaXQyU3BSMkdYRnJOX3dBd0s4Mm93OWJ3U0RmMFpKdjR3Q2VERzV1?oc=5)
 
 ---
 

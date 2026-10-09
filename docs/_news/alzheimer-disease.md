@@ -3,7 +3,7 @@ layout: default
 title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Andy Burnham: I want Britain to make the breakthrough on dementia - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
 2026-10-08
 
 Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
-
----
-
-### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
-
-2026-10-08
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
 
 ---
 

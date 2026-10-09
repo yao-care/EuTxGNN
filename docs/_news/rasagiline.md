@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Daily pill raises hopes of first major new class of Parkinson's treatment in decades - GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
-
-2026-10-09 <span class="news-indication-tag">Parkinson's</span>
-
-Source: [GB News](https://news.google.com/rss/articles/CBMif0FVX3lxTE5PYWtIVlVkdGN4a3dib2t1MkhhdFBzdEVNdS1lWnVuUFpZSkRXMmE0OEtucDUta2RZc3ZnUkZ6aWlKb1liXy1GU2JkTWlEclZYWmV2dEtYQ1lsSjRtQ3BRWGkwS2ZwRGxYcktZZjRrU3VKS2hGNHRRMjY1dTRmYW8?oc=5)
-
----
+## Related News (2)
 
 ### [Andy Burnham: I want Britain to make the breakthrough on dementia - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
 2026-10-08 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
-
----
-
-### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
-
-2026-10-08 <span class="news-indication-tag">dementia</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
 
 ---
 

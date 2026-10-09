@@ -14,7 +14,7 @@ permalink: /news/cannabidiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Cannabidiol?">
-<strong>Cannabidiol</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Cannabidiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 <p><a href="{{ '/drugs/cannabidiol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Anoressia, il cannabidiolo può aiutare?](https://news.google.com/rss/articles/CBMingFBVV95cUxPcExva0pJRFprZ2tLZnF4a1JLODB1ZWJtZ1NrS1BNTlNHYmdBSDNGTk42Y3ZCbUtmNHcyUXRUeE4xOFF0aG5mMksyemRxSmY4WFZ6bkRJa1RWaGpFTzJLZjg3ZWRJd2FuZktZdldUaDh4VTlMX3ZyM0ZJazRIWmNSdERGSE5NaVhrSTNYNkFrY0RhLUk5M25lOTl3b3VCQQ?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Cannabidiol</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMingFBVV95cUxPcExva0pJRFprZ2tLZnF4a1JLODB1ZWJtZ1NrS1BNTlNHYmdBSDNGTk42Y3ZCbUtmNHcyUXRUeE4xOFF0aG5mMksyemRxSmY4WFZ6bkRJa1RWaGpFTzJLZjg3ZWRJd2FuZktZdldUaDh4VTlMX3ZyM0ZJazRIWmNSdERGSE5NaVhrSTNYNkFrY0RhLUk5M25lOTl3b3VCQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

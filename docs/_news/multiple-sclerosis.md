@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "MS (multiple sclerosis) News"
+title: "Multiple Sklerose (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
+description: "Health news about Multiple Sklerose (multiple sclerosis). 11 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
-# MS (multiple sclerosis) News
+# Multiple Sklerose (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>15 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about Multiple Sklerose (multiple sclerosis)?">
+<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Multiple Sklerose” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -54,29 +54,21 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (15)
+## Related News (11)
+
+### [Multiple Sklerose: Therapie mit Ocrelizumab auch nach zehn Jahren sicher und effektiv – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
+
+2026-10-09
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
+
+---
 
 ### [La OMS desaconseja tratamientos farmacológicos y cirugía para frenar la obesidad infantil - Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJcTZRdnVVNzVfMEE2MVFKN2Zvd1pyd1VYQnhKMF9Bai0zSnFBeW5HSHBGUEoxM1Bka0k1ZnZrQ2EzUWdoenBENFRIck42ejNnbmFsOUJzUTRCeUtGTk5TdXo1bGZ3Z1hUaW96NnR1Vi11N3MtdzU5TUwxZGFhMFlfZzhEVHdEclI0bERiMWhxMC0tUUQ1WlQ2OXllVHJISW53dzNiYUp1RVB0M3JrRXNhM0lWMU5nb0xtZ1otaGRQemtKWEx3cWdFUzM1WXRrT0E?oc=5)
 
 2026-10-09
 
 Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJcTZRdnVVNzVfMEE2MVFKN2Zvd1pyd1VYQnhKMF9Bai0zSnFBeW5HSHBGUEoxM1Bka0k1ZnZrQ2EzUWdoenBENFRIck42ejNnbmFsOUJzUTRCeUtGTk5TdXo1bGZ3Z1hUaW96NnR1Vi11N3MtdzU5TUwxZGFhMFlfZzhEVHdEclI0bERiMWhxMC0tUUQ1WlQ2OXllVHJISW53dzNiYUp1RVB0M3JrRXNhM0lWMU5nb0xtZ1otaGRQemtKWEx3cWdFUzM1WXRrT0E?oc=5)
-
----
-
-### [La OMS alerta de la elevada mortalidad del brote de ébola en la República Democrática del Congo - Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJzeFZoYW1OZVJVRUdOU0l6VjNJQTQ2OENyaUdDaF9yUGlXTVd6bHE0UTExLUg3eC1wMDl2YVBBOGZyRWdYc2lycmctMVdWdDFRM3JUVFBKRG1SZElvOEc2QzBUa2RQYU5WNFBJUl9wdHBsM3BYTFJRZ2Zlc1YzUF9Eejd6cFhHSkdvSzNuYjZvSlhVUVBfaV9nYTJlRTlqSUhYQjh3elhoOHk5cFE?oc=5)
-
-2026-10-09
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJzeFZoYW1OZVJVRUdOU0l6VjNJQTQ2OENyaUdDaF9yUGlXTVd6bHE0UTExLUg3eC1wMDl2YVBBOGZyRWdYc2lycmctMVdWdDFRM3JUVFBKRG1SZElvOEc2QzBUa2RQYU5WNFBJUl9wdHBsM3BYTFJRZ2Zlc1YzUF9Eejd6cFhHSkdvSzNuYjZvSlhVUVBfaV9nYTJlRTlqSUhYQjh3elhoOHk5cFE?oc=5)
-
----
-
-### [Retatrutide in der Forschung: Was die Studien bisher zeigen - Jack News](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzVpM3J1eGI3R1ZFX1djUFRYQ0REdkdDampzTVJxaVRtQzVUSnNhVWdSRVFjeUxXV3pnMVpIUXFyWG9qcVZxSFc0MWdOYXM0MFIza1llYldQeWh0ZDllVnFWTjI2V1pVb1RnaW0ta1d1UWFNb0VEQjZIdm5rT09kb3laSzd4Wmc?oc=5)
-
-2026-10-09
-
-Source: [Jack News](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzVpM3J1eGI3R1ZFX1djUFRYQ0REdkdDampzTVJxaVRtQzVUSnNhVWdSRVFjeUxXV3pnMVpIUXFyWG9qcVZxSFc0MWdOYXM0MFIza1llYldQeWh0ZDllVnFWTjI2V1pVb1RnaW0ta1d1UWFNb0VEQjZIdm5rT09kb3laSzd4Wmc?oc=5)
 
 ---
 
@@ -96,19 +88,19 @@ Source: [The Northern Echo](https://news.google.com/rss/articles/CBMiowFBVV95cUx
 
 ---
 
-### [GLP-1 Users Are Reporting Their Fingernails Detaching](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
-
-2026-10-09
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
-
----
-
 ### [Urin- und Vaginalzytologie könnten Erkennung des Endometriumkarzinoms vereinfachen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFhXREp5MU43TENyaEU3ZmNxcFJ1Y3hKV2NzbXpNSFVQa054djFRLUdlRFB2RHJ1ZUhYTGpXNmZ4UmpmYTF5OVZlRjVnZlJsWHdHdDFrdDY1RXpmN3hfUUxnQk95YVJuaE91Tkl1TnVoRUZyWjFsZmVqbXhXMFNUNHczeHpwY2tZcEhWUDRENlVKNkVwRFZMZkJJYkYtS3RsNkMxdjNjeG9ENDNaUUZyUzczSVlZVGYxSFlkWnA3bjZ1RzB6MFFLTlRHT0xyOWxyNkxJMF9yUFFMOFM4OTNtbjVhN3U?oc=5)
 
 2026-10-08
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFhXREp5MU43TENyaEU3ZmNxcFJ1Y3hKV2NzbXpNSFVQa054djFRLUdlRFB2RHJ1ZUhYTGpXNmZ4UmpmYTF5OVZlRjVnZlJsWHdHdDFrdDY1RXpmN3hfUUxnQk95YVJuaE91Tkl1TnVoRUZyWjFsZmVqbXhXMFNUNHczeHpwY2tZcEhWUDRENlVKNkVwRFZMZkJJYkYtS3RsNkMxdjNjeG9ENDNaUUZyUzczSVlZVGYxSFlkWnA3bjZ1RzB6MFFLTlRHT0xyOWxyNkxJMF9yUFFMOFM4OTNtbjVhN3U?oc=5)
+
+---
+
+### [La Alianza MSD-AstraZeneca presenta 'Herencias Delicadas' para concienciar sobre genética y cáncer de mama](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWlwblFBV01iQVlpRmpOb2ZidndieVJLU1hMbkpUQjhYbDJ6cmV3SkluZ3FabEp2X0xMNFFUcGNtb2o3Xy0yekdFODc1T2dpMFE4U0tlME9xcFFiRWdGdEtqUFBTOUk2cjF5X21qM1h0NGlwYnkyOE1mTTMybEdvWXFQREVOR0g2YVNHbEJaYUJfQVNMenJicVBJeHZqdGd1ak9ZSUlYOWdicWtQYllZXzVaRjhmaXY5dmdMTlItNzZLTzAyZXRyVmFVYTdSQXJxOGdlekhiY2tKeWhZS1l6V2FWQ092SzlKdzJyODNB?oc=5)
+
+2026-10-08
+
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWlwblFBV01iQVlpRmpOb2ZidndieVJLU1hMbkpUQjhYbDJ6cmV3SkluZ3FabEp2X0xMNFFUcGNtb2o3Xy0yekdFODc1T2dpMFE4U0tlME9xcFFiRWdGdEtqUFBTOUk2cjF5X21qM1h0NGlwYnkyOE1mTTMybEdvWXFQREVOR0g2YVNHbEJaYUJfQVNMenJicVBJeHZqdGd1ak9ZSUlYOWdicWtQYllZXzVaRjhmaXY5dmdMTlItNzZLTzAyZXRyVmFVYTdSQXJxOGdlekhiY2tKeWhZS1l6V2FWQ092SzlKdzJyODNB?oc=5)
 
 ---
 
@@ -128,14 +120,6 @@ Source: [ABDA](https://news.google.com/rss/articles/CBMi8gJBVV95cUxNaVpWWmNMV0dX
 
 ---
 
-### [Hochverarbeitete Lebensmittel: Warum die Definition umstritten bleibt](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUJNcFVVSC1Gd0R0QmFvejliX0JuWEFvc0hvN3FEbDhLamYzUGhYR3lqSXhvNjdvdlZSTkFzVVNyM3B1ZzZneTdlaFpyYndJX3I4WThuOTI4YXFaeVFNalpuLThSY0hPMHl1eGVKQlBVa0Uyd2gyN2V2S05Uck5DTWxEUXBleHdBeHpnOVAtQnZkVWo2MGpIRjlWZkQtaVF3TW55NlRTVHg?oc=5)
-
-2026-10-08
-
-Source: [food-monitor](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUJNcFVVSC1Gd0R0QmFvejliX0JuWEFvc0hvN3FEbDhLamYzUGhYR3lqSXhvNjdvdlZSTkFzVVNyM3B1ZzZneTdlaFpyYndJX3I4WThuOTI4YXFaeVFNalpuLThSY0hPMHl1eGVKQlBVa0Uyd2gyN2V2S05Uck5DTWxEUXBleHdBeHpnOVAtQnZkVWo2MGpIRjlWZkQtaVF3TW55NlRTVHg?oc=5)
-
----
-
 ### [Don’t let shingles symptoms slow you down - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 2026-10-08
@@ -144,27 +128,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWD
 
 ---
 
-### [Kids Who Got a Smartphone at 12 Were 49% More Likely to Report Eating Disorder Symptoms by 14](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzdyMHg0TVdwZ25kTm82a3EwZzlmbW91MlhDdXRlYURKZkZxY0dQVURIdjhFOWpvZDNoMy1EeUFTUkxzY3d0azBaVEpTT0ZZOWFKTXRwd3FhUjN0TmZQdGlOd3I5ZF95SnZQQW55LUQ2SEJUdGtmZVJsZzZ3VjkwN0RSVXR5ZElhbEY1VmlBUlBjY2pPX1ZSY3JwMUw5dm1FZ0RjVVJIQTI5NkRydUdpOHVn?oc=5)
-
-2026-10-08
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisgFBVV95cUxPQzdyMHg0TVdwZ25kTm82a3EwZzlmbW91MlhDdXRlYURKZkZxY0dQVURIdjhFOWpvZDNoMy1EeUFTUkxzY3d0azBaVEpTT0ZZOWFKTXRwd3FhUjN0TmZQdGlOd3I5ZF95SnZQQW55LUQ2SEJUdGtmZVJsZzZ3VjkwN0RSVXR5ZElhbEY1VmlBUlBjY2pPX1ZSY3JwMUw5dm1FZ0RjVVJIQTI5NkRydUdpOHVn?oc=5)
-
----
-
 ### [Gene therapy can partly restore sight in blind people, researchers reveal - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
 
 2026-10-07
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
-
----
-
-### [Krebs: Diese 5 Erreger lösen die meisten Infektions-Tumore aus – so schützen Sie sich](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHByeTZVMklrZXVEZzN2YXJqNS0xOWpxTEs2TU83V016b0NCcFJNdklTcERCUFV5NHVRaVB6YTFMdlp5Sm1mTnV2YjM4X2dVS2pWbmpReVJwYmd2MDlhdDU5Q3FxaC1UT0tjamtTUVA5SG5XTmRncUVEbkU2Q184emRPTmNjN0lvcE44dHBDUU5zMXJKcGczQkxuTDdlQWNfM1E2anc3TW5la3QxUmkwMW16VFFkZ19uMVB2SlpJYTdjVVRkcXNWbXdFTDF5dFpzT0ZlQ3pDaGUyc1VHRHZNZFR4VEZVdV9mX2c?oc=5)
-
-2026-10-07
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHByeTZVMklrZXVEZzN2YXJqNS0xOWpxTEs2TU83V016b0NCcFJNdklTcERCUFV5NHVRaVB6YTFMdlp5Sm1mTnV2YjM4X2dVS2pWbmpReVJwYmd2MDlhdDU5Q3FxaC1UT0tjamtTUVA5SG5XTmRncUVEbkU2Q184emRPTmNjN0lvcE44dHBDUU5zMXJKcGczQkxuTDdlQWNfM1E2anc3TW5la3QxUmkwMW16VFFkZ19uMVB2SlpJYTdjVVRkcXNWbXdFTDF5dFpzT0ZlQ3pDaGUyc1VHRHZNZFR4VEZVdV9mX2c?oc=5)
 
 ---
 

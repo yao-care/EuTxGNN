@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [La obesidad abdominal predice mejor que el IMC el riesgo de diabetes e ictus - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+---
 
 ### [Le Dr José Manuel Felices alerte : « Un AVC ne commence pas toujours par un visage déformé ou un bras paralysé » - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilAFBVV95cUxObm9jWmRwQkVGN1ktamx1UC1kZTZQYnhDWkRLekRpNlB5R0NDOEtMRDFqX3lhb21lVTYzVmNSR3BOczYxRlpVNzAybWtZVnhmdGJYNUc5cXRRNHFDU0Zuel9kLTRNSHBzUUx1eVpqZ25ta21XZnFGSFp4YUpNdVhxNWRNR184V3FQSE51YlBHTG96MUdz?oc=5)
 

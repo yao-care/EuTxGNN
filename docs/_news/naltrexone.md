@@ -54,6 +54,30 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 
 ## Related News (6)
 
+### [La obesidad abdominal predice mejor que el IMC el riesgo de diabetes e ictus - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+---
+
+### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+
+---
+
+### [Pancréatites, décès suspects… 17 cas graves liés à l'usage détourné d’Ozempic et Wegovy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+
+Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
+
+---
+
 ### [La OMS desaconseja tratamientos farmacológicos y cirugía para frenar la obesidad infantil - Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJcTZRdnVVNzVfMEE2MVFKN2Zvd1pyd1VYQnhKMF9Bai0zSnFBeW5HSHBGUEoxM1Bka0k1ZnZrQ2EzUWdoenBENFRIck42ejNnbmFsOUJzUTRCeUtGTk5TdXo1bGZ3Z1hUaW96NnR1Vi11N3MtdzU5TUwxZGFhMFlfZzhEVHdEclI0bERiMWhxMC0tUUQ1WlQ2OXllVHJISW53dzNiYUp1RVB0M3JrRXNhM0lWMU5nb0xtZ1otaGRQemtKWEx3cWdFUzM1WXRrT0E?oc=5)
 
 2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
@@ -62,35 +86,11 @@ Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJ
 
 ---
 
-### [BMI übersieht fast jeden zweiten Fall von Adipositas: Was das Maßband besser macht](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWxERlpMM3lrNGRfTTBXUXJVMW9aQlBXbGpNQW41TkpVaEV4RFEycWdYYmNmcnhTbnUtVFFsRHVWVXVjLTJ1Z0VFbVhRNnh3VTlqQzl4bVRRWExoU2VBekM3dHhPX2ppUlBfMjM1VVF0NGt1NklpR0luVGxtZWVOYm9VQnM3YnlhbDN3OEFtWEhybmlTMGdpT2J4d09ueTh1Ym5tVDRJZl8wREE3cXN3UVZaaGtFdFZqd2RJ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">Adipositas</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTWxERlpMM3lrNGRfTTBXUXJVMW9aQlBXbGpNQW41TkpVaEV4RFEycWdYYmNmcnhTbnUtVFFsRHVWVXVjLTJ1Z0VFbVhRNnh3VTlqQzl4bVRRWExoU2VBekM3dHhPX2ppUlBfMjM1VVF0NGt1NklpR0luVGxtZWVOYm9VQnM3YnlhbDN3OEFtWEhybmlTMGdpT2J4d09ueTh1Ym5tVDRJZl8wREE3cXN3UVZaaGtFdFZqd2RJ?oc=5)
-
----
-
 ### [Nagging people to eat healthily does not work - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
 
 2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
----
-
-### [17 cas graves signalés en France après une utilisation non-appropriée pour perdre du poids de médicaments contre l'obésité et le diabète](https://news.google.com/rss/articles/CBMikwJBVV95cUxOU3JUanlzdU5Vd2NaRGZabV90a1paTHdqOXRQcEdsR25JZ3dNQkpQSlRtNTNrYjRBblpDOHdZN29VOUN6bkkzWDNhbjFWTjhtbEJPMXhXUlhCOV94UjFUdUtVWTRXUVNiUEpSWjJBM2lDQ1kwS2VDWklwX1ZHT2Z4bWs0WmY5eEFpSXZadUhGbkVKNXhJSEJwZmVVWm93eWhmTXh3UGhrdmp6LXIwRjNiVTVtUWZyU3pPMHRyWmlGSmNRQVd2XzJPZDNTcjVWODluNnpJaFhuNWhLNGY5bGNUMENHVU01RFZsekZPU21zVWU1SHczODZMMFNIOEd6ei1lMUo2VmdMWGxpZ09oREdqZ0xtTQ?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-Source: [BFM](https://news.google.com/rss/articles/CBMikwJBVV95cUxOU3JUanlzdU5Vd2NaRGZabV90a1paTHdqOXRQcEdsR25JZ3dNQkpQSlRtNTNrYjRBblpDOHdZN29VOUN6bkkzWDNhbjFWTjhtbEJPMXhXUlhCOV94UjFUdUtVWTRXUVNiUEpSWjJBM2lDQ1kwS2VDWklwX1ZHT2Z4bWs0WmY5eEFpSXZadUhGbkVKNXhJSEJwZmVVWm93eWhmTXh3UGhrdmp6LXIwRjNiVTVtUWZyU3pPMHRyWmlGSmNRQVd2XzJPZDNTcjVWODluNnpJaFhuNWhLNGY5bGNUMENHVU01RFZsekZPU21zVWU1SHczODZMMFNIOEd6ei1lMUo2VmdMWGxpZ09oREdqZ0xtTQ?oc=5)
-
----
-
-### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
-
-2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 ---
 
