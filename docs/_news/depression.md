@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 5 articles, 7 related drugs."
+description: "Health news about dépression (depression). 4 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [167.447 Kinder untersucht: Depression und Antidepressiva mit Entwicklungsrisiken verknüpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 
@@ -50,14 +50,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGV
 2026-10-08
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0xiY2hORm9kaDB3dFBodFYxVEtBcnlDdXFCM2xjQ2ZaYm90WmRDN0pvVTMxRGhOX0w3c1lES2lCWXEzWGtLdE5DVFVRTFB0Vjl0Q1RtY2xiMGdHU0pqNmNmVVU1M3ZzSVgzdE4wdVBoQmpoQy10ZkVaRHd5Yk5vRmdzQUtfV1NvdS0yakptc1RaQUxiZE9vdlhfVnFtcXNtT1dPdXlKNjZ3REt6Ui1Td2piUFNoM3U3bGRlUlJ2eTRYdklZZmx0OU5wd1k3LVVUVWN0SVJmLWdiR2RGdkl2bm4yWlN3MWdHTHNGOVp6eGJzVXN6Qnl4UGFTbVg2V0hrWUdfcXln?oc=5)
-
----
-
-### [ADHS und Depression: Reizbarkeit und Ängste im Blick behalten - Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
-
-2026-10-06
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
 
 ---
 

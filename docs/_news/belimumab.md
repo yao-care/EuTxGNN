@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Belimumab?">
-<strong>Belimumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Belimumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Belimumab with the latest he
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
+
+### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
+
+2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+Source: [oekotest.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
+
+---
 
 ### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
 
@@ -86,30 +94,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZx
 
 ---
 
-### [Volkskrankheit Diabetes: Neue Empfehlungen könnten Behandlung deutlich verändern](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
-
-2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
-
----
-
-### [El GLP-1 oral de Lilly demuestra seguridad cardiovascular, reduce glucosa y peso en diabetes tipo 2 - Europa Press](https://news.google.com/rss/articles/CBMiggJBVV95cUxOVXpkV1lONlF4ZFB2cG5NUUM0RU1QZVpHWHF6REVxNkktdWFMMzhHZTdMU0p3SEkwUTVoVHdOZHVVd25HaW1pNmdmalBoa24zcDVzTlZfbVRjVnJXMEFCZk5VUGN5elpVeFJkS1NBQXRhSm5RLXFRdWJHOWg0R0k4Vk1FeDR0b2pBOUlWTDBVa2FwNUxncm9JLUFCZVc5d21nM1pLdW1GWWwwRERnUnZUV3NaSF9JRHBaZzZoNF8yU0pTZ3RrcENoSW5CQXJfVG1yVDRoakpJa1RHdEV4ZnpmQnQ3Vm9zNVNXU2ZfdWxFN2NmdU9zMkROVWpzM3pIVS1UMEE?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [Europa Press](https://news.google.com/rss/articles/CBMiggJBVV95cUxOVXpkV1lONlF4ZFB2cG5NUUM0RU1QZVpHWHF6REVxNkktdWFMMzhHZTdMU0p3SEkwUTVoVHdOZHVVd25HaW1pNmdmalBoa24zcDVzTlZfbVRjVnJXMEFCZk5VUGN5elpVeFJkS1NBQXRhSm5RLXFRdWJHOWg0R0k4Vk1FeDR0b2pBOUlWTDBVa2FwNUxncm9JLUFCZVc5d21nM1pLdW1GWWwwRERnUnZUV3NaSF9JRHBaZzZoNF8yU0pTZ3RrcENoSW5CQXJfVG1yVDRoakpJa1RHdEV4ZnpmQnQ3Vm9zNVNXU2ZfdWxFN2NmdU9zMkROVWpzM3pIVS1UMEE?oc=5)
-
----
-
-### [Un nuevo consenso recomienda la monitorización continua de glucosa como estándar en diabetes tipo 2 con insulina basal - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzJjYXc3NGVCdURqWHd5LTF3eXlNZS1CeFpKVm0wUWFNUjdxN1RHVC1zSF9PYUY4R2JfajlmOEtOeS13aTBFS21zRVFlRlZjUDdpc3lZNzhveGlhYUNsV1BuWU5PYlVDS2l4OWJJSFd4Smt3ZlExRWhDa0FkS01fT0kyWmVRbE0tNUEwZXhUUWZ2NENLTmR3VjhOSmVxdDAzRnptZnRVUXRDc3ZpVVFfU0lyaUhneWR2Rk90b092MEZtUdIBvAFBVV95cUxONDNCZC1wTzRaZXFZMEVEZ040bmpOcllMOThHSlRjUm9HVFRvU0tJbkJBYjcyWXRVN2E0WVFna0tlOFJ6TzVEdHVOTFFUMUxsMVBiLVotX2FabW9kekwyX0xyMklnS2pWQjlYMS1OTkIxTEdUVzVSNENZU1VEZFZ5cm1XdGZjQUJLeGRQVGVQX2JUNUVZNlZla2ttTldnRnFGMzRxOFdpR0J0aUFmVWE0Qy1mT2RISFhwSU5FbA?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzJjYXc3NGVCdURqWHd5LTF3eXlNZS1CeFpKVm0wUWFNUjdxN1RHVC1zSF9PYUY4R2JfajlmOEtOeS13aTBFS21zRVFlRlZjUDdpc3lZNzhveGlhYUNsV1BuWU5PYlVDS2l4OWJJSFd4Smt3ZlExRWhDa0FkS01fT0kyWmVRbE0tNUEwZXhUUWZ2NENLTmR3VjhOSmVxdDAzRnptZnRVUXRDc3ZpVVFfU0lyaUhneWR2Rk90b092MEZtUdIBvAFBVV95cUxONDNCZC1wTzRaZXFZMEVEZ040bmpOcllMOThHSlRjUm9HVFRvU0tJbkJBYjcyWXRVN2E0WVFna0tlOFJ6TzVEdHVOTFFUMUxsMVBiLVotX2FabW9kekwyX0xyMklnS2pWQjlYMS1OTkIxTEdUVzVSNENZU1VEZFZ5cm1XdGZjQUJLeGRQVGVQX2JUNUVZNlZla2ttTldnRnFGMzRxOFdpR0J0aUFmVWE0Qy1mT2RISFhwSU5FbA?oc=5)
-
----
-
 ### [Normoglykämisch – trotzdem Diabetes-gefährdet? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 2026-10-08 <span class="news-indication-tag">diabetes</span>
@@ -123,6 +107,14 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMF
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Früherkennung und Ketoazidose: Abbott Big City Talk in Berlin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
 
 ---
 

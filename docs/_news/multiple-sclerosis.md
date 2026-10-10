@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 10 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>10 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (14)
+
+### [Mickaël Worms-Ehrminger, enseignant en santé publique : « Les réseaux sociaux contribuent à une glamourisation de certains troubles psychiatriques » - Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
+
+2026-10-10
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
+
+---
 
 ### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
 
@@ -69,6 +77,22 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiR
 2026-10-09
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
+
+---
+
+### [Ear-based nerve stimulation may boost hand rehab in people with MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1MtT2llaVUzd1NYZEVPYjJPOGxWYl9QY2hQTy1uampnRktJWHBsOGhyRG1WNm9HQ2piQkY0UjVyUkREZFFjVVBKQW0yYVdXMkg0NG5BRmp2YzFUb1VXc1N2dWxGM2MyVnZ5d0twVTlNYTJ2RXRESDBkV2JJOThfNVFzRGFFam1GYmtXbzJvSXdhWEw1bHlxY2t1MEtGVFRpc3JRT1NNUklFQXJzYUN2SVFlUGwwY0I1bnN1Tw?oc=5)
+
+2026-10-09
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1MtT2llaVUzd1NYZEVPYjJPOGxWYl9QY2hQTy1uampnRktJWHBsOGhyRG1WNm9HQ2piQkY0UjVyUkREZFFjVVBKQW0yYVdXMkg0NG5BRmp2YzFUb1VXc1N2dWxGM2MyVnZ5d0twVTlNYTJ2RXRESDBkV2JJOThfNVFzRGFFam1GYmtXbzJvSXdhWEw1bHlxY2t1MEtGVFRpc3JRT1NNUklFQXJzYUN2SVFlUGwwY0I1bnN1Tw?oc=5)
+
+---
+
+### [UKHSA confirms ‘stay at home’ rule for two Covid symptoms - Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
+
+2026-10-09
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
 
 ---
 
@@ -93,6 +117,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd
 2026-10-09
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
+
+---
+
+### [CED: Entzündungen blockieren NAD?-Bildung und bremsen die Schleimhautheilung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
+
+2026-10-08
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
 
 ---
 

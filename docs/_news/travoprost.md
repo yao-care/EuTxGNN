@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Travoprost?">
-<strong>Travoprost</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Travoprost</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Travoprost with the latest h
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
-2026-10-07 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">heart disease</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
-
----
-
-### [ADHS und Depression: Reizbarkeit und Ängste im Blick behalten - Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
-
-2026-10-06 <span class="news-drug-tag">Travoprost</span> <span class="news-indication-tag">depression</span>
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
 
 ---
 
