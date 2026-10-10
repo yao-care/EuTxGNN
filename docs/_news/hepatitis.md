@@ -3,7 +3,7 @@ layout: default
 title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about epatite (hepatitis). 1 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 2 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
-<strong>epatite (hepatitis)</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<strong>epatite (hepatitis)</strong> currently has <strong>2 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ This page brings together the latest health news about “epatite” and lists t
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+2026-10-09
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+---
 
 ### [Meteo estremo, cibo contaminato, ricoveri lunghi. A Roma è boom di Epatite A: perché c'è da preoccuparsi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
 

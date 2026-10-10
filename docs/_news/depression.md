@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 4 articles, 7 related drugs."
+description: "Health news about dépression (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Pränatale Depressionen erhöhen das Risiko für neurologische Entwicklungsstörungen - Biermann Medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakoxYzBiYmtHME1ZbXBYcm1QeV9VZTZ2QTlQOVVXYktNYzVaa1hwX0Q4QTlSbTV6QWdLdmVJV0xqeTRWU0QwVVp0d0lkZGI4U2VsOE4xcUJVdkdPellSUFc1M2dGZHFnVWdfZ3l4N1J5YmdHeC1rZWhPZExqRFlBeWwzY0VPTFlpbEpRdnQxQndPZnBOcWFXODZfUHlTcVZ1bmQ2ajRhS3hfY3o2TzhFWmtJWTY?oc=5)
-
-2026-10-09
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMitAFBVV95cUxQakoxYzBiYmtHME1ZbXBYcm1QeV9VZTZ2QTlQOVVXYktNYzVaa1hwX0Q4QTlSbTV6QWdLdmVJV0xqeTRWU0QwVVp0d0lkZGI4U2VsOE4xcUJVdkdPellSUFc1M2dGZHFnVWdfZ3l4N1J5YmdHeC1rZWhPZExqRFlBeWwzY0VPTFlpbEpRdnQxQndPZnBOcWFXODZfUHlTcVZ1bmQ2ajRhS3hfY3o2TzhFWmtJWTY?oc=5)
-
----
-
-### [Unterschiedliche Mechanismen beeinflussen das Demenzrisiko bei Depression - Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5TRXFuZDJsYlZEdDR3Y2h0N1lsZWZVREVWMUFKYkxxV3BsUjd1R21PZHdMTkx2Q0YxNUJPdkxHTHd2RDJPYzFXdEN2aUNOcXpfQzNfaDJTNUhBaGFseHhiMjRNLU5pWmh4REcxeHRpak1PRFhVeEVRU1NYVUJKd3h4d1ZFQ1lFX1c2eE9jdzIzdmxYLWl6QlNCa0I3OWlkdHdQOQ?oc=5)
+### [167.447 Kinder untersucht: Depression und Antidepressiva mit Entwicklungsrisiken verknüpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 
 2026-10-09
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcU5TRXFuZDJsYlZEdDR3Y2h0N1lsZWZVREVWMUFKYkxxV3BsUjd1R21PZHdMTkx2Q0YxNUJPdkxHTHd2RDJPYzFXdEN2aUNOcXpfQzNfaDJTNUhBaGFseHhiMjRNLU5pWmh4REcxeHRpak1PRFhVeEVRU1NYVUJKd3h4d1ZFQ1lFX1c2eE9jdzIzdmxYLWl6QlNCa0I3OWlkdHdQOQ?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 
 ---
 
@@ -61,11 +53,27 @@ Source: [TF1 Info](https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0xiY2hO
 
 ---
 
-### [Vitamine D : le poisson le plus riche dépasse les besoins quotidiens en un seul repas - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
+### [ADHS und Depression: Reizbarkeit und Ängste im Blick behalten - Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
 
 2026-10-06
 
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUi1PZzZIaTBoN2dmc1pSa2JzcmtsMTc0NDR1Z1hCMmhydUdEdzRPQXVwVmpOUDBwVFlQa0lNNUhZQnlmcEpTeWtuOHNnSXRoX2FIOEpLYUZhaUhlbXI0Rzg0X0hBSHh6YnNjQTdndXU0LXVCU2hhSlVEYXM2UDFUM0pvOGhfT3h2ekN3eDRYR1R2V3JkWG1BaGdjZGJYTmRDSHNpV2dFN1BUMk9kZklxOWJZZVBjYWJTUE8xUjBVc0JUY05VeDNhS0FfcTN5U00zdkRVWldhaUJiMDFDZEhFZllkUzdpQQ?oc=5)
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tVGNWVVQ1TktuZDdGWXB3RFpiZG9DMWt3VnRHU21XN053UlhWaTk2T3ZGY3BXd0lBWC1QWlJfZHI3bWZCNEdrSDctLXJlNU11ZUR1bDNPS1FzYlp6WjhSNzhzTQ?oc=5)
+
+---
+
+### [Der Tod ihrer Patienten geht Herzmedizinern oft sehr nahe](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
+
+2026-10-06
+
+Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
+
+---
+
+### [Hochverarbeitete Lebensmittel: 85 Prozent weniger, Angst und Depression sinken](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2JidTZHNDc3Q2JKT2tRXzFFZ2tPeEtlWnhva1A2VXBGTkRqRk00bDUzclZBYVk1d3dNdmxUYlZQSUluZnBOSHFPd29oNjFkMzhTdmtJS01waXFQTmctb2kzbnY1STc0LUo3NThBNmtqRjI3WloyRV9ud0JWSlRQOEU0N3hENkFPZGY3cXE4dHlPaXl6akdLQ0pkMGZlRDBhQnV2TGxR?oc=5)
+
+2026-10-04
+
+Source: [BornCity](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2JidTZHNDc3Q2JKT2tRXzFFZ2tPeEtlWnhva1A2VXBGTkRqRk00bDUzclZBYVk1d3dNdmxUYlZQSUluZnBOSHFPd29oNjFkMzhTdmtJS01waXFQTmctb2kzbnY1STc0LUo3NThBNmtqRjI3WloyRV9ud0JWSlRQOEU0N3hENkFPZGY3cXE4dHlPaXl6akdLQ0pkMGZlRDBhQnV2TGxR?oc=5)
 
 ---
 

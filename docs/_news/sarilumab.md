@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [IL-23-Inhibitor zeigt auch langfristig großes Potenzial beim Morbus Crohn – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkc1STZhQ1FrVGVsQjc3bDlxcldTUEVrMUdLUmhRV2YxLWtBbDVZLXNPYWhZZEp6bWtPNnNGODFOaGlnQmt4SDJHSzFSSGdBSDUxd09FYi1RVlpMeWFjR25HemR1X05ybHd0Mm9nVjRSSk5CTTVoT0duaDdEVUdyanBwS3Z5VUQ5RU04Q3U3QXNTWmZpdHFVOUNYc1hQckNIT3lHNmppNmVhc2NfRkc0eWtNR0tkNURyRm5ObWNhTm10djhVaG5BWGlMY1BNUlAyVUN4SmhTR0p3ZzQ?oc=5)
 
@@ -75,6 +75,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y
 2026-10-09 <span class="news-indication-tag">BPCO</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
+
+---
+
+### [Morbus Crohn: Top-Down-Behandlung vermeidet langfristig Operationen und andere Komplikationen - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
+
+2026-10-06 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWZUclNMNmlKaFZKSlVrRjJlWHEyR015N1VuRXNGSFFYeVVFaDloM01Gc25TeVNqWUQ5bVB5Yk9iN2tNeEtEcUtCbVhZOGtfaXU5c28xTFdDRXR3eUlOWnlTR2dpd1JFOGZuMUpuREtnT1F3dndTS2tVb016QVp3M2ttWjI0UmJwOEQxb1VGdFQzOF9wdWt0Z25fUC1sNlZWYU9vbElfNWE3YkR3MGJ3bUZaOGJIbHFZeUJtamkzcnJaSnFDOEtJZm5QQng2OU1fUUJCUFVvM1RZODJjZ1pVVlZKdEhsSEZDMVJLNDNlNVd0MlE?oc=5)
 
 ---
 

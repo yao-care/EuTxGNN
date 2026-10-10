@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Multiple Sklerose (multiple sclerosis) News"
+title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Multiple Sklerose (multiple sclerosis). 11 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 9 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
-# Multiple Sklerose (multiple sclerosis) News
+# MS (multiple sclerosis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Multiple Sklerose (multiple sclerosis)?">
-<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
+<p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
+<strong>MS (multiple sclerosis)</strong> currently has <strong>9 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Multiple Sklerose” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “MS” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -54,7 +54,7 @@ This page brings together the latest health news about “Multiple Sklerose” a
 </ul>
 </div>
 
-## Related News (11)
+## Related News (9)
 
 ### [Multiple Sklerose: Therapie mit Ocrelizumab auch nach zehn Jahren sicher und effektiv – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
 
@@ -72,19 +72,11 @@ Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJ
 
 ---
 
-### [What is XFG Covid strain? Symptoms to look out for as UK cases grow - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
+### [What is the XFG Covid strain? Symptoms and what to know as the variant hits the UK - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
 
-2026-10-09
+2026-10-08
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
-
----
-
-### [County Durham mum told to ‘stop worrying’ over symptoms now has terminal cancer - The Northern Echo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXpaOGk5V2prVHhIWjNsdWFGMFlSWG8wV0hQRnJnUmNPN3RtSnBNMGZaU3dMUXdkR1g4T0RxcTBGM20yNGRMb19OcVBCLV9DRDZfbHFCU05pSV90a0RJelVuR2dmdlZvOGVYc3BZcWZVdWZXODBJQXY4MlVzbGVuU21TQVU4NzZ2Wm9YMV9DQ1JyRlM1X28tWGRpeTFHdzlTczRJ?oc=5)
-
-2026-10-09
-
-Source: [The Northern Echo](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXpaOGk5V2prVHhIWjNsdWFGMFlSWG8wV0hQRnJnUmNPN3RtSnBNMGZaU3dMUXdkR1g4T0RxcTBGM20yNGRMb19OcVBCLV9DRDZfbHFCU05pSV90a0RJelVuR2dmdlZvOGVYc3BZcWZVdWZXODBJQXY4MlVzbGVuU21TQVU4NzZ2Wm9YMV9DQ1JyRlM1X28tWGRpeTFHdzlTczRJ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
 
 ---
 
@@ -96,14 +88,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV9
 
 ---
 
-### [La Alianza MSD-AstraZeneca presenta 'Herencias Delicadas' para concienciar sobre genética y cáncer de mama](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWlwblFBV01iQVlpRmpOb2ZidndieVJLU1hMbkpUQjhYbDJ6cmV3SkluZ3FabEp2X0xMNFFUcGNtb2o3Xy0yekdFODc1T2dpMFE4U0tlME9xcFFiRWdGdEtqUFBTOUk2cjF5X21qM1h0NGlwYnkyOE1mTTMybEdvWXFQREVOR0g2YVNHbEJaYUJfQVNMenJicVBJeHZqdGd1ak9ZSUlYOWdicWtQYllZXzVaRjhmaXY5dmdMTlItNzZLTzAyZXRyVmFVYTdSQXJxOGdlekhiY2tKeWhZS1l6V2FWQ092SzlKdzJyODNB?oc=5)
-
-2026-10-08
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMWlwblFBV01iQVlpRmpOb2ZidndieVJLU1hMbkpUQjhYbDJ6cmV3SkluZ3FabEp2X0xMNFFUcGNtb2o3Xy0yekdFODc1T2dpMFE4U0tlME9xcFFiRWdGdEtqUFBTOUk2cjF5X21qM1h0NGlwYnkyOE1mTTMybEdvWXFQREVOR0g2YVNHbEJaYUJfQVNMenJicVBJeHZqdGd1ak9ZSUlYOWdicWtQYllZXzVaRjhmaXY5dmdMTlItNzZLTzAyZXRyVmFVYTdSQXJxOGdlekhiY2tKeWhZS1l6V2FWQ092SzlKdzJyODNB?oc=5)
-
----
-
 ### [Nagging people to eat healthily does not work - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
 
 2026-10-08
@@ -112,19 +96,11 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ
 
 ---
 
-### [41/26 Information der Hersteller: Rote-Hand-Brief zu Ocrevus® (Ocrelizumab): Risiko für arzneimittelbedingte Leberschäden und neue Empfehlung zur Überwachung der Leberfunktion](https://news.google.com/rss/articles/CBMi8gJBVV95cUxNaVpWWmNMV0dXVUJvai12eml5QzFBSkdnOXhEQzdCcVliTEg3ZTRMT2VyTFM0NXZkRnczMDZfOUVEaHZPQXEteEJwMjRxbUp1UmRpZG0xWEF1VHFTV3luTnVQQl9VS3Robm9nb1FkV09RT004TF82UnVTeTg4Yk1JdjgtQ0tIWlowNzRJNk1FZGM5V3JjVDlLY1RyeTN1M3M0OXRKMGk3RE00ak50VGZLVzZ4S2ZGRDhsY0NmNC13TWl3dGxoRmVEcDBTWjhvMkw1X0pKVGRTQ28zMUhBZmpWY2xKS2RWRHl3M0FNaTlsclVRMGxCUGxTeWRCOWdscUIyUnRRemRHRk1UTk1vZHJwYTMyNUdaZDRlWlBla3lkZWZIMmUzLTE1eG1PUjlhMVFJeWxES0dIVkJWN3lDVV93X1czY2trelFTLURDXzFTUjdZT3pvbzlxbXBsbzNBa01IUU9fZWdjSXVWOWNILXpDbnp3?oc=5)
+### [Don’t let shingles symptoms slow you down - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 2026-10-08
 
-Source: [ABDA](https://news.google.com/rss/articles/CBMi8gJBVV95cUxNaVpWWmNMV0dXVUJvai12eml5QzFBSkdnOXhEQzdCcVliTEg3ZTRMT2VyTFM0NXZkRnczMDZfOUVEaHZPQXEteEJwMjRxbUp1UmRpZG0xWEF1VHFTV3luTnVQQl9VS3Robm9nb1FkV09RT004TF82UnVTeTg4Yk1JdjgtQ0tIWlowNzRJNk1FZGM5V3JjVDlLY1RyeTN1M3M0OXRKMGk3RE00ak50VGZLVzZ4S2ZGRDhsY0NmNC13TWl3dGxoRmVEcDBTWjhvMkw1X0pKVGRTQ28zMUhBZmpWY2xKS2RWRHl3M0FNaTlsclVRMGxCUGxTeWRCOWdscUIyUnRRemRHRk1UTk1vZHJwYTMyNUdaZDRlWlBla3lkZWZIMmUzLTE1eG1PUjlhMVFJeWxES0dIVkJWN3lDVV93X1czY2trelFTLURDXzFTUjdZT3pvbzlxbXBsbzNBa01IUU9fZWdjSXVWOWNILXpDbnp3?oc=5)
-
----
-
-### [Don’t let shingles symptoms slow you down - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
-
-2026-10-08
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 ---
 
@@ -133,6 +109,14 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWD
 2026-10-07
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

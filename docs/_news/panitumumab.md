@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
 
@@ -86,19 +86,19 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUxKNi
 
 ---
 
-### [Direktvergleich: Metformin oder SGLT2-Hemmer bei frühem Typ-2-Diabetes? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
-
-2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
-
----
-
-### [Las principales sociedades médicas de España coinciden: la monitorización continua de glucosa reduce un 45% los ingresos por hipoglucemia grave en pacientes con diabetes tipo 2 - El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
+### [Un nuevo consenso recomienda la monitorización continua de glucosa como estándar en diabetes tipo 2 con insulina basal - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzJjYXc3NGVCdURqWHd5LTF3eXlNZS1CeFpKVm0wUWFNUjdxN1RHVC1zSF9PYUY4R2JfajlmOEtOeS13aTBFS21zRVFlRlZjUDdpc3lZNzhveGlhYUNsV1BuWU5PYlVDS2l4OWJJSFd4Smt3ZlExRWhDa0FkS01fT0kyWmVRbE0tNUEwZXhUUWZ2NENLTmR3VjhOSmVxdDAzRnptZnRVUXRDc3ZpVVFfU0lyaUhneWR2Rk90b092MEZtUdIBvAFBVV95cUxONDNCZC1wTzRaZXFZMEVEZ040bmpOcllMOThHSlRjUm9HVFRvU0tJbkJBYjcyWXRVN2E0WVFna0tlOFJ6TzVEdHVOTFFUMUxsMVBiLVotX2FabW9kekwyX0xyMklnS2pWQjlYMS1OTkIxTEdUVzVSNENZU1VEZFZ5cm1XdGZjQUJLeGRQVGVQX2JUNUVZNlZla2ttTldnRnFGMzRxOFdpR0J0aUFmVWE0Qy1mT2RISFhwSU5FbA?oc=5)
 
 2026-10-08 <span class="news-indication-tag">diabetes</span>
 
-Source: [El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzJjYXc3NGVCdURqWHd5LTF3eXlNZS1CeFpKVm0wUWFNUjdxN1RHVC1zSF9PYUY4R2JfajlmOEtOeS13aTBFS21zRVFlRlZjUDdpc3lZNzhveGlhYUNsV1BuWU5PYlVDS2l4OWJJSFd4Smt3ZlExRWhDa0FkS01fT0kyWmVRbE0tNUEwZXhUUWZ2NENLTmR3VjhOSmVxdDAzRnptZnRVUXRDc3ZpVVFfU0lyaUhneWR2Rk90b092MEZtUdIBvAFBVV95cUxONDNCZC1wTzRaZXFZMEVEZ040bmpOcllMOThHSlRjUm9HVFRvU0tJbkJBYjcyWXRVN2E0WVFna0tlOFJ6TzVEdHVOTFFUMUxsMVBiLVotX2FabW9kekwyX0xyMklnS2pWQjlYMS1OTkIxTEdUVzVSNENZU1VEZFZ5cm1XdGZjQUJLeGRQVGVQX2JUNUVZNlZla2ttTldnRnFGMzRxOFdpR0J0aUFmVWE0Qy1mT2RISFhwSU5FbA?oc=5)
+
+---
+
+### [Diabetes: Diese Medikamente sollen früher verordnet werden](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
+
+2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
 
 ---
 
@@ -115,6 +115,14 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMF
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 
