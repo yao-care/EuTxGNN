@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (15)
 
 ### [Mickaël Worms-Ehrminger, enseignant en santé publique : « Les réseaux sociaux contribuent à une glamourisation de certains troubles psychiatriques » - Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
 
 2026-10-10 <span class="news-indication-tag">MS</span>
 
 Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
+
+---
+
+### [El brote de ébola en RDC supera los 4.200 muertos y va camino de rebasar los 9.000 casos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
+
+2026-10-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
 
 ---
 
@@ -112,25 +120,17 @@ Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJ
 
 ### [What is XFG Covid strain? Symptoms to look out for as UK cases grow - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
 
-2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-09 <span class="news-indication-tag">MS</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
 
 ---
 
-### [GLP-1 Users Are Reporting Their Fingernails Detaching](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
+### [6 life-changing lessons on transforming your heart health, from world-leading cardiologists - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
-2026-10-09 <span class="news-indication-tag">MS</span>
+2026-10-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
-
----
-
-### [CED: Entzündungen blockieren NAD?-Bildung und bremsen die Schleimhautheilung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
-
-2026-10-08 <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 ---
 
@@ -147,14 +147,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV9
 2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
----
-
-### [Don’t let shingles symptoms slow you down - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
-
-2026-10-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 ---
 

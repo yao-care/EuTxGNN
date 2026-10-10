@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (9)
 
 ### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
 
 2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
 Source: [oekotest.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
+
+---
+
+### [Ictus, il cervello può essere protetto anche dopo l’attacco: la nuova sfida per salvare i neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
+
+2026-10-10 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
+
+---
+
+### [Cohérence cardiaque : les clés pour adopter cette méthode respiratoire qui permet de réduire le stress et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
+
+2026-10-10 <span class="news-indication-tag">hypertension</span>
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
 
 ---
 
@@ -75,6 +91,14 @@ Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ
 2026-10-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+---
+
+### [6 life-changing lessons on transforming your heart health, from world-leading cardiologists - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
+
+2026-10-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 ---
 

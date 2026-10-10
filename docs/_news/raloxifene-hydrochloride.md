@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Ictus, il cervello può essere protetto anche dopo l’attacco: la nuova sfida per salvare i neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
+
+2026-10-10 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
+
+---
 
 ### [La obesidad abdominal predice mejor que el IMC el riesgo de diabetes e ictus - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
 
 2026-10-09 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
+
+---
+
+### [6 life-changing lessons on transforming your heart health, from world-leading cardiologists - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
+
+2026-10-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 ---
 

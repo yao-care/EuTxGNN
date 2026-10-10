@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
 ### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
 
@@ -139,14 +139,6 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 2026-10-06 <span class="news-indication-tag">diabète</span>
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
-
----
-
-### [Probing the many benefits of GLP-1 receptor agonists](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
-
-2026-10-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
 
 ---
 

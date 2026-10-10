@@ -62,11 +62,11 @@ Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wj
 
 ---
 
-### [Exercise Tied to Long-Term Cognitive and Motor Benefits in Parkinson's](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
+### [Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis - Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
 
-2026-10-07 <span class="news-indication-tag">Parkinson's</span>
+2026-10-07 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">Parkinson's</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOSk5UY0tpOW1sOXhpOEw3eEtBYVh5bUxWOG1hbXJtbW5Qa1BmMU0tNDBWZ2VxZGt3VENteWhsaWt0VEpTd2ViSTdPcllfbTlqXzgtTWlFQnc1dld3ZnBfclg1V0ppSmxhd2ljeU1keU4yaXJFazFGU1UwSXhXNzdCTzlsUm1vNEhHNGhlcUFjRnpCMWp3ZTZJS3dOcVhwTVdTNXV3OA?oc=5)
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
 
 ---
 

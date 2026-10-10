@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 13 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (13)
 
 ### [Mickaël Worms-Ehrminger, enseignant en santé publique : « Les réseaux sociaux contribuent à une glamourisation de certains troubles psychiatriques » - Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
 
 2026-10-10
 
 Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
+
+---
+
+### [El brote de ébola en RDC supera los 4.200 muertos y va camino de rebasar los 9.000 casos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
+
+2026-10-10
+
+Source: [EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
 
 ---
 
@@ -112,19 +120,11 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd
 
 ---
 
-### [GLP-1 Users Are Reporting Their Fingernails Detaching](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
-
-2026-10-09
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
-
----
-
-### [CED: Entzündungen blockieren NAD?-Bildung und bremsen die Schleimhautheilung - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
+### [6 life-changing lessons on transforming your heart health, from world-leading cardiologists - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 2026-10-08
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNenFxQUkzOF8xMlFyRjNMRHdnaUN2Z2xhdUxJdWQ4cm9oQlZDd095OWtLd3J1OEM2dy0wdWVaS1JVTTZMMjhFNkhhYkhEVHNQbGNoaExFcmhuQVdtN2xSWTNFUnN0azh2QlR1WEVhd3lPSzRDTjQwcUxZa3ZLaEtyV0haMUV4VXFETkdFeGdPaGlrTU5UcDRnUFJsOE8tU3p2cHFyUEpyVzE?oc=5)
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 ---
 
@@ -141,14 +141,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV9
 2026-10-08
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
----
-
-### [Don’t let shingles symptoms slow you down - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
-
-2026-10-08
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 ---
 

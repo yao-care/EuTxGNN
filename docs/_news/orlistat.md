@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
 ### [Atención Primaria urge a erradicar la "cultura de la báscula" y abordar la obesidad como enfermedad crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
 
 2026-10-10 <span class="news-indication-tag">obesidad</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
+
+---
+
+### [Ictus, il cervello può essere protetto anche dopo l’attacco: la nuova sfida per salvare i neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
+
+2026-10-10 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
 
 ---
 
@@ -99,6 +107,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMl
 2026-10-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJcTZRdnVVNzVfMEE2MVFKN2Zvd1pyd1VYQnhKMF9Bai0zSnFBeW5HSHBGUEoxM1Bka0k1ZnZrQ2EzUWdoenBENFRIck42ejNnbmFsOUJzUTRCeUtGTk5TdXo1bGZ3Z1hUaW96NnR1Vi11N3MtdzU5TUwxZGFhMFlfZzhEVHdEclI0bERiMWhxMC0tUUQ1WlQ2OXllVHJISW53dzNiYUp1RVB0M3JrRXNhM0lWMU5nb0xtZ1otaGRQemtKWEx3cWdFUzM1WXRrT0E?oc=5)
+
+---
+
+### [6 life-changing lessons on transforming your heart health, from world-leading cardiologists - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
+
+2026-10-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlNvYTFKbndBODd4YUdnTXZCaEdkN09iYXhoSEMwWDk5eHhQM0toWXZkVlBYdWdEbzMzWndqMXNOOWduX2VvWmxhR0JGd0lUMzQyYkJkTng0RlJzRmVUcEFTWWcyRzZfRVNTeEZPdUY0QUtJaS1WcUYtdWtiTmxjdg?oc=5)
 
 ---
 

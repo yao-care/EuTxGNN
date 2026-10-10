@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Médicaments antiobésité : le nombre de demandes de prise en charge par les centres spécialisés en forte augmentation - Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
 
@@ -75,14 +75,6 @@ Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlB
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
-
----
-
-### [Probing the many benefits of GLP-1 receptor agonists](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
-
-2026-10-05 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PMENBbGh1b1ZnMGU5MTlPRkQtYS1fYkNiRXZ2MC1CUDR5S2w5c1hoZ29FYWVvazdObThpS2dSNDBFMUxGd3JlT2VJTVg4bERFTmVka0hPRlJxTUI5Wlln?oc=5)
 
 ---
 

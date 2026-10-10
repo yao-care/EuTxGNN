@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 4 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 5 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>5 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
 
 2026-10-10
 
 Source: [oekotest.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
+
+---
+
+### [Cohérence cardiaque : les clés pour adopter cette méthode respiratoire qui permet de réduire le stress et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
+
+2026-10-10
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "tumor (cancer) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 33 articles, 229 related drugs."
+description: "Health news about tumor (cancer). 35 articles, 229 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>33 news articles</strong> and 229 related drugs.
+<strong>tumor (cancer)</strong> currently has <strong>35 news articles</strong> and 229 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -257,7 +257,23 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (33)
+## Related News (35)
+
+### [Krebs durch Infektionen: Diese fünf Erreger sind besonders gefährlich - Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTR4a0t3djN0Ul9wNGFVczhVMV9RWTRMcThpNjFCUGdpNnd4Mkg0Z0dURUNKcWR0QWFINkZkX3hOTURUdlA0NU4zQUpjVFdqWFRxQ2FXVjJpanJJQ2dvTy1tdk1qOWVfUldoaUZmbEJ5Zmpjd2pOLWRFLWs5VzFYaGF4dVZaVlYwclJTSERSREthTXVTSjROUTg3OUNpZTAzVFZZOTNwYkpJQUxBNXdCWGttMVZ0bEZ1SEY3VkpaQ0xOWUlGa09pQjZtRlREYkk?oc=5)
+
+2026-10-10
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTR4a0t3djN0Ul9wNGFVczhVMV9RWTRMcThpNjFCUGdpNnd4Mkg0Z0dURUNKcWR0QWFINkZkX3hOTURUdlA0NU4zQUpjVFdqWFRxQ2FXVjJpanJJQ2dvTy1tdk1qOWVfUldoaUZmbEJ5Zmpjd2pOLWRFLWs5VzFYaGF4dVZaVlYwclJTSERSREthTXVTSjROUTg3OUNpZTAzVFZZOTNwYkpJQUxBNXdCWGttMVZ0bEZ1SEY3VkpaQ0xOWUlGa09pQjZtRlREYkk?oc=5)
+
+---
+
+### [„Wenn wir in den Tumor blicken“ – die gewaltigen Chancen des neuen Quanten-MRT](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjNRdDkwb3hzSmFBcUFTYmhtTk9qcE9DbXBTM0N3MjlWZWwtdDNpdXVreXJQdXhqWDJrSEhFeXl1Sk1SeEhsSm95R1JWeEVJb0hwSUh0OWx5YTYzOFhyQ1JucThmT2dHVXJsajZHOG5CS0djRE5heGdTeDVSbGR3LVc4cHFCWmx0cE9UWXpNeGxESmM4WVE?oc=5)
+
+2026-10-10
+
+Source: [FOCUS+](https://news.google.com/rss/articles/CBMilgFBVV95cUxQYjNRdDkwb3hzSmFBcUFTYmhtTk9qcE9DbXBTM0N3MjlWZWwtdDNpdXVreXJQdXhqWDJrSEhFeXl1Sk1SeEhsSm95R1JWeEVJb0hwSUh0OWx5YTYzOFhyQ1JucThmT2dHVXJsajZHOG5CS0djRE5heGdTeDVSbGR3LVc4cHFCWmx0cE9UWXpNeGxESmM4WVE?oc=5)
+
+---
 
 ### [Leucemia, scoperti i piccoli «tunnel» con cui le cellule tumorali disarmano le difese](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3kzSnZpbkYyTHZydHRjQTg3Q0hUY1ZXLVhrUEN3Slo0WUxzQXplaWFGQTYzaDE5NkhoN2M5TnVhamxocTY3YkhGNm5LcE4xTmF4c2hHMTVlY0hmd1RnSFhUUlpZM2lHbVd1RzF5Y1ZxWGVCaV9jUlZNUTd1YVY3a1EwNGJQdEVSVUJlc2VMajFPOEtEUjVTZnN2MWJGTTFMcHRnTDV5VHAzekxySGJxUWdZM3NCb3c3TU1tUzlOWU9fM2V5WFJUVkFjd292WHpNTWhmQ0Z3bnAzdw?oc=5)
 
@@ -275,11 +291,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nQ3Nwal9LNW9SY
 
 ---
 
-### [Krebsforschung: Infektionen verursachen jeden achten Tumor](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1libFFZRzdSLUoyTlQ1cDk2UmxzV0hwLXRKOXVNNk1CcnBRTFdsaEVKZlZGTUF2WlUwMUJYTGtzbEJUWkhHQi15eXJRcmxkTUNBM2lpRkZnNnd0SVhnNm93eTlUWGFkR2pjQ1NNM1A0cXlDTG4yc2FZRHhWRDJEN3hsU0VyZUNOZExPM0R1OFFDQnV4YlZ6SmU0VWRXbk5JcExCckNudWIzNkdBbjBVMVJIb1JwREo1eWg3S09OWQ?oc=5)
+### [Solidarietà che si fa prevenzione: donato ecografo allo screening mammografico di Lecce](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnh4WWZSS1dZeU5JcHhDZy1HMFpacm1ESEdEdlYxUDNHd2luZnpDR05UVUxNQkRNTTRZT2twbGtNV0FFRHdjUmNaQUUxZHQ0TEVzMVBGbGRQbnVBMXNHWVZHQzJBUzgxWmJJSk0yN0hWWVNNTjEwNnp6RGJsbnR3YkEtdkt2R2hfdHFuNjVNbnJNUHIwSjU4V1VDNC12U1RLODJuZGVwV05hMGZHUmNZRVg2SlM3ZjRmOVBFN0I4MVVuZw?oc=5)
 
 2026-10-10
 
-Source: [SRF](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU1libFFZRzdSLUoyTlQ1cDk2UmxzV0hwLXRKOXVNNk1CcnBRTFdsaEVKZlZGTUF2WlUwMUJYTGtzbEJUWkhHQi15eXJRcmxkTUNBM2lpRkZnNnd0SVhnNm93eTlUWGFkR2pjQ1NNM1A0cXlDTG4yc2FZRHhWRDJEN3hsU0VyZUNOZExPM0R1OFFDQnV4YlZ6SmU0VWRXbk5JcExCckNudWIzNkdBbjBVMVJIb1JwREo1eWg3S09OWQ?oc=5)
+Source: [LeccePrima](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbnh4WWZSS1dZeU5JcHhDZy1HMFpacm1ESEdEdlYxUDNHd2luZnpDR05UVUxNQkRNTTRZT2twbGtNV0FFRHdjUmNaQUUxZHQ0TEVzMVBGbGRQbnVBMXNHWVZHQzJBUzgxWmJJSk0yN0hWWVNNTjEwNnp6RGJsbnR3YkEtdkt2R2hfdHFuNjVNbnJNUHIwSjU4V1VDNC12U1RLODJuZGVwV05hMGZHUmNZRVg2SlM3ZjRmOVBFN0I4MVVuZw?oc=5)
+
+---
+
+### [‘Cancer ghosting’ concerns as charity urges people to support loved ones - STV News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1o3V3EzdzVfRzlxQ0gtaUFoQnUzQUtEcmpUMTBjdTFLeWplOHZRQ2lfMmFheGlwblFfY1FhNS01T0Iwc2tUOXZqWGFkYWd5NGhZN29xZDJBaGoxRFhkM3ZrZU5mWWdrc1FNUmlyMjREOExLRkFFUkl2NlVUeEdreDY0dTQ0c1NVeW9oS0JJQlZUeTBVZWVlLTZhRFM?oc=5)
+
+2026-10-10
+
+Source: [STV News](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY1o3V3EzdzVfRzlxQ0gtaUFoQnUzQUtEcmpUMTBjdTFLeWplOHZRQ2lfMmFheGlwblFfY1FhNS01T0Iwc2tUOXZqWGFkYWd5NGhZN29xZDJBaGoxRFhkM3ZrZU5mWWdrc1FNUmlyMjREOExLRkFFUkl2NlVUeEdreDY0dTQ0c1NVeW9oS0JJQlZUeTBVZWVlLTZhRFM?oc=5)
 
 ---
 
@@ -323,6 +347,14 @@ Source: [medonline](https://news.google.com/rss/articles/CBMieEFVX3lxTFBSTURLOU5
 
 ---
 
+### [« Il n’y a pas d’âge pour se soigner » : cette docteur déjoue les préjugés sur les cancers des seniors](https://news.google.com/rss/articles/CBMinwJBVV95cUxObXQza2Jjak9mZjRrTmdDVDdMTlY5X1BTckdMb25LVjVCREJTQ1k3UVNCTW5NRDg5MWhQR0Vrd0ZwTjBvNGhtRmJickI0T2w3RnFaV0ZHaGlQTExyZG4td1hILUFCRkFOQTFGN3BsanoxdTBVU3pRYXJXbkxXX2ZBdWpPWTZMMHpQY1pFV2J4Z1drZTA4U2J5d0E1SzFZQ2t3NDNLWTcwUl95YTFTeVpoV2JudjZ4TnpVd2Zmd3JsYVZXcl9CSkliczBDMXB3VnRxVWRwSDNhQ0ZGNVVTbGtyQ2xwNzRHTHZ1Q1pFQUtQSmJPMzJuYW1GNkFHTzdJUGNlZDlva2Z2SDlBc3E3dl9Ia2g1ZGQwSnp5Z2pTY1NXaw?oc=5)
+
+2026-10-09
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMinwJBVV95cUxObXQza2Jjak9mZjRrTmdDVDdMTlY5X1BTckdMb25LVjVCREJTQ1k3UVNCTW5NRDg5MWhQR0Vrd0ZwTjBvNGhtRmJickI0T2w3RnFaV0ZHaGlQTExyZG4td1hILUFCRkFOQTFGN3BsanoxdTBVU3pRYXJXbkxXX2ZBdWpPWTZMMHpQY1pFV2J4Z1drZTA4U2J5d0E1SzFZQ2t3NDNLWTcwUl95YTFTeVpoV2JudjZ4TnpVd2Zmd3JsYVZXcl9CSkliczBDMXB3VnRxVWRwSDNhQ0ZGNVVTbGtyQ2xwNzRHTHZ1Q1pFQUtQSmJPMzJuYW1GNkFHTzdJUGNlZDlva2Z2SDlBc3E3dl9Ia2g1ZGQwSnp5Z2pTY1NXaw?oc=5)
+
+---
+
 ### [Tumori, perché le difese immunitarie possono cambiare già a metà della vita](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVNYLWF2T2xINDB1MUxOa1hTSGszeU90QmY0MzhoU3B4LXJseFBaUGNLcGZ1NnUxY0h2R0hnbXB5aHJ1NE5SZTdFdkttTUhsdXJLTGhsd2lTY1g0OUh3MmhWcTYyemRiaVlPdFk2N1JINmhtekhCUHVnRDkzWVJZWXNEeWJaWEJZc19TblgzM3d2Qk5qcDFFRzA0UHg3QmtSOTFBMFRkcHEzakM3VWRlUTBCMzU0VzJDN29hYmdZRlBrZ2J0ZnNPamZVXzRub2s?oc=5)
 
 2026-10-09
@@ -336,14 +368,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVNY
 2026-10-09
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGhZQzNYUUN1RkgySHJvd21qcW84dHdvR0JEWmhHbDRkelZsSjhHQkwxc3FGaTBRY3o2eVI2R21jc2cxOFFMdlRyY3FFX1hKWV9xSzZlN2xTa0ZHdUFYUDEwdkViV09MVGpPbFFRN1ZkVTA0cnBQaUZla0FMNkRRMlp2dDcyQlZ0cElwWXVyLVgxaU9WeHZDQTdjQldVZFk?oc=5)
-
----
-
-### ["A luglio mi hanno detto che avevo due mesi di vita, che il cancro non era controllabile. Sono andato negli Usa a provare un nuovo farmaco, il mio fegato ha ripreso a funzionare": la storia di Max Parisi - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRzU3STU4eU5MMzMxR0xUQmpzcGVxZ0g5TERURmF2aVhwa3I4MFZibmRIS0dySVY3NVQyVkMyVFdwUFBNUkpESWFTaVo2dW9KWEVwN0ljT1lab0kxY0I0US1zYWUyNDVGMkFlMGNhMnlYbnIyV0MxS21NZUdZZk5tZHlxdzlFYzZQN09XQlN1U3pwR0hSVkpTMDUwS1ZJdEZ5SlZTeWtYNml3VDBNdVhqZUZIQWR4eDB5ZldVTXhqS0QyMUVZYWhNR0h0ejNyTFViZkdCZ01OVEFuMFlCN2JIQXBGdEtjUC1fZjcxRFZIVDM3dHlITzMyOEhWVk1uUUxVVWVfSElNNnJzdHFuZmJFd1VSMnVfdFdsbUNJYlhRSkZRY0pTSGFCUHBxUGx5WXE4TDVSdDFzZ0tjdDFkVFZsYlp1MTFKWDEyNG9PSVhZaVVia1JwN0ZyOEl3TEg1bzIybXFB?oc=5)
-
-2026-10-09
-
-Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRzU3STU4eU5MMzMxR0xUQmpzcGVxZ0g5TERURmF2aVhwa3I4MFZibmRIS0dySVY3NVQyVkMyVFdwUFBNUkpESWFTaVo2dW9KWEVwN0ljT1lab0kxY0I0US1zYWUyNDVGMkFlMGNhMnlYbnIyV0MxS21NZUdZZk5tZHlxdzlFYzZQN09XQlN1U3pwR0hSVkpTMDUwS1ZJdEZ5SlZTeWtYNml3VDBNdVhqZUZIQWR4eDB5ZldVTXhqS0QyMUVZYWhNR0h0ejNyTFViZkdCZ01OVEFuMFlCN2JIQXBGdEtjUC1fZjcxRFZIVDM3dHlITzMyOEhWVk1uUUxVVWVfSElNNnJzdHFuZmJFd1VSMnVfdFdsbUNJYlhRSkZRY0pTSGFCUHBxUGx5WXE4TDVSdDFzZ0tjdDFkVFZsYlp1MTFKWDEyNG9PSVhZaVVia1JwN0ZyOEl3TEg1bzIybXFB?oc=5)
 
 ---
 
@@ -387,11 +411,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMirAJBVV95c
 
 ---
 
-### [​1 in 8 cancer cases worldwide linked to infections that can be prevented: What you should know and how to protect yourself​ - The Times of India](https://news.google.com/rss/articles/CBMipAJBVV95cUxNb2Z3MVYyMV8yeFhkdVptVkl1T3dWNGo4N2JiWnEzOXFFWDY4Q1IwM2tTZVlkNFBTaW53MFl6SGhEbDR4SDhYV3BfMkRoMG1JR0pxUXJ5N0t3UFM0OGY5WTFTc0RPSTdFM3ZhVXNmQ1FIYXN1UXgwOElFUUhLeE5XSHRaUDFhOVgzSDE2TkhTcWpNbVdHd2NBY3FBZnJaS1JMVkY4cVNaeXRzcHBKaC1wXzV4TXB1NTNoSGZBOTM3S3pBalVwZ0R2TnZVVEJJOHdhMWd3elpkb041ZnMxVjIzTExBNWJkT2lwcy1qSV9uTDgzNVhjYUFxa1VtcWp5VXA4MERWbWdCWVI1cktYWEJWel9fZUluaW9IVDFoM2JjcW84SXRR0gGsAkFVX3lxTE5BSlp6VVpLVjZ1UVNOWFhVYXlYUEozb3NrUzhPWWw2dWg0cmhOVlVMOThWdy1jenk4NnhCZVRhU01ZOWFFaDBpYTQ1dTFMLW12WDl5cFl1Y0cyYTJYa2NjUGROZkxrMjF4RlBaOF8yX0dZbW9FQk9OdTNmdU9GTWU0VzVocmFQc0VvOW5La2toOF9BRkI2R2x1ZU9GV3JqMk1UUDVIUnBQNUZ3elRETUVpcm9HY1NZTUNfcEl6U1VyZjZkUk9RMVF4UUQ3T0hMeWt6aG1QUGpENmVNOWhEbUFUSnFpUXpYeDYyYmxvNTc2R3FUWE9PX2I1dVF0TDBJenJCWVhaSDRSZHNzb2F1VGtaNV9pTENSLW9ZZEdMbk9MTEM0eTV2eE9QaFd4LQ?oc=5)
+### [Gli danno due mesi di vita, ora la malattia sembra in regressione: la storia di Max Parisi](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlEX3hRYUdldk5MUmRpTHkxeTEyTU5qaVBHNjM2cXdLcmVrMkRQZkVtemtOZHV0bzIycFVucDV3SFRUcG5UTE4tTEZCU1V3cXN1WlJkQkc1SFNEMW9CYmlibmE0eWJvekE1YV9hU3hiQXRoRUkzdFp1ZnY4bWl0MS1PbHRMT1hNTFBGTTFVM2l3Qk1LUkJYQzE1ci1KZHlySkFJT0kxaUJHdEE?oc=5)
 
 2026-10-09
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMipAJBVV95cUxNb2Z3MVYyMV8yeFhkdVptVkl1T3dWNGo4N2JiWnEzOXFFWDY4Q1IwM2tTZVlkNFBTaW53MFl6SGhEbDR4SDhYV3BfMkRoMG1JR0pxUXJ5N0t3UFM0OGY5WTFTc0RPSTdFM3ZhVXNmQ1FIYXN1UXgwOElFUUhLeE5XSHRaUDFhOVgzSDE2TkhTcWpNbVdHd2NBY3FBZnJaS1JMVkY4cVNaeXRzcHBKaC1wXzV4TXB1NTNoSGZBOTM3S3pBalVwZ0R2TnZVVEJJOHdhMWd3elpkb041ZnMxVjIzTExBNWJkT2lwcy1qSV9uTDgzNVhjYUFxa1VtcWp5VXA4MERWbWdCWVI1cktYWEJWel9fZUluaW9IVDFoM2JjcW84SXRR0gGsAkFVX3lxTE5BSlp6VVpLVjZ1UVNOWFhVYXlYUEozb3NrUzhPWWw2dWg0cmhOVlVMOThWdy1jenk4NnhCZVRhU01ZOWFFaDBpYTQ1dTFMLW12WDl5cFl1Y0cyYTJYa2NjUGROZkxrMjF4RlBaOF8yX0dZbW9FQk9OdTNmdU9GTWU0VzVocmFQc0VvOW5La2toOF9BRkI2R2x1ZU9GV3JqMk1UUDVIUnBQNUZ3elRETUVpcm9HY1NZTUNfcEl6U1VyZjZkUk9RMVF4UUQ3T0hMeWt6aG1QUGpENmVNOWhEbUFUSnFpUXpYeDYyYmxvNTc2R3FUWE9PX2I1dVF0TDBJenJCWVhaSDRSZHNzb2F1VGtaNV9pTENSLW9ZZEdMbk9MTEM0eTV2eE9QaFd4LQ?oc=5)
+Source: [Tgcom24](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlEX3hRYUdldk5MUmRpTHkxeTEyTU5qaVBHNjM2cXdLcmVrMkRQZkVtemtOZHV0bzIycFVucDV3SFRUcG5UTE4tTEZCU1V3cXN1WlJkQkc1SFNEMW9CYmlibmE0eWJvekE1YV9hU3hiQXRoRUkzdFp1ZnY4bWl0MS1PbHRMT1hNTFBGTTFVM2l3Qk1LUkJYQzE1ci1KZHlySkFJT0kxaUJHdEE?oc=5)
 
 ---
 
@@ -408,6 +432,14 @@ Source: [Linfo.re](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1NTSTNR
 2026-10-09
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRHQtX09VWnFMYnZQRGNfMnViLW9YRGlmVzhESHRhejVBTFRHN3B1Y3dNYUdaTUFaV0EycXhUcUhma3praWFseVQteWRGeFFhbjM4cVo1ZFZ4SzZ4ZXdjcUZId2w5a1hjNG9EZjB4LTJ4SUpvc29NRUJWOHdGOVBwLXh1WTlwcXJLZ2RPOUtGNjQ2ZHpnV19kdWpNNzBFU0JaaExwSnROVENyTDBZWks3TXVfbU9UeWNveDVfWGZUVEowQndjWEJ3T2E5bnBwcjkzX3hYME9pV1lLTm9tVFM2RnlqOVJ4UnhGOWNVWjRSY1p1Z9IB_AFBVV95cUxQMjBXV1hKdHZjM1ZxVi1QTVJVSDl6OVpfQUxwRl90ZVI3Y3pDYUM2NmlkanVCZl9YVExpY2lFYlc1V3BNVDR1SHpJUUVHNW9VTHRLOXNyRGY3ZU0xcmRUZlp3S1BBOEFiN3llMHFDOGdrZ09oZHNjaVNrdDVLYlltbDVEUFdycmVmcGd2bmFiVWtTM0w1VnJCZjZFMWRQOVI2NDRYMXh4Q20tcHhJOWtJYWtqeXhqUHJLRGs3NERJUGVsZFRnMkUwanRrUUJaVFQ2dUFndUJRNlpKb0FINks3TGpKM1lDb3NEYnpiLVJDTnQ1alVFM3o0OXZOSHQ?oc=5)
+
+---
+
+### [Barbara O’Neill’s sickening gospel She preaches a dangerous message](https://news.google.com/rss/articles/CBMibEFVX3lxTE1EN2l0RnZGakJaT1p1MjdPc283QzIzRnUzRzY1Zk13NUZNVXZvMy1xaGpseHpHT2hMWmN4TjNIeUJ6OFQ2aUdIUFB3VGo4ZkJoUWZCQW95M05CLTJYVkRGR3VEUzMtU2FGTXlCbw?oc=5)
+
+2026-10-08
+
+Source: [UnHerd](https://news.google.com/rss/articles/CBMibEFVX3lxTE1EN2l0RnZGakJaT1p1MjdPc283QzIzRnUzRzY1Zk13NUZNVXZvMy1xaGpseHpHT2hMWmN4TjNIeUJ6OFQ2aUdIUFB3VGo4ZkJoUWZCQW95M05CLTJYVkRGR3VEUzMtU2FGTXlCbw?oc=5)
 
 ---
 
@@ -459,14 +491,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3
 
 ---
 
-### [tRNA dosage regulates lineage dependency and resistance in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTDZyZ3pSUTRmbjFKSklRc1JPNmw0eTI4dmtyT0l2S1F6dFVKMjdtZzk2R2NyZHZUNGp4eUxfVE1CSmh3eUh5eWtubXBKMkllalV0OEFtLUo1TFFuNEZF?oc=5)
-
-2026-10-07
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTDZyZ3pSUTRmbjFKSklRc1JPNmw0eTI4dmtyT0l2S1F6dFVKMjdtZzk2R2NyZHZUNGp4eUxfVE1CSmh3eUh5eWtubXBKMkllalV0OEFtLUo1TFFuNEZF?oc=5)
-
----
-
 ### [Krebs: Diese 5 Viren und Bakterien lösen das Wachstum von Tumoren aus. So schützen Sie sich](https://news.google.com/rss/articles/CBMi8wFBVV95cUxObHFtOGNiUThtcTAwOEpDcEd6LTYzc3pzZVlPUkNWT09iZWh1MVBzY0t3eWpMTl96MldOVmRROS11VElBVlF3LVpwaG1qVkRGcS1xd3hUUUtxSVVVWjFJTzFkbHhKVTlhSzdkN3E4cjVVTmlnLWJVZE45SVR3VW1wZlpBREk3X21TNVZnaWVvUDVSRTZrR3dnbTB0NmhwU2JFNFJvbXRmSHZ5eWNKZUducTVhaFVOeXFSY2pISUNYTFBtWlZhSmU0MklPVm1td0dxOTRxd2xZTWRKd2Jqbkc4c09tMnpYZGxBbm9qdVU3MGpKdEk?oc=5)
 
 2026-10-07
@@ -496,14 +520,6 @@ Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMisAFBVV95cUxP
 2026-10-06
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDNseGFMZnJ6QWplenBWSFd3cGF6NmJJWGRZQ1RHWmNpNzhCckd4bmpUcGo5RDhyOWtUQXVuY21TRGNVRGpkMy1iaTNESWVpNDFTTXV0SWFFd29UUjE2U1hodW0yZzFOaVR5SEdQTVhJVVF6MjFLTjN5X2xFX3doZ1l0SWRWMTZDX1VkZk5kT2tzYjQ0NXZwVXZVWdIBmAFBVV95cUxOUUJtbzBHYkxkZ3VodDA2empmbU12QnZZR0JFNzcyYlh3OHFQdDlWSERBV0tDYmo1cEthbWI1cDJBdElHdzgtLVo3Yzlpa3NTOFZITFlTWG9BUno3YmtfeUFBdXduSjhuc1hNdHAwUjdjSVBoQVh6ZDBMVE9OZGhkRnV1LW5zNGtYX2xsWElEZTVmOTFqSkJ6dQ?oc=5)
-
----
-
-### [Prostate cancer plan helping men regain strength](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQXVFTmlGcHlPTmR6UnNkRXlNLVBCN2RCZHVRaXlpSTRXU2hmSTEzR01lY2ZkbGpxTUx3cmtZaUNLMDlmS3JnLUhoRFNUcFdBbVVrcm1qWGtINzBQcEE?oc=5)
-
-2026-10-06
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQXVFTmlGcHlPTmR6UnNkRXlNLVBCN2RCZHVRaXlpSTRXU2hmSTEzR01lY2ZkbGpxTUx3cmtZaUNLMDlmS3JnLUhoRFNUcFdBbVVrcm1qWGtINzBQcEE?oc=5)
 
 ---
 

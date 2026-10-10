@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depression News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 4 articles, 7 related drugs."
+description: "Health news about depression. 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# dépression (depression) News
+# depression News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depression?">
+<strong>depression</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,29 +35,13 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [167.447 Kinder untersucht: Depression und Antidepressiva mit Entwicklungsrisiken verknüpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 
 2026-10-09
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
-
----
-
-### ["Un lien avec la dépression" : des chercheurs ont montré comment le microbiote intestinal influe sur notre cerveau et notre santé mentale - TF1 Info](https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0xiY2hORm9kaDB3dFBodFYxVEtBcnlDdXFCM2xjQ2ZaYm90WmRDN0pvVTMxRGhOX0w3c1lES2lCWXEzWGtLdE5DVFVRTFB0Vjl0Q1RtY2xiMGdHU0pqNmNmVVU1M3ZzSVgzdE4wdVBoQmpoQy10ZkVaRHd5Yk5vRmdzQUtfV1NvdS0yakptc1RaQUxiZE9vdlhfVnFtcXNtT1dPdXlKNjZ3REt6Ui1Td2piUFNoM3U3bGRlUlJ2eTRYdklZZmx0OU5wd1k3LVVUVWN0SVJmLWdiR2RGdkl2bm4yWlN3MWdHTHNGOVp6eGJzVXN6Qnl4UGFTbVg2V0hrWUdfcXln?oc=5)
-
-2026-10-08
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0xiY2hORm9kaDB3dFBodFYxVEtBcnlDdXFCM2xjQ2ZaYm90WmRDN0pvVTMxRGhOX0w3c1lES2lCWXEzWGtLdE5DVFVRTFB0Vjl0Q1RtY2xiMGdHU0pqNmNmVVU1M3ZzSVgzdE4wdVBoQmpoQy10ZkVaRHd5Yk5vRmdzQUtfV1NvdS0yakptc1RaQUxiZE9vdlhfVnFtcXNtT1dPdXlKNjZ3REt6Ui1Td2piUFNoM3U3bGRlUlJ2eTRYdklZZmx0OU5wd1k3LVVUVWN0SVJmLWdiR2RGdkl2bm4yWlN3MWdHTHNGOVp6eGJzVXN6Qnl4UGFTbVg2V0hrWUdfcXln?oc=5)
-
----
-
-### [Der Tod ihrer Patienten geht Herzmedizinern oft sehr nahe](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
-
-2026-10-06
-
-Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
 
 ---
 
