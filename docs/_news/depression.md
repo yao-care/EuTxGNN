@@ -69,11 +69,11 @@ Source: [SpringerMedizin.de](https://news.google.com/rss/articles/CBMiugFBVV95cU
 
 ---
 
-### [Hochverarbeitete Lebensmittel: 85 Prozent weniger, Angst und Depression sinken](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2JidTZHNDc3Q2JKT2tRXzFFZ2tPeEtlWnhva1A2VXBGTkRqRk00bDUzclZBYVk1d3dNdmxUYlZQSUluZnBOSHFPd29oNjFkMzhTdmtJS01waXFQTmctb2kzbnY1STc0LUo3NThBNmtqRjI3WloyRV9ud0JWSlRQOEU0N3hENkFPZGY3cXE4dHlPaXl6akdLQ0pkMGZlRDBhQnV2TGxR?oc=5)
+### [UCSF: Hochverarbeitete Lebensmittel senken MADRS-Werte bei Depressionen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
 
 2026-10-04
 
-Source: [BornCity](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU2JidTZHNDc3Q2JKT2tRXzFFZ2tPeEtlWnhva1A2VXBGTkRqRk00bDUzclZBYVk1d3dNdmxUYlZQSUluZnBOSHFPd29oNjFkMzhTdmtJS01waXFQTmctb2kzbnY1STc0LUo3NThBNmtqRjI3WloyRV9ud0JWSlRQOEU0N3hENkFPZGY3cXE4dHlPaXl6akdLQ0pkMGZlRDBhQnV2TGxR?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
 
 ---
 

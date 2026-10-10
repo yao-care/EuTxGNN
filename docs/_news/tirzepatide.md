@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Médicaments antiobésité : le nombre de demandes de prise en charge par les centres spécialisés en forte augmentation - Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
 
 2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
+
+---
+
+### [Pancréatites, décès suspects… 17 cas graves liés à l'usage détourné d’Ozempic et Wegovy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [L'ibuprofene è un antidolorifico o un antinfiammatorio? Cosa fa davvero e le risposte ai dubbi più comuni](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUNjcXhPa1ZIa19FRXJ3eWE2aWRtMUh1aTQ4OTdFNTRDSEh3LXBGTlVrLWFfOU9wam15eXZtY0hkOUFZNGJyNkIwemNQQTJ5RmpEellHbFlSRDZXOWZCazZhX1RzUlduNjVfLWhMYWhQcm52VFd2bklzSkdXUFNSMHQ0MTVSclpWRnFfZm52VE1wMVZDWjY4YjU0ZVNEZFg5RkdYOGxhamd2cW8yWmV4SThSNHRwWW1WdGxlVWNENHpFMjNvRVRyRDRDODQ0aEZFcTRLOEJURS1TTFQ2TUNKakVSY21WZw?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUNjcXhPa1ZIa19FRXJ3eWE2aWRtMUh1aTQ4OTdFNTRDSEh3LXBGTlVrLWFfOU9wam15eXZtY0hkOUFZNGJyNkIwemNQQTJ5RmpEellHbFlSRDZXOWZCazZhX1RzUlduNjVfLWhMYWhQcm52VFd2bklzSkdXUFNSMHQ0MTVSclpWRnFfZm52VE1wMVZDWjY4YjU0ZVNEZFg5RkdYOGxhamd2cW8yWmV4SThSNHRwWW1WdGxlVWNENHpFMjNvRVRyRDRDODQ0aEZFcTRLOEJURS1TTFQ2TUNKakVSY21WZw?oc=5)
+
+---
 
 ### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Netupitant?">
-<strong>Netupitant</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Netupitant</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,13 @@ This page combines the AI-predicted indications for Netupitant with the latest h
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">hypertension</span>
 
 Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
-
----
-
-### [Professeur Steg, cardiologue : "La tension idéale à 60 ans a changé, les médecins ne visent plus les mêmes chiffres" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
-
-2026-10-09 <span class="news-indication-tag">hypertension</span>
-
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEZOa3J0SmpTUGt6N3hOT2hQTlota2J0TkczbkNzVEhzT1NMaU5LeWd6LWJSb0pmYWwySGdYbXdxbFdqYk5ZUTY4dkxUMXNPeThkUHdIVFU1d1JuazNpemhhcXdCUG5QOWY5NzI3OTJPd21XbmJURFdFdzZzQTBLdkl6dmJzTXpPWnhMcHJvbw?oc=5)
-
----
-
-### [This is the official date you should turn on your central heating, and 7 ways you can delay it - Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
-
-2026-10-08 <span class="news-indication-tag">heart disease</span>
-
-Source: [Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
 
 ---
 
@@ -91,6 +75,14 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UG
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
+
+### [Quels sont les six aliments à bannir de son caddie pour préserver sa santé ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
+
+2026-10-07 <span class="news-indication-tag">hypertension</span>
+
+Source: [La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
 
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
-
----
-
-### [This is the official date you should turn on your central heating, and 7 ways you can delay it - Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
-
-2026-10-08 <span class="news-indication-tag">heart disease</span>
-
-Source: [Good Housekeeping](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWk1SSTRHUGF4dXlZMS1nMDAxZXkxM2YtRG1MVjJSM2xEREpYZXpZak95dHB6NlZ5aEI0YjV0Vko2UkVtbXNDQlczUnd3dFhfTFpCZVZmMFk3VFRHVUdxbS1JN1liVE1POHZzOWVYODN2M3BNYWpWYzNnNDB4V3BFamxLMF9RWjU3YVgydkZkcGNOcTdvazAtM2s1OERrYUQzcjhBbXRCejJScFdkLUo5ZXNPZ09Zdnp1Vmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fenfluramine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenfluramine Hydrochloride?">
-<strong>Fenfluramine Hydrochloride</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Fenfluramine Hydrochloride</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 <p><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [TÉMOIGNAGE. « J’ai perdu presque 100 kg, et ça m’a sauvé » : la vie après une opération contre l’obésité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXpVM2xzeWlnT0pIS29jSUhiMlVjYTlnNTEyVXBiR3F3ZGlmd0xHZUVpSFhiRUduSnd2SzUxT3ZIbmRFaEw3Tm44OHViSnBNcW5TVmhveTVNbFpBV2NZRlpVTGJSQThZeWN1T2I3dEkwR0ttVTlZbjZlR0U4RTEzUTU1ZTlCX0xTZ1ZkNGNRNGRzOHhsMHhtYWNGZlV4aW94bDdKcXh4MUJBa2Vxd083dEgzQVE0VTFTd0I1dDc3NmpMM1BlY0NkZU45bHdxbzJ0S2t5MFY1SnRsemw0MEdOYkswUUQtb280MG5rNDBkQTNhNWNJeU5N?oc=5)
+
+2026-10-10 <span class="news-indication-tag">obésité</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXpVM2xzeWlnT0pIS29jSUhiMlVjYTlnNTEyVXBiR3F3ZGlmd0xHZUVpSFhiRUduSnd2SzUxT3ZIbmRFaEw3Tm44OHViSnBNcW5TVmhveTVNbFpBV2NZRlpVTGJSQThZeWN1T2I3dEkwR0ttVTlZbjZlR0U4RTEzUTU1ZTlCX0xTZ1ZkNGNRNGRzOHhsMHhtYWNGZlV4aW94bDdKcXh4MUJBa2Vxd083dEgzQVE0VTFTd0I1dDc3NmpMM1BlY0NkZU45bHdxbzJ0S2t5MFY1SnRsemw0MEdOYkswUUQtb280MG5rNDBkQTNhNWNJeU5N?oc=5)
+
+---
 
 ### [Médicaments antiobésité : le nombre de demandes de prise en charge par les centres spécialisés en forte augmentation - Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
 
@@ -72,7 +80,7 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMl
 
 ### [Pancréatites, décès suspects… 17 cas graves liés à l'usage détourné d’Ozempic et Wegovy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
 
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
 Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
 

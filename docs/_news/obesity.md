@@ -3,7 +3,7 @@ layout: default
 title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obésité (obesity). 6 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obésité (obesity)?">
-<strong>obésité (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>obésité (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “obésité” and lists
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [TÉMOIGNAGE. « J’ai perdu presque 100 kg, et ça m’a sauvé » : la vie après une opération contre l’obésité](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXpVM2xzeWlnT0pIS29jSUhiMlVjYTlnNTEyVXBiR3F3ZGlmd0xHZUVpSFhiRUduSnd2SzUxT3ZIbmRFaEw3Tm44OHViSnBNcW5TVmhveTVNbFpBV2NZRlpVTGJSQThZeWN1T2I3dEkwR0ttVTlZbjZlR0U4RTEzUTU1ZTlCX0xTZ1ZkNGNRNGRzOHhsMHhtYWNGZlV4aW94bDdKcXh4MUJBa2Vxd083dEgzQVE0VTFTd0I1dDc3NmpMM1BlY0NkZU45bHdxbzJ0S2t5MFY1SnRsemw0MEdOYkswUUQtb280MG5rNDBkQTNhNWNJeU5N?oc=5)
+
+2026-10-10
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMi9wFBVV95cUxORXpVM2xzeWlnT0pIS29jSUhiMlVjYTlnNTEyVXBiR3F3ZGlmd0xHZUVpSFhiRUduSnd2SzUxT3ZIbmRFaEw3Tm44OHViSnBNcW5TVmhveTVNbFpBV2NZRlpVTGJSQThZeWN1T2I3dEkwR0ttVTlZbjZlR0U4RTEzUTU1ZTlCX0xTZ1ZkNGNRNGRzOHhsMHhtYWNGZlV4aW94bDdKcXh4MUJBa2Vxd083dEgzQVE0VTFTd0I1dDc3NmpMM1BlY0NkZU45bHdxbzJ0S2t5MFY1SnRsemw0MEdOYkswUUQtb280MG5rNDBkQTNhNWNJeU5N?oc=5)
+
+---
 
 ### [Médicaments antiobésité : le nombre de demandes de prise en charge par les centres spécialisés en forte augmentation - Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
 

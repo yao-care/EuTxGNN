@@ -14,7 +14,7 @@ permalink: /news/rotigotine/
 ---
 
 <p class="key-answer" data-question="What news is there about Rotigotine?">
-<strong>Rotigotine</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Rotigotine</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Rotigotine with the latest h
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+
+2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+
+---
 
 ### [Multiple Sklerose: Therapie mit Ocrelizumab auch nach zehn Jahren sicher und effektiv – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
 
@@ -70,11 +78,19 @@ Source: [Aragón Play](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHZJ
 
 ---
 
-### [What is the XFG Covid strain? Symptoms and what to know as the variant hits the UK - The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
+### [What is XFG Covid strain? Symptoms to look out for as UK cases grow - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
 
-2026-10-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZWhuRlhzTElpUm8ydHJuQTdQSjUzYTl5bDZJQkZTMnhkZjJrWGlRLW1nV3VpMHJpN0R3ZHFBTFRKWHVLQ0RhNlRNVUJ3X1pDanJKbW5xT0ZpQ3dZVEFnZHFHV2dBQnFhSjFITTVTTktzbWxPOW5rZ05HN0ZJc0JIZ0t4anh3U3d4UDJNUFhya2trcXEyNVB1S1ZpeUNFSjNaZjdGYmdUbXA0dWxfR3Z5QXpxdkwxV3hD?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
+
+---
+
+### [GLP-1 Users Are Reporting Their Fingernails Detaching](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
+
+2026-10-09 <span class="news-indication-tag">MS</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5)
 
 ---
 
@@ -94,11 +110,11 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ
 
 ---
 
-### [Don’t let shingles symptoms slow you down - Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
+### [Don’t let shingles symptoms slow you down - The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 2026-10-08 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRpWDcyVF9PaEpKa0ItODI0c3NyX0h5Z0hSanRFZ2hYM0MtOEtfa29IemkwVkZCVnNpS0Y4bGNsQ2phRVB6enVLUUp4dlg4anhaNEZMNFRUMlB0QXVDQUY1QXY5cmVMWGs5bUFSRnVKNTcwX0JsM2gwSjJJaFFhZXhYd9IBiAFBVV95cUxQTDBBZGRtRjdDT1Nsa2FZeGVtTlFjTGltNUhRclhQa3ZxUC1PVVVxcTRoMTFwN29IRW95N0IzYlJnVlVUMzdPZm9teVlQOVJ5UmxBOHB6ajlyNmpHZkNZX3Z0VnhzTEJpOE9vN1pEd2VDb2xwSjZ0TmhCVVkycGVhTzJuM0hWd0pG?oc=5)
 
 ---
 
@@ -107,14 +123,6 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigwFBVV95cUxPanRp
 2026-10-07 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
-
----
-
-### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

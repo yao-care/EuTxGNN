@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 
 ## Related News (2)
 
-### [Andy Burnham announces £48m partnership in bid to ‘defeat’ dementia - The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjFQb1NobktmbXdZNVlraTBJQUZxanFlX2lwVFZ2dEV4S1ByTjE4ZElWYTA3ODFpeXhrZ0FDVEIybGxTY2doWWJaS2pnTlNLSU92M200Q0hVSlA2TlRjSW0yLVBiTHFWZEZpdjF4aG9RcGVsa3ZxV25uTWt4TDVCWEM4aHJ2Y0xDdExRZUlHeEROVlZHaUJtcDMxTjNub2dL?oc=5)
+### [Andy Burnham: I want Britain to make the breakthrough on dementia - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
 2026-10-08 <span class="news-indication-tag">Alzheimer's</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjFQb1NobktmbXdZNVlraTBJQUZxanFlX2lwVFZ2dEV4S1ByTjE4ZElWYTA3ODFpeXhrZ0FDVEIybGxTY2doWWJaS2pnTlNLSU92M200Q0hVSlA2TlRjSW0yLVBiTHFWZEZpdjF4aG9RcGVsa3ZxV25uTWt4TDVCWEM4aHJ2Y0xDdExRZUlHeEROVlZHaUJtcDMxTjNub2dL?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
 ---
 
