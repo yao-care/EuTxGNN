@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
+
+### [Foundayo: Orforglipron senkt das vorhergesagte Diabetesrisiko um bis zu 57 Prozent](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
+
+2026-10-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
+
+---
+
+### [I’m a weight loss expert — this is why GLP-1s don’t work for everyone - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
+
+2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
+
+---
 
 ### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
 
@@ -70,14 +86,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkR1
 
 ---
 
-### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
-
-2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-Source: [oekotest.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
-
----
-
 ### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -86,19 +94,11 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSN
 
 ---
 
-### [Médicaments antiobésité : le nombre de demandes de prise en charge par les centres spécialisés en forte augmentation - Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPR0FBMF9zTDBSUUJkaldLZ0xzdEhka0ZmWURIMUNBWXFVZUNjOXVKb1JrWEJRRnVPMkNWOGFjanZhdVhkVHE5Skh0anRBNlMxN3JjYXpVUlREcXlZLVJ3Z29IcDJRY0UzTGRzWi1jSXNkWUJoQ0JnenRkVEdJaFB5ZWdvRGZ6NExHaTV1ZWdUdjF5V1FMcWNzbW9EeGpEdDQxYlRWclJPQ2lrbXhRQ1VyS3NVaE5sQ1hJSXJRRDZQekIwVDVrNnRDOVJBOXpsTXkxc2tGd2JMRmcwTW9Xd3RlbWU5TlFlZzJjVWlMNFRXWUFveWtTWTBWWWswam9Idmc?oc=5)
-
----
-
-### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
+### [Typ-2-Diabetes bei 20- bis 45-Jährigen: Armut erhöht das Erkrankungsrisiko](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmg3dU0tVlpkY29TblR6U0JMbmJlbjQxeHFHYmp1UUN0cDRGOWZWVmpyLVgtVGZLb3JhdFhrdkpiajhrbXRpNXNwdUhMVzc5dW5kZ2pkd0doc3FpSFVrOUQ2Mzhtamg2dHM2THNna0NTOFI3aENmUjZoWFRoLWRBUTg0eFBuYzdzLXg1bTVVNEwyWW9CM0kxRnpEck00V3VTN1kzdTFSeWhDRVFPZkthWEhmTzR2V21CNFA3WG5DZF8?oc=5)
 
 2026-10-09 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZmg3dU0tVlpkY29TblR6U0JMbmJlbjQxeHFHYmp1UUN0cDRGOWZWVmpyLVgtVGZLb3JhdFhrdkpiajhrbXRpNXNwdUhMVzc5dW5kZ2pkd0doc3FpSFVrOUQ2Mzhtamg2dHM2THNna0NTOFI3aENmUjZoWFRoLWRBUTg0eFBuYzdzLXg1bTVVNEwyWW9CM0kxRnpEck00V3VTN1kzdTFSeWhDRVFPZkthWEhmTzR2V21CNFA3WG5DZF8?oc=5)
 
 ---
 
@@ -110,9 +110,17 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMl
 
 ---
 
+### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+
+---
+
 ### [Pancréatites, décès suspects… 17 cas graves liés à l'usage détourné d’Ozempic et Wegovy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
 
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
 
 Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
 
@@ -131,22 +139,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQ
 2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
-
----
-
-### [Las principales sociedades médicas de España coinciden: la monitorización continua de glucosa reduce un 45% los ingresos por hipoglucemia grave en pacientes con diabetes tipo 2 - El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
-
----
-
-### [Normoglykämisch – trotzdem Diabetes-gefährdet? - Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 ---
 

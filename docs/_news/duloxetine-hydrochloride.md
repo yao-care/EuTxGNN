@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [I was told I had depression for 14 years until I got sectioned - it was bipolar](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keDNGZndDd2tkWmdjaWZkaWRybS00NjBoSzhKMlZRaDFLY2pPNUx6UmxVSTJlRmRpVVdVSi1kb0V0MU9tZFJ0MWdqTWthTFFQWjR3QUl3cE5SNi1sLUE?oc=5)
+### [Depression und Ernährung: 20 Personen senken Beschwerden nach vier Wochen](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
-2026-10-10 <span class="news-indication-tag">depression</span>
+2026-10-11 <span class="news-indication-tag">depression</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keDNGZndDd2tkWmdjaWZkaWRybS00NjBoSzhKMlZRaDFLY2pPNUx6UmxVSTJlRmRpVVdVSi1kb0V0MU9tZFJ0MWdqTWthTFFQWjR3QUl3cE5SNi1sLUE?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
 ---
 
@@ -75,14 +75,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm
 2026-10-09 <span class="news-indication-tag">depression</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
-
----
-
-### [UCSF: Hochverarbeitete Lebensmittel senken MADRS-Werte bei Depressionen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
-
-2026-10-04 <span class="news-indication-tag">depression</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3R4Qi1nUm1JaXdpM2M0MkdIOEU1bkJUNXhYZ2ZMeDZfQmhiM0o0R01TSW9qZ0hLM2hJeGtXMktGX09oQTVERFlBNjRjb1R1bkU4bXpiWmNvak1YRDdrY3praXJ5VDVRZF9QYlRwNEN5TkhhaFVqVWFlaXluMzQxQ2ZuRndSc3RCakJZbllIb2dXQzZzcFhkYTZEWC1jS0VScXJINA?oc=5)
 
 ---
 

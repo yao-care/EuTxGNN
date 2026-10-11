@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Elvitegravir?">
-<strong>Elvitegravir</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Elvitegravir</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Elvitegravir with the latest
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">hepatitis</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
+
+---
+
+### [Hepatitis A update one week after cases confirmed at Newcastle schools - Chronicle Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmtIZmVaMVJ6cEJJckN3UUJ5VS1SZkFUeVdJdmhtVkRTM1FRTGRadGVqZy1ZM3JhY2hsZFoxRjA5dTJlU3FxOHRBR3ZTeVVTcWxiRFEzVFRBNy1Qb3B0Ml9iQjNYODdaeVZKdVljdGtoOFBtYWhQaFVyOFIwOTFEc0RJcTh6RVpMMjlLa013R2t4c0lLR2pSTdIBngFBVV95cUxOSzZXaVBOSGQyTkFoNHI3NDhvNW5Mbk1NVExfTGdGRmExTjFrRXNERmR5alRVRGtmb1hiRXlITV8zQVhzc1o3WXBGTUc2Q0Vpa2hfQ3Q2cGllSk12cGRGQXEzME9Ec1QxZzZ6VVp2RjZTLTlfSnhjQWFSNnN3VWxyMzJGLTFPUjhVNjBkUEZrSnV5MEtILVBPRlN3aU9QUQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+
+Source: [Chronicle Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmtIZmVaMVJ6cEJJckN3UUJ5VS1SZkFUeVdJdmhtVkRTM1FRTGRadGVqZy1ZM3JhY2hsZFoxRjA5dTJlU3FxOHRBR3ZTeVVTcWxiRFEzVFRBNy1Qb3B0Ml9iQjNYODdaeVZKdVljdGtoOFBtYWhQaFVyOFIwOTFEc0RJcTh6RVpMMjlLa013R2t4c0lLR2pSTdIBngFBVV95cUxOSzZXaVBOSGQyTkFoNHI3NDhvNW5Mbk1NVExfTGdGRmExTjFrRXNERmR5alRVRGtmb1hiRXlITV8zQVhzc1o3WXBGTUc2Q0Vpa2hfQ3Q2cGllSk12cGRGQXEzME9Ec1QxZzZ6VVp2RjZTLTlfSnhjQWFSNnN3VWxyMzJGLTFPUjhVNjBkUEZrSnV5MEtILVBPRlN3aU9QUQ?oc=5)
 
 ---
 
