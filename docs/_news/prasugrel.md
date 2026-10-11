@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Prasugrel?">
-<strong>Prasugrel</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Prasugrel</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Prasugrel with the latest he
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [A surprisingly simple way to relieve knee arthritis pain without pills or surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
-
----
-
-### [Cohérence cardiaque : les clés pour adopter cette méthode respiratoire qui permet de réduire le stress et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
-
-2026-10-10 <span class="news-indication-tag">hypertension</span>
-
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
 
 ---
 
@@ -78,11 +70,11 @@ Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ
 
 ---
 
-### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
+### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap - South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
-Source: [SCMP](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
+Source: [South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 ---
 

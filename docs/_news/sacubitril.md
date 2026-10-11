@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 
 ## Related News (14)
 
+### [Imidazolpropionat aus dem Darm: möglicher Verstärker der Alzheimer-Pathologie - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+---
+
 ### [«Diabete dopo il Covid?»: scoperto come il virus sabota la produzione di insulina](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
 
 2026-10-11 <span class="news-indication-tag">diabete</span>
@@ -67,14 +75,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3
 2026-10-11 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
-
----
-
-### [I’m a weight loss expert — this is why GLP-1s don’t work for everyone - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
 
 ---
 
@@ -118,11 +118,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZm
 
 ---
 
-### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
+### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap - South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
-Source: [SCMP](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
+Source: [South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 ---
 
@@ -134,11 +134,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQ
 
 ---
 
-### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+### [Normoglykämisch – trotzdem Diabetes-gefährdet?](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
-2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-08 <span class="news-indication-tag">diabetes</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabete (diabetes mellitus). 12 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 12 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
-<strong>diabete (diabetes mellitus)</strong> currently has <strong>12 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>12 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -116,6 +116,14 @@ This page brings together the latest health news about “diabete” and lists t
 
 ## Related News (12)
 
+### [Imidazolpropionat aus dem Darm: möglicher Verstärker der Alzheimer-Pathologie - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+2026-10-11
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+---
+
 ### [«Diabete dopo il Covid?»: scoperto come il virus sabota la produzione di insulina](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
 
 2026-10-11
@@ -129,14 +137,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3
 2026-10-11
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
-
----
-
-### [I’m a weight loss expert — this is why GLP-1s don’t work for everyone - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
-
-2026-10-11
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
 
 ---
 
@@ -180,11 +180,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQ
 
 ---
 
-### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+### [Normoglykämisch – trotzdem Diabetes-gefährdet?](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 2026-10-08
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 ---
 

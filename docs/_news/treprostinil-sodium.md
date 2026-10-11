@@ -14,7 +14,7 @@ permalink: /news/treprostinil-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Treprostinil Sodium?">
-<strong>Treprostinil Sodium</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Treprostinil Sodium</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Treprostinil Sodium with the
 <p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Cohérence cardiaque : les clés pour adopter cette méthode respiratoire qui permet de réduire le stress et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
-
-2026-10-10 <span class="news-indication-tag">hypertension</span>
-
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
-
----
+## Related News (3)
 
 ### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
 

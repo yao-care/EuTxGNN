@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Can Hormone Therapy Improve Brain Health During Menopause?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
+
+2026-10-11 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
+
+---
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 

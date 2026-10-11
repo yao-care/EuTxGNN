@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Imidazolpropionat aus dem Darm: möglicher Verstärker der Alzheimer-Pathologie - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+
+---
 
 ### [«Diabete dopo il Covid?»: scoperto come il virus sabota la produzione di insulina](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
 
@@ -70,19 +78,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRH
 
 ---
 
-### [I’m a weight loss expert — this is why GLP-1s don’t work for everyone - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
-
----
-
 ### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
 
 2026-10-11 <span class="news-indication-tag">diabetes</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
+
+---
+
+### [Desmintiendo mitos sobre el Ozempic: «Si no cambias los hábitos, seguirás haciendo las cosas mal, pero comiendo menos» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDJRNGtMb2oxZGs0bkRjRWhFUVk1VlJQQkVUMmNwWWlwdjBFdXFtcnlJN2lIVmNxUnV2NC1BUmNGeV9kM2F2bkVuVTRPaW9ONkprWnAyUXZvSWZIdW5nOXNTZ2wwV2dPODhUc2R3ZlNSa1FsbzdxeFVzM2ZVUGJsYlZQbGtGVEdwUGdKaWhiamMxRzFXSGNNdlpFR3p1MGl4YmNCQkVlUmpZazFOWWs4OEFjZ3hDeWZoSjRCaFVKTXc4OXl2czJ5NmhoTnRtd3RFMXRGbzdhTnlCLXFtYTRVNUczaGt6Nk9la0RlRTV1STNBbUo3NkMzX9IBlAJBVV95cUxNbVlZcEltR1pvUUZ0cFBSd1c5S3dodWVpdF8zd1F4WFVpSEFqWmRwZzRHTlo4VVA5Nmo5SVY4bW4xN0kxWjd6dFh6WlktcXlPQ0thdDVVS2Y2WTh0TE1YYXVmN2NSdElZNlVpaFJfUGVsUmZfT2pHR0oydll6RTlMODhmTTJkS1ZnTV9EVGJkUmRudnYyWmQ4VEVjNUVHN2tFM1k4R1RTWGZlSGtjTVB0dmk5WU9EMDgwcnVHVTJKMnM2d1NsLWUzM0Rqa3FiR2tfbmZldDdreGMyd2J1Q1NKWWt6TE1pTWNzaDd5YnFuWUoxY1JDam45cU5leUhfaFJlZ1R2NFZ3VXo2dk9WVUplVm55dG8?oc=5)
+
+2026-10-10 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDJRNGtMb2oxZGs0bkRjRWhFUVk1VlJQQkVUMmNwWWlwdjBFdXFtcnlJN2lIVmNxUnV2NC1BUmNGeV9kM2F2bkVuVTRPaW9ONkprWnAyUXZvSWZIdW5nOXNTZ2wwV2dPODhUc2R3ZlNSa1FsbzdxeFVzM2ZVUGJsYlZQbGtGVEdwUGdKaWhiamMxRzFXSGNNdlpFR3p1MGl4YmNCQkVlUmpZazFOWWs4OEFjZ3hDeWZoSjRCaFVKTXc4OXl2czJ5NmhoTnRtd3RFMXRGbzdhTnlCLXFtYTRVNUczaGt6Nk9la0RlRTV1STNBbUo3NkMzX9IBlAJBVV95cUxNbVlZcEltR1pvUUZ0cFBSd1c5S3dodWVpdF8zd1F4WFVpSEFqWmRwZzRHTlo4VVA5Nmo5SVY4bW4xN0kxWjd6dFh6WlktcXlPQ0thdDVVS2Y2WTh0TE1YYXVmN2NSdElZNlVpaFJfUGVsUmZfT2pHR0oydll6RTlMODhmTTJkS1ZnTV9EVGJkUmRudnYyWmQ4VEVjNUVHN2tFM1k4R1RTWGZlSGtjTVB0dmk5WU9EMDgwcnVHVTJKMnM2d1NsLWUzM0Rqa3FiR2tfbmZldDdreGMyd2J1Q1NKWWt6TE1pTWNzaDd5YnFuWUoxY1JDam45cU5leUhfaFJlZ1R2NFZ3VXo2dk9WVUplVm55dG8?oc=5)
 
 ---
 
@@ -134,11 +142,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQ
 
 ---
 
-### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+### [Normoglykämisch – trotzdem Diabetes-gefährdet?](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
-2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-08 <span class="news-indication-tag">diabetes</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFFNZ1pGNjRTcmlkT2twUWV4RV9JTDFxM0J5Q2FtdkNYWEFpQXV4XzZnTnY2TDFSVy1NVWQtMW85UlVPRkN4NEdSR3p1dG5xLWZ6azl2SWI4RWYzMXJYWEVodFZjanNYU1AyUFFlS1c4MmpLM0RXbmRISUVJc3NOTjJtUDJjT0hjNjVjcXNObkFmRUpYV0ZVNEhB?oc=5)
 
 ---
 

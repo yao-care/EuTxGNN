@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 
 ## Related News (4)
 
+### [Gute Laune auf dem Teller: Diese Lebensmittel können deine Stimmung aufhellen - Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+
+2026-10-11 <span class="news-indication-tag">depression</span>
+
+Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+
+---
+
 ### [Antidepressiva in der Schwangerschaft erhöhen kein zusätzliches Autismus-ADHS-Risiko über Depression hinaus - it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
-
----
-
-### [Depression und Ernährung: 20 Personen senken Beschwerden nach vier Wochen](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
-
-2026-10-11 <span class="news-indication-tag">depression</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
 ---
 

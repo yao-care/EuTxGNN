@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
 2026-10-11
 
 Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
-
----
-
-### [I’m a weight loss expert — this is why GLP-1s don’t work for everyone - The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
-
-2026-10-11
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHRmQzVMWktlbnpQeGJ0a2NaOTIzbG5JVlFNbnktLXIxX2YxQU1TMEJMc1E1NlE2ZFcyQzh5UHh5UHJPTzkxTEkzT2gwTUNOLUZFaWQ2LXU3LTdmSGtjdzBRcjk1cFA1TVY4bW1QX0Q5R2NSbXRENTl4WXNqRjdxSjhHbHdYNHpyOE1ka2ZGWEM4R19USXhvM2hvb2NaQTI2VE45SWVGdXA?oc=5)
 
 ---
 
@@ -62,19 +54,19 @@ Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLa
 
 ---
 
+### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+
+2026-10-10
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+
+---
+
 ### [Atención Primaria urge a erradicar la "cultura de la báscula" y abordar la obesidad como enfermedad crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
 
 2026-10-10
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
-
----
-
-### [Obesità, dalle pillole al triplo agonista: la nuova frontiera punta al 30% di peso in meno](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
-
-2026-10-10
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
 
 ---
 
