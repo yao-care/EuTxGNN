@@ -54,11 +54,19 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 
 ## Related News (18)
 
-### [La nouvelle campagne annuelle de vaccination contre la grippe et le Covid-19 débutera mardi](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnlvOHFHaU82TzNsT2FJVEt4U2ZtM0dtYzBENXY5dXNxUnFUVDA0OGtPNEpEa3FfRU54QlcyNGlQMzFYWlMzZEVVOHRpS09VRjdBNmtScm1LQXpDeGVlNmF4VEd1NU8wTGZ1NEJsM2ItU2ZUWVIxX19RVS1tX1pTUTZXTWFPaGxLbl96cTZXbE9xcEFKUEY0azNFUGtWTUdSd0FPU1E4YmduRV85d29GWWVuZEZ6WEVDNXFHWVdLb01UOVZ2b0Y2dVp1MkdvZHl6NTlEYVpkQmJFNFhFeXc?oc=5)
+### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
-2026-10-11 <span class="news-indication-tag">MS</span>
+2026-10-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [franceinfo](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnlvOHFHaU82TzNsT2FJVEt4U2ZtM0dtYzBENXY5dXNxUnFUVDA0OGtPNEpEa3FfRU54QlcyNGlQMzFYWlMzZEVVOHRpS09VRjdBNmtScm1LQXpDeGVlNmF4VEd1NU8wTGZ1NEJsM2ItU2ZUWVIxX19RVS1tX1pTUTZXTWFPaGxLbl96cTZXbE9xcEFKUEY0azNFUGtWTUdSd0FPU1E4YmduRV85d29GWWVuZEZ6WEVDNXFHWVdLb01UOVZ2b0Y2dVp1MkdvZHl6NTlEYVpkQmJFNFhFeXc?oc=5)
+Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
+
+---
+
+### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
+
+2026-10-10 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
 
 ---
 
@@ -70,11 +78,11 @@ Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY
 
 ---
 
-### [El brote de ébola en RDC supera los 4.200 muertos y va camino de rebasar los 9.000 casos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
+### [El brote de ébola en el Congo supera los 4.200 muertos - La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmtyZ3l5SjNlV0tKVmlWenpCRlAxQ1BQNkU1b2RUczNxdGNrak1uNUowN1UyOVZ3dzhFVGM3NnBXbnozV0dXRGxoX3NEWi16VWIzY3B0d256dFVxMWhvZWpubDN1UjJlLVRNMjBGM2xfa29KT2lkVFBvcUFBU3Q5djFQZzY0VUFuUnIxSDJnXy1aYnp4SFhia3Z5bE81UzZ0c0dLeURHTG9MRlA2cDVwRkZrSUpBNjNTMG9xXzZibmZIVVNkaUp5MUFNTnNQRUtOX01sZHpIOGg?oc=5)
 
-2026-10-10 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-10 <span class="news-indication-tag">MS</span>
 
-Source: [EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
+Source: [La Tribuna de Albacete](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMmtyZ3l5SjNlV0tKVmlWenpCRlAxQ1BQNkU1b2RUczNxdGNrak1uNUowN1UyOVZ3dzhFVGM3NnBXbnozV0dXRGxoX3NEWi16VWIzY3B0d256dFVxMWhvZWpubDN1UjJlLVRNMjBGM2xfa29KT2lkVFBvcUFBU3Q5djFQZzY0VUFuUnIxSDJnXy1aYnp4SFhia3Z5bE81UzZ0c0dLeURHTG9MRlA2cDVwRkZrSUpBNjNTMG9xXzZibmZIVVNkaUp5MUFNTnNQRUtOX01sZHpIOGg?oc=5)
 
 ---
 
@@ -94,6 +102,14 @@ Source: [PetHelpful](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWxyQ0
 
 ---
 
+### [Ocrelizumab bei RRMS: 82,2 Prozent bleiben zehn Jahre ohne Behinderungsprogression - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdXSS1CR1AwRS1teHJTUUd1OXFpcmR2TDJIa0l2aGkwS21pWDBoSnNiR0JFbXhta2VXZTNjYTlnYW4tb3hITXBNaUliUllWazY1N1B6WWMxVE92bWtqWWJXY1FtYlJCUEpvVkJxSVh2cEFmam1NaGlNU1U5VVZ6amFKMXZnQXF3WUpNUUQ5RVBOYWdmUk1KZXNVa185YXRIZTJ0ZUl3RFJ4QQ?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdXSS1CR1AwRS1teHJTUUd1OXFpcmR2TDJIa0l2aGkwS21pWDBoSnNiR0JFbXhta2VXZTNjYTlnYW4tb3hITXBNaUliUllWazY1N1B6WWMxVE92bWtqWWJXY1FtYlJCUEpvVkJxSVh2cEFmam1NaGlNU1U5VVZ6amFKMXZnQXF3WUpNUUQ5RVBOYWdmUk1KZXNVa185YXRIZTJ0ZUl3RFJ4QQ?oc=5)
+
+---
+
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">hepatitis</span>
@@ -102,27 +118,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhi
 
 ---
 
-### [Hepatitis A update one week after cases confirmed at Newcastle schools - Chronicle Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmtIZmVaMVJ6cEJJckN3UUJ5VS1SZkFUeVdJdmhtVkRTM1FRTGRadGVqZy1ZM3JhY2hsZFoxRjA5dTJlU3FxOHRBR3ZTeVVTcWxiRFEzVFRBNy1Qb3B0Ml9iQjNYODdaeVZKdVljdGtoOFBtYWhQaFVyOFIwOTFEc0RJcTh6RVpMMjlLa013R2t4c0lLR2pSTdIBngFBVV95cUxOSzZXaVBOSGQyTkFoNHI3NDhvNW5Mbk1NVExfTGdGRmExTjFrRXNERmR5alRVRGtmb1hiRXlITV8zQVhzc1o3WXBGTUc2Q0Vpa2hfQ3Q2cGllSk12cGRGQXEzME9Ec1QxZzZ6VVp2RjZTLTlfSnhjQWFSNnN3VWxyMzJGLTFPUjhVNjBkUEZrSnV5MEtILVBPRlN3aU9QUQ?oc=5)
+### [Grippe : le virus est déjà là, une mutation fait craindre le pire pour cet hiver !](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVdYSlpiaktGaktaRDBqTXdNbWZSNEFMbFU2MWR1UGJXcW83cUNGUFlENWx0MjZ3S2JZLUhac2lRS2NHeGR0bXp2ZUp5VlA4SXJyeUtmT3RBNWI3VHhITXIwUndzUmJqTW83UTUydDJsaGhseGhNdFh1bVlCV3cxTll2U3ZWY3JVTmk3aA?oc=5)
 
-2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-09 <span class="news-indication-tag">MS</span>
 
-Source: [Chronicle Live](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmtIZmVaMVJ6cEJJckN3UUJ5VS1SZkFUeVdJdmhtVkRTM1FRTGRadGVqZy1ZM3JhY2hsZFoxRjA5dTJlU3FxOHRBR3ZTeVVTcWxiRFEzVFRBNy1Qb3B0Ml9iQjNYODdaeVZKdVljdGtoOFBtYWhQaFVyOFIwOTFEc0RJcTh6RVpMMjlLa013R2t4c0lLR2pSTdIBngFBVV95cUxOSzZXaVBOSGQyTkFoNHI3NDhvNW5Mbk1NVExfTGdGRmExTjFrRXNERmR5alRVRGtmb1hiRXlITV8zQVhzc1o3WXBGTUc2Q0Vpa2hfQ3Q2cGllSk12cGRGQXEzME9Ec1QxZzZ6VVp2RjZTLTlfSnhjQWFSNnN3VWxyMzJGLTFPUjhVNjBkUEZrSnV5MEtILVBPRlN3aU9QUQ?oc=5)
-
----
-
-### [La OMS publicó sus primeras directrices contra la obesidad infantil: sin fármacos ni cirugía en menores de 10 años - IFM Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalhUV29SQVVSRmE4UnUwMmVGb3Z2Y3dqNEZ4SG10dEVhMlpqS3hsMzBrZlk0OVBJWUxEbWFzaGp1anZNS1NVLXp2NW5pdjlIOXFsU0o1bGw0X2stdWdNcmxVUlRDbWNxVGc5dGlwbXl5azU2amxyN2RPM2FDdk0zeEswQVd5dTk4cmRwOTBmOFlramN3dlVqNFo4X3J4NnhtU2R1RmVYVjRVbHpXbDhQaw?oc=5)
-
-2026-10-09 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-Source: [IFM Noticias](https://news.google.com/rss/articles/CBMisAFBVV95cUxOalhUV29SQVVSRmE4UnUwMmVGb3Z2Y3dqNEZ4SG10dEVhMlpqS3hsMzBrZlk0OVBJWUxEbWFzaGp1anZNS1NVLXp2NW5pdjlIOXFsU0o1bGw0X2stdWdNcmxVUlRDbWNxVGc5dGlwbXl5azU2amxyN2RPM2FDdk0zeEswQVd5dTk4cmRwOTBmOFlramN3dlVqNFo4X3J4NnhtU2R1RmVYVjRVbHpXbDhQaw?oc=5)
-
----
-
-### [Multiple Sklerose: Therapie mit Ocrelizumab auch nach zehn Jahren sicher und effektiv – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXFsYmc3YjZXdUEwOV80bGgySUQzaFZ2LVRXQ08xdy10ZFpUNmREWmw2NGNYZDVwcGo5dEgyd1h5UEVmZ2ZnSS1pcWtTbks0Q1FNa3B6TGNYZDdrLTY4NDhfcVdMZHNRYkllNzRQT2Y0WkYwWGxhaFh0UUFEak5oemRZVDhtUXNQM25fVllJN0Q4QmZXYUxibTV6LTlIdkNPX2F1UFRTLU5HZThRWnRzcVpPNXBfMXFfQXZpTjhXZjNKaWFrZ1dvTExxc0tUMU1wSUpFNDBtNTBMNU1sRGlzaWxqNXAxdk9D?oc=5)
+Source: [RA-sante.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVdYSlpiaktGaktaRDBqTXdNbWZSNEFMbFU2MWR1UGJXcW83cUNGUFlENWx0MjZ3S2JZLUhac2lRS2NHeGR0bXp2ZUp5VlA4SXJyeUtmT3RBNWI3VHhITXIwUndzUmJqTW83UTUydDJsaGhseGhNdFh1bVlCV3cxTll2U3ZWY3JVTmk3aA?oc=5)
 
 ---
 
@@ -134,19 +134,19 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
-### [Pancréatites, décès suspects… 17 cas graves liés à l'usage détourné d’Ozempic et Wegovy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">MS</span>
-
-Source: [RA-sante.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNanlBWkczVVI3dVZ1WDZabEVQc3NZOGU1bm5QUmNiUVFZZ19jeVBYMXA0cDNxWmhlLVYxSVJLdThLRGJPZ0I2c1M1TEVpSnJaM0FfTW9qeEYwWkhsMzdWUmh6VnNvcVprSXpJZU5MZzV5VU9wWktGVmlHa0ZaWTlDcmNQaWFwN0NLeDFwR0s1QnptTW9Ga2dKMHZxZ3p1Sk96cEZSY3NDRjNQeFd6TFE1aWI3TQ?oc=5)
-
----
-
 ### [UKHSA confirms ‘stay at home’ rule for two Covid symptoms - Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
 
 2026-10-09 <span class="news-indication-tag">MS</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
+
+---
+
+### [Teen’s life changed by gene editing that stopped blood disorder symptoms](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTzdERC1nanc3RG5XM2kxWDVzSHFYdHp0WXB1STVTR19vNXdCTzdQM3hOQ0RUcUhPbFVpVVlZT1hpVms1SUFEYnNIRFhiZUdrUHlpeHRkdzJma04xNXc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTzdERC1nanc3RG5XM2kxWDVzSHFYdHp0WXB1STVTR19vNXdCTzdQM3hOQ0RUcUhPbFVpVVlZT1hpVms1SUFEYnNIRFhiZUdrUHlpeHRkdzJma04xNXc?oc=5)
 
 ---
 
@@ -190,11 +190,11 @@ Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlhKM
 
 ---
 
-### [Mum told by doctors her symptoms 'were just hormones' gets devastating diagnosis - The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+### [Darum häufen sich „Zombie-Zellen“ mit zunehmendem Alter - Schwächelndes Zellrecycling bremst die Immunabwehr](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3JYMkZ2SWxBTFNTNFR5XzlITzBkd1dQdVV3UTA0WnFMTUVJZDVmSnYtLTg3QVJmOW8xcEdHYVViai1RSTFHSU9OOG8tNWlGeklma09TNlpGamVxOUkwdXNRNDNzbnc2MnAzUUZtRmxTM0kyZWJOUjhWNXRsS0FlVzFucVJTdUl6YkFhSkU4MmRrNjhralE?oc=5)
 
-2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-06 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3JYMkZ2SWxBTFNTNFR5XzlITzBkd1dQdVV3UTA0WnFMTUVJZDVmSnYtLTg3QVJmOW8xcEdHYVViai1RSTFHSU9OOG8tNWlGeklma09TNlpGamVxOUkwdXNRNDNzbnc2MnAzUUZtRmxTM0kyZWJOUjhWNXRsS0FlVzFucVJTdUl6YkFhSkU4MmRrNjhralE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <p><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Antidepressiva in der Schwangerschaft erhöhen kein zusätzliches Autismus-ADHS-Risiko über Depression hinaus - it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
+
+2026-10-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
+
+---
 
 ### [Depression und Ernährung: 20 Personen senken Beschwerden nach vier Wochen](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
@@ -62,19 +70,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3
 
 ---
 
+### [Alzheimer, Parkinson… Et si tout commençait dans un autre organe que le cerveau ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
+
+2026-10-11 <span class="news-indication-tag">dépression</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
+
+---
+
 ### [Physical activity weakens link between genetic risk and depression severity, long-term data suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
 
 2026-10-10 <span class="news-indication-tag">depression</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
-
----
-
-### [167.447 Kinder untersucht: Depression und Antidepressiva mit Entwicklungsrisiken verknüpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
-
-2026-10-09 <span class="news-indication-tag">depression</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Vous êtes fatigué en ce début d’automne ? C’est normal mais vous pouvez y remédier - Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
+
+2026-10-10 <span class="news-indication-tag">EPOC</span>
+
+Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 3 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 1 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>3 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>1 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,13 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (3)
-
-### [Ictus, il cervello può essere protetto anche dopo l’attacco: la nuova sfida per salvare i neuroni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
-
-2026-10-10
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeUMwVEFoV3RtelR3YlBIbnpKa0JVU2gwdTF5bjc3YURNaWtyWHVvdzg0bDdPM1prTWlnLWs2MExfcmNObjBfS3ljVG5iSnlRQTFOVV9WZ2lnVzdaUk92ZEFkMmZLTUduMVFITE02YWRpbHoxdVI5aV9LLTUwU0RSSlpwV1dxWEFEZzJHMi1ldnUyektjN3ZyNW1WQ1NMUnU3UnlPZC01M3dXRlFfb0FDRnlNWGVEaGxvUl9tVUl4Yk8yb01PVFNsS296anBKUWExREh0VTVtQnZrRXAzYUtsRjg3TGVZTTQ?oc=5)
-
----
+## Related News (1)
 
 ### [Obesità, dalle pillole al triplo agonista: la nuova frontiera punta al 30% di peso in meno](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
 
 2026-10-10
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
-
----
-
-### [La obesidad abdominal predice mejor que el IMC el riesgo de diabetes e ictus - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
-
-2026-10-09
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMlRuMEFnZ201TmJvQUQ2TmlTS0p0d0N3cXlwaGhEV2NTM3hPSlJ4RUdiTHYxd3lRTnNyYTNlTVJ5clNaWXZlUTUwUlJFaUlUMHhTLVo4bE13RS1JX2EyS2N2MDhSSWxveFB2cF9lZGQ4T1pYeFB5SlowZFdEVTd3M2RqR3hnaHBtbzdraFpLUEZab01EZ0EyWE1zVmVUSC1WT3JSQ1FvNXFYMWUxYkYyTi0yelBxdGlyZ19vTXdDanPSAb4BQVVfeXFMTndnbFpMbmVpc2lvOG85ZHhSUVdjWWh4bldSSXdqa3NBWGlvRlJhVjB2WWNXbkxJUHctcTRJYkhQMFRzY1lsMjI4bUg5aU9rRmR5T3lWdmRCTmJKUHJQUXZpSU9xWWQ4dHFTRFNEU19HZ0JzYUtBZ014MmFGN2Y4V3lvd1JKZlhPQlFmd3czdE8xTTh5U0ZnQWdfRlptalNLWlhxbGlpcjEyN2Z1cWVmN2NnSDd5NDRiQnBPSG5sdw?oc=5)
 
 ---
 
