@@ -29,8 +29,6 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-Using no specific skill here — this is a direct, fully-specified report-writing task (exact template already given verbatim), not a coding/build task that maps to any available skill (txgnn-pipeline covers model training/deployment, not report authoring; data-report applies to raw CLI output, not JSON synthesis). Proceeding to draft the report directly from the Evidence Pack.
-
 A note before the report: this Evidence Pack is a "multi" candidate (`TW-DB11834-multi`) with **10** TxGNN-ranked candidate indications, not one. Two of them — **psoriasis** (rank 3) and **ulcerative colitis** (rank 6) — carry real clinical trial and literature evidence (L1); the other eight are L5 model-only signals explicitly flagged in their own `repurposing_rationale` as lacking any mechanistic or empirical support. The pack's own rank-3 rationale states psoriasis is not a new hypothesis but a "rediscovery" of Guselkumab's already-approved indication (Tremfya), caused by the `original_indications` data gap. I therefore built the report around the one candidate that is both genuinely new and evidence-backed — **ulcerative colitis** — and used the rank-3 text (sourced from the pack itself, not external knowledge) to fill the "Original Indication" gap. The other eight low-evidence candidates are summarized transparently near the end rather than omitted.
 
 ---

@@ -29,8 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing-report skill implicitly (following the v5 template structure as instructed) to produce the report below.
-
 # Orlistat: From Obesity Management to Hypervitaminosis
 
 ## One-Sentence Summary

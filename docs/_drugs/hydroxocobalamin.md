@@ -29,10 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the report template above (no skill match for this pure write‑up task — it's a direct data‑to‑markdown transformation, not TxGNN pipeline engineering), I built the report from the Evidence Pack. One structural note before the report: `predicted_indications[0]` (the headline candidate per the template's extraction rule) turns out to have **zero supporting evidence** and a rationale that itself flags weak mechanistic plausibility, while a lower-ranked candidate (rank 9, vitamin deficiency disorder) has real trial/literature support but is likely just recovering the drug's already-known core use (masked here because `original_indications` is empty due to a data gap). I followed the template's mandated structure for the rank‑1 candidate, and added one extra transparency table (not part of the template, but necessary given this is a 10-indication batch) so the discrepancy isn't hidden.
-
----
-
 # Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices with Bleeding
 
 > **Note on scope:** This Evidence Pack contains 10 TxGNN-predicted indications for Hydroxocobalamin. Per the reporting convention, this report focuses on the top-ranked prediction (Esophageal Varices with Bleeding). A summary of all 10 predictions is provided in the "Other Predicted Indications in This Batch" section, because the top-ranked prediction has no supporting evidence while a lower-ranked one does.

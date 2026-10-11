@@ -29,8 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using superpowers:brainstorming skill check — not applicable here (this is a fully-specified content generation task with an explicit template and evidence pack already supplied, not a design/planning task). Proceeding directly to draft the report per the given v5 prompt spec.
-
 Note before the report: `predicted_indications[0]` in this Evidence Pack is **"distal myopathy, Tateyama type"** — the highest TxGNN score but with **zero clinical trials, zero literature, and an explicit note in the pack's own rationale that there is no known mechanistic link**. Per the template rules I've generated the report strictly around this top-ranked candidate. Rank 6–10 candidates (cardiomyopathy, hemangioma-related indications) have substantially stronger evidence (L2–L3) and are flagged in the Conclusion section for reprioritization.
 
 ---

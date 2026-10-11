@@ -29,8 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using superpowers checked — this is a self-contained content-generation task (populate the given evidence-pack-to-report template with the provided JSON), not a coding/debugging/design task, so no additional skill applies. I'll flag one honesty issue up front: `predicted_indications[0]` (top TxGNN score) is "benign paroxysmal torticollis of infancy," which has **zero** trials/literature and an L5/Hold status — I followed the spec's extraction rule literally rather than substituting a better-evidenced candidate from the same pack, and noted the discrepancy in the Conclusion so it isn't silently misleading.
-
 Also note: `drug.original_indications` and `taiwan_regulatory.licenses` are both empty, so "Original Indication" cannot be sourced from Taiwan regulatory data as instructed — I did not guess it. Instead I cited the one place original indications actually appear in this evidence pack (the PMID 31749717 abstract, itself provided data, not external knowledge), and labeled it clearly as such rather than presenting it as a confirmed local label indication.
 
 ---

@@ -29,10 +29,6 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-The txgnn-pipeline skill covers pipeline operations; the report format is fully specified in my system prompt. Proceeding with the report generation.
-
----
-
 # Isatuximab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
 
 ## One-Sentence Summary
