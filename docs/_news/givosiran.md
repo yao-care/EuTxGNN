@@ -86,6 +86,14 @@ Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ
 
 ---
 
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium gilt jetzt als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
+
+---
+
 ### [Meteo estremo, cibo contaminato, ricoveri lunghi. A Roma è boom di Epatite A: perché c'è da preoccuparsi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
 
 2026-10-08 <span class="news-indication-tag">epatite</span>
@@ -99,14 +107,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWd
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
----
-
-### [Quels sont les six aliments à bannir de son caddie pour préserver sa santé ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
-
-2026-10-07 <span class="news-indication-tag">hypertension</span>
-
-Source: [La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
 
 ---
 

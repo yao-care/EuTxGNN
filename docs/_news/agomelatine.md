@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [I was told I had depression for 14 years until I got sectioned - it was bipolar](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keDNGZndDd2tkWmdjaWZkaWRybS00NjBoSzhKMlZRaDFLY2pPNUx6UmxVSTJlRmRpVVdVSi1kb0V0MU9tZFJ0MWdqTWthTFFQWjR3QUl3cE5SNi1sLUE?oc=5)
+
+2026-10-10 <span class="news-indication-tag">depression</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keDNGZndDd2tkWmdjaWZkaWRybS00NjBoSzhKMlZRaDFLY2pPNUx6UmxVSTJlRmRpVVdVSi1kb0V0MU9tZFJ0MWdqTWthTFFQWjR3QUl3cE5SNi1sLUE?oc=5)
+
+---
+
+### [Physical activity weakens link between genetic risk and depression severity, long-term data suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
+
+2026-10-10 <span class="news-indication-tag">depression</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
+
+---
 
 ### [167.447 Kinder untersucht: Depression und Antidepressiva mit Entwicklungsrisiken verknüpft - AD HOC NEWS](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWpGVExXeng2TnpJU1pHQk1fUURuNlF1TVVnSDZIZmZQcnBlN1BZckdLUWZVbE9NSzdiMFUxbC1EbmtDdGFJaXJpS0cyVXVyNlQ3WjlTcFhHWnpCMGdBTTZyMnpYdlM0b0NJVlcySEwzVDBnX1Mtd3lKTUZPQkJucjVma2dVRS1uVHN2WjBOd0pDb2tiMngzb1dJdWhQODA5NjUtUEg0Ql9fSnBO?oc=5)
 

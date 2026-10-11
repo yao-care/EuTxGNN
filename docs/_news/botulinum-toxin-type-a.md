@@ -14,7 +14,7 @@ permalink: /news/botulinum-toxin-type-a/
 ---
 
 <p class="key-answer" data-question="What news is there about Botulinum Toxin Type A?">
-<strong>Botulinum Toxin Type A</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Botulinum Toxin Type A</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Botulinum Toxin Type A with 
 <p><a href="{{ '/drugs/botulinum-toxin-type-a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Bpco, Papi (UniFe): "Obiettivo terapeutico deve essere zero riacutizzazioni" - Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
 
 2026-10-09 <span class="news-indication-tag">BPCO</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGg1Wjd2N0pqclJRTHp1YlZKU1duUVVxaU16YWh3RWYxMmRGSWp1SndLMjZjNzBtUnEzRHFBZjhPS2JFQmc1YThCQ2c1czNuYUhVSHBxMHMtclQ3Nlpjc0t4NmlOTGRPZ3pYdzkwM2JMd01XaHV6Tl9GM0c3NmFuTU40clQ1OEs4RWttalFlMDlqTEJmYzQ3ekl6TDl6YlVya1g0cnBxQWtZeWd6VENGRWI5alN3NWFYaEpud1RJS0ZnY2FQYjdEWWdudmIzSEs1UFR0aVJNWkVVUQ?oc=5)
-
----
-
-### [Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis - Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
 
 ---
 

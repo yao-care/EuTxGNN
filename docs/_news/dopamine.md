@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis - Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

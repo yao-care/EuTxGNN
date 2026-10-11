@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,23 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (13)
+
+### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
+
+2026-10-11 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
+
+---
+
+### [Diabete, scoperto un «interruttore» che danneggia il filtro dei reni: ecco come agisce](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkR1TkFHY3pjZXdnQlYzb2p5ckhwS0hBMHRvRU5xaTh2VExjSy1SbGd3cEZPRlc4Q1ZfZFdHd0dXOE5ENDJfQ2FoM2xCS2pmNDNsel9Kcld5OXhWeENZUG1ZRmwtWEt6T1pseG02N09MYlFNZks0YWtCeC1TZmxpSk5IN1ZvZmltN3NHbTlQNDlRNkxxM29qcFhoQkFTWWt6RTk2ZGo5dFdpWHkxRFBmeXdaUGYwY3ZjREpuMDAtM2pEdUZvQmVLYXNuVFhGNFVJZEtwQWtnMDgtQQ?oc=5)
+
+2026-10-10 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkR1TkFHY3pjZXdnQlYzb2p5ckhwS0hBMHRvRU5xaTh2VExjSy1SbGd3cEZPRlc4Q1ZfZFdHd0dXOE5ENDJfQ2FoM2xCS2pmNDNsel9Kcld5OXhWeENZUG1ZRmwtWEt6T1pseG02N09MYlFNZks0YWtCeC1TZmxpSk5IN1ZvZmltN3NHbTlQNDlRNkxxM29qcFhoQkFTWWt6RTk2ZGo5dFdpWHkxRFBmeXdaUGYwY3ZjREpuMDAtM2pEdUZvQmVLYXNuVFhGNFVJZEtwQWtnMDgtQQ?oc=5)
+
+---
 
 ### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
 
@@ -62,11 +78,11 @@ Source: [oekotest.de](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpW
 
 ---
 
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 ---
 
@@ -86,11 +102,27 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUVnMl
 
 ---
 
+### [Du canal carpien à l’épaule gelée : l’autre fardeau du diabète](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQbVd0STdQWVFSN0tQQVZLVGpjbWhrU2UwTGVhLVVfZzF0ZGlmZFRlUE5XM1RBRGNISVVRYXc5X3Mya2tKYmpJYl80Rl8tWEtVTS0weGlXSmo2TWtXUWZ1LTNMMDRsNVZEamR0VGQ0X0RYaVB2XzVudWYyN2kzY3NodDRUemlndjhoRWR1a2dWSFlweUFqQUowSmhIdXVoSA?oc=5)
+
+2026-10-09 <span class="news-indication-tag">diabète</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQbVd0STdQWVFSN0tQQVZLVGpjbWhrU2UwTGVhLVVfZzF0ZGlmZFRlUE5XM1RBRGNISVVRYXc5X3Mya2tKYmpJYl80Rl8tWEtVTS0weGlXSmo2TWtXUWZ1LTNMMDRsNVZEamR0VGQ0X0RYaVB2XzVudWYyN2kzY3NodDRUemlndjhoRWR1a2dWSFlweUFqQUowSmhIdXVoSA?oc=5)
+
+---
+
 ### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
 
 2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
+
+---
+
+### [Las principales sociedades médicas de España coinciden: la monitorización continua de glucosa reduce un 45% los ingresos por hipoglucemia grave en pacientes con diabetes tipo 2 - El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
+
+2026-10-08 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Economista](https://news.google.com/rss/articles/CBMi9wJBVV95cUxNQTlCMGxyajE4TGhXdUxXM3NUWUdGdDBvM2xQd0RCT3c3alpOd0p6NzI5NldaOHYxamNqNDN6TUx2ZVhrd1F3UnZjUXZYdHQ5MGltdm9CSlRoNU9oMG5VNTUtcHZIQmxXQ044SXBtSlVGSjdEVDcwa3R6cmhIbFR5Yk4tVngwckQxQVRLcjBvUnJ4YUpRSndtcnFhd2pZMVBKUzZvcEJmY0tjUVVvbFBXMTNMZ2VvazdRQ1hTYjNyQ18xVm5vZ2hnbWRDRTZ0OWp1Y2FJbHYyVy1RNEptMUtNc2hza2d1Z25HZFFkaEpKMTNvZlhfRE02VFk5RHJvdXk3cW9mUzkyc1VSMjY5cmIwNkpKNE9FMzJOcm9Nb0k3VEswcXliNXRFSUFTZC1jVDhLcDl0MS04WERRbGhEWkw2UmZjNmV4R3pJYXdHYnJOWjZTZmpvekJrVDRVb2Z6a002QXBxakt4dkRRTWxNcy1xdDd0M3otR2vSAeICQVVfeXFMT3FJbWlSbDJTVzB0Wk9WRGEwanhSRmQtYlN1N01wbXlYam1zd3RiUzVaVzRYeEpyYTBZeHpaVlI2V0NIYjloRmtreFpjTEg1MVJueVF1Qnl2RXFtV1J3a2JTbjNFclNWWlR2TkNmaXN2V3Z0UUNuMEJ5Zk9CMmtlblowZ2FGcnBybTNUNHBFMEZ0VnpMLTdJckVVdTdjbm11UWluLWhlcUhweEFsY2V1aS1lLXloRE40YUJYLWxWbEp5WXk0M29CUTBlS0M4RXpZYUNKVktfcjByMk50NEVZSC1fWXA2Y1VoelBuWTBzcTlzaXVCNnZaT2VrRG9oM2FzME9OWURuWUNxeUh5Nll4MlB1VmU0dVQtYUhJcXFIREJLSldlaVNJM0p5YW5QMHhPVlUzNy1XX2x0UEdWMXpqWjBDUi1LM0NKd3BSbWxzS09ReGpJYTI3X2FPa1puRTA5cGhn?oc=5)
 
 ---
 

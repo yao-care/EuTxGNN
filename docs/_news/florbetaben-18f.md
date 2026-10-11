@@ -14,7 +14,7 @@ permalink: /news/florbetaben-18f/
 ---
 
 <p class="key-answer" data-question="What news is there about Florbetaben (18F)?">
-<strong>Florbetaben (18F)</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Florbetaben (18F)</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Florbetaben (18F) with the l
 <p><a href="{{ '/drugs/florbetaben-18f/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Blutdruck im Blick: Welche Werte als günstig gelten – und was Sie selbst dafür tun können](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdVhpWTU4aVJURkdheV9sOWRabHlZSEt1M0Z1bUxDUUpHNmhJc1J3cGszRUcxbjZFUFBwMzl4ZllLRlFZU1d2SzROMWQ4UU5JYlB4UW9ncktHTEJPZklpeVhCTkd6S1dNRjZoaWZqcHd5aFllMlJJMGxoMXYzS2Z5Y2hHaHhqSlJfejc3MTZVblhGcEt6YjhpSGo4RDFGZmMwRjNsUHl2R2t0TkU2QkY0M051aGFWOUJfak9ZOUhsaGpmYTE1bjVxWnB2TmxLSnYtTDc5bGhYVzd0YlNnV0FDOUpHRHA?oc=5)
 
@@ -78,19 +78,19 @@ Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ
 
 ---
 
-### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap - South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+Source: [South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 ---
 
-### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium gilt jetzt als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
 
-2026-10-07 <span class="news-indication-tag">heart disease</span>
+2026-10-09 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
 
 ---
 
@@ -99,14 +99,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UG
 2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
----
-
-### [Quels sont les six aliments à bannir de son caddie pour préserver sa santé ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
-
-2026-10-07 <span class="news-indication-tag">hypertension</span>
-
-Source: [La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
 
 ---
 

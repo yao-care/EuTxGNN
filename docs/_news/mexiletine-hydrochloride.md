@@ -14,7 +14,7 @@ permalink: /news/mexiletine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Mexiletine Hydrochloride?">
-<strong>Mexiletine Hydrochloride</strong> currently has <strong>34 news articles</strong>, with 0 predicted indications.
+<strong>Mexiletine Hydrochloride</strong> currently has <strong>37 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page combines the AI-predicted indications for Mexiletine Hydrochloride wit
 <p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (34)
+## Related News (37)
 
-### [« Nouvelle vague » du Covid-19 ? La campagne de vaccination commence mardi - 20 Minutes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzlfUm1SNVRIUFRlUEZVb1BYRUU5Y1RDNTZPMlQtUUlTTF92RmlldEFBTDFXMzJENGVkbUhmeW5qVnVoOXN4TzhTSjNrWnZWM082LXdBUk82ak8xeDBpY3VndVlkTE1oMHMyS21XeFJKeGVSaEdaak9Sdmtlc05CUzZqWGdleF8tMHdQYWtITmRmT3BfbmhnMjBaWVVQZDBzOC1WdlBIYjZneFk?oc=5)
+### [‘Our son died of sepsis after nurse ignored GP referral’ - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnZaUGFIN2dLX0FsU01aOTNHT1dhRmdXanZYazBjZFJlWG9BTS1EcVNlOUhaOGQ4SURDSjYtaXU0RERtM1NqUUNmR0FaQS1kSXFPQ1JOaVVVNFV2Z3Q1TTNtY1ZPOHhOQUtPOWRPQXhsTjJPeHRjMExoNnJCc3F3ekZ1V0NzWDY2U2dqc2JQeUNocGllVXV0Vy1qMHYwNm5m?oc=5)
 
 2026-10-10 <span class="news-indication-tag">AF</span>
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzlfUm1SNVRIUFRlUEZVb1BYRUU5Y1RDNTZPMlQtUUlTTF92RmlldEFBTDFXMzJENGVkbUhmeW5qVnVoOXN4TzhTSjNrWnZWM082LXdBUk82ak8xeDBpY3VndVlkTE1oMHMyS21XeFJKeGVSaEdaak9Sdmtlc05CUzZqWGdleF8tMHdQYWtITmRmT3BfbmhnMjBaWVVQZDBzOC1WdlBIYjZneFk?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnZaUGFIN2dLX0FsU01aOTNHT1dhRmdXanZYazBjZFJlWG9BTS1EcVNlOUhaOGQ4SURDSjYtaXU0RERtM1NqUUNmR0FaQS1kSXFPQ1JOaVVVNFV2Z3Q1TTNtY1ZPOHhOQUtPOWRPQXhsTjJPeHRjMExoNnJCc3F3ekZ1V0NzWDY2U2dqc2JQeUNocGllVXV0Vy1qMHYwNm5m?oc=5)
 
 ---
 
@@ -104,6 +104,14 @@ Source: [RiminiToday](https://news.google.com/rss/articles/CBMigwFBVV95cUxPOWNvM
 
 ---
 
+### ["On peut parler d'une nouvelle vague" : les cas de Covid-19 en recrudescence, la campagne de vaccination pourrait être avancée - France 3 Régions](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZXVlZVBJZ2FWaEJxbi14ZW1KbFptUGxrcWVQZ1VpVmRXQzVSWExiUEExQVNBMkNNTi1KYWdMbXNDb0lWWmpURmIyVFREREJOM05JRTNlcWN4VG80ckc4X1VFOUNaalVWN1RYVVpsWkx3MDJQMTRCbWdCN1VMOFVLMXRVU3lNSDVFbXJNVzhKai1RNUFnWHJEcTFCdmpQa3FCblVYdW1KTmdTWVRTc0FCSmpfSU5MNWszRHNjOXdGV1p3UzItQklBdmtBdnlLY3JscXloTEZuUTYyWXpoUnRFZTBTQm1jNFZpM3Y1WmYyTGF3bUlEaEhiSkVSUU82MHBRbVlfTDhJazVGaF9uVngxZ00tdUMyb19QOWpieE93X3dPZ0w0U18xNlJR?oc=5)
+
+2026-10-10 <span class="news-indication-tag">AF</span>
+
+Source: [France 3 Régions](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZXVlZVBJZ2FWaEJxbi14ZW1KbFptUGxrcWVQZ1VpVmRXQzVSWExiUEExQVNBMkNNTi1KYWdMbXNDb0lWWmpURmIyVFREREJOM05JRTNlcWN4VG80ckc4X1VFOUNaalVWN1RYVVpsWkx3MDJQMTRCbWdCN1VMOFVLMXRVU3lNSDVFbXJNVzhKai1RNUFnWHJEcTFCdmpQa3FCblVYdW1KTmdTWVRTc0FCSmpfSU5MNWszRHNjOXdGV1p3UzItQklBdmtBdnlLY3JscXloTEZuUTYyWXpoUnRFZTBTQm1jNFZpM3Y1WmYyTGF3bUlEaEhiSkVSUU82MHBRbVlfTDhJazVGaF9uVngxZ00tdUMyb19QOWpieE93X3dPZ0w0U18xNlJR?oc=5)
+
+---
+
 ### [Cohérence cardiaque : les clés pour adopter cette méthode respiratoire qui permet de réduire le stress et l’hypertension - Sud Ouest](https://news.google.com/rss/articles/CBMigAJBVV95cUxNUC1BeEtmdDYtRlBLYno0NGtmbDVPOVZHQjRMTjh2NnRCSU5heGxwcEU5M0xxNE04WXBjTkVaNmV5SnpiWnZwNFNyeGdlUW1XTVVEYUJYV242N2c5MVg0WWpTRzBGMTViOUgyWk1mNS1NOFBEa3VUOUZOejV2U0pPWG9RWFdKMjh3NVlrYzRVVVZXV0RWSnpZVnNhNHJtS3ByWFdlX0xQTUd6OVVjZXBjVHp4VmloS2MtbnlVZGVISTI3d3kzRVUwX3dZZ1BtNEVLb29QWDVoUUNJMVpISjF0WUZ0MXUtNFhmRXJwWDVueHQxek5ZZV93UnB2NU9nUzcz?oc=5)
 
 2026-10-10 <span class="news-indication-tag">hypertension</span>
@@ -152,11 +160,27 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUUJW
 
 ---
 
+### [Ambulatori Aft: dove ricevere assistenza per problemi di salute non urgenti. VIDEO](https://news.google.com/rss/articles/CBMingFBVV95cUxOZWU5NDlCM0EzYjA5VmtUSkJ4TXhhazRpd0lRTjQwQkxMbWtnbUFicFBNSGVZakNNcDZQX2xlaGFUbWkwSF9fSy1fa3NJUjhQbDFrdXI2R1RHUHZwZldkZGdIVF9hamQ2YUZFVEZhZWdURGl5NnVENWxTRkhwUnFXS3ljOWFKMmxfc0w0WEdKR1VPN3I1TExfbTFnNGpvUQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">AF</span>
+
+Source: [Reggionline](https://news.google.com/rss/articles/CBMingFBVV95cUxOZWU5NDlCM0EzYjA5VmtUSkJ4TXhhazRpd0lRTjQwQkxMbWtnbUFicFBNSGVZakNNcDZQX2xlaGFUbWkwSF9fSy1fa3NJUjhQbDFrdXI2R1RHUHZwZldkZGdIVF9hamQ2YUZFVEZhZWdURGl5NnVENWxTRkhwUnFXS3ljOWFKMmxfc0w0WEdKR1VPN3I1TExfbTFnNGpvUQ?oc=5)
+
+---
+
 ### [1 Postoperative Bestrahlung vermindert das Rückfallrisiko bei atypischen Meningeomen (ZNS WHO Grad 2) - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93VEFtem5VdzlwSnkwd2VVTS1ydERSaVZXeFRFVDNCWC1CZHhiNjcxT3BOYVlsSy04aWQySWN6VlBub0QzZm5oUDB1Yw?oc=5)
 
 2026-10-09 <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93VEFtem5VdzlwSnkwd2VVTS1ydERSaVZXeFRFVDNCWC1CZHhiNjcxT3BOYVlsSy04aWQySWN6VlBub0QzZm5oUDB1Yw?oc=5)
+
+---
+
+### [Öko-Test prüft Folsäure-Tabletten für Schwangere: Warum manche Produkte wirklich bedenklich sind](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHhrSmlsd0xIT2RIb25tdXR0UzV6NnFVSlJjeWVEVUljVk5hbUczb3dyekFtaG5VVmtwemg1bElHNEEzb3pwNlJidzMzaHVvVjRzTk5fT2dlQk9GZHB4LVhkX1ZZWTltRExIX1JhbmgwWFcwcHNXMXBsRmJrMUxMSHlMS19OczlIWmhlNjhfc3llZ2c5M1pWTEhPUGpQVFhYNUhUYl92N1Jyc2dZUE5ESA?oc=5)
+
+2026-10-09 <span class="news-indication-tag">AF</span>
+
+Source: [Joyn](https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHhrSmlsd0xIT2RIb25tdXR0UzV6NnFVSlJjeWVEVUljVk5hbUczb3dyekFtaG5VVmtwemg1bElHNEEzb3pwNlJidzMzaHVvVjRzTk5fT2dlQk9GZHB4LVhkX1ZZWTltRExIX1JhbmgwWFcwcHNXMXBsRmJrMUxMSHlMS19OczlIWmhlNjhfc3llZ2c5M1pWTEhPUGpQVFhYNUhUYl92N1Jyc2dZUE5ESA?oc=5)
 
 ---
 
@@ -181,6 +205,14 @@ Source: [STV News](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb2VpNzZt
 2026-10-09 <span class="news-indication-tag">AF</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQbXFmMl9lQjJ1bXhKWUZ6MWU0LTVMQlRGYndKdUI2TWlCTS1lMVQ1VlU4M0s1VXI3TnlhRGF3LWl5bnV2SzZtcG9lOHAwSkpPRS1vRWF1ZVpnYmR5VTkzTnpIbHJUQUVMUFdEQ09FN19hVDRUb1ZTOG15Mko5OGtxQVNGOW03aC1vYmlweWs1WWdtQm85QnhvU2xWd1RiZw?oc=5)
+
+---
+
+### [Bluthochdruck: Erhöhte Zufuhr von Kalium gilt jetzt als neue Behandlungsempfehlung](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
+
+2026-10-09 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWjI2VGs4QWJ5NlBDWk1BMmlndFR3cjRwWmtJMW43YzlxVTBwYm8tbWNPMEFLVnpiX2xGVlBmajVsRnZicHdPRFFlcjZUcTQyUVl2NFl0R1I0NzlmTzNuaXpXOG5QN29JX0lTZnBzcUphZzY2WExCNENKYnRDVnJXbGFrRUpxbXJRVlAzUExMOE1lTUZ0TUNwSTR0OGREUlJ3aWw2SE45MnBockVCWEQ2YmNFcXkwRnctTF9wbWNlZmRtQ0E4N2JRMDV4a3NqWE9Ib0lfTEhQWFFYTU1pTVp3Uw?oc=5)
 
 ---
 
@@ -213,14 +245,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZx
 2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
----
-
-### [Major update for anyone on Atorvastatin as massive study reports back - Irish Mirror](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUNkc2g2cUgyQllKa2ZtRWFxTVNmMW9MSV9vZ1ZFOVY1WE4zRm5LZm4ycjRFNTFXNHI3MkVOT0dIOS1WbzAtalI1Y2o4cU1rT3RSN1VpZjVmYVhxOVpSakJXMm1sdnZQcEZxNF9Vd1hrSjh1cXRuVXNPY3FiZ3JIWl9kM05MaXRSb3ExUllxUVZTOS1rS2R1emQ0VE0zLUo1WDFKdlhvY9IBrAFBVV95cUxNSEd6OF93ZVlLMTM3YlpWRzRxNUdwN3lyZDFLMnowdkFUbWZVdUFEbk5fNFhfTzRZUk9jNGZLdTBXWDBYOVdWanVrS1FMT0ZnS2psOHJRcmtzbGU4Tm9zaC1PZ1dIWGhDVmhsbnFmWEpGSkNLem1WWEhVd1VyNTB4M3ZkdFpXeWJpT2lQcTRDQlAzZVRWclR2bGxIX2RrcEhSQS1sNzN5ZTI4MVh5?oc=5)
-
-2026-10-08 <span class="news-indication-tag">AF</span>
-
-Source: [Irish Mirror](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTUNkc2g2cUgyQllKa2ZtRWFxTVNmMW9MSV9vZ1ZFOVY1WE4zRm5LZm4ycjRFNTFXNHI3MkVOT0dIOS1WbzAtalI1Y2o4cU1rT3RSN1VpZjVmYVhxOVpSakJXMm1sdnZQcEZxNF9Vd1hrSjh1cXRuVXNPY3FiZ3JIWl9kM05MaXRSb3ExUllxUVZTOS1rS2R1emQ0VE0zLUo1WDFKdlhvY9IBrAFBVV95cUxNSEd6OF93ZVlLMTM3YlpWRzRxNUdwN3lyZDFLMnowdkFUbWZVdUFEbk5fNFhfTzRZUk9jNGZLdTBXWDBYOVdWanVrS1FMT0ZnS2psOHJRcmtzbGU4Tm9zaC1PZ1dIWGhDVmhsbnFmWEpGSkNLem1WWEhVd1VyNTB4M3ZkdFpXeWJpT2lQcTRDQlAzZVRWclR2bGxIX2RrcEhSQS1sNzN5ZTI4MVh5?oc=5)
 
 ---
 
@@ -264,19 +288,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 
 ---
 
-### [Quels sont les six aliments à bannir de son caddie pour préserver sa santé ? - La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
-
-2026-10-07 <span class="news-indication-tag">hypertension</span>
-
-Source: [La République des Pyrénées](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPam9xWW1HLS1SdXB1V0pqaFJfRHVGWUVzekxmcWpZWE5NblpiNGx6V1VHaS1TbVdTV3hZYVpJTlBDaHM2Qk1nQzhNYmdEbXJaWTUtLXVCZW5SVG5FNWxsLXBmZ3FhX00tbkVVY29vaFJkdUU2UGFZdkpZMkxoRDJYS3R1R0syalNpU2RBVkJJNm5rX2ZDeG5vX0MxTnJGNjJnZndNRlVfcTFaRUhZam5jeUxSV1dWUDNfcUxyQTJUcEV4c3NoeWtpV1c1aDg1QkZ6SXlmWDQ2ZG9rTnM?oc=5)
-
----
-
-### [Wenn der Knochenbruch nicht heilt: Infektion kann die Ursache sein - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVkRfMzlXUlp5V0dpT2tlTGRueW1xT3dYdlBPZDdyMWJMRURGS2Znc0NfYk9LaGVKdXpJVVo3M1BQRGx3cHhBYzhidw?oc=5)
+### [Wenn der Knochenbruch nicht heilt: Infektion kann die Ursache sein - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDFxM3ZVTVRRbkJ1ODhQWnhpVGpzbFJNaGh4aVVJelFqbzBNdnFxTTNRN0xEcXZiNFBjY0ZjSWluQW14cWJQZDRNcE9EdU1GQTBkVWhqVU5YTnNoRFlPVW1NNmtaTTdsN0NTc0JrclNMaTdpeDgyNG1nNmxmb05GaThCcWhMU2JVUnhmVWJiZzNvdVR3RHFOcGpsdFhiXzMyNHg4YkxXdUZQSHNJQTY0?oc=5)
 
 2026-10-06 <span class="news-indication-tag">AF</span>
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVkRfMzlXUlp5V0dpT2tlTGRueW1xT3dYdlBPZDdyMWJMRURGS2Znc0NfYk9LaGVKdXpJVVo3M1BQRGx3cHhBYzhidw?oc=5)
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMDFxM3ZVTVRRbkJ1ODhQWnhpVGpzbFJNaGh4aVVJelFqbzBNdnFxTTNRN0xEcXZiNFBjY0ZjSWluQW14cWJQZDRNcE9EdU1GQTBkVWhqVU5YTnNoRFlPVW1NNmtaTTdsN0NTc0JrclNMaTdpeDgyNG1nNmxmb05GaThCcWhMU2JVUnhmVWJiZzNvdVR3RHFOcGpsdFhiXzMyNHg4YkxXdUZQSHNJQTY0?oc=5)
 
 ---
 
@@ -293,6 +309,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfT25DVFhDa1pfc
 2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xeDFMMUpzTjB0ZHFZMjRJY01RRXpjQXV6WEZjalZjMDR6OHlFTHBMX3p1OGl1LXVUOXREYXQ5SUhiWk9KYUM0U1hZRkRFY1h0Z09zNjhNNm1vWGlFdmxfdXowaTdQdXJDMHZ0Umtn?oc=5)
+
+---
+
+### [Anyone taking Atorvastatin for cholesterol warned in major update over 'death risk' - Yorkshire Live](https://news.google.com/rss/articles/CBMingFBVV95cUxOcnhUMTlycUt2Sl9EOHFiM19HNUNDYk9qU0toTTJNeEI2X0ZPVDRlZ1EyOFdodmZZSVBwc1pzelRyRnJRUVdzSlVxWWd0S1BXWkpGbFgzSVhiaG9vbW5qamNndnM3Q2hVZl90cl9sd3lJUW45dGlBZktOZ0ZWVWVkUjdYMHJlMzFfUGVwNWswQlZTMzhVSHdTR2xWdVQ1Z9IBowFBVV95cUxQNHBWUGlWVkN3MXYxclBkdEliXzJPVHRqQW9nR0VoMjRIcWtqU0g4TVFzTmsyME12T09wMERQSTRwZ1N2RFphb3ZxcnFfdkZBbll6YmVpUnBBX0RLZHVkSWRMX1Ytc2VnRXpjTEZnNmNPMm1zLWx2ZkZ2MEt4SGhMX1kwNkNybDU2b0Z1WXpOXzltc1ZTSWxLNkJSdVV1OFNXUkFN?oc=5)
+
+2026-10-04 <span class="news-indication-tag">AF</span>
+
+Source: [Yorkshire Live](https://news.google.com/rss/articles/CBMingFBVV95cUxOcnhUMTlycUt2Sl9EOHFiM19HNUNDYk9qU0toTTJNeEI2X0ZPVDRlZ1EyOFdodmZZSVBwc1pzelRyRnJRUVdzSlVxWWd0S1BXWkpGbFgzSVhiaG9vbW5qamNndnM3Q2hVZl90cl9sd3lJUW45dGlBZktOZ0ZWVWVkUjdYMHJlMzFfUGVwNWswQlZTMzhVSHdTR2xWdVQ1Z9IBowFBVV95cUxQNHBWUGlWVkN3MXYxclBkdEliXzJPVHRqQW9nR0VoMjRIcWtqU0g4TVFzTmsyME12T09wMERQSTRwZ1N2RFphb3ZxcnFfdkZBbll6YmVpUnBBX0RLZHVkSWRMX1Ytc2VnRXpjTEZnNmNPMm1zLWx2ZkZ2MEt4SGhMX1kwNkNybDU2b0Z1WXpOXzltc1ZTSWxLNkJSdVV1OFNXUkFN?oc=5)
 
 ---
 

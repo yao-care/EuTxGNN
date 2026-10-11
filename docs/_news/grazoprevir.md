@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
-
-### [Mickaël Worms-Ehrminger, enseignant en santé publique : « Les réseaux sociaux contribuent à une glamourisation de certains troubles psychiatriques » - Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
-
-2026-10-10 <span class="news-indication-tag">MS</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
-
----
+## Related News (16)
 
 ### [El brote de ébola en RDC supera los 4.200 muertos y va camino de rebasar los 9.000 casos - EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0FVX3lxTE51RmlmalZjV2xSMmczeTVaN3p1SjVHZXFTZEUzR1lkU0ZzM1RCUURvbDB3V2Z0QWZ1TDA5cHpGbzZScVNEeWtCS0JaN2FLR0ZXRllTMWdTVDREcW51c1pFOGhDb0hTRGhDd1NIeWxfLWFzTUE?oc=5)
 
@@ -70,11 +62,19 @@ Source: [EFE - Agencia de noticias](https://news.google.com/rss/articles/CBMic0F
 
 ---
 
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQTExiRGFpaHptN1JNMXlCMllOM0p0dFNfQWhTSEpZYzRydUNEclVIX0hzQ1R5YzVEdUZTNV80V1g0SXhmRTQyZTNwWHFQMEUyRWpsTmppTGYyTlVkbm03OVVBTHdtMDQ5dWJoTWcyN2lvVVZXVW81RVlMZTlLSkRIU1RId0FlcnVaQ0d5elE5Z0IyaHEwOWpvWURRaUhtTVJmQ2JmVUdPaFpjWHZzQTY1RURDdUJUczQ?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
+
+---
+
+### [Mickaël Worms-Ehrminger, enseignant en santé publique : « Les réseaux sociaux contribuent à une glamourisation de certains troubles psychiatriques » - Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
+
+2026-10-10 <span class="news-indication-tag">MS</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY3MwcXdmX0hIbFRMYWlvNG80dXVMV1owazlMbTE3Z0sxMFFidEZzRVFYdmhJWU1SVHlzZ1NFWjhuU1dmb29TOXhndXY0bDJ3aDM4bGpSc1RWLTMtYjZnUXBDT254RXh3bzYyNUxkemxyYll5WjlZeWYxeGFQT3BabUdWUVNidVVEcUtNUHhuSkRQQjBERHA3SEpGLU14LXhPdFlTSElUY01IME1ZdGRVTzMzNE1kMFF4Z0RSSEdJU1VQdTJFOC1EUVFyYzZ5RkxXTlZ6ZmNjM19FUU14Q0NhZTh4clEzRThWbTd6bldSdjM2NkFwSXdVMlFxVktuVUdwMnZ5RGVZajJIUEUzbTVlcTM3M0xnemRoczFCdVRWbGlEbFBVdy1yeVNYNm10WlJzY2NB?oc=5)
 
 ---
 
@@ -158,11 +158,11 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWd
 
 ---
 
-### [Gene therapy can partly restore sight in blind people, researchers reveal - The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
+### [Chronische Darmentzündung: Ein blockierter Energiestoffwechsel als Heilungsbremse - PTA IN LOVE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlhKMUtMa1FiWHZwSHMzMkhIMHplTHh0aVlQZXNTVE13dFJhWVZqT3BzQkZ4OEpNcEU3N3N3cG1MZlEwV1JUMDNuU3JZVXRXWWtxSloxM0hQbTZGdEJ1aW5wZDhhUjZId1I0NDM1SFpUSks4MjY0OXZHOWk4QmRaLXp4VXJuRk9IZjYydkxHbWhVaWpiaDQyc0NEdTJka0dPWVU5YXY1MmJkbk02WVE?oc=5)
 
 2026-10-07 <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5)
+Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlhKMUtMa1FiWHZwSHMzMkhIMHplTHh0aVlQZXNTVE13dFJhWVZqT3BzQkZ4OEpNcEU3N3N3cG1MZlEwV1JUMDNuU3JZVXRXWWtxSloxM0hQbTZGdEJ1aW5wZDhhUjZId1I0NDM1SFpUSks4MjY0OXZHOWk4QmRaLXp4VXJuRk9IZjYydkxHbWhVaWpiaDQyc0NEdTJka0dPWVU5YXY1MmJkbk02WVE?oc=5)
 
 ---
 
@@ -171,6 +171,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQ
 2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGExbk1LdXlKZF9uWXlTVlFtOHlGeDZROGpKZ3BqcWdkejNDdWZ0RldWbkhCMGs0UEZENGkxUzFueXJQMHY2TUp6OWY1SGc1MnZULVRVOERSaTI5bmloVjFNYUZFemcxbDNzYUxMb0RhcjBpYTFudWZ3UElxb0U5Tkp4RlYzdjZJUU1JZnB30gGTAUFVX3lxTFBPT3ZBVVhYa3ZjY0tLWFBLWkdrS3hrU2VVSFJYeTcwWm85NHJ3bDFkaWxnVDE4czFqc2ZxMnFwV3MzUkJXN1NqcGJDQmdsWFJLaWtvLW0wTUlwT2ExUmxSQTY2WWlLTnNVZzRJSG5NYlpvSk43UWRaMmc5Q1RNMG5XR3BlTWhQNjdoMUcyNko4OTQ3VQ?oc=5)
+
+---
+
+### [Doctors Say This 'Embarrassing' Symptom Could Be A Warning Sign Of Colorectal Cancer](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdMOUZBdGNsVDdGUHp5bWZaNEhxU2FsOXVYNmZjOW50c3pLY2NpcWR5R2VwSW5PZHNJV3dVRzNNTUVIanBRUTBiTU5URUJpVE1iUEdTc2dJajk4X2dEWDF5N2JYcTJ1NkdtYmpxZ2FnZjUzTmNZbnJvZThreEtZemdMbDMwRDVkel9CRmlIeGpEek9UMlhWOEJjMUhmN3JxOVFXQzNLSGdDckowLUktSERSMXk5ZE9rUlhNaVBNdUl5V0pORHo1WjR1S3VUdEk3QWFzUHZrZ9IB3wFBVV95cUxOQTI1NWUwWHVTUVcwa3Z0TE1jMkNuOFl0SVV5N09lVzllVzhqNTltc2pjb3VUNG1JUlhtOG5vSW41UnJOUUozWmxZS1BEb29Qcy1WSTZnMUZESWY0RGJGZU1LWVVqQ0tGRF9VOGhVY2hUeC1aSzZ5azktaTVKZVFneG1IZ2hLclUxSng0ZjY4eGJmcDEwVXU5VWY4VzhTY3BUMENmX3phUjBqNk1tOUVydWFyaXV3Mkhtal9vQWpmNFh3WjJtODVXYzgwUFBOUHNxTGx1YTA2eUZWWVV6VlFj?oc=5)
+
+2026-10-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWk1NNEdMOUZBdGNsVDdGUHp5bWZaNEhxU2FsOXVYNmZjOW50c3pLY2NpcWR5R2VwSW5PZHNJV3dVRzNNTUVIanBRUTBiTU5URUJpVE1iUEdTc2dJajk4X2dEWDF5N2JYcTJ1NkdtYmpxZ2FnZjUzTmNZbnJvZThreEtZemdMbDMwRDVkel9CRmlIeGpEek9UMlhWOEJjMUhmN3JxOVFXQzNLSGdDckowLUktSERSMXk5ZE9rUlhNaVBNdUl5V0pORHo1WjR1S3VUdEk3QWFzUHZrZ9IB3wFBVV95cUxOQTI1NWUwWHVTUVcwa3Z0TE1jMkNuOFl0SVV5N09lVzllVzhqNTltc2pjb3VUNG1JUlhtOG5vSW41UnJOUUozWmxZS1BEb29Qcy1WSTZnMUZESWY0RGJGZU1LWVVqQ0tGRF9VOGhVY2hUeC1aSzZ5azktaTVKZVFneG1IZ2hLclUxSng0ZjY4eGJmcDEwVXU5VWY4VzhTY3BUMENmX3phUjBqNk1tOUVydWFyaXV3Mkhtal9vQWpmNFh3WjJtODVXYzgwUFBOUHNxTGx1YTA2eUZWWVV6VlFj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Icosapent Ethyl?">
-<strong>Icosapent Ethyl</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Icosapent Ethyl</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 <p><a href="{{ '/drugs/icosapent-ethyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [New ‘injectable protein’ could ‘REGROW’ body parts & banish arthritis - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
+### [Knee pain and crunching: 3 exercises to ease osteoarthritis of the kneecap - South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">arthritis</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdDVRVnN3Y2pudW1OQ19FbGNtWmhMM1RYNGFMcVJOYWp3ZU1wZU0xVDVLVS1aQUh6UkVhNDJNQ2d3LUt3NWZBendUVnVSREtuQ015TzNuSThTb3N6WlJWQWI2aU9CZl9HeThzQUhvb3JUaTk5c3JDNjIwWFVHLVdXQlNqcUt0NWFsYVl3?oc=5)
-
----
-
-### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
+Source: [South China Morning Post](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWjN0bENXbkgwNDlsdUgtbWpieGhHLVRLMUFHazZDaGlSRnZwUE5DNXIwQ2pSYXliN0FYaU40YmJTZExteDJBY0pxcjc0ZjU0b21xTlBIRGJGRzJ3RWEzUXk0UjZ6ZkxLbUFXTDR0QlRuWG9OWFJnLUxFN2p0SDhHY3dTZVVwNm4zSnJmbEQxa1lkemtoMGxHSjBWVDRVV1pTYXRvZVM1UnpuTWVqbVRFb29qRllmYzk0MklHYldlWWplbVdZSkN4bXhZcXFYR2d0b1RF0gHTAUFVX3lxTE5hbV9ubGRjb3diWl9MLXZjMHRxd0pKc0lQeFN5WmVNX0I4Y0dVZTNBRTE0SlNFUUxMYlhWVTRadTEydmFFaHE3VU5Ib1RqTXliOHFqVG9DLUhKejRDajF6RkR6NnVEVUx0X1JPQUdhenVJTzdGWmN4SFNXR3hVLU9TVlRobEpucFBlZVozcHNIVmFFVVJ2RFdmbnRpcXlZOHJadTlzR1ppbWU5a29hS1NWMXZ0N3pLdVJlZVYxRzFoOFgwd0lqY3pkTE9TZnpKS2RQcHc?oc=5)
 
 ---
 

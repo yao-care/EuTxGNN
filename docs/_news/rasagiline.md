@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [11 ways to make the most of life after a dementia diagnosis - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
 
 2026-10-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
-
----
-
-### [Human microglia clear intraneuronal α-synuclein aggregates by GPNMB-mediated trogocytosis - Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Dopamine</span> <span class="news-indication-tag">Parkinson's</span>
-
-Source: [Science | AAAS](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03bjhndmxQYmptOU9uX0NqUDV2ZEhwY0tjRzBoSVBXa0RkbjNMbjRuYm01bFRvdU1LMU5YS3hXN0MzR2RwaEZQOHlvRTJwX2xINjhmbEFhVEhFRFk1RnB2TFRsbFp3QXM?oc=5)
 
 ---
 
