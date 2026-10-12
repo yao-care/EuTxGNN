@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
 
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
@@ -62,19 +70,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxP
 
 ---
 
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+---
+
 ### [A surprisingly simple way to relieve knee arthritis pain without pills or surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
-
----
-
-### [L'ibuprofene è un antidolorifico o un antinfiammatorio? Cosa fa davvero e le risposte ai dubbi più comuni](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUNjcXhPa1ZIa19FRXJ3eWE2aWRtMUh1aTQ4OTdFNTRDSEh3LXBGTlVrLWFfOU9wam15eXZtY0hkOUFZNGJyNkIwemNQQTJ5RmpEellHbFlSRDZXOWZCazZhX1RzUlduNjVfLWhMYWhQcm52VFd2bklzSkdXUFNSMHQ0MTVSclpWRnFfZm52VE1wMVZDWjY4YjU0ZVNEZFg5RkdYOGxhamd2cW8yWmV4SThSNHRwWW1WdGxlVWNENHpFMjNvRVRyRDRDODQ0aEZFcTRLOEJURS1TTFQ2TUNKakVSY21WZw?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Ibuprofen</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbUNjcXhPa1ZIa19FRXJ3eWE2aWRtMUh1aTQ4OTdFNTRDSEh3LXBGTlVrLWFfOU9wam15eXZtY0hkOUFZNGJyNkIwemNQQTJ5RmpEellHbFlSRDZXOWZCazZhX1RzUlduNjVfLWhMYWhQcm52VFd2bklzSkdXUFNSMHQ0MTVSclpWRnFfZm52VE1wMVZDWjY4YjU0ZVNEZFg5RkdYOGxhamd2cW8yWmV4SThSNHRwWW1WdGxlVWNENHpFMjNvRVRyRDRDODQ0aEZFcTRLOEJURS1TTFQ2TUNKakVSY21WZw?oc=5)
 
 ---
 

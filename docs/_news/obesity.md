@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 5 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 3 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
@@ -54,27 +54,11 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1
 
 ---
 
-### [Atención Primaria urge a erradicar la "cultura de la báscula" y abordar la obesidad como enfermedad crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
-
-2026-10-10
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
-
----
-
-### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
-
-2026-10-09
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
-
----
-
-### [Nagging people to eat healthily does not work - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 2026-10-08
 
-Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 ---
 

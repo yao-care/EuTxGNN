@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
 
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+---
+
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
 
 ---
 
@@ -70,19 +86,19 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMml
 
 ---
 
-### [Santé. Ozempic, Wegovy, Mounjaro… Des effets indésirables parfois graves en cas de mésusage - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOWW1nUXV0MkQ0MXdScmhwSi1TR1ZvQ1IydDl4ajZJWUtpejMxWDN3N2NSM0hLSGZxMGlET3MtSk5Sem1zSm1oaV9tQUE3UlM0ZDBtdldFV203Q1hldE9ldUV1U2h4T3ZzcWhyNTIweW5IZ0RreEFZcHJUWFNUeEQzbmFwR05hTzktT2NFaEx4RjNHdFo1S0o1ZEQ1LVY5NmMzX1hBOW13Y29MdDVzLVRlVDdJQ29IaGtVbkxVNnFpanhTT2JwUHdmWG1oTVE?oc=5)
+### [Ozempic, Wegovy, Mounjaro, Trulicity… 13 décès recensés par l'ANSM en un an, dont deux après des vomissements sous metformine](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
 
-2026-10-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+2026-10-09 <span class="news-drug-tag">Dulaglutide</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOWW1nUXV0MkQ0MXdScmhwSi1TR1ZvQ1IydDl4ajZJWUtpejMxWDN3N2NSM0hLSGZxMGlET3MtSk5Sem1zSm1oaV9tQUE3UlM0ZDBtdldFV203Q1hldE9ldUV1U2h4T3ZzcWhyNTIweW5IZ0RreEFZcHJUWFNUeEQzbmFwR05hTzktT2NFaEx4RjNHdFo1S0o1ZEQ1LVY5NmMzX1hBOW13Y29MdDVzLVRlVDdJQ29IaGtVbkxVNnFpanhTT2JwUHdmWG1oTVE?oc=5)
+Source: [SeniorActu](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
 
 ---
 
-### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 1 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 2 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>1 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>2 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,13 +39,21 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+### [Überraschend klarer Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
 
-2026-10-10
+2026-10-12
 
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
+
+---
+
+### [Schlaganfall: Forscher entdecken überraschende Ursachen - Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
+
+2026-10-12
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
 
 ---
 

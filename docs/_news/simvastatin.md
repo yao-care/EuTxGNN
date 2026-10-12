@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+### [Überraschend klarer Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
 
-2026-10-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-10-12 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
+
+---
+
+### [Schlaganfall: Forscher entdecken überraschende Ursachen - Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
+
+2026-10-12 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
 
 ---
 

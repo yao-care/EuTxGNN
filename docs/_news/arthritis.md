@@ -3,7 +3,7 @@ layout: default
 title: "arthritis News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about arthritis. 2 articles, 73 related drugs."
+description: "Health news about arthritis. 4 articles, 73 related drugs."
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about arthritis?">
-<strong>arthritis</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
+<strong>arthritis</strong> currently has <strong>4 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -101,13 +101,29 @@ This page brings together the latest health news about “arthritis” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
 
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+---
+
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
 
 ---
 

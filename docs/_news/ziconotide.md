@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
+
+---
 
 ### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
-2026-10-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-10-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
@@ -64,33 +72,17 @@ Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95c
 
 ### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
-2026-10-10 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">obesità</span>
+2026-10-10 <span class="news-indication-tag">obesità</span>
 
 Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 ---
 
-### [Atención Primaria urge a erradicar la "cultura de la báscula" y abordar la obesidad como enfermedad crónica - Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
+### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
-2026-10-10 <span class="news-indication-tag">obesidad</span>
+2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMikwFBVV95cUxPRW1maUhYeDBXdnI3Szk0SjFyaW1jYnB1clRwQ0pBb0dacWFKT1dYdlZBODJ5SVU5dVJkQmdYTFVHNW5VcjF6Z0lOU2FoSjMyTHpHRUV6YTMzd0ZEY3NyU2tzMFJQX0dXSEx1UDVCZGxDQmt4OGJHNk5wMDd3bm45ZmtyRlNVZTJ1MHRPUFlNR2xKbnM?oc=5)
-
----
-
-### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
-
----
-
-### [Nagging people to eat healthily does not work - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
-2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc?">
-<strong>Zinc</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Zinc</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Faut-il prendre des vitamines pour ne pas tomber malade cet automne ? La réponse d’une médecin - Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+
+2026-10-11 <span class="news-drug-tag">Zinc</span>
+
+Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+
+---
 
 
 <div class="disclaimer">

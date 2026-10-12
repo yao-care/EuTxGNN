@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
+
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
+
+### [Marie, 49 ans, atteinte d'un cancer du sein triple négatif : "je découvre une force que je ne pensais pas avoir"](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
+
+Source: [Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
+
+---
 
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+---
+
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
 
 ---
 

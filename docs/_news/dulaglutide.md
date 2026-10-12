@@ -14,7 +14,7 @@ permalink: /news/dulaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Dulaglutide?">
-<strong>Dulaglutide</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Dulaglutide</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Dulaglutide with the latest 
 <p><a href="{{ '/drugs/dulaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (13)
+
+### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+---
+
+### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+---
 
 ### [Diabete e celiachia, il test che cambia la vita ai bambini sani. Ma chi si occuperà di loro dopo?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXV0MHF0ZHcyUnV3ODhwSUJQaHVQeVktY1pxTVF6X2lTcXZfVDRwVkdqcC1zNGJOTDA3NndUWXFQSzZaaHQ2aTFRSnpDeWQ5VncxNXBXX1VYejRjRmFFeXRmcjUzVGhuOE5hNkV1eU5fd3Zkdm1yQmF2X1UyWWtXWk16NVBZaUV4Nm9zQWdKemRIRFAwTFZtc1ZlYmRnUXFRMTh0dC1iNEl5Xzl6UktLVmk5SlFLaTduZFNsV0tTWmM1STlGY1lRcFpVZWoyVERjcnExdlVKenEzOUtWOC1EZG5PVVFrYnZ0?oc=5)
 
@@ -68,22 +84,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRH
 
 ---
 
-### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
----
-
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
-2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
----
-
 ### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
 
 2026-10-09 <span class="news-indication-tag">diabetes</span>
@@ -97,6 +97,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV9
 2026-10-09 <span class="news-indication-tag">diabète</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQbVd0STdQWVFSN0tQQVZLVGpjbWhrU2UwTGVhLVVfZzF0ZGlmZFRlUE5XM1RBRGNISVVRYXc5X3Mya2tKYmpJYl80Rl8tWEtVTS0weGlXSmo2TWtXUWZ1LTNMMDRsNVZEamR0VGQ0X0RYaVB2XzVudWYyN2kzY3NodDRUemlndjhoRWR1a2dWSFlweUFqQUowSmhIdXVoSA?oc=5)
+
+---
+
+### [Ozempic, Wegovy, Mounjaro, Trulicity… 13 décès recensés par l'ANSM en un an, dont deux après des vomissements sous metformine](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Dulaglutide</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [SeniorActu](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
 
 ---
 
@@ -121,6 +129,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

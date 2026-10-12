@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,53 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (18)
+
+### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+---
+
+### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+---
+
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
+
+### [Marie, 49 ans, atteinte d'un cancer du sein triple négatif : "je découvre une force que je ne pensais pas avoir"](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
+
+Source: [Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
+
+---
 
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+---
+
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
 
 ---
 
@@ -86,27 +126,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRH
 
 ---
 
-### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
----
-
 ### [A surprisingly simple way to relieve knee arthritis pain without pills or surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
-
----
-
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
-2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 ---
 
@@ -155,6 +179,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

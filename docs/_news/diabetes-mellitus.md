@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabete (diabetes mellitus). 11 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 12 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
-<strong>diabete (diabetes mellitus)</strong> currently has <strong>11 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>12 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -114,7 +114,23 @@ This page brings together the latest health news about “diabete” and lists t
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+2026-10-12
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+---
+
+### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+2026-10-12
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+---
 
 ### [Diabete e celiachia, il test che cambia la vita ai bambini sani. Ma chi si occuperà di loro dopo?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXV0MHF0ZHcyUnV3ODhwSUJQaHVQeVktY1pxTVF6X2lTcXZfVDRwVkdqcC1zNGJOTDA3NndUWXFQSzZaaHQ2aTFRSnpDeWQ5VncxNXBXX1VYejRjRmFFeXRmcjUzVGhuOE5hNkV1eU5fd3Zkdm1yQmF2X1UyWWtXWk16NVBZaUV4Nm9zQWdKemRIRFAwTFZtc1ZlYmRnUXFRMTh0dC1iNEl5Xzl6UktLVmk5SlFLaTduZFNsV0tTWmM1STlGY1lRcFpVZWoyVERjcnExdlVKenEzOUtWOC1EZG5PVVFrYnZ0?oc=5)
 
@@ -137,22 +153,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3
 2026-10-11
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
-
----
-
-### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
-2026-10-11
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
----
-
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
-2026-10-10
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
 
 ---
 
@@ -193,6 +193,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 2026-10-07
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

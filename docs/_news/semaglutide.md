@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+
+---
+
+### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+---
+
+### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
+
+2026-10-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
+
+---
 
 ### [Diabete e celiachia, il test che cambia la vita ai bambini sani. Ma chi si occuperà di loro dopo?](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTXV0MHF0ZHcyUnV3ODhwSUJQaHVQeVktY1pxTVF6X2lTcXZfVDRwVkdqcC1zNGJOTDA3NndUWXFQSzZaaHQ2aTFRSnpDeWQ5VncxNXBXX1VYejRjRmFFeXRmcjUzVGhuOE5hNkV1eU5fd3Zkdm1yQmF2X1UyWWtXWk16NVBZaUV4Nm9zQWdKemRIRFAwTFZtc1ZlYmRnUXFRMTh0dC1iNEl5Xzl6UktLVmk5SlFLaTduZFNsV0tTWmM1STlGY1lRcFpVZWoyVERjcnExdlVKenEzOUtWOC1EZG5PVVFrYnZ0?oc=5)
 
@@ -78,51 +102,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRH
 
 ---
 
-### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
----
-
-### [Desmintiendo mitos sobre el Ozempic: «Si no cambias los hábitos, seguirás haciendo las cosas mal, pero comiendo menos» - La Voz de Galicia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDJRNGtMb2oxZGs0bkRjRWhFUVk1VlJQQkVUMmNwWWlwdjBFdXFtcnlJN2lIVmNxUnV2NC1BUmNGeV9kM2F2bkVuVTRPaW9ONkprWnAyUXZvSWZIdW5nOXNTZ2wwV2dPODhUc2R3ZlNSa1FsbzdxeFVzM2ZVUGJsYlZQbGtGVEdwUGdKaWhiamMxRzFXSGNNdlpFR3p1MGl4YmNCQkVlUmpZazFOWWs4OEFjZ3hDeWZoSjRCaFVKTXc4OXl2czJ5NmhoTnRtd3RFMXRGbzdhTnlCLXFtYTRVNUczaGt6Nk9la0RlRTV1STNBbUo3NkMzX9IBlAJBVV95cUxNbVlZcEltR1pvUUZ0cFBSd1c5S3dodWVpdF8zd1F4WFVpSEFqWmRwZzRHTlo4VVA5Nmo5SVY4bW4xN0kxWjd6dFh6WlktcXlPQ0thdDVVS2Y2WTh0TE1YYXVmN2NSdElZNlVpaFJfUGVsUmZfT2pHR0oydll6RTlMODhmTTJkS1ZnTV9EVGJkUmRudnYyWmQ4VEVjNUVHN2tFM1k4R1RTWGZlSGtjTVB0dmk5WU9EMDgwcnVHVTJKMnM2d1NsLWUzM0Rqa3FiR2tfbmZldDdreGMyd2J1Q1NKWWt6TE1pTWNzaDd5YnFuWUoxY1JDam45cU5leUhfaFJlZ1R2NFZ3VXo2dk9WVUplVm55dG8?oc=5)
-
-2026-10-10 <span class="news-drug-tag">Semaglutide</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaDJRNGtMb2oxZGs0bkRjRWhFUVk1VlJQQkVUMmNwWWlwdjBFdXFtcnlJN2lIVmNxUnV2NC1BUmNGeV9kM2F2bkVuVTRPaW9ONkprWnAyUXZvSWZIdW5nOXNTZ2wwV2dPODhUc2R3ZlNSa1FsbzdxeFVzM2ZVUGJsYlZQbGtGVEdwUGdKaWhiamMxRzFXSGNNdlpFR3p1MGl4YmNCQkVlUmpZazFOWWs4OEFjZ3hDeWZoSjRCaFVKTXc4OXl2czJ5NmhoTnRtd3RFMXRGbzdhTnlCLXFtYTRVNUczaGt6Nk9la0RlRTV1STNBbUo3NkMzX9IBlAJBVV95cUxNbVlZcEltR1pvUUZ0cFBSd1c5S3dodWVpdF8zd1F4WFVpSEFqWmRwZzRHTlo4VVA5Nmo5SVY4bW4xN0kxWjd6dFh6WlktcXlPQ0thdDVVS2Y2WTh0TE1YYXVmN2NSdElZNlVpaFJfUGVsUmZfT2pHR0oydll6RTlMODhmTTJkS1ZnTV9EVGJkUmRudnYyWmQ4VEVjNUVHN2tFM1k4R1RTWGZlSGtjTVB0dmk5WU9EMDgwcnVHVTJKMnM2d1NsLWUzM0Rqa3FiR2tfbmZldDdreGMyd2J1Q1NKWWt6TE1pTWNzaDd5YnFuWUoxY1JDam45cU5leUhfaFJlZ1R2NFZ3VXo2dk9WVUplVm55dG8?oc=5)
-
----
-
-### [Santé. Ozempic, Wegovy, Mounjaro… Des effets indésirables parfois graves en cas de mésusage - Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOWW1nUXV0MkQ0MXdScmhwSi1TR1ZvQ1IydDl4ajZJWUtpejMxWDN3N2NSM0hLSGZxMGlET3MtSk5Sem1zSm1oaV9tQUE3UlM0ZDBtdldFV203Q1hldE9ldUV1U2h4T3ZzcWhyNTIweW5IZ0RreEFZcHJUWFNUeEQzbmFwR05hTzktT2NFaEx4RjNHdFo1S0o1ZEQ1LVY5NmMzX1hBOW13Y29MdDVzLVRlVDdJQ29IaGtVbkxVNnFpanhTT2JwUHdmWG1oTVE?oc=5)
-
-2026-10-10 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMizAFBVV95cUxOWW1nUXV0MkQ0MXdScmhwSi1TR1ZvQ1IydDl4ajZJWUtpejMxWDN3N2NSM0hLSGZxMGlET3MtSk5Sem1zSm1oaV9tQUE3UlM0ZDBtdldFV203Q1hldE9ldUV1U2h4T3ZzcWhyNTIweW5IZ0RreEFZcHJUWFNUeEQzbmFwR05hTzktT2NFaEx4RjNHdFo1S0o1ZEQ1LVY5NmMzX1hBOW13Y29MdDVzLVRlVDdJQ29IaGtVbkxVNnFpanhTT2JwUHdmWG1oTVE?oc=5)
-
----
-
-### [Retatrutide bei Diabetes: 52 Prozent verlieren mindestens 20 Prozent Gewicht - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
-2026-10-10 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHlSNHVNbHpvUXI0dW0xR2FVWHJyS2RZbmxBZTN4aW5wOGNDRTZmWE54UWtXMHJ5Ry1DZ09TWENoLU9FQ0swbmNEVlNRaFYyZ3VXZUdWVEs4cVVWN3R5djVHcGI2RTJIdnlTNHk4RXc2cTJGU2lJaDlpZTgwNUVjeGludmc5VlRocVZFWWdpRWllUlF5OUJFMUpqWEh2NU91ZUtzWjl4aF9OMkh6eHN5ZHFJdFlPQjBOVFJGOUtHUWFNQQ?oc=5)
-
----
-
 ### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
 
 2026-10-09 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
-
----
-
-### [Médicaments antiobésité : la ruée des patients met le système de soins français en surchauffe - Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTFJUb0hEd1pNVUpoZDF4b2FmMm12R09zdHA1RmRfQWZMYS1vSUY2RlFFd1RXdEdjaVU5eXZ0OV95WGIzbXhjcTRiR2RLdHA3ZjVRdnBMVV9QV011VkdMLW8zRG5rSGVlcTIxWVVRTUFYWWFBQTJDQnltUHV6cDZaeTRIdVRQSXBNUTVyWnJNSmRXREJEXzNIQmdXcl9KVmxRbWRNSGdKT3JhRWF1ZlFCc2lHSkM1a3hjdkhGbDFSa25jSjloWDdzblBkWEMwcC1BZF9BNTE0VDVXalNUMUlQQ2hJcmFCeXRYdDBvT2J6U0Ytdw?oc=5)
 
 ---
 
@@ -134,11 +118,27 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQ
 
 ---
 
+### [Ozempic, Wegovy, Mounjaro, Trulicity… 13 décès recensés par l'ANSM en un an, dont deux après des vomissements sous metformine](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
+
+2026-10-09 <span class="news-drug-tag">Dulaglutide</span> <span class="news-drug-tag">Metformin</span> <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [SeniorActu](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUXQ5TkJUMGZPalpUOXpCdWRmYmhQUGp1VHg3SklnZmxPNDRqNUpLTFdnTnNWTE04enMzOUdKUlRHdW1fVDlTYTg4dGJtTEZqbWhUT2t6QkdDY0Jzdnl2MHZiZ1ViUGJDNHVKT0ZPQ21WYkVpX1I5dFpHV0lvY19LSkpJMU5WT28wNWsyaGJKd3dyZE9fdkNPZzJTSlp0YS1rdXg5UHlhcXN3VFJGUHNMblBwSnRXT0NOTmlkTzhEWXUyay1Uc0dKRmhPM1dzMHV4WmhCY05XcXk2YVpuY0VPRVJB?oc=5)
+
+---
+
 ### [These Seemingly Minor Symptoms Could Actually Be Signs Of Diabetes](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
 
 2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [HuffPost](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
+
+---
+
+### [Les médicaments antiobésité Wegovy et Mounjaro sont désormais remboursés : quelles sont les premières implications - Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
+
+2026-10-08 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [Midi Libre](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWFlwaXZzdFYydmNoendKRkJuT0tKeTQtaUhFMmZjNXFfV3MycktIelpqQ1pLVUxhak1oM1kxZkY1N01rS1RnVFo3TFBhQUh0ay1ZSEFEU0U4dzYyTHFibkl6NFVMTlhpdnJzSGNoZzg5TUJqanRMMzhGdUdST3h0Z0VtNWtyZ0NqRzZBdm04ZXNuenRpVWFLZFFvdzhaZDBYd0RtVHI5RHNFLWdzSW9Pb3hTdWtpdVp0TzNoZVZWNTJjMEsyTWxTelpKQ3ZrczV3a01IWnJEUmQ0LTc3eEtreEszdjlIOTNjRDFUTmZyR0RPTDg?oc=5)
 
 ---
 
@@ -155,6 +155,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+---
+
+### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
 
 ---
 

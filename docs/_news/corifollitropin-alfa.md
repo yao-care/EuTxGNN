@@ -54,19 +54,19 @@ This page combines the AI-predicted indications for Corifollitropin Alfa with th
 
 ## Related News (3)
 
-### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 
-2026-10-09 <span class="news-indication-tag">hypertension</span>
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 
 ---
 
-### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
+### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
-2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-07 <span class="news-indication-tag">heart disease</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
 ---
 

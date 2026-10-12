@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 
 ## Related News (5)
 
+### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+
+---
+
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">arthritis</span>
@@ -62,27 +70,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxP
 
 ---
 
+### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+2026-10-11 <span class="news-indication-tag">arthritis</span>
+
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
+
+---
+
 ### [A surprisingly simple way to relieve knee arthritis pain without pills or surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMmlpZ2QxbHRvLUJGVUNPM2JXYVlhemJuSlVZeVpMX2ppUnVCMFhOTzg5Mm5qTnh0YXRzZGZfVXJNNXMtcG1VcEF0d1hCVjZuTW13X0JWQXhlVG1fdi10U3R6eFZZM1gweGd1U3MyTQ?oc=5)
-
----
-
-### [En prescrivant dès 1979 un comprimé contre l'hypertension sévère, le laboratoire Upjohn a littéralement ouvert un marché qu'aucun cardiologue n'avait imaginé](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
-
-2026-10-09 <span class="news-indication-tag">hypertension</span>
-
-Source: [Sciencepost](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNS0dyQ0Y1ZWVfbEdjZE81azNkOXFCRVE4Q3R2V0ZDMy1KYnNrSHk4YllmZVVKRkpWN0RmbmVxbW9FZ1N6NTE1Ny1xOG9OYlBjNHBES1NHb00yS2VtMG8tc0dzTzFabHdfWVdaeVBxWjFaNjI1a2RtVGllOWt5elROeHZzLUVudXVRY1FQcEFaMDhYRkpET29WX1AwUHVYUXMwVm5oM2kyeGVGNXNmQlpUdUxTNmxfN2QwcHlrdG1ITjlqQUdQeXZ4QUFjWUdGT2lmTUotOVNwX1VxdkNUZlJaV1JRbjdya05QaFVXNWRobEVDRklrSWhGZ09aZnoxajNtM0xfaHFibnc?oc=5)
-
----
-
-### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
-
-2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
 ---
 

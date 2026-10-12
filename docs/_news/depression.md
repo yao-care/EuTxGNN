@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 5 articles, 7 related drugs."
+description: "Health news about dépression (depression). 8 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,29 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (5)
+## Related News (8)
 
-### [Gute Laune auf dem Teller: Diese Lebensmittel können deine Stimmung aufhellen - Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+### [Frühzeitige Behandlung von Depressionen verbessert die Überlebensrate bei Krebs - Biermann Medizin](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0l2RGQ5Y0UyZHpQQ3JMRDJfYXctM0JQM1J3dTA5b0NrN2hJMXVuel9kT1Z5N1NMVDByUEcyMHRaeWNKVnlLVEpZczVCUEtHQ3lzdGJKaF9MM1AyOVE4WFhyVmFHUlVKa0FXTUtJeFlFTmplc29ZUEtTMUpGd1Z3bkNQdlN0cmd1TWdmUlJ3SnZ2WTB6dnktT2dLZ211MGRuY0p6TWJGakwxZXdLMFlZ?oc=5)
+
+2026-10-12
+
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0l2RGQ5Y0UyZHpQQ3JMRDJfYXctM0JQM1J3dTA5b0NrN2hJMXVuel9kT1Z5N1NMVDByUEcyMHRaeWNKVnlLVEpZczVCUEtHQ3lzdGJKaF9MM1AyOVE4WFhyVmFHUlVKa0FXTUtJeFlFTmplc29ZUEtTMUpGd1Z3bkNQdlN0cmd1TWdmUlJ3SnZ2WTB6dnktT2dLZ211MGRuY0p6TWJGakwxZXdLMFlZ?oc=5)
+
+---
+
+### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
+
+2026-10-12
+
+Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
+
+---
+
+### ["L'intestin est capable d'agir sur notre cerveau" : pourquoi l'Institut Pasteur mène des recherches sur le microbiote - TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
 
 2026-10-11
 
-Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
 
 ---
 
@@ -61,11 +77,11 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncya
 
 ---
 
-### [Alzheimer, Parkinson… Et si tout commençait dans un autre organe que le cerveau ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
+### [Depression und Ernährung: 20 Personen senken Beschwerden nach vier Wochen](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
 2026-10-11
 
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
 
 ---
 
@@ -74,6 +90,14 @@ Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob2
 2026-10-10
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
+
+---
+
+### [Der Tod ihrer Patienten geht Herzmedizinern oft sehr nahe](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
+
+2026-10-06
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
 
 ---
 
