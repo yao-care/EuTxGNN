@@ -54,7 +54,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 
 ## Related News (3)
 
-### [Can Hormone Therapy Improve Brain Health During Menopause?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
+### [Hormone Therapy May Help Improve Menopause Brain Fog, Mood Changes](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
 
 2026-10-11 <span class="news-indication-tag">Alzheimer's</span>
 

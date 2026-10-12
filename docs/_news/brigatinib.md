@@ -14,7 +14,7 @@ permalink: /news/brigatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Brigatinib?">
-<strong>Brigatinib</strong> currently has <strong>29 news articles</strong>, with 20 predicted indications.
+<strong>Brigatinib</strong> currently has <strong>31 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,31 @@ This page combines the AI-predicted indications for Brigatinib with the latest h
 <p><a href="{{ '/drugs/brigatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (31)
+
+### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
+
+---
+
+### [Maesteg teen whose cancer returned after remission has clinical trial hope](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+---
+
+### [Melanoma, il tumore risponde prima dell’intervento: così potrebbe cambiare la cura dopo la chirurgia](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdUpRbFpHZnZOVXA2emlxTW83djRwbjg5OXA3LXllZVZRMmRfeFpUQkJISEEycktuZl9ETXExVVh4TkhjNFVHT1Q4MzZ2cVR3aDh6MmtLR1hTbWRka0t1X0l5YzNDSk93ZUUyYzhicGtHVDN4RWRnOTdoVi1scWoydlBsQ0NEQTZISlFQY0hxUVdDU2Q5bDhSS2QwTHB1dDlZMnNyNVA5dXRBNUUyaUs1d1RhXzFIbjVqQXZmREpTcGdQVDN5UU42MDZ2TW9IY3diWnphZ3NtX2VsODNkdHRGc0UwNEotaHZxR2h1dU1B?oc=5)
+
+2026-10-11 <span class="news-indication-tag">tumor</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdUpRbFpHZnZOVXA2emlxTW83djRwbjg5OXA3LXllZVZRMmRfeFpUQkJISEEycktuZl9ETXExVVh4TkhjNFVHT1Q4MzZ2cVR3aDh6MmtLR1hTbWRka0t1X0l5YzNDSk93ZUUyYzhicGtHVDN4RWRnOTdoVi1scWoydlBsQ0NEQTZISlFQY0hxUVdDU2Q5bDhSS2QwTHB1dDlZMnNyNVA5dXRBNUUyaUs1d1RhXzFIbjVqQXZmREpTcGdQVDN5UU42MDZ2TW9IY3diWnphZ3NtX2VsODNkdHRGc0UwNEotaHZxR2h1dU1B?oc=5)
+
+---
 
 ### [C'est quoi ce centre de dermatologie ultra-moderne qui propose un dépistage à 150 euros dans l'Oise ?](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1Q3QllWdWV5cnV6cGhYd2pHMXpIYUdtcjZvdks2a3BhOEpHV0xSVnFUcGVTZnJDbTVKcjlKcExIX3dEaFdZaEJQajZZSklwMkhsanBYOF85Z29nQTZDUVplcTBiQ3gxZ0dhMnpTdHdjenlPTEpXOUM3eG1mWGI2RDFXb2FoYnRHSk5hVkNNczhxRzU4WmRjYWFxdWNzRDhldkowdmFfWG03d3dCVXIwSTJ4U1JONlUzM1lqQmhnODQ4LXBuV1NhM294MWhIVGdmbkVTeHRrRkVUaDZQMmhJSzQ4SkRVVUNMdVJpMDlFQjY?oc=5)
 
@@ -62,7 +86,15 @@ Source: [Actu.fr](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1Q3QllWd
 
 ---
 
-### [Can Hormone Therapy Improve Brain Health During Menopause?](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
+### ["Ça m’a sauvé de la dépression" : après le cancer, elles retrouvent le sourire grâce à la cure de La Roche-Posay](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
+
+Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
+
+---
+
+### [Hormone Therapy May Help Improve Menopause Brain Fog, Mood Changes](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
 
 2026-10-11 <span class="news-indication-tag">Alzheimer's</span>
 
@@ -182,35 +214,19 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMiwwFBVV95
 
 ---
 
-### ["A luglio mi hanno detto che avevo due mesi di vita, che il cancro non era controllabile. Sono andato negli Usa a provare un nuovo farmaco, il mio fegato ha ripreso a funzionare": la storia di Max Parisi - Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRzU3STU4eU5MMzMxR0xUQmpzcGVxZ0g5TERURmF2aVhwa3I4MFZibmRIS0dySVY3NVQyVkMyVFdwUFBNUkpESWFTaVo2dW9KWEVwN0ljT1lab0kxY0I0US1zYWUyNDVGMkFlMGNhMnlYbnIyV0MxS21NZUdZZk5tZHlxdzlFYzZQN09XQlN1U3pwR0hSVkpTMDUwS1ZJdEZ5SlZTeWtYNml3VDBNdVhqZUZIQWR4eDB5ZldVTXhqS0QyMUVZYWhNR0h0ejNyTFViZkdCZ01OVEFuMFlCN2JIQXBGdEtjUC1fZjcxRFZIVDM3dHlITzMyOEhWVk1uUUxVVWVfSElNNnJzdHFuZmJFd1VSMnVfdFdsbUNJYlhRSkZRY0pTSGFCUHBxUGx5WXE4TDVSdDFzZ0tjdDFkVFZsYlp1MTFKWDEyNG9PSVhZaVVia1JwN0ZyOEl3TEg1bzIybXFB?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancro</span>
-
-Source: [Il Fatto Quotidiano](https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRzU3STU4eU5MMzMxR0xUQmpzcGVxZ0g5TERURmF2aVhwa3I4MFZibmRIS0dySVY3NVQyVkMyVFdwUFBNUkpESWFTaVo2dW9KWEVwN0ljT1lab0kxY0I0US1zYWUyNDVGMkFlMGNhMnlYbnIyV0MxS21NZUdZZk5tZHlxdzlFYzZQN09XQlN1U3pwR0hSVkpTMDUwS1ZJdEZ5SlZTeWtYNml3VDBNdVhqZUZIQWR4eDB5ZldVTXhqS0QyMUVZYWhNR0h0ejNyTFViZkdCZ01OVEFuMFlCN2JIQXBGdEtjUC1fZjcxRFZIVDM3dHlITzMyOEhWVk1uUUxVVWVfSElNNnJzdHFuZmJFd1VSMnVfdFdsbUNJYlhRSkZRY0pTSGFCUHBxUGx5WXE4TDVSdDFzZ0tjdDFkVFZsYlp1MTFKWDEyNG9PSVhZaVVia1JwN0ZyOEl3TEg1bzIybXFB?oc=5)
-
----
-
-### [Anaïs, Réunionnaise atteinte d’un cancer du sein de stade 4, incurable : « Je garde espoir »](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1NTSTNRTW5qdEEtX1VmWU5NeWNmUEdTQ2ZBd3NVZXFjbUd4cS1qTDBOWUViTkNMLTNGemJDQlJSRnVZT1BnZnpkUnpjUTdnbmM1ZkJzeUxuVlJ0WUxUb05yOC1wN1ZXMHRIUWh0Q3FZRmNqQjNtVWNpM01oblBCbGkwWm5BaE1RZDdhT252MDhqem9zYm9IQ3lIb2FjOTZWSkFqSHJtWHg2V2c1UElWRFpnYTN4aVhjd0E?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span>
-
-Source: [Linfo.re](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS1NTSTNRTW5qdEEtX1VmWU5NeWNmUEdTQ2ZBd3NVZXFjbUd4cS1qTDBOWUViTkNMLTNGemJDQlJSRnVZT1BnZnpkUnpjUTdnbmM1ZkJzeUxuVlJ0WUxUb05yOC1wN1ZXMHRIUWh0Q3FZRmNqQjNtVWNpM01oblBCbGkwWm5BaE1RZDdhT252MDhqem9zYm9IQ3lIb2FjOTZWSkFqSHJtWHg2V2c1UElWRFpnYTN4aVhjd0E?oc=5)
-
----
-
-### [Studie aus Freiburg: Eisen könnte Hirntumorzellen beweglicher machen](https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3hkQ25BME5JQk1Hd0E0ZF9Bd3JHN1Z3cnhVX1FqUDRfOWwtaEdWLXpDSnJtS19leURBQzJfVzI4LURiVWd2ZV9MQU9RZWF5dU1NUTFYbndNeXNKSm1WU0R3NnBzenlzbUZGQVlwWTFRUGg5S3FWQ09TSy1yTWZZcUpxNTBYU1BLS0c1aUJkazRBX2ZLcTdQYTZGckI4am9MY1g1Y2Q5dw?oc=5)
-
-2026-10-08 <span class="news-indication-tag">tumor</span>
-
-Source: [BreisgauLIVE](https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3hkQ25BME5JQk1Hd0E0ZF9Bd3JHN1Z3cnhVX1FqUDRfOWwtaEdWLXpDSnJtS19leURBQzJfVzI4LURiVWd2ZV9MQU9RZWF5dU1NUTFYbndNeXNKSm1WU0R3NnBzenlzbUZGQVlwWTFRUGg5S3FWQ09TSy1yTWZZcUpxNTBYU1BLS0c1aUJkazRBX2ZLcTdQYTZGckI4am9MY1g1Y2Q5dw?oc=5)
-
----
-
 ### [Il mio medico: novità nella diagnosi e cura del tumore al seno e intervento di protesi bilaterale all’Humanitas di Catania](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2FZWHlpM080Z1o3WERJbElJYjJXRVVRX1dONTdTWUpod3JybGNyOVVGRDdGZkZ0OUVlNjFnMnU2RWFRcmpuLVFIR3FhNjVUb21KdUFNOGMtU3F3N0xubFlxUkI4R056amwydWFvWG91ckczQk5KVFRpUXlFQlZlUEdHWDhRRExMZExNcEYtaXh1Y1Z1THYwMmk0T0tROXI3cUFVX2NqNjExdjl4ZEsxMzJMQlpSaWVLWE9NaUEtLUV0dDRIVHBpanhOQnQ5QjlMeXc2eVo0U2xTbXZRUUZERG0tRFJmV2tvUlNsZWxtVUtBTmE4VXZlYmw1UVk?oc=5)
 
 2026-10-08 <span class="news-indication-tag">tumor</span>
 
 Source: [Tv2000](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd2FZWHlpM080Z1o3WERJbElJYjJXRVVRX1dONTdTWUpod3JybGNyOVVGRDdGZkZ0OUVlNjFnMnU2RWFRcmpuLVFIR3FhNjVUb21KdUFNOGMtU3F3N0xubFlxUkI4R056amwydWFvWG91ckczQk5KVFRpUXlFQlZlUEdHWDhRRExMZExNcEYtaXh1Y1Z1THYwMmk0T0tROXI3cUFVX2NqNjExdjl4ZEsxMzJMQlpSaWVLWE9NaUEtLUV0dDRIVHBpanhOQnQ5QjlMeXc2eVo0U2xTbXZRUUZERG0tRFJmV2tvUlNsZWxtVUtBTmE4VXZlYmw1UVk?oc=5)
+
+---
+
+### [Hohes Eisenangebot könnte Beweglichkeit von Hirntumorzellen fördern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
+
+2026-10-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
 
 ---
 
@@ -230,6 +246,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGJt
 
 ---
 
+### [Max Parisi negli Usa per il farmaco che ruba tempo al cancro. “Portatelo anche in Italia” - la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWJSa2pQOGhZVzYzLVFIQjgzWmQ1elV1TTVuckM2U0M3bXg2U1diUEs2Nk9lMTFnNWttYThxUTk0Y1EzVU1SbmNlLU9sOXNHdmlqY3Fxd3ZzNEZwd0MxNTdtOU5pM3ZCQjBodmRNM1VSZXlPUjdpYUE0SUNiVDZ1THdBeFp5WGhKVDFjZTN3Y01leGtTRjZ0Yl9XM2lhd2EzRzNIM1ZYZFJzNHfSAbABQVVfeXFMTVdHSXBEV0l3SUdnVG1ucGxRM3pweUpjYnNrREpXWkZQbnpVbER4VzhETl9mUWtZZUNfNDhwbXM2c0VVV1d0ZWphVnhfMV9fLW1zZE9EOWh0dUcxZENOekMzX3lvU1NoMkVCanlRYUhHOVYxZFp2T2JOQnVSYlp2dnhreUtlbXpBNkNKVXkzTFhyTXFicGJvY3o1aUtUeV85TGF4cjV4VjJfYXhiOENhTE0?oc=5)
+
+2026-10-08 <span class="news-indication-tag">tumor</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWJSa2pQOGhZVzYzLVFIQjgzWmQ1elV1TTVuckM2U0M3bXg2U1diUEs2Nk9lMTFnNWttYThxUTk0Y1EzVU1SbmNlLU9sOXNHdmlqY3Fxd3ZzNEZwd0MxNTdtOU5pM3ZCQjBodmRNM1VSZXlPUjdpYUE0SUNiVDZ1THdBeFp5WGhKVDFjZTN3Y01leGtTRjZ0Yl9XM2lhd2EzRzNIM1ZYZFJzNHfSAbABQVVfeXFMTVdHSXBEV0l3SUdnVG1ucGxRM3pweUpjYnNrREpXWkZQbnpVbER4VzhETl9mUWtZZUNfNDhwbXM2c0VVV1d0ZWphVnhfMV9fLW1zZE9EOWh0dUcxZENOekMzX3lvU1NoMkVCanlRYUhHOVYxZFp2T2JOQnVSYlp2dnhreUtlbXpBNkNKVXkzTFhyTXFicGJvY3o1aUtUeV85TGF4cjV4VjJfYXhiOENhTE0?oc=5)
+
+---
+
 ### [A preinvasive regulatory T cell axis for lung cancer interception](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
 
 2026-10-07 <span class="news-indication-tag">cancer</span>
@@ -243,14 +267,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3
 2026-10-07 <span class="news-indication-tag">tumor</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXNFZy1GWDN2LUduU2ZqNzRDN3RrY3A2UkJ0ekxWbFNlREx2dHpsUUl0SVBSdGhSTThISzdqcUFibHpfeVhfU1B4TWdTV2x2MUdmQkVlc0o2OXhqYXNwZmRreXFoNE44b05yNi1vSVRUSnhZbjlSME40TXducFZVSS1iMGlHSWNhNlU1SjV5SzczVnY1RDNBa0tTY2RZZUQ0MEhrSmlrMl9jaGMwNmVNZFB0eG95aXMyN3Jrcm1UY2doZU4tbHMxR3RUMnB6dGw0TTRHR19Tc3NHX2h1WkszNzBqTjBhRDFpRXNodkpueHhYbWJJdjlDamlMdGZ4d9IBgwJBVV95cUxPS0EtbzNxZWNtRDdUN1JrbUc0WTUySGRQOXM1OXZsQzBQUzhRY2pJVGpQejFQY2tral9YUDBqZVpjNmUySjBTM3V2RGRqa0lpNVF4M1RPV2lqOUpqQ1NLRDE5NGx0MFF4MndrRXdud0ZrT0I3RGdyeWd1X25NWWtKMzF5c3kzNnI4VTFRTXRIRlpPWHdyYnZlMHRIYmVFaHJqUDlUR3ZqUGJHd19zQ0pZemx0VWV1UVluZmZfSzJ3dWhuQXlMNHo4UXdOSGstUjN5Q0NOeElDR0l3ZTdhSmxrTmVlSzlic3BheVdDY3oyeWthbWp5WHIzVVdINkVHN2RUM1BR?oc=5)
-
----
-
-### [Test colorectal positif : le kit était gratuit, voici ce que la coloscopie vous coûte vraiment](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTVIZmgzaUlGZUdPTUZtZlNKcm1KeVZKMHpoUjFZY2xkc1NKWFQ3NGl1RlFibUpzRUFhREZ3TzNQUXpmSmlneWZxZ3U0UFA2S0FnbDNCMlA5TzZwYkNZV1NYU0xzSVlJUEEwRmpqZVc5U2VoVHpEbVUzalJFX0lUcm1JU2FOS2NhMmhFRTZoUGRUc0k?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span>
-
-Source: [Selectra](https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTVIZmgzaUlGZUdPTUZtZlNKcm1KeVZKMHpoUjFZY2xkc1NKWFQ3NGl1RlFibUpzRUFhREZ3TzNQUXpmSmlneWZxZ3U0UFA2S0FnbDNCMlA5TzZwYkNZV1NYU0xzSVlJUEEwRmpqZVc5U2VoVHpEbVUzalJFX0lUcm1JU2FOS2NhMmhFRTZoUGRUc0k?oc=5)
 
 ---
 

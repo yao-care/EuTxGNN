@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
 2026-10-11 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
-
----
-
-### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
 
 ---
 

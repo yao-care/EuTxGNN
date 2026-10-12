@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>32 news articles</strong>, with 20 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>34 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (34)
+
+### [Maesteg teen whose cancer returned after remission has clinical trial hope](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+---
 
 ### [Alzheimer kann frühzeitig im Schlaf feststellbar sein](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5McjVnak9NZXJKbkVCZEJJNlNPUUwyMDBfM3lRQjlxSGZ1QXdGdXVCSE1TSEZmV2toc2hVdWdRRUFYbnVSTHZiM0xhblp5d2hyUDhvWmtLN2hEN29Oc211T2hnczliU1ZHNURHWmdWNlFkTVVZUFVXLTZGOTBmWUs2RlhGaG5PczJFc25Od1BmN1JMOHVsem9DZFBrX0RZdU54c2ZqV1FBNjhObFBHTndpQkxIcC1UcnYtdjA3ZXM?oc=5)
 
@@ -67,6 +75,14 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5Mcj
 2026-10-11 <span class="news-indication-tag">depression</span>
 
 Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+
+---
+
+### ["Ça m’a sauvé de la dépression" : après le cancer, elles retrouvent le sourire grâce à la cure de La Roche-Posay](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
+
+Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
 
 ---
 
@@ -94,19 +110,19 @@ Source: [Fanpage](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTZXcFBEW
 
 ---
 
+### [Da lunedì al via la campagna antinfluenzale in Liguria: per chi è gratuito e come prenotare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVQ4aTRMejRWeXB5b2liWG16UDNPNDFFU3NvU2lCZGZOU2t0M1Q3Y3pOWE1ibllMMEFncmxlTUZyQzRBOExwZUU2SzZWTURCbWFfTkIxVG41R0hLcEZsX21oS2t6OGtTTTBKYU5KS0VfaU9CeDlqbzNGMDEtbDZRZjRrZnZCdndEMGNhODRtRl90S1Y0dnluUldlTDZRMXV6UDZLMUI1SE5vYTZCMWQ00gG0AUFVX3lxTE9rRXBua1B4QjhOcVV4c2JkN2lfN0pLN0hfV0RLMk42Z0JKVVM3bm9VQnU1WG5KU011Nng1MHdjTUFkOWlaV2haOWZVQnZxMkE3MXE3OUJFT25GSDRGSjhDcXlfdUhhQlIxM0VsZ0pZN3FNZHRJNnZkQ3p2SS1lTU1NaEhjQnVoVWljWnBhWnlHdUR1QjFTcUJpem1MNlplV1dmMTEwMDVIdUx4VVdpT0lQd2wxZQ?oc=5)
+
+2026-10-11 <span class="news-indication-tag">AF</span>
+
+Source: [Primocanale](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVQ4aTRMejRWeXB5b2liWG16UDNPNDFFU3NvU2lCZGZOU2t0M1Q3Y3pOWE1ibllMMEFncmxlTUZyQzRBOExwZUU2SzZWTURCbWFfTkIxVG41R0hLcEZsX21oS2t6OGtTTTBKYU5KS0VfaU9CeDlqbzNGMDEtbDZRZjRrZnZCdndEMGNhODRtRl90S1Y0dnluUldlTDZRMXV6UDZLMUI1SE5vYTZCMWQ00gG0AUFVX3lxTE9rRXBua1B4QjhOcVV4c2JkN2lfN0pLN0hfV0RLMk42Z0JKVVM3bm9VQnU1WG5KU011Nng1MHdjTUFkOWlaV2haOWZVQnZxMkE3MXE3OUJFT25GSDRGSjhDcXlfdUhhQlIxM0VsZ0pZN3FNZHRJNnZkQ3p2SS1lTU1NaEhjQnVoVWljWnBhWnlHdUR1QjFTcUJpem1MNlplV1dmMTEwMDVIdUx4VVdpT0lQd2wxZQ?oc=5)
+
+---
+
 ### [Alzheimer, Parkinson… Et si tout commençait dans un autre organe que le cerveau ? - 20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
 
 2026-10-11 <span class="news-indication-tag">dépression</span>
 
 Source: [20 Minutes](https://news.google.com/rss/articles/CBMitwFBVV95cUxQQU9Ob255YVdTdjU0VWhCTF9XZlV5S0JveGJzOWVaN2llaWgwUnRLZ2pNRzNSeGdaTGFXMVVQUS1XTEtDcUlUaFJaOFl1TzlwVDFqeUwzdDNyd2xiZHN2eTBaZEdCYmlmdm01ZlJpck9JZU5QYWduWGZhaUU0d2g2dlYzWVBsaUtEXzVlRGdTZTBPLUJhbjhSdXdobGRsQ2lpLTFLUVJqaTFROXhiTGRiWFNMYUExSHM?oc=5)
-
----
-
-### [Faut-il prendre des vitamines pour ne pas tomber malade cet automne ? La réponse d’une médecin - Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
-
-2026-10-11 <span class="news-indication-tag">AF</span>
-
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
 
 ---
 
@@ -230,22 +246,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQbXFmMl9l
 
 ---
 
-### [Forschende verwandeln alte Blut- in junge Hirnzellen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMC1STnR5OVpBTVhYZDV5QlU0RTl3MDdlS0x6RGRaUnNZUGhDbEZmX19XbmJSS1RBZGNqN2o1azRsMG9tQUlTVFlzWQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">AF</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMC1STnR5OVpBTVhYZDV5QlU0RTl3MDdlS0x6RGRaUnNZUGhDbEZmX19XbmJSS1RBZGNqN2o1azRsMG9tQUlTVFlzWQ?oc=5)
-
----
-
-### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
-
-2026-10-08 <span class="news-indication-tag">AF</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
-
----
-
 ### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
 2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
@@ -259,6 +259,22 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV9
 2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+
+---
+
+### [Hohes Eisenangebot könnte Beweglichkeit von Hirntumorzellen fördern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
+
+2026-10-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
+
+---
+
+### [Eating olive oil before carbs has a surprising effect on blood sugar - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
+
+2026-10-08 <span class="news-indication-tag">AF</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>19 news articles</strong>, with 20 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (17)
 
-### [Imidazolpropionat aus dem Darm: möglicher Verstärker der Alzheimer-Pathologie - it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
 
-2026-10-11 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmY4NEdxYldkaHlId2lZNlVLZjBacjU4TC1hN0dsSDIzd3FYNk12TXdmcmZKRTYyazFJZFNQTG9wYlF6UmFqQUhYUGdHcUtDTFhwZWJCN2MwVDdZQ2hUVGlvNG1kNElUdGpLSWtYNE1hTDFpTkl5cTRNWmU3TXhuQkVmU2pNU00zSUlRN0pJMHJuMURocnJaUXZjby1oR19YSnE5R1VFYXlKVkpQSlVj?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
 
 ---
 
@@ -70,19 +70,11 @@ Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95c
 
 ---
 
-### ['American Covid' rising in UK - pharmacist shares 12 symptoms to watch for - The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVidnFKdEZNTG1vb3NnQ0YtaTBxdnhUOVFnVmFiYnFiX1AxdmNWVGdlLVBUMUJJbFpJUTRJNkdfeVhWVDJWUnh2Ukh4R25nWThQQjBpZlo5X0dfcFFuWWk2dU1ULThhY3gwZDdSU21QOE5YeHAtZkpLalpPZXlucVpZRXY2YVA40gGOAUFVX3lxTFBvR0ZRUG1OSHpWNzZ2akV4QjZnU0oyZHdoRzJkQVJIeUcyWXZWclhuWEFFMktJTG5XY25DZ2tySUtHQTA0ai1qVkxUdWFjdEs0djBLM3dxdG5yVUtUUHJlVjZKdW04LUl2QkVXS191eXFqMXlUZE1KSlh4T3hFbmI1TTFLOS1abUdjdk0yNHc?oc=5)
+### ['American Covid' rising in UK - pharmacist shares 12 symptoms to watch for - Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVidnFKdEZNTG1vb3NnQ0YtaTBxdnhUOVFnVmFiYnFiX1AxdmNWVGdlLVBUMUJJbFpJUTRJNkdfeVhWVDJWUnh2Ukh4R25nWThQQjBpZlo5X0dfcFFuWWk2dU1ULThhY3gwZDdSU21QOE5YeHAtZkpLalpPZXlucVpZRXY2YVA40gGOAUFVX3lxTFBvR0ZRUG1OSHpWNzZ2akV4QjZnU0oyZHdoRzJkQVJIeUcyWXZWclhuWEFFMktJTG5XY25DZ2tySUtHQTA0ai1qVkxUdWFjdEs0djBLM3dxdG5yVUtUUHJlVjZKdW04LUl2QkVXS191eXFqMXlUZE1KSlh4T3hFbmI1TTFLOS1abUdjdk0yNHc?oc=5)
 
 2026-10-11 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVidnFKdEZNTG1vb3NnQ0YtaTBxdnhUOVFnVmFiYnFiX1AxdmNWVGdlLVBUMUJJbFpJUTRJNkdfeVhWVDJWUnh2Ukh4R25nWThQQjBpZlo5X0dfcFFuWWk2dU1ULThhY3gwZDdSU21QOE5YeHAtZkpLalpPZXlucVpZRXY2YVA40gGOAUFVX3lxTFBvR0ZRUG1OSHpWNzZ2akV4QjZnU0oyZHdoRzJkQVJIeUcyWXZWclhuWEFFMktJTG5XY25DZ2tySUtHQTA0ai1qVkxUdWFjdEs0djBLM3dxdG5yVUtUUHJlVjZKdW04LUl2QkVXS191eXFqMXlUZE1KSlh4T3hFbmI1TTFLOS1abUdjdk0yNHc?oc=5)
-
----
-
-### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjVidnFKdEZNTG1vb3NnQ0YtaTBxdnhUOVFnVmFiYnFiX1AxdmNWVGdlLVBUMUJJbFpJUTRJNkdfeVhWVDJWUnh2Ukh4R25nWThQQjBpZlo5X0dfcFFuWWk2dU1ULThhY3gwZDdSU21QOE5YeHAtZkpLalpPZXlucVpZRXY2YVA40gGOAUFVX3lxTFBvR0ZRUG1OSHpWNzZ2akV4QjZnU0oyZHdoRzJkQVJIeUcyWXZWclhuWEFFMktJTG5XY25DZ2tySUtHQTA0ai1qVkxUdWFjdEs0djBLM3dxdG5yVUtUUHJlVjZKdW04LUl2QkVXS191eXFqMXlUZE1KSlh4T3hFbmI1TTFLOS1abUdjdk0yNHc?oc=5)
 
 ---
 
@@ -126,14 +118,6 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
-### [Ocrelizumab bei RRMS: 82,2 Prozent bleiben zehn Jahre ohne Behinderungsprogression - AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdXSS1CR1AwRS1teHJTUUd1OXFpcmR2TDJIa0l2aGkwS21pWDBoSnNiR0JFbXhta2VXZTNjYTlnYW4tb3hITXBNaUliUllWazY1N1B6WWMxVE92bWtqWWJXY1FtYlJCUEpvVkJxSVh2cEFmam1NaGlNU1U5VVZ6amFKMXZnQXF3WUpNUUQ5RVBOYWdmUk1KZXNVa185YXRIZTJ0ZUl3RFJ4QQ?oc=5)
-
-2026-10-09 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDdXSS1CR1AwRS1teHJTUUd1OXFpcmR2TDJIa0l2aGkwS21pWDBoSnNiR0JFbXhta2VXZTNjYTlnYW4tb3hITXBNaUliUllWazY1N1B6WWMxVE92bWtqWWJXY1FtYlJCUEpvVkJxSVh2cEFmam1NaGlNU1U5VVZ6amFKMXZnQXF3WUpNUUQ5RVBOYWdmUk1KZXNVa185YXRIZTJ0ZUl3RFJ4QQ?oc=5)
-
----
-
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 2026-10-09 <span class="news-indication-tag">hepatitis</span>
@@ -147,14 +131,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhi
 2026-10-09 <span class="news-indication-tag">MS</span>
 
 Source: [RA-sante.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVdYSlpiaktGaktaRDBqTXdNbWZSNEFMbFU2MWR1UGJXcW83cUNGUFlENWx0MjZ3S2JZLUhac2lRS2NHeGR0bXp2ZUp5VlA4SXJyeUtmT3RBNWI3VHhITXIwUndzUmJqTW83UTUydDJsaGhseGhNdFh1bVlCV3cxTll2U3ZWY3JVTmk3aA?oc=5)
-
----
-
-### [UKHSA confirms ‘stay at home’ rule for two Covid symptoms - Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
-
-2026-10-09 <span class="news-indication-tag">MS</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE1oelFTVG5WOURDalY2LVB1MVJaQWJCcjhnNVlMNHVHQVp2VVJONWotQ1MwQjFhRE1yWnA2eGNSOXRjZkUyTnM2cWd6RFh3a1FEZVRJSHVRcFQwNnVSMWJVX3UyUzdXSnhob1hwLWhVSFpBNmhJNVBfTjVLWdIBgAFBVV95cUxQcFRKZHhQN1BTM21LY2x4dHVjN1g4WTlNdHBxUnFncFladDBuTzY3cU14eVNYYzk3bzk0M0tpR2tLWk1DSXFHeEtvQWhyQnJrbUtfQlFKRy1VYnowcmkyNDBNdkRpQ3R6Qy1sRDJURFFlc29SZENpUy1Ya2tYZUpfSg?oc=5)
 
 ---
 
@@ -182,6 +158,14 @@ Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ
 
 ---
 
+### [These Seemingly Minor Symptoms Could Actually Be Signs Of Diabetes](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
+
+2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [HuffPost](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
+
+---
+
 ### [Meteo estremo, cibo contaminato, ricoveri lunghi. A Roma è boom di Epatite A: perché c'è da preoccuparsi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
 
 2026-10-08 <span class="news-indication-tag">epatite</span>
@@ -190,11 +174,11 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWd
 
 ---
 
-### [Chronische Darmentzündung: Ein blockierter Energiestoffwechsel als Heilungsbremse - PTA IN LOVE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlhKMUtMa1FiWHZwSHMzMkhIMHplTHh0aVlQZXNTVE13dFJhWVZqT3BzQkZ4OEpNcEU3N3N3cG1MZlEwV1JUMDNuU3JZVXRXWWtxSloxM0hQbTZGdEJ1aW5wZDhhUjZId1I0NDM1SFpUSks4MjY0OXZHOWk4QmRaLXp4VXJuRk9IZjYydkxHbWhVaWpiaDQyc0NEdTJka0dPWVU5YXY1MmJkbk02WVE?oc=5)
+### [Mögliche Leberschäden unter MS-Arzneimittel Ocrelizumab - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRyWldISVBpaFluVHdHZVVvMk1JNFNuSFZpTllxR1EwX1cwVnR0X2lrTnhqZUgtNUJNak82R0sxQnBMdGk1S1NDMThIdG5uVEUtd2FCVmtjN2hHYmZfczJXVlhOcHJDNS04QjVJbzh3cC1HTU5lejBIUXV4M0d5TEh6TExMT3ZPNTZydXBqdEJYQndYLXhjYmZJVzBHQVN5UzZndmZYYlNWSHJKUzJhaDd3bw?oc=5)
 
-2026-10-07 <span class="news-indication-tag">MS</span>
+2026-10-08 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
-Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlhKMUtMa1FiWHZwSHMzMkhIMHplTHh0aVlQZXNTVE13dFJhWVZqT3BzQkZ4OEpNcEU3N3N3cG1MZlEwV1JUMDNuU3JZVXRXWWtxSloxM0hQbTZGdEJ1aW5wZDhhUjZId1I0NDM1SFpUSks4MjY0OXZHOWk4QmRaLXp4VXJuRk9IZjYydkxHbWhVaWpiaDQyc0NEdTJka0dPWVU5YXY1MmJkbk02WVE?oc=5)
+Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRyWldISVBpaFluVHdHZVVvMk1JNFNuSFZpTllxR1EwX1cwVnR0X2lrTnhqZUgtNUJNak82R0sxQnBMdGk1S1NDMThIdG5uVEUtd2FCVmtjN2hHYmZfczJXVlhOcHJDNS04QjVJbzh3cC1HTU5lejBIUXV4M0d5TEh6TExMT3ZPNTZydXBqdEJYQndYLXhjYmZJVzBHQVN5UzZndmZYYlNWSHJKUzJhaDd3bw?oc=5)
 
 ---
 

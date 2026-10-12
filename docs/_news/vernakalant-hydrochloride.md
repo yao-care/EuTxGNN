@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Vernakalant Hydrochloride wi
 
 ## Related News (34)
 
+### [Maesteg teen whose cancer returned after remission has clinical trial hope](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wRVV6dmQxelFkSzBHQ0haZEZjcU9RakVWSGNxd0JzT2ZYNmpQUS1XdDZPc2YxTHVseWdjR3V0QUtUekhoRFpLZkF4cnRhNjN6enF3TlotYUFjbjlkeFE?oc=5)
+
+---
+
 ### [Alzheimer kann frühzeitig im Schlaf feststellbar sein](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZk5McjVnak9NZXJKbkVCZEJJNlNPUUwyMDBfM3lRQjlxSGZ1QXdGdXVCSE1TSEZmV2toc2hVdWdRRUFYbnVSTHZiM0xhblp5d2hyUDhvWmtLN2hEN29Oc211T2hnczliU1ZHNURHWmdWNlFkTVVZUFVXLTZGOTBmWUs2RlhGaG5PczJFc25Od1BmN1JMOHVsem9DZFBrX0RZdU54c2ZqV1FBNjhObFBHTndpQkxIcC1UcnYtdjA3ZXM?oc=5)
 
 2026-10-11 <span class="news-indication-tag">AF</span>
@@ -94,11 +102,11 @@ Source: [Fanpage](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTZXcFBEW
 
 ---
 
-### [Faut-il prendre des vitamines pour ne pas tomber malade cet automne ? La réponse d’une médecin - Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+### [Da lunedì al via la campagna antinfluenzale in Liguria: per chi è gratuito e come prenotare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVQ4aTRMejRWeXB5b2liWG16UDNPNDFFU3NvU2lCZGZOU2t0M1Q3Y3pOWE1ibllMMEFncmxlTUZyQzRBOExwZUU2SzZWTURCbWFfTkIxVG41R0hLcEZsX21oS2t6OGtTTTBKYU5KS0VfaU9CeDlqbzNGMDEtbDZRZjRrZnZCdndEMGNhODRtRl90S1Y0dnluUldlTDZRMXV6UDZLMUI1SE5vYTZCMWQ00gG0AUFVX3lxTE9rRXBua1B4QjhOcVV4c2JkN2lfN0pLN0hfV0RLMk42Z0JKVVM3bm9VQnU1WG5KU011Nng1MHdjTUFkOWlaV2haOWZVQnZxMkE3MXE3OUJFT25GSDRGSjhDcXlfdUhhQlIxM0VsZ0pZN3FNZHRJNnZkQ3p2SS1lTU1NaEhjQnVoVWljWnBhWnlHdUR1QjFTcUJpem1MNlplV1dmMTEwMDVIdUx4VVdpT0lQd2wxZQ?oc=5)
 
 2026-10-11 <span class="news-indication-tag">AF</span>
 
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+Source: [Primocanale](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVQ4aTRMejRWeXB5b2liWG16UDNPNDFFU3NvU2lCZGZOU2t0M1Q3Y3pOWE1ibllMMEFncmxlTUZyQzRBOExwZUU2SzZWTURCbWFfTkIxVG41R0hLcEZsX21oS2t6OGtTTTBKYU5KS0VfaU9CeDlqbzNGMDEtbDZRZjRrZnZCdndEMGNhODRtRl90S1Y0dnluUldlTDZRMXV6UDZLMUI1SE5vYTZCMWQ00gG0AUFVX3lxTE9rRXBua1B4QjhOcVV4c2JkN2lfN0pLN0hfV0RLMk42Z0JKVVM3bm9VQnU1WG5KU011Nng1MHdjTUFkOWlaV2haOWZVQnZxMkE3MXE3OUJFT25GSDRGSjhDcXlfdUhhQlIxM0VsZ0pZN3FNZHRJNnZkQ3p2SS1lTU1NaEhjQnVoVWljWnBhWnlHdUR1QjFTcUJpem1MNlplV1dmMTEwMDVIdUx4VVdpT0lQd2wxZQ?oc=5)
 
 ---
 
@@ -139,14 +147,6 @@ Source: [Telegraph and Argus](https://news.google.com/rss/articles/CBMipgFBVV95c
 2026-10-11 <span class="news-indication-tag">AF</span>
 
 Source: [El Destape](https://news.google.com/rss/articles/CBMi8AFBVV95cUxORm1ObXNiUWhHQXVHSXdGRVhrTjFyV1h6Ylo4aXAxQ0ZQay1zQUU2Q05tbWZ4NllPRTV3RDJ6X3BxRWduaDZ0Szk3OGV4VDlRdFczR3FBLWZyRE9rNVZGVDlZb3FfaGp3Zlh5ZF9JazR1bVh2M1RhdEpBOWM1MXk4eVBDSlVuZDdyLXBKeVBQcXJNMFowLTVRR3hhemstZHNITGpGa2VidnVuRThjNENIODJiVU1UYVNVMjN2YzZrUFNha0FlTjNrbjQ4RVBDWm82R3ZjM2Z2VTdCamstR1puMVRKNElLdzd0cHFRSTlrRljSAYQCQVVfeXFMTm9GM2p6eGRmam5KcTRDNXV3S3hBMVRzdVVLNzZvM2VBT1htQXdnOU8xLXJZRHpmcW1adng1Wjlkei04SkYyRUxTaWNkWXFTbHkxT2J6WkJIdFdIWmNwWHM4Y3dfblByYy0tcmUyNHN4X1E5YVpNay1tN24zeWFvRFlHX251bDdrdXBaRWRNcjVjZVFUVGhoM0N4cU55dDlHQkFTdVN1ZEljdnFKQ21Gem1JX1B2by1SR2xILWo4blhpc2VfM3RzZUlsc0t2SjdoeFg4NVlpZnZ3U3pLMV9PcllDaEtCajlUSUFEX0R3aUtNdm1iM0RIeWs1Smh1MEc0VWtlVXg?oc=5)
-
----
-
-### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
 
 ---
 
@@ -246,22 +246,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMingFBVV95cUxQbXFmMl9l
 
 ---
 
-### [Forschende verwandeln alte Blut- in junge Hirnzellen - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMC1STnR5OVpBTVhYZDV5QlU0RTl3MDdlS0x6RGRaUnNZUGhDbEZmX19XbmJSS1RBZGNqN2o1azRsMG9tQUlTVFlzWQ?oc=5)
-
-2026-10-09 <span class="news-indication-tag">AF</span>
-
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fMC1STnR5OVpBTVhYZDV5QlU0RTl3MDdlS0x6RGRaUnNZUGhDbEZmX19XbmJSS1RBZGNqN2o1azRsMG9tQUlTVFlzWQ?oc=5)
-
----
-
-### [Consuming fat before carbohydrates reduces post-meal blood glucose](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
-
-2026-10-08 <span class="news-indication-tag">AF</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVZxWkJNTkQwN2FzYmtyMllOQ0F0YzZXMl9XRTJCOXV1bktuMGpmdEQzai1VQ2lINjQzbTlKcVVCbjYzc0hkeXpDV3BCMHhVWUF4UHM4aHQ2UGZaUExXOUxhQl8zY2JySTVGODFHVmw5QTVMVE5mTnd3aVNVNnBjSFFXVGpLSmZTRHdMU3BkdzJNOUpfTUI5M2h3bUYta05VcjZtUnNpNGg2VTM4OV9zX0h1QXc?oc=5)
-
----
-
 ### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
 2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
@@ -275,6 +259,22 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV9
 2026-10-08 <span class="news-indication-tag">obesity</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+
+---
+
+### [Hohes Eisenangebot könnte Beweglichkeit von Hirntumorzellen fördern - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
+
+2026-10-08 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1FzOGFiZm4zczFYa243R1dOcjNsT1Y2XzdwaVJaQWUtWUVyLUlxaEUyZmZ1bmZNNEY3TDdySHd3SUV0V1lyckY2NW1kVV9aVXhVdzZhSWhaWGZNbDdBS3hMdXhaZndxZ0U0U2lTX29KcC1sWEw5aHIwSkhtODE5OVI0V0hvTHl2eHJVR2xobEFjNVg0Zm5EZFhOU2tacGxwNWl3bkdwTmIzNlZmSGhCN1NvcmU?oc=5)
+
+---
+
+### [Eating olive oil before carbs has a surprising effect on blood sugar - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
+
+2026-10-08 <span class="news-indication-tag">AF</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
 
 ---
 
