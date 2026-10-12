@@ -56,17 +56,17 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
-2026-10-09 <span class="news-indication-tag">hepatitis</span>
+2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
 ---
 
-### [Meteo estremo, cibo contaminato, ricoveri lunghi. A Roma è boom di Epatite A: perché c'è da preoccuparsi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
+### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
-2026-10-08 <span class="news-indication-tag">epatite</span>
+2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
 ---
 

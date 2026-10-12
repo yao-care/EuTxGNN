@@ -54,14 +54,6 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 
 ## Related News (8)
 
-### [Frühzeitige Behandlung von Depressionen verbessert die Überlebensrate bei Krebs - Biermann Medizin](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0l2RGQ5Y0UyZHpQQ3JMRDJfYXctM0JQM1J3dTA5b0NrN2hJMXVuel9kT1Z5N1NMVDByUEcyMHRaeWNKVnlLVEpZczVCUEtHQ3lzdGJKaF9MM1AyOVE4WFhyVmFHUlVKa0FXTUtJeFlFTmplc29ZUEtTMUpGd1Z3bkNQdlN0cmd1TWdmUlJ3SnZ2WTB6dnktT2dLZ211MGRuY0p6TWJGakwxZXdLMFlZ?oc=5)
-
-2026-10-12 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">depression</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0l2RGQ5Y0UyZHpQQ3JMRDJfYXctM0JQM1J3dTA5b0NrN2hJMXVuel9kT1Z5N1NMVDByUEcyMHRaeWNKVnlLVEpZczVCUEtHQ3lzdGJKaF9MM1AyOVE4WFhyVmFHUlVKa0FXTUtJeFlFTmplc29ZUEtTMUpGd1Z3bkNQdlN0cmd1TWdmUlJ3SnZ2WTB6dnktT2dLZ211MGRuY0p6TWJGakwxZXdLMFlZ?oc=5)
-
----
-
 ### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
 2026-10-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
@@ -75,6 +67,14 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAF
 2026-10-11 <span class="news-indication-tag">dépression</span>
 
 Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
+
+---
+
+### [The 3p pill and 6 other hacks to fight SAD - as this year feared to be worst yet - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dEeVpoaFpGZnBtdTBYczQ5TnJiVFZudEUzczQzSUM1LXJveEFtQ3RKWm91NG5MR1RaWk1EWmxXQ3F4eW1HaGFFUjVRN0xtX0xHcU9PQUNSd1lKeEpVem5INUI1Nkd6YjVhYmhocmJWZGtKUzAyaU9NU2xxeUJSQ29XS04tSDNUZ2F0Mkszb3RCcnpjQjJR?oc=5)
+
+2026-10-11 <span class="news-indication-tag">depression</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dEeVpoaFpGZnBtdTBYczQ5TnJiVFZudEUzczQzSUM1LXJveEFtQ3RKWm91NG5MR1RaWk1EWmxXQ3F4eW1HaGFFUjVRN0xtX0xHcU9PQUNSd1lKeEpVem5INUI1Nkd6YjVhYmhocmJWZGtKUzAyaU9NU2xxeUJSQ29XS04tSDNUZ2F0Mkszb3RCcnpjQjJR?oc=5)
 
 ---
 
@@ -110,11 +110,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm
 
 ---
 
-### [Der Tod ihrer Patienten geht Herzmedizinern oft sehr nahe](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
+### [Vous êtes fatigué en ce début d’automne ? C’est normal mais vous pouvez y remédier - Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
 
-2026-10-06 <span class="news-indication-tag">depression</span>
+2026-10-10 <span class="news-indication-tag">dépression</span>
 
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOU01MVdZdDZLRkJpZm9oTWZld0RuQ1IwcjNVZWNZb0kwTmpsdlJFNUhrZDFmOFlCTFRwU09RWE13SV9vbHNIbFc2QWV5dG4yMmYzaFEwUUtxSjV2UlBVbWlnOUp4YlN0ZHFkTmZlZHJwZVByZURQd19oTUFBVFI0RGR5VTI5RjM1ajZSRFNOUG5WQW1DMTZuOF9ITE1FT3pWQk9OMmlRYVZEZndsZG1FZndHQ2xXSGgxN1E?oc=5)
+Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
 
 ---
 

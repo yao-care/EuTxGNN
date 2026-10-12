@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
+
+### [Global dementia cases set to hit 25 million every year by 2050 - 14 surprising ways to slash your risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">dementia</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
+
+---
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">kidney failure</span>
+2026-10-11 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">kidney failure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
-
----
-
-### [Hormone Therapy May Help Improve Menopause Brain Fog, Mood Changes](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
-
-2026-10-11 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [Healthline](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
-
----
-
-### [11 ways to make the most of life after a dementia diagnosis - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
 
 ---
 

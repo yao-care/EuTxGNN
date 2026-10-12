@@ -14,7 +14,7 @@ permalink: /news/grazoprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
 
-### ['Our newborn baby nearly died from Group B Strep'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kb1NBR09LVG5yd3BfVS1CZk9hM2JJOGt0LTNyeC10MFVaS0MyVEI0dmtCdE1SX3hzTGhoaE1VMFJPdVNuSnBRTzBaQjA5VV9xcjFpZDgyMGhsb3pqTkE?oc=5)
-
-2026-10-12 <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kb1NBR09LVG5yd3BfVS1CZk9hM2JJOGt0LTNyeC10MFVaS0MyVEI0dmtCdE1SX3hzTGhoaE1VMFJPdVNuSnBRTzBaQjA5VV9xcjFpZDgyMGhsb3pqTkE?oc=5)
-
----
-
-### ['American Covid' XFG variant: 12 symptoms to watch for as cases rise in the UK - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQejQzakxZcENubjVpa0VUbHIyMmttWThQLTRpSmJkVjlLUVE1X0I0cHBsT3NNa05aNWNhQ2ttOVJ5emZWQ1V1SUpLcEM1dGxlYzNGNkN1bmlWMWhrSWtyMmhGYVFyczlEV3RaWWRCbnZtWlFSang1dEVPNG5KX2pOYw?oc=5)
+### [Arranca la campaña ‘Herencias Delicadas’ para visibilizar el cáncer de mama hereditario](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEdKa05LWXQyZ2ZIRXhfVzhnWG1hZE93aFd6cGFhTWl4NWRod042aGZCT0NKS293RW1qRjZ1YWpOd1QzY1ZkeDk3UGotcHpkLWhXUlFENEE2anRLWVdlU0hOT0NpN0hrcE5iUVMzRGFmdUtTeWU3X2JZY0pCQ3poT0dBU2xzbUZ1R3Fja1dySUowbXI4QWhDRTMzajM1TjkzNDdiS3JFb1l4VXBoa0pCNXB4Wld1OUhoV2NGMnNoaw?oc=5)
 
 2026-10-12 <span class="news-indication-tag">MS</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQejQzakxZcENubjVpa0VUbHIyMmttWThQLTRpSmJkVjlLUVE1X0I0cHBsT3NNa05aNWNhQ2ttOVJ5emZWQ1V1SUpLcEM1dGxlYzNGNkN1bmlWMWhrSWtyMmhGYVFyczlEV3RaWWRCbnZtWlFSang1dEVPNG5KX2pOYw?oc=5)
+Source: [Servimedia](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSEdKa05LWXQyZ2ZIRXhfVzhnWG1hZE93aFd6cGFhTWl4NWRod042aGZCT0NKS293RW1qRjZ1YWpOd1QzY1ZkeDk3UGotcHpkLWhXUlFENEE2anRLWVdlU0hOT0NpN0hrcE5iUVMzRGFmdUtTeWU3X2JZY0pCQ3poT0dBU2xzbUZ1R3Fja1dySUowbXI4QWhDRTMzajM1TjkzNDdiS3JFb1l4VXBoa0pCNXB4Wld1OUhoV2NGMnNoaw?oc=5)
 
 ---
 
-### [Scandal-hit NHS trust has no record of ‘mystery’ surgeon linked to woman's operation - The Northern Echo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkQ4Uy1nLTZiVVpZRzJBY1BlbEF4REZRdEMweEJmMjY2XzZpVGRNVjhDOThud1ZCQ3ZiYmhoY1Vmai1yYWNUOUlzVVhhZTRMekZROEo0QUU3dHFteWk0cl9ITWxRbGZyM2thRW81MkVPT2pRMzktRzJjams1ZldHWldseGtVQWhRZHc3cHlSMFBPcUNrMlR6eVlVTXZKR3pSWFpJTHFlZmRxR1J4dWVB?oc=5)
+### [Größte Studie zu Wechseljahren: Die Menopause ist „ein physiologischer Einschnitt“](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazZ4TnhPUllTTy1LMW5lNGNlVU1VMWhobk5Kc1FHeUVQTDhuVkQxLXJ6aGtqZFNZUjJwLUFkRzJuX01GY0tBbE9FNXY4Y3U1TGEyTWVBTDBwdXhGSC1BdGE0X2NoZnRLTmtwblpMVi1PVnloRERnR2Y1ZDFQYUlFa3lrQWxrcHJLbWRvdkw4czBDSXhOMTVXbGhDUV91dE14eTlPVE43YlNDYXdxWGgyc2pXWk8taTN2U3h3anJabVNXbWc4eThjbQ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-12 <span class="news-indication-tag">MS</span>
 
-Source: [The Northern Echo](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkQ4Uy1nLTZiVVpZRzJBY1BlbEF4REZRdEMweEJmMjY2XzZpVGRNVjhDOThud1ZCQ3ZiYmhoY1Vmai1yYWNUOUlzVVhhZTRMekZROEo0QUU3dHFteWk0cl9ITWxRbGZyM2thRW81MkVPT2pRMzktRzJjams1ZldHWldseGtVQWhRZHc3cHlSMFBPcUNrMlR6eVlVTXZKR3pSWFpJTHFlZmRxR1J4dWVB?oc=5)
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazZ4TnhPUllTTy1LMW5lNGNlVU1VMWhobk5Kc1FHeUVQTDhuVkQxLXJ6aGtqZFNZUjJwLUFkRzJuX01GY0tBbE9FNXY4Y3U1TGEyTWVBTDBwdXhGSC1BdGE0X2NoZnRLTmtwblpMVi1PVnloRERnR2Y1ZDFQYUlFa3lrQWxrcHJLbWRvdkw4czBDSXhOMTVXbGhDUV91dE14eTlPVE43YlNDYXdxWGgyc2pXWk8taTN2U3h3anJabVNXbWc4eThjbQ?oc=5)
+
+---
+
+### [L'Oms è certa: "Ci sarà una nuova pandemia". Ma quando? - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlBlRW9jeTh2T2pIMEtpM2VxX1NqVkZma3BqOWNiLWxZS18yYTJBSEVndlpXNkdBcHN5Qkl5UEY1UHZ6VTlrVmJGT3V1WkU1VXV0bVI5dUhqdjB4TEdaVWRZV05FeFhIMnZNcGE4bGRyQW5DR2xaR01OTVhQc2ZpX2xRcWNtR2RVQ1FvVTJKSHRiOFVJaFoxZFNqWFlFNEnSAaQBQVVfeXFMTVNMdXdMX0ZSdFBzbUM3bXhJRk03TGxWZ2p2NTh1QmJaemFra1lRZDY5MnFIVkNUUkhDbGtJd3BYb3R0TXhlWU9Wal9OMjZKdmF6UkFRcXZNYWd4cDcyS0tYS1BiNWJ5WWYtQ2g0YXVQOWlXZThmWVFxREViTFFWTVBMNVZ2NW9Kei13QnpobEtZVGl2MTdZbWF5eUdNZEhtZi15Yl8?oc=5)
+
+2026-10-12 <span class="news-indication-tag">MS</span>
+
+Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlBlRW9jeTh2T2pIMEtpM2VxX1NqVkZma3BqOWNiLWxZS18yYTJBSEVndlpXNkdBcHN5Qkl5UEY1UHZ6VTlrVmJGT3V1WkU1VXV0bVI5dUhqdjB4TEdaVWRZV05FeFhIMnZNcGE4bGRyQW5DR2xaR01OTVhQc2ZpX2xRcWNtR2RVQ1FvVTJKSHRiOFVJaFoxZFNqWFlFNEnSAaQBQVVfeXFMTVNMdXdMX0ZSdFBzbUM3bXhJRk03TGxWZ2p2NTh1QmJaemFra1lRZDY5MnFIVkNUUkhDbGtJd3BYb3R0TXhlWU9Wal9OMjZKdmF6UkFRcXZNYWd4cDcyS0tYS1BiNWJ5WWYtQ2g0YXVQOWlXZThmWVFxREViTFFWTVBMNVZ2NW9Kei13QnpobEtZVGl2MTdZbWF5eUdNZEhtZi15Yl8?oc=5)
+
+---
+
+### ['American Covid' XFG variant: 12 symptoms to watch for as cases rise in the UK - Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQejQzakxZcENubjVpa0VUbHIyMmttWThQLTRpSmJkVjlLUVE1X0I0cHBsT3NNa05aNWNhQ2ttOVJ5emZWQ1V1SUpLcEM1dGxlYzNGNkN1bmlWMWhrSWtyMmhGYVFyczlEV3RaWWRCbnZtWlFSang1dEVPNG5KX2pOYw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">MS</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxQejQzakxZcENubjVpa0VUbHIyMmttWThQLTRpSmJkVjlLUVE1X0I0cHBsT3NNa05aNWNhQ2ttOVJ5emZWQ1V1SUpLcEM1dGxlYzNGNkN1bmlWMWhrSWtyMmhGYVFyczlEV3RaWWRCbnZtWlFSang1dEVPNG5KX2pOYw?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX
 2026-10-11 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Express](https://news.google.com/rss/articles/CBMie0FVX3lxTE0tSkFMTktlZ3JvZFJjT3p0Q2ZDQjdQQWwtaUNOZHBaZEZ3UUNtMGdQQ0l5UERXYW12aDFwZW5ZTFVDM1RhNWxoTDZXY0V1QTBUZzkzVWo3bnpPQ3hlLV9fdzhCRG5LM3hGeG1CQUl0UUplaWZQa1FrRklCNNIBgAFBVV95cUxOWFBjVTROMkdDNEFMQTUxWnNZZUJ3dUw5QkNrTVlwNWNBTmVKaWpYVmtRTDF5bTIxM0c3Vmg1QkVfVXhQaTcxbTU0THlVTHRJUzgxbG5UYjBYeU5GUU1BZmRxTzNyTVVESXI2Z2V5UEZxQzAwWUg2Tmp4b0pnbzIxTg?oc=5)
+
+---
+
+### [Flu cases higher than usual in England during September, experts say - The Guardian](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnBpRjNLOGpMc2lFNjBXblRVOXhLeFBFVkVXSk1uZlIxTjVNNmctbVF5bzdmSFhGR0M4c2l5S1A2empFazQ0ZnZGTUd4bGJLQ2ZHRlV2bWVUOC1iVWljTVhRUHVqZnBXdTZnSnNEU2ZCWlNja3hEMEtwaEFXUDdhUjB0WG9ncldCT0wxZHRyeV9hQm5ZOUNVaW1sLWcwdlhGYzlIOUNjRTA5Sk5GbkE?oc=5)
+
+2026-10-11 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnBpRjNLOGpMc2lFNjBXblRVOXhLeFBFVkVXSk1uZlIxTjVNNmctbVF5bzdmSFhGR0M4c2l5S1A2empFazQ0ZnZGTUd4bGJLQ2ZHRlV2bWVUOC1iVWljTVhRUHVqZnBXdTZnSnNEU2ZCWlNja3hEMEtwaEFXUDdhUjB0WG9ncldCT0wxZHRyeV9hQm5ZOUNVaW1sLWcwdlhGYzlIOUNjRTA5Sk5GbkE?oc=5)
 
 ---
 
@@ -128,17 +144,9 @@ Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitgJBVV95cUxOTWxYY
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 
-2026-10-09 <span class="news-indication-tag">hepatitis</span>
+2026-10-09 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
-
----
-
-### [Grippe : le virus est déjà là, une mutation fait craindre le pire pour cet hiver !](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVdYSlpiaktGaktaRDBqTXdNbWZSNEFMbFU2MWR1UGJXcW83cUNGUFlENWx0MjZ3S2JZLUhac2lRS2NHeGR0bXp2ZUp5VlA4SXJyeUtmT3RBNWI3VHhITXIwUndzUmJqTW83UTUydDJsaGhseGhNdFh1bVlCV3cxTll2U3ZWY3JVTmk3aA?oc=5)
-
-2026-10-09 <span class="news-indication-tag">MS</span>
-
-Source: [RA-sante.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMVdYSlpiaktGaktaRDBqTXdNbWZSNEFMbFU2MWR1UGJXcW83cUNGUFlENWx0MjZ3S2JZLUhac2lRS2NHeGR0bXp2ZUp5VlA4SXJyeUtmT3RBNWI3VHhITXIwUndzUmJqTW83UTUydDJsaGhseGhNdFh1bVlCV3cxTll2U3ZWY3JVTmk3aA?oc=5)
 
 ---
 
@@ -150,19 +158,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTzdERC1nanc3R
 
 ---
 
-### [These Seemingly Minor Symptoms Could Actually Be Signs Of Diabetes](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
+### [Urin- und Vaginalzytologie könnten Erkennung des Endometriumkarzinoms vereinfachen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFhXREp5MU43TENyaEU3ZmNxcFJ1Y3hKV2NzbXpNSFVQa054djFRLUdlRFB2RHJ1ZUhYTGpXNmZ4UmpmYTF5OVZlRjVnZlJsWHdHdDFrdDY1RXpmN3hfUUxnQk95YVJuaE91Tkl1TnVoRUZyWjFsZmVqbXhXMFNUNHczeHpwY2tZcEhWUDRENlVKNkVwRFZMZkJJYkYtS3RsNkMxdjNjeG9ENDNaUUZyUzczSVlZVGYxSFlkWnA3bjZ1RzB6MFFLTlRHT0xyOWxyNkxJMF9yUFFMOFM4OTNtbjVhN3U?oc=5)
 
-2026-10-08 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-08 <span class="news-indication-tag">MS</span>
 
-Source: [HuffPost](https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5)
-
----
-
-### [Meteo estremo, cibo contaminato, ricoveri lunghi. A Roma è boom di Epatite A: perché c'è da preoccuparsi](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
-
-2026-10-08 <span class="news-indication-tag">epatite</span>
-
-Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWdqLVJ1Q3ZWMXpwdkhZV3VQUmVSUUgtN0lVbWE2c3R5X0NTMkM0d0o3T0lxZnNIN3RNQjFwNjBrQ0h6NVVpa1hncktLcW1QUS1UYTdvLURIZlhLSndtV3VKQXpESkJ0RmlUSU55OTNfRVFFbjNVUFZjN2p6T3o2NkN2d3dHMkQ0WA?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFhXREp5MU43TENyaEU3ZmNxcFJ1Y3hKV2NzbXpNSFVQa054djFRLUdlRFB2RHJ1ZUhYTGpXNmZ4UmpmYTF5OVZlRjVnZlJsWHdHdDFrdDY1RXpmN3hfUUxnQk95YVJuaE91Tkl1TnVoRUZyWjFsZmVqbXhXMFNUNHczeHpwY2tZcEhWUDRENlVKNkVwRFZMZkJJYkYtS3RsNkMxdjNjeG9ENDNaUUZyUzczSVlZVGYxSFlkWnA3bjZ1RzB6MFFLTlRHT0xyOWxyNkxJMF9yUFFMOFM4OTNtbjVhN3U?oc=5)
 
 ---
 
@@ -171,6 +171,14 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2ZMMWd
 2026-10-08 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span>
 
 Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRyWldISVBpaFluVHdHZVVvMk1JNFNuSFZpTllxR1EwX1cwVnR0X2lrTnhqZUgtNUJNak82R0sxQnBMdGk1S1NDMThIdG5uVEUtd2FCVmtjN2hHYmZfczJXVlhOcHJDNS04QjVJbzh3cC1HTU5lejBIUXV4M0d5TEh6TExMT3ZPNTZydXBqdEJYQndYLXhjYmZJVzBHQVN5UzZndmZYYlNWSHJKUzJhaDd3bw?oc=5)
+
+---
+
+### [Campaña de vacunación 2026/2027 contra la gripe y la covid-19 - Ajuntament de l'Eliana](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0VQYWlfZDdzZUdwbE9LSll1OGs0c0ZTNmFvbXRRTkx5eUdxbHFVaVY2a1Eyel8td0Y5eUZ4V1RyYnpMNHg5UUNyOTJCWXJMMVBlRkUwVkZMR1N4VU9XMkgxRWF3cjJJa3ptdVlxVGcxNV94emF2Y1RqMWVZMVVDbWFEdFRjWGhldHBr?oc=5)
+
+2026-10-07 <span class="news-indication-tag">MS</span>
+
+Source: [Ajuntament de l'Eliana](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0VQYWlfZDdzZUdwbE9LSll1OGs0c0ZTNmFvbXRRTkx5eUdxbHFVaVY2a1Eyel8td0Y5eUZ4V1RyYnpMNHg5UUNyOTJCWXJMMVBlRkUwVkZMR1N4VU9XMkgxRWF3cjJJa3ptdVlxVGcxNV94emF2Y1RqMWVZMVVDbWFEdFRjWGhldHBr?oc=5)
 
 ---
 

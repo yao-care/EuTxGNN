@@ -3,7 +3,7 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 2 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 1 articles, 26 related drugs."
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>1 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,21 +54,13 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Marie, 49 ans, atteinte d'un cancer du sein triple négatif : "je découvre une force que je ne pensais pas avoir"](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
 
 2026-10-12
 
 Source: [Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
-
----
-
-### [Vous êtes fatigué en ce début d’automne ? C’est normal mais vous pouvez y remédier - Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
-
-2026-10-10
-
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
 
 ---
 

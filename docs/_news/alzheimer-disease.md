@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,29 +44,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+### [Global dementia cases set to hit 25 million every year by 2050 - 14 surprising ways to slash your risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
 
 2026-10-12
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
 
 ---
 
-### [Hormone Therapy May Help Improve Menopause Brain Fog, Mood Changes](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
+### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 2026-10-11
 
-Source: [Healthline](https://news.google.com/rss/articles/CBMioAFBVV95cUxQRHd5cUZ4blFaX0cxc05uakhYeFB6aWpFdm1idTlyeE5NX2RzZ2IwSzc0UDlKWndzSnpiZk1Fejg5YXRXNHllYnVzMmhpT1lZajVHMFc3TVZoWVkzUTVwc1dDY1V4UXAwY2lKOXpDZVpEYmVUMi1LdXZzSWpSOHVoemRmbUoydndtallNcGZDeVFFU2lTY2RKVWtVOWVfSi1p?oc=5)
-
----
-
-### [11 ways to make the most of life after a dementia diagnosis - The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
-
-2026-10-10
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNDN1kwRmhMZWtYM0UxaFRyTm9sdHdkc0RhR2tRYUlydDlxWU9PU3FnaTlrQS16UEp1ei1sUy0xQlYyQVVHMnlWVkh0aFgzY0dHcWZGc1l0ZVEtZmNvLXJ2b3dqVXc0ZXVhR3Y5VHZvMm55blA5SzU3ZERPcVl3X2JJemlrYWVndnZYNzhYZnZ0TkY3LXFVYnNFSnpsSFg4T1FLUno1dndOZkkybEFxRHpJclVUWjhwYU5rYlpEWVVTNFowTTY5SjBjYw?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 ---
 

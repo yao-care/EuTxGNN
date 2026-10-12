@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <li>allergic asthma (100.0%)</li>
 <li>intrinsic asthma (100.0%)</li>
 <li>bronchitis (99.9%)</li>
-<li>asthma (99.9%)</li>
+<li class="indication-matched">asthma (99.9%)<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
 <li>dermatitis, atopic (99.8%)</li>
 <li>contact dermatitis (99.5%)</li>
@@ -62,11 +62,11 @@ Source: [Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90
 
 ---
 
-### [Vous êtes fatigué en ce début d’automne ? C’est normal mais vous pouvez y remédier - Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
+### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
-2026-10-10 <span class="news-indication-tag">EPOC</span>
+2026-10-06 <span class="news-indication-tag">asma</span>
 
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
+Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
 ---
 
