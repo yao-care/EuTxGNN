@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 
 ## Related News (2)
 
-### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
+### [¿Qué recomiendan las primeras directrices mundiales sobre obesidad en niños y adolescentes de la OMS? - Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
 
-2026-10-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+2026-10-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
-Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
+Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
 
 ---
 

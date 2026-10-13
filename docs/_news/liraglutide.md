@@ -14,7 +14,7 @@ permalink: /news/liraglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Liraglutide?">
-<strong>Liraglutide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Liraglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Liraglutide with the latest 
 <p><a href="{{ '/drugs/liraglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
 
 ### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
-
----
-
-### [Cholesterin: Diese Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
 ---
 
@@ -83,22 +75,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1
 2026-10-11 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
-
----
-
-### [Foundayo: Orforglipron senkt das vorhergesagte Diabetesrisiko um bis zu 57 Prozent](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHh2SG0xVVg2aDJMSzM0QWlsbW5aaHZwRUxGZDRzdEkweWlwdEhMYXJiajNPLTVWdWZFdUtyZGhWaWVXMndoYzNRUzcyQ3pNb1J3TF9Vd09qV3VsUk5mbnFVU3pwZnFLcWQwbDkwX1hfeDBodmp5RjBzN283VmkwbWJhRUo3cEJYZC1ZNVI0Zmh0TUx0NENBa2dRc0M3TXRKdkVKd2lxOVRnbTdhVldkQ2VJVlhFZUtwSUpaT1RvOA?oc=5)
-
----
-
-### [PCOS auch bei Normalgewicht: Meta-Analyse zeigt deutlich erhöhte Stoffwechselrisiken - it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHM5UXpoUy1xUHN4NjJFYlRYMDhPWFY5SHByblU2UXFSQ0dGMlpLaTZ5X2VqNnF6TFRjbjh4alZ6R1FXU2pyc1JrQ2tBU2tMRXU2anVDQmQwdGMwWDdabWstT3RkeW4xNzJpZ0N6Z2R5TTN5ZFhIRUdfWjA3RHpfRmpIQldMTmxlTlc4MUZMWVVsNTBUV2NxeTJSd2dKSklOMnd0a0JmbDVoNmZvU3BXVlNtajhLYnM?oc=5)
 
 ---
 
@@ -131,6 +107,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6
 2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
 Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Orales Orforglipron kann Basalinsulin ersetzen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWZFQ1lCUGlaWk9NUFIxSGJCTmZOeThDb1lXVlhmaXlfRVNQU0c5YlAxNmRGanBDc0wxZmhQb1ZsSF95dndMTnR2VC1aSDMta2JxZ2VGc3o1WTRFZ2VXYk5ielFWSVgxZlZkVjRxY0JFQzRzZGVrYWxhRjBjWWxMOTRBLWRRclljSzJlOEpfWjRkQlAwWkJXS0FCMjduN0h3R250V3JWcWZFNzc5NnhFWS1sRy1yRU56YnpnNzdONjM4bWpLYkVCcFNn?oc=5)
+
+2026-10-07 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWZFQ1lCUGlaWk9NUFIxSGJCTmZOeThDb1lXVlhmaXlfRVNQU0c5YlAxNmRGanBDc0wxZmhQb1ZsSF95dndMTnR2VC1aSDMta2JxZ2VGc3o1WTRFZ2VXYk5ielFWSVgxZlZkVjRxY0JFQzRzZGVrYWxhRjBjWWxMOTRBLWRRclljSzJlOEpfWjRkQlAwWkJXS0FCMjduN0h3R250V3JWcWZFNzc5NnhFWS1sRy1yRU56YnpnNzdONjM4bWpLYkVCcFNn?oc=5)
 
 ---
 

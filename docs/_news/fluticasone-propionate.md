@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Propionate?">
-<strong>Fluticasone Propionate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Propionate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Fluticasone Propionate with 
 <p><a href="{{ '/drugs/fluticasone-propionate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">asma</span>
-
-Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

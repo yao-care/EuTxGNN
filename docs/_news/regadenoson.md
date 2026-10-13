@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 
 ## Related News (1)
 
-### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 
-2026-10-06 <span class="news-indication-tag">asma</span>
+2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
-Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 
 ---
 

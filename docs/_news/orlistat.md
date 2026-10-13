@@ -56,9 +56,17 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ### [Überraschend klarer Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
 
-2026-10-12 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-13 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
+
+---
+
+### [¿Qué recomiendan las primeras directrices mundiales sobre obesidad en niños y adolescentes de la OMS? - Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
+
+2026-10-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
 
 ---
 
@@ -67,14 +75,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVu
 2026-10-12 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
-
----
-
-### [¿Cómo detener la obesidad infantil que ya se cuadruplicó? - El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
-
-2026-10-11 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-Source: [El Diario de Madryn](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUFiN190NGpINWJsRTJUWHdvWkxPN2RTVlo2bFhITDkyc0JHNDlaQjcyQlRXamZ2V0daQTRhSE81RndTUlR2cHF1MHEyc3FNeVdsbE5rNTBEbTFIQ2NOZkhKM2YwRTlncHVEVTRvSzVJX09GM0h2dnpsVlFFSzhXVlNpajFWY1lORGlZQXFyNUN4M3RQaF80?oc=5)
 
 ---
 

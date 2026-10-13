@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Marie, 49 ans, atteinte d'un cancer du sein triple négatif : "je découvre une force que je ne pensais pas avoir"](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
 
 Source: [Linfo.re](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWJnYm90RTNndHJYd0lSbTUzNVRyQjh0dXl0cFpRZUtxWWNMR0l5Z1JaMHByUUd0ZXF3SXBWdVdpbno5LW51S0hpZ194VmxELUk1bGlISHRiTTdWR1NjY0w1THhpLXdFbnN4VWF1OEs2R1ZtQ21qUWdXUlZBdlJabzhaVmhNUUpZd2RGNzRYM1VYQW1NNGhzOUpSd1JhWHQ1Tm1LWmUyOEdWV3JrbHdBUV9VdzJjZG5TaXktNUFfUzdXLVpObHVjWmtnWGZIYkU?oc=5)
-
----
-
-### [Notificaciones fantasma e hiperconexión digital - Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">asma</span>
-
-Source: [Consumer Eroski](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemR4TVRFLTVnZi1uVkFNYU11R2J1b0ZQLW9YVW4xUTl4M2g4U1N6NDlrNkc5VWJhZ0tBd3R3cERsZDlKaHZzU0FxcEJiR3B3UUZsbmlKZ256YzFvdFR3Z1pnUkZUVTl2QmFNUTBLaGFNelZSWTY1ZUxDSE5rblUySkhqQ2Y3QUtNTnJJ?oc=5)
 
 ---
 

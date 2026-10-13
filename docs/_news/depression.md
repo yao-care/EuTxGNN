@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 8 articles, 7 related drugs."
+description: "Health news about dépression (depression). 7 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>7 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
 2026-10-12
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
-
----
-
-### ["L'intestin est capable d'agir sur notre cerveau" : pourquoi l'Institut Pasteur mène des recherches sur le microbiote - TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
-
-2026-10-11
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
 
 ---
 

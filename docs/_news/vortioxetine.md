@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
 2026-10-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
-
----
-
-### ["L'intestin est capable d'agir sur notre cerveau" : pourquoi l'Institut Pasteur mène des recherches sur le microbiote - TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
-
-2026-10-11 <span class="news-indication-tag">dépression</span>
-
-Source: [TF1 Info](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWGt4T3ZyQ1p5bENLN0l3ZFY5V0I5b1psSXRBUHBQNXBHN1pyMGloM1F6bzZacnFkSmxRaDMwTDhVRGh1TE9OcF9JdU5vblhFcE4wOHBpUVRxMG0ydS11WHAxUUpOS0Zua3BqSXZpU3JIbFhIUVJlRFN0eUdOM05jcVJkNE5zbU1PVXN0TDFMN0hDR3ZYc3IxbkRoTUp5VXJyLS02RVNjM1MzWEZZaThuMjU1cHNCZWp4LU1rR2FWQTFSMjIwa09obVBwelMwOHhRdmZRS2pyNXFOVl9IRFZtSzBPSzRLV2R6V2F3?oc=5)
 
 ---
 
