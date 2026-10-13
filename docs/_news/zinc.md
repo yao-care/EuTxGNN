@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc?">
-<strong>Zinc</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Zinc</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Ces 10 aliments de saison pour renforcer son immunité avant l'hiver - 20 Minutes](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkYxY252am5UUmhrNHNWeUpQa3lGdlBQWUZuOWVXcG53ZmVKWTZDT0JSZnRSTWNaRWZPSWJ3VjRNR2dDWWJiSmk2ei1hNF9iZG9vbmpTQ0xFOUVocF9DbUt6QkYwRWl2Y3YxVHBha2JMc3J0V0dMelZVbUJ6WGxQZU5OUnFTRXQ0cHNISUg2QWVxTjFhbHZtWVdhakR3WWUxYVlNdA?oc=5)
-
-2026-10-10 <span class="news-drug-tag">Zinc</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkYxY252am5UUmhrNHNWeUpQa3lGdlBQWUZuOWVXcG53ZmVKWTZDT0JSZnRSTWNaRWZPSWJ3VjRNR2dDWWJiSmk2ei1hNF9iZG9vbmpTQ0xFOUVocF9DbUt6QkYwRWl2Y3YxVHBha2JMc3J0V0dMelZVbUJ6WGxQZU5OUnFTRXQ0cHNISUg2QWVxTjFhbHZtWVdhakR3WWUxYVlNdA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

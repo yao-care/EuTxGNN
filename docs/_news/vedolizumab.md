@@ -14,7 +14,7 @@ permalink: /news/vedolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Vedolizumab?">
-<strong>Vedolizumab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Vedolizumab</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,37 @@ This page combines the AI-predicted indications for Vedolizumab with the latest 
 <p><a href="{{ '/drugs/vedolizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (13)
 
-### [Farmaci antidiabetici, il TAR Lazio: «Anche i medici di famiglia possono effettuare la prima prescrizione - Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+2026-10-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+
+---
+
+### [La battaglia sui farmaci per il diabete nel Lazio: il Tar dà ragione ai medici, la Regione pronta al ricorso](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetic</span>
+
+Source: [RomaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+---
+
+### [Resultados positivos con safigliprón en adultos con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
+
+---
+
+### [Vacciner les enfants peut-il les protéger contre le diabète de type 1 ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabète</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95
 2026-10-13 <span class="news-indication-tag">diabète</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaG5nT0V6bHZlQ1ZDdHE5Ni1RQk1ZM2FxVEFSb0tlZGVkcDNmb0pXQ3VYT3JubW1rV1EtekRieG9OaTY5ODVVdlFITE9sSnBBSkJiSmtFVDBXOUp3aWVJWnI3QTI3RTZaRjdia0d3MEZSSmVSLVZ3UnJSSVltdmQxQUNEY2hKQ1M1S082blBhbXZZMFpSNVd4c2F2WTJsXzdISW1jeXV0ZkRya2N0UGRRbW0xU1kwbVE3MXpkSjdyOEwzUmMzVVgzcUNjcU9yX1VRai1ET3k1Mm5pcVlGWUJmaEJndw?oc=5)
-
----
-
-### [Hasta el 70% de los casos de EPOC están sin diagnosticar: «El paciente se limita para no ahogarse» - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0l3TG1VRi1IV3FXQU5LMmdMUF9QSDJjQTRKRXdmaXdVUFFCbXpnOWthV05NWU5JVFpraDhHNHQ4cWEzWGZOV2xGcGZ4VFdxdGxLUHI3WXJLaVNnQlNacWxGaGx6dEwtdlpDMWJyTmIxVXdFaVlOVGpJeHFPTkFEdkp2RnpFV0pZWC1IWm1yUk5rWmMwTlhQSV9vYTU5VFNmdzFhTk9Icjg3dU5iNzdJVdIBtgFBVV95cUxPbS13WVNtWUdybldBT212RVlsWnFaSlpYU2tHc1ZVV3dJQlFrMTNvLUptSEYxeEZKSXpsbDdQdjhJRUNMT0F4aGNMSlF2LTVVYjZNZVRBTmF5SEVBQ0Y1U1VybEJSYURTR21FRXhSOWNKa0F1SmFZX0tPVWdJNk5ZdkJ3YVlBUU1IYVYwUHZOX25vZWRhLWRJby1ZZTRGcjhnZWdrcV94QUZwVTh1Zng1dkZNQ2xMUQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">EPOC</span>
-
-Source: [Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0l3TG1VRi1IV3FXQU5LMmdMUF9QSDJjQTRKRXdmaXdVUFFCbXpnOWthV05NWU5JVFpraDhHNHQ4cWEzWGZOV2xGcGZ4VFdxdGxLUHI3WXJLaVNnQlNacWxGaGx6dEwtdlpDMWJyTmIxVXdFaVlOVGpJeHFPTkFEdkp2RnpFV0pZWC1IWm1yUk5rWmMwTlhQSV9vYTU5VFNmdzFhTk9Icjg3dU5iNzdJVdIBtgFBVV95cUxPbS13WVNtWUdybldBT212RVlsWnFaSlpYU2tHc1ZVV3dJQlFrMTNvLUptSEYxeEZKSXpsbDdQdjhJRUNMT0F4aGNMSlF2LTVVYjZNZVRBTmF5SEVBQ0Y1U1VybEJSYURTR21FRXhSOWNKa0F1SmFZX0tPVWdJNk5ZdkJ3YVlBUU1IYVYwUHZOX25vZWRhLWRJby1ZZTRGcjhnZWdrcV94QUZwVTh1Zng1dkZNQ2xMUQ?oc=5)
 
 ---
 
@@ -91,6 +107,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGw
 2026-10-12 <span class="news-indication-tag">diabetes</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
+
+---
+
+### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabete</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
 
 ---
 

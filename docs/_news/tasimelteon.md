@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Perinatale Depression mit erhöhter Säuglingssterblichkeit assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
+
+2026-10-12 <span class="news-indication-tag">depression</span>
+
+Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
+
+---
 
 ### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
@@ -70,27 +78,11 @@ Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFp
 
 ---
 
-### [The 3p pill and 6 other hacks to fight SAD - as this year feared to be worst yet - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dEeVpoaFpGZnBtdTBYczQ5TnJiVFZudEUzczQzSUM1LXJveEFtQ3RKWm91NG5MR1RaWk1EWmxXQ3F4eW1HaGFFUjVRN0xtX0xHcU9PQUNSd1lKeEpVem5INUI1Nkd6YjVhYmhocmJWZGtKUzAyaU9NU2xxeUJSQ29XS04tSDNUZ2F0Mkszb3RCcnpjQjJR?oc=5)
-
-2026-10-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0dEeVpoaFpGZnBtdTBYczQ5TnJiVFZudEUzczQzSUM1LXJveEFtQ3RKWm91NG5MR1RaWk1EWmxXQ3F4eW1HaGFFUjVRN0xtX0xHcU9PQUNSd1lKeEpVem5INUI1Nkd6YjVhYmhocmJWZGtKUzAyaU9NU2xxeUJSQ29XS04tSDNUZ2F0Mkszb3RCcnpjQjJR?oc=5)
-
----
-
 ### ["Ça m’a sauvé de la dépression" : après le cancer, elles retrouvent le sourire grâce à la cure de La Roche-Posay](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
 
 2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dépression</span>
 
 Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
-
----
-
-### [Antidepressiva in der Schwangerschaft erhöhen kein zusätzliches Autismus-ADHS-Risiko über Depression hinaus - it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
-
-2026-10-11 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
 
 ---
 

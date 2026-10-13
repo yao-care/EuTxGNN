@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,39 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
+
+### [Diferencia de obesidad clínica vs IMC - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDB0Y1VYQlJFYmJ4SWl6OWdaZVZJQVZsa1VUMUhIeldrRzRmekdNX2duc1JDMG5VWXNmQS1hSzNMR2plZ3lIYnQzNlMzTVBkYTFqejV4RGtQb0RfWXE3RVJSdWNaTWJmU01CLWJ5Q0dQenRiU1JxQU96d01WTXY1TVlZdjZ5RVJsTlU3ckVVWQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">obesidad</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDB0Y1VYQlJFYmJ4SWl6OWdaZVZJQVZsa1VUMUhIeldrRzRmekdNX2duc1JDMG5VWXNmQS1hSzNMR2plZ3lIYnQzNlMzTVBkYTFqejV4RGtQb0RfWXE3RVJSdWNaTWJmU01CLWJ5Q0dQenRiU1JxQU96d01WTXY1TVlZdjZ5RVJsTlU3ckVVWQ?oc=5)
+
+---
+
+### [Crece el cáncer de colon en América Latina: ¿existe un vínculo con la obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0tWVElLSmhndzBVb01vdzZNR3J3YWpfLUY2bGZReVA3OF9Pb01YVURScUNvU1lRM3FydmFpNGI1bjl4THJVN01FY2gwWUlTTVZuZDZBMEZLeDJ4VmlpLUpEVjJnOVRHdnBnR1hDUjhXd0lEOGpQVE04WUkzMk5ydDYtUG5LUFUtcEg2cDR0Q3NETDRCM2J2NUh3eWpsYWd5NktxU21XQ3FzcHh0aV9VQdIBtgFBVV95cUxOM1FOTldUSFlUeURuRmhuX1JzSXNGVlVzR2NOeEVreEtpR1k3VXV0d3drUVR3elRObFVIbVViTGxGdEowUl9sXzhyN0RRMkpYYTl3WXJNZER1ZXZDdnFVNE5ObjVfUHJlRDYxRUoyQmJZajctVWZ3Z3BLdFFuMndsRERjX0ZtXzVUZ1cyaS1vREpFbFhtVHNycFFvYzVVYmlHX1Fod1NMeFNVcExEdkpULUJGVGc0QQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">obesidad</span>
+
+Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0tWVElLSmhndzBVb01vdzZNR3J3YWpfLUY2bGZReVA3OF9Pb01YVURScUNvU1lRM3FydmFpNGI1bjl4THJVN01FY2gwWUlTTVZuZDZBMEZLeDJ4VmlpLUpEVjJnOVRHdnBnR1hDUjhXd0lEOGpQVE04WUkzMk5ydDYtUG5LUFUtcEg2cDR0Q3NETDRCM2J2NUh3eWpsYWd5NktxU21XQ3FzcHh0aV9VQdIBtgFBVV95cUxOM1FOTldUSFlUeURuRmhuX1JzSXNGVlVzR2NOeEVreEtpR1k3VXV0d3drUVR3elRObFVIbVViTGxGdEowUl9sXzhyN0RRMkpYYTl3WXJNZER1ZXZDdnFVNE5ObjVfUHJlRDYxRUoyQmJZajctVWZ3Z3BLdFFuMndsRERjX0ZtXzVUZ1cyaS1vREpFbFhtVHNycFFvYzVVYmlHX1Fod1NMeFNVcExEdkpULUJGVGc0QQ?oc=5)
+
+---
+
+### [Voici les 17 principales menaces qui pèseront sur la santé mondiale d’ici à 2100](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSExhRlo3VkpJdWxCdFVFemdWWGZ1RmhCMTIyTm85R2ZObHhJSmZzamhpeXV6cWNia085OFFSekxIdDVscGpNTG1HLUd5dFdrZzBDQjE2VTFOSjk1LW1nOXp2dU1PbTF4VXF1QjlRZGZNdEV6RUJ1cFRkdkxuSlB4Y0lVMDFrY0tvRmlZcmxjeEd6ZGVYRk9ZZUZBRDU0UmZIeVRxMG9hV2J1Wk1qdW00dUhJUUtOZ9IBuwFBVV95cUxOTHhvTXdEYzdBaXJVaklRMUdwSE9JZXN1R2tFMlVqdWFTX283em5VVFFKN01yREpxM2RYR19yN2szM2c3c0F5M193YllFQnVCbmVLU0hEWE9yNkt0Uno0SjJOODR0SXFXTE5YeTlLQmNPQm5ETHZXSFFJY0NkSkY1S0p4SzB0dDlEMkJ5b092aGljZjU4VnhVd1dTdFN5VnRHNFhTdk11SWVtWmUwMW1WNlN6SUt6T3cxaC1R?oc=5)
+
+2026-10-13 <span class="news-indication-tag">obésité</span>
+
+Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSExhRlo3VkpJdWxCdFVFemdWWGZ1RmhCMTIyTm85R2ZObHhJSmZzamhpeXV6cWNia085OFFSekxIdDVscGpNTG1HLUd5dFdrZzBDQjE2VTFOSjk1LW1nOXp2dU1PbTF4VXF1QjlRZGZNdEV6RUJ1cFRkdkxuSlB4Y0lVMDFrY0tvRmlZcmxjeEd6ZGVYRk9ZZUZBRDU0UmZIeVRxMG9hV2J1Wk1qdW00dUhJUUtOZ9IBuwFBVV95cUxOTHhvTXdEYzdBaXJVaklRMUdwSE9JZXN1R2tFMlVqdWFTX283em5VVFFKN01yREpxM2RYR19yN2szM2c3c0F5M193YllFQnVCbmVLU0hEWE9yNkt0Uno0SjJOODR0SXFXTE5YeTlLQmNPQm5ETHZXSFFJY0NkSkY1S0p4SzB0dDlEMkJ5b092aGljZjU4VnhVd1dTdFN5VnRHNFhTdk11SWVtWmUwMW1WNlN6SUt6T3cxaC1R?oc=5)
+
+---
+
+### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
+
+2026-10-13 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+
+Source: [Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
+
+---
 
 ### [¿Qué recomiendan las primeras directrices mundiales sobre obesidad en niños y adolescentes de la OMS? - Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
 
@@ -67,14 +99,6 @@ Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxO
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
----
-
-### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obésité</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
 
 ---
 

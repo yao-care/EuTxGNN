@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetic (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetic (diabetes mellitus). 9 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 13 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetic (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
-<strong>diabetic (diabetes mellitus)</strong> currently has <strong>9 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>13 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -114,13 +114,37 @@ This page brings together the latest health news about “diabetic” and lists 
 </ul>
 </div>
 
-## Related News (9)
+## Related News (13)
 
-### [Farmaci antidiabetici, il TAR Lazio: «Anche i medici di famiglia possono effettuare la prima prescrizione - Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
 
 2026-10-13
 
-Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+
+---
+
+### [La battaglia sui farmaci per il diabete nel Lazio: il Tar dà ragione ai medici, la Regione pronta al ricorso](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+2026-10-13
+
+Source: [RomaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+---
+
+### [Resultados positivos con safigliprón en adultos con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
+
+2026-10-13
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
+
+---
+
+### [Vacciner les enfants peut-il les protéger contre le diabète de type 1 ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
+
+2026-10-13
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
 
 ---
 
@@ -145,6 +169,14 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGw
 2026-10-12
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
+
+---
+
+### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
+
+2026-10-12
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
 
 ---
 

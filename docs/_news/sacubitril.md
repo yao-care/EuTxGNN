@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,29 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (16)
 
-### [Farmaci antidiabetici, il TAR Lazio: «Anche i medici di famiglia possono effettuare la prima prescrizione - Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+2026-10-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+
+---
+
+### [La battaglia sui farmaci per il diabete nel Lazio: il Tar dà ragione ai medici, la Regione pronta al ricorso](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetic</span>
+
+Source: [RomaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
+
+---
+
+### [Resultados positivos con safigliprón en adultos con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
 
 ---
 
@@ -67,6 +83,14 @@ Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Vacciner les enfants peut-il les protéger contre le diabète de type 1 ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabète</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUEzMElRcThOZVViVW9SSmNBUFBWakJuemQwRWlhOURJVjA0OUthcUxTM0Jkdkc5OG01NzE3cEtzdzROMHNVU0toOTg3M0dxbHpRdXRQZEFrT1NrX0Y2Z2ZjRzdxdnVxekNoN2wzTFZydktYOEJ4ZWZfMzZuX2NCbkxGQVVGN1FIdy1DQ2QySW1uMWxWOG5GRmpXNkNoZThwdVFmZHJIUTJZSXMyeGVVYUpwS3NtMU1LaTY2czc2SkZUTG14?oc=5)
 
 ---
 
@@ -94,11 +118,11 @@ Source: [food-monitor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3
 
 ---
 
-### [Artrosi, fibromialgia, artrite, osteoporosi e le altre 200 malattie reumatologiche: ne soffrono 10 milioni di italiani. Che cosa sta cambiando, le novità - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
+### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">artrite</span>
+2026-10-12 <span class="news-indication-tag">diabete</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
+Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
 
 ---
 
@@ -123,14 +147,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
-
----
-
-### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
-
-2026-10-11 <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
 
 ---
 

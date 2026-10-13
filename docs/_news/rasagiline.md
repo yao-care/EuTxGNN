@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+
+2026-10-13 <span class="news-indication-tag">dementia</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+
+---
 
 ### [Global dementia cases set to hit 25 million every year by 2050 - 14 surprising ways to slash your risk - The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">dementia</span>
+2026-10-12 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNaHd1blo1X3BQSkJYX3JkU2Q5el82bWdvMFhIRFdiQ1VLQVFZbW1vYV96QkZSQTdtMGtwZUpURXN4UnYzcDB1ekREemhVQzdNakJlZ09JT3lzYllVYXctWjBUc1Y3TElSM3FRQldJbU5sRDRRakQzaVU5bzJPMHJJdw?oc=5)
 
@@ -64,9 +72,17 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ09iS3BNa
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">dementia</span>
+2026-10-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">kidney failure</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+---
+
+### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
+
+2026-10-08 <span class="news-indication-tag">dementia</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
 
 ---
 

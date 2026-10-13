@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <li>allergic asthma (100.0%)</li>
 <li>intrinsic asthma (100.0%)</li>
 <li>bronchitis (99.9%)</li>
-<li>asthma (99.9%)</li>
+<li class="indication-matched">asthma (99.9%)<span class="indication-tag">📰 asma</span></li>
 <li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
 <li>dermatitis, atopic (99.8%)</li>
 <li>contact dermatitis (99.5%)</li>
@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 
 ## Related News (1)
 
-### [Hasta el 70% de los casos de EPOC están sin diagnosticar: «El paciente se limita para no ahogarse» - Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0l3TG1VRi1IV3FXQU5LMmdMUF9QSDJjQTRKRXdmaXdVUFFCbXpnOWthV05NWU5JVFpraDhHNHQ4cWEzWGZOV2xGcGZ4VFdxdGxLUHI3WXJLaVNnQlNacWxGaGx6dEwtdlpDMWJyTmIxVXdFaVlOVGpJeHFPTkFEdkp2RnpFV0pZWC1IWm1yUk5rWmMwTlhQSV9vYTU5VFNmdzFhTk9Icjg3dU5iNzdJVdIBtgFBVV95cUxPbS13WVNtWUdybldBT212RVlsWnFaSlpYU2tHc1ZVV3dJQlFrMTNvLUptSEYxeEZKSXpsbDdQdjhJRUNMT0F4aGNMSlF2LTVVYjZNZVRBTmF5SEVBQ0Y1U1VybEJSYURTR21FRXhSOWNKa0F1SmFZX0tPVWdJNk5ZdkJ3YVlBUU1IYVYwUHZOX25vZWRhLWRJby1ZZTRGcjhnZWdrcV94QUZwVTh1Zng1dkZNQ2xMUQ?oc=5)
+### [La vacuna intranasal contra la gripe no contagia el virus a los niños – Agur Fakes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
 
-2026-10-13 <span class="news-indication-tag">EPOC</span>
+2026-10-13 <span class="news-indication-tag">asma</span>
 
-Source: [Diario Sur](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0l3TG1VRi1IV3FXQU5LMmdMUF9QSDJjQTRKRXdmaXdVUFFCbXpnOWthV05NWU5JVFpraDhHNHQ4cWEzWGZOV2xGcGZ4VFdxdGxLUHI3WXJLaVNnQlNacWxGaGx6dEwtdlpDMWJyTmIxVXdFaVlOVGpJeHFPTkFEdkp2RnpFV0pZWC1IWm1yUk5rWmMwTlhQSV9vYTU5VFNmdzFhTk9Icjg3dU5iNzdJVdIBtgFBVV95cUxPbS13WVNtWUdybldBT212RVlsWnFaSlpYU2tHc1ZVV3dJQlFrMTNvLUptSEYxeEZKSXpsbDdQdjhJRUNMT0F4aGNMSlF2LTVVYjZNZVRBTmF5SEVBQ0Y1U1VybEJSYURTR21FRXhSOWNKa0F1SmFZX0tPVWdJNk5ZdkJ3YVlBUU1IYVYwUHZOX25vZWRhLWRJby1ZZTRGcjhnZWdrcV94QUZwVTh1Zng1dkZNQ2xMUQ?oc=5)
+Source: [tele7.tv](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mirvetuximab Soravtansine?">
-<strong>Mirvetuximab Soravtansine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mirvetuximab Soravtansine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Mirvetuximab Soravtansine wi
 <p><a href="{{ '/drugs/mirvetuximab-soravtansine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [La vacuna intranasal contra la gripe no contagia el virus a los niños – Agur Fakes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+
+2026-10-13 <span class="news-indication-tag">asma</span>
+
+Source: [tele7.tv](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/lonafarnib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lonafarnib?">
-<strong>Lonafarnib</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Lonafarnib</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <li>kyphoscoliotic heart disease (98.0%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.0%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (97.8%)</li>
-<li class="indication-matched">heart disease (97.8%)<span class="indication-tag">📰 heart disease</span></li>
+<li class="indication-matched">heart disease (97.8%)<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>multiple endocrine neoplasia (97.7%)</li>
 <li>Laubry-Pezzi syndrome (97.7%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (97.6%)</li>
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Lonafarnib with the latest h
 <p><a href="{{ '/drugs/lonafarnib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (5)
 
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
@@ -70,14 +70,6 @@ Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/artic
 
 ---
 
-### [Artrosi, fibromialgia, artrite, osteoporosi e le altre 200 malattie reumatologiche: ne soffrono 10 milioni di italiani. Che cosa sta cambiando, le novità - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">artrite</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
-
----
-
 ### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">arthritis</span>
@@ -91,22 +83,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxP
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
-
----
-
-### [Wenn Rheuma auf das Herz schlägt - Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
-
-2026-10-11 <span class="news-indication-tag">arthritis</span>
-
-Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
-
----
-
-### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
-
-2026-10-07 <span class="news-indication-tag">heart disease</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
 ---
 
