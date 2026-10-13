@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [¿Qué recomiendan las primeras directrices mundiales sobre obesidad en niños y adolescentes de la OMS? - Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
 
@@ -70,11 +70,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR
 
 ---
 
-### [Obesità, dalle pillole al triplo agonista: la nuova frontiera punta al 30% di peso in meno](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
+### [Des scientifiques établissent la liste des 17 principales menaces pesant sur la santé humaine d’ici à 2100 - Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
+
+2026-10-10 <span class="news-indication-tag">obésité</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihAJBVV95cUxPemNLay0walM1emhfMFZMbzI5VEZYbjNkT3RmV3N3YU9ZS200Rk5XUG5lX2ZHYll2WUdaOVJKNWlwZ3E3SUZmQWFKUmtIeUVDLVpxbFNIYUItUW15cG5IRW9mdGpldzJSWkVsWHlGNFZpZmhLVGR0eFFEM0F2bFBMT1hKU3N3SUU2T3ZIeE5ia2FNZkJJM3hSLTJEX19JazlaZnE5YVRUNUJQM2R1TVppQ3BSdVRJUS14VllIaXY3NDdsckx4cWljcDV0alNSOXRkZFlNUG13Vmk2TDhNcS16cEg3UXF0Ylg3N1dhRDdhYUF3ZGlhalJlUWwtcWU2cS14M2ppeA?oc=5)
+
+---
+
+### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 2026-10-10 <span class="news-indication-tag">obesità</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd296Y1JaZk5LOTl2V0FNYVMyTVoyQmk0dVgzLWViQS1zRlJGTFNUd01yZVNtY3ktMjhOeElzUF9BVUhiR2JZS2NmeHVORnlkaDV2eDNYMUYzR1NIR1VyRXk3S3VVMTRzR29qVkJKR1RDSTd0ZnBlQ2dMTkwtbEx3YkNudWc5OS1QaVk1TVM3d3ZVd05xdVJIVUI1TFFWWWZadkxjZENoT0I3cWZzWEVaRU1fc1R0UzhiX19lT3NuNlpzV1dWelgxWElxaFRvbl83NGd5ZQ?oc=5)
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 ---
 

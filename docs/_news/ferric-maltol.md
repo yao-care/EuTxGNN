@@ -14,7 +14,7 @@ permalink: /news/ferric-maltol/
 ---
 
 <p class="key-answer" data-question="What news is there about Ferric Maltol?">
-<strong>Ferric Maltol</strong> currently has <strong>10 news articles</strong>, with 0 predicted indications.
+<strong>Ferric Maltol</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ This page combines the AI-predicted indications for Ferric Maltol with the lates
 <p><a href="{{ '/drugs/ferric-maltol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
+
+### [Farmaci antidiabetici, il TAR Lazio: «Anche i medici di famiglia possono effettuare la prima prescrizione - Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
+
+Source: [Sanità Informazione](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUtsOTJIR2JubzQwY0E5aVI0Vk5UQ2dxMDNCb0xGT2pOY0F0SV9JNjlQSEdjc2luWXBsTUFrdXBqeWd5YzBmSjhpcklCbWoxUk5wdWx6dE9tdk1XR3Bpb1ltYWlCVmtEOXpSZlFDcUMyd1VrSnNqcjFRc0JKRHJ2QnhtblV2S0dhX0k1ekczNEUwYjVOTkEzbndwOEx4WWE4Z1VhTWtlMWhqdkF2VWFkekJOZ0xJaGtiaDRJZjBNNWJ6Mno1ajRFVzBXNnp2N1p6d19R?oc=5)
+
+---
+
+### [20 millions de personnes pourraient avoir ce type de diabète longtemps resté méconnu - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaG5nT0V6bHZlQ1ZDdHE5Ni1RQk1ZM2FxVEFSb0tlZGVkcDNmb0pXQ3VYT3JubW1rV1EtekRieG9OaTY5ODVVdlFITE9sSnBBSkJiSmtFVDBXOUp3aWVJWnI3QTI3RTZaRjdia0d3MEZSSmVSLVZ3UnJSSVltdmQxQUNEY2hKQ1M1S082blBhbXZZMFpSNVd4c2F2WTJsXzdISW1jeXV0ZkRya2N0UGRRbW0xU1kwbVE3MXpkSjdyOEwzUmMzVVgzcUNjcU9yX1VRai1ET3k1Mm5pcVlGWUJmaEJndw?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabète</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaG5nT0V6bHZlQ1ZDdHE5Ni1RQk1ZM2FxVEFSb0tlZGVkcDNmb0pXQ3VYT3JubW1rV1EtekRieG9OaTY5ODVVdlFITE9sSnBBSkJiSmtFVDBXOUp3aWVJWnI3QTI3RTZaRjdia0d3MEZSSmVSLVZ3UnJSSVltdmQxQUNEY2hKQ1M1S082blBhbXZZMFpSNVd4c2F2WTJsXzdISW1jeXV0ZkRya2N0UGRRbW0xU1kwbVE3MXpkSjdyOEwzUmMzVVgzcUNjcU9yX1VRai1ET3k1Mm5pcVlGWUJmaEJndw?oc=5)
+
+---
 
 ### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
 
@@ -40,19 +56,19 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGw
 
 ---
 
-### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Fsd1FOVDdaMFlyYWZVMEtPNmVfWE9yUGFLMXhWYWVlc2VBQ2dxWlRpZnBkcnBrT2lRWHB1MWlGODN0Z3NiVm5ocGNyMndOdkktbkxLdzRoeGVwY0ktWjROUHA5NGhPY1dLaG9XcDVNenhHOThfUENzN21mdFl2anBWNFFJb1g1ZFRleE11UkhGUVVPY1lYSlUzVnctY1FmVGFXTlB5cUNLSzYyWTRxSnYwcE9TcW1LUk1j?oc=5)
+### [Erdnussverzehr beeinflusst das Lipidprofil im Blut: DIfE-Studie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
 
 2026-10-12 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT1Fsd1FOVDdaMFlyYWZVMEtPNmVfWE9yUGFLMXhWYWVlc2VBQ2dxWlRpZnBkcnBrT2lRWHB1MWlGODN0Z3NiVm5ocGNyMndOdkktbkxLdzRoeGVwY0ktWjROUHA5NGhPY1dLaG9XcDVNenhHOThfUENzN21mdFl2anBWNFFJb1g1ZFRleE11UkhGUVVPY1lYSlUzVnctY1FmVGFXTlB5cUNLSzYyWTRxSnYwcE9TcW1LUk1j?oc=5)
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
 
 ---
 
-### [«Diabete dopo il Covid?»: scoperto come il virus sabota la produzione di insulina](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
+### [In Veneto fino a 450mila casi di diabete di tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 
-2026-10-11 <span class="news-indication-tag">diabete</span>
+2026-10-12 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3RXVMUzBfaUROSmlJNUxLSlVjVHJTQmlrMW9mT2paMGRhSkdMcWtxR1dYMVBCazJNVHpYNzZZUm9CcE9wckpEOEVEbWZpc25HMXk0bElpSkJMbXJfdnhwUE1qVWl2N2Q3cktNU1ktcXA0WWp4OWFkU0VKd0lBOFMzWjZEZjBENzd4WVJ3eU9pbDF3dGhsZk1XQWNUQjZMaTR5Q0tIRWFsN2xhRG5NUVpjYnJrSXdqSE9kbGZKdldReWpVUHZnRTA3bjV1Vlc0aC1z?oc=5)
+Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 
 ---
 
@@ -61,14 +77,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3g3
 2026-10-09 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
-
----
-
-### [Du canal carpien à l’épaule gelée : l’autre fardeau du diabète](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQbVd0STdQWVFSN0tQQVZLVGpjbWhrU2UwTGVhLVVfZzF0ZGlmZFRlUE5XM1RBRGNISVVRYXc5X3Mya2tKYmpJYl80Rl8tWEtVTS0weGlXSmo2TWtXUWZ1LTNMMDRsNVZEamR0VGQ0X0RYaVB2XzVudWYyN2kzY3NodDRUemlndjhoRWR1a2dWSFlweUFqQUowSmhIdXVoSA?oc=5)
-
-2026-10-09 <span class="news-indication-tag">diabète</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3k3dmlQbVd0STdQWVFSN0tQQVZLVGpjbWhrU2UwTGVhLVVfZzF0ZGlmZFRlUE5XM1RBRGNISVVRYXc5X3Mya2tKYmpJYl80Rl8tWEtVTS0weGlXSmo2TWtXUWZ1LTNMMDRsNVZEamR0VGQ0X0RYaVB2XzVudWYyN2kzY3NodDRUemlndjhoRWR1a2dWSFlweUFqQUowSmhIdXVoSA?oc=5)
 
 ---
 
@@ -93,22 +101,6 @@ Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMi
 2026-10-07 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWZFQ1lCUGlaWk9NUFIxSGJCTmZOeThDb1lXVlhmaXlfRVNQU0c5YlAxNmRGanBDc0wxZmhQb1ZsSF95dndMTnR2VC1aSDMta2JxZ2VGc3o1WTRFZ2VXYk5ielFWSVgxZlZkVjRxY0JFQzRzZGVrYWxhRjBjWWxMOTRBLWRRclljSzJlOEpfWjRkQlAwWkJXS0FCMjduN0h3R250V3JWcWZFNzc5NnhFWS1sRy1yRU56YnpnNzdONjM4bWpLYkVCcFNn?oc=5)
-
----
-
-### [Retatrutid: Abnehmspritze knackt bei Diabetes eine entscheidende Marke](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
-
-2026-10-06 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3ctbGQzS0wzNkMweTR5S3JKT3JqRF9JOHpDM1NKSmMtTlpQc1UzMHN3aFlBR3RCenpBWVRhQlk1THFKZ29zMlYyVFRLMVQ1ejdTVTdiZXM3UFZGZGRxZENlRzlOWlpjTWFxSnV3YjJuTHVXbUpkOE1kd1VmMnZHXzNNUjJPVmxnQ2pMenVRY3NUMGdzWWJ1cjRmdFg3Um5USDZIdHhySEljYVJCV2FnZ3ItQQ?oc=5)
-
----
-
-### [Santé. Diabète de type 5 : c'est quoi cette maladie qui pourrait concerner des millions de personnes ? - Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
-
-2026-10-06 <span class="news-indication-tag">diabète</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBDV1R6bUFlMThpSlNvZGd4OEtlZWEtcWt3WHlsOVE5eTE2aFhnYWFGS2toR2xEeTJ5Y0YtemFKSjRobmNldFZoXzNseWN3dFltYTY3Um5ybmlvUXFlMk5icEdBYlJZbzlCS1U2UWNSeHY4SV9sOEo2cnVjT3k4c3FjVlluazZKVHF6UUdXU1dYSUFISnllQUZUcmZwSk9UR2dnSHhvNnh6Q2NIWmF5bE5wdUdFQk13anI2M3BlSlBxLVJjbVJpNFY1SXI4Vm1qanhlaGZxLWpvdw?oc=5)
 
 ---
 

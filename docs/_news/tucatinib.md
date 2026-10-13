@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Tucatinib?">
-<strong>Tucatinib</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Tucatinib</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
@@ -107,14 +107,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR
 2026-10-11 <span class="news-indication-tag">arthritis</span>
 
 Source: [Deutsche Apotheker Zeitung, DAZ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUzYzQnZxUGx1QklyMnhOTGZGaHRfLWZoVEpuS0RBd3QwbXFxRFZQdVVIbThxdnB5M0xERm11WEVDOXBUdi1BN0hzbW92VloxMHdjejY2d2RBUkE4aWhsNzY2QjZEeVF0ck1fSG1TRi1pdUV1ZllhS010MnZVNFg3NUNGSm0zWnU2bkRfRVp0aWo3Q2M5eFFBTkNxNkRoRS1G?oc=5)
-
----
-
-### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
-
-2026-10-08 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
 
 ---
 

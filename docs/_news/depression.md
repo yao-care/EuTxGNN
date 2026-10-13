@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 7 articles, 7 related drugs."
+description: "Health news about dépression (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>7 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (7)
+## Related News (5)
 
 ### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
 2026-10-12
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
+
+---
+
+### [Gute Laune auf dem Teller: Diese Lebensmittel können deine Stimmung aufhellen - Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
+
+2026-10-11
+
+Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
 
 ---
 
@@ -66,30 +74,6 @@ Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMijgJBV
 2026-10-11
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQncyaXZSR0xIMUpuVlJkRHk4OXhQbkVyU05MeEV0aW1CVFpwSjRlYldSU0ZxTHh2RExFX3c1bGVfWDlHcnhyMEtVMThMcHNoc1FCZ2N6QWNwZTFtOU1lTVh3WHZnR0pseGxVQ0lRODdEakp4VXhpamJxeTN4WDNab0JLcGszOWg4WVBWU2ktU2ozUThSbUh2WUVidDR2cHNfYktaTUVBRl9zQnlqNVFBMEs1cnJzQ0lhRXF5UzY5NjZNRmVCd0Nxa1pFWU9XNUpfQ1dneXV1TGRDUQ?oc=5)
-
----
-
-### [Depression und Ernährung: 20 Personen senken Beschwerden nach vier Wochen](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
-
-2026-10-11
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3VRMm5TMDdhT0NlWlNaQlhLWEtRdWxLMEV5WExJamUxY0FhZUlZOWx0bGtCZmVnejJyZmVFdHJKakRUdUFuY04ycTZhY1ZUc3Y2ZjRncmJXVVFuSHdseElCeDVkQ3lWc05iSFNUVEUyZ3diWi1aa3VTUE1fb19ZX29NdkxBSkt6RTBPOU1qRVMxSnJhVjJudjVpdUFib3YwaXVFb3d1VEZvQ1BacGlmRFZrR09UbGljbmhqMzh5OA?oc=5)
-
----
-
-### [Physical activity weakens link between genetic risk and depression severity, long-term data suggest - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
-
-2026-10-10
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmEyYjVncmdCaXl3RHFfRThfMnZ1NTZEY2kxU1ZIcTBrWlVodWpPNEk3SVFaOG9HSDl0VE1EVHFBVWMtS1R5emZ1OV8xLUtuYnJ3RUMxZktTaXNaWTVhbXVMVVk2aXFhaUd5U0VOOTItelBnSmZjNTNPb3lkd1cwWDhHaWhSWnZRVXg0dg?oc=5)
-
----
-
-### [Vous êtes fatigué en ce début d’automne ? C’est normal mais vous pouvez y remédier - Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
-
-2026-10-10
-
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLWhjeGhzOTRSSGJSLWQ0MDlOOG5HZDFUcmVSRmZaZEs5X0JLY2VPcUFjOGl0ckd3dXIyWGZNUXpwdEV0bWgyXy1RSnhyYmE3Um45V2xVYmd0aUlsYWtLdFdOa28yR0lCQnFMa2Jhdl82RlZ2Qmt3SVgzWXIwM3dNYURhT3FYQjNQalYxdzFrYzRJTVdDV0xxMkpST1NpWTJESlV0OW42eHFlQ3E3WkxqR1gzUFA0aFJ0a3hra01LOVRJZXBodnRiczlJbnRpcHJhVU5qQlVQRU94Vk1jMlZET2c3ZjE3aENuQlM4?oc=5)
 
 ---
 

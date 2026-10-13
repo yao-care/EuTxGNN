@@ -3,7 +3,7 @@ layout: default
 title: "hepatitis News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hepatitis. 1 articles, 25 related drugs."
+description: "Health news about hepatitis. 2 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="What news is there about hepatitis?">
-<strong>hepatitis</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<strong>hepatitis</strong> currently has <strong>2 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -53,7 +53,15 @@ This page brings together the latest health news about “hepatitis” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Anonyme HIV- und Hepatitis-C-Beratung im Gesundheitsamt Fulda](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
+
+2026-10-13
+
+Source: [Osthessen-Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
+
+---
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 

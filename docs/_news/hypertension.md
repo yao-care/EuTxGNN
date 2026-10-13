@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "high blood pressure (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
+description: "Health news about high blood pressure (hypertension). 1 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
-# Bluthochdruck (hypertension) News
+# high blood pressure (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about high blood pressure (hypertension)?">
+<strong>high blood pressure (hypertension)</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “high blood pressure” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -83,15 +83,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (2)
-
-### [WHO stellt globale Roadmap gegen Bluthochdruckerkrankungen in der Schwangerschaft vor - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
-
-2026-10-08
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVzVoQXpGdHl0Q09tbjI2alFRanl5RXA0RWE2ZXJlZW1xaUFTd2FfdUlJaGtKcE1QODlMN3hySkxmV19XR0oyR3huMmtKc24wYnEwcFgzUGFzdC1sdWFLOEctamU3ZEpOUDBuNFdKZkk1blRTS2REcTgwT0RVY3hMN19mS194WXR5cGtIUlZ6dDhXNGJyMnItUF9fS3RMTEt4MXFadTdWWHQ3Z2Q0bXprSzFoZ2hMaG1JX2U4YklZMkVNVFNJVk5ZU2QyYkg1UC12NUN4TVNRU3hWNWFvamdzTHVzQS1NVU1LQ3c?oc=5)
-
----
+## Related News (1)
 
 ### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ritonavir?">
-<strong>Ritonavir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Ritonavir</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ritonavir with the latest he
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Anonyme HIV- und Hepatitis-C-Beratung im Gesundheitsamt Fulda](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">hepatitis</span>
+
+Source: [Osthessen-Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
+
+---
 
 ### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5)
 

@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 
 ## Related News (1)
 
-### [Faut-il prendre des vitamines pour ne pas tomber malade cet automne ? La réponse d’une médecin - Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+### [Ces 10 aliments de saison pour renforcer son immunité avant l'hiver - 20 Minutes](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkYxY252am5UUmhrNHNWeUpQa3lGdlBQWUZuOWVXcG53ZmVKWTZDT0JSZnRSTWNaRWZPSWJ3VjRNR2dDWWJiSmk2ei1hNF9iZG9vbmpTQ0xFOUVocF9DbUt6QkYwRWl2Y3YxVHBha2JMc3J0V0dMelZVbUJ6WGxQZU5OUnFTRXQ0cHNISUg2QWVxTjFhbHZtWVdhakR3WWUxYVlNdA?oc=5)
 
-2026-10-11 <span class="news-drug-tag">Zinc</span>
+2026-10-10 <span class="news-drug-tag">Zinc</span>
 
-Source: [Le HuffPost](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVFM4dGNfS00yUFpObGhKTU1iQnlzUFNpRDduelNmcVIwWlpJcTR1VnctOEs2VnJkNUdaTFVpQjQ0RF9tSElReE4yblVXRzN4SERRbmNVVEkzQnJmb1h2LWV3ZVZPS2pUamZ5U0dWOFM1cXpVZkFTWVc0ZVpQM2JnOUZvSGlzU1ZQMi1jSHdabHhyc2ZJNlpSSEFfcnZJMXk4S0l6Zm1BRHU1dnE3QTgxbDh1dFVud3JXSVgwRTJPUGpGNXpyZU9Vc1JIcm1DV3dtd0tpV3FSdkV3OVdmYnZKY1hkSWZkWG8?oc=5)
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkYxY252am5UUmhrNHNWeUpQa3lGdlBQWUZuOWVXcG53ZmVKWTZDT0JSZnRSTWNaRWZPSWJ3VjRNR2dDWWJiSmk2ei1hNF9iZG9vbmpTQ0xFOUVocF9DbUt6QkYwRWl2Y3YxVHBha2JMc3J0V0dMelZVbUJ6WGxQZU5OUnFTRXQ0cHNISUg2QWVxTjFhbHZtWVdhakR3WWUxYVlNdA?oc=5)
 
 ---
 

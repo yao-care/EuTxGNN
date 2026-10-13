@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Estradiol?">
-<strong>Estradiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Estradiol</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Estradiol with the latest he
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [New NHS drug alert as crisis deepens with over 25 meds in shortage - is your medicine affected? - The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUdHeEJoSWRXaEVJczk4NHJFTnIzbnUxdTVGUmcxQmZQZEV1a1VGUENwdDFuMkVrdzVKcURGc0NPQkxkMnFWVDBPaTE3S2pfOEhjUHIyczM5TjRnMWpmSWxwN2tKbjlpdmlvWmgyRzVrOFpUcVF1MlJQWTllbUVyaWVxSW4?oc=5)
+
+2026-10-13 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUdHeEJoSWRXaEVJczk4NHJFTnIzbnUxdTVGUmcxQmZQZEV1a1VGUENwdDFuMkVrdzVKcURGc0NPQkxkMnFWVDBPaTE3S2pfOEhjUHIyczM5TjRnMWpmSWxwN2tKbjlpdmlvWmgyRzVrOFpUcVF1MlJQWTllbUVyaWVxSW4?oc=5)
+
+---
 
 
 <div class="disclaimer">
