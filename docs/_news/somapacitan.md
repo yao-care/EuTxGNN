@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="What news is there about Somapacitan?">
-<strong>Somapacitan</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Somapacitan</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (13)
 
-### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
----
-
-### [La vacuna intranasal contra la gripe no contagia el virus a los niños – Agur Fakes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+### [La SEICAP desmiente que vacunar frente a la gripe produzca exacerbaciones en niños con asma](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
 
 2026-10-13 <span class="news-indication-tag">asma</span>
 
-Source: [tele7.tv](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
 
 ---
 
@@ -128,7 +120,7 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNi
 
 ### [In Veneto fino a 450mila casi di diabete di tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-10-12 <span class="news-indication-tag">diabete</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 

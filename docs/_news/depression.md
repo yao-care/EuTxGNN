@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 4 articles, 7 related drugs."
+description: "Health news about dépression (depression). 3 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Perinatale Depression mit erhöhter Säuglingssterblichkeit assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
 
@@ -58,14 +58,6 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAF
 2026-10-11
 
 Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
-
----
-
-### ["Ça m’a sauvé de la dépression" : après le cancer, elles retrouvent le sourire grâce à la cure de La Roche-Posay](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
-
-2026-10-11
-
-Source: [lanouvellerepublique.fr](https://news.google.com/rss/articles/CBMijgJBVV95cUxNdGhqMFB1RVNvdUg5Sm5oUXdfbDZrZTJQT1pmYW1nczFvLUNxNkNlN3pMMHMzSGRnR3RnRHNtYURObi1xRFFNV284Njhha1Y3RDk0R1R1Mjl4V2JRaDRDbnlRNXJHS2xhVldrNWlzVFI3OFNJRThNdmJlT3UxTGlHWm9CUjdQY080cG9lTHpzdkpadzdmcnN4YkxLRWJweWk4ZklmeVN2Zkx4VW1sb3cybjhlMi1Mb3I1OHM1VUUtakFFbV9SRW9OWFVPd210UFM3SGRoUjNVS0FSUHV3MVhicnBNWW5kN3dwYVBZbDZRTHU5SndmOWtYbE42XzBsdWdYRk1neGFQeG5PNTRtdVE?oc=5)
 
 ---
 

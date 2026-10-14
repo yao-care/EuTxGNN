@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 
 ## Related News (1)
 
-### [La vacuna intranasal contra la gripe no contagia el virus a los niños – Agur Fakes](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+### [La SEICAP desmiente que vacunar frente a la gripe produzca exacerbaciones en niños con asma](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
 
 2026-10-13 <span class="news-indication-tag">asma</span>
 
-Source: [tele7.tv](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSVpyZ284c1NLV3VTRURLMHBDU1BRQjlrZS13MV9wNHhFUklUdjZRbFFjNHhMSzM4bUxXSXEwUnNRTE5IMjgxMU5STmxUN0IyZDlkZ3ZaclJJeDNuUFVfZ0xlY2VMX1liNTJCaXEwMUlMX0NNS1dfamR3UE1KT2VGdjJjX1dkTWdkeWtaUXlXbFh1LWJ0QXdjZERPcHNVVGIxTVZnZE9WcEw?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
 
 ---
 

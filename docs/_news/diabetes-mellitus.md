@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabetic (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 13 articles, 86 related drugs."
+description: "Health news about diabetic (diabetes mellitus). 12 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes (diabetes mellitus) News
+# diabetic (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>13 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetic (diabetes mellitus)?">
+<strong>diabetic (diabetes mellitus)</strong> currently has <strong>12 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetic” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -114,15 +114,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (13)
-
-### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
-2026-10-13
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
----
+## Related News (12)
 
 ### [La battaglia sui farmaci per il diabete nel Lazio: il Tar dà ragione ai medici, la Regione pronta al ricorso](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,15 +52,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
-
-### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
----
+## Related News (14)
 
 ### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
 
@@ -128,7 +120,7 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNi
 
 ### [In Veneto fino a 450mila casi di diabete di tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-10-12 <span class="news-indication-tag">diabete</span>
 
 Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 

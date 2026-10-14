@@ -14,7 +14,7 @@ permalink: /news/tucatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Tucatinib?">
-<strong>Tucatinib</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Tucatinib</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Tucatinib with the latest he
 <p><a href="{{ '/drugs/tucatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
 
@@ -75,6 +75,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxP
 2026-10-12 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
+
+---
+
+### [Artrosi, fibromialgia, artrite, osteoporosi e le altre 200 malattie reumatologiche: ne soffrono 10 milioni di italiani. Che cosa sta cambiando, le novità - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">artrite</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
 
 ---
 

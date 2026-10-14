@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Diferencia de obesidad clínica vs IMC - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDB0Y1VYQlJFYmJ4SWl6OWdaZVZJQVZsa1VUMUhIeldrRzRmekdNX2duc1JDMG5VWXNmQS1hSzNMR2plZ3lIYnQzNlMzTVBkYTFqejV4RGtQb0RfWXE3RVJSdWNaTWJmU01CLWJ5Q0dQenRiU1JxQU96d01WTXY1TVlZdjZ5RVJsTlU3ckVVWQ?oc=5)
 
@@ -83,14 +83,6 @@ Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSExhRlo3Vkp
 2026-10-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
-
----
-
-### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obesità</span>
-
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 ---
 

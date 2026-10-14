@@ -54,9 +54,17 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (6)
 
+### [Schlaganfall: Forscher entdecken überraschende Ursachen - Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
+
+---
+
 ### [Überraschend klarer Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
 
-2026-10-13 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
 
@@ -91,14 +99,6 @@ Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSExhRlo3Vkp
 2026-10-12 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
-
----
-
-### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">obesità</span>
-
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 ---
 

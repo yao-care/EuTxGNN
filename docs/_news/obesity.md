@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 5 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Diferencia de obesidad clínica vs IMC - Somos Pacientes](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDB0Y1VYQlJFYmJ4SWl6OWdaZVZJQVZsa1VUMUhIeldrRzRmekdNX2duc1JDMG5VWXNmQS1hSzNMR2plZ3lIYnQzNlMzTVBkYTFqejV4RGtQb0RfWXE3RVJSdWNaTWJmU01CLWJ5Q0dQenRiU1JxQU96d01WTXY1TVlZdjZ5RVJsTlU3ckVVWQ?oc=5)
 
@@ -67,14 +67,6 @@ Source: [CNews](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSExhRlo3Vkp
 2026-10-12
 
 Source: [Edición Médica](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcG05QkZQRl9fT3U2ci1pOXpfSTJwcFFuWlYxVW9ISGtzZHpYZlJETUpSQVBWcmZxNzFFWmc0ME5IVkk0SkxjMWhUYlloR3hhVEN4Vi1HNUV1SlMxNTlTdmh1WV82NDFjb0tQYWQ2VXYwaDBqampJdzRxVUlhWkROeVVTbTAzT3MzOE05bFRGOFFSbnJabTJpbzh5VnM2djVYZnVYVFBDMFJtZ0VzMmpyVU41clpOeWEwblFCWTlfZUhLWTFOd3p3TEZiT2wybEVaQkVhY2pKMGcxSDc5aDZKRU5jX05xVVpUNFNYSlBGaUFla28?oc=5)
-
----
-
-### [Rivoluzione incretine, i farmaci anti-obesità ora diventano pillole. «Dosaggi saranno più facili da gestire» - Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
-
-2026-10-10
-
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRi1aR0dqWHYyemp1YUhVeEthRGd5eE5MQ3QwMFRaTUVYYWVaZ0dhMFR0NHptMWhhQ1FyRUZFVHk1eWNYeURzWGJxUkhNVVJVNngwWURWWUdmTm9MakxJNWlYNk01eDYtU1ZQVU02TU1ORTdCS19FVEZDSG5ZbFphX0hMLVYza1kxMEhsV0xKTjPSAY4BQVVfeXFMT05mSzB5MzJVLXUwODh0bmhVaC1FN0o0aWUtbTdodHkycG5LVGlRQjktOVBCVVNURjZMZzRQVTdxdjFuRTRPN1hHTXg0UXFZUk9aMjY5cEE2ZHNGX1VQMzRJRVV3cnhjVU9hR19kM2JzVXVJdUg4ZFpPSG1vQ24zdlQ2MEltOGtOZlBzWnM1Zw?oc=5)
 
 ---
 
