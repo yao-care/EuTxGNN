@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Bulos y mitos sobre la vacuna de la gripe](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
+### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">asma</span>
 
-Source: [Infoveritas](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
+
+---
+
+### [(83) Entzündungen im Darm lindern - Dr. Viola Andresen über Morbus Crohn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+
+2026-10-14 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
 
 ---
 
@@ -78,11 +86,11 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxP
 
 ---
 
-### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+### [« Près de 40 % des cancers pourraient être évités » : les gestes anti-cancer du Pr Khayat](https://news.google.com/rss/articles/CBMixAFBVV95cUxOazBZb2QxbXBlUkRYanAxRTJTR2JoLTFMSllLMUVLTlZBTGpkX2haOWpScmlhTmRDRWVxd0xKUGdmVlhkN1BJWW5kTmtucHpJMlJzWF9HMUZiM2N5X19ZX1ZEYVowcWV5dXdIX3BUQmNYakExLWczaDQzblNwaDJlWHNfdlVNdVNVN0hpcUdzb2tNVERZOTdJOW50Y3l1T0J2OXV0Q3FaVWFabFZDTGx3aHFSVXFEY2tzZDI5ZVRTdy11TkEx?oc=5)
 
-2026-10-12 <span class="news-indication-tag">arthritis</span>
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
+Source: [parismatch.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOazBZb2QxbXBlUkRYanAxRTJTR2JoLTFMSllLMUVLTlZBTGpkX2haOWpScmlhTmRDRWVxd0xKUGdmVlhkN1BJWW5kTmtucHpJMlJzWF9HMUZiM2N5X19ZX1ZEYVowcWV5dXdIX3BUQmNYakExLWczaDQzblNwaDJlWHNfdlVNdVNVN0hpcUdzb2tNVERZOTdJOW50Y3l1T0J2OXV0Q3FaVWFabFZDTGx3aHFSVXFEY2tzZDI5ZVRTdy11TkEx?oc=5)
 
 ---
 

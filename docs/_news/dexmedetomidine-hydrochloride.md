@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 Source: [Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
+
+---
+
+### [JNMG 2026 – Bilan lipidique : au-delà du LDL-c](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+
+2026-10-13 <span class="news-indication-tag">hypertension</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/fulvestrant/
 ---
 
 <p class="key-answer" data-question="What news is there about Fulvestrant?">
-<strong>Fulvestrant</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Fulvestrant</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Fulvestrant with the latest 
 <p><a href="{{ '/drugs/fulvestrant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Beneficio clínico con samuraciclib y fulvestrant en cáncer de mama avanzado - IM Médico](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLTRBMHhQX0lOWjhtN0RHU0NtMGVvX3VnVXJTYkJ2bFQzRDktdW5kWUVQZUNrb3NLLXRmY2Y4Qjd3bWo1Rl84cUJtQndBejU0SDV6VVl3YWxiR0t5bzJQQUNlS3FNM1BhaHcwT29pZE5naEdFVnNqVW16Ym11bFhkRlZ5OC1jZnZGRUh4R2Fpb1MxOFRsb004M21tR1NPS3dpbzRPNjNhZnU1QUtjRkFMZVZ6ZEVhd3ZPZjBNQUoya2_SAbsBQVVfeXFMTnhnQkRtWjdnLWFmQ2R3aW9CcklXQWxGckRONldJS3BwanlfV0JMQW5mVEYyZVVfMWJrbEJla3J6SElCS2dLQmROWC1ZejRINF9xNUlFZlJYNlJTMWRJZWUyYW1BSWZ2M3JoX21lMGFqS2UxcFE5REYzTlJacWJEdHFVbjZkVnR1RXROUVV0eTRLS1lIU2NDWWw2aFVaMkJvVTNXSFJLbFcxSV9YVEV3R1BsYnY5VFhXVHRmTQ?oc=5)
 
@@ -75,14 +75,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxP
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
-
----
-
-### [Juvenile arthritis will not stop sports-mad Alfie](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
-
-2026-10-12 <span class="news-indication-tag">arthritis</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
 
 ---
 

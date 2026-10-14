@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+
+2026-10-14 <span class="news-indication-tag">hepatitis</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+
+---
+
+### [JNMG 2026 – Bilan lipidique : au-delà du LDL-c](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+
+2026-10-13 <span class="news-indication-tag">hypertension</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+
+---
 
 ### [Anonyme HIV- und Hepatitis-C-Beratung im Gesundheitsamt Fulda](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Osthessen-Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
-
----
-
-### [El Hospital Torrecárdenas analiza a 74 pacientes para detectar posibles infecciones por hepatitis D](https://news.google.com/rss/articles/CBMijwJBVV95cUxNMGU5MkxmY3lqY1VpbllHdXFiN2ZCaU53VkwtU0lzeDVfS0Z4cl9jU3ZPeVdoRWVYYzZxRm1hM1JfSDNvd1VtcmtKOWJaTDJRMkpBb3NCeDh4TnBnRGt4ZGhKRkVKOGVsVU5tQ2xJdGQ5Tm5VUUJQWVAyR1Y5ZjNfX3NmSlpybkthSUFlSEd4Vmp1c3dHaFQ1bV9sZFFEZllQUEhGRDVDT0VEVFdJdWIwbC1xdFVHME9CXy1wLTlFTzhLVVdMODlsV2pCRl9sRExOUlkyQXNKbEFSWkxKcmxkM0RQZkszRlZpTFdseGEzeHpWR1ZEdTlRSDlWamtKbHN3aEZhTmJXclR6ZlFBYlNn0gGUAkFVX3lxTE9rQ216eVVZc2RfbkR1RTd2a0tGY1lqOXB3akFpbFlORWZnMlFiX3lFaXA5dTBIakNHV2NmVXA4dEIyalpOSWpYX3VDMzlWNGxzMUE3ZU9mTHJRUVBBSUFpWko5d2pvLW5xZTZkNFpNUHh1bTdiMjZKM1lVbFNvZHJwcmVlcFpfZURXR0FkWFJKMWkwdnh6ZUJpcWQ1OWVBQmZPd2hheWxxS2FPNHJXeUJ1S0RnYVRsUWNJYUFxT2hGNjN5RElxWmppUElpRk0wd29Sem1vUmhiQzJKNWItX0JwMms3MFF2VzdlUzVVdVI4ZDlvdThLM3hvS044aW5oNXdWMy12ZG1RSVVSQVNWVWo0VXAzSg?oc=5)
-
-2026-10-12 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Teleprensa](https://news.google.com/rss/articles/CBMijwJBVV95cUxNMGU5MkxmY3lqY1VpbllHdXFiN2ZCaU53VkwtU0lzeDVfS0Z4cl9jU3ZPeVdoRWVYYzZxRm1hM1JfSDNvd1VtcmtKOWJaTDJRMkpBb3NCeDh4TnBnRGt4ZGhKRkVKOGVsVU5tQ2xJdGQ5Tm5VUUJQWVAyR1Y5ZjNfX3NmSlpybkthSUFlSEd4Vmp1c3dHaFQ1bV9sZFFEZllQUEhGRDVDT0VEVFdJdWIwbC1xdFVHME9CXy1wLTlFTzhLVVdMODlsV2pCRl9sRExOUlkyQXNKbEFSWkxKcmxkM0RQZkszRlZpTFdseGEzeHpWR1ZEdTlRSDlWamtKbHN3aEZhTmJXclR6ZlFBYlNn0gGUAkFVX3lxTE9rQ216eVVZc2RfbkR1RTd2a0tGY1lqOXB3akFpbFlORWZnMlFiX3lFaXA5dTBIakNHV2NmVXA4dEIyalpOSWpYX3VDMzlWNGxzMUE3ZU9mTHJRUVBBSUFpWko5d2pvLW5xZTZkNFpNUHh1bTdiMjZKM1lVbFNvZHJwcmVlcFpfZURXR0FkWFJKMWkwdnh6ZUJpcWQ1OWVBQmZPd2hheWxxS2FPNHJXeUJ1S0RnYVRsUWNJYUFxT2hGNjN5RElxWmppUElpRk0wd29Sem1vUmhiQzJKNWItX0JwMms3MFF2VzdlUzVVdVI4ZDlvdThLM3hvS044aW5oNXdWMy12ZG1RSVVSQVNWVWo0VXAzSg?oc=5)
 
 ---
 

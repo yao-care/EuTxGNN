@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Fluticasone Propionate with 
 
 ## Related News (1)
 
-### [Bulos y mitos sobre la vacuna de la gripe](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
+### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">asma</span>
 
-Source: [Infoveritas](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
 
 ---
 

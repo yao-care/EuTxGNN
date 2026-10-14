@@ -14,7 +14,7 @@ permalink: /news/deferiprone/
 ---
 
 <p class="key-answer" data-question="What news is there about Deferiprone?">
-<strong>Deferiprone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Deferiprone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Deferiprone with the latest 
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [JNMG 2026 – Bilan lipidique : au-delà du LDL-c](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+
+2026-10-13 <span class="news-indication-tag">hypertension</span>
+
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+
+---
 
 
 <div class="disclaimer">
