@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+### [Give breakthrough Alzheimer’s drugs on NHS, dementia experts say - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
 
 2026-10-13
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
 
 ---
 
@@ -59,6 +59,14 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUM
 2026-10-12
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+---
+
+### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
+
+2026-10-08
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rimegepant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimegepant?">
-<strong>Rimegepant</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Rimegepant</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 <p><a href="{{ '/drugs/rimegepant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 Source: [Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
-
----
-
-### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">Herzerkrankung</span>
-
-Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
 
 ---
 

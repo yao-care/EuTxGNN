@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Anonyme HIV- und Hepatitis-C-Beratung im Gesundheitsamt Fulda](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
 
@@ -62,19 +62,11 @@ Source: [Osthessen-Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUx
 
 ---
 
-### [Un estudio de Torrecárdenas sobre Hepatitis D empuja al SAS a consolidar cribados como diagnóstico precoz](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb29sUEZJX2xnZFBHTlhSWHp3bUVSOC1qbURVYlk0ZjdKajN0UXM1bkVvX3RKTDZpNndYN0owUUFuckMzN1VHQmJKWll4TUNoRU51WXB1RDZCQWNFNzlfSTJLdlRkWTdUUXBFWm1SdTdKdlN4Zjlsa2lLSVBKUXU3S2JjN01EaVB3VE9xOVlTaFphV3lINXg1R2x6djBPT2dRYlplUEh5WE56WTBrRHNtd2FjYm1TVlFfbUlj0gHAAUFVX3lxTE5HSUpCRVpkNHRBc1hSbllsd2tKOE50R283MkRMLVdHSWtZR3NDbzJsUGxsWk1hQlBnbk5QQjJ2YjJxUzNGUG41cUZ1MlhHVkc3ZUQycUEtNFFwT2tPV054c0dpelRGVXlZMTJyaWx6Wkl1ZkJFWnZ5QTdJQnhsdl93MlBfd2ViaTdWb2Z4REdrOFdHSTlhRlFtd1lScjJpZ0hSOU9ZbjVXa2w2ZGl5Mm5zWVlaNHRaYTR5Z21Ja2kycQ?oc=5)
+### [El Hospital Torrecárdenas analiza a 74 pacientes para detectar posibles infecciones por hepatitis D](https://news.google.com/rss/articles/CBMijwJBVV95cUxNMGU5MkxmY3lqY1VpbllHdXFiN2ZCaU53VkwtU0lzeDVfS0Z4cl9jU3ZPeVdoRWVYYzZxRm1hM1JfSDNvd1VtcmtKOWJaTDJRMkpBb3NCeDh4TnBnRGt4ZGhKRkVKOGVsVU5tQ2xJdGQ5Tm5VUUJQWVAyR1Y5ZjNfX3NmSlpybkthSUFlSEd4Vmp1c3dHaFQ1bV9sZFFEZllQUEhGRDVDT0VEVFdJdWIwbC1xdFVHME9CXy1wLTlFTzhLVVdMODlsV2pCRl9sRExOUlkyQXNKbEFSWkxKcmxkM0RQZkszRlZpTFdseGEzeHpWR1ZEdTlRSDlWamtKbHN3aEZhTmJXclR6ZlFBYlNn0gGUAkFVX3lxTE9rQ216eVVZc2RfbkR1RTd2a0tGY1lqOXB3akFpbFlORWZnMlFiX3lFaXA5dTBIakNHV2NmVXA4dEIyalpOSWpYX3VDMzlWNGxzMUE3ZU9mTHJRUVBBSUFpWko5d2pvLW5xZTZkNFpNUHh1bTdiMjZKM1lVbFNvZHJwcmVlcFpfZURXR0FkWFJKMWkwdnh6ZUJpcWQ1OWVBQmZPd2hheWxxS2FPNHJXeUJ1S0RnYVRsUWNJYUFxT2hGNjN5RElxWmppUElpRk0wd29Sem1vUmhiQzJKNWItX0JwMms3MFF2VzdlUzVVdVI4ZDlvdThLM3hvS044aW5oNXdWMy12ZG1RSVVSQVNWVWo0VXAzSg?oc=5)
 
 2026-10-12 <span class="news-indication-tag">hepatitis</span>
 
-Source: [Ideal](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb29sUEZJX2xnZFBHTlhSWHp3bUVSOC1qbURVYlk0ZjdKajN0UXM1bkVvX3RKTDZpNndYN0owUUFuckMzN1VHQmJKWll4TUNoRU51WXB1RDZCQWNFNzlfSTJLdlRkWTdUUXBFWm1SdTdKdlN4Zjlsa2lLSVBKUXU3S2JjN01EaVB3VE9xOVlTaFphV3lINXg1R2x6djBPT2dRYlplUEh5WE56WTBrRHNtd2FjYm1TVlFfbUlj0gHAAUFVX3lxTE5HSUpCRVpkNHRBc1hSbllsd2tKOE50R283MkRMLVdHSWtZR3NDbzJsUGxsWk1hQlBnbk5QQjJ2YjJxUzNGUG41cUZ1MlhHVkc3ZUQycUEtNFFwT2tPV054c0dpelRGVXlZMTJyaWx6Wkl1ZkJFWnZ5QTdJQnhsdl93MlBfd2ViaTdWb2Z4REdrOFdHSTlhRlFtd1lScjJpZ0hSOU9ZbjVXa2w2ZGl5Mm5zWVlaNHRaYTR5Z21Ja2kycQ?oc=5)
-
----
-
-### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
-2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+Source: [Teleprensa](https://news.google.com/rss/articles/CBMijwJBVV95cUxNMGU5MkxmY3lqY1VpbllHdXFiN2ZCaU53VkwtU0lzeDVfS0Z4cl9jU3ZPeVdoRWVYYzZxRm1hM1JfSDNvd1VtcmtKOWJaTDJRMkpBb3NCeDh4TnBnRGt4ZGhKRkVKOGVsVU5tQ2xJdGQ5Tm5VUUJQWVAyR1Y5ZjNfX3NmSlpybkthSUFlSEd4Vmp1c3dHaFQ1bV9sZFFEZllQUEhGRDVDT0VEVFdJdWIwbC1xdFVHME9CXy1wLTlFTzhLVVdMODlsV2pCRl9sRExOUlkyQXNKbEFSWkxKcmxkM0RQZkszRlZpTFdseGEzeHpWR1ZEdTlRSDlWamtKbHN3aEZhTmJXclR6ZlFBYlNn0gGUAkFVX3lxTE9rQ216eVVZc2RfbkR1RTd2a0tGY1lqOXB3akFpbFlORWZnMlFiX3lFaXA5dTBIakNHV2NmVXA4dEIyalpOSWpYX3VDMzlWNGxzMUE3ZU9mTHJRUVBBSUFpWko5d2pvLW5xZTZkNFpNUHh1bTdiMjZKM1lVbFNvZHJwcmVlcFpfZURXR0FkWFJKMWkwdnh6ZUJpcWQ1OWVBQmZPd2hheWxxS2FPNHJXeUJ1S0RnYVRsUWNJYUFxT2hGNjN5RElxWmppUElpRk0wd29Sem1vUmhiQzJKNWItX0JwMms3MFF2VzdlUzVVdVI4ZDlvdThLM3hvS044aW5oNXdWMy12ZG1RSVVSQVNWVWo0VXAzSg?oc=5)
 
 ---
 

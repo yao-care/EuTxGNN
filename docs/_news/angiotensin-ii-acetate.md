@@ -14,7 +14,7 @@ permalink: /news/angiotensin-ii-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Angiotensin Ii Acetate?">
-<strong>Angiotensin Ii Acetate</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Angiotensin Ii Acetate</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,51 @@ This page combines the AI-predicted indications for Angiotensin Ii Acetate with 
 <p><a href="{{ '/drugs/angiotensin-ii-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Del control glucémico al manejo integral: qué cambia en el consenso ADA/EASD sobre diabetes tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlB3VDhfbU5BSWVTb1o4LXczSWNtNVVIbGhDQVdzOFYxUXJGZjMtZ1V3UTRwR21lNTdJMWtYYnJwMkUzVjR0MXJCTEFqZDZ6NGxQM1F0b2hZaGhfNU9BT3MtWmdMc3FlZFh3Q2tRVjBhLU5oNXJES0xWM3czSk1nZUhYemp5VTZwRVhKSzY1NHZlYzBRQkRqZmN3V3VtV095SFpvNkpmaE8waW5uc0NvbTZaTVEzQkZJRWlPcXNiUzEwMy1zWFhOWlV3?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlB3VDhfbU5BSWVTb1o4LXczSWNtNVVIbGhDQVdzOFYxUXJGZjMtZ1V3UTRwR21lNTdJMWtYYnJwMkUzVjR0MXJCTEFqZDZ6NGxQM1F0b2hZaGhfNU9BT3MtWmdMc3FlZFh3Q2tRVjBhLU5oNXJES0xWM3czSk1nZUhYemp5VTZwRVhKSzY1NHZlYzBRQkRqZmN3V3VtV095SFpvNkpmaE8waW5uc0NvbTZaTVEzQkZJRWlPcXNiUzEwMy1zWFhOWlV3?oc=5)
+
+---
+
+### [La detección temprana abre una nueva era en la diabetes tipo 1 en España - El Diario Vasco](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUxKS2NOX3IyZ2RPeWJfQmhycVdLcjJLVGJlSnFSOGFpaFVyb2JTVU9Md05seVRwVlppVkZZSzRaalExdjNuMzFpTi1qbk0zcnZkR3YzUUlpc00tOWlZbGk4WlBjdWNyT0t0TjBjVGVhMTdVdDNtemF6ZGd1S1hfM3o0YmgwRy1CSm5CdmZSc3hjZHNaNW01R2dxMG5HQ0NzT2pXNGNMN05XMWxv?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUxKS2NOX3IyZ2RPeWJfQmhycVdLcjJLVGJlSnFSOGFpaFVyb2JTVU9Md05seVRwVlppVkZZSzRaalExdjNuMzFpTi1qbk0zcnZkR3YzUUlpc00tOWlZbGk4WlBjdWNyT0t0TjBjVGVhMTdVdDNtemF6ZGd1S1hfM3o0YmgwRy1CSm5CdmZSc3hjZHNaNW01R2dxMG5HQ0NzT2pXNGNMN05XMWxv?oc=5)
+
+---
+
+### [El GLP-1 oral de Lilly ha demostrado seguridad cardiovascular, además de la reducción sostenida de la glucosa en sangre y pérdida de peso - Revista Pharma Market](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbmdVSHd4RmhIandJS1ktbm1Xc0UzcG1ac3N0bV9SMTdSb1JtVWFubXNLbHV3a095S0hlN2NjRlpmRkR0NDBnRWVIbGgzMnI3SDV3ZzlkbHdqWTdlSWtsT2wwQVI4Q2piM3NZV0o3eWxfRW9QOE4wdVBQc3ZYQ0ZhdUxSRTNhbUtEb3BoRnRfYmtSUVdLdkw4aHhnS2ExQkwwT2ZvalRrSTFGNEVCWVVkZklROFF3eXJ1ZmFFbVZGTFp2aU8yb1RiODdwdnpNZmppTmlxNTRxTnFBb3hpVWVOMkQzMVdwZW9XLTFVMUt3VXZxZw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbmdVSHd4RmhIandJS1ktbm1Xc0UzcG1ac3N0bV9SMTdSb1JtVWFubXNLbHV3a095S0hlN2NjRlpmRkR0NDBnRWVIbGgzMnI3SDV3ZzlkbHdqWTdlSWtsT2wwQVI4Q2piM3NZV0o3eWxfRW9QOE4wdVBQc3ZYQ0ZhdUxSRTNhbUtEb3BoRnRfYmtSUVdLdkw4aHhnS2ExQkwwT2ZvalRrSTFGNEVCWVVkZklROFF3eXJ1ZmFFbVZGTFp2aU8yb1RiODdwdnpNZmppTmlxNTRxTnFBb3hpVWVOMkQzMVdwZW9XLTFVMUt3VXZxZw?oc=5)
+
+---
+
+### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
+
+---
+
+### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0REOWlLZ1dxTG9BZjFWZDlHZkFVaGxqUW15QUxrdV9hTzJBOUJhUjlvMjh6M3RqdXlHMHM0MVlTU2lBbVp3ZzRCcGNjYzc3WTBOajh0TVNUbks1c3ZrVkZyYU80bldtTFVkSXBfN3l5RE9tUjBTcTFQMmMxOHRtalZJUTV0WmJoU2UwM3cxa25UVHNLcVJoOThFM3NuV3AyZ2hUNkloOFAtQmRoOUpKbFRrZHpMellNX1lka3ljWVdGSEdYMGk5TURRaHU1SFBGTjVIYWx6N1dPZzNOUXBuaFM2TEdOeGowQ0lpZm4tRDR5MVhuOTQ5aTItUXdhMzZtQnRKbk9PSG9XQjdBZlNCbkJCQlVLdnZ5?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0REOWlLZ1dxTG9BZjFWZDlHZkFVaGxqUW15QUxrdV9hTzJBOUJhUjlvMjh6M3RqdXlHMHM0MVlTU2lBbVp3ZzRCcGNjYzc3WTBOajh0TVNUbks1c3ZrVkZyYU80bldtTFVkSXBfN3l5RE9tUjBTcTFQMmMxOHRtalZJUTV0WmJoU2UwM3cxa25UVHNLcVJoOThFM3NuV3AyZ2hUNkloOFAtQmRoOUpKbFRrZHpMellNX1lka3ljWVdGSEdYMGk5TURRaHU1SFBGTjVIYWx6N1dPZzNOUXBuaFM2TEdOeGowQ0lpZm4tRDR5MVhuOTQ5aTItUXdhMzZtQnRKbk9PSG9XQjdBZlNCbkJCQlVLdnZ5?oc=5)
+
+---
 
 ### [La battaglia sui farmaci per il diabete nel Lazio: il Tar dà ragione ai medici, la Regione pronta al ricorso](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
 
-2026-10-13 <span class="news-indication-tag">diabetic</span>
+2026-10-13 <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">AF</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDBsS0VSR2U5bGx2QWttZlRaMXM5SDBTSXJxd2tFZUpsVUotclh1VFJLXzRzLUhOS3NBTThlQUdsUFBmT1lRdnZRcy1CRFRvODg2WG05ZUxaV0xpQnNUa2tMZ2Vta3lnS1ZlV2RTcUJTT29tZ1IzNDUxajg2Z05sUVpzQVo5YWNUWFNXWXJBRVVvSW5vWUc4?oc=5)
 
@@ -78,11 +118,19 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMixAFBVV95cUxP
 
 ---
 
-### [20 millions de personnes pourraient avoir ce type de diabète longtemps resté méconnu - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaG5nT0V6bHZlQ1ZDdHE5Ni1RQk1ZM2FxVEFSb0tlZGVkcDNmb0pXQ3VYT3JubW1rV1EtekRieG9OaTY5ODVVdlFITE9sSnBBSkJiSmtFVDBXOUp3aWVJWnI3QTI3RTZaRjdia0d3MEZSSmVSLVZ3UnJSSVltdmQxQUNEY2hKQ1M1S082blBhbXZZMFpSNVd4c2F2WTJsXzdISW1jeXV0ZkRya2N0UGRRbW0xU1kwbVE3MXpkSjdyOEwzUmMzVVgzcUNjcU9yX1VRai1ET3k1Mm5pcVlGWUJmaEJndw?oc=5)
+### [In Veneto fino a 450mila casi di diabete di tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
 
-2026-10-13 <span class="news-indication-tag">diabète</span>
+2026-10-12 <span class="news-indication-tag">diabete</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaG5nT0V6bHZlQ1ZDdHE5Ni1RQk1ZM2FxVEFSb0tlZGVkcDNmb0pXQ3VYT3JubW1rV1EtekRieG9OaTY5ODVVdlFITE9sSnBBSkJiSmtFVDBXOUp3aWVJWnI3QTI3RTZaRjdia0d3MEZSSmVSLVZ3UnJSSVltdmQxQUNEY2hKQ1M1S082blBhbXZZMFpSNVd4c2F2WTJsXzdISW1jeXV0ZkRya2N0UGRRbW0xU1kwbVE3MXpkSjdyOEwzUmMzVVgzcUNjcU9yX1VRai1ET3k1Mm5pcVlGWUJmaEJndw?oc=5)
+Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
+
+---
+
+### [Erdnüsse und Diabetes: PeLS-Lipidsignatur hängt mit geringerem Risiko zusammen](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixwFBVV95cUxObnVFWkhNWUNmWXZMTG9xUktNdTYtbjAtX3N0dV9pVFVmcHRUdlZPeU0zVG1SXy14N3phMDhPRTFCTzF2ZGgxOFQ5c3h5cmJ2a25JTkhLQ0pwOUhsVG9PRE0yeTIyaEhuZHQtalpmakl3blJyeV95NXRxWUd2c0E3dUhrRkVlT3ZFZjBrX0lNVXVsRW1zSHQ5d2NXWWJmQjYwUFhSaHN4OUNtU0w3aDRqUW4wNU03dUhiSnpRM2hiTExKbF9jLW9j?oc=5)
 
 ---
 
@@ -94,51 +142,19 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGw
 
 ---
 
-### [Erdnussverzehr beeinflusst das Lipidprofil im Blut: DIfE-Studie](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
+### [Researchers followed glucose monitor users for three years and found a possible kidney benefit](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
 
 2026-10-12 <span class="news-indication-tag">diabetes</span>
 
-Source: [food-monitor](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN3ak1GZGtSV1FXeGRnMWhSb0lGTFRoV0FWSnR4TEdmSmY2TmF4Q25TeE9yQXQyWG9GNnJ4cGJTSnNsbjdVb0ZpRjZsZndkM3JKaDhVN1hSSWcxUEZhRFF6c3B3Y1ZTdmhQd19Mb0FzT2NFLUtUQ0hzWUU0MmtTeWF2UWFSajU4ZzFz?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
 
 ---
 
-### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
+### [Diabetes: Diese Medikamente sollen früher verordnet werden](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabete</span>
+2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-Source: [ANSA](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1hSV2xSYVNiZUdzYUxpMVE3NF8xV2k1UDdPQXhLc3pMMEhiNVhTVVd1QlFHMHdzZlNFZmVITVh5S0FtdXloVEVSTHNfOVBvYXBmN1lPTkUwbWNaNUh6NE43aEVrV0FTWFdTQ3B3VHlkeUtoeUpNOGxqVUFpRklIUkk2ZFZYWWFydW43TGZ4OVNOLUFHYkRSaUFabEljMGp5RUlSanJuMGFnM1FJVjVSSDNMY29QV29qcFE1UUtFNEwtX3dLbGQtLV9SOFM4RDd3LUdPcnlxbThnaGNCNUlmSXlwYWI4UEdnWTlPZmdxMTRMbFh6OEEtWWJ1Yw?oc=5)
-
----
-
-### [In Veneto fino a 450mila casi di diabete di tipo 2](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabete</span>
-
-Source: [ANSA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOS2UyeVRGQWd2YzZCR0xLcm1CNGxnTEVQZXVUcFZILVZNak93QUNxXzVtUlNZdXh0Zkd6dG1HUUhXV1h2V0o5aDY3UmI2MG1FSFFjZXZyV2x3d2VwVnJ5Qm13Tk1uM1FpdklmWXZVUHZLVGpzeFBTTHNud3pqeXdPV1RpTUNBd0dqWnlwTEhHNm5GbUF1Uk85S0hNV2V5bmtldEdjRGYyUGtGRGQ0UDl0QjBhVmRXNE91YlhMSkJjYll6MTc0NWJnX1ZValJISlVIUmRqSnpIb2RTR1pOSXg1bmRhYXhMVzl2QTJvN1doNXNIM01SZ0ZwbGRWRnVuc3pY?oc=5)
-
----
-
-### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
-
-2026-10-09 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
-
----
-
-### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
-2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
----
-
-### [Früherkennung und Ketoazidose: Abbott Big City Talk in Berlin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
-
-2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
 
 ---
 

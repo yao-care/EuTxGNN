@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,29 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+### [Give breakthrough Alzheimer’s drugs on NHS, dementia experts say - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
 
 2026-10-13 <span class="news-indication-tag">dementia</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
 
 ---
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">kidney failure</span>
+2026-10-12 <span class="news-indication-tag">dementia</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+---
+
+### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
+
+2026-10-08 <span class="news-indication-tag">dementia</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
 
 ---
 

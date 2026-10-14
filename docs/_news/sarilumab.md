@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [La SEICAP desmiente que vacunar frente a la gripe produzca exacerbaciones en niños con asma](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
+### [Bulos y mitos sobre la vacuna de la gripe](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">asma</span>
+2026-10-14 <span class="news-indication-tag">asma</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
+Source: [Infoveritas](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTF
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
----
-
-### [Artrosi, fibromialgia, artrite, osteoporosi e le altre 200 malattie reumatologiche: ne soffrono 10 milioni di italiani. Che cosa sta cambiando, le novità - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">artrite</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
 
 ---
 

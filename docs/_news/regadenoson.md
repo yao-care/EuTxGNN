@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 
 ## Related News (3)
 
-### [La SEICAP desmiente que vacunar frente a la gripe produzca exacerbaciones en niños con asma](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
+### [Bulos y mitos sobre la vacuna de la gripe](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">asma</span>
+2026-10-14 <span class="news-indication-tag">asma</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTNhQTFwTnRkVVI4a0c0ZUVBY1JhTExoRU9GaWpnX0ZXcWwySnVySmR6emdTZ21DMUl4OUNXM2RQWHNVdnJxRDZFZ2VEeUQ4T0NoREtfSGc0RW5xU1BoMnYtb2VPQ3I2Qnc0T1pKTzZxZTVBVXE1NkhhTE5Ta0NFUlJhUUJpVVBBOHBJRmJJWVo0ektCWkRNUkdDaktPN01DcjNIT1hQM1ZNSElHdTFHMzdQMVZGOGkwQzdUWVJScUFadU12THhNY29TZ0NNYW83c2dEX3FtSmY5al9IMnRr?oc=5)
+Source: [Infoveritas](https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUWhBckdMRERSb0FOUmhGV2RoZzUtdWpsN1pFMnBtSFpUZnlEX3VDczU5aDdEWjVjcV9fcmd1OVg2ZHUyLWQ3WmcyZWtYeFpSRk91akRlSnVEM1V2WVgzRTB2SkRtTVR5MTJqbXNVVTc3ZEE?oc=5)
 
 ---
 

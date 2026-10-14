@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Schlaganfall: Forscher entdecken überraschende Ursachen - Immer mehr junge Menschen betroffen](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVW9hTENJXzduT2VtMGFpODZwV1pOcUdMUGF5aHBPbFNDOW9pZ0hpZXE4QVFKaDVucl83RUgyQWZXWnVzbTlvazc3WlJtOWE3eUd0eHNlQnNadllQc21KckxiTnh5dnVIRzR6d3lZakc5aUdxZWJ2ZnBMVzlSajlXS2c1QXQ3SWV0VnBSOEJGbzRMRk5ja0EwWm40ZllJd1p1Qmo0UXhCQ0lCUkxHVnRPOUhITllZWEpLcTlaMEVNVHRjRk02dkRnUWF6SjI5M0lLWW43Q0UtUGpYZmpMaTFxU19NY0VOaVhzbmlmR3ZJMVQ?oc=5)
-
----
-
-### [Überraschend klarer Zusammenhang zwischen Gedächtnisleistung und Schlaganfallrisiko](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
+### [Schlaganfall: Ein Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWx2ODZKUmVuZ3hRWktNVFRZYU5XVmdPOUpReERmOEpXZm1XVHc5c2RBQ3JlaEFqSUowWW1ha3R3b3lkdTUxUk1heHBlOXZrbVlwWk83c2FRemZTLVhGV2l6OXlMcnBZNWx0WHpQZG1RclMwT3R5YkRCWkNjSEVSYkpXY3FRTGpic3dybjRPM3kyaWM0MS12anhkSHZwd2xrYXloWk5sSDRMYnJtRFNFWWpRQUVyOGZpT2pmWk5iX0IwOGlzbUtQZElfZGJDVWd5Mm14VV9DWXlQTUhWRjdMU0hYdTk?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 
 ---
 

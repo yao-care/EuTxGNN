@@ -14,7 +14,7 @@ permalink: /news/colistimethate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate Sodium?">
-<strong>Colistimethate Sodium</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Colistimethate Sodium</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Colistimethate Sodium with t
 <p><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
----
-
-### [Artrosi, fibromialgia, artrite, osteoporosi e le altre 200 malattie reumatologiche: ne soffrono 10 milioni di italiani. Che cosa sta cambiando, le novità - Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">artrite</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMizAJBVV95cUxPcTJrNjJkVmk3bWhlQUVxVm03Z29CM3ZXSmNEWFBPSzZ6UkpzazJaaFIwaUlYU3Rkb2YtbjV5NkxTUmlCT2kta3U4RklmTlg4YzVPamNjdkRBWU9aZl82bUl1blVrYUlPTi1Vc3JnMDEtWFNnQXREbFU3dUpyTk9rMUFyZGV2cTl2ZWxHencza1ZXbldBNGZVRldTMnRuRFlSRmFXX2VoTHFLZnZKdFhwVlg3eTMxUHl2M3E2UHNNbDlid3RfY25xcU4tc3NSYWtGYWdLXzV1VnJhaUtHOHg2UlIxOW9TeWdRTzhhLVJSeHZidHlMY01jQUJCTmM2bk92bjIwT0FzTmR5RWZOa0NvVjhJZG1hNU1lbElsVW5hWlZpZFlGUXZPMFFvX0duM2hSS193bHRObE5vdHdzcU9SMWlRZ1hFNWtoSzhVQtIB0gJBVV95cUxNZ2U2YWh0ZWhiOWxkM2IwM2o2dGZyaGUxejhlVlNra2E5NkEzYy1CWnpWRDJ5dU9ncEMwVXM3VDdOWGJ2UWVOMThhR1pHb3VzQlYxaHF4OE1zV1JpZTF3UnZMRTEwcUFlQmlNdE9XNkZyb3AxWXNCWWRzUXd6ZWRENjFTUExzbS1PYzA4VHZDRVd4SHE5WEZoZVcxYnY4R0NnSkQ1cEJ2V1RQcWhmLXlfRU9QV2RUU3dra0REbjcwS2czSmJMTEhpeDNseVgzcTFIRklnclNGS0toUkFEZmlYOU8tb0twRHZTczhVUTdIdDlPdjJYY1pFNVAtajE1TWdyVU9KQVBlYk9UTDljS243TDdZTFhMOXNHNG9HcE4tLWFEcm9MTV84dE52Zlhicm1fS1pKUnVpRzRYRWlYS3JoQ0pPWjBxTFozQjdBM1RTWW5yZw?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxP
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SVXkzNFd1cFhBM1FXcjljRG5aNm5rZ052THhtR1JTSGhuVk94Rzh0UkZwSElTbE4yanFxb0RPcEFVN0lvYUdGMGtILVFvMXkyVkxoS0RmNmhvWnpEdXc?oc=5)
-
----
-
-### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
-
-2026-10-07 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">high blood pressure</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
 
 ---
 
