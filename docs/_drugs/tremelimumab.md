@@ -2,7 +2,7 @@
 layout: default
 title: Tremelimumab
 parent: AI Predictions (L5)
-nav_order: 617
+nav_order: 639
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tremelimumab: From Anti-CTLA-4 Immunotherapy to Diabetic Cataract
+# Tremelimumab: From Hepatocellular Carcinoma and Non-Small Cell Lung Cancer to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Tremelimumab is an anti-CTLA-4 immune checkpoint inhibitor; detailed data on its original approved indication and mechanism of action are not available in this Evidence Pack. The TxGNN model's top-ranked predicted indication is **Diabetic Cataract**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the model's own rationale text explicitly flags the mechanistic link as biologically implausible — most likely an artifact of shared knowledge-graph embeddings rather than a genuine repurposing signal.
+Tremelimumab is an anti-CTLA-4 antibody, originally used together with durvalumab for first-line treatment of advanced or unresectable hepatocellular carcinoma (HCC) and, with platinum-based chemotherapy, for metastatic non-small cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **diabetic cataract**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ---
 
@@ -41,41 +42,66 @@ Tremelimumab is an anti-CTLA-4 immune checkpoint inhibitor; detailed data on its
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack (`original_indications` is empty; MOA recorded as a data gap) |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | First-line treatment of advanced or unresectable HCC (with durvalumab); first-line treatment of metastatic NSCLC without sensitising EGFR mutations or ALK-positive mutations (with durvalumab and platinum-based chemotherapy) |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.49% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Tremelimumab is not available from DrugBank in this Evidence Pack (flagged as data gap DG002). However, the model's own rationale text identifies it as an **anti-CTLA-4 immune checkpoint inhibitor**, whose pharmacology centers on activating T cells and blocking immune tolerance — a mechanism used to enhance anti-tumour immune responses.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Tremelimumab is known to be a monoclonal antibody that targets CTLA-4 (CD152), an immune checkpoint on T cells. By blocking CTLA-4, it enhances T-cell activation against tumours, which underlies its use in HCC and NSCLC.
 
-This mechanism has **no established biological connection** to diabetic cataract, whose pathophysiology is driven by metabolic and osmotic stress (e.g., sorbitol accumulation via the polyol pathway) and oxidative damage to lens proteins — processes unrelated to T-cell checkpoint signalling. Notably, all top 10 TxGNN predictions for this drug are cataract subtypes (diabetic, mature, immature, senile, nuclear, cortical, tetanic, craniostenosis-associated) clustered within a very narrow and nearly identical score range (98.2%–98.5%), which strongly suggests the model is picking up a shared knowledge-graph node (e.g., diabetes-related genes/phenotypes) rather than an independent, indication-specific mechanistic signal.
+The link between these cancer indications and diabetic cataract is weak. Cataract is a degenerative and metabolic lens disorder. In diabetic cataract, the lens is injured by osmotic stress (polyol pathway) and oxidative damage. No established role of CTLA-4 signalling in this process was identified. The high TxGNN score reflects a knowledge-graph prediction and is not backed by mechanistic, preclinical, or clinical data.
 
-More importantly, the directionality of this prediction runs **counter to known pharmacology**: CTLA-4 checkpoint inhibitors are well-documented to *cause* immune-related ocular adverse events (e.g., uveitis) and can trigger autoimmune (type 1-like) diabetes as an immune-related adverse event (irAE). This means Tremelimumab is more plausibly a **risk factor** for ocular and metabolic complications than a candidate therapy for cataract or diabetic retinopathy. Based on the evidence available, this prediction should be treated as a modelling artifact rather than a credible repurposing hypothesis.
+There is also a safety concern. Systemic immune checkpoint blockade carries a risk of immune-related adverse events, including ocular inflammation. Enhancing T-cell activation could plausibly worsen inflammatory eye conditions rather than help them.
+
+Other top-ranked predictions from the model are also eye conditions: mature, immature, senile, nuclear senile, cortical, craniostenosis-associated and tetanic cataract, type 2 diabetes-associated cataract, and diabetic retinopathy. All have scores of about 98% and none has trials or literature. Diabetic retinopathy has only a speculative, indirect link through chronic retinal inflammation. This clustering suggests the model is picking up a general eye-disease pattern rather than a drug-specific signal.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006016 (cancelled) | Imjudo | Not specified | Imjudo in combination with durvalumab is indicated for the first line treatment of adults with advanced or unresectable hepatocellular carcinoma (HCC). Imjudo in combin... |
+
+---
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor, anti-CTLA-4 antibody) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The only interaction record is a pharmacological target entry, namely tremelimumab's binding to its target CTLA-4 (CD152). No drug-drug interactions with other medicines were identified.
+- **General class concern**: Immune checkpoint blockade can cause immune-related adverse events, including ocular inflammation and endocrine disorders. These are relevant to any eye-related use.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -84,13 +110,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 top-ranked predicted indications for Tremelimumab are cataract-related conditions with near-identical scores, zero supporting clinical trials, zero supporting literature (Evidence Level L5), and an explicit mechanistic rationale indicating the link is likely a knowledge-graph embedding artifact rather than a true signal. Furthermore, the drug's known immune-activating mechanism is more consistent with causing ocular/metabolic adverse events than treating them, so this candidate should not advance past initial screening.
+The prediction rests only on a knowledge-graph score. There are no clinical trials, no literature, and no plausible mechanistic link between CTLA-4 blockade and cataract. A systemic immuno-oncology antibody would carry an unfavourable risk-benefit balance for a condition that is surgically treatable. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Original mechanism of action (MOA) data from DrugBank (data gap DG002)
-- TFDA/EMA product label warnings and contraindications (data gap DG001, blocking for S1 safety pre-screening)
-- Independent preclinical or mechanistic validation to rule out this being a KG embedding artifact before any further evaluation
-- Review of TxGNN embedding quality for this drug, given the anomalous clustering of near-identical scores across multiple cataract subtypes
+- Mechanism of action data and any biological evidence linking CTLA-4 signalling to lens or retinal disease
+- Preclinical studies in relevant cataract or retinopathy models
+- Safety information from the SmPC (warnings and contraindications), with particular attention to ocular immune-related adverse events
+- Assessment of whether a local (for example, ocular) route of administration is feasible, since route compatibility has not yet been evaluated
+- Clarification of the current regulatory status of the product in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

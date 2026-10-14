@@ -2,7 +2,7 @@
 layout: default
 title: Setmelanotide
 parent: AI Predictions (L5)
-nav_order: 537
+nav_order: 558
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Setmelanotide: From Genetic Obesity Syndromes to Migraine Disorder
+# Setmelanotide: From Genetic Obesity (BBS, POMC, LEPR Deficiency) to Migraine Disorder
 
 ## One-Sentence Summary
 
-> Setmelanotide is an MC4R (melanocortin-4 receptor) agonist originally developed for rare genetic obesity syndromes such as Bardet-Biedl syndrome and POMC/PCSK1/LEPR deficiency.
-> The TxGNN model predicts it may also be effective for **Migraine Disorder**,
-> but this prediction is currently supported by **zero clinical trials** and **zero publications** — it is a pure knowledge-graph inference with no direct mechanistic or clinical evidence.
+Setmelanotide is a melanocortin-4 receptor (MC4R) agonist, originally used to treat obesity and control hunger in genetically confirmed Bardet-Biedl syndrome (BBS), POMC (including PCSK1) deficiency, and LEPR deficiency.
+The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ---
 
@@ -43,23 +42,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Genetic obesity syndromes (e.g., Bardet-Biedl syndrome, POMC/PCSK1/LEPR deficiency) — not captured in EU license data since the drug is not yet marketed in the EU |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Treatment of obesity and control of hunger associated with genetically confirmed Bardet-Biedl syndrome (BBS), loss-of-function biallelic POMC (including PCSK1) deficiency, or biallelic LEPR deficiency, in adults and children aged 2 years and above |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 92.25% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data from DrugBank is not available (`[Data Gap]`). Based on information embedded in the model's rationale, Setmelanotide is an **MC4R agonist** acting on the hypothalamic melanocortin system, primarily regulating energy homeostasis and appetite. Its proven original indications are rare genetic obesity syndromes, several of which (e.g., Bardet-Biedl syndrome) involve broader hypothalamic-pituitary dysfunction beyond simple weight regulation.
+Detailed mechanism-of-action data are not available in the compiled data. Pharmacology data show that setmelanotide is a peptide agonist of melanocortin receptors. In vitro it activates MC4R, MC3R and MC1R (and is also listed against MC5R). In its approved indications it is proposed to restore appetite control in conditions where the MC4R pathway is impaired, which reduces food intake and weight gain.
 
-The proposed link to migraine rests on the fact that melanocortin receptors (MC1R/MC4R) are expressed in the trigeminovascular system and central pain-modulation pathways — a plausible but indirect anatomical overlap. However, there is **no direct literature support** for a causal relationship between MC4R agonism and migraine, and the theoretical direction of effect is unclear: MC4R activation does not have an established relationship with the vasodilatory mechanisms classically implicated in migraine pathophysiology.
+A link to migraine is biologically conceivable but speculative. The melanocortin and POMC pathways have been discussed in relation to pain modulation and neurovascular regulation. However, no trials or publications were found for this pairing, and the original indication (a genetic metabolic and appetite disorder) is mechanistically distant from migraine.
 
-In short, this prediction is best understood as a **knowledge-graph topological association** (shared receptor family / pathway proximity) rather than a mechanistically or clinically validated hypothesis. It should be treated as a hypothesis-generating signal only.
+There are also signals that argue against a straightforward rationale. MC4R agonism has been associated with blood pressure and heart rate effects, and with headache as an adverse event. The high score (0.922) should therefore be read as a hypothesis-generating signal from a knowledge-graph model, not as evidence of efficacy.
+
+Other predictions in the top 10 are even weaker. The second prediction, migraine with brainstem aura, likely scores high because it sits next to the parent migraine term. Several others (esophageal malformation, esophageal disease, esophageal ulcer, cauda equina syndrome) have no plausible mechanistic link. All have no supporting evidence.
 
 ---
 
@@ -77,15 +78,18 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization data available. Setmelanotide is currently **not marketed** in the EU under this dataset (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005089 (status: cancelled) | Imcivree | Not specified | Treatment of obesity and control of hunger associated with genetically confirmed Bardet Biedl syndrome (BBS), loss-of-function biallelic pro-opiomelanocortin (POMC)... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Known pharmacology-related effect**: Darkening of the skin and hair, likely from off-target activation of MC1R on peripheral melanocytes.
+- **Drug Interactions**: No drug-drug interactions are listed. The interaction data compiled for this report contain only receptor pharmacology entries (MC1R, MC3R, MC4R and MC5R binding).
 
-*(Note: Key warnings, contraindications, and DDI data are currently unavailable — flagged as a Blocking data gap (DG001) that must be resolved before any safety assessment can proceed.)*
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -94,15 +98,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This is an L5, model-only prediction with no clinical trials, no supporting literature, and no direct mechanistic evidence linking MC4R agonism to migraine. Combined with missing TFDA/SmPC safety data (Blocking gap) and missing formal MOA confirmation (High-severity gap), there is insufficient basis to advance this candidate beyond hypothesis stage.
+The migraine prediction has no clinical, registry or literature support (Evidence Level L5). Its mechanistic link is speculative, and the known adverse-effect profile (headache, blood pressure and heart rate effects) points the other way. The EU authorization is also currently cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC label data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism of action from DrugBank API — currently a High-severity data gap (DG002)
-- Targeted literature search on MC4R/melanocortin system involvement in trigeminovascular pain pathways
-- If mechanistic rationale is substantiated, consider preclinical/translational studies before any clinical trial design
-
-*Note: Nine additional low-confidence candidates (migraine with brainstem aura, esophageal disorders, amenorrhea, cauda equina syndrome, neurogenic bladder, hypertrichosis, pituitary dwarfism) were also flagged by TxGNN, all at L5 evidence level with "Hold" recommendations. Several (amenorrhea, hypertrichosis, pituitary dwarfism) show comparatively stronger — though still indirect — mechanistic plausibility via the POMC/melanocortin axis and may warrant lower-priority mechanistic review.*
+- A systematic literature search on melanocortin or MC4R signalling in migraine, to establish whether any preclinical or clinical basis exists
+- Detailed mechanism-of-action data for setmelanotide
+- Warnings and contraindications from the SmPC, to complete safety screening
+- Clarification of the cancelled EU authorization status and available dosage forms and routes
+- Preclinical or early-phase studies if the literature review supports the hypothesis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

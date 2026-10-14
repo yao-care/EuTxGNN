@@ -2,7 +2,7 @@
 layout: default
 title: Brodalumab
 parent: AI Predictions (L5)
-nav_order: 107
+nav_order: 109
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,93 +33,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Brodalumab is a human monoclonal antibody targeting IL-17 receptor A (IL-17RA), globally approved for moderate-to-severe plaque psoriasis but not currently marketed in Taiwan.
-
-The TxGNN model ranks **strongyloidiasis** as its top predicted new indication (score 99.84%); however, this prediction carries a **critical mechanistic red flag** — IL-17/Th17 immunity is the host's primary defense against helminth infections, meaning IL-17RA blockade would theoretically worsen rather than treat this disease.
-
-There are **no clinical trials and no publications** supporting Brodalumab in strongyloidiasis; the second-ranked prediction, **eye disease** (99.82%), holds greater biological plausibility with emerging IL-17 pathway evidence in ocular inflammation.
-
----
+Brodalumab is an IL-17 receptor A (IL-17RA) blocking antibody, originally used to treat moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.
+The TxGNN model predicts it may be effective for **strongyloidiasis** with a very high score, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in Taiwan (globally: moderate-to-severe plaque psoriasis) |
+| Original Indication | Moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy |
 | Predicted New Indication | Strongyloidiasis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| EU Market Status | ✗ Cancelled only (no valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, brodalumab blocks IL-17RA signaling, which is why it is effective in psoriasis, a disease driven by IL-17-mediated inflammation.
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on publicly known information, Brodalumab is a fully human monoclonal antibody that binds to interleukin-17 receptor A (IL-17RA), blocking signaling from multiple IL-17 family cytokines — including IL-17A, IL-17F, IL-17C, and IL-17E (IL-25). This broad receptor-level blockade distinguishes Brodalumab from IL-17A–selective agents such as secukinumab and ixekizumab. It is this mechanism that drives its efficacy in psoriasis, where excessive Th17 activity underlies chronic skin inflammation.
+The link to strongyloidiasis is weak. Host defense against helminths such as *Strongyloides* is driven mainly by type 2 immunity (IL-4, IL-5, IL-13), so blocking IL-17 has no obvious therapeutic rationale. The high TxGNN score appears to be a model output without biological support.
 
-**Regarding the strongyloidiasis prediction — the mechanistic direction is reversed.** The IL-17/Th17 axis is a critical arm of host immunity against extracellular pathogens, including *Strongyloides stercoralis*. Blocking IL-17RA would be expected to impair parasite clearance and significantly increase the risk of strongyloidiasis hyperinfection syndrome — a life-threatening complication. From a pharmacological standpoint, this indication is not merely unsupported; it is a potential contraindication. The TxGNN high score most likely reflects a non-specific association through shared "inflammation" nodes in the knowledge graph, constituting a false positive.
-
-For reference, the second-ranked prediction — **eye disease** — carries substantially more biological plausibility. IL-17 signaling has a documented role in ocular autoimmune inflammation (uveitis, scleritis, episcleritis), and class-level evidence exists for other IL-17–targeting agents in these contexts. Brodalumab's broader IL-17RA blockade profile may have distinct effects from IL-17A–selective agents, which themselves carry a paradoxical uveitis safety signal. This direction is worth pursuing as a research question, even if direct clinical evidence for Brodalumab is currently absent.
-
----
+For context, the other top-ranked predictions (all also Hold) are mostly eye-related inflammatory conditions, such as optic neuritis variants, episcleritis, and a broad "eye disease" category. Among these:
+- Immune-mediated optic and ocular inflammation may involve Th17 cells, giving a theoretical but unproven link.
+- The "eye disease" literature does not show therapeutic benefit. It includes a case report of Behçet's disease arising after brodalumab initiation (a possible paradoxical reaction) and a pharmacovigilance analysis of drug-associated uveitis.
+- Vitamin deficiency disorder and von Hippel anomaly have no identifiable mechanistic link.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Brodalumab in strongyloidiasis.
-
----
-
-> **Supplementary — Eye Disease (Rank 2, Score 99.82%):** The following trial appeared when querying Brodalumab against eye disease; it does not directly evaluate Brodalumab as an ocular intervention.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A | Recruiting | 840 | Observational biomarker profiling of six immune-mediated inflammatory skin diseases (including psoriasis and atopic dermatitis) in real-world practice. Not a Brodalumab intervention trial; relevance to eye disease is indirect, limited to background IL-17 biology in inflammatory skin–eye overlap conditions. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Brodalumab in strongyloidiasis.
+Currently no related literature available for strongyloidiasis.
 
----
+## EU Market Information
 
-> **Supplementary — Eye Disease (Rank 2):** The following review provides mechanistic background relevant to IL-17 blockade in rheumatic and ocular inflammatory disease.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32993066](https://pubmed.ncbi.nlm.nih.gov/32993066/) | 2020 | Review | Int J Mol Sci | Comprehensive overview of IL-17 blockade strategies in systemic rheumatic diseases. Discusses the immunological rationale for targeting the IL-17 axis in autoimmune inflammation, providing background context for potential ocular applications. Not specific to Brodalumab or strongyloidiasis. |
-
----
-
-## Taiwan Market Information
-
-Brodalumab is currently not marketed in Taiwan. No marketing authorizations are on record in the Taiwan regulatory database (total licenses: 0).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003959 (cancelled) | Kyntheum | Not specified | Moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy |
 
 ## Safety Considerations
 
-Please refer to the SmPC (or global prescribing information such as the FDA label for Siliq®) for complete safety information.
+- **Knowledge-graph contraindication signals**: Crohn disease, inflammatory bowel disease, and Crohn's colitis. These come from drug-disease edges in the TxGNN knowledge graph, not from label text, and should be verified against the SmPC.
+- **Drug Interactions**: 68 interactions were identified. Examples include:
+  - **Major**: adalimumab, baricitinib, certolizumab pegol, BCG live vaccine (Tice substrain)
+  - **Moderate**: roflumilast, alefacept, alemtuzumab, anakinra, canakinumab, tetanus toxoid, and several live or other vaccines (anthrax, adenovirus, cholera, and others)
+  - **Minor**: zinc salts (acetate, gluconate, sulfate, chloride)
+- Overall, the combination with other immunosuppressants and with live vaccines deserves particular caution.
 
-> **Clinically important note in the context of this prediction:** Given Brodalumab's mechanism (IL-17RA blockade), use in patients with active or undetected *Strongyloides* infection would be expected to suppress the very immune pathway needed to control parasite burden. Screening for strongyloidiasis prior to initiating any IL-17 pathway inhibitor is a standard precaution — the TxGNN prediction pointing toward *strongyloidiasis as an indication* is mechanistically inverted from this established clinical concern.
-
----
+Please refer to the SmPC for warnings and formal contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN prediction (strongyloidiasis) is a likely false positive — blocking IL-17RA is mechanistically contraindicated in parasitic helminth infection rather than therapeutic, and zero clinical or preclinical evidence supports this indication. Brodalumab has no Taiwan marketing authorization, providing no regulatory foundation to build on.
+The strongyloidiasis prediction has a high model score but no clinical or literature support and no plausible mechanism, since helminth defense depends on type 2 rather than IL-17 immunity. Blocking IL-17 could even be undesirable in an infectious setting. In addition, the only EU authorization has been cancelled.
 
-**To proceed with any evaluation, the following is needed:**
-
-- Obtain formal MOA documentation via DrugBank API (currently marked as Data Gap)
-- Retrieve TFDA prescribing information or global SmPC for complete safety and contraindication data
-- For the more biologically plausible **eye disease** prediction (rank 2): conduct a targeted literature search for Brodalumab in uveitis, scleritis, and related ocular inflammatory conditions — and review the class-level safety signal of paradoxical uveitis with IL-17 inhibitors
-- Consider flagging strongyloidiasis (and similar anti-parasitic/anti-helminth indications) as a systematic false positive class for immunosuppressants acting on the IL-17 axis, to improve the knowledge graph's specificity for future predictions
+**To proceed, the following is needed:**
+- Mechanism of action data (for example, from DrugBank) and a mechanistic assessment of IL-17RA blockade in helminth infection
+- Warnings and contraindications from the SmPC, which are currently missing and block safety screening
+- Preclinical or clinical evidence in strongyloidiasis; if none exists, consider prioritizing candidates with better support, such as immune-mediated ocular inflammation, after careful review of the paradoxical-reaction and uveitis signals
+- Review of the Crohn disease and inflammatory bowel disease contraindication signal and the immunosuppressant and live-vaccine interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

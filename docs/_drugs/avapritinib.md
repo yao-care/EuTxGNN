@@ -2,7 +2,7 @@
 layout: default
 title: Avapritinib
 parent: AI Predictions (L5)
-nav_order: 69
+nav_order: 71
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,90 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avapritinib: From GIST / Systemic Mastocytosis to Axial Spondylometaphyseal Dysplasia
-
-> **Note:** Avapritinib carries no EU/Taiwan marketing authorization. Original indications referenced above are based on FDA approval status and contextual information within this Evidence Pack (repurposing_rationale identifies it as a PDGFRA/KIT inhibitor). EU regulatory data is unavailable.
-
----
+# Avapritinib: From Gastrointestinal Stromal Tumour to Axial Spondylometaphyseal Dysplasia
 
 ## One-Sentence Summary
 
-Avapritinib is a selective KIT and PDGFRA receptor tyrosine kinase inhibitor, approved by the FDA for PDGFRA exon 18-mutant gastrointestinal stromal tumors (GIST) and indolent systemic mastocytosis, but holding no marketing authorization in the EU or Taiwan.
-The TxGNN model predicts it may have activity in **Axial Spondylometaphyseal Dysplasia**,
-however, **no clinical trials and no publications** currently support this direction — this remains a pure AI-derived prediction.
-
----
+Avapritinib is a selective KIT/PDGFRA kinase inhibitor, originally used for PDGFRA D842V-mutant gastrointestinal stromal tumour (GIST) and systemic mastocytosis.
+The TxGNN model predicts it may be effective for **axial spondylometaphyseal dysplasia**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in EU/Taiwan (FDA-approved: PDGFRA exon 18-mutant GIST; indolent systemic mastocytosis) |
-| Predicted New Indication | Axial Spondylometaphyseal Dysplasia |
+|------|------|
+| Original Indication | Unresectable or metastatic gastrointestinal stromal tumour (GIST) with PDGFRA D842V mutation; advanced systemic mastocytosis; indolent systemic mastocytosis |
+| Predicted New Indication | Axial spondylometaphyseal dysplasia |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on information embedded in the repurposing rationale, Avapritinib is a potent and selective inhibitor of KIT and PDGFRA — two receptor tyrosine kinases that, when constitutively activated by somatic mutations, drive diseases such as GIST and systemic mastocytosis.
+Detailed mechanism of action data are not available in the data compiled for this report. Based on the available information, avapritinib is a selective KIT/PDGFRA kinase inhibitor, and its efficacy has been established in KIT/PDGFRA-driven diseases (GIST and systemic mastocytosis).
 
-The theoretical mechanistic link to axial spondylometaphyseal dysplasia rests on one observation: PDGFRA is expressed in chondrocytes and plays a documented role in skeletal development. PDGFR signaling participates in endochondral ossification, meaning that modulating this pathway could, in principle, affect bone and cartilage biology.
+Axial spondylometaphyseal dysplasia is a rare skeletal disorder, reported to be associated with CFAP410 (C21orf2). No involvement of KIT or PDGFRA is known. No mechanistic link has been established between the original indications and this condition.
 
-However, axial spondylometaphyseal dysplasia is a **genetic developmental disorder** — a structural defect arising from germline mutations affecting bone formation during embryogenesis — rather than a disease driven by aberrant kinase activation. There is no known kinase-activating mechanism underlying this condition, and PDGFRA inhibition has no established or proposed therapeutic role in skeletal dysplasia. The mechanistic connection is considered extremely weak, and the high TxGNN score likely reflects a statistical graph-embedding association rather than a clinically actionable biological relationship.
+The high TxGNN score (99.92%) therefore reflects a computational prediction only. It is not backed by trials, literature, or a plausible biological rationale, and it should be treated as a hypothesis at most.
 
----
+## EU Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005208 | Ayvakyt | Not specified | Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with... |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+The only authorization is listed as cancelled.
 
 ## Cytotoxicity
 
-Avapritinib is a targeted oncology agent (KIT/PDGFRA inhibitor) used in GIST and mastocytosis and meets the antineoplastic criterion for this section.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — selective KIT/PDGFRA tyrosine kinase inhibitor (not conventional cytotoxic) |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | CBC with differential, liver function tests, renal function; intracranial hemorrhage surveillance per SmPC |
-| Handling Protection | Follow institutional protocols for oral targeted therapy handling |
-
----
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening was completed and returned 100 interactions in total. Examples of those rated Major include aprepitant, acetylsalicylic acid, clarithromycin, dexamethasone, cobicistat, deferasirox, deferiprone, ibritumomab tiuxetan, tositumomab (I-131) and samarium (153Sm) lexidronam. Examples rated Moderate include cimetidine, clotrimazole, miconazole, fenfluramine, dexfenfluramine, sibutramine, glycerol phenylbutyrate, metreleptin, troglitazone and strontium chloride Sr-89.
 
-*(All available safety fields — key warnings, contraindications, and drug–drug interactions — returned no data for this Evidence Pack. TFDA package insert data is identified as a blocking gap [DG001].)*
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure AI model prediction (L5) with zero supporting clinical trials or published literature, and the proposed mechanistic link — PDGFRA inhibition in a germline skeletal developmental disorder — is biologically implausible. No further development steps are justified until critical data gaps are resolved.
+The prediction rests only on the model score. There are no registered clinical trials or publications, and no plausible mechanistic link between KIT/PDGFRA inhibition and this skeletal dysplasia. The EU authorization is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): Obtain EU SmPC / local package insert data to enable a safety pre-screen (S1 gate)
-- Resolve DG002 (High): Retrieve full MOA data from DrugBank API to confirm kinase target profile
-- Commission a targeted literature review on PDGFRA/KIT expression in axial spondylometaphyseal dysplasia and related skeletal dysplasias — absence of evidence must be confirmed, not assumed
-- Reassess against higher-ranked, biologically plausible candidates in this batch (e.g., Ranks 3/5/7: ALS-spectrum diseases with documented KIT+ mast cell neuroinflammation rationale) before allocating further resources to Rank 1
+- Mechanism of action data and a credible biological rationale linking KIT/PDGFRA inhibition to the disease
+- Preclinical evidence (e.g., disease models) supporting efficacy
+- Warnings and contraindications from the SmPC, so safety screening can be completed
+- Clarification of the current EU regulatory status of avapritinib
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

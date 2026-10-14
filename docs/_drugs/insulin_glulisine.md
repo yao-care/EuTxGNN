@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Glulisine
 parent: High Evidence (L1-L2)
-nav_order: 317
+nav_order: 328
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,99 +29,97 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Insulin Glulisine: From Prandial Glycemic Control to Type 1 Diabetes Mellitus
+# Insulin Glulisine: From Diabetes Mellitus to Type 1 Diabetes Mellitus
 
 ## One-Sentence Summary
 
-Insulin glulisine (Apidra®) is a rapid-acting human insulin analogue engineered for mealtime glucose control in patients with diabetes, with global regulatory approvals (FDA 2004, EMA) that are not yet reflected in the current local market registry.
-The TxGNN model ranks **Type 1 Diabetes Mellitus (T1DM)** as the top predicted indication with a score of 99.55% — confirming its strongest mechanistic and clinical alignment —
-supported by **50 clinical trials** and **19 publications** currently available.
-
----
+Insulin glulisine is a rapid-acting human insulin analogue, originally authorised in the EU for diabetes mellitus in adults, adolescents and children aged six years and older who need insulin.
+The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, with **30 registered clinical trials** and **20 publications** supporting this direction.
+This is essentially the drug's existing labelled use, not a true repurposing, so the high score mostly confirms a known indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No local registration data available |
-| Predicted New Indication | Type 1 Diabetes Mellitus |
+|------|------|
+| Original Indication | Treatment of adults, adolescents and children, six years or older with diabetes mellitus, where treatment with insulin is required |
+| Predicted New Indication | Type 1 diabetes mellitus |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L1 |
-| EU Market Status | Not Registered (0 authorizations in database) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism of action data is not available in the current local database. Based on published pharmacology, insulin glulisine is a rapid-acting human insulin analogue with amino acid substitutions at positions B3 (asparagine → lysine) and B29 (lysine → glutamic acid). These changes reduce self-aggregation and accelerate subcutaneous absorption, producing onset of action within 10–15 minutes and a duration of approximately 3–4 hours — closely mimicking the physiological first-phase insulin secretion that occurs in response to meals.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Insulin glulisine is a rapid-acting analogue of human insulin. As a class, such analogues activate the insulin receptor to lower blood glucose. Compared with regular human insulin, glulisine has a faster onset and shorter duration of action. This is how it covers mealtime (bolus) insulin needs.
 
-Type 1 diabetes mellitus is defined by the autoimmune destruction of pancreatic β-cells, leading to absolute insulin deficiency. Without exogenous insulin, patients cannot regulate postprandial glucose or suppress hepatic glucose output. Insulin glulisine addresses this directly: it binds the insulin receptor (IR), activates the PI3K/AKT signalling cascade, stimulates GLUT4 translocation for glucose uptake in muscle and adipose tissue, promotes glycogen synthesis, and suppresses gluconeogenesis. There is no indirect or extrapolated mechanism here — glulisine *is* the insulin replacement therapy that T1DM patients require.
+Type 1 diabetes is characterised by insulin deficiency, so mealtime insulin is a core part of treatment. The predicted indication falls within the broader labelled indication of "diabetes mellitus where insulin is required". The trials and publications below consistently describe glulisine used in basal-bolus regimens, often with insulin glargine, in people with type 1 diabetes.
 
-This TxGNN prediction is therefore not a novel repurposing in the traditional sense. Rather, it represents a high-confidence confirmation: the model correctly identifies the drug's primary pharmacological target. The absence of local registration data is a regulatory record gap, not a gap in clinical evidence. With multiple completed Phase 3 and Phase 4 trials and over two decades of real-world use globally, the evidence base for this drug-disease pair is among the strongest possible.
-
----
+The other predicted conditions are not supported. Most have no trials or literature. Some, such as the localised lipodystrophies, likely reflect known injection-site adverse effects rather than a therapeutic signal.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT03328845](https://clinicaltrials.gov/study/NCT03328845) | Phase 4 | Completed | 300 | Prospective comparison of different insulin analogues including glulisine in T1DM patients; assessed impact on oxidative stress biomarkers over the treatment period |
-| [NCT00964574](https://clinicaltrials.gov/study/NCT00964574) | Phase 4 | Completed | 68 | Multicenter, open, non-randomised Phase 4 study directly evaluating the efficacy and safety of insulin glulisine in T1DM patients on insulin glargine; evaluated HbA1c, dosing, and patient satisfaction |
-| [NCT00546702](https://clinicaltrials.gov/study/NCT00546702) | Phase 3 | Completed | 142 | Multicenter open Phase 3 study evaluating glulisine (HMR1964) efficacy (HbA1c change from baseline to week 26) and full safety profile in T1DM patients co-treated with insulin glargine |
-| [NCT01204593](https://clinicaltrials.gov/study/NCT01204593) | Phase 4 | Completed | 206 | International, multicenter study of once-daily insulin glargine + three-times-daily insulin glulisine (basal-bolus) in T1DM patients previously uncontrolled on any insulin regimen; primary endpoint HbA1c change at week 24 |
-| [NCT00467376](https://clinicaltrials.gov/study/NCT00467376) | Phase 3 | Completed | 485 | Randomised, 12-week, multicenter trial comparing insulin glulisine (3:1) to insulin lispro in T1DM and T2DM; co-primary endpoints: HbA1c change and hypoglycemia frequency |
-| [NCT04974528](https://clinicaltrials.gov/study/NCT04974528) | Phase 3 | Completed | 319 | INHALE-1: Open-label RCT comparing inhaled Afrezza to injectable rapid-acting analogues (aspart, lispro, or glulisine) combined with basal insulin in pediatric T1DM/T2DM over 26 weeks |
-| [NCT00174642](https://clinicaltrials.gov/study/NCT00174642) | Phase 3 | Completed | 811 | Large multinational trial comparing stepwise introduction of glulisine boluses (1–3 injections) added to insulin glargine + metformin in T2DM patients poorly controlled on basal insulin |
-| [NCT00135083](https://clinicaltrials.gov/study/NCT00135083) | Phase 3 | Completed | 347 | Non-inferiority study: 1 vs. 2 vs. 3 daily glulisine injections added to insulin glargine + oral sensitizer in T2DM; primary endpoint HbA1c at week 24 |
-| [NCT04124302](https://clinicaltrials.gov/study/NCT04124302) | Phase 4 | Completed | 76 | Randomised study comparing two insulin dose-calculation methods on postprandial glycemia after mixed meals in children with T1DM; directly relevant to prandial glulisine dosing |
-| [NCT02846831](https://clinicaltrials.gov/study/NCT02846831) | Phase 2 | Completed | 36 | Open-label, randomised, two-way crossover study comparing single-hormone closed-loop delivery (rapid-acting analogue including glulisine) vs. sensor-augmented pump in adults with T1DM over 12 outpatient days |
+The compiled data lists 30 trials. The table shows the 10 most relevant: completed Phase 3 trials first, then larger or more directly relevant Phase 2 and 4 studies.
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00115570](https://clinicaltrials.gov/study/NCT00115570) | Phase 3 | Completed | 572 | Glulisine vs insulin lispro in children and adolescents with type 1 diabetes (26 weeks) |
+| [NCT00467376](https://clinicaltrials.gov/study/NCT00467376) | Phase 3 | Completed | 485 | Glulisine vs lispro in type 1 or 2 diabetes also using glargine (12 weeks) |
+| [NCT00290979](https://clinicaltrials.gov/study/NCT00290979) | Phase 3 | Completed | 250 | Non-inferiority of glulisine vs lispro on HbA1c in type 1 diabetes (28 weeks) |
+| [NCT00397553](https://clinicaltrials.gov/study/NCT00397553) | Phase 3 | Completed | 104 | Efficacy and safety of glulisine with glargine in type 1 diabetes (non-randomised) |
+| [NCT00046150](https://clinicaltrials.gov/study/NCT00046150) | Phase 3 | Completed | 59 | Safety of glulisine vs insulin aspart in pump (CSII) therapy in type 1 diabetes |
+| [NCT00607087](https://clinicaltrials.gov/study/NCT00607087) | Phase 4 | Completed | 289 | Glulisine vs aspart and lispro in pumps: unexplained hyperglycaemia and infusion set occlusion |
+| [NCT01204593](https://clinicaltrials.gov/study/NCT01204593) | Phase 4 | Completed | 206 | Glargine plus glulisine basal-bolus therapy in type 1 diabetes previously uncontrolled |
+| [NCT01202474](https://clinicaltrials.gov/study/NCT01202474) | Phase 4 | Completed | 100 | Apidra with Lantus in children and adolescents with type 1 diabetes (Russia) |
+| [NCT01678235](https://clinicaltrials.gov/study/NCT01678235) | Phase 4 | Completed | 64 | Glulisine vs aspart on postprandial glycaemia after a high-glycaemic-index meal in children |
+| [NCT01194245](https://clinicaltrials.gov/study/NCT01194245) | Phase 2 | Completed | 135 | Randomised crossover study of prandial insulin with hyaluronidase vs insulin lispro in type 1 diabetes |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [35933650](https://pubmed.ncbi.nlm.nih.gov/35933650/) | 2022 | RCT/Comparative | Acta Diabetologica | Real-world comparison of glulisine vs. lispro and aspart for continuous subcutaneous insulin infusion (CSII) in T1DM; evaluated HbA1c, fasting blood glucose, hyperglycemia, hypoglycemia, and DKA rates |
-| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT | Hormone and Metabolic Research | Multinational, randomised, parallel-group trial (n=683) comparing insulin glulisine to insulin lispro in adults with T1DM; demonstrated comparable glycemic control and safety profile |
-| [21457066](https://pubmed.ncbi.nlm.nih.gov/21457066/) | 2011 | RCT | Diabetes Technology & Therapeutics | Three-way randomised crossover trial comparing glulisine, aspart, and lispro delivered via CSII in T1DM; glulisine showed a trend toward fewer catheter occlusions |
-| [21291333](https://pubmed.ncbi.nlm.nih.gov/21291333/) | 2011 | RCT | Diabetes Technology & Therapeutics | 26-week RCT in pediatric T1DM comparing glulisine to lispro as part of a basal-bolus regimen; demonstrated comparable efficacy and safety in children and adolescents |
-| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Clinical Study | Pediatrics International | Prospective study evaluating glulisine for CSII in 20 children with T1DM over 1 year; significant improvements in postprandial glucose at breakfast and dinner vs. baseline |
-| [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | PK/PD Study | Clinical Pharmacokinetics | Detailed pharmacokinetic and pharmacodynamic characterisation of insulin glulisine; confirms faster absorption, earlier peak action, and shorter duration than regular human insulin |
-| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Review | Drugs | Comprehensive review of insulin glulisine (Apidra) in adults, adolescents, and children with diabetes; non-inferior to other rapid-acting insulins with a comparable glucose disposal profile |
-| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Systematic Review | Drugs of Today | Systematic review of insulin analogues for T1DM in children and adolescents; glulisine is one of three approved rapid-acting analogues with distinct absorption characteristics |
-| [17703632](https://pubmed.ncbi.nlm.nih.gov/17703632/) | 2007 | Review | Vascular Health and Risk Management | Reviews combining basal and prandial insulins for optimal glycemic control in T1DM and T2DM; discusses pharmacokinetic advantages of glulisine in reducing postprandial excursions |
-| [19216625](https://pubmed.ncbi.nlm.nih.gov/19216625/) | 2009 | Review | Expert Opinion on Biological Therapy | Discusses basal/bolus therapy with insulin glulisine for optimised diabetes treatment; covers clinical evidence, physiological rationale, and early initiation of insulin strategy |
-
----
+|------|-----|------|------|---------|
+| [16308840](https://pubmed.ncbi.nlm.nih.gov/16308840/) | 2005 | RCT | Horm Metab Res | Open-label trial of glulisine vs lispro in adults with type 1 diabetes (683 randomised) |
+| [19614947](https://pubmed.ncbi.nlm.nih.gov/19614947/) | 2009 | RCT | Diabetes Obes Metab | Glulisine vs lispro with glargine in Japanese patients with type 1 diabetes |
+| [20150026](https://pubmed.ncbi.nlm.nih.gov/20150026/) | 2010 | Systematic review | Endocr Pract | Rapid-acting analogues vs regular human insulin in basal-bolus regimens in type 1 diabetes |
+| [23243636](https://pubmed.ncbi.nlm.nih.gov/23243636/) | 2012 | Systematic review | Drugs Today | Insulin analogues for type 1 diabetes in children and adolescents |
+| [35933650](https://pubmed.ncbi.nlm.nih.gov/35933650/) | 2022 | Comparative study | Acta Diabetol | Glulisine vs lispro and aspart in pump therapy for type 1 diabetes |
+| [28544684](https://pubmed.ncbi.nlm.nih.gov/28544684/) | 2017 | Clinical study | Pediatr Int | Glulisine in pump therapy in 20 children over one year; postmeal glucose improved |
+| [19496630](https://pubmed.ncbi.nlm.nih.gov/19496630/) | 2009 | Review | Drugs | Review of glulisine in diabetes management; similar glucose effects to lispro |
+| [16706558](https://pubmed.ncbi.nlm.nih.gov/16706558/) | 2006 | Review | Drugs | Faster onset and shorter duration than regular human insulin; similar HbA1c control |
+| [18076215](https://pubmed.ncbi.nlm.nih.gov/18076215/) | 2008 | Pharmacology review | Clin Pharmacokinet | Pharmacokinetics and pharmacodynamics of glulisine |
+| [25865292](https://pubmed.ncbi.nlm.nih.gov/25865292/) | 2016 | Review | Diabetes Metab Res Rev | Continuous subcutaneous insulin infusion in diabetes: populations, safety, efficacy |
 
 ## EU Market Information
 
-No marketing authorization records for insulin glulisine were found in the current database (0 entries). This is a known data gap: insulin glulisine (Apidra®, Sanofi) holds EMA approval and is commercialised across EU member states. Please verify the current authorization status and indication text directly via the [EMA EPAR database](https://www.ema.europa.eu/en/medicines/find-medicine/european-public-assessment-reports).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000557 (cancelled) | Apidra | Not specified | Treatment of adults, adolescents and children, six years or older with diabetes mellitus, where treatment with insulin is required. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction search found 100 interacting drugs. Most of the 20 listed are of moderate severity, and a few are minor. Examples include:
+  - Beta-agonists and sympathomimetics: epinephrine, salbutamol, formoterol, phenylephrine, pseudoephedrine
+  - Beta-blocker: acebutolol
+  - Other glucose-lowering drugs: metformin, pioglitazone, alogliptin, albiglutide
+  - Corticosteroids: hydrocortisone
+  - Others: hydrochlorothiazide, acetazolamide, ethinylestradiol, estradiol, doxycycline, ethanol, alpelisib
+- Hypoglycaemia is the main general risk of insulin therapy, so standard glucose monitoring applies.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Insulin glulisine has one of the strongest evidence profiles of any candidate in this pipeline: it is globally approved (FDA 2004, EMA) for T1DM with multiple completed Phase 3 and Phase 4 trials and over 19 peer-reviewed publications, including direct head-to-head RCTs in both adult and pediatric T1DM populations. The TxGNN L1 prediction score of 99.55% reflects this alignment. The primary constraint is not clinical but regulatory and administrative — the absence of local registration and safety data documentation.
+Multiple completed Phase 3 trials and randomised trials in type 1 diabetes consistently support the efficacy and safety of insulin glulisine. However, this is the drug's existing labelled use rather than a new indication. The only EU authorisation is cancelled, so product availability must be verified.
 
 **To proceed, the following is needed:**
-- Retrieve and parse the official SmPC (Apidra® EU SmPC or equivalent) to document warnings, contraindications, special populations, and drug interaction profile
-- Confirm current EMA authorization status and retrieve approved indication text from the EPAR database
-- Assess local market registration requirements and determine whether existing EMA approval can support expedited local registration pathways
-- Obtain DrugBank MOA data (DB01309) to formally complete the mechanistic section of the repurposing dossier
-- Review pediatric-specific dosing and device compatibility data (CSII pump compatibility) for completeness of the evidence package
+- Confirm whether any glulisine product is currently available in the EU, since the sole marketing authorisation is cancelled
+- Obtain the SmPC warnings and contraindications, which are missing from the data compiled for this report
+- Obtain detailed mechanism of action data
+- Set up a standard monitoring plan for hypoglycaemia and drug interactions, especially with beta-blockers, other glucose-lowering drugs and sympathomimetics
+- Treat the other predicted conditions (for example thiamine-responsive dysfunction syndrome, stiff person syndrome and the lipodystrophies) as on hold, because no clinical evidence supports them
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

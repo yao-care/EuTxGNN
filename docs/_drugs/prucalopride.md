@@ -2,7 +2,7 @@
 layout: default
 title: Prucalopride
 parent: AI Predictions (L5)
-nav_order: 486
+nav_order: 502
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,59 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prucalopride: From Gastrointestinal Motility Disorder to Hypoalphalipoproteinemia
+# Prucalopride: From Chronic Constipation to Hypoalphalipoproteinemia
 
 ## One-Sentence Summary
 
-> Prucalopride is a selective 5-HT4 receptor agonist known for its prokinetic effect on gastrointestinal smooth muscle, used clinically to promote bowel motility.
-> The TxGNN model predicts it may be effective for **Hypoalphalipoproteinemia** (low HDL cholesterol) with a score of **99.82%**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own known mechanism has no established link to lipid metabolism.
+Prucalopride is a selective 5-HT4 receptor agonist (a gastrointestinal prokinetic), originally used for the symptomatic treatment of chronic constipation in adults whom laxatives fail to relieve.
+The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (low HDL cholesterol), but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in source data (drug not marketed in the EU); pharmacologically known as a GI prokinetic agent |
-| Predicted New Indication | Hypoalphalipoproteinemia (low HDL cholesterol) |
+| Original Indication | Symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief |
+| Predicted New Indication | Hypoalphalipoproteinemia |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in structured form (`original_moa` is marked as a data gap). However, the evidence pack's own rationale identifies prucalopride as a selective 5-HT4 receptor agonist whose established pharmacology acts on gastrointestinal smooth muscle to promote motility (prokinetic effect) — consistent with its known clinical use for bowel motility disorders such as chronic constipation.
+Detailed mechanism of action data was not available in the data compiled for this report. Based on general pharmacology, prucalopride is a selective 5-HT4 receptor agonist that enhances gastrointestinal motility, and its efficacy in chronic constipation is established.
 
-There is no known biological pathway connecting 5-HT4 receptor agonism to HDL/lipoprotein metabolism, which is the pathophysiological basis of hypoalphalipoproteinemia. The evidence pack itself explicitly states that this top-ranked prediction "likely reflects a knowledge-graph co-occurrence pattern rather than genuine biological plausibility." In other words, the high TxGNN score is not corroborated by a credible mechanistic story, and no clinical trials or literature currently exist to support it.
+For the top-ranked prediction, hypoalphalipoproteinemia, no plausible mechanistic link could be identified. HDL metabolism and lipoprotein regulation have no known connection to 5-HT4 agonism, so the high score looks like an artifact of the knowledge-graph prediction rather than a pharmacological signal. The other top predictions are similarly weak:
 
-Notably, several lower-ranked predictions in this same output (amyloidosis and primary amyloidosis, ranks 6 and 9) have a mechanistically coherent rationale — amyloid deposition can affect the enteric autonomic nervous system and cause GI motility impairment, which is plausibly addressable by a prokinetic agent — and are backed by preliminary literature. These may warrant separate evaluation, but they are not the top-ranked candidate covered by this report.
+- **Lipid disorders** (homozygous familial hypercholesterolemia, familial combined hyperlipidemia): no mechanistic rationale. The first stems from LDL receptor pathway defects, and the second is an obsolete ontology term.
+- **Infections** (oral candidiasis, strongyloidiasis, HIV): prucalopride has no antifungal, antiparasitic or antiviral action.
+- **Duodenal ulcer**: only a speculative link through upper GI motility. Ulcers are driven by acid and *H. pylori*, and prokinetics are not an established therapy.
+- **Amyloidosis-related conditions** (amyloidosis, primary amyloidosis, acquired amyloid peripheral neuropathy): the only indirectly plausible group. Amyloidosis can cause GI dysmotility such as chronic intestinal pseudo-obstruction, where a prokinetic might relieve symptoms. This would be symptom management, not treatment of the amyloid disease itself.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered for hypoalphalipoproteinemia, nor for any of the other top-10 predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for hypoalphalipoproteinemia.
+
+For context, literature was found only for the amyloidosis-related predictions (ranks 6 and 9). It does not demonstrate prucalopride efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40376135](https://pubmed.ncbi.nlm.nih.gov/40376135/) | 2025 | Case report | Cureus | A 61-year-old man with amyloidosis presenting as chronic intestinal pseudo-obstruction after repeated hospitalizations and laparotomies without a diagnosis |
+| [34231480](https://pubmed.ncbi.nlm.nih.gov/34231480/) | 2021 | Cohort | Turk J Gastroenterol | Specific GI motility disorders (gastroparesis, pseudo-obstruction, colonic inertia) are often misdiagnosed as functional GI disorders by community physicians |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001012 (cancelled) | Resolor | Not specified | Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease edges in the TxGNN knowledge graph, not label text): ulcerative colitis, inflammatory bowel disease, intestinal perforation.
+- **Drug Interactions**: 98 interactions were recorded. Those listed below are from the first 20 reviewed, with no Major-level interactions among them.
+  - Moderate: anticholinergic or antimuscarinic agents (aclidinium, atropine, benzatropine, biperiden, clidinium, glycopyrronium, hyoscyamine), which oppose the prokinetic effect, and hormonal contraceptives (levonorgestrel, norethisterone, ethinylestradiol).
+  - Minor: nifedipine, afatinib, alpelisib, amiodarone, cobicistat, captopril, diltiazem, spironolactone, carvedilol, conivaptan.
 
-> **Note:** A blocking data gap exists — TFDA/EU label warnings and contraindications have not yet been retrieved, which prevents progression to the S1 safety review stage for any candidate indication of this drug.
+Please refer to the SmPC for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (hypoalphalipoproteinemia) has no clinical trial or literature support (Evidence Level L5) and lacks a credible mechanistic link to the drug's known pharmacology. In addition, a blocking data gap in label safety information prevents any candidate from advancing to formal safety review.
+The top prediction, hypoalphalipoproteinemia, has no clinical trials, no literature and no plausible mechanistic link (Evidence Level L5). The high TxGNN score is likely a graph-based artifact. In addition, the EU authorization for Resolor is currently cancelled.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/EU label warnings and contraindications (blocking gap, DG001)
-- Confirm mechanism of action via DrugBank API (DG002)
-- If pursuing repurposing further, prioritize mechanistically plausible candidates from this prediction set (e.g., amyloidosis-associated GI motility disorders) over the top TxGNN-ranked but mechanistically unsupported hypoalphalipoproteinemia indication
+- Detailed mechanism of action data (MOA) from DrugBank
+- Label warnings and contraindications from the SmPC, which are required for safety screening
+- Confirmation of the current EU regulatory status of prucalopride products
+- If a lead is wanted, the amyloidosis-related GI dysmotility indications (Evidence Level L4) are the more credible research question. They would need to be framed as symptom management and supported by targeted studies of prucalopride in that setting.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Roflumilast
-parent: AI Predictions (L5)
-nav_order: 516
-evidence_level: L5
+parent: Medium Evidence (L3-L4)
+nav_order: 534
+evidence_level: L4
 indication_count: 10
 ---
 
 # Roflumilast
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,79 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Roflumilast: From COPD to Pulmonary Hypertension
+# Roflumilast: From Severe COPD to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-> Roflumilast is a selective phosphodiesterase-4 (PDE4) inhibitor used to reduce exacerbations in patients with severe COPD.
-> The TxGNN model predicts it may be effective for **Pulmonary Hypertension**,
-> but this prediction is currently supported by **no clinical trials** and **no literature**, and the underlying mechanistic link is considered weak.
-
----
+Roflumilast is an oral PDE4 inhibitor, originally used as add-on maintenance treatment for severe chronic obstructive pulmonary disease (COPD) with chronic bronchitis.
+The TxGNN model predicts it may be effective for **pulmonary hypertension**, but there are currently **no registered clinical trials** and only **preclinical and review literature** (10 publications) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Obstructive Pulmonary Disease (COPD), per pharmacovigilance literature in this evidence pack |
-| Predicted New Indication | Pulmonary Hypertension |
+| Original Indication | Maintenance treatment of severe COPD (post-bronchodilator FEV1 below 50% predicted) associated with chronic bronchitis in adults with frequent exacerbations, as add-on to bronchodilator treatment |
+| Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 97.24% |
-| Evidence Level | L5 (AI prediction only, no supporting studies) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (blocking data gap). Based on known information, Roflumilast is a selective PDE4 inhibitor that reduces cAMP breakdown, producing anti-inflammatory effects that have proven efficacy in severe COPD.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, roflumilast is a selective PDE4 inhibitor. By blocking PDE4 it raises intracellular cAMP, which gives anti-inflammatory, anti-emphysema and other effects in COPD.
 
-The proposed link to pulmonary hypertension is mechanistically weak. PDE4 inhibition has some theoretical anti-inflammatory and vascular-remodeling-modulating effects, which could plausibly influence pulmonary vascular remodeling. However, the dominant pharmacology for approved PH therapies (e.g., sildenafil, tadalafil) acts through PDE5 inhibition and the cGMP pathway — a mechanistically distinct target from PDE4/cAMP. This is a pure AI-predicted association with no clinical or preclinical data currently supporting it.
+The link to pulmonary hypertension is plausible. Pulmonary hypertension is a frequent complication of advanced COPD. PDE4 is expressed in human pulmonary artery smooth muscle cells, and PDE4 inhibition has anti-proliferative effects there. In rats, roflumilast attenuated hypoxia- and monocrotaline-induced pulmonary hypertension. It also reduced lung injury caused by pulmonary air embolism in an animal model. These findings suggest vasodilatory, anti-remodelling and anti-inflammatory effects.
 
-Given this gap between the predicted mechanism and the established PH treatment pathway, this candidate should be treated as a hypothesis-generation signal only, not as a validated repurposing opportunity.
-
----
+These data are preclinical only, and there is no human efficacy evidence. The high TxGNN score is consistent with the mechanism but is a computational prediction, not clinical evidence. One cited paper concerns ensifentrine, a different PDE3/4 inhibitor, so it offers only indirect class-level support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [19386793](https://pubmed.ncbi.nlm.nih.gov/19386793/) | 2009 | Preclinical (animal) | J Pharmacol Exp Ther | Roflumilast attenuated hypoxia- and monocrotaline-induced pulmonary hypertension in rats |
+| [31004869](https://pubmed.ncbi.nlm.nih.gov/31004869/) | 2019 | Preclinical (animal) | J Surg Res | Roflumilast attenuated lung injury induced by pulmonary air emboli |
+| [16423283](https://pubmed.ncbi.nlm.nih.gov/16423283/) | 2006 | Preclinical (in vitro) | Respir Res | PDE4 is expressed in human pulmonary artery smooth muscle cells, and its inhibition has anti-proliferative effects |
+| [37524492](https://pubmed.ncbi.nlm.nih.gov/37524492/) | 2023 | Review | Adv Pharmacol | PDE inhibitors as targets in lung diseases, including COPD, asthma, cystic fibrosis and pulmonary hypertension |
+| [21316552](https://pubmed.ncbi.nlm.nih.gov/21316552/) | 2010 | Review | Arch Bronconeumol | Pharmacological profile of roflumilast: PDE4 inhibition, raised cAMP, anti-inflammatory effects |
+| [20381629](https://pubmed.ncbi.nlm.nih.gov/20381629/) | 2010 | Review | Pulm Pharmacol Ther | Preclinical pharmacology of roflumilast, a selective oral PDE4 inhibitor |
+| [16458289](https://pubmed.ncbi.nlm.nih.gov/16458289/) | 2006 | Review | Eur J Pharmacol | PDE inhibitors in airways disease: cAMP elevation, airway smooth muscle relaxation, reduced inflammation |
+| [42582753](https://pubmed.ncbi.nlm.nih.gov/42582753/) | 2026 | Commentary / early data | Open Respir Med J | Early data on ensifentrine (a different PDE3/4 inhibitor) in COPD-associated pulmonary hypertension; indirect support only |
 
 ## EU Market Information
 
-Roflumilast currently has no marketing authorization on record in this system (market status: **not marketed**, 0 authorizations). No product-level data is available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001179 (cancelled) | Daxas | Not specified | Maintenance treatment of severe chronic obstructive pulmonary disease (COPD) (FEV1 post-bronchodilator less than 5... |
 
 ## Safety Considerations
 
-No formal SmPC-level warnings, contraindications, or drug-drug interaction data are available for this drug (blocking data gap — TFDA/EMA label not yet retrieved).
+- **Drug Interactions**: The interaction screen returned 100 interactions in total, and the 20 listed in the data are all of Moderate severity. The main groups are:
+  - Corticosteroids: hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Cimetidine
+  - Obeticholic acid
+  - Deferasirox
+  - Radiopharmaceuticals/antibodies: iobenguane (I-131), ibritumomab tiuxetan, tositumomab
+  - Others: fostamatinib, ticlopidine, levamisole, thiabendazole, trimetrexate
+- **Knowledge-graph contraindication signals** (from a computational graph, not label text): liver failure, anxiety disorder, neurotic disorder, dysthymic disorder.
 
-However, evidence collected under a separate predicted-indication entry ("headache disorder," rank 3) flags an important safety signal: clinical trial and real-world pharmacovigilance data consistently identify **headache, weight loss, decreased appetite, insomnia, diarrhea, vomiting, and nausea** as common adverse effects of Roflumilast, occurring mainly early in treatment (trial NCT02018432; pharmacovigilance analyses PMID [41458197](https://pubmed.ncbi.nlm.nih.gov/41458197/) and PMID [41602587](https://pubmed.ncbi.nlm.nih.gov/41602587/)). This is a known class effect of PDE4 inhibitors and should be treated as a **safety consideration for the drug itself**, not as a repurposing opportunity — the TxGNN model's prediction of "headache disorder" as a treatable indication is directionally inconsistent with the actual evidence and should not be pursued.
-
----
+For full warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (pulmonary hypertension) has no clinical trial or literature support and rests on a mechanistically weak link (PDE4 vs. the PDE5-dominant PH treatment pathway). Combined with the absence of basic label-level safety data and the drug's current unmarketed status, there is insufficient evidence to advance this candidate beyond model prediction.
+The evidence is limited to animal and in vitro studies plus reviews (L4), with no human efficacy data and no registered trials. The only EU authorization is cancelled, and the label safety information has not been reviewed.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/EMA label safety data (warnings, contraindications) — currently a blocking gap
-- Obtain detailed MOA data from DrugBank to properly assess mechanistic plausibility
-- Preclinical or mechanistic studies specifically testing PDE4 inhibition in pulmonary vascular remodeling/PH models
-- Clarify and separately track the headache/adverse-effect signal so it is not conflated with genuine repurposing candidates
-- Consider evaluating higher-evidence candidates in this pack instead — e.g., "female breast carcinoma" (rank 4, L4, in vitro mechanistic data available) offers a more substantive starting hypothesis than the top-ranked PH prediction
+- Review of the SmPC warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Human evidence, such as a pilot or Phase 2 study in pulmonary hypertension, ideally in COPD-associated disease
+- Dose and tolerability assessment in pulmonary hypertension patients, including the graph-flagged liver and psychiatric considerations
+- Clarification of the regulatory and market situation, given that the EU authorization has been cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

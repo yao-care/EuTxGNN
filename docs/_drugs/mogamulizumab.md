@@ -2,7 +2,7 @@
 layout: default
 title: Mogamulizumab
 parent: AI Predictions (L5)
-nav_order: 400
+nav_order: 414
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,92 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mogamulizumab: From Cutaneous T-Cell Lymphoma to Prostatic Urethra Urothelial Carcinoma
+# Mogamulizumab: From Mycosis Fungoides/Sézary Syndrome to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-> Mogamulizumab is an anti-CCR4 monoclonal antibody used for cutaneous T-cell lymphoma (CTCL) and Sézary syndrome.
-> The TxGNN model predicts it may be effective for **Prostatic Urethra Urothelial Carcinoma**,
-> but currently **0 clinical trials** and **0 publications** support this direction — this is a pure model prediction.
-
----
+Mogamulizumab (Poteligeo) was originally used to treat adult patients with mycosis fungoides or Sézary syndrome who have received at least one prior systemic therapy.
+The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in local regulatory data; based on known drug class information — Cutaneous T-cell lymphoma (CTCL) / Sézary syndrome |
-| Predicted New Indication | Prostatic Urethra Urothelial Carcinoma |
+| Original Indication | Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy |
+| Predicted New Indication | Prostatic urethra urothelial carcinoma |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on known information, Mogamulizumab is an anti-CCR4 monoclonal antibody that depletes CCR4-expressing regulatory T cells (Tregs) and malignant T cells; its efficacy in CTCL/Sézary syndrome is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, mogamulizumab is an anti-CCR4 monoclonal antibody. It depletes CCR4-positive cells, including effector regulatory T cells (Tregs), through enhanced antibody-dependent cellular cytotoxicity (ADCC). Its efficacy in MF/SS, which are cutaneous T-cell lymphomas, is the basis of its original approval.
 
-Urothelial carcinoma of the prostatic urethra has no known biological connection to CCR4 expression or T-cell lymphoma biology. According to the evidence pack's own rationale, the high TxGNN score most likely reflects indirect clustering of urinary-tract tumor nodes within the knowledge graph, rather than genuine pharmacological plausibility.
+The link to urothelial carcinoma is theoretical. Removing Tregs from the tumour microenvironment could strengthen antitumour immunity, and immunotherapy is already established in urothelial cancers. However, no CCR4-specific data for these tumours were available, and the original mechanism field is incomplete. The connection therefore rests on the TxGNN prediction (score 0.994, rank 5962) alone and would need preclinical validation, such as confirming CCR4+ Treg infiltration in these tumours.
 
-No clinical trial or literature evidence currently supports extending Mogamulizumab to this indication. This prediction should be treated as a hypothesis-generation signal only, not as a basis for clinical or regulatory action.
-
----
+Other high-scoring predictions follow the same pattern. They include several urothelial entities (kidney pelvis sarcomatoid transitional cell carcinoma, sarcomatoid bladder urothelial carcinoma, renal pelvis papillary urothelial carcinoma, and transitional cell carcinoma), HHV-8-related tumours and Richter syndrome. All have no supporting trials or literature.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## EU Market Information
 
-## Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004232 (status: cancelled) | Poteligeo | Not specified | Treatment of adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy |
 
-No marketing authorizations are currently registered for this drug in this market (market status: Not Marketed; 0 licenses on file).
-
----
-
-## Cytotoxicity (Antineoplastic Drugs Only)
-
-Mogamulizumab is an antineoplastic monoclonal antibody (approved for CTCL/Sézary syndrome, a lymphoid malignancy).
+## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy / Immunotherapy (anti-CCR4 monoclonal antibody; not conventional cytotoxic chemotherapy) |
-| Myelosuppression Risk | Data not available in this evidence pack — mAbs targeting CCR4⁺ T cells typically carry lower classic myelosuppression risk than cytotoxic chemotherapy, but immune-related adverse events (infusion reactions, dermatologic toxicity, autoimmune effects) are class-relevant concerns |
-| Emetogenicity Classification | Low (typical for monoclonal antibody therapy) |
-| Monitoring Items | CBC, skin examination, infusion-reaction monitoring, signs of autoimmune/immune-related toxicity |
-| Handling Protection | Standard IV biologic handling; special cytotoxic drug handling precautions are not typically required for this drug class |
-
-Please refer to the SmPC warnings and precautions for confirmed toxicity data.
-
----
+| Cytotoxicity Classification | Targeted immunotherapy (anti-CCR4 monoclonal antibody), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Label warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for safety information.
 
----
+**Drug Interactions**: 83 interactions were identified. The listed examples below are from the first 20 entries returned.
+- **Major**: Deferiprone, Samarium (153Sm) lexidronam, Adalimumab, Baricitinib
+- **Moderate**: Strontium chloride Sr-89, Roflumilast, Chloramphenicol (including ophthalmic), Zidovudine, Clostridium tetani toxoid antigen, Alefacept, Alemtuzumab, Anakinra, Anthrax vaccine, Azathioprine, Canakinumab
+- **Minor**: Zinc sulfate, zinc acetate, zinc gluconate, zinc chloride
+
+Many of these are immunosuppressants or vaccines, so combined immune effects warrant careful review. Treg depletion may also carry infection or immune-related risks in immunocompromised patients.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but this is unsupported by any clinical trial or literature evidence, and the mechanistic link between anti-CCR4 activity and urothelial carcinoma is weak per the model's own rationale. Critical safety data (TFDA warnings/contraindications) and mechanism-of-action confirmation are also missing, blocking any safety pre-assessment (S1).
+The prediction is supported only by the model score (99.44%), with no clinical trials or literature (Evidence Level L5). The mechanistic link is hypothetical, and the EU authorization for the original indication is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data — warnings, contraindications (blocking gap, DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Prospective or at least preclinical/mechanistic evidence specifically linking CCR4 biology to urothelial carcinoma
-- Continued literature monitoring is reasonable for two comparatively higher-plausibility candidates flagged in the evidence pack — **HHV8-related tumor** (rank 5, immune-evasion mechanism rationale) and **Richter syndrome** (rank 10, shared lymphoid malignancy class) — though both remain L5/Hold pending actual data
+- Full mechanism of action data, and preclinical evidence of CCR4+ Treg involvement in urothelial carcinoma
+- Package insert warnings and contraindications (blocking for safety screening)
+- Clarification of the reason for the cancelled EU authorization and current availability
+- Literature and trial registry searches targeted at CCR4 or Treg depletion in urothelial tumours
+- Assessment of route and formulation compatibility for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

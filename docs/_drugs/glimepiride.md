@@ -2,7 +2,7 @@
 layout: default
 title: Glimepiride
 parent: AI Predictions (L5)
-nav_order: 279
+nav_order: 287
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Glimepiride is a third-generation sulfonylurea originally developed to treat type 2 diabetes mellitus. The TxGNN model assigns a very high prediction score (**99.75%**) to **Focal Stiff Limb Syndrome** as a potential new indication, but this candidate currently has **zero clinical trials and zero publications** supporting it, and the proposed biological rationale is considered weak.
+Glimepiride is a sulfonylurea antidiabetic drug, originally used to treat type 2 diabetes mellitus, and in the EU it was authorized as part of the pioglitazone/glimepiride combination Tandemact.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ---
 
@@ -41,47 +42,63 @@ Glimepiride is a third-generation sulfonylurea originally developed to treat typ
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (established sulfonylurea use; no formal EU/TW marketing-authorization record on file) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
+| Original Indication | Type 2 diabetes mellitus in patients intolerant to metformin (or for whom metformin is contraindicated) who are already treated with pioglitazone plus glimepiride (Tandemact) |
+| Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data for glimepiride is not available in this evidence pack (flagged as a High-severity data gap — DG002). Based on known pharmacology, glimepiride is part of the sulfonylurea class, and its glucose-lowering efficacy in type 2 diabetes is well established through binding to the SUR1 subunit (ABCC8) of the pancreatic β-cell KATP channel, which triggers insulin release.
+Currently, detailed mechanism of action data is not available. Glimepiride is a sulfonylurea that is generally understood to close pancreatic beta-cell KATP channels and so promote insulin secretion. Its efficacy in type 2 diabetes is established, but its mechanism has not been shown to be applicable to focal stiff limb syndrome.
 
-Focal Stiff Limb Syndrome, by contrast, belongs to the stiff-person syndrome spectrum, a disease driven by GAD65 autoantibody-mediated autoimmunity and impaired GABAergic neurotransmission in the central nervous system. According to the evidence pack's own rationale, there is **no known biological link** between sulfonylurea-mediated KATP channel closure and GABAergic/autoimmune neurological dysfunction.
+The link between the original and predicted indications is weak. Focal stiff limb syndrome belongs to the stiff-person spectrum, which is mainly autoimmune (often anti-GAD65 antibodies) and involves impaired GABAergic signalling. The high TxGNN score most likely reflects network proximity in the knowledge graph, such as the shared GAD65 autoimmunity seen in type 1 diabetes. It does not reflect a direct pharmacological rationale. No evidence suggests that KATP channel blockade relieves muscle rigidity or spasms.
 
-The model's high similarity score is therefore assessed as most likely arising from knowledge-graph comorbidity patterns or drug-similarity artifacts rather than a genuine, testable pharmacological mechanism. This candidate should be treated as a low-confidence, exploratory signal rather than a mechanistically grounded hypothesis.
+The same score and the same caveats apply to classic stiff person syndrome, which was ranked immediately after this indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations are on file for this jurisdiction — the evidence pack lists 0 licenses and a "Not Marketed" status. This is a Blocking-severity data gap (DG001: TFDA label/warnings and contraindications), which also prevents any Stage 1 safety review for this drug.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000680 (cancelled) | Tandemact | Not specified | Tandemact is indicated for the treatment of patients with type-2 diabetes mellitus who show intolerance to... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Safety data compiled for this report is limited, and no label-based warnings or contraindications were available. Please refer to the SmPC for authoritative safety information.
+
+- **Knowledge-graph contraindication signals** (derived from the TxGNN knowledge graph, not from label text): kidney disease, liver disease, gallbladder disease, congestive heart failure, osteoporosis (including postmenopausal), thymus gland disease, infectious disease, and a range of pituitary and hypothalamic–gonadal disorders (for example hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome).
+- **Drug Interactions**: 100 interactions were found, and the 20 shown in the data are mostly of moderate severity. Examples include:
+  - Phenylephrine, pseudoephedrine, epinephrine, salbutamol and formoterol
+  - Acebutolol
+  - Acetazolamide
+  - Famotidine and ranitidine
+  - Ibuprofen and ketorolac
+  - Hydrochlorothiazide
+  - Ethanol
+  - Albiglutide
+  - Acitretin
+  - Ethinylestradiol
+  - Hydrocortisone, systemic (moderate) and topical (minor)
 
 ---
 
@@ -90,14 +107,15 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no supporting clinical trials or literature (Evidence Level L5, Decision Stage S0), and the proposed mechanistic link to sulfonylurea pharmacology is not biologically plausible — the evidence pack itself flags the prediction as a likely knowledge-graph artifact rather than a genuine signal.
+The prediction rests only on a graph-based score. There are no trials or publications, and no plausible mechanism links a KATP channel blocker to a stiff-person-spectrum disorder. The only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA-approved label data (warnings, contraindications) — currently a Blocking data gap (DG001)
-- Confirmed mechanism-of-action data from DrugBank (DG002) to properly assess mechanistic plausibility
-- Independent preclinical or mechanistic evidence linking sulfonylurea/KATP-channel activity to autoimmune/GABAergic pathology before any further investment
+- Detailed mechanism of action data and a testable mechanistic hypothesis for stiff limb or stiff person syndromes
+- Preclinical or case-level evidence of benefit
+- Label-based safety data (warnings and contraindications) from the SmPC
+- Clarification of why the product's EU authorization was cancelled
 
-**Note:** Within the same evidence pack, a different candidate for glimepiride — *type 1 diabetes mellitus* (rank 10, score 98.86%) — has materially stronger support (Evidence Level L3, 50 clinical trials, 17 publications, decision stage S1 "Research Question") and may warrant a separate, dedicated evaluation report rather than being pursued under this Hold decision.
+**Note on other predictions:** Among the other predicted indications, only type 1 diabetes mellitus has meaningful supporting material (Evidence Level L3). That evidence is mostly indirect: the trials use glimepiride as a comparator in type 2 diabetes, and a small adolescent study and case reports support use in residual beta-cell function or monogenic diabetes. It may be a better candidate for further evaluation than the indication assessed here.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

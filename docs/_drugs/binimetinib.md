@@ -2,7 +2,7 @@
 layout: default
 title: Binimetinib
 parent: AI Predictions (L5)
-nav_order: 95
+nav_order: 97
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,107 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Binimetinib: From BRAF V600E/K Mutant Melanoma to Choroideremia
+# Binimetinib: From BRAF V600-Mutant Melanoma and NSCLC to Choroideremia
 
 ## One-Sentence Summary
 
-Binimetinib is a MEK1/2 kinase inhibitor approved for use in combination with encorafenib for the treatment of adult patients with unresectable or metastatic melanoma harboring BRAF V600E/K mutations.
-The TxGNN model predicts it may be effective for **Choroideremia** with a prediction score of **98.63%**,
-however, there are currently **no clinical trials** and **no publications** supporting this direction, placing the evidence at Level 5 (AI model prediction only).
+Binimetinib is a MEK inhibitor used together with encorafenib to treat BRAF V600-mutant melanoma and BRAF V600E-mutant non-small cell lung cancer.
+The TxGNN model ranks **choroideremia** as its top predicted new indication, but there are **0 clinical trials** and **0 publications** supporting it.
+Evidence is much stronger for related melanoma subtypes, especially **malignant melanoma of the mucosa** (1 randomized Phase 2 trial) and **non-cutaneous melanoma** (5 trials).
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | BRAF V600E/K mutation-positive unresectable or metastatic melanoma (in combination with encorafenib) |
-| Predicted New Indication | Choroideremia |
+|------|------|
+| Original Indication | Unresectable or metastatic melanoma with a BRAF V600 mutation; advanced NSCLC with a BRAF V600E mutation (in combination with encorafenib) |
+| Predicted New Indication | Choroideremia (rank 1). Rank 2 is non-cutaneous melanoma, which has the most supporting evidence among the top predictions. |
 | TxGNN Prediction Score | 98.63% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known clinical information, Binimetinib is a selective inhibitor of MEK1 and MEK2 kinases — components of the RAS/MAPK (Rapidly Accelerated Fibrosarcoma/Mitogen-Activated Protein Kinase) signaling cascade. It is used in combination with the BRAF inhibitor encorafenib to suppress downstream ERK phosphorylation, thereby halting tumor cell proliferation in BRAF V600-mutant melanoma.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Binimetinib is known to be a MEK1/2 inhibitor that acts downstream of BRAF in the MAPK pathway. Its efficacy in BRAF V600-mutant melanoma and NSCLC has been established in combination with encorafenib.
 
-Choroideremia is an X-linked recessive hereditary retinal dystrophy caused by loss-of-function mutations in the CHM gene, which encodes Rab Escort Protein 1 (REP1). The disease mechanism centers on impaired Rab geranylgeranyl transferase (Rab-GGTase) activity, leading to failure of intracellular vesicular transport in retinal pigment epithelium and photoreceptors, and their subsequent progressive degeneration. This pathophysiology does not have a direct, established connection to the MEK-ERK signaling axis.
+**Choroideremia (rank 1):** This is an X-linked retinal degenerative disease caused by loss of CHM/REP1. No clear link to MEK inhibition is evident, and binimetinib's cancer indications have no known connection to this pathology. The high score (0.986) is a computational prediction only. It should be treated as a hypothesis, not as supported evidence.
 
-The high TxGNN prediction score likely reflects a distant, indirect association in the knowledge graph — possibly through shared retinal cell survival nodes — rather than a specific mechanistic link. Without preclinical experimental evidence demonstrating MEK-ERK pathway involvement in choroideremia pathophysiology, this prediction cannot be mechanistically justified at this time, and the biological rationale requires foundational research before any clinical translation is considered.
+**Melanoma subtypes (ranks 2-10):** Most other predictions are melanoma subtypes. This is mechanistically coherent: many BRAF V600-mutant melanomas depend on the MAPK pathway, and the approved indication already covers cutaneous melanoma with this mutation. Some subtypes are a weaker fit. Lentigo maligna melanoma is often driven by NRAS, KIT or NF1 alterations rather than BRAF V600. BRAF V600 mutations occur only in a minority of mucosal melanomas, so benefit would be limited to mutation-positive cases.
+
+The sections below cover the **rank 1 prediction (choroideremia)**, which has no evidence. Evidence for the next-best-supported prediction, **non-cutaneous melanoma**, is shown separately for context.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+**Choroideremia (rank 1):** Currently no related clinical trials registered.
+
+**Non-cutaneous melanoma (rank 2, for context):**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03235245](https://clinicaltrials.gov/study/NCT03235245) | Phase 2 | Active, not recruiting | 271 | Randomized trial: 12-week encorafenib + binimetinib induction followed by nivolumab + ipilimumab, versus nivolumab + ipilimumab alone, in BRAF V600-mutant unresectable or metastatic melanoma (EBIN) |
+| [NCT04045691](https://clinicaltrials.gov/study/NCT04045691) | N/A | Recruiting | 750 | Non-interventional real-world study (BERING-MELANOMA) of encorafenib + binimetinib in BRAF V600-mutant melanoma |
+| [NCT04543188](https://clinicaltrials.gov/study/NCT04543188) | Phase 1 | Terminated | 65 | PF-07284890 alone and combined with binimetinib in BRAF V600-mutant solid tumours, with and without brain involvement |
+| [NCT04913285](https://clinicaltrials.gov/study/NCT04913285) | Phase 1 | Recruiting | 400 | Safety and PK of KIN-2787 in BRAF/NRAS-mutant solid tumours; the role of binimetinib is unclear |
+| [NCT05355701](https://clinicaltrials.gov/study/NCT05355701) | Phase 1 | Active, not recruiting | 103 | PF-07799933 in advanced BRAF-altered solid tumours; the role of binimetinib is unclear |
+
+**Malignant melanoma of the mucosa (rank 8, for context):**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04511013](https://clinicaltrials.gov/study/NCT04511013) | Phase 2 | Recruiting | 112 | Randomized trial of encorafenib + binimetinib + nivolumab versus ipilimumab + nivolumab in BRAF V600-mutant melanoma with brain metastases; no results yet |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+**Choroideremia (rank 1):** Currently no related literature available.
+
+**Related melanoma predictions (for context):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30376465](https://pubmed.ncbi.nlm.nih.gov/30376465/) | 2019 | Real-world cohort | Melanoma Research | Multicenter retrospective study of 65 patients with melanoma and active brain metastases treated with BRAF/MEK inhibitor combinations (nodular melanoma prediction) |
+| [33877099](https://pubmed.ncbi.nlm.nih.gov/33877099/) | 2021 | Case report | Recenti Progressi in Medicina | Amelanotic acral melanoma treated first-line with encorafenib + binimetinib: complete response lasting 37 months, then partial response on anti-PD-1 therapy |
+| [25788221](https://pubmed.ncbi.nlm.nih.gov/25788221/) | 2015 | Case report | European Journal of Dermatology | Panniculitis in two patients with BRAF-mutated metastatic melanoma on BRAF + MEK inhibitor therapy |
+| [41774417](https://pubmed.ncbi.nlm.nih.gov/41774417/) | 2025 | Case report | Pigment Cell & Melanoma Research | Epidermotropic metastatic melanoma presenting as eruptive primary melanomas; not specific to binimetinib |
+| [42483333](https://pubmed.ncbi.nlm.nih.gov/42483333/) | 2026 | Case report | Journal of Family Medicine and Primary Care | Delayed diagnosis of metastatic melanoma recurrence; not specific to binimetinib |
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Binimetinib currently holds no marketing authorization in Taiwan. The drug is not marketed domestically.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004579 (cancelled) | Mektovi | Not specified | Melanoma: binimetinib with encorafenib for adults with unresectable or metastatic melanoma with a BRAF V600 mutation. NSCLC: with encorafenib for advanced NSCLC with a BRAF V600E mutation... |
 
 ---
 
 ## Cytotoxicity
 
-Binimetinib's original approved indication is unresectable or metastatic melanoma — a malignancy — and it belongs to the kinase inhibitor class of anticancer agents.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — MEK1/2 inhibitor (non-conventional cytotoxic; not a classical alkylating or antimetabolite agent) |
-| Myelosuppression Risk | Low (MEK inhibitors carry substantially lower myelosuppression risk than conventional chemotherapy; anaemia and neutropenia reported at low frequency) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (baseline and periodic), liver function tests (ALT/AST/bilirubin), cardiac function (LVEF by echocardiography), serum creatine kinase (CK), ophthalmological examination (retinal vein occlusion, uveitis, serous retinopathy), blood pressure |
-| Handling Protection | Please refer to the SmPC warnings and precautions; standard oral anticancer drug handling precautions apply per institutional protocol |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (MEK inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Warning and contraindication data are not available in the data compiled for this report. Please refer to the SmPC for safety information.
+
+**Drug Interactions:** The interaction query found 100 interacting drugs. The 20 reviewed include the following.
+- **Major:** deferasirox, ibritumomab tiuxetan, tositumomab, tositumomab (I-131), drotrecogin alfa
+- **Moderate (examples):** omeprazole, dexamethasone, clarithromycin, simvastatin, ticagrelor, eltrombopag, naloxone, naltrexone, cobicistat, albendazole
 
 ---
 
@@ -106,14 +138,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (98.63%), the mechanistic rationale for applying a MEK inhibitor to choroideremia — a disease driven by CHM gene mutation and Rab-GGTase pathway dysfunction — is absent, and no supporting clinical trials or published literature exist. There is no basis to advance this candidate without primary mechanistic evidence.
+The top-ranked prediction, choroideremia, rests on a model score alone. There are no trials or publications, and there is no plausible link between MEK inhibition and its CHM/REP1 loss mechanism. Separately, the EU authorization for Mektovi is listed as cancelled, which complicates any near-term development path in the EU.
 
 **To proceed, the following is needed:**
-- Basic mechanistic research to determine whether MEK-ERK pathway activity contributes to choroideremia pathophysiology or photoreceptor survival
-- Preclinical validation using CHM-knockout animal models or patient-derived retinal organoids treated with binimetinib
-- TFDA prescribing information (SmPC equivalent) to fully characterize the safety profile for potential new patient populations, including ophthalmic considerations
-- Detailed MOA data from DrugBank or peer-reviewed sources to enable formal mechanistic linkage analysis
-- Landscape review of the choroideremia treatment pipeline (note: CHM gene replacement therapy via AAV vector is the leading clinical approach and represents a fundamentally different mechanism; the competitive and scientific context must be assessed before committing resources to a small-molecule repurposing strategy)
+- Mechanistic evidence for MEK/MAPK involvement in choroideremia, or preclinical data in relevant retinal models
+- Confirmed mechanism of action data for binimetinib
+- Safety information from the SmPC, including warnings and contraindications, and a review of the major drug interactions
+- Clarification of the reason for the cancelled EU authorization and the current availability of the product
+- For the melanoma-subtype predictions, subtype-specific results, for example from the NCT04511013 trial once available. Results from the non-cutaneous and mucosal subgroups of the other trials would also help.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

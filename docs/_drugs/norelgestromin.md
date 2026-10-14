@@ -2,7 +2,7 @@
 layout: default
 title: Norelgestromin
 parent: AI Predictions (L5)
-nav_order: 423
+nav_order: 437
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Norelgestromin: From Contraceptive Use to Amenorrhea
+# Norelgestromin: From Female Contraception to Amenorrhea
 
 ## One-Sentence Summary
 
-Norelgestromin is the active metabolite of norgestimate, used clinically as the progestin component of combined hormonal contraceptive patches. The TxGNN model predicts it may be effective for **Amenorrhea**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI-model prediction with no direct evidence base.
-
----
+Norelgestromin is a progestin used in a transdermal contraceptive patch, originally approved for female contraception.
+The TxGNN model predicts it may be useful for **amenorrhea**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the regulatory dataset (drug not marketed in the EU). Based on established pharmacology, norelgestromin is used as the progestin component of combined hormonal contraceptive patches. |
+| Original Indication | Female contraception (women of fertile age, 18 to 45 years) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for norelgestromin in this evidence pack. Based on known pharmacology, norelgestromin is a progestin (the active metabolite of norgestimate) that acts on the hypothalamic-pituitary-ovarian axis, suppressing ovulation via negative feedback and altering endometrial receptivity — the basis of its established use in contraception.
+Currently, detailed mechanism of action data is not available. Based on known information, norelgestromin is a progestin that is combined with ethinyl estradiol in a transdermal contraceptive patch. Its efficacy in contraception has been established, and mechanistically it may be applicable to hormone-related menstrual disorders.
 
-The link to amenorrhea is mechanistically ambiguous rather than clearly supportive: progestin-based contraceptives (e.g., long-acting injectables and patches) are themselves a well-documented **cause** of amenorrhea as a side effect, not an established treatment for it. TxGNN appears to have picked up this bidirectional pharmacological association from the knowledge graph without being able to distinguish causal direction. No clinical trial or published literature in this dataset supports using norelgestromin therapeutically to treat amenorrhea, so the causal direction of this relationship remains unresolved.
+Hormonal agents can regulate the menstrual cycle or induce withdrawal bleeding, so a plausible class-level link exists. However, amenorrhea is also a known effect of hormonal contraceptives, so it is not a validated therapeutic target for this drug. No drug-specific trials or literature were found, so this is a model-derived hypothesis only.
 
-Among the other candidates in this prediction set, **acne** (rank 2, score 98.5%) has the strongest independent mechanistic rationale: norgestimate/ethinyl estradiol combinations are already an approved class-level treatment for acne via reduction of free testosterone and sebaceous androgen receptor activity. This represents a genuine class-effect signal, though direct evidence for norelgestromin itself is still absent.
-
----
+Other predictions from the model include acne, benign breast conditions (fibrocystic disease, adenosis, benign mammary dysplasia, breast abscess, fat necrosis), lactation disease and primary ovarian failure. All of them are also supported only by model scores. Several look like false positives from knowledge-graph proximity (for example breast abscess), and lactation disease reflects an adverse effect rather than a benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are currently recorded for norelgestromin in this dataset (market status: not marketed, 0 authorizations).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000410 | Evra | Not specified | Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years. |
 
----
+This authorization is cancelled, so there is currently no valid EU marketing authorization for this drug.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: One interaction was found in the data compiled for this report: **Sugammadex (Major)**.
+- **Disease-related cautions from the knowledge graph** (these are model-derived contraindication links, not label text). The diseases linked as contraindications include:
+  - Cardiovascular and metabolic: hypertension, coronary artery disease, thrombophlebitis, hyperlipidemia (including familial), hypertriglyceridemia, diabetes mellitus, diabetic ketoacidosis, hyperglycemia
+  - Hepatic, renal and biliary: liver disease, gallbladder disease, kidney disease, pyoureter
+  - Neurological and psychiatric: epilepsy, migraine, anxiety disorder, neurotic disorder, dysthymic disorder
+  - Metabolic and immune: porphyria (inherited and other porphyrin metabolism diseases), systemic lupus erythematosus (including pediatric), asthma (intrinsic and allergic)
+  - Oncological: female breast carcinoma
+  - Other: obsolete functional visual loss
 
-*(Note: TFDA/EMA label warnings and contraindications are currently a blocking data gap — see Conclusion below.)*
-
----
+Please refer to the SmPC for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (amenorrhea) is supported only by an AI model score (L5), with zero clinical trials or literature, and the proposed mechanistic link is directionally ambiguous — progestins are a known *cause* of amenorrhea, not an established treatment. Combined with the absence of any EU marketing authorization and a **blocking** data gap on safety labeling, there is currently no basis to advance this candidate beyond a research question.
+The prediction for amenorrhea is supported only by the TxGNN model score, with no clinical trials or publications. Amenorrhea is also a recognized effect of hormonal contraception, the EU authorization is cancelled, and the knowledge graph lists many disease contraindications.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label (SmPC) warnings, contraindications, and DDI data (DG001, blocking — required before any S1 safety screening)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- Independent literature or preclinical evidence clarifying the causal direction between progestin exposure and amenorrhea
-- If pursuing the acne signal instead (rank 2), targeted literature search for norelgestromin/norgestimate-specific acne studies to confirm the class-effect assumption
+- Detailed mechanism of action data (MOA)
+- Official warnings and contraindications from the SmPC
+- A literature and clinical trial search specific to norelgestromin in amenorrhea and other menstrual disorders
+- Clarification of the indication and dosage form, given that the patch is a contraceptive and not designed for treating menstrual disorders
+- Confirmation of the regulatory status and availability of any norelgestromin product in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

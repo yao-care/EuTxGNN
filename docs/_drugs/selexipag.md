@@ -2,7 +2,7 @@
 layout: default
 title: Selexipag
 parent: Medium Evidence (L3-L4)
-nav_order: 532
+nav_order: 552
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,90 +29,87 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Selexipag: From Pulmonary Arterial Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+# Selexipag: From Pulmonary Arterial Hypertension to PAH Associated with Congenital Heart Disease
 
 ## One-Sentence Summary
 
-Selexipag is an oral selective prostacyclin (IP) receptor agonist originally used to treat pulmonary arterial hypertension (PAH).
-The TxGNN model predicts it may also be effective for **PAH associated with congenital heart disease (PAH-CHD)**,
-a recognized PAH subtype, with **2 clinical trials** and **15 publications** currently supporting this direction.
-
----
+Selexipag is an oral prostacyclin receptor agonist, originally used for the long-term treatment of pulmonary arterial hypertension (PAH) in adults.
+The TxGNN model predicts it may be effective for **pulmonary arterial hypertension associated with congenital heart disease**,
+but the data compiled for this report contain **no registered clinical trials** and **15 publications**, mostly observational studies, case series and reviews, plus a post-hoc analysis of the GRIPHON randomised trial.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary arterial hypertension (PAH) |
+| Original Indication | Long-term treatment of PAH in adults with WHO functional class II–III (combination or monotherapy), including idiopathic and heritable PAH, PAH associated with connective tissue disorders, and PAH associated with corrected simple congenital heart disease |
 | Predicted New Indication | Pulmonary arterial hypertension associated with congenital heart disease |
 | TxGNN Prediction Score | 98.03% |
 | Evidence Level | L3 |
-| EU Market Status | ✗ Not marketed (per available regulatory data) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Selexipag is a selective IP (prostacyclin) receptor agonist. It acts on pulmonary vascular smooth muscle to induce vasodilation and reduce pulmonary vascular resistance — the core pharmacological mechanism underlying its approved use in PAH.
+Selexipag is an oral, selective prostacyclin (IP) receptor agonist. Its active metabolite promotes pulmonary vasodilation and inhibits vascular smooth muscle proliferation. This is the same pathway targeted in PAH. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the drug's known pharmacology.
 
-PAH-CHD is not a distinct disease mechanism but a recognized etiological subtype within WHO Group 1 PAH — the same disease group for which selexipag is already approved. This is not a cross-category extrapolation: the pathophysiology (elevated pulmonary vascular resistance and remodeling) is shared between the general PAH population and the CHD-associated subgroup.
+PAH associated with corrected simple congenital heart disease already falls within the approved label population. The prediction is therefore largely an extension to broader groups: uncorrected congenital heart disease, Eisenmenger syndrome, and paediatric patients. The high TxGNN score is consistent with this mechanistic fit.
 
-Consistent with this, real-world and pilot clinical data already exist for selexipag use in CHD-PAH, including Eisenmenger syndrome (a severe CHD-PAH phenotype), supporting the biological plausibility of TxGNN's prediction rather than representing a novel, unproven mechanistic link.
-
----
+Supporting evidence comes from the GRIPHON randomised trial subgroup with corrected CHD-PAH, case series in Eisenmenger syndrome, and a 2026 Phase 2 paediatric study. None of these is a dedicated confirmatory trial in the extended populations.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04435782](https://clinicaltrials.gov/study/NCT04435782) | Phase 4 | Terminated | 9 | Single-arm study assessing selexipag's effect on right ventricular remodeling in PAH via cardiac MRI; terminated early, small sample limits conclusions |
-| [NCT05179876](https://clinicaltrials.gov/study/NCT05179876) | Phase 3 | Recruiting | 280 | Open-label long-term extension/platform study allowing continued access to PAH therapies (including selexipag) after parent trial closure; generates long-term safety data, not a comparative efficacy trial |
-
----
+Currently no related clinical trials registered for this specific predicted indication.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33442633](https://pubmed.ncbi.nlm.nih.gov/33442633/) | 2020 | Case series (Cohort) | European Heart Journal – Case Reports | Oral selexipag used as alternative to parenteral prostacyclin in PAH-CHD patients, avoiding risks of parenteral therapy while improving outcomes |
-| [30632656](https://pubmed.ncbi.nlm.nih.gov/30632656/) | 2019 | Cohort (GRIPHON RCT subgroup) | European Journal of Heart Failure | Post-hoc analysis of the GRIPHON RCT in corrected CHD-PAH patients; addresses poor prognosis in this subgroup after defect correction |
-| [29521655](https://pubmed.ncbi.nlm.nih.gov/29521655/) | 2018 | Case report | American Journal of Therapeutics | First reported use of selexipag in CHD-associated PAH and Eisenmenger syndrome |
-| [33781364](https://pubmed.ncbi.nlm.nih.gov/33781364/) | 2021 | Cohort | Cardiology in the Young | Single-center pediatric experience using selexipag, focused on CHD-associated pulmonary hypertension patients |
-| [36204579](https://pubmed.ncbi.nlm.nih.gov/36204579/) | 2022 | Cohort | Frontiers in Cardiovascular Medicine | Selexipag-based triple combination therapy (with ERA + PDE5i) improved prognosis in Chinese PAH patients |
-| [33539988](https://pubmed.ncbi.nlm.nih.gov/33539988/) | 2021 | Case series | Canadian Journal of Cardiology | Use of selexipag specifically in Eisenmenger syndrome-associated PAH |
-| [41429287](https://pubmed.ncbi.nlm.nih.gov/41429287/) | 2025 | Phase 2 clinical trial report | Chest | Multicenter Phase 2 study of selexipag pharmacokinetics, safety, tolerability, and exploratory efficacy in children with PAH |
-| [32394855](https://pubmed.ncbi.nlm.nih.gov/32394855/) | 2020 | Registry experience | Kardiologiia | Real-world experience with selexipag in PAH, including patients with corrected congenital heart defects (GRIPHON/GRIPHON-OL registry) |
-| [38276220](https://pubmed.ncbi.nlm.nih.gov/38276220/) | 2023 | Review | Journal of Personalized Medicine | Overview of current management and future directions for PAH-CHD, including novel prostacyclin pathway agents |
-| [30545978](https://pubmed.ncbi.nlm.nih.gov/30545978/) | 2019 | Review | European Respiratory Journal | Pediatric PAH update from the 6th World Symposium on Pulmonary Hypertension, covering definition, classification and management |
-
----
+| [30632656](https://pubmed.ncbi.nlm.nih.gov/30632656/) | 2019 | Analysis of RCT (GRIPHON) | Eur J Heart Fail | Characterises patients with corrected CHD-PAH in GRIPHON and evaluates selexipag treatment in this subgroup |
+| [41429287](https://pubmed.ncbi.nlm.nih.gov/41429287/) | 2026 | Phase 2 single-arm study | Chest | Pharmacokinetics, safety, tolerability and exploratory efficacy of selexipag in children with PAH |
+| [33442633](https://pubmed.ncbi.nlm.nih.gov/33442633/) | 2020 | Case series | Eur Heart J Case Rep | Oral selexipag in PAH-CHD may avoid risks of parenteral prostacyclin therapy |
+| [29521655](https://pubmed.ncbi.nlm.nih.gov/29521655/) | 2018 | Case report | Am J Ther | First report of selexipag in CHD-associated PAH and Eisenmenger syndrome |
+| [33539988](https://pubmed.ncbi.nlm.nih.gov/33539988/) | 2021 | Clinical report | Can J Cardiol | Use of selexipag in Eisenmenger syndrome, a group largely excluded from RCTs except bosentan |
+| [33781364](https://pubmed.ncbi.nlm.nih.gov/33781364/) | 2021 | Case series | Cardiol Young | Single-centre experience in four paediatric patients with pulmonary hypertension, mostly with CHD |
+| [38276220](https://pubmed.ncbi.nlm.nih.gov/38276220/) | 2023 | Review | J Pers Med | Current management and future directions for PAH-CHD |
+| [36286872](https://pubmed.ncbi.nlm.nih.gov/36286872/) | 2021 | Review | Ter Arkh | Evidence base for pulmonary vasodilators in adults with CHD |
+| [41513133](https://pubmed.ncbi.nlm.nih.gov/41513133/) | 2026 | Retrospective registry study | J Cardiol | Real-world use of selexipag and parenteral prostacyclin analogs in Japan, by PAH aetiology |
+| [32394855](https://pubmed.ncbi.nlm.nih.gov/32394855/) | 2020 | Single-centre experience | Kardiologiia | 26 PAH patients on selexipag, including 2 with corrected congenital heart defects |
 
 ## EU Market Information
 
-No marketing authorization records are available in the current dataset (0 licenses; market status recorded as **not marketed**). Regulatory status should be independently verified before proceeding.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003774 (cancelled) | Uptravi | Not specified | Uptravi is indicated for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients with WHO functional class (FC) II–III, either as... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Key warnings, contraindications, and drug-drug interaction data are not currently available in this evidence pack (DDI query returned no results).
+- **Drug Interactions**: The interaction screen returned 100 potential interactions. The 20 shown are all rated Moderate and include epinephrine, ephedrine, phenylephrine, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), mannitol, glycerin, papaverine, amifostine, deferasirox, diazoxide, phentolamine, amyl nitrite, abiraterone and acebutolol. Many of these have vasoactive or blood-pressure-lowering effects, so combined use warrants review.
 
----
+Please refer to the SmPC for warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-PAH-CHD is a pathophysiologically identical subtype of selexipag's approved PAH indication, supported by GRIPHON subgroup data, pediatric Phase 2 data, and multiple real-world cohort/case reports — but no dedicated, completed randomized controlled trial exists for this specific subgroup, and the directly relevant Phase 4 trial (NCT04435782) was terminated with only 9 participants.
+The mechanism fits well, and the corrected CHD-PAH population is already within the approved label, supported by GRIPHON subgroup data. For uncorrected CHD, Eisenmenger syndrome and children, the evidence is limited to case series and one small Phase 2 paediatric study.
 
 **To proceed, the following is needed:**
-- Official product labeling / SmPC warnings and contraindications (currently a blocking data gap — DG001)
-- Confirmed mechanism of action from DrugBank or equivalent source (DG002)
-- Verification of actual marketing authorization status (dataset shows 0 licenses / not marketed, which should be cross-checked)
-- Additional completed trial or larger cohort data specific to the CHD-PAH population, given the small/terminated nature of NCT04435782
+- Safety information (warnings and contraindications) from the SmPC
+- Confirmation of the current EU authorization status, since the only licence on record is cancelled
+- Dedicated controlled data in uncorrected CHD, Eisenmenger syndrome and paediatric populations
+- Detailed mechanism-of-action data
+- A review of the interaction profile for the intended patient group
+
+---
+
+### Other Predicted Indications (Brief Notes)
+
+- **PAH associated with schistosomiasis** (score 97.78%, L2): A Phase 2 trial ([NCT04589390](https://clinicaltrials.gov/study/NCT04589390), n=20, status unknown) and a 2026 report ([PMID 42111371](https://pubmed.ncbi.nlm.nih.gov/42111371/)) exist. This is the only listed candidate with a direct trial. Decision: Proceed with Guardrails, pending larger controlled confirmation.
+- **PAH associated with connective tissue disease** (score 97.78%, L3): Already within the approved population, supported by the GRIPHON subgroup analysis ([PMID 28818881](https://pubmed.ncbi.nlm.nih.gov/28818881/)) and real-world cohorts. This is not a new repurposing indication.
+- **PAH associated with chronic haemolytic anaemia and with HIV infection** (L5): Mechanistically plausible but prediction only. Research questions.
+- **Pulmonary arteriovenous malformation, hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata, malformation syndrome with odontal/periodontal component** (L5): No credible mechanistic link and no evidence. Hold. For pulmonary AVM, vasodilation could theoretically worsen shunting.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

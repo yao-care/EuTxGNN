@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Belatacept
-parent: Medium Evidence (L3-L4)
-nav_order: 84
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 86
+evidence_level: L5
 indication_count: 10
 ---
 
 # Belatacept
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Belatacept: From Kidney Transplant Rejection Prevention to Plasma Cell Myeloma
+# Belatacept: From Kidney Transplant Rejection Prophylaxis to Plasma Cell Myeloma
 
 ## One-Sentence Summary
 
-Belatacept (Nulojix®) is a CTLA-4-Ig fusion protein originally developed to prevent acute rejection in kidney transplant recipients by blocking the CD28 T cell costimulatory pathway.
-The TxGNN model predicts it may be effective for **Plasma Cell Myeloma**, with **2 clinical trials** and **7 publications** currently supporting this direction.
+Belatacept is a CTLA-4-Ig fusion protein originally used to prevent graft rejection in adult kidney transplant recipients.
+The TxGNN model predicts it may be effective for **plasma cell myeloma**, but **no clinical trials** and **no publications** currently support this specific direction.
+The prediction is a computational signal only, and the immunosuppressive nature of the drug raises a safety concern in a plasma cell malignancy.
 
 ---
 
@@ -42,54 +43,78 @@ The TxGNN model predicts it may be effective for **Plasma Cell Myeloma**, with *
 
 | Item | Content |
 |------|------|
-| Original Indication | Kidney transplant rejection prevention (not registered in Taiwan; based on clinical trial context) |
-| Predicted New Indication | Plasma Cell Myeloma |
+| Original Indication | Prophylaxis of graft rejection in adult recipients of a renal transplant (in combination with corticosteroids and a mycophenolic acid) |
+| Predicted New Indication | Plasma cell myeloma |
 | TxGNN Prediction Score | 97.03% |
-| Evidence Level | L3 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Belatacept is a selective T cell costimulation blocker — a fusion protein composed of the extracellular domain of CTLA-4 fused to the Fc region of human IgG1. It works by competitively binding to CD80 (B7.1) and CD86 (B7.2) on antigen-presenting cells with higher affinity than native CD28, effectively blocking the "second activation signal" required for full T cell activation. Without this costimulatory signal, antigen-reactive T cells fall into anergy rather than becoming activated — an immunosuppressive mechanism originally exploited to prevent transplant rejection.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, belatacept is a CTLA-4-Ig fusion protein that blocks CD28-CD80/CD86 costimulation of T cells. This is how it prevents graft rejection in kidney transplantation.
 
-This same mechanism has direct biological relevance in plasma cell myeloma. Malignant plasma cells in multiple myeloma aberrantly overexpress CD86, making them structurally susceptible to CTLA-4-Ig engagement. Crucially, CD28 signaling in the myeloma context serves a dual function: it governs immune surveillance but also directly drives the proliferation of CD28-positive myeloma cells themselves (PMID 38562904). This raises the possibility that Belatacept could suppress myeloma cell growth by disrupting this proliferative signal — rather than acting solely as an immunosuppressant.
+A theoretical link to myeloma would be modulation of the T-cell and antigen-presenting-cell microenvironment. However, no supporting data were provided, and the high TxGNN score is a computational prediction only. Immunosuppression could also plausibly raise risk, including post-transplant lymphoproliferative disorder (PTLD), which is a labelled concern for this drug class.
 
-Preliminary clinical evidence supports this mechanistic reasoning. A 2019 Phase 1/2 pilot study (PMID 31129111) directly applied a CTLA4Ig-based reduced-intensity conditioning regimen combined with donor lymphocyte infusions for refractory myeloma following haploidentical transplantation, explicitly targeting the CD28-CD86 axis. Two currently active trials (NCT04827979, NCT05017545) pair belatacept with established anti-plasma cell agents (daratumumab and carfilzomib) to deplete plasma cells in highly sensitized transplant candidates, demonstrating mechanistic cross-over — though their primary endpoint remains transplant desensitization rather than myeloma treatment.
+The same reasoning applies to the closely related prediction, indolent plasma cell myeloma (score 96.94%). It likely comes from the same graph neighbourhood and is equally speculative.
+
+### Other Predictions Reviewed
+
+| Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|
+| Indolent plasma cell myeloma | 96.94% | L5 | Same rationale as myeloma; no data |
+| Relapsing-remitting multiple sclerosis | 96.82% | L5 | Costimulation blockade is biologically plausible, but no data were provided |
+| Crohn's colitis | 96.18% | L4 | The only evidence is a case report of colitis *caused* by belatacept, which points to potential harm rather than benefit |
+| Heart disease | 94.62% | L3 | Literature reflects use in heart transplant recipients and avoidance of calcineurin-inhibitor toxicity, not treatment of heart disease itself |
+| Hyperthyroidism | 93.81% | L5 | Plausible autoimmune rationale, but no data |
+| Colonic neoplasm | 93.63% | L5 | No evidence; immunosuppression may impair tumour surveillance |
+| Laubry-Pezzi syndrome and Pierre Robin entries | 93.6–94.1% | L5 | No plausible mechanistic link; likely graph artefacts |
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04827979](https://clinicaltrials.gov/study/NCT04827979) | Phase 1/2 | Active, Not Recruiting | 19 | Daratumumab (anti-CD38) + Belatacept for highly sensitized kidney transplant candidates: anti-CD38 depletes plasma cells while Belatacept blocks B cell costimulation to reduce anti-HLA antibodies; mechanistically targets plasma cell biology shared with myeloma |
-| [NCT05017545](https://clinicaltrials.gov/study/NCT05017545) | Phase 1/2 | Active, Not Recruiting | 21 | Carfilzomib (approved myeloma proteasome inhibitor) + Belatacept for transplant desensitization; Carfilzomib's established myeloma indication gives this combination cross-disease mechanistic significance in plasma cell elimination |
+Currently no related clinical trials registered for plasma cell myeloma.
 
 ---
 
 ## Literature Evidence
 
+Currently no related literature available for plasma cell myeloma.
+
+For context, the highest-ranked prediction with literature is Crohn's colitis. It has one case report:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31129111](https://pubmed.ncbi.nlm.nih.gov/31129111/) | 2019 | Phase 1/2 Pilot | Clin Lymphoma Myeloma Leuk | CTLA4Ig-based reduced-intensity conditioning + donor lymphocyte infusions after haploidentical transplantation for refractory myeloma — the most direct evidence for targeting the CD28-CD86 pathway in myeloma treatment |
-| [38562904](https://pubmed.ncbi.nlm.nih.gov/38562904/) | 2024 | Translational | bioRxiv | Endogenous CD28 drives CAR T cell responses in multiple myeloma; CD28 costimulation plays a critical dual role in both myeloma cell proliferation and anti-myeloma immune effector function — inhibition may have complex bidirectional effects |
-| [9869202](https://pubmed.ncbi.nlm.nih.gov/9869202/) | 1998 | Observational | Leuk Lymphoma | B7 family costimulatory molecules (CD80/CD86) expressed on malignant plasma cells; altered CD28/CTLA-4 expression found on T cells of MM patients — foundational evidence for pathway dysregulation in myeloma |
-| [15370258](https://pubmed.ncbi.nlm.nih.gov/15370258/) | 2004 | Observational | Leuk Lymphoma | Elevated soluble CD80 detected in multiple myeloma patients vs. normal donors, suggesting active shedding of costimulatory ligands in MM microenvironment — supports CD80/CD86 axis involvement |
-| [11167807](https://pubmed.ncbi.nlm.nih.gov/11167807/) | 2001 | Genetic Association | Br J Haematol | CTLA-4 microsatellite polymorphism associated with MM susceptibility — genetic-level evidence linking the CTLA-4 pathway to myeloma disease predisposition |
-| [11981425](https://pubmed.ncbi.nlm.nih.gov/11981425/) | 2002 | Observational | Transplantation | Anti-CTLA-4 antibodies detected in ATG/TMG preparations used in leukemia treatment; CTLA-4 targeting may contribute to immunosuppressive effects in hematological malignancy contexts |
-| [40398621](https://pubmed.ncbi.nlm.nih.gov/40398621/) | 2025 | Review/Registry | Transplant Cell Ther | CIBMTR annual report on HCT and cellular therapy trends including multiple myeloma (2013–2023); provides treatment landscape context for positioning Belatacept among existing myeloma therapies |
+| [29358873](https://pubmed.ncbi.nlm.nih.gov/29358873/) | 2017 | Case report | World J Gastroenterol | Severe stricturing Crohn's disease-like colitis in a kidney transplant patient treated with belatacept, suggesting a possible adverse event |
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002098 (cancelled) | Nulojix | Not specified | Nulojix, in combination with corticosteroids and a mycophenolic acid (MPA), is indicated for prophylaxis of graft rejection in adult recipients of a renal transplant. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 72 interactions were identified. Major-level examples include:
+  - Deferiprone
+  - Adalimumab
+  - Baricitinib
+  - Certolizumab pegol
+  - Bacillus Calmette-Guérin (live) vaccine
 
-> **Key safety signals relevant to potential myeloma use:** Published literature identifies **post-transplant lymphoproliferative disorder (PTLD)** — especially in EBV-seronegative recipients — and **serious opportunistic infections** as class-level risks for Belatacept. These risks require careful benefit-risk assessment before any use in myeloma patients, who are frequently immunocompromised. Taiwan TFDA package insert data (DG001) and DrugBank MOA data (DG002) were not available in this evidence pack; both must be retrieved before proceeding to clinical evaluation.
+  Moderate-level examples include roflumilast, alemtuzumab, anakinra, azathioprine, canakinumab and several vaccines. The zinc salts are minor.
+- **Malignancy and immune risk**: Immunosuppression carries a labelled risk of malignancy, including PTLD. This is particularly relevant when considering a plasma cell malignancy.
+- **Colitis signal**: A case report links belatacept to a severe Crohn's-like colitis.
+
+Please refer to the SmPC for full warnings and contraindications.
 
 ---
 
@@ -98,14 +123,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-A biologically plausible mechanistic link exists between Belatacept's CD28-CD86 blockade and plasma cell myeloma biology, anchored by one Phase 1/2 pilot study directly targeting this pathway in refractory myeloma (PMID 31129111). However, no dedicated clinical trial has evaluated Belatacept as a primary myeloma treatment, and the dual role of CD28 — simultaneously supporting anti-tumor T cell immunity and driving myeloma cell proliferation — creates a fundamental mechanistic tension that must be resolved before investment is warranted.
+The plasma cell myeloma prediction rests only on a model score, with no clinical trials or publications. The mechanism (T-cell immunosuppression) gives a plausible safety concern rather than a clear therapeutic rationale. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve the mechanistic paradox: determine whether Belatacept's CD28 blockade primarily suppresses myeloma cell proliferation (beneficial) or suppresses anti-myeloma T cell surveillance (harmful) — preclinical models distinguishing these effects are needed first
-- Dedicated Phase 1/2 clinical trial evaluating Belatacept in relapsed/refractory multiple myeloma, building on the CTLA4Ig + haploidentical transplant concept established in PMID 31129111
-- Outcome data from NCT05017545 regarding plasma cell depletion depth and durability, which may provide proof-of-concept for plasma cell targeting
-- Complete safety data retrieval: Taiwan TFDA package insert (DG001) and DrugBank MOA (DG002)
-- PTLD risk stratification strategy for myeloma patients, particularly those who are EBV-seronegative or heavily pre-treated
+- Mechanism of action data and a mechanistic analysis specific to myeloma
+- Preclinical evidence of anti-myeloma activity
+- SmPC warnings and contraindications, with a risk assessment for malignancy and PTLD
+- A review of why the EU authorization was cancelled, and of the available routes and dosage forms
+- If a repurposing direction is pursued, prioritize those with some literature support (such as transplant-related cardiac use) over the myeloma prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

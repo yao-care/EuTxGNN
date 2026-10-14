@@ -2,7 +2,7 @@
 layout: default
 title: Tigecycline
 parent: Medium Evidence (L3-L4)
-nav_order: 591
+nav_order: 613
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,72 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tigecycline: From Bacterial Infections to Disorder of Tyrosine Metabolism
+# Tigecycline: From Complicated Skin and Intra-abdominal Infections to Disorder of Tyrosine Metabolism
 
 ## One-Sentence Summary
 
-> Tigecycline is a glycylcycline-class antibiotic originally used to treat bacterial infections.
-> The TxGNN model predicts potential efficacy for **Disorder of Tyrosine Metabolism**, but the supporting evidence appears to be a label/knowledge-graph mismatch —
-> the single associated trial and most of the **4 publications** actually concern tigecycline's mitochondrial-inhibition effects in leukemia and myeloma, not tyrosine metabolism, and the drug currently holds **no marketing authorization** in the EU.
+Tigecycline is a glycylcycline antibiotic, originally used to treat complicated skin and soft tissue infections and complicated intra-abdominal infections.
+The TxGNN model predicts it may be effective for **disorder of tyrosine metabolism**, but there are **no registered clinical trials** and only **1 indirect in vitro study** on skin pigment cells.
+This prediction is essentially model-only and has no clinical support.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (glycylcycline antibiotic class; no formal indication text on file — see Data Gap DG001) |
-| Predicted New Indication | Disorder of Tyrosine Metabolism |
+| Original Indication | Complicated skin and soft tissue infections (cSSTI, excluding diabetic foot infections) and complicated intra-abdominal infections (cIAI), in adults and children from 8 years of age |
+| Predicted New Indication | Disorder of tyrosine metabolism |
 | TxGNN Prediction Score | 95.76% |
 | Evidence Level | L4 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack (Data Gap DG002). Based on information found within the supporting literature itself, tigecycline is a glycylcycline antibiotic (a tetracycline derivative) that inhibits bacterial protein synthesis by binding the 30S ribosomal subunit and is used for complicated infections. This antimicrobial mechanism has no established biological pathway connecting it to tyrosine catabolism, the enzymatic pathway underlying disorder of tyrosine metabolism — a rare inherited metabolic disease.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, tigecycline is a glycylcycline, related to the tetracyclines. It is known to inhibit bacterial protein synthesis, and in laboratory studies it also inhibits mitochondrial translation in human cells.
 
-The original indication (bacterial infection) and the predicted new indication (a congenital metabolic disorder) sit in entirely different disease domains, and the Evidence Pack itself flags this as a likely label/knowledge-graph mismatch. Rather than supporting the tyrosine-metabolism label, the one associated clinical trial (NCT02883036) and three of the four cited publications actually investigate a different, better-characterized signal: tigecycline's inhibition of mitochondrial protein synthesis (mitoribosome/OXPHOS), which has shown activity against chronic myeloid leukemia stem cells and, in a separately ranked prediction, multiple myeloma cells (see rank #10, monoclonal gammopathy, which carries the same mechanistic signal with more coherent supporting literature).
+The link between an anti-infective and a tyrosine metabolism disorder is indirect. A 2025 in vitro study examined tigecycline's effects on human epidermal melanocytes and fibroblasts. Melanocytes make pigment from tyrosine, so this work touches the same biochemical area. Tetracycline-class drugs are also known to cause pigmentary changes in the skin. However, the study does not show that tigecycline treats any tyrosine metabolism disorder. It looks at cell homeostasis, and the pigment effects are more likely a side effect than a therapeutic opportunity.
 
-Only one cited publication (PMID 41009505) touches tangentially on tyrosine metabolism — via melanocyte pigmentation, since melanin is a downstream product of tyrosine catabolism — but this concerns a cutaneous adverse-effect pathway, not a therapeutic mechanism for the metabolic disorder itself. Given this, the predicted indication should be treated as a low-confidence model output that requires knowledge-graph node-mapping verification before any further evaluation.
+The other three papers retrieved concern cancer stem cells and leukemia stem cells and mitochondrial oxidative phosphorylation. They are not relevant to tyrosine metabolism. The high TxGNN score is a computational prediction and should not be read as evidence of benefit.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02883036](https://clinicaltrials.gov/study/NCT02883036) | N/A | Unknown | 100 | Studies changes in mitochondrial biogenesis and metabolic characteristics with tigecycline treatment in chronic myeloid leukemia (CML) in vitro; not directly related to tyrosine metabolism. |
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29404396](https://pubmed.ncbi.nlm.nih.gov/29404396/) | 2018 | Commentary/Review | Molecular & Cellular Oncology | Summarizes findings that tigecycline plus imatinib disrupts mitochondrial respiration to eradicate CML leukemic stem cells. |
-| [31765940](https://pubmed.ncbi.nlm.nih.gov/31765940/) | 2020 | Preclinical (mechanistic) | Neoplasia | Targeting mitochondrial OXPHOS (relevant to tigecycline's mechanism) eradicates EGFR-TKI-resistant lung adenocarcinoma cancer stem cells. |
-| [41009505](https://pubmed.ncbi.nlm.nih.gov/41009505/) | 2025 | Preclinical (in vitro) | International Journal of Molecular Sciences | Tigecycline affects human epidermal melanocyte and fibroblast homeostasis, linked to its melanin-binding affinity and pigmentary/phototoxic skin adverse effects — tangential connection to tyrosine/melanin pathway, not a therapeutic mechanism. |
-| [28920959](https://pubmed.ncbi.nlm.nih.gov/28920959/) | 2017 | Preclinical (in vitro/in vivo mechanistic) | Nature Medicine | Targeting mitochondrial oxidative phosphorylation eradicates therapy-resistant CML leukemic stem cells; tigecycline used as OXPHOS inhibitor. |
+| [41009505](https://pubmed.ncbi.nlm.nih.gov/41009505/) | 2025 | In vitro study | Int J Mol Sci | Effects of tigecycline on human epidermal melanocytes and fibroblasts; relates to pigment disorders as a known adverse effect of tetracyclines. Indirect to the predicted indication. |
+| [31765940](https://pubmed.ncbi.nlm.nih.gov/31765940/) | 2020 | Preclinical oncology study | Neoplasia | SIRT1 targeting and mitochondrial oxidative phosphorylation in EGFR TKI-resistant lung adenocarcinoma stem cells. Not relevant. |
+| [28920959](https://pubmed.ncbi.nlm.nih.gov/28920959/) | 2017 | Preclinical oncology study | Nature Medicine | Targeting mitochondrial oxidative phosphorylation (tigecycline with imatinib) eradicates therapy-resistant CML stem cells. Not relevant. |
+| [29404396](https://pubmed.ncbi.nlm.nih.gov/29404396/) | 2018 | Commentary | Mol Cell Oncol | Author commentary on the CML stem cell study above. Not relevant. |
 
-**Note:** None of the above evidence directly addresses tyrosine metabolism disorder; the cluster of evidence instead supports a mitochondrial-OXPHOS-inhibition mechanism relevant to hematologic malignancies (see rank #10, monoclonal gammopathy).
+---
 
 ## EU Market Information
 
-Tigecycline currently holds no marketing authorization on file in the EU dataset (0 authorizations, market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005114 (cancelled) | Tigecycline Accord | Not specified | Complicated skin and soft tissue infections (excluding diabetic foot infections) and complicated intra-abdominal infections, in adults and children from 8 years... |
+| EMEA/H/C/000644 (cancelled) | Tygacil | Not specified | Complicated skin and soft tissue infections (excluding diabetic foot infections) and complicated intra-abdominal infections, in adults and children from 8 years... |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Key warnings, contraindications, and drug interaction data are not currently available in this Evidence Pack (Data Gap DG001, classified as Blocking for safety assessment).
+- **Disease associations from the knowledge graph (not label text)**: The TxGNN knowledge graph links tigecycline to contraindication edges for liver failure, hyperbilirubinemia, hereditary hyperbilirubinemia, Gilbert syndrome, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and pancreatitis.
+- **Drug Interactions**: 30 interactions were recorded. Those rated Moderate involve picosulfuric acid, dicoumarol, warfarin, methoxsalen, and tacrolimus. Others have no assigned severity, including vancomycin, metronidazole, clarithromycin, clopidogrel, heparin, prednisone, simvastatin, morphine, and several proton pump inhibitors (omeprazole, pantoprazole, lansoprazole). Anticoagulant use in particular calls for care.
+
+Please refer to the SmPC for label warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The predicted disease label (disorder of tyrosine metabolism) does not match the actual content of the supporting trial and literature, which instead describe a mitochondrial-OXPHOS mechanism relevant to hematologic malignancies — this is most likely a knowledge-graph node-mapping error rather than a genuine repurposing signal.
-- The drug has no EU marketing authorization, and blocking safety data (TFDA labeling/warnings, DG001) and mechanism-of-action data (DG002) are both missing, so this candidate cannot proceed past S0/S1 review.
+The prediction has no clinical trials and only one indirect in vitro study. The other retrieved papers do not address tyrosine metabolism. The antibiotic is also no longer under a valid EU authorization, and its known pigmentary effects suggest the association may reflect a safety signal rather than a benefit.
 
 **To proceed, the following is needed:**
-- Verify the TxGNN knowledge-graph node mapping for "disorder of tyrosine metabolism" against tigecycline to rule out a label/entity mismatch.
-- Obtain TFDA/EMA label warnings and contraindications (Data Gap DG001) before any safety evaluation.
-- Obtain formal mechanism-of-action data from DrugBank (Data Gap DG002).
-- Consider re-scoping this candidate toward the mitochondrial-OXPHOS-inhibition signal actually supported by the evidence (e.g., rank #10, monoclonal gammopathy/multiple myeloma, which is already at decision stage S1 with a "Research Question" recommendation and coherent mechanistic literature) rather than pursuing the tyrosine-metabolism label as currently ranked.
+- Mechanism of action data and a credible mechanistic link to tyrosine metabolism pathways
+- Preclinical studies directly in models of tyrosine metabolism disorders
+- Label-based warnings and contraindications from the SmPC, since the current safety data come mainly from the knowledge graph and interaction databases
+- Clarification of the regulatory status, since both EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

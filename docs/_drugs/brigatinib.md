@@ -2,7 +2,7 @@
 layout: default
 title: Brigatinib
 parent: AI Predictions (L5)
-nav_order: 103
+nav_order: 105
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brigatinib: From ALK-Positive NSCLC to Lung Benign Neoplasm
+# Brigatinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
 
 ## One-Sentence Summary
 
-Brigatinib (ALUNBRIG) is a next-generation ALK/ROS1/EGFR tyrosine kinase inhibitor, globally approved since 2017 for ALK-positive metastatic non-small cell lung cancer (NSCLC), but currently **not registered in Taiwan**.
-The TxGNN model predicts it may benefit patients with **Lung Benign Neoplasm** — most plausibly ALK-rearranged inflammatory myofibroblastic tumors (IMTs) —
-supported by **0 direct clinical trials** but **20 publications** from ALK+ NSCLC providing indirect mechanistic evidence (Evidence Level L4).
+Brigatinib is a kinase inhibitor originally used to treat ALK-positive advanced non-small cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **gingival fibromatosis**, but **no clinical trials and no publications** support this prediction, which is purely computational.
+The most relevant repurposing signal in the data compiled for this report is for **NF2-related schwannomatosis**, which surfaced under a different predicted term (see below).
 
 ---
 
@@ -43,44 +43,60 @@ supported by **0 direct clinical trials** but **20 publications** from ALK+ NSCL
 
 | Item | Content |
 |------|------|
-| Original Indication | ALK-positive metastatic NSCLC (global approval; not registered in Taiwan) |
-| Predicted New Indication | Lung Benign Neoplasm |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 (indirect mechanistic analogy; no direct clinical trials for this indication) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Taiwan Authorizations | 0 |
+| Original Indication | ALK-positive advanced NSCLC (first-line, and after prior crizotinib) |
+| Predicted New Indication | Gingival fibromatosis |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Taiwan drug registry. Based on published clinical and preclinical evidence, Brigatinib is a potent second-generation anaplastic lymphoma kinase (ALK) tyrosine kinase inhibitor that also inhibits ROS1, EGFR (including the T790M resistance mutant), IGF-1R, FLT3, and INSR. It was specifically engineered to overcome crizotinib resistance mutations, and its superior blood-brain barrier penetration gives it a clinically meaningful advantage over first-generation ALK inhibitors.
+Detailed mechanism of action data is not available. Brigatinib is known to be a multi-target tyrosine kinase inhibitor acting on ALK, EGFR and ROS1. Its efficacy in ALK-positive NSCLC is well established through the Phase 3 ALTA-1L trial.
 
-ALK-positive NSCLC and certain lung "benign neoplasms" share a common molecular driver: constitutive ALK activation driven by chromosomal rearrangement. Inflammatory myofibroblastic tumors (IMTs) — low-grade, borderline mesenchymal tumors arising in the lung — harbor ALK fusions (commonly EML4-ALK or RANBP2-ALK) in approximately 50% of cases. Clinical proof of concept for ALK inhibition in IMT already exists with crizotinib, making Brigatinib a logical next-generation escalation candidate. In ALK-rearranged cells, constitutive kinase activation drives proliferation and survival regardless of whether the tumor is classified as malignant or benign/low-grade.
+For gingival fibromatosis, no mechanistic link could be identified. No established kinase-driven pathway connects brigatinib's targets to this condition. The high TxGNN score (0.999) is therefore a statistical output of the model and is not backed by biological or clinical evidence. Other top-ranked predictions (fibroma of lung, lung hamartoma, junctional epidermolysis bullosa, and others) show the same pattern: no trials, no literature, and no plausible mechanism.
 
-The critical caveat is that all 20 retrieved publications address ALK+ NSCLC (malignant), not lung benign neoplasm directly. The TxGNN model's high score (99.85%) most likely reflects knowledge-graph topological proximity between lung tumor entities rather than a verified biological link to the full "lung benign neoplasm" category. Whether ALK-rearranged IMTs are coded under "lung benign neoplasm" in the local disease ontology requires pathological and coding verification before this prediction can be advanced.
+Two other predictions are worth noting:
+- **Lung hilum carcinoma and pulmonary sulcus neoplasm** are lung cancers. ALK-positive cases could theoretically respond, but this is an extrapolation from the approved indication, not repurposing evidence.
+- **NF2-related schwannomatosis** is the strongest repurposing signal. It appeared in the literature mapped to the rank-10 predicted term (a syndrome with an unrelated name, which appears to be a mapping artifact). Preclinical work shows brigatinib shrinks NF2-deficient meningioma and schwannoma through inhibition of multiple tyrosine kinases, but not ALK. A clinical report in *The New England Journal of Medicine* (2024) describes its use in patients with progressive tumors. This evidence is small and non-randomized (L3) and applies to NF2-related schwannomatosis, not to the named syndrome.
+
+---
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered for gingival fibromatosis.
 
 ---
 
 ## Literature Evidence
 
-All 20 retrieved publications address ALK+ NSCLC (malignant) and provide strong evidence of Brigatinib's ALK-inhibiting mechanism — the shared biological driver for this repurposing hypothesis — but are **indirect** evidence for lung benign neoplasm.
+Currently no related literature available for gingival fibromatosis.
+
+For reference, the literature that surfaced under other predicted terms is summarized below. It is **not** evidence for the headline prediction.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34537440](https://pubmed.ncbi.nlm.nih.gov/34537440/) | 2021 | Phase 3 RCT | J Thorac Oncol | ALTA-1L final results: Brigatinib vs crizotinib in first-line ALK+ NSCLC; superior PFS and emerging OS trend confirmed at final analysis |
-| [30280657](https://pubmed.ncbi.nlm.nih.gov/30280657/) | 2018 | Phase 3 RCT | N Engl J Med | ALTA-1L primary analysis: Brigatinib significantly superior to crizotinib in ALK inhibitor-naive advanced ALK+ NSCLC |
-| [37574132](https://pubmed.ncbi.nlm.nih.gov/37574132/) | 2023 | Phase 3 RCT | J Thorac Oncol | ALTA-3: Brigatinib vs alectinib post-crizotinib progression; first head-to-head Phase 3 comparison between second-generation ALK TKIs |
-| [32780660](https://pubmed.ncbi.nlm.nih.gov/32780660/) | 2020 | Phase 3 RCT | J Clin Oncol | ALTA-1L 2nd interim: continued PFS benefit and improved health-related quality of life vs crizotinib confirmed |
-| [28475456](https://pubmed.ncbi.nlm.nih.gov/28475456/) | 2017 | Phase 2 RCT | J Clin Oncol | ALTA Phase 2: two Brigatinib regimens in crizotinib-refractory ALK+ NSCLC; 90 mg × 7 days → 180 mg QD regimen preferred |
-| [39923717](https://pubmed.ncbi.nlm.nih.gov/39923717/) | 2025 | Integrated Analysis | Lung Cancer | Pooled ALTA-1L + J-ALTA data: larger global dataset confirms first-line Brigatinib efficacy and safety consistency across populations |
-| [38331773](https://pubmed.ncbi.nlm.nih.gov/38331773/) | 2024 | Systematic Review / NMA | BMC Cancer | Network meta-analysis of all ALK TKIs in first-line ALK+ NSCLC; Brigatinib ranked among top options for PFS |
-| [36038416](https://pubmed.ncbi.nlm.nih.gov/36038416/) | 2022 | Phase 3 Subgroup | Clin Lung Cancer | ALTA-1L Asian vs non-Asian subgroup: consistent Brigatinib efficacy and safety benefit across ethnic populations |
-| [39232917](https://pubmed.ncbi.nlm.nih.gov/39232917/) | 2024 | Indirect Comparison / NMA | Clin Lung Cancer | Matching-adjusted indirect comparison of lorlatinib vs Brigatinib as first-line therapy; comparative PFS and safety quantified |
-| [37597303](https://pubmed.ncbi.nlm.nih.gov/37597303/) | 2023 | Safety Review / NMA | Lung Cancer | Comparative toxicity profiles of ALK TKIs; quantifies myelosuppression, hepatotoxicity, and pulmonary risk by agent to guide clinical decisions |
+| [38904277](https://pubmed.ncbi.nlm.nih.gov/38904277/) | 2024 | Cohort/Case series | N Engl J Med | Brigatinib in NF2-related schwannomatosis with progressive tumors |
+| [34264955](https://pubmed.ncbi.nlm.nih.gov/34264955/) | 2021 | Preclinical | PLoS One | Tumor shrinkage in NF2-deficient meningioma and schwannoma via multiple tyrosine kinases, not ALK |
+| [30280657](https://pubmed.ncbi.nlm.nih.gov/30280657/) | 2018 | RCT | N Engl J Med | ALTA-1L: brigatinib vs crizotinib in ALK-positive NSCLC (original indication) |
+| [34537440](https://pubmed.ncbi.nlm.nih.gov/34537440/) | 2021 | RCT | J Thorac Oncol | Final ALTA-1L results, superior progression-free survival vs crizotinib (original indication) |
+| [34371380](https://pubmed.ncbi.nlm.nih.gov/34371380/) | 2021 | Case report | ESMO Open | Sustained response in metastatic pheochromocytoma with ALK mutation |
+| [39395329](https://pubmed.ncbi.nlm.nih.gov/39395329/) | 2024 | Case report | Respir Investig | Response in lung large cell neuroendocrine carcinoma with EML4-ALK fusion |
+| [27049722](https://pubmed.ncbi.nlm.nih.gov/27049722/) | 2016 | Preclinical | Oncotarget | Activity in ALK-positive neuroblastoma cells, Drosophila and mice |
+| [34987411](https://pubmed.ncbi.nlm.nih.gov/34987411/) | 2021 | Case report | Front Pharmacol | Fatal tumour lysis syndrome induced by brigatinib in lung adenocarcinoma |
 
-> ⚠️ **Evidence level is L4** because all publications address ALK+ NSCLC (malignant), not lung benign neoplasm directly. Mechanistic analogy to ALK-rearranged inflammatory myofibroblastic tumors is biologically plausible but unvalidated in clinical trials.
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004248 | Alunbrig | Not specified | Monotherapy for adults with ALK-positive advanced NSCLC not previously treated with an ALK inhibitor, or previously treated with crizotinib. |
+
+The authorization status is **cancelled**.
 
 ---
 
@@ -88,24 +104,25 @@ All 20 retrieved publications address ALK+ NSCLC (malignant) and provide strong 
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (second-generation ALK/ROS1/EGFR tyrosine kinase inhibitor; oral small molecule antineoplastic) |
-| Myelosuppression Risk | Low (targeted TKI; clinically significant myelosuppression is uncommon; anaemia reported in ~25% but Grade 3+ rare) |
-| Emetogenicity Classification | Low to moderate (oral TKI; nausea reported in ~33% of patients, severe events rare) |
-| Monitoring Items | Liver function (ALT/AST), pulmonary function (ILD/pneumonitis), blood pressure, heart rate (bradycardia), QTc interval, fasting blood glucose (hyperglycaemia), CPK (myopathy), visual acuity |
-| Handling Protection | Standard oral targeted therapy precautions; cytotoxic handling regulations apply per institutional SOP |
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for complete safety information.
+- **Key Warnings**: A published case report describes fatal tumour lysis syndrome with brigatinib in a patient with lung adenocarcinoma treated with sequential ALK inhibitors (PMID 34987411). A pharmacovigilance analysis of cardiac toxicities with targeted NSCLC therapies has also been published (PMID 34418561).
+- **Drug Interactions**: 100 interactions were found in the interaction database. Major-level interactions include:
+  - Aprepitant
+  - Dexamethasone
+  - Clarithromycin
 
-Based on published Phase 3 trial data, the following class-related risks are clinically important:
+  Moderate-level interactions include acid-suppressing drugs (famotidine, ranitidine, rabeprazole, cimetidine), antidiabetic agents (metformin, pioglitazone, alogliptin, canagliflozin, dapagliflozin), loperamide, morphine, cisapride and clotrimazole.
 
-- **Early-onset pulmonary toxicity**: ILD/pneumonitis has been reported within the first 7 days of initiation. The dose escalation protocol (90 mg QD × 7 days, then 180 mg QD) significantly reduces this risk and is mandatory.
-- **Cardiovascular**: Hypertension, bradycardia, and QTc prolongation — baseline cardiovascular assessment and ongoing monitoring required.
-- **Visual disturbances**: Blurred vision, diplopia, and photosensitivity reported; ophthalmic evaluation if symptomatic.
-- **Metabolic**: Hyperglycaemia (particularly in patients with pre-existing diabetes) and elevated CPK with myalgia; routine metabolic monitoring recommended.
+Please refer to the SmPC for the full safety information, including contraindications.
 
 ---
 
@@ -114,16 +131,15 @@ Based on published Phase 3 trial data, the following class-related risks are cli
 **Decision: Hold**
 
 **Rationale:**
-Brigatinib has robust Phase 3 evidence for ALK+ NSCLC and a biologically plausible mechanistic link to ALK-rearranged lung benign tumors (particularly IMTs). However, no direct clinical trials or publications address "lung benign neoplasm" as an indication, all evidence is indirect (L4), and the drug is not registered in Taiwan — making any clinical application premature without further validation.
+- The prediction for gingival fibromatosis rests only on a model score, with no trials, no literature and no plausible mechanism. The EU authorization is also cancelled.
+- The NF2-related schwannomatosis signal is more promising but is small, non-randomized, and tied to a mismatched disease label.
 
 **To proceed, the following is needed:**
-
-- Pathological confirmation that the target patient population harbours ALK rearrangements (EML4-ALK, RANBP2-ALK, or other ALK fusions) in the relevant tumour type
-- Clarify disease coding: verify whether ALK-rearranged inflammatory myofibroblastic tumors (IMTs) are classified as "lung benign neoplasm" in the local disease ontology
-- Download and parse the TFDA SmPC PDF to complete safety and contraindication assessment (currently Blocking data gap)
-- Retrieve full MOA documentation from DrugBank (DB12267) to support mechanistic analysis
-- Identify whether an ongoing basket trial (e.g., ALK+ solid tumours) could enrol patients with ALK+ IMTs as a sub-cohort
-- Consult Taiwan regulatory pathway for compassionate use or off-label access in ALK+ IMT if pathological confirmation is obtained
+- Remap the disease label to NF2-related schwannomatosis and reassess the evidence level for that indication.
+- Obtain detailed mechanism of action data (MOA).
+- Retrieve warnings and contraindications from the SmPC, which is currently missing and blocks safety screening.
+- Clarify the reason for the cancelled EU authorization and the availability of the drug in the EU.
+- Define a safety monitoring plan, including tumour lysis syndrome and cardiac risks.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

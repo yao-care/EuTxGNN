@@ -2,7 +2,7 @@
 layout: default
 title: Metformin
 parent: AI Predictions (L5)
-nav_order: 383
+nav_order: 396
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,86 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Metformin: From Type 2 Diabetes to Focal Stiff Limb Syndrome
+# Metformin: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
 
 ## One-Sentence Summary
 
-Metformin is a globally established first-line biguanide agent for Type 2 Diabetes Mellitus. The TxGNN model predicts a possible new application in **Focal Stiff Limb Syndrome**, but the current Evidence Pack contains **only a model prediction score (99.45%)** — no clinical trials and no supporting literature exist for this specific indication.
-
----
+Metformin is a widely used oral glucose-lowering medicine, approved in the EU (mainly in fixed-dose combinations) for type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack (no Taiwan/EU license data available); Metformin is globally recognized as a first-line treatment for Type 2 Diabetes Mellitus |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
+| Original Indication | Type 2 diabetes mellitus (adjunct to diet and exercise to improve glycaemic control in adults inadequately controlled on maximal tolerated metformin alone, or in combination with other glucose-lowering medicines) |
+| Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all 19 authorizations are cancelled) |
+| Number of Authorizations | 19 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap). Based on general background knowledge, Metformin belongs to the biguanide class of antidiabetic agents, acting primarily by reducing hepatic glucose production, decreasing intestinal glucose absorption, and improving peripheral insulin sensitivity. Its efficacy in Type 2 Diabetes Mellitus is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, metformin is an insulin-sensitizing glucose-lowering agent. Its efficacy in type 2 diabetes is established, and mechanistically it may be applicable to **focal stiff limb syndrome** only through indirect links.
 
-There is, however, no known pharmacological or mechanistic rationale connecting Metformin to Focal Stiff Limb Syndrome, a rare neuromuscular/autoimmune disorder. The prediction rests solely on the TxGNN knowledge-graph score (0.994); no mechanistic literature or clinical evidence supports this link. The same holds for the other top-ranked candidates in this pack (e.g., Classic Stiff Person Syndrome, Opsismodysplasia), which also lack any biological rationale beyond the model score.
+Focal stiff limb syndrome belongs to the stiff-person spectrum of disorders, which are usually autoimmune. These disorders often co-occur with autoimmune diabetes, which may explain why the knowledge graph associates them with antidiabetic drugs. One speculative link is the anti-inflammatory effect of metformin through AMPK activation. No direct mechanistic evidence was found in the data compiled for this report, and the prediction should be treated as an unvalidated hypothesis.
 
----
+The same score appears for classic stiff person syndrome (99.45%), which supports the view that the association is driven by the shared diabetes and autoimmunity context rather than by a demonstrated effect on stiffness or spasms.
+
+## Other Predicted Indications (for context)
+
+| Rank | Predicted Disease | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Classic stiff person syndrome | 99.45% | L5 | Association with anti-GAD autoimmunity and type 1 diabetes; not evidence that metformin treats the neurological condition |
+| 3 | Opsismodysplasia | 99.40% | L5 | Speculative link through INPPL1/SHIP2 insulin-PI3K signalling |
+| 4 | Thiamine-responsive dysfunction syndrome | 99.40% | L5 | Likely driven by the diabetes association; no established role for metformin |
+| 5–7, 9 | Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 98.90–99.06% | L5 | Insulin-sensitivity link is plausible, but these forms are localized and typically not metabolic |
+| 8 | Pancreatic agenesis | 98.91% | L5 | Weak rationale: metformin cannot replace missing insulin, and the retrieved papers do not address this condition |
+| 10 | Homozygous familial hypercholesterolemia | 92.30% | L4 | A 1988 in vitro study showed decreased cholesterol metabolism in fibroblasts; classed as a research question only |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for focal stiff limb syndrome.
 
----
+## EU Market Information
 
-## Other Candidate Indications Reviewed (Ranks 2–10)
+All 19 authorizations are cancelled, and no currently valid single-ingredient or combination product was found. The five main entries are listed below.
 
-For context, nine additional TxGNN-predicted indications were reviewed in this pack. All were assessed as **Hold**, either due to a complete absence of supporting evidence (L5) or only weak, indirect preclinical/case-report evidence (L4):
-
-| Rank | Predicted Indication | Score | Evidence Level | Note |
-|------|----------------------|-------|-----------------|------|
-| 2 | Classic Stiff Person Syndrome | 99.45% | L5 | No mechanistic link; autoimmune disorder unrelated to known glucose-lowering action |
-| 3 | Opsismodysplasia | 99.40% | L5 | Rare skeletal dysplasia, no mechanistic link |
-| 4 | Thiamine-Responsive Dysfunction Syndrome | 99.40% | L5 | Metformin is known to *interfere* with B12/thiamine metabolism — a potential risk signal, not a therapeutic rationale |
-| 5 | Drug-Induced Localized Lipodystrophy | 99.06% | L5 | No supporting evidence |
-| 6 | Centrifugal Lipodystrophy | 98.99% | L5 | No supporting evidence |
-| 7 | Pressure-Induced Localized Lipoatrophy | 98.96% | L5 | No supporting evidence |
-| 8 | Pancreatic Agenesis | 98.91% | L4 | 20 papers reviewed; only 1 indirect case report (Alström syndrome), not disease-specific |
-| 9 | Idiopathic Localized Lipodystrophy | 98.90% | L5 | No supporting evidence |
-| 10 | Homozygous Familial Hypercholesterolemia | 92.30% | L4 | Only 2 papers; 1988 in-vitro fibroblast study showing indirect cholesterol-lowering effect, not clinically validated |
-
-None of these candidates currently meet a threshold for further development.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002279 | Jentadueto | Not specified | Type 2 diabetes mellitus, as an adjunct to diet and exercise (linagliptin + metformin combination)... |
+| EMEA/H/C/002672 | Xigduo | Not specified | Type 2 diabetes mellitus in adults, as an adjunct to diet and exercise (dapagliflozin + metformin)... |
+| EMEA/H/C/000807 | Eucreas | Not specified | Type 2 diabetes mellitus in adults, as an adjunct to diet and exercise (vildagliptin + metformin)... |
+| EMEA/H/C/000862 | Velmetia | Not specified | Type 2 diabetes mellitus, as an adjunct to diet and exercise (sitagliptin + metformin)... |
+| EMEA/H/C/003770 | Synjardy | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above (empagliflozin + metformin)... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. **Note:** TFDA label warnings/contraindications (DG001) are flagged as a **Blocking** data gap in this Evidence Pack — safety evaluation (S1 stage) cannot proceed until this data is obtained.
+- **Disease-level cautions from the knowledge graph** (these are graph-based contraindication links, not label text): liver failure and liver disease, kidney disease, congestive heart failure, pancreatitis, gallbladder disease, pyoureter, adrenocortical insufficiency, thymus gland disease, and a group of pituitary hormone deficiency and hypogonadotropic hypogonadism conditions.
+- **Drug Interactions** (100 interactions recorded; examples from the data):
+  - **Major**: acetazolamide, ethanol
+  - **Moderate**: dolutegravir, abemaciclib, phenylephrine, ranitidine, formoterol, pseudoephedrine, ketorolac, nifedipine, epinephrine, ibuprofen, ethinylestradiol, hydrocortisone, salbutamol, hydrochlorothiazide, acetohexamide
+  - **Minor**: acarbose, topical hydrocortisone, topical alclometasone
 
----
+Label-based warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications in this Evidence Pack are supported only by the TxGNN model score (L5) or minimal indirect preclinical/case-report evidence (L4), with no clinical trials confirming human efficacy for any of them. Additionally, a **Blocking** data gap (missing TFDA warnings/contraindications) prevents even a preliminary safety assessment.
+The prediction rests only on a model score of 99.45%, with no clinical trials or publications. The mechanistic link, through shared autoimmune and diabetes associations, is indirect and unproven. In addition, all EU authorizations for metformin-containing products are currently cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label PDF (warnings, contraindications) — resolves Blocking gap DG001
-- DrugBank MOA data — resolves High-severity gap DG002
-- Targeted literature/mechanistic search specifically on Focal Stiff Limb Syndrome and Metformin (none currently exists)
-- If pursuing rank 8 (Pancreatic Agenesis) or rank 10 (HoFH), dedicated mechanistic studies to confirm the preliminary preclinical signals before any clinical consideration
+- Targeted literature review on metformin or AMPK modulators in stiff-person spectrum disorders and autoimmune neurological conditions
+- Mechanism of action data and a clear mechanistic rationale for stiff-limb disorders
+- Preclinical or early clinical evidence of any effect on stiffness, spasms, or autoimmunity
+- Review of the current EU regulatory status, including whether any metformin-containing product is still marketed
+- Label-based safety review (SmPC warnings and contraindications), especially for renal and hepatic impairment, and a comparison with current standard therapy for stiff-person spectrum disorders
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

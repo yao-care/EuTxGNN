@@ -2,7 +2,7 @@
 layout: default
 title: Osilodrostat
 parent: AI Predictions (L5)
-nav_order: 439
+nav_order: 453
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Osilodrostat: From Cushing's Disease to Rare Dermatologic and Genetic Syndromes
+# Osilodrostat: From Endogenous Cushing's Syndrome to Familial Generalized Lentiginosis
 
 ## One-Sentence Summary
 
-Osilodrostat (DrugBank DB11837) is a CYP11B1 (11β-hydroxylase) inhibitor that blocks cortisol synthesis, originally developed for Cushing's disease/syndrome. The TxGNN model's top 10 predictions for this drug are a mix of rare pigmentary skin disorders, congenital chromosomal syndromes, and unrelated tumor types (e.g., rhabdoid tumor, schwannoma), none of which have any known mechanistic link to cortisol synthesis inhibition. **No clinical trials or literature currently support any of these predictions.**
+Osilodrostat (marketed as Isturisa) was originally used to treat endogenous Cushing's syndrome in adults.
+The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on a network-based score alone, and the available pharmacology argues against benefit.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indications on file) |
+| Original Indication | Endogenous Cushing's syndrome in adults |
 | Predicted New Indication | Familial generalized lentiginosis |
 | TxGNN Prediction Score | 98.19% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not fully available. Based on known information, Osilodrostat is a CYP11B1 (11β-hydroxylase) inhibitor that suppresses adrenal cortisol synthesis, and its established use is in Cushing's disease/syndrome.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, osilodrostat is an inhibitor of 11-beta-hydroxylase (CYP11B1), the enzyme that catalyses the last step of cortisol synthesis. Its efficacy in Cushing's syndrome comes from lowering cortisol. This mechanism description is not verified by the supplied data.
 
-All 10 top-ranked predictions from TxGNN are rare dermatologic pigmentation disorders (e.g., familial generalized lentiginosis, acromelanosis, Moynahan syndrome), congenital chromosomal instability syndromes, or unrelated oncologic conditions (rhabdoid tumor, peripheral nerve schwannoma). None of these has an established or plausible pathophysiological connection to cortisol synthesis inhibition. The model's own rationale notes for every candidate explicitly flag "no known mechanistic link" and attribute the high scores to likely noise from indirect node associations in the knowledge graph (e.g., shared pigmentation-related or genetic-syndrome nodes), rather than genuine biological plausibility.
+Lowering cortisol removes negative feedback on the pituitary, so ACTH and POMC-derived peptides tend to rise. These peptides stimulate melanocortin-1 receptor (MC1R) signalling and can increase pigmentation. In a lentiginosis phenotype, this could worsen the condition rather than treat it.
 
-Given the absence of any supporting mechanism, clinical trial, or literature evidence across the entire top-10 list, these predictions should be treated as low-confidence, exploratory signals only — not as candidates warranting near-term clinical investigation.
+The link between Cushing's syndrome and familial generalized lentiginosis is therefore weak. The high score (98.19%, rank 15,522) likely reflects shared annotations in the knowledge graph, not a verified therapeutic rationale. The other nine top predictions (including café-au-lait macule syndrome, acromelanosis, Moynahan syndrome, rhabdoid tumor, and peripheral nerve schwannoma) share the same limitation: network scores only, with no clinical or literature support.
 
 ## Clinical Trial Evidence
 
@@ -65,24 +67,31 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations on file (market status: Not marketed / Not marketed; total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004821 (cancelled) | Isturisa | Not specified | Treatment of endogenous Cushing's syndrome in adults |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction query returned 100 records. Most are Moderate, and a few are Major or Minor. Examples from the data compiled for this report:
+  - **Major**: Clarithromycin, Dolasetron
+  - **Moderate**: Famotidine, Alosetron, Loperamide, Aprepitant, Omeprazole, Dexamethasone, Budesonide, Cimetidine, Levofloxacin, Metreleptin, Palonosetron
+  - **Minor**: Naloxegol
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications are rated L5 (AI prediction only) with no clinical trials, no literature, and no plausible mechanistic rationale — the drug's own rationale notes describe several candidates as likely knowledge-graph noise. There is no basis to proceed to safety or clinical evaluation at this time.
+The prediction is supported only by a knowledge-graph score, with no trials or publications. Osilodrostat's expected effect of raising ACTH points against benefit in pigmentary disorders. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (currently a blocking data gap, DG001)
-- Confirmed mechanism of action detail from DrugBank (DG002)
-- Independent mechanistic or preclinical rationale connecting CYP11B1 inhibition to any of the predicted conditions before further evidence collection is warranted
-- Re-screening of lower-ranked TxGNN candidates that may have stronger biological plausibility (e.g., other cortisol/steroidogenesis-related conditions), since the current top 10 appear dominated by graph-topology artifacts rather than true signal
+- Verified mechanism of action data from DrugBank
+- Warnings and contraindications from the EMA product information, required before any safety screening
+- Preclinical or clinical evidence showing a plausible benefit in lentiginosis, given the risk of ACTH-driven pigmentation
+- Clarification of why the EU authorization was cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

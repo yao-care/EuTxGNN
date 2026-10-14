@@ -2,7 +2,7 @@
 layout: default
 title: Volanesorsen
 parent: AI Predictions (L5)
-nav_order: 650
+nav_order: 674
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,27 +33,28 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Volanesorsen is an antisense oligonucleotide directed against APOC3 mRNA, originally developed to lower ApoC-III and triglyceride levels in familial chylomicronemia syndrome (per mechanism described in the evidence pack). The TxGNN model predicts it may be effective for **Megaloblastic Anemia**, but currently **no clinical trials** and **no publications** support this direction, and the drug is not yet marketed in the EU.
+Volanesorsen is an antisense oligonucleotide originally used as an add-on to diet in adults with genetically confirmed familial chylomicronemia syndrome (FCS) who are at high risk of pancreatitis.
+The TxGNN model predicts it may be effective for **megaloblastic anemia**, but **no clinical trials and no publications** currently support this prediction, and the EU authorization has been cancelled.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Familial Chylomicronemia Syndrome (FCS) — inferred from the mechanism-of-action note in the evidence pack; no formal EU regulatory record is available |
-| Predicted New Indication | Megaloblastic Anemia |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pancreatitis, in whom response to diet and triglyceride-lowering therapy has been inadequate |
+| Predicted New Indication | Megaloblastic anemia |
+| TxGNN Prediction Score | 99.997% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-The `original_moa` field in the evidence pack is marked as a data gap, so no formally structured mechanism-of-action data is available. However, the rationale accompanying the top-ranked prediction states that Volanesorsen is an APOC3 mRNA antisense oligonucleotide that reduces ApoC-III and triglycerides, and is used to treat familial chylomicronemia syndrome — a lipid metabolism disorder.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Volanesorsen is known to be an antisense oligonucleotide that targets APOC3 mRNA to lower triglycerides. Its efficacy in FCS relates to lipid metabolism.
 
-Megaloblastic anemia is primarily caused by vitamin B12 or folate metabolic abnormalities. According to the evidence pack's own mechanistic assessment, there is **no known biological pathway connecting lipoprotein/triglyceride metabolism to B12/folate-dependent erythropoiesis**. The rationale explicitly describes this mechanistic link as "weak," meaning the prediction currently rests solely on knowledge-graph pattern similarity rather than a plausible pharmacological rationale.
+Megaloblastic anemia results from vitamin B12 or folate deficiency, which impairs DNA synthesis in blood-cell precursors. There is no known link between this process and APOC3 inhibition, and the data compiled for this report supports no mechanistic connection.
 
-This pattern is consistent across all ten of TxGNN's top-ranked predictions for this drug: each is explicitly flagged in the evidence pack as having a weak, indirect, or absent mechanistic connection to Volanesorsen's known lipid-lowering activity, and none are backed by clinical trials or literature. This should be read as an early-stage, exploratory signal rather than a validated repurposing hypothesis.
+The very high TxGNN score (99.997%) is a model output only. It likely reflects knowledge-graph neighborhood patterns rather than biological rationale. It should not be read as evidence of efficacy. Other top-ranked predictions, such as the sickle cell disease variants, show nearly identical scores and also have no supporting evidence. This suggests the scores are correlated, ontology-driven outputs rather than independent signals.
 
 ## Clinical Trial Evidence
 
@@ -65,25 +66,33 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Volanesorsen currently holds **0 marketing authorizations** in the EU registry captured by this evidence pack (`market_status`: Not marketed). No authorization records, product names, or approved indication texts are available for extraction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004538 (cancelled) | Waylivra | Not specified | Adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pan... |
+
+## Cytotoxicity
+
+Not applicable. Volanesorsen is not an antineoplastic drug, so this section is omitted.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph lists **thrombocytopenia** as a contraindication-related disease for this drug. This comes from graph data, not from label text. It is particularly relevant if the drug were considered for hematologic conditions.
+
+Please refer to the SmPC for full safety information, including warnings, contraindications and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The prediction is supported only by TxGNN model output (L5) with zero clinical trials and zero publications, and the evidence pack's own rationale rates the mechanistic link between APOC3 inhibition and megaloblastic anemia as weak or absent.
-- A Blocking-severity data gap (DG001: EU/TFDA label warnings and contraindications) means the candidate cannot yet pass the S1 safety screening stage, and the drug is not currently marketed in the EU.
+The prediction rests solely on a model score, with no clinical trials, no literature and no plausible mechanistic link between APOC3 knockdown and megaloblastic anemia. In addition, the EU authorization is cancelled and the thrombocytopenia signal is a concern in hematologic patients.
 
 **To proceed, the following is needed:**
-- Official product label / SmPC warnings and contraindications (resolves DG001, Blocking)
-- Confirmed, structured mechanism-of-action and original indication documentation (resolves DG002)
-- Preclinical or mechanistic studies establishing a plausible pathway between ApoC-III/triglyceride modulation and megaloblastic anemia pathophysiology
-- Generation of at least preliminary clinical or non-clinical evidence before advancing this candidate beyond decision stage S0
+- Mechanism-of-action data from DrugBank, to assess any biological connection
+- Warnings and contraindications from the EMA product information (SmPC), to enable safety screening
+- Any preclinical or clinical evidence linking APOC3 inhibition to megaloblastic anemia
+- A review of the thrombocytopenia risk in the target population
+- Clarification of the regulatory and supply status, given that the EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

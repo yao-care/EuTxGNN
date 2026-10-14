@@ -2,7 +2,7 @@
 layout: default
 title: Pretomanid
 parent: AI Predictions (L5)
-nav_order: 483
+nav_order: 499
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,33 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Pretomanid is a nitroimidazooxazine antimycobacterial agent, used as part of the BPaL regimen (bedaquiline + pretomanid + linezolid) for extensively drug-resistant tuberculosis (XDR-TB) and treatment-intolerant/non-responsive multidrug-resistant tuberculosis (MDR-TB).
-> The TxGNN model predicts it may be effective for **Candidiasis**,
-> but **0 clinical trials** and **0 publications** currently support this direction, and the evidence pack explicitly flags the mechanistic link as biologically implausible.
+Pretomanid is an anti-tuberculosis drug, used in combination with bedaquiline and linezolid for extensively drug-resistant (XDR) or treatment-intolerant/nonresponsive multidrug-resistant (MDR) pulmonary tuberculosis.
+The TxGNN model predicts it may be effective for **candidiasis**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
+This is a computational prediction only, and no mechanistic basis for antifungal activity has been identified.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Drug-resistant tuberculosis (XDR-TB / treatment-intolerant or non-responsive MDR-TB), as part of the BPaL regimen — *no formal marketing authorization text available; drug is not marketed in this jurisdiction* |
+|------|------|
+| Original Indication | Pulmonary XDR, or treatment-intolerant/nonresponsive MDR, tuberculosis (in combination with bedaquiline and linezolid, adults) |
 | Predicted New Indication | Candidiasis |
 | TxGNN Prediction Score | 99.69% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured `original_moa` field (marked as a data gap). However, based on mechanistic notes elsewhere in the evidence pack, pretomanid is a nitroimidazooxazine prodrug that requires activation by a mycobacteria-specific F420-coenzyme-dependent deazaflavin nitroreductase system. This activation pathway is unique to mycobacteria and is central to pretomanid's bactericidal activity against both replicating and non-replicating *M. tuberculosis*.
+Detailed mechanism of action data are not available in the data compiled for this report. Pretomanid is a nitroimidazooxazine prodrug. It is activated in *Mycobacterium tuberculosis* by the F420-dependent enzyme Ddn (deazaflavin-dependent nitroreductase). Once activated, it is thought to release nitric oxide (respiratory poisoning) and to inhibit mycolic acid synthesis.
 
-Candida species are fungi and do not possess this mycobacterial F420-dependent activation system. The evidence pack's own rationale for this prediction states explicitly: **"No plausible mechanism: Pretomanid's antimicrobial activity depends on the mycobacteria-specific F420 coenzyme reductase system; Candida (a fungus) does not have this metabolic pathway, and there is no clinical or preclinical evidence supporting this."**
-
-Given the complete absence of clinical trials, literature, or mechanistic rationale, this prediction should be treated as a likely embedding-similarity artifact of the TxGNN model rather than a genuine repurposing signal. For context, two other predictions in this evidence pack (leprosy, rank 2; HIV infectious disease, rank 6) did generate clinical trial and literature hits, but both were also found to lack support on closer review: a direct in vitro study (PMID 17005816) shows *M. leprae* is naturally resistant to pretomanid (PA-824), and the HIV-related trials/literature concern TB treatment *in* HIV-co-infected patients rather than any direct antiretroviral activity of pretomanid. No candidate in this evidence pack currently clears the bar for further development.
+This mechanism does not support the prediction. Fungi such as *Candida* lack the mycobacterial activation pathway and mycolic acid synthesis, so antifungal activity is not expected. The very high TxGNN score (0.997) most likely reflects relationships in the knowledge graph rather than biological rationale. It should be treated as a hypothesis only, and the report found no trials or literature to support it.
 
 ---
 
@@ -77,15 +75,26 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Pretomanid is currently **not marketed** in this jurisdiction (total authorizations: 0). No license records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005167 (cancelled) | Dovprela (previously Pretomanid FGK) | Not specified | Dovprela is indicated in combination with bedaquiline and linezolid, in adults, for the treatment of pulmonary extensively drug resistant (XDR), or treatment-intolerant or nonresponsive... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 14 interactions were recorded. Major-level interactions are listed with:
+  - Dexamethasone
+  - Lumacaftor
+  - Apalutamide
+  - Dabrafenib
+  - Mitotane
+  - Lorlatinib
+  - Enzalutamide
 
-*(Note: `key_warnings`, `contraindications`, and drug-drug interaction data are all marked as data gaps in this evidence pack, including a Blocking-severity gap for TFDA label warnings/contraindications.)*
+  Moderate-level interactions are listed with empagliflozin, sitagliptin, somatotropin, somatrem, baricitinib, clofarabine and methotrexate.
+
+Warnings and contraindications from the product information were not available. Please refer to the SmPC for full safety information.
 
 ---
 
@@ -94,14 +103,24 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predicted indication (candidiasis) has no supporting clinical trials, no literature, and an explicitly stated implausible mechanism (fungal vs. mycobacteria-specific drug activation pathway). This is best interpreted as model noise rather than a genuine repurposing signal.
-- The only two predictions in this evidence pack with actual trial/literature support (leprosy, HIV) were independently found to be non-viable — one due to direct evidence of natural drug resistance, the other due to a data-labeling mismatch (TB treatment in HIV+ patients, not anti-HIV activity).
+The prediction is based on the model score alone. There are no clinical trials or literature, and pretomanid's mechanism, which depends on a mycobacterial activation pathway, gives no reason to expect antifungal activity. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve the Blocking-severity data gap (DG001): TFDA/official label warnings and contraindications must be obtained before any safety pre-screening (S1) can begin for any candidate.
-- Resolve the High-severity data gap (DG002): formal MOA data from DrugBank API to support or refute mechanistic plausibility assessments.
-- If candidiasis repurposing is to be pursued further, in vitro antifungal susceptibility data for pretomanid against *Candida* spp. would be the minimum evidence needed to justify moving past S0.
-- No further action recommended on this candidate set without new primary evidence.
+- In vitro antifungal susceptibility testing against *Candida* species as a first step
+- Evidence that fungi have a pathway able to activate pretomanid
+- Mechanism of action data and the product information warnings and contraindications (SmPC)
+- Clarification of the status of the cancelled EU authorization
+
+---
+
+### Note on Other Predictions
+
+Other predictions were also reviewed for context. All are Hold, except Bacteroidaceae infectious disease, which is a Research Question:
+
+- **Leprosy** (99.27%): plausible in principle because of the biological relation between mycobacteria, but none of the retrieved publications addresses leprosy, and no leprosy-specific evidence was found.
+- **Bacteroidaceae infection** (98.67%): the most plausible of the hypotheses because of the nitroimidazole scaffold, but no direct evidence was found and existing nitroimidazoles already cover this use.
+- **HIV infection** (98.85%): the literature concerns TB/HIV co-infection, not treatment of HIV itself, and is already within the approved TB scope. Drug interactions with antiretrovirals are a relevant consideration.
+- **Cardiac conditions, thrombocytopenia, oral candidiasis and fascioliasis**: no plausible mechanistic link. The thrombocytopenia prediction may reflect an adverse-event association with the combination regimen.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

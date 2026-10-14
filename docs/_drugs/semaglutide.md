@@ -2,7 +2,7 @@
 layout: default
 title: Semaglutide
 parent: AI Predictions (L5)
-nav_order: 536
+nav_order: 556
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Semaglutide: From Type 2 Diabetes/Obesity to Focal Stiff Limb Syndrome
+# Semaglutide: From Type 2 Diabetes and Weight Management to Focal Stiff Limb Syndrome
 
 ## One-Sentence Summary
 
-Semaglutide is a GLP-1 receptor agonist publicly known for treating type 2 diabetes and obesity, though this evidence pack does not contain structured registry data confirming its original approved indication or mechanism of action. The TxGNN model predicts potential efficacy for **Focal Stiff Limb Syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the link as likely a topological artifact rather than a genuine mechanistic connection.
+Semaglutide is a GLP-1 receptor agonist originally used to treat type 2 diabetes and to support weight management in adults with obesity or overweight, and in adolescents with obesity.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but **no clinical trials and no publications** currently support this prediction, so it is a computational prediction only.
 
 ---
 
@@ -41,23 +42,23 @@ Semaglutide is a GLP-1 receptor agonist publicly known for treating type 2 diabe
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (no TFDA/EU license records found; publicly known as a GLP-1 receptor agonist for type 2 diabetes/obesity) |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
+| Original Indication | Treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise |
+| Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 98.64% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap). Based on publicly known information, Semaglutide is a GLP-1 receptor agonist whose efficacy in type 2 diabetes and obesity is well established, acting primarily through glucose-dependent insulinotropic effects on pancreatic β-cells and central appetite regulation.
+Currently, detailed mechanism of action data is not available. Based on known information, semaglutide is a GLP-1 receptor agonist. Its efficacy in type 2 diabetes and weight management has been established, and a plausible but unverified idea is that GLP-1 receptor signalling could modulate neuroinflammation or autoimmune processes.
 
-Focal Stiff Limb Syndrome is an autoimmune neuro-excitability disorder associated with anti-GAD65 antibodies — a disease category with no established biological overlap with GLP-1 receptor signaling. The model's own repurposing rationale explicitly states: *"GLP-1 receptor agonists act primarily on metabolic/islet β-cell pathways, with no known direct biological connection to this autoimmune neuro-excitability disorder; the high KG score likely reflects topological similarity rather than a true mechanistic link."*
+Focal stiff limb syndrome is a rare neurological condition related to stiff person syndrome. The model also gave a near-identical score (98.64%) to classic stiff person syndrome, which is often autoimmune (anti-GAD65 positive) and is associated with diabetes. This shared autoimmune and diabetes link may partly explain the prediction, but it is speculative. No data compiled for this report support a therapeutic benefit.
 
-This candidate should therefore be interpreted as a pure knowledge-graph embedding signal rather than a biologically grounded hypothesis. Notably, several other top-10 candidates in this pack (e.g., pancreatic agenesis) show rationale notes describing the mechanistic link as potentially **contradictory** to known pharmacology (a drug requiring functional β-cells predicted for a disease defined by their absence), reinforcing that this batch of predictions warrants cautious interpretation rather than immediate pursuit.
+Other top-ranked predictions include opsismodysplasia, thiamine-responsive dysfunction syndrome, several localized lipodystrophies, pancreatic agenesis and autoimmune oophoritis. None has clinical evidence. For the lipodystrophy-type conditions, semaglutide's fat-loss effect could be undesirable. For pancreatic agenesis, GLP-1 agonists act on beta cells and need functional pancreatic tissue, so the mechanism is implausible.
 
 ---
 
@@ -69,21 +70,27 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for focal stiff limb syndrome.
 
 ---
 
 ## EU Market Information
 
-No marketing authorization records are available for Semaglutide in this dataset. `taiwan_regulatory.market_status` indicates "Not Marketed" with 0 total licenses on file.
+All three EU authorizations for semaglutide are cancelled.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004174 | Ozempic | Not specified | Treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise: as monotherapy when metformin is... |
+| EMEA/H/C/004953 | Rybelsus | Not specified | Rybelsus is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct... |
+| EMEA/H/C/005422 | Wegovy | Not specified | Adults Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 potential interactions, mostly Moderate or Minor. Examples of Moderate-level interactions include phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol, hydrocortisone, triamcinolone, hydrochlorothiazide, acetazolamide, estradiol, ethinylestradiol, levonorgestrel, norethisterone, aripiprazole, asenapine, alpelisib, asparaginase and ethanol. Minor-level examples include topical hydrocortisone and topical alclometasone.
 
-> **Note:** Retrieval of TFDA/EU label warnings and contraindications is currently a **Blocking** data gap (DG001) — this prevents the candidate from entering the S1 safety pre-assessment stage.
+Please also refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -92,13 +99,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications for Semaglutide in this pack are Evidence Level L5 (model prediction only, zero clinical trials or literature), and the top-ranked candidate's own mechanistic rationale describes the link as likely a topological artifact rather than genuine biology. Combined with a Blocking safety data gap and no confirmed EU marketing authorization in this dataset, there is currently no basis to advance beyond model-prediction stage (S0).
+The prediction rests on a model score alone (L5). There are no clinical trials or relevant publications, and the mechanistic link to focal stiff limb syndrome is speculative. In addition, all EU authorizations for semaglutide are currently cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EU SmPC label retrieval and parsing for warnings and contraindications (DG001, Blocking)
-- Mechanism of action data via DrugBank API (DG002, High)
-- Preclinical or mechanistic studies specifically linking GLP-1 receptor signaling to autoimmune neuro-excitability disorders (e.g., GAD65-mediated pathology) before considering the top-ranked candidate further
-- Confirmation of current EU marketing authorization status for Semaglutide, as the "not marketed" flag in this pack appears inconsistent with its known commercial availability and should be verified against source data
+- Mechanism of action data for semaglutide
+- Warnings and contraindications from the SmPC, which are currently missing and block safety screening
+- Preclinical or clinical evidence linking GLP-1 receptor agonism to stiff limb or stiff person spectrum disorders
+- Clarification of the current EU regulatory status, given that all three authorizations are cancelled
+- Assessment of route and formulation compatibility with the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Alirocumab
-parent: High Evidence (L1-L2)
-nav_order: 36
-evidence_level: L1
+parent: AI Predictions (L5)
+nav_order: 37
+evidence_level: L5
 indication_count: 10
 ---
 
 # Alirocumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,84 +29,70 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Alirocumab: From Hypercholesterolemia to Cholesterol Catabolic Process Disease
+# Alirocumab: From Primary Hypercholesterolaemia to Ichthyosis, X-linked, without Steroid Sulfatase Deficiency
 
 ## One-Sentence Summary
 
-Alirocumab is a PCSK9 inhibitor monoclonal antibody used globally for hypercholesterolemia and atherosclerotic cardiovascular disease risk reduction, though it is not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Cholesterol Catabolic Process Disease** (encompassing familial hypercholesterolemia and related LDL clearance disorders),
-with **1 completed Phase 3 clinical trial** and **19 publications** currently supporting this direction.
-
----
+Alirocumab is an anti-PCSK9 monoclonal antibody, originally used to lower LDL cholesterol in primary hypercholesterolaemia, mixed dyslipidaemia and established atherosclerotic cardiovascular disease.
+The TxGNN model predicts it may be effective for **X-linked ichthyosis without steroid sulfatase deficiency**, but there are **0 clinical trials** and **0 publications** supporting this prediction. It rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; globally indicated for hypercholesterolemia / atherosclerotic cardiovascular risk reduction |
-| Predicted New Indication | Cholesterol Catabolic Process Disease |
-| TxGNN Prediction Score | 99.35% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Primary hypercholesterolaemia and mixed dyslipidaemia; established atherosclerotic cardiovascular disease |
+| Predicted New Indication | Ichthyosis, X-linked, without steroid sulfatase deficiency |
+| TxGNN Prediction Score | 99.43% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Alirocumab is a fully human monoclonal antibody that targets PCSK9 (proprotein convertase subtilisin/kexin type 9). Detailed MOA data is not available in the current Evidence Pack; however, alirocumab's mechanism is well-established in the literature: by binding and neutralising circulating PCSK9, it prevents PCSK9 from docking onto LDL receptors on hepatocyte surfaces and driving their lysosomal degradation. The result is a sustained increase in LDL receptor density, accelerating LDL-cholesterol (LDL-C) clearance from plasma — a direct intervention in the cholesterol catabolic pathway.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, alirocumab is a fully human antibody against PCSK9 (proprotein convertase subtilisin/kexin type 9). By blocking PCSK9, it increases LDL receptor availability on liver cells and lowers circulating LDL-C. Its efficacy in hypercholesterolaemia is established.
 
-Cholesterol catabolic process disease encompasses conditions where the cellular or systemic machinery for cholesterol degradation and clearance is impaired. The most prominent example is familial hypercholesterolemia (FH), where loss-of-function mutations in the LDL receptor reduce hepatic LDL-C uptake. Alirocumab compensates for this deficit by preserving whatever residual LDL receptor expression remains, making the mechanistic alignment between drug and disease category exceptionally direct. The HIV-associated dyslipidemia subgroup studied in NCT03207945 represents a metabolically distinct but clinically relevant example of cholesterol catabolic dysfunction driven by antiretroviral therapy and systemic inflammation.
+For the predicted indication, no identifiable mechanistic link was found. X-linked ichthyosis involves steroid sulfatase (STS) dysfunction and cholesterol sulfate accumulation in the stratum corneum. PCSK9 inhibition lowers circulating LDL-C and does not act on this pathway. The high score (0.994) is a model output with no supporting trials or literature, so it should be treated as a hypothesis-generating signal only.
 
-Multiple tier-1 systematic reviews and the large ODYSSEY OUTCOMES safety dataset (>47,000 patient-years) converge to confirm alirocumab's role across the spectrum of LDL-C disorders. The breadth and quality of published evidence, combined with a completed Phase 3 trial, place this prediction at the highest achievable evidence tier (L1) among all 10 indications assessed in this Evidence Pack.
+**Other predictions reviewed.** Among the top 10 predictions, only two have any evidence base, and both are at L4:
+- **Xanthomatosis** (score 99.37%): biologically plausible, since xanthomas arise from lipid deposition in severe hypercholesterolaemia. The evidence consists of two case reports, one of which describes sitosterolemia with tendon xanthomas treated with ezetimibe and alirocumab. There are no trials.
+- **Cholesterol catabolic process disease** (score 99.36%): this largely restates the existing indication. One preclinical study suggests PCSK9 inhibition may prevent cholesterol gallstones through PPARα-mediated CYP7A1 activation, an angle that needs clinical testing.
 
----
+The remaining predictions have no identified supporting evidence. For cholesterol synthesis defects, lowering LDL-C could be counterproductive.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03207945](https://clinicaltrials.gov/study/NCT03207945) | Phase 3 | Completed | 118 | PCSK9 inhibition in HIV-infected patients at increased cardiovascular risk; evaluated impact on vascular inflammation, endothelial function, and non-calcified plaque burden using specialised non-invasive imaging |
-
----
+Currently no related clinical trials registered for the predicted indication.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38658193](https://pubmed.ncbi.nlm.nih.gov/38658193/) | 2024 | Clinical Analysis | European Heart Journal: Cardiovascular Pharmacotherapy | ODYSSEY OUTCOMES trial: alirocumab over 47,296 patient-years significantly reduced recurrent ischaemic cardiovascular events and all-cause mortality, with a well-characterised safety profile |
-| [38185721](https://pubmed.ncbi.nlm.nih.gov/38185721/) | 2024 | Review (Tier 1) | Signal Transduction and Targeted Therapy | Comprehensive review of PCSK9 across lipid metabolism, cardiovascular disease, liver disease, infectious disease, and cancer; establishes PCSK9 as a multi-system therapeutic target |
-| [39947256](https://pubmed.ncbi.nlm.nih.gov/39947256/) | 2025 | Mechanistic Review | Pharmacology & Therapeutics | Compares extracellular PCSK9 inhibition (alirocumab, evolocumab) vs. hepatic siRNA knockdown (inclisiran); clarifies mechanism of action differences with clinical implications |
-| [38277255](https://pubmed.ncbi.nlm.nih.gov/38277255/) | 2024 | Review (Tier 1) | Current Opinion in Lipidology | Update on PCSK9-directed therapies; summarises two landmark cardiovascular outcomes trials demonstrating marked LDL-C reduction and cardiovascular risk reduction |
-| [39751968](https://pubmed.ncbi.nlm.nih.gov/39751968/) | 2025 | Review (Tier 1) | Current Atherosclerosis Reports | Novel pharmacological approaches for homozygous familial hypercholesterolemia, a prototypical cholesterol catabolic process disease |
-| [36739653](https://pubmed.ncbi.nlm.nih.gov/36739653/) | 2023 | Review (Tier 1) | Kardiologia Polska | Evidence review of PCSK9 inhibitors on lipid parameters and cardiovascular risk; biochemical and genomic validation of PCSK9's role in LDL metabolism |
-| [39679827](https://pubmed.ncbi.nlm.nih.gov/39679827/) | 2025 | Review | Pharmacotherapy | State-of-the-art review of PCSK9-directed therapies as add-on to statins; addresses statin intolerance and suboptimal LDL-C lowering |
-| [37686091](https://pubmed.ncbi.nlm.nih.gov/37686091/) | 2023 | Review (Tier 2) | International Journal of Molecular Sciences | Overview of dyslipidemia treatments including PCSK9 inhibitors; addresses LDL-C, TG, and quality-of-life outcomes |
-| [36411665](https://pubmed.ncbi.nlm.nih.gov/36411665/) | 2022 | Review (Tier 2) | Biomedicine & Pharmacotherapy | Safety review of PCSK9 inhibitors; only 43% of statin-treated patients in Europe achieve LDL-C targets, supporting add-on PCSK9 inhibition |
-| [38191052](https://pubmed.ncbi.nlm.nih.gov/38191052/) | 2024 | Research | Metabolism: Clinical and Experimental | PCSK9 inhibition prevents and alleviates cholesterol gallstones via PPARα-mediated CYP7A1 activation; extends the drug's relevance to hepatic cholesterol catabolism beyond cardiovascular disease |
+Currently no related literature available for the predicted indication.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003882 (cancelled) | Praluent | Not specified | Primary hypercholesterolaemia and mixed dyslipidaemia in adults and in paediatric patients aged 8 years and older with HeFH, as an adjunct to diet...  |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Drug Interactions**: The only interaction record is a pharmacological target relationship: alirocumab binds PCSK9, its intended target. No drug-drug interactions with other medicinal products were identified.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Alirocumab's PCSK9 inhibition mechanism directly and specifically targets the LDL receptor pathway — the core defect in cholesterol catabolic process disease — making this one of the most mechanistically coherent repurposing predictions in this Evidence Pack. A completed Phase 3 trial plus 19 publications including multiple tier-1 reviews and the ODYSSEY OUTCOMES dataset justify an L1 evidence classification.
+The prediction has no clinical trials or publications behind it (L5), and the biology of X-linked ichthyosis, a disorder of steroid sulfatase and cholesterol sulfate handling in the skin, is not linked to PCSK9 inhibition. In addition, the only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Taiwan regulatory strategy: alirocumab is not currently registered in Taiwan; a TFDA market authorisation application or compassionate use pathway should be evaluated
-- Retrieve TFDA SmPC equivalent (or Praluent EU/US label) to document key warnings, contraindications, and monitoring requirements before clinical deployment
-- Retrieve complete MOA data from DrugBank (DB09302) to finalise the mechanistic justification section
-- Define the specific target subpopulation within "cholesterol catabolic process disease" — e.g., heterozygous FH, homozygous FH, HIV-associated dyslipidemia, or statin-intolerant hypercholesterolemia — as each may require a separate regulatory pathway
-- Assess reimbursement and cost-effectiveness data, as PCSK9 inhibitors are high-cost biologics with payer coverage variability across markets
+- Mechanism of action data for alirocumab
+- Warnings and contraindications from the product information
+- Preclinical or mechanistic evidence connecting PCSK9 inhibition to skin cholesterol sulfate biology
+- Confirmation of the current EU regulatory status
+- If the team wants to pursue lipid-related repurposing instead, xanthomatosis and cholesterol gallstones are the two candidates with some supporting evidence (both L4). They would need controlled clinical evidence before any decision to advance.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

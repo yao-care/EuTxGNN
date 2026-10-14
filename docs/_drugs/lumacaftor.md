@@ -2,7 +2,7 @@
 layout: default
 title: Lumacaftor
 parent: AI Predictions (L5)
-nav_order: 367
+nav_order: 379
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,73 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Lumacaftor is a CFTR corrector approved (in combination with ivacaftor, as Orkambi) for the treatment of cystic fibrosis caused by the F508del-CFTR mutation.
-> The TxGNN model predicts it may be effective for **Leprosy**, but currently **no clinical trials** and **no literature** support this direction, and the model's own mechanistic assessment finds no pharmacological plausibility for this link.
-
----
+Lumacaftor is a CFTR corrector, originally used (in the Orkambi combination) to treat cystic fibrosis in patients homozygous for the F508del mutation.
+The TxGNN model predicts it may be effective for **leprosy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystic fibrosis (inferred from mechanistic description; official TFDA label indication text not available) |
+| Original Indication | Cystic fibrosis (CF) in patients aged 6 years and older (tablets) or 1 year and older (granules) who are homozygous for the F508del mutation in the CFTR gene |
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data (`original_moa`) is not available from DrugBank in this evidence pack. Based on the mechanistic notes accompanying the predicted-indication entries, Lumacaftor is a CFTR corrector that repairs the misfolding of the F508del-CFTR protein and facilitates its trafficking to the cell membrane. It is approved, in combination with ivacaftor (Orkambi), for cystic fibrosis.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, lumacaftor is a CFTR corrector that improves the folding and trafficking of the F508del-CFTR protein. Its use in cystic fibrosis is established.
 
-There is no established or biologically plausible link between CFTR-mediated chloride channel correction and the immune/dermatologic pathology of leprosy (Mycobacterium leprae infection). No shared pathway, drug target, or clinical rationale connects the two conditions. The evidence pack itself flags this prediction as likely arising from an indirect knowledge-graph association (e.g., comorbidity or tissue-expression overlap) rather than from any genuine pharmacological mechanism.
+No plausible link between CFTR correction and leprosy (a *Mycobacterium leprae* infection with associated neuropathy) is supported by the available data. The high score (0.994) comes from a graph-based prediction and does not reflect a validated biological rationale. This prediction should be treated as a hypothesis only.
 
-Given the absence of both mechanistic rationale and supporting evidence, this specific prediction should be treated as exploratory only. Among the other candidates in this pack, **pulmonary hypertension** (rank 5, L4) has a comparatively more plausible—though still indirect—rationale, since CF patients can develop secondary pulmonary hypertension from chronic lung disease; this may warrant closer attention than leprosy.
-
----
+Other top-ranked predictions are also model-only signals without supporting studies. Three of the ten are migraine entries (migraine with or without aura susceptibility, migraine disorder, migraine with brainstem aura). They overlap and should be read as one signal, not independent evidence. The remaining predictions are rheumatoid arthritis, pulmonary hypertension, kyphoscoliotic heart disease, multiple endocrine neoplasia, brachydactyly-syndactyly syndrome, and nephrogenic syndrome of inappropriate antidiuresis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Lumacaftor currently holds no marketing authorizations in Taiwan (0 licenses; market status: Not marketed). No product, dosage form, or approved indication information is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003954 (status: cancelled) | Orkambi | Not specified | Orkambi tablets are indicated for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who are homozygous for the F508del... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs in total. Lumacaftor is a strong CYP3A inducer, which is consistent with this high count. The first 20 entries reviewed include:
+  - **Major**: eliglustat, naldemedine, naloxegol, rolapitant
+  - **Moderate**: proton pump inhibitors and H2 blockers (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole, ranitidine), antidiabetic agents (acetohexamide, glimepiride, linagliptin, pioglitazone, repaglinide), corticosteroids (betamethasone, prednisone), bupropion, and nitisinone
+- **Pulmonary hypertension note**: If this indication were pursued, the CYP3A induction would complicate co-therapy with common pulmonary hypertension drugs and should be assessed first.
 
-Note: TFDA label warnings/contraindications data are marked as a **blocking data gap** in this evidence pack (DG001), meaning a formal safety pre-assessment (S1 stage) cannot proceed until this information is obtained from the TFDA product label.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (leprosy) has zero supporting clinical trials or literature, and the model's own mechanistic review explicitly finds no pharmacological plausibility connecting CFTR correction to leprosy pathophysiology. In addition, a blocking data gap in TFDA safety labeling prevents any safety pre-assessment, so this candidate cannot move forward at this time.
+The leprosy prediction has a high model score but no clinical trials, no literature, and no supported mechanistic link (Evidence Level L5). The only EU authorization is cancelled, and warning and contraindication data are missing, so the candidate cannot yet proceed to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA product label (warnings/contraindications) to resolve the blocking safety data gap (DG001)
-- Detailed mechanism of action (MOA) data from DrugBank (DG002)
-- Re-evaluation of whether a higher-evidence candidate from this batch (e.g., pulmonary hypertension, L4) should be prioritized over leprosy for further investigation
-- If leprosy is to be pursued further, dedicated mechanistic or preclinical studies establishing a biological rationale, since none currently exist
+- Mechanism of action data (for example from DrugBank) to test any plausible link between CFTR correction and leprosy
+- EU SmPC warnings and contraindications for safety screening
+- Independent preclinical or literature support for the leprosy hypothesis
+- A review of whether the other predicted indications (especially the overlapping migraine entries) offer a stronger rationale
+- A drug-interaction assessment given strong CYP3A induction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

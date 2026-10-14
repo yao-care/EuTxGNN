@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Eptifibatide
-parent: Medium Evidence (L3-L4)
-nav_order: 226
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 233
+evidence_level: L5
 indication_count: 10
 ---
 
 # Eptifibatide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,14 +29,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Eptifibatide: From Acute Coronary Syndrome to Hemoglobinopathy (Sickle Cell Disease)
+# Eptifibatide: From Unstable Angina / Non-ST-Elevation Myocardial Infarction to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-> Eptifibatide is a GPIIb/IIIa (αIIbβ3 integrin) antagonist historically used to inhibit platelet aggregation in acute coronary syndromes.
-> Among the 10 TxGNN-predicted indications for this drug, **Hemoglobinopathy** (sickle cell disease vaso-occlusive crisis) is the only candidate with real human trial data —
-> **1 completed-phase clinical trial (terminated)** and **4 supporting publications** — even though it ranks 7th, not 1st, by raw TxGNN score.
-> The top-ranked prediction (rheumatoid arthritis, score 99.99%) has zero supporting evidence and is therefore not the focus of this report.
+Eptifibatide is an injectable antiplatelet drug, originally used to prevent early myocardial infarction in patients with unstable angina or non-Q-wave myocardial infarction.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials and no publications** currently support this specific prediction.
 
 ---
 
@@ -44,48 +42,55 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute Coronary Syndrome (ACS) / Unstable Angina — inferred from cited literature context; no formal regulatory label text is available since this product is not marketed in this jurisdiction |
-| Predicted New Indication | Hemoglobinopathy (sickle cell disease, acute vaso-occlusive pain crisis) |
-| TxGNN Prediction Score | 99.98% (rank #441 overall) |
-| Evidence Level | L3 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Prevention of early myocardial infarction in adults with unstable angina or non-Q-wave myocardial infarction (used with acetylsalicylic acid and unfractionated heparin) |
+| Predicted New Indication | Rheumatoid arthritis |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | ✗ Cancelled only (no valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Eptifibatide is a cyclic heptapeptide GPIIb/IIIa (integrin αIIbβ3) receptor antagonist that blocks the final common pathway of platelet aggregation. This mechanism underlies its established antithrombotic use in acute coronary syndromes, where blocking fibrinogen cross-linking between platelets prevents thrombus propagation in the coronary vasculature (as referenced in the cited literature).
+Eptifibatide is a glycoprotein IIb/IIIa (αIIbβ3) antagonist. It blocks the final common pathway of platelet aggregation, which is why it works in acute coronary syndromes, where platelet-driven clots cause heart muscle damage.
 
-Sickle cell disease and related hemoglobinopathies share a pathophysiology in which platelet activation and adhesion contribute to microvascular occlusion, driving the acute painful crises that define the disease. Because Eptifibatide's core action — blocking platelet aggregation via αIIbβ3 — is mechanistically agnostic to the vascular bed involved, a link between Eptifibatide and hemoglobinopathy is biologically plausible. This is also the *only* candidate among this drug's top 10 TxGNN predictions that has already been tested directly in humans: a Phase I/II trial (NCT00834899) plus three independent publications from the same U.S. research group examining safety, pain-crisis outcomes, and inflammatory markers.
-
-By comparison, the other high-scoring TxGNN candidates (rheumatoid arthritis, several sickle-cell subtype syndromes without independent data, beta-thalassemia, and the 16p13 deletion syndrome) rest mainly on ontological proximity within the knowledge graph rather than independent evidence, and should be treated as far more speculative. A separate, low-tier signal also exists for female breast carcinoma, based only on in vitro/microfluidic-chip data showing αIIbβ3 blockade may reduce platelet-tumor cell interactions relevant to metastasis — this is preclinical only and not pursued further here.
+The link to rheumatoid arthritis is hypothetical. Platelet activation is thought to contribute to synovial inflammation, so blocking platelet function could in theory influence joint inflammation. However, none of the data compiled for this report test this idea. The very high model score probably reflects patterns in the knowledge graph rather than demonstrated therapeutic benefit. Rheumatoid arthritis is a chronic autoimmune disease, whereas eptifibatide is a short-acting drug for acute care, so the clinical fit is also unclear.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00834899](https://clinicaltrials.gov/study/NCT00834899) | Phase 1/2 | Terminated | 13 | Evaluated safety and efficacy of Eptifibatide for acute pain episodes in sickle cell disease, testing the hypothesis that platelet activation and resultant inflammation contribute to vaso-occlusive crises. Terminated early (2012); reason not stated in available data. |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17916103](https://pubmed.ncbi.nlm.nih.gov/17916103/) | 2007 | Phase 1 Clinical Trial | British Journal of Haematology | First-in-SCA-patient study; Eptifibatide safely inhibited platelet aggregation and CD40 ligand release in 4 steady-state sickle cell anaemia patients, supporting the ACS-like platelet/CD40L pathophysiology rationale. |
-| [23973010](https://pubmed.ncbi.nlm.nih.gov/23973010/) | 2013 | Pilot Clinical Study | Thrombosis Research | Pilot study of Eptifibatide during acute painful episodes in SCD; evaluated safety and efficacy of αIIbβ3 blockade in reducing crisis-related platelet activation. |
-| [29322543](https://pubmed.ncbi.nlm.nih.gov/29322543/) | 2018 | Clinical Study (Post-hoc/Mechanistic) | American Journal of Hematology | Follow-up analysis from the same trial cohort examining Eptifibatide's effect on inflammatory markers during acute pain episodes. |
-| [22156199](https://pubmed.ncbi.nlm.nih.gov/22156199/) | 2012 | In Vitro Preclinical | The Journal of Clinical Investigation | Microfluidic "endothelialized" model of microvascular occlusion/thrombosis in hematologic diseases (SCD, HUS); supports the general biophysical mechanism but does not test Eptifibatide directly. |
+Currently no related literature available.
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Status | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004104 | Eptifibatide Accord | Cancelled | Eptifibatide Accord is intended for use with acetylsalicylic acid and unfractionated heparin. Eptifibatide Accord is in... |
+| EMEA/H/C/000230 | Integrilin | Cancelled | Integrilin is intended for use with acetylsalicylic acid and unfractionated heparin. Integrilin is indicated for the pr... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No drug-drug interaction records, key warnings, or contraindication data were found for this drug in the current evidence pack.
+- **Contraindication signals (knowledge graph, not label text)**: The TxGNN knowledge graph links eptifibatide to thrombocytopenia, blood coagulation disease and impaired renal function as contraindications. These should be verified against the official product information.
+- **Drug Interactions**: The data compiled for this report list 100 interactions. The main ones are:
+  - **Major**: deferasirox, ibritumomab tiuxetan, tositumomab (I-131)
+  - **Moderate**: acetylsalicylic acid, dexfenfluramine, fenfluramine, sibutramine
+  - Other interactions with unclassified severity include pantoprazole, omeprazole, morphine, prednisone and simvastatin.
+- **Bleeding risk**: As a potent antiplatelet agent, eptifibatide carries a systemic bleeding risk. This is a particular concern for any chronic or repeated use.
+
+Please refer to the SmPC for full warnings and contraindications.
 
 ---
 
@@ -94,13 +99,15 @@ Please refer to the SmPC for safety information. No drug-drug interaction record
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale is sound and this is the only one of Eptifibatide's 10 TxGNN-predicted indications with direct human trial data, but the pivotal trial (NCT00834899, n=13) was terminated for an undocumented reason and no properly powered efficacy trial exists. This is insufficient to move beyond a research hypothesis at this time.
+The TxGNN score for rheumatoid arthritis is very high, but there is no trial, publication or other supporting evidence (L5). The mechanistic link is speculative, the drug is no longer marketed in the EU, and the bleeding risk and many interactions call for caution.
+
+**Of note:** Among the other predictions, **hemoglobinopathy / sickle cell disease** has the strongest support (L2). It has a Phase 1/2 randomized, placebo-controlled trial ([NCT00834899](https://clinicaltrials.gov/study/NCT00834899), terminated with 13 participants), a Phase I study ([PMID 17916103](https://pubmed.ncbi.nlm.nih.gov/17916103/)), a pilot study in acute pain episodes ([PMID 23973010](https://pubmed.ncbi.nlm.nih.gov/23973010/)) and an inflammation analysis ([PMID 29322543](https://pubmed.ncbi.nlm.nih.gov/29322543/)). These support safety and biological plausibility, but not efficacy, and it should be evaluated as a separate research question.
 
 **To proceed, the following is needed:**
-- Reason for termination of NCT00834899 (safety, futility, or enrollment failure changes the risk calculus materially)
-- Official mechanism-of-action and labeling/safety data (SmPC/TFDA-equivalent warnings and contraindications — currently a blocking data gap)
-- A properly powered Phase 2 trial with vaso-occlusive crisis frequency/duration as a primary endpoint
-- Bleeding-risk assessment specific to the SCD population, given baseline coagulopathy differences from the ACS population where Eptifibatide is conventionally used
+- Any preclinical or clinical evidence linking GPIIb/IIIa blockade to rheumatoid arthritis
+- Mechanism of action data confirmed from DrugBank
+- Warnings and contraindications from the EMA product information, since the data compiled for this report lack them
+- Assessment of route and regimen feasibility, given that eptifibatide is an acute intravenous therapy and the EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

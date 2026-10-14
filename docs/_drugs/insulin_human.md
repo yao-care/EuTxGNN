@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Human
 parent: AI Predictions (L5)
-nav_order: 318
+nav_order: 329
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,81 +33,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Insulin human is a peptide hormone used to treat diabetes mellitus (Type 1 and Type 2), replacing or supplementing endogenous insulin to regulate blood glucose levels.
-The TxGNN model predicts it may be effective for **Autoimmune Oophoritis**, with **0 clinical trials** and **0 publications** currently supporting this direction.
-The overall evidence level is L5 (AI prediction only), and this candidate is not recommended for further development at this time.
-
----
+Insulin human is a replacement hormone originally used to treat diabetes mellitus.
+The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes Mellitus (Type 1 & Type 2) |
-| Predicted New Indication | Autoimmune Oophoritis |
+| Original Indication | Treatment of diabetes mellitus |
+| Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 5 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Insulin human is a peptide hormone that binds the insulin receptor to facilitate cellular glucose uptake and regulate carbohydrate, fat, and protein metabolism. Its clinical role in diabetes mellitus — replacing absent or insufficient endogenous insulin — is well-established across decades of practice.
+Currently, detailed mechanism of action data is not available. Based on known information, insulin human is a replacement hormone whose efficacy in diabetes mellitus is well established. It lowers blood glucose by replacing or supplementing the body's own insulin.
 
-Autoimmune oophoritis is strongly associated with polyglandular autoimmune syndrome (APS Type 1/2), which frequently co-occurs with Type 1 Diabetes Mellitus (T1DM). Both conditions share the same underlying immune dysregulation: T-cell mediated destruction of endocrine tissue and circulating autoantibodies targeting organ-specific antigens. TxGNN likely captured these shared immunological nodes in the biomedical knowledge graph — particularly the overlap in autoimmune endocrine targets — to generate this high-confidence score.
+For autoimmune oophoritis, the data compiled for this report does not support a direct mechanistic link between insulin signalling and autoimmune destruction of the ovary. The high score (99.84%) reflects a model-based association, not clinical or experimental evidence, and the model's ranking alone cannot establish a therapeutic rationale.
 
-However, insulin itself has no known direct therapeutic effect on ovarian autoimmunity. Patients with both T1DM and autoimmune oophoritis require insulin for glucose management, but this represents comorbidity treatment, not repurposing. The high TxGNN score reflects shared biological context rather than a tractable therapeutic hypothesis. No preclinical or clinical evidence exists to support this direction.
-
----
+The other top-ranked predictions show the same pattern:
+- **Stiff-person spectrum disorders** (focal stiff limb syndrome, classic stiff person syndrome): The signal likely reflects the co-occurrence of anti-GAD autoimmunity and type 1 diabetes. This is a comorbidity link; insulin would treat the diabetes, not the neurological syndrome.
+- **Thiamine-responsive dysfunction syndrome and pancreatic agenesis**: Insulin is relevant only for managing the accompanying diabetes. This is an extension of the original indication rather than a new repurposing finding.
+- **Localized lipodystrophy and lipoatrophy** (drug-induced, centrifugal, pressure-induced, idiopathic): Localized lipodystrophy is a known adverse effect of repeated insulin injection at the same site. The association probably reflects insulin as a cause, not a treatment.
+- **Opsismodysplasia**: A speculative link exists through SHIP2, a negative regulator of insulin signalling, but the direction of any effect is unknown.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
 
-## Market Information (Taiwan)
+All five authorizations are cancelled.
 
-Insulin human is currently not approved or marketed in Taiwan. No regulatory authorization records are on file.
-
-| Item | Content |
-|------|------|
-| Regulatory Agency | TFDA (Taiwan Food and Drug Administration) |
-| Market Status | Not Marketed |
-| Total Authorizations | 0 |
-
-> **Note:** Taiwan regulatory prescribing information (TFDA 仿單), including warnings, contraindications, and full safety labeling, has not been retrieved (Data Gap DG001). This information should be obtained directly from the TFDA website before any further evaluation.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000427 | Actraphane | Not specified | Treatment of diabetes mellitus. |
+| EMEA/H/C/000428 | Mixtard | Not specified | Treatment of diabetes mellitus. |
+| EMEA/H/C/000442 | Protaphane | Not specified | Treatment of diabetes mellitus. |
+| EMEA/H/C/000441 | Insulatard | Not specified | Treatment of diabetes mellitus. |
+| EMEA/H/C/000201 | Insuman | Not specified | Diabetes mellitus where treatment with insulin is required. Insuman Rapid is also suitable for the treatment of hyperglycaemic coma and ketoacidosis, as well as for achieving pre-, intra- and po... |
 
 ## Safety Considerations
 
-Please refer to the SmPC or TFDA prescribing information for complete safety data. Full Taiwan regulatory safety labeling (warnings, contraindications) is currently unavailable and must be obtained before any clinical assessment can proceed.
+- **Drug Interactions**: An interaction screen returned 100 interacting drugs in total; 20 were available for review, almost all rated Moderate, with a few Minor. Main groups:
+  - **Other antidiabetic agents** (metformin, pioglitazone, alogliptin, albiglutide): additive blood-glucose-lowering effect, with a risk of hypoglycaemia.
+  - **Sympathomimetics** (epinephrine, salbutamol, phenylephrine, pseudoephedrine): may counteract the glucose-lowering effect.
+  - **Corticosteroids** (hydrocortisone, systemic and topical; alclometasone, topical): may raise blood glucose, so insulin requirements can change.
+  - **Estrogens** (estradiol, ethinylestradiol): may alter glucose control.
+  - **Others** (acebutolol, benazepril, hydrochlorothiazide, acetazolamide, doxycycline, alpelisib, ethanol): may alter glucose control or mask or intensify hypoglycaemia. Beta-blockers such as acebutolol can mask hypoglycaemia symptoms.
 
----
+- **Injection-site effects**: Localized lipodystrophy is a known adverse effect of repeated insulin injection at the same site. This matters for any plan to use insulin in this setting.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical trial, published literature, or mechanistic evidence supporting insulin human as a direct treatment for autoimmune oophoritis. The TxGNN prediction reflects shared autoimmune endocrine network topology — specifically the co-occurrence of T1DM and APS — rather than any direct therapeutic activity of insulin on ovarian autoimmune processes.
+The prediction rests only on a model score. No clinical trials or publications support insulin for autoimmune oophoritis, and no direct mechanistic link is supported by the data. In addition, all EU authorizations for this drug are cancelled. The other top predictions are explained by comorbidity with diabetes or by insulin's own adverse effects, not by new therapeutic potential.
 
-**To proceed, the following would be needed:**
-- Preclinical evidence (animal model or in vitro) demonstrating insulin's modulation of ovarian autoimmune inflammation
-- A plausible mechanistic hypothesis beyond comorbidity co-occurrence (e.g., insulin as an immunomodulator in autoimmune endocrine tissue)
-- Taiwan regulatory (TFDA) prescribing information and full safety labeling (DG001 remediation)
-- Formal mechanism of action documentation from DrugBank (DG002 remediation)
-- Expert consultation with reproductive endocrinology and autoimmunology to assess biological plausibility
+**To proceed, the following is needed:**
+- Mechanism of action data for insulin human, to assess any link to ovarian autoimmunity
+- Systematic literature and trial searches for insulin in autoimmune oophoritis
+- Warnings and contraindications from the SmPC, which are currently missing
+- Clarification of the current EU regulatory status, since all authorizations are cancelled
+- Supporting preclinical or mechanistic evidence before any clinical development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

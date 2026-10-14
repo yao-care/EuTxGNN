@@ -2,7 +2,7 @@
 layout: default
 title: Teriparatide
 parent: AI Predictions (L5)
-nav_order: 584
+nav_order: 605
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Teriparatide, the active 1-34 fragment of recombinant human parathyroid hormone, is an osteoanabolic agent long used for the treatment of osteoporosis. The TxGNN model's top-ranked prediction is **Duodenal Ulcer**, with a very high similarity score, but this candidate is currently supported by **zero clinical trials** and **zero publications**, and the evidence pack's own repurposing rationale flags it as likely model noise rather than a genuine biological signal. Overall evidence for this specific prediction is essentially absent, and the drug itself has no recorded EU marketing authorization in this dataset.
+Teriparatide is a parathyroid hormone fragment (PTH 1-34) originally used to treat osteoporosis in postmenopausal women, in men at increased fracture risk, and in glucocorticoid-associated osteoporosis.
+The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
 
 ---
 
@@ -41,23 +42,21 @@ Teriparatide, the active 1-34 fragment of recombinant human parathyroid hormone,
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis (inferred from supporting literature in this evidence pack; not present in structured license data) |
-| Predicted New Indication | Duodenal Ulcer |
+| Original Indication | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture; osteoporosis associated with sustained systemic glucocorticoid therapy |
+| Predicted New Indication | Duodenal ulcer |
 | TxGNN Prediction Score | 99.86% |
-| Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 7 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for teriparatide is not available in this evidence pack (flagged as a High-severity data gap). Based on known pharmacology, teriparatide is a PTH(1-34) analogue that stimulates osteoblast activity and bone formation, and it is used clinically for osteoporosis and related bone-fragility conditions.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data show that teriparatide, the human PTH(1-34) peptide, acts on the PTH1 receptor (PTH1R) and also binds the PTH2 receptor. Its established clinical effect is bone-forming (anabolic) action in osteoporosis.
 
-Duodenal ulcer is a mucosal, acid-peptic gastrointestinal disease with no established relationship to PTH-mediated bone anabolism. The repurposing rationale accompanying this specific prediction explicitly states that there is **no known mechanistic link** between PTH-class drugs and peptic ulcer pathology, and that no clinical or literature evidence supports this association. It characterizes the prediction as likely representing noise in the TxGNN embedding space rather than a validated signal for repositioning.
-
-By contrast, other lower-ranked candidates in this same evidence pack are mechanistically coherent and empirically supported — most notably **pregnancy- and lactation-associated osteoporosis** (rank 8), where teriparatide's bone-anabolic mechanism directly applies and is already documented in real-world clinical use.
+We could not identify a plausible link between this bone-remodeling mechanism and duodenal ulcer. Duodenal ulcer is a gastrointestinal mucosal disease, and nothing in the compiled data connects PTH1R signaling to gastric acid, mucosal defense or *H. pylori*-related disease. The very high score (99.86%, model rank 1979) is not backed by any trial or publication, so it should be treated as a hypothesis-generating output rather than a credible repurposing lead.
 
 ---
 
@@ -75,15 +74,26 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are recorded for Teriparatide in this evidence pack (market status: Not marketed; 0 authorizations on file).
+All seven EU centralized authorizations are cancelled. The table lists five of them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005793 | Teriparatide Sun | Not specified | Teriparatide SUN is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at... |
+| EMEA/H/C/003916 | Terrosa | Not specified | Terrosa is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increase... |
+| EMEA/H/C/005827 | Sondelbay | Not specified | Sondelbay is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at incre... |
+| EMEA/H/C/004932 | Kauliv | Not specified | Kauliv is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increase... |
+| EMEA/H/C/000425 | Forsteo | Not specified | Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture. In postmenop... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals (from a drug-disease knowledge graph, not from label text):** hypotensive disorder, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, bone osteosarcoma, bone Paget disease, juvenile Paget disease, osteomalacia, rickets, urolithiasis, renal osteodystrophy, osteitis fibrosa, hyperparathyroidism. These should be verified against the SmPC.
+- **Drug Interactions (8 records in total):**
+  - Moderate: digoxin, digitoxin, topical calcitriol, topical calcipotriol
+  - Minor: hydrochlorothiazide, furosemide
 
-*(Note: TFDA/EMA label warnings and contraindications are marked as a Blocking data gap in this evidence pack and must be obtained before any safety evaluation can proceed.)*
+For label-based warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -92,13 +102,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Duodenal Ulcer) has no supporting clinical trials, no supporting literature, and no identified mechanistic plausibility — the evidence pack itself characterizes it as likely model noise. Combined with the absence of any EU marketing authorization and a Blocking safety data gap, this candidate does not meet the threshold to advance.
+The duodenal ulcer prediction rests on a model score alone. There are no trials or publications, no plausible mechanistic link to PTH1R-mediated bone biology, and all EU authorizations are currently cancelled. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- TFDA/EMA-approved label warnings and contraindications (Blocking gap — required before any safety screening can occur)
-- Verified mechanism-of-action documentation for Teriparatide (High-severity gap)
-- If pursuing this candidate at all, independent confirmation of a plausible PTH–peptic ulcer mechanism, since none currently exists in the available evidence
-- Consider re-prioritizing evaluation toward **pregnancy- and lactation-associated osteoporosis** (rank 8 in this same evidence pack), which is supported by 2 clinical trials and roughly 20 publications documenting real-world teriparatide use and offers a substantially stronger evidence base
+- Detailed mechanism-of-action data and a credible biological hypothesis linking PTH1R signaling to duodenal ulcer
+- Preclinical or retrospective evidence of any benefit in gastroduodenal disease
+- Label-based safety data (SmPC warnings and contraindications) and confirmation of current EU market availability (e.g., biosimilar status)
+- Consideration of better-supported lower-ranked predictions. In particular, pregnancy-associated osteoporosis (rank 8) has L3 evidence from observational cohorts, case series and systematic reviews with a strong mechanistic fit, and would be a more productive candidate to evaluate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

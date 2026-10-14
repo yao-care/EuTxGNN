@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ticagrelor
-parent: High Evidence (L1-L2)
-nav_order: 590
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 612
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ticagrelor: From Acute Coronary Syndrome to Intracranial Arteriosclerosis
+# Ticagrelor: From Acute Coronary Syndrome Prevention to Intracranial Arteriosclerosis
 
 ## One-Sentence Summary
 
-Ticagrelor is a P2Y12 receptor antagonist whose established antiplatelet use targets atherothrombotic events in coronary artery disease (as referenced across the repurposing rationale in this evidence pack); detailed EU regulatory documentation for the original indication is not available in this dataset. The TxGNN model predicts it may also be effective for **Intracranial Arteriosclerosis**, with **11 clinical trials** and **3 publications** currently supporting this direction.
+Ticagrelor is a P2Y12 platelet inhibitor, originally used together with aspirin to prevent atherothrombotic events in patients with acute coronary syndromes (ACS) or a prior myocardial infarction (MI).
+The TxGNN model predicts it may be effective for **intracranial arteriosclerosis**, with **2 clinical trials** and **2 publications** currently supporting this direction.
+The evidence is still early: the main Phase 3 trial is ongoing and has no results yet.
 
 ---
 
@@ -41,23 +43,23 @@ Ticagrelor is a P2Y12 receptor antagonist whose established antiplatelet use tar
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in EU regulatory data; inferred from evidence-pack rationale as antiplatelet therapy for atherothrombotic coronary/cardiovascular disease (ACS, PCI-treated ischemic heart disease) |
-| Predicted New Indication | Intracranial Arteriosclerosis |
+| Original Indication | Prevention of atherothrombotic events in adults with ACS or a history of MI and a high risk of atherothrombotic events (co-administered with aspirin) |
+| Predicted New Indication | Intracranial arteriosclerosis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L2 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L2 (capped, because the key Phase 3 trial is ongoing and ticagrelor is only one of several tested agents) |
+| EU Market Status | Cancelled only (the single Brilique authorization is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for ticagrelor is not available in this evidence pack (flagged as a High-severity data gap). Based on information embedded in the repurposing rationale, ticagrelor is a **P2Y12 receptor antagonist** — an antiplatelet agent that inhibits ADP-mediated platelet activation and aggregation. Its efficacy in atherothrombotic coronary disease (acute coronary syndrome, post-PCI thrombosis prevention) is an established use pattern reflected repeatedly across the evidence for this candidate.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ticagrelor is a P2Y12 receptor antagonist. It reduces platelet aggregation and thrombus formation, which underlies its approved use in ACS and prior MI.
 
-Intracranial arteriosclerosis and coronary/peripheral artery atherosclerosis share the same underlying pathophysiology: atherosclerotic plaque formation followed by platelet-driven thrombus formation that precipitates ischemic events (myocardial infarction in the coronary bed, ischemic stroke in the intracranial bed). Because P2Y12 inhibition addresses the thrombotic component common to atherosclerotic disease regardless of vascular territory, the mechanistic rationale for extending ticagrelor to intracranial arteriosclerosis is biologically plausible.
+Intracranial arteriosclerosis is also an atherothrombotic disease. Platelet-driven clot formation on plaques in brain arteries can cause stroke, so the same mechanism may apply. Ticagrelor has also been used in dual antiplatelet regimens for neurointerventional procedures such as intracranial stenting. It may offer an advantage over clopidogrel in patients carrying CYP2C19 loss-of-function variants, who respond poorly to clopidogrel.
 
-This is further supported by an active dedicated trial base: the CAPTIVA trial (NCT05047172, Phase 3) is directly comparing ticagrelor, rivaroxaban, and clopidogrel for lowering 1-year rates of ischemic stroke, intracerebral hemorrhage, or vascular death in intracranial vascular atherostenosis, and the DREAM-PRIDE trial (NCT04948749) is evaluating aggressive medical treatment (including antiplatelet therapy) for symptomatic intracranial atherosclerotic disease. Both are grade-A relevance but still recruiting, which is why the current evidence level is capped at L2 rather than L1.
+Other predictions for this drug, such as ischemic disease, are broader and largely overlap with the approved indication. Intracranial arteriosclerosis is therefore the most distinct and clinically actionable new direction.
 
 ---
 
@@ -65,16 +67,8 @@ This is further supported by an active dedicated trial base: the CAPTIVA trial (
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | Recruiting | 1,683 | CAPTIVA trial — compares rivaroxaban, ticagrelor, or both vs. clopidogrel for lowering 1-year ischemic stroke/hemorrhage/vascular death in intracranial vascular atherostenosis (grade A) |
-| [NCT04948749](https://clinicaltrials.gov/study/NCT04948749) | N/A | Recruiting | 792 | DREAM-PRIDE trial — evaluates drug-eluting stent plus aggressive medical treatment vs. standard medical treatment for preventing recurrent stroke in symptomatic intracranial atherosclerotic disease (grade A) |
-| [NCT01732822](https://clinicaltrials.gov/study/NCT01732822) | Phase 3 | Completed | 13,885 | EUCLID trial — ticagrelor vs. clopidogrel in peripheral artery disease for cardiovascular death, MI, and ischemic stroke; overlapping atherosclerotic population but not intracranial-specific (grade B) |
-| [NCT01813435](https://clinicaltrials.gov/study/NCT01813435) | Phase 3 | Completed | 15,991 | GLOBAL LEADERS trial — ticagrelor + aspirin (1 month) then ticagrelor monotherapy vs. standard DAPT after stenting; related mechanism, different vascular bed (grade C) |
-| [NCT02605447](https://clinicaltrials.gov/study/NCT02605447) | Phase 4 | Completed | 2,009 | EVOLVE Short DAPT Study — safety of 3-month DAPT in high bleeding-risk PCI patients with SYNERGY stent |
-| [NCT06058130](https://clinicaltrials.gov/study/NCT06058130) | N/A | Unknown | 2,171 | Anticoagulation vs. anticoagulation + antiplatelet therapy in acute ischemic stroke with concomitant NVAF and extracranial/intracranial artery stenosis |
-| [NCT07354828](https://clinicaltrials.gov/study/NCT07354828) | N/A | Not Yet Recruiting | 3,500 | Quality control indicator optimization for coronary revascularization based on DAPT |
-| [NCT03620760](https://clinicaltrials.gov/study/NCT03620760) | Phase 4 | Unknown | 2,036 | Low-dose vs. standard-dose ticagrelor in unstable angina after drug-eluting stent implantation |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | N/A | Recruiting | 100 | Genotype-guided P2Y12 inhibitor selection vs. conventional clopidogrel in symptomatic intracranial atherosclerotic disease (pilot study) |
-| [NCT07164859](https://clinicaltrials.gov/study/NCT07164859) | Phase 3 | Not Yet Recruiting | 1,700 | SOLOPCI — very short DAPT followed by P2Y12 monotherapy in older PCI patients |
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | Active, not recruiting | 1683 | CAPTIVA: tests whether rivaroxaban, ticagrelor, or both are superior to clopidogrel in lowering 1-year ischemic stroke, intracerebral hemorrhage, or vascular death in intracranial atherosclerotic stenosis. No results yet. |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | Not applicable | Recruiting | 100 | Pilot study of genotype-guided P2Y12 inhibitor selection (including ticagrelor) versus clopidogrel in symptomatic intracranial atherosclerotic disease. |
 
 ---
 
@@ -82,39 +76,41 @@ This is further supported by an active dedicated trial base: the CAPTIVA trial (
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | RCT Protocol | International Journal of Stroke | Describes the design of the CAPTIVA trial comparing dual antithrombotic regimens (including ticagrelor) against clopidogrel + aspirin for symptomatic intracranial atherosclerotic stenosis, given persistent recurrent-stroke risk with standard therapy |
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Cohort | Journal of Neurointerventional Surgery | Reports experience with lower-dose ticagrelor (60 mg BID) plus aspirin vs. standard aspirin/clopidogrel DAPT for intracranial stenting, noting ticagrelor's rapid, consistent platelet inhibition |
-| [38252758](https://pubmed.ncbi.nlm.nih.gov/38252758/) | 2024 | Review | Stroke | Focused update summarizing knowledge gaps in intracranial atherosclerosis management, providing context for ongoing antiplatelet trial designs |
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Cohort | Journal of NeuroInterventional Surgery | Experience with ticagrelor 60 mg twice daily plus aspirin 81 mg compared with standard aspirin plus clopidogrel for intracranial stenting. |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Trial design/protocol | International Journal of Stroke | Design and early progress of CAPTIVA, which compares other dual antithrombotic combinations against clopidogrel plus aspirin for symptomatic intracranial stenosis. |
 
 ---
 
 ## EU Market Information
 
-Ticagrelor is recorded as **Not Marketed** in this evidence pack, with **0 marketing authorizations** on file. No EU authorization numbers, product names, or approved indication texts are available for citation.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001241 (cancelled) | Brilique | Not specified | Brilique, co administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with  acute coronary syndromes (ACS) or a history of... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Possible disease-related contraindications** (from drug-disease relationships in a knowledge graph, not from label text): liver failure, liver disease, gallbladder disease, intracranial hemorrhage. The intracranial hemorrhage signal is especially important for any use in cerebrovascular disease, and the CAPTIVA primary endpoint includes intracerebral hemorrhage.
+- **Drug Interactions**: 100 interactions were identified. The one rated Major is **clarithromycin**. Moderate interactions include acetylsalicylic acid (aspirin), morphine, simvastatin, dexamethasone, aprepitant, miconazole and saxagliptin. Minor interactions include naloxegol and prucalopride.
+
+Please refer to the SmPC for full warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (corresponds to decision stage S2 / "Research Question" in the underlying scoring framework)
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-- Evidence level is L2 — only one completed Phase 3 RCT (EUCLID) has population overlap with atherosclerotic disease, but it was conducted in peripheral artery disease, not intracranial arteriosclerosis specifically (grade B relevance).
-- The two trials most directly relevant to this indication — CAPTIVA (Phase 3) and DREAM-PRIDE — are both still recruiting, so disease-specific efficacy/safety data for ticagrelor in intracranial arteriosclerosis are not yet available.
-- Critical drug-level safety data (TFDA/EU label warnings and contraindications — flagged as a **Blocking** data gap) and mechanism-of-action documentation (**High**-severity data gap) are both missing, preventing a formal S1 safety pre-assessment.
+- The biological rationale is sound, and a large Phase 3 trial (CAPTIVA, n=1683) that includes a ticagrelor arm is under way. However, there are no efficacy results yet, ticagrelor is not the only agent tested, and bleeding risk, particularly intracranial hemorrhage, is a real concern.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): obtain official label warnings/contraindications to enable S1 safety screening.
-- Resolve DG002 (High): confirm detailed mechanism of action via DrugBank/regulatory sources.
-- EU marketing authorization details (product names, approved indication text, dosage forms) to establish actual regulatory status, since this pack shows the drug as unmarketed.
-- Await completion and results of the CAPTIVA (NCT05047172) and DREAM-PRIDE (NCT04948749) trials, which are the only Phase 3/near-Phase 3 studies directly testing antiplatelet therapy (including ticagrelor) for intracranial atherosclerotic disease.
-- Drug interaction (DDI) data, currently unavailable, before any clinical guardrails can be defined.
+- CAPTIVA results (expected after the January 2027 completion date), including the ticagrelor arm outcomes and intracerebral hemorrhage rates
+- Results of the genotype-guided pilot study (NCT06714526)
+- Confirmation of the current EU regulatory status, since the only listed authorization is cancelled, and the full SmPC warnings and contraindications
+- Detailed mechanism of action data
+- A bleeding-risk management plan, including review of interacting drugs such as clarithromycin and aspirin co-administration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

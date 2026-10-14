@@ -2,7 +2,7 @@
 layout: default
 title: Atosiban
 parent: AI Predictions (L5)
-nav_order: 66
+nav_order: 68
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Atosiban: From Threatened Preterm Labor to Primary Hereditary Glaucoma
+# Atosiban: From Preterm Birth Delay to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Atosiban is an oxytocin and vasopressin V1A receptor antagonist, approved in Europe (as Tractocile) as a tocolytic to delay threatened preterm labor, but not registered in Taiwan.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**, ranking this indication first among all candidates with a score of **99.92%**.
-However, there are currently **no clinical trials** and **no publications** directly supporting this direction, making this an entirely model-driven prediction.
-
----
+Atosiban is an oxytocin/vasopressin receptor antagonist, originally used as a tocolytic to delay imminent pre-term birth in pregnant women.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Threatened preterm labor (tocolytic) |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+|------|------|
+| Original Indication | Delay of imminent pre-term birth in pregnant adult women (regular uterine contractions, cervical dilation 1–3 cm, gestational age 24–33 completed weeks, normal foetal heart rate) |
+| Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Atosiban is a competitive antagonist of oxytocin (OT) receptors and vasopressin V1A receptors. Its established clinical role is as a uterine relaxant — it inhibits oxytocin-driven myometrial contractions to delay preterm delivery before 37 weeks of gestation. The drug is approved in the European Union (marketed as Tractocile by Ferring Pharmaceuticals) but has not been registered by Taiwan's TFDA.
+Detailed mechanism of action data is not currently available in the data compiled for this report. Pharmacology data show that atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. It is used as a tocolytic, meaning it relaxes the uterus by blocking oxytocin signalling.
 
-The predicted connection to primary hereditary glaucoma — a genetic disorder in which trabecular meshwork dysfunction leads to impaired aqueous humor outflow, raised intraocular pressure, and progressive optic nerve damage — is not immediately obvious from classical receptor pharmacology. However, oxytocin receptors are expressed in tissues well beyond the uterus, including in trabecular meshwork cells, ciliary body epithelium, and retinal ganglion cells. Emerging preclinical data suggests the oxytocin-vasopressin signaling axis may influence aqueous humor dynamics and intraocular pressure regulation, providing a plausible biological substrate for the model's prediction.
+The original indication (preterm labour) and the predicted indication (hereditary glaucoma) are unrelated clinically. A link to intraocular pressure regulation or trabecular meshwork function is speculative and not supported by the data compiled here. The very high score (0.9992) reflects a model-derived association, not demonstrated biology, and should be treated as a hypothesis only.
 
-The TxGNN model's high score most likely reflects shared network topology in the biomedical knowledge graph — overlapping signaling nodes between OT/V1A receptor biology and glaucoma-associated pathways — rather than direct empirical evidence. This prediction is best interpreted as a hypothesis-generating signal that warrants dedicated ocular pharmacology investigation before any translational commitment.
-
----
+Other high-ranking predictions for this drug include open-angle glaucoma and several hair disorders (alopecia, hypotrichosis). They show similar patterns, which suggests the scores may partly reflect shared neighbourhoods in the knowledge graph. The only prediction with any literature is vascular disease (rank 6). That literature is mostly preclinical work on oxytocin-mediated cardioprotection in rats and is not specific to atosiban as a therapy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Primary Hereditary Glaucoma.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Primary Hereditary Glaucoma.
+Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000253 (cancelled) | Tractocile | Not specified | Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with: regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30... |
+| EMEA/H/C/002329 (cancelled) | Atosiban SUN | Not specified | Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with: regular uterine contractions of at least 30 seconds' duration at a rate of ? 4 per 30... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Pharmacological targets**: Atosiban acts on the oxytocin receptor and the vasopressin V1A, V1B and V2 receptors. Any new use would need to account for effects on these pathways.
+- **Related literature signal**: One cohort study (PMID 30646165) reported an association between tocolytic exposure and intraventricular haemorrhage and death in preterm infants. This is a safety signal, not evidence of benefit.
+- **Route and dosing**: Atosiban is a peptide with a short half-life and an IV-only route, which would be a practical barrier for chronic indications such as ocular or dermatologic conditions.
 
-> **Note:** Taiwan TFDA SmPC warnings and contraindications are currently unavailable (identified data gap). DDI query returned no interactions. Refer to the EU SmPC for Tractocile (Ferring) for full safety characterization until Taiwan label is obtained.
-
----
+Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Primary hereditary glaucoma has no supporting clinical or preclinical literature linking it to Atosiban, placing this prediction squarely at Evidence Level L5 (model prediction only). The pharmacological mechanism connecting oxytocin receptor antagonism to hereditary glaucoma pathophysiology remains unvalidated and requires foundational investigation before any forward steps.
+The prediction is supported only by the model score (L5), with no clinical trials, no literature and no mechanistic link to glaucoma. The product is also no longer authorized in the EU, and the IV-only peptide formulation is poorly suited to a chronic eye disease.
 
 **To proceed, the following is needed:**
-- Targeted literature review on oxytocin/V1A receptor expression and function in trabecular meshwork and aqueous humor dynamics
-- Preclinical validation in cell-based or animal models of hereditary glaucoma using OT receptor modulators
-- Obtain Taiwan TFDA SmPC or EU SmPC (Tractocile) to fully characterize warnings, contraindications, and population exclusions
-- Retrieve DrugBank MOA data (currently a data gap) to complete mechanistic analysis
-- Consider reprioritizing the evaluation pipeline toward the **vascular disease** indication (rank #6), which has 17 associated publications exploring OT receptor biology in cardiac ischemia — these provide substantially more mechanistic context and may represent a more actionable near-term candidate
+- Detailed mechanism of action data, and preclinical evidence of oxytocin/vasopressin receptor involvement in intraocular pressure or trabecular meshwork function
+- SmPC warnings and contraindications for a safety screen
+- A feasible route of administration for the eye, such as a local formulation
+- Review of whether the same graph-derived artifact is driving the glaucoma and hair-disorder predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

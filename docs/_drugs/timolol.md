@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Timolol
-parent: Medium Evidence (L3-L4)
-nav_order: 593
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 615
+evidence_level: L5
 indication_count: 10
 ---
 
 # Timolol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,110 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Timolol: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+# Timolol: From Glaucoma and Ocular Hypertension to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Timolol is a non-selective beta-adrenergic receptor blocker classically used to lower intraocular pressure in glaucoma; however, this evidence pack does not contain a formal original-indication text, which is flagged as a data gap.
-The TxGNN model's top-ranked prediction suggests potential effectiveness for **Primary Hereditary Glaucoma**,
-but currently only **1 clinical trial** and **0 publications** are linked to this specific pairing — and even that single trial does not actually study this disease, making the supporting evidence weak.
+Timolol is a non-selective beta-blocker used in eye drops to lower intraocular pressure (IOP) in open-angle glaucoma and ocular hypertension.
+The TxGNN model's top-ranked prediction is **primary hereditary glaucoma**, but no clinical trials or publications were found for it. Among the other predictions, **angle-closure glaucoma** has the most supporting evidence, with **3 clinical trials** and **many publications**, including several RCTs and meta-analyses. Most of this evidence uses timolol as a comparator or in a combination product.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — this dataset records 0 EU marketing authorizations for Timolol and no `original_indications` entries (data gap); classic clinical use is intraocular-pressure lowering in glaucoma |
-| Predicted New Indication | Primary Hereditary Glaucoma |
+| Original Indication | Decrease of intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction |
+| Predicted New Indication | Primary hereditary glaucoma (top-ranked; the best-supported alternative is closed-angle glaucoma) |
 | TxGNN Prediction Score | 98.64% |
-| Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L5 for the top prediction (L1 for closed-angle glaucoma, based on literature RCTs and meta-analyses) |
+| EU Market Status | ✗ Cancelled only (all 3 authorizations cancelled) |
+| Number of Authorizations | 3 (all cancelled) |
+| Recommended Decision | Hold (primary hereditary glaucoma); Proceed with Guardrails for the already-approved open-angle glaucoma use |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Timolol is marked as a data gap in this evidence pack. Based on well-established pharmacology reconstructed from the evidence context, Timolol is a non-selective β-adrenergic receptor antagonist that blocks β receptors on the ciliary body epithelium, reducing aqueous humor production and lowering intraocular pressure — the classic mechanism underlying its long-standing use in glaucoma management.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, timolol is a non-selective beta-adrenergic blocker. In the eye it lowers IOP by reducing aqueous humour production in the ciliary body. Its efficacy in open-angle glaucoma and ocular hypertension is well established, and it is used both alone and in fixed combinations with other IOP-lowering drugs.
 
-"Primary hereditary glaucoma" typically refers to congenital/developmental glaucoma (e.g., due to *CYP1B1* mutations causing trabecular meshwork dysgenesis), a pathophysiologically distinct entity from typical adult open-angle glaucoma. While a reduction in aqueous humor production via β-blockade could theoretically be applicable to any glaucoma subtype regardless of etiology, the mechanistic link here is inferred by analogy rather than demonstrated directly.
+Primary hereditary glaucoma is also characterised by raised IOP, so reducing aqueous production is plausible. The high TxGNN score most likely reflects how close this disease sits to timolol's approved glaucoma indications in the knowledge graph. It is a model prediction only. No trials or publications were retrieved for it.
 
-Critically, the only clinical trial linked to this prediction (NCT02484716) does **not** study hereditary glaucoma at all — it investigates topical nasal timolol for epistaxis in Hereditary Hemorrhagic Telangiectasia (HHT), an unrelated vascular disorder. It appears to have been matched to this candidate purely through the shared keyword "hereditary." This substantially weakens confidence in the current evidence level and suggests the true evidentiary support is closer to a pure mechanistic hypothesis (L5) than the L4 rating implies. Separately, three other candidates in this same evidence pack — closed-angle glaucoma, open-angle glaucoma, and angle-closure glaucoma — carry much stronger Phase 3/4 RCT and meta-analysis support, but their rationale texts flag that these are very likely already-approved uses of ophthalmic Timolol rather than genuine new indications, reflecting a probable gap in the `original_indications` field rather than a true repurposing signal.
+For **closed-angle glaucoma**, timolol can lower IOP as adjunctive therapy, particularly in chronic cases or after laser or surgical intervention. It does not relieve the angle obstruction, so definitive management relies on iridotomy, iridoplasty or lens extraction. The evidence supports timolol as an IOP-lowering comparator or adjunct, not as a new indication.
+
+The other predictions are weakly supported or implausible. These are malignant hypertensive renal disease, malignant renovascular hypertension, the pulmonary hypertension categories, Braddock syndrome and chronic pulmonary heart disease. Topical timolol has limited systemic exposure. Non-selective beta-blockade can also worsen airway obstruction in chronic lung disease.
+
+---
 
 ## Clinical Trial Evidence
 
+No clinical trials are registered for the top-ranked prediction (primary hereditary glaucoma). The trials below relate to angle-closure glaucoma, the best-supported alternative.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02484716](https://clinicaltrials.gov/study/NCT02484716) | Phase 2 | Completed | 58 | Evaluated timolol nasal spray for epistaxis in Hereditary Hemorrhagic Telangiectasia (HHT) — **not** a study of hereditary glaucoma; likely a keyword-matching false positive and does not constitute direct evidence for this indication |
+| [NCT01151904](https://clinicaltrials.gov/study/NCT01151904) | Phase 4 | Terminated | 17 | Brimonidine/timolol fixed combination added to latanoprost vs latanoprost alone in chronic angle-closure glaucoma; terminated early |
+| [NCT00980473](https://clinicaltrials.gov/study/NCT00980473) | Phase 3 | Unknown | 80 | Argon laser peripheral iridoplasty in primary angle-closure glaucoma (does not test timolol) |
+| [NCT01004900](https://clinicaltrials.gov/study/NCT01004900) | Phase 3 | Unknown | 90 | Selective laser trabeculoplasty vs prostaglandin analogues in primary angle-closure glaucoma (does not test timolol) |
+
+For context, the already-approved open-angle glaucoma use is supported by trials including [NCT01357616](https://clinicaltrials.gov/study/NCT01357616) (Phase 3, completed, n=328, brinzolamide/timolol vs brinzolamide and timolol in Chinese patients) and [NCT02325518](https://clinicaltrials.gov/study/NCT02325518) (Phase 4, completed, n=218, brinzolamide/timolol vs dorzolamide/timolol).
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+No publications were retrieved for primary hereditary glaucoma. The table lists the most relevant publications for angle-closure glaucoma.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40399148](https://pubmed.ncbi.nlm.nih.gov/40399148/) | 2025 | RCT | Clin Ther | Double-blind, placebo-controlled trial of single-dose timolol eye drops in sequential treatment of acute angle-closure crisis |
+| [24641069](https://pubmed.ncbi.nlm.nih.gov/24641069/) | 2014 | RCT | Curr Med Res Opin | Latanoprost vs timolol in chronic angle-closure glaucoma |
+| [24816233](https://pubmed.ncbi.nlm.nih.gov/24816233/) | 2014 | Meta-analysis | PLoS One | Latanoprost vs timolol in Asian patients with chronic angle-closure glaucoma |
+| [25044139](https://pubmed.ncbi.nlm.nih.gov/25044139/) | 2015 | Meta-analysis | Eur J Ophthalmol | Latanoprost vs other glaucoma medications in chronic angle-closure glaucoma |
+| [15019314](https://pubmed.ncbi.nlm.nih.gov/15019314/) | 2004 | RCT | Ophthalmology | Latanoprost once daily vs timolol twice daily in chronic angle-closure glaucoma |
+| [14769594](https://pubmed.ncbi.nlm.nih.gov/14769594/) | 2004 | RCT (crossover) | Arch Ophthalmol | Timolol vs latanoprost in chronic primary angle-closure glaucoma after laser iridotomy |
+| [14522756](https://pubmed.ncbi.nlm.nih.gov/14522756/) | 2003 | Review | Ophthalmology | Evidence-based update on interventions for angle-closure glaucoma |
+| [22696863](https://pubmed.ncbi.nlm.nih.gov/22696863/) | 2012 | Clinical study | J Med Assoc Thai | 0.1% timolol eye gel vs 0.5% timolol eye drops in chronic angle-closure glaucoma |
+| [7387959](https://pubmed.ncbi.nlm.nih.gov/7387959/) | 1980 | Clinical study | Br J Ophthalmol | Timolol improved pressure control in eyes operated for closed-angle glaucoma |
+| [526463](https://pubmed.ncbi.nlm.nih.gov/526463/) | 1979 | Clinical study | Br J Ophthalmol | Miotics and timolol in acute closed-angle glaucoma (75 patients) |
+
+---
 
 ## EU Market Information
 
-Timolol currently has no EMA marketing authorization on record in this dataset (market status: **Not Marketed**; 0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000960 (cancelled) | Azarga | Not specified | Decrease of intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction. |
+| EMEA/H/C/000665 (cancelled) | DuoTrav | Not specified | Decrease of intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues. |
+| EMEA/H/C/000668 (cancelled) | Ganfort | Not specified | Reduction of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues. |
+
+All three centralised authorizations are cancelled. This may reflect specific product listings rather than the molecule itself, and should be verified.
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications suggested by the knowledge graph** (model-derived, not label text): orthostatic hypotension and related autonomic disorders, kidney, liver, pancreatic and gallbladder disease, diabetes and diabetic ketoacidosis, systemic lupus erythematosus, myasthenia gravis and other neuromuscular junction diseases, anxiety and mood disorders, gout and hyperuricaemia, and several electrolyte or mineral disorders (potassium deficiency, hypercalcaemia, phosphorus metabolism disease).
+- **Drug interactions**: 100 interactions were recorded. The one rated Major is **epinephrine**. Moderate ones include hydrocortisone, dexamethasone, bupropion, morphine, atropine, cimetidine, canagliflozin and dapagliflozin. Minor ones include acetylsalicylic acid and magnesium oxide.
+- **Respiratory and cardiac risk**: non-selective beta-blockade can cause bronchospasm and cardiovascular effects. A case report describes timolol-induced interstitial lung disease, and a 1981 study reported marked cardiovascular or pulmonary effects of topical timolol in some patients with contraindications to systemic beta-blockers. Caution is needed in patients with asthma, COPD, bradycardia or heart block.
+
+Please refer to the SmPC for the full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (for primary hereditary glaucoma and the other new-indication predictions)
 
 **Rationale:**
-The only clinical trial associated with this top-ranked prediction does not actually study the predicted indication, and no supporting literature exists at all. Combined with the absence of an EU marketing authorization and blocking gaps in core safety data, this candidate does not meet the threshold to advance past initial screening.
+- Primary hereditary glaucoma has only a model prediction, with no trials or publications (L5).
+- Closed-angle and angle-closure glaucoma have literature RCTs and meta-analyses (L1). These show timolol as an IOP-lowering comparator or adjunct, not a new indication, and the listed trials mostly test laser procedures.
+- The already-approved open-angle glaucoma use is well supported and can **Proceed with Guardrails**. Guardrails: systemic beta-blocker contraindications and the large interaction burden.
 
 **To proceed, the following is needed:**
-- Resolve the blocking data gap on TFDA/EMA product-label warnings and contraindications (source: official regulatory label PDF)
-- Resolve the mechanism-of-action data gap via DrugBank API query
-- Identify clinical trials or literature that specifically study Timolol in congenital/hereditary (as opposed to adult acquired) glaucoma
-- Clarify Timolol's actual approved indication set, since `original_indications` is empty in this dataset
-- Cross-check this candidate against the other glaucoma-related predictions in the same evidence pack (closed-angle, open-angle, angle-closure glaucoma), which carry much stronger clinical evidence but likely represent existing approved uses rather than new repurposing opportunities — deduplication against known indications is recommended before further prioritization
+- Mechanism of action data and EU label warnings and contraindications (SmPC), which are currently unavailable.
+- Any clinical or genetic evidence for timolol in primary hereditary glaucoma.
+- Trials testing timolol itself, rather than laser procedures or combination products, as adjunctive therapy in angle-closure glaucoma.
+- Clarification of the "Cancelled only" EU market status and whether timolol products remain available through national authorizations.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

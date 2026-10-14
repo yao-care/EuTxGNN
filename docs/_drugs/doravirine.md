@@ -2,7 +2,7 @@
 layout: default
 title: Doravirine
 parent: Medium Evidence (L3-L4)
-nav_order: 190
+nav_order: 197
 evidence_level: L4
 indication_count: 10
 ---
@@ -33,74 +33,71 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Doravirine (DrugBank DB12301) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) used to treat HIV-1 infection. The TxGNN model predicts it may also be active against **Simian Immunodeficiency Virus (SIV) infection**, a related primate lentivirus, but this direction is currently supported by only **1 indirectly related publication** and **no clinical trials**, making it a low-confidence, model-only signal.
-
----
+Doravirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) originally used, in combination with other antiretrovirals, to treat HIV-1 infection.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, but there are **no registered clinical trials** and only **1 indirect publication** (about a different drug), so the evidence is very limited.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 Infection *(inferred from clinical trial context in this evidence pack; not a TFDA-approved indication, as the drug is not marketed in Taiwan)* |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) Infection |
+| Original Indication | HIV-1 infection in adults and adolescents aged 12 years and older weighing at least 35 kg, without past or present evidence of resistance to the NNRTI class (in combination with other antiretrovirals) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, a structured mechanism-of-action (MOA) record for Doravirine is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the mechanistic rationale attached to its predicted indications, Doravirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) that binds and blocks the reverse transcriptase enzyme of HIV-1, preventing conversion of viral RNA into DNA and halting viral replication.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, doravirine belongs to the NNRTI class, which inhibits HIV-1 reverse transcriptase. Its efficacy in HIV-1 infection forms the basis of its original approval.
 
-SIV (Simian Immunodeficiency Virus) is a lentivirus closely related to HIV-1 that infects non-human primates and is widely used as an animal model for HIV research. Because SIV reverse transcriptase shares structural similarity with HIV-1 reverse transcriptase, there is a theoretical basis for NNRTI activity extending across the two viruses. This is, however, an indirect taxonomic analogy rather than a finding derived from direct preclinical or clinical testing of Doravirine against SIV.
+Simian immunodeficiency virus (SIV) is a close lentiviral relative of HIV, so a conceptual link exists. However, the link is weak for three reasons:
 
-It is also important to note that the single supporting literature record (PMID 31658118) is a 2020 review discussing **Islatravir**, a different investigational NNRTI-class antiretroviral — not Doravirine itself. The evidence therefore reflects thematic relevance to the reverse-transcriptase-inhibitor drug class rather than a direct study of Doravirine in an SIV context. This substantially weakens confidence in the prediction despite its mechanistic plausibility.
+- SIV is a non-human primate model pathogen, not a human clinical indication.
+- NNRTIs generally have poor activity against HIV-2 and SIV, which are naturally resistant.
+- The only supporting paper concerns islatravir, a nucleoside reverse transcriptase translocation inhibitor, not doravirine. It provides only indirect context.
 
----
+The high score likely reflects proximity to HIV-related nodes in the knowledge graph rather than direct evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | Review | Current Opinion in HIV and AIDS | Discusses islatravir, a related NNRTI-class investigational agent, in the treatment/prevention of HIV-1; does not directly study Doravirine or SIV. |
+| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | Review | Current Opinion in HIV and AIDS | Discusses the potential role of islatravir, a novel reverse transcriptase translocation inhibitor, in treating and preventing HIV-1 infection. It does not address doravirine. |
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Doravirine is currently **not marketed in Taiwan** (0 authorizations on record), so no license/product information is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004747 | Pifeltro (status: cancelled) | Not specified | Pifeltro is indicated, in combination with other antiretroviral medicinal products, for the treatment of adults, and adolescents aged 12 years and older weighing... |
 
 ## Safety Considerations
 
-Please refer to the SmPC / TFDA package insert for safety information (key warnings, contraindications, and drug-interaction data were not available in this evidence pack — DG001, Blocking severity).
+- **Drug Interactions**: 59 interactions were identified in the interaction databases. Examples include:
+  - **Major**: dexamethasone and lumacaftor.
+  - **Moderate**: glycerol phenylbutyrate, metreleptin, troglitazone, deferasirox, praziquantel and griseofulvin.
+  - **Minor**: aprepitant, cimetidine, clarithromycin, clotrimazole, miconazole, cobicistat, ticagrelor, ivacaftor, zafirlukast, chloramphenicol, erythromycin and fluconazole.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the supporting evidence is weak and indirect — there are no clinical trials, and the single literature citation concerns a different drug (Islatravir) rather than Doravirine. Without direct preclinical or clinical data linking Doravirine to SIV, this candidate cannot advance past an initial research hypothesis stage.
+The prediction rests on model output alone. SIV is an animal-model pathogen rather than a human indication, NNRTIs are naturally poorly active against SIV, and the single paper concerns a different drug. In addition, the only EU authorization on record is cancelled.
 
 **To proceed, the following is needed:**
-- Doravirine MOA confirmation via DrugBank/primary literature (DG002)
-- TFDA label warnings/contraindications for baseline safety screening (DG001, Blocking — currently prevents any S1 safety evaluation)
-- Direct in-vitro or preclinical evidence of Doravirine activity against SIV reverse transcriptase
-- Drug-drug interaction (DDI) data, currently unavailable (query returned "not_found")
-
-**Additional note:** Within this same evidence pack, a different predicted indication — **congenital human immunodeficiency virus** (rank 5, TxGNN score 98.75%, Evidence Level **L2**, decision stage S2, "Research Question") — is supported by 5 clinical trials, including a completed Phase 3 pivotal trial (NCT02397096) and a dedicated pregnancy pharmacokinetics study (NCT04518228). This candidate, addressing mother-to-child HIV transmission prevention, is considerably more clinically mature than the SIV signal and may warrant separate, prioritized evaluation.
+- Preclinical (in vitro or primate model) data on doravirine activity against SIV
+- Detailed mechanism of action data
+- Confirmation of the current regulatory status of Pifeltro in the EU
+- Warnings and contraindications from the SmPC to support a safety review
+- Review of the major drug interactions (dexamethasone, lumacaftor) for any future use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

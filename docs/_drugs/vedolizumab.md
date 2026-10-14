@@ -2,7 +2,7 @@
 layout: default
 title: Vedolizumab
 parent: AI Predictions (L5)
-nav_order: 635
+nav_order: 659
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,70 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Vedolizumab is a gut-selective α4β7 integrin antagonist used for the treatment of inflammatory bowel disease (Crohn's disease and ulcerative colitis), based on the literature contained in this evidence pack. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but currently **0 clinical trials** and **0 publications** support this specific prediction — it is a pure AI model output with no mechanistic or clinical corroboration.
-
----
+Vedolizumab is a gut-selective monoclonal antibody, originally used to treat ulcerative colitis, Crohn's disease and chronic pouchitis.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in EU regulatory data (no marketing authorizations on file); literature identifies inflammatory bowel disease (Crohn's disease, ulcerative colitis) |
-| Predicted New Indication | Severe Nonproliferative Diabetic Retinopathy |
+| Original Indication | Moderately to severely active ulcerative colitis, Crohn's disease, and chronic pouchitis in adults (after inadequate response, loss of response or intolerance to conventional therapy or a TNF-alpha antagonist; for pouchitis, after antibiotic therapy) |
+| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 94.51% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization in the data compiled for this report) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the regulatory record for this candidate (flagged as a High-severity data gap). Based on the literature retrieved in this evidence pack, vedolizumab is a humanized monoclonal antibody that binds integrin α4β7 and blocks its interaction with mucosal addressin cell adhesion molecule-1 (MAdCAM-1), which is expressed specifically in the small intestine and colon. This gut-selective mechanism restricts lymphocyte trafficking to the gastrointestinal mucosa and underlies its established efficacy in Crohn's disease and ulcerative colitis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From the literature, vedolizumab is known as an α4β7 integrin inhibitor. It blocks the binding of α4β7 to MAdCAM-1, which is expressed in the gut, and so limits T-cell trafficking to the gastrointestinal tract. Its efficacy in ulcerative colitis and Crohn's disease is established.
 
-For the top-ranked predicted indication, severe nonproliferative diabetic retinopathy, there is no known biological or mechanistic pathway connecting gut-selective α4β7/MAdCAM-1 blockade to retinal microvascular disease. The evidence pack's own rationale for this pairing states explicitly that this is a pure TxGNN model output with no clinical or literature support — the association appears to be a topological/embedding artifact rather than a biologically grounded hypothesis.
+The link to the predicted indication is weak. Diabetic retinopathy involves retinal VEGF signalling, inflammation, and leukocyte adhesion through other pathways (for example ICAM-1/LFA-1), not the gut-homing MAdCAM-1 axis. No plausible direct mechanistic connection has been identified, and no trials or literature were found. The high TxGNN score should therefore be treated as a computational hypothesis only.
 
-It is worth noting that lower-ranked candidates in this pack (e.g., dermatitis, bronchitis) do have some literature signal, but that signal is uniformly **safety-related** (case reports of vedolizumab-induced skin eruptions, and a respiratory-infection safety analysis) rather than evidence of therapeutic benefit — it should not be misread as supporting repurposing toward those indications either.
-
----
+The other top-ranked predictions in the data (mostly skin and autoimmune conditions) are also unsupported. Where literature exists, such as dermatitis and bronchitis, it mainly describes adverse events rather than benefit.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-Vedolizumab currently has no EU marketing authorization on file in this dataset (market status: Not Marketed; 0 authorizations recorded).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002782 (status: cancelled) | Entyvio | Not specified | Ulcerative colitis, Crohn's disease and chronic pouchitis in adults after inadequate response, loss of response or intolerance to conventional therapy or a TNF-alpha antagonist... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 69 interactions were identified in total. The listed ones include:
+  - **Major**: adalimumab, baricitinib, certolizumab pegol, cladribine
+  - **Moderate**: azathioprine, anakinra, alemtuzumab, alefacept, canakinumab, denosumab, dimethyl fumarate, diroximel fumarate, roflumilast, and several vaccines (tetanus toxoid, anthrax, live cholera)
+  - **Minor**: zinc salts (sulfate, acetate, gluconate, chloride)
+- **Related literature signals (from other predicted indications)**: case reports describe vedolizumab-associated skin reactions, including atopic and psoriasiform dermatitis, acneiform eruption, hidradenitis suppurativa and granulomatous dermatitis. Respiratory tract infections have been analysed in the vedolizumab clinical trial program.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (severe nonproliferative diabetic retinopathy) has no clinical trials, no literature, and no plausible mechanistic link to vedolizumab's known gut-selective mode of action — it meets the definition of an L5, model-only prediction. Combined with the absence of any EU marketing authorization and a blocking data gap on regulatory safety labeling, there is no basis to advance this candidate beyond hypothesis stage.
+The prediction has no clinical, trial or published support (Evidence Level L5), and there is no plausible mechanistic link between gut-selective α4β7 blockade and diabetic retinopathy. The EU authorization is also listed as cancelled only.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (blocking gap, required before any S1 safety screening)
-- Confirmed mechanism-of-action documentation (High-severity gap)
-- Preclinical or mechanistic studies establishing a biological rationale linking α4β7/MAdCAM-1 blockade to retinal microvascular disease
-- Any prospective clinical or case-level evidence for this specific indication pairing before moving past S0
+- Mechanistic evidence for an α4β7/MAdCAM-1 role in retinal disease, or preclinical studies in retinopathy models
+- Detailed mechanism of action data and SmPC warnings and contraindications
+- Confirmation of current EU authorization status
+- Systematic literature and trial searches to confirm the absence of evidence
+- A safety assessment for use in diabetic patients, including infection risk and the interaction signals above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

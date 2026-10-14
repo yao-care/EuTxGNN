@@ -2,7 +2,7 @@
 layout: default
 title: Dostarlimab
 parent: AI Predictions (L5)
-nav_order: 191
+nav_order: 198
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,69 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dostarlimab: From Unknown Original Indication to Acute Megakaryoblastic Leukemia
+# Dostarlimab: From Endometrial Cancer to Acute Megakaryoblastic Leukemia
 
 ## One-Sentence Summary
 
-> Dostarlimab's original approved indication and mechanism of action are not recorded in the current evidence pack. The TxGNN model predicts a possible association with **Acute Megakaryoblastic Leukemia**, but this is based purely on a knowledge-graph score of **50%** (rank #1,360,717) with **zero clinical trials** and **zero publications** currently supporting the connection — the model's own rationale explicitly labels the mechanistic link as speculative and indirect.
-
----
+Dostarlimab is a PD-1 immune checkpoint antibody, originally used to treat advanced or recurrent endometrial cancer.
+The TxGNN model predicts it may be effective for **acute megakaryoblastic leukemia**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — `original_indications` is empty and MOA is unconfirmed in the source data |
-| Predicted New Indication | Acute Megakaryoblastic Leukemia |
-| TxGNN Prediction Score | 50% (score 0.5; rank #1,360,717 — a very low-confidence position despite the mid-range score) |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| EU Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| Original Indication | First-line treatment (with carboplatin and paclitaxel) of primary advanced or recurrent endometrial cancer; monotherapy for dMMR/MSI-H recurrent or advanced endometrial cancer after prior platinum-containing therapy |
+| Predicted New Indication | Acute megakaryoblastic leukemia |
+| TxGNN Prediction Score | 50.00% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Dostarlimab, and no original indication is recorded in the source data, so its established area of proven efficacy cannot be confirmed from this evidence pack alone. This is a **Blocking** data gap (DG001: missing TFDA label/warnings) and a **High**-severity gap (DG002: missing MOA), both of which materially limit how far this candidate can be evaluated.
+Dostarlimab is a monoclonal antibody that binds PD-1 (CD279, gene PDCD1). Available pharmacology data indicate it has high affinity for human PD-1 and blocks the interaction of both PD-L1 and PD-L2 with PD-1. This releases the brake on T-cell activity against tumour cells. Detailed mechanism-of-action data beyond this are not available in the data compiled for this report.
 
-The model's own rationale for the top-ranked prediction states: *"Both are hematologic malignancies; theoretically an immune checkpoint inhibitor could produce anti-leukemic activity by activating T cells. However, this is a rare AML subtype, and there is currently no public evidence supporting PD-1 inhibitor efficacy in this subtype — the mechanistic link is speculative and an indirect analogy."* In other words, the association is a topological inference from the knowledge graph rather than a grounded pharmacological hypothesis.
+The link to the predicted indication is weak. In theory, PD-1 blockade could act on leukemic cells through immune checkpoint pathways. However, dostarlimab's activity in endometrial cancer is tied to a specific biomarker context (dMMR/MSI-H), and acute megakaryoblastic leukemia is typically not characterized by that profile. The score of 0.5 is a generic model output, and no trials or publications back it up.
 
-This caution is reinforced by the rest of the top-10 candidate list for this drug: several of the other predicted "indications" (e.g., vasculitis, ovarian dysfunction, Lyell syndrome) are explicitly flagged in the pack's own rationale as likely **reversed-direction signals** — conditions the drug is known to *cause* as an immune-related adverse event, not conditions it treats — or as probable knowledge-graph noise from sparsely connected nodes. Given this pattern, the overall reliability of this prediction batch should be treated as low until independently verified.
-
----
+Other predictions from the same model run were reviewed (for example familial tumoral calcinosis, vasculitis, and hyaline body myopathy). They also have scores of 0.5 and no supporting evidence, which suggests the score is not discriminating. Some are pharmacologically doubtful, since PD-1 blockade can cause immune-related adverse events such as vasculitis or myositis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for acute megakaryoblastic leukemia.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005204 (cancelled) | Jemperli | Not specified | Jemperli is indicated in combination with carboplatin and paclitaxel for the first-line treatment of adult patients with primary advanced or r... |
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-PD-1 monoclonal antibody) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
----
+Pharmacology data identify PD-1 (PDCD1) as the drug's target. No drug-drug interaction data beyond this target record are available.
+
+A related signal appeared during review of other predicted indications. A 2026 case report describes Stevens-Johnson syndrome occurring days after treatment of dostarlimab-induced autoimmune encephalitis. This is an adverse-event report, not evidence of benefit, and it reflects the risk of severe immune-related reactions with checkpoint inhibitors.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate sits at Evidence Level L5 with no clinical trials or literature support, an unresolved Blocking data gap on TFDA label warnings/contraindications (DG001), and no confirmed mechanism of action (DG002). The prediction score (50%, rank #1,360,717) and the model's own rationale — which explicitly describes the mechanistic link as speculative — do not support advancing past initial screening.
+The prediction rests only on a generic model score of 0.5, with no clinical trials, no literature, and no biomarker rationale for acute megakaryoblastic leukemia. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label/SmPC (warnings, contraindications) to unblock S1 safety screening (resolves DG001)
-- Confirmed mechanism of action from an authoritative source such as DrugBank (resolves DG002)
-- Documentation of Dostarlimab's actual original/approved indication(s), which are currently missing entirely from this evidence pack
-- Independent clinical trial or literature evidence specifically linking Dostarlimab to acute megakaryoblastic leukemia, since the current score derives purely from graph topology
-- Expert review to rule out reversed-direction/immune-related-adverse-event confusion, given that this pattern was flagged in multiple other candidates for this drug in the same batch
+- Preclinical or mechanistic evidence that PD-1 blockade is relevant in acute megakaryoblastic leukemia
+- Complete mechanism-of-action data
+- Safety information from the SmPC (warnings, contraindications), and clarification of the EU authorization status
+- A search for registered trials or published studies of PD-1 inhibitors in this disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

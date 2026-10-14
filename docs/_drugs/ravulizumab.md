@@ -2,7 +2,7 @@
 layout: default
 title: Ravulizumab
 parent: AI Predictions (L5)
-nav_order: 494
+nav_order: 511
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ravulizumab: From Complement-Mediated Hemolytic Disorders to Congenital Neutropenia (G6PC3 Deficiency)
+# Ravulizumab: From Paroxysmal Nocturnal Haemoglobinuria to Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency
 
 ## One-Sentence Summary
 
-> Ravulizumab is a long-acting anti-C5 monoclonal antibody whose established clinical role, per the repurposing rationale on file, is treating complement-mediated hemolytic and thrombotic microangiopathic disorders such as PNH and aHUS.
-> The TxGNN model predicts it may be effective for **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**,
-> but currently **0 clinical trials** and **0 publications** support this direction — the model itself flags the mechanistic link as weak.
-
----
+Ravulizumab (Ultomiris) is a long-acting C5 complement inhibitor, originally used to treat paroxysmal nocturnal haemoglobinuria (PNH), atypical haemolytic uraemic syndrome (aHUS), generalized myasthenia gravis and neuromyelitis optica spectrum disorder.
+The TxGNN model predicts it may be effective for **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**,
+but **no clinical trials and no publications** currently support this prediction. It is a model-only signal (Evidence Level L5).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in structured regulatory data (0 EU authorizations on file); rationale text indicates established use in complement-mediated hemolysis/TMA (e.g., PNH, aHUS) |
-| Predicted New Indication | Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency |
+| Original Indication | Paroxysmal nocturnal haemoglobinuria (PNH) in adult and paediatric patients with a body weight of 10 kg or above (also aHUS, gMG and NMOSD) |
+| Predicted New Indication | Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is flagged as a data gap in the evidence pack (DG002). However, the repurposing rationale field describes Ravulizumab as a long-acting anti-C5 monoclonal antibody that blocks formation of the terminal complement complex (membrane attack complex, MAC), with clinical relevance concentrated in complement-mediated hemolysis and thrombotic microangiopathy — conditions such as paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome (aHUS).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ravulizumab is a monoclonal antibody that inhibits complement component C5. Its efficacy in complement-mediated diseases such as PNH and aHUS has been established.
 
-The predicted new indication, G6PC3-deficient severe congenital neutropenia, is driven by endoplasmic-reticulum stress that increases neutrophil apoptosis — a glucose-metabolism and ER-function disorder. This pathway does not overlap with terminal complement activation.
+For the predicted indication, no mechanistic link is established. G6PC3 deficiency is a metabolic defect in neutrophil glucose-6-phosphatase activity that leads to neutrophil apoptosis and endoplasmic reticulum stress. Complement-mediated pathology is not a recognized driver of this disease. The high TxGNN score (99.96%) is a computational prediction, probably reflecting shared network features among related blood disorders rather than a pharmacological basis.
 
-The rationale supplied with this candidate explicitly states the mechanistic link is **weak**, and suggests the prediction may reflect the knowledge graph clustering rare hematologic diseases together rather than a genuine shared biological pathway. This is a case where a high TxGNN score is not corroborated by any independent mechanistic or clinical signal.
-
----
+Other highly ranked predictions show the same pattern. They include cyclic haematopoiesis, primary hyperoxaluria, severe congenital neutropenia (several subtypes), pseudo-von Willebrand disease, primary release disorder of platelets and megaloblastic anaemia. None has trial or literature support, and none has a recognized complement-driven mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EU marketing authorizations are on file for Ravulizumab in this dataset (market status: Not Marketed, 0 authorizations).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004954 (cancelled) | Ultomiris | Not specified | Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:- in patients with haemo... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signal (knowledge graph)**: The TxGNN knowledge graph lists a contraindication with **meningococcal infection**. This comes from graph data, not from label text.
+- **Drug Interactions**: Four interactions were identified, all rated Minor. They involve human immunoglobulin G in its intravenous, subcutaneous, intramuscular, and combined intravenous and subcutaneous forms.
+- **Additional concern for the predicted populations**: Complement inhibition increases the risk of infection with encapsulated bacteria. Using it in patients who are already immunodeficient or neutropenic (for example, p14 deficiency or congenital neutropenia) raises a particular safety concern. C5 blockade could also further impair innate immune defence in CXCR2 deficiency through reduced C5a signalling.
 
-*(Note: Safety warnings, contraindications, and DDI data are marked as a blocking data gap (DG001) in this evidence pack and could not be evaluated.)*
-
----
+Please also refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model score (L5, no clinical trials or literature), and the rationale itself identifies the drug-disease mechanistic link as weak/likely noise. Combined with a blocking data gap on safety labeling, this candidate does not meet the threshold to advance past S0.
+The prediction rests on a model score alone. No trials or publications support it, no mechanistic link to complement is known, and the infection risk of complement inhibition is a safety concern in neutropenic patients. The EU authorization is also recorded as cancelled.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism-of-action data for Ravulizumab (resolve DG002)
-- TFDA/SmPC-equivalent safety labeling — warnings, contraindications, DDI (resolve DG001, blocking)
-- Independent mechanistic or preclinical evidence linking terminal complement inhibition to G6PC3-deficient neutropenia
-- Confirmation of current EU regulatory/marketing status, since this dataset shows 0 authorizations
+- Mechanism of action data (MOA) and a plausible biological link between C5 inhibition and G6PC3-deficiency neutropenia
+- Preclinical or mechanistic studies supporting the hypothesis
+- Warnings and contraindications from the SmPC, to allow safety screening
+- Confirmation of the current EU authorization status of Ultomiris
+- A risk assessment of meningococcal and other encapsulated-bacteria infections in neutropenic patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

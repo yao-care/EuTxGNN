@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sevelamer
-parent: High Evidence (L1-L2)
-nav_order: 538
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 559
+evidence_level: L5
 indication_count: 10
 ---
 
 # Sevelamer
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Sevelamer: From Hyperphosphatemia to AIDS
+# Sevelamer: From Hyperphosphataemia in Dialysis to Breast Fibrocystic Disease
 
 ## One-Sentence Summary
 
-> Sevelamer is a non-absorbed intestinal phosphate/bile-acid binder, established for managing hyperphosphatemia in dialysis patients.
-> The TxGNN model predicts it may be effective for **AIDS**, based on its endotoxin (LPS)-binding property reducing microbial translocation and chronic immune activation,
-> with **1 completed Phase 2 clinical trial** and **3 publications** currently supporting this direction.
+Sevelamer is a non-absorbed phosphate-binding polymer, originally used to control hyperphosphataemia in adult patients receiving haemodialysis or peritoneal dialysis.
+The TxGNN model predicts it may be effective for **breast fibrocystic disease**, but **no clinical trials and no publications** currently support this prediction.
+The best-supported alternative direction among the top ten predictions is **HIV infection / AIDS**, which has only early-stage evidence (**3 publications**: one small single-arm study, one primate study and one unrelated case report).
 
 ---
 
@@ -43,57 +43,60 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not authorized in this jurisdiction (0 EU licenses on record); per evidence text, sevelamer is known for hyperphosphatemia management in dialysis patients |
-| Predicted New Indication | AIDS |
-| TxGNN Prediction Score | 86.40% |
-| Evidence Level | L2 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Control of hyperphosphataemia in adult patients receiving haemodialysis or peritoneal dialysis |
+| Predicted New Indication | Breast fibrocystic disease |
+| TxGNN Prediction Score | 92.46% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DG002, High severity). Based on known information embedded in the evidence pack, sevelamer is a non-systemically-absorbed intestinal binder whose established clinical role is phosphate binding in dialysis patients; it also non-specifically binds bile acids and bacterial endotoxin (lipopolysaccharide, LPS) within the gut lumen.
+Currently, detailed mechanism of action data is not available. Based on known information, sevelamer is a non-absorbed phosphate-binding polymer. Its efficacy in controlling hyperphosphataemia in dialysis patients is established, and it acts in the gut rather than systemically.
 
-In HIV/AIDS, damage to the intestinal mucosal barrier allows translocation of microbial products (notably LPS) into systemic circulation, driving chronic immune activation — a recognized contributor to disease progression and non-HIV comorbidities (e.g., cardiovascular disease) even in patients on antiretroviral therapy. The rationale for repurposing sevelamer rests on its LPS-binding capacity: by adsorbing endotoxin in the gut, it may theoretically reduce circulating LPS and downstream immune activation markers.
+For the top-ranked prediction, breast fibrocystic disease, no plausible link to this mechanism is evident. The same applies to the other breast-related predictions (apocrine adenosis, blunt duct adenosis, benign mammary dysplasia, breast abscess, fat necrosis). Several of them share identical scores, which suggests a correlated knowledge-graph pattern within a cluster of benign breast conditions rather than independent evidence. These predictions should be treated as computational signals only.
 
-This mechanistic link is shared between two closely related predicted nodes in this evidence pack — **AIDS** (rank 6, L2, with a completed Phase 2 trial) and **HIV infectious disease** (rank 5, L3, supported by the same underlying literature) — both converging on the microbial-translocation hypothesis. However, this remains an unproven, research-stage hypothesis rather than an established therapeutic effect.
+The only direction with a plausible, if indirect, rationale is HIV infection/AIDS. Sevelamer binds bacterial endotoxin (lipopolysaccharide) in the gut and might reduce microbial translocation and chronic immune activation. However, the one human study found that sevelamer did not lower lipopolysaccharide or soluble CD14 levels, so the mechanism is not confirmed.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01543958](https://clinicaltrials.gov/study/NCT01543958) | Phase 2 | Completed | 40 | Single-arm proof-of-concept study (A5296) evaluating 8 weeks of sevelamer carbonate to reduce microbial translocation and immune activation markers in HIV-infected, antiretroviral-naive subjects. |
-
-**Note:** This is a single-arm, unblinded proof-of-concept study, not a confirmatory RCT. The associated publication (PMID 24864123, below) reports that sevelamer did **not** significantly reduce the primary microbial-translocation markers (LPS, soluble CD14), though it did lower LDL cholesterol, oxidized LDL, and soluble tissue factor — a mixed/negative result on the core mechanistic hypothesis.
+Currently no related clinical trials registered for breast fibrocystic disease.
 
 ---
 
 ## Literature Evidence
 
+Currently no related literature available for breast fibrocystic disease.
+
+For reference, the literature found for the next best-supported predictions (HIV infection and AIDS):
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24864123](https://pubmed.ncbi.nlm.nih.gov/24864123/) | 2014 | RCT | The Journal of Infectious Diseases | 8-week sevelamer therapy in 36 untreated HIV-infected subjects did **not** significantly reduce LPS or soluble CD14, but decreased soluble tissue factor, LDL, and oxidized LDL cholesterol. |
-| [24837437](https://pubmed.ncbi.nlm.nih.gov/24837437/) | 2014 | Preclinical (SIV model) | The Journal of Clinical Investigation | In acutely SIV-infected pigtailed macaques, sevelamer treatment blocking microbial translocation reduced SIV-associated inflammation and viral replication. |
-| [24837427](https://pubmed.ncbi.nlm.nih.gov/24837427/) | 2014 | Review | The Journal of Clinical Investigation | Commentary discussing the relationship between microbial translocation and systemic immune activation in HIV infection, contextualizing the Kristoff et al. SIV findings. |
+| [24864123](https://pubmed.ncbi.nlm.nih.gov/24864123/) | 2014 | Single-arm clinical study (36 participants) | J Infect Dis | 8 weeks of sevelamer in untreated HIV infection did not significantly change markers of microbial translocation (lipopolysaccharide, soluble CD14), but reduced soluble tissue factor, LDL cholesterol and oxidized LDL cholesterol |
+| [24837437](https://pubmed.ncbi.nlm.nih.gov/24837437/) | 2014 | Preclinical animal study | J Clin Invest | In acutely SIV-infected macaques, sevelamer-based blockade of microbial translocation reduced inflammation and viral replication |
+| [42371456](https://pubmed.ncbi.nlm.nih.gov/42371456/) | 2026 | Case report | Cureus | Recurrent calciphylaxis in a patient with HIV-associated end-stage renal disease; does not support a treatment effect in HIV |
 
 ---
 
 ## EU Market Information
 
-No EU marketing authorization records are available for this candidate in the evidence pack (market status: Not Marketed, 0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000254 (cancelled) | Renagel | Not specified | Control of hyperphosphataemia in adult patients receiving haemodialysis or peritoneal dialysis. Renagel should be used within the context of a multiple... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction database. Those graded Moderate include vitamin D and its analogues (cholecalciferol, calcifediol, calcitriol, dihydrotachysterol, ergocalciferol), levofloxacin and vitamin A. Others are of unknown severity, for example pantoprazole, omeprazole, lansoprazole, cimetidine, vancomycin, morphine, prednisone and acarbose.
+- **Knowledge-graph contraindication signals** (not label text): vitamin D deficiency, osteomalacia, rickets, hypophosphatemia and gastroparesis. These come from a computational knowledge graph and need verification against the product information.
 
-**Note:** A Blocking data gap (DG001) has been identified — TFDA label warnings/contraindications could not be retrieved, which prevents this candidate from entering the S1 safety pre-assessment stage.
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -102,13 +105,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only direct clinical evidence is a single, small (N=40), unblinded Phase 2 proof-of-concept trial whose associated publication reports a **negative result on the primary mechanistic endpoint** (no significant reduction in LPS or soluble CD14). Combined with a Blocking safety data gap (TFDA warnings unavailable) and the drug having no EU marketing authorization on record, the evidence does not yet support advancing beyond a research question.
+The top prediction (breast fibrocystic disease, score 0.92) is a computational output only, with no trials, no publications and no plausible mechanism for a non-absorbed phosphate binder. The EU authorization is also cancelled. HIV/AIDS is better framed as a research question than as a development candidate, because the human data did not confirm the proposed mechanism.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC safety label data to complete the S1 safety pre-assessment (resolve DG001)
-- Formal mechanism of action (MOA) documentation (resolve DG002)
-- A confirmatory, adequately powered RCT with a positive primary endpoint on immune activation/microbial translocation markers
-- Clarification of regulatory pathway given the drug currently has no marketing authorization in this jurisdiction
+- Mechanism of action data to assess any biological link to the predicted indications
+- Warnings and contraindications from the product information (SmPC), including review of the knowledge-graph contraindication signals
+- For HIV/AIDS: verification of the study designs, and a controlled trial assessing clinically meaningful outcomes beyond the biomarkers already tested
+- Clarification of why the EU authorization was cancelled, and whether it affects any further development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

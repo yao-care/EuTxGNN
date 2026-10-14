@@ -2,7 +2,7 @@
 layout: default
 title: Panitumumab
 parent: AI Predictions (L5)
-nav_order: 449
+nav_order: 463
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Panitumumab: From Metastatic Colorectal Cancer to Drug-induced Osteoporosis
+# Panitumumab: From Metastatic Colorectal Cancer to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Panitumumab is a fully human anti-EGFR monoclonal antibody originally used to treat metastatic colorectal cancer.
-The TxGNN model predicts it may be effective for **Drug-induced Osteoporosis**,
-but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a purely AI-driven association with no direct experimental or clinical evidence.
+Panitumumab is an anti-EGFR monoclonal antibody, originally used to treat RAS wild-type metastatic colorectal cancer.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction is computational only.
 
 ---
 
@@ -43,63 +43,57 @@ but this direction is currently supported by **0 clinical trials** and **0 publi
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer (per DrugBank general knowledge; no EU marketing authorization record found for this jurisdiction) |
-| Predicted New Indication | Drug-induced Osteoporosis |
+| Original Indication | Adult patients with wild-type RAS metastatic colorectal cancer (mCRC): first-line with FOLFOX or FOLFIRI; second-line with FOLFIRI after first-line fluoropyrimidine-based chemotherapy (excluding irinotecan); or as monotherapy after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing regimens |
+| Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.13% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap). Based on known information, Panitumumab is a fully human IgG2 monoclonal antibody that targets EGFR (epidermal growth factor receptor), and its efficacy in metastatic colorectal cancer is well established. EGFR signaling has some documented role in bone remodeling (osteoclast/osteoblast regulation), which is likely the basis for the knowledge-graph connection TxGNN identified between this drug and osteoporosis.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, panitumumab is an anti-EGFR (epidermal growth factor receptor) monoclonal antibody. Its efficacy in RAS wild-type metastatic colorectal cancer has been established, which is how it came to be authorized.
 
-However, per the model's own rationale, this link is indirect: it appears to reflect gene-level EGFR–bone pathway associations in the knowledge graph rather than a validated pharmacological mechanism for drug-induced bone loss. There is no clinical or literature evidence currently supporting this specific indication, and the same caveat applies to the other nine predictions in this pack (all EGFR-related eye/lens or bone conditions with similarly weak, gene-level-only rationale).
+The link to drug-induced osteoporosis is speculative. In preclinical settings, EGFR signaling has a role in osteoblast differentiation and bone remodeling, so a theoretical connection exists. However, no clinical or literature evidence was provided to support it, and the relationship between a colorectal cancer therapy and a bone-loss condition has not been characterized. The high TxGNN score (0.991) reflects a graph-based computational prediction, not an experimentally confirmed finding.
 
-Given the absence of mechanistic specificity, clinical trials, or published literature, this prediction should be treated as a hypothesis-generating signal only, not a basis for clinical or regulatory action at this stage.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+Other predicted indications in the same analysis (diabetic retinopathy and several cataract subtypes) also have no supporting evidence. Identical scores across cataract subtypes suggest a class-level knowledge graph signal rather than independent findings.
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations were found for Panitumumab in this jurisdiction — the drug is currently listed as **not marketed** (0 licenses on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000741 (cancelled) | Vectibix | Not specified | Vectibix is indicated for the treatment of adult patients with wild-type RAS metastatic colorectal cancer (mCRC): in first-line in combination with Folfox or Folfiri. in sec... |
 
 ---
 
 ## Cytotoxicity
 
-Panitumumab is an antineoplastic agent (anti-EGFR monoclonal antibody used in metastatic colorectal cancer), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Anti-EGFR monoclonal antibody; not conventional cytotoxic chemotherapy) |
-| Myelosuppression Risk | Low — typical of anti-EGFR monoclonal antibodies; please refer to the SmPC for detailed haematological data |
-| Emetogenicity Classification | Low (minimal emetogenic potential typical of monoclonal antibody therapy) |
-| Monitoring Items | Skin/dermatologic toxicity, serum electrolytes (magnesium, calcium), infusion-related reactions; CBC and renal/hepatic function per SmPC |
-| Handling Protection | Standard biologic infusion precautions; not classified as a cytotoxic hazardous drug requiring special cytotoxic handling procedures |
+| Cytotoxicity Classification | Targeted therapy (anti-EGFR monoclonal antibody) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 27 interactions were identified in total (the 20 listed in the data compiled for this report include the following). Major-level interactions include:
+  - **Bevacizumab**
+  - **Irinotecan** and **liposomal irinotecan**
+  - QT-prolonging or antiarrhythmic agents: **amiodarone, dofetilide, dronedarone, droperidol, levacetylmethadol, arsenic trioxide**
+  - **Aminolevulinic acid**
+- Moderate-level interactions include proton pump inhibitors (rabeprazole, omeprazole, dexlansoprazole, esomeprazole, lansoprazole, pantoprazole), methoxsalen, topical aminolevulinic acid, disopyramide, and idelalisib.
+- **Context from the prediction analysis**: Systemic EGFR blockade is known to carry ocular and dermatologic toxicities, and panitumumab can cause hypomagnesemia and hypocalcemia. These are relevant when considering any new use.
 
-*(Key warnings, contraindications, and drug-interaction data are currently unavailable — this is flagged as a Blocking data gap (DG001), preventing safety pre-screening.)*
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -108,13 +102,15 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All ten predicted indications are Evidence Level L5 (AI prediction only, decision stage S0) with zero supporting clinical trials or publications, and the mechanistic rationale for the top-ranked indication (drug-induced osteoporosis) is explicitly described as an indirect, gene-level knowledge-graph association rather than a validated pharmacological link. Combined with the Blocking safety data gap and the drug's non-marketed status in this jurisdiction, there is currently insufficient basis to advance this candidate.
+The prediction rests only on a computational score, with no registered clinical trials and no publications. The EU authorization in the data is cancelled, and mechanism of action, warnings, and contraindications are missing.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (resolve DG001, Blocking)
-- Confirmed mechanism of action data from DrugBank or primary literature (resolve DG002, High)
-- Generation of preclinical or clinical evidence specifically linking EGFR inhibition to bone metabolism/osteoporosis
-- Regulatory status confirmation, since no marketing authorization currently exists in this jurisdiction
+- Mechanism of action data (e.g., from DrugBank)
+- Warnings and contraindications from the EMA product information, to allow safety screening
+- Preclinical or mechanistic studies of EGFR blockade in bone remodeling and osteoporosis models
+- A literature and trial search specific to drug-induced osteoporosis
+- Verification of the current EU marketing status of Vectibix, since only a cancelled authorization is recorded
+- A risk-benefit assessment, given systemic EGFR-inhibitor toxicity and the availability of established osteoporosis therapies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

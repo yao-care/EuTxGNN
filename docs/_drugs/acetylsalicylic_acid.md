@@ -29,84 +29,85 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Acetylsalicylic Acid (Aspirin): From Pain and Cardiovascular Prevention to Migraine with Brainstem Aura
+# Acetylsalicylic Acid: From Acute Coronary Syndrome to Migraine with Brainstem Aura
 
 ## One-Sentence Summary
 
-Acetylsalicylic acid (Aspirin, DB00945) is a widely used analgesic, antipyretic, anti-inflammatory, and antiplatelet agent with established roles in cardiovascular event prevention, though no formal indication records were retrieved in the current dataset.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura** — a high-risk migraine subtype associated with elevated cerebrovascular risk —
-with **0 registered clinical trials** but **19 publications** currently supporting this direction, including a 2025 systematic review and a retrospective cohort study directly evaluating ASA in migraine-with-aura prophylaxis.
-
----
+Acetylsalicylic acid (aspirin) was originally authorised in the EU as part of fixed-dose combinations with clopidogrel for the secondary prevention of atherothrombotic events after acute coronary syndrome and myocardial infarction.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**, supported by **no registered clinical trials** and **20 publications**. Most of this literature concerns migraine with aura in general rather than this specific subtype.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No formal indication data in current dataset |
-| Predicted New Indication | Migraine with Brainstem Aura |
+|------|------|
+| Original Indication | Secondary prevention of atherothrombotic events in adults already taking clopidogrel and acetylsalicylic acid (non-ST segment elevation acute coronary syndrome, ST segment elevation myocardial infarction) |
+| Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L3 |
-| Taiwan Market Status | Not Marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| EU Market Status | Cancelled only (no currently valid authorisations) |
+| Number of Authorizations | 3 (all cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed MOA data is not available in the current dataset. Based on established pharmacology, Aspirin irreversibly inhibits COX-1 (and to a lesser extent COX-2) in platelets, permanently blocking synthesis of thromboxane A2 (TXA2) — a potent platelet activator and vasoconstrictor — for the entire 7–10 day platelet lifespan. At low doses, this antiplatelet effect is achieved while largely preserving prostacyclin (PGI2) production in the vascular endothelium, theoretically maintaining a vasodilatory counterbalance.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, aspirin inhibits cyclooxygenase (COX) and has antiplatelet activity. Its efficacy in secondary cardiovascular prevention is established, and mechanistically it may be applicable to migraine.
 
-Migraine with brainstem aura (MBA), formerly known as "basilar-type migraine," is a rare subtype characterized by fully reversible brainstem symptoms (vertigo, dysarthria, diplopia, ataxia) followed by headache. The leading pathophysiological mechanism is cortical spreading depression (CSD) originating in posterior cortex or brainstem, with emerging evidence that microembolism and platelet activation may trigger CSD episodes. MBA carries significantly elevated stroke risk, which provides a mechanistic rationale for antiplatelet intervention: by suppressing TXA2-mediated platelet aggregation, Aspirin may reduce the frequency of microembolic events that seed CSD initiation, while its anti-inflammatory effect on prostaglandin pathways may further dampen neuroinflammation during the aura phase.
+Aspirin's antiplatelet effect may reduce platelet-mediated microembolic events and possibly triggers of cortical spreading depression. This is most plausible in migraine with aura associated with patent foramen ovale. Aspirin also has recognised antinociceptive effects and appears in European Federation of Neurological Societies (EFNS) guidelines for acute migraine treatment and prevention.
 
-Supporting this rationale, a 2025 systematic review (*Headache*, PMID 39989443) specifically investigated antithrombotic drugs — including Aspirin — as migraine preventive agents. A 2014 retrospective cohort study (*Current Health Sciences Journal*, PMID 25729594) evaluated low-dose Aspirin in 95 patients with migraine with aura at a university headache centre, comparing it against standard prophylactic therapies over at least 4 months. The antiplatelet hypothesis is further reinforced by a 2005 report showing that clopidogrel (another antiplatelet agent) reduced migraine with aura episodes after cardiac shunt closure (PMID 16103551), suggesting a shared antiplatelet mechanism may be genuinely protective in this patient group.
-
----
+The link between the original (cardiovascular) indication and migraine is indirect. Evidence specific to the brainstem aura subtype is lacking, and supporting data come from migraine with aura in general. The prediction is best viewed as a research question rather than a ready-to-use indication.
 
 ## Clinical Trial Evidence
 
-Currently no clinical trials specifically registering acetylsalicylic acid as an intervention for migraine with brainstem aura have been identified in ClinicalTrials.gov or ICTRP.
-
----
+Currently no related clinical trials registered for this predicted indication.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Systematic Review | Headache | Explored available evidence on antithrombotic drugs (including ASA) as migraine preventive medication; most direct and recent synthesis of evidence |
-| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Retrospective Cohort | Current Health Sciences Journal | 95 migraine-with-aura patients treated with low-dose ASA vs other prophylactics for ≥4 months; evaluated efficacy and tolerability |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Clinical Guideline / Evidence Review | Headache | AHS updated evidence assessment of acute migraine pharmacotherapies; ASA included as evidence-based option |
-| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | Cephalalgia | Double-blind multicenter RCT (n=278): IV lysine ASA (1 g) vs sumatriptan 6 mg sc vs placebo in acute migraine with or without aura |
-| [34384631](https://pubmed.ncbi.nlm.nih.gov/34384631/) | 2021 | Review | Revue Neurologique | Comprehensive overview of migraine with aura: CSD as core mechanism, ICHD-III diagnostic criteria, epidemiology |
-| [30291554](https://pubmed.ncbi.nlm.nih.gov/30291554/) | 2018 | Review | Current Pain and Headache Reports | Compares pathophysiology, epidemiology, and clinical management implications between migraine with and without aura |
-| [35006660](https://pubmed.ncbi.nlm.nih.gov/35006660/) | 2022 | Clinical Guideline | FP Essentials | AHA/ASA stroke primary prevention guidelines; recommends ASA in high-risk groups, including migraine-with-aura patients given their elevated stroke risk |
-| [15891416](https://pubmed.ncbi.nlm.nih.gov/15891416/) | 2005 | Review | Current Opinion in Neurology | Explores the mechanistic triangle of patent foramen ovale, cryptogenic stroke, and migraine with aura — supports antiplatelet intervention rationale |
-| [16103551](https://pubmed.ncbi.nlm.nih.gov/16103551/) | 2005 | Case Series | Heart (BCS) | Clopidogrel reduced migraine with aura after transcatheter shunt closure; supports the hypothesis that antiplatelet agents benefit this migraine subtype |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | Neurology International | Treatment landscape of acute migraine; confirms ASA and caffeine-containing analgesics as first-line options for mild-to-moderate attacks |
+|------|-----|------|------|---------|
+| [39989443](https://pubmed.ncbi.nlm.nih.gov/39989443/) | 2025 | Systematic review | Headache | Explores the evidence for antithrombotic drugs as migraine preventive medication |
+| [19708964](https://pubmed.ncbi.nlm.nih.gov/19708964/) | 2009 | Guideline | Eur J Neurol | Revised EFNS guideline on drug treatment of migraine |
+| [16796580](https://pubmed.ncbi.nlm.nih.gov/16796580/) | 2006 | Guideline | Eur J Neurol | EFNS evidence-based recommendations for drug treatment of migraine with and without aura |
+| [10448545](https://pubmed.ncbi.nlm.nih.gov/10448545/) | 1999 | RCT | Cephalalgia | Double-blind trial of intravenous aspirin lysinate vs subcutaneous sumatriptan vs placebo in acute migraine (278 patients) |
+| [25729594](https://pubmed.ncbi.nlm.nih.gov/25729594/) | 2014 | Retrospective cohort | Curr Health Sci J | Low-dose aspirin compared with other prophylactic therapies in 203 patients with migraine with aura |
+| [9606899](https://pubmed.ncbi.nlm.nih.gov/9606899/) | 1998 | Clinical study | Zh Nevrol Psikhiatr Im S S Korsakova | Preventive aspirin at 1000, 500 and 100 mg in 105 patients with migraine without aura |
+| [1589237](https://pubmed.ncbi.nlm.nih.gov/1589237/) | 1992 | Randomized crossover physiological study | Pain | Aspirin activates an antinociceptive brain-stem reflex in migraine, tension-type headache and healthy subjects |
+| [15265054](https://pubmed.ncbi.nlm.nih.gov/15265054/) | 2004 | Experimental study | Cephalalgia | Compares central antinociceptive effects of IV aspirin and zolmitriptan during and outside migraine attacks |
+| [15891416](https://pubmed.ncbi.nlm.nih.gov/15891416/) | 2005 | Review | Curr Opin Neurol | Relationship between patent foramen ovale, cryptogenic stroke and migraine |
+| [18806984](https://pubmed.ncbi.nlm.nih.gov/18806984/) | 2008 | Review | Der Nervenarzt | Alternatives to beta blockers in preventive migraine treatment |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004996 | Clopidogrel / Acetylsalicylic acid Viatris (previously Mylan) | Not specified | Secondary prevention of atherothrombotic events in adult patients already taking both clopidogrel and acetylsalicylic acid (ASA). Fixed-dose... |
+| EMEA/H/C/001143 | DuoPlavin | Not specified | Secondary prevention of atherothrombotic events in adult patients already taking both clopidogrel and acetylsalicylic acid (ASA). Fixed-dose... |
+| EMEA/H/C/001144 | Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover) | Not specified | Acute Coronary Syndrome Myocardial Infarction |
+
+All three authorisations are cancelled.
 
 ## Safety Considerations
 
-Please refer to the TFDA SmPC for safety information.
+- **Drug Interactions**: The interaction screen returned 100 interacting drugs. Examples of **Major** interactions include acalabrutinib, acetazolamide, ketorolac, trastuzumab emtansine, ibuprofen and fondaparinux. Examples of **Moderate** interactions include abciximab, nifedipine, hydrocortisone, ethanol, alendronic acid, fluvoxamine and fosinopril. Examples of **Minor** interactions include acebutolol, caffeine, rabeprazole, fosphenytoin and furosemide. Many of the Major interactions involve additive bleeding risk or other NSAID/antithrombotic effects.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Aspirin's antiplatelet and anti-inflammatory mechanism is biologically plausible for migraine with brainstem aura — a high-stroke-risk subtype where platelet-mediated microembolism may trigger cortical spreading depression — and is supported by a 2025 systematic review and a retrospective cohort study directly examining this approach. However, no prospective controlled trial has been registered for this specific indication, and the TFDA safety data profile is currently unverified, warranting a structured research pathway rather than immediate broad adoption.
+Migraine with brainstem aura has no registered trials and no subtype-specific evidence. Supporting literature is indirect (migraine with aura in general, mostly retrospective or older studies, plus a recent systematic review). The prediction is best treated as a research question until more specific data are available.
 
 **To proceed, the following is needed:**
+- Subtype-specific clinical evidence, such as a prospective trial in migraine with aura including brainstem aura
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC, which could not be obtained for this report (the lack of this safety data is a blocking gap for safety screening)
+- A bleeding-risk assessment and a review of interactions with common migraine and cardiovascular medications
+- Clarification of EU regulatory pathway, since all current EU authorisations for the combination products are cancelled
 
-- Design and registration of a prospective controlled trial specifically in migraine with brainstem aura (prophylaxis endpoint), distinguishing from acute treatment
-- Retrieval and review of the TFDA SmPC (or equivalent regulatory document) for formal contraindications and warnings — currently a blocking data gap
-- Formal MOA documentation from DrugBank API to complete the mechanistic rationale section
-- Dose regimen definition: low-dose prophylaxis (75–100 mg/day) versus acute IV formulation requires separate trial arms
-- Stroke risk stratification protocol for the MBA population, given the elevated cerebrovascular risk profile of this subtype
-- Review of the 2025 systematic review (PMID 39989443) findings in full to assess whether any formal recommendations were made
+---
+
+*Other predicted indications:* Among the other predictions, **thrombotic disease** (L2, Proceed with Guardrails) is largely an extension of aspirin's known antithrombotic mechanism. It has one not-yet-recruiting Phase 3 trial (NCT07228663), which is not yet L1 evidence. **Thrombophilia** (L2) and **Raynaud disease** (L3) are research questions. The remaining predictions (atrophoderma vermiculata, ulerythema ophryogenesis, heparin cofactor 2 deficiency, factor 5 excess, antithrombin deficiency type 2, trigeminal autonomic cephalalgia) rest on model prediction alone (L5) and are on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

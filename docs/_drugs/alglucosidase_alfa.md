@@ -2,7 +2,7 @@
 layout: default
 title: Alglucosidase Alfa
 parent: AI Predictions (L5)
-nav_order: 35
+nav_order: 36
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,37 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alglucosidase Alfa: From Pompe Disease (GSD II) to Adult Polyglucosan Body Disease
+# Alglucosidase alfa: From Pompe Disease to Adult Polyglucosan Body Disease
 
 ## One-Sentence Summary
 
-Alglucosidase alfa (Myozyme/Lumizyme) is a recombinant human acid alpha-glucosidase (GAA) used as enzyme replacement therapy (ERT) for Pompe disease (Glycogen Storage Disease Type II), where GAA deficiency leads to progressive lysosomal glycogen accumulation in muscle and nervous tissue.
-The TxGNN model predicts it may be effective for **Adult Polyglucosan Body Disease (APBD)**, a rare neurodegenerative disorder driven by partial GBE1 deficiency causing polyglucosan body accumulation in neurons — sharing the same glycogen metabolism pathway as Pompe disease.
-Currently, **no clinical trials** and **no published literature** directly support this repurposing direction, placing this candidate at evidence level **L5** (AI model prediction only).
+Alglucosidase alfa is a recombinant enzyme used for long-term enzyme-replacement therapy in Pompe disease (acid alpha-glucosidase deficiency).
+The TxGNN model predicts it may be effective for **adult polyglucosan body disease**,
+but **no clinical trials and no publications** currently support this prediction, so it is a computational prediction only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Pompe disease (Glycogen Storage Disease Type II / GSD II) |
-| Predicted New Indication | Adult Polyglucosan Body Disease (APBD) |
+|------|------|
+| Original Indication | Long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid alpha-glucosidase deficiency). Evidence of efficacy is limited in late-onset Pompe disease. |
+| Predicted New Indication | Adult polyglucosan body disease |
 | TxGNN Prediction Score | 99.47% |
-| Evidence Level | L5 — AI prediction only, no clinical or preclinical studies found |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Alglucosidase alfa is a recombinant form of human acid alpha-glucosidase (GAA), the enzyme that degrades lysosomal glycogen by cleaving α-1,4 glycosidic bonds. In Pompe disease (GSD II), complete or near-complete GAA deficiency causes glycogen to accumulate progressively in skeletal muscle, cardiac muscle, and motor neurons, ultimately leading to respiratory failure and cardiomyopathy. As an enzyme replacement therapy, alglucosidase alfa is taken up by cells via mannose-6-phosphate receptors and delivered to the lysosome, where it restores the missing catalytic activity.
+Detailed mechanism of action data is not available. Based on known information, alglucosidase alfa is a recombinant human acid alpha-glucosidase (GAA) that breaks down glycogen inside lysosomes. Its efficacy in Pompe disease, where this enzyme is missing, is the basis of its approval.
 
-Adult Polyglucosan Body Disease (APBD) is caused by *partial* deficiency of glycogen branching enzyme (GBE1), resulting in the accumulation of abnormally structured polyglucosan bodies — poorly branched, amylose-like glycogen polymers rich in linear α-1,4 glucose chains — in neurons, astrocytes, and peripheral nerves. Because these polyglucosan bodies contain the same α-1,4 linkages that alglucosidase alfa cleaves, there is a theoretical substrate-level rationale for partial degradation. Both disorders belong to the glycogen storage pathway, making APBD the mechanistically strongest repurposing candidate among all top TxGNN predictions for this drug.
+Adult polyglucosan body disease (APBD) is caused by deficiency of the glycogen branching enzyme (GBE1). This leads to buildup of poorly branched polyglucosan in the cytoplasm of neurons and other cells. The only link to Pompe disease is that both involve glycogen metabolism.
 
-Nonetheless, the mechanistic link is indirect. APBD arises from GBE1 deficiency, not GAA deficiency, so alglucosidase alfa does not correct the primary enzymatic lesion. Polyglucosan bodies also contain α-1,6 branch points that GAA cannot cleave, limiting clearance efficiency. Whether intravenously administered GAA can reach affected neurons in sufficient concentrations — and whether partial polyglucosan clearance translates into clinical benefit — remains entirely unvalidated. The prediction is biologically plausible but requires laboratory and preclinical confirmation before any clinical translation is considered.
+This link is weak for two reasons. First, the enzyme works in lysosomes, whereas polyglucosan accumulates in the cytosol. Second, the recombinant enzyme penetrates the blood-brain barrier poorly, which limits access to the affected neural tissue. The high score is a computational prediction and has no clinical or literature support in the data compiled for this report.
+
+Other top-ranked predictions include two glycogen storage disease type IV forms (congenital neuromuscular and fatal perinatal neuromuscular), which share the same cytosolic GBE1 problem. The remaining predictions are eyelid and ocular malformations and rare syndromes (such as congenital entropion, congenital ectropion, congenital Horner syndrome, epiblepharon). These have no plausible mechanistic link and likely reflect network-level artifacts of the model.
 
 ---
 
@@ -75,11 +77,17 @@ Currently no related literature available.
 
 ---
 
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000636 (cancelled) | Myozyme | Not specified | Long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-α-glucosidase deficiency). In patients with late-onset Pompe disease the evidence of efficacy is limited. |
+
+---
+
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
-
-> **Note:** Taiwan regulatory data (TFDA SmPC warnings and contraindications) were not available at the time of this analysis. Known class effects for alglucosidase alfa include risk of infusion-associated reactions, anaphylaxis, and immune-mediated reactions — these should be reviewed from the EMA or FDA prescribing information before any further evaluation.
 
 ---
 
@@ -88,15 +96,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This repurposing prediction is supported solely by the TxGNN model score (99.47%) and a theoretically plausible but indirect mechanistic link between GAA activity and the linear glycan component of polyglucosan bodies in APBD. With no clinical trials, no supporting literature, and a primary enzymatic defect (GBE1) distinct from the drug's established target (GAA), there is insufficient evidence to advance beyond a research question at this stage.
+The prediction rests only on a model score. There are no clinical trials or publications, and the biology argues against it: the enzyme acts in lysosomes, the disease defect is cytosolic, and brain penetration is poor. The only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-
-- **Preclinical substrate studies**: Confirm in vitro that alglucosidase alfa can degrade GBE1-deficient polyglucosan bodies, and determine the extent of degradation given the presence of α-1,6 branch points
-- **Animal model validation**: Test ERT efficacy and CNS delivery in GBE1-knockout or APBD mouse models, assessing both polyglucosan clearance and neurological outcomes
-- **MOA documentation**: Retrieve complete mechanism of action data from DrugBank API and published pharmacology literature (data gap DG002)
-- **Regulatory safety review**: Download and parse the TFDA SmPC PDF to extract warnings and contraindications (data gap DG001); also cross-reference with EMA and FDA product labels for infusion reaction and immunogenicity risk management
-- **Research question formulation**: Define a formal hypothesis, patient population, endpoints, and IND-enabling study plan if preclinical results are encouraging
+- Safety information (warnings and contraindications) from the SmPC or package insert
+- Mechanism of action data, to allow a proper mechanistic analysis
+- Preclinical evidence on whether lysosomal GAA can reduce cytosolic polyglucosan, including delivery to neural tissue
+- Review of the existing literature on enzyme replacement in glycogen branching enzyme deficiency
+- Clarification of the regulatory situation, given that the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

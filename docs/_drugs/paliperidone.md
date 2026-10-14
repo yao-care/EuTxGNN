@@ -2,7 +2,7 @@
 layout: default
 title: Paliperidone
 parent: AI Predictions (L5)
-nav_order: 446
+nav_order: 460
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Paliperidone: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
+# Paliperidone: From Schizophrenia to Retinal Dystrophy (with or without extraocular anomalies)
 
 ## One-Sentence Summary
 
-> Paliperidone is an atypical antipsychotic drug (per supporting literature in this evidence pack, it is used for schizophrenia and related psychotic disorders). The TxGNN model predicts it may be effective for **Retinal Dystrophy with or without Extraocular Anomalies**, but this prediction is currently supported by **0 clinical trials** and only general ophthalmology literature with no direct relevance to the drug — the model's rationale itself flags this as likely a knowledge-graph proximity artifact rather than a true pharmacological signal.
+Paliperidone is an antipsychotic originally used to treat schizophrenia and schizoaffective disorder.
+The TxGNN model ranks **retinal dystrophy with or without extraocular anomalies** as its top predicted new indication, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on the model score alone.
 
 ---
 
@@ -41,62 +43,60 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no marketing authorization or original-indication data in this evidence pack (drug not marketed in this jurisdiction); literature elsewhere in this pack indicates an existing schizophrenia indication |
-| Predicted New Indication | Retinal Dystrophy with or without Extraocular Anomalies |
+| Original Indication | Schizophrenia in adults and adolescents 15 years and older; schizoaffective disorder in adults |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for paliperidone in this evidence pack. Based on other information contained in the pack (see the treatment-refractory schizophrenia candidate below), paliperidone is a D2/5-HT2A receptor antagonist belonging to the second-generation (atypical) antipsychotic class, and its efficacy in schizophrenia is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Paliperidone is generally known as a dopamine D2 and serotonin 5-HT2A receptor antagonist. Its efficacy in schizophrenia and schizoaffective disorder is established.
 
-For the top-ranked prediction — retinal dystrophy with or without extraocular anomalies — there is **no identified biological or pharmacological link** to paliperidone's known mechanism. The model's own rationale states that this high score likely reflects proximity within the knowledge graph rather than a genuine pharmacological relationship. The attached literature (orbital infection, diplopia, congenital ptosis, lens anomalies, etc.) covers general ophthalmology topics and does not discuss paliperidone or antipsychotic pharmacology at all.
+The data compiled for this report does not establish a mechanistic link between this receptor activity and inherited retinal degeneration. The high score (0.999) reflects a knowledge-graph pattern, not biological or clinical evidence. Retinal dystrophies are genetically driven degenerative conditions, and a symptomatic antipsychotic is not expected to modify them.
 
-Given the absence of mechanistic rationale, clinical trials, or targeted literature, this prediction should be treated as a pure model output requiring substantial further validation before any clinical consideration.
+The other top predictions share this problem: X-linked and syndromic myopia, hydranencephaly, a congenital glycosylation disorder, polymicrogyria, Charcot-Marie-Tooth type 1G and atypical glycine encephalopathy all lack trials or literature. Dopamine signalling in eye growth gives the myopia entries only a speculative rationale. The one prediction with any registered studies is treatment-refractory schizophrenia (rank 10). That is a subgroup of the approved indication rather than a true repurposing target, and the available trials do not show paliperidone efficacy there. Clozapine remains the standard for refractory cases.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for retinal dystrophy.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | General review of orbital infections; no mention of paliperidone or retinal dystrophy |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Diagnostic approach to diplopia; general neuro-ophthalmology, not drug-specific |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Overview of congenital ptosis and extraocular muscle fibrosis |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape; anterior segment dysgenesis |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case Report | Am J Ophthalmol | Case series of unilateral cryptophthalmia with orbital malformation |
-| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case Report | J Neuroophthalmol | Isolated case of congenital trochlear-oculomotor synkinesis |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome: vitreoretinal degeneration and extraocular features |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Imaging review of pediatric ocular pathologies including congenital lesions |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Case Report | Optom Vis Sci | Case of congenital extraocular muscle fibrosis with variable divergence |
-| [33447730](https://pubmed.ncbi.nlm.nih.gov/33447730/) | 2020 | Review | Ther Adv Ophthalmol | Review of ocular involvement in inherited metabolic disorders |
-
-**Note:** None of the above literature discusses paliperidone, antipsychotic pharmacology, or retinal dystrophy treatment directly — all are general ophthalmology/neuro-ophthalmology background references.
+Currently no related literature available for retinal dystrophy.
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations found. This drug is not currently marketed in the covered jurisdiction, so no product/dosage-form/indication data is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000746 (cancelled) | Invega | Not specified | Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (these are graph-derived drug-disease edges, not label text). They include:
+  - Cardiovascular and rhythm: long QT syndrome (including familial), torsades de pointes, orthostatic hypotension, postural orthostatic tachycardia syndrome, hypotensive disorder, myocardial infarction, coronary thrombosis
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycaemia, hyperlipidaemia (including familial), obesity (including monogenic), potassium deficiency
+  - Haematological: neutropenia, agranulocytosis, haemoglobinopathy
+  - Neurological: epilepsy, multiple system atrophy, basal ganglia disease, focal hand dystonia, blepharospasm
+  - Other: Crohn disease and inflammatory bowel disease, female breast carcinoma, impaired renal function
+- **Drug Interactions**: 100 interactions were recorded. Two are rated Major: **bupropion** and **morphine**. The Moderate-level examples shown include:
+  - Antidiabetic agents (metformin, pioglitazone, alogliptin, albiglutide, canagliflozin, chlorpropamide, acarbose)
+  - Anticholinergic agents (atropine, hyoscyamine, glycopyrronium)
+  - Others (famotidine, epinephrine, hydrocortisone, amphotericin B, loperamide, lorcaserin, bisacodyl)
 
-*(Note: key warnings, contraindications, and drug-interaction data are flagged as a Blocking data gap in this evidence pack — see Conclusion below.)*
+Please refer to the SmPC for label warnings and contraindications.
 
 ---
 
@@ -105,13 +105,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (retinal dystrophy with or without extraocular anomalies) has no clinical trials, no directly relevant literature, and no plausible mechanistic link — it is an L5, model-only signal (S0 stage) that the model's own rationale flags as likely a knowledge-graph artifact rather than a real pharmacological relationship.
+The prediction is supported only by a model score. There are no trials or publications, no plausible mechanistic link, and the only EU authorization is cancelled. The extensive safety signals (QT prolongation, metabolic effects, neutropenia) would also need justification in a non-psychiatric population.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data (warnings, contraindications) — currently a **Blocking** gap that prevents any S1 safety assessment
-- Confirmed mechanism of action via DrugBank (currently unavailable)
-- Independent mechanistic or preclinical rationale connecting paliperidone to retinal/ophthalmic pathology before any further evaluation
-- **Portfolio note:** a lower-ranked candidate in this same pack — *treatment-refractory schizophrenia* (score 99.80%, L2 evidence, "Proceed with Guardrails") — has a direct pharmacological rationale (D2/5-HT2A antagonism), a completed Phase 4 observational study, and ongoing Phase 4 trials. This is a substantially stronger candidate and may warrant prioritization over the top TxGNN-ranked prediction.
+- Mechanism of action data and a testable biological hypothesis linking paliperidone to retinal degeneration
+- Preclinical evidence in retinal dystrophy models
+- Label warnings and contraindications from the EU product information
+- A benefit-risk rationale for a non-psychiatric population, given the safety signals above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

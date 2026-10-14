@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Eliglustat
-parent: Medium Evidence (L3-L4)
-nav_order: 209
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 216
+evidence_level: L5
 indication_count: 10
 ---
 
 # Eliglustat
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Eliglustat: From Gaucher Disease Type 1 to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+# Eliglustat: From Gaucher Disease Type 1 to Autosomal Ichthyosis Syndrome with Fatal Disease Course
 
 ## One-Sentence Summary
 
-Eliglustat is a glucosylceramide synthase (UGCG) inhibitor originally approved for **Gaucher disease type 1**. Among 10 TxGNN-predicted indications in this evidence pack, **Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)** is the only one backed by real literature — **20 PubMed publications** — but none of these papers study eliglustat itself, so the drug-disease link is currently a mechanistic hypothesis rather than demonstrated evidence. (The other 9 candidates, including the top-scoring "autosomal ichthyosis syndrome," have zero clinical trials or literature and remain at Hold/S0.)
+Eliglustat is a glucosylceramide synthase inhibitor (substrate reduction therapy) originally used for long-term treatment of Gaucher disease type 1.
+The TxGNN model predicts it may be effective for **autosomal ichthyosis syndrome with fatal disease course**,
+but currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher disease type 1 *(from known drug class information — not confirmed via Taiwan/EU license text, as none exists; see EU Market Information below)* |
-| Predicted New Indication | Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease) |
-| TxGNN Prediction Score | 96.91% (model rank 24,423) |
-| Evidence Level | L4 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Long-term treatment of adult patients with Gaucher disease type 1 (GD1) who are CYP2D6 poor, intermediate or extensive metabolisers; also paediatric patients aged 6 to <18 years (≥15 kg) with GD1 who are stable on enzyme replacement therapy |
+| Predicted New Indication | Autosomal ichthyosis syndrome with fatal disease course |
+| TxGNN Prediction Score | 98.42% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Eliglustat is a glucosylceramide synthase (UGCG) inhibitor — a substrate reduction therapy originally approved for Gaucher disease type 1, a lysosomal storage disorder caused by glucocerebrosidase deficiency and glycosphingolipid accumulation.
+Eliglustat inhibits glucosylceramide synthase, the first step in glycosphingolipid synthesis. By reducing production of glucosylceramide, it lowers the substrate that accumulates in Gaucher disease. Detailed mechanism of action data is not otherwise available in the data compiled for this report.
 
-The proposed link to polycystic kidney/liver disease is indirect: glycosphingolipid metabolism abnormalities have been discussed in some disease-mechanism literature on cystic epithelial proliferation and lipid signaling in PKD/PLD, which gives a theoretical, distal rationale for a UGCG-pathway drug to be of interest.
+Ichthyoses involve defects in epidermal ceramide and lipid barrier metabolism, so a speculative connection to sphingolipid pathways exists. However, the connection is not established. Glucosylceramide is a precursor of the ceramides that form the skin barrier, so reducing it could plausibly **worsen** barrier function rather than improve it.
 
-However, all 20 retrieved PubMed articles are general clinical guidelines, genetics reviews, and pathophysiology overviews of ADPKD/PLD — none of them mention eliglustat or UGCG inhibition specifically. They were captured because they match the disease term, not because they test the drug. This makes the prediction a research hypothesis worth exploring at the preclinical/mechanistic level, not evidence of a treatment effect.
+The high TxGNN score is a computational prediction. No trials or literature support it, and the mechanistic link should be treated as unproven.
 
 ## Clinical Trial Evidence
 
@@ -61,38 +63,39 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | J Am Soc Nephrol | Genetic overlap and shared pathogenesis between ADPKD and ADPLD, including the genes underlying PKD3-type presentations |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Adv Kidney Dis Health | Genetic spectrum of polycystic kidney/liver disease and resulting phenotypes; ciliary dysfunction central to pathogenesis |
-| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | Lancet | Comprehensive ADPKD overview: cyst growth, hypertension, and extrarenal complications including liver cysts |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | Clinical course of PLD as the most common extrarenal manifestation of ADPKD |
-| [40081770](https://pubmed.ncbi.nlm.nih.gov/40081770/) | 2025 | Review | Biochem Pharmacol | Extracellular matrix and metalloprotease dynamics as therapeutic targets in PKD/PLD cyst progression |
-| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | Annu Rev Pathol | Mechanistic sequence (primary/secondary/tertiary) of hepatic cystogenesis in PLD |
-| [30652979](https://pubmed.ncbi.nlm.nih.gov/30652979/) | 2019 | Review | Curr Opin Gastroenterol | Genetic mechanisms underlying polycystic liver disease |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Guideline | J Hepatol | EASL clinical practice guidelines on management of cystic liver diseases |
-| [28317394](https://pubmed.ncbi.nlm.nih.gov/28317394/) | 2017 | Review | Expert Rev Gastroenterol Hepatol | PLD as an inherited ciliopathy/cholangiopathy; epidemiology and natural history |
-| [37943238](https://pubmed.ncbi.nlm.nih.gov/37943238/) | 2023 | Review | Adv Kidney Dis Health | Extrarenal manifestations and complications of PLD in ADPKD patients |
+Currently no related literature available for this predicted indication.
 
 ## EU Market Information
 
-Eliglustat is currently **not marketed in the EU** (0 authorizations on file), so no product/dosage-form/indication data is available from the regulatory database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003724 (cancelled) | Cerdelga | Not specified | Long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. *(No key warnings, contraindications, or DDI records are currently available for eliglustat in this evidence pack — TFDA label warnings/contraindications are flagged as a blocking data gap.)*
+- **Drug Interactions**: The data compiled for this report lists 100 potential interactions (20 shown in detail). Major-level interactions include:
+  - Abiraterone
+  - Fosamprenavir
+  - Fosaprepitant
+  - Fosphenytoin
+
+  Moderate-level interactions include paclitaxel, codeine, tramadol, chlorpheniramine, ranitidine, nifedipine, afatinib, ethinylestradiol, fluvoxamine, fostamatinib, galantamine, gilteritinib, aliskiren, alprazolam, and ambrisentan. Many of these are consistent with eliglustat being metabolised through CYP2D6 and CYP3A, so co-medication needs careful review.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only predicted indication with any literature support (PKD3/PLD) is backed exclusively by general disease-background reviews and guidelines, not by any study of eliglustat or UGCG inhibition — this is a research hypothesis, not clinical evidence. All other 9 predicted indications have zero clinical trials or literature (L5, Hold).
+The prediction has no supporting clinical trials or literature (Evidence Level L5). The mechanistic link is speculative and may even point in the opposite direction, since reducing glucosylceramide could impair the skin barrier. The EU authorization for the original product is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC label data (warnings, contraindications) — currently a **blocking** data gap (DG001)
-- Preclinical or mechanistic studies directly testing UGCG inhibition (eliglustat) in PKD/PLD models, since existing literature is disease-background only, not drug-specific
-- If pursued, a formal literature/patent search restricted to "eliglustat" + "polycystic kidney/liver disease" or "UGCG" + "PKD" to confirm no prior art exists
+- Preclinical evidence (for example skin or keratinocyte models) showing whether glucosylceramide synthase inhibition helps or harms epidermal barrier function
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC, plus a safety assessment for this patient population
+- Clarification of the EU regulatory status and available formulations
+- A literature and trial search specific to this rare condition
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

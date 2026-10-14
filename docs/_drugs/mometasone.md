@@ -2,7 +2,7 @@
 layout: default
 title: Mometasone
 parent: Medium Evidence (L3-L4)
-nav_order: 401
+nav_order: 415
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,81 +29,75 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Mometasone: From Topical Corticosteroid Use to Primary Cutaneous T-Cell Lymphoma
+# Mometasone: From Asthma to Primary Cutaneous T-Cell Lymphoma
 
 ## One-Sentence Summary
 
-Mometasone is clinically known as a topical/intranasal corticosteroid, though no approved indication record is available in this dataset.
-The TxGNN model predicts it may be effective for **Primary Cutaneous T-Cell Lymphoma (CTCL)**,
-with **no clinical trials** and only **2 case-report-level publications** currently supporting this direction — neither of which directly studies mometasone in CTCL.
-
----
+Mometasone is a corticosteroid, used in the EU as a component of inhaled combination products for the maintenance treatment of asthma.
+The TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**,
+but there are currently **no registered clinical trials** and only **2 case reports** in the literature, so the prediction rests largely on the model and general pharmacological reasoning.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this dataset. Mometasone is generically known as a mid-potency topical/inhaled corticosteroid (e.g., dermatitis, allergic rhinitis, asthma); no drug-specific indication text or MOA was retrievable. |
-| Predicted New Indication | Primary Cutaneous T-Cell Lymphoma |
+| Original Indication | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists |
+| Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 99.36% |
 | Evidence Level | L4 |
-| Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 4 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for mometasone is not available (Data Gap). Based on known information, mometasone belongs to the topical corticosteroid class; its anti-inflammatory efficacy in common dermatologic and allergic conditions is well established, but the drug-specific MOA record needed to formally assess mechanistic relevance to CTCL is missing.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mometasone acts on the glucocorticoid receptor (NR3C1). Activating this receptor produces anti-inflammatory and immunosuppressive effects, including reduced T-cell activation and cytokine production.
 
-The rationale linking mometasone to primary cutaneous T-cell lymphoma is class-based rather than drug-specific: topical corticosteroids such as clobetasol and triamcinolone are guideline-recommended first-line treatments for early-stage mycosis fungoides (the most common CTCL subtype), acting through anti-inflammatory effects and induction of apoptosis in malignant T cells. Since mometasone is a mid-potency member of the same drug class, mechanistic extrapolation is plausible in principle.
+Primary cutaneous T-cell lymphomas, such as mycosis fungoides, are T-cell malignancies of the skin. Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, so a biological link is plausible. Mometasone is also available as a topical product (for example, Elocon®), which fits skin-directed use.
 
-However, this remains an indirect, class-level inference rather than evidence specific to mometasone. One of the two retrieved publications actually reports mometasone **failing** to control a related lymphoproliferative skin condition (cutaneous pseudolymphoma) before the patient was switched to tapinarof, and the other publication does not mention mometasone at all. This weakens rather than strengthens the direct evidentiary basis for this prediction.
-
----
+There are important caveats. The data compiled for this report do not document mometasone use specifically in this condition. The two literature items are case reports: one describes a patient with pseudolymphoma (a benign mimic of lymphoma) in whom mometasone failed, and the other describes childhood mycosis fungoides. The EU authorizations are for inhaled asthma products, not topical ones.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case Report | Proceedings (Baylor University Medical Center) | Refractory cutaneous pseudolymphoma (T-cell lymphoproliferative, CTCL-mimicking) case that **failed** treatment with mometasone and tacrolimus before responding to tapinarof. |
-| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case Report | Journal of Cutaneous Pathology | Describes a pediatric CD8+CD56+ mycosis fungoides (CTCL subtype) case; illustrative of disease presentation but does not evaluate mometasone treatment. |
-
----
+| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case report | Proceedings (Baylor University. Medical Center) | Refractory cutaneous pseudolymphoma, a benign mimic of cutaneous lymphoma. Mometasone and tacrolimus were unsuccessful, and the patient was then treated with tapinarof. |
+| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case report | Journal of Cutaneous Pathology | An 11-year-old boy with CD8+CD56+ cytotoxic-phenotype mycosis fungoides, with a 7-year history of slowly progressive disease. |
 
 ## EU Market Information
 
-No marketing authorizations on file — this drug is currently not marketed according to the available regulatory data.
+All four authorizations below are cancelled.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005067 | Atectura Breezhaler | Not specified | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists. |
+| EMEA/H/C/005516 | Bemrist Breezhaler | Not specified | Maintenance treatment of asthma in adults and adolescents 12 years of age and older not adequately controlled with inhaled corticosteroids and inhaled short-acting beta2-agonists. |
+| EMEA/H/C/005061 | Enerzair Breezhaler | Not specified | Maintenance treatment of asthma in adults not adequately controlled with a maintenance combination of a long-acting beta2 agonist and a high dose of an inhaled corticosteroid who had one or more exacerbations in the previous year. |
+| EMEA/H/C/005518 | Zimbus Breezhaler | Not specified | Maintenance treatment of asthma in adults whose disease is not adequately controlled. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Note: TFDA label warnings/contraindications for this drug could not be retrieved (blocking data gap, DG001) and safety evaluation (Stage S1) cannot proceed until this is resolved.
+- **Drug Interactions**: The interaction query completed and returned one pharmacological entry, the glucocorticoid receptor (NR3C1), which is mometasone's target rather than an interacting drug. No drug-drug interactions with a defined severity level were identified.
 
----
+Please refer to the SmPC for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L4, supported only by two case reports that are either unrelated to mometasone treatment or report treatment failure, with no clinical trials specific to mometasone in CTCL. Combined with a blocking data gap on TFDA safety labeling and the drug currently being unmarketed, there is insufficient evidence and safety data to advance this candidate.
+The prediction score is high, but there are no registered clinical trials and the only literature is two case reports, neither showing a benefit of mometasone in cutaneous T-cell lymphoma. All EU authorizations for the drug are cancelled, and the approved products are inhaled asthma combinations, not skin-directed formulations. The evidence is at the L4 level and supports further research rather than development.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings, contraindications) — currently a blocking data gap (DG001)
-- Drug-specific mechanism of action data for mometasone (DG002)
-- Literature or trial evidence directly evaluating mometasone (not just the corticosteroid class) in CTCL/mycosis fungoides
-- Clarification of regulatory/market pathway given current "not marketed" status
-
-*Note: Nine additional predicted indications (rank 2–10, e.g., Crohn's colitis, myelodysplastic syndrome subtypes) were also generated but carry L5 evidence (model prediction only, no supporting literature or trials) and are recommended for Hold without further action at this time.*
+- Mechanism of action data to support the mechanistic-link analysis
+- Warnings and contraindications from the SmPC, which are required for safety screening
+- Literature or trial data on topical mometasone in early-stage mycosis fungoides or other cutaneous T-cell lymphomas, compared with other topical corticosteroids
+- Assessment of route and formulation compatibility, since the authorized products are inhaled and a topical formulation would be needed
+- Clarification of the regulatory status given that all authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

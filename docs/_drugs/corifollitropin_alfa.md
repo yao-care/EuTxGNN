@@ -2,7 +2,7 @@
 layout: default
 title: Corifollitropin Alfa
 parent: AI Predictions (L5)
-nav_order: 156
+nav_order: 160
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,70 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Corifollitropin Alfa: From Ovarian Stimulation to Gastroduodenitis
+# Corifollitropin alfa: From Controlled Ovarian Stimulation to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Corifollitropin alfa is a long-acting recombinant FSH (follicle-stimulating hormone) analogue used for controlled ovarian stimulation in assisted reproductive technology (ART), designed to replace daily FSH injections during the early follicular phase.
-The TxGNN model predicts it may be effective for **Gastroduodenitis**, yet **no clinical trials** and **no publications** currently support this direction.
-Across all 10 predicted indications in this batch, Evidence Level L5 applies uniformly — representing model-only predictions with no clinical corroboration.
-
----
+Corifollitropin alfa is a long-acting follicle-stimulating hormone (FSH) agonist, originally used for controlled ovarian stimulation in assisted reproduction and for hypogonadotropic hypogonadism in adolescent males.
+The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Controlled ovarian stimulation (ART) — no Taiwan regulatory approval on file |
+| Original Indication | Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist in women in an Assisted Reproductive Technology (ART) program; hypogonadotropic hypogonadism in adolescent males (14 to under 18 years), in combination with hCG |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.65% |
 | Evidence Level | L5 |
-| Market Status (Taiwan) | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the current database query. Based on published pharmacology, Corifollitropin alfa is a long-acting FSH analogue — a fusion protein combining recombinant FSH-β with the C-terminal peptide of hCG-β — that acts as an FSH receptor (FSHR) agonist. It sustains supraphysiological FSH levels for approximately one week per single subcutaneous injection, driving multi-follicular development during controlled ovarian stimulation. Its primary pharmacological target, FSHR, is expressed almost exclusively in ovarian granulosa cells and testicular Sertoli cells.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, corifollitropin alfa is a long-acting FSH agonist that acts on FSH receptors in gonadal tissue. Its efficacy in ovarian stimulation and in hypogonadotropic hypogonadism is established.
 
-Gastroduodenitis is an inflammatory condition of the stomach and duodenum, driven predominantly by *Helicobacter pylori* infection, NSAID use, or acid hypersecretion. FSH receptors are essentially absent from gastroduodenal mucosal tissue, and the FSH/FSHR/cAMP signalling cascade has no established intersection with the mechanisms underlying gastroduodenal inflammation.
+For gastroduodenitis, however, there is no credible mechanistic link. Inflammation of the gastroduodenal mucosa is not known to depend on FSH signaling. The high TxGNN score (99.65%) is a model-derived, network-based prediction only. It has no support from trials or literature, so it should be treated as a hypothesis-generating signal, not as evidence of benefit.
 
-The high TxGNN score (99.65%) most likely reflects multi-step indirect edges in the knowledge graph — for example, pathways connecting inflammation → cytokines → hormonal regulation → FSH axis — rather than a direct mechanistic relationship. This pattern is consistent with graph noise in sparsely connected regions of the knowledge graph and does not translate into a biologically plausible repurposing hypothesis. This same assessment applies broadly to the other nine indications in this batch: migraine (ranks 2, 4, 8), peptic ulcer disease (rank 3), Raynaud disease (rank 5), pulmonary hypertension (rank 6), kyphoscoliotic heart disease (rank 7), atrophoderma vermiculata (rank 9), and peptic esophagitis (rank 10) — all conditions where FSH receptor biology has no established therapeutic role.
-
----
+Other top-ranked predictions show the same pattern. These include migraine disorder, peptic ulcer disease, Raynaud disease, pulmonary hypertension and peptic esophagitis. None has a supporting mechanism or any clinical evidence. For some, such as migraine, Raynaud disease and pulmonary hypertension, the hormonal shifts and thromboembolic risk associated with gonadotropin stimulation raise potential safety concerns rather than suggesting benefit.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001106 (cancelled) | Elonva | Not specified | Controlled Ovarian Stimulation (COS) in combination with a GnRH antagonist for the development of multiple follicles in women participating in an Assisted Reproductive Technology (ART) program. Elonva is indicated for... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
----
+Note that no drug interaction records were found, and no contraindications from the knowledge graph were identified for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications for Corifollitropin alfa in this batch are classified at Evidence Level L5 — model prediction only — with zero supporting clinical trials or directly relevant literature across the entire candidate set. The top-ranked prediction (gastroduodenitis) has no plausible mechanistic basis: FSH receptor expression is confined to reproductive tissues and does not intersect with the pathophysiology of any of the 10 predicted diseases.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking FSH receptor agonism to gastroduodenitis. The only EU authorization is cancelled, and safety data are incomplete.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA and safety data from DrugBank API (DB09066) and TFDA SmPC to complete the baseline drug profile before any further evaluation
-- Conduct a mechanistic plausibility pre-screen for all 10 predicted indications prior to committing additional evidence collection resources
-- Flag and filter 20 PubMed records retrieved for the "migraine with or without aura susceptibility" indication (rank 8): all articles address epilepsy genetics and neuropharmacology and are unrelated to Corifollitropin alfa — these are false positives from the current evidence collection system
-- Consider deprioritising this candidate in the current repurposing pipeline; resources would be better directed toward candidates with L3 or higher evidence levels and demonstrable mechanistic links to their predicted indications
+- Mechanism of action data and a credible biological rationale linking FSH receptor signaling to gastroduodenal inflammation
+- Preclinical or mechanistic studies, as no clinical data currently exist
+- Safety information from the SmPC (warnings and contraindications), which is currently missing
+- Clarification of the regulatory situation, given that the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

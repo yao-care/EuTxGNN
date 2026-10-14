@@ -2,7 +2,7 @@
 layout: default
 title: Erlotinib
 parent: Medium Evidence (L3-L4)
-nav_order: 232
+nav_order: 239
 evidence_level: L4
 indication_count: 10
 ---
@@ -33,91 +33,79 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Erlotinib is an EGFR (HER1) tyrosine kinase inhibitor most widely known as an anticancer agent (per attached literature, e.g. PMID 32164971).
-> The TxGNN model predicts it may be effective for **Ewing Sarcoma**,
-> currently supported by **1 clinical trial** (withdrawn, 0 enrolled) and **2 publications**, with no completed trial data confirming efficacy.
-
----
+Erlotinib is an EGFR tyrosine kinase inhibitor originally used to treat non-small cell lung cancer (NSCLC) and metastatic pancreatic cancer.
+The TxGNN model predicts it may be effective for **Ewing sarcoma**, but only **1 clinical trial** (withdrawn, 0 patients enrolled) and **2 publications** (one review, one preclinical study) are linked to this prediction, so the evidence is indirect and preclinical.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No regulatory record available in this evidence pack (`taiwan_regulatory.licenses` empty; general anticancer/NSCLC use noted only in cross-referenced literature, not sourced from regulatory data) |
-| Predicted New Indication | Ewing Sarcoma |
+| Original Indication | Non-small cell lung cancer (NSCLC), including switch maintenance and after failure of prior chemotherapy; metastatic pancreatic cancer in combination with gemcitabine |
+| Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 95.77% |
 | Evidence Level | L4 |
-| EU Market Status | Not Marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Research Question (Decision Stage S1) |
-
----
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap DG002, severity High). Based on information embedded in the evidence pack's rationale and cross-referenced literature, Erlotinib is an EGFR (HER1) tyrosine kinase inhibitor (EGFR-TKI) whose known anticancer activity operates by blocking EGFR-driven proliferation signaling.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, erlotinib is an orally available EGFR (HER1) tyrosine kinase inhibitor. Its efficacy in EGFR-driven NSCLC is established, and mechanistically it may be applicable to other tumours in which EGFR/ErbB signalling plays a role.
 
-The system's own repurposing rationale for this prediction states: some Ewing sarcoma tumors express EGFR/HER3, so an EGFR-TKI could theoretically show activity. However, Ewing sarcoma is primarily driven by the EWSR1-FLI1 fusion oncoprotein rather than EGFR signaling, making this mechanistic link indirect and relatively weak rather than a primary driver-pathway match.
-
-Consistent with this weak/indirect link, the only related clinical trial identified (NCT02689336) was a genomically-targeted pediatric basket trial requiring an EGFR/ERBB2/JAK2 mutation for eligibility — it was withdrawn with zero enrollment, so no actual efficacy or safety signal exists yet. The supporting literature is likewise general (pediatric oncology review; a xenograft evaluation of a related EGFR/HER3-targeting combination), not Ewing-sarcoma-specific clinical evidence.
-
----
+EGFR/ErbB signalling has been explored in paediatric sarcomas. A preclinical study tested the anti-HER3 antibody patritumab, with or without erlotinib, combined with standard cytotoxic agents in paediatric sarcoma xenograft models. This offers a plausible but indirect link between the original and predicted indications. No clinical efficacy data exist for erlotinib in Ewing sarcoma, and the one related trial was withdrawn before enrolling anyone.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02689336](https://clinicaltrials.gov/study/NCT02689336) | Phase 2 | Withdrawn | 0 | Genomically-targeted pediatric basket trial combining erlotinib + temozolomide for relapsed/refractory solid tumors with EGFR/ERBB2/JAK2V617F mutations; withdrawn before enrollment, no outcome data generated. |
-
----
+| [NCT02689336](https://clinicaltrials.gov/study/NCT02689336) | Phase 2 | Withdrawn | 0 | Erlotinib plus temozolomide in relapsed/refractory paediatric solid tumours with EGFR, ERBB2 or JAK2 V617F mutations. No patients enrolled, so no efficacy or safety data; not specific to Ewing sarcoma. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29080385](https://pubmed.ncbi.nlm.nih.gov/29080385/) | 2018 | Cohort/Trial evaluation | Pediatric blood & cancer | Evaluated patritumab (anti-HER3) with/without erlotinib combined with standard cytotoxics (cisplatin, vincristine, cyclophosphamide) in pediatric sarcoma xenograft models expressing EGFR/HER3. |
-| [26835334](https://pubmed.ncbi.nlm.nih.gov/26835334/) | 2014 | Review | Translational pediatrics | General review of advances in pediatric cancer treatment; discusses risk-adapted therapy approaches, not Ewing-sarcoma/erlotinib-specific data. |
-
----
+| [29080385](https://pubmed.ncbi.nlm.nih.gov/29080385/) | 2018 | Preclinical study | Pediatric Blood & Cancer | Patritumab with or without erlotinib combined with cisplatin, vincristine and cyclophosphamide, tested in paediatric sarcoma xenograft models |
+| [26835334](https://pubmed.ncbi.nlm.nih.gov/26835334/) | 2014 | Review | Translational Pediatrics | General review of advances in paediatric cancer treatment and risk-adapted therapy; not specific to erlotinib |
 
 ## EU Market Information
 
-Currently no EU marketing authorization records available (`market_status`: Not marketed / Not Marketed; `total_licenses`: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000618 | Tarceva | Not specified | Non-small cell lung cancer (NSCLC) Tarceva is also indicated for switch maintenance treatment in patients with locally adv... |
 
----
+This authorization is recorded as cancelled.
 
 ## Cytotoxicity
 
-Erlotinib is classified here as antineoplastic based on its EGFR-TKI mechanism referenced in the repurposing rationale and cross-referenced literature (all predicted indications in this pack are oncology-related).
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (EGFR-TKI), not conventional cytotoxic chemotherapy |
+| Cytotoxicity Classification | Targeted therapy (EGFR tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; the literature highlights interstitial lung disease, skin toxicity and dry eye as adverse effects to watch |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all flagged as data gaps in this evidence pack — DG001, severity Blocking.)
+- **Contraindication signals from the knowledge graph (not label text)**: The TxGNN knowledge graph links erlotinib with contraindication edges for many conditions, including liver disease, kidney disease, hepatorenal syndrome, interstitial lung disease, pulmonary fibrosis, thrombocytopenia, blood coagulation disease, stroke and cerebrovascular disorders, myocardial infarction and coronary artery disease, hyperbilirubinemia (including Gilbert syndrome), hemolytic anemia, corneal ulcer, and adult acute respiratory distress syndrome. These are model-derived signals and need confirmation against the official label.
+- **Drug Interactions**: 100 interactions were recorded. **Major** interactions are with acid-suppressing proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole). **Moderate** interactions include H2 blockers (famotidine, ranitidine, cimetidine, nizatidine), antacids (magnesium oxide, aluminum hydroxide, calcium carbonate, magaldrate), dexamethasone, clarithromycin, miconazole, naltrexone, eliglustat and rolapitant.
+- **Literature-reported adverse effects**: interstitial pneumonitis/lung disease, dry eye, and skin reactions (including eruptive nevi).
 
----
+Please refer to the SmPC for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question (Decision Stage S1)**
+**Decision: Hold**
 
 **Rationale:**
-- Evidence level is L4 (mechanistic/preclinical only) — the sole related trial (NCT02689336) was withdrawn with zero enrollment, and the mechanistic link (EGFR/HER3 expression in a subset of Ewing sarcoma) is indirect since EWSR1-FLI1 fusion, not EGFR, is the primary disease driver.
+The Ewing sarcoma prediction rests on a high model score, one withdrawn trial with no participants, and indirect preclinical data. There is no clinical evidence of benefit, and the EU authorization for Tarceva is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC full prescribing information (warnings, contraindications, DDI) — currently blocking (DG001), required before any S1 safety pre-assessment can proceed
-- Complete mechanism of action (MOA) documentation (DG002)
-- A newly enrolled, non-withdrawn clinical trial or biomarker-selected cohort in EGFR/HER3-expressing Ewing sarcoma to generate actual efficacy/safety signal
-- EU/Taiwan regulatory and market status confirmation, since no licenses are currently on record for this drug
+- Ewing sarcoma-specific preclinical data showing EGFR dependence and erlotinib activity
+- Official mechanism of action data and the full SmPC (warnings and contraindications), which are currently missing
+- Review of the knowledge-graph contraindication signals, especially hepatic, renal and interstitial lung disease, in a paediatric/young adult population
+- A feasible clinical study design, since the only related trial was withdrawn
+- Clarification of regulatory and supply status, given the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

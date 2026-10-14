@@ -2,7 +2,7 @@
 layout: default
 title: Sargramostim
 parent: AI Predictions (L5)
-nav_order: 527
+nav_order: 547
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sargramostim: From No EU-Authorized Indication to Drug-Induced Osteoporosis
+# Sargramostim: From Haematopoietic Sub-syndrome of Acute Radiation Syndrome to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Sargramostim (recombinant GM-CSF, DrugBank DB00020) currently holds **no marketing authorization in the EU**, and no established original indication is recorded in this evidence pack.
-The TxGNN model's top-ranked prediction is **Drug-Induced Osteoporosis**, but this association is supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic review argues the biology may actually run in the opposite direction.
-Evidence level is **L5** (model prediction only) with a **Hold** recommendation.
+Sargramostim is a myeloid growth factor (GM-CSF) that was authorised in the EU for patients acutely exposed to myelosuppressive doses of radiation (Haematopoietic Sub-syndrome of Acute Radiation Syndrome, H-ARS).
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but **no clinical trials and no publications** currently support this direction, so it rests on model prediction alone.
 
 ---
 
@@ -43,49 +42,40 @@ Evidence level is **L5** (model prediction only) with a **Hold** recommendation.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no EU marketing authorization on record for this drug |
-| Predicted New Indication | Drug-Induced Osteoporosis |
+| Original Indication | Treatment of patients of all ages acutely exposed to myelosuppressive doses of radiation with Haematopoietic Sub-syndrome of Acute Radiation Syndrome (H-ARS) |
+| Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 98.99% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for sargramostim is not available in this evidence pack. Based on general pharmacology, sargramostim is a recombinant human GM-CSF that stimulates proliferation and differentiation of granulocyte and macrophage precursor cells in the bone marrow, primarily to accelerate neutrophil recovery.
+Currently, detailed mechanism of action data is not available. Based on known information, sargramostim is a recombinant GM-CSF, a growth factor acting on myeloid lineage cells. Its efficacy in restoring blood-cell production after radiation-induced myelosuppression underlies its original indication, and mechanistically it may be relevant to other conditions involving myeloid cells.
 
-The TxGNN-generated mechanistic rationale for this specific prediction is **not supportive**: GM-CSF's known biology acts on the granulocyte/macrophage lineage and has only an indirect, directionally uncertain relationship to osteoclast differentiation (the RANKL/OPG axis). Some published evidence actually suggests GM-CSF may **promote** osteoclastic bone resorption rather than protect against it — the opposite of what would be needed to treat drug-induced osteoporosis.
-
-Given the absence of a clear mechanistic basis, plus zero supporting clinical trials or literature, this candidate appears to be a low-confidence association generated purely from knowledge-graph embeddings rather than a biologically grounded repurposing hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
+For drug-induced osteoporosis, the only conceivable link is that GM-CSF acts on myeloid cells, including osteoclast precursors, so a biological connection to bone remodelling is possible. However, the direction of the effect (bone-resorptive versus protective) is not established, and no supporting data were compiled for this report. The high TxGNN score (0.990) should therefore be treated as a hypothesis, not as evidence of benefit. The original indication (acute radiation haematopoietic injury) and the predicted indication (bone loss caused by medicines) are clinically unrelated.
 
 ---
 
 ## EU Market Information
 
-Sargramostim currently has no EU marketing authorization on record (0 licenses). No product, dosage form, or approved indication data is available in this dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006411 (cancelled) | Imreplys | Not specified | Treatment of patients of all ages acutely exposed to myelosuppressive doses of radiation with Haematopoietic Sub-syndrome of Acute Radiation Syndrome (H-ARS)... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interactions in total (the first 20 were reviewed here), all rated **Moderate**. Examples include:
+  - Radiopharmaceuticals and radioimmunotherapies: iobenguane (I-131), fludeoxyglucose (18F), ibritumomab tiuxetan, tositumomab, tositumomab (I-131)
+  - Cytotoxic and antineoplastic agents: paclitaxel, mercaptopurine, azacitidine, bendamustine, arsenic trioxide, trimetrexate, altretamine, asparaginase (E. coli)
+  - Targeted and immune-modulating agents: abemaciclib, acalabrutinib, avapritinib, aldesleukin, alemtuzumab, belantamab mafodotin, levamisole
 
-*(Note: TFDA-equivalent warnings/contraindications and detailed MOA are flagged as data gaps in this evidence pack — see Next Steps.)*
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -94,13 +84,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The evidence base for this indication consists of a single TxGNN embedding score with no supporting clinical trials or literature, and the drug's own mechanistic rationale argues against biological plausibility. Additionally, sargramostim is not currently authorized in the EU, so no regulatory or real-world use data exists to cross-validate the hypothesis.
+The prediction for drug-induced osteoporosis is supported only by the model score, with no clinical trials, no literature and no established mechanism. In addition, the only EU authorisation is cancelled, which limits near-term development in the EU.
 
 **To proceed, the following is needed:**
-- Original indication and mechanism of action (MOA) data for sargramostim (currently flagged as data gaps: DG001, DG002)
-- Preclinical or mechanistic studies specifically addressing GM-CSF's effect on osteoclast/osteoblast balance, given conflicting directionality in existing literature
-- TFDA/SmPC-equivalent safety labeling (warnings, contraindications) before any S1 safety pre-assessment can proceed
-- If pursuing repurposing work on this drug, consider prioritizing the **cervical neuroblastoma** candidate (rank 6) instead — it has an L3 evidence level with two completed clinical trials (including a completed Phase 3 GM-CSF mucositis trial) and a coherent mechanistic link to established GM-CSF/dinutuximab immunotherapy protocols in neuroblastoma.
+- A systematic literature search on GM-CSF/sargramostim and bone metabolism, including the direction of effect on osteoclasts
+- Preclinical studies in models of drug-induced bone loss
+- Mechanism of action data and warnings/contraindications from the product information
+- Clarification of route and formulation availability, given the cancelled authorisation
+- A review of the other predicted indications; none currently has stronger support. Cervical neuroblastoma (score 96.2%) is linked to two trials, but both test GM-CSF in different settings (a Ras-peptide vaccine in adult solid tumours, and mouthwash for mucositis) and do not address the predicted disease.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

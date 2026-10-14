@@ -2,7 +2,7 @@
 layout: default
 title: Pegvaliase
 parent: AI Predictions (L5)
-nav_order: 460
+nav_order: 475
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,55 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pegvaliase: From Phenylketonuria (PKU) to Diabetic Retinopathy
+# Pegvaliase: From Phenylketonuria to Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Pegvaliase is a PEGylated phenylalanine ammonia-lyase (PAL) enzyme therapy originally used to lower blood phenylalanine levels in **phenylketonuria (PKU)**. The TxGNN model predicts it may be effective for **Diabetic Retinopathy**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure computational signal with no independent evidence.
-
----
+Pegvaliase (Palynziq) is a PEGylated enzyme therapy originally used to treat phenylketonuria (PKU) in patients whose blood phenylalanine remains uncontrolled despite prior management.
+The TxGNN model predicts it may be effective for **diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Phenylketonuria (PKU) — noted in the mechanistic rationale text; the structured `original_indications` and `original_moa` fields are marked as Data Gap in this evidence pack |
-| Predicted New Indication | Diabetic Retinopathy |
+| Original Indication | Treatment of patients with phenylketonuria (PKU) aged 16 years and older who have inadequate blood phenylalanine control (levels greater than 600 micromol/l) despite prior management with available treatment options |
+| Predicted New Indication | Diabetic retinopathy |
 | TxGNN Prediction Score | 99.17% |
-| Evidence Level | L5 (model prediction only) |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured evidence pack (flagged as a High-severity data gap, DG002). Based on the mechanistic notes attached to this prediction, pegvaliase acts exclusively as an enzyme that clears systemic phenylalanine — its entire pharmacological role is confined to phenylalanine catabolism, which underlies its approval for PKU.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Pegvaliase is known to be a PEGylated phenylalanine ammonia lyase that breaks down phenylalanine, and its use in PKU is to lower blood phenylalanine levels.
 
-Diabetic retinopathy, by contrast, is driven by a completely different pathway: chronic hyperglycemia activates the polyol pathway, upregulates VEGF, thickens the microvascular basement membrane, and increases oxidative stress. There is no known point of mechanistic overlap between phenylalanine metabolism and these hyperglycemia-driven processes.
+No mechanistic link to diabetic retinopathy is evident. The data compiled for this report show no pathway connecting phenylalanine depletion to diabetic microvascular damage. The high TxGNN score (0.992) is a knowledge-graph prediction only, and any proposed link would be speculative.
 
-The evidence pack's own rationale is explicit on this point: the high TxGNN score (0.9917) is most likely an artifact of semantic proximity within the knowledge graph — both PKU and diabetic retinopathy/diabetic cataract sit in a broadly-labeled "metabolic disease" neighborhood — rather than a genuine pharmacological signal. This same pattern repeats across ranks 2–10 in this evidence pack (severe NPDR, diabetic cataract, nuclear/cortical/mature/immature cataract, etc.), which further suggests the model is picking up a metabolic-disease cluster effect rather than a specific, drug-relevant mechanism. Notably, one historical observation cited in the rationale — that untreated PKU has rarely been associated with cataract as a *disease consequence* — cannot be reversed to imply that treating phenylalanine levels would confer a *therapeutic* benefit in non-PKU cataract or retinopathy.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## EU Market Information
-
-No marketing authorizations are on record for pegvaliase in this dataset (`total_licenses = 0`, market status: Not marketed / Not marketed). No authorization number, product name, or approved indication text is available to tabulate.
-
----
+The other top predictions are all eye conditions: severe nonproliferative diabetic retinopathy, diabetic cataract, nuclear senile cataract, cortical cataract, tetanic cataract, diabetes mellitus type 2 associated cataract, mature cataract, craniostenosis cataract and immature cataract. Their scores (0.990–0.992) are nearly identical, and several are exactly the same. This suggests the predictions come from shared graph features rather than disease-specific evidence. None has any supporting trial or publication, and the subtypes largely duplicate the main diabetic retinopathy and diabetic cataract predictions.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Drug Interactions**: The interaction screen found 16 interactions, all rated Moderate. They mainly involve other PEGylated or biologic products and a few other drugs:
+- PEGylated products: pegloticase, pegaspargase, pegfilgrastim, peginesatide, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon beta-1a, pegvisomant, pegademase, pegaptanib (ophthalmic), certolizumab pegol
+- Coagulation factors: recombinant antihemophilic factor, human coagulation factor IX
+- Others: liposomal doxorubicin, medroxyprogesterone acetate, naloxegol
 
-*(Note: all structured safety fields — key warnings, contraindications, and drug-drug interactions — are marked as Data Gap in this evidence pack. This is flagged as a **Blocking** gap in `meta.data_gaps` (DG001): TFDA label warnings/contraindications have not yet been retrieved, and per the evaluation workflow this candidate cannot proceed to the S1 safety pre-screen until that gap is closed.)*
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Every predicted indication in this evidence pack (ranks 1–10) sits at Evidence Level L5 — a model score with zero supporting clinical trials or literature — and the accompanying mechanistic analysis argues against, rather than for, biological plausibility. Combined with a Blocking data gap on TFDA label warnings/contraindications, this candidate does not currently meet the bar to advance past initial screening.
+The prediction has no supporting clinical trials or literature (Evidence Level L5), and no plausible mechanistic link between phenylalanine depletion and diabetic retinopathy has been identified. The EU authorization for the original indication is also cancelled.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for pegvaliase from DrugBank or the SmPC (currently Data Gap, DG002)
-- TFDA/EMA label warnings and contraindications to complete the S1 safety pre-screen (currently Blocking gap, DG001)
-- Independent preclinical or mechanistic evidence linking phenylalanine metabolism (or PAL enzyme activity) to hyperglycemia-driven retinal/lens pathology, before any further investment in this candidate
-- If pursued, re-screening against a broader disease set to determine whether the "metabolic disease cluster" pattern seen across ranks 1–10 reflects a genuine signal or a knowledge-graph artifact
+- Mechanism of action data, to assess whether any biological link to diabetic retinal disease exists
+- Warnings and contraindications from the SmPC, which are required for safety screening and are currently missing
+- Preclinical or literature evidence supporting a role in diabetic retinopathy
+- Assessment of route and formulation compatibility for ocular or diabetic use
+- Clarification of why the EU authorization was cancelled and of the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

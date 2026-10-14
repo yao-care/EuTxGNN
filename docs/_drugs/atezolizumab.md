@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Atezolizumab
-parent: High Evidence (L1-L2)
-nav_order: 65
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 67
+evidence_level: L5
 indication_count: 10
 ---
 
 # Atezolizumab
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,120 +29,78 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Atezolizumab: From Bladder Urothelial Carcinoma to Prostatic Urethra Urothelial Carcinoma
+# Atezolizumab: From Urothelial Carcinoma to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-Atezolizumab is a PD-L1 checkpoint inhibitor immunotherapy globally approved for multiple cancers including urothelial carcinoma, though it currently holds no Taiwan marketing authorization.
-The TxGNN model predicts it may be effective for **Prostatic Urethra Urothelial Carcinoma** as its top-ranked new indication,
-with **2 clinical trials** supporting this direction through biological equivalence with anatomically adjacent urothelial carcinoma subtypes.
-
----
+Atezolizumab is a PD-L1-blocking antibody, originally used to treat urothelial carcinoma, lung cancers (NSCLC and small cell), triple-negative breast cancer and hepatocellular carcinoma.
+The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**, but only **1 early-phase clinical trial** (a broad Phase 1b study) and **no publications** currently support this specific direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No Taiwan-registered indications (globally: urothelial carcinoma, NSCLC, TNBC, hepatocellular carcinoma) |
-| Predicted New Indication | Prostatic Urethra Urothelial Carcinoma |
+|------|------|
+| Original Indication | Locally advanced or metastatic urothelial carcinoma (after prior platinum-containing chemotherapy or cisplatin-ineligible, PD-L1 ≥ 5%) |
+| Predicted New Indication | Prostatic urethra urothelial carcinoma |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L3 (as rated in the data compiled for this report; see note below) |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
----
+*Note on evidence level:* The linked trial is a Phase 1b study. Under the standard level definitions it would sit closer to L4/L5, because there are no completed Phase 2/3 RCTs and no observational or systematic review data for this indication. The L3 figure is the grade assigned in the compiled data, and I would treat it as an upper bound.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data from DrugBank is not available (Data Gap DG002). Based on established clinical knowledge, Atezolizumab is a humanised monoclonal antibody that selectively binds PD-L1 (Programmed Death-Ligand 1), blocking its interaction with both PD-1 and B7.1 receptors. This restores cytotoxic T-cell activity within the tumour microenvironment. The mechanism is particularly potent in tumours with high PD-L1 expression — a hallmark of the urothelial carcinoma family regardless of anatomical site.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, atezolizumab is a monoclonal antibody that blocks PD-L1, which restores T-cell activity against tumours. Its efficacy in urothelial carcinoma is already established, and mechanistically it may be applicable to urothelial tumours arising in the prostatic urethra.
 
-Prostatic urethra urothelial carcinoma is an anatomical subsite within the urothelial carcinoma spectrum. Bladder urothelial carcinoma and prostatic urethral involvement share identical cellular origin (transitional epithelium), equivalent PD-L1 overexpression profiles, and frequently co-exist in non-muscle invasive bladder cancer (NMIBC). The prostatic urethra is one of the most common sites of NMIBC extension, meaning the BCG-unresponsive NMIBC population studied in Phase 2 (NCT02844816) very likely included patients with prostatic urethral disease.
+The prostatic urethra is lined by urothelium, so tumours there are biologically close to bladder urothelial carcinoma. This anatomical and histological similarity is the most likely reason the model gives a very high score. The score reflects similarity to the approved indication and is not clinical evidence in itself.
 
-The combination of a completed Phase 2 trial in the directly adjacent disease population, near-perfect TxGNN prediction score (99.98%), and mechanistic equivalence across the urothelial carcinoma family makes this prediction biologically sound. The primary uncertainty is not biological plausibility but rather the absence of a trial specifically enrolling prostatic urethra urothelial carcinoma as a defined endpoint.
-
----
+The only linked trial tests atezolizumab as a combination partner in a broad genitourinary tumour population. It provides no data specific to prostatic urethra disease.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | Phase 2 | Completed | 172 | Atezolizumab monotherapy in BCG-unresponsive recurrent/refractory NMIBC; immunotherapy may help the body's immune system attack cancer and interfere with tumour cell growth and spread |
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1b | Active, Not Recruiting | 914 | Cabozantinib ± atezolizumab in multiple solid tumours including advanced urothelial carcinoma (bladder, renal pelvis, ureter, urethra), RCC, CRPC, NSCLC, TNBC, and ovarian cancer; safety, tolerability, preliminary efficacy and pharmacokinetics assessment |
+|---------|------|------|------|---------|
+| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1 | Active, not recruiting | 914 | Cabozantinib alone or with atezolizumab in locally advanced or metastatic solid tumours, including urothelial carcinoma (bladder, renal pelvis, ureter, urethra), RCC, CRPC, NSCLC and TNBC. Assesses safety, tolerability, preliminary efficacy and PK. Results were not supplied. |
 
----
+## EU Market Information
 
-## Literature Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004143 | Tecentriq | Not specified | Urothelial carcinoma as monotherapy after prior platinum-containing chemotherapy or in cisplatin-ineligible patients with PD-L1 ≥ 5%; early-stage and advanced NSCLC... |
 
-Currently no related literature available for Prostatic Urethra Urothelial Carcinoma.
-
----
-
-## Taiwan Market Information
-
-Atezolizumab currently has no marketing authorization in Taiwan (0 registered licenses). No approved product records are available from TFDA. Please refer to the originator's (Roche/Genentech) global SmPC (Tecentriq) for complete product information.
-
----
+The authorization status is "cancelled", so there is currently no valid EU marketing authorization in the data compiled for this report.
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Immunotherapy — PD-L1 Checkpoint Inhibitor (monoclonal antibody; non-cytotoxic) |
-| Myelosuppression Risk | Low (immune-mediated haematological events are uncommon; not associated with the typical myelosuppression of conventional cytotoxics) |
-| Emetogenicity Classification | Minimal (not associated with clinically significant emetogenicity) |
-| Monitoring Items | Liver function tests (ALT/AST/bilirubin), thyroid function (TSH, free T4), adrenal function, fasting glucose, CBC with differential, urinalysis; close monitoring for immune-related adverse events (irAEs) across all organ systems |
-| Handling Protection | Standard biological/monoclonal antibody handling precautions apply; full cytotoxic drug handling protocols are not required |
-
----
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-PD-L1 checkpoint inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Detailed TFDA prescribing information is not yet available (Data Gap DG001 — Blocking). Please refer to the global Tecentriq SmPC for complete safety data.
+- **Drug Interactions**: 75 interactions were identified. The ones shown are mostly moderate, and they involve corticosteroids (hydrocortisone, prednisone, dexamethasone, methylprednisolone and others), immunosuppressants (azathioprine, alemtuzumab, anakinra) and several vaccines. Major-level interactions were flagged with adalimumab, baricitinib and live BCG vaccine (Tice strain). Concurrent immunosuppression may reduce the effect of checkpoint blockade, and live vaccines carry infection risk.
 
-Based on the drug class (PD-L1 checkpoint inhibitor), clinically important immune-related adverse events (irAEs) to anticipate include:
-- **Immune-mediated pneumonitis** — potentially life-threatening; monitor for new or worsening respiratory symptoms
-- **Immune-mediated colitis** — diarrhoea and abdominal pain; grade 3–4 events require corticosteroid management
-- **Immune-mediated hepatitis** — ALT/AST elevation; liver function monitoring required before each cycle
-- **Endocrinopathies** — hypothyroidism, hyperthyroidism, adrenal insufficiency, and diabetes mellitus (type 1-like)
-- **Infusion-related reactions** — typically grade 1–2; pre-medication protocols per institutional policy
-
----
-
-## Predicted Indications Overview (All 10)
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision |
-|------|---------|-------------|----------------|----------|
-| 1 | Prostatic Urethra Urothelial Carcinoma | 99.98% | L2 | Proceed with Guardrails |
-| 2 | Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.98% | L4 | Research Question |
-| 3 | Infiltrating Bladder Urothelial Carcinoma Sarcomatoid Variant | 99.98% | L4 | Research Question |
-| 4 | Renal Pelvis Papillary Urothelial Carcinoma | 99.98% | L3 | Research Question |
-| 5 | Uterine Ligament Adenocarcinoma | 99.93% | L5 | Hold |
-| 6 | Endocervical Carcinoma | 99.92% | L2 | Proceed with Guardrails |
-| 7 | Adenoid Cystic Carcinoma of the Cervix Uteri | 99.92% | L5 | Hold |
-| 8 | Uterine Ligament Serous Adenocarcinoma | 99.92% | L5 | Hold |
-| 9 | Signet Ring Cell Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold |
-| 10 | Intestinal Variant Cervical Mucinous Adenocarcinoma | 99.91% | L5 | Hold |
-
-> **Note on Rank 6 (Endocervical Carcinoma):** This indication also reaches L2, supported by a completed Phase 2 trial (NCT02921269, atezolizumab + bevacizumab in recurrent cervical cancer, n=11) and a completed Phase 1 trial (NCT03738228, atezolizumab + chemoradiotherapy, n=40). HPV-associated high tumour mutational burden and PD-L1 overexpression in endocervical carcinoma provide mechanistic rationale. Key limitation: the Phase 2 sample size (n=11) is very small.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The top prediction (Prostatic Urethra Urothelial Carcinoma, L2) is supported by a completed Phase 2 trial in BCG-unresponsive NMIBC — a population in which prostatic urethral involvement is a defining clinical feature — and a large Phase 1b basket trial covering the entire urothelial tract. Atezolizumab's PD-L1 blocking mechanism is biologically uniform across the urothelial carcinoma family. Endocervical carcinoma (Rank 6) independently reaches L2 through direct HPV-related immunological rationale and dedicated cervical cancer trials.
+The biological rationale is plausible because the tumour is urothelial in origin, but the only supporting trial is an early-phase, heterogeneous study with no prostatic-urethra-specific data. The "cancelled" EU authorization status and the missing safety label data add further uncertainty.
 
 **To proceed, the following is needed:**
-
-- **Safety data gap (Blocking):** Obtain TFDA SmPC or global SmPC (Tecentriq) to complete contraindication and warning assessment before any S1 safety evaluation
-- **MOA data gap (High):** Retrieve complete DrugBank MOA record (DB11595) to finalise mechanistic link scoring
-- **Taiwan regulatory pathway:** Assess feasibility of Taiwan NDA filing or compassionate use pathway, given current zero-license status
-- **Prostatic urethra–specific evidence:** Initiate or identify a dedicated clinical trial or registry study enrolling prostatic urethra urothelial carcinoma as a defined patient population
-- **Sarcomatoid variants (Ranks 2–3):** Collect PD-L1 expression and EMT biomarker data in sarcomatoid urothelial subtypes before escalating from L4 to a clinical development stage
-- **Endocervical carcinoma (Rank 6):** Validate in a larger Phase 2 cohort; the existing n=11 Phase 2 trial is underpowered for definitive conclusions
+- Indication-specific efficacy data, such as subgroup results from NCT03170960 or from approved-indication urothelial trials that included urethral primaries
+- Clarification of whether prostatic urethra urothelial carcinoma already falls under the approved urothelial carcinoma indication
+- Warnings and contraindications from the SmPC
+- Detailed mechanism of action data
+- Clarification of the current EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

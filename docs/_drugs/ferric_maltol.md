@@ -2,7 +2,7 @@
 layout: default
 title: Ferric Maltol
 parent: AI Predictions (L5)
-nav_order: 251
+nav_order: 258
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,34 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ferric Maltol: From Iron Deficiency Therapy to Plummer-Vinson Syndrome
-
-> **Note on original indication**: `original_indications` and EU license data are both empty in this Evidence Pack. The "oral iron replacement" framing below is drawn from the drug's mechanistic description in the repurposing rationale, not from a confirmed regulatory indication text. This should be verified before proceeding.
+# Ferric Maltol: From Iron Deficiency to Plummer-Vinson Syndrome
 
 ## One-Sentence Summary
 
-Ferric maltol is an oral ferric iron compound; based on the available evidence pack, its confirmed original indication and formal marketing status could not be established (not currently marketed in the EU per this dataset). The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome** (a chronic iron-deficiency condition with esophageal web), but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure computational hypothesis.
+Ferric maltol is an oral iron replacement, originally used to treat iron deficiency in adults. The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome**, but **no clinical trials and no publications** were found, so this is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this evidence pack (no licenses on file; drug described only as an oral ferric iron compound) |
+| Original Indication | Treatment of iron deficiency in adults |
 | Predicted New Indication | Plummer-Vinson syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Ferric maltol is not available in this evidence pack. Based on the information that is available, Ferric maltol is an oral trivalent (ferric) iron compound formulated for improved tolerability and absorption relative to conventional oral iron salts.
+Detailed mechanism of action data is not available. Based on known information, ferric maltol is an oral iron replacement. Its efficacy in iron deficiency is the basis of its approval, and mechanistically it may be applicable to conditions in which iron deficiency is a key feature.
 
-Plummer-Vinson (Paterson-Kelly) syndrome is pathophysiologically defined by chronic iron-deficiency anemia accompanied by esophageal web formation and dysphagia. Since iron repletion is the established causal treatment for the anemia component of this syndrome, an oral iron compound is mechanistically well-aligned with this indication — this is best understood as an extension of a known pharmacological action to a related, rarer diagnosis, rather than a novel mechanistic hypothesis. No direct clinical trial or literature evidence for Ferric maltol in Plummer-Vinson syndrome specifically was found; the rationale rests entirely on mechanistic plausibility and the TxGNN association score.
+Plummer-Vinson syndrome is characterized by iron deficiency anemia, dysphagia and esophageal webs. Correcting the iron deficiency is therefore a plausible link, and the high score probably reflects the overlap with the approved indication. However, iron repletion alone is not expected to resolve the esophageal web component, and no trials or literature support the prediction.
+
+Other predictions (ranks 2–10) are also unsupported by any clinical evidence:
+- **Somewhat plausible, as adjunctive use only:** folic acid deficiency anemia (mixed deficiency), protein-energy malnutrition (supportive iron repletion, with caution regarding infection risk).
+- **Likely limited by biology:** IRIDA syndrome. Elevated hepcidin blocks intestinal iron absorption, so oral iron is characteristically poorly effective, and parenteral iron is the usual approach.
+- **Weak or no mechanistic link, probably graph artifacts:** B12- and folate-independent megaloblastic anemia, biotin metabolic disease, severe nonproliferative diabetic retinopathy, ariboflavinosis, Keshan disease, non-syndromic esophageal malformation.
 
 ## Clinical Trial Evidence
 
@@ -65,28 +68,30 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Not currently marketed in the EU; no marketing authorisations are on file for this drug in the evidence pack (`total_licenses = 0`).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002733 (cancelled) | Feraccru | Not specified | Treatment of iron deficiency in adults |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease contraindication edges, not label text): hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease. These are consistent with the general caution against iron supplementation in iron-overload states.
+- **Additional caution from the prediction analysis:** Excess iron may contribute to oxidative stress in diabetic complications, and iron supplementation in malnourished patients at risk of infection requires caution.
 
-*(No key warnings, contraindications, or drug-drug interaction data were returned from the queried sources for Ferric maltol.)*
+No drug interaction records were found. Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is supported only by a TxGNN model score (L5 — no clinical trials, no literature) and a plausible-but-unverified mechanistic argument. There is also a **Blocking** data gap on regulatory safety labeling (TFDA/SmPC warnings and contraindications) and a **High**-severity gap on confirmed mechanism of action, so the candidate cannot proceed past the research-question stage.
+The prediction is supported only by the model (L5). The only mechanistically plausible candidate, Plummer-Vinson syndrome, largely overlaps with the already approved indication of iron deficiency. The EU authorization is cancelled, and label safety information could not be obtained.
 
 **To proceed, the following is needed:**
-- Confirmed original indication and marketing history for Ferric maltol (source data currently empty)
-- Official label/SmPC warnings, contraindications, and drug interaction data (currently blocking S1 safety screening)
-- Verified mechanism of action from DrugBank or manufacturer labeling
-- Targeted literature/trial search specifically for iron therapy in Plummer-Vinson syndrome (general iron-deficiency-anemia literature was not queried here and may exist even though disease-specific trials do not)
-
-*Lower-ranked candidates (ranks 2–10: e.g., vitamin B12/folate-independent megaloblastic anemia, IRIDA syndrome, biotin metabolic disease, diabetic retinopathy, ariboflavinosis, Keshan disease, non-syndromic esophageal malformation, folic acid deficiency anemia, protein-energy malnutrition) all carry mechanistic contradictions or no plausible mechanistic link per the rationale notes provided, and are assessed at decision stage S0 / Hold — they are not carried forward in this report.*
+- Label warnings and contraindications from the EMA documentation, which are required before safety screening
+- Mechanism of action data (for example from DrugBank)
+- A literature and trial search specific to iron therapy in Plummer-Vinson syndrome and mixed deficiency anemia
+- Clarification of why the EU authorization was cancelled and whether the product is available in any form
+- Assessment of whether any benefit is distinct from the existing iron deficiency indication, since the esophageal web component is not expected to respond to iron alone
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

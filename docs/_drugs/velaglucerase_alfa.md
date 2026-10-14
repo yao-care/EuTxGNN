@@ -2,7 +2,7 @@
 layout: default
 title: Velaglucerase Alfa
 parent: AI Predictions (L5)
-nav_order: 636
+nav_order: 660
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Velaglucerase alfa: From Gaucher Disease to Steel Syndrome
+# Velaglucerase alfa: From Type 1 Gaucher Disease to Steel Syndrome
 
 ## One-Sentence Summary
 
-> Velaglucerase alfa is an enzyme replacement therapy whose approved indication is Gaucher disease (type 1), where it substitutes for deficient glucocerebrosidase.
-> The TxGNN model predicts it may be effective for **Steel syndrome**, a COL27A1-related skeletal dysplasia,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as a likely knowledge-graph artifact rather than a mechanistically grounded hypothesis.
-
----
+Velaglucerase alfa is an enzyme replacement therapy (ERT) used for long-term treatment of type 1 Gaucher disease.
+The TxGNN model predicts it may be relevant to **Steel syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher disease (type 1) — inferred from evidence-pack rationale text; not independently confirmed by regulatory data |
+| Original Indication | Long-term enzyme replacement therapy (ERT) in patients with type 1 Gaucher disease |
 | Predicted New Indication | Steel syndrome |
 | TxGNN Prediction Score | 96.99% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (`[Data Gap]` in the evidence pack). Based on the information that is present, velaglucerase alfa is a recombinant human glucocerebrosidase used as enzyme replacement therapy, and its efficacy in Gaucher disease — a lysosomal storage disorder caused by glucocerebrosidase deficiency — is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, velaglucerase alfa is a recombinant glucocerebrosidase enzyme that clears glucosylceramide in lysosomes, and its efficacy in type 1 Gaucher disease has been established.
 
-Steel syndrome, however, is a skeletal dysplasia caused by mutations in COL27A1, a collagen gene. It has no known overlap with the glycosphingolipid-metabolism pathway that glucocerebrosidase acts on. The evidence pack's own mechanistic assessment states this explicitly: the high TxGNN score is likely an artifact of "rare genetic disease" node clustering in the knowledge graph, rather than a reflection of shared biology.
+Steel syndrome is a rare connective tissue and skeletal disorder caused by COL27A1 mutations. No direct mechanistic link to glucocerebrosidase replacement is evident. The high TxGNN score reflects only a knowledge-graph prediction, and without mechanism of action data no further inference is possible.
 
-This pattern repeats across the other nine ranked candidates in the evidence pack: several (hypophosphatasia, growth hormone insensitivity syndrome, proximal myopathy with extrapyramidal signs) are flagged as having no plausible pathway overlap; a few (Wolman disease, cholesteryl ester storage disease) share only a broad "lysosomal storage disease / enzyme replacement therapy" class-level similarity without substrate specificity for glucocerebrosidase; and two (esophageal varices, with and without bleeding) are actually downstream complications of Gaucher disease itself rather than independent new indications. None of the ten candidates is supported by a mechanistic rationale strong enough to justify progression without further validation.
+**Other predicted indications** (all L5, all Hold, none with trials or literature):
 
----
+| Rank | Predicted Indication | Score | Assessment |
+|------|------|------|------|
+| 2 | Esophageal varices without bleeding | 96.20% | Only an indirect link via Gaucher-related hepatosplenomegaly and portal hypertension; likely a network-proximity artifact |
+| 3 | Esophageal varices with bleeding | 96.20% | No evidence the enzyme affects acute variceal bleeding, which has established standard care |
+| 4 | Hypophosphatasia | 95.04% | Different enzyme and substrate; an approved ERT (asfotase alfa) already exists |
+| 5 | Wolman disease with hypolipoproteinemia and acanthocytosis | 93.99% | Lysosomal storage disease like Gaucher, but glucocerebrosidase does not act on cholesteryl esters or triglycerides; sebelipase alfa is the specific ERT |
+| 6 | Autosomal ichthyosis syndrome with fatal disease course | 93.74% | Weak rationale via epidermal glucosylceramide metabolism; systemic ERT does not reach the CNS |
+| 7 | Cholesteryl ester storage disease | 92.90% | Shared lysosomal biology only; different substrate, and an approved targeted ERT exists |
+| 8 | Varicose disease | 92.70% | No plausible mechanistic connection; likely a graph artifact |
+| 9 | Growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant | 92.08% | STAT5B-related; no link to lysosomal enzyme deficiency |
+| 10 | Proximal myopathy with extrapyramidal signs | 92.06% | Drug does not cross the blood-brain barrier; no established mechanism |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-Velaglucerase alfa currently has no EU marketing authorization on record in this evidence pack (0 authorizations, market status: not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001249 (cancelled) | Vpriv | Not specified | Long-term enzyme replacement therapy (ERT) in patients with type 1 Gaucher disease. |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
-
-*Note: Label warnings/contraindications data collection is flagged in the evidence pack as a blocking data gap and has not yet been retrieved from the regulatory source.*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications are L5 (model-prediction-only, no supporting clinical trials or literature), and the evidence pack's own mechanistic analysis indicates most — including the top-ranked Steel syndrome — are likely knowledge-graph clustering artifacts without biological plausibility. Combined with a blocking gap in regulatory safety data, there is no basis to proceed at this time.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, no mechanistic link is evident, and the only EU authorization has been cancelled. Alternatives with specific mechanisms or approved therapies already exist for several of the predicted conditions.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (blocking gap, DG001)
-- Confirmed mechanism of action (MOA) data from DrugBank or primary literature (DG002)
-- Independent mechanistic review of the top candidates to distinguish genuine signal from graph-embedding artifact before any evidence-collection effort is invested
-- If any candidate is prioritized, targeted literature/clinical-trial searches to establish at least L3–L4 evidence before further scoring
+- Mechanism of action data for velaglucerase alfa
+- Safety information (warnings and contraindications) from the SmPC, which is currently missing and blocks safety screening
+- Preclinical or mechanistic studies linking glucocerebrosidase replacement to COL27A1-related Steel syndrome
+- Assessment of route compatibility and the current regulatory and market status of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,15 +2,15 @@
 layout: default
 title: Tirzepatide
 parent: Medium Evidence (L3-L4)
-nav_order: 597
-evidence_level: L4
+nav_order: 619
+evidence_level: L3
 indication_count: 10
 ---
 
 # Tirzepatide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,64 +29,90 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tirzepatide: From Obesity/Type 2 Diabetes to Gout
+# Tirzepatide: From Type 2 Diabetes and Weight Management to Gout
 
 ## One-Sentence Summary
 
-Tirzepatide is a dual GIP/GLP-1 receptor agonist described in the literature within this Evidence Pack as approved for weight management (and, as a drug class, type 2 diabetes); a formal local indication text is not available in this dataset. The TxGNN model predicts it may be effective for **Gout**, with **0 dedicated clinical trials** and **1 publication** (a post-hoc RCT analysis) currently supporting this direction — an early-stage research signal rather than confirmed efficacy.
+Tirzepatide is a dual GIP/GLP-1 receptor agonist, originally used to treat insufficiently controlled type 2 diabetes and for weight management in adults with obesity or overweight.
+The TxGNN model predicts it may be effective for **gout**, with **0 registered clinical trials** and **2 publications** (one narrative review and one post hoc analysis of a randomised trial) currently supporting this direction.
+The evidence is indirect: any benefit appears to come mainly through weight loss, not through a gout-specific mechanism.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Weight management / Type 2 diabetes (per class description in cited literature; no formal local authorization dossier text on file) |
+| Original Indication | Type 2 diabetes mellitus (adjunct to diet and exercise); weight management in adults with obesity or overweight with at least one weight-related comorbidity |
 | Predicted New Indication | Gout |
 | TxGNN Prediction Score | 96.75% |
-| Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L3 |
+| EU Market Status | Cancelled only (the one listed authorization is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold (research question only) |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for tirzepatide is not available in this Evidence Pack (flagged as a High-severity data gap). Based on the literature cited here, tirzepatide is a dual GIP/GLP-1 receptor agonist whose efficacy in weight reduction and glycaemic control is well documented; mechanistically, it may also be applicable to gout via weight-loss-mediated effects on uric acid handling.
+Tirzepatide activates both the GIP and GLP-1 receptors. Detailed mechanism of action data are not available in the data compiled for this report. The pharmacology records do confirm these two receptors as its targets. In the phase 3 SURMOUNT-1 trial it produced a 15-20% body weight reduction, depending on dose.
 
-The rationale linking the original use (weight management/metabolic disease) to gout is metabolic: substantial weight loss and improved insulin sensitivity are known to reduce insulin-mediated renal tubular reabsorption of uric acid and improve renal urate excretion. The dual GIP/GLP-1 agonism may also carry direct anti-inflammatory effects, which could theoretically reduce gout flare frequency.
+Obesity is a major driver of hyperuricaemia, and hyperuricaemia is the pathogenic driver of gout. A post hoc analysis of SURMOUNT-1 (2026) reports lower serum uric acid with tirzepatide, associated with the amount of weight lost. The effect looks largely weight-mediated. A direct urate-lowering or anti-inflammatory action has not been established, and no gout-specific flare or outcome trials were identified.
 
-This hypothesis is directly supported by a post-hoc analysis of the SURMOUNT-1 trial (PMID 41198460), which found that tirzepatide-induced weight loss was associated with lowered serum uric acid levels. However, this is a secondary/exploratory analysis of a trial originally designed for weight management, not a prospective study with gout as the primary endpoint — hence the evidence remains at the "Research Question" stage rather than confirmed clinical benefit.
+The prediction is therefore plausible mainly for gout patients who also have obesity. It is not a proven treatment for gout itself.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for the gout indication.
+Currently no related clinical trials registered for gout.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41198460](https://pubmed.ncbi.nlm.nih.gov/41198460/) | 2026 | Post-hoc analysis (RCT-derived) | Annals of the Rheumatic Diseases | Post-hoc analysis of the SURMOUNT-1 placebo-controlled trial found tirzepatide was associated with lowered serum uric acid (SUA) levels, linked to its weight-reduction effect |
+| [41198460](https://pubmed.ncbi.nlm.nih.gov/41198460/) | 2026 | Post hoc analysis of RCT | Annals of the Rheumatic Diseases | Tests whether tirzepatide lowers serum uric acid through weight reduction, using SURMOUNT-1 data |
+| [42469142](https://pubmed.ncbi.nlm.nih.gov/42469142/) | 2026 | Narrative review | Nutrition, Metabolism and Cardiovascular Diseases | Reviews the link between adiposity, hyperuricaemia and gout, and asks whether weight management should feature more in gout care |
+
+---
 
 ## EU Market Information
 
-No EU marketing authorizations are currently on file for tirzepatide in this registry (market status: Not Marketed; 0 authorizations recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005620 (status: cancelled) | Mounjaro | Not specified | Type 2 diabetes mellitus: adults with insufficiently controlled disease, as an adjunct to diet and exercise... |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No key warnings, contraindications, or drug-drug interaction data are currently available in this Evidence Pack — this is flagged as a **Blocking** data gap (missing TFDA/SmPC label warnings and contraindications), which by itself prevents a preliminary safety assessment (S1) for this candidate.
+Please refer to the SmPC for safety information.
+
+The only interaction data compiled for this report are the drug's pharmacological targets (GIP receptor and GLP-1 receptor), not drug-drug interactions.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The gout signal is currently supported by only a single post-hoc secondary analysis of a trial not designed to study gout (Evidence Level L4, decision stage S1, "Research Question"), and tirzepatide is not yet authorized in this EU registry.
-- Critically, essential safety information (warnings, contraindications, DDI) is entirely missing, which is a **Blocking** gap that prevents even a preliminary safety evaluation — a decision to proceed cannot responsibly be made without this data.
-- For context, the second-ranked prediction (osteoarthritis, L3/S2) currently has stronger supporting evidence — an ongoing Phase 4 trial (STOP KNEE-OA) and a class-effect precedent from semaglutide (STEP-9) — and may warrant separate, higher-priority tracking.
+The gout prediction has a high model score but rests on one post hoc analysis and one narrative review, with no gout-specific trials. The urate-lowering effect appears to depend on weight loss. The EU authorization in the data is also listed as cancelled, and no label safety data were available.
 
 **To proceed, the following is needed:**
-- Obtain the official SmPC/product label (via EMA or manufacturer) for warnings, contraindications, and DDI data — this is the Blocking gap (DG001) and must be resolved first
-- Obtain formal mechanism of action documentation from DrugBank/EMA (DG002)
-- Monitor for a prospective trial with serum uric acid or gout flare frequency as a primary endpoint, since current evidence is only a secondary analysis
-- Confirm the drug's EU marketing authorization status before any further regulatory or business development steps
+- Gout-specific trials (flare rates, urate target attainment) in people with obesity
+- Detailed mechanism of action data, to test for any weight-independent urate effect
+- Current EU authorization status and SmPC warnings and contraindications
+
+---
+
+### Other Predicted Indications (for reference)
+
+- **Osteoarthritis (score 95.92%, L2, Proceed with Guardrails):** This is the most advanced alternative. A Phase 4 trial, [NCT06191848](https://clinicaltrials.gov/study/NCT06191848) (n=352, recruiting), is testing tirzepatide in obesity with knee osteoarthritis. The proposed guardrails are to restrict use to obesity with knee OA, monitor lean mass and GI tolerability, and await trial results.
+- **Rheumatoid arthritis (score 93.60%, L4, Research Question):** Only indirect, class-level observational and mechanistic literature exists, with no tirzepatide-specific trials.
+- **Benign prostatic hyperplasia, pseudoachondroplasia, osteoarthritis susceptibility, acromesomelic dysplasia (Hunter-Thompson type), brachyolmia, brachyolmia-amelogenesis imperfecta syndrome and myosclerosis (L5, Hold):** These have no trials or literature, and for most there is no plausible mechanistic link.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

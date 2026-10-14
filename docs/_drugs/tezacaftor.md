@@ -2,7 +2,7 @@
 layout: default
 title: Tezacaftor
 parent: AI Predictions (L5)
-nav_order: 585
+nav_order: 606
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,78 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Tezacaftor is a CFTR corrector believed to be used in the treatment of cystic fibrosis, acting on chloride channel protein folding.
-> The TxGNN model's top-ranked prediction suggests possible relevance to **HIV Infectious Disease**,
-> but this is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale explicitly states there is no known biological plausibility for this link.
-
----
+Tezacaftor is a CFTR corrector used in combination regimens to treat cystic fibrosis in patients with specific CFTR mutations. The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is purely computational.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystic Fibrosis (inferred from CFTR corrector mechanism referenced throughout the evidence pack; not confirmed via a formal regulatory license record) |
-| Predicted New Indication | HIV Infectious Disease |
+| Original Indication | Cystic fibrosis (CF) in patients aged 6 years and older with specific CFTR mutations, in combination with ivacaftor |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available — this is flagged as a High-severity data gap in the evidence pack. Based on the contextual information available (repeated references to "CFTR corrector" and "cystic fibrosis patients" across the prediction rationales and the one associated clinical trial), Tezacaftor appears to work by correcting the folding and trafficking of the CFTR chloride channel protein.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, tezacaftor is a CFTR corrector that improves the folding and trafficking of F508del-CFTR protein to the cell surface. It is used together with ivacaftor, or in triple combinations such as Kaftrio and Alyftrek, for cystic fibrosis.
 
-For the top-ranked prediction, HIV Infectious Disease, the evidence pack's own mechanistic assessment states there is **no known biological connection**: "Tezacaftor is a CFTR corrector acting on chloride channel folding correction; there is no known relationship to the HIV replication cycle or host immune mechanisms — this is a knowledge-graph embedding similarity inference without biological plausibility." This prediction should be interpreted as a statistical artifact of the knowledge graph rather than a genuine repurposing signal.
+The link between cystic fibrosis and HIV is weak. No mechanistic connection to antiviral activity has been identified. The high TxGNN score (0.992) comes from network-based proximity in a knowledge graph, not from biological or clinical evidence. Other top-ranked predictions (leprosy, simian immunodeficiency virus infection, feline immunodeficiency syndrome) appear to reflect the same graph-proximity pattern and should be interpreted with caution.
 
-This pattern extends across the full top-10 prediction list: nearly all candidates (leprosy, multiple endocrine neoplasia, female breast carcinoma, homozygous familial hypercholesterolemia, amyotrophic lateral sclerosis) are noted as having no known mechanistic link to CFTR correction, and two entries (simian immunodeficiency virus infection, feline acquired immunodeficiency syndrome) are non-human/veterinary disease models with no clinical translation value. The one partial exception is rank 7, rheumatoid arthritis (L4), where CFTR dysfunction has a theoretical, indirect connection to neutrophil-driven inflammation — though the only supporting trial is a descriptive neutrophil-phenotyping study in cystic fibrosis patients, not a test of tezacaftor's efficacy in RA.
-
----
+In short, this prediction should be treated as a hypothesis-generating signal only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for HIV Infectious Disease (the top-ranked predicted indication).
-
-*Note: One low-relevance (Grade C) trial exists for a lower-ranked candidate — see rank 7, rheumatoid arthritis, below.*
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04970225](https://clinicaltrials.gov/study/NCT04970225) | NA | Completed | 47 | Descriptive study of blood neutrophil function/phenotype in cystic fibrosis patients, including effects of CFTR modulator treatment and *Pseudomonas aeruginosa* infection. Provides indirect immune-mechanism background but does not test tezacaftor efficacy in rheumatoid arthritis. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No marketing authorizations are recorded for this drug in the evidence pack (market status: Not Marketed, 0 authorizations).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004682 | Symkevi | Not specified | Cystic fibrosis in patients aged 6 years and older, homozygous for F508del or heterozygous with one of several listed residual-function mutations, in combination with ivacaftor tablets... |
+| EMEA/H/C/006382 | Alyftrek | Tablet | Cystic fibrosis in people aged 6 years and older with at least one non-Class I CFTR mutation |
+| EMEA/H/C/005269 | Kaftrio | Tablet, granules | Cystic fibrosis in patients aged 2 years and older with at least one non-Class I CFTR mutation, in combination with ivacaftor |
 
----
+All three authorizations are listed as cancelled.
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
----
+The only drug-interaction record in the compiled data is a pharmacological target entry (CFTR), which is the drug's intended target and not a clinical drug-drug interaction.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked prediction (HIV Infectious Disease, 99.24% score) is an L5 pure AI prediction with no clinical trials, no literature, and the evidence pack's own analysis explicitly states there is no known mechanistic plausibility.
-- The drug is not currently marketed in the region, and a Blocking-severity data gap (missing label warnings/contraindications) prevents any formal safety review (S1 stage) from being initiated.
+The prediction for HIV infectious disease rests only on a knowledge-graph score. There are no clinical trials or publications, and no plausible mechanistic link between CFTR correction and antiviral activity. All EU authorizations are also listed as cancelled, which adds uncertainty about current market availability.
 
 **To proceed, the following is needed:**
-- Regulatory label (SmPC) warnings and contraindications — currently a Blocking data gap
-- Confirmed mechanism of action data — currently a High-severity data gap
-- If further repurposing evaluation is pursued, prioritize the rank 7 candidate (rheumatoid arthritis, L4 evidence, indirect CFTR–neutrophil inflammation rationale) over the top-ranked HIV signal, since it carries relatively stronger mechanistic and evidentiary support despite still requiring dedicated clinical validation
+- Mechanism of action data for tezacaftor (for example from DrugBank)
+- Warnings and contraindications from the SmPC, which are currently missing
+- Preclinical evidence (for example in vitro antiviral assays) showing any anti-HIV activity
+- Verification of the reason for the cancelled EU authorization status
+- Review of lower-ranked predictions with some conceptual rationale (such as amyotrophic lateral sclerosis via protein misfolding) as potentially more plausible alternatives
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

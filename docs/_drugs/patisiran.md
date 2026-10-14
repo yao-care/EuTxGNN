@@ -2,7 +2,7 @@
 layout: default
 title: Patisiran
 parent: AI Predictions (L5)
-nav_order: 454
+nav_order: 469
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Patisiran: From Hereditary Transthyretin Amyloidosis to Dermatitis (Low-Confidence Prediction)
+# Patisiran: From Hereditary Transthyretin-Mediated Amyloidosis to Dermatitis
 
 ## One-Sentence Summary
 
-> Patisiran is an siRNA-lipid nanoparticle (LNP) therapeutic originally developed to silence *TTR* mRNA for the treatment of hereditary transthyretin-mediated (hATTR) amyloidosis.
-> The TxGNN model's top-ranked prediction is **Dermatitis**, but this candidate is supported by **0 clinical trials** and **0 publications**,
-> and the evidence pack's own mechanistic assessment finds **no known biological link** between TTR gene silencing and inflammatory skin disease.
-
----
+Patisiran is an siRNA drug originally used to treat hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) with polyneuropathy.
+The TxGNN model predicts it may be effective for **dermatitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary transthyretin (ATTR) amyloidosis (based on drug class context; no formal EU/TW label text available — drug not marketed) |
+| Original Indication | Treatment of hATTR amyloidosis in adult patients with stage 1 or stage 2 polyneuropathy |
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 90.65% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a blocking data gap). Based on known drug-class information, Patisiran is an siRNA-LNP therapeutic that silences hepatic *TTR* mRNA production, reducing circulating transthyretin protein and thereby slowing amyloid fibril deposition in peripheral nerves and the heart. Its established clinical role is in hereditary transthyretin amyloidosis with polyneuropathy — an entirely distinct disease category from dermatitis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, patisiran is a small interfering RNA (siRNA) that silences hepatic transthyretin (TTR) mRNA, and its efficacy in hATTR amyloidosis polyneuropathy is the basis of its approval.
 
-The evidence pack's own mechanistic rationale for this prediction is explicit that **no known biological connection exists** between RNA interference-mediated TTR suppression and dermatitis's inflammatory pathways. The TxGNN score of 90.65% most likely reflects an indirect node connection within the knowledge graph (e.g., shared downstream pathways or co-occurring metadata) rather than genuine pharmacological plausibility. Because the model output is unaccompanied by any clinical trial or literature evidence, this candidate should be treated as a hypothesis-generating signal only, not as a validated repurposing lead.
+No established link exists between lowering TTR and dermatitis. The high TxGNN score reflects graph-based similarity only and is not supported by mechanistic or clinical data. At this stage, the prediction should be treated as a hypothesis with no supporting rationale.
 
-It is worth noting that a lower-ranked candidate in this pack — **overactive bladder (rank 9, score 84.9%)** — has a more coherent (though still indirect) rationale: hATTR amyloidosis itself can cause autonomic neuropathy leading to bladder dysfunction, so improvement in bladder symptoms could theoretically follow from treating the underlying amyloidosis. This represents disease comorbidity rather than a direct new indication, but may warrant closer review before dermatitis in any follow-up evaluation.
-
----
+Other top-ranked predictions show the same pattern. They include hydroa vacciniforme, amyopathic dermatomyositis, acne keloid, neonatal dermatomyositis, acrodermatitis chronica atrophicans and several mastocytosis subtypes. None has a recognised connection to TTR silencing, and none has trial or literature support. Overactive bladder is the only one with a loose conceptual connection, because autonomic dysfunction occurs in hATTR amyloidosis. That is a manifestation of amyloid neuropathy and does not show that patisiran treats overactive bladder in general.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-Patisiran currently has **no marketing authorizations** recorded in this dataset (0 licenses, market status: Not marketed). No product/indication label text is available for cross-reference.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004699 (Cancelled) | Onpattro | Not specified | Treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-interaction data are currently unavailable — TFDA label retrieval is flagged as a blocking data gap.)
+Please refer to the SmPC for safety information.
 
----
+No drug interaction records were found for patisiran in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure L5 model-only prediction (TxGNN score without corroborating clinical or literature evidence), and the evidence pack's own mechanistic review finds no biological rationale linking TTR-targeted siRNA therapy to dermatitis. Advancing this candidate is not justified at this stage.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between TTR silencing and dermatitis. The only EU authorization is cancelled, and the safety data are incomplete, so the case cannot advance.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data from DrugBank (DG002)
-- TFDA/EMA label warnings and contraindications to enable a baseline safety screen (DG001, blocking)
-- Independent preclinical or mechanistic evidence connecting TTR silencing to dermatitis pathophysiology, if this candidate is to be pursued further
-- Consideration of re-scoping toward higher-plausibility candidates in this pack (e.g., overactive bladder, rank 9) given the disease-comorbidity link to hATTR amyloidosis
+- Mechanism of action data (for example from DrugBank) and a mechanistic analysis of whether TTR silencing could plausibly affect dermatitis
+- Warnings and contraindications from the SmPC, which are required for safety screening
+- A literature and trial search for patisiran in inflammatory skin conditions, to determine whether any real-world signal exists
+- Clarification of the current regulatory status of Onpattro in the EU, since the data show only a cancelled authorization
+- Assessment of route and formulation compatibility with the target indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

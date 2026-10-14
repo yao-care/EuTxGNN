@@ -2,7 +2,7 @@
 layout: default
 title: Flutemetamol 18F
 parent: AI Predictions (L5)
-nav_order: 260
+nav_order: 267
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flutemetamol (18F): From Alzheimer's Disease Diagnostic Imaging to Anaphylaxis
+# Flutemetamol (18F): From Amyloid PET Imaging in Cognitive Impairment to Anaphylaxis
 
 ## One-Sentence Summary
 
-Flutemetamol (18F) is a fluorine-18 labeled PET radiotracer used to visualize amyloid plaques in patients being evaluated for Alzheimer's disease — it is a **diagnostic imaging agent, not a therapeutic drug**. The TxGNN model predicts it may be "effective" for **Anaphylaxis**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the mechanistic link as absent.
+Flutemetamol (18F) is a diagnostic radiotracer, marketed as Vizamyl, used in PET imaging to measure amyloid plaque density in the brains of adult patients being evaluated for Alzheimer's disease.
+The TxGNN model predicts it may be effective for **anaphylaxis**, but there are **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is purely computational and has no plausible biological basis.
 
 ---
 
@@ -41,23 +43,23 @@ Flutemetamol (18F) is a fluorine-18 labeled PET radiotracer used to visualize am
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally licensed in this dataset; known use is amyloid-β PET imaging for suspected Alzheimer's disease (diagnostic, not therapeutic) |
+| Original Indication | PET imaging of β-amyloid neuritic plaque density in the brains of adult patients with cognitive impairment being evaluated for Alzheimer's disease (AD) and other causes of cognitive impairment (diagnostic use only) |
 | Predicted New Indication | Anaphylaxis |
 | TxGNN Prediction Score | 98.79% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for Flutemetamol (18F) (marked as a data gap in this evidence pack). Based on known information, Flutemetamol (18F) is a PET radiodiagnostic agent that binds amyloid-β plaques in the brain, used solely to support the visual assessment of amyloid pathology in patients undergoing Alzheimer's disease workup. It has no established pharmacodynamic role in immune or allergic pathways.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, flutemetamol (18F) is a diagnostic PET radiotracer that binds to beta-amyloid plaques in the brain. It is given at microdose (tracer) levels for imaging, not to produce a therapeutic effect.
 
-Amyloid-PET imaging and anaphylaxis belong to entirely different domains — one is a passive imaging biomarker tool, the other is an acute IgE-mediated (or non-IgE) hypersensitivity reaction. There is no structural, receptor-binding, or pathway-based rationale connecting the two. The evidence pack's own rationale field is explicit on this point: *"Flutemetamol (18F) is an amyloid PET imaging agent used for Alzheimer's disease diagnostic imaging, a non-therapeutic drug, with no known pharmacological MOA supporting a therapeutic mechanism related to anaphylaxis. The high TxGNN score reflects only knowledge-graph topological association, not mechanistic evidence."*
+The predicted indication does not appear to be reasonable. Flutemetamol has no known activity on mast cells, IgE, or histamine pathways, which are central to anaphylaxis. Anaphylaxis is also a possible adverse hypersensitivity reaction to injected agents, so a therapeutic role is implausible. The high TxGNN score (0.988) reflects graph-based proximity only and is not backed by clinical or literature evidence.
 
-The most plausible real-world connection is the inverse of a repurposing signal: radiocontrast/PET tracer agents can occasionally *cause* hypersensitivity-type reactions as an adverse event, rather than treat them. This makes the prediction a likely artifact of knowledge-graph embedding proximity (e.g., shared nodes such as "IV administration," "PET imaging setting," or diagnostic co-occurrence with allergy-related conditions) rather than a genuine pharmacological signal.
+The other top-ranked predictions show the same pattern. They include food-dependent exercise-induced anaphylaxis, dermatitis, pseudoallergy, acne keloid, familial hydroa vacciniforme, childhood-onset secondary interstitial lung disease, neonatal and amyopathic dermatomyositis, and acrodermatitis chronica atrophicans. Each is assessed as having no mechanistic link and no supporting studies. They appear to arise from computational association rather than biology.
 
 ---
 
@@ -73,9 +75,11 @@ Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Flutemetamol (18F) is currently **not marketed** in Taiwan under this dataset (0 licenses on record), so no product/dosage-form/indication table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002557 (cancelled) | Vizamyl | Not specified | Diagnostic use only. PET imaging of β-amyloid neuritic plaque density in adult patients with cognitive impairment being evaluated for Alzheimer's disease and other causes of cognitive impairment... |
 
 ---
 
@@ -83,7 +87,7 @@ Flutemetamol (18F) is currently **not marketed** in Taiwan under this dataset (0
 
 Please refer to the SmPC for safety information.
 
-*(Note: This evidence pack flags TFDA label/warning data as a Blocking gap — DG001 — meaning a formal safety pre-screen (S1) cannot proceed until the package insert is retrieved and parsed.)*
+Note: anaphylaxis and pseudoallergic reactions are recognised risks with injected diagnostic agents in general. Predicting them as treatment targets for a tracer is therefore not credible.
 
 ---
 
@@ -92,13 +96,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Flutemetamol (18F) is a non-therapeutic diagnostic radiotracer with no plausible mechanistic link to anaphylaxis (or to any of the other 9 predicted indications in this pack, which include dermatitis, dermatomyositis subtypes, and other unrelated conditions). All ten predictions are L5/S0 — model output only, with zero clinical trials and zero literature — and the evidence pack's own scoring already recommends "Hold" for every ranked candidate.
+The prediction rests only on a graph-based model score. No clinical trials or publications support it, and there is no plausible mechanism. Flutemetamol is a diagnostic microdose tracer with no therapeutic pharmacology, and its only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA package insert / warnings and contraindications (currently a Blocking data gap, DG001)
-- Verified mechanism of action data (currently a data gap, DG002)
-- A domain-appropriate repurposing framework — since Flutemetamol (18F) is a diagnostic agent rather than a treatment, standard "old drug, new indication" repurposing logic may not apply, and this candidate should be reassessed for whether it belongs in this pipeline at all
-- Independent mechanistic or preclinical rationale before any further investment in this candidate
+- Mechanism of action data (for example, from DrugBank)
+- Warnings and contraindications from the EMA product information, which are currently missing and block safety screening
+- Any preclinical or clinical evidence of a therapeutic effect in the predicted conditions. Without it, repurposing is not advisable.
+- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

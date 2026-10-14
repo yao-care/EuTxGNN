@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Azacitidine
-parent: High Evidence (L1-L2)
-nav_order: 75
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 77
+evidence_level: L5
 indication_count: 10
 ---
 
 # Azacitidine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,117 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Azacitidine: From Myelodysplastic Syndrome to Aregenerative Anemia
-
-> **Note on prediction selection:** The highest-ranked TxGNN prediction (Rank 1: bulbar polio, 98.59%) was set aside due to extremely low biological plausibility — no known mechanistic link between DNMT inhibition and poliovirus infection exists, and no clinical or preclinical evidence supports this pairing. This report focuses on **Rank 5: Aregenerative Anemia**, which carries the highest evidence level (L2) among all actionable predictions and a "Proceed with Guardrails" recommendation.
-
----
+# Azacitidine: From Myelodysplastic Syndromes and Acute Myeloid Leukaemia to Bulbar Polio
 
 ## One-Sentence Summary
 
-Azacitidine is a hypomethylating agent (DNA methyltransferase inhibitor) globally approved for myelodysplastic syndromes (MDS) and acute myeloid leukemia (AML) in adults, but currently not approved in Taiwan.
-The TxGNN model predicts it may be effective for **Aregenerative Anemia** — a category encompassing aplastic, hypoplastic, and sideroblastic anemias within the MDS spectrum —
-with **27 clinical trials** and **20 publications** currently supporting this direction.
-
----
+Azacitidine is a hypomethylating nucleoside analogue, originally used to treat higher-risk myelodysplastic syndromes (MDS), chronic myelomonocytic leukaemia (CMML) and acute myeloid leukaemia (AML).
+The TxGNN model's top-ranked prediction is **bulbar polio**, but there are **0 clinical trials** and **0 publications** supporting it, and the mechanism makes the link implausible.
+The more credible candidates are blood disorders within or next to the approved MDS spectrum. Of these, **unclassified myelodysplastic syndrome** has the strongest evidence and is covered in the sections after the top-ranked prediction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | MDS (intermediate-2/high-risk) and AML with 20–30% blasts — EU/US approved; **not approved in Taiwan** |
-| Predicted New Indication | Aregenerative Anemia |
-| TxGNN Prediction Score | 97.88% |
-| Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+|------|------|
+| Original Indication | Adult patients not eligible for haematopoietic stem cell transplantation with intermediate-2 and high-risk MDS, CMML with 10–29% marrow blasts, and AML |
+| Predicted New Indication | Bulbar polio (rank 1) |
+| TxGNN Prediction Score | 98.59% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 6 (all cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data from the TFDA dossier is not currently available. Based on established pharmacology, azacitidine is a nucleoside analogue that incorporates into DNA and RNA, blocking DNMT1, DNMT3A, and DNMT3B activity and causing progressive DNA hypomethylation over successive replication cycles. This demethylation reactivates silenced tumor suppressor genes, rescues the differentiation of arrested hematopoietic progenitor cells, and triggers apoptosis in abnormal clones — making it the backbone of first-line treatment for higher-risk MDS and AML worldwide (NCCN, ELN, ESMO guidelines).
+Detailed mechanism of action data is not currently available. Based on known information, azacitidine is a hypomethylating nucleoside analogue that is effective in myeloid malignancies, and it is not expected to act on viral neurological infections.
 
-Aregenerative anemia overlaps substantially with MDS in clinical presentation. Refractory anemia subtypes (RARS, RCMD) and aplastic/hypoplastic bone marrow failure share a common underlying thread: epigenetic dysregulation of hematopoietic stem cell differentiation with consequent impaired erythropoiesis. Azacitidine's mechanism directly addresses this pathway. The AVIDA registry confirmed real-world use of azacitidine across all MDS subtypes, including the large proportion presenting primarily as transfusion-dependent anemia. A translational case series (PMID 34781359) further extended the mechanistic reach: azacitidine restored erythropoiesis in pyridoxine-refractory X-linked sideroblastic anemia by upregulating ALAS2 expression through promoter demethylation — demonstrating activity beyond classical MDS into a congenital aregenerative form.
+Bulbar polio is a viral infection of the nervous system. There is no plausible mechanistic link between a hypomethylating agent used in myeloid cancers and poliovirus infection. The high score most likely reflects a graph-based artefact rather than a real biological signal, so this prediction is not supported.
 
-The strongest supporting trial is NCT00454480, a Phase 2/3 program enrolling 2,000 older patients with high-risk MDS and AML, where a substantial proportion presented with profound anemia as the predominant disease manifestation. Together with prospective meta-analyses of azacitidine in lower-risk transfusion-dependent MDS (PMID 29118268), this creates an L2 evidence foundation that justifies a conditional "Proceed with Guardrails" decision pending Taiwan-specific regulatory data.
+Other predictions in the list have more rational links to azacitidine's known use:
 
----
+- **Unclassified myelodysplastic syndrome (rank 3, score 98.10%)** overlaps with the approved MDS spectrum. Evidence is L2, with a phase 2 trial of ruxolitinib plus azacitidine in MDS/MPN overlap syndromes and the AVIDA real-world registry. The evidence is indirect for this specific subtype.
+- **Refractory cytopenia of childhood (rank 2, score 98.20%)** is a paediatric MDS subtype. Evidence is L3, mainly retrospective paediatric data on low-dose azacitidine.
+- **Aregenerative anaemia (rank 5, score 97.88%)** has several MDS combination trials and a lower-risk MDS meta-analysis. These studies mostly cover MDS and AML rather than non-MDS aregenerative anaemia, so applicability is uncertain.
 
 ## Clinical Trial Evidence
 
+Currently no related clinical trials are registered for bulbar polio.
+
+For reference, the trials below were matched to the rank-5 candidate (aregenerative anaemia), all in MDS or AML populations and mostly combination designs:
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00454480](https://clinicaltrials.gov/study/NCT00454480) | Phase 2/3 | Completed | 2,000 | Largest AZA-containing MDS/AML program in older patients; includes high-risk MDS subtypes with profound anemia; provides robust safety and efficacy baseline |
-| [NCT00392353](https://clinicaltrials.gov/study/NCT00392353) | Phase 1/2 | Active, not recruiting | 135 | Vorinostat + azacitidine in MDS/AML; dual epigenetic approach; includes anemia-predominant MDS patients |
-| [NCT02158936](https://clinicaltrials.gov/study/NCT02158936) | Phase 3 | Terminated | 356 | Eltrombopag + azacitidine in IPSS Int-1/2 and high-risk MDS; large randomized trial terminated early; generates meaningful anemia/thrombocytopenia correction data |
-| [NCT01928537](https://clinicaltrials.gov/study/NCT01928537) | Phase 3 | Completed | 67 | Rigosertib vs physician's choice after AZA/DAC failure in MDS with excess blasts; provides AZA response-rate baseline in anemic MDS population |
-| [NCT01839240](https://clinicaltrials.gov/study/NCT01839240) | Phase 1 | Completed | 50 | AZA + HiDAC + mitoxantrone in high-risk AML (partly MDS-evolved); azacitidine priming to sensitize cells to subsequent chemotherapy |
-| [NCT01065129](https://clinicaltrials.gov/study/NCT01065129) | Phase 1 | Completed | 28 | Plerixafor + G-CSF + azacitidine in MDS; stem cell mobilization alongside demethylation in bone marrow failure with anemia |
-| [NCT02553941](https://clinicaltrials.gov/study/NCT02553941) | Phase 1b | Completed | 21 | Ibrutinib + azacitidine in higher-risk MDS; novel immune modulation approach in transfusion-dependent patients |
-| [NCT00352001](https://clinicaltrials.gov/study/NCT00352001) | Phase 1/2 | Completed | 37 | Lenalidomide + azacitidine in advanced MDS; combination epigenetic-immunomodulatory strategy for anemia-driven MDS |
-| [NCT01016600](https://clinicaltrials.gov/study/NCT01016600) | Phase 1/2 | Completed | 31 | AZA + lenalidomide in AML; partly includes MDS-evolved AML with prior refractory anemia |
-| [NCT00398047](https://clinicaltrials.gov/study/NCT00398047) | Phase 2 | Terminated | 3 | AZA + darbepoetin alfa + G-CSF in MDS; rationale: boost erythropoiesis alongside demethylation; terminated due to poor accrual — no efficacy conclusions |
-
----
+| [NCT00352001](https://clinicaltrials.gov/study/NCT00352001) | Phase 1/2 | Completed | 37 | Lenalidomide plus azacitidine in advanced MDS |
+| [NCT00005598](https://clinicaltrials.gov/study/NCT00005598) | Phase 2 | Completed | Not reported | Azacitidine plus amifostine in MDS |
+| [NCT00454480](https://clinicaltrials.gov/study/NCT00454480) | Phase 2/3 | Completed | 2000 | Treatment development programme for older patients with AML and high-risk MDS |
+| [NCT00392353](https://clinicaltrials.gov/study/NCT00392353) | Phase 1/2 | Active, not recruiting | 135 | Vorinostat plus azacitidine in MDS/AML |
+| [NCT02553941](https://clinicaltrials.gov/study/NCT02553941) | Phase 1 | Completed | 21 | Ibrutinib plus azacitidine in higher-risk MDS |
+| [NCT03593915](https://clinicaltrials.gov/study/NCT03593915) | Phase 1/2 | Terminated | 20 | Alvocidib after decitabine or azacitidine in MDS |
+| [NCT00004871](https://clinicaltrials.gov/study/NCT00004871) | Phase 1 | Completed | Not reported | Sodium phenylbutyrate plus azacitidine in MDS/AML |
+| [NCT00234000](https://clinicaltrials.gov/study/NCT00234000) | Phase 1 | Terminated | 1 | Arsenic trioxide plus azacitidine in MDS (uninformative) |
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [34781359](https://pubmed.ncbi.nlm.nih.gov/34781359/) | 2022 | Case series / Translational | Blood Advances | Azacitidine restored erythropoiesis in pyridoxine-refractory X-linked sideroblastic anemia via ALAS2 promoter demethylation — direct evidence in a congenital aregenerative anemia |
-| [38023359](https://pubmed.ncbi.nlm.nih.gov/38023359/) | 2023 | Translational | Experimental and Therapeutic Medicine | Glutathione enhances synergistic killing by venetoclax + azacitidine in MDS-RAEB (refractory anemia with excess blasts) via cell cycle regulation |
-| [36309981](https://pubmed.ncbi.nlm.nih.gov/36309981/) | 2023 | Phase 1b | American Journal of Hematology | Venetoclax + azacitidine in R/R MDS; safety and efficacy in heavily pretreated patients with bone marrow failure |
-| [29118268](https://pubmed.ncbi.nlm.nih.gov/29118268/) | 2018 | Meta-analysis | The Oncologist | Meta-analysis of AZA in lower-risk transfusion-dependent MDS after ESA failure; transfusion independence and hematologic improvement as primary endpoints |
-| [27107658](https://pubmed.ncbi.nlm.nih.gov/27107658/) | 2016 | Retrospective multicenter | Leukemia Research | Azacitidine vs decitabine head-to-head in RAEB (n=88); comparative efficacy in refractory anemia with excess blasts |
-| [26855506](https://pubmed.ncbi.nlm.nih.gov/26855506/) | 2016 | Prospective pilot | Indian J Hematol Blood Transfus | Low-dose cytarabine + azacitidine in elderly AML/MDS-RAEB2 (n=29); feasibility in frail patients with profound anemia |
-| [21947085](https://pubmed.ncbi.nlm.nih.gov/21947085/) | 2012 | Pilot study (prospective) | Annals of Hematology | AZA + low-dose cytarabine in newly diagnosed RAEB (n=18); response rate and safety data in anemia-predominant MDS |
-| [21431628](https://pubmed.ncbi.nlm.nih.gov/21431628/) | 2011 | Review | Advances in Therapy | AZA for AML with 20–30% blasts and multilineage dysplasia (EU-approved indication); evidence review supporting anemia correction in this border MDS/AML subtype |
-| [24195247](https://pubmed.ncbi.nlm.nih.gov/24195247/) | 2013 | Review | Revue Médicale de Bruxelles | Comprehensive review of refractory anemias as MDS; treatment landscape including azacitidine positioning across IPSS risk groups |
-| [27976488](https://pubmed.ncbi.nlm.nih.gov/27976488/) | 2017 | Case report | Pediatric Transplantation | Azacitidine as bridge to allogeneic HCT in pediatric Fanconi anemia + AML; demonstrates tolerability in profound bone marrow failure with constitutional anemia |
+Currently no related literature is available for bulbar polio.
 
----
+For reference, selected publications for the more credible candidates:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42304430](https://pubmed.ncbi.nlm.nih.gov/42304430/) | 2026 | Phase 2 trial | J Hematol Oncol | Final analysis of ruxolitinib plus azacitidine in MDS/MPN; interim objective response rate was 57% |
+| [29118268](https://pubmed.ncbi.nlm.nih.gov/29118268/) | 2018 | Meta-analysis | Oncologist | Azacitidine in lower-risk MDS, supporting activity in transfusion-dependent patients |
+| [40449509](https://pubmed.ncbi.nlm.nih.gov/40449509/) | 2025 | Phase 1/2 trial | Lancet Haematol | Bexmarilimab plus azacitidine in high-risk MDS and relapsed/refractory AML |
+| [26766110](https://pubmed.ncbi.nlm.nih.gov/26766110/) | 2016 | Retrospective cohort | Br J Haematol | Low-dose azacitidine in 24 children and young adults with MDS, including refractory cytopenia of childhood |
+| [24956145](https://pubmed.ncbi.nlm.nih.gov/24956145/) | 2015 | Registry | Leuk Lymphoma | AVIDA registry of 421 MDS patients treated with azacitidine in community practice |
+| [20664061](https://pubmed.ncbi.nlm.nih.gov/20664061/) | 2010 | Clinical study | Blood | Azacitidine in 54 patients with MPN progressing to MDS or AML |
+| [36309981](https://pubmed.ncbi.nlm.nih.gov/36309981/) | 2023 | Phase 1b | Am J Hematol | Venetoclax plus azacitidine in relapsed/refractory MDS |
+| [41098113](https://pubmed.ncbi.nlm.nih.gov/41098113/) | 2026 | Retrospective analysis | Haematologica | Venetoclax plus azacitidine in 38 children with relapsed/refractory AML |
+
+## EU Market Information
+
+All six EU authorizations for azacitidine are cancelled, so no valid authorization currently exists.
+
+| Authorization Number | Product Name | Approved Indication |
+|---------|------|-----------|
+| EMEA/H/C/004984 | Azacitidine Mylan | Adults not eligible for HSCT with intermediate-2 and high-risk MDS, CMML, AML with 20–30% blasts... |
+| EMEA/H/C/000978 | Vidaza | Adults not eligible for HSCT with intermediate-2 and high-risk MDS, CMML, AML with 20–30% blasts... |
+| EMEA/H/C/005075 | Azacitidine betapharm | Adults not eligible for HSCT with intermediate-2 and high-risk MDS, CMML, AML with 20–30% blasts... |
+| EMEA/H/C/005147 | Azacitidine Accord | Adults not eligible for HSCT with intermediate-2 and high-risk MDS, CMML, AML with 20–30% blasts... |
+| EMEA/H/C/004761 | Onureg | Maintenance therapy in adults with AML in complete remission after induction therapy, not candidates for HSCT |
+
+A sixth authorization, Azacitidine Kabi (EMEA/H/C/006154), is also cancelled and carries the same indications as the generic azacitidine products.
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — DNA methyltransferase inhibitor / Hypomethylating nucleoside analogue |
-| Myelosuppression Risk | **High** — neutropenia, thrombocytopenia, and anemia are very common (incidence >30%); CBC with differential must be monitored before each treatment cycle and dose-adjusted accordingly |
-| Emetogenicity Classification | Low to moderate |
-| Monitoring Items | CBC with differential (before each cycle), liver function tests (AST/ALT/bilirubin), serum creatinine and BUN, electrolytes |
-| Handling Protection | Must comply with cytotoxic drug handling regulations; protective equipment required during preparation and administration |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (hypomethylating nucleoside analogue) |
+| Myelosuppression Risk | High; the knowledge graph links azacitidine to thrombocytopenia, neutropenia and agranulocytosis |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver and renal function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations from the knowledge graph** (these come from the TxGNN knowledge graph, not from label text): liver failure, kidney disease, pyoureter, thrombocytopenia, neutropenia and agranulocytosis.
+- **Drug Interactions**: 85 interactions were recorded. Major-level examples include deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib and live BCG vaccine. Moderate-level examples include chloramphenicol, zidovudine, ganciclovir, azathioprine, alemtuzumab and several vaccines.
 
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Azacitidine's established mechanism of action directly targets epigenetic dysregulation of hematopoiesis — the central pathology of aregenerative anemia in the MDS spectrum — and is supported by the largest MDS/AML trial program available (n=2,000) plus specific case-series evidence in sideroblastic anemia; the L2 evidence level justifies conditional advancement, provided Taiwan-specific regulatory and safety gaps are addressed.
+The top-ranked prediction, bulbar polio, has no trials or literature and no plausible mechanistic link to azacitidine, so it should be treated as a model artefact. Among the other candidates, unclassified MDS (rank 3) and aregenerative anaemia (rank 5) merit "Proceed with Guardrails", but only within the existing MDS spectrum. Refractory cytopenia of childhood (rank 2) is a research question. The remaining predictions (ranks 6–10, plus rank 1) have no supporting evidence and should stay on hold.
 
 **To proceed, the following is needed:**
-- Taiwan TFDA SmPC or EU/US SmPC review for complete warnings, contraindications, and drug interaction profile (currently blocking — DG001)
-- Formal mechanism of action documentation for Taiwan regulatory submission (DG002)
-- Precise definition of the target aregenerative anemia subtype (aplastic, MDS-RARS/RCMD, sideroblastic) and corresponding patient population
-- Clarification of adult vs. pediatric application scope and appropriate dosing stratification
-- Pharmacovigilance plan aligned with Taiwan regulatory requirements for an unapproved drug
-- Consider compassionate use application or investigator-initiated trial registration in Taiwan as a near-term pathway
+- Retrieve the current SmPC warnings and contraindications (a blocking data gap).
+- Obtain detailed mechanism of action data.
+- Clarify the regulatory position, since all six EU authorizations are cancelled.
+- For unclassified MDS and refractory cytopenia of childhood, review direct-population evidence and risk stratification.
+- For non-MDS aregenerative anaemia, confirm applicability beyond the MDS and AML populations in the existing trials.
+- Check whether the paediatric use of azacitidine is covered by a suitable regulatory pathway.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

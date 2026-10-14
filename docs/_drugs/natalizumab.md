@@ -2,7 +2,7 @@
 layout: default
 title: Natalizumab
 parent: AI Predictions (L5)
-nav_order: 407
+nav_order: 421
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Natalizumab: From Multiple Sclerosis to Bronchitis
+# Natalizumab: From Relapsing Remitting Multiple Sclerosis to Bronchitis
 
 ## One-Sentence Summary
 
-> Natalizumab (marketed elsewhere as Tysabri) is a monoclonal antibody used to treat relapsing-remitting multiple sclerosis by blocking VLA-4-mediated leukocyte migration across the blood-brain barrier.
-> The TxGNN model's top prediction proposes **Bronchitis** as a new indication with a **99.46%** score,
-> but this is a pure AI-generated prediction — **0 clinical trials** and **0 publications** currently support it, and no plausible mechanistic link to bronchitis exists.
-
----
+Natalizumab is a monoclonal antibody originally used to treat highly active relapsing remitting multiple sclerosis (RRMS).
+The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials** and **no publications** currently support this prediction.
+The prediction is computational only and is not backed by actual studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this evidence pack (no TFDA/EMA license records provided). Natalizumab's globally recognized indication — referenced throughout the literature evidence in this pack (e.g., AFFIRM trial, RRMS therapy) — is relapsing-remitting multiple sclerosis. |
+| Original Indication | Highly active relapsing remitting multiple sclerosis (RRMS) in adults, as a single disease modifying therapy |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-> Currently, detailed mechanism of action data is not available (data gap DG002). Based on known information, Natalizumab is a monoclonal antibody that blocks VLA-4–mediated leukocyte adhesion and migration, and it is established for use in multiple sclerosis. Mechanistically, there is no known connection between this pathway and bronchitis, which is typically driven by infectious or irritant-triggered airway inflammation.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, natalizumab blocks alpha4-integrin and limits the trafficking of leukocytes into tissues. This is how it reduces inflammatory activity in multiple sclerosis.
 
-This candidate is not supported by clinical or literature evidence — it is a model-score-only ("S0 / L5") prediction. Notably, this pattern extends across nearly all of the top 10 TxGNN candidates for this drug: several (bronchitis, severe nonproliferative diabetic retinopathy, penile fibromatosis, neonatal dermatomyositis) have **zero** clinical trial or literature support of any kind. Where literature does exist for other ranked candidates (psoriasis, dermatitis, parapsoriasis, pityriasis lichenoides, pustulosis palmaris et plantaris), it consistently describes natalizumab **inducing or exacerbating** these skin conditions as adverse drug reactions — not treating them. This suggests the underlying knowledge-graph signal may be picking up drug-induced disease associations rather than genuine therapeutic potential, which is an important caveat for interpreting this candidate set.
+Because excessive leukocyte infiltration is also a feature of airway inflammation, a conceptual link to bronchitis can be drawn. However, natalizumab also causes immunosuppression and raises infection risk, including progressive multifocal leukoencephalopathy (PML). That works against its use in an infectious or inflammatory airway condition. No trials or publications connect natalizumab to bronchitis, so the high model score is not supported by evidence.
 
----
+## Other Predicted Indications Reviewed
+
+The data also covered nine other predictions. None has supportive clinical trial evidence, and several literature signals point to harm rather than benefit.
+
+| Rank | Predicted Indication | Score | Evidence Level | Main Observation |
+|------|------|------|------|------|
+| 2 | Parapsoriasis | 99.37% | L4 | Single case report describing an adverse skin reaction, not a benefit |
+| 3 | Psoriasis | 99.19% | L4 | Conflicting evidence: one case series of 18 MS patients reported improvement, while several case reports describe induced or aggravated psoriasis |
+| 4 | Severe nonproliferative diabetic retinopathy | 99.18% | L5 | Computational prediction only |
+| 5 | Acute lichenoid pityriasis | 99.04% | L4 | Same single adverse-event case report |
+| 6 | Pityriasis lichenoides | 98.65% | L4 | Same single adverse-event case report |
+| 7 | Penile fibromatosis | 98.42% | L5 | No mechanistic link established |
+| 8 | Pustulosis palmaris et plantaris | 98.30% | L4 | Case report of natalizumab-induced pustular psoriasis; other articles are general reviews |
+| 9 | Dermatitis | 98.25% | L4 | Multiple reports of cutaneous adverse reactions, a safety signal rather than therapeutic evidence |
+| 10 | Neonatal dermatomyositis | 97.71% | L5 | Computational prediction only; clinical evaluation impractical |
+
+All ten predictions were rated Hold.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available for bronchitis.
 
 ## EU Market Information
 
-Natalizumab has no EU/EMA or Taiwan marketing authorizations recorded in this evidence pack (0 licenses; market status: Not Marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/000603 | Tysabri | Not specified | Single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis (RRMS) in patients with high disease activity despite at least one DMT, or with rapidly evolving severe... | Cancelled |
+| EMEA/H/C/005752 | Tyruko | Not specified | Single disease modifying therapy in adults with highly active RRMS in patients with high disease activity despite at least one DMT, or with rapidly evolving severe RRMS... | Cancelled |
 
 ## Safety Considerations
 
-Structured safety fields (key warnings, contraindications, drug interactions) are not available in this evidence pack — this is flagged as a **Blocking** data gap (DG001: TFDA label/warnings not yet retrieved), which prevents this candidate from advancing past the S1 safety screening stage.
+- **Contraindications (knowledge graph)**: The knowledge graph lists progressive multifocal leukoencephalopathy (PML) as a disease contraindicated with natalizumab. The literature reviewed documents natalizumab-associated PML, a rare and often fatal brain infection caused by JC virus.
+- **Drug Interactions**: 100 interactions were found. Major interactions include corticosteroids (hydrocortisone, prednisolone, prednisone, dexamethasone, betamethasone, budesonide, triamcinolone), radiopharmaceutical or antibody agents (iobenguane I-131, ibritumomab tiuxetan, tositumomab), and levamisole, trimetrexate and mercaptopurine. Moderate interactions include naltrexone, and minor interactions include zinc salts.
+- **Cutaneous and hypersensitivity reactions**: The literature describes delayed allergic reactions, a type III systemic reaction, drug eruptions and a sarcoidosis-like reaction.
 
-That said, the literature evidence collected for adjacent candidates in this pack repeatedly and independently documents natalizumab's association with **progressive multifocal leukoencephalopathy (PML)** — a rare but often fatal CNS infection caused by JC virus reactivation (e.g., PMID 20298966, 19647202, 24136456, 30324046, 20925435, 36283150, 20073129, 22082208, 36283150). This is a well-established, serious safety signal for natalizumab and must be factored into any repurposing risk-benefit assessment, regardless of target indication.
-
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-None of the top 10 TxGNN-predicted indications for natalizumab have credible supporting evidence. Most candidates, including the top-ranked bronchitis, have no clinical trials or literature at all. Where literature exists for other candidates, it exclusively describes drug-induced adverse skin reactions rather than therapeutic efficacy, and a blocking data gap prevents even a baseline safety review.
+The bronchitis prediction rests on a high model score alone, with no trials or publications. Natalizumab's immunosuppressive profile and PML risk argue against use in an infection-prone airway condition. Both EU authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA official label (SmPC) with warnings, contraindications, and PML risk-management information (resolves DG001)
-- Confirmed mechanism of action data from DrugBank (resolves DG002)
-- Any prospective or mechanistic studies directly testing natalizumab in a respiratory indication, as opposed to adverse-event case reports
-- Re-evaluation of this candidate set's ranking methodology, since several top-scored predictions appear to reflect known side-effect signals rather than therapeutic signals
+- Mechanism of action data and a clear mechanistic rationale for airway disease
+- Preclinical or observational evidence of benefit in bronchitis
+- Full safety information from the SmPC, including a PML risk assessment
+- Confirmation of the reasons for the authorization cancellations and the current availability of natalizumab products in the EU
+- Reassessment of other candidates, such as psoriasis, only if prospective evidence resolves the conflicting case reports
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

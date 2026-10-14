@@ -2,7 +2,7 @@
 layout: default
 title: Palivizumab
 parent: AI Predictions (L5)
-nav_order: 447
+nav_order: 461
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skills — this is a direct report-generation task following the explicit template in the system prompt; I'll produce the Markdown report from the evidence pack as specified.
-
-# Palivizumab: From Original Indication (Data Unavailable) to Benign Neoplasm of Tongue
+# Palivizumab: From RSV Prevention in High-Risk Infants to Benign Neoplasm of Tongue
 
 ## One-Sentence Summary
 
-> Palivizumab's original indication and mechanism of action are not available in the current dataset (drug is not marketed in the EU registry on file).
-> The TxGNN model predicts it may be effective for **Benign Neoplasm of Tongue**,
-> but this ranking is supported by **0 clinical trials** and **0 publications**, and the model's own rationale notes no known mechanistic link between this anti-viral monoclonal antibody and tumour biology.
-
----
+Palivizumab is a monoclonal antibody originally used to prevent serious lower respiratory tract disease caused by respiratory syncytial virus (RSV) in high-risk children.
+The TxGNN model predicts it may be effective for **benign neoplasm of tongue**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no license/indication text on file) |
+| Original Indication | Prevention of serious lower-respiratory-tract disease requiring hospitalisation caused by RSV in children at high risk (preterm birth ≤35 weeks, bronchopulmonary dysplasia, haemodynamically significant congenital heart disease) |
 | Predicted New Indication | Benign neoplasm of tongue |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for palivizumab is not available in this evidence pack. Based on general drug class knowledge referenced in the model's own rationale, palivizumab is described as an anti-RSV F-protein monoclonal antibody that neutralizes respiratory syncytial virus — a mechanism with no established biological link to oncogenesis or tumour suppression.
+Currently, detailed mechanism of action data compiled for this report is not available. From general knowledge, palivizumab is a humanized monoclonal antibody that binds the F protein of RSV and neutralizes the virus. Its proven use is preventing RSV disease in high-risk infants.
 
-The repurposing rationale attached to this prediction explicitly states that there is **no known mechanistic relationship** between an antiviral monoclonal antibody and a benign tongue neoplasm, and characterizes the high TxGNN score as arising from knowledge-graph relational inference rather than mechanism-based reasoning. This pattern repeats across all ten ranked predictions for this drug (epiglottis neoplasm, cervical neuroblastoma, various benign head/neck neoplasms, testicular tumour, cystic neoplasm, schwannoma, mesenchymoma, thyroglossal duct cyst) — none carry a stated mechanistic rationale, and all are flagged the same way by the model itself.
+The original indication (a viral respiratory infection) and the predicted indication (a benign tumour of the tongue) are biologically unrelated. No RSV-driven pathway is established in tongue neoplasms, and an antibody against a viral antigen has no known target in this tissue. Any anti-tumour effect would require an unproven off-target or immune mechanism.
 
-Given the absence of biological plausibility, clinical evidence, and literature support, this prediction should be treated as a low-confidence signal generated purely from graph topology, not a candidate ready for pharmacological interpretation.
+The high TxGNN score (99.94%) is a computational prediction only. No trials or literature support it, so this report finds no credible mechanistic rationale at this stage.
 
----
+Other top-ranked predictions show the same pattern: epiglottis neoplasm, cervical neuroblastoma, benign neoplasm of hypopharynx, benign neoplasm of floor of mouth, tumor of testis and paratestis, cystic neoplasm, schwannoma of jugular foramen, mesenchymoma, and thyroglossal duct cyst. All scored about 99.94%, all are L5, and none has trial or literature support. Such uniformly high scores across unrelated tumour types suggest a model artifact rather than a drug-specific signal.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are currently on file for palivizumab in this dataset (`total_licenses: 0`, market status: Not Marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000257 (cancelled) | Synagis | Not specified | Prevention of serious lower-respiratory-tract disease requiring hospitalisation caused by respiratory syncytial virus (RSV) in children at high risk for RSV disease: children born at 35 weeks of gestation or less... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
-
-*(Note: A blocking data gap — TFDA label warnings/contraindications — has been flagged (DG001) and must be resolved before any safety assessment (S1 stage) can proceed. A high-severity data gap on mechanism of action (DG002) is also outstanding.)*
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is at the earliest decision stage (S0) with evidence level L5 — a model-only signal with zero supporting clinical trials or literature, and the rationale itself states there is no known mechanistic link between palivizumab's antiviral mechanism and tumour pathology. A blocking data gap on safety labeling (DG001) also prevents progression to safety screening (S1).
+The prediction has no clinical trials, no literature, and no plausible mechanistic link between an anti-RSV F-protein antibody and benign tongue neoplasms. The only EU authorization has been cancelled, and key safety information is missing.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label data (warnings, contraindications) to clear the blocking data gap (DG001)
-- Confirmed mechanism of action (MOA) data via DrugBank API (DG002)
-- Independent biological plausibility assessment, since the model's own rationale does not support a mechanistic connection to any of the top 10 predicted indications
-- If pursued, preclinical or case-level evidence generation before considering re-scoring
+- Mechanism of action data (e.g., from DrugBank) and a rationale for any activity in tongue tissue
+- Safety information from the EMA product information (warnings and contraindications)
+- Preclinical or mechanistic studies showing a biological effect in the predicted disease
+- Clarification of the cancelled EU authorization status and available formulations/routes
+- A check of whether the uniformly high scores across unrelated tumour types reflect a model artifact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

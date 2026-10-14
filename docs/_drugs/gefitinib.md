@@ -2,7 +2,7 @@
 layout: default
 title: Gefitinib
 parent: AI Predictions (L5)
-nav_order: 272
+nav_order: 280
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,56 +29,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Gefitinib: From Non-Small Cell Lung Cancer to Gingival Fibromatosis
+# Gefitinib: From EGFR-Mutant Non-Small-Cell Lung Cancer to Gingival Fibromatosis
 
 ## One-Sentence Summary
 
-Gefitinib is an EGFR tyrosine kinase inhibitor originally developed for EGFR-mutation-positive non-small cell lung cancer (NSCLC), as referenced within the literature evidence in this pack.
-The TxGNN model predicts it may be effective for **Gingival Fibromatosis**, but this candidate is currently supported by **0 clinical trials** and **0 publications**, with no known mechanistic hypothesis linking EGFR inhibition to this condition.
-
----
+Gefitinib is an EGFR tyrosine kinase inhibitor, originally used for locally advanced or metastatic non-small-cell lung cancer (NSCLC) with activating EGFR mutations.
+The TxGNN model predicts it may be effective for **gingival fibromatosis**, but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | EGFR-mutation-positive non-small cell lung cancer (per literature within this pack, e.g. PMID 24794908) |
-| Predicted New Indication | Gingival Fibromatosis |
+| Original Indication | Locally advanced or metastatic NSCLC with activating EGFR tyrosine kinase mutations |
+| Predicted New Indication | Fibromatosis, gingival |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured drug profile (MOA marked as a data gap). Based on literature captured elsewhere in this evidence pack (e.g. PMID 24794908, PMID 12841190, PMID 16330971), Gefitinib is a selective small-molecule inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase, and its efficacy in chemoresistant, EGFR-mutation-positive NSCLC is well established — this is the basis of its original clinical use.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Gefitinib is known as an EGFR tyrosine kinase inhibitor, and its efficacy in EGFR-mutant NSCLC is established. Whether this extends to gingival fibromatosis is unproven.
 
-Gingival fibromatosis, however, is a benign, typically hereditary or drug-induced fibrous overgrowth of gingival connective tissue, mechanistically unrelated to EGFR-driven tumor proliferation. The repurposing rationale attached to this candidate explicitly states there is no known mechanistic hypothesis connecting EGFR-TKI pharmacology to gingival fibromatosis.
+One possible link is that EGFR/ErbB signalling drives fibroblast proliferation, which could be relevant to a fibroproliferative gum condition. This is speculative and not supported by any trial or publication in the data. The high graph score may partly reflect network structure rather than a true biological relationship.
 
-Given the absence of any clinical trial or literature support and no plausible mechanistic bridge, this prediction should be treated as a pure model output (TxGNN score only) rather than a biologically grounded hypothesis. For context, other lower-ranked candidates in this evidence pack (e.g. lung hilum carcinoma, pulmonary sulcus neoplasm) have some supporting literature, but these largely overlap with Gefitinib's already-approved NSCLC indication rather than representing genuine repurposing signals.
-
----
+Other top-ranked predictions are similarly unsupported, and several have no plausible EGFR mechanism. For example, the VCP-related inclusion body myopathy with Paget disease looks like a network artifact. Predictions that involve lung tumours (such as lung hilum carcinoma and pulmonary sulcus neoplasm) mainly reflect the already-approved lung cancer setting rather than a genuinely new indication.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered for gingival fibromatosis.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available for gingival fibromatosis.
 
 ## EU Market Information
 
-Gefitinib is currently **not marketed** in the EU under this evidence pack, with 0 marketing authorizations on file.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001016 (cancelled) | Iressa | Not specified | Treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase. |
 
 ## Cytotoxicity
 
@@ -87,29 +77,33 @@ Gefitinib is currently **not marketed** in the EU under this evidence pack, with
 | Cytotoxicity Classification | Targeted therapy (EGFR tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC; liver function and respiratory symptoms are relevant given the associations below |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations from the knowledge graph (not label text)**: liver disease, gallbladder disease, interstitial lung disease, pulmonary fibrosis and postinflammatory pulmonary fibrosis are linked to gefitinib as contraindication-type edges. Published case reports in the compiled literature also describe gefitinib-induced pneumonitis and interstitial lung disease.
+- **Drug Interactions**: 100 interactions were found. Most of those listed are Moderate severity. Main ones include:
+  - Acid-suppressing agents: famotidine, ranitidine, cimetidine, nizatidine, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole
+  - CYP-related agents: clarithromycin, miconazole, clotrimazole, aprepitant, dexamethasone
+  - Others: naltrexone, troglitazone
+  - Unknown severity: calcitriol, glimepiride
 
----
+Official warnings and contraindications from the product information were not available. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials, no publications, and no established mechanistic hypothesis linking EGFR-TKI pharmacology to gingival fibromatosis — the TxGNN score alone is insufficient evidence to justify further investment in this candidate.
+The prediction is model-only (L5), with no trials or literature for gingival fibromatosis. The mechanistic link is speculative. The only EU authorization is cancelled, and the safety data compiled are incomplete.
 
 **To proceed, the following is needed:**
-- A biological plausibility assessment or preclinical hypothesis connecting EGFR signaling to gingival fibrous overgrowth
-- TFDA/EMA SmPC data (key warnings, contraindications, DDI) currently flagged as blocking data gaps (DG001)
-- Confirmed mechanism of action data (DG002)
-- If pursued, an initial case-series or observational signal before any trial design
+- Any preclinical or clinical evidence on EGFR inhibition in gingival fibromatosis or related fibroproliferative conditions
+- Mechanism of action data for gefitinib and a review of how it would apply to this disease
+- Official SmPC warnings and contraindications, including the interstitial lung disease and liver risks
+- A benefit-risk assessment for a non-oncology population, since gefitinib is a cancer drug with notable skin and lung toxicity
+- Clarification of the regulatory status, given the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

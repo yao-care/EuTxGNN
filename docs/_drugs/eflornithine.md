@@ -2,7 +2,7 @@
 layout: default
 title: Eflornithine
 parent: AI Predictions (L5)
-nav_order: 202
+nav_order: 209
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,102 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eflornithine: From Human African Trypanosomiasis to Bovine Trypanosomiasis (and Monoclonal Gammopathy as a Secondary Hypothesis)
+# Eflornithine: From Facial Hirsutism to Esotropia
 
 ## One-Sentence Summary
 
-Eflornithine (DB06243) is an ornithine decarboxylase (ODC) inhibitor already approved for human African trypanosomiasis (Gambian sleeping sickness). TxGNN's top-ranked prediction (esotropia, 99.85%) has **no supporting evidence and is assessed by the model's own rationale as a likely false positive**; among the ten candidates screened, only two — **bovine trypanosomiasis** and **monoclonal gammopathy** — advanced past initial screening (S1), each supported by **preclinical/mechanistic literature only** (2 and 9 publications respectively, **no clinical trials**).
-
----
+Eflornithine was originally authorised in the EU for treating facial hirsutism in women (as Vaniqa).
+The TxGNN model predicts it may be effective for **esotropia**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It rests on a graph-based model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Human African Trypanosomiasis (per repurposing rationale; not separately recorded in structured `original_indications`) |
-| Predicted New Indication | Trypanosomiasis, Bovine (primary candidate); Monoclonal Gammopathy (secondary candidate — see below) |
-| TxGNN Prediction Score | 98.42% (bovine trypanosomiasis, rank 13,875 of model output) |
-| Evidence Level | L4 (preclinical/mechanistic literature only, no clinical trials) |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| Original Indication | Treatment of facial hirsutism in women |
+| Predicted New Indication | Esotropia |
+| TxGNN Prediction Score | 99.85% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
-Note: the model's #1-ranked prediction by raw score, **esotropia** (99.85%), is not used as the headline indication here because it has zero clinical trials, zero literature, and the evidence pack's own mechanistic rationale flags it as "an KG-embedding-similarity false positive." The two candidates below are the only ones that reached decision stage S1 ("Research Question").
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this evidence pack (`original_moa: [Data Gap]`). Based on the literature captured here, eflornithine (DFMO, α-difluoromethylornithine) is an irreversible inhibitor of ornithine decarboxylase, the rate-limiting enzyme in polyamine biosynthesis. It is clinically established for late-stage human African trypanosomiasis (*Trypanosoma brucei gambiense*), where blocking parasite polyamine synthesis halts proliferation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From other pharmacology information, eflornithine is known to irreversibly inhibit ornithine decarboxylase (ODC, encoded by *ODC1*), the first enzyme in polyamine synthesis. This slows cell growth, which fits its use in reducing facial hair growth.
 
-**Bovine trypanosomiasis** is caused by closely related trypanosome species (e.g., *T. congolense*, *T. vivax*) that share highly conserved polyamine metabolism pathways with *T. brucei*. This is the most mechanistically direct extension of the drug's approved use across host species rather than across disease categories, and is supported by *in vitro* evidence (PMID 32053698) showing eflornithine activity against blood parasites including trypanosomes, and mechanistic work on the trypanosomatid polyamine pathway (PMID 23525104).
+Esotropia is an eye-alignment disorder involving ocular motility and binocular vision. No plausible mechanistic link has been identified between polyamine depletion and its pathophysiology. The original indication (hair growth in the skin) and the predicted indication (eye misalignment) are also biologically unrelated.
 
-**Monoclonal gammopathy** (a plasma-cell disorder and myeloma precursor) has a different rationale: multiple 1985–1995 studies show that human myeloma cell lines develop resistance to DFMO via ODC gene amplification/overexpression, demonstrating that the drug-target axis is pharmacologically active in plasma cells. This is evidence of target engagement, not of therapeutic efficacy — no study tested DFMO as a treatment for gammopathy itself, and the evidence base is three decades old with no contemporary follow-up.
-
----
+The high score (0.9985) is therefore best treated as a statistical output of the knowledge graph, not as evidence of efficacy. Other top-ranked predictions show similar problems. Examples include neurotrophic keratopathy (where ODC inhibition would be expected to impair epithelial repair), congenital analbuminemia and congenital prothrombin deficiency (both single-gene disorders). Among lower-ranked predictions, bovine trypanosomiasis is the only one with a biologically plausible rationale, because eflornithine is an established treatment for human African trypanosomiasis.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for either candidate indication (bovine trypanosomiasis or monoclonal gammopathy).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-### Candidate 1: Trypanosomiasis, Bovine
+Currently no related literature available.
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [32053698](https://pubmed.ncbi.nlm.nih.gov/32053698/) | 2020 | Preclinical/In vitro | PLoS One | Eflornithine shows antitrypanosomal activity against blood parasites (Babesia, Theileria, related trypanosomatids); positioned as best-choice therapy for late-stage human African trypanosomiasis |
-| [23525104](https://pubmed.ncbi.nlm.nih.gov/23525104/) | 2013 | Preclinical/Mechanistic | J Biol Chem | Characterizes polyamine biosynthesis as a key drug target in African trypanosomes; eflornithine inhibits the first step (spermidine synthesis) via ODC inhibition |
+## EU Market Information
 
-### Candidate 2: Monoclonal Gammopathy
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [7646459](https://pubmed.ncbi.nlm.nih.gov/7646459/) | 1995 | In vitro/Mechanistic | Biochem J | DFMO-resistant human myeloma cells show long-term reduction of amplified ODC gene sequences after drug withdrawal |
-| [3934157](https://pubmed.ncbi.nlm.nih.gov/3934157/) | 1985 | In vitro/Mechanistic | J Biol Chem | ODC is translationally regulated by polyamines in DFMO-resistant mouse myeloma cells |
-| [3015379](https://pubmed.ncbi.nlm.nih.gov/3015379/) | 1986 | In vitro/Mechanistic | Cancer Research | Polyamines modulate etoposide cytotoxicity and DNA strand scission in myeloma (8226) and leukemia (L1210) cell lines |
-| [3141118](https://pubmed.ncbi.nlm.nih.gov/3141118/) | 1988 | Cohort (biomarker) | Chemotherapy | Polyamine levels increase in blood/marrow mononuclear cells of leukemia/myeloma patients treated with MGBG despite DFMO co-administration |
-| [3139580](https://pubmed.ncbi.nlm.nih.gov/3139580/) | 1988 | Cohort (biomarker) | Investigational New Drugs | IV DFMO alters circulating and marrow polyamine levels in refractory leukemia/myeloma patients (9 patients) |
-| [1898373](https://pubmed.ncbi.nlm.nih.gov/1898373/) | 1991 | In vitro/Mechanistic | Biochem J | Quantifies ODC gene dosage and mRNA in DFMO-resistant human myeloma cells |
-| [2501085](https://pubmed.ncbi.nlm.nih.gov/2501085/) | 1989 | In vitro/Mechanistic | EMBO J | DFMO-resistant mouse myeloma cells show ODC gene rearrangement with the immunoglobulin gamma-1 switch region |
-| [3109382](https://pubmed.ncbi.nlm.nih.gov/3109382/) | 1987 | In vitro/Mechanistic | Biochem J | Human myeloma cells acquire DFMO resistance via ODC gene amplification (10-fold activity increase) |
-| [3107550](https://pubmed.ncbi.nlm.nih.gov/3107550/) | 1987 | In vitro/Mechanistic | Biochem Biophys Res Commun | Human myeloma cells acquire DFMO resistance without ODC overproduction, via an alternative mechanism |
-
----
-
-## Taiwan Market Information
-
-Eflornithine is not marketed in Taiwan (0 authorizations on file). No TFDA license records are available in this evidence pack; TFDA package-insert warnings/contraindications remain an unresolved blocking data gap (see below).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000325 | Vaniqa | Not specified | Treatment of facial hirsutism in women. (Status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No structured warnings, contraindications, or drug-interaction data were retrievable for eflornithine in this evidence pack (TFDA label lookup is flagged as a blocking data gap: DG001).
+- **Knowledge-graph contraindication signals** (not from label text): exanthem and dermatitis.
+- **Drug Interactions**: No drug-drug interactions were identified. The only record is the pharmacological target, ornithine decarboxylase (ODC1), which eflornithine inhibits.
 
----
-
-## Other Screened Candidates (Not Advanced)
-
-Eight additional TxGNN-predicted indications (esotropia, neurotrophic keratopathy, congenital analbuminemia, hyperamylasemia, polyclonal hyperviscosity syndrome, blood group incompatibility, premalignant hematological system disease, congenital prothrombin deficiency) scored highly (98–99.9%) but returned **zero clinical trials and zero literature** on targeted search, and each rationale explicitly notes no known mechanistic link to ODC/polyamine biology. These remain at decision stage S0 (Hold) and are not pursued further.
-
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Both viable candidates (bovine trypanosomiasis, monoclonal gammopathy) are supported only by decades-old preclinical/mechanistic literature with no clinical trials — sufficient to frame a research question, but not to justify clinical development or a guardrailed pilot. The model's top-scored prediction (esotropia) has no evidentiary support and is assessed as a probable false positive.
+The esotropia prediction has no supporting trials or literature and no plausible mechanistic link (Evidence Level L5). The only EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
-- TFDA package-insert data (warnings, contraindications) — currently a blocking gap (DG001)
-- DrugBank-sourced mechanism of action detail (DG002)
-- Contemporary (post-1995) validation of the ODC/polyamine-myeloma link, ideally in patient-derived samples
-- Assessment of regulatory pathway feasibility for bovine trypanosomiasis (veterinary use of a human-approved drug is a distinct approval track from clinical repurposing)
-- Any available DDI/toxicity data, since the current DDI query returned no results
+- A credible mechanistic hypothesis linking polyamine/ODC inhibition to ocular motility or binocular alignment, supported by preclinical data
+- Mechanism of action data and SmPC warnings and contraindications to enable safety screening
+- Assessment of the route of administration (the only approved product was topical, and no routes are specified for the new indication)
+- Consideration of better-supported candidates from the same prediction list. Examples are trypanosomiasis-related indications (L4, preclinical evidence only) and oncology-related uses, which could be evaluated separately.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

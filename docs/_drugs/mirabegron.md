@@ -2,7 +2,7 @@
 layout: default
 title: Mirabegron
 parent: AI Predictions (L5)
-nav_order: 397
+nav_order: 411
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,58 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mirabegron: From Overactive Bladder (mechanism-inferred) to Thoracic Malformation
+# Mirabegron: From Overactive Bladder to Thoracic Malformation
 
 ## One-Sentence Summary
 
-Mirabegron is a β3-adrenergic receptor agonist that mechanistically acts on bladder detrusor muscle and brown adipose tissue; no confirmed original indication or EU marketing authorization is recorded in this evidence pack. The TxGNN model's top prediction is **Thoracic Malformation** (score 83.06%), but this is supported by **zero clinical trials** and **zero publications**, and the evidence pack's own mechanistic review flags it as a likely knowledge-graph co-occurrence artifact rather than a genuine drug–disease relationship.
+Mirabegron is a beta-3 adrenergic agonist, originally used to treat overactive bladder in adults and neurogenic detrusor overactivity in children.
+The TxGNN model predicts it may be effective for **thoracic malformation**, but **no clinical trials and no publications** currently support this prediction.
+It is a graph-based prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in regulatory data (mechanistic notes indicate action on bladder detrusor muscle, consistent with β3-agonist class use in overactive bladder) |
-| Predicted New Indication | Thoracic Malformation |
+| Original Indication | Overactive bladder in adults (urgency, increased micturition frequency and/or urgency incontinence); neurogenic detrusor overactivity in paediatric patients aged 3 to <18 years |
+| Predicted New Indication | Thoracic malformation |
 | TxGNN Prediction Score | 83.06% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not currently marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Mirabegron's original indication is not available in the evidence pack (flagged as a Data Gap, DG002, High severity). Based on the limited information present, Mirabegron is known as a β3-adrenergic receptor agonist acting primarily on bladder detrusor muscle and brown adipose tissue — consistent with the drug class typically used for overactive bladder, though this is not confirmed by any regulatory license text in this pack.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, mirabegron is a beta-3 adrenergic agonist that relaxes the smooth muscle of the bladder detrusor, and its efficacy in overactive bladder has been established.
 
-For the top-ranked prediction, thoracic malformation, the evidence pack's own mechanistic analysis explicitly concludes there is **no known receptor expression or signaling pathway link** between β3-adrenergic agonism and thoracic skeletal developmental abnormality. It classifies this association as a statistical artifact arising from knowledge-graph embedding proximity rather than a genuine mechanism-derived hypothesis.
+The review of this prediction found no clinically supported mechanistic link. No known pathway connects beta-3 agonism to the development of thoracic malformations, which are structural developmental conditions. The score of 0.831 comes from the knowledge graph model alone and may reflect indirect graph proximity rather than a therapeutic mechanism.
 
-Notably, several other candidates in the top-10 list (rank 3: polycystic kidney/liver disease; ranks 6–7: esophageal varices) show similarly weak or even **mechanistically contradictory** rationale — e.g., β3-agonism activates cAMP signaling, which runs counter to the cAMP-lowering strategy used therapeutically in polycystic kidney disease (tolvaptan), and is pharmacologically opposite to the non-selective β-blockade used in esophageal varices management. No candidate in this evidence pack currently has a mechanistically well-supported rationale.
+Other top-ranked predictions are also unsupported. These include renal-hepatic-pancreatic dysplasia, polycystic kidney disease 3, Joubert syndrome with renal defect, esophageal varices, and several rare hair and kidney disorders. None has trials or literature, and all are rated L5 and Hold. For polycystic kidney disease, a speculative cAMP-related concern suggests potential harm rather than benefit, because beta-3 agonism raises cAMP, which drives cyst growth.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002388 (cancelled) | Betmiga | Prolonged-release tablet | Overactive bladder in adults; neurogenic detrusor overactivity in paediatric patients aged 3 to less than 18 years |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals**: hypertensive disorder and hypertension. These come from the TxGNN knowledge graph, not from label text.
+- **Drug Interactions**: 70 interactions were identified in total. The main ones are:
+  - **Major**: eliglustat
+  - **Moderate**: lorcaserin, trospium, metoclopramide, dexfenfluramine, fenfluramine, glycerol phenylbutyrate, promethazine, lusutrombopag, fostamatinib
+  - Many others are Minor (for example aprepitant, dexamethasone, cimetidine, clarithromycin, warfarin).
 
-**Note:** A Blocking-severity data gap (DG001) has been identified — TFDA/regulatory-equivalent warnings and contraindications for Mirabegron are not available, which prevents this candidate from entering the S1 safety pre-screening stage.
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (thoracic malformation) is an L5, model-only association with no clinical trial or literature support, and the evidence pack's own mechanistic review identifies it as a likely spurious knowledge-graph correlation rather than a biologically plausible signal. Combined with a Blocking-severity safety data gap and the absence of confirmed EU marketing status, there is currently no basis to advance this candidate.
+The prediction is supported only by the model score, with no clinical trials, no literature, and no plausible mechanistic link. The product's only EU authorization is also cancelled. The knowledge-graph hypertension signal adds a further caution.
 
 **To proceed, the following is needed:**
-- TFDA/EMA-equivalent SmPC warnings and contraindications (resolves DG001, Blocking)
-- Confirmed original indication and mechanism of action data (resolves DG002, High)
-- Independent preclinical or mechanistic evidence linking β3-adrenergic agonism to thoracic malformation before this candidate can move beyond S0
-- If pursuing alternative candidates from this pack (e.g., rank 3, polycystic kidney/liver disease), a pharmacological reassessment is needed given the cAMP-pathway directionality conflict noted in the rationale
+- Mechanism of action data and a plausible biological rationale linking beta-3 agonism to thoracic malformation
+- Preclinical or literature evidence supporting the prediction
+- Label warnings and contraindications from the SmPC to complete safety screening
+- Clarification of the cancelled EU authorization status
+- Review of whether the target condition is a structural malformation that a symptomatic drug could plausibly treat
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

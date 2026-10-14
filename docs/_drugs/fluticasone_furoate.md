@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluticasone Furoate
-parent: High Evidence (L1-L2)
-nav_order: 261
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 268
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluticasone Furoate
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,78 +29,75 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Fluticasone Furoate: From Unspecified Indication to Atopic Eczema
+# Fluticasone Furoate: From Allergic Rhinitis to Atopic Eczema
 
 ## One-Sentence Summary
 
-Fluticasone furoate's original approved indication is not documented in the current dataset (no EU marketing authorization on file), and its mechanism of action is also unrecorded here. The TxGNN model predicts it may be effective for **Atopic Eczema**, with **11 clinical trials** and **2 publications** currently identified as supporting evidence for this candidate pair.
+Fluticasone furoate is a corticosteroid originally used to treat the symptoms of allergic rhinitis (as the EU product Avamys).
+The TxGNN model predicts it may be effective for **atopic eczema**, but **no clinical trials** and only **2 low-tier publications** (a review and a case report, neither with efficacy data) are linked to this prediction, so the evidence is model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in dataset (0 EU authorizations on file) |
-| Predicted New Indication | Atopic Eczema |
+| Original Indication | Treatment of the symptoms of allergic rhinitis in adults, adolescents (12 years and over) and children (6-11 years) |
+| Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for fluticasone furoate is not available in this dataset. Elsewhere in the same evidence pack, the drug is characterized as a third-generation, high-potency synthetic glucocorticoid that binds the glucocorticoid receptor (GR) to suppress IL-4/5/13-driven inflammatory pathways — the pharmacological basis for its established respiratory combination products (e.g., fluticasone furoate/vilanterol, fluticasone furoate/umeclidinium/vilanterol).
+Currently, detailed mechanism of action data is not available. Based on known information, fluticasone furoate is a potent glucocorticoid with anti-inflammatory and immunosuppressive effects. Its efficacy in allergic rhinitis, a Th2-driven allergic condition, is established, and mechanistically it may be applicable to other allergic inflammatory diseases such as atopic eczema.
 
-Because no original indication is documented here, the relationship between a prior use and atopic eczema cannot be drawn directly from this dataset. Instead, the rationale rests on drug-class mechanism: topical and systemic glucocorticoids suppress the keratinocyte and T-cell inflammatory cascade via GR, which is the standard pharmacological basis for corticosteroid use in atopic dermatitis/eczema.
+Allergic rhinitis frequently coexists with atopic dermatitis, and the two share an allergic inflammatory background. This is the plausible basis for the model's prediction.
 
-However, it is important to note that the direct clinical evidence identified for this indication is drawn almost entirely from **fluticasone propionate** (marketed as Cutivate/Flixotide) rather than the furoate ester evaluated here. Fluticasone furoate has substantially higher GR-binding affinity and a different formulation history (primarily developed for intranasal and inhaled use), so its applicability to topical eczema treatment currently relies on extrapolation from the propionate ester rather than furoate-specific trial data.
+There are important limits. Fluticasone furoate is formulated for intranasal and inhaled delivery, and the data compiled for this report show no topical or dermatologic development. The high TxGNN score is a prediction only. The same applies to the other skin-related predictions (contact dermatitis, occupational dermatitis, phototoxic dermatitis, 2-hydroxyethyl methacrylate sensitization), which rest on class-level corticosteroid reasoning without drug-specific evidence.
+
+**Other predicted indications.** The only prediction with substantial evidence is **obstructive lung disease** (L1, Proceed with Guardrails). It is largely an extension of the drug's existing respiratory use rather than a truly new indication, and the evidence comes from combination products (see the final section).
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Completed | 56 | Open-label study of Cutivate (fluticasone propionate) 0.05% lotion and its effect on the HPA axis in pediatric atopic dermatitis |
-| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Completed | 107 | Randomized study of intermittent fluticasone propionate 0.05% cream (twice weekly) plus daily moisturizer to reduce relapse risk in stabilized pediatric AD |
-| [NCT00119158](https://clinicaltrials.gov/study/NCT00119158) | Phase 4 | Completed | 90 | Double-blind, vehicle-controlled paired study of combined pimecrolimus (Elidel) + fluticasone (Cutivate) cream in severe AD lesions |
-| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Phase 4 | Completed | 487 | Randomized double-blind comparison of tacrolimus 0.03% vs. fluticasone 0.005% ointment in children ≥2 years with moderate-to-severe AD |
-| [NCT03594565](https://clinicaltrials.gov/study/NCT03594565) | Early Phase 1 | Completed | 13 | Case series on topical nasal steroids for skin reactions to continuous glucose monitors in children/youth with type 1 diabetes |
-| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Phase 4 | Completed | 577 | Randomized double-blind comparison of tacrolimus 0.1% vs. fluticasone 0.005% ointment in adults with facial ("red face") AD lesions |
-| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Completed | 121 | Pilot RCT comparing EpiCeram device vs. mid-strength fluticasone propionate 0.05% steroid cream in pediatric AD |
-| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | N/A | Completed | 98 | RCT of oral probiotic supplementation in children with AD, using SCORAD index outcome |
-| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Active, not recruiting | 398 | RCT of proactive skin-barrier care (EpiCeram) plus proactive fluticasone propionate cream vs. reactive therapy to prevent AD/food allergy in infants |
-| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Phase 3 | Terminated | 54 | RCT of twice-weekly fluticasone propionate 0.05% cream maintenance therapy to reduce AD relapse risk in children |
-
-*(One additional low-relevance trial, NCT00426283 — swallowed fluticasone propionate for eosinophilic esophagitis — was excluded as a disease mismatch.)*
+Currently no related clinical trials registered for atopic eczema.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case report | Indian Journal of Otolaryngology and Head and Neck Surgery | Case study on allergen immunotherapy in a patient with autoimmune terrain; notes recent applications of immune-modulating approaches to atopic dermatitis |
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review (safety) | Neuroimmunomodulation | Review of intranasal corticosteroids and HPA-axis adrenal suppression risk, relevant to corticosteroid safety monitoring in allergic/atopic conditions |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Reviews adrenal suppression (HPA-axis effects) from intranasal corticosteroids in allergic rhinitis, which often coexists with asthma and atopic dermatitis. It does not assess efficacy in atopic eczema. |
+| [40066386](https://pubmed.ncbi.nlm.nih.gov/40066386/) | 2025 | Case report | Indian J Otolaryngol Head Neck Surg | Allergen immunotherapy in a patient with autoimmune disease. Atopic dermatitis is mentioned only as one application of immunotherapy. No efficacy evidence for fluticasone furoate. |
 
 ## EU Market Information
 
-No EU marketing authorizations for fluticasone furoate were found in the reviewed dataset (0 licenses on file; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000770 | Avamys (cancelled) | Not specified | Adults, adolescents (12 years and over) and children (6-11 years). Avamys is indicated for the treatment of the symptoms of allergic rhinitis. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No key warnings, contraindications, or drug-drug interaction data were available in this dataset (DDI query returned no results).
+- **Contraindication signals from the knowledge graph** (drug-disease contraindication edges, not label text): measles, herpes simplex virus keratitis, varicella zoster infection, fungal infectious disease, dermatophytosis, pulmonary tuberculosis, parasitic infection, infectious disease, adrenocortical insufficiency, Addison disease, adrenal gland hyperfunction, Cushing syndrome, ocular hypertension, glaucoma, and several upper and lower respiratory tract, nasal cavity and paranasal sinus diseases.
+- **Systemic effects**: the literature compiled for this report highlights HPA-axis suppression with intranasal corticosteroids.
+- **Respiratory use**: pneumonia risk with inhaled corticosteroids in COPD requires patient selection and monitoring.
+
+Please refer to the SmPC for label warnings, contraindications and drug interaction information, as none were available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- A **Blocking**-severity data gap exists on TFDA/EMA label warnings and contraindications, which prevents even an initial (S1) safety assessment for this drug.
-- The atopic eczema evidence base is L2 and largely extrapolated from fluticasone **propionate** trials rather than furoate-specific data, and no EU marketing authorization for furoate is on file in this dataset.
+For atopic eczema, the prediction is supported only by a model score and a plausible class-level corticosteroid rationale. There are no trials, no efficacy literature, and no dermatologic formulation. The only EU authorization is cancelled.
+
+For reference, the **obstructive lung disease** prediction (L1) is backed by several completed Phase 3 trials and RCTs such as FULFIL, IMPACT and CAPTAIN. Those studies tested fluticasone furoate in fixed-dose combinations (with vilanterol and umeclidinium), so the contribution of fluticasone furoate alone is not isolated. It could be considered **Proceed with Guardrails** in a separate evaluation.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label (warnings, contraindications) — blocking gap, must be resolved before any safety review
-- Furoate-specific mechanism of action / receptor-binding data (currently a High-severity gap)
-- Confirmation of EU marketing authorization status for fluticasone furoate products
-- Furoate-specific (not propionate-ester) clinical evidence in atopic dermatitis/eczema
-- Consider a separate evaluation of **obstructive lung disease** (rank 9 in this same evidence pack): it carries L1 evidence with multiple completed Phase 3 RCTs (e.g., IMPACT, FULFIL, SUMMIT) already supporting fluticasone furoate combination therapy, and may be a stronger candidate for guardrailed progression than atopic eczema.
+- Mechanism of action data (MOA)
+- Label warnings and contraindications from the SmPC
+- A dermatologic formulation and route-compatibility assessment, followed by preclinical and early clinical studies in atopic eczema
+- Verification of current product availability, since the only EU authorization is cancelled
+- For the respiratory indication: a plan to isolate the contribution of fluticasone furoate from the combination products, plus pneumonia-risk monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

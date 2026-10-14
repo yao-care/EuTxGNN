@@ -2,7 +2,7 @@
 layout: default
 title: Vardenafil
 parent: AI Predictions (L5)
-nav_order: 633
+nav_order: 657
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,60 +29,61 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vardenafil: From Unspecified Original Indication to Amenorrhea
+# Vardenafil: From Erectile Dysfunction to Amenorrhea
 
 ## One-Sentence Summary
 
-Vardenafil's original approved indication is not specified in this Evidence Pack (a confirmed data gap), though the accompanying rationale text characterizes it as a phosphodiesterase type 5 (PDE5) inhibitor acting on the vascular smooth muscle cGMP pathway. The TxGNN model predicts a possible new application in **Amenorrhea**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack's own mechanistic analysis explicitly found no known biological link between PDE5 inhibition and the pathways that govern amenorrhea.
+Vardenafil is a PDE5 inhibitor, originally authorized in the EU (as Levitra) for treating erectile dysfunction in adult men.
+The TxGNN model predicts it may be effective for **amenorrhea**,
+but **0 clinical trials** and **0 publications** currently support this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in Evidence Pack (data gap) |
+| Original Indication | Treatment of erectile dysfunction in adult men |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 98.37% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for vardenafil is not available in this Evidence Pack (flagged internally as data gap **DG002**, High severity). Based on the rationale text accompanying this prediction, vardenafil is classified as a phosphodiesterase type 5 (PDE5) inhibitor — a drug class that acts on the vascular smooth muscle cGMP signalling pathway.
+Vardenafil is a PDE5 inhibitor. PDE5 inhibition raises cGMP levels and promotes smooth muscle relaxation and vasodilation, which is how it supports erections. Detailed mechanism of action data is not available in the data compiled for this report, so this description is based on the drug's known drug class rather than source data.
 
-No information on vardenafil's original approved indication is included in this Evidence Pack, and no marketing authorizations are recorded for the target market (0 licenses, status: Not Marketed). This significantly limits any comparison between the original clinical use and the newly predicted indication.
+A link between erectile dysfunction and amenorrhea is not obvious. The only plausible bridge is increased blood flow to the uterus or ovaries, and this is speculative. No trials or publications support it. The high TxGNN score (0.98) reflects a computational prediction from a knowledge graph and should not be read as evidence of efficacy. Because the mechanism data is missing, the rationale cannot be checked against source data.
 
-Importantly, the evidence pack's own mechanistic assessment explicitly states that there is **no known direct connection** between the PDE5/cGMP vascular smooth-muscle pathway and the hypothalamic-pituitary-ovarian axis mechanisms that regulate menstruation, and no supporting literature was identified for this pairing. This indicates the prediction is driven purely by the TxGNN knowledge-graph model's statistical pattern-matching, without an established or currently plausible biological rationale.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
-## Literature Evidence
-
-Currently no related literature available
-
-## EU Market Information
-
-Vardenafil currently holds no marketing authorizations within the scope of this Evidence Pack (market status: Not Marketed; 0 authorizations recorded).
+Other top predictions (such as hypoalphalipoproteinemia, hypertrichosis, and several congenital malformation syndromes) also lack supporting evidence. Two of them, malignant catarrh and infectious bovine rhinotracheitis, are veterinary diseases and are most likely knowledge-graph artifacts.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Contraindications suggested by the knowledge graph** (derived from drug-disease links in the TxGNN knowledge graph, not from official label text):
+- Cardiovascular: familial long QT syndrome, aortic stenosis (including valve disease and supravalvular forms), hypotensive disorder, acute coronary syndrome, myocardial infarction, coronary thrombosis, hypertrophic cardiomyopathy (including familial form)
+- Cerebrovascular: stroke disorder, cerebrovascular disorder, cerebral infarction
+- Blood disorders: blood coagulation disease, sickle cell anemia, hereditary persistence of fetal hemoglobin, hemoglobinopathy, plasma cell myeloma, leukemia
+- Genitourinary: priapism, Peyronie disease, penile fibromatosis, balanitis xerotica obliterans
+- Other: liver failure, hearing loss disorder, X-linked mixed deafness with perilymphatic gusher, anterior ischemic optic neuropathy
+
+**Drug Interactions** (100 interactions found in total; examples of the 20 retrieved):
+- **Major**: Clarithromycin, Dolasetron, Cisapride
+- **Moderate**: Famotidine, Loperamide, Aprepitant, Lorcaserin, Bisacodyl, Metronidazole, Canagliflozin, Cimetidine, Dapagliflozin, Empagliflozin, Palonosetron, Clotrimazole, among others
+
+Please refer to the SmPC for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an L5 (AI-prediction-only) candidate with zero clinical trials, zero supporting literature, and an explicit statement in the evidence pack's own mechanistic rationale that no known biological link exists between PDE5 inhibition and amenorrhea. There is currently no basis to advance this candidate beyond hypothesis generation.
+The prediction is supported only by a model score. There are no clinical trials or publications, the mechanistic link to amenorrhea is speculative, and the only EU authorization has been cancelled. The knowledge-graph contraindication signals (mainly cardiovascular) would also need careful consideration in any new population.
 
 **To proceed, the following is needed:**
-- Vardenafil's official mechanism of action (query DrugBank API — resolves data gap DG002)
-- Regulatory label warnings and contraindications (download and parse the official product label — resolves data gap DG001, blocking for safety pre-screening)
-- Original approved indication and licensing data for the target market
-- Independent literature or preclinical mechanistic studies specifically linking PDE5 inhibition to hypothalamic-pituitary-ovarian axis physiology, before this candidate can move past hypothesis stage
+- Detailed mechanism of action data (MOA) from DrugBank
+- Official warnings and contraindications from the EMA product information
+- Preclinical or literature evidence linking PDE5 inhibition to the pathophysiology of amenorrhea
+- Review of whether the predicted indication is clinically meaningful, and a decision on whether to prioritize other candidates
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,15 +2,15 @@
 layout: default
 title: Enalapril
 parent: Medium Evidence (L3-L4)
-nav_order: 216
-evidence_level: L3
+nav_order: 223
+evidence_level: L4
 indication_count: 10
 ---
 
 # Enalapril
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,86 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Enalapril: From Hypertension/Heart Failure to Chronic Pulmonary Heart Disease
+# Enalapril: From Heart Failure to Chronic Pulmonary Heart Disease
 
 ## One-Sentence Summary
 
-Enalapril is a well-established angiotensin-converting enzyme (ACE) inhibitor originally used to treat hypertension and heart failure.
-The TxGNN model predicts it may also be effective for **Chronic Pulmonary Heart Disease** (cor pulmonale),
-with **4 clinical trials** and **20 publications** identified, though only a small number directly test enalapril in this specific condition.
-
----
+Enalapril is an ACE inhibitor that was originally authorised in the EU for the treatment of heart failure.
+The TxGNN model predicts it may be useful for **chronic pulmonary heart disease** (cor pulmonale), but the data compiled for this report show **no registered clinical trials** and only a few small or preclinical studies for this specific condition.
+The evidence for this top-ranked prediction is therefore weak (**0 clinical trials, 20 publications, mostly indirect**).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, Heart Failure (established ACE inhibitor class indication; not verifiable against an EU product label in this Evidence Pack — see Data Gaps below) |
-| Predicted New Indication | Chronic Pulmonary Heart Disease (cor pulmonale) |
+| Original Indication | Treatment of heart failure |
+| Predicted New Indication | Chronic pulmonary heart disease |
 | TxGNN Prediction Score | 98.91% |
-| Evidence Level | L3 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Enalapril is a member of the ACE inhibitor class, converted in vivo to its active metabolite enalaprilat. Its efficacy in hypertension and chronic heart failure is well established: by inhibiting the renin-angiotensin-aldosterone system, it reduces systemic vascular resistance, afterload, and fluid retention.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, enalapril is an ACE inhibitor. It lowers angiotensin II-mediated vasoconstriction and reduces cardiac afterload. Its efficacy in heart failure is established.
 
-Chronic pulmonary heart disease (cor pulmonale) is a condition in which chronic lung disease and hypoxia lead to pulmonary vascular resistance, pulmonary hypertension, and eventual right ventricular strain and failure. Mechanistically, ACE inhibition could plausibly reduce pulmonary vascular resistance and right-heart afterload in the same way it does for the systemic circulation, providing a rationale for the TxGNN prediction.
+Chronic pulmonary heart disease involves right ventricular strain and remodelling caused by lung disease or raised pulmonary pressure. Blocking the renin-angiotensin system may reduce pulmonary vascular remodelling and right ventricular hypertrophy. Two pieces of evidence support this plausibility. A rat study (PMID 9140694) showed that enalapril helped reverse hypoxia-induced pulmonary hypertension and ventricular changes. A small 1992 haemodynamic study (PMID 1405196) in patients with cor pulmonale due to obstructive lung disease found moderate improvements.
 
-However, the mechanistic link is not confirmed by strong direct evidence: most of the identified clinical trials study enalapril (or comparator drugs) in general chronic heart failure rather than cor pulmonale specifically, and the literature directly addressing enalapril in pulmonary heart disease consists of small, decades-old studies (11–30 patients, from the early 1990s). The prediction should therefore be treated as mechanistically plausible but clinically unproven.
-
----
+Most of the other retrieved literature concerns left-sided heart failure and is only indirect evidence. The link between the original and the new indication is therefore plausible but unproven.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00292162](https://clinicaltrials.gov/study/NCT00292162) | N/A | Completed | 41 | Radiofrequency ablation for atrial fibrillation in advanced chronic heart failure; not an enalapril intervention trial (grade C relevance) |
-| [NCT00151619](https://clinicaltrials.gov/study/NCT00151619) | Phase 2 | Terminated | 7 | Add-on amlodipine in CHF patients already treated with enalapril, furosemide and digoxin; terminated early (grade C relevance) |
-| [NCT02768298](https://clinicaltrials.gov/study/NCT02768298) | Phase 4 | Completed | 201 | LCZ696 (sacubitril/valsartan) vs. enalapril for exercise capacity in HFrEF; enalapril used as active comparator, not specific to cor pulmonale (grade B relevance) |
-| [NCT06697353](https://clinicaltrials.gov/study/NCT06697353) | N/A | Completed | 4936 | Real-world retrospective cohort of vericiguat in Japanese HFrEF patients; does not evaluate enalapril directly (grade C relevance) |
-
----
+Currently no related clinical trials registered for chronic pulmonary heart disease.
 
 ## Literature Evidence
 
+The table lists the most relevant publications. Most are small or old studies, and none is a randomised trial in this condition.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1405196](https://pubmed.ncbi.nlm.nih.gov/1405196/) | 1992 | Small Clinical Study | Kardiologia polska | Enalapril (10–20 mg/day, 30 days) in 11 patients with cor pulmonale due to COPD improved hemodynamics and exercise tolerance, with a moderate decrease in mean pulmonary arterial pressure |
-| [9282581](https://pubmed.ncbi.nlm.nih.gov/9282581/) | 1996 | Small Clinical Study | J Assoc Physicians India | Enalapril added to bronchodilators/diuretics/antibiotics in 30 patients with chronic cor pulmonale improved right ventricular dimensions and renal profile vs. conventional treatment alone |
-| [9140694](https://pubmed.ncbi.nlm.nih.gov/9140694/) | 1997 | Animal Model | Cardiovasc Drugs Ther | In rats, enalapril reduced right ventricular collagen/fibrosis during recovery from chronic hypoxia-induced pulmonary hypertension |
-| [2210899](https://pubmed.ncbi.nlm.nih.gov/2210899/) | 1990 | Clinical Study (general CHF) | Int J Cardiol | Enalapril monotherapy improved hemodynamics in severe CHF with sodium retention (general heart failure, not cor pulmonale-specific) |
-| [6313787](https://pubmed.ncbi.nlm.nih.gov/6313787/) | 1983 | Clinical Study (general CHF) | J Am Coll Cardiol | Early hemodynamic evaluation of enalapril in chronic heart failure; increased cardiac index and reduced pulmonary wedge pressure |
-| [33522249](https://pubmed.ncbi.nlm.nih.gov/33522249/) | 2021 | Post-hoc Analysis | J Am Heart Assoc | PARADIGM-HF subgroup analysis showing COPD is a common HFrEF comorbidity associated with undertreatment and worse outcomes |
-| [16494512](https://pubmed.ncbi.nlm.nih.gov/16494512/) | 2006 | Review | Paediatr Drugs | Review of ACE inhibitor (including enalapril) use in pediatric heart failure |
-| [39210725](https://pubmed.ncbi.nlm.nih.gov/39210725/) | 2024 | Post-hoc Analysis | JAMA Cardiology | Sacubitril/valsartan vs. enalapril effects on all-cause hospitalization, pooled from PARADIGM-HF and PARAGON-HF |
-| [30738210](https://pubmed.ncbi.nlm.nih.gov/30738210/) | 2019 | Animal Model | J Pharmacol Toxicol Methods | Mouse HF model with pulmonary edema/pleural effusion validated using standard HFrEF pharmacotherapy |
-| [20592661](https://pubmed.ncbi.nlm.nih.gov/20592661/) | 2011 | Review | Am J Ther | Review of immunomodulatory effects of heart failure drug classes, including ACE inhibitors |
-
----
+| [1405196](https://pubmed.ncbi.nlm.nih.gov/1405196/) | 1992 | Small clinical haemodynamic study | Kardiologia Polska | In 11 patients with cor pulmonale due to COPD, 30 days of enalapril (10–20 mg/day) produced a moderate but significant fall in mean pulmonary artery pressure and improved exercise tolerance |
+| [9282581](https://pubmed.ncbi.nlm.nih.gov/9282581/) | 1996 | Comparative clinical study | J Assoc Physicians India | In 30 patients with chronic cor pulmonale, enalapril plus standard therapy was compared with standard therapy alone over 6 weeks for effects on right ventricular dimensions and renal profile |
+| [9140694](https://pubmed.ncbi.nlm.nih.gov/9140694/) | 1997 | Preclinical (animal) | Cardiovasc Drugs Ther | Enalapril reduced ventricular collagen content in rats recovering from chronic hypoxia-induced pulmonary hypertension |
+| [3032121](https://pubmed.ncbi.nlm.nih.gov/3032121/) | 1986 | Clinical study | Arch Inst Cardiol Mex | 16 patients with pulmonary arterial hypertension (primary and secondary) had haemodynamics measured before and after enalapril 20 mg/day |
+| [9642838](https://pubmed.ncbi.nlm.nih.gov/9642838/) | 1998 | Clinical study | Ann Ital Med Int | In chronic heart failure, long-term ACE inhibition was assessed for effects on pulmonary diffusion and ventilation-perfusion ratio |
+| [2210899](https://pubmed.ncbi.nlm.nih.gov/2210899/) | 1990 | Clinical study (indirect) | Int J Cardiol | Enalapril as sole initial treatment in severe chronic heart failure improved central haemodynamics |
+| [6313787](https://pubmed.ncbi.nlm.nih.gov/6313787/) | 1983 | Clinical study (indirect) | J Am Coll Cardiol | In chronic heart failure, enalapril increased cardiac index and lowered pulmonary capillary wedge and right atrial pressures |
+| [6100603](https://pubmed.ncbi.nlm.nih.gov/6100603/) | 1983 | Clinical study (indirect) | J Hypertens Suppl | Haemodynamic effects of enalapril were sustained at 3 months in 12 patients with chronic heart failure |
+| [16494512](https://pubmed.ncbi.nlm.nih.gov/16494512/) | 2006 | Review (indirect) | Paediatr Drugs | Review of ACE inhibitor use in paediatric heart failure |
+| [40329926](https://pubmed.ncbi.nlm.nih.gov/40329926/) | 2025 | Review | High Alt Med Biol | Review of chronic mountain sickness management, including pulmonary hypertension as a complication |
 
 ## EU Market Information
 
-Enalapril is currently recorded as **not marketed** in this Evidence Pack, with no EU marketing authorizations on file (0 licenses).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005731 | Aqumeldi | Not specified | Treatment of heart failure. (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (knowledge-graph based, not label text)**: The TxGNN knowledge graph links enalapril to contraindications in angioedema, including acquired angioedema, hereditary angioedema, hereditary angioedema with C1 inhibitor deficiency, non-histaminic angioedema, and RAAS-blocker-induced angioedema.
+- **Drug Interactions**: The interaction query returned 100 interactions in total. The two interactions listed in the data compiled for this report as **Major** involve potassium supplements: potassium citrate and potassium bicarbonate (risk of hyperkalaemia). Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), acetylsalicylic acid, morphine, bupropion, and several antidiabetic drugs (metformin, alogliptin, linagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide).
+- **Indication-specific concerns**: Vasodilators can worsen ventilation-perfusion matching in hypoxic lung disease. Hypotension is also a risk, particularly in acute haemodynamic instability.
 
----
+Please refer to the SmPC for the full warnings and precautions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale for enalapril in chronic pulmonary heart disease is plausible (ACE inhibition lowering pulmonary vascular resistance and right-heart afterload), but the supporting evidence is limited to small, decades-old studies (n=11–30) and observational reports, without any completed RCT specifically targeting cor pulmonale. This corresponds to an L3 evidence level — sufficient to justify a research question, but not to support clinical decision-making.
+The prediction score is high, but direct support is limited to a small 1992 study, a 1996 comparative study, and animal data. There are no registered trials, and the only EU authorisation is cancelled. Safety review for this setting is also incomplete.
 
 **To proceed, the following is needed:**
-- EMA/SmPC-sourced warnings, contraindications, and drug interaction data (currently a Blocking data gap — DG001)
-- Confirmed mechanism of action documentation from DrugBank (currently a data gap — DG002)
-- A contemporary, adequately powered clinical trial or systematic review evaluating enalapril specifically in chronic pulmonary heart disease/cor pulmonale
-- Confirmation of original approved indication(s) and EU licensing status, since no license records are currently available for this drug
+- Mechanism of action data (MOA) and the EU package insert warnings and contraindications
+- A systematic review of existing ACE inhibitor data in cor pulmonale and pulmonary hypertension due to lung disease
+- A well-designed randomised trial with right-heart endpoints, if the hypothesis is pursued
+- A safety plan covering hypotension, hyperkalaemia, renal function, and angioedema risk
+- Clarification of the regulatory and commercial route, since the only EU authorisation is cancelled
+
+### Other Predictions (for reference)
+
+Other model predictions also carry a Hold recommendation, apart from chronic kidney disease. Chronic kidney disease has the strongest evidence (L2, 'Research Question') and is a possible alternative focus. It is supported by class-level renoprotection evidence from ACE inhibitors and ARBs, and by systematic reviews (PMIDs 37466151 and 23869492). However, the registered trials are mostly Phase 4 or of unknown status and are not enalapril-specific. It is also not clearly new relative to existing RAAS-blocker use in CKD.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

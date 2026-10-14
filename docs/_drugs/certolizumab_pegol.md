@@ -2,7 +2,7 @@
 layout: default
 title: Certolizumab Pegol
 parent: Medium Evidence (L3-L4)
-nav_order: 140
+nav_order: 142
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,71 +29,80 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Certolizumab Pegol: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+# Certolizumab pegol: From Rheumatoid Arthritis to Rheumatoid Vasculitis
 
 ## One-Sentence Summary
 
-Certolizumab pegol (Cimzia) is a PEGylated anti-TNF-α biologic approved globally for rheumatoid arthritis, psoriatic arthritis, axial spondyloarthritis, and Crohn's disease, though it is not currently marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Rheumatoid Vasculitis** (score 99.78%), with **1 directly relevant case report** documenting successful treatment of RV-related leg ulcers — however, the paradoxical finding that CZP can also *induce* vasculitis introduces significant clinical complexity.
+Certolizumab pegol is an anti-TNF biologic originally authorised in the EU for rheumatoid arthritis, axial spondyloarthritis and psoriatic arthritis.
+The TxGNN model predicts it may be effective for **rheumatoid vasculitis**, but there are **0 registered clinical trials** and only **7 publications**, all case reports or small safety analyses.
+Several of these reports describe vasculitis as an *adverse reaction* to the drug, so the evidence is conflicting.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; internationally approved for RA, PsA, axial SpA, Crohn's disease, and plaque psoriasis |
-| Predicted New Indication | Rheumatoid Vasculitis |
+|------|------|
+| Original Indication | Rheumatoid arthritis (moderate to severe, active, in adults), plus axial spondyloarthritis and psoriatic arthritis |
+| Predicted New Indication | Rheumatoid vasculitis |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Taiwan Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Structured MOA data is not available in this evidence pack. Based on information within the supporting literature, certolizumab pegol is a PEGylated Fab' fragment of a recombinant humanized monoclonal antibody that selectively neutralizes TNF-α. Its key structural distinction from other TNF inhibitors is the absence of an Fc region — it therefore does not activate complement or antibody-dependent cytotoxicity, and it does not actively cross the placenta. It is administered subcutaneously.
+Detailed mechanism of action data is not available in the data compiled for this report. Published reviews describe certolizumab pegol as a PEGylated antigen-binding fragment of a humanised anti-TNFα antibody that neutralises TNFα. Its efficacy in rheumatoid arthritis is established, and mechanistically it may be applicable to rheumatoid vasculitis.
 
-Rheumatoid vasculitis (RV) is a serious extra-articular complication of longstanding, seropositive rheumatoid arthritis, characterized by immune complex deposition in vessel walls, fibrinoid necrosis, and ischemia — most commonly manifesting as digital infarcts, leg ulcers, or mononeuritis multiplex. Because TNF-α is a principal driver of systemic RA inflammation, and its sustained elevation is thought to sustain the immune dysregulation underlying RV, anti-TNF therapy carries a mechanistic rationale for RV management.
+Rheumatoid vasculitis is a serious complication of long-standing, severe rheumatoid arthritis. TNF-alpha plays a key inflammatory role in both conditions, so TNF blockade is biologically plausible.
 
-However, the evidence picture is paradoxical and warrants caution: while CZP could theoretically suppress the TNF-driven inflammation underlying RV, multiple case reports in this pack document CZP itself *inducing* vasculitis — including leukocytoclastic vasculitis (PMID 28405087), hypocomplementemic urticarial vasculitis (PMID 31990069), and medium-vessel vasculitis (PMID 41158918). The distinction between therapeutic benefit in true RV and paradoxical drug-induced vasculitis requires careful clinical and immunological characterization before any repurposing can proceed.
+The clinical literature does not support this prediction well. Only one report (PMID 34786446) describes a therapeutic benefit, in leg ulcers due to rheumatoid vasculitis. At least four other reports describe vasculitis or related immune-mediated injury appearing *during* certolizumab treatment. These include leukocytoclastic vasculitis, hypocomplementemic urticarial vasculitis, medium-vessel vasculitis and rapidly progressive glomerulonephritis. These are paradoxical anti-TNF reactions, and they argue against assuming benefit.
 
 ---
 
 ## Clinical Trial Evidence
 
-No clinical trials specifically evaluating certolizumab pegol as a treatment for rheumatoid vasculitis were identified. The three retrieved trials are all indirectly related:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01579006](https://clinicaltrials.gov/study/NCT01579006) | N/A | Completed | 184 | Observational study of tocilizumab in general RA; no RV-specific subgroup — no direct evidence for RV treatment |
-| [NCT05696106](https://clinicaltrials.gov/study/NCT05696106) | N/A | Unknown | 750,000 | Epidemiological study on risk of incident IMIDs in biologic users; unrelated to RV as a therapeutic target |
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Not Yet Recruiting | 80 | Perioperative immunosuppressant management in shoulder arthroplasty; not relevant to RV |
+Currently no related clinical trials are registered for rheumatoid vasculitis.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [34786446](https://pubmed.ncbi.nlm.nih.gov/34786446/) | 2021 | Case Report | JAAD Case Reports | CZP successfully treated leg ulcers caused by rheumatoid vasculitis — the only direct therapeutic proof-of-concept for this indication |
-| [36597972](https://pubmed.ncbi.nlm.nih.gov/36597972/) | 2022 | Cohort Study | RMD Open | Long-term follow-up of CZP in uveitis due to IMIDs (80 patients); demonstrates sustained anti-inflammatory efficacy across immune-mediated vascular/ocular diseases |
-| [36418084](https://pubmed.ncbi.nlm.nih.gov/36418084/) | 2022 | Review | RMD Open | Infection profile comparison of immune-modulatory drugs from SmPC data; provides safety benchmarking for CZP in an already-immunocompromised RV population |
-| [29610119](https://pubmed.ncbi.nlm.nih.gov/29610119/) | 2018 | Retrospective Cohort | Clinical Medicine & Research | Single-center series of cutaneous adverse events from biologic agents, including CZP-associated vasculitic skin changes |
-| [41158918](https://pubmed.ncbi.nlm.nih.gov/41158918/) | 2025 | Case Report / ADR Report | Cureus | Anti-TNF (CZP)-induced medium-vessel vasculitis in seronegative RA — confirms paradoxical vasculitis as a serious and rare adverse drug reaction |
-| [31990069](https://pubmed.ncbi.nlm.nih.gov/31990069/) | 2020 | Case Report | J Clin Pharmacy & Therapeutics | Hypocomplementemic urticarial vasculitis that developed *during* CZP treatment for RA — illustrates the bidirectional risk |
-| [32687015](https://pubmed.ncbi.nlm.nih.gov/32687015/) | 2021 | Case Report | Modern Rheumatology Case Reports | Rapidly progressive glomerulonephritis after CZP initiation in a 30-year-old RA patient — possible paradoxical renal vasculitis |
-| [28405087](https://pubmed.ncbi.nlm.nih.gov/28405087/) | 2017 | Case Report | Proceedings (Baylor Univ. Med. Ctr.) | First reported case of leukocytoclastic vasculitis as a drug reaction to CZP — previously unreported for this specific TNF inhibitor |
+|------|-----|------|------|---------|
+| [34786446](https://pubmed.ncbi.nlm.nih.gov/34786446/) | 2021 | Case report | JAAD Case Reports | Certolizumab pegol used to treat leg ulcers due to rheumatoid vasculitis; the only report describing a therapeutic benefit |
+| [28405087](https://pubmed.ncbi.nlm.nih.gov/28405087/) | 2017 | Case report (adverse reaction) | Proc (Baylor Univ Med Cent) | Leukocytoclastic vasculitis drug reaction to certolizumab pegol |
+| [31990069](https://pubmed.ncbi.nlm.nih.gov/31990069/) | 2020 | Case report (adverse reaction) | J Clin Pharm Ther | Hypocomplementemic urticarial vasculitis developed during treatment for rheumatoid arthritis |
+| [32687015](https://pubmed.ncbi.nlm.nih.gov/32687015/) | 2021 | Case report (adverse reaction) | Mod Rheumatol Case Rep | Rapidly progressive glomerulonephritis after starting certolizumab pegol |
+| [41158918](https://pubmed.ncbi.nlm.nih.gov/41158918/) | 2025 | Case report (adverse reaction) | Cureus | Anti-TNF-related medium-vessel vasculitis in a patient with seronegative RA switched to certolizumab pegol |
+| [36597972](https://pubmed.ncbi.nlm.nih.gov/36597972/) | 2022 | Cohort (indirect) | RMD Open | Long-term follow-up of certolizumab pegol in uveitis due to immune-mediated inflammatory diseases (80 patients) |
+| [36418084](https://pubmed.ncbi.nlm.nih.gov/36418084/) | 2022 | Review / safety analysis | RMD Open | Comparison of infection profiles of immune-modulatory drugs from product-characteristics data |
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001037 (cancelled) | Cimzia | — | Rheumatoid arthritis (with methotrexate) in adults with inadequate response to DMARDs; also severe active axial spondyloarth... |
 
 ---
 
 ## Safety Considerations
 
-- **Paradoxical vasculitis**: Multiple case reports document CZP *inducing* vasculitis (leukocytoclastic, medium-vessel, hypocomplementemic urticarial subtypes). This is the central safety concern for this repurposing direction — the drug intended to treat RV may also precipitate or worsen vasculitic pathology.
-- **Serious infection risk**: As with all TNF inhibitors, risks include serious bacterial infections, tuberculosis reactivation, and opportunistic fungal infections. Mandatory TB screening (PPD or IGRA) is required before initiation. This is especially critical in RV patients who are already often systemically unwell.
-- **Renal safety**: One case of rapidly progressive glomerulonephritis was documented post-CZP (PMID 32687015) — particularly relevant for RV cases involving renal vasculitis.
+- **Drug Interactions**: 100 interactions were recorded, and the most notable are listed below.
+  - **Major**:
+    - Corticosteroids: hydrocortisone, prednisolone, prednisone, dexamethasone, betamethasone, budesonide, triamcinolone (including the ophthalmic form)
+    - Deferiprone
+    - Radiopharmaceuticals and radioimmunotherapies: ibritumomab tiuxetan, iobenguane (I-131), tositumomab (I-131)
+  - **Moderate**: metronidazole, tinidazole, pegvaliase, rosuvastatin, simvastatin
+  - **Minor**: zinc salts (acetate, gluconate, sulfate)
+- **Disease-specific concern**: As noted above, vasculitis has been reported as an adverse reaction to certolizumab pegol. Any use in vasculitis would need careful monitoring for paradoxical worsening.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -102,14 +111,15 @@ No clinical trials specifically evaluating certolizumab pegol as a treatment for
 **Decision: Hold**
 
 **Rationale:**
-The single case report supporting CZP's therapeutic benefit in RV (PMID 34786446) is directly counterbalanced by multiple case reports documenting CZP-induced vasculitis as a paradoxical adverse reaction. With no completed Phase 2+ trials targeting RV, and a mechanistic ambiguity that creates both a theoretical benefit and a documented harm pathway, evidence is insufficient to support advancement beyond hypothesis generation.
+The high TxGNN score rests on a plausible TNF-driven mechanism, but no clinical trials exist. The literature is limited to case reports, and most of them describe vasculitis as a drug-induced adverse event. The only supportive report concerns leg ulcers. The EU authorisation is also listed as cancelled, so availability would need to be confirmed.
 
 **To proceed, the following is needed:**
-- Prospective case series or an observational registry specifically enrolling RV patients treated with anti-TNF agents, with systematic immunological characterization (ANCA, complement levels, cryoglobulins, immune complex profiling) to distinguish responders from paradoxical reactors
-- Mechanistic studies clarifying whether the RV subtype (small-vessel immune complex vs. medium-vessel ischemic) predicts anti-TNF response direction
-- TFDA SmPC review to identify local contraindications and warnings applicable to Taiwan (Data Gap DG001 — currently blocking S1 safety evaluation)
-- Regulatory pathway assessment for Taiwan market entry, given current Not marketed status and 0 local authorizations
-- Formal MOA documentation from DrugBank API (Data Gap DG002) to support mechanistic rationale in future submissions
+- Controlled or larger observational data on anti-TNF therapy in rheumatoid vasculitis, including a comparison with established treatments
+- Analysis of the paradoxical vasculitis reports, to establish how often the drug causes versus treats vasculitis
+- Detailed mechanism of action data and SmPC warnings and contraindications
+- Verification of regional market availability
+
+**Note on other predicted indications:** The prediction for *inflammatory spondylopathy* (rank 3) has much stronger support (L1, with several completed Phase 3 RCTs). However, it overlaps with axial spondyloarthritis and psoriatic arthritis, which are already labelled uses, so it is confirmation of existing use rather than true repurposing.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

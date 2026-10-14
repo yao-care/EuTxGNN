@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Miglustat
-parent: AI Predictions (L5)
-nav_order: 396
-evidence_level: L5
+parent: High Evidence (L1-L2)
+nav_order: 410
+evidence_level: L2
 indication_count: 10
 ---
 
 # Miglustat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,14 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Miglustat: From Gaucher Disease to Tay-Sachs Disease (GM2 Gangliosidosis)
+# Miglustat: From Gaucher Disease and Niemann-Pick Type C to Tay-Sachs Disease
 
 ## One-Sentence Summary
 
-> Miglustat is an oral glucosylceramide synthase inhibitor (substrate reduction therapy) originally developed and approved for **type 1 Gaucher disease**.
-> Among the 10 indications predicted by the TxGNN model for this drug, **Tay-Sachs disease (GM2 gangliosidosis)** is the only one supported by substantive real-world evidence,
-> with **5 clinical trials** (including 2 completed Phase 3 studies) and **20 publications**, including one completed randomized controlled trial and one systematic review.
-> The other 9 higher- or similarly-scored TxGNN predictions (e.g. autosomal ichthyosis, cholesteryl ester storage disease, Krabbe disease) currently have **zero supporting trials or literature** and remain pure AI-model hypotheses.
+Miglustat is an oral glucosylceramide synthase inhibitor, originally used for mild to moderate type 1 Gaucher disease and for progressive neurological manifestations of Niemann-Pick type C disease.
+The TxGNN model predicts it may be effective for **Tay-Sachs disease** (the highest-evidence candidate among the top 10 predictions), with **4 clinical trials** and **11 publications** currently related to this direction.
+The evidence is mixed: the trials are small, two were terminated, and a randomized study in late-onset disease did not show clear neurological benefit.
 
 ---
 
@@ -44,23 +43,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 1 Gaucher disease (per literature evidence in this pack; no formal marketing-authorization record available) |
-| Predicted New Indication | Tay-Sachs disease (GM2 gangliosidosis) |
-| TxGNN Prediction Score | 99.75% (rank 3216 of all drug–disease pairs) |
-| Evidence Level | L2 (1 completed randomized controlled clinical study) |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| Original Indication | Mild to moderate type 1 Gaucher disease (when enzyme replacement therapy is unsuitable); progressive neurological manifestations of Niemann-Pick type C disease |
+| Predicted New Indication | Tay-Sachs disease (the rank 1 prediction, autosomal ichthyosis syndrome with fatal disease course, has no supporting evidence, so the report focuses on the best-supported candidate, rank 7) |
+| TxGNN Prediction Score | 99.75% (rank 1 prediction: 99.83%) |
+| Evidence Level | L2 |
+| EU Market Status | Cancelled only (all EU authorizations are cancelled) |
+| Number of Authorizations | 5 (all cancelled) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured MOA data for miglustat is marked as a data gap in this pack, but the literature evidence collected alongside the prediction fills in the picture: miglustat (N-butyldeoxynojirimycin) is an iminosugar that inhibits **glucosylceramide synthase**, the first committed enzyme in glycosphingolipid (GSL) biosynthesis. By slowing GSL production ("substrate reduction therapy"), it was originally approved for type 1 Gaucher disease, where excess glucosylceramide accumulates in macrophages (PMID 12808890).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the pharmacology information provided, miglustat inhibits glucosylceramide synthase (UGCG), which reduces the synthesis of glucosylceramide-based glycosphingolipids. This approach is called substrate reduction therapy. Miglustat also crosses the blood-brain barrier.
 
-Tay-Sachs disease is caused by deficiency of β-hexosaminidase A, leading to accumulation of **GM2 ganglioside** — itself a glycosphingolipid — predominantly in neurons. Because GM2 sits downstream of the same glycosphingolipid biosynthetic pathway that miglustat inhibits upstream, reducing precursor flux can, in principle, lower the substrate load presented to the deficient enzyme, potentially slowing disease progression (PMID 9103204, PMID 11227045, PMID 16763917).
+Tay-Sachs disease (GM2 gangliosidosis) is caused by hexosaminidase A deficiency, which leads to GM2 ganglioside accumulation in nerve cells. Because gangliosides are built on glucosylceramide, lowering their synthesis is a plausible way to reduce the stored material. This is the same rationale that supports miglustat's approved use in Niemann-Pick type C.
 
-This mechanistic logic has already been tested clinically rather than remaining purely theoretical: miglustat has been studied as substrate reduction therapy in both late-onset and infantile forms of GM2 gangliosidosis (Tay-Sachs and Sandhoff disease), including a completed randomized controlled trial in late-onset disease (PMID 19346952) and a 2023 systematic review (PMID 37209042). This places the Tay-Sachs prediction on considerably firmer ground than the other TxGNN candidates in this pack, most of which (e.g. cholesteryl ester storage disease, adrenal gland neoplasm) have no mechanistic or clinical support at all.
+The clinical picture so far is not encouraging. A randomized controlled study in late-onset Tay-Sachs did not show clear neurological benefit, and a 2023 systematic review describes limited and heterogeneous data. A small report in infantile Tay-Sachs found the drug reached the cerebrospinal fluid and prevented macrocephaly, but did not stop neurological deterioration. Gastrointestinal side effects and weight loss are known concerns.
+
+The other nine top predictions have no trials or literature. Several have weak or doubtful mechanistic links (for example, cholesteryl ester storage disease, Wolman disease and X-linked ichthyosis). For the rank 1 prediction, autosomal ichthyosis syndrome, reducing glucosylceramide could even worsen the skin barrier, since it is a precursor of barrier ceramides.
 
 ---
 
@@ -68,11 +69,10 @@ This mechanistic logic has already been tested clinically rather than remaining 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00672022](https://clinicaltrials.gov/study/NCT00672022) | Phase 3 | Completed | 10 | Single and steady-state dosing PK/safety/tolerability of miglustat (Zavesca) in infantile-onset GM2 gangliosidosis (Tay-Sachs/Sandhoff); rationale that miglustat inhibits GM2 ganglioside formation and may delay symptom onset |
-| [NCT00418847](https://clinicaltrials.gov/study/NCT00418847) | Phase 2 | Completed | 5 | PK of single and multiple oral doses of miglustat in juvenile GM2 gangliosidosis |
-| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Phase 3 | Terminated | 30 | Miglustat therapeutic effects on neurological/systemic symptoms in infantile Sandhoff and Tay-Sachs disease |
-| [NCT02030015](https://clinicaltrials.gov/study/NCT02030015) | Phase 4 | Terminated | 16 | Synergistic combination of miglustat + ketogenic diet in infantile/juvenile gangliosidoses (Syner-G), hypothesized to improve survival and neurodevelopmental outcomes |
-| [NCT07399704](https://clinicaltrials.gov/study/NCT07399704) | Phase 2 | Recruiting | 21 | Long-term safety/PK/efficacy of nizubaglustat (a next-generation substrate reduction agent) in GM2 gangliosidosis and NPC patients, including a cohort transitioning from stable, full-dose miglustat |
+| [NCT00672022](https://clinicaltrials.gov/study/NCT00672022) | Phase 3 | Completed | 10 | Pharmacokinetics, safety and tolerability of miglustat in infantile-onset GM2 gangliosidosis; informs safety and dosing, not efficacy |
+| [NCT02030015](https://clinicaltrials.gov/study/NCT02030015) | Phase 4 | Terminated | 16 | Syner-G: miglustat plus ketogenic diet in gangliosidoses; the combination design makes miglustat's contribution hard to isolate |
+| [NCT00418847](https://clinicaltrials.gov/study/NCT00418847) | Phase 2 | Completed | 5 | Pharmacokinetics and tolerability in juvenile GM2 gangliosidosis; too small for efficacy conclusions |
+| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Phase 3 | Terminated | 30 | Neurological and systemic effects in infantile Sandhoff and Tay-Sachs disease; early termination limits interpretability |
 
 ---
 
@@ -80,28 +80,38 @@ This mechanistic logic has already been tested clinically rather than remaining 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19346952](https://pubmed.ncbi.nlm.nih.gov/19346952/) | 2009 | RCT | Genetics in Medicine | 12-month randomized, controlled trial of miglustat in late-onset Tay-Sachs disease, plus 24 months of extended treatment |
-| [37209042](https://pubmed.ncbi.nlm.nih.gov/37209042/) | 2023 | Systematic Review | European Journal of Neurology | Systematic review of efficacy and safety of miglustat in GM2 gangliosidosis; notes prior inconsistent results across studies |
-| [16434676](https://pubmed.ncbi.nlm.nih.gov/16434676/) | 2006 | Case Series | Neurology | Substrate reduction therapy (miglustat) in 2 patients with infantile Tay-Sachs; did not arrest neurologic deterioration but achieved measurable CSF drug levels and prevented macrocephaly |
-| [16151419](https://pubmed.ncbi.nlm.nih.gov/16151419/) | 2005 | Case Report | Bone Marrow Transplantation | Allogeneic BMT followed by miglustat substrate reduction therapy in subacute Tay-Sachs disease |
-| [32867370](https://pubmed.ncbi.nlm.nih.gov/32867370/) | 2020 | Review | International Journal of Molecular Sciences | Clinical features, pathophysiology, and current therapies (including substrate reduction) for GM2 gangliosidoses |
-| [30524313](https://pubmed.ncbi.nlm.nih.gov/30524313/) | 2018 | Review | Frontiers in Physiology | New therapeutic approaches to Tay-Sachs disease |
-| [28476546](https://pubmed.ncbi.nlm.nih.gov/28476546/) | 2017 | Natural History Study | Molecular Genetics and Metabolism | Timeline of clinical changes in infantile gangliosidoses; notes substrate reduction therapy with miglustat has been tried but limited by GI side effects |
-| [12808890](https://pubmed.ncbi.nlm.nih.gov/12808890/) | 2003 | Review | Current Opinion in Investigational Drugs | Miglustat drug profile: approved for type 1 Gaucher disease in EU (2002), also in development for Tay-Sachs, Fabry, and Niemann-Pick type C |
-| [30743792](https://pubmed.ncbi.nlm.nih.gov/30743792/) | 2009 | Review | Expert Review of Endocrinology & Metabolism | Substrate reduction therapy with miglustat for glycosphingolipid storage disorders affecting the brain |
-| [9103204](https://pubmed.ncbi.nlm.nih.gov/9103204/) | 1997 | Preclinical Study | Science | Foundational mouse study: N-butyldeoxynojirimycin (miglustat precursor compound) prevented GM2 accumulation and reduced neuronal storage in a Tay-Sachs mouse model |
+| [19346952](https://pubmed.ncbi.nlm.nih.gov/19346952/) | 2009 | RCT | Genetics in Medicine | 12-month randomized controlled study with 24 months of extended treatment of miglustat in late-onset Tay-Sachs; no clear neurological benefit |
+| [37209042](https://pubmed.ncbi.nlm.nih.gov/37209042/) | 2023 | Systematic Review | European Journal of Neurology | Efficacy and safety of miglustat in GM2 gangliosidosis; prior results were inconsistent |
+| [42794762](https://pubmed.ncbi.nlm.nih.gov/42794762/) | 2026 | Review | International Journal of Molecular Sciences | Biological rationale, clinical evidence and limits of miglustat repurposing in neuronopathic lysosomal storage disorders |
+| [30743792](https://pubmed.ncbi.nlm.nih.gov/30743792/) | 2009 | Review | Expert Review of Endocrinology & Metabolism | Substrate-reduction therapy with miglustat for glycosphingolipid storage disorders affecting the brain |
+| [16763917](https://pubmed.ncbi.nlm.nih.gov/16763917/) | 2006 | Review | Journal of Inherited Metabolic Disease | Substrate reduction therapy of glycosphingolipid storage disorders |
+| [30524313](https://pubmed.ncbi.nlm.nih.gov/30524313/) | 2018 | Review | Frontiers in Physiology | New approaches to Tay-Sachs disease therapy |
+| [16434676](https://pubmed.ncbi.nlm.nih.gov/16434676/) | 2006 | Case series (2 patients) | Neurology | Infantile Tay-Sachs: therapy did not arrest neurological deterioration; CSF drug levels reached and macrocephaly prevented |
+| [28476546](https://pubmed.ncbi.nlm.nih.gov/28476546/) | 2017 | Natural history / Review | Molecular Genetics and Metabolism | Timeline of clinical changes in infantile gangliosidoses; no approved treatments, and miglustat is limited by gastrointestinal side effects |
+| [18618288](https://pubmed.ncbi.nlm.nih.gov/18618288/) | 2008 | Pilot study | Journal of Inherited Metabolic Disease | Neurocognitive testing as a possible outcome measure in late-onset Tay-Sachs |
+| [12808890](https://pubmed.ncbi.nlm.nih.gov/12808890/) | 2003 | Drug profile | Current Opinion in Investigational Drugs | Miglustat development profile, including its development in Tay-Sachs, Fabry and Niemann-Pick type C |
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations for miglustat are recorded in this dataset (market status: **Not marketed**, 0 licenses on file). This may reflect an incomplete regulatory dataset rather than actual absence of the drug from the market — miglustat is marketed elsewhere as Zavesca® for type 1 Gaucher disease and Niemann-Pick type C disease. This should be confirmed against the primary regulatory source before proceeding.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004904 (cancelled) | Miglustat Dipharma | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
+| EMEA/H/C/000435 (cancelled) | Zavesca | Not specified | Oral treatment of mild to moderate type-1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
+| EMEA/H/C/004016 (cancelled) | Yargesa | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
+| EMEA/H/C/005695 (cancelled) | Opfolda | Not specified | Enzyme stabiliser of cipaglucosidase alfa long-term enzyme replacement therapy in adults with late-onset Pompe disease (acid α-glucosidase [GAA] deficiency) |
+| EMEA/H/C/004366 (cancelled) | Miglustat Gen.Orph | Not specified | Oral treatment of mild to moderate type 1 Gaucher disease when enzyme replacement therapy is unsuitable; progressive neurological manifestations of Niemann-Pick ty... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Key warnings, contraindications, and drug-drug interaction data are not available in this evidence pack (flagged as a **Blocking** data gap — see Conclusion below).
+- **Knowledge-graph contraindication signals** (from drug-disease links in the TxGNN knowledge graph, not from label text): peripheral nervous system disease, peripheral neuropathy, and impaired renal function disease.
+- **Drug Interactions**: A moderate-level interaction with imiglucerase was reported. Miglustat's pharmacological target is UDP-glucose ceramide glucosyltransferase (UGCG).
+- **Known concerns in this setting**: Gastrointestinal adverse effects and weight loss were noted in the Tay-Sachs literature.
+
+Please refer to the SmPC for the full warnings and contraindications.
 
 ---
 
@@ -110,16 +120,14 @@ Please refer to the SmPC for safety information. Key warnings, contraindications
 **Decision: Hold**
 
 **Rationale:**
-- The mechanistic rationale and clinical evidence base for miglustat in Tay-Sachs disease is meaningfully stronger than for any of the other 9 TxGNN-predicted indications in this pack — it includes a completed RCT, a 2023 systematic review, and 5 registered trials (2 completed Phase 3 studies), with an active successor-molecule trial (NCT07399704) still recruiting.
-- However, the absence of TFDA/local label data (key warnings, contraindications, DDI) is flagged as a **Blocking** data gap (DG001) that prevents this candidate from entering the S1 safety pre-assessment stage, regardless of the efficacy signal.
-- Efficacy results to date are also mixed: the infantile-onset trial (NCT03822013) was terminated, and case-series data (PMID 16434676) showed drug exposure in CSF but no arrest of neurologic deterioration, suggesting benefit may be restricted to late-onset/juvenile phenotypes.
+The mechanistic rationale for Tay-Sachs disease is sound, but the clinical evidence is limited and mixed. The trials are small, mainly assess pharmacokinetics and safety, and two were terminated. The randomized study in late-onset disease showed no clear neurological benefit. All EU authorizations are currently cancelled, and the other nine predictions have no supporting data.
 
 **To proceed, the following is needed:**
-- Retrieve and analyze the official SmPC/label (warnings, contraindications, DDI) to unblock the S1 safety pre-assessment (DG001).
-- Confirm detailed MOA and PK/PD data via DrugBank API to strengthen the mechanistic-link analysis (DG002).
-- Clarify actual EU/local marketing-authorization status, since "0 licenses" appears inconsistent with miglustat's known approval history for Gaucher disease and NPC.
-- Monitor results from the ongoing NCT07399704 study, which directly compares outcomes in patients transitioning from full-dose miglustat.
-- Stratify any future indication-expansion analysis by disease subtype (late-onset vs. infantile Tay-Sachs), given the divergent efficacy signals observed.
+- Complete SmPC warnings and contraindications (not available in the data compiled for this report), including review of the peripheral neuropathy and renal function signals
+- Detailed mechanism of action data
+- Results of the terminated Phase 3 and Phase 4 trials (NCT03822013, NCT02030015) and an assessment of why they stopped
+- A critical review of the 2023 systematic review and the randomized study, to decide whether any subgroup (for example, by age at onset) warrants a new efficacy trial
+- Clarification of the regulatory pathway, given that all EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

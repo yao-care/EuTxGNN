@@ -2,7 +2,7 @@
 layout: default
 title: Avatrombopag
 parent: AI Predictions (L5)
-nav_order: 70
+nav_order: 72
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avatrombopag: From Immune Thrombocytopenia to Marcothrombocytopenia with Mitral Valve Insufficiency
+# Avatrombopag: From Thrombocytopenia in Chronic Liver Disease and ITP to Macrothrombocytopenia with Mitral Valve Insufficiency
 
 ## One-Sentence Summary
 
-Avatrombopag is a second-generation thrombopoietin receptor agonist (TPO-RA) approved in multiple countries (including the US and EU) for chronic immune thrombocytopenia (ITP) and procedure-related thrombocytopenia in chronic liver disease, but not currently marketed in Taiwan.
-The TxGNN model predicts it may be effective for **marcothrombocytopenia with mitral valve insufficiency**, with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-This remains a model-only prediction (Level L5) requiring dedicated mechanistic and clinical investigation before any development decision can be made.
-
----
+Avatrombopag (Doptelet) was originally approved to treat severe thrombocytopenia in adults with chronic liver disease who are scheduled for an invasive procedure, and primary chronic immune thrombocytopenia (ITP).
+The TxGNN model predicts it may be effective for **macrothrombocytopenia with mitral valve insufficiency**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic immune thrombocytopenia (ITP); thrombocytopenia in adults with chronic liver disease undergoing procedures (globally approved; not registered in Taiwan) |
-| Predicted New Indication | Marcothrombocytopenia with mitral valve insufficiency |
+| Original Indication | Severe thrombocytopenia in adults with chronic liver disease scheduled for an invasive procedure; primary chronic immune thrombocytopenia (ITP) in adults refractory to other treatments |
+| Predicted New Indication | Macrothrombocytopenia with mitral valve insufficiency |
 | TxGNN Prediction Score | 99.995% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacology, avatrombopag is a small-molecule TPO receptor agonist that binds to the transmembrane domain of c-Mpl (the thrombopoietin receptor), activating the JAK2/STAT5 downstream signaling cascade to stimulate megakaryocyte proliferation, differentiation, and platelet release from bone marrow. Unlike first-generation TPO mimetics (e.g., romiplostim), avatrombopag does not compete with endogenous TPO for receptor binding, which may reduce the risk of neutralizing antibody formation.
+Avatrombopag is a thrombopoietin receptor (TPO-R) agonist. It stimulates megakaryopoiesis and raises platelet counts. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description rests on the general class pharmacology.
 
-Marcothrombocytopenia with mitral valve insufficiency (likely referring to macrothrombocytopenia — enlarged, morphologically abnormal platelets with reduced count — co-existing with mitral valve regurgitation) is a rare and heterogeneous condition. The valvular component may drive platelet consumption through turbulent shear-mediated destruction or von Willebrand factor degradation analogous to Heyde's syndrome, creating a consumption-driven thrombocytopenia superimposed on a possible production deficit. In theory, TPO-RA stimulation could compensate for accelerated platelet loss by boosting megakaryopoiesis upstream.
+The link between the original and predicted indications is the low platelet count. A TPO-R agonist could make sense only if the thrombocytopenia comes from reduced platelet production. The predicted condition is an ultra-rare, probably genetic macrothrombocytopenia, and its mechanism is unclear. The mitral valve component is not addressed by the drug.
 
-The mechanistic plausibility is limited but not zero. Avatrombopag addresses the quantitative dimension of thrombocytopenia regardless of underlying etiology — a property that has made TPO-RAs useful across diverse thrombocytopenic conditions. However, the "macro-" morphology component and any associated platelet function defects (which frequently accompany hereditary macrothrombocytopenias) would not be corrected by increasing platelet number alone. More critically, the concurrent mitral valve insufficiency introduces significant thrombosis risk in a patient population already susceptible to cardiovascular events, making the risk-benefit ratio highly uncertain without dedicated safety data. The TxGNN high score likely reflects broad knowledge-graph proximity between c-Mpl signaling nodes and thrombocytopenic phenotypes rather than a disease-specific mechanistic link.
+The high TxGNN score is a graph-based computational prediction and has no clinical support. The other top-ranked predictions are best read as hypotheses only:
 
----
+- **Hereditary thrombocytopenia with normal platelets and transient neonatal thrombocytopenia:** these are mechanistically plausible, but the first has an ambiguous phenotype. The second is self-limiting, and no neonatal safety or dosing data exist for this adult-only drug.
+- **Dense granule disease:** this is a platelet function disorder, not a count disorder, so the link is weak, and there is a thrombotic risk consideration.
+- **ALS-related and other motor neuron conditions, and polymicrogyria:** no plausible biological link to TPO-R agonism exists. These scores likely reflect network proximity in the knowledge graph.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004722 (cancelled) | Doptelet | Not specified | Severe thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo an invasive procedure. Doptelet is indicated for the... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions:** 52 interactions were identified in the interaction database. The first 20 listed include the following.
+  - **Major:** fosphenytoin, carbamazepine, carfilzomib, dabrafenib, enzalutamide, fluconazole, imatinib.
+  - **Moderate:** clarithromycin, nitisinone, cobicistat, fosamprenavir, gemfibrozil, fenofibrate, apalutamide, atazanavir, amprenavir, boceprevir, ceritinib, delavirdine, idelalisib.
 
----
+Please refer to the SmPC for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a TxGNN score of 99.995%, there is zero clinical or preclinical published evidence linking avatrombopag to marcothrombocytopenia with mitral valve insufficiency; the mechanistic connection is indirect, and the concurrent cardiovascular pathology introduces unquantified thrombotic risk that prevents responsible advancement at this stage.
+The prediction rests on a model score alone (Evidence Level L5). No trials or publications support it, the mechanistic rationale is uncertain for the top-ranked condition, and the EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Establish the pathophysiological mechanism of thrombocytopenia in this syndrome (production deficit vs. accelerated consumption vs. structural platelet abnormality)
-- Confirm whether the TPO-R (c-Mpl) signaling pathway is intact in affected patients — macrothrombocytopenias caused by mutations in GPIbα (Bernard-Soulier), MYH9, or GATA1 may not respond to TPO-RA
-- Obtain TFDA prescribing information / SmPC to assess warnings, contraindications, and cardiovascular safety (Data Gap DG001, classified Blocking)
-- Retrieve avatrombopag MOA data from DrugBank to complete mechanistic plausibility analysis (Data Gap DG002)
-- Conduct a systematic literature review on platelet kinetics and TPO levels in macrothrombocytopenia associated with valvular heart disease
-- Perform a dedicated cardiovascular thrombosis risk assessment before designing any clinical investigation in patients with mitral valve insufficiency
+- Clarification of the genetic cause and disease mechanism of the predicted condition, to confirm that reduced platelet production is the problem
+- Detailed mechanism of action data for avatrombopag
+- Warnings and contraindications from the product information
+- A literature and trial search on TPO-R agonists in inherited thrombocytopenias
+- Preclinical or early clinical evidence before any further consideration
+- A review of the cancelled EU authorization status and its reasons
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

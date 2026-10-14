@@ -2,7 +2,7 @@
 layout: default
 title: Vilanterol
 parent: High Evidence (L1-L2)
-nav_order: 645
+nav_order: 669
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,82 +29,105 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Vilanterol: From Combination COPD/Asthma Inhaler Component to Obstructive Lung Disease
+# Vilanterol: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Vilanterol is a long-acting beta2-adrenergic agonist (LABA) that, according to this Evidence Pack, has no standalone marketing authorization or documented original indication as a single ingredient — it is used exclusively as a component of fixed-dose combination inhalers.
-The TxGNN model predicts high relevance for **Obstructive Lung Disease** (i.e., COPD/asthma), a signal that is already strongly corroborated in the real world, with **over 50 registered clinical trials** and **20 supporting publications**, including several completed Phase 3 randomized controlled trials such as IMPACT and FULFIL.
+Vilanterol is a long-acting beta2-agonist, originally used as a maintenance bronchodilator for chronic obstructive pulmonary disease (COPD) and asthma, mostly in combination inhalers.
+The TxGNN model predicts it may be effective for **obstructive lung disease**, with **28 clinical trials** and **20 publications** compiled for this direction.
+This prediction largely matches the existing labelled uses (COPD and asthma), so it is better read as confirmation of on-label use than as a true repurposing finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file for vilanterol as a single agent; known real-world use is exclusively as the LABA component in fixed-dose combination inhalers for asthma and COPD |
-| Predicted New Indication | Obstructive Lung Disease |
+| Original Indication | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
+| Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L1 |
-| EU Market Status | Not Marketed (as standalone active substance) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all licences cancelled) |
+| Number of Authorizations | 6 (0 currently valid, 6 cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for vilanterol is not available (Data Gap DG002). Based on known information, vilanterol is a long-acting beta2-adrenergic agonist (LABA) that is formulated into several fixed-dose combination inhalers — with an inhaled corticosteroid (fluticasone furoate) and/or a long-acting muscarinic antagonist (umeclidinium) — and its efficacy in obstructive airway disease has been extensively demonstrated in pivotal Phase 3 programs.
+Vilanterol is a long-acting beta2-adrenoceptor agonist. It relaxes bronchial smooth muscle and gives bronchodilation lasting about 24 hours. This is the established mechanism for relieving airflow obstruction in COPD and asthma. Detailed mechanism-of-action data were not available in the compiled data.
 
-The predicted new indication, "obstructive lung disease," overlaps substantially with vilanterol's already-established real-world use in COPD and asthma. This is therefore best understood as a **confirmatory** signal rather than a genuinely novel repurposing candidate: the TxGNN model is essentially re-identifying a therapeutic area in which vilanterol-containing combinations (marketed as Relvar/Breo Ellipta, Anoro Ellipta, and Trelegy Ellipta) are already guideline-recommended maintenance therapies.
+"Obstructive lung disease" is the broader category that contains COPD and asthma, the conditions for which vilanterol-containing products were already authorised. These products include fluticasone furoate/vilanterol, umeclidinium/vilanterol and fluticasone furoate/umeclidinium/vilanterol. The high TxGNN score therefore agrees with current clinical use. It does not point to a new therapeutic area.
 
-Mechanistically, beta2-receptor stimulation in bronchial smooth muscle produces sustained bronchodilation, which is directly applicable across the spectrum of obstructive lung diseases (COPD, asthma, and overlap phenotypes). The large volume of completed Phase 3 evidence for vilanterol-containing combinations supports the plausibility and clinical relevance of this prediction, even though this Evidence Pack does not capture vilanterol as an independently licensed monotherapy.
+Other predictions in the list, such as interstitial emphysema, compensatory emphysema, tracheal stenosis, laryngotracheitis and congenital lobar emphysema, have no clinical evidence and no clear mechanistic rationale. Their scores likely reflect closeness to COPD in the knowledge graph. Bronchial neoplasm is supported only by trials of bronchodilators for comorbid COPD in lung cancer surgery, which is not an antitumour effect. These predictions should be held or treated as research questions only.
 
 ## Clinical Trial Evidence
 
+The compiled data contain many more trials than shown here. The table lists the 10 most relevant, prioritising Phase 3 trials with direct efficacy evidence.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05062304](https://clinicaltrials.gov/study/NCT05062304) | N/A | Completed | 17,281 | Real-world replication of the IMPACT trial comparing once-daily single-inhaler triple vs. dual therapy in COPD |
-| [NCT02345161](https://clinicaltrials.gov/study/NCT02345161) | Phase 3 | Completed | 1,811 | FF/UMEC/VI once daily vs. budesonide/formoterol twice daily — improved lung function and health status in COPD |
-| [NCT02729051](https://clinicaltrials.gov/study/NCT02729051) | Phase 3 | Completed | 1,055 | 'Closed' triple therapy (FF/UMEC/VI) vs. 'open' triple therapy (FF/VI + UMEC) in COPD |
-| [NCT02301975](https://clinicaltrials.gov/study/NCT02301975) | Phase 3 | Completed | 1,526 | FF/VI once daily vs. FP/salmeterol twice daily in persistent asthma control |
-| [NCT02105974](https://clinicaltrials.gov/study/NCT02105974) | Phase 3 | Completed | 1,621 | FF/VI 100/25 mcg vs. VI alone — assessed FF's contribution to lung function in COPD |
-| [NCT02257385](https://clinicaltrials.gov/study/NCT02257385) | Phase 3 | Completed | 967 | UMEC/VI fixed-dose combination vs. indacaterol plus tiotropium in moderate-to-very-severe COPD |
-| [NCT01777334](https://clinicaltrials.gov/study/NCT01777334) | Phase 3 | Completed | 905 | UMEC/VI once daily vs. tiotropium once daily over 24 weeks in COPD |
-| [NCT01316900](https://clinicaltrials.gov/study/NCT01316900) | Phase 3 | Completed | 846 | UMEC/VI vs. VI alone and vs. tiotropium over 24 weeks in COPD |
-| [NCT03474081](https://clinicaltrials.gov/study/NCT03474081) | Phase 4 | Completed | 800 | FF/UMEC/VI vs. tiotropium monotherapy — lung function and symptom outcomes in COPD |
-| [NCT01376245](https://clinicaltrials.gov/study/NCT01376245) | Phase 3 | Completed | 646 | FF/VI vs. placebo over 24 weeks in COPD patients of Asian ancestry |
+| [NCT03162055](https://clinicaltrials.gov/study/NCT03162055) | Phase 3 | Completed | 1119 | Glycopyrronium/formoterol compared with umeclidinium/vilanterol over 24 weeks in moderate to very severe COPD |
+| [NCT01134042](https://clinicaltrials.gov/study/NCT01134042) | Phase 3 | Completed | 587 | Fluticasone furoate/vilanterol compared with fluticasone furoate alone and fluticasone propionate in persistent asthma over 24 weeks |
+| [NCT02094937](https://clinicaltrials.gov/study/NCT02094937) | Phase 3 | Completed | 430 | Step-down from fluticasone furoate/vilanterol to fluticasone furoate or fluticasone propionate in well-controlled asthma (Japan) |
+| [NCT01686633](https://clinicaltrials.gov/study/NCT01686633) | Phase 3 | Completed | 1040 | Fluticasone furoate/vilanterol 200/25 and 100/25 mcg compared with fluticasone furoate 100 mcg in persistent asthma |
+| [NCT02301975](https://clinicaltrials.gov/study/NCT02301975) | Phase 3 | Completed | 1526 | Once-daily fluticasone furoate/vilanterol compared with twice-daily fluticasone propionate/salmeterol (non-inferiority) in controlled asthma |
+| [NCT01777334](https://clinicaltrials.gov/study/NCT01777334) | Phase 3 | Completed | 905 | Umeclidinium/vilanterol compared with tiotropium over 24 weeks in COPD (trough FEV1) |
+| [NCT01342913](https://clinicaltrials.gov/study/NCT01342913) | Phase 3 | Completed | 528 | 24-hour lung function of fluticasone furoate/vilanterol compared with salmeterol/fluticasone propionate in COPD |
+| [NCT02487446](https://clinicaltrials.gov/study/NCT02487446) | Phase 3 | Completed | 357 | Indacaterol/glycopyrronium compared with umeclidinium/vilanterol in moderate to severe COPD |
+| [NCT01706198](https://clinicaltrials.gov/study/NCT01706198) | Phase 3 | Completed | 4233 | 12-month open-label effectiveness study of fluticasone furoate/vilanterol compared with usual care in asthma |
+| [NCT05062304](https://clinicaltrials.gov/study/NCT05062304) | N/A | Completed | 17281 | Registry entry labelled as the IMPACT trial: once-daily single-inhaler triple therapy compared with dual therapy in COPD |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29668352](https://pubmed.ncbi.nlm.nih.gov/29668352/) | 2018 | RCT | N Engl J Med | IMPACT trial: single-inhaler triple therapy (FF/UMEC/VI) vs. dual therapy in COPD |
-| [28375647](https://pubmed.ncbi.nlm.nih.gov/28375647/) | 2017 | RCT | Am J Respir Crit Care Med | FULFIL trial: once-daily triple therapy demonstrates superior outcomes vs. dual ICS/LABA in COPD |
-| [32918892](https://pubmed.ncbi.nlm.nih.gov/32918892/) | 2021 | RCT (Phase 3A) | Lancet Respir Med | CAPTAIN trial: FF/UMEC/VI vs. FF/VI in inadequately controlled asthma |
-| [32162970](https://pubmed.ncbi.nlm.nih.gov/32162970/) | 2020 | RCT (secondary analysis) | Am J Respir Crit Care Med | FF/UMEC/VI significantly reduces all-cause mortality vs. UMEC/VI in COPD (IMPACT trial) |
-| [31281061](https://pubmed.ncbi.nlm.nih.gov/31281061/) | 2019 | RCT subgroup analysis | Lancet Respir Med | Blood eosinophil counts modify treatment response to triple vs. dual therapy (IMPACT trial) |
-| [32299860](https://pubmed.ncbi.nlm.nih.gov/32299860/) | 2020 | RCT subgroup analysis | Eur Respir J | Effect of exacerbation history on treatment response in the IMPACT trial |
-| [39696097](https://pubmed.ncbi.nlm.nih.gov/39696097/) | 2024 | Systematic Review/Meta-analysis | BMC Pulm Med | UMEC/VI shows clinically meaningful lung function and quality-of-life improvement vs. other bronchodilators in COPD |
-| [35849317](https://pubmed.ncbi.nlm.nih.gov/35849317/) | 2022 | Network Meta-analysis | Adv Ther | FF/UMEC/VI triple therapy compared with other combination regimens in COPD |
-| [39797646](https://pubmed.ncbi.nlm.nih.gov/39797646/) | 2024 | Cohort Study | BMJ | Comparative real-world effectiveness/safety of single-inhaler triple therapies in COPD |
-| [25074268](https://pubmed.ncbi.nlm.nih.gov/25074268/) | 2014 | Review | Drugs | Review of fluticasone furoate/vilanterol use and pharmacology in COPD |
+| [29668352](https://pubmed.ncbi.nlm.nih.gov/29668352/) | 2018 | RCT | N Engl J Med | IMPACT: once-daily single-inhaler triple therapy compared with dual therapy in COPD |
+| [28375647](https://pubmed.ncbi.nlm.nih.gov/28375647/) | 2017 | RCT | Am J Respir Crit Care Med | FULFIL: once-daily triple therapy compared with dual ICS/LABA therapy in COPD |
+| [32918892](https://pubmed.ncbi.nlm.nih.gov/32918892/) | 2021 | RCT (Phase 3A) | Lancet Respir Med | CAPTAIN: fluticasone furoate/umeclidinium/vilanterol compared with fluticasone furoate/vilanterol in inadequately controlled asthma |
+| [32162970](https://pubmed.ncbi.nlm.nih.gov/32162970/) | 2020 | Post hoc RCT analysis | Am J Respir Crit Care Med | Reduced all-cause mortality with fluticasone furoate/umeclidinium/vilanterol in COPD, based on IMPACT |
+| [39797646](https://pubmed.ncbi.nlm.nih.gov/39797646/) | 2024 | Cohort study (classified in the data as systematic review/network meta-analysis) | BMJ | Comparison of two single-inhaler triple therapies in routine COPD care |
+| [35849317](https://pubmed.ncbi.nlm.nih.gov/35849317/) | 2022 | Network meta-analysis | Adv Ther | Fluticasone furoate/umeclidinium/vilanterol compared with other triple and dual therapies in COPD |
+| [31389190](https://pubmed.ncbi.nlm.nih.gov/31389190/) | 2019 | Systematic review | Clin Respir J | Fixed-dose umeclidinium/vilanterol in COPD |
+| [39731707](https://pubmed.ncbi.nlm.nih.gov/39731707/) | 2025 | Cohort study | Adv Ther | Real-world comparison of two single-inhaler triple therapies in US COPD patients |
+| [40619503](https://pubmed.ncbi.nlm.nih.gov/40619503/) | 2025 | Cohort study | Adv Ther | Real-world comparison of two single-inhaler triple therapies in patients stepping up from dual therapy |
+| [28956463](https://pubmed.ncbi.nlm.nih.gov/28956463/) | 2017 | Review | Expert Rev Respir Med | Role of fluticasone furoate/vilanterol in stable COPD |
 
 ## EU Market Information
 
-Vilanterol has no independent EU marketing authorization as a single active substance; it is only available within fixed-dose combination products (e.g., Relvar/Breo Ellipta [FF/VI], Anoro Ellipta [UMEC/VI], and Trelegy Ellipta [FF/UMEC/VI]), which fall outside the scope of this single-ingredient dataset. No standalone authorization records are available to list.
+All six EU authorisations are now cancelled. Dosage form and manufacturer were not available in the compiled data.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003754 | Laventair Ellipta | Not available | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
+| EMEA/H/C/002751 | Anoro Ellipta | Not available | Maintenance bronchodilator treatment to relieve symptoms in adults with COPD |
+| EMEA/H/C/002673 | Relvar Ellipta | Not available | Asthma in adults and adolescents aged 12 and over (ICS/LABA appropriate); COPD with FEV1 <70% predicted and exacerbation history... |
+| EMEA/H/C/002745 | Revinty Ellipta | Not available | Asthma in adults and adolescents aged 12 and over (ICS/LABA appropriate); COPD with FEV1 <70% predicted and exacerbation history... |
+| EMEA/H/C/004781 | Elebrato Ellipta | Not available | Maintenance treatment of moderate to severe COPD in adults not adequately treated by an ICS/LABA combination |
+
+A sixth licence, Trelegy Ellipta (EMEA/H/C/004363), has the same COPD indication as Elebrato Ellipta and is also cancelled.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Warnings and contraindications from the label were not available in the compiled data. Please refer to the SmPC for these.
+
+**Drug Interactions**: The interaction screen returned 100 entries; 20 are shown in the compiled data. They are mostly moderate or minor.
+- **Moderate**: antidiabetic drugs (acarbose, albiglutide, alogliptin, canagliflozin, dapagliflozin, dulaglutide, empagliflozin, chlorpropamide); QT-prolonging or related drugs (cisapride, clarithromycin, dolasetron); sympathomimetics (ephedrine, epinephrine, diethylpropion).
+- **Minor**: corticosteroids (beclomethasone, betamethasone, budesonide, dexamethasone).
+
+Reviewing the full interaction list is recommended before any use.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The evidence base for vilanterol's role in obstructive lung disease is exceptionally strong (L1), supported by dozens of completed Phase 3 RCTs including the pivotal IMPACT and FULFIL trials. However, a Blocking-severity data gap (DG001: missing regulatory label warnings/contraindications) prevents completion of the S1 safety assessment for this candidate, and no standalone EU authorization data exists for vilanterol itself.
+- Multiple completed Phase 3 trials and large RCTs (IMPACT, FULFIL, CAPTAIN) support vilanterol-containing regimens in COPD and asthma, which gives evidence level L1.
+- The prediction matches existing labelled uses, so it is on-label rather than new. All six EU licences are cancelled, so the practical question is market availability, not new evidence.
+- The other predicted conditions have no supporting evidence and should be held.
 
 **To proceed, the following is needed:**
-- Obtain official product label (SmPC) warnings and contraindications for vilanterol-containing combination products to close DG001 before advancing past S1
-- Obtain detailed mechanism-of-action documentation (DG002) to support formal mechanistic-linkage scoring
-- Clarify regulatory scope: confirm whether repurposing evaluation should target vilanterol as a single molecule or its currently marketed combination products (FF/VI, UMEC/VI, FF/UMEC/VI)
+- Clarify why all EU licences are cancelled (for example a commercial decision or a regulatory reason) and check current availability.
+- Obtain SmPC warnings and contraindications to enable safety screening.
+- Obtain detailed mechanism-of-action data.
+- Review the full list of 100 interactions, particularly with antidiabetic drugs, QT-prolonging drugs and sympathomimetics.
+- Confirm formulation and dosage form details, which are missing from the authorisation records.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

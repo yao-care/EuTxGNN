@@ -2,7 +2,7 @@
 layout: default
 title: Turoctocog Alfa
 parent: AI Predictions (L5)
-nav_order: 622
+nav_order: 645
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,74 +33,63 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Turoctocog alfa is a recombinant Factor VIII (FVIII) replacement therapy, established for the treatment and prevention of bleeding episodes in congenital Factor VIII deficiency (Haemophilia A). The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the drug's own mechanistic rationale flags this as a likely false-positive association.
-
----
+Turoctocog alfa is a recombinant B-domain-truncated factor VIII product, originally used to treat and prevent bleeding in patients with haemophilia A.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Congenital Factor VIII deficiency (Haemophilia A) — inferred from known drug class; not populated in the current EU regulatory data extract |
-| Predicted New Indication | Primary Release Disorder of Platelets |
-| TxGNN Prediction Score | 99.99% (rank 125 of all candidates) |
-| Evidence Level | L5 — model prediction only, no supporting trials or literature |
-| EU Market Status | ✗ Not marketed (per current data extract) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Can be used for all age groups. |
+| Predicted New Indication | Primary release disorder of platelets |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this Evidence Pack (flagged as a High-severity data gap). Based on established pharmacological knowledge, Turoctocog alfa is a B-domain–truncated recombinant human Factor VIII (rFVIII), which acts as a cofactor for activated Factor IX in the intrinsic tenase complex, accelerating thrombin generation during secondary (plasma-phase) haemostasis. Its proven efficacy is in congenital FVIII deficiency (Haemophilia A), where the underlying defect is a quantitative or qualitative lack of functional FVIII protein.
+Detailed mechanism of action data is not available. Based on known information, turoctocog alfa is a recombinant factor VIII (FVIII) replacement. Its efficacy in haemophilia A comes from supplying the missing clotting factor.
 
-Primary release disorder of platelets, by contrast, is a defect of **primary haemostasis** — platelets fail to release granule contents (ADP, serotonin, thromboxane, etc.) needed to recruit and activate additional platelets at the injury site. This pathway does not involve FVIII, and supplementing FVIII does not correct impaired granule secretion. The Evidence Pack's own mechanistic rationale for this candidate explicitly notes the link is "weak" and may reflect TxGNN over-generalizing across the shared "bleeding disorder" semantic neighborhood in the knowledge graph, rather than a genuine, pathway-specific therapeutic relationship.
+The high TxGNN score most likely reflects the shared bleeding and haemostasis neighbourhood in the knowledge graph, not a biological mechanism. Primary release disorders of platelets arise from intrinsic defects in platelet secretion, not from FVIII deficiency. Replacing FVIII is therefore not expected to correct the problem, and **no mechanistic rationale is supported**.
 
-Notably, this pattern is not isolated: across the top 10 TxGNN predictions for this drug, 8 of 10 (including ranks 2–4, 6–7, 9–10) carry similarly weak or even mechanistically contradictory rationales — platelet-count disorders, receptor defects, and even thrombotic (pro-clotting) conditions where FVIII supplementation could theoretically worsen outcomes (e.g., thrombotic thrombocytopenic purpura). Only two lower-ranked candidates (rank 5, "acquired coagulation factor deficiency," and rank 8, "flood factor deficiency" — likely a mislabelled/mis-mapped entry for combined FV/FVIII deficiency) retain a biologically plausible link to FVIII replacement and are flagged as open research questions rather than Hold.
-
----
+The other top predictions show the same pattern. Most are platelet disorders (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defects, constitutional thrombocytopenia) whose primary defect FVIII does not address. The most biologically plausible is **acquired coagulation factor deficiency** (rank 5), for example acquired haemophilia A. However, these conditions are heterogeneous and often involve inhibitors that neutralize FVIII, so this remains a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EU marketing authorizations are recorded for this drug in the current data extract (0 licenses on file; market status reported as "not marketed"). This is inconsistent with the drug's broader public profile as an approved rFVIII product and likely reflects incomplete data ingestion for this entry rather than an actual absence of EU authorization — see data gaps below.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002719 (cancelled) | NovoEight | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Novoeight can be used for all age groups. |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-*(Key warnings, contraindications, and drug interaction data were all marked as data gaps in this Evidence Pack — TFDA/EMA label warnings and contraindications are flagged as a Blocking-severity gap, meaning this candidate cannot pass initial safety screening (S1) until resolved.)*
-
----
+Safety-relevant points from the prediction review:
+- **Thrombotic concern**: For thrombotic thrombocytopenic purpura (rank 9), giving a procoagulant FVIII product is mechanistically counterproductive and could carry thrombotic risk. For hereditary thrombocytosis with transverse limb defect (rank 10), a procoagulant raises similar thrombotic concerns.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (primary release disorder of platelets) has no supporting clinical trials or literature (L5, decision stage S0), and the mechanistic rationale itself indicates the FVIII pathway is not relevant to platelet granule-release defects — this is most likely a knowledge-graph semantic over-generalization rather than a genuine repurposing signal.
+The prediction is based only on a network score. There are no clinical trials or publications, and the proposed mechanism does not hold, because platelet release defects are not caused by FVIII deficiency. The product's EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve the Blocking-severity data gap: obtain TFDA/EMA SmPC warnings and contraindications (required before any S1 safety screening can proceed)
-- Resolve the High-severity data gap: confirm mechanism of action via DrugBank API
-- Correct/verify the EU market status and authorization data, which currently conflicts with the drug's known regulatory profile
-- If pursuing further investigation, redirect resources away from rank 1 and toward the two "Research Question" candidates instead:
-  - Re-run targeted ClinicalTrials.gov/PubMed searches for **"acquired haemophilia A"** to test whether rank 5 ("acquired coagulation factor deficiency") reflects real-world evidence
-  - Verify whether rank 8 ("flood factor deficiency") is a mislabelled entry for **combined Factor V/VIII deficiency (F5F8D)**, then search accordingly
+- Mechanism of action data from DrugBank
+- Warnings and contraindications from the EMA product information
+- Disease-level review of acquired coagulation factor deficiency (rank 5) as a possible research question, particularly acquired haemophilia A with inhibitors
+- Clarification of the non-standard disease name "flood factor deficiency" (rank 8) before any assessment
+- Any preclinical or clinical evidence supporting FVIII use in the predicted conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

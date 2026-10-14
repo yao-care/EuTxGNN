@@ -2,7 +2,7 @@
 layout: default
 title: Susoctocog Alfa
 parent: AI Predictions (L5)
-nav_order: 559
+nav_order: 580
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,56 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Susoctocog Alfa: From Acquired Hemophilia A to Primary Release Disorder of Platelets
+# Susoctocog alfa: From Acquired Haemophilia A to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Susoctocog alfa (marketed elsewhere as Obizur) is a recombinant, B-domain-deleted porcine-sequence antihemophilic factor VIII (FVIII) product used to control bleeding episodes in adults with Acquired Hemophilia A (AHA). The TxGNN model's top-ranked prediction suggests potential efficacy in **Primary Release Disorder of Platelets**, but this candidate is currently supported by **zero clinical trials** and **zero publications**, and the evidence pack's own mechanistic review finds no pharmacological basis linking platelet granule release defects to FVIII replacement therapy.
+Susoctocog alfa (Obizur) is a recombinant porcine-sequence Factor VIII, originally used to treat bleeding episodes in adults with acquired haemophilia A caused by antibodies to Factor VIII.
+The TxGNN model's top prediction is **primary release disorder of platelets**, but this prediction has **0 clinical trials** and **0 publications** behind it.
+The only predictions with any supporting evidence (hemophilia and acquired coagulation factor deficiency) largely restate the already-approved indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acquired Hemophilia A (AHA) — inferred from the collected literature/trial evidence, since the formal indication field and EU licensing data are currently empty |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+| Original Indication | Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII (adults) |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 (model prediction only, no supporting trials or literature) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is currently a data gap. Based on information extracted from the collected literature (e.g. PMID 27098420), susoctocog alfa is a recombinant, B-domain-deleted, porcine-sequence antihemophilic factor VIII product with low cross-reactivity to anti-human FVIII antibodies, which restores functional FVIII activity in patients whose endogenous FVIII is neutralized by autoantibodies — this is the pharmacological basis for its approved use in AHA.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, susoctocog alfa is a B-domain-deleted recombinant porcine Factor VIII that replaces deficient FVIII activity. Because of its porcine sequence, it can work despite inhibitory antibodies against human FVIII.
 
-Primary Release Disorder of Platelets, by contrast, is a platelet dense/alpha-granule secretion defect: platelets are present in normal numbers and can adhere and aggregate, but fail to release their granule contents properly during activation. This is mechanistically unrelated to plasma FVIII levels, which act downstream in the coagulation cascade rather than at the platelet-granule level.
+For the top-ranked prediction, the mechanistic link is weak. Primary release disorders of platelets are platelet function defects, and FVIII replacement does not address them. The high TxGNN score appears to be a graph-based association with no clinical or literature support.
 
-The evidence pack's own mechanistic rationale for this candidate states explicitly that there is no direct mechanistic link between platelet granule release dysfunction and FVIII deficiency, and that FVIII supplementation does not affect platelet granule release function. No clinical trial or literature evidence currently supports this candidate — the high TxGNN score most likely reflects semantic clustering of "bleeding/coagulation" concepts within the knowledge graph rather than genuine pharmacological relevance. Notably, among the 10 TxGNN-predicted indications for this drug, only ranks #4 ("hemophilia") and #5 ("acquired coagulation factor deficiency") have any supporting literature — and the evidence pack itself notes these substantially overlap with the drug's already-known AHA indication rather than representing a genuinely new repurposing opportunity. The remaining candidates (ranks 1–3 and 6–10, including Glanzmann thrombasthenia, pseudo-von Willebrand disease, Scott syndrome, congenital FXIII deficiency, and adenosine deaminase deficiency) are all flagged in the rationale as mechanistically implausible and unsupported by any trial or publication.
+The same applies to most other top-10 predictions:
+- **Pseudo-von Willebrand disease:** a gain-of-function defect in platelet GPIbα; FVIII does not correct it.
+- **Glanzmann thrombasthenia:** an integrin αIIbβ3 defect; standard care is platelet transfusion or recombinant FVIIa.
+- **Scott syndrome, collagen receptor defects, constitutional thrombocytopenia:** platelet membrane or count defects unrelated to FVIII.
+- **Congenital factor XIII deficiency:** a defect downstream of FVIII, treated with FXIII concentrates.
+- **Adenosine deaminase deficiency:** a purine metabolism disorder with no biological link to FVIII; likely a graph artifact.
+
+The two exceptions are **hemophilia** (rank 4) and **acquired coagulation factor deficiency** (rank 5). Both overlap biologically with the approved acquired haemophilia A indication. They are therefore not new repurposing signals. Any extension to congenital haemophilia A with inhibitors would need dedicated study.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials are registered for the top-ranked prediction (primary release disorder of platelets). The only trial linked to any prediction is listed below (hemophilia, rank 4).
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06461533](https://clinicaltrials.gov/study/NCT06461533) | N/A | Recruiting | 25 | All-case post-marketing surveillance in Japan of susoctocog alfa for bleeding events in acquired haemophilia A; assesses side effects and effectiveness. It is observational and covers the approved population. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for the top-ranked prediction. The table below shows selected publications linked to the hemophilia and acquired coagulation factor deficiency predictions, all of which concern the already-approved indication unless noted.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [39158833](https://pubmed.ncbi.nlm.nih.gov/39158833/) | 2024 | Phase II/III open-label study | Int J Hematol | Safety and efficacy of recombinant porcine FVIII in Japanese adults with acquired haemophilia A and severe bleeding (NCT04580407) |
+| [38317504](https://pubmed.ncbi.nlm.nih.gov/38317504/) | 2024 | Phase 3 single-arm study | Haemophilia | Recombinant porcine FVIII in congenital haemophilia A with inhibitors undergoing surgery; the only item touching a non-approved population |
+| [37584309](https://pubmed.ncbi.nlm.nih.gov/37584309/) | 2023 | Real-world observational study | Haemophilia | Non-interventional post-authorization safety and effectiveness study in acquired haemophilia A |
+| [27098420](https://pubmed.ncbi.nlm.nih.gov/27098420/) | 2016 | Review | Drugs | Review of susoctocog alfa in acquired haemophilia A, including a multinational phase II/III trial (n = 28 evaluable) showing effective and generally well-tolerated bleeding control |
+| [37510704](https://pubmed.ncbi.nlm.nih.gov/37510704/) | 2023 | Case series with review | J Clin Med | Surgery and prophylaxis with susoctocog alfa in acquired haemophilia |
+| [32698943](https://pubmed.ncbi.nlm.nih.gov/32698943/) | 2020 | Retrospective case series | Blood Transfus | Italian real-world experience in nine elderly patients with acquired haemophilia A |
+| [40812597](https://pubmed.ncbi.nlm.nih.gov/40812597/) | 2025 | Pharmacokinetic study | J Thromb Haemost | Pharmacokinetic strategies for precise FVIII control with susoctocog alfa |
+| [35765670](https://pubmed.ncbi.nlm.nih.gov/35765670/) | 2022 | In vitro study | Res Pract Thromb Haemost | Recombinant porcine FVIII corrects thrombin generation in plasma from congenital haemophilia A patients with inhibitors |
+| [31448877](https://pubmed.ncbi.nlm.nih.gov/31448877/) | 2020 | Cohort data (GTH-AH 01/2010) | J Thromb Haemost | Cross-reacting inhibitors against recombinant porcine FVIII in acquired haemophilia A |
+| [41436689](https://pubmed.ncbi.nlm.nih.gov/41436689/) | 2025 | Case report | CEN Case Rep | Haemodialysis initiation in acquired haemophilia A managed with susoctocog alfa and emicizumab |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002792 | Obizur | Not specified | Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults. (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Please refer to the SmPC for safety information. No drug-interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-TxGNN assigns a very high prediction score (99.94%) to Primary Release Disorder of Platelets, but there is no mechanistic rationale, no clinical trial, and no published literature connecting FVIII replacement therapy to platelet granule release disorders — consistent with a knowledge-graph embedding artifact rather than a genuine repurposing signal.
+The top-ranked prediction (primary release disorder of platelets) has no clinical or literature evidence (L5) and no plausible mechanism, since FVIII replacement does not correct platelet function defects. The better-supported predictions (hemophilia, acquired coagulation factor deficiency) largely reflect the already-approved acquired haemophilia A indication. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications for susoctocog alfa (blocking data gap — required before any S1 safety pre-assessment)
-- Detailed mechanism-of-action data from DrugBank (High-severity data gap affecting mechanistic-link analysis)
-- Preclinical or in vitro evidence establishing any relationship between FVIII activity and platelet granule release, before any further investment in this specific candidate
-- If repurposing interest persists, re-examine rank #5 ("acquired coagulation factor deficiency", L3 evidence) — though note this largely overlaps with the drug's already-recognized AHA indication rather than representing a distinct new use
+- Mechanism of action data (DrugBank)
+- Warnings and contraindications from the SmPC, which are currently missing and block safety screening
+- Clarification of why the EU authorization was cancelled and whether any marketed supply remains
+- For congenital haemophilia A with inhibitors, dedicated data beyond the single-arm surgical study (PMID 38317504), including a regulatory assessment
+- No further work on the platelet and other non-FVIII-related predictions unless a plausible biological rationale emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

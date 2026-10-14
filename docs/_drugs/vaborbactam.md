@@ -2,7 +2,7 @@
 layout: default
 title: Vaborbactam
 parent: AI Predictions (L5)
-nav_order: 630
+nav_order: 654
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,40 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vaborbactam: From Antibacterial Adjuvant (β-lactamase Inhibitor) to Osteoarthritis
+# Vaborbactam: From Complicated Bacterial Infections to Osteoarthritis
 
 ## One-Sentence Summary
 
-Vaborbactam is a serine β-lactamase inhibitor (boronic acid ester structure) that inhibits KPC-type carbapenemases; it is not currently authorized as a standalone product in the EU and no original approved indication is recorded in this Evidence Pack.
-The TxGNN model predicts it may be effective for **Osteoarthritis**, but this prediction is supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags the score as a possible artifact of sparse-node inference in the knowledge graph.
+Vaborbactam is a beta-lactamase inhibitor, authorised in the EU as part of Vaborem (with meropenem) for complicated urinary tract infections, complicated intra-abdominal infections, hospital-acquired pneumonia and related bacteraemia.
+The TxGNN model predicts it may be effective for **osteoarthritis**, but there are **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is a knowledge-graph output only and has no identified biological rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indication text on record (drug not authorized in the EU market; DrugBank original indications list is empty) |
+| Original Indication | Complicated urinary tract infection (including pyelonephritis), complicated intra-abdominal infection, hospital-acquired/ventilator-associated pneumonia, associated bacteraemia, and infections due to aerobic Gram-negative organisms in adults with limited treatment options |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 98.52% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Vaborbactam is marked as unavailable in this Evidence Pack. Based on the limited information available, Vaborbactam is a serine β-lactamase inhibitor that works by inhibiting KPC-type carbapenemases, and is typically used as an adjuvant combined with a carbapenem antibiotic to restore antibacterial activity against carbapenem-resistant organisms. No original indication has been formally recorded for this candidate, so its proven efficacy profile cannot be assessed from this pack.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, vaborbactam is a cyclic boronic acid beta-lactamase inhibitor. It protects meropenem from serine carbapenemases such as KPC, and its role is in treating Gram-negative bacterial infections.
 
-There is no established pharmacological or clinical link between β-lactamase inhibition and osteoarthritis pathology, which involves cartilage degradation and joint inflammation through entirely different biological pathways (e.g., matrix metalloproteinase activity, cytokine-driven synovitis). The evidence pack's own rationale explicitly notes that Vaborbactam has "no known anti-inflammatory, chondroprotective, or joint-related biological mechanism," and suggests the high TxGNN score may reflect an inference bias arising from sparse graph connectivity around this drug node rather than genuine biological plausibility.
+No plausible link to osteoarthritis was identified. Vaborbactam has no known activity on joint cartilage biology, inflammation or pain pathways. The high TxGNN score (98.52%) most likely reflects graph proximity in the knowledge network rather than biological grounding.
 
-Given the absence of any mechanistic rationale, clinical trial evidence, or literature support, this prediction should be treated as a low-confidence, model-only signal rather than a credible repurposing candidate at this stage.
+The other top-ranked predictions are similarly unsupported: osteoarthritis susceptibility, rheumatoid arthritis, gout, pseudoachondroplasia, hepatic porphyria, brachyolmia, colobomatous microphthalmia-rhizomelic dysplasia syndrome, acromesomelic dysplasia (Hunter-Thompson type) and brachyolmia-amelogenesis imperfecta syndrome. All are L5 with no trials or literature, and none has an identified mechanistic connection to beta-lactamase inhibition.
 
-## Clinical Trial Evidence
+## EU Market Information
 
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004669 (cancelled) | Vaborem | Not specified | Treatment of cUTI including pyelonephritis, cIAI, HAP/VAP and associated bacteraemia in adults; infections due to aerobic Gram-negative organisms in adults with limited... |
 
 ## Safety Considerations
 
@@ -73,13 +72,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by an AI model score (L5) with zero clinical trials or literature, no plausible mechanistic link between β-lactamase inhibition and osteoarthritis pathology, and the evidence pack itself flags the score as a likely sparse-node inference artifact. Combined with a Blocking data gap on safety labeling (TFDA/EMA warnings and contraindications) and a High-severity gap on mechanism of action, this candidate does not meet the bar to advance past initial screening.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or literature, no mechanistic link to osteoarthritis, and the EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
-- Official safety labeling data (SmPC/package insert warnings, contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action from DrugBank or primary literature — currently a High-severity data gap
-- Confirmation of the drug's original approved indication(s), since none are currently on record
-- Independent biological plausibility review before allocating resources to preclinical or clinical validation for osteoarthritis
+- Mechanism of action data, and a credible biological hypothesis linking vaborbactam to joint or cartilage pathology
+- Preclinical evidence (in vitro or animal models of osteoarthritis)
+- Safety information from the SmPC, including warnings and contraindications
+- Clarification of the regulatory status and availability of the product in the EU
+- Assessment of route and formulation compatibility for the proposed new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

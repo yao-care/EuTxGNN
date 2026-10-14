@@ -2,7 +2,7 @@
 layout: default
 title: Imiglucerase
 parent: Medium Evidence (L3-L4)
-nav_order: 303
+nav_order: 314
 evidence_level: L4
 indication_count: 10
 ---
@@ -33,28 +33,28 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Imiglucerase is a recombinant human glucocerebrosidase used as enzyme replacement therapy (ERT), historically for Gaucher disease (the drug's structured `original_indications` field is empty — flagged as a data gap in this pack, not an absence of real-world use).
-> The TxGNN model predicts it may be effective for **Hurler syndrome** (MPS I), with a **99.52% prediction score**, but only **0 clinical trials** and **2 general-review publications** support this direction — and the evidence pack's own analysis flags this as a likely **class-confusion false positive**.
+Imiglucerase is a recombinant form of the enzyme glucocerebrosidase, originally used as long-term enzyme replacement therapy for Gaucher disease (Type 1 and chronic neuronopathic Type 3).
+The TxGNN model predicts it may be effective for **Hurler syndrome**, but **no clinical trials** and only **1 general review article** support this direction, and that review does not test imiglucerase in this disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in Taiwan regulatory data (drug not marketed in Taiwan); per the pack's evidence notes, imiglucerase's known use is Gaucher disease enzyme replacement therapy |
-| Predicted New Indication | Hurler syndrome (Mucopolysaccharidosis type I) |
+| Original Indication | Long-term enzyme replacement therapy for non-neuronopathic (Type 1) or chronic neuronopathic (Type 3) Gaucher disease with clinically significant non-neurological manifestations (anaemia, thrombocytopenia, bone disease, hepatomegaly or splenomegaly) |
+| Predicted New Indication | Hurler syndrome |
 | TxGNN Prediction Score | 99.52% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Structured mechanism-of-action data is not available in this evidence pack (flagged as data gap DG002, High severity). Based on information present elsewhere in the pack, imiglucerase is a recombinant form of human glucocerebrosidase, administered as enzyme replacement therapy (ERT) for Gaucher disease — a lysosomal storage disorder caused by glucocerebrosidase deficiency leading to glucocerebroside accumulation in macrophages.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imiglucerase is a recombinant beta-glucocerebrosidase, an enzyme replacement therapy whose efficacy in Gaucher disease is established. Its link to Hurler syndrome is weak.
 
-Hurler syndrome, in contrast, is caused by deficiency of a completely different enzyme, alpha-L-iduronidase (IDUA), and its accumulated substrate (glycosaminoglycans) and pathway are unrelated to glucocerebrosidase. The standard ERT for Hurler syndrome is laronidase, not imiglucerase.
+Hurler syndrome (MPS I) is caused by a deficiency of a different lysosomal enzyme, alpha-L-iduronidase, which breaks down glycosaminoglycans. Imiglucerase does not supply this missing enzyme and acts on a different substrate. The only shared element is the broad concept of lysosomal storage disease and enzyme replacement therapy.
 
-The evidence pack's own mechanistic assessment concludes that TxGNN's high score most likely reflects a **class-confusion effect**: the model's embedding space groups Gaucher disease and Hurler syndrome together under the broad category "lysosomal storage disease," inflating similarity without capturing that the two conditions involve distinct enzymes and substrates. The two supporting literature items are general reviews of ERT across lysosomal storage diseases as a class — neither specifically studies imiglucerase in Hurler syndrome patients.
+The high TxGNN score (99.52%) most likely reflects closeness among lysosomal diseases in the knowledge graph rather than a direct enzymatic rationale. It should be read as a hypothesis-generating signal, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -64,31 +64,32 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20534487](https://pubmed.ncbi.nlm.nih.gov/20534487/) | 2010 | Review | PNAS | General review of PET imaging for ERT effectiveness across lysosomal storage diseases (Gaucher, Fabry, Hurler, Hunter, Maroteaux-Lamy, Pompe); not specific to imiglucerase in Hurler syndrome |
-| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de médecine interne | General review of ERT development history for lysosomal storage diseases, starting from imiglucerase's predecessor (alglucerase) for Gaucher disease; does not address Hurler syndrome specifically |
+| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de medecine interne | General review of enzyme replacement therapy in lysosomal storage diseases. It covers the development of alglucerase/imiglucerase for Gaucher disease and therapies for Fabry disease. It offers only indirect context and no data on imiglucerase in Hurler syndrome. |
 
-## Taiwan Market Information
+## EU Market Information
 
-Imiglucerase is not currently authorized or marketed in Taiwan (0 licenses on record), so no product/dosage-form/indication table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000157 (cancelled) | Cerezyme | Not specified | Cerezyme (imiglucerase) is indicated for use as longterm enzyme replacement therapy in patients with a confirmed diagnosis of non-neuronopathic (Type 1) or chro... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: One interaction was identified, with **miglustat** (Moderate level, DDInter). Miglustat is a substrate reduction therapy used in Gaucher disease.
+
+Please refer to the SmPC for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN similarity score, there is no clinical trial evidence and no imiglucerase-specific literature for Hurler syndrome — only two general reviews of ERT as a drug class. The evidence pack's own mechanistic analysis identifies this as a probable class-confusion artifact, since Hurler syndrome (IDUA deficiency) and imiglucerase's target pathway (glucocerebrosidase deficiency in Gaucher disease) are mechanistically distinct.
+There is no clinical trial evidence, and the only supporting publication is a general review that does not test imiglucerase in Hurler syndrome. Imiglucerase does not replace the missing enzyme (alpha-L-iduronidase) in MPS I, so the high model score lacks a mechanistic basis. Hurler syndrome already has disease-specific enzyme replacement therapy. In addition, the only EU authorization for imiglucerase is cancelled.
 
 **To proceed, the following is needed:**
-- Preclinical or in vitro data testing imiglucerase specifically against alpha-L-iduronidase-pathway substrates, to confirm or rule out the class-confusion hypothesis
-- Drug mechanism of action (MOA) documentation from DrugBank (data gap DG002)
-- TFDA label warnings/contraindications (data gap DG001, currently blocking safety pre-screening)
-- Correction of the `original_indications` data gap — the pack's own notes indicate imiglucerase's real original indication (Gaucher disease) is missing from structured fields, which should be fixed before further repurposing evaluation on this drug
-
-*Note: within the same evidence pack, one other candidate for this drug ("lysosomal storage disease with skeletal involvement," rank 6) has strong evidence (L1, 2 clinical trials, 20 publications) — but that entry is essentially a re-confirmation of Gaucher disease itself (imiglucerase's known indication), not a genuinely new repurposing signal, and is not the subject of this report.*
+- Preclinical or mechanistic evidence that glucocerebrosidase could affect glycosaminoglycan accumulation in MPS I
+- Detailed mechanism of action data (MOA)
+- Safety information from the SmPC (warnings and contraindications)
+- Clarification of the current EU regulatory and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

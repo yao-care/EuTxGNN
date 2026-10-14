@@ -2,7 +2,7 @@
 layout: default
 title: Netupitant
 parent: AI Predictions (L5)
-nav_order: 413
+nav_order: 427
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,74 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Netupitant is a highly selective NK1 (Substance P) receptor antagonist, used clinically as part of a fixed-dose combination for the prevention of chemotherapy-induced nausea and vomiting.
-> The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
-> but this prediction is currently supported by **no clinical trials** and **no published literature** — it is a pure model output with no identifiable mechanistic link.
-
----
+Netupitant was originally used to prevent nausea and vomiting caused by cancer chemotherapy.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this dataset (netupitant is clinically an NK1 antagonist antiemetic, used in combination therapy) |
+| Original Indication | Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based chemotherapy and moderately emetogenic cancer chemotherapy (adults) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 98.35% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on the supporting rationale text that accompanies the predictions, netupitant is a highly selective NK1 (Substance P) receptor antagonist. Its established pharmacology relates to blocking Substance P signaling in the central nervous system's vomiting reflex pathway, which is why it is used as an antiemetic.
+Detailed mechanism of action data is not available in the data compiled for this report. Netupitant is known to be a selective NK1 (substance P) receptor antagonist, used together with a 5-HT3 antagonist for chemotherapy-induced nausea and vomiting.
 
-For the top-ranked predicted indication, nephrogenic syndrome of inappropriate antidiuresis (NSIAD), the model itself flags an important caveat: NSIAD is driven by aberrant vasopressin (AVP) receptor signaling, and there is no known pharmacological interaction between NK1 antagonism and the AVP receptor pathway. In other words, the high TxGNN score (98.35%) appears to reflect a statistical/embedding-space association within the knowledge graph rather than a biologically plausible mechanism.
+Nephrogenic syndrome of inappropriate antidiuresis is caused by a gain-of-function change in the vasopressin V2 receptor. NK1/substance P signaling has no well-established link to this pathway. The high score (0.984) is a graph-based prediction only, and the data compiled for this report do not support a mechanistic rationale.
 
-Given the absence of any mechanistic rationale, clinical trial, or literature evidence for this specific pairing, this candidate should be treated as a hypothesis-generating signal only, not a basis for further clinical investigation at this time.
-
----
+Other top-ranked predictions (for example migraine, pulmonary hypertension, coronary artery disease) show somewhat more biological plausibility, but they also have no clinical evidence. NK1 antagonists have historically failed in migraine trials, which lowers confidence there as well.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-Netupitant is currently **not marketed** in this region and has no recorded marketing authorizations, so no authorization table can be produced.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003728 (status: cancelled) | Akynzeo | Not specified | Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed nausea and vo... |
 
----
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Not a cytotoxic agent itself; it is a supportive-care antiemetic (NK1 receptor antagonist) used alongside chemotherapy |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
-*(Note: TFDA-equivalent label warnings/contraindications and detailed MOA data are flagged as outstanding data gaps — see Conclusion.)*
-
----
+- **Drug Interactions**: 100 interactions are recorded. Netupitant is also a CYP3A4 inhibitor, which is the likely reason for many of these.
+  - **Major**: Eliglustat, Naloxegol
+  - **Moderate** (examples): Aprepitant, Dexamethasone and other corticosteroids (betamethasone, budesonide, hydrocortisone, prednisolone, prednisone, triamcinolone), Granisetron, Naldemedine, Nitisinone, Repaglinide, Saxagliptin, Simvastatin, Tinidazole, Troglitazone
+  - **Minor**: Cobicistat
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (NSIAD) has an evidence level of L5 — a model score with no clinical trials, no literature, and, per the model's own rationale, no identifiable mechanistic link to netupitant's known pharmacology. There is insufficient basis to advance this candidate.
+The prediction has only model support (L5), with no registered trials or publications. There is also no plausible link between NK1 antagonism and the vasopressin V2 receptor pathway behind this condition. Netupitant's EU authorization is cancelled, and it carries a large interaction burden.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data from DrugBank (currently a Blocking/High-severity data gap — DG002)
-- Official label warnings/contraindications (currently a Blocking data gap — DG001), required before any S1 safety pre-screen
-- Independent mechanistic or preclinical evidence linking NK1 antagonism to AVP-pathway disorders before considering this indication further
-- If pursuing repurposing at all, migraine disorder (rank 3, score 97.5%) has a biologically plausible rationale via Substance P/NK1 involvement in trigeminovascular activation — however, prior NK1 antagonists (lanepitant, aprepitant) failed in migraine trials, so this should be treated as a research question rather than a development candidate
+- A mechanistic rationale connecting NK1/substance P signaling to this condition
+- Mechanism of action data and the full SmPC warnings and contraindications
+- A literature review, and preclinical or exploratory clinical data
+- A review of other higher-plausibility candidates (for example, migraine, after reviewing prior NK1 antagonist trial failures)
+- A drug interaction management plan, given the CYP3A4-related burden
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

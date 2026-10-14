@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Toremifene
-parent: Medium Evidence (L3-L4)
-nav_order: 608
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 630
+evidence_level: L5
 indication_count: 10
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Toremifene: From Breast Cancer to HIV Infectious Disease
+# Toremifene: From Hormone-Dependent Metastatic Breast Cancer to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-Toremifene is a selective estrogen receptor modulator (SERM), historically used to treat hormone receptor-positive (ER+) metastatic breast cancer in postmenopausal women. The TxGNN model's top-ranked prediction is **HIV Infectious Disease**, but this direction is currently supported by **0 clinical trials** and only **1 mechanistic/in-vitro publication**, and that publication actually concerns anti-cryptococcal (opportunistic infection) activity rather than antiretroviral action — so the evidence for this specific prediction remains weak.
+Toremifene was originally approved in the EU as first-line hormone treatment for hormone-dependent metastatic breast cancer in postmenopausal patients.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are **0 clinical trials** and only **1 preclinical publication** (on an antifungal effect, not on HIV itself) supporting this direction.
+The prediction is therefore a computational signal with no clinical backing.
 
 ---
 
@@ -41,23 +43,23 @@ Toremifene is a selective estrogen receptor modulator (SERM), historically used 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not derivable from EU regulatory license text (no EU marketing authorization on record); literature evidence in this pack indicates hormone receptor-positive (ER+) metastatic breast cancer in postmenopausal women |
-| Predicted New Indication | HIV Infectious Disease |
+| Original Indication | First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients. Fareston is not recommended for patients with estrogen receptor negative tumours. |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only; no actual studies on HIV) |
+| EU Market Status | ✗ Cancelled only |
+| Number of Authorizations | 1 (0 currently valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available for Toremifene in this Evidence Pack (flagged as a High-severity data gap, DG002). Based on the literature evidence collected across other predicted indications in this pack, Toremifene is known to act as a triphenylethylene SERM that competitively antagonizes the estrogen receptor, which is its well-established mechanism in breast cancer treatment.
+Currently, detailed mechanism of action data is not available. Based on known information, toremifene is a selective estrogen receptor modulator (SERM) related to tamoxifen. Its efficacy in hormone-dependent breast cancer is established, but no direct mechanism links it to HIV.
 
-The relationship between this known mechanism and the top-ranked prediction (HIV Infectious Disease) is not well supported. The single literature citation attached to this indication (PMID 24520056) actually demonstrates that estrogen receptor antagonists related to tamoxifen and toremifene have **anti-cryptococcal** fungicidal activity — relevant to an opportunistic infection sometimes seen in AIDS patients, not to HIV viral replication or antiretroviral mechanisms themselves. This suggests the high TxGNN score may reflect a knowledge-graph artifact, where "HIV infection," "AIDS," and related opportunistic-infection concepts are semantically clustered together, rather than a genuine mechanistic signal.
+The only linked paper (PMID 24520056) shows that estrogen receptor antagonists, including toremifene, have antifungal activity against *Cryptococcus*. They act by binding EF-hand proteins such as calmodulin and work together with fluconazole in the laboratory. This is relevant to an opportunistic fungal infection that affects people with HIV, not to HIV replication or disease progression. The high score is most likely driven by similarity patterns in the knowledge graph rather than by biological evidence.
 
-Notably, a more biologically plausible (though still preclinical) signal exists further down the ranked list: rank 6, "AIDS" (L4, decision stage S1, "Research Question"), where in-vitro data show Toremifene has antiproliferative activity against AIDS-related Kaposi's sarcoma cells via TGF-β1 upregulation. If this repurposing avenue is of interest, that indication — not HIV infection itself — is the more defensible starting point for further investigation.
+Other predictions for this drug include AIDS, feline AIDS and simian immunodeficiency virus infection, which cluster around the same HIV-related signal. Breast carcinoma also appears among the predictions, but that is toremifene's existing indication rather than a new one.
 
 ---
 
@@ -71,13 +73,15 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Mechanistic/In vitro | mBio | Estrogen receptor antagonists (toremifene, tamoxifen) bind EF-hand proteins and show anti-cryptococcal (antifungal) activity, synergizing with fluconazole and amphotericin B in vitro; relevant to an AIDS-associated opportunistic infection, not to HIV viral mechanism directly |
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Preclinical (in vitro/in vivo antifungal study) | mBio | Tamoxifen and toremifene are fungicidal against *Cryptococcus* and synergize with fluconazole and amphotericin B. Activity is linked to binding of EF-hand proteins. This does not show an effect on HIV. |
 
 ---
 
 ## EU Market Information
 
-Toremifene currently holds no EU marketing authorization in this dataset (market status: Not Marketed, 0 licenses on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000091 (cancelled) | Fareston | Not specified | First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients.Fareston is not recommended for pa... |
 
 ---
 
@@ -85,17 +89,20 @@ Toremifene currently holds no EU marketing authorization in this dataset (market
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Hormonal/targeted antineoplastic therapy (SERM), same pharmacological class as tamoxifen — not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low — SERMs are not associated with significant bone marrow suppression, unlike cytotoxic chemotherapy |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function and serum lipids (per comparative studies with tamoxifen); gynecological/endometrial monitoring given reported increased endometrial cancer risk with long-term antiestrogen therapy |
-| Handling Protection | Oral agent; not classified as a hazardous cytotoxic drug requiring special handling precautions under cytotoxic drug handling regulations |
+| Cytotoxicity Classification | Hormonal (endocrine) therapy, SERM class. It is not a conventional cytotoxic agent. |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions. Leukopenia and thrombocytopenia appear among the knowledge-graph contraindication links. |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions. Given the QT-related concerns below, ECG and electrolyte monitoring are reasonable considerations. |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug–drug interaction data are not available in this Evidence Pack — flagged as a Blocking-severity data gap, DG001.)
+- **Contraindication signals from the knowledge graph (not label text):** long QT syndrome, familial long QT syndrome, torsades de pointes, thrombocytopenia, potassium deficiency disease, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, leukopenia, endometrial hyperplasia.
+- **Drug interactions:** 100 interactions are recorded. The 20 reviewed include these **Major** interactions: dexamethasone, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes), dolasetron, palonosetron, sodium sulfate and levofloxacin. Many of these are QT-prolonging or electrolyte-altering drugs. Moderate interactions include famotidine, cimetidine, pioglitazone, loperamide, aprepitant, bisacodyl, miconazole, nateglinide, lactitol and lactulose.
+
+Please refer to the SmPC for the full label warnings and contraindications.
 
 ---
 
@@ -104,13 +111,14 @@ Please refer to the SmPC for safety information. (Key warnings, contraindication
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (HIV Infectious Disease, score 99.41%) lacks direct mechanistic or clinical support — its sole literature citation concerns anti-cryptococcal (opportunistic infection) activity, not antiretroviral action, and no clinical trials exist for this indication. The high similarity score likely reflects semantic clustering between "HIV" and "AIDS"-related concepts in the knowledge graph rather than a genuine biological signal, so evidence is insufficient to advance beyond S0.
+The HIV prediction has a very high model score but no clinical trials and no evidence of anti-HIV activity. The single linked paper concerns an antifungal effect. The EU authorization is cancelled, and the QT-related and interaction risks are significant in a population that often takes many medicines.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (EU/national label warnings and contraindications) and DG002 (confirmed mechanism of action) before any safety review (S1) can begin
-- Preclinical studies specifically testing antiretroviral (anti-HIV) activity, rather than activity against opportunistic co-infections
-- If pursuing the AIDS-related opportunistic infection signal instead (rank 6, "AIDS," L4/S1, Research Question — supported by in-vitro Kaposi's sarcoma and anti-cryptococcal data), further translational research is needed before clinical evaluation
-- Clarification of why EU market status shows "Not Marketed" despite an extensive global clinical trial and literature record for Toremifene's established use in breast cancer (rank 8 in this dataset shows L1 evidence and "Proceed with Guardrails" for that indication) — this discrepancy should be verified against source regulatory data
+- Laboratory evidence that toremifene directly inhibits HIV replication, or a defined mechanism linking it to HIV disease
+- Mechanism of action (MOA) data
+- Safety, QT-risk and interaction assessment for people with HIV on antiretroviral therapy
+- Review of the SmPC warnings and contraindications, which are not yet available
+- Clarification of current availability, since the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

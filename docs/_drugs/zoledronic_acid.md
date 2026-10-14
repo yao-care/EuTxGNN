@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zoledronic Acid
-parent: Medium Evidence (L3-L4)
-nav_order: 661
-evidence_level: L3
+parent: High Evidence (L1-L2)
+nav_order: 686
+evidence_level: L2
 indication_count: 10
 ---
 
 # Zoledronic Acid
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,92 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Zoledronic Acid: From Osteoporosis / Paget's Disease to HIV Infectious Disease
+# Zoledronic Acid: From Skeletal Complications of Advanced Cancer to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-> Zoledronic acid is a nitrogen-containing bisphosphonate whose efficacy has already been demonstrated in postmenopausal osteoporosis (high fracture risk) and Paget's disease of bone.
-> The TxGNN model predicts it may also be relevant to **HIV Infectious Disease**,
-> with **4 clinical trials** and **20 publications** currently identified, though most of this evidence addresses HIV-associated bone loss rather than direct antiviral activity.
-
----
+Zoledronic acid is an intravenous bisphosphonate originally used to prevent skeletal-related events in patients with advanced cancers involving bone and to treat tumour-induced hypercalcaemia (some products are also approved for osteoporosis and Paget's disease of bone).
+The TxGNN model predicts it may be useful for **HIV infectious disease**, specifically for HIV-associated bone loss,
+with **2 clinical trials** and **9 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Osteoporosis (postmenopausal women, high fracture risk) and Paget's disease of bone (per trial background data; formal TFDA/EU label text not available in this Evidence Pack) |
-| Predicted New Indication | HIV Infectious Disease |
+|------|------|
+| Original Indication | Prevention of skeletal-related events in adults with advanced malignancies involving bone; treatment of tumour-induced hypercalcaemia (TIH) |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 93.95% |
-| Evidence Level | L3 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L2 |
+| EU Market Status | ✗ Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 7 (0 valid, 7 cancelled) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, no structured mechanism-of-action (MOA) record is available for zoledronic acid in this Evidence Pack. Based on information reported within the clinical trial and literature evidence, zoledronic acid is a nitrogen-containing bisphosphonate that inhibits farnesyl pyrophosphate synthase (FPPS) in the mevalonate pathway, thereby suppressing osteoclast-mediated bone resorption. Its efficacy in postmenopausal women with high fracture risk and in Paget's disease of bone has already been demonstrated (as stated in the background of trial NCT00795483).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, zoledronic acid is a bisphosphonate that inhibits osteoclast-mediated bone resorption. This is the basis of its efficacy in cancer-related bone disease, osteoporosis and Paget's disease.
 
-The link to HIV arises indirectly: HIV infection and antiretroviral therapy (particularly tenofovir-based regimens) are strongly associated with accelerated bone loss, and a substantial body of Phase 2/4 trials and reviews supports zoledronic acid's use for managing this complication in people living with HIV. Separately, FPPS inhibition causes intracellular accumulation of isopentenyl pyrophosphate, which activates Vγ9Vδ2 γδ T cells — a cell population with reported in-vitro anti-HIV effector activity. Small pilot studies combining zoledronic acid with interleukin-2 have explored this as an immune-reconstitution strategy.
+The predicted link to HIV is a bone-protective one, not an antiviral one. People with HIV have higher rates of bone loss and fracture, driven by the infection itself and by antiretroviral therapy (ART), particularly tenofovir-containing regimens. Zoledronic acid counters this bone loss, so the prediction is an extension of its approved osteoporosis use into a population at high risk of low bone mineral density.
 
-Importantly, essentially all of the identified evidence supports zoledronic acid for **HIV-associated osteoporosis/osteopenia management** or as an **experimental immunomodulatory adjunct**, not for treatment of HIV infection itself. The predicted indication label ("HIV infectious disease") should therefore be interpreted cautiously — the mechanistic plausibility is for a co-morbidity/adjunct role, not a direct antiviral effect.
-
----
+A second, exploratory mechanism has also been studied. Aminobisphosphonates such as zoledronic acid can activate and expand Vγ9Vδ2 T cells, which have antiviral functions. Work in HIV-infected persons suggests possible immune effects when combined with interleukin-2, but this remains early-stage research and is not a basis for a treatment claim.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00795483](https://clinicaltrials.gov/study/NCT00795483) | Phase 4 | Completed | 33 | Annual/biennial zoledronic acid for osteoporosis in an HIV-infected cohort; assesses efficacy/safety, not antiviral effect |
-| [NCT00102908](https://clinicaltrials.gov/study/NCT00102908) | Phase 2 | Unknown | 30 | Zoledronate for HIV-associated osteopenia; evaluates bone mineral density improvement |
-| [NCT01228318](https://clinicaltrials.gov/study/NCT01228318) | Phase 2 | Completed | 63 | Bone loss and immune reconstitution in HIV/AIDS; explores RANKL/OPG pathway in HAART-treated patients |
-| [NCT05493267](https://clinicaltrials.gov/study/NCT05493267) | Phase 4 | Recruiting | 30 | Zoledronic acid + IL-2 to expand Vγ2Vδ2 T cells for MDR-TB (not HIV); immune-cell mechanism only indirectly relevant |
-
----
+| [NCT01228318](https://clinicaltrials.gov/study/NCT01228318) | Phase 2 | Completed | 63 | BLIR-HIV: bone loss and immune reconstitution in HIV/AIDS; tests zoledronic acid for preventing ART-associated bone loss via the RANKL/OPG pathway |
+| [NCT00795483](https://clinicaltrials.gov/study/NCT00795483) | Phase 4 | Completed | 33 | Annual vs biennial zoledronic acid for osteoporosis in an HIV-infected cohort; assesses efficacy and safety |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17227801](https://pubmed.ncbi.nlm.nih.gov/17227801/) | 2007 | RCT | J Clin Endocrinol Metab | Annual zoledronate increased bone density in HAART-treated HIV-infected men |
-| [19050386](https://pubmed.ncbi.nlm.nih.gov/19050386/) | 2009 | RCT | AIDS | Double-blind RCT confirming efficacy of single-dose zoledronate for HIV-associated osteopenia/osteoporosis |
-| [27193748](https://pubmed.ncbi.nlm.nih.gov/27193748/) | 2016 | RCT (Phase IIb) | Clin Infect Dis | Single-dose zoledronic acid prevented ART-induced bone loss in treatment-naive HIV patients |
-| [29927785](https://pubmed.ncbi.nlm.nih.gov/29927785/) | 2018 | RCT | AIDS | Zoledronic acid superior to tenofovir-switching for low bone mineral density in HIV-positive adults |
-| [31361922](https://pubmed.ncbi.nlm.nih.gov/31361922/) | 2019 | RCT | J Bone Miner Res | Zoledronic acid's BMD/turnover benefit persisted at 36 months in tenofovir-treated HIV adults |
-| [31621838](https://pubmed.ncbi.nlm.nih.gov/31621838/) | 2020 | RCT (Phase IIB) | Clin Infect Dis | ART-induced bone loss durably suppressed by a single zoledronic acid dose in treatment-naive HIV patients |
-| [25300622](https://pubmed.ncbi.nlm.nih.gov/25300622/) | 2014 | Systematic Review/Meta-analysis | AIDS Reviews | Pooled analysis of 8 RCTs on bisphosphonates' BMD effect in HIV-infected adults |
-| [26890207](https://pubmed.ncbi.nlm.nih.gov/26890207/) | 2016 | Review | Curr Opin HIV AIDS | Overview of pharmacologic prevention/management of low BMD in people living with HIV |
-| [19238075](https://pubmed.ncbi.nlm.nih.gov/19238075/) | 2009 | Cohort/Pilot | AIDS | Zoledronic acid + IL-2 activated Vγ9Vδ2 T cells and improved immunocompetence in HIV-infected persons |
-| [33637048](https://pubmed.ncbi.nlm.nih.gov/33637048/) | 2021 | Cohort/Mechanistic | Mol Med | Zoledronic acid alleviated osteoporosis in HIV patients by suppressing osteoclastogenesis via RANKL regulation |
+| [27193748](https://pubmed.ncbi.nlm.nih.gov/27193748/) | 2016 | RCT (Phase IIb) | Clin Infect Dis | A single zoledronic acid infusion prevented ART-induced bone loss in treatment-naive HIV-infected patients |
+| [31621838](https://pubmed.ncbi.nlm.nih.gov/31621838/) | 2020 | RCT follow-up (Phase IIb) | Clin Infect Dis | Protection against ART-induced bone loss from a single dose was durable beyond the initial 48 weeks |
+| [29927785](https://pubmed.ncbi.nlm.nih.gov/29927785/) | 2018 | RCT | AIDS | Zoledronic acid was superior to switching tenofovir disoproxil fumarate for low bone mineral density in adults with HIV |
+| [31361922](https://pubmed.ncbi.nlm.nih.gov/31361922/) | 2019 | RCT follow-up (open-label) | J Bone Miner Res | Bone density effects of zoledronic acid in HIV-infected adults on tenofovir were examined over 36 months, beyond the 24-month benefit over TDF switching |
+| [33637048](https://pubmed.ncbi.nlm.nih.gov/33637048/) | 2021 | Clinical/mechanistic study | Mol Med | Zoledronic acid alleviated osteoporosis in HIV patients by suppressing osteoclastogenesis through RANKL regulation |
+| [19238075](https://pubmed.ncbi.nlm.nih.gov/19238075/) | 2009 | Clinical/mechanistic study | AIDS | Zoledronic acid plus interleukin-2 improved immunocompetence in HIV-infected persons by activating Vγ9Vδ2 T cells |
+| [23627025](https://pubmed.ncbi.nlm.nih.gov/23627025/) | 2012 | In vitro study | Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi | Compared Vδ2 T cell expansion from HIV-infected patients using zoledronic acid versus γδ TCR monoclonal antibody |
 
----
+## EU Market Information
+
+All authorizations listed below are cancelled; none is currently valid.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000595 | Aclasta | Not specified | Treatment of osteoporosis in post-menopausal women and in men at increased risk of fracture, including after a recent low-trauma hip fracture; glucocorticoid-induced osteoporosis; Paget's disease of the bone... |
+| EMEA/H/C/002365 | Zoledronic Acid Hospira | Not specified | 4 mg: prevention of skeletal-related events in advanced malignancies involving bone; tumour-induced hypercalcaemia. 5 mg: osteoporosis and Paget's disease... |
+| EMEA/H/C/002482 | Zoledronic acid Mylan | Not specified | Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with ... |
+| EMEA/H/C/002667 | Zoledronic Acid Accord | Not specified | Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with ... |
+| EMEA/H/C/002359 | Zoledronic acid medac | Not specified | Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with ... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: the TxGNN knowledge graph links zoledronic acid to contraindication-type relationships with anuria, impaired renal function, hypercalcaemia disease, nephrocalcinosis, phosphorus metabolism disease, hypophosphatemia, hypoparathyroidism, intracranial haemorrhage, osteonecrosis of the jaw, pulmonary oedema, fibromyalgia, myositis and tooth disease. These are model-derived associations and need confirmation against the official product information.
+- **Drug Interactions**: 100 interactions were identified. Moderate-level interactions include:
+  - Aminoglycosides and related antibiotics (kanamycin, neomycin, streptomycin), vancomycin and polymyxin B
+  - Amphotericin B (including lipid, cholesteryl sulfate and liposomal forms)
+  - Aminosalicylates (mesalazine, balsalazide, olsalazine, sulfasalazine) and acetylsalicylic acid
+  - Exenatide
+- Interactions with unknown severity include calcitriol, vitamin A, pantoprazole, glimepiride and doxycycline.
+- **Calcium and vitamin D status**: published case reports describe prolonged or symptomatic hypocalcaemia after zoledronic acid, including in a patient with vitamin D deficiency. Calcium and vitamin D should be checked and corrected before use.
 
-*(Note: `key_warnings`, `contraindications`, and drug interaction data are all marked as data gaps in this Evidence Pack. Retrieval of TFDA/EU labeling warnings is listed as a Blocking data gap — see Conclusion below.)*
-
----
+Please also refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication "HIV Infectious Disease" is not well supported by the underlying evidence — nearly all clinical trials and literature address zoledronic acid's role in managing HIV/ART-associated bone loss (a co-morbidity), or its experimental use as a γδ T cell-based immune adjunct, rather than direct antiviral therapy. Combined with the drug's current "Not Marketed" status in the EU (0 authorizations) and a **Blocking** data gap on safety labeling, this candidate is not ready to advance.
+A completed Phase 2 trial and several randomized studies, including Phase IIb trials and a randomized comparison against tenofovir switching, support zoledronic acid for preventing and treating bone loss in people with HIV. The benefit is on bone density, not on the virus. The EU authorizations are all cancelled, and the label warnings and mechanism of action are not available in the data compiled for this report.
 
 **To proceed, the following is needed:**
-- TFDA/EU SmPC warnings and contraindications (currently a Blocking data gap)
-- Confirmed mechanism-of-action data from DrugBank (currently a High-severity data gap)
-- Clarification of the actual therapeutic target — HIV-associated osteoporosis management vs. a genuine antiviral/immunotherapy claim — before further evidence scoring
-- If pursuing the immune-modulatory angle, additional controlled human trials evaluating zoledronic acid + IL-2 on virologic/immunologic endpoints (current evidence is limited to small pilot/mechanistic studies)
+- The current SmPC warnings and contraindications for zoledronic acid, to complete the safety screening
+- Confirmation of EU regulatory status, since all 7 authorizations are cancelled
+- Detailed mechanism of action data
+- Evidence of fracture reduction (not only bone density gains) in people with HIV, ideally from larger Phase 3 trials
+- A safety monitoring plan covering renal function, calcium and vitamin D, dental health (osteonecrosis of the jaw risk), and the interaction with tenofovir-based ART
+- Clarification of whether the immune-modulating (Vγ9Vδ2 T cell) mechanism has any clinical value, which should be treated as exploratory only
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

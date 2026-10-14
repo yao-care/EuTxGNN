@@ -2,7 +2,7 @@
 layout: default
 title: Ramucirumab
 parent: AI Predictions (L5)
-nav_order: 489
+nav_order: 506
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,88 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ramucirumab: From VEGFR2-Targeted Oncology Therapy to Uterine Ligament Adenocarcinoma
+# Ramucirumab: From Gastric Cancer to Uterine Ligament Adenocarcinoma
 
 ## One-Sentence Summary
 
-> Ramucirumab is a VEGFR2-targeting monoclonal antibody used in oncology; the evidence pack does not contain data on its originally licensed indication or EU authorization status (marked as not marketed).
-> The TxGNN model predicts it may be effective for **Uterine Ligament Adenocarcinoma**, a very rare tumour subtype,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI knowledge-graph inference.
-
----
+Ramucirumab (Cyramza) is originally used to treat advanced gastric or gastro-oesophageal junction adenocarcinoma, metastatic colorectal cancer, non-small cell lung cancer and hepatocellular carcinoma.
+The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available in evidence pack (data gap) |
-| Predicted New Indication | Uterine Ligament Adenocarcinoma |
+|------|------|
+| Original Indication | Advanced gastric cancer or gastro-oesophageal junction adenocarcinoma (with paclitaxel or as monotherapy after prior chemotherapy); also metastatic colorectal cancer, non-small cell lung cancer and hepatocellular carcinoma |
+| Predicted New Indication | Uterine ligament adenocarcinoma |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available as a structured field in this evidence pack. Based on the rationale text accompanying the prediction, Ramucirumab is a VEGFR2 monoclonal antibody that blocks tumour angiogenesis, a mechanism theoretically relevant to highly vascularised solid tumours.
+Detailed mechanism of action data is not available in the data compiled for this report. Ramucirumab is known to be a VEGFR-2 antagonist, an anti-angiogenic antibody. Its efficacy in gastric, colorectal, lung and liver cancers is established, and mechanistically it may be applicable to adenocarcinomas that depend on VEGF signalling.
 
-The predicted indication — uterine ligament adenocarcinoma — is an extremely rare, anatomically specific tumour subtype. While some related cancer types (e.g., cervical and endometrioid adenocarcinomas) are known to show VEGF pathway activation, and anti-angiogenic agents have precedent in gynaecologic oncology (e.g., bevacizumab in metastatic cervical cancer), no data specific to this rare subtype or to Ramucirumab in gynaecologic malignancies is provided. The mechanistic link is plausible in principle but remains entirely theoretical for this specific pairing.
+Adenocarcinomas of the gynaecologic tract, including the uterine ligament, can depend on VEGF-driven blood vessel growth, so blocking VEGFR-2 is biologically plausible. However, this link rests only on the high TxGNN score (0.9995) and a general anti-angiogenic rationale. No entity-specific studies were found, and the mechanism could not be cross-checked against a recorded mechanism of action.
 
-Because the model's TxGNN score (99.95%) is based purely on knowledge-graph relationships without any supporting clinical or literature evidence, this prediction should be treated as a hypothesis-generating signal only, not as a validated repurposing candidate.
+Other top-ranked predictions are also gynaecologic adenocarcinomas, all with the same prediction-only evidence and scores between 99.93% and 99.95%:
+- Endocervical carcinoma
+- Adenoid cystic carcinoma of the cervix uteri
+- Uterine ligament serous, endometrioid, clear cell and mucinous adenocarcinomas
+- Signet ring cell and intestinal variants of cervical mucinous adenocarcinoma
+- Cervical adenosquamous carcinoma, glassy cell variant
 
----
+For the signet ring and intestinal mucinous variants, there is a loose histological analogy to gastrointestinal adenocarcinomas where ramucirumab is approved. This analogy is indirect and does not establish activity in the cervix.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EU marketing authorizations are recorded for this drug in the evidence pack (0 licenses; market status: not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002829 (status: cancelled) | Cyramza | Not specified | Gastric cancer: with paclitaxel for advanced gastric or GEJ adenocarcinoma after prior platinum and fluoropyrimidine chemo... |
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy (anti-VEGFR2 monoclonal antibody / anti-angiogenic agent) |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (anti-VEGFR-2 monoclonal antibody), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interactions in total; the first 20 are shown in the data compiled for this report. Most listed are Major-level and involve agents that affect bleeding or clotting:
+  - Acetylsalicylic acid
+  - Anticoagulants and antithrombotics, including apixaban, betrixaban, bivalirudin, dalteparin, defibrotide, antithrombin III and caplacizumab
+  - Antiplatelet agents, including clopidogrel, cilostazol, cangrelor and abciximab
+  - Thrombolytic: alteplase
+  - Other Major-level interactions: deferasirox, ibritumomab tiuxetan and tositumomab (including I-131)
+  - Moderate-level interactions: dexfenfluramine, fenfluramine and sibutramine
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by AI inference (L5, no clinical trials or literature) for an extremely rare tumour subtype, and critical safety data (warnings, contraindications) are flagged as a Blocking data gap. The drug also shows no current EU marketing authorization in this evidence pack, further limiting near-term actionability.
+The prediction is supported only by a high model score and general anti-angiogenic plausibility. There are no clinical trials or publications for any of the predicted gynaecologic adenocarcinoma entities (Evidence Level L5). In addition, the only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- SmPC-derived safety data: key warnings and contraindications (currently Blocking data gap DG001)
-- Confirmed mechanism of action from DrugBank or regulatory sources (High-priority data gap DG002)
-- Verification of Ramucirumab's original approved indication(s) and current EU regulatory status
-- Any preclinical or case-level evidence specifically addressing VEGFR2 blockade in rare gynaecologic adenocarcinoma subtypes before advancing beyond S0
+- Literature and trial searches (including case reports and cervical or endometrial cancer anti-angiogenic data) for the predicted entities
+- Detailed mechanism of action data (MOA)
+- Safety information from the SmPC (warnings and contraindications)
+- Clarification of the current EU regulatory status and available formulations
+- Assessment of route compatibility and similarity to the original indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

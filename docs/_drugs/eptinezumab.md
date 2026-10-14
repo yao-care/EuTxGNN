@@ -2,15 +2,15 @@
 layout: default
 title: Eptinezumab
 parent: Medium Evidence (L3-L4)
-nav_order: 227
-evidence_level: L3
+nav_order: 234
+evidence_level: L4
 indication_count: 10
 ---
 
 # Eptinezumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Eptinezumab: From Migraine Prevention to Migraine with Brainstem Aura
+# Eptinezumab: From Migraine Prophylaxis to Migraine with Brainstem Aura
 
 ## One-Sentence Summary
 
-Eptinezumab is an anti-CGRP (calcitonin gene-related peptide) monoclonal antibody already approved for prevention of episodic/chronic migraine. The TxGNN model predicts it may also be effective for **migraine with brainstem aura** (formerly basilar-type migraine), but this direction currently has **0 clinical trials** and **0 publications** in this evidence pack, and this subtype has historically been excluded from major anti-CGRP mAb trials.
+Eptinezumab (Vyepti) is an anti-CGRP monoclonal antibody, originally used to prevent migraine in adults with at least 4 migraine days per month.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
+but there are currently **no registered clinical trials** and only **indirect literature support** (10 publications, mostly reviews, case reports and subgroup analyses).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine prevention (episodic/chronic), per the drug's known approved use — not separately confirmed in local regulatory records here |
+| Original Indication | Prophylaxis of migraine in adults who have at least 4 migraine days per month |
 | Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (DrugBank query pending, flagged as a High-severity data gap). Based on known information, Eptinezumab is an anti-CGRP monoclonal antibody already approved for migraine prevention in adults with episodic or chronic migraine. CGRP signaling is the central pathogenic pathway in migraine, including migraine with aura.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, eptinezumab is an anti-CGRP (calcitonin gene-related peptide) monoclonal antibody. CGRP is a key signaling molecule in migraine, and blocking it is effective for migraine prevention.
 
-Migraine with brainstem aura is a clinical subtype of migraine with aura, sharing the same underlying trigeminovascular/CGRP pathway as the already-approved indication — making the mechanistic link biologically plausible as a subgroup extrapolation rather than a novel mechanism.
+Migraine with brainstem aura is a migraine subtype that shares the underlying pathophysiology of the approved indication, so a mechanistic overlap is plausible. Indirect support includes a post hoc analysis of two pivotal trials (PROMISE-1 and PROMISE-2) in patients with self-reported aura, case reports and a review of anti-CGRP antibodies in aura, and a report of genetic migraine disorders that responded to CGRP antagonists.
 
-However, this subtype involves brainstem-localizing aura symptoms, and major anti-CGRP mAb Phase 3 trials (e.g., PROMISE-1/2) have typically excluded patients with basilar-type/brainstem aura migraine, out of caution regarding the vasoconstrictive/vasodilatory implications of blocking CGRP in a population with suspected vertebrobasilar vascular involvement. This means the prediction rests on mechanistic reasoning from the parent indication rather than direct subtype-specific evidence.
+There are important limits. A randomized trial found that PACAP38-induced migraine attacks are independent of CGRP signaling, which suggests CGRP blockade may not cover all migraine pathways. No study has directly targeted brainstem aura, and the aura evidence is based on self-reported aura in general migraine populations. The very high TxGNN score is consistent with the overlap with the approved migraine indication but is not clinical proof.
 
 ## Clinical Trial Evidence
 
@@ -61,30 +63,45 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [40229719](https://pubmed.ncbi.nlm.nih.gov/40229719/) | 2025 | RCT | J Headache Pain | PACAP38-induced migraine attacks are independent of CGRP signaling, suggesting CGRP blockade may not cover all pathways |
+| [35302389](https://pubmed.ncbi.nlm.nih.gov/35302389/) | 2022 | Post hoc analysis of RCT | Cephalalgia | Efficacy and safety of eptinezumab in patients with migraine and self-reported aura (PROMISE-1 and PROMISE-2) |
+| [40341526](https://pubmed.ncbi.nlm.nih.gov/40341526/) | 2025 | Cohort/Observational | Headache | Two cases of genetic conditions with migraine as a key feature that responded to CGRP antagonist therapy |
+| [35268319](https://pubmed.ncbi.nlm.nih.gov/35268319/) | 2022 | Case reports and review | J Clin Med | Anti-CGRP antibodies and their possible usefulness in migraine aura |
+| [32699706](https://pubmed.ncbi.nlm.nih.gov/32699706/) | 2020 | Review | Cureus | CGRP antagonists in episodic and chronic migraine |
+| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Review | Handb Exp Pharmacol | Role of CGRP in migraine |
+| [33550872](https://pubmed.ncbi.nlm.nih.gov/33550872/) | 2021 | Review | Pain Manag | Overview of new acute and preventive migraine treatments, including eptinezumab |
+| [42090640](https://pubmed.ncbi.nlm.nih.gov/42090640/) | 2026 | Cohort (safety) | Neurology | Glaucoma risk associated with CGRP inhibitor use in migraine (multinational cohort) |
+| [42390441](https://pubmed.ncbi.nlm.nih.gov/42390441/) | 2026 | Cohort (safety) | Cephalalgia | Cerebrovascular risk of CGRP monoclonal antibodies versus onabotulinumtoxinA in migraine |
+| [40191903](https://pubmed.ncbi.nlm.nih.gov/40191903/) | 2025 | Case report | Rev Neurol | Wearing-off effect managed with eptinezumab in chronic migraine refractory to two subcutaneous CGRP antibodies |
 
 ## EU Market Information
 
-No marketing authorization on record for this product in this evidence pack (0 licenses; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005287 | Vyepti | Not specified | Prophylaxis of migraine in adults who have at least 4 migraine days per month (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: No interaction records were found in the data compiled for this report.
+- **Emerging safety signals (class-level, from recent cohort studies)**: Studies of CGRP inhibitors have examined glaucoma risk and cerebrovascular risk (ischemic stroke/TIA) in people with migraine. These are observational safety questions that deserve attention when considering use in patients with aura, and they are not a basis for conclusions here.
 
-*Note: TFDA label warnings/contraindications are marked as a Blocking data gap (DG001) — this must be resolved before any S1 safety review can proceed, particularly given the theoretical vascular considerations relevant to the brainstem aura subtype.*
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (shared CGRP pathway with the approved migraine indication) is plausible, but there is no direct clinical trial or literature evidence for this specific subtype, and a Blocking-severity safety data gap (missing TFDA label/warnings) currently prevents even an initial safety review.
+The prediction is mechanistically plausible, because eptinezumab is already approved for migraine prevention and aura subgroup data exist. However, there are no trials directly targeting brainstem aura, the evidence is indirect, and the only EU authorization is cancelled. Safety review cannot proceed without the label warnings and contraindications.
 
 **To proceed, the following is needed:**
-- TFDA label/warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action detail via DrugBank API (DG002, High)
-- Targeted literature/trial search specifically for CGRP monoclonal antibodies in basilar-type/brainstem aura migraine, since large pivotal trials excluded this subgroup
-- Specific evaluation of vascular safety signals given the historical exclusion rationale for this subtype in CGRP mAb trials
+- Warnings and contraindications from the EMA product information, which is a blocking gap for safety screening
+- Detailed mechanism of action data
+- Clarification of why the EU authorization was cancelled and whether the product is currently available
+- Evidence specific to brainstem aura, such as a dedicated subgroup analysis, registry data or a pilot trial
+- Review of cerebrovascular and other class-level safety signals in patients with aura, particularly given the brainstem involvement
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Caplacizumab
 parent: AI Predictions (L5)
-nav_order: 124
+nav_order: 126
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,65 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Caplacizumab: From Thrombotic Thrombocytopenic Purpura to Primary Release Disorder of Platelets
+# Caplacizumab: From Acquired Thrombotic Thrombocytopenic Purpura to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Caplacizumab is a humanized anti-von Willebrand factor (anti-vWF) nanobody approved globally for acquired thrombotic thrombocytopenic purpura (aTTP; EMA 2018, FDA 2019), acting by blocking the interaction between vWF multimers and platelet glycoprotein Ib (GPIb) to prevent microvascular thrombosis.
-The TxGNN model ranks **Primary Release Disorder of Platelets** as its top new predicted indication with a score of **99.99%**, classifying it within the same broad family of platelet pathway disorders.
-However, **no clinical trials or literature** currently exist to support this specific application, and the mechanistic rationale is not straightforward — this remains an early-stage hypothesis only.
+Caplacizumab is an anti-von Willebrand factor (vWF) nanobody, originally used to treat adults with an episode of acquired thrombotic thrombocytopenic purpura (aTTP), together with plasma exchange and immunosuppression.
+The TxGNN model's top-ranked prediction is **primary release disorder of platelets**, but **no clinical trials and no publications** support it, and the mechanism argues against it.
+The only prediction with substantial evidence is thrombotic thrombocytopenic purpura (7 trials, 20 publications), which is the already approved indication rather than a true repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acquired Thrombotic Thrombocytopenic Purpura (aTTP) |
+|------|------|
+| Original Indication | Treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| TxGNN Prediction Score | 99.99983% |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Caplacizumab is a humanized, bivalent, variable-domain-only immunoglobulin fragment (nanobody) that binds with high specificity to the A1 domain of von Willebrand factor. By occupying this binding site, it physically prevents vWF multimers from docking onto platelet glycoprotein Ib (GPIb), thereby halting pathological platelet aggregation. This mechanism is directly relevant to aTTP, where severe ADAMTS13 deficiency causes ultra-large vWF multimers to accumulate in circulation and trigger widespread microthrombosis, leading to thrombocytopenia, hemolytic anemia, and end-organ ischemia.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, caplacizumab is an anti-vWF A1 domain nanobody that blocks the binding of vWF to the platelet GPIb-IX-V receptor, thereby preventing platelet adhesion and microthrombus formation. This is why it works in aTTP, where ADAMTS13 deficiency leaves ultra-large vWF multimers that cause platelet-rich microthrombi.
 
-Primary release disorder of platelets refers to a group of inherited platelet secretion defects in which dense granules (containing ADP and serotonin) or α-granules (containing fibrinogen and vWF) fail to release normally upon platelet activation. The result is impaired secondary aggregation and a bleeding phenotype. The underlying pathology involves granule biogenesis or exocytosis machinery — a distinct cellular axis from the vWF-GPIb adhesion step targeted by caplacizumab — and there is currently no published evidence suggesting that blocking vWF-GPIb interaction would restore or compensate for impaired granule secretion.
+The predicted indication does not fit this mechanism. Primary release disorders of platelets are intrinsic defects of platelet granule secretion and are not driven by vWF-mediated adhesion. Blocking platelet adhesion would likely worsen bleeding rather than help. The high score therefore appears to reflect statistical patterns in the knowledge graph (a shared platelet-disorder neighborhood) and not biological support.
 
-The mechanistic concern here runs deeper than a simple lack of data. Primary release disorder is a **hemorrhagic** condition caused by insufficient platelet function; caplacizumab further **reduces** platelet adhesion to vWF. Deploying an anti-platelet agent in an existing platelet secretion deficiency would be expected to worsen bleeding rather than provide therapeutic benefit. The high TxGNN score most likely reflects the model's recognition of shared platelet-pathway ontology terms (both diseases involve platelet dysfunction) rather than a biologically actionable link. Absent any preclinical or clinical data, this prediction warrants no further clinical development at this stage.
+The same concern applies to the other top predictions. Pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defects, constitutional thrombocytopenia, fetal and neonatal alloimmune thrombocytopenia, hemophilia and platelet-type bleeding disorder are all bleeding or platelet-function conditions. Adding a vWF-GPIb blocker would be expected to add bleeding risk. The only prediction consistent with the mechanism is thrombotic thrombocytopenic purpura, the approved indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for primary release disorder of platelets.
+No clinical trials are registered for the top-ranked predicted indication (primary release disorder of platelets). The trials below relate to thrombotic thrombocytopenic purpura (TTP), the approved indication, and are shown as the only clinical evidence available for this drug.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02553317](https://clinicaltrials.gov/study/NCT02553317) | Phase 3 | Completed | 145 | HERCULES: double-blind, placebo-controlled RCT of caplacizumab in aTTP, assessing faster platelet count recovery |
+| [NCT02878603](https://clinicaltrials.gov/study/NCT02878603) | Phase 3 | Completed | 104 | Post-HERCULES: long-term safety, efficacy and repeat use of caplacizumab |
+| [NCT05468320](https://clinicaltrials.gov/study/NCT05468320) | Phase 3 | Completed | 51 | Open-label single-arm study of caplacizumab plus immunosuppression without first-line plasma exchange in iTTP |
+| [NCT04074187](https://clinicaltrials.gov/study/NCT04074187) | Phase 2/3 | Completed | 21 | Open-label study in Japanese patients with aTTP, assessing prevention of recurrence |
+| [NCT01151423](https://clinicaltrials.gov/study/NCT01151423) | Phase 2 | Completed | 75 | TITAN: single-blind, randomized, placebo-controlled trial of anti-vWF nanobody added to plasma exchange |
+| [NCT04720261](https://clinicaltrials.gov/study/NCT04720261) | Phase 2 | Terminated | 58 | Single-arm study of a personalized, ADAMTS13-guided caplacizumab regimen |
+| [NCT05263193](https://clinicaltrials.gov/study/NCT05263193) | N/A | Completed | 4 | Retrospective chart review of caplacizumab in pediatric iTTP |
+| [NCT05785468](https://clinicaltrials.gov/study/NCT05785468) | N/A | Unknown | 1 | Retrospective Italian observational study (ROSCAPLI) of caplacizumab response in aTTP |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for primary release disorder of platelets.
+No publications are available for the top-ranked predicted indication. The publications below relate to TTP, the approved indication. The 20 publications linked to the hemophilia prediction are also caplacizumab-in-TTP papers and contain no hemophilia data.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30625070](https://pubmed.ncbi.nlm.nih.gov/30625070/) | 2019 | RCT | N Engl J Med | Caplacizumab, an anti-vWF nanobody, treatment for acquired TTP (HERCULES) |
+| [26863353](https://pubmed.ncbi.nlm.nih.gov/26863353/) | 2016 | RCT | N Engl J Med | Phase 2 TITAN trial of caplacizumab for acquired TTP |
+| [33881463](https://pubmed.ncbi.nlm.nih.gov/33881463/) | 2021 | Integrated analysis | Blood Adv | Combined TITAN and HERCULES data: fewer deaths (0 vs 4) and less refractory TTP with caplacizumab |
+| [40235949](https://pubmed.ncbi.nlm.nih.gov/40235949/) | 2025 | Cohort | EClinicalMedicine | Capla 1000+ international retrospective cohort on mortality and timing of caplacizumab initiation |
+| [36138517](https://pubmed.ncbi.nlm.nih.gov/36138517/) | 2022 | Cohort | J Thromb Haemost | Post-HERCULES long-term follow-up and repeat caplacizumab use |
+| [40533296](https://pubmed.ncbi.nlm.nih.gov/40533296/) | 2025 | Guideline | J Thromb Haemost | 2025 focused update of the ISTH TTP management guidelines |
+| [32914526](https://pubmed.ncbi.nlm.nih.gov/32914526/) | 2020 | Guideline | J Thromb Haemost | ISTH guidelines for treatment of TTP |
+| [40388146](https://pubmed.ncbi.nlm.nih.gov/40388146/) | 2025 | Review | JAMA | Review of immune TTP |
+| [32634237](https://pubmed.ncbi.nlm.nih.gov/32634237/) | 2020 | Observational | Blood Adv | ADAMTS13 and vWF activity used to guide individualized caplacizumab treatment |
+| [38838300](https://pubmed.ncbi.nlm.nih.gov/38838300/) | 2024 | Retrospective | Blood | Management of iTTP without therapeutic plasma exchange (42 episodes) |
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Caplacizumab (DrugBank: DB06081) has not received marketing authorization from the Taiwan Food and Drug Administration (TFDA). No product licenses, approved dosage forms, or registered indications are on record.
-
-For international reference, caplacizumab is marketed as **Cablivi** (Sanofi/Ablynx) and holds approvals from the European Medicines Agency (2018) and the U.S. FDA (2019) for the treatment of adults with acquired aTTP in combination with plasma exchange and immunosuppression. It is also approved in Japan following a Phase 2/3 study in Japanese aTTP patients (NCT04074187, n=21, completed 2021).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004426 | Cablivi (status: cancelled) | Not specified | Treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified. Major interactions include acetylsalicylic acid, fondaparinux, alteplase, abciximab, anagrelide, acalabrutinib, deferasirox, ibritumomab tiuxetan, tositumomab and trastuzumab emtansine. Moderate interactions include ibuprofen, ketorolac, celecoxib, topical diclofenac, fluvoxamine, fenfluramine, dexfenfluramine and sibutramine. Most of these involve agents that affect platelets or coagulation, which adds to bleeding risk.
+- **Bleeding risk**: Because caplacizumab blocks vWF-dependent platelet adhesion, it would be expected to worsen bleeding in patients who already have a platelet or coagulation disorder. This applies to nearly all of the top predicted indications.
 
-> **Mechanistic safety signal for this predicted indication:** Caplacizumab's core pharmacological action — blocking vWF-GPIb interaction — constitutes a recognized anti-platelet mechanism. In a hemorrhagic disease background such as primary release disorder of platelets, introduction of an additional anti-platelet agent carries a plausible risk of exacerbating bleeding. This concern is a primary driver of the Hold recommendation and should be formally evaluated before any exploratory study is contemplated.
+Please refer to the SmPC for the full warnings and contraindications.
 
 ---
 
@@ -96,13 +121,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Primary release disorder of platelets is a bleeding disorder rooted in platelet granule secretion failure; caplacizumab's vWF-GPIb blockade mechanism has no established therapeutic relevance to this pathway and may worsen the hemorrhagic phenotype. Evidence level is L5 (model prediction only) with zero supporting clinical or preclinical data.
+The top-ranked prediction, primary release disorder of platelets, has no clinical trials or publications and conflicts with caplacizumab's mechanism, since blocking platelet adhesion would likely worsen bleeding. The only well-supported prediction is thrombotic thrombocytopenic purpura. It has 3 Phase 3 trials (2 randomized, placebo-controlled studies of the Phase 2/3 program plus follow-up) and rates L1 with a Proceed with Guardrails recommendation, but it is the existing approved indication and not a new one.
 
-**To proceed, the following would be needed:**
-- Preclinical data (in vitro platelet function assays or animal models) demonstrating any mechanistic benefit of vWF-GPIb blockade in granule release disorder subtypes
-- Disease subtype clarification — if any primary release disorder variant involves pathological vWF-GPIb over-engagement, that subtype could be re-evaluated separately
-- Formal safety assessment confirming that the anti-platelet effect of caplacizumab does not worsen bleeding in this hemorrhagic background
-- Full mechanism-of-action documentation for caplacizumab (currently listed as data gap in this Evidence Pack)
+**To proceed, the following is needed:**
+- Mechanism of action data and the SmPC warnings and contraindications, which are currently missing and block safety screening
+- Preclinical or mechanistic evidence that vWF-GPIb blockade could benefit any predicted bleeding or platelet-function disorder
+- A bleeding-risk assessment for these populations, including concomitant antiplatelet and anticoagulant use
+- Clarification of the EU market status, since the single authorization is recorded as cancelled
+- For TTP, if it is pursued as a guarded use: ADAMTS13-guided treatment duration and bleeding monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

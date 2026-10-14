@@ -2,7 +2,7 @@
 layout: default
 title: Everolimus
 parent: High Evidence (L1-L2)
-nav_order: 241
+nav_order: 248
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,80 +29,104 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Everolimus: From an Unrecorded Original Indication to Liposarcoma
+# Everolimus: From Hormone-Receptor-Positive Advanced Breast Cancer to Liposarcoma
 
 ## One-Sentence Summary
 
-Everolimus (DrugBank DB01590) is identified in supporting literature as an mTOR inhibitor; its original approved indication is not recorded in this evidence pack, and the drug currently holds no marketing authorization on file. The TxGNN model predicts potential efficacy in **Liposarcoma**, with **1 active clinical trial** and **4 supporting publications** currently identified for this indication.
+Everolimus is an mTOR inhibitor originally authorised for advanced breast cancer, neuroendocrine tumours, renal-cell carcinoma and tuberous sclerosis complex (TSC)-associated tumours.
+The TxGNN model predicts it may be effective for **liposarcoma**, with **1 clinical trial** (a Phase 2 study of everolimus plus ribociclib) and **4 publications** currently linked to this direction. Only one of these publications reports clinical results.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file — no marketing authorization/license record available in this evidence pack |
+| Original Indication | Hormone-receptor-positive, HER2-negative advanced breast cancer (with exemestane) |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L2 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed drug-level mechanism-of-action data is not available for Everolimus in this evidence pack. However, the supporting literature (PMID 37967116) explicitly identifies Everolimus as **"the mTOR inhibitor everolimus,"** used in combination with the CDK4 inhibitor ribociclib, and reports that the two agents "have shown synergistic growth inhibition in multiple tumor models."
+Detailed mechanism-of-action data are not available in the data compiled for this report. Everolimus is known as an inhibitor of mTORC1, a central regulator of cell growth and survival. It has proven efficacy in several solid tumours, including breast cancer, pancreatic and other neuroendocrine tumours, and renal-cell carcinoma.
 
-For the predicted indication, dedifferentiated liposarcoma (DDL) has documented activation of the **Akt-mTOR and MAPK signaling pathways** (PMID 26518767), providing a direct mechanistic rationale for mTOR-pathway inhibition in this tumor type. This is corroborated by an ongoing Phase 2 trial (NCT03114527) combining ribociclib and everolimus specifically in advanced DDL and leiomyosarcoma patients, and by preclinical work on CDK-inhibitor combination strategies in sarcoma models (PMID 36003796).
+Dedifferentiated liposarcoma is characterised by CDK4/MDM2 amplification and frequent activation of the PI3K/AKT/mTOR pathway. In theory, blocking mTOR could slow tumour growth. Combining everolimus with the CDK4/6 inhibitor ribociclib targets two complementary proliferation and survival pathways. Preclinical sarcoma models and combination data support this idea.
 
-Because no original indication is on file for this drug, the rationale here rests solely on this pathway-level and combination-trial evidence rather than on cross-indication similarity to an approved use.
+This rationale has not been confirmed by randomised clinical data. In the available trial, everolimus was tested only together with ribociclib, so its own contribution cannot be separated out.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Two-arm study of ribociclib + everolimus in advanced dedifferentiated liposarcoma (Arm A) and leiomyosarcoma (Arm B) patients with ≥1 prior systemic therapy; evaluates anti-tumor activity of the doublet |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | Active, not recruiting | 48 | Two-centre, two-arm, single-arm study of ribociclib plus everolimus in advanced dedifferentiated liposarcoma and leiomyosarcoma after at least one prior systemic therapy. It aims to determine anti-tumour activity. |
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | RCT/Phase 2 | Clinical Cancer Research | Reports the ribociclib + everolimus Phase 2 trial (SAR-096); notes CDK4 (ribociclib) and mTOR (everolimus) inhibition show synergistic growth inhibition in tumor models, motivating the combination in DDL/LMS |
-| [26518767](https://pubmed.ncbi.nlm.nih.gov/26518767/) | 2016 | Mechanistic | Tumour Biology | Immunohistochemical/in vitro analysis of 99 DDLS specimens showing activation of Akt/mTOR and MAPK pathways, with antitumor effects observed from an mTOR inhibitor in vitro |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review/Preclinical | Frontiers in Oncology | PDOX mouse model review identifying effective combination therapies with the CDK inhibitor palbociclib for sarcomas, supporting CDK/mTOR combination strategies |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical | Anticancer Research | Broad-spectrum preclinical activity of eribulin (used for liposarcoma) combined with mechanistically different anticancer agents |
+| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 trial report | Clin Cancer Res | Report of the ribociclib plus everolimus trial in advanced dedifferentiated liposarcoma and leiomyosarcoma. The two drugs showed synergistic growth inhibition in multiple tumour models. |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | Review of sarcoma patient-derived xenograft models identifying combination therapies with the CDK inhibitor palbociclib. Indirect relevance. |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical | Anticancer Res | Eribulin in combination with other anticancer agents. Indirect relevance, not about everolimus. |
+| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | Preclinical | Oncogene | The XPO1 inhibitor KPT-330 (selinexor) disrupts the transcriptional circuitry of dedifferentiated liposarcoma. Not specific to everolimus. |
+
+---
 
 ## EU Market Information
 
-No marketing authorizations for Everolimus are currently on file (market status: **Not Marketed**, 0 authorizations recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001038 (cancelled) | Afinitor | Not specified | Hormone-receptor-positive advanced breast cancer, pancreatic neuroendocrine tumours, gastrointestinal or lung neuroendocrine tumours, advanced renal-cell carcinoma... |
+| EMEA/H/C/002311 (cancelled) | Votubia | Not specified | Renal angiomyolipoma and subependymal giant cell astrocytoma associated with tuberous sclerosis complex... |
+
+---
 
 ## Cytotoxicity
-
-*Included because all predicted indications for this candidate are malignancies (liposarcoma, rhabdomyosarcoma, renal cell carcinoma, dermatofibrosarcoma protuberans) and supporting literature identifies Everolimus as an mTOR inhibitor used in oncology combination regimens.*
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor) |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions. The knowledge graph links the drug to neutropenia, thrombocytopenia, leukopenia and anaemia. |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC. Blood counts, liver and kidney function, blood glucose and lipids are suggested by the knowledge-graph signals. |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (these come from a model knowledge graph, not from product label text): liver failure and liver disease, kidney disease, thrombocytopenia, neutropenia, leukopenia, anaemia, hyperglycaemia and diabetes mellitus, hyperlipidaemia and hypertriglyceridaemia, interstitial lung disease, congestive heart failure, stomatitis, pericardial effusion, haemolytic-uremic syndrome, and lymphoma.
+- **Drug Interactions** (100 interactions found; examples shown):
+  - Major: amphotericin B, aprepitant, dexamethasone, clarithromycin.
+  - Moderate: antidiabetic agents such as metformin, acarbose, alogliptin, canagliflozin, dapagliflozin, empagliflozin, linagliptin and glimepiride; also cimetidine, eliglustat and eluxadoline.
+  - Minor: zinc sulfate.
+
+Label warnings and contraindications from the EU product information were not available. Please refer to the SmPC for complete safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The liposarcoma prediction has biologically plausible pathway support (Akt-mTOR/MAPK activation) and an active Phase 2 combination trial (evidence level L2), but a blocking data gap on TFDA label warnings/contraindications prevents completion of the S1 safety screen, and Everolimus has no marketing authorization on file in this jurisdiction.
+The only clinical evidence is a single-arm Phase 2 trial of everolimus combined with ribociclib, so everolimus's own contribution cannot be judged. The EU authorisations are all cancelled, and label safety data could not be retrieved. This supports further research rather than moving forward now.
 
 **To proceed, the following is needed:**
-- TFDA (or equivalent) product label — warnings, precautions, and contraindications (blocking gap DG001)
-- Confirmed mechanism of action and DrugBank pharmacological categories (gap DG002)
-- Maturation of NCT03114527 (Phase 2, active, expected completion 2025-12) to assess everolimus's contribution within the combination regimen
-- Direct drug-drug interaction (DDI) data — current query returned no results
-- Confirmation of marketing/regulatory status in the target jurisdiction
+- Full results of NCT03114527 (response rate, progression-free survival, safety), and whether they favour the combination over standard options.
+- Evidence that separates everolimus's effect from ribociclib's, such as a randomised or comparative study.
+- EU product label warnings and contraindications (the SmPC) and mechanism-of-action data from DrugBank.
+- Clarification of the current EU regulatory status, since both authorisations are cancelled.
+- A safety monitoring plan covering blood counts, glucose and lipids, liver and kidney function, and lung toxicity.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

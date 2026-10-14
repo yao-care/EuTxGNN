@@ -2,7 +2,7 @@
 layout: default
 title: Cetrorelix
 parent: AI Predictions (L5)
-nav_order: 141
+nav_order: 143
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,75 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Cetrorelix (Cetrotide) is a synthetic GnRH antagonist used clinically in assisted reproductive technology (ART) to prevent premature LH surges during controlled ovarian stimulation.
-The TxGNN model predicts it may be effective for **Hypertrichosis**,
-however **no clinical trials** and **no publications** currently support this direction — the prediction rests solely on model inference.
-
----
+Cetrorelix is a GnRH receptor antagonist, originally used to prevent premature ovulation in women undergoing controlled ovarian stimulation for assisted reproduction.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but this is a model-only prediction, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Controlled ovarian stimulation (ART/IVF — GnRH antagonist protocol) |
+|------|------|
+| Original Indication | Prevention of premature ovulation in patients undergoing controlled ovarian stimulation, followed by oocyte pick-up and assisted-reproductive techniques |
 | Predicted New Indication | Hypertrichosis |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Cetrorelix is a synthetic decapeptide that competitively and reversibly blocks GnRH receptors in the pituitary gland, suppressing the release of LH and FSH, and consequently reducing gonadal production of androgens and estrogens. This mechanism underlies its approved use in IVF protocols (marketed as Cetrotide in the EU).
+Cetrorelix blocks the GnRH receptor (GNRHR) in the pituitary. This suppresses LH and FSH release and, in turn, gonadal sex steroids. In its approved use, this prevents premature LH surges during ovarian stimulation. Detailed mechanism-of-action data were not available in the data compiled for this report, but the receptor target is well documented.
 
-The predicted link to hypertrichosis likely originates from a mechanistic extrapolation: reduced androgens → reduced androgenic hair follicle stimulation. This logic applies to **hirsutism** (androgen-dependent excessive hair growth), where GnRH analogues are sometimes used off-label. However, **hypertrichosis** is clinically distinct — it is defined as excessive hair growth that is *not* androgen-driven. Causes include genetic mutations, medications (e.g., cyclosporine, minoxidil), or paraneoplastic syndromes. There is no known receptor pathway connecting GnRH antagonism to non-androgenic follicle hyper-activation.
+The link to hypertrichosis is weak. Suppressing androgens could plausibly affect androgen-dependent hair growth (hirsutism). Hypertrichosis, however, is generally androgen-independent, so GnRH antagonism is not expected to address its cause. The high TxGNN score reflects graph-based proximity only, not demonstrated pharmacology.
 
-The TxGNN model may be conflating hypertrichosis with hirsutism, or detecting a spurious graph proximity between these entities in the knowledge graph. Without any supporting clinical trials or literature, and given the weak mechanistic rationale, this prediction is classified as **L5** and the recommended action is **Hold**.
-
----
+The other top predictions are mostly congenital or structural conditions with no plausible GnRH link, such as Ambras syndrome, hair shaft abnormalities, Dandy-Walker syndrome and persistent fetal circulation. Two predictions are more biologically plausible and are best treated as research questions:
+- **Central precocious puberty** (score 99.29%): early activation of the hypothalamic-pituitary-gonadal axis, which a GnRH antagonist could directly suppress. GnRH agonists are the current standard of care. Cetrorelix's short-acting formulation and the lack of pediatric data limit practicality.
+- **Familial male-limited precocious puberty** (score 99.55%): caused by activating LHCGR mutations downstream of the pituitary, so GnRH antagonism alone is not expected to work.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-No authorizations on file. Cetrorelix is not currently registered in Taiwan.
-
-> **Note:** Cetrorelix is known to be approved and marketed in the EU as **Cetrotide** (for controlled ovarian stimulation). EU authorization data was not captured in this Evidence Pack and should be retrieved separately from the EMA product database.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000233 (cancelled) | Cetrotide | Not specified | Prevention of premature ovulation in patients undergoing a controlled ovarian stimulation, followed by oocyte-pick-up and assisted-reproductive techniques. In clinical t... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Pharmacology data identify the GnRH1 receptor (GNRHR) as the target of cetrorelix. No interaction data with other drugs were available.
 
----
+Please refer to the SmPC for safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score (99.98%), hypertrichosis is a non-androgenic condition for which GnRH antagonism has no established mechanistic basis; the score likely reflects a knowledge graph artefact or conflation with hirsutism rather than a genuine repurposing signal. Zero supporting evidence (no trials, no literature) confirms an L5 classification.
+The prediction rests only on a graph-based model score. There are no trials or publications, and the mechanistic link between GnRH antagonism and hypertrichosis is weak. Cetrorelix also has no currently valid EU authorization.
 
 **To proceed, the following is needed:**
-- Mechanistic clarification: confirm whether TxGNN graph proximity reflects a true biological path or a hirsutism/hypertrichosis ontology overlap
-- Retrieve Cetrotide SmPC from EMA to populate safety warnings and contraindications (currently all [Data Gap])
-- Retrieve Taiwan TFDA registration data to complete regulatory profile
-- If the hirsutism hypothesis is the actual target, redirect the query to search Cetrorelix evidence under **hirsutism** and **androgen excess** conditions instead
-- Consider prioritizing **Rank 9 (Aromatase Excess Syndrome, L4, "Research Question")** as a more mechanistically coherent repurposing candidate for near-term follow-up
+- Detailed mechanism-of-action data
+- Product label warnings and contraindications from the SmPC
+- A literature and trial search for hypertrichosis and androgen-related hair disorders
+- If a research question is pursued, prioritize central precocious puberty, with a pediatric safety and formulation assessment
+- Clarification of the cancelled EU authorization status and any route or formulation requirements
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

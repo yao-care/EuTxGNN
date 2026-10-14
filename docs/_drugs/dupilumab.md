@@ -2,15 +2,15 @@
 layout: default
 title: Dupilumab
 parent: Medium Evidence (L3-L4)
-nav_order: 197
-evidence_level: L4
+nav_order: 204
+evidence_level: L3
 indication_count: 10
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,9 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Dupilumab is a human monoclonal antibody targeting the IL-4 receptor alpha subunit, with well-documented efficacy in Th2/type 2-driven allergic diseases such as moderate-to-severe atopic dermatitis and asthma (per the literature evidence collected in this pack).
-The TxGNN model predicts it may be effective for **Bronchitis**, with **1 indirect clinical trial** and **6 publications** currently informing this direction — none of which directly studied bronchitis as the primary indication.
-Evidence is therefore preliminary and largely proxy-based (asthma/COPD/upper-airway Th2 disease), warranting a **Hold** pending direct evidence.
+Dupilumab is a monoclonal antibody that blocks IL-4Rα. It was originally authorised for atopic dermatitis and several other type 2 inflammatory diseases, including asthma, chronic rhinosinusitis with nasal polyposis, prurigo nodularis, eosinophilic esophagitis, COPD and chronic spontaneous urticaria.
+The TxGNN model predicts it may be effective for **bronchitis**, but the supporting evidence is indirect: **1 related clinical trial** (in chronic rhinosinusitis without nasal polyps) and **11 publications**, mostly on asthma and COPD.
 
 ---
 
@@ -43,23 +42,23 @@ Evidence is therefore preliminary and largely proxy-based (asthma/COPD/upper-air
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic dermatitis (moderate-to-severe) / asthma — referenced consistently across the collected literature and trial descriptions; formal EU regulatory license data is not on record in this dataset (see Safety Considerations / Data Gaps) |
+| Original Indication | Atopic dermatitis (adults, adolescents and children from 6 months), plus asthma, CRSwNP, prurigo nodularis, EoE, COPD and CSU |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| EU Market Status | Not marketed (per regulatory database; 0 licenses on record) |
-| Number of Authorizations | 0 |
+| Evidence Level | L3 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in structured form for this candidate (flagged as a High-severity data gap, DG002). Based on information available within the collected literature, Dupilumab is a fully human IgG4 monoclonal antibody that binds the shared IL-4 receptor alpha subunit, blocking downstream signaling of both interleukin-4 and interleukin-13 — the key cytokines driving type 2 helper T-cell (Th2)-mediated inflammation (PMID 36705657, 29557246). Its efficacy in Th2-driven diseases such as atopic dermatitis and asthma has been repeatedly demonstrated in randomized controlled trials referenced throughout this evidence pack.
+Dupilumab binds the IL-4 receptor alpha subunit and so blocks signalling of both IL-4 and IL-13, two key drivers of type 2 inflammation. Detailed mechanism of action data are not available in the data compiled for this report. The literature does describe this IL-4Rα mechanism.
 
-Bronchitis, particularly chronic or eosinophilic/allergic phenotypes, can share Th2/eosinophilic inflammatory pathways with asthma and other atopic airway diseases. Since Dupilumab already has an established role in reducing exacerbations in moderate-to-severe asthma and is under investigation in related Th2 upper- and lower-airway conditions (e.g., chronic rhinosinusitis without nasal polyps, COPD), it is mechanistically plausible that IL-4/IL-13 blockade could benefit selected bronchitis phenotypes with a Th2/eosinophilic signature.
+Eosinophilic or type 2 airway diseases share this pathway. Dupilumab is already used in type 2 asthma and in COPD with raised eosinophils. A real-world case series in COPD patients with a predominant chronic bronchitis phenotype supports the link. A review of eosinophilic pediatric plastic bronchitis also points in this direction.
 
-However, the repurposing rationale in this pack explicitly flags this as a **cross-indication extrapolation**: the only retrieved clinical trial studied CRSsNP (not bronchitis), and most of the retrieved literature addresses asthma or COPD broadly rather than bronchitis specifically. Only one narrow pediatric review (PMID 38488768, eosinophilic plastic bronchitis) directly references the term "bronchitis." This means the mechanistic plausibility is reasonable, but direct clinical support for the bronchitis indication itself remains thin.
+The evidence is indirect, however. No study tests bronchitis as a standalone condition. The prediction is plausible only for type 2 or eosinophilic airway phenotypes, not for bronchitis in general (for example infectious bronchitis).
 
 ---
 
@@ -67,9 +66,7 @@ However, the repurposing rationale in this pack explicitly flags this as a **cro
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled study of dupilumab in chronic rhinosinusitis without nasal polyps (CRSsNP) — a Th2 upper-airway disease model. Not a direct bronchitis trial; graded "C" relevance as indirect supporting evidence only. |
-
-*Note: This is the only trial retrieved under the "bronchitis" search; it provides indirect mechanistic support (shared Th2 airway pathway) rather than direct efficacy data for bronchitis.*
+| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomised, double-blind, placebo-controlled study of dupilumab in chronic rhinosinusitis without nasal polyps. It is an upper airway disease and does not test bronchitis directly. |
 
 ---
 
@@ -77,24 +74,36 @@ However, the repurposing rationale in this pack explicitly flags this as a **cro
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | RCT (open-label extension) | Lancet Respir Med | TRAVERSE study: long-term safety and efficacy of dupilumab beyond 1 year in moderate-to-severe asthma. |
-| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Systematic Review/Meta-analysis | J Asthma | Pooled RCT analysis confirming efficacy and safety of dupilumab in uncontrolled asthma. |
-| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Comprehensive review of pharmacologic therapies, including biologics, for preventing COPD exacerbations. |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | Discusses smoking-induced airway diseases (chronic bronchitis, emphysema) contributing to asthma-COPD overlap symptom burden. |
-| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review | Pediatr Pulmonol | Reviews novel therapies, including biologics, for eosinophilic pediatric plastic bronchitis — the only literature directly referencing "bronchitis." |
-| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Cohort (imaging) | Chest | MRI-based study of anti-T2 biologic treatment effects on lung ventilation in prednisone-dependent asthma. |
+| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Meta-analysis | J Asthma | Safety and efficacy of dupilumab in uncontrolled asthma, pooled from randomised trials |
+| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | Open-label extension (cohort) | Lancet Respir Med | TRAVERSE: long-term safety and efficacy of dupilumab in moderate-to-severe asthma |
+| [42617837](https://pubmed.ncbi.nlm.nih.gov/42617837/) | 2026 | Indirect comparison (cohort) | Chest | Mepolizumab and dupilumab showed no significant difference in reducing exacerbations in eosinophilic COPD |
+| [42839285](https://pubmed.ncbi.nlm.nih.gov/42839285/) | 2026 | Cohort | Respir Res | German multicentre real-world effectiveness of dupilumab in COPD |
+| [42511891](https://pubmed.ncbi.nlm.nih.gov/42511891/) | 2026 | Case series | Biomedicines | 12 patients with type 2 COPD, many with a chronic bronchitis phenotype, treated with dupilumab under compassionate use |
+| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Cohort | Chest | MRI-assessed lung ventilation effects of anti-T2 biologics in prednisone-dependent asthma |
+| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Pharmacologic therapies for preventing COPD exacerbations |
+| [42773542](https://pubmed.ncbi.nlm.nih.gov/42773542/) | 2026 | Review | Eur J Clin Invest | Updates in COPD management, from inflammatory pathways to targeted therapies |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | Managing asthma associated with smoking-induced airway diseases, including chronic bronchitis |
+| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review | Pediatr Pulmonol | Novel therapies for eosinophilic pediatric plastic bronchitis |
+| [41672525](https://pubmed.ncbi.nlm.nih.gov/41672525/) | 2026 | Case report | Intern Med | Two cases of eosinophilic bronchiolitis successfully treated with biologics, including dupilumab |
 
 ---
 
 ## EU Market Information
 
-No EU marketing authorizations are on record for Dupilumab in the current regulatory dataset (0 licenses). This is flagged internally as a data gap — literature evidence in this pack (e.g., PMID 34126094, 36705657) references Dupilumab as an approved biologic for moderate-to-severe atopic dermatitis and severe asthma in other markets, so this discrepancy should be reconciled against the official EMA/SmPC record before further evaluation.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004390 | Dupixent | Not specified | Atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic therapy. Children 6 months to 11 years of age... |
+
+The only authorisation in the data compiled for this report is recorded as cancelled, so the current EU market status should be verified with the regulator.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No structured warnings, contraindications, or drug-drug interaction data are currently available in this dataset (labeling/warning data is flagged as a **Blocking** severity data gap, DG001 — required before any S1 safety pre-screening can proceed).
+- **Drug Interactions**: 53 interactions were identified. Most of those listed are minor or moderate. The major ones are adalimumab, baricitinib, certolizumab pegol and cladribine, which mainly involve combined immunosuppression. Moderate examples include warfarin, roflumilast, cyclosporine, azathioprine, denosumab, and live vaccines such as the cholera vaccine. Zinc salts are minor.
+- **Literature-reported adverse effects (from atopic dermatitis publications)**: dupilumab-associated head and neck dermatitis, facial erythema, conjunctivitis, psoriasiform eruptions, and a reported association with cutaneous T cell lymphoma.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -103,14 +112,25 @@ Please refer to the SmPC for safety information. No structured warnings, contrai
 **Decision: Hold**
 
 **Rationale:**
-The only clinical trial evidence retrieved for bronchitis is an indirect CRSsNP study (Grade C relevance), and the supporting literature predominantly addresses asthma and COPD rather than bronchitis itself — only one narrow pediatric review directly references the target disease. Combined with two unresolved Blocking/High-severity data gaps (missing SmPC warnings/contraindications and missing formal MOA documentation), the evidence base is insufficient to advance beyond a research question stage.
+The TxGNN score is very high, but no study tests dupilumab in bronchitis itself. The supporting evidence comes from adjacent airway diseases (asthma, COPD, rhinosinusitis), and the EU authorisation is recorded as cancelled. This is a research question, not yet an actionable repurposing candidate.
 
 **To proceed, the following is needed:**
-- TFDA/EMA-sourced SmPC warnings, contraindications, and precautions (Blocking gap, DG001)
-- Confirmed mechanism-of-action documentation via DrugBank or equivalent source (High gap, DG002)
-- Direct bronchitis-specific (not proxy asthma/CRSsNP) clinical trial evidence, ideally in an eosinophilic/Th2-defined bronchitis subpopulation
-- Reconciliation of the "0 EU licenses" regulatory record against literature references to approved atopic dermatitis/asthma indications
-- A formal drug-drug interaction (DDI) query, currently returning "not_found"
+- A precise definition of the target population (for example eosinophilic or type 2 chronic bronchitis within COPD), as opposed to bronchitis in general
+- Controlled trial data in that population
+- Confirmation of current EU authorisation status
+- Mechanism of action data and SmPC warnings and contraindications
+- A safety monitoring plan covering ocular and cutaneous adverse effects and the interactions noted above
+
+---
+
+### Other Predicted Indications (for reference)
+
+| Rank | Predicted Indication | Evidence Level | Note |
+|---|---|---|---|
+| 2 | Dermatitis | L1 | Maps to atopic dermatitis, which is already an approved use, not true repurposing. Several completed Phase 3 RCTs support it. |
+| 3 | Acne keloid | L4 | Single case report on keloids. Hold. |
+| 4 | Exanthem | L3 | Small Phase 4 study and a systematic review of cutaneous immune-related adverse events. Dupilumab can also induce rashes. |
+| 5–10 | Neonatal dermatomyositis, acrodermatitis chronica atrophicans, amyopathic dermatomyositis, pediatric connective tissue disease-associated ILD, familial hydroa vacciniforme, severe nonproliferative diabetic retinopathy | L5 | Graph-based predictions only, with weak mechanistic links and no supporting trials. Hold. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

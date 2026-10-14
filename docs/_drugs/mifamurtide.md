@@ -2,7 +2,7 @@
 layout: default
 title: Mifamurtide
 parent: AI Predictions (L5)
-nav_order: 394
+nav_order: 408
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mifamurtide: From Osteosarcoma (Unconfirmed) to Filariasis
+# Mifamurtide: From Osteosarcoma to Filariasis
 
 ## One-Sentence Summary
 
-> Mifamurtide is a liposomal formulation of muramyl tripeptide phosphatidylethanolamine (MTP-PE), though its original indication is not confirmed in this evidence pack.
-> The TxGNN model predicts it may be effective for **Filariasis**,
-> but currently **no clinical trials** and **no supporting literature** exist for this specific pairing — the prediction rests solely on an indirect, low-confidence mechanistic inference.
-
----
+Mifamurtide (Mepact) is an immune-stimulating agent originally used alongside chemotherapy to treat high-grade resectable non-metastatic osteosarcoma.
+The TxGNN model predicts it may be effective for **filariasis**, but **no clinical trials and no publications** currently support this prediction.
+It is a purely computational signal and should be treated as a hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no license data or original indication text in this evidence pack) |
+| Original Indication | High-grade resectable non-metastatic osteosarcoma after complete surgical resection, in children, adolescents and young adults (used with postoperative multi-agent chemotherapy) |
 | Predicted New Indication | Filariasis |
 | TxGNN Prediction Score | 93.06% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on the repurposing rationale provided, Mifamurtide is a liposomal MTP-PE (muramyl tripeptide phosphatidylethanolamine) that activates NOD2 signaling in monocytes/macrophages, inducing pro-inflammatory cytokines (TNF-α, IL-1, IL-6). This is a general macrophage-activating immunostimulant mechanism rather than a disease-specific one.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mifamurtide is a synthetic muramyl tripeptide (MTP-PE). It activates NOD2 and TLR4 signaling in monocytes and macrophages and drives release of cytokines such as TNF-alpha, IL-1 and IL-6. In osteosarcoma, this innate immune activation is used to boost the body's anti-tumour response alongside chemotherapy.
 
-The proposed link to filariasis is that enhanced macrophage activation might theoretically improve host immune clearance of filarial parasites. However, this is explicitly flagged in the rationale as a weak, indirect inference — there is no direct literature or trial evidence connecting Mifamurtide to filariasis, and the established first-line treatment for filariasis is antiparasitic chemotherapy, not immune stimulation. The biological plausibility here is low.
+The link to filariasis is speculative. Stronger innate immune activation could plausibly support host defense against parasites, but no filariasis-specific data exist. The score of 0.93 comes only from the model's computation and is not backed by any trial or publication.
 
-Notably, several other top-10 predictions for this drug (autoimmune oophoritis, type 1 diabetes mellitus, diabetic nephropathy) show **mechanistically contradictory** rationale — Mifamurtide's pro-inflammatory action could plausibly *worsen* these autoimmune/inflammatory conditions rather than treat them. This pattern across the candidate set suggests the model is picking up on the drug's general immunostimulant signature rather than disease-specific therapeutic relevance, which should temper confidence in the top-ranked prediction as well.
+There is also a safety concern. Immune stimulation could worsen the inflammatory pathology seen in lymphatic filariasis, so benefit is far from certain.
 
----
+Other predictions in the top 10 (for example primary hereditary glaucoma, autoimmune oophoritis, type 1 diabetes and diabetic nephropathy) also have no supporting evidence. Several are mechanistically counter-intuitive, because an immune stimulant could aggravate autoimmune or inflammatory conditions.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are currently on record for this drug in the evidence pack (market status: not marketed, 0 licenses).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000802 | Mepact | Not specified | Treatment of high-grade resectable non-metastatic osteosarcoma after macroscopically complete surgical resection, in children, adolescents and young adults, in combination with postoperative multi-agent chemo... |
 
----
+This authorization is cancelled, so there is no currently valid EU marketing authorization.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (immune stimulant used with chemotherapy); not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-*Note: Mechanism of action, key warnings, and contraindications are flagged as a Blocking data gap (DG001) in this evidence pack — TFDA/EMA label data has not yet been retrieved, which prevents a preliminary safety (S1) assessment.*
-
----
+The following is not drawn from label data and comes only from the mechanistic assessment: because mifamurtide stimulates the immune system and raises pro-inflammatory cytokines, it could worsen inflammatory or autoimmune conditions. This concern applies to lymphatic filariasis, and also to several other predicted diseases such as type 1 diabetes and autoimmune oophoritis.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (filariasis) has no clinical trial or literature support and rests on a single, explicitly weak mechanistic inference (L5, S0). Several lower-ranked candidates for this same drug show mechanistically contradictory rationale, suggesting the model's overall signal for Mifamurtide reflects generic immunostimulant activity rather than indication-specific therapeutic relevance. Combined with the absence of EU marketing status and a Blocking-severity safety data gap, there is insufficient basis to advance this candidate.
+The filariasis prediction is supported only by the model score (Evidence Level L5). There are no clinical trials or publications, the mechanistic link is speculative, and immune stimulation might worsen disease. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Confirmed original indication and mechanism of action (DrugBank API query, per DG002)
-- TFDA/EMA label warnings, contraindications, and DDI data (per DG001, Blocking — required before any S1 safety evaluation)
-- Direct clinical or preclinical evidence specifically linking Mifamurtide to filariasis (or reconsideration of lower-scoring but mechanistically coherent candidates)
-- Clarification of "not marketed" status in this evidence pack, given inconsistency with the drug's known regulatory history
+- Preclinical studies of mifamurtide in filarial infection models, including effects on inflammatory pathology
+- Detailed mechanism of action data
+- Safety information from the SmPC (warnings, contraindications), which is still missing
+- Drug interaction data, which was not found
+- Assessment of formulation and route compatibility for filariasis
+- Clarification of the reasons for the cancelled authorization and the current availability of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

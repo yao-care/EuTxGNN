@@ -2,7 +2,7 @@
 layout: default
 title: Rasburicase
 parent: AI Predictions (L5)
-nav_order: 493
+nav_order: 510
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,60 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rasburicase: From Tumor Lysis Syndrome–Associated Hyperuricemia to Renal Hypouricemia
+# Rasburicase: From Tumour Lysis-Related Hyperuricaemia to Renal Hypouricaemia
 
 ## One-Sentence Summary
 
-> Rasburicase is a recombinant urate-oxidase enzyme conventionally used to manage hyperuricemia in tumor lysis syndrome (TLS); this specific use is not captured in the current dataset, which contains no `original_moa` or `original_indications` entries.
-> The TxGNN model's top prediction is **Renal Hypouricemia**, but expert review of the pack's own rationale flags this as **directionally contradictory** — the drug lowers uric acid, while renal hypouricemia is a *low*-uric-acid disorder — suggesting a likely false-positive from graph-embedding proximity rather than genuine pharmacological plausibility.
-> **Zero clinical trials and zero publications** currently support any of the top 10 predicted indications; all are pure model output (L5).
-
----
+Rasburicase is a recombinant urate oxidase, originally used to treat and prevent acute hyperuricaemia in patients with haematological malignancies at risk of tumour lysis.
+The TxGNN model predicts it may be effective for **renal hypouricaemia**, but **no clinical trials and no publications** currently support this prediction.
+The mechanistic review also suggests that the prediction is biologically implausible.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not present in this dataset (`original_indications` empty, `original_moa` = Data Gap). Known clinical use: hyperuricemia prophylaxis/treatment in tumor lysis syndrome (TLS). |
-| Predicted New Indication | Renal Hypouricemia |
-| TxGNN Prediction Score | 99.99% (0.999872) |
-| Evidence Level | L5 — model prediction only, no clinical trials or literature |
-| EU Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Original Indication | Treatment and prophylaxis of acute hyperuricaemia, to prevent acute renal failure, in adults, children and adolescents (0–17 years) with haematological malignancy with a high tumour burden at risk of rapid tumour lysis or shrinkage at the start of chemotherapy |
+| Predicted New Indication | Hypouricemia, renal |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset (`original_moa`: Data Gap). Based on known clinical information, rasburicase is a recombinant urate-oxidase enzyme that converts uric acid to allantoin, and is used to **lower** serum uric acid in patients at risk of tumor lysis syndrome.
+Detailed mechanism of action data is not available in the data compiled for this report. Rasburicase is known to be a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble and easily excreted, and so it lowers serum uric acid quickly.
 
-Critically, the evidence pack's own mechanistic analysis flags the top prediction — **renal hypouricemia** — as biologically implausible in the wrong direction: renal hypouricemia is caused by a *deficiency* of urate reabsorption (URAT1/GLUT9 transporter defects) and results in **abnormally low**, not high, serum uric acid. Administering a uric-acid-lowering enzyme to a patient who already has pathologically low uric acid would be expected to worsen rather than treat the condition. The evidence pack explicitly attributes this to a suspected artifact of the TxGNN knowledge-graph embedding space — proximity clustering around "uric acid"-related nodes — rather than a genuine pharmacological signal.
+Renal hypouricaemia is already a condition of abnormally low serum uric acid, caused by defects in urate transporters such as URAT1 and GLUT9. Further urate lowering would be mechanistically counterproductive and could worsen the phenotype. The high TxGNN score (rank 296) therefore appears to reflect proximity in the knowledge graph (the uric acid pathway) rather than a true therapeutic link.
 
-By contrast, rank 2 (**HGPRT partial deficiency**, e.g., Kelley-Seegmiller syndrome) shows the mechanistically *correct* direction: this purine salvage pathway defect causes chronic hyperuricemia/gout, which a uric-acid-lowering enzyme could plausibly address. However, this candidate also has zero supporting clinical trials or literature. Ranks 3–8 (hepatic/portal vascular diseases) and ranks 9–10 (renal tubular acidosis, phenylalanine metabolism disorders) are all assessed in the pack as having no credible mechanistic link to urate-oxidase activity, and likely reflect disease-node clustering noise in the graph rather than true repurposing signals.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+Other top-ranked predictions are also weakly supported. Partial HPRT deficiency has a conceptual link to urate lowering, but rasburicase is immunogenic, which limits repeated dosing, and it does not address purine overproduction. Chronic management is already served by xanthine oxidase inhibitors. Most of the other predictions (hepatic porphyria, hepatopulmonary syndrome, portal vein and portal hypertension disorders, copper-associated cirrhosis, renal tubular acidosis, phenylalanine metabolism disorders) have no identifiable mechanistic link. Several share identical scores, which suggests a non-specific graph artifact.
 
 ## EU Market Information
 
-Rasburicase has **no EU marketing authorizations** recorded in this dataset (`market_status`: Not marketed, `total_licenses`: 0, `licenses`: empty). No product/dosage-form table can be generated.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000331 (cancelled) | Fasturtec | Not specified | Treatment and prophylaxis of acute hyperuricaemia, in order to prevent acute renal failure, in adults, children and adolescents (aged 0 to 17 years) with haem... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 13 interactions were identified in the DDI database. Two are rated **Major**: prilocaine and nitrous acid. Most of the others are rated Moderate and involve topical or ophthalmic local anaesthetics (tetracaine, lidocaine, benzocaine, cocaine, proparacaine, oxybuprocaine, cinchocaine). Idelalisib is also rated Moderate.
+- **Other considerations from the mechanistic review**: Rasburicase is contraindicated in G6PD deficiency. It is immunogenic, which limits repeated dosing. It also generates hydrogen peroxide, which adds oxidative stress and is undesirable in porphyria.
 
-*Note: `key_warnings`, `contraindications`, and drug interaction data are all flagged as Data Gaps in this pack. DG001 (TFDA label warnings/contraindications) is classified as a **Blocking** gap — it prevents this candidate from entering the S1 safety pre-screening stage.*
-
----
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (renal hypouricemia) is mechanistically contradictory — the drug's known pharmacology (lowering uric acid) runs opposite to the disease's pathophysiology (already-low uric acid) — and is assessed as a likely false positive from knowledge-graph artifact rather than a real signal. No clinical trials, no literature, no EU marketing authorization, and a **Blocking** data gap on safety labeling (DG001) mean this candidate cannot proceed past S0.
+The prediction is supported by a model score only (L5), with no clinical trials or literature. The mechanism argues against benefit, since lowering uric acid in a condition of already low uric acid could be harmful. The product's only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/EMA label warnings and contraindications) before any S1 safety pre-screening
-- Resolve DG002 (confirmed MOA from DrugBank) to properly assess mechanistic plausibility
-- If pursuing a repurposing hypothesis for this drug, **re-evaluate rank 2 (HGPRT partial deficiency / Kelley-Seegmiller syndrome)** instead of rank 1 — it is the only top-10 candidate with a mechanistically coherent (correct-direction) rationale, though it still requires primary clinical/literature evidence generation
-- Independent review of whether ranks 1, 3–8 represent a systematic false-positive pattern (uric-acid node / hepatic-disease node clustering) in this TxGNN model version, to avoid similar misleading high-score predictions for other drugs
+- A biological rationale that justifies the prediction, or a decision to deprioritize it as a graph artifact
+- Mechanism of action data from DrugBank
+- Warnings and contraindications from the SmPC
+- Review of lower-ranked or alternative predictions, such as partial HPRT deficiency, for acute severe hyperuricaemia use only
+- Clarification of the regulatory status, given that the only EU authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

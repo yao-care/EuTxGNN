@@ -2,7 +2,7 @@
 layout: default
 title: Bosutinib
 parent: High Evidence (L1-L2)
-nav_order: 99
+nav_order: 101
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Bosutinib: From Philadelphia Chromosome-Positive Leukemia to Myeloid Leukemia
+# Bosutinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Myeloid Leukaemia
 
 ## One-Sentence Summary
 
-Bosutinib (Bosulif®) is a second-generation oral dual BCR-ABL/Src kinase inhibitor globally established as a standard-of-care treatment for Philadelphia chromosome-positive chronic myeloid leukemia (CML), but currently not registered in Taiwan.
-The TxGNN model predicts it may be effective for **Myeloid Leukemia**,
-with **3 completed Phase 3 trials** and **20 publications** directly supporting this indication — including the landmark BFORE trial confirming superiority over imatinib in newly diagnosed CML.
+Bosutinib is a tyrosine kinase inhibitor originally used to treat Philadelphia chromosome-positive chronic myelogenous leukaemia (Ph+ CML).
+The TxGNN model predicts it may be effective for **myeloid leukaemia**. This is essentially the drug's existing approved use, and it is supported by **33 registered clinical trials** and **20 publications**, including several Phase 3 randomised trials.
 
 ---
 
@@ -43,69 +42,67 @@ with **3 completed Phase 3 trials** and **20 publications** directly supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Ph+ Chronic Myeloid Leukemia (globally approved; no Taiwan registration) |
-| Predicted New Indication | Myeloid Leukemia |
+| Original Indication | Newly diagnosed chronic phase Ph+ CML, and Ph+ CML in chronic, accelerated or blast phase after prior TKI therapy (adults and children aged 6 years and older) |
+| Predicted New Indication | Myeloid leukaemia |
 | TxGNN Prediction Score | 98.75% |
 | Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Taiwan Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data from DrugBank was not retrieved in this evidence pack. Based on published pharmacological data, Bosutinib is a second-generation oral TKI that dually inhibits BCR-ABL kinase (including many imatinib-resistant kinase domain mutations) and Src family kinases (Src, Lyn, Hck). This dual inhibition simultaneously targets the primary oncogenic driver of CML — the constitutively active BCR-ABL fusion kinase arising from the t(9;22) Philadelphia chromosome translocation — and the downstream Src/Lyn-mediated proliferation and survival signals that amplify leukemic cell expansion.
+Bosutinib is a dual Src/Abl tyrosine kinase inhibitor. It blocks BCR-ABL1, the abnormal protein that drives Ph+ CML. Published reviews describe it as active against both Src-family kinases and BCR-ABL1 at similar potency (IC50 about 100 nM and 90 nM).
 
-Myeloid leukemia encompasses a disease spectrum unified by dysregulated myeloid progenitor proliferation. In Ph+ CML, BCR-ABL is the singular molecular driver, making Bosutinib's kinase inhibition profile a mechanistically precise match for this disease. The TxGNN prediction for "myeloid leukemia" therefore reflects direct pharmacological congruence, not a speculative extrapolation. This is further reinforced by the ELN 2020/2025 clinical guidelines, which place Bosutinib as an equivalent first-line treatment option alongside imatinib, dasatinib, and nilotinib for newly diagnosed CML.
+The predicted indication, myeloid leukaemia, is the broader disease family that includes CML. The prediction therefore matches the drug's established mechanism and approved use, and it is not a true repurposing case. The data compiled for this report do not show evidence for other myeloid subtypes such as acute myeloid leukaemia or myelodysplastic syndromes.
 
-The key insight from this evaluation is not whether Bosutinib works for myeloid leukemia — three completed Phase 3 RCTs confirm it does — but rather that Taiwanese patients currently lack access to this established therapy due to the absence of a Taiwan TFDA registration. The TxGNN score of 98.75% reflects the model correctly identifying a globally proven indication, and the actionable finding is the regulatory gap that needs to be addressed.
+Detailed mechanism of action data is not available in a structured form. The mechanistic description above is drawn from the published literature.
 
 ---
 
 ## Clinical Trial Evidence
 
+Thirty-three trials were retrieved. The table below lists the 10 most relevant.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02130557](https://clinicaltrials.gov/study/NCT02130557) | Phase 3 | Completed | 536 | BFORE: Bosutinib 400mg vs Imatinib 400mg in newly diagnosed CP-CML; demonstrated superior MMR (47.2% vs 36.9%) and CCyR at 12 months — primary pivotal trial supporting FDA/EMA approval |
-| [NCT00574873](https://clinicaltrials.gov/study/NCT00574873) | Phase 3 | Completed | 502 | Phase 3 RCT of Bosutinib vs Imatinib in newly diagnosed Ph+ CP-CML; assessed cytogenetic response at 1 year across international sites |
-| [NCT03106779](https://clinicaltrials.gov/study/NCT03106779) | Phase 3 | Completed | 233 | ASCEMBL: Asciminib vs Bosutinib 500mg in CML-CP after ≥2 prior TKIs; Bosutinib served as active control, establishing benchmark MMR rates in later-line settings |
-| [NCT05743465](https://clinicaltrials.gov/study/NCT05743465) | N/A (RWE) | Completed | 1769 | Largest real-world comparative study of TKIs in CML; safety and clinical outcomes of Bosutinib, Ponatinib, Imatinib, Dasatinib, and Nilotinib in routine practice |
-| [NCT00261846](https://clinicaltrials.gov/study/NCT00261846) | Phase 1/2 | Completed | 571 | Seminal Bosutinib dose-escalation and efficacy study in Ph+ leukemias; established MTD and demonstrated broad activity across chronic, accelerated, and blast phases |
-| [NCT03885830](https://clinicaltrials.gov/study/NCT03885830) | N/A (Observational) | Completed | 45 | Prospective TKI PK/PD exposure-response study in CP-CML; correlates Bosutinib clearance/exposure with clinical milestones, toxicity, and adherence |
-| [NCT03610971](https://clinicaltrials.gov/study/NCT03610971) | Phase 2 | Active, not recruiting | 24 | Ruxolitinib combined with TKI (including Bosutinib) to extend treatment-free remission in CP-CML relapsing after prior TKI discontinuation |
-| [NCT04793399](https://clinicaltrials.gov/study/NCT04793399) | Phase 1/2 | Terminated | 9 | Bosutinib + Atezolizumab combination in newly diagnosed CML; early safety signals evaluated before premature termination |
-| [NCT04258943](https://clinicaltrials.gov/study/NCT04258943) | Phase 1/2 | Active, not recruiting | 60 | ITCC-054/COG-AAML1921: Bosutinib in pediatric Ph+ CP-CML (newly diagnosed and resistant/intolerant); dose-finding and PK characterization in children |
-| [NCT02810990](https://clinicaltrials.gov/study/NCT02810990) | Phase 2 | Completed | 65 | BEST study: Bosutinib efficacy and tolerability in elderly CP-CML patients after front-line TKI failure; supports use in age-specific subpopulations |
+| [NCT02130557](https://clinicaltrials.gov/study/NCT02130557) | Phase 3 | Completed | 536 | Bosutinib vs imatinib in newly diagnosed chronic phase CML (BFORE) |
+| [NCT00574873](https://clinicaltrials.gov/study/NCT00574873) | Phase 3 | Completed | 502 | Bosutinib vs imatinib in newly diagnosed chronic phase CML; primary endpoint cytogenetic response at 1 year |
+| [NCT03106779](https://clinicaltrials.gov/study/NCT03106779) | Phase 3 | Completed | 233 | Asciminib vs bosutinib after 2 or more prior TKIs (ASCEMBL) |
+| [NCT04971226](https://clinicaltrials.gov/study/NCT04971226) | Phase 3 | Active, not recruiting | 405 | Asciminib vs investigator-selected TKI (including bosutinib) in newly diagnosed CML |
+| [NCT06423911](https://clinicaltrials.gov/study/NCT06423911) | Phase 3 | Recruiting | 333 | Olverembatinib vs bosutinib (control arm) in chronic phase CML |
+| [NCT02810990](https://clinicaltrials.gov/study/NCT02810990) | Phase 2 | Completed | 65 | BEST study: bosutinib in elderly CML patients failing front-line TKIs |
+| [NCT04258943](https://clinicaltrials.gov/study/NCT04258943) | Phase 1/2 | Active, not recruiting | 60 | Bosutinib dosing, safety and efficacy in paediatric CML |
+| [NCT03128411](https://clinicaltrials.gov/study/NCT03128411) | Phase 2 | Completed | 64 | Bosutinib monotherapy in Japanese adults with newly diagnosed chronic phase CML |
+| [NCT00261846](https://clinicaltrials.gov/study/NCT00261846) | Phase 2 | Completed | 571 | Phase 1/2 safety and efficacy study of bosutinib in Ph+ leukaemias |
+| [NCT02228382](https://clinicaltrials.gov/study/NCT02228382) | Phase 4 | Terminated | 163 | Post-authorisation safety and efficacy commitment to the EMA in heavily pretreated Ph+ CML |
 
 ---
 
 ## Literature Evidence
 
+Twenty publications were retrieved. The table below lists the most relevant, prioritising RCTs, then guidelines and reviews.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29091516](https://pubmed.ncbi.nlm.nih.gov/29091516/) | 2018 | RCT (BFORE Phase 3) | J Clin Oncol | Bosutinib vs Imatinib in 536 newly diagnosed CP-CML patients; superior MMR and MCyR at 12 months; manageable GI and hepatic toxicity profile |
-| [35643868](https://pubmed.ncbi.nlm.nih.gov/35643868/) | 2022 | RCT (BFORE 5-year final) | Leukemia | 5-year BFORE final analysis confirming durable molecular response superiority; 59.7% of bosutinib patients remained on study treatment at completion |
-| [34407542](https://pubmed.ncbi.nlm.nih.gov/34407542/) | 2021 | RCT (ASCEMBL Phase 3) | Blood | Phase 3 ASCEMBL: Asciminib vs Bosutinib 500mg in ≥2nd-line CML-CP; Bosutinib MMR ~25% at 24 weeks as active comparator benchmark |
-| [36717654](https://pubmed.ncbi.nlm.nih.gov/36717654/) | 2023 | RCT (ASCEMBL follow-up) | Leukemia | Extended ASCEMBL follow-up; Bosutinib comparator arm maintains consistent MMR rates confirming durable activity in multiply pretreated CML |
-| [32127639](https://pubmed.ncbi.nlm.nih.gov/32127639/) | 2020 | Guidelines (ELN 2020) | Leukemia | ELN 2020 recommendations: Bosutinib designated first-line CML treatment option with equivalent survival to other second-generation TKIs; favored for lower cardiovascular/metabolic risk |
-| [39093014](https://pubmed.ncbi.nlm.nih.gov/39093014/) | 2024 | Review (2025 update) | Am J Hematol | CML 2025 update: Bosutinib retained as standard first-line TKI; guidance on treatment sequencing, monitoring milestones, and treatment-free remission criteria |
-| [39252937](https://pubmed.ncbi.nlm.nih.gov/39252937/) | 2024 | Review (Bosutinib-focused) | Front Oncol | Comprehensive expert review of Bosutinib clinical data across all treatment lines; practical recommendations for patient selection and AE management |
-| [29695943](https://pubmed.ncbi.nlm.nih.gov/29695943/) | 2018 | Review | J Blood Med | Bosutinib patient selection and clinical perspectives; favorable cardiovascular profile (no vascular occlusion risk) distinguishes it from nilotinib/ponatinib |
-| [24711212](https://pubmed.ncbi.nlm.nih.gov/24711212/) | 2014 | Cohort (Phase 1/2) | Am J Hematol | Second-line Bosutinib after imatinib failure: 85% CHR, 59% MCyR at 24-month follow-up in 288 patients; confirmed activity across multiple resistance mechanisms |
-| [29773593](https://pubmed.ncbi.nlm.nih.gov/29773593/) | 2018 | Cohort (Phase 1/2 final) | Haematologica | 5-year final results of second-line Bosutinib in CP-CML: 40% of patients remained on therapy at year 5; durable responses with predictable, manageable toxicity |
+| [29091516](https://pubmed.ncbi.nlm.nih.gov/29091516/) | 2018 | RCT | J Clin Oncol | BFORE: bosutinib vs imatinib in 536 patients with newly diagnosed chronic phase CML |
+| [35643868](https://pubmed.ncbi.nlm.nih.gov/35643868/) | 2022 | RCT | Leukemia | BFORE final results after five years of follow-up |
+| [36717654](https://pubmed.ncbi.nlm.nih.gov/36717654/) | 2023 | RCT | Leukemia | ASCEMBL longer-term follow-up: asciminib vs bosutinib after at least 2 prior TKIs |
+| [32127639](https://pubmed.ncbi.nlm.nih.gov/32127639/) | 2020 | Guideline | Leukemia | European LeukemiaNet 2020 recommendations for treating CML |
+| [40094679](https://pubmed.ncbi.nlm.nih.gov/40094679/) | 2025 | Review | JAMA | Overview of CML diagnosis and management |
+| [40616814](https://pubmed.ncbi.nlm.nih.gov/40616814/) | 2025 | Review | Cancer | Management of CML in 2025 |
+| [37088793](https://pubmed.ncbi.nlm.nih.gov/37088793/) | 2023 | Review | Blood Cancer J | Imatinib, bosutinib, dasatinib and nilotinib give comparable survival in front-line chronic phase CML |
+| [38033284](https://pubmed.ncbi.nlm.nih.gov/38033284/) | 2024 | Phase 1 | J Clin Oncol | Bosutinib in resistant or intolerant paediatric chronic phase CML (dose-finding part) |
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Bosutinib currently has **no marketing authorizations in Taiwan** (0 registered products; TFDA status: Not marketed). Despite FDA approval since 2012 and EMA approval (Bosulif®, Pfizer), Bosutinib remains inaccessible to Taiwanese CML patients through the domestic regulatory pathway.
-
-| Authorization | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| — | — | — | No Taiwan TFDA authorizations registered |
-
-For prescribing reference, the global Bosulif® SmPC covers: Ph+ CML (chronic, accelerated, and blast phase) with prior TKI resistance or intolerance; newly diagnosed Ph+ CP-CML (FDA-approved 2017).
+| EMEA/H/C/002373 (cancelled) | Bosulif | Not specified | Adult and paediatric patients aged 6 years and older with newly diagnosed chronic phase Ph+ CML; CP Ph+ CML previously treated with one or more TKIs... |
 
 ---
 
@@ -113,17 +110,22 @@ For prescribing reference, the global Bosulif® SmPC covers: Ph+ CML (chronic, a
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — BCR-ABL/Src tyrosine kinase inhibitor (second-generation TKI; not conventional cytotoxic) |
-| Myelosuppression Risk | Moderate — Grade 3/4 thrombocytopenia occurs in 14–40% of patients; neutropenia and anemia also reported; distinct from alkylating agent-type pan-myelosuppression |
-| Emetogenicity Classification | Low — GI toxicity predominantly manifests as diarrhea (dose-limiting in early treatment); nausea present but classical emesis uncommon; antiemetic prophylaxis generally not required |
-| Monitoring Items | CBC with differential (monthly for first 3–6 months, then quarterly); hepatic transaminases ALT/AST (hepatotoxicity risk — monitor at baseline, then monthly for 3 months, then periodically); serum creatinine; BCR-ABL1 IS transcript monitoring per ELN milestones |
-| Handling Protection | Standard oral TKI handling precautions — do not crush or split tablets; cytotoxic waste disposal protocols apply; pregnancy exposure prevention required |
+| Cytotoxicity Classification | Targeted therapy (Src/Abl tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Medium. Haematological adverse events, including thrombocytopenia and neutropenia, are described in meta-analyses of TKIs in CML. |
+| Emetogenicity Classification | Low to medium. Gastrointestinal toxicity is the characteristic adverse event of bosutinib. |
+| Monitoring Items | Complete blood count, liver function tests, renal function |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Taiwan TFDA prescribing information (SmPC) for Bosutinib is not currently available as the drug is not registered in Taiwan. Please refer to the Pfizer **Bosulif® global SmPC** and the FDA/EMA product labels for comprehensive information on warnings, contraindications, drug interactions, and special population guidance.
+- **Drug Interactions**: 100 interactions were identified. Those shown below are among the first 20 returned.
+  - Major: aprepitant, dexamethasone, cisapride, clarithromycin, dolasetron
+  - Moderate: acid-reducing agents (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole, esomeprazole, dexlansoprazole, aluminium hydroxide, calcium carbonate), loperamide, bisacodyl, eliglustat and others
+- A published case report also describes an interaction between bosutinib and warfarin.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -132,16 +134,14 @@ Taiwan TFDA prescribing information (SmPC) for Bosutinib is not currently availa
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Bosutinib has the highest possible evidence grade (L1), supported by three completed Phase 3 RCTs (BFORE, NCT00574873, ASCEMBL), international guideline endorsement (ELN 2020/2025), and more than two decades of pharmacovigilance data — making this TxGNN prediction a validation of established clinical consensus rather than a speculative repurposing hypothesis. The barrier to patient access in Taiwan is regulatory, not evidentiary.
+Two large Phase 3 randomised trials (BFORE) and a comparative Phase 3 trial against asciminib support bosutinib in CML, which is already its approved use. The predicted indication is therefore not a new use. The only EU authorisation on record is cancelled, so the current EU market status needs to be clarified.
 
 **To proceed, the following is needed:**
-
-- **Taiwan TFDA NDA submission:** Compile existing FDA/EMA clinical data package (clinical study reports from BFORE, NCT00574873, Phase 1/2 studies) for Taiwan registration application
-- **Asian PK bridging assessment:** The Japanese Phase 2 study (NCT03128411, n=64) provides Asian pharmacokinetic reference data; confirm whether TFDA requires additional Taiwan-specific PK bridging or accepts existing data
-- **Full SmPC localization:** Prepare Taiwan-language prescribing information covering safety warnings, contraindications (hepatic impairment dose adjustment, pregnancy/lactation exclusion), and DDI guidance (CYP3A4 interactions — pharmacokinetic study NCT02058277 provides aprepitant interaction data)
-- **NHI reimbursement pathway:** Initiate negotiation for inclusion in Taiwan National Health Insurance CML treatment coverage alongside established TKIs
-- **Risk Management Plan:** Establish monitoring protocols for myelosuppression (CBC), hepatotoxicity (LFTs), and GI toxicity management in line with ELN guidelines
-- **Secondary indication scoping:** After Taiwan CML registration, evaluate TxGNN rank-9 prediction for **HER2-positive breast carcinoma** (L2 evidence; Phase 1 trial NCT03854903 completed; two Phase 2 RCTs in ER+/HER2- BC) and rank-8 **plasma cell myeloma** (L4 preclinical evidence; Src/CAM-DR mechanistic rationale) as potential next-stage expansion indications
+- Confirmation of the current EU authorisation status, since the only licence on record is cancelled
+- Warnings and contraindications from the SmPC
+- Structured mechanism of action data
+- Evidence for myeloid subtypes outside CML, if the broader indication is to be pursued
+- A monitoring plan for gastrointestinal, hepatic and haematological toxicity and for the high drug interaction burden
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

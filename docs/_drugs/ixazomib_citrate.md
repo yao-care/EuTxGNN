@@ -2,7 +2,7 @@
 layout: default
 title: Ixazomib Citrate
 parent: AI Predictions (L5)
-nav_order: 332
+nav_order: 343
 evidence_level: L5
 indication_count: 0
 ---

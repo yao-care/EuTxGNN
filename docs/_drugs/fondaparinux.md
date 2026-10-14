@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fondaparinux
-parent: Medium Evidence (L3-L4)
-nav_order: 263
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 270
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fondaparinux
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,73 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Fondaparinux: From Anticoagulant Therapy to Primary Release Disorder of Platelets
+# Fondaparinux: From Venous Thromboembolism Prevention to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Fondaparinux is a synthetic pentasaccharide anticoagulant (Factor Xa inhibitor); the evidence pack does not contain a formal original-indication text or DrugBank MOA record. TxGNN predicts possible relevance to **Primary Release Disorder of Platelets**, but the only supporting evidence retrieved (**2 clinical trials, 2 publications**) actually concerns heparin-induced thrombocytopenia (HIT), not platelet release disorders — a likely disease-label mismatch flagged directly in the evidence pack.
-
----
+Fondaparinux is an anticoagulant originally used to prevent and treat venous thromboembolism and to treat acute coronary syndromes.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but **no clinical trials** and only **1 loosely related publication** exist, and the mechanism points the opposite way (an anticoagulant would be expected to worsen bleeding).
+This prediction is most likely a knowledge-graph artifact.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (pharmacologically an anticoagulant / Factor Xa inhibitor, per rationale text) |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+| Original Indication | Prevention of venous thromboembolic events (VTE) in adults undergoing major orthopaedic surgery of the lower limbs, abdominal surgery, or in high-risk medical patients; treatment of superficial-vein thrombosis, acute DVT, acute PE, and UA/NSTEMI/STEMI |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 93.06% |
-| Evidence Level | L3 |
-| Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no structured mechanism-of-action record is available for Fondaparinux (`original_moa` = Data Gap). However, the repurposing rationale collected as part of this evidence pack does describe the mechanism: Fondaparinux is a synthetic pentasaccharide that selectively inhibits Factor Xa via antithrombin binding, and it does not bind platelet factor 4 (PF4). Because of this, it does not cross-react with heparin-induced thrombocytopenia (HIT) antibodies, and it is already used clinically as an alternative anticoagulant in HIT patients.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, fondaparinux is an indirect factor Xa inhibitor that acts through antithrombin III. It is used to prevent and treat venous and coronary thrombosis.
 
-The predicted new indication, "primary release disorder of platelets," refers to a primary defect in platelet granule release (e.g., storage pool disease) — a mechanistically distinct condition from HIT. Both retrieved clinical trials and one of the two retrieved publications concern HIT, not platelet release disorders. This strongly suggests an ontology/disease-label mismatch between the TxGNN node and the retrieved evidence, exactly as noted in the pack's own rationale text. The mechanistic plausibility of fondaparinux for HIT-related anticoagulation is real and well-established; its plausibility for a genuine primary platelet-release disorder is not supported by any evidence in this pack and would need a separate, correctly targeted evidence search.
+Primary platelet release disorders are qualitative platelet function defects that cause a bleeding tendency. An anticoagulant would be expected to aggravate bleeding rather than treat the condition. The mechanism therefore offers no plausible support for this prediction, which is likely a knowledge-graph artifact.
 
----
+Other top-ranked predictions show the same pattern. Several are bleeding disorders (pseudo-von Willebrand disease, Glanzmann thrombasthenia), where anticoagulation is contraindicated in principle. Others are fibroproliferative or retinal vascular conditions with no recognized link to factor Xa inhibition. The only prediction with indirect plausibility is vertebral artery occlusion (rank 5, evidence level L4), a thrombotic cerebrovascular condition. Even there, no specific trials or literature were found, and the hemorrhagic risk of anticoagulation in acute cerebrovascular events needs evaluation.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00911300](https://clinicaltrials.gov/study/NCT00911300) | Phase 2 | Completed | 349 | International multicentre RCT comparing fondaparinux vs. heparin/vitamin-K antagonists for anticoagulation in atrial fibrillation patients undergoing electric cardioversion. Relevance grade B — mechanistically tied to fondaparinux's low HIT cross-reactivity, but not a direct study of platelet release disorder. |
-| [NCT01178333](https://clinicaltrials.gov/study/NCT01178333) | N/A (retrospective) | Completed | 668 | Retrospective analysis of HIT incidence and outcomes (HIT-RADIO study) using existing medical records (platelet counts, treatments, outcomes). Relevance grade C — background epidemiology only, non-interventional, no direct causal support. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28646118](https://pubmed.ncbi.nlm.nih.gov/28646118/) | 2017 | Review | Blood | Review of direct oral anticoagulants for HIT treatment, updating the Hamilton group's clinical experience; not specific to platelet release disorders. |
-| [30018843](https://pubmed.ncbi.nlm.nih.gov/30018843/) | 2017 | Case Report | Journal of the Advanced Practitioner in Oncology | Case study on palliative chemotherapy in a patient with metastatic adenocarcinoma; unrelated to Fondaparinux or platelet mechanisms — appears to be a low-relevance/mismatched retrieval. |
+| [30018843](https://pubmed.ncbi.nlm.nih.gov/30018843/) | 2017 | Case report | Journal of the Advanced Practitioner in Oncology | Case study of palliative chemotherapy and palliative care in a young patient with metastatic adenocarcinoma. It does not address fondaparinux or platelet release disorders and is not relevant evidence. |
 
----
+## EU Market Information
 
-## Market Information
-
-Fondaparinux is currently **not marketed** in this jurisdiction, with **0 authorizations** on record. No product license data is available to summarize.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000403 (cancelled) | Arixtra | Not specified | 1.5-mg/0.3-ml and 2.5-mg/0.5-ml solution for injection Prevention of venous thromboembolic events (VTE) in adults undergoing major orthopaedic surgery of... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (not label text): kidney disease, thrombocytopenia (including heparin-induced and immune thrombocytopenia), blood coagulation disease, anemia, diabetic retinopathy, diabetic cataract, endocarditis, subacute bacterial endocarditis, pyoureter.
+- **Drug Interactions**: 100 interactions were identified. Major interactions include:
+  - Antiplatelet and NSAID agents: acetylsalicylic acid, abciximab, ketorolac, ibuprofen, anagrelide
+  - Anticoagulation-related and bleeding-risk agents: antithrombin alfa, antithrombin III human, acalabrutinib, trastuzumab emtansine
+  - Others: deferasirox, ibritumomab tiuxetan, tositumomab
+- Moderate interactions include fenfluramine, dexfenfluramine, sibutramine, sugammadex, and radioiodine products.
 
-*(Note: `key_warnings`, `contraindications`, and DDI data were all unavailable in this evidence pack; DDI query returned "not_found.")*
-
----
+Please also refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only clinical/literature evidence retrieved supports fondaparinux's known role in HIT-related anticoagulation, not the specifically predicted "primary release disorder of platelets" — the pack itself flags this as a likely ontology mismatch requiring manual confirmation. Combined with a **blocking** data gap on TFDA warnings/contraindications (DG001) and the drug not currently being marketed in this jurisdiction, the evidence base does not yet support advancing this candidate.
+The prediction rests on model score alone (L5). There are no trials and no relevant literature. The mechanism is contrary to the disease biology, and the added bleeding risk is a safety concern. The product's only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings/contraindications) to clear the blocking S1 safety gap (DG001)
-- Verified DrugBank MOA record (DG002)
-- Manual review confirming whether the TxGNN "primary release disorder of platelets" node genuinely maps to the retrieved HIT trials, or whether a corrected, disease-specific evidence search is required
-- Market-entry feasibility assessment, given zero current authorizations
+- Label warnings and contraindications from the SmPC, which are currently missing
+- Detailed mechanism of action data
+- If any follow-up is pursued, redirect it to the mechanistically plausible candidate (vertebral artery occlusion) with a dedicated literature review and a hemorrhagic-risk assessment
+- Confirmation that the model's association is not simply a knowledge-graph artifact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

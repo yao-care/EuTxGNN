@@ -2,7 +2,7 @@
 layout: default
 title: Tenecteplase
 parent: AI Predictions (L5)
-nav_order: 578
+nav_order: 599
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tenecteplase: From Acute Myocardial Infarction (Thrombolysis) to Posterolateral Myocardial Infarction
+# Tenecteplase: From Myocardial Infarction and Acute Ischaemic Stroke to Posterolateral Myocardial Infarction
 
 ## One-Sentence Summary
 
-Tenecteplase is a fibrin-specific plasminogen activator (thrombolytic agent); formal original-indication text and detailed mechanism-of-action data are not available in this dataset, but contextual evidence points to use in acute myocardial infarction/thrombosis. The TxGNN model predicts it may be effective for **Posterolateral Myocardial Infarction**, but this specific prediction is currently **not supported by any clinical trial or literature** — it is a model-only signal.
-
----
+Tenecteplase is a clot-dissolving (thrombolytic) drug, originally used to treat ST-elevation myocardial infarction and acute ischaemic stroke.
+The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**,
+but **no clinical trials** and **no publications** specific to this subtype are currently available. This is effectively a subtype of the already approved indication rather than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in current dataset (regulatory record shows 0 EU licenses; see Data Gap DG001) — contextually implied to be acute myocardial infarction / arterial thrombosis based on thrombolytic mechanism |
-| Predicted New Indication | Posterolateral Myocardial Infarction |
+| Original Indication | Thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours of symptom onset; thrombolytic treatment of acute ischaemic stroke within 4.5 hours from last known well, after exclusion of intracranial haemorrhage |
+| Predicted New Indication | Posterolateral myocardial infarction |
 | TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 (model prediction only — no clinical trials, no literature) |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 (no direct studies; indirect support from the approved parent indication) |
+| EU Market Status | Cancelled only (the single Metalyse authorization is recorded as cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not directly available for tenecteplase (marked as a Data Gap, DG002). However, other entries within this Evidence Pack consistently describe tenecteplase as acting through **plasminogen activation** (fibrinolysis), i.e. it is a thrombolytic agent that breaks down blood clots. Literature retrieved for related predictions in this pack (e.g. PMID 18183355, PMID 23975441) confirm real-world use of tenecteplase for thrombus-related acute myocardial infarction and pulmonary embolism, which is consistent with this mechanistic class.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tenecteplase is a fibrin-specific tissue plasminogen activator. It dissolves the clot that blocks a coronary artery, and this has been established in ST-elevation myocardial infarction (STEMI).
 
-Posterolateral myocardial infarction is an anatomical subtype of myocardial infarction, distinguished by the coronary territory involved (posterolateral wall) rather than by a distinct underlying pathology. Since thrombolytic therapy targets the culprit coronary thrombus itself rather than a specific infarct location, the same biological rationale that supports tenecteplase in myocardial infarction generally would be expected to extend to this anatomical subtype.
+Posterolateral myocardial infarction is an anatomical subtype of the same disease. The cause is the same (a thrombotic blockage of a coronary artery), so the mechanism applies directly. The very high TxGNN score likely reflects this overlap with the approved indication.
 
-This mechanistic plausibility is indirectly reinforced elsewhere in the Evidence Pack: other TxGNN-predicted MI subtypes for this drug (e.g. septal MI, coronary stenosis) are backed by actual clinical trial and literature evidence, including a completed Phase 2 trial (NCT00604695) and multiple studies on intracoronary tenecteplase during PCI for STEMI. This suggests the underlying knowledge-graph signal for "tenecteplase → myocardial infarction subtypes" reflects a real pharmacological relationship, even though the specific posterolateral subtype itself has not yet been directly studied.
-
----
+Because no trials or literature specific to this subtype were provided, the support is indirect. A closely related prediction, posteroinferior myocardial infarction (score 99.87%), has the same profile. Other predictions among the top 10 (for example chromosomal deletion and red-cell enzyme disorders) have no identifiable mechanistic link and appear to be model artefacts.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for posterolateral myocardial infarction.
 
----
+For context, other predicted indications have some indirect literature. For coronary stenosis, a small randomized feasibility study of low-dose intracoronary tenecteplase during primary PCI ([31870492](https://pubmed.ncbi.nlm.nih.gov/31870492/), 2020, 40 patients) and a comparison of tenecteplase-facilitated angioplasty versus thrombolysis alone ([16053952](https://pubmed.ncbi.nlm.nih.gov/16053952/), 2005) were retrieved. For septal myocardial infarction, only case reports and an unrelated pulmonary embolism study were found.
 
 ## EU Market Information
 
-No EU marketing authorization records are present in this dataset (0 licenses on file). This should be verified against the EMA product database, as tenecteplase-containing products are known to be marketed in the EU under other names; the absence of records here likely reflects a data gap rather than confirmed non-authorization.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000306 | Metalyse | Not specified | Thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of... |
 
----
+The authorization status is cancelled.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were recorded; the first 20 retrieved are summarized here.
+  - Major: abciximab, apixaban, betrixaban, acalabrutinib, avapritinib, deferasirox, ibritumomab tiuxetan, tositumomab (including I-131). Most of these relate to increased bleeding risk.
+  - Moderate: acetylsalicylic acid, ibuprofen, ketorolac, celecoxib, topical diclofenac, aminocaproic acid, omega-3 fatty acids, fenfluramine, dexfenfluramine, sibutramine.
 
----
+Please refer to the SmPC for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (posterolateral myocardial infarction, TxGNN score 99.87%) has no supporting clinical trials or literature (Evidence Level L5), and critical safety inputs — warnings, contraindications, and regulatory/market data — are all marked as data gaps, including a **blocking** gap (DG001) that prevents even an initial safety screen (S1).
+Posterolateral myocardial infarction falls under the already approved STEMI indication, so the prediction adds little new. There is no direct trial or literature evidence, and the EU authorization is recorded as cancelled. Safety label data, a blocking gap, is also missing.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label (SmPC) — warnings and contraindications (DG001, blocking)
-- Confirmed mechanism-of-action source from DrugBank (DG002)
-- Verification of EU marketing authorization status for tenecteplase (current record shows 0 licenses, which should be cross-checked against EMA's product register)
-- Indication-specific evidence for posterolateral MI; alternatively, consider evaluating the related "coronary stenosis" prediction (rank 5), which already has completed Phase 2 trial data (NCT00604695) and multiple supporting publications, as a stronger near-term repurposing candidate
+- Confirm the current EU authorization status of Metalyse
+- Obtain the EMA product information (warnings and contraindications) to allow safety screening
+- Obtain mechanism of action data (for example from DrugBank)
+- Clarify whether this subtype needs separate evaluation or is already covered by the STEMI indication
+- Subtype-specific clinical data, if a separate claim is considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

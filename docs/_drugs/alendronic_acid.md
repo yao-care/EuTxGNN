@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Alendronic Acid
-parent: High Evidence (L1-L2)
-nav_order: 33
-evidence_level: L1
+parent: AI Predictions (L5)
+nav_order: 34
+evidence_level: L5
 indication_count: 10
 ---
 
 # Alendronic Acid
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,79 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Alendronic acid: From Osteoporosis to HIV Infectious Disease
+# Alendronic Acid: From Postmenopausal Osteoporosis to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-Alendronic acid is a bisphosphonate with well-established efficacy in treating osteoporosis by inhibiting osteoclast-mediated bone resorption.
-The TxGNN model predicts it may be effective for **HIV infectious disease** — specifically in managing the accelerated bone mineral density loss caused by HIV infection and antiretroviral therapy —
-with **4 clinical trials** and **2 publications** currently supporting this direction.
-
----
+Alendronic acid is a bisphosphonate originally authorised in the EU (in combination products) for postmenopausal osteoporosis, where it reduces the risk of vertebral and hip fractures.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but this is a knowledge-graph prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Osteoporosis (established use; not registered in Taiwan) |
-| Predicted New Indication | HIV Infectious Disease |
+|------|------|
+| Original Indication | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency (reduces the risk of vertebral and hip fractures) |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 96.78% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorisations) |
+| Number of Authorizations | 3 (all cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from our dataset. Based on known pharmacological information, alendronic acid is a bisphosphonate that inhibits osteoclast-mediated bone resorption by binding to hydroxyapatite crystals in bone. Its efficacy in preventing and treating osteoporosis has been well-established across multiple patient populations worldwide.
+Detailed mechanism of action data is not available in the data compiled for this report. Alendronate is a nitrogen-containing bisphosphonate. Drugs of this class are generally understood to inhibit farnesyl pyrophosphate synthase in the mevalonate pathway, which could in theory affect protein prenylation and immune cell function. Nitrogen-containing bisphosphonates have also been studied for gamma-delta T cell activation.
 
-HIV infection and antiretroviral therapy (ART) — particularly tenofovir-containing regimens — are independently associated with accelerated bone mineral density (BMD) loss, frequently progressing to secondary osteoporosis and elevated fracture risk. The underlying mechanism is two-fold: chronic HIV-related immune activation disrupts the balance between osteoblasts and osteoclasts, while tenofovir directly impairs renal phosphate reabsorption, further reducing BMD.
+The link to HIV is weak. Osteoporosis and HIV infection are pathologically distinct, and no direct connection to HIV pathology is established. HIV-associated bone loss is a related question, but it would be an osteoporosis indication rather than an antiviral one. The high score (0.968) should therefore be read as a graph-derived signal, not biological confirmation.
 
-Alendronic acid addresses this complication directly by suppressing osteoclast activity and halting further bone loss in HIV-infected patients. Importantly, this is a **repurposing for a HIV-related complication (secondary osteoporosis)**, not a claim of direct antiviral activity. The landmark ANRS 120 Fosivir Phase 3 trial directly confirms this efficacy, making the TxGNN prediction both mechanistically sound and clinically validated.
-
----
+Other top-ranked predictions look like artefacts of the same graph signal or are biologically implausible:
+- Feline AIDS and simian immunodeficiency virus infection (score 0.948 each) mirror the HIV result and are veterinary or animal-model conditions, not independent human indications.
+- Deficiency anemia, megaloblastic anemia, and biotin metabolic disease have no plausible mechanistic link.
+- Plummer-Vinson syndrome and osteomesopyknosis argue against use, because of oesophageal adverse events and further suppression of bone resorption respectively.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00120757](https://clinicaltrials.gov/study/NCT00120757) | Phase 3 | Completed | 140 | ANRS 120 Fosivir: Alendronate vs. placebo in HIV-1-associated primary osteoporosis over 2 years, with all patients receiving calcium and vitamin D supplementation |
-| [NCT00061256](https://clinicaltrials.gov/study/NCT00061256) | Phase 2 | Completed | 80 | Double-blind, placebo-controlled RCT of once-weekly alendronate plus calcium/vitamin D in HIV-infected subjects with decreased BMD; assessed safety and efficacy |
-| [NCT00921557](https://clinicaltrials.gov/study/NCT00921557) | Phase 2 | Completed | 52 | Oral alendronate for low BMD in HIV-infected children and adolescents; measured lumbar spine BMD changes at 24 and 48 weeks — important paediatric cohort extension |
-| [NCT02322099](https://clinicaltrials.gov/study/NCT02322099) | Phase 4 | Terminated | 53 | Short-course alendronate vs. placebo to prevent ART-initiation-related BMD loss in ART-naïve HIV-1-infected adults; terminated early, limiting interpretability |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------|
-| [25300622](https://pubmed.ncbi.nlm.nih.gov/25300622/) | 2014 | Systematic Review / Meta-analysis | AIDS Reviews | Pooled analysis of 8 RCTs evaluating bisphosphonates (including alendronate) in HIV-infected adults; assessed BMD changes at lumbar spine, femoral neck, and total hip using fixed-effects model |
-| [26890207](https://pubmed.ncbi.nlm.nih.gov/26890207/) | 2016 | Narrative Review | Current Opinion in HIV and AIDS | Clinical review of pharmacologic strategies to prevent and manage low BMD in people living with HIV, highlighting fracture risk, monitoring recommendations, and bisphosphonate utility |
+Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Alendronic acid is currently **not registered in Taiwan** (市場狀態：Not marketed). No marketing authorizations have been issued by the Taiwan Food and Drug Administration (TFDA). Clinicians should consult international regulatory approvals (e.g., FDA, EMA) and the corresponding Summary of Product Characteristics (SmPC) when assessing dosing, contraindications, and drug interactions.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001180 (cancelled) | Vantavo (previously Alendronate sodium and colecalciferol, MSD) | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Vantavo reduces the risk of ve... |
+| EMEA/H/C/000759 (cancelled) | Adrovance | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Adrovance reduces the risk of ... |
+| EMEA/H/C/000619 (cancelled) | Fosavance | Not specified | Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Fosavance reduces the risk of ... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Contraindications suggested by the knowledge graph (not label text):** The following conditions are linked to alendronate through drug-disease contraindication edges and should be verified against the SmPC:
+- Oesophageal and upper gastrointestinal disorders: achalasia, megaesophagus, oesophageal dyskinesia, oesophageal ulcer, oesophagitis (including eosinophilic and peptic), gastroesophageal reflux disease, gastritis, duodenitis
+- Renal conditions: kidney disease, nephrolithiasis, nephrocalcinosis, acute urate nephropathy
+- Mineral and vitamin disorders: hypercalcaemia, hyperphosphataemia, phosphorus metabolism disease, vitamin D deficiency, hypervitaminosis, osteomalacia, rickets
+- Other: osteonecrosis of the jaw, atrial fibrillation, sarcoidosis, arteriosclerosis obliterans, pyoureter
 
-> ⚠️ **Note**: TFDA prescribing information (warnings and contraindications) has not been retrieved for this report. This is a **blocking data gap** (DG001) that must be resolved before clinical use assessment. In particular, alendronate has a known risk of oesophageal irritation, which is relevant given its oral administration requirements (patient must remain upright for 30 minutes post-dose).
+**Drug Interactions:** 100 interactions were recorded, and the first 20 are summarised here.
+- Moderate: calcium salts (acetate, carbonate, citrate, glubionate, gluconate, lactate, phosphate), magnesium salts (carbonate, chloride, citrate), aluminium hydroxide, magaldrate, attapulgite, kaolin, iron, acetylsalicylic acid, kanamycin. Several of these (minerals, antacids) are likely to reduce oral absorption of alendronate.
+- Minor: famotidine, ranitidine, cimetidine.
 
----
+For label-level warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The ANRS 120 Fosivir Phase 3 RCT (NCT00120757) directly demonstrates alendronate's efficacy for HIV-1-associated osteoporosis, corroborated by two additional completed Phase 2 RCTs and a meta-analysis covering 8 randomised trials — satisfying the L1 evidence threshold. The mechanistic link is well-understood and the target population (HIV patients with bone loss on ART) is clearly defined.
+The HIV prediction rests solely on a knowledge-graph score, with no registered trials, no literature, and no established mechanism. All three EU authorisations for the original indication are cancelled, and the safety profile includes oesophageal and renal concerns.
 
 **To proceed, the following is needed:**
-
-- **DG001 (Blocking)**: Retrieve TFDA prescribing information for local warnings and contraindications — required before any safety assessment can proceed
-- **DG002 (High)**: Confirm mechanism of action via DrugBank API to support mechanistic gap analysis
-- **Population scoping**: Formally define the target indication as "secondary osteoporosis in HIV-infected patients on ART" rather than HIV itself, to align regulatory framing and avoid misrepresentation
-- **Safety monitoring plan**: Address renal function monitoring (especially in tenofovir-treated patients), oesophageal tolerability, and calcium/vitamin D co-supplementation requirements
-- **Paediatric consideration**: The Phase 2 paediatric trial (NCT00921557) signals potential use in perinatally HIV-infected children — a distinct regulatory pathway may be required
+- Mechanism of action data and a plausible biological rationale linking bisphosphonate activity to HIV, such as in vitro or preclinical studies
+- A literature and trial search specific to alendronate and HIV, distinguishing antiviral effects from HIV-associated bone loss
+- Current SmPC warnings and contraindications, which are not available in the data compiled for this report
+- Clarification of route and formulation compatibility
+- Review of whether the current regulatory status (all authorisations cancelled) affects feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

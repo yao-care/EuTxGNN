@@ -2,7 +2,7 @@
 layout: default
 title: Risdiplam
 parent: AI Predictions (L5)
-nav_order: 510
+nav_order: 528
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Risdiplam: From Spinal Muscular Atrophy (SMA) to Acne
+# Risdiplam: From Spinal Muscular Atrophy to Acne
 
 ## One-Sentence Summary
 
-> Risdiplam is a small-molecule SMN2 pre-mRNA splicing modifier used to treat spinal muscular atrophy (SMA).
-> The TxGNN model predicts it may be effective for **Acne**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph similarity signal with no independent biological evidence.
+Risdiplam is an SMN2 splicing modifier, originally used to treat 5q spinal muscular atrophy (SMA).
+The TxGNN model predicts it may be effective for **acne**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this evidence pack (drug not yet EU-marketed); based on known information, used for spinal muscular atrophy (SMA) |
-| Predicted New Indication | Acne (disease) |
+| Original Indication | 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3, or with one to four SMN2 copies |
+| Predicted New Indication | Acne |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for risdiplam is not available in this evidence pack. Based on known information, risdiplam is an SMN2 pre-mRNA splicing modifier — it increases production of functional SMN protein and is approved for spinal muscular atrophy (SMA), a neuromuscular disease driven by SMN protein deficiency.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Risdiplam is known as an SMN2 pre-mRNA splicing modifier. Its efficacy in SMA has been established, and it works by promoting inclusion of exon 7 in SMN2 transcripts.
 
-Acne, by contrast, is a disease of sebaceous gland inflammation and androgen-driven sebum overproduction with follicular hyperkeratinization. There is no established biological pathway connecting SMN2 splicing modulation to sebaceous gland activity, androgen signaling, or acne pathophysiology. The evidence pack's own rationale flags this explicitly: the prediction reflects TxGNN knowledge-graph embedding similarity rather than a supported mechanistic hypothesis.
+No documented link connects this mechanism to acne, which involves sebum production, *C. acnes* colonization, follicular hyperkeratinization and inflammation. A possible effect through off-target splicing changes in skin or follicular cells is speculative. The high TxGNN score (0.995) is a knowledge-graph prediction only and is not backed by any trial or literature data.
 
-It is also worth noting that several other top-10 predictions for this drug (e.g., multiple melanoma subtypes — metastatic, non-cutaneous, epithelioid cell, eyelid) cluster together without independent trial or literature support, which is a pattern often seen when embedding-space proximity drives predictions rather than genuine shared biology. This reinforces that the acne prediction should be treated as an early-stage, unvalidated hypothesis rather than a repurposing signal ready for clinical consideration.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
-## Literature Evidence
-
-Currently no related literature available
+The other top predictions (drug-induced osteoporosis, elevated plasma zinc, common wart, several melanoma subtypes, dermatitis, acrodermatitis chronica atrophicans) also lack supporting evidence. Several appear to reflect clustering within the knowledge graph rather than independent signals.
 
 ## EU Market Information
 
-Risdiplam is currently **not marketed** in the EU under this evidence pack (0 authorizations on file), so no product/indication table can be generated.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005145 | Evrysdi | Not specified | Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3 or with one to four SMN2 copies. |
+
+The only authorization on record is listed as cancelled, so the drug currently has no valid EU marketing authorization in the data compiled for this report.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: Two moderate-level interactions were identified (source: DDInter):
+  - Metformin
+  - Methylnaltrexone
 
-*(Note: key warnings, contraindications, and drug interaction data are currently unavailable — this is flagged as a **Blocking** data gap (DG001) that must be resolved before any safety-relevant decision can be made.)*
+Please refer to the SmPC for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate sits at Evidence Level L5 (model prediction only, zero clinical trials or literature) with no plausible mechanistic link between SMN2 splicing modulation and acne pathophysiology. Combined with a Blocking data gap on safety warnings/contraindications, there is currently no basis to advance this candidate beyond S0.
+The acne prediction is supported only by the TxGNN model, with no clinical trials, literature or documented mechanistic link. The EU authorization is also listed as cancelled, and the safety review cannot be completed.
 
 **To proceed, the following is needed:**
-- Confirmed original MOA and indication data for risdiplam (DG002 – High priority)
-- TFDA/EMA label warnings and contraindications (DG001 – Blocking; required before any S1 safety screen)
-- An independent mechanistic hypothesis linking SMN2/RNA splicing to sebaceous gland biology or acne pathogenesis
-- At minimum, preclinical or case-level literature evidence before this candidate can be re-scored above L5
+- Mechanism of action data and a plausible biological rationale connecting SMN2 splicing modulation to acne
+- Preclinical or clinical evidence in acne or related skin conditions
+- Warnings and contraindications from the SmPC, and clarification of the current EU authorization status
+- Assessment of route compatibility, since acne is typically treated topically while the approved product is given orally
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

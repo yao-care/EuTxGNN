@@ -2,7 +2,7 @@
 layout: default
 title: Florbetapir 18F
 parent: AI Predictions (L5)
-nav_order: 258
+nav_order: 265
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,56 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Florbetapir (18F): From Alzheimer's Amyloid PET Imaging to Bronchitis
+# Florbetapir (18F): From Alzheimer's Disease Diagnostic Imaging to Bronchitis
 
 ## One-Sentence Summary
 
-Florbetapir (18F) is not a therapeutic drug — it is an amyloid-beta-binding PET radiotracer used solely to visualize cerebral amyloid plaques as an aid in diagnosing Alzheimer's disease. The TxGNN model predicts it may be effective for **Bronchitis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the link as biologically implausible.
+Florbetapir (18F) is a diagnostic radiopharmaceutical (marketed as Amyvid) used in PET imaging of beta-amyloid plaque density in the brains of adults being evaluated for Alzheimer's disease.
+The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials and no publications** currently support this prediction, so it rests on a computational score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not applicable — diagnostic PET imaging agent (aid in Alzheimer's disease diagnosis), not an approved therapeutic; no marketing licenses on record |
+| Original Indication | PET imaging of beta-amyloid neuritic plaque density in the brains of adults with cognitive impairment being evaluated for Alzheimer's disease and other causes of cognitive impairment (diagnostic use only) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 |
-| Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Florbetapir (18F) is not available in DrugBank (flagged as a High-severity data gap in this evidence pack). Based on the information that is available — including the model's own repurposing rationale — Florbetapir (18F) is an ¹⁸F-labeled radiotracer that binds selectively to amyloid-beta plaques in the brain, used exclusively in PET imaging to support Alzheimer's disease diagnosis. It has no cytotoxic, anti-inflammatory, antimicrobial, or bronchodilatory activity and is not designed or dosed for systemic therapeutic effect.
+Currently, detailed mechanism of action data is not available. Based on known information, florbetapir (18F) is a diagnostic PET radiotracer that binds to beta-amyloid plaques. It is given in trace amounts for imaging and has no known therapeutic pharmacology.
 
-Bronchitis is an infectious/inflammatory airway condition with an entirely different pathophysiology (pathogen-driven or irritant-driven airway inflammation) from cerebral amyloid deposition. The evidence pack's own mechanistic annotation for this candidate states directly that there is "no known pharmacological mechanism to explain a treatment effect on bronchitis" and that the high TxGNN score "lacks biological plausibility support." The same disconnect applies to the other nine top-ranked candidates (rheumatoid arthritis, bronchial neoplasm, two rare congenital syndromes, gout, headache disorder, trigeminal autonomic cephalalgia, laryngotracheitis, and osteoarthritis susceptibility) — each rationale explicitly notes the absence of any plausible pharmacological link to Florbetapir's amyloid-binding, diagnostic-only mode of action.
+The original indication (brain amyloid imaging) and the predicted indication (bronchitis, an inflammatory airway condition) have no apparent biological connection. No antimicrobial, anti-inflammatory, or other therapeutic activity has been documented for this agent. The high score of 0.997 is a graph-based prediction and is not backed by clinical or literature evidence, so this prediction should be treated as a weak, hypothesis-only signal.
 
-In short, the high TxGNN score reflects a graph-embedding similarity pattern rather than a grounded pharmacological hypothesis, and should be treated as exploratory model output only, not as a signal warranting further investment at this stage.
+Other top-ranked predictions show the same pattern: rheumatoid arthritis (98.2%), bronchial neoplasm (96.9%), gout (95.9%), headache disorder (95.7%) and others. None has trials or publications, and none has a credible mechanistic link to a diagnostic tracer.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002422 (cancelled) | Amyvid | Not specified | Diagnostic use only. PET imaging of beta-amyloid neuritic plaque density in the brains of adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) and other causes of cognitive... |
+
+---
+
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Florbetapir (18F) is a diagnostic radiotracer, not a therapeutic agent, and the top-ranked TxGNN prediction (bronchitis) has zero supporting clinical trials or literature and no plausible mechanistic link — a pattern that repeats across all ten top-ranked candidates in this evidence pack. Combined with the drug having no marketing licenses and no available label/safety data, this candidate does not meet the bar to advance past model-prediction stage (S0).
+The prediction has only a model score, with no clinical trials, no publications, and no plausible mechanism. Florbetapir is a trace-dose diagnostic agent without therapeutic activity, and its only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- DrugBank API query to fill the MOA data gap (DG002)
-- TFDA/EMA label (仿單) retrieval to close the safety data gap (DG001), currently blocking S1 entry
-- A mechanistic plausibility re-review, given the drug's diagnostic (non-therapeutic) classification, before committing further evidence-collection resources
-- If pursued, preclinical/in vitro evidence generation, since no clinical or observational data currently exist for any of the ten predicted indications
+- Mechanism of action data, to assess whether any biological link to bronchitis exists
+- Safety information from the product label (warnings and contraindications), which is currently missing and blocks safety screening
+- Any preclinical or clinical evidence supporting a therapeutic effect in bronchitis
+- Clarification of the cancelled EU authorization status and the available dosage forms and routes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

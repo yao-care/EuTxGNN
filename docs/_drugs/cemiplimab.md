@@ -2,7 +2,7 @@
 layout: default
 title: Cemiplimab
 parent: AI Predictions (L5)
-nav_order: 136
+nav_order: 138
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,87 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Cemiplimab (Libtayo) is an anti-PD-1 immune checkpoint inhibitor approved by the FDA and EMA for cutaneous squamous cell carcinoma (CSCC), basal cell carcinoma (BCC), non-small cell lung cancer (NSCLC), and cervical cancer; it currently has no marketing authorization in Taiwan.
-The TxGNN model predicts it may be effective for **Gallbladder Adenosquamous Carcinoma**,
-with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-
----
+Cemiplimab is a PD-1 blocking antibody originally used to treat cutaneous squamous cell carcinoma (CSCC), basal cell carcinoma, non-small cell lung cancer and cervical cancer.
+The TxGNN model predicts it may be effective for **gallbladder adenosquamous carcinoma**, but currently **0 clinical trials** and **0 publications** support this specific prediction. It is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cutaneous squamous cell carcinoma (FDA/EMA approved; no Taiwan authorization) |
-| Predicted New Indication | Gallbladder Adenosquamous Carcinoma |
+| Original Indication | Metastatic or locally advanced cutaneous squamous cell carcinoma (not candidates for curative surgery or radiation); also adjuvant CSCC, basal cell carcinoma, NSCLC and cervical cancer |
+| Predicted New Indication | Gallbladder adenosquamous carcinoma |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Cemiplimab is not currently available from the DrugBank query (data gap). Based on clinical context available in the evidence pack, Cemiplimab is an anti-PD-1 (Programmed Death-1) monoclonal antibody. It works by blocking the PD-1 receptor on CD8+ cytotoxic T cells, preventing tumor cells from evading immune surveillance through the PD-1/PD-L1 checkpoint axis — thereby restoring the immune system's ability to identify and destroy malignant cells. This mechanism has been validated across multiple tumor types bearing squamous histology and high PD-L1 expression.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cemiplimab is a monoclonal antibody that targets human PD-1 (PDCD1/CD279). It blocks the PD-1/PD-L1 interaction (IC50 below 1 nM in an ELISA), which is expected to restore T-cell antitumour activity. Its efficacy in CSCC has been demonstrated: in early trials about 50% of patients with advanced CSCC responded, with durable responses in 82% of responders with metastatic disease.
 
-Gallbladder adenosquamous carcinoma is an extremely rare mixed-histology malignancy (< 1% of gallbladder cancers) containing both squamous and glandular tumor components. The presence of a squamous component creates a theoretical basis for PD-L1 upregulation in the mixed tumor microenvironment, drawing a mechanistic parallel to other squamous cell malignancies where anti-PD-1 therapy has demonstrated efficacy. Additionally, the parent disease category — biliary tract cancer broadly — carries exploratory checkpoint inhibitor evidence, which gives the prediction indirect biological plausibility.
+The link to gallbladder adenosquamous carcinoma is speculative. The tumour has a squamous component, which may share some biology with CSCC. However, PD-L1 status and tumour mutational burden in this rare tumour are not established by the available data, and no clinical evidence was found. The prediction should be treated as a hypothesis only.
 
-However, gallbladder adenosquamous carcinoma is so rare that no dedicated clinical or preclinical studies exist for this subtype. The TxGNN model appears to be generalizing from squamous histology patterns and known PD-1 responsiveness across related tumor types — a reasonable computational hypothesis, but one that cannot be validated without direct evidence. The mechanistic rationale remains indirect and insufficient to support clinical progression at this stage.
-
----
+Other high-scoring predictions follow a similar pattern, with scores of about 99.99%. They include glottis squamous cell carcinoma, supraglottis squamous cell carcinoma, non-keratinizing sinonasal squamous cell carcinoma, rectal cloacogenic carcinoma and lung occult squamous cell carcinoma. Most of these also have no supporting evidence. External ear basal cell carcinoma is the only one with any publication, and it is largely covered by the existing basal cell carcinoma indication.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Cemiplimab in gallbladder adenosquamous carcinoma.
-
----
+Currently no related clinical trials registered for gallbladder adenosquamous carcinoma.
 
 ## Literature Evidence
 
-Currently no related literature available for Cemiplimab in gallbladder adenosquamous carcinoma.
+Currently no related literature available for gallbladder adenosquamous carcinoma.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Cemiplimab currently has no TFDA marketing authorization and is not marketed in Taiwan. No regulatory approval data or package insert is available for review. The absence of Taiwan approval is itself a blocking data gap for safety evaluation (see Safety Considerations).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004844 (status: cancelled) | Libtayo | Not specified | Cutaneous squamous cell carcinoma (metastatic, locally advanced, and adjuvant); basal cell carcinoma after hedgehog pathway inhibitor; PD-L1-expressing NSCLC; recurrent or metastatic cervical cancer... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (Anti-PD-1 monoclonal antibody) |
-| Myelosuppression Risk | Low — direct bone marrow toxicity is uncommon; immune-mediated hematological adverse events (e.g., immune thrombocytopenia, hemolytic anemia) are possible but rare |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, liver function tests (AST/ALT/total bilirubin), thyroid function (TSH, free T4), adrenal function (morning cortisol), fasting blood glucose, serum creatinine — all for immune-related adverse event (irAE) surveillance |
-| Handling Protection | Standard monoclonal antibody handling procedures apply; cytotoxic drug handling precautions are generally not required for anti-PD-1 biologics |
-
----
+| Cytotoxicity Classification | Immunotherapy (anti-PD-1 monoclonal antibody), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 10 interactions were identified. Nine are rated Moderate and involve corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone and deflazacort. The tenth is the pharmacological target entry (PD-1), which is not a clinical interaction.
 
-> **Note:** TFDA package insert data for Cemiplimab is currently unavailable (blocking data gap DG001). Safety review — including key warnings, contraindications, and drug interaction screening — cannot be completed until the SmPC or equivalent label is retrieved and parsed.
-
----
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or published literature exist for Cemiplimab specifically in gallbladder adenosquamous carcinoma, an exceptionally rare tumor subtype (< 1% of gallbladder cancers). The current evidence is AI model prediction only (L5), which is insufficient to support any development decision without foundational research data.
+The prediction rests on the model score alone (L5), with no clinical trials or literature for gallbladder adenosquamous carcinoma. The EU authorization is currently cancelled, and safety label data is incomplete.
 
 **To proceed, the following is needed:**
-- Characterization of PD-L1 expression (CPS/TPS scoring) and tumor mutational burden (TMB) in gallbladder adenosquamous carcinoma tissue samples — these biomarkers are the primary determinants of anti-PD-1 responsiveness
-- Consideration of basket trial enrollment covering rare biliary tract or mixed-histology carcinomas (e.g., TMB-high or MSI-H enriched cohorts)
-- TFDA package insert retrieval and parsing for full safety, warning, and contraindication review (currently a blocking data gap — DG001)
-- Mechanism of action data from DrugBank API (high-priority gap — DG002)
-- Taiwan regulatory pathway assessment: Cemiplimab is not currently authorized in Taiwan; an import or regulatory filing strategy would be required before any clinical use
+- Systematic search for clinical or real-world data on PD-1 inhibitors in gallbladder and biliary adenosquamous carcinoma
+- PD-L1 expression, mismatch repair/MSI and tumour mutational burden data for this tumour type
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC, and clarification of the current EU authorization status
+- Clinical review of the corticosteroid interactions, given that steroids are commonly used to manage immune-related adverse events
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

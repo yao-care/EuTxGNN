@@ -2,7 +2,7 @@
 layout: default
 title: Fentanyl
 parent: AI Predictions (L5)
-nav_order: 250
+nav_order: 257
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fentanyl: From Opioid Analgesic Use to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Fentanyl: From Cancer Breakthrough Pain to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Fentanyl is a potent synthetic opioid used clinically as an analgesic and anesthetic adjunct. The TxGNN model's top-ranked prediction is that it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis**, but this candidate is currently supported by **0 clinical trials** and **0 publications** — the mechanistic rationale actually points in the opposite direction (opioids are more commonly associated with *causing* SIADH-like dysregulation than treating it).
+Fentanyl is a strong opioid painkiller, originally used in the EU to manage breakthrough pain in adults with cancer who already receive maintenance opioid therapy.
+The TxGNN model's top-ranked prediction is **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but this is a computational signal only, with **0 clinical trials** and **0 publications** supporting it.
+Among the other predictions, only myofascial pain syndrome has a related clinical trial (1 Phase 3 study), and it still requires verification.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no formal indication or license text was captured for this drug in the current evidence pack (drug is not marketed in the evaluated jurisdiction). Generically, fentanyl is known as an opioid analgesic. |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
+| Original Indication | Management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all 3 authorizations cancelled) |
+| Number of Authorizations | 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate (flagged as a High-severity data gap — DrugBank MOA lookup pending). Based on general pharmacological knowledge, fentanyl is a synthetic opioid and potent μ-opioid receptor agonist, primarily used for severe acute/chronic pain management and as an anesthesia adjunct.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Fentanyl is generally known as a mu-opioid receptor agonist, and its efficacy in cancer breakthrough pain is established through its authorized products.
 
-For this specific prediction, the mechanistic story is weak and arguably runs counter to the proposed indication. The evidence pack's own rationale notes that opioids are known to be associated with dysregulated antidiuretic hormone (ADH) secretion as an **adverse effect**, not a therapeutic one — meaning the direction of the proposed mechanism is inconsistent with treating a syndrome of inappropriate antidiuresis. No clinical trials or literature were found linking fentanyl to this indication, so the prediction currently rests entirely on the TxGNN model's statistical association, without any corroborating mechanistic or empirical support.
+For the top prediction, the link is weak. NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2). Fentanyl has no established action on this pathway, so no plausible mechanistic link is apparent. The 99.46% score should be read as a model output, not as evidence of benefit.
 
-Given this, the reasoning underlying the drug's original opioid-analgesic use does not translate meaningfully to this new indication, and the prediction should be treated as exploratory only.
+Other predictions fit the drug's known pharmacology better, but with caveats:
+- **Myofascial pain syndrome (score 98.09%)**: Mu-opioid analgesia is plausibly relevant to chronic musculoskeletal pain. One Phase 3 trial exists, but it covers breakthrough pain in non-cancer chronic pain, and its direct relevance to myofascial pain needs verification. Long-term opioid use carries risks of dependence, overdose and hyperalgesia.
+- **Tendinitis (score 97.04%)**: The literature mostly concerns postoperative pain after shoulder surgery. This is already covered by fentanyl's analgesic role and is not a true repurposing signal.
+- **Trichotillomania (score 98.87%)**: Opioid-system involvement is hypothesized in repetitive behaviors, but the one paper is an indirect opiate sensitivity test. Antagonists (such as naltrexone), not agonists like fentanyl, are used in this area.
+- **Tourette syndrome, mania, migraine with brainstem aura, methemoglobinemia, myositis fibrosa and idiopathic granulomatous myositis**: No credible mechanistic or clinical support was found. The retrieved papers on mania and methemoglobinemia are about overdose, case reports or adverse events, not treatment benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+No clinical trials are registered for the top-ranked prediction (NSIAD). The only trial in the top 10 predictions relates to rank 4, myofascial pain syndrome:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00343733](https://clinicaltrials.gov/study/NCT00343733) | Phase 3 | Completed | 120 | 12-week open-label study with three within-patient double-blind placebo-controlled periods of OraVescent fentanyl citrate for breakthrough pain in opioid-tolerant patients with non-cancer chronic pain. Relevance to myofascial pain needs verification. |
 
 ## Literature Evidence
 
-Currently no related literature available
+No publications were found for NSIAD. The table below shows the most relevant publications across the other predictions, by priority (RCT > Review > Case report):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23809446](https://pubmed.ncbi.nlm.nih.gov/23809446/) | 2013 | RCT | Arthroscopy | Transdermal fentanyl patch vs subacromial bupivacaine infusion for pain after arthroscopic shoulder surgery (tendinitis prediction; postoperative pain, not the disease itself) |
+| [21419546](https://pubmed.ncbi.nlm.nih.gov/21419546/) | 2011 | Review | J Oral Maxillofac Surg | Long-term opioid use in temporomandibular joint dysfunction can be neither supported nor refuted by current evidence (myofascial pain prediction) |
+| [12369265](https://pubmed.ncbi.nlm.nih.gov/12369265/) | 2002 | Pharmacological challenge study | Prog Neuropsychopharmacol Biol Psychiatry | Fentanyl-induced prolactin response used as an opiate receptor sensitivity test in stereotypic movement disorder and trichotillomania (indirect evidence) |
+| [15102255](https://pubmed.ncbi.nlm.nih.gov/15102255/) | 2001 | Case report | Pain Med | Limited absorption of transdermal fentanyl in two patients with systemic sclerosis, one treated for deltoid tendinitis pain |
+| [15839854](https://pubmed.ncbi.nlm.nih.gov/15839854/) | 2005 | Case report | Cephalalgia | Placebo response in chronic migraine with ergotamine overuse (does not support fentanyl efficacy) |
+| [37871953](https://pubmed.ncbi.nlm.nih.gov/37871953/) | 2023 | Systematic review | CMAJ | Predictors of overdose after opioid prescription for chronic pain (safety context, not therapeutic evidence for mania) |
+| [17923598](https://pubmed.ncbi.nlm.nih.gov/17923598/) | 2007 | Cohort | Arch Intern Med | Benzocaine-induced methemoglobinemia in transesophageal echocardiography (adverse event of another drug, not therapeutic evidence) |
 
 ## EU Market Information
 
-Fentanyl currently has no marketing authorizations recorded in this evidence pack (market status: Not Marketed, 0 total licenses). No product/indication table can be generated.
+All three authorizations are cancelled and none is currently valid.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000959 | Instanyl | Not specified | Management of breakthrough pain in adults already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory exacerbation... |
+| EMEA/H/C/001164 | PecFent | Not specified | Management of breakthrough pain in adults who are already receiving maintenance opioid therapy for chronic cancer pain. Breakthrough pain is a transitory... |
+| EMEA/H/C/000833 | Effentora | Not specified | Treatment of breakthrough pain (BTP) in adults with cancer who are already receiving maintenance opioid therapy for chronic cancer pain. BTP is a transitory... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (not label text): hypertension and hypotensive disorders, orthostatic hypotension, long QT syndrome and torsades de pointes, liver failure and liver disease, kidney disease, chronic obstructive pulmonary disease, asthma, pancreatitis, gallbladder disease, inflammatory bowel disease, benign prostatic hyperplasia, anxiety and related disorders, and substance abuse/dependence.
+- **Drug Interactions**: 100 interactions were identified. Major-level examples include alvimopan, aprepitant, bupropion, clarithromycin, clotrimazole, dexamethasone, dolasetron, fenfluramine, dexfenfluramine, granisetron and lorcaserin. Moderate-level examples include atropine, cimetidine, dicyclomine, dronabinol, eluxadoline, glycopyrronium and hyoscyamine.
+- **Condition-specific concerns**: Strong abuse liability, respiratory depression and overdose risk are particularly unfavorable for chronic or neurodevelopmental conditions such as Tourette syndrome.
 
-*(Note: key warnings, contraindications, and drug-interaction data are all currently unavailable/not found in this evidence pack, including a Blocking-severity gap for TFDA label warnings and contraindications.)*
-
-## Alternative Candidates Worth Noting
-
-The top-ranked prediction (by TxGNN score alone) has the weakest evidentiary support in this pack. Two lower-ranked candidates have materially stronger evidence and may be more productive lines of inquiry:
-
-| Rank | Disease | Evidence Level | Decision Stage | Note |
-|------|---------|-----------------|-----------------|------|
-| 4 | Myofascial pain syndrome | L2 | S2 (Research Question) | Phase 3 RCT (NCT00343733, n=120) plus a review on long-term opioid use in TMJ dysfunction; reflects fentanyl's established analgesic role rather than disease-specific mechanism. |
-| 10 | Tendinitis | L3 | S1 (Research Question) | Multiple RCTs support transdermal/postoperative fentanyl for tendon/rotator-cuff surgical pain, again as generalized analgesia rather than a tendinitis-specific mechanism. |
-
-Both are extensions of fentanyl's known analgesic use rather than novel disease-modifying indications, but they are far better supported than the rank-1 candidate above.
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The highest-scoring TxGNN prediction (nephrogenic syndrome of inappropriate antidiuresis) has no clinical trial or literature support and a mechanistic direction that may actually contradict the proposed benefit. Separately, a Blocking-severity data gap (missing TFDA/regulatory label warnings and contraindications) prevents any safety evaluation from proceeding regardless of indication.
+The top-ranked prediction (NSIAD) is supported only by a model score, and fentanyl has no plausible link to the AVPR2 pathway. Across the top 10 predictions, no indication has direct evidence of benefit. Myofascial pain syndrome is the most plausible candidate for further research, but its single Phase 3 trial is not yet confirmed as relevant. The drug's EU authorizations are all cancelled, and its safety burden is high.
 
 **To proceed, the following is needed:**
-- Regulatory label data (warnings, contraindications) — currently Blocking (DG001)
-- Confirmed mechanism of action from DrugBank — currently High-severity gap (DG002)
-- If pursuing repurposing at all, redirect focus to the better-evidenced candidates (myofascial pain syndrome, tendinitis) and verify that cited trials involve fentanyl itself rather than adjunct/comparator regional anesthesia techniques
-- Original approved indication and license data, to properly assess similarity between old and new indications
+- Mechanism of action data and the full SmPC warnings and contraindications
+- Verification of NCT00343733 (intervention, population and results) to determine whether it supports myofascial pain
+- For any further pursuit, a targeted literature review and a risk-benefit assessment covering dependence, respiratory depression and the interaction burden
+- Confirmation of available formulations and routes of administration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

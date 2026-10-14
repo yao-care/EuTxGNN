@@ -2,7 +2,7 @@
 layout: default
 title: Moroctocog Alfa
 parent: AI Predictions (L5)
-nav_order: 403
+nav_order: 417
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Moroctocog Alfa: From Coagulation Factor VIII Replacement Therapy to Primary Release Disorder of Platelets
+# Moroctocog alfa: From Haemophilia A to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-> Moroctocog alfa is a recombinant coagulation Factor VIII (B-domain deleted) product; formal original-indication and local regulatory data are not available in this evidence pack, and the drug is currently **not marketed** in this jurisdiction. The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**, but this direction is currently supported only by **7 clinical trials** — all graded low relevance ("C") — and **no literature evidence**.
-
----
+Moroctocog alfa is a recombinant B-domain-deleted factor VIII, originally used to treat and prevent bleeding in patients with haemophilia A.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this evidence pack — no local license record exists. (Contextually, per the drug's own class description in this pack, moroctocog alfa is a recombinant Factor VIII replacement product, typically used in Hemophilia A.) |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency) |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available for this drug record. Based on information present elsewhere in this evidence pack, moroctocog alfa is a **recombinant Factor VIII (B-domain deleted)** product, whose established mechanism is to replace deficient coagulation Factor VIII within the coagulation cascade — i.e., it addresses a *coagulation factor deficiency*, not a *platelet function/release defect*.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, moroctocog alfa is a recombinant B-domain-deleted factor VIII. It replaces the missing FVIII activity in the intrinsic coagulation pathway, which is why it works in haemophilia A.
 
-Primary release disorder of platelets is caused by a defect in platelet granule release, a mechanism entirely distinct from the coagulation cascade that Factor VIII acts on. There is no direct pharmacological pathway by which FVIII replacement would correct a platelet granule secretion defect.
+The predicted disease is a different kind of problem. Primary release disorder of platelets is a defect in platelet granule content or secretion, not a lack of FVIII. Replacing FVIII would not be expected to correct that defect. The high TxGNN score most likely reflects how close these conditions sit to one another in the knowledge graph (all are bleeding disorders), not a real mechanistic rationale.
 
-The very high TxGNN score (99.97%) most likely reflects an indirect knowledge-graph linkage — both conditions share a "bleeding tendency / hemostatic disorder" comorbidity node — rather than a genuine, validated pharmacological relationship. This is corroborated by the clinical trial evidence below, where every retrieved trial was graded "C" (low relevance) by the evidence pipeline, meaning none directly tested moroctocog alfa (or any FVIII product) in this specific platelet disorder.
+The other nine predictions show the same pattern. Most involve platelet or vascular defects with normal FVIII levels:
 
----
+- **Pseudo-von Willebrand disease (99.97%)**: The primary defect lies in the platelets (GP1BA gain-of-function). The product label states that moroctocog alfa contains no von Willebrand factor and is not indicated in von Willebrand disease.
+- **Glanzmann thrombasthenia (99.96%)**: This is an integrin αIIbβ3 defect with normal coagulation factors. Established management uses platelet transfusion and recombinant factor VIIa.
+- **Acquired coagulation factor deficiency (99.88%)**: This is the most plausible of the predictions, since acquired FVIII deficiency could in principle be treated with FVIII replacement. However, the category is heterogeneous. Acquired haemophilia A is autoantibody-mediated and usually needs bypassing agents and immunosuppression. This is classed as a research question, not a treatment candidate.
+- **Scott syndrome, collagen receptor defect bleeding diathesis, constitutional thrombocytopenia**: These are platelet-intrinsic defects with no direct link to FVIII.
+- **"Flood factor deficiency"**: The term is ambiguous and may be a nomenclature artifact. It needs to be checked against a standard ontology.
+- **Hereditary thrombocytosis with transverse limb defect, familial thrombomodulin anomalies**: The clinical risk may be thrombotic, so giving a procoagulant factor concentrate could be harmful.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT07400848](https://clinicaltrials.gov/study/NCT07400848) | N/A | Recruiting | 200 | Post-COVID-19-vaccination syndrome lab/symptom evaluation — coagulation-adjacent but not related to platelet release disorder or FVIII therapy |
-| [NCT07343687](https://clinicaltrials.gov/study/NCT07343687) | N/A | Not yet recruiting | 80 | Coagulation profiles in newly diagnosed AML patients undergoing induction chemotherapy — no FVIII intervention |
-| [NCT07329036](https://clinicaltrials.gov/study/NCT07329036) | N/A | Recruiting | 25 | Artificial liver support system (DPMAS + TPE) effects on primary coagulation in acute-on-chronic liver failure — unrelated |
-| [NCT01913405](https://clinicaltrials.gov/study/NCT01913405) | Phase 3 | Completed | 30 | PEGylated rFVIII (BAX 855) safety/efficacy in severe Hemophilia A patients undergoing surgery — FVIII product, but for hemophilia, not platelet disorder |
-| [NCT04161495](https://clinicaltrials.gov/study/NCT04161495) | Phase 3 | Completed | 159 | rFVIIIFc-VWF-XTEN (BIVV001) prophylaxis in severe Hemophilia A (≥12 yrs) — FVIII product, hemophilia indication only |
-| [NCT04759131](https://clinicaltrials.gov/study/NCT04759131) | Phase 3 | Completed | 74 | Same BIVV001 program in pediatric severe Hemophilia A (<12 yrs) — FVIII product, hemophilia indication only |
-| [NCT07439939](https://clinicaltrials.gov/study/NCT07439939) | N/A | Recruiting | 45 | Systemic/portal hemostasis in patients undergoing TIPS placement — no direct FVIII/platelet disorder link |
-
-**All 7 trials were graded "C" (low relevance)** by the evidence pipeline: reasoning consistently notes keyword co-occurrence only, with no trial directly testing an intervention for primary release disorder of platelets.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000232 (cancelled) | ReFacto AF | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). ReFacto AF is appropriate for use in adults and children of all ages, inc... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-*(Note: TFDA label warnings/contraindications and detailed MOA are flagged as data gaps in this pack — see Conclusion below.)*
-
----
+Note from the label: moroctocog alfa contains no von Willebrand factor and is not indicated in von Willebrand's disease.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the underlying mechanistic rationale is weak-to-contradictory (FVIII replacement does not address a platelet granule-release defect), and all 7 available clinical trials are graded low relevance with zero literature support. This corresponds to Evidence Level L5 (model prediction only) and Decision Stage S0.
+The predicted indication has no clinical or published support (evidence level L5), and the mechanism does not fit. The disease is a platelet secretion defect, whereas the drug replaces FVIII. The only EU authorization is cancelled, and the safety data needed for screening are missing.
 
 **To proceed, the following is needed:**
-- **[Blocking]** TFDA-equivalent label warnings/contraindications (DG001) — required before any S1 safety pre-screening can begin
-- **[High]** Confirmed mechanism-of-action data via DrugBank API (DG002) — needed to properly assess mechanistic relevance
-- Independent pharmacological/hematology expert review of whether FVIII has any plausible role in platelet granule-release disorders
-- Consider redirecting evaluation resources toward **rank 4 candidate ("acquired coagulation factor deficiency")** in this same pack, which reaches L3/S1 with a stronger, more direct mechanistic link (acquired Hemophilia A via anti-FVIII autoantibodies) and multiple Phase 2/3 trial precedents for FVIII-class products
+- Safety information (warnings and contraindications) from the EMA product information, which is currently a blocking gap
+- Mechanism of action data from DrugBank
+- Evidence that FVIII replacement can correct the platelet secretion defect, such as preclinical or mechanistic studies
+- Disambiguation of "flood factor deficiency" against a standard disease ontology
+- If any prediction is pursued further, "acquired coagulation factor deficiency" is the most reasonable candidate for a focused research question. It would need a defined patient subgroup, such as acquired FVIII deficiency without inhibitors.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

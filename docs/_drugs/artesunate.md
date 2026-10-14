@@ -2,7 +2,7 @@
 layout: default
 title: Artesunate
 parent: AI Predictions (L5)
-nav_order: 61
+nav_order: 62
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Artesunate: From Malaria to Acne
+# Artesunate: From Severe Malaria to Acne
 
 ## One-Sentence Summary
 
-Artesunate is a semisynthetic artemisinin derivative derived from *Artemisia annua*, widely used as a first-line treatment for severe and cerebral malaria due to its rapid parasiticidal action via reactive oxygen species generation.
-The TxGNN model predicts it may have potential activity against **Acne (disease)**, likely through NF-κB-mediated suppression of *Cutibacterium acnes*-driven sebaceous gland inflammation.
-Currently, **no clinical trials** and **no published literature** directly support this specific repurposing direction — this is a pure model prediction at L5 evidence level.
-
----
+Artesunate is an antimalarial drug, originally used for the initial treatment of severe malaria in adults and children.
+The TxGNN model predicts it may be effective for **acne**, but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Malaria (severe/cerebral malaria) |
+|------|------|
+| Original Indication | Initial treatment of severe malaria in adults and children |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 79.21% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Artesunate is a water-soluble hemisuccinate ester of dihydroartemisinin. Its core mechanism involves the endoperoxide bridge reacting with ferrous heme iron inside infected erythrocytes to generate carbon-centred free radicals and reactive oxygen species (ROS) that are lethal to *Plasmodium* parasites. Beyond this antiparasitic action, artesunate has demonstrated secondary anti-inflammatory activity through inhibition of the NF-κB signalling pathway and downregulation of pro-inflammatory mediators including IL-1β, IL-6, and TNF-α. Detailed pharmacological MOA data from DrugBank was not available at the time of this assessment; the description above is based on published literature.
+Currently, detailed mechanism of action data is not available. Based on known information, artesunate is an artemisinin-class antimalarial. Its efficacy in severe malaria is established, and it may be mechanistically applicable to acne, but this link has not been verified.
 
-Acne vulgaris is fundamentally an inflammatory disease of the pilosebaceous unit. *Cutibacterium acnes* activates TLR2 and the NLRP3 inflammasome, driving NF-κB-dependent production of pro-inflammatory cytokines in sebaceous glands, leading to follicular hyperkeratosis and comedone formation. Artesunate's capacity to inhibit NF-κB could theoretically attenuate this specific inflammatory cascade — offering a mechanistically plausible alternative to antibiotics (facing increasing resistance) or isotretinoin (with significant teratogenicity risk).
+One possible link is the anti-inflammatory and immunomodulatory activity reported for artemisinin derivatives, such as suppression of NF-kB signalling and inflammatory cytokines. Acne is an inflammatory skin disease, so such activity could be relevant. This is hypothesis-level reasoning and is not supported by any trial or publication in the compiled data.
 
-The TxGNN score of 79.21% reflects indirect pathway associations in the drug-disease knowledge graph, most likely through shared inflammatory signalling nodes. However, no validated in vitro sebocyte experiments or animal acne models using artesunate have been identified in this dataset. The mechanistic hypothesis is biologically coherent but entirely unverified. Notably, artesunate also ranks highly for a cluster of mastocytosis indications (ranks 2, 3, 5) and diffuse cutaneous leishmaniasis (rank 6) — the leishmaniasis prediction carries particularly strong mechanistic rationale given artesunate's known broad-spectrum anti-protozoal activity and may warrant prioritisation alongside or ahead of the acne indication.
+The prediction therefore stays at the model level. Malaria and acne are clinically very different diseases, and the similarity to the original indication has not been assessed.
 
----
+### Other Predicted Indications
+
+The model also ranked the following indications. None has clinical trial or literature support in the compiled data, and all remain at L5 with a Hold recommendation.
+
+| Rank | Predicted Indication | TxGNN Score | Comment |
+|------|------|------|------|
+| 2 | Smouldering systemic mastocytosis | 79.18% | No clear mechanistic rationale |
+| 3 | Lymphoadenopathic mastocytosis with eosinophilia | 77.26% | Likely driven by proximity to other mastocytosis nodes in the knowledge graph |
+| 4 | Gastrin secretion abnormality | 76.71% | No plausible mechanism evident |
+| 5 | Systemic mastocytosis | 71.44% | Clusters with the other mastocytosis predictions, suggesting a shared graph signal |
+| 6 | Leishmaniasis, diffuse cutaneous | 66.16% | Most coherent rationale (antiparasitic link, preclinical leishmania work), but unverified |
+| 7 | Abnormality of glucagon secretion | 61.77% | Speculative link to alpha-cell and glucagon signalling |
+| 8 | Pyogenic arthritis-pyoderma gangrenosum-acne syndrome | 59.66% | Autoinflammatory disorder; anti-inflammatory activity relevant only in principle |
+| 9 | Wiskott-Aldrich syndrome 2 | 59.41% | Unlikely to be addressed by a small-molecule antimalarial |
+| 10 | Alacrima, achalasia, and intellectual disability syndrome | 59.33% | Appears to be a graph-based artifact |
+
+Among these, cutaneous leishmaniasis has the most biologically coherent rationale and may merit a targeted literature review first.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Artesunate in acne.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Artesunate in acne.
+Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005550 (cancelled) | Artesunate Amivas | Not specified | Artesunate Amivas is indicated for the initial treatment of severe malaria in adults and children. Consideration should be given to official guidance on the appropriate use of... |
 
-Artesunate is not currently registered or marketed in Taiwan. No marketing authorizations are on file (0 licenses). WHO prequalified injectable artesunate formulations exist internationally for severe malaria, but no TFDA approval has been recorded in this dataset.
+## Cytotoxicity
 
----
+Artesunate is an antimalarial, not an antineoplastic drug, so this section does not apply.
 
 ## Safety Considerations
 
-TFDA labelling data (warnings and contraindications) was not available at the time of this assessment. Drug interaction data returned no results from the DDI database query.
+- **Drug Interactions**: The data compiled for this report list 74 interacting drugs. The first 20 returned include one Major interaction and 19 Moderate interactions.
+  - **Major**: Eluxadoline
+  - **Moderate (examples)**: Eliglustat, Rolapitant, Cobicistat, Eltrombopag, Fostamatinib, Alpelisib, Valsartan, Apalutamide, Atazanavir, Axitinib, Carbamazepine, Diclofenac, Crizotinib
 
-Please refer to the WHO/manufacturer's product information for complete safety information, including known risks such as post-treatment haemolysis in non-immune patients receiving IV artesunate for severe malaria.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests entirely on TxGNN's mechanistic inference with no supporting clinical trials or literature (L5), and the mechanistic link between artesunate's NF-κB inhibition and acne pathophysiology, while plausible, requires in vitro proof-of-concept before any further development commitment is justified.
+The prediction for acne is supported only by a model score of 79.21%, with no clinical trials or publications (Evidence Level L5). The only EU authorization is cancelled, and warning and contraindication data are missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- **In vitro proof-of-concept**: Test artesunate against *C. acnes*-stimulated sebocyte cell lines (e.g., SZ95 cells) measuring IL-1β, IL-6, and NF-κB reporter activity
-- **Literature re-sweep**: Confirm no relevant publications were missed — search PubMed for `"artesunate" AND ("acne" OR "sebocyte" OR "Propionibacterium" OR "Cutibacterium")`
-- **Prioritise competing indications**: The leishmaniasis (rank 6) and mastocytosis cluster (ranks 2, 3, 5) predictions carry stronger mechanistic rationale and may represent higher-value research questions; consider whether acne is the optimal lead indication for this molecule
-- **TFDA SmPC retrieval**: Obtain full prescribing information to complete safety profiling and identify contraindicated populations
-- **DrugBank MOA data**: Retrieve complete pharmacology record (DB09274) to formalise the mechanistic link assessment
+- Safety information (warnings and contraindications) from the EMA product information, which blocks safety screening
+- Mechanism of action data for artesunate (for example from DrugBank)
+- A targeted literature review of artemisinin derivatives in acne and inflammatory skin disease, and of cutaneous leishmaniasis as the most plausible alternative
+- Assessment of route compatibility, as a topical or oral route for a skin indication has not been evaluated
+- Preclinical or early clinical evidence to move beyond L5
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

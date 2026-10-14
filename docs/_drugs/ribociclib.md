@@ -2,7 +2,7 @@
 layout: default
 title: Ribociclib
 parent: Medium Evidence (L3-L4)
-nav_order: 503
+nav_order: 521
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ribociclib: From HR+/HER2- Advanced Breast Cancer to Myeloid Leukemia
+# Ribociclib: From HR+/HER2- Breast Cancer to Myeloid Leukemia
 
 ## One-Sentence Summary
 
-> Ribociclib is a selective CDK4/6 inhibitor originally developed and approved for HR+/HER2-negative advanced breast cancer.
-> The TxGNN model's top-ranked new-indication signal is **Myeloid Leukemia** (score **99.35%**),
-> but this is currently supported only by **0 clinical trials** and **2 relevant publications** (1 preclinical, 1 case report), with the case report pointing toward drug-related AML risk rather than therapeutic benefit — the evidence direction is ambiguous.
+Ribociclib is an oral CDK4/6 inhibitor originally used to treat hormone receptor-positive, HER2-negative early and advanced breast cancer.
+The TxGNN model predicts it may be effective for **myeloid leukemia**, but there are currently **0 clinical trials** and only **1 relevant preclinical publication** supporting this direction.
 
 ---
 
@@ -43,23 +42,23 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | HR+/HER2-negative Advanced Breast Cancer *(not present in `taiwan_regulatory.licenses`, which is empty; identified from context within the evidence pack — rank #7 entry explicitly flags this as ribociclib's already-approved indication, supported by the MONALEESA-2/-3/-7 registrational Phase 3 RCTs)* |
-| Predicted New Indication | Myeloid Leukemia |
+| Original Indication | HR-positive, HER2-negative early breast cancer (adjuvant) and locally advanced or metastatic breast cancer |
+| Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 99.35% |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed (Not Marketed) — as recorded in this evidence pack; see caveat under "EU Market Information" |
-| Number of Authorizations | 0 |
+| EU Market Status | ✗ Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data is marked as a Data Gap in this evidence pack. However, across the collected trial and literature evidence, ribociclib is consistently described as a selective **CDK4/6 (cyclin-dependent kinase 4/6) inhibitor** that blocks the G1→S cell-cycle transition by preventing retinoblastoma (Rb) protein phosphorylation. Its original and only well-established indication, confirmed by the MONALEESA-2/-3/-7 Phase 3 trials found elsewhere in this evidence pack, is HR+/HER2-negative advanced/early breast cancer, in combination with endocrine therapy.
+Detailed mechanism of action data is not available in the data compiled for this report. Ribociclib is known as a selective CDK4/6 inhibitor. In breast cancer, this class of drug blocks cell-cycle progression from G1 to S phase, which suppresses the proliferation of tumour cells that depend on the cyclin D–CDK4/6 pathway. Its efficacy in HR+/HER2- breast cancer is well established.
 
-The mechanistic rationale for extending CDK4/6 inhibition to acute myeloid leukemia (AML) is that AML cells also depend on cell-cycle progression, and one in vitro study (PMID 32560251) explored combining CDK4/6 inhibitors with anthracyclines to overcome ABCB1/ABCG2-mediated drug resistance in AML cell lines — a plausible but purely preclinical rationale.
+Breast cancer and myeloid leukemia are different diseases, but both involve uncontrolled cell proliferation. CDK4/6 inhibition could plausibly suppress the proliferation of myeloid blasts. One preclinical study reports that CDK4/6 inhibitors can target pharmacokinetic drug resistance in acute myeloid leukemia (AML) cells. This mechanistic link is only indirect and has been shown in laboratory models, not in patients.
 
-However, the evidence is directionally conflicted: the second relevant publication (PMID 30575100) is a case report describing AML that **developed after** CDK4/6 inhibitor treatment, attributed to underlying clonal hematopoiesis of indeterminate potential (CHIP) — i.e., a possible treatment-related adverse event/secondary malignancy signal, not a therapeutic effect. No clinical trial has tested ribociclib as AML treatment. This prediction should be treated as a mechanistic hypothesis requiring preclinical validation, not a repurposing candidate ready for clinical consideration.
+The prediction score is high, but it is a model output and not clinical proof. No clinical trial has tested ribociclib in myeloid leukemia.
 
 ---
 
@@ -73,38 +72,38 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32560251](https://pubmed.ncbi.nlm.nih.gov/32560251/) | 2020 | Preclinical/Mechanistic | Cancers | In vitro study combining CDK4/6 inhibitors with anthracyclines to overcome ABCB1/ABCG2-mediated pharmacokinetic drug resistance in AML cells; supports a mechanistic rationale but provides no in vivo or clinical efficacy data |
-| [30575100](https://pubmed.ncbi.nlm.nih.gov/30575100/) | 2019 | Case Report (adverse event) | American Journal of Hematology | AML with eosinophilia emerged **after** CDK4/6 inhibitor treatment, attributed to underlying clonal hematopoiesis (CHIP) — signals a possible treatment-related AML risk rather than therapeutic benefit |
+| [32560251](https://pubmed.ncbi.nlm.nih.gov/32560251/) | 2020 | Preclinical (in vitro) | Cancers | CDK4/6 inhibitors may counter drug resistance in AML cells. Resistance is linked to ABCB1/ABCG2 transporter overexpression and to anthracycline metabolism by carbonyl reducing enzymes. |
 
-*Note: One additional literature hit returned by the automated search (PMID 41641105, a case report on vulvar/breast adenocarcinoma) was excluded as clearly unrelated to AML, per its own classification tag in the evidence pack ("不相關病例").*
+A second publication returned for this prediction is a case report of vulvar adenocarcinoma. It is unrelated to myeloid leukemia and is not counted as evidence.
 
 ---
 
 ## EU Market Information
 
-No marketing authorization records are present in `taiwan_regulatory.licenses` (0 entries). The evidence pack records `market_status = Not marketed (Not Marketed)`.
-
-**Data quality caveat:** Ribociclib (Kisqali®) is a well-known EMA-approved medicine for HR+/HER2- advanced breast cancer; a "Not Marketed / 0 licenses" status is inconsistent with this and likely reflects incomplete regulatory data extraction in this pack rather than an actual lack of EU authorization. This should be corrected before the report is used for regulatory or market-status decisions.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004213 (cancelled) | Kisqali | Not specified | Early breast cancerKisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of pa... |
 
 ---
 
 ## Cytotoxicity
 
-Ribociclib is an antineoplastic agent (approved for breast cancer; drug class confirmed as CDK4/6 inhibitor throughout the collected trial/literature evidence), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (selective CDK4/6 inhibitor; not a conventional cytotoxic chemotherapy agent) |
-| Myelosuppression Risk | High — literature within this evidence pack (e.g., meta-analyses/pharmacovigilance studies on CDK4/6 inhibitors) consistently reports neutropenia and thrombocytopenia as common, dose-limiting toxicities |
-| Emetogenicity Classification | Not directly reported in this evidence pack — please refer to the SmPC |
-| Monitoring Items | CBC with differential (neutropenia/thrombocytopenia); liver function tests (transaminase elevation reported); ECG/QTc monitoring (QT prolongation and cardiac arrhythmia signals reported in the collected literature) |
-| Handling Protection | Not specified in this evidence pack (see Data Gap DG001); follow institutional hazardous/antineoplastic drug handling protocols pending confirmation from the TFDA/SmPC label |
+| Cytotoxicity Classification | Targeted therapy (CDK4/6 inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Medium to high. Neutropenia, leukopenia, anaemia and thrombocytopenia are widely reported for CDK4/6 inhibitors, including ribociclib. |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | CBC with differential, liver function, ECG (QT interval) and electrolytes |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
+
+Myelosuppression is a particular concern in leukemia. The bone marrow is already compromised in this disease, and the drug's own haematological toxicity could worsen cytopenias.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (`safety.key_warnings`, `safety.contraindications`, and `safety.ddi` are all marked as Data Gap / not found in this evidence pack — this is flagged as a **Blocking** gap, DG001, preventing entry into the S1 safety initial-evaluation stage.)
+- **Drug Interactions**: 100 interactions were identified. The two rated Major are **clarithromycin** and **dolasetron**. Most others are rated Moderate, including famotidine, cimetidine, metformin, pioglitazone, saxagliptin, aprepitant, alosetron, loperamide, several corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), and bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol). Ribociclib's CYP3A4-related interactions and QT-prolonging potential should be reviewed carefully in any new setting, especially where supportive medicines such as antiemetics or antibiotics are common, as in leukemia care.
+- For label warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -113,14 +112,15 @@ Please refer to the SmPC for safety information. (`safety.key_warnings`, `safety
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predicted indication (Myeloid Leukemia) has no clinical trial support and only 2 relevant publications, one of which suggests CDK4/6 inhibitor treatment may **cause** rather than treat AML — the evidence direction is unresolved (Evidence Level L4).
-- Mandatory safety data (TFDA/SmPC warnings and contraindications, DG001) is missing and blocks progression to the S1 safety review stage regardless of indication.
+The prediction rests on a single in vitro study and a plausible but indirect mechanism, with no clinical trials in myeloid leukemia. Ribociclib's marked myelosuppression is a further concern in a bone-marrow malignancy. Its only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Resolve the Blocking data gap (DG001): obtain the SmPC/label warnings and contraindications
-- Resolve the MOA data gap (DG002) via DrugBank API to formally document the CDK4/6 mechanism
-- Preclinical (in vivo) validation of CDK4/6 inhibition in AML models to clarify whether the mechanistic signal is therapeutic or represents a treatment-related AML risk signal
-- Correct the EU market-status discrepancy in the regulatory dataset (0 licenses appears inconsistent with ribociclib's known EMA approval)
+- In vivo or ex vivo studies of ribociclib in myeloid leukemia models, including combination with standard AML therapy
+- Detailed mechanism of action data and a clear rationale for the myeloid setting
+- A safety assessment of myelosuppression, QT prolongation and CYP3A4 interactions in leukemia patients
+- Clarification of the current EU regulatory status of ribociclib and review of the SmPC warnings and contraindications
+
+**Note:** Among the other model predictions, "female breast carcinoma" matches the drug's existing approved use and is supported by multiple Phase 3 RCTs (for example MONALEESA-2, -3, -7 and NATALEE). It is on-label use, not new repurposing. Several thrombocytopenia-related predictions appear to reflect a known adverse effect of ribociclib rather than a therapeutic target.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

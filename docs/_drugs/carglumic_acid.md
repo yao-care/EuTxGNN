@@ -2,7 +2,7 @@
 layout: default
 title: Carglumic Acid
 parent: AI Predictions (L5)
-nav_order: 128
+nav_order: 130
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Carglumic Acid: From N-acetylglutamate Synthase Deficiency to Cystic Teratoma
+# Carglumic Acid: From Hyperammonaemia (NAGS Deficiency and Organic Acidaemias) to Cystic Teratoma
 
 ## One-Sentence Summary
 
-Carglumic acid (brand name: Carbaglu) is a synthetic analogue of N-acetylglutamate (NAG), originally approved for the treatment of hyperammonemia caused by N-acetylglutamate synthase (NAGS) deficiency — an ultra-rare urea cycle disorder.
-The TxGNN model predicts it may be effective for **Cystic Teratoma**, with **0 clinical trials** and **0 publications** currently supporting this direction, making this an AI-prediction-only finding with no supporting evidence.
-
----
+Carglumic acid was originally used to treat hyperammonaemia caused by primary N-acetylglutamate synthase (NAGS) deficiency and by certain organic acidaemias (isovaleric, methylmalonic and propionic).
+The TxGNN model predicts it may be effective for **cystic teratoma**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hyperammonemia due to N-acetylglutamate synthase (NAGS) deficiency |
-| Predicted New Indication | Cystic Teratoma |
+|------|------|
+| Original Indication | Hyperammonaemia due to primary N-acetylglutamate synthase deficiency, isovaleric acidaemia, methylmalonic acidaemia and propionic acidaemia |
+| Predicted New Indication | Cystic teratoma |
 | TxGNN Prediction Score | 86.61% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacological knowledge, Carglumic acid acts as a synthetic structural analogue of N-acetylglutamate (NAG) — the essential allosteric activator of carbamoyl phosphate synthetase 1 (CPS1), which catalyzes the first committed step of the urea cycle. By mimicking NAG and activating CPS1, Carglumic acid restores ammonia detoxification capacity in patients whose NAGS enzyme is deficient or dysfunctional, thereby reducing toxic hyperammonemia.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Carglumic acid is known to be a synthetic analogue of N-acetylglutamate, which activates carbamoyl phosphate synthetase 1 (CPS1), the first enzyme of the urea cycle. Its efficacy in hyperammonaemia is established, which is the basis of its original indications.
 
-Cystic teratoma is a benign germ cell tumor arising from aberrant differentiation of embryonic remnant cells. Its underlying pathogenesis involves ectopic embryonic tissue rather than metabolic dysregulation of the urea cycle, and there is no established biological connection between CPS1 activation, ammonia clearance, and teratoma formation or progression.
+No plausible mechanistic connection to cystic teratoma, a germ cell neoplasm, was identified. Hyperammonaemia and urea cycle activation are unrelated to the pathology of this tumour. The score of 0.866 is a graph-based prediction only, with no clinical or literature support. It most likely reflects proximity in the knowledge graph rather than biological rationale.
 
-The TxGNN prediction for this pairing most likely reflects graph topology similarity within the biomedical knowledge graph — for example, shared nodes in metabolic disease clusters or rare-disease linkages — rather than any genuine mechanistic rationale. The Evidence Pack's repurposing rationale explicitly identifies this as a probable artifact of graph structure rather than a biologically meaningful signal. No supporting clinical, preclinical, or mechanistic evidence exists for this pairing.
-
----
+The other top-ranked predictions are not actionable either. They fall into two groups, and none has trials or literature:
+- **Teratoma and cyst-like lesions:** spinal cord dermoid cyst and dermoid cyst of ovary.
+- **Eye and orbit conditions:** orbital adnexa and orbital region diseases, eye disease, open-angle glaucoma, primary hereditary glaucoma, recurrent idiopathic neuroretinitis and optic perineuritis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Carglumic acid is currently **not marketed in Taiwan** (Not marketed). No marketing authorizations are on record. This drug is approved in the EU (as Carbaglu, Recordati Rare Diseases) and the US (FDA orphan drug designation) for NAGS deficiency, but has not received TFDA authorization.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004019 | Ucedane (cancelled) | Not specified | Hyperammonaemia due to N-acetylglutamate synthase primary deficiency, isovaleric acidaemia, methylmalonic acidaemia and propionic acidaemia |
+| EMEA/H/C/000461 | Carbaglu (cancelled) | Not specified | Hyperammonaemia due to N-acetylglutamate-synthase primary deficiency, isovaleric acidaemia, methylmalonic acidaemia and propionic acidaemia |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
----
+Please refer to the SmPC for safety information. No drug interactions were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications for Carglumic acid carry L5 evidence (AI model prediction only; zero clinical trials, zero literature), and none of the predicted indications — ranging from benign developmental cysts (cystic teratoma, dermoid cysts) to orbital diseases and glaucoma — share a coherent biological pathway with the drug's known urea cycle/CPS1-activation mechanism. The mechanistic disconnect is severe enough that proceeding to any formal evaluation would not be scientifically justified at this stage.
+The prediction is supported only by the TxGNN score. There are no clinical trials or publications, and no biologically plausible link between urea cycle activation and cystic teratoma. Both EU authorizations are also cancelled.
 
 **To proceed, the following is needed:**
-- Formal MOA documentation from DrugBank or published literature to enable proper mechanism-to-indication matching
-- Preclinical hypothesis generation: identification of any disease on this list where ammonia metabolism or the CPS1/NAG axis plays a documented pathophysiological role
-- If prioritization is needed, the open-angle glaucoma prediction (Rank 7) warrants a dedicated literature review — glutamate excitotoxicity in retinal ganglion cells involves the glutamate/glutamine/ammonia axis, which is the most theoretically adjacent mechanistic pathway in this batch, though it remains speculative with no supporting data
-- TFDA SmPC or equivalent safety documentation to complete the DG001 blocking data gap before any regulatory pathway analysis
-- Consideration of whether the TxGNN model's graph topology (rather than biochemical similarity) is driving these predictions, which may warrant re-ranking candidates using mechanism-filtered scoring
+- Mechanism of action data (for example from DrugBank) to allow a proper mechanistic analysis
+- Warnings and contraindications from the product information (SmPC) to complete safety screening
+- Preclinical or mechanistic evidence linking carglumic acid to teratoma biology
+- Clarification of the reasons for the cancelled EU authorizations and of the current availability of the drug
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

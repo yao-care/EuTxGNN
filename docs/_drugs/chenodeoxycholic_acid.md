@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Chenodeoxycholic Acid
-parent: AI Predictions (L5)
-nav_order: 143
-evidence_level: L5
+parent: Medium Evidence (L3-L4)
+nav_order: 145
+evidence_level: L4
 indication_count: 10
 ---
 
 # Chenodeoxycholic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Chenodeoxycholic acid (CDCA) is a primary bile acid and the most potent endogenous agonist of the Farnesoid X Receptor (FXR), clinically used as the standard bile acid replacement therapy for Cerebrotendinous Xanthomatosis (CTX), a rare inherited disorder of bile acid synthesis.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
-with **0 clinical trials** and **1 publication** (addressing a related but distinct condition) currently supporting this direction — yielding the lowest possible evidence classification.
+Chenodeoxycholic acid (CDCA) is a bile acid originally authorised in the EU to treat inborn errors of primary bile acid synthesis caused by sterol 27-hydroxylase deficiency (cerebrotendinous xanthomatosis, CTX).
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**, but there are **no registered clinical trials** and only **1 publication** (a CTX review, not a study in this disease) linked to this prediction.
+The prediction rests mainly on model-based network proximity and should be treated as a hypothesis.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Cerebrotendinous Xanthomatosis (CTX) — bile acid replacement therapy |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+|------|------|
+| Original Indication | Inborn errors of primary bile acid synthesis due to sterol 27-hydroxylase deficiency (CTX), ages 1 month to 18 years and adults |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.57% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Chenodeoxycholic acid (CDCA) is the most potent endogenous ligand for FXR (Farnesoid X Receptor), a nuclear receptor that orchestrates bile acid homeostasis, lipid metabolism, and inflammatory signaling. As an FXR agonist, CDCA suppresses PCSK9 transcription, which theoretically enhances LDL receptor recycling back to the hepatocyte surface — a mechanism that could, in principle, reduce circulating LDL cholesterol. The TxGNN model likely identified network-level metabolic similarity between bile acid metabolism disorders and severe lipid dysregulation, leading to the HoFH prediction.
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, CDCA is an endogenous bile acid and a potent agonist of the farnesoid X receptor (FXR). Through FXR it suppresses hepatic bile acid and cholesterol synthesis by negative feedback on enzymes such as CYP7A1 and CYP8B1. In CTX, this reduces the accumulation of cholestanol and other cholesterol-derived metabolites.
 
-The phenotypic overlap between CTX (CDCA's established indication) and HoFH is also superficially plausible: both conditions involve lipid accumulation, xanthoma formation, and accelerated cardiovascular disease. In CTX, CYP27A1 mutations impair bile acid synthesis, leading to cholestanol buildup; CDCA replaces the deficient primary bile acid and restores normal FXR signaling. This lipid-regulatory background gives the model a biologically coherent — if indirect — rationale for the HoFH prediction.
+CTX and homozygous familial hypercholesterolemia are both inherited disorders of lipid/sterol metabolism, which gives a conceptual link. However, the link is indirect. CDCA is not an established lipid-lowering therapy, and it can raise LDL cholesterol in some settings, such as gallstone dissolution. The only linked publication is a CTX review, not a study in familial hypercholesterolemia.
 
-However, the mechanistic case has a fundamental limitation that materially weakens clinical translatability. HoFH is defined by the near-complete loss of functional LDL receptor (LDLR) protein, typically due to homozygous or compound-heterozygous LDLR mutations. FXR-mediated PCSK9 suppression can only augment LDL clearance when functional receptors are present. With severely reduced or absent LDLR, CDCA's lipid-lowering pathway contributes negligibly to LDL-C reduction — the primary therapeutic target in HoFH. The sole retrieved publication (PMID 25424010) is a CTX management review and was captured only because of shared cholesterol-related terminology; it provides no direct mechanistic or clinical evidence for CDCA in HoFH.
+The high model score is likely driven by shared lipid/sterol metabolism network proximity rather than direct evidence. The prediction should be regarded as hypothesis-generating only.
 
 ---
 
@@ -72,18 +72,32 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [25424010](https://pubmed.ncbi.nlm.nih.gov/25424010/) | 2014 | Review | *Orphanet Journal of Rare Diseases* | Comprehensive review of Cerebrotendinous Xanthomatosis (CTX) — a CYP27A1 mutation disorder causing cholestanol accumulation; describes CDCA bile acid replacement as primary treatment, not HoFH |
+|------|-----|------|------|---------|
+| [25424010](https://pubmed.ncbi.nlm.nih.gov/25424010/) | 2014 | Review | Orphanet J Rare Dis | Comprehensive review of CTX: a CYP27A1 (sterol 27-hydroxylase) mutation reduces bile acid synthesis and causes cholestanol accumulation in tissues. It addresses CTX, not familial hypercholesterolemia. |
 
-> **Important caveat:** This publication addresses CTX, not HoFH. Both conditions involve xanthomas and lipid dysregulation, but the underlying pathophysiology and treatment targets are entirely different. This paper does **not** constitute evidence supporting CDCA use in HoFH.
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004061 (cancelled) | Chenodeoxycholic acid Leadiant (previously Chenodeoxycholic acid sigma-tau) | Not specified | Inborn errors of primary bile acid synthesis due to sterol 27 hydroxylase deficiency (presenting as cerebrotendinous xanthomatosis (CTX)) in infants, ch... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations of concern (knowledge graph, not label text)**: The drug-disease contraindication links in the TxGNN knowledge graph include liver disease, gallbladder disease, diarrheal disease, cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, sclerosing cholangitis, primary biliary cholangitis and Reynolds syndrome. These come from the knowledge graph rather than a product label and need confirmation against the SmPC.
+- **Drug Interactions**: 56 interactions were identified, and all 20 listed in the data compiled for this report are rated Moderate. Main ones:
+  - Bile acid sequestrants: cholestyramine, colestipol, colesevelam
+  - Aluminium hydroxide
+  - Estrogens: ethinylestradiol, estradiol, conjugated estrogens
+  - Lipid-lowering agents: gemfibrozil, fenofibrate, clofibrate, ezetimibe
+  - Asparaginase products (*E. coli*, *Erwinia chrysanthemi*, calaspargase pegol)
+  - Others: brentuximab vedotin, cannabidiol, anisindione, bedaquiline, clofarabine
+- Higher doses of CDCA carry a hepatotoxicity risk, and CDCA may raise LDL cholesterol. Both are relevant to a lipid-disorder indication.
 
-> Detailed safety data (warnings, contraindications, drug interactions) were not available in this Evidence Pack. Known clinical concerns for CDCA class include hepatotoxicity (dose-dependent), diarrhea at high doses, and potential teratogenicity — formal characterization from the SmPC is required before any indication expansion planning.
+Please refer to the SmPC for the full safety information.
 
 ---
 
@@ -92,17 +106,23 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The FXR/PCSK9 mechanistic pathway CDCA activates is fundamentally receptor-dependent, and HoFH's defining pathology is absent or severely dysfunctional LDLR — rendering CDCA's primary lipid-lowering mechanism unable to address the root cause. No clinical trials or HoFH-specific literature support this use, placing the prediction at L5 (AI model signal only).
+The prediction has no clinical trials and no disease-specific literature. The mechanistic link is only indirect, and CDCA can raise LDL cholesterol, which runs against the proposed use. The only EU authorisation has been cancelled.
 
-**Additional context — higher-priority candidate within this Evidence Pack:**
-The rank 7 prediction, **Diabetic Nephropathy**, carries a substantially stronger mechanistic and evidentiary basis (L4; 12 publications including animal RCT-equivalent studies, a metabolomics cohort, and FXR agonism data directly relevant to CDCA). If exploratory investment in CDCA is being considered, diabetic nephropathy represents a more scientifically grounded near-term research question than HoFH.
+**To proceed, the following is needed:**
+- Mechanistic data (MOA) and an analysis of how FXR-mediated effects would affect LDL-C in familial hypercholesterolemia
+- Preclinical or early clinical studies of CDCA in lipid disorders
+- Current EU label warnings and contraindications (the cancelled SmPC) for a full safety assessment
+- A hepatotoxicity risk assessment and a plan for managing the interactions with lipid-lowering drugs and bile acid sequestrants
 
-**To advance HoFH beyond Hold, the following would be needed:**
-- Mechanistic studies demonstrating CDCA efficacy via LDLR-independent pathways (e.g., LXR axis, intestinal cholesterol absorption, or VLDL metabolism) in HoFH-relevant models
-- Proof-of-concept data in LDLR-knockout animal models specifically
-- Pharmacokinetic and dosing characterization for cardiovascular (rather than biliary) indications
-- Complete safety profile from SmPC: warnings, contraindications, drug interactions
-- MOA documentation from DrugBank (currently a data gap blocking full mechanistic analysis)
+---
+
+### Other Predicted Indications (for reference)
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|---|---|---|---|---|
+| 7 | Diabetic nephropathy | 98.76% | L4 | The most plausible alternative. Preclinical FXR-loss data and bile acid profiling studies exist, but none involve CDCA treatment. Best framed as a preclinical research question. |
+| 4 | Familial combined hyperlipidemia (obsolete term) | 99.34% | L5 | Plausible but unsupported; the disease term is obsolete. |
+| 2, 3, 5, 6, 8, 9, 10 | COL4A1-related disorders, hyperuricemia (obsolete term), renal hypouricemia, HPRT deficiency, hypoparathyroidism, Lesch-Nyhan syndrome | 97.5–99.4% | L5 | No identified mechanistic link; likely network artifacts. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Insulin Glargine
 parent: AI Predictions (L5)
-nav_order: 316
+nav_order: 327
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,77 +33,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Insulin glargine is a long-acting basal insulin analog, internationally established for the management of Type 1 and Type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **Autoimmune Oophoritis**, with **0 clinical trials** and **0 publications** currently supporting this direction.
-At this stage, the prediction rests entirely on AI model inference from the underlying biomedical knowledge graph, with no independent clinical evidence to corroborate it.
-
----
+Insulin glargine is a long-acting insulin analogue, originally used to treat diabetes mellitus in adults, adolescents and children.
+The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but **no clinical trials and no publications** currently support this prediction.
+It is a graph-based prediction only, and the apparent link is probably explained by the shared association between autoimmune conditions and type 1 diabetes, not by a therapeutic effect.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Diabetes Mellitus (Type 1 and Type 2) |
-| Predicted New Indication | Autoimmune Oophoritis |
+|------|------|
+| Original Indication | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above |
+| Predicted New Indication | Autoimmune oophoritis |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed (0 authorizations) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, insulin glargine is a recombinant long-acting insulin analog that differs from human insulin by two amino acid substitutions (Arg-Arg at B-chain C-terminus) and replacement of Asn with Gly at A21. These modifications shift its isoelectric point, causing micro-precipitation at the subcutaneous injection site and enabling a slow, peakless release that approximates physiological basal insulin secretion.
+Currently, detailed mechanism of action data is not available. Based on known information, insulin glargine is a long-acting basal insulin analogue, its efficacy in diabetes mellitus is established, and it acts as metabolic replacement therapy by lowering blood glucose.
 
-Ovarian cells express functional insulin receptors, and insulin signaling — via the IR/IRS-1/PI3K/Akt axis — plays a recognized role in follicular development, oocyte maturation, and gonadal steroidogenesis. This biological overlap between insulin's metabolic targets and ovarian physiology provides the conceptual bridge that the TxGNN model is likely exploiting.
+For autoimmune oophoritis, no direct mechanistic link has been established. The high score is most likely a network association. Autoimmune oophoritis is often part of polyglandular autoimmune syndromes that include type 1 diabetes, so the two conditions sit close together in the knowledge graph. Insulin glargine has no known effect on ovarian autoimmunity.
 
-However, the core pathology of autoimmune oophoritis is immune-mediated destruction of ovarian tissue, driven by autoantibodies (notably anti-steroidogenic cell antibodies) and dysregulated T-cell responses — a mechanism entirely outside insulin glargine's established pharmacological footprint. Insulin glargine has no known immunomodulatory targets. The high TxGNN score most plausibly reflects the broad connectivity of insulin-related metabolic nodes within the knowledge graph, rather than a direct pathophysiologically relevant pathway. This prediction should be interpreted with considerable caution.
-
----
+Other top-ranked predictions follow a similar pattern. Several (thiamine-responsive dysfunction syndrome, classic stiff person syndrome, focal stiff limb syndrome, pancreatic agenesis) are linked through co-existing diabetes. In these cases insulin would treat the diabetic component, not the underlying disease. Drug-induced localized lipodystrophy reflects a known adverse effect of insulin injections, not a benefit, and should be read as a safety signal.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for autoimmune oophoritis.
 
----
+For reference, the only literature retrieved among the top ten predictions relates to a lower-ranked prediction, pancreatic agenesis (rank 6), and is indirect:
 
-## Taiwan Market Information
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [12150359](https://pubmed.ncbi.nlm.nih.gov/12150359/) | 2002 | Review | J Am Pharm Assoc | Review of insulin therapy in type 2 diabetes and how to start it |
+| [19322513](https://pubmed.ncbi.nlm.nih.gov/19322513/) | 2009 | Review | Acta Diabetol | Secondary diabetes associated with endocrine disorders and the effect of new treatments |
+| [32871938](https://pubmed.ncbi.nlm.nih.gov/32871938/) | 2020 | Case report | Medicine | MODY5 case treated with a GLP-1 receptor agonist |
+| [25818213](https://pubmed.ncbi.nlm.nih.gov/25818213/) | 2015 | Cohort (veterinary) | J Vet Intern Med | Pancreatic enzymes and ultrasound findings in diabetic cats |
 
-Insulin glargine currently holds no Taiwan Food and Drug Administration (TFDA) marketing authorization. No registered products, approved indications, or dosage form data were found in the Taiwan regulatory database at the time of data collection (2026-04-20).
+None of these studies tests insulin glargine in pancreatic agenesis or in autoimmune oophoritis.
 
-> **Note:** This finding may reflect a data collection gap rather than a true absence from the Taiwan market. Insulin glargine (e.g., Lantus®, Toujeo®) is approved in numerous major jurisdictions globally. TFDA SmPC verification is recommended before drawing regulatory conclusions.
+## EU Market Information
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002835 | Abasaglar (previously Abasria) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above. |
+| EMEA/H/C/004280 | Semglee | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above. |
+| EMEA/H/C/000284 | Lantus | Not specified | Treatment of diabetes mellitus in adults, adolescents and children aged two years and above |
+| EMEA/H/C/000309 | Toujeo (previously Optisulin) | Not specified | Treatment of diabetes mellitus in adults, adolescents and children from the age of 6 years. |
+
+All four authorizations are listed as cancelled.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were found in the interaction screening. The main ones shown are mostly Moderate severity:
+  - Other glucose-lowering drugs (metformin, pioglitazone, alogliptin, albiglutide), which may add to the glucose-lowering effect
+  - Sympathomimetics and beta-agonists (epinephrine, phenylephrine, pseudoephedrine, salbutamol, formoterol), which may blunt glucose control
+  - Corticosteroids (hydrocortisone), estrogens (estradiol, ethinylestradiol), hydrochlorothiazide, acetazolamide, doxycycline, alcohol, acebutolol and alpelisib
+  - Topical corticosteroids (hydrocortisone, alclometasone) are rated Minor
+- **Injection-site effects**: Insulin injections are a known cause of localized lipohypertrophy and lipoatrophy. This is relevant to the lipodystrophy predictions.
 
-> Safety data (key warnings, contraindications, drug-drug interactions) were not available in this Evidence Pack. Retrieval from the TFDA official website or equivalent regulatory source is listed as a **Blocking** data gap requiring resolution before any safety evaluation can proceed.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a very high TxGNN prediction score (99.88%), the mechanistic link between insulin glargine and autoimmune oophoritis is tenuous — the disease is driven by autoimmune tissue destruction, a process that insulin has no established ability to modulate. With zero supporting clinical trials or publications, this prediction does not currently meet the minimum evidence threshold for further investment.
+The prediction rests only on a model score, with no clinical trials or publications and no plausible direct mechanism. The market status is also cancelled for all current EU licenses. Insulin glargine would at most manage co-existing diabetes in these conditions.
 
 **To proceed, the following is needed:**
-
-- **Resolve Blocking data gap:** Obtain TFDA SmPC (or EMA/FDA equivalent) to complete safety screening (warnings, contraindications, interactions)
-- **Resolve MOA data gap:** Confirm insulin glargine's full pharmacological profile via DrugBank API to enable mechanistic linkage analysis
-- **Mechanistic validation:** Identify whether insulin receptor signaling in ovarian immune cells has any documented effect on autoimmune cascades (e.g., regulatory T-cell modulation, cytokine suppression)
-- **Broader prediction review:** Note that rank 6 prediction — **Pancreatic Agenesis** (score 99.43%, L4 evidence, 6 publications) — has a substantially more direct mechanistic rationale (absolute insulin deficiency requiring exogenous replacement) and may warrant prioritization over this rank-1 prediction for near-term follow-up
+- Mechanism of action data and a mechanistic rationale for ovarian autoimmunity
+- Warnings and contraindications from the SmPC
+- Literature or trial evidence in autoimmune oophoritis
+- Clarification of the cancelled EU market status and of available routes and formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Lapatinib
 parent: AI Predictions (L5)
-nav_order: 340
+nav_order: 351
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,84 +33,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Lapatinib (Tykerb/Tyverb) is a dual tyrosine kinase inhibitor targeting EGFR and HER2, originally approved for the treatment of HER2-positive metastatic breast cancer in combination with other agents.
-The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**, with a prediction confidence of **99.30%** — however, **no clinical trials or supporting literature** currently exist for this combination, and the mechanistic rationale is limited.
-
----
+Lapatinib is an oral EGFR/HER2 tyrosine kinase inhibitor, originally used to treat HER2-overexpressing breast cancer.
+The TxGNN model predicts it may be effective for **dermatofibrosarcoma protuberans (DFSP)**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive metastatic breast cancer (not registered in Taiwan) |
-| Predicted New Indication | Dermatofibrosarcoma Protuberans (DFSP) |
+| Original Indication | Breast cancer with HER2 (ErbB2) overexpression, used in combination with capecitabine, trastuzumab, or an aromatase inhibitor in advanced or metastatic disease |
+| Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 99.30% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on established pharmacology, Lapatinib is a small-molecule inhibitor that reversibly binds the ATP-binding pocket of both EGFR (HER1/ErbB1) and HER2 (ErbB2) tyrosine kinases. This dual blockade suppresses downstream PI3K/AKT and RAS/MAPK signaling cascades — pathways that are critical for proliferation and survival in HER2-amplified tumors. Its oral bioavailability and CNS penetration distinguish it from antibody-based HER2 therapies such as trastuzumab.
+Currently, detailed mechanism of action data is not available. Based on known information, lapatinib is a dual EGFR/HER2 tyrosine kinase inhibitor, its efficacy in HER2-positive breast cancer has been demonstrated, and it may mechanistically be applicable to other tumours driven by receptor tyrosine kinase signalling.
 
-Dermatofibrosarcoma Protuberans (DFSP) is a rare dermal sarcoma characterized by the COL1A1-PDGFB gene fusion, which drives constitutive PDGFR (platelet-derived growth factor receptor) signaling. The established targeted therapy for advanced DFSP is Imatinib, a PDGFR inhibitor — not an EGFR/HER2 inhibitor. EGFR overexpression or HER2 amplification has not been documented as a key oncogenic mechanism in DFSP, making the mechanistic basis for Lapatinib in this setting comparatively weak.
-
-The TxGNN model's high confidence score (99.30%) most likely reflects network-level structural similarity within the receptor tyrosine kinase inhibitor drug class and overlapping graph topology, rather than a direct mechanistic match with the primary DFSP driver. Notably, among all 10 predicted indications reviewed, the most scientifically coherent signal is for *Plasmodium falciparum* malaria (Rank 8, L4 evidence), where in vitro studies directly demonstrate haemozoin inhibition — a mechanism with substantially stronger scientific support than the DFSP prediction.
-
----
+For DFSP, however, the mechanistic link is weak. DFSP is driven by the COL1A1-PDGFB fusion and PDGFR signalling, for which imatinib is the established therapy. Lapatinib has no established PDGFR activity. The high TxGNN score (99.30%) most likely reflects network similarity in the knowledge graph rather than a demonstrated biological rationale.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+For context, among the other predictions the only one with a literature signal is **Plasmodium falciparum malaria** (TxGNN score 98.02%, evidence level L4). Preclinical reports show lapatinib inhibits haemozoin formation in malaria parasites ([PMID 32235391](https://pubmed.ncbi.nlm.nih.gov/32235391/), 2020), and lapatinib-derived 4-anilinoquinolines have antiparasitic activity ([PMID 29301082](https://pubmed.ncbi.nlm.nih.gov/29301082/), 2018). All of this evidence is in vitro or medicinal chemistry, with no clinical trials. The second-ranked prediction, fibroblastic neoplasm, has only an indirect preclinical study on stroma-mediated lapatinib resistance in breast cancer ([PMID 34239043](https://pubmed.ncbi.nlm.nih.gov/34239043/), 2021).
 
 ## EU Market Information
 
-No marketing authorization records are present in the current evidence pack (market status: not marketed, 0 registered licenses). This may reflect a data gap rather than confirmed absence from the EU market, as Lapatinib is known internationally under the brand name Tyverb. Verification against the EMA product database is recommended.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000795 (cancelled) | Tyverb | Not specified | Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2): in combination with capecitabine for... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — Dual EGFR/HER2 tyrosine kinase inhibitor (TKI); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low to moderate (neutropenia and thrombocytopenia are reported but less frequent than with traditional chemotherapy) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (LFTs; hepatotoxicity risk), left ventricular ejection fraction (LVEF assessment prior to and during treatment), CBC with differential, QTc interval (cardiac monitoring), skin toxicity evaluation (rash, hand-foot syndrome) |
-| Handling Protection | Classified as a hazardous drug on the NIOSH list; standard cytotoxic-safe handling precautions are recommended per institutional pharmacy guidelines |
-
----
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Liver function, cardiac function (including QT interval), electrolytes (potassium), and respiratory symptoms, based on the knowledge-graph signals below |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals (knowledge graph, not label text)**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver failure, drug-induced liver injury, potassium deficiency disease, interstitial lung disease, heart failure.
+- **Drug Interactions**: 100 interactions were identified. Major interactions include **loperamide** and **clarithromycin**. Moderate interactions include acid-suppressing drugs (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole, dexlansoprazole), corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), aprepitant, pioglitazone, saxagliptin, and several laxatives or bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol).
 
----
+Label-based warnings and contraindications were not available for this report. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite the TxGNN model's high algorithmic confidence (99.30%), there is no clinical trial evidence and no supporting literature for Lapatinib in DFSP, and the primary oncogenic driver of DFSP — PDGFR activation via the COL1A1-PDGFB fusion — is mechanistically distinct from Lapatinib's EGFR/HER2 targets, leaving no established scientific basis for this repurposing direction at this time.
+The prediction for dermatofibrosarcoma protuberans is supported only by the model score, with no trials or literature. Its mechanistic link is weak because imatinib already targets the PDGFR-driven biology of DFSP. The product's EU authorization is also cancelled, and the knowledge-graph safety signals (QT prolongation, hepatotoxicity) and the large DDI burden add further caution.
 
 **To proceed, the following is needed:**
-- Evidence of EGFR or HER2 overexpression in DFSP tumor samples (IHC, FISH, or transcriptomic analysis) to establish a target-disease link
-- Preclinical sensitivity testing of Lapatinib in DFSP cell lines or patient-derived xenograft models
-- Full MOA data retrieval from DrugBank (data gap DG002) to strengthen mechanistic rationale analysis
-- TFDA SmPC retrieval and parsing (data gap DG001, blocking severity) to enable safety pre-screening
-- **Priority redirection**: Consider advancing the *Plasmodium falciparum* malaria signal (Rank 8, L4 evidence; 3 supporting publications including direct haemozoin inhibition data, PMID 32235391) as a higher-priority repurposing candidate for focused investigation
+- Mechanism of action data, and preclinical testing of lapatinib in DFSP models (for example, PDGFR/COL1A1-PDGFB-driven cell lines)
+- Label-based warnings and contraindications from the SmPC
+- A comparison against imatinib as the established standard therapy
+- Clarification of the regulatory and supply status, given the cancelled EU authorization
+- Optionally, the malaria direction could be pursued as a separate research question, starting with in vivo preclinical work
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

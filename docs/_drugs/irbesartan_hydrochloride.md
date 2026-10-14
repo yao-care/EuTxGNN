@@ -2,7 +2,7 @@
 layout: default
 title: Irbesartan Hydrochloride
 parent: AI Predictions (L5)
-nav_order: 324
+nav_order: 335
 evidence_level: L5
 indication_count: 0
 ---

@@ -33,31 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Abiraterone is a CYP17A1 inhibitor used for castration-resistant prostate cancer, suppressing androgen synthesis to deprive androgen-driven tumors of their growth signals. The TxGNN model predicts it may be effective for **Migraine Disorder** (score: 98.81%), but there are currently **no clinical trials** and **no direct publications** supporting this repurposing direction. Evidence is entirely model-derived, placing this candidate at the lowest evidence tier.
+Abiraterone is a hormone-pathway drug, used together with prednisone or prednisolone, originally indicated for metastatic prostate cancer.
+The TxGNN model predicts it may be effective for **migraine disorder**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prostate cancer (castration-resistant) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Newly diagnosed high-risk metastatic hormone-sensitive prostate cancer (mHSPC) with ADT; metastatic castration-resistant prostate cancer (mCRPC), before or after docetaxel chemotherapy |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 98.81% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 4 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Abiraterone irreversibly inhibits CYP17A1 (17α-hydroxylase/C17,20-lyase), a key enzyme in the steroidogenesis cascade. By blocking this step, abiraterone dramatically lowers circulating testosterone and DHEA levels — a mechanism specifically designed to starve androgen-sensitive prostate tumors of their primary growth driver.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Abiraterone is known to be an androgen-biosynthesis inhibitor (it blocks CYP17A1), and its efficacy in androgen-driven prostate cancer is established. It is always given with prednisone or prednisolone.
 
-Sex hormones, including androgens, have documented roles in migraine biology. Menstrual migraine is a well-characterized clinical entity, and fluctuations in sex hormone levels are known to affect trigeminal sensitization and CGRP-mediated nociceptive pathways. Androgens have also been shown to modulate pain perception via trigeminal vascular tone. On this basis, the TxGNN model may have identified a hormonal axis connecting androgen suppression to migraine vulnerability.
+The data compiled for this report does not establish a plausible mechanistic link between blocking androgen synthesis and migraine. The high TxGNN score (98.81%) reflects a pattern in the knowledge graph, not clinical or laboratory findings. The two other migraine-related predictions (migraine with or without aura susceptibility, and migraine with brainstem aura) most likely share the same graph signal, so they should not be viewed as independent confirmation.
 
-However, the mechanistic direction is uncertain and potentially unfavorable. Reducing androgens via CYP17A1 inhibition might either attenuate or exacerbate migraine depending on the patient's hormonal context (e.g., postmenopausal women vs. men vs. premenopausal women). No preclinical migraine model data, no mechanistic studies, and no clinical observations have examined this pairing. The prediction score reflects AI-derived graph patterns, not biological validation.
+The required co-administration of a glucocorticoid and abiraterone's mineralocorticoid-excess effects (fluid retention, hypertension, low potassium) would also complicate use in a non-cancer population.
 
 ---
 
@@ -69,33 +70,43 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature directly investigating Abiraterone for migraine is available.
-
-> **Note:** A PubMed search for the related indication "migraine with or without aura, susceptibility to" returned 20 publications. However, upon review, all 20 papers address epilepsy-migraine comorbidity genetics (MTHFR polymorphism, KCNJ10 variants, shared channelopathies, etc.) and contain no investigation of Abiraterone as a treatment candidate. These papers are therefore excluded from evidence tabulation.
+Currently no related literature available for migraine disorder.
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Abiraterone is not currently approved or marketed in Taiwan. No regulatory authorizations are on record.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005368 | Abiraterone Mylan | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
+| EMEA/H/C/005408 | Abiraterone Accord | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
+| EMEA/H/C/002321 | Zytiga | – | With prednisone or prednisolone: mCRPC in men asymptomatic or mildly symptomatic after ADT failure, or after docetaxel... |
+| EMEA/H/C/005649 | Abiraterone Krka | – | With prednisone or prednisolone: newly diagnosed high-risk mHSPC with ADT; mCRPC (asymptomatic/mildly symptomatic after ADT failure, or after docetaxel)... |
+
+All four authorizations are listed as cancelled.
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted hormone therapy — Androgen biosynthesis inhibitor (CYP17A1 inhibitor); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low (not a direct mechanism of toxicity; no bone marrow suppression via cytotoxic pathway) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT/AST), serum potassium (mineralocorticoid excess risk), blood pressure, fluid retention, cardiac function |
-| Handling Protection | Standard precautions for orally administered hormone-active antineoplastic agents; dedicated cytotoxic handling protocols may not be mandatory but institutional guidelines should be followed |
+|------|------|
+| Cytotoxicity Classification | Targeted hormonal therapy (CYP17A1 inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs in total. Examples include:
+  - **Major**: cisapride, dolasetron, eliglustat, loperamide
+  - **Moderate**: clarithromycin, levofloxacin, granisetron, metoclopramide, famotidine, fenfluramine, and several laxatives (bisacodyl, lactulose, lactitol, magnesium citrate, magnesium hydroxide, castor oil, glycerin)
+  - **Minor**: metronidazole
+
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -104,14 +115,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN model score (98.81%), there is zero supporting clinical or preclinical evidence for Abiraterone in migraine. The mechanistic hypothesis — androgen pathway modulation influencing trigeminal sensitization — is biologically plausible in direction but entirely unvalidated, and the net clinical effect of profound androgen suppression on migraine remains unknown and potentially harmful.
+The migraine prediction rests on a graph-based score alone (Evidence Level L5), with no trials, no literature, and no supported mechanism. The other nine predictions (including leprosy, rheumatoid arthritis and pulmonary hypertension) are equally unsupported. The five publications retrieved for pulmonary hypertension all concern prostate cancer and are not relevant. In addition, all EU authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Preclinical studies examining the effect of CYP17A1 inhibition on validated migraine animal models (e.g., CGRP-sensitization models, NTG-induced allodynia models)
-- Mechanistic data clarifying whether androgen reduction suppresses or augments trigeminal vascular activation
-- Epidemiological analysis of migraine incidence in prostate cancer patients receiving Abiraterone vs. other androgen deprivation therapies
-- Full safety profile review via the TFDA SmPC (currently not available for Taiwan)
-- Pharmacokinetic assessment for CNS penetration, as migraine treatment may require central nervous system exposure
+- Mechanism of action data and a biologically plausible rationale linking CYP17A1 inhibition to migraine
+- Preclinical or early clinical evidence in migraine
+- Safety information from the SmPC (warnings and contraindications), and a risk assessment for glucocorticoid co-administration and mineralocorticoid-excess effects in a non-cancer population
+- Clarification of the regulatory status given that all EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

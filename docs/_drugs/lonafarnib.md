@@ -2,7 +2,7 @@
 layout: default
 title: Lonafarnib
 parent: AI Predictions (L5)
-nav_order: 362
+nav_order: 374
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,27 +33,28 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Lonafarnib is a farnesyltransferase inhibitor (FTI) originally developed and approved for Hutchinson-Gilford Progeria Syndrome (HGPS), where it blocks Ras protein farnesylation. The TxGNN model predicts it may be effective for **Leprosy**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and no known mechanistic link between the drug and this disease has been identified.
+Lonafarnib (Zokinvy) was originally authorized for Hutchinson-Gilford progeria syndrome and related processing-deficient progeroid laminopathies.
+The TxGNN model predicts it may be effective for **leprosy**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hutchinson-Gilford Progeria Syndrome (HGPS) |
+| Original Indication | Hutchinson-Gilford progeria syndrome, or a processing-deficient progeroid laminopathy (heterozygous LMNA mutation with progerin-like protein accumulation, or homozygous/compound heterozygous ZMPSTE24 mutation), in patients 12 months of age and older |
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Lonafarnib is a farnesyltransferase inhibitor (FTI) that blocks post-translational farnesylation of Ras and related proteins. Its approved use is in HGPS, a rare progeroid genetic disorder, where inhibiting farnesylation of defective progerin/lamin A reduces nuclear membrane abnormalities.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lonafarnib is known as a farnesyltransferase inhibitor, which blocks the attachment of a farnesyl lipid group to proteins such as progerin. This is the basis for its use in progeria and progeroid laminopathies.
 
-For the top-ranked prediction, **leprosy**, no known mechanistic relationship exists. Leprosy pathophysiology is driven by *Mycobacterium leprae* infection, host immune evasion, and granulomatous inflammation — pathways that do not overlap with known farnesyltransferase biology. The high TxGNN score for this pairing is most plausibly explained by indirect, noisy connections within the underlying knowledge graph rather than a genuine pharmacological rationale.
+For leprosy, no plausible link to *Mycobacterium leprae* pathogenesis or the host immune response can be identified from the available data. The high score (99.14%, rank 8,458) comes from a knowledge-graph prediction only, and it should not be read as evidence of efficacy. The original indication (a rare genetic premature-ageing disorder) and leprosy (a chronic bacterial infection) are biologically very different, so the prediction needs substantial mechanistic justification before any further work.
 
-Notably, a lower-ranked candidate in this evidence pack — **rheumatoid arthritis** (rank 2, score 98.82%) — has a more plausible theoretical basis: FTI-mediated blockade of Ras/MEK/ERK signaling could in principle reduce synoviocyte proliferation and inflammation. However, the only literature retrieved for that pairing (PMID 36543278) concerns a traditional Chinese medicine formula acting on the same pathway, not lonafarnib itself, so it remains indirect, pathway-level evidence rather than drug-specific support.
+Other predicted indications were also reviewed. Rheumatoid arthritis and pulmonary hypertension have a conceptual link through Ras and small GTPase signalling, which depends on farnesylation. However, the only supporting references are an herbal decoction study and a general review of protein farnesylation. Neither tests lonafarnib in these diseases. Other predictions (Prinzmetal angina, homozygous familial hypercholesterolemia, hyperthyroidism and several rare syndromes) have no supporting data.
 
 ## Clinical Trial Evidence
 
@@ -61,28 +62,46 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for leprosy.
 
 ## EU Market Information
 
-Lonafarnib currently holds no EU marketing authorization (market status: not marketed; 0 authorizations on file), so no product/dosage-form/indication information is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005271 | Zokinvy | Not specified | Hutchinson-Gilford progeria syndrome or a processing-deficient progeroid laminopathy (LMNA or ZMPSTE24 mutation), patients ≥12 months... |
+
+The only EU authorization is recorded as cancelled.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were found in the interaction screen. Examples of those classified as **Major**:
+  - Loperamide
+  - Aprepitant
+  - Clarithromycin
+  - Cimetidine
+  - Eliglustat
+  - Naloxegol
+  - Systemic and inhaled corticosteroids (dexamethasone, triamcinolone, budesonide)
+
+  Examples classified as **Moderate**: hydrocortisone, betamethasone, omeprazole, saxagliptin, empagliflozin, chlorpropamide, oxandrolone and naldemedine.
+
+  Many of the major interactions involve drugs that affect CYP3A metabolism, so the full interaction list should be reviewed against the SmPC.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (leprosy) is an L5, model-only prediction with no clinical trials, no literature, and no identifiable mechanistic link — the repurposing rationale itself flags this as likely knowledge-graph noise. There is currently no basis to advance this pairing.
+The prediction rests only on a graph-based score, with no clinical trials or disease-specific literature. No biological link between farnesyltransferase inhibition and leprosy is evident. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve blocking data gap DG001 (TFDA/regulatory label warnings and contraindications) before any safety pre-screening (S1) can occur
-- Resolve high-priority data gap DG002 (confirmed MOA record) to support mechanistic-linkage analysis
-- If pursuing repurposing further, prioritize investigation of the rheumatoid arthritis signal (rank 2) instead, since it has a pathway-level rationale (Ras/MEK/ERK), and seek lonafarnib-specific preclinical or clinical evidence for that pathway rather than the leprosy pairing
-- DrugBank category and toxicity data to determine whether cytotoxic-drug handling precautions apply
+- Mechanism of action data, and a mechanistic hypothesis linking farnesyltransferase inhibition to leprosy
+- Preclinical evidence (in vitro or in vivo) in relevant disease models
+- Safety information from the SmPC (warnings and contraindications), and a review of the many major drug interactions
+- Clarification of the cancelled EU authorization status and route/formulation compatibility
+- Re-evaluation of other predicted indications, such as rheumatoid arthritis and pulmonary hypertension, where a conceptual Ras/GTPase link exists, once direct evidence is available
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

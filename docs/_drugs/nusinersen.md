@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nusinersen
-parent: Medium Evidence (L3-L4)
-nav_order: 425
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 439
+evidence_level: L5
 indication_count: 10
 ---
 
 # Nusinersen
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,73 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct report-writing task per the given template; proceeding directly.
-
-# Nusinersen: From Spinal Muscular Atrophy to Skin Atrophy
+# Nusinersen: From 5q Spinal Muscular Atrophy to Skin Atrophy
 
 ## One-Sentence Summary
 
-> Nusinersen is an antisense oligonucleotide administered intrathecally to restore SMN protein production in Spinal Muscular Atrophy (SMA). The TxGNN model flags a possible link to **Skin Atrophy**, but the **3 clinical trials** and **6 publications** returned as "evidence" are not actually studies of nusinersen for skin atrophy — they concern SMA lumbar-puncture technique and incidental injection-site skin necrosis, meaning this candidate is currently unsupported.
-
----
+Nusinersen was originally used to treat 5q spinal muscular atrophy (SMA).
+The TxGNN model predicts it may be relevant to **skin atrophy**, but this is a prediction only: there are **no registered clinical trials**, and the **8 retrieved publications** concern SMA care rather than skin atrophy as a treatable indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Spinal Muscular Atrophy (SMA) — per embedded trial descriptions ("first treatment approved by FDA and EMA for all SMA subtypes"); not present in this market's regulatory data |
+| Original Indication | 5q Spinal Muscular Atrophy |
 | Predicted New Indication | Skin atrophy |
-| TxGNN Prediction Score | 50% (raw score 0.5; global rank 1,181,204 — very low priority among all predictions) |
-| Evidence Level | L4 |
-| Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| TxGNN Prediction Score | 50.00% (the same default value for all ten predicted indications, so it does not discriminate between them) |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for nusinersen is not available in the structured `original_moa` field (Data Gap). However, the evidence pack's own analysis identifies nusinersen as an antisense oligonucleotide that targets *SMN2* pre-mRNA splicing, given intrathecally to increase functional SMN protein for the treatment of SMA — a neuromuscular, not dermatologic, mechanism.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nusinersen is an antisense oligonucleotide that modulates SMN2 splicing to increase SMN protein, and its efficacy in 5q SMA has been established.
 
-There is no established or plausible mechanistic link between *SMN2* splicing modulation and skin atrophy. Skin atrophy is typically driven by dermal collagen/elastin loss (e.g., corticosteroid use, aging, connective tissue disease) — pathways unrelated to motor neuron RNA splicing.
-
-The apparent "evidence" behind this prediction is a keyword-co-occurrence artifact: retrieved trials and literature describe SMA patients receiving nusinersen via lumbar puncture (some with scoliosis or spinal instrumentation), and one case report describes resolution of localized injection-site skin necrosis — not therapeutic use of nusinersen for a skin-atrophy indication. The evidence pack's own relevance grading (Grade C) and rationale text explicitly flag this as a likely false-positive pairing rather than a genuine repurposing signal.
-
----
+No credible mechanistic link to skin atrophy (for example collagen loss, epidermal thinning, or corticosteroid-induced atrophy) can be established from the available data. The TxGNN score of 0.5 is identical across all ten predicted indications and therefore carries no useful signal. The other nine predicted indications (skin sarcoidosis, steroid lipomatosis, stromal corneal pigmentation, subcorneal pustular dermatosis, sweat gland disease, toxicodendron dermatitis, vesiculobullous skin disease, vibratory urticaria, viral exanthem) likewise have no trials, no literature and no mechanistic link.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04674618](https://clinicaltrials.gov/study/NCT04674618) | N/A | Completed | 58 | Compares ultrasound-assisted vs. landmark-based intrathecal nusinersen administration in adult SMA patients; addresses injection technique, not skin atrophy (relevance: Grade C) |
-| [NCT05644899](https://clinicaltrials.gov/study/NCT05644899) | N/A | Completed | 51 | Retrospective analysis of >500 intrathecal nusinersen administrations in SMA adults with scoliosis; procedural study, not a skin-atrophy trial (relevance: Grade C) |
-| [NCT06555419](https://clinicaltrials.gov/study/NCT06555419) | Phase 1 | Recruiting | 58 | Pharmacokinetic study of nusinersen delivered via the ThecaFlex DRx™ implantable system vs. lumbar puncture in SMA patients; not related to skin atrophy (relevance: Grade C) |
-
-**Note:** None of the above trials evaluate nusinersen as a treatment for skin atrophy; all concern intrathecal delivery technique in SMA.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+None of the publications below tests nusinersen for skin atrophy. They are SMA-related case reports, technical notes, and cohort studies. The only skin-related item is a single case report of skin necrosis resolving in an infant with SMA, which is not evidence for skin atrophy.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40241365](https://pubmed.ncbi.nlm.nih.gov/40241365/) | 2025 | Case series | Zhongguo Dang Dai Er Ke Za Zhi | Nusinersen + risdiplam combination therapy in 10 SMA patients; efficacy/adverse reactions, not skin atrophy |
-| [39010073](https://pubmed.ncbi.nlm.nih.gov/39010073/) | 2024 | Technique report | Orphanet J Rare Dis | Novel interlaminar approach for intrathecal nusinersen injection in SMA patients with scoliosis |
-| [30811610](https://pubmed.ncbi.nlm.nih.gov/30811610/) | 2019 | Case report | Muscle & Nerve | Resolution of localized skin necrosis at injection site in an infant treated with nusinersen — an adverse event report, not a treatment-efficacy finding for skin atrophy |
-| [32515646](https://pubmed.ncbi.nlm.nih.gov/32515646/) | 2020 | Case report | J Child Neurol | SMA Type 0 patient treated with nusinersen and onasemnogene abeparvovec; motor outcome case report |
-| [37155209](https://pubmed.ncbi.nlm.nih.gov/37155209/) | 2023 | Case series/technique | Minerva Pediatrics | Surgical technique enabling intrathecal nusinersen injection after spinal fusion in SMA patients |
-| [39344612](https://pubmed.ncbi.nlm.nih.gov/39344612/) | 2024 | Case report | Zhonghua Yi Xue Yi Chuan Xue Za Zhi | Genetic/functional analysis of SMN1 variants in two SMA children |
+| [30811610](https://pubmed.ncbi.nlm.nih.gov/30811610/) | 2019 | Case report | Muscle & Nerve | Resolution of skin necrosis after nusinersen treatment in an infant with SMA (no abstract available) |
+| [32515646](https://pubmed.ncbi.nlm.nih.gov/32515646/) | 2020 | Case report | J Child Neurol | SMA type 0 patient treated with nusinersen and onasemnogene abeparvovec; 30-point CHOP-INTEND improvement |
+| [40241365](https://pubmed.ncbi.nlm.nih.gov/40241365/) | 2025 | Case series | Zhongguo Dang Dai Er Ke Za Zhi | Efficacy and adverse reactions of nusinersen combined with risdiplam in 10 SMA patients |
+| [42090081](https://pubmed.ncbi.nlm.nih.gov/42090081/) | 2026 | Cohort | Neurol Ther | Real-world adherence, persistence and safety of risdiplam in SMA |
+| [39010073](https://pubmed.ncbi.nlm.nih.gov/39010073/) | 2024 | Observational study | Orphanet J Rare Dis | Interlaminar approach for intrathecal nusinersen injection in SMA patients with scoliosis |
+| [37155209](https://pubmed.ncbi.nlm.nih.gov/37155209/) | 2023 | Technical note | Minerva Pediatr | Surgical technique allowing intrathecal nusinersen injection after spinal fusion |
+| [42482179](https://pubmed.ncbi.nlm.nih.gov/42482179/) | 2026 | Case series | BMC Anesthesiol | Angle-free ultrasound-assisted lumbar puncture in complex spinal anatomy (two patients) |
+| [39344612](https://pubmed.ncbi.nlm.nih.gov/39344612/) | 2024 | Case report | Zhonghua Yi Xue Yi Chuan Xue Za Zhi | Clinical and genetic characteristics of two children with SMA |
 
-**Note:** All retrieved literature concerns SMA management or intrathecal-injection technique/complications; none evaluates nusinersen as a treatment for skin atrophy.
+## EU Market Information
 
----
-
-## Market Information
-
-No marketing authorizations are on file for this market — nusinersen's status here is **"Not marketed" (Not marketed)**, with 0 recorded licenses. No approved indication text is available from this dataset.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004312 | Spinraza | Not specified | Treatment of 5q Spinal Muscular Atrophy (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information (product labeling, warnings, and drug-interaction data were not available in this evidence pack).
-
----
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score (0.5) corresponds to an extremely low global rank (~1.18 million), and every supporting clinical trial and publication is unrelated to skin atrophy — they concern SMA injection technique or incidental injection-site skin necrosis. There is no mechanistic or clinical rationale connecting *SMN2* splicing modulation to skin atrophy; this candidate is best characterized as a keyword-co-occurrence false positive rather than a genuine repurposing signal.
+The prediction rests only on a non-discriminating model score (0.5), with no clinical trials, no relevant literature, and no identifiable mechanistic link between SMN2 splicing modulation and skin atrophy. The only EU authorization is cancelled, and the drug is delivered intrathecally, which would make any dermatological use difficult to justify.
 
 **To proceed, the following is needed:**
-- Independent, disease-specific mechanistic rationale linking nusinersen to a dermatologic atrophic process (none currently exists)
-- Nusinersen product label / MOA data (currently a Blocking data gap per DG001/DG002) before any safety evaluation can begin
-- Any genuine preclinical or clinical study directly testing nusinersen in skin atrophy — none currently exists in this evidence pack
-- Given the absence of supporting rationale, deprioritize this candidate in favor of other predicted indications with stronger mechanistic plausibility
+- Mechanism of action data (for example from DrugBank) and an analysis of any biological link between SMN protein and skin atrophy
+- Safety information from the SmPC (warnings and contraindications), which is currently missing and blocks safety screening
+- Preclinical or clinical evidence specifically in skin atrophy
+- Assessment of route compatibility, since only intrathecal administration is established
+- Clarification of why the EU authorization was cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

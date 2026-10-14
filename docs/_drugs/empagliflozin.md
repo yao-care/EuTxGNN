@@ -2,7 +2,7 @@
 layout: default
 title: Empagliflozin
 parent: AI Predictions (L5)
-nav_order: 214
+nav_order: 221
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,69 +33,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Empagliflozin is an SGLT2 inhibitor originally developed for type 2 diabetes mellitus; detailed mechanism-of-action data for this candidate is currently unavailable (data gap, see below). The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome**, but this prediction currently has **0 supporting clinical trials** and **0 supporting publications**.
-
----
+Empagliflozin is an SGLT2 inhibitor originally used to treat type 2 diabetes mellitus, and it is also approved for chronic heart failure and chronic kidney disease.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but the data compiled for this report contain **0 clinical trials** and **0 publications** supporting this prediction. The prediction is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 Diabetes Mellitus (SGLT2 inhibitor class; no EU marketing-authorization record exists in this dataset) |
-| Predicted New Indication | Classic Stiff Person Syndrome |
+| Original Indication | Type 2 diabetes mellitus (adults and children aged 10 years and above, insufficiently controlled, as an adjunct to diet and exercise) |
+| Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single EU authorization is recorded as cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available in this evidence pack. Based on general knowledge, Empagliflozin belongs to the SGLT2 (sodium-glucose cotransporter-2) inhibitor class, which lowers blood glucose by blocking renal glucose reabsorption; its efficacy in type 2 diabetes mellitus (and related cardio-renal indications) is well established in the wider literature, even though no such authorization record appears in this dataset.
+Detailed mechanism of action data is not available in the data compiled for this report. Empagliflozin is known as a renal SGLT2 inhibitor that lowers blood glucose independently of insulin, and its efficacy in type 2 diabetes, heart failure and chronic kidney disease is established.
 
-Classic Stiff Person Syndrome (SPS), however, is an autoimmune neurological disorder driven by anti-GAD65 antibodies that disrupt GABAergic neurotransmission. There is no known pharmacological overlap between GABAergic autoimmune neurotransmission and renal glucose-transporter inhibition.
+No mechanistic link to stiff person syndrome has been established. Stiff person syndrome is an autoimmune neurological disorder, typically with anti-GAD65 antibodies and impaired GABAergic signalling. Empagliflozin has no known action on GABAergic or autoimmune pathways. The high score (0.99) is most likely a knowledge-graph artifact, possibly through the shared association of GAD65 autoimmunity with diabetes.
 
-The evidence pack's own repurposing rationale is explicit about this gap: it states the high TxGNN score for this candidate is most likely driven by knowledge-graph co-occurrence or embedding similarity rather than any genuine mechanistic relationship. In other words, this is a model-artifact-level prediction, not a mechanism-driven hypothesis, and should be treated accordingly.
+The second-ranked prediction, focal stiff limb syndrome, has an identical score and the same pathophysiology. This suggests both come from the same graph neighbourhood rather than independent evidence.
 
----
+Other top-ranked predictions are also weakly supported:
+- **Opsismodysplasia** (99.03%): rare skeletal dysplasia (INPPL1/SHIP2); any link is speculative.
+- **Thiamine-responsive dysfunction syndrome** (98.99%): shares only diabetes as a superficial connection; the underlying defect is thiamine transport.
+- **Localized lipodystrophies** (drug-induced, centrifugal, pressure-induced, idiopathic; 98.2–98.5%): likely reflect graph proximity to metabolic terms, with no known role for empagliflozin.
+- **Pancreatic agenesis** (98.07%): the only candidate with retrieved literature, but the two papers concern type 2 diabetes and diabetic retinopathy, so they are indirect at best. Empagliflozin cannot replace insulin in patients lacking insulin production and carries a ketoacidosis risk.
+- **Autoimmune oophoritis** (92.37%): no data link SGLT2 inhibitor effects to ovarian autoimmunity.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for classic stiff person syndrome.
 
 ## EU Market Information
 
-Empagliflozin has no marketing authorization records in the current EU regulatory dataset (market status: Not Marketed, 0 authorizations on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002677 (cancelled) | Jardiance | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above, insufficiently controlled, as an adjunct to diet and exercise... |
 
----
+The same authorization also covers symptomatic chronic heart failure and chronic kidney disease in adults.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were found in the interaction database. The first 20 retrieved are mostly Moderate, and a few are Minor. Examples of Moderate interactions: phenylephrine, acebutolol, acetazolamide, formoterol, pseudoephedrine, nifedipine, epinephrine, ethinylestradiol, hydrocortisone, salbutamol, ethanol, furosemide and fosinopril. Minor examples: topical hydrocortisone and topical alclometasone.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Classic Stiff Person Syndrome) has no clinical trials, no supporting literature, and — per the model's own rationale — no known mechanistic link to Empagliflozin's SGLT2-inhibitory activity. The high TxGNN score most likely reflects graph-embedding similarity rather than biological plausibility, so this candidate does not currently warrant advancement.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanistic link between SGLT2 inhibition and the GABAergic or autoimmune pathophysiology of stiff person syndrome. The identical scores of related predictions suggest a graph artifact. The EU authorization is also recorded as cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product labeling (warnings and contraindications) — currently a **Blocking** data gap (DG001), required before any safety pre-screening (S1) can occur
-- Confirmed mechanism-of-action data for Empagliflozin — currently a **High**-severity data gap (DG002), needed for mechanistic-relevance analysis
-- If this line of research continues, consider prioritizing lower-ranked candidates with at least partial metabolic/mechanistic plausibility instead (e.g., thiamine-responsive dysfunction syndrome, drug-induced/idiopathic lipodystrophy, or pancreatic agenesis — the latter already has 2 tangential PubMed records), rather than the top-ranked but mechanistically unsupported hit
+- Detailed mechanism of action data (MOA)
+- Warnings and contraindications from the current EU product information
+- Preclinical or mechanistic evidence for any link to GABAergic or autoimmune pathways
+- Confirmation of the current EU market status of empagliflozin products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

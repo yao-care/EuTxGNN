@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Eribulin
-parent: High Evidence (L1-L2)
-nav_order: 231
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 238
+evidence_level: L5
 indication_count: 10
 ---
 
 # Eribulin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,130 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Eribulin: From Soft-Tissue Sarcoma to Fibroblastic Neoplasm (Solitary Fibrous Tumor)
+# Eribulin: From Breast Cancer and Liposarcoma to Autosomal Recessive Familial Mediterranean Fever
 
 ## One-Sentence Summary
 
-Eribulin is a microtubule dynamics inhibitor already used as later-line chemotherapy for unresectable or metastatic soft-tissue sarcoma. The TxGNN model, together with a completed Phase 2 trial and eight supporting publications, points to **Fibroblastic Neoplasm** (including solitary fibrous tumor and the fibrosarcoma/myxofibrosarcoma spectrum) as the most credible new-indication signal in this evidence pack. Nine other TxGNN-ranked candidates in this pack (including the single highest-scoring one, familial Mediterranean fever) were screened but held back — they carry no clinical or literature support and, in several cases, no plausible mechanistic link — so this report focuses on the one candidate with an actual evidence base.
+Eribulin is a microtubule dynamics inhibitor, originally used to treat locally advanced or metastatic breast cancer and unresectable liposarcoma.
+The TxGNN model's top-ranked prediction is **autosomal recessive familial Mediterranean fever**, but this prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+The best-supported direction among the top 10 predictions is **fibroblastic neoplasm** (mainly solitary fibrous tumor), with **1 completed Phase 2 trial** and several supporting publications (mostly preclinical).
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Soft-tissue sarcoma (second-line/salvage chemotherapy — per literature evidence in this pack, e.g. PMID 39197933); no formal TFDA/EU authorization record is present in this pack |
-| Predicted New Indication | Fibroblastic Neoplasm (solitary fibrous tumor / fibrosarcoma spectrum) |
-| TxGNN Prediction Score | 99.36% (rank 6,653 of all drug–disease pairs) |
-| Evidence Level | L2 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Locally advanced or metastatic breast cancer after at least one chemotherapy regimen for advanced disease; unresectable liposarcoma after prior anthracycline therapy |
+| Predicted New Indication | Autosomal recessive familial Mediterranean fever |
+| TxGNN Prediction Score | 99.82% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 3 (all cancelled) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured mechanism-of-action data is not available for eribulin in this evidence pack (marked as a data gap, DG002). Based on information embedded in the collected literature and trial evidence, eribulin is an anti-tubulin (microtubule dynamics) inhibitor that is already used clinically as chemotherapy for unresectable or metastatic soft-tissue sarcoma. This existing anti-sarcoma activity is mechanistically the most direct bridge to the new indication.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, eribulin is a microtubule dynamics inhibitor (a cytotoxic chemotherapy). Its efficacy in breast cancer and liposarcoma has been established, and it may be mechanistically applicable to other mesenchymal tumours.
 
-Fibroblastic neoplasm is a category of mesenchymal tumors — solitary fibrous tumor, fibrosarcoma, myxofibrosarcoma — that sit squarely within the sarcoma family eribulin already treats. This is not a mechanistic leap across unrelated biology (unlike several other candidates in this pack, see below); it is an extension within the same tumor lineage the drug is already active against.
+For the top-ranked prediction, familial Mediterranean fever, **no mechanistic link is supported**. The disease is an autoinflammatory condition driven by dysregulation of the pyrin inflammasome (MEFV gene). Colchicine, another microtubule-targeting agent, is used in this disease, but it works differently and does not validate eribulin. A cytotoxic chemotherapy is also unlikely to be appropriate for a chronic non-malignant condition. The very high score (0.998) appears to be a model-only signal.
 
-That mechanistic plausibility is reinforced by actual data: a completed, prospective Phase 2 trial (ERASING, Italian Sarcoma Group) tested eribulin specifically in advanced solitary fibrous tumor, and multiple preclinical studies show eribulin activity (including combination/resensitization strategies) against fibrosarcoma and myxofibrosarcoma cell models. This is a materially stronger basis than the other nine candidates in this pack, several of which (e.g., familial Mediterranean fever, pleural adenomatoid tumor) have no mechanistic rationale connecting an autoinflammatory or typically benign condition to a cytotoxic antimitotic agent, and none of which have any trial or literature support at all (L5, Hold).
+Other predictions fall into three groups:
+- **Mesothelioma family** (pleural, peritoneal, biphasic, epithelioid): a general antimitotic rationale only, with no trials or literature.
+- **Sarcoma family**: dermatofibrosarcoma protuberans, ovarian myxoid liposarcoma, heart fibrosarcoma and fibroblastic neoplasm. These are biologically plausible given eribulin's approved liposarcoma use. DFSP, however, is driven by the COL1A1-PDGFB fusion and is usually treated with surgery and imatinib. The ovarian liposarcoma prediction is better seen as label-adjacent than as new repurposing evidence.
+- **Pleural adenomatoid tumor**: generally benign, so cytotoxic chemotherapy is unlikely to be justified.
+
+The strongest direction is **fibroblastic neoplasm**, represented mainly by solitary fibrous tumor (SFT). A Phase 2 study tested eribulin directly in this tumor type, and preclinical work in fibrosarcoma cells adds supportive evidence.
+
+---
 
 ## Clinical Trial Evidence
 
+There are no clinical trials for the top-ranked indication (familial Mediterranean fever). The only registered trial among the top 10 predictions is for fibroblastic neoplasm (rank 8):
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03840772](https://clinicaltrials.gov/study/NCT03840772) | Phase 2 | Completed | 16 | ERASING study (Italian Sarcoma Group): eribulin in advanced solitary fibrous tumor, a representative fibroblastic neoplasm subtype |
+| [NCT03840772](https://clinicaltrials.gov/study/NCT03840772) | Phase 2 | Completed | 16 | ERASING study: eribulin in advanced solitary fibrous tumor (Italian Sarcoma Group). Results were not available in the data compiled for this report. |
+
+---
 
 ## Literature Evidence
 
+There is no literature for the top-ranked indication. The two most relevant sets are below.
+
+**Fibroblastic neoplasm (rank 8)**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38136399](https://pubmed.ncbi.nlm.nih.gov/38136399/) | 2023 | Review | Cancers | Diagnostic and treatment overview of extrameningeal solitary fibrous tumors, an intermediate/malignant mesenchymal neoplasm class |
-| [28284173](https://pubmed.ncbi.nlm.nih.gov/28284173/) | 2017 | Cohort | European Journal of Cancer | Patient-derived solitary fibrous tumor xenografts show high sensitivity to doxorubicin/dacarbazine (confirmed clinically) and highlight potential effectiveness of trabectedin or eribulin |
-| [39197933](https://pubmed.ncbi.nlm.nih.gov/39197933/) | 2024 | Review | Anticancer Research | Recombinant methioninase increases eribulin efficacy 16-fold in highly eribulin-resistant HT1080 fibrosarcoma cells, addressing acquired drug resistance in soft-tissue sarcoma |
-| [38423656](https://pubmed.ncbi.nlm.nih.gov/38423656/) | 2024 | Review | Anticancer Research | Synergy between recombinant methioninase and eribulin against fibrosarcoma cells in vitro, sparing normal fibroblasts |
-| [40295012](https://pubmed.ncbi.nlm.nih.gov/40295012/) | 2025 | Review | In Vivo | Super-eribulin-resistant HT1080 fibrosarcoma cells become more malignant but are synergistically arrested by eribulin plus methionine restriction in nude mice |
-| [39625530](https://pubmed.ncbi.nlm.nih.gov/39625530/) | 2024 | Review | Human Cell | Establishment of a novel myxofibrosarcoma cell line (SMU-MFS) for studying and developing new therapies in this fibroblastic neoplasm |
-| [34383271](https://pubmed.ncbi.nlm.nih.gov/34383271/) | 2021 | Review | Human Cell | Establishment of a patient-derived myxofibrosarcoma cell line (NCC-MFS4-C1) to support development of new treatments |
-| [35906852](https://pubmed.ncbi.nlm.nih.gov/35906852/) | 2023 | Review | Genes, Chromosomes & Cancer | Case report of a malignant peripheral nerve sheath tumor (a related fibroblastic/mesenchymal neoplasm) responding to entrectinib via an NTRK fusion; supportive of the broader fibroblastic-neoplasm treatment landscape but not eribulin-specific |
+| [38136399](https://pubmed.ncbi.nlm.nih.gov/38136399/) | 2023 | Review | Cancers | Diagnosis and treatment of extrameningeal solitary fibrous tumors |
+| [28284173](https://pubmed.ncbi.nlm.nih.gov/28284173/) | 2017 | Preclinical (patient-derived xenograft) | Eur J Cancer | SFT xenografts highly sensitive to doxorubicin/dacarbazine; trabectedin and eribulin may also be effective |
+| [38423656](https://pubmed.ncbi.nlm.nih.gov/38423656/) | 2024 | Preclinical (in vitro) | Anticancer Res | Recombinant methioninase synergizes with eribulin against fibrosarcoma cells but not normal fibroblasts |
+| [39197933](https://pubmed.ncbi.nlm.nih.gov/39197933/) | 2024 | Preclinical (in vitro) | Anticancer Res | Methioninase increased eribulin efficacy 16-fold in highly eribulin-resistant HT1080 fibrosarcoma cells |
+| [40295012](https://pubmed.ncbi.nlm.nih.gov/40295012/) | 2025 | Preclinical (in vivo, nude mice) | In Vivo | Super eribulin-resistant fibrosarcoma cells were arrested by eribulin combined with methionine restriction |
+
+**Dermatofibrosarcoma protuberans (rank 2)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27434055](https://pubmed.ncbi.nlm.nih.gov/27434055/) | 2016 | Review | Cancer | General review of soft tissue sarcoma chemotherapy; indirect evidence only |
+
+---
 
 ## EU Market Information
 
-Eribulin currently has no marketing authorization recorded in this evidence pack (market status: not marketed; 0 authorizations), so no EU license table can be produced.
+All three EU authorizations for eribulin are cancelled.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006191 | Eribulin Baxter | Not specified | Locally advanced or metastatic breast cancer after at least one chemotherapy regimen for advanced disease; unresectable liposarcoma after prior... |
+| EMEA/H/C/002084 | Halaven | Not specified | Locally advanced or metastatic breast cancer after at least one chemotherapeutic regimens for advanced disease (see section 5.1). Prior therapy... |
+| EMEA/H/C/006134 | Mevlyq | Not specified | Locally advanced or metastatic breast cancer after at least one chemotherapeutic regimen for advanced disease; unresectable liposarcoma after... |
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (microtubule dynamics/anti-tubulin inhibitor) |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (microtubule dynamics inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions. Knowledge-graph links to neutropenia, agranulocytosis and thrombocytopenia suggest haematological toxicity is relevant. |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | CBC with differential, liver and renal function |
-| Handling Protection | Cytotoxic drug handling precautions apply |
+| Monitoring Items | Complete blood count with differential, liver and renal function, electrolytes (including potassium), ECG (QT interval), and neurological assessment for peripheral neuropathy |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (This pack flags TFDA label warnings/contraindications as a **Blocking** data gap — DG001 — meaning no drug-specific safety evaluation can be completed until that data is obtained.)
+- **Knowledge-graph contraindication signals** (from drug-disease links in the TxGNN knowledge graph, not from label text): long QT syndrome (including familial), thrombocytopenia, potassium deficiency, neutropenia, agranulocytosis, peripheral nervous system disease, peripheral neuropathy, and constipation disorder.
+- **Drug interactions**: 100 interactions were identified. Those listed here are the **Major** ones:
+  - Dolasetron (Major)
+  - Cisapride (Major)
+
+  Moderate interactions include ondansetron, palonosetron, clarithromycin, levofloxacin, metronidazole, tinidazole, famotidine, simvastatin, rosuvastatin, loperamide, and several laxatives (bisacodyl, picosulfuric acid, lactulose, lactitol, polyethylene glycol, sodium sulfate, castor oil). Many of these are QT-prolonging agents or drugs affecting gastrointestinal motility and electrolytes, which matches the knowledge-graph QT and potassium signals.
+
+Label-based warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for the full safety information.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-One completed Phase 2 trial (ERASING, n=16) directly targeting solitary fibrous tumor, backed by multiple preclinical studies on fibrosarcoma/myxofibrosarcoma, gives this candidate L2 evidence and a mechanistically coherent rationale (eribulin's established anti-sarcoma activity extending to a related mesenchymal tumor family). This is meaningfully stronger than the other nine candidates in the pack, all of which are L5/Hold with no supporting trials or literature.
+- The top-ranked prediction (familial Mediterranean fever) has no clinical or literature support and no plausible mechanistic link. The high TxGNN score is a prediction-only signal, and a cytotoxic chemotherapy is unlikely to suit a chronic non-malignant disease.
+- The most promising direction among the top 10 is fibroblastic neoplasm (solitary fibrous tumor). It should be treated as a research question rather than a ready candidate, because the completed Phase 2 trial has no available results and the supporting literature is mostly preclinical.
+- All EU authorizations are currently cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label warnings and contraindications (Blocking gap, DG001) — required before any safety (S1) evaluation
-- Detailed mechanism-of-action pharmacology data (DG002)
-- Confirmation of route/dosage-form compatibility for the fibroblastic neoplasm population (currently marked "pending")
-- A larger confirmatory trial beyond the single n=16 Phase 2 study
-- Drug-drug interaction data (current DDI query returned no results)
+- Results (response rate, progression-free survival, safety) of the ERASING Phase 2 study (NCT03840772).
+- Mechanism of action data to support mechanistic-link analysis.
+- Safety information from the SmPC (warnings and contraindications), which is currently a blocking gap for safety screening.
+- Clarification of the reasons for the cancelled EU authorizations and of current availability.
+- A dedicated literature search for the mesothelioma and rare sarcoma predictions.
+- A safety monitoring plan covering QT prolongation, neutropenia, and peripheral neuropathy, and a review of concomitant QT-prolonging drugs.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

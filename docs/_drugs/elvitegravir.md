@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Elvitegravir
-parent: High Evidence (L1-L2)
-nav_order: 212
-evidence_level: L2
+parent: Medium Evidence (L3-L4)
+nav_order: 219
+evidence_level: L4
 indication_count: 10
 ---
 
 # Elvitegravir
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,77 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Elvitegravir: From HIV-1 Infection to Congenital Human Immunodeficiency Virus
+# Elvitegravir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Elvitegravir is an HIV-1 integrase strand transfer inhibitor (INSTI), established as part of combination antiretroviral regimens for HIV-1 infection treatment. Among the ten TxGNN-predicted indications, several top-ranked outputs (simian/feline immunodeficiency virus, an unrelated rare neurodevelopmental disorder) are non-human or mechanistically implausible artifacts with no supporting evidence; the most clinically credible signal is **Congenital Human Immunodeficiency Virus** (rank 4, within the same disease family as the approved use), supported by **12 clinical trials** and **8 publications**, most focused on INSTI safety/efficacy in pregnancy and pediatric populations.
-
----
+Elvitegravir is an HIV-1 integrase inhibitor, originally used (as part of the Genvoya and Stribild combinations) to treat HIV-1 infection.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**,
+but there are **0 registered clinical trials** and only **preclinical literature** (8 publications, mostly in vitro and animal studies) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (integrase strand transfer inhibitor class) — not confirmable from EU license text as the drug is not currently marketed in the EU dataset; inferred from pharmacological class per literature evidence |
-| Predicted New Indication | Congenital Human Immunodeficiency Virus |
-| TxGNN Prediction Score | 98.98% |
-| Evidence Level | L2 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Original Indication | HIV-1 infection in adults and adolescents (aged 12 years and older, body weight at least 35 kg) without known resistance mutations to the integrase inhibitor class, emtricitabine or tenofovir (Genvoya) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 99.89% |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 2 (both cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (Data Gap DG002). Based on known information from the supporting literature, elvitegravir is an HIV-1 integrase inhibitor that blocks strand transfer during proviral DNA integration, and its efficacy against HIV-1 has been established as part of fixed-dose combination regimens (e.g., with cobicistat/emtricitabine/tenofovir).
+Detailed mechanism of action data is not available in the data compiled for this report. From known pharmacology, elvitegravir is an integrase strand transfer inhibitor (INSTI): it blocks the step in which viral DNA is inserted into the host genome. Its efficacy in HIV-1 infection is established through its use in the Genvoya and Stribild fixed-dose combinations.
 
-Congenital HIV infection (perinatal/vertical mother-to-child transmission) is not a distinct pathogen or mechanism — it is the same HIV-1 disease process in a specific transmission context. Because elvitegravir's approved mechanism directly targets HIV-1 replication, applicability to prevention/treatment of congenital HIV is mechanistically sound rather than a cross-mechanism extrapolation.
+SIV is a close relative of HIV, and its integrase enzyme is structurally related to that of HIV-1. In vitro studies show SIVmac239 is susceptible to INSTIs, and the same integrase resistance mutations produce similar effects in both viruses. In macaques, vaginal and rectal inserts containing tenofovir alafenamide and elvitegravir protected against SHIV (simian/human immunodeficiency virus) exposure, with 93% efficacy for pre-exposure use and 100% (vaginal) and 82.9% (rectal) when given after exposure.
 
-It is worth noting that TxGNN's top-scored outputs for this drug (ranks 1–3: simian immunodeficiency virus infection, feline acquired immunodeficiency syndrome, and an unrelated rare neurodevelopmental disorder) are not viable human indications — they reflect either animal-model research contexts or embedding-similarity noise, and none carry supporting clinical evidence. Rank 4 (congenital HIV) is the highest-ranked prediction with an actual evidence base and a "Proceed with Guardrails" scoring outcome, making it the most defensible candidate to evaluate further. A caveat: the clinical trials retrieved are largely general adult HIV-1 populations (switch/maintenance studies) rather than trials specifically enrolling perinatally-infected or pregnant/neonatal subjects, so the ontology label and trial population are not fully matched.
-
----
+An important caveat: these data are preclinical and mainly use SIV/SHIV as models for HIV. SIV infects non-human primates, so there is no human therapeutic use case. The prediction is mechanistically plausible but is better read as a research tool than a new human indication.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01854775](https://clinicaltrials.gov/study/NCT01854775) | Phase 2/3 | Completed | 129 | PK, safety and antiviral activity of E/C/F/TAF single-tablet regimen (contains elvitegravir) in ART-naive adolescents and virologically suppressed children |
-| [NCT00042289](https://clinicaltrials.gov/study/NCT00042289) | N/A (Phase 4) | Completed | 1578 | IMPAACT P1026s: pharmacokinetics of antiretroviral/TB drugs in pregnant women and infants, relevant to prevention of mother-to-child transmission |
-| [NCT02422797](https://clinicaltrials.gov/study/NCT02422797) | Phase 3 | Completed | 518 | Switch to dolutegravir + rilpivirine non-inferiority vs. continuing INI/NNRTI/PI regimen in virologically suppressed HIV-1 adults |
-| [NCT02938520](https://clinicaltrials.gov/study/NCT02938520) | Phase 3 | Active, not recruiting | 631 | FLAIR study: long-acting IM cabotegravir + rilpivirine for maintaining suppression after switching from an INSTI single-tablet regimen |
-| [NCT04442737](https://clinicaltrials.gov/study/NCT04442737) | Phase 4 | Completed | 103 | Safety/tolerability of switching to D/C/F/TAF vs. continuing INI+TAF/FTC in patients with rapid weight gain |
-| [NCT01568892](https://clinicaltrials.gov/study/NCT01568892) | Phase 3 | Completed | 30 | Antiviral activity of dolutegravir in INSTI-experienced, resistant HIV-1 adults (includes raltegravir/elvitegravir failures) |
-| [NCT02429791](https://clinicaltrials.gov/study/NCT02429791) | Phase 3 | Completed | 510 | Switch to dolutegravir + rilpivirine non-inferiority study (companion trial to NCT02422797) |
-| [NCT03299049](https://clinicaltrials.gov/study/NCT03299049) | Phase 3b | Active, not recruiting | 1049 | ATLAS-2M: long-acting cabotegravir + rilpivirine every 8 vs. 4 weeks in virologically suppressed HIV-1 adults |
-| [NCT02397096](https://clinicaltrials.gov/study/NCT02397096) | Phase 3 | Completed | 673 | Switch to doravirine/lamivudine/tenofovir (MK-1439A) from a boosted PI + 2 NRTI regimen |
-| [NCT02951052](https://clinicaltrials.gov/study/NCT02951052) | Phase 3 | Active, not recruiting | 618 | ATLAS study: switch to long-acting IM cabotegravir + rilpivirine from current INSTI/NNRTI/PI regimen |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37307279](https://pubmed.ncbi.nlm.nih.gov/37307279/) | 2023 | Cohort | PLoS One | Compared congenital malformation and preeclampsia incidence in pregnancies exposed to INSTI vs. non-INSTI antiretroviral therapy |
-| [30531300](https://pubmed.ncbi.nlm.nih.gov/30531300/) | 2019 | Cohort/Surveillance | J Acquir Immune Defic Syndr | UK/Ireland surveillance of congenital anomalies after raltegravir or elvitegravir exposure during pregnancy (2008–2018) |
-| [38864586](https://pubmed.ncbi.nlm.nih.gov/38864586/) | 2024 | Cohort | AIDS | Characterized congenital anomaly associations with first-trimester exposure to newer antiretroviral agents in a US cohort of HIV-exposed infants |
-| [33048878](https://pubmed.ncbi.nlm.nih.gov/33048878/) | 2021 | Cohort | AIDS | Evaluated birth defect and perinatal outcome risk after INSTI exposure at conception, following the dolutegravir neural tube defect signal |
-| [39086081](https://pubmed.ncbi.nlm.nih.gov/39086081/) | 2024 | Pharmacovigilance | Pharmacol Res Perspect | VigiBase disproportionality analysis of INSTI-class drugs and congenital anomaly signals during pregnancy |
-| [31595301](https://pubmed.ncbi.nlm.nih.gov/31595301/) | 2020 | Pharmacovigilance | Clin Infect Dis | Analysis of multiple pharmacovigilance databases for dolutegravir/INSTI safety signals in pregnancy |
-| [31021990](https://pubmed.ncbi.nlm.nih.gov/31021990/) | 2019 | Review | J Acquir Immune Defic Syndr | Reviews the WHO safety signal on neural tube defects and evidence gaps for other INSTIs, including elvitegravir, in pregnancy |
-| [35809963](https://pubmed.ncbi.nlm.nih.gov/35809963/) | 2022 | Case Report | Chest | Case of a 28-year-old man with congenital HIV presenting with diffuse bilateral pulmonary nodules |
+| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Preclinical (macaque PEP model) | J Infect Dis | Vaginal TAF/elvitegravir inserts gave extended post-exposure protection against SHIV in macaques |
+| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | Preclinical (macaque PEP model) | J Infect Dis | Rectal TAF/elvitegravir inserts gave partial post-exposure protection (82.9%) against SHIV |
+| [17977962](https://pubmed.ncbi.nlm.nih.gov/17977962/) | 2008 | In vitro | J Virol | Elvitegravir blocks HIV-1 DNA strand transfer, with broad antiviral activity and a defined resistance profile |
+| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | Preclinical (humanized mouse) | Front Immunol | Dual-purpose humanized mouse model for testing antivirals against both SIV and HIV |
+| [25583721](https://pubmed.ncbi.nlm.nih.gov/25583721/) | 2015 | In vitro | Antimicrob Agents Chemother | Simian-tropic HIV used as a model for integrase inhibitor resistance |
+| [24920794](https://pubmed.ncbi.nlm.nih.gov/24920794/) | 2014 | In vitro | J Virol | HIV integrase resistance mutations introduced into SIVmac239 alter INSTI susceptibility |
+| [26378179](https://pubmed.ncbi.nlm.nih.gov/26378179/) | 2015 | In vitro | J Virol | INSTI resistance profiles in SIVmac239 resemble those in HIV |
+| [28923862](https://pubmed.ncbi.nlm.nih.gov/28923862/) | 2017 | In vitro | Antimicrob Agents Chemother | Bictegravir and cabotegravir are active against INSTI-resistant SIVmac239 and HIV-1 |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004042 | Genvoya (cancelled) | Not specified | Treatment of adults and adolescents (aged 12 years and older, body weight at least 35 kg) infected with HIV-1 without known mutations associated with resi... |
+| EMEA/H/C/002574 | Stribild (cancelled) | Not specified | Treatment of HIV-1 infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV-1 without known mutatio... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-drug interaction data are not available in this Evidence Pack — TFDA/EMA labelling review is required before any S1 safety assessment, per data gap DG001.)
+- **Drug Interactions**: 27 interactions were identified in total. The main ones are:
+  - **Major**: zinc salts (acetate, gluconate, sulfate, chloride), lumacaftor, apalutamide
+  - **Moderate**: antacids and mineral products (magnesium oxide, magnesium carbonate, magnesium hydroxide, aluminum hydroxide, calcium carbonate, magaldrate, sodium citrate, sodium bicarbonate), dexamethasone, orlistat, diclofenac, elagolix, somatotropin, ethinylestradiol
 
----
+Please also refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism (HIV-1 integrase inhibition) is directly aligned with the predicted indication, and multiple cohort studies specifically evaluate INSTI-class safety in pregnancy/perinatal contexts, giving genuine (if indirect) evidentiary support (L2). However, none of the retrieved Phase 3 trials specifically enroll congenitally/perinatally-infected patients, and core safety/MOA data are missing, so guardrails are needed before advancing.
+The only supporting evidence is preclinical (in vitro and animal models). SIV infects non-human primates, so there is no human clinical use case. Both EU authorizations are cancelled, and the high TxGNN score reflects the biological similarity of SIV to HIV rather than a new treatment opportunity.
 
 **To proceed, the following is needed:**
-- TFDA/EMA SmPC warnings, contraindications, and DDI data (blocking gap, DG001)
-- Confirmed mechanism of action detail from DrugBank (DG002)
-- Clarification of EU marketing authorization status, since current data shows elvitegravir as not marketed in the EU
-- Trial-level review to confirm whether any of the listed Phase 3 studies actually enrolled pregnant women or perinatally-infected pediatric patients, rather than general suppressed adults
-- Pregnancy/pediatric-specific pharmacokinetic and safety data to support use in the congenital/vertical-transmission context
+- A defined research purpose (for example, use as a tool compound in SIV/SHIV macaque prevention models) rather than a human indication
+- Mechanism of action data and SmPC warnings and contraindications
+- Clarification of the regulatory status given that both EU authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

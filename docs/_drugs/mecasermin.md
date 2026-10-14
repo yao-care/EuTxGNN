@@ -2,7 +2,7 @@
 layout: default
 title: Mecasermin
 parent: AI Predictions (L5)
-nav_order: 377
+nav_order: 389
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mecasermin: From Severe Primary IGF-1 Deficiency to Monosomy X (Turner Syndrome)
+# Mecasermin: From Severe Primary IGF-1 Deficiency to Monosomy X
 
 ## One-Sentence Summary
 
-> Mecasermin (recombinant human IGF-1) was originally developed for severe primary IGF-1 deficiency, a condition characterized by growth hormone insensitivity.
-> The TxGNN model predicts it may be effective for **Monosomy X (Turner Syndrome)**,
-> but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure AI-model prediction that has not yet been independently verified.
-
----
+Mecasermin is a recombinant human IGF-1, originally used to treat growth failure in children and adolescents with severe primary IGF-1 deficiency.
+The TxGNN model predicts it may be effective for **monosomy X (Turner syndrome)**, but **no clinical trials and no publications** were found in the data compiled for this report. The prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Severe primary IGF-1 deficiency (growth hormone insensitivity, e.g., Laron syndrome) — no formal MOA/indication record in this evidence pack |
-| Predicted New Indication | Monosomy X (Turner Syndrome) |
+| Original Indication | Long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD) |
+| Predicted New Indication | Monosomy X |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for mecasermin in this evidence pack (flagged as a High-severity data gap). Based on the contextual information embedded in the model's own rationale outputs, mecasermin is a recombinant human IGF-1 analogue, and its established use domain is severe primary IGF-1 deficiency — conditions marked by growth hormone insensitivity at the receptor/signaling level. This mechanistic anchor point is the basis on which TxGNN evaluates related growth-disorder phenotypes.
+Currently, detailed mechanism of action data is not available. Based on known information, mecasermin is a recombinant form of IGF-1. Its efficacy in severe primary IGF-1 deficiency has been established. Mechanistically it acts on the growth axis through IGF-1 receptor signalling, so it may be applicable to other conditions marked by growth failure.
 
-Monosomy X (Turner syndrome) commonly presents with short stature and a component of partial growth hormone resistance, which provides a plausible physiological rationale for IGF-1 supplementation — this is likely why it received the highest TxGNN score among the 10 candidates in this pack. Notably, a mechanistically *more direct* candidate also appears in this dataset at rank 3 ("growth hormone insensitivity syndrome with immune dysregulation 2"), since GH insensitivity is essentially mecasermin's core approved use-case. However, neither candidate — including the top-ranked Monosomy X — is accompanied by any clinical trial or literature evidence in this pack.
+Monosomy X (Turner syndrome) is characterised by short stature, which is the link to mecasermin's original indication. However, the rationale is plausible but speculative. Turner syndrome patients are typically growth-hormone sufficient with normal or near-normal IGF-1 levels, and they are usually treated with recombinant growth hormone. This differs from the original indication, where patients cannot respond to growth hormone because of a defect in the GH/IGF-1 axis. The high TxGNN score is a computational prediction only.
 
-Given the complete absence of supporting clinical or literature evidence, this prediction should be treated as a hypothesis-generating signal only. An independent search for any existing off-label use of IGF-1 in Turner syndrome (a population that already sometimes receives growth hormone therapy) is needed before this candidate can be meaningfully advanced.
-
----
+Other predicted indications were also reviewed, and all remain at the model-prediction level (L5):
+- **Growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant** (score 99.06%) is mechanistically the closest to the approved use. It involves GH insensitivity with low IGF-1, which IGF-1 replacement could bypass. The immune dysregulation features would not be addressed by IGF-1 alone. It is flagged as a research question that merits a targeted literature review.
+- Most of the others (Wolman disease, esophageal varices with and without bleeding, ichthyosis syndrome, Gaucher disease, varicose disease, congenital pulmonary lymphangiectasia, cholesteryl ester storage disease) show no identifiable mechanistic link to IGF-1 signalling and are considered unsupported.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are recorded for mecasermin in this evidence pack (market status: **Not marketed**, 0 total licenses). No product/authorization table can be generated at this time.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000704 (cancelled) | Increlex | Not specified | For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD). Severe primary IGFD is def... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 24 interactions were recorded in the interaction databases, all rated Moderate, and 20 are listed in the data compiled for this report. They fall into two groups:
+  - **Sulfonylureas and related oral antidiabetics**: chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide, nateglinide.
+  - **Insulin products**: human insulin (regular, isophane, zinc, zinc extended, inhalation), insulin aspart (including protamine), degludec, detemir, glargine, glulisine and lispro (including protamine).
 
-*(Note: key warnings, contraindications, and drug interaction data are currently unavailable in this evidence pack. Retrieval of TFDA/EMA label warnings and contraindications is flagged as a **blocking** data gap for any safety review.)*
+  These combinations are generally relevant because of additive blood-glucose-lowering effects and the risk of hypoglycaemia.
+- **Other considerations**: The mechanistic assessments noted hypoglycaemia risk and a potential for tissue growth effects with IGF-1 replacement. This is relevant to any new use, particularly in malformation or vascular settings.
 
----
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate is supported only by a TxGNN model score (Evidence Level L5), with zero clinical trials and zero publications identified. In addition, the drug is not currently marketed in the EU, and mechanism-of-action and safety label data are both missing — including a blocking-severity gap on warnings/contraindications. There is insufficient evidence to move beyond model prediction at this stage.
+The prediction for monosomy X is supported only by a model score. There are no clinical trials or publications, and the current standard of care (growth hormone) already addresses the growth deficit in a population that is not IGF-1 deficient. The authorization is also cancelled in the EU.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/EMA label warnings and contraindications for mecasermin (blocking gap — required before any safety screening can begin)
-- Retrieve formal mechanism-of-action documentation from DrugBank or equivalent source (high-severity gap)
-- Conduct an independent literature/registry search for off-label IGF-1 use in Turner syndrome, since this pack contains no such evidence
-- Re-evaluate the mechanistically closer candidate (growth hormone insensitivity syndrome, rank 3) in parallel, as it aligns more directly with mecasermin's known pharmacology
+- A systematic literature search on IGF-1 or mecasermin use in Turner syndrome, and in GH insensitivity with STAT5B defects (the strongest mechanistic candidate, a research question).
+- Mechanism of action data (MOA) for mecasermin.
+- Warnings and contraindications from the SmPC, which are required for safety screening.
+- Clarification of the regulatory and supply status of mecasermin in the EU, given the cancelled authorization.
+- Assessment of hypoglycaemia risk and growth-related safety in the target populations.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

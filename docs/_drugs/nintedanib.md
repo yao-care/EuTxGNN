@@ -2,7 +2,7 @@
 layout: default
 title: Nintedanib
 parent: Medium Evidence (L3-L4)
-nav_order: 416
+nav_order: 430
 evidence_level: L4
 indication_count: 10
 ---
@@ -33,76 +33,83 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Nintedanib is a triple angiokinase inhibitor whose established use is in fibrotic and certain oncology indications (idiopathic pulmonary fibrosis, and combination oncology use elsewhere).
-> The TxGNN model predicts it may be effective for **Dermatofibrosarcoma Protuberans (DFSP)**,
-> with **0 clinical trials** and **1 supporting publication** currently available in this evidence pack.
-
----
+Nintedanib is a multi-target tyrosine kinase inhibitor, originally used to treat idiopathic pulmonary fibrosis (IPF), other progressive fibrosing interstitial lung diseases, and non-small cell lung cancer (in combination with docetaxel).
+The TxGNN model predicts it may be effective for **dermatofibrosarcoma protuberans (DFSP)**.
+Support is currently limited to **0 clinical trials** and **1 publication** (an indirect 2018 review).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic Pulmonary Fibrosis (referenced within evidence pack's mechanistic rationale; not formally documented via TW license data) |
-| Predicted New Indication | Dermatofibrosarcoma Protuberans |
+| Original Indication | Idiopathic pulmonary fibrosis (IPF) and other chronic fibrosing interstitial lung diseases with a progressive phenotype |
+| Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 99.15% |
 | Evidence Level | L4 |
-| Market Status (Taiwan) | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (all licences cancelled) |
+| Number of Authorizations | 4 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-The drug's formal `original_moa` field is marked as a data gap in this evidence pack. However, the repurposing rationale documented alongside the top prediction describes Nintedanib as a **triple angiokinase inhibitor targeting VEGFR, FGFR, and PDGFRα/β**. This mechanistic detail, while not captured in the structured MOA field, is directly sourced from the evidence pack and can be used to assess biological plausibility.
+Nintedanib is a multi-target tyrosine kinase inhibitor acting on PDGFR alpha/beta, FGFR 1-3 and VEGFR 1-3. Detailed mechanism-of-action data from DrugBank were not available for this report, so the description above is based on the known pharmacology of the drug.
 
-DFSP is a tumor with a well-characterized molecular driver: the **COL1A1-PDGFB fusion gene**, which causes constitutive activation of PDGFRB. This makes DFSP a textbook example of a PDGFR-addicted tumor — a fact already validated in clinical practice, since **imatinib (a PDGFR inhibitor) is the established standard-of-care systemic therapy for DFSP**. Nintedanib's inhibitory activity against PDGFRα/β therefore provides a mechanistically coherent rationale for testing it in this same molecular context, even though direct clinical evidence in DFSP is currently absent.
+DFSP is driven by the COL1A1-PDGFB fusion, which causes constitutive activation of PDGFRB. Inhibiting PDGFR is therefore mechanistically plausible. Nintedanib's anti-fibrotic activity in lung disease also relies on blocking PDGFR and FGFR signalling in fibroblasts, and DFSP is a fibroblast-lineage tumour. This is the conceptual bridge between the original and the predicted indication.
 
-That said, the connection to Nintedanib's own approved use (a fibrotic lung disease) is indirect — the shared thread is pathway biology (PDGFR/FGFR signaling in fibroblast/pericyte proliferation), not disease similarity. This is a mechanism-driven hypothesis rather than an indication-adjacency hypothesis, which is consistent with the L4 evidence classification.
-
----
+There are important caveats. The only supporting record is a 2018 review of small-molecule PDGFR inhibitors in neoplastic disorders, which is indirect evidence and not a nintedanib-specific study. Imatinib is the established PDGFR-directed therapy for DFSP, so nintedanib would need to show an advantage (for example, in imatinib-resistant disease) to be of interest.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Reviews the role of small-molecule PDGFR inhibitors in oncology; supports PDGFR as a druggable target in PDGFR-driven neoplasms, providing indirect mechanistic support rather than direct evidence for Nintedanib in DFSP. |
-
----
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Review of small-molecule PDGFR inhibitors in neoplastic disorders; indirect support for PDGFR targeting, not specific to nintedanib |
 
 ## EU Market Information
 
-No marketing authorizations currently on file for Nintedanib in this jurisdiction (0 licenses; market status: **Not Marketed**). Regulatory/label data must be sourced separately (see Data Gap DG001 below) before any safety review can proceed.
+All four authorizations are currently cancelled.
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006486 | Nintedanib Viatris | Not specified | IPF in adults; other chronic fibrosing ILDs with a progressive phenotype; progressive fibrosing ILDs in children... |
+| EMEA/H/C/002569 | Vargatef | Not specified | In combination with docetaxel for adult patients with locally advanced, metastatic or locally recurrent NSCLC of adenocarcinoma... |
+| EMEA/H/C/003821 | Ofev | Not specified | Idiopathic pulmonary fibrosis (IPF) in adults |
+| EMEA/H/C/006179 | Nintedanib Accord | Not specified | IPF in adults; other chronic fibrosing ILDs with a progressive phenotype; SSc-ILD in adults... |
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (multi-target tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction screening. The entries reviewed include:
+  - **Major**: Dexamethasone
+  - **Moderate**: Acetylsalicylic acid, clarithromycin, naltrexone, rolapitant, cobicistat
+  - **Moderate (antithrombotic and anticoagulant agents)**: abciximab, alteplase, antithrombin III, apixaban, dipyridamole, betrixaban, bivalirudin, cangrelor, caplacizumab, cilostazol, clopidogrel, dalteparin, defibrotide, desirudin
 
-> ⚠️ Note: This evidence pack flags the absence of TFDA label warnings/contraindications as a **Blocking** data gap (DG001) — this must be resolved before Stage 1 (S1) safety screening can be completed.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (PDGFR inhibition in a COL1A1-PDGFB fusion-driven tumor, with imatinib as clinical precedent) is biologically plausible, but evidence is currently limited to a single review article with no direct clinical trials in DFSP. Combined with a **Blocking** safety data gap (no TFDA label/contraindication data available), the candidate cannot yet advance past the research-question stage.
+The prediction score is high and the PDGFRB-driven biology of DFSP makes the mechanism plausible. However, there are no clinical trials and only one indirect review, and imatinib is already the established targeted therapy. In addition, all EU licences for nintedanib are currently cancelled.
 
 **To proceed, the following is needed:**
-- TFDA-equivalent label data (warnings, contraindications) to complete S1 safety screening (DG001)
-- Confirmed DrugBank MOA record to formally validate the mechanistic linkage (DG002)
-- Preclinical or case-level evidence of Nintedanib activity in PDGFR-driven sarcomas (e.g., DFSP, fibrosarcoma) before considering translational/clinical follow-up
-- Continued literature/trial monitoring, as current evidence level (L4) reflects mechanism-only support
+- Nintedanib-specific preclinical data in DFSP models, particularly imatinib-resistant ones
+- A comparison with imatinib to define a clear niche
+- Confirmation of the current EU regulatory and supply status
+- Safety information from the SmPC (warnings and contraindications), which was not available for this report
+- Detailed mechanism-of-action data from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

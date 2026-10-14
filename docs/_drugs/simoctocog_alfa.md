@@ -2,7 +2,7 @@
 layout: default
 title: Simoctocog Alfa
 parent: AI Predictions (L5)
-nav_order: 542
+nav_order: 563
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Simoctocog Alfa: From Hemophilia A to Pseudo-von Willebrand Disease
+# Simoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
 
 ## One-Sentence Summary
 
-Simoctocog alfa is a recombinant, B-domain-deleted Factor VIII (FVIII) product used for the prevention and treatment of bleeding in Hemophilia A. The TxGNN model predicts it may be effective for **Pseudo-von Willebrand Disease**, but this is currently a **model prediction only** — there are **0 clinical trials** and **0 publications** supporting this direction, and the accompanying mechanistic review flags the biological rationale as weak.
-
----
+Simoctocog alfa is a recombinant human factor VIII (FVIII) produced in a human cell line, originally used to treat and prevent bleeding in patients with haemophilia A.
+The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease**, but **no clinical trials and no publications** were found to support this direction, so it rests on a model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hemophilia A — bleeding prophylaxis/treatment and surgical hemostasis (no approved-label text available; inferred from evidence-pack rationale, not from regulatory license data) |
-| Predicted New Indication | Pseudo-von Willebrand Disease |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency), for all age groups |
+| Predicted New Indication | Pseudo-von Willebrand disease |
 | TxGNN Prediction Score | 99.997% |
-| Evidence Level | L5 (no clinical trials, no literature) |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on information embedded elsewhere in this pack's own rationale text, simoctocog alfa is a recombinant B-domain-deleted FVIII product approved for Hemophilia A, where it replaces deficient circulating Factor VIII to restore the intrinsic coagulation cascade.
+Detailed mechanism of action data is not available from DrugBank for this report. Based on known information, simoctocog alfa is a recombinant FVIII replacement product. Its efficacy in haemophilia A comes from supplying the missing FVIII cofactor in the coagulation cascade.
 
-For the top-ranked prediction, however, this mechanism does **not** transfer well. Pseudo-von Willebrand Disease is caused by a gain-of-function defect in the platelet GPIb receptor, which leads to excessive platelet binding and clearance of von Willebrand Factor. The underlying problem is on the **platelet side**, not a deficiency of coagulation factor concentration — supplementing FVIII does not correct this platelet–VWF interaction defect. The evidence pack's own repurposing rationale explicitly notes that the very high TxGNN score for this candidate likely reflects **graph-level proximity of "bleeding disorder" nodes** in the knowledge graph, rather than a genuine pharmacological relationship.
+Pseudo-von Willebrand disease (platelet-type von Willebrand disease) is a different problem. A gain-of-function defect in the platelet GPIb-alpha receptor increases binding to von Willebrand factor (VWF) and causes loss of high-molecular-weight VWF multimers. FVIII replacement does not correct this platelet receptor defect. Any link is indirect, through the FVIII/VWF complex, and speculative. The high TxGNN score reflects graph-based proximity between bleeding disorders, not supporting clinical data.
 
-Notably, two lower-ranked candidates in this pack show more plausible mechanistic links and have been advanced to decision stage S1 ("Research Question") rather than held at S0: **acquired coagulation factor deficiency** (rank 5) and **Hemophilia A with vascular abnormality** (rank 9). The latter in particular remains within the FVIII-deficiency disease spectrum and is closer to an indication extension than a true repurposing signal, though it still lacks any supporting trial or literature evidence. These may warrant closer attention than the current rank-1 candidate.
+**Other predicted indications (all with no trials or literature):**
 
----
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Primary release disorder of platelets | 99.997% | L5 | Platelet function defect; no rationale for FVIII |
+| 3 | Glanzmann thrombasthenia | 99.995% | L5 | Integrin defect; FVIII does not address it |
+| 4 | Scott syndrome | 99.969% | L5 | Missing phospholipid surface; theoretical link only |
+| 5 | Acquired coagulation factor deficiency | 99.952% | L5 | Most plausible in principle (e.g. FVIII-specific deficiency without inhibitors); research question only |
+| 6 | Bleeding diathesis due to a collagen receptor defect | 99.921% | L5 | Primary platelet defect with normal FVIII |
+| 7 | Hemorrhagic disorder due to constitutional thrombocytopenia | 99.917% | L5 | Bleeding from platelet deficiency, not FVIII |
+| 8 | Fetal and neonatal alloimmune thrombocytopenia | 99.845% | L5 | Immune platelet destruction; likely graph artifact |
+| 9 | Hemophilia A with vascular abnormality | 99.779% | L4 | Overlaps the approved indication; a subtype rather than true repurposing; research question |
+| 10 | Thrombotic thrombocytopenic purpura | 99.724% | L5 | Prothrombotic condition; FVIII could pose a safety concern |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EMA marketing authorization is recorded for this product in the current dataset (0 licenses; market status: not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002813 | Nuwiq (cancelled) | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Nuwiq can be used for all age groups. |
+| EMEA/H/C/004459 | Vihuma (cancelled) | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).Vihuma can be used for all age groups. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. All key warnings, contraindications, and drug-interaction data for this product are currently unavailable in this evidence pack (DG001, flagged Blocking severity — this gap alone prevents progression to the S1 safety review stage).
+Please refer to the SmPC for safety information.
 
----
+For thrombotic thrombocytopenic purpura specifically, FVIII administration could theoretically worsen microvascular thrombosis, so this is a potential safety concern rather than a therapeutic opportunity.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Pseudo-von Willebrand Disease) has no supporting clinical trials or literature and is accompanied by an internal mechanistic assessment indicating the pharmacology is unlikely to apply. Combined with a blocking safety data gap (no SmPC warnings/contraindications available) and the product's current lack of EU marketing authorization in this dataset, there is insufficient basis to proceed.
+The top-ranked prediction, pseudo-von Willebrand disease, has a high model score but no clinical or literature support. Its mechanism (a platelet receptor defect) is not addressed by FVIII replacement. Both EU authorizations are cancelled, which further limits practical availability.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label (SmPC) with warnings and contraindications, to close the blocking safety gap (DG001)
-- Confirmed mechanism-of-action data via DrugBank API (DG002)
-- If pursuing repurposing further, prioritize the mechanistically closer, S1-stage candidates — **acquired coagulation factor deficiency** and **Hemophilia A with vascular abnormality** — over the current rank-1 candidate, and conduct a targeted literature/trial search for FVIII use in acquired hemophilia A (noting that inhibitor-positive patients typically require bypassing agents rather than direct FVIII replacement)
-- Confirmation of EU marketing authorization status, since the dataset currently shows 0 licenses
+- Safety information from the SmPC (warnings and contraindications), which is currently missing and blocks safety screening
+- Mechanism of action data from DrugBank
+- A systematic literature and trial search for the predicted indications
+- If any direction is pursued, a narrowly defined research question, such as FVIII-specific acquired deficiency without inhibitors (rank 5) or the haemophilia A with vascular abnormality variant (rank 9), which are the most biologically plausible
+- Confirmation of product availability, given the cancelled authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

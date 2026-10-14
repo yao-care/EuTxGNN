@@ -2,7 +2,7 @@
 layout: default
 title: Diflunisal
 parent: AI Predictions (L5)
-nav_order: 184
+nav_order: 191
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diflunisal: From Pain and Arthritis to Acromesomelic Dysplasia (Hunter-Thompson Type)
+# Diflunisal: From Hereditary Transthyretin Amyloidosis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Diflunisal is a salicylate-derived NSAID (non-steroidal anti-inflammatory drug) known for its analgesic and anti-inflammatory effects in musculoskeletal conditions such as pain and arthritis.
-The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunter-Thompson Type** — a rare genetic skeletal dysplasia caused by GDF5/CDMP1 mutations —
-however **no clinical trials** and **no publications** currently support this direction.
+Diflunisal is a salicylic acid-derived NSAID, authorised in the EU (as Attrogy) for hereditary transthyretin-mediated amyloidosis (ATTRv) with stage 1 or 2 polyneuropathy.
+The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Thompson type**, but there are **0 clinical trials** and **0 publications** supporting it, and no plausible mechanistic link was identified.
+The best-supported alternative among the predictions is **ankylosing spondylitis**, with **7 retrieved publications** (only 3 specific to diflunisal) and no registered trials.
 
 ---
 
@@ -43,41 +43,68 @@ however **no clinical trials** and **no publications** currently support this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain relief and inflammatory musculoskeletal conditions (arthritis, mild-to-moderate pain) |
-| Predicted New Indication | Acromesomelic Dysplasia, Hunter-Thompson Type |
+| Original Indication | Hereditary transthyretin-mediated amyloidosis (ATTRv) in adults with stage 1 or stage 2 polyneuropathy |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type (top-ranked prediction) |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the current dataset. Based on established pharmacology, Diflunisal is a difluorophenyl derivative of salicylic acid that acts as a dual COX-1/COX-2 inhibitor, suppressing prostaglandin synthesis to produce analgesic and anti-inflammatory effects. It is structurally related to aspirin but has a longer half-life (~8–12 hours) and improved gastrointestinal tolerability relative to conventional salicylates.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, diflunisal is an NSAID that inhibits COX-1/COX-2 and reduces prostaglandin-mediated inflammation and pain. It also stabilises transthyretin (TTR), which is the basis of its use in ATTRv polyneuropathy.
 
-Acromesomelic dysplasia, Hunter-Thompson type, is a rare autosomal recessive skeletal dysplasia caused by loss-of-function mutations in the *GDF5/CDMP1* gene. This disrupts BMP (bone morphogenetic protein) signaling during embryonic skeletal development, resulting in characteristic shortening of the forearms and lower legs (acromesomelia). The condition is a structural developmental defect, not an inflammatory disease.
+For the top-ranked prediction, **acromesomelic dysplasia, Hunter-Thompson type**, no plausible mechanistic link was identified. This is a genetic skeletal dysplasia caused by loss of function in the CDMP1/GDF5 gene. Neither COX inhibition nor TTR stabilisation addresses GDF5 signalling. The high TxGNN score is most likely an artefact of the knowledge graph rather than a real therapeutic signal. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, and colobomatous microphthalmia-rhizomelic dysplasia syndrome.
 
-The mechanistic rationale for this TxGNN prediction is weak. COX-1/COX-2 inhibition has no known intersection with GDF5/BMP signaling pathways, and prostaglandin suppression cannot correct or modify the underlying gene-level skeletal defect. Diflunisal could theoretically provide symptomatic pain relief in affected individuals, but this represents a general NSAID property rather than a disease-specific repurposing opportunity. The model's high prediction score likely reflects structural proximity in the drug-disease knowledge graph rather than genuine therapeutic biology.
+The more biologically coherent predictions are in the rheumatological area. NSAIDs are established first-line therapy for **ankylosing spondylitis** (rank 5) and related **inflammatory spondylopathy** (rank 10). Even here, the finding is better described as a class effect of an already-approved NSAID than as novel repurposing. Other predictions (spondyloarthropathy susceptibility, hypermobility of coccyx, rheumatoid vasculitis, myosclerosis) have only weak, indirect, or no mechanistic support.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the top-ranked prediction or for any of the other predictions evaluated.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for the top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type). The literature below was retrieved for the best-supported alternative, **ankylosing spondylitis** (the same set was returned for inflammatory spondylopathy).
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3524970](https://pubmed.ncbi.nlm.nih.gov/3524970/) | 1986 | Double-blind randomised trial (diflunisal-specific) | Clin Rheumatol | 12-week double-blind comparison of diflunisal 500 mg twice daily vs phenylbutazone in 38 men with AS, followed by a 36-week open extension. Both drugs improved symptoms, and the benefit was maintained. Diflunisal had a more pronounced and rapid initial analgesic effect. |
+| [3546687](https://pubmed.ncbi.nlm.nih.gov/3546687/) | 1986 | Cohort/observational | J Rheumatol | Lung function in 33 men with active AS treated with diflunisal or phenylbutazone (double-blind, 12 weeks, then open extension). Examined spirometry changes in relation to disease activity and NSAID treatment. |
+| [4062389](https://pubmed.ncbi.nlm.nih.gov/4062389/) | 1985 | Prospective cohort | Ann Rheum Dis | 48-week study in 38 men with active AS on phenylbutazone or diflunisal. Serum IgA correlated with chest expansion and lumbar flexion and was highest in patients with extensive radiological changes. Not drug-specific. |
+| [6772422](https://pubmed.ncbi.nlm.nih.gov/6772422/) | 1980 | Review | Drugs | Review of diclofenac (not diflunisal) in rheumatic diseases, including AS. |
+| [387372](https://pubmed.ncbi.nlm.nih.gov/387372/) | 1979 | Review | Drugs | Review of naproxen (not diflunisal) in rheumatic diseases and pain states. |
+| [3539573](https://pubmed.ncbi.nlm.nih.gov/3539573/) | 1986 | Review | Drugs | Review of pirprofen (not diflunisal), including use in AS. |
+| [2670397](https://pubmed.ncbi.nlm.nih.gov/2670397/) | 1989 | Review | Clin Pharm | Review of diclofenac sodium pharmacology and clinical use. Not diflunisal-specific. |
+
+The evidence is old (1979-1989), small, and largely indirect. Only PMIDs 3524970, 3546687 and 4062389 involve diflunisal, and they are not independent of one another (same research group and likely overlapping patient cohorts).
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006248 (status: cancelled) | Attrogy | Not specified | Treatment of hereditary transthyretin-mediated amyloidosis (ATTRv) in adult patients with stage 1 or stage 2 polyneuropathy. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease contraindications flagged in the knowledge graph** (these come from knowledge-graph drug-disease edges, not from label text): hypertension/hypertensive disorder, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter.
+- **Drug interactions**: 100 interactions were found, and all 20 listed in the data compiled for this report are of Moderate severity. Main groups:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
+  - Antidiabetic agents: metformin, chlorpropamide, glimepiride, and several insulins (aspart, degludec, detemir, glargine)
+  - Aminosalicylates and salicylates: mesalazine, balsalazide, acetylsalicylic acid
+  - Bowel preparations and electrolytes: picosulfuric acid, polyethylene glycol with electrolytes, sodium sulfate, potassium citrate, potassium bicarbonate
+
+Please refer to the SmPC for label-based warnings and contraindications.
 
 ---
 
@@ -86,12 +113,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Acromesomelic dysplasia, Hunter-Thompson type is a genetic structural bone defect driven by *GDF5/CDMP1* mutations; Diflunisal's COX inhibition mechanism has no pathway-level connection to BMP signaling and cannot modify the underlying disease, making this a non-viable repurposing candidate.
+The top-ranked prediction (acromesomelic dysplasia, Hunter-Thompson type) has no trials, no literature and no plausible mechanism, so it appears to be a knowledge-graph artefact. The only directions with some biological coherence (ankylosing spondylitis, inflammatory spondylopathy) rest on small, old studies and amount to a class effect of an already-known NSAID rather than new repurposing. In addition, the only EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
-- MOA data from DrugBank to confirm or refute any novel mechanistic link (e.g., off-target BMP pathway interactions)
-- TFDA/SmPC documentation for complete safety profile assessment
-- Preclinical evidence demonstrating any GDF5/BMP pathway modulation before any clinical hypothesis generation is warranted
+- Mechanism of action data for diflunisal
+- Label-based warnings and contraindications from the EMA product information (currently missing, which blocks safety screening)
+- If pursuing ankylosing spondylitis, a critical review of the 1986 diflunisal vs phenylbutazone trial and a comparison with current standard-of-care NSAIDs and biologics
+- Clarification of the reasons for the cancelled Attrogy authorisation and of the current availability of diflunisal in the EU
+- Route and dosage form compatibility assessment for any proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

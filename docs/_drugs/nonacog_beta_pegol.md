@@ -2,7 +2,7 @@
 layout: default
 title: Nonacog Beta Pegol
 parent: AI Predictions (L5)
-nav_order: 422
+nav_order: 436
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nonacog Beta Pegol: From Factor IX Deficiency to Primary Release Disorder of Platelets
+# Nonacog beta pegol: From Haemophilia B to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-> Nonacog beta pegol is a PEGylated recombinant coagulation factor IX, used as replacement therapy in factor IX deficiency (Hemophilia B).
-> The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**,
-> but currently **no clinical trials** and **no literature** support this specific pairing, and the evidence pack's own mechanistic review flags the prediction as likely a knowledge-graph artifact rather than a genuine pharmacological link.
-
----
+Nonacog beta pegol (Refixia) is a PEGylated recombinant factor IX, originally used to treat and prevent bleeding in patients with haemophilia B.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on a graph-based score alone and has no identifiable mechanistic rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Factor IX deficiency (Hemophilia B) — inferred from drug pharmacology; no formal indication text on file |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency); can be used for all age groups |
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 98.64% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Formal mechanism-of-action data is not available in structured form for this drug (data gap DG002). Based on the pharmacological description referenced in the evidence pack, Nonacog beta pegol is a PEGylated recombinant coagulation factor IX that acts on the intrinsic coagulation pathway (activated FIX converts FX to FXa), and is used to replace missing clotting factor in Factor IX deficiency.
+Detailed mechanism of action data is not available from DrugBank for this drug. From what is known, nonacog beta pegol is a PEGylated recombinant factor IX (rFIX). Factor IX works in the intrinsic coagulation pathway, where it forms the tenase complex with factor VIIIa. Its efficacy in haemophilia B comes from replacing the missing clotting factor.
 
-The top-ranked predicted indication, primary release disorder of platelets, is a **platelet granule-release/storage pool defect** — the underlying pathology is intrinsic platelet dysfunction, not a coagulation factor deficiency. Replacing FIX does not correct a platelet secretion defect, so there is no established pharmacological pathway connecting the two conditions. The evidence pack's own rationale states that the high TxGNN score most likely arises from shared "bleeding phenotype" clustering in the knowledge graph rather than a true mechanistic relationship.
+The predicted indication is a platelet secretion (granule release) defect, which belongs to primary haemostasis. Factor IX replacement does not correct platelet release or function. The high TxGNN score of 0.986 therefore looks like a graph-based association without a mechanistic basis, and the prediction should be treated as unsupported.
 
-This pattern repeats across all 10 ranked predictions for this drug: Glanzmann thrombasthenia (GPIIb/IIIa defect), pseudo-von Willebrand disease (GP1BA gain-of-function), constitutional thrombocytopenia, collagen-receptor bleeding disorders, Scott syndrome, diabetic retinopathy, FNAIT, platelet-type bleeding disorder, and hereditary thrombocytosis with limb defect — none share FIX's mechanistic pathway, and each rationale explicitly notes the mismatch. This suggests the predictions in this batch are driven by symptomatic (bleeding-phenotype) similarity in the graph rather than actionable drug-repurposing signal.
+The other top predictions show the same pattern:
 
----
+| Rank | Predicted Disease | Score | Mechanistic Assessment |
+|------|------|------|------|
+| 2 | Glanzmann thrombasthenia | 98.51% | Defect in integrin αIIbβ3 (platelet aggregation); FIX does not address it. Standard therapies are platelet transfusion, rFVIIa and antifibrinolytics. |
+| 3 | Pseudo-von Willebrand disease | 98.22% | Gain-of-function GPIbα defect in primary haemostasis; no rationale for FIX. |
+| 4 | Haemorrhagic disorder due to constitutional thrombocytopenia | 94.79% | Reduced platelet number or function; FIX does not raise platelet counts. |
+| 5 | Bleeding diathesis due to a collagen receptor defect | 94.52% | Platelet receptor defect (GPVI or α2β1); FIX acts downstream and cannot compensate. |
+| 6 | Scott syndrome | 93.43% | TMEM16F/ANO6 defect; a weak theoretical link via the tenase complex, but the limiting factor is the membrane surface, not FIX quantity. |
+| 7 | Severe nonproliferative diabetic retinopathy | 91.40% | Microvascular disease driven by hyperglycaemia and VEGF; likely a graph artifact, with possible thrombotic concerns. |
+| 8 | Fetal and neonatal alloimmune thrombocytopenia | 88.14% | Immune-mediated platelet destruction; managed with IVIG, corticosteroids and compatible platelets. |
+| 9 | Platelet-type bleeding disorder | 87.74% | General category of platelet disorders; not mechanistically grounded. |
+| 10 | Hereditary thrombocytosis with transverse limb defect | 86.42% | Prothrombotic phenotype; a procoagulant factor could increase thrombotic risk. |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-*(Note: NCT04398628, "ATHN Transcends," is a multi-disorder natural-history registry that includes Glanzmann thrombasthenia and platelet-type bleeding disorder patients, but it is an observational registry — not a drug-specific interventional trial — and is graded C-relevance in the source evidence.)*
-
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No marketing authorizations on file — the drug is currently not marketed (0 licenses recorded).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/004178 | Refixia | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency). Refixia can be used for all age groups. | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Please refer to the SmPC for safety information. No warnings, contraindications or drug interaction records were available in the data compiled for this report.
 
-*(Note: Drug label warnings/contraindications are marked as a **Blocking** data gap (DG001) — TFDA/EMA label data have not yet been retrieved and are required before this candidate can enter S1 safety screening.)*
-
----
+For the predicted new indications, a procoagulant product could add thrombotic risk in conditions with a prothrombotic phenotype, such as hereditary thrombocytosis.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 ranked predictions for this drug are Evidence Level L5 (model prediction only), with no supporting interventional trials or literature for any pairing. The top-ranked indication's own mechanistic review concludes the FIX pathway does not plausibly explain platelet release disorders, and the same disconnect recurs across the remaining candidates — indicating the signal is likely graph noise rather than a real repurposing opportunity. The drug is also not currently marketed, and critical safety data (label warnings/contraindications) are missing.
+The prediction has no clinical trials or literature support (evidence level L5). Factor IX replacement has no plausible mechanistic link to platelet release disorders. The only EU authorization has been cancelled, so there is no currently marketed product.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/EMA label warnings and contraindications (blocking gap DG001)
-- Obtain formal, structured MOA documentation (gap DG002)
-- If pursuing further, prioritize re-scoring or manual review of candidates outside this bleeding-phenotype cluster, since the current top-10 list shows systematically weak mechanistic plausibility
+- Mechanism of action data from DrugBank
+- Label warnings and contraindications from the EMA product information
+- Mechanistic or preclinical evidence that FIX replacement could benefit platelet function disorders
+- Clarification of why the EU authorization was cancelled (for example, commercial or safety reasons) and the current availability of the product
+- A review of whether any of the ten predicted indications is worth pursuing. Based on the current assessments, none appears to be.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Ivabradine Hydrochloride
 parent: AI Predictions (L5)
-nav_order: 328
+nav_order: 339
 evidence_level: L5
 indication_count: 0
 ---

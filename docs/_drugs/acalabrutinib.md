@@ -29,114 +29,107 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Acalabrutinib: From Mantle Cell Lymphoma/CLL to Non-Hodgkin Lymphoma (Familial)
+# Acalabrutinib: From Chronic Lymphocytic Leukaemia and Mantle Cell Lymphoma to Non-Hodgkin Lymphoma (Familial)
 
 ## One-Sentence Summary
 
-Acalabrutinib (Calquence®) is a second-generation, highly selective Bruton's tyrosine kinase (BTK) inhibitor approved by the US FDA for mantle cell lymphoma (MCL) and chronic lymphocytic leukemia (CLL), but currently not marketed in Taiwan.
-The TxGNN model predicts it may be effective for **lymphoma, non-Hodgkin, familial** — a category encompassing B-cell NHL subtypes such as DLBCL, follicular lymphoma, and marginal zone lymphoma —
-with **20 clinical trials** and **20 publications** currently supporting this direction.
-
----
+Acalabrutinib (Calquence) is a selective BTK inhibitor, originally used to treat chronic lymphocytic leukaemia (CLL) and mantle cell lymphoma (MCL).
+The TxGNN model predicts it may be effective for **familial non-Hodgkin lymphoma**, a label that is an ontology node rather than a studied disease.
+The supporting data are **14 clinical trials** (Phase 1/2 and Phase 2, mostly in other NHL subtypes) and **20 publications**.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Mantle cell lymphoma (MCL) and chronic lymphocytic leukemia (CLL) — US FDA approved; not registered in Taiwan |
-| Predicted New Indication | Lymphoma, Non-Hodgkin, Familial |
+|------|------|
+| Original Indication | Previously untreated and previously treated CLL (monotherapy or combined with obinutuzumab or venetoclax); previously untreated MCL in combination with bendamustine and rituximab (transplant-ineligible); relapsed/refractory MCL not previously treated with a BTK inhibitor |
+| Predicted New Indication | Lymphoma, non-Hodgkin, familial |
 | TxGNN Prediction Score | 97.64% |
 | Evidence Level | L2 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (marketing authorization cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Acalabrutinib is a second-generation, covalent BTK inhibitor that irreversibly binds to the Cys481 residue of Bruton's tyrosine kinase, blocking downstream B-cell receptor (BCR) signaling through the NF-κB and MAPK pathways. This mechanism selectively eliminates the survival and proliferation signals that malignant B cells depend upon. Compared to first-generation ibrutinib, acalabrutinib demonstrates substantially improved kinase selectivity, reducing off-target inhibition of TEC-family and EGFR kinases — a property that translates to a more favorable cardiovascular and bleeding safety profile.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, acalabrutinib is a covalent, selective BTK inhibitor. It blocks B-cell receptor signaling, which drives survival and proliferation in many B-cell non-Hodgkin lymphomas.
 
-B-cell non-Hodgkin lymphomas (NHL) — including MCL, diffuse large B-cell lymphoma (DLBCL), follicular lymphoma (FL), and marginal zone lymphoma (MZL) — share constitutive activation of the BCR/BTK signaling axis as a common molecular vulnerability. The step from acalabrutinib's established indications (MCL, CLL) to the predicted indication of familial NHL is therefore one of scope rather than mechanism: all mature B-cell malignancies listed under the NHL umbrella express BTK and depend on the same BCR-driven survival pathways that acalabrutinib targets.
+CLL and MCL are already on the label, so the repurposing signal rests on other NHL subtypes. These include diffuse large B-cell lymphoma (DLBCL), follicular lymphoma and other indolent NHL. The label "familial NHL" is a TxGNN ontology node. No trial studies it directly, and the supporting evidence concerns related NHL subtypes.
 
-Clinical translation of this mechanistic rationale is already well underway. Randomized Phase 2 trials in DLBCL (STELLAR trial, NCT03899337; HARMONIA-UK, NCT04546620) and Phase 2 studies in follicular lymphoma (NCT04883437) directly evaluate acalabrutinib in NHL subtypes beyond its approved indications. The landmark ACE-LY-004 trial (Lancet, 2018) demonstrated an 81% overall response rate in R/R MCL — a disease that is itself classified within NHL — providing the foundation for the FDA's 2017 accelerated approval and validating the strong mechanistic case for the broader NHL prediction.
-
----
+The evidence comes from Phase 2 and Phase 1/2 combination studies. It has not been confirmed in Phase 3 trials, and in combination designs the contribution of acalabrutinib is hard to isolate.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|-----------|-------------|
-| [NCT03899337](https://clinicaltrials.gov/study/NCT03899337) | Phase 2 | Recruiting | 105 | STELLAR trial: Randomized comparison of acalabrutinib + CHOP-R vs CHOP-R alone in newly diagnosed Richter's Syndrome (CLL-transformed DLBCL); highest-relevance direct acalabrutinib RCT in NHL |
-| [NCT04546620](https://clinicaltrials.gov/study/NCT04546620) | Phase 2 | Active, not recruiting | 453 | Molecularly guided randomized Phase 2: acalabrutinib added to R-CHOP in untreated CD20+ DLBCL; large-scale 453-patient trial, completion expected May 2028 |
-| [NCT04094142](https://clinicaltrials.gov/study/NCT04094142) | Phase 2 | Completed | 66 | R²A (acalabrutinib + rituximab + lenalidomide) in R/R B-cell NHL; 66-patient completed trial with published efficacy results (Park et al., Nature Commun 2024) |
-| [NCT04002947](https://clinicaltrials.gov/study/NCT04002947) | Phase 2 | Recruiting | 132 | NCI-sponsored study of acalabrutinib + DA-EPOCH-R or R-CHOP in untreated aggressive B-cell lymphoma (primarily DLBCL); ongoing, completion expected March 2030 |
-| [NCT04883437](https://clinicaltrials.gov/study/NCT04883437) | Phase 2 | Recruiting | 49 | Acalabrutinib + obinutuzumab in previously untreated low-tumor-burden follicular lymphoma and other indolent NHL; chemotherapy-free frontline approach |
-| [NCT04257578](https://clinicaltrials.gov/study/NCT04257578) | Phase 1/2 | Active, not recruiting | 23 | Acalabrutinib + anti-CD19 CAR-T (axicabtagene ciloleucel) in B-cell lymphoma; exploring BTK inhibition as a strategy to enhance CAR-T cell efficacy |
-| [NCT03623373](https://clinicaltrials.gov/study/NCT03623373) | Phase 2 | Completed | 13 | Pilot study of acalabrutinib + bendamustine-rituximab → cytarabine-rituximab in treatment-naïve MCL; completed April 2025, informs cooperative group design |
-| [NCT02362035](https://clinicaltrials.gov/study/NCT02362035) | Phase 1/2 | Completed | 161 | Acalabrutinib + pembrolizumab across hematologic malignancies; 161-patient PK/PD/safety study across multiple NHL subtypes, completed October 2025 |
-| [NCT02180711](https://clinicaltrials.gov/study/NCT02180711) | Phase 1/2 | Active, not recruiting | 113 | Acalabrutinib alone or with rituximab in R/R follicular lymphoma and marginal zone lymphoma; long-term follow-up ongoing through December 2028 |
-| [NCT04502394](https://clinicaltrials.gov/study/NCT04502394) | Phase 1/2 | Unknown | 84 | KRT-232 (MDM2 inhibitor) + acalabrutinib in R/R DLBCL and CLL; 84-patient combination study evaluating dual apoptotic pathway blockade |
+|---------|------|------|------|---------|
+| [NCT03899337](https://clinicaltrials.gov/study/NCT03899337) | Phase 2 | Active, not recruiting | 72 | Randomized CHOP-R ± acalabrutinib in newly diagnosed Richter's syndrome; strongest comparative design in this set, results pending |
+| [NCT03571308](https://clinicaltrials.gov/study/NCT03571308) | Phase 1/2 | Completed | 39 | Acalabrutinib + R-CHOP in untreated DLBCL |
+| [NCT04546620](https://clinicaltrials.gov/study/NCT04546620) | Phase 2 | Active, not recruiting | 453 | Randomized, molecular-guided addition of acalabrutinib to R-CHOP in untreated DLBCL |
+| [NCT04094142](https://clinicaltrials.gov/study/NCT04094142) | Phase 2 | Completed | 66 | Acalabrutinib + rituximab + lenalidomide in relapsed/refractory B-cell NHL |
+| [NCT02180711](https://clinicaltrials.gov/study/NCT02180711) | Phase 1/2 | Active, not recruiting | 113 | Acalabrutinib alone or in combination in B-cell NHL (relapsed/refractory follicular and marginal zone lymphoma) |
+| [NCT04883437](https://clinicaltrials.gov/study/NCT04883437) | Phase 2 | Recruiting | 49 | Single-arm acalabrutinib + obinutuzumab in untreated low-tumor-burden follicular and other indolent NHL |
+| [NCT05583149](https://clinicaltrials.gov/study/NCT05583149) | Phase 2 | Active, not recruiting | 28 | Acalabrutinib + liso-cel in relapsed/refractory aggressive B-cell lymphoma |
+| [NCT04257578](https://clinicaltrials.gov/study/NCT04257578) | Phase 1/2 | Active, not recruiting | 23 | Acalabrutinib + anti-CD19 CAR-T (axicabtagene ciloleucel) in B-cell lymphoma |
+| [NCT02362035](https://clinicaltrials.gov/study/NCT02362035) | Phase 1/2 | Completed | 161 | Acalabrutinib + pembrolizumab in haematologic malignancies |
+| [NCT03571568](https://clinicaltrials.gov/study/NCT03571568) | Phase 1/2 | Recruiting | 140 | BI-1206 + rituximab ± acalabrutinib in relapsed/refractory indolent B-cell NHL |
 
----
+Four further trials were found but are not informative. NCT04836832 was withdrawn with 0 enrolled. NCT04419389 was terminated with 1 patient. NCT04502394 and NCT06564038 have acalabrutinib only as a partner drug. NCT03666000 is a CAR-T study in which acalabrutinib is not the focus.
 
 ## Literature Evidence
 
+Most of the literature concerns mantle cell lymphoma, which is already on the label. It supports BTK inhibition in B-cell lymphoma generally rather than familial NHL specifically.
+
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [40311141](https://pubmed.ncbi.nlm.nih.gov/40311141/) | 2025 | Phase 1b/2 Trial | J Clin Oncol | Acalabrutinib + bendamustine-rituximab (ABR) in untreated MCL: demonstrated superior PFS over historical BR with a more favorable toxicity profile than ibrutinib-BR |
-| [38555311](https://pubmed.ncbi.nlm.nih.gov/38555311/) | 2024 | Phase 2 Trial | Nature Commun | R²A regimen (acalabrutinib + lenalidomide + rituximab) in R/R aggressive B-cell NHL: single-arm Phase 2 reporting ORR and CR endpoints; supports triplet efficacy |
-| [38781315](https://pubmed.ncbi.nlm.nih.gov/38781315/) | 2024 | Phase 1b/2 Trial (2-year follow-up) | Blood Advances | AVR (acalabrutinib + venetoclax + rituximab) in treatment-naïve MCL: 95.2% induction completion rate, 2-year follow-up confirms durable responses |
-| [37470152](https://pubmed.ncbi.nlm.nih.gov/37470152/) | 2024 | Phase 2 Trial (Final Report) | Haematologica | Final OS data from ACE-LY-004 Phase 2: acalabrutinib monotherapy in R/R MCL including poor-prognostic subgroups; long-term survival outcomes |
-| [40775236](https://pubmed.ncbi.nlm.nih.gov/40775236/) | 2025 | Phase 2 Trial | Nature Commun | Frontline acalabrutinib + lenalidomide + rituximab for advanced-stage follicular lymphoma with high tumor burden; 24-patient trial reporting best CR rate as primary endpoint |
-| [41289154](https://pubmed.ncbi.nlm.nih.gov/41289154/) | 2026 | Phase 2 Trial | Blood Advances | MRD-guided acalabrutinib + lenalidomide ± rituximab/obinutuzumab in frontline MCL: molecular CR (uMRD6 by clonoSEQ) as primary endpoint, novel MRD-adaptive strategy |
-| [29241979](https://pubmed.ncbi.nlm.nih.gov/29241979/) | 2018 | Phase 2 Single-arm Trial | Lancet | ACE-LY-004 pivotal trial: acalabrutinib monotherapy in R/R MCL; 81% ORR, 40% CR — the basis for FDA accelerated approval in MCL |
-| [29209955](https://pubmed.ncbi.nlm.nih.gov/29209955/) | 2018 | Regulatory Review | Drugs | First global approval summary for acalabrutinib (Calquence®): clinical development milestones, Phase 1/2 dose-finding, and regulatory pathway for MCL |
-| [36029036](https://pubmed.ncbi.nlm.nih.gov/36029036/) | 2023 | Review | Br J Haematol | Updated review of primary and acquired resistance to BTK inhibitors in CLL and NHL: covers C481S mutation, bypass signaling via PLCG2/RAS, and microenvironmental mechanisms |
-| [38578606](https://pubmed.ncbi.nlm.nih.gov/38578606/) | 2024 | Review | Clin Cancer Res | New strategies for BTK targeting: next-generation covalent/non-covalent inhibitors and BTK degraders; addresses acquired resistance challenges across CLL and NHL |
+|------|-----|------|------|---------|
+| [40311141](https://pubmed.ncbi.nlm.nih.gov/40311141/) | 2025 | RCT | J Clin Oncol | Acalabrutinib + bendamustine-rituximab in untreated MCL (on-label basis) |
+| [29241979](https://pubmed.ncbi.nlm.nih.gov/29241979/) | 2018 | Single-arm Phase 2 | Lancet | Acalabrutinib in relapsed/refractory MCL (ACE-LY-004) |
+| [37470152](https://pubmed.ncbi.nlm.nih.gov/37470152/) | 2024 | Phase 2 | Haematologica | Final results and overall survival in relapsed/refractory MCL |
+| [38781315](https://pubmed.ncbi.nlm.nih.gov/38781315/) | 2024 | Phase 1b/2 | Blood Adv | Acalabrutinib + venetoclax + rituximab in untreated MCL; 2-year safety and efficacy (21 patients) |
+| [30967367](https://pubmed.ncbi.nlm.nih.gov/30967367/) | 2019 | Review | Blood | Acalabrutinib for MCL; 81% overall response rate in relapsed disease |
+| [35266562](https://pubmed.ncbi.nlm.nih.gov/35266562/) | 2022 | Review | Am J Hematol | Update on MCL pathogenesis, risk stratification and treatment |
+| [30390220](https://pubmed.ncbi.nlm.nih.gov/30390220/) | 2018 | Review | Drugs | BTK targeting across B-cell malignancies |
+| [29781323](https://pubmed.ncbi.nlm.nih.gov/29781323/) | 2018 | Review | Expert Opin Emerg Drugs | BCR pathway inhibitors (SYK, BTK, PI3K) in NHL |
+| [32715803](https://pubmed.ncbi.nlm.nih.gov/32715803/) | 2020 | Review | Expert Opin Drug Saf | Safety of targeted therapies in B-cell NHL |
+| [28439883](https://pubmed.ncbi.nlm.nih.gov/28439883/) | 2017 | Review | Br J Haematol | Update on Richter syndrome |
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Acalabrutinib currently has **no marketing authorization in Taiwan** (total licenses: 0). No approved product records are available from TFDA. The drug is marketed as Calquence® in the United States (FDA-approved for R/R MCL since October 2017; first-line and R/R CLL since November 2019) and holds EMA approval in Europe. No Taiwan regulatory filing has been identified in the current dataset.
-
-> **Note:** The absence of Taiwan TFDA package insert data is flagged as a **Blocking data gap** (DG001), meaning Taiwan-specific warnings, contraindications, and dosing guidance cannot be assessed from local sources. The US FDA label and EMA SmPC should be used as interim references.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005299 (status: cancelled) | Calquence | Not specified | Monotherapy or combination with obinutuzumab or venetoclax in previously untreated CLL; monotherapy in previously treated CLL; with bendamustine and rituximab in untreated MCL not eligible for ASCT; monotherapy in relapsed/refractory MCL... |
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Second-generation selective covalent BTK inhibitor; not a conventional cytotoxic agent |
-| Myelosuppression Risk | Moderate — Neutropenia and thrombocytopenia reported in clinical trials; significantly less myelosuppressive than chemotherapy, but haematological monitoring is required |
-| Emetogenicity Classification | Low — Oral targeted agent; classified as minimal-to-low emetogenic risk per MASCC/ESMO guidelines |
-| Monitoring Items | CBC with differential (at baseline and during treatment), liver function tests (ALT/AST), renal function, platelet function and bleeding assessment, cardiac monitoring (atrial fibrillation risk) |
-| Handling Protection | Follow institutional hazardous drug handling protocols for oral targeted therapies; standard precautions for preparation and dispensing |
-
----
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (covalent BTK inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; blood counts are commonly monitored for BTK inhibitors |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC (or US FDA prescribing information for Calquence®) for safety information, as Taiwan TFDA package insert data is not currently available.
+No warnings or contraindications were available in the data compiled for this report. Please refer to the SmPC for safety information.
 
----
+- **Drug Interactions**: The interaction screen returned 100 interacting drugs; 20 are shown in the data compiled for this report.
+  - **Major**: aprepitant, acetylsalicylic acid, clarithromycin, and the proton pump inhibitors dexlansoprazole, esomeprazole and lansoprazole.
+  - **Moderate**: antacids (aluminium hydroxide, calcium carbonate, magaldrate, magnesium carbonate, hydroxide and oxide), H2 blockers (cimetidine, famotidine), clotrimazole, dexamethasone, dexfenfluramine, fenfluramine, glycerol phenylbutyrate and metreleptin.
+  - Acid-reducing agents and CYP3A-interacting drugs deserve particular attention in any combination regimen.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 2 clinical trials directly studying acalabrutinib in B-cell NHL subtypes (DLBCL, follicular lymphoma, MCL) demonstrate a clear translational pathway, and the shared BTK/BCR molecular dependency across all mature B-cell malignancies provides a mechanistically coherent basis for the TxGNN prediction of 97.64%. The existing FDA approval for MCL and CLL establishes a well-characterized safety and efficacy foundation that substantially de-risks further NHL investigation.
+Phase 2 and Phase 1/2 studies, including randomized trials in DLBCL and Richter's syndrome, give moderate support for acalabrutinib in non-approved B-cell NHL subtypes. However, "familial NHL" has no dedicated trial, there is no Phase 3 confirmation, and the only EU authorization is cancelled. This supports further investigation rather than an unconditional go.
 
 **To proceed, the following is needed:**
-
-- **Resolve DG001 (Blocking):** Obtain Taiwan TFDA package insert for acalabrutinib via TFDA official website to assess Taiwan-specific warnings, contraindications, and black box warnings — this is required before any local safety evaluation
-- **Resolve DG002 (High):** Retrieve complete MOA and drug interaction data from DrugBank (DB11703), specifically CYP3A4 substrate profile and interaction with strong CYP3A4 inhibitors/inducers
-- **Subtype stratification:** Define the specific NHL subtype(s) of highest unmet need in Taiwan (DLBCL vs. follicular lymphoma vs. MZL) to prioritize the most actionable repurposing target
-- **Monitor key trials:** Await primary results from NCT04546620 (HARMONIA-UK, n=453, DLBCL) and NCT03899337 (STELLAR, n=105, Richter's Syndrome/DLBCL) before any Phase 3 escalation decision
-- **Taiwan regulatory pathway:** Assess feasibility of TFDA registration for an NHL indication, including data package requirements and local bridging study needs
+- Results from the randomized Phase 2 trials (NCT03899337, NCT04546620) and completed studies (NCT03571308, NCT04094142)
+- A clear definition of the target population, since "familial NHL" is an ontology label, and confirmation of the specific NHL subtype
+- Mechanism of action data and the SmPC warnings and contraindications, which are currently missing
+- Clarification of EU regulatory status, given that the marketing authorization is listed as cancelled
+- A plan for managing drug interactions, especially with acid-reducing agents and strong CYP3A inhibitors such as clarithromycin
+- A safety monitoring plan, including infection and bleeding risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

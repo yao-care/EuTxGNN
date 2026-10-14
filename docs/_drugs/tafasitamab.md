@@ -2,7 +2,7 @@
 layout: default
 title: Tafasitamab
 parent: AI Predictions (L5)
-nav_order: 563
+nav_order: 584
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,84 +33,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Tafasitamab is an Fc-enhanced anti-CD19 monoclonal antibody, used in combination with lenalidomide for relapsed/refractory diffuse large B-cell lymphoma (DLBCL). The TxGNN model predicts it may be effective for **Drug-Induced Osteoporosis**, but currently there are **no clinical trials** and **no supporting literature**, and the evidence pack itself notes no known biological link between CD19+ B-cell depletion and bone metabolism.
-
----
+Tafasitamab is an anti-CD19 monoclonal antibody, originally used together with lenalidomide to treat relapsed or refractory diffuse large B-cell lymphoma (DLBCL).
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Diffuse Large B-Cell Lymphoma (DLBCL), in combination with lenalidomide |
-| Predicted New Indication | Drug-Induced Osteoporosis |
+|------|------|
+| Original Indication | Relapsed or refractory DLBCL in adults not eligible for autologous stem cell transplant (in combination with lenalidomide, followed by tafasitamab monotherapy) |
+| Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 98.71% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action (MOA) data for tafasitamab is not available in the current evidence pack (data gap, severity: High). Based on information embedded in the prediction rationale, tafasitamab is an Fc-enhanced monoclonal antibody targeting CD19, which depletes CD19+ B cells through antibody-dependent cellular cytotoxicity (ADCC) and phagocytosis (ADCP). It is approved for use in combination with lenalidomide for relapsed or refractory DLBCL.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From the published literature, tafasitamab is an Fc-modified, humanized anti-CD19 monoclonal antibody. It targets CD19 on B cells and increases immune-mediated killing of these cells. Its efficacy in relapsed or refractory DLBCL, combined with lenalidomide, has been shown in the phase II L-MIND study.
 
-For the top-ranked prediction, drug-induced osteoporosis, the evidence pack explicitly states that there is no known direct mechanistic relationship between CD19+ B-cell depletion and bone metabolism regulation. The pairing arises purely from TxGNN's network-topology-based inference and is described in the pack as lacking biological plausibility.
+No established mechanistic link connects CD19-directed B-cell depletion to bone metabolism or drug-induced osteoporosis. The high prediction score (98.71%) comes from the knowledge-graph model and is not backed by any clinical or literature evidence. It should be treated as a hypothesis only.
 
-Because no mechanistic rationale, clinical trial, or published literature supports this specific pairing, it should be treated as a low-confidence AI hypothesis only, not a candidate ready for further pharmacological reasoning.
-
----
+Other top-ranked predictions are also unsupported. These include severe nonproliferative diabetic retinopathy, diabetic retinopathy, HER2-positive breast carcinoma and psoriasis. None has trials or publications, and none has a plausible CD19 mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for drug-induced osteoporosis.
 
 ## EU Market Information
 
-Tafasitamab is not currently authorized for marketing in the European Union (0 marketing authorizations on record).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005436 | Minjuvi (status: cancelled) | Not specified | Minjuvi is indicated in combination with lenalidomide followed by Minjuvi monotherapy for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL)... |
 
 ## Cytotoxicity
 
-Tafasitamab targets DLBCL, a hematologic malignancy, and is therefore evaluated as an antineoplastic agent.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy / Immunotherapy (Fc-enhanced anti-CD19 monoclonal antibody; ADCC/ADCP-mediated B-cell depletion, not a conventional cytotoxic agent) |
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-CD19 monoclonal antibody, Fc-enhanced) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions (haematological parameters such as a complete blood count are generally relevant) |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening found 41 potential interactions, and the data compiled for this report list 20 of them. Examples of **Major**-level interactions:
+  - Deferiprone
+  - Samarium (153Sm) lexidronam
+  - Adalimumab
+  - Baricitinib
+  - Certolizumab pegol
+  - Cladribine
+  - Leflunomide
+  - Natalizumab
 
----
+  Examples of **Moderate**-level interactions include strontium chloride Sr-89, roflumilast, chloramphenicol, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab, dimethyl fumarate, niraparib and ocrelizumab. Many of these are immunosuppressive or myelosuppressive agents, so additive effects on immune suppression or blood counts are a concern.
+- **Other safety signal**: One case report described pityriasis lichenoides chronica in a patient receiving tafasitamab with lenalidomide. Lenalidomide is a confounder, so this is an adverse-event association and not evidence of benefit.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (drug-induced osteoporosis) is evidence level L5 — a pure AI network-topology prediction with no clinical trials, no literature, and no biological plausibility per the evidence pack's own analysis. Tafasitamab is also not marketed in the EU, and critical safety data (TFDA/SmPC warnings, contraindications, DDI) and confirmed MOA data are missing, blocking entry into the S1 safety pre-screening stage.
+The prediction for drug-induced osteoporosis has no supporting trials or publications (evidence level L5), and no plausible mechanism links CD19 B-cell depletion to bone loss. The EU authorization for Minjuvi is also cancelled, so there is no currently valid marketed product.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data via DrugBank API query
-- TFDA/EU SmPC warnings, contraindications, and drug interaction data (currently blocking S1 safety evaluation)
-- Independent preclinical or mechanistic studies linking B-cell depletion/immune modulation to bone metabolism, if this specific hypothesis is to be pursued
-- Note: rank-10 candidate (pityriasis lichenoides) in the same evidence pack reflects an adverse drug reaction case report during tafasitamab+lenalidomide therapy, not a treatment signal — flagged here to avoid misinterpretation in future evaluation rounds
+- Mechanism of action data (MOA) and a pharmacological rationale linking CD19 B-cell biology to bone metabolism
+- Preclinical studies (for example, bone-loss models) to test the hypothesis
+- Warnings and contraindications from the SmPC, and the reasons for the cancelled EU authorization
+- A safety assessment for a non-oncology population, since the current safety evidence comes from lymphoma patients on combination therapy
+- A review of the other ranked predictions only if new supporting evidence emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

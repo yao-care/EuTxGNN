@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Urea
-parent: High Evidence (L1-L2)
-nav_order: 628
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 652
+evidence_level: L5
 indication_count: 10
 ---
 
 # Urea
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,109 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Urea: From No EU-Approved Indication to Dermatitis
+# Urea: From Diagnosis of Helicobacter pylori Infection to Dermatitis
 
 ## One-Sentence Summary
 
-Urea (carbamide, DrugBank DB03904) currently holds no EU marketing authorization and has no recorded approved indication in this Evidence Pack.
-The TxGNN model predicts it may be effective for **Dermatitis**, and while a broader search returned 50 registered trials under this disease term, only **6 trials specifically study urea-based creams** (mainly for radiodermatitis and chemotherapy-induced hand-foot skin reactions); **no dedicated literature** was identified for this specific drug-indication pair.
+Urea was authorised in the EU only as a diagnostic agent, used in a breath test for *Helicobacter pylori* infection of the stomach and duodenum.
+The TxGNN model predicts it may be effective for **dermatitis**, with **10 clinical trials** and **20 publications** currently supporting this direction.
+Most of this evidence concerns topical urea creams, usually as part of a combination product or as a comparator, not the oral diagnostic form.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on record — Urea has no EU marketing authorization as a standalone medicinal product in this Evidence Pack |
+| Original Indication | In vivo diagnosis of gastroduodenal *Helicobacter pylori* infection (diagnostic use only) |
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 98.21% |
-| Evidence Level | L2 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (as assigned in the data compiled for this report; see note below) |
+| EU Market Status | Cancelled only (no currently valid authorisations) |
+| Number of Authorizations | 2 (both cancelled) |
+| Recommended Decision | Proceed with Guardrails |
+
+*Note on evidence level:* By the strict rule (at least two completed Phase 3 RCTs), the evidence is weaker than L1 suggests. Only two of the Phase 3 trials are completed, and both test urea as a minor or combined component in small studies. A more conservative reading would be L2 to L3.
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for urea in this Evidence Pack. Based on general pharmacological knowledge, urea is a small-molecule keratolytic and humectant that hydrates the stratum corneum and reduces hyperkeratosis when applied topically — properties widely exploited in dermatological creams. This established topical activity offers a plausible mechanistic basis for a knowledge-graph association with dermatitis, even though urea does not carry a formal EU-wide marketing authorization as a standalone product.
+Detailed mechanism-of-action data for urea is not available in the data compiled for this report. Its original use is diagnostic: a labelled urea breath test for *H. pylori*. That use is pharmacologically unrelated to treating skin disease, so this is a genuine repurposing from systemic diagnostic use to topical therapeutic use.
 
-Because no original indication is on record for this compound, the TxGNN prediction here is not an extrapolation from a known approved use, but a direct knowledge-graph inference. Independent support comes from real-world clinical practice: several completed and ongoing trials use urea-based creams specifically to prevent or treat radiodermatitis (skin inflammation from radiotherapy) and capecitabine-induced hand-foot skin reaction/palmar-plantar erythrodysesthesia — both of which are dermatitis-spectrum conditions. This convergence between the model's prediction and existing off-label/adjunctive clinical use lends independent plausibility to the prediction, though it falls short of confirming a formal therapeutic indication.
+For skin, however, urea is well characterised. It is a natural component of the skin's moisturising factor and acts as a humectant (it draws in and holds water), a keratolytic (it softens and loosens thickened skin) and a skin-barrier enhancer. Reviews also describe antipruritic and antimicrobial effects. These actions plausibly support use in atopic dermatitis, dry skin (xerosis), hand eczema, and dermatitis caused by radiotherapy or capecitabine.
+
+The evidence applies to topical formulations, typically 5–10%, and not to oral or diagnostic urea. Most trials use urea as a comparator or as one part of a combination cream, so the size of urea's own effect remains uncertain.
+
+---
 
 ## Clinical Trial Evidence
 
-*Note: the disease-level search returned 50 trials, but most investigate unrelated compounds (e.g., hydroxyurea, biologics, vaccines) captured only by keyword overlap. The table below lists the 6 trials that actually study urea-based formulations.*
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02247830](https://clinicaltrials.gov/study/NCT02247830) | Phase 3 | Completed | 48 | Compared chamomile recutita gel vs. urea-based cream for **prevention** of radiodermatitis in breast/head-and-neck cancer patients undergoing radiotherapy. |
-| [NCT02251392](https://clinicaltrials.gov/study/NCT02251392) | Phase 3 | Unknown | 100 | Evaluated chamomile gel, chamomile infusion, and urea cream for **treatment** of established radiodermatitis in breast/head-and-neck cancer patients. |
-| [NCT02249884](https://clinicaltrials.gov/study/NCT02249884) | Phase 2 | Completed | 30 | Dose-response study establishing the safe/tolerable dose of chamomile gel and urea cream for radiodermatitis prevention and treatment. |
-| [NCT05641246](https://clinicaltrials.gov/study/NCT05641246) | Phase 2 | Completed | 86 | Urea-based cream (Carbamide) combined with topical diclofenac reduced hand-foot syndrome incidence and improved quality of life in capecitabine-treated breast cancer patients. |
-| [NCT05348278](https://clinicaltrials.gov/study/NCT05348278) | Phase 2/3 | Unknown | 214 | RCT testing urea-based cream to prevent capecitabine-associated hand-foot skin reactions, following prior positive data with sorafenib. |
-| [NCT05939726](https://clinicaltrials.gov/study/NCT05939726) | N/A | Completed | 145 | Three-arm trial comparing moisturizing cream with/without vitamin E concentrate added to urea-based cream, versus urea-based cream alone, for capecitabine-associated palmar-plantar erythrodysesthesia. |
+| [NCT05348278](https://clinicaltrials.gov/study/NCT05348278) | Phase 2/3 | Unknown | 214 | Urea-based cream to prevent capecitabine-associated hand-foot skin reactions; an earlier study was negative |
+| [NCT06553417](https://clinicaltrials.gov/study/NCT06553417) | N/A | Completed | 60 | An "emollient plus" compared with urea 10% in mild-to-moderate atopic dermatitis |
+| [NCT03901144](https://clinicaltrials.gov/study/NCT03901144) | Phase 2 | Completed | 50 | Novel moisturiser for atopic dermatitis and skin barrier; the role of urea is unclear |
+| [NCT05939726](https://clinicaltrials.gov/study/NCT05939726) | N/A (Phase II in title) | Completed | 145 | Moisturising creams with or without vitamin E concentrate, added to urea-based cream or urea cream alone, in capecitabine-associated palmar-plantar erythrodysesthesia |
+| [NCT02251392](https://clinicaltrials.gov/study/NCT02251392) | Phase 3 | Unknown | 100 | Chamomile gel, chamomile infusion and urea for radiodermatitis in breast or head and neck cancer |
+| [NCT02247830](https://clinicaltrials.gov/study/NCT02247830) | Phase 3 | Completed | 48 | Chamomile gel and urea cream to prevent radiodermatitis during radiotherapy |
+| [NCT02249884](https://clinicaltrials.gov/study/NCT02249884) | Phase 2 | Completed | 30 | Dose-finding of chamomile gel and urea cream for radiodermatitis |
+| [NCT05641246](https://clinicaltrials.gov/study/NCT05641246) | Phase 2 | Completed | 86 | Topical diclofenac added to urea-based cream for hand-foot syndrome in capecitabine-treated breast cancer |
+| [NCT00576238](https://clinicaltrials.gov/study/NCT00576238) | Phase 3 | Completed | 55 | Betamethasone cream tolerance in atopic eczema, and a moisturiser to prevent recurrence; urea is only indirectly relevant |
+| [NCT00771121](https://clinicaltrials.gov/study/NCT00771121) | Phase 4 | Unknown | Not reported | Moisturising creams and skin barrier function; limited relevance |
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28166390](https://pubmed.ncbi.nlm.nih.gov/28166390/) | 2017 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Emollients and moisturisers for eczema; effectiveness of moisturisers assessed |
+| [34596890](https://pubmed.ncbi.nlm.nih.gov/34596890/) | 2021 | Review | Dermatol Ther | Urea in dermatology: emollient, moisturising, keratolytic, barrier-enhancing and antimicrobial properties |
+| [30378232](https://pubmed.ncbi.nlm.nih.gov/30378232/) | 2018 | Review | Dermatol Ther | Summary of clinical evidence for topical urea in skin hydration and skin disorders |
+| [40265493](https://pubmed.ncbi.nlm.nih.gov/40265493/) | 2025 | Review | Int J Dermatol | Basic emollients (including urea) for dry skin in atopic dermatitis |
+| [40231699](https://pubmed.ncbi.nlm.nih.gov/40231699/) | 2025 | Review | Int J Dermatol | Mechanisms by which basic emollients restore skin hydration and barrier function |
+| [14572299](https://pubmed.ncbi.nlm.nih.gov/14572299/) | 2003 | Review | Am J Clin Dermatol | Role of emollients and moisturisers in dry skin barrier disorders |
+| [36387960](https://pubmed.ncbi.nlm.nih.gov/36387960/) | 2022 | Observational studies | Clin Cosmet Investig Dermatol | Urea cream for hand eczema and urea foam for seborrhoeic dermatitis of the scalp |
+| [39973079](https://pubmed.ncbi.nlm.nih.gov/39973079/) | 2025 | Clinical study | J Cosmet Dermatol | Emollient "plus" compared with urea 10% in mild-to-moderate atopic dermatitis |
+| [35167133](https://pubmed.ncbi.nlm.nih.gov/35167133/) | 2022 | Clinical study | Clin Exp Dermatol | Different emollient creams have different effects on skin barrier physiology in adults with atopic dermatitis |
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000151 (cancelled) | Pylobactell | Not specified | Diagnostic use only: in vivo diagnosis of gastroduodenal *H. pylori* infection |
+| EMEA/H/C/000140 (cancelled) | Helicobacter Test INFAI | Not specified | In vivo diagnosis of gastroduodenal *H. pylori* infection in adults, adolescents likely to have peptic ulcer disease, and children aged 3 to 11 years in defined situations... |
+
+---
 
 ## Safety Considerations
 
-No detailed safety warnings, contraindications, or drug interaction data were available in the evidence pack for urea in this indication (all queries returned empty or "not found"). This is flagged as a **blocking data gap** (DG001: TFDA/EU label warnings and contraindications not yet obtained) that must be resolved before any safety review can proceed.
+- **Disease-level contraindication signals (knowledge graph, not label text):** purulent otitis media, ear infection and otitis media.
+- **Drug interactions:** 54 interactions were recorded, and the 20 listed are all of moderate severity. They fall mainly into these groups:
+  - Laxatives and bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol, sodium sulfate, lactulose, lactitol, magnesium hydroxide and citrate, glycerin, castor oil, mineral oil, phenolphthalein)
+  - SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
+  - Others: exenatide, sibutramine, iothalamic acid
+
+These interaction data relate to systemic exposure and may not apply to topical use. Please refer to the SmPC for warnings and contraindications from the label.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Six completed or ongoing trials specifically testing urea-based creams for radiodermatitis and chemotherapy-induced hand-foot skin reactions, together with a high TxGNN score, support L2-level plausibility for a dermatitis association. However, urea has no EU marketing authorization, no confirmed mechanism-of-action record, and a blocking gap in safety/label data — so a Go decision cannot be justified yet.
+Topical urea has a plausible mechanism and a body of dermatological reviews and small trials supporting its use in dermatitis-type conditions. However, urea is often a comparator or one component of a combination, several trials have unknown status, and the product has no valid EU authorisation, so the benefit of urea itself is not yet clearly established.
 
 **To proceed, the following is needed:**
-- TFDA/EU label warnings and contraindications for urea (blocking gap DG001)
-- Mechanism of action confirmation via DrugBank (gap DG002)
-- Clarification of intended route/formulation (topical vs. systemic) and whether it matches available dosage forms
-- Re-screening of the 50 dermatitis-tagged trials to remove unrelated compounds (e.g., hydroxyurea, biologics) from future evidence updates
-- A dedicated literature search specific to "urea cream dermatitis" rather than relying on the broader disease-term query
+- Trials, or reanalysis of existing ones, that isolate the effect of urea alone against vehicle in dermatitis
+- Results from the unknown-status trials, especially NCT05348278, since an earlier capecitabine study was negative
+- A defined topical formulation (strength, dosage form) and its regulatory pathway, since the previous EU authorisations were for diagnostic use only
+- Mechanism-of-action data and label warnings and contraindications for a topical product
+- Confirmation of the evidence level, given the discrepancy with the strict L1 criteria
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

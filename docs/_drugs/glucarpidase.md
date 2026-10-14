@@ -2,7 +2,7 @@
 layout: default
 title: Glucarpidase
 parent: AI Predictions (L5)
-nav_order: 281
+nav_order: 289
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,72 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Glucarpidase (carboxypeptidase G2) is a recombinant bacterial enzyme used to rapidly clear toxic plasma methotrexate concentrations in patients with impaired renal clearance. The TxGNN model predicts it may be effective for **Diabetic Cataract**, but currently **no clinical trials** and **no published literature** support this direction, and the model's own mechanistic rationale flags the prediction as biologically implausible.
-
----
+Glucarpidase is an enzyme originally used to lower toxic plasma methotrexate levels in patients whose methotrexate clearance is delayed.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the computational model alone and has no mechanistic or clinical backing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Methotrexate toxicity (rescue therapy for elevated plasma methotrexate levels) — not derived from a formal license record in this evidence pack |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | Reduction of toxic plasma methotrexate concentration in adults and children (aged 28 days and older) with delayed methotrexate elimination or at risk of methotrexate toxicity |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no valid marketing authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Glucarpidase's only established pharmacological action is hydrolyzing the glutamate residue on folate/methotrexate molecules to rapidly eliminate circulating methotrexate — it is used as an emergency detoxification enzyme, not a disease-modifying therapeutic. This action has no known relationship to lens protein metabolism, the polyol (aldose reductase) pathway, oxidative stress, or any other mechanism implicated in diabetic cataract formation.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes methotrexate and other folates into inactive metabolites in plasma, which is how it rescues patients from methotrexate toxicity.
 
-The evidence pack's own mechanistic analysis for this candidate explicitly states there is no known biological pathway connecting glucarpidase to cataract pathophysiology, and suggests the prediction likely reflects a knowledge-graph embedding artifact ("false positive") caused by data sparsity for this rare indication pairing, rather than a genuine pharmacological signal. This same "no mechanistic link" conclusion is repeated across all 10 top-ranked predicted indications for this drug (diabetic retinopathy, tetanic cataract, senile cataract, etc.), all clustered at similar TxGNN scores — a pattern consistent with a systematic embedding-space artifact rather than a specific, credible signal for any one disease.
+This mechanism has no known connection to diabetic cataract. Glucarpidase has no recognized role in the polyol pathway, aldose reductase activity, or lens opacification under high blood glucose. The high TxGNN score is a knowledge-graph prediction and is not supported by biological or clinical data.
 
-Given this, the high TxGNN score should be interpreted as a statistical association within the model's latent space, not as evidence of therapeutic plausibility.
-
----
+The other top predictions are also cataract subtypes (tetanic, mature, immature, nuclear senile, cortical, senile and others) plus diabetic retinopathy. Several share identical scores (0.99833), which suggests a generic graph-level pattern rather than a disease-specific signal. Practical feasibility is also doubtful. Glucarpidase is a systemically administered protein with immunogenicity concerns, which makes chronic or ocular use unlikely.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-Glucarpidase currently holds no EU marketing authorizations (market status: Not marketed, 0 licenses on file in this evidence pack).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005467 (cancelled) | Voraxaze | Not specified | Voraxaze is indicated to reduce toxic plasma methotrexate concentration in adults and children (aged 28 days and older) with delayed methotrexate elimination or at ris... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 8 interactions were found, all rated Moderate (source: DDInter):
+  - Folate-pathway drugs and antagonists: leucovorin, levoleucovorin, pemetrexed, pralatrexate, trimetrexate, trimethoprim, pyrimethamine, proguanil
 
-*(Note: TFDA label warnings/contraindications and formal MOA data are flagged as blocking/high-severity data gaps in this evidence pack — see Conclusion below.)*
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic rationale, no clinical trial evidence, and no published literature connecting glucarpidase to diabetic cataract or any of its other top-ranked predicted indications. The evidence pack's own analysis identifies this as a likely false-positive prediction driven by embedding-space sparsity rather than genuine pharmacology. Combined with the drug having no EU marketing presence and missing safety documentation, this candidate does not meet the bar to proceed.
+The prediction has no clinical trials, no publications, and no plausible mechanism. Glucarpidase acts on methotrexate in plasma and has no known link to lens or retinal disease. Its only EU authorization is cancelled, and it is a systemic enzyme poorly suited to chronic ocular use.
 
 **To proceed, the following is needed:**
-- TFDA label (仿單) warnings and contraindications — currently a blocking data gap (DG001)
-- Confirmed mechanism of action from DrugBank API — currently a high-severity data gap (DG002)
-- Independent pharmacological or preclinical rationale linking glucarpidase to any diabetic ophthalmic pathway, before further evidence collection is warranted
-- Re-evaluation of whether this candidate should remain in the pipeline given the model's own rationale disputing biological plausibility
+- A credible biological rationale linking glucarpidase activity to lens or retinal pathology
+- Preclinical data in a relevant diabetic cataract model
+- Mechanism of action data from DrugBank
+- Safety information from the SmPC (warnings and contraindications)
+- Assessment of route and formulation feasibility (systemic enzyme vs. ocular delivery) and immunogenicity
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

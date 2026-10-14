@@ -2,7 +2,7 @@
 layout: default
 title: Talimogene Laherparepvec
 parent: AI Predictions (L5)
-nav_order: 566
+nav_order: 587
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Talimogene Laherparepvec: From Melanoma to CMM7 (Hereditary Cutaneous Melanoma)
+# Talimogene laherparepvec: From Unresectable Metastatic Melanoma to CMM7
 
 ## One-Sentence Summary
 
-Talimogene laherparepvec (T-VEC) is an oncolytic herpes simplex virus type 1 (HSV-1)-based immunotherapy administered by direct intralesional injection, publicly known to be approved for unresectable cutaneous, subcutaneous, and nodal melanoma lesions. The TxGNN model predicts it may also be effective for **CMM7** (a hereditary/familial cutaneous melanoma susceptibility phenotype), but this prediction is currently supported by **no registered clinical trials** and **no literature** — it is a pure AI-score-driven hypothesis.
+Talimogene laherparepvec (Imlygic) is an oncolytic virus therapy originally used to treat adults with unresectable melanoma that has spread regionally or to distant sites, without bone, brain, lung or other visceral disease.
+The TxGNN model predicts it may be effective for **CMM7**, a disease label that could not be mapped to a defined clinical entity.
+At present, **no clinical trials and no publications** support this direction, so the prediction is purely computational.
 
 ---
 
@@ -41,23 +43,23 @@ Talimogene laherparepvec (T-VEC) is an oncolytic herpes simplex virus type 1 (HS
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack's EU licensing data (drug is not marketed in the EU per this dataset). Publicly known original indication: melanoma (unresectable cutaneous/subcutaneous/nodal lesions). |
-| Predicted New Indication | CMM7 (Cutaneous Malignant Melanoma, susceptibility locus 7 — hereditary/familial melanoma) |
+| Original Indication | Unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visceral disease |
+| Predicted New Indication | CMM7 (ambiguous label) |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack (marked as a data gap). Based on publicly known information, talimogene laherparepvec is a genetically modified, replication-competent oncolytic HSV-1 vector engineered to selectively replicate in tumor cells, lyse them, and release GM-CSF to stimulate local and systemic antitumor immune responses; it is delivered exclusively by direct intralesional injection.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, talimogene laherparepvec is an oncolytic virus given by injection directly into tumour lesions, and its efficacy in melanoma is the basis of its approval. The analysis of the rationale suggests it acts through direct tumour-cell destruction and immune stimulation, which is not specific to one tumour histology.
 
-CMM7 is not a distinct tumor type but a designation used in melanoma genetics for a hereditary/familial susceptibility locus associated with cutaneous malignant melanoma. In that sense, the predicted "new indication" sits within the same disease family as T-VEC's established use — patients with CMM7-associated hereditary melanoma would still present with cutaneous melanoma lesions that are, in principle, anatomically and biologically similar to those already treated with T-VEC.
+The predicted disease label "CMM7" is ambiguous and could not be matched to a defined clinical entity. If it refers to a cutaneous melanoma subtype, the link to the approved indication would be biologically plausible, since the same type of tumour would be treated by direct injection. This link is inferred only. No trial or publication supports it, and the high TxGNN score (0.992) is a computational prediction, not evidence of efficacy.
 
-Because CMM7 reflects a genetic predisposition rather than a separate tumor biology, the mechanistic rationale is plausible by extension of the existing melanoma indication. However, this Evidence Pack does not currently contain any studies specifically enrolling or reporting on CMM7-associated melanoma patients, so this remains an unverified, score-only hypothesis rather than a mechanistically or clinically substantiated prediction.
+Other top-ranked predictions are also supported only by the model. They include pediatric leptomeningeal melanoma, epithelioid cell uveal melanoma, glottis squamous cell carcinoma, lung occult squamous cell carcinoma, rectal cloacogenic carcinoma, gallbladder adenosquamous carcinoma, non-small cell squamous lung carcinoma, external ear basal cell carcinoma and urethral verrucous carcinoma. Many of these involve visceral, lung or central nervous system disease, which the current label excludes, or sites where injection is difficult or carries added safety concerns.
 
 ---
 
@@ -75,25 +77,32 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization records are available for this drug in the current dataset (EU market status: Not Marketed; 0 authorizations on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002771 (cancelled) | Imlygic | Not specified | Treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visc... |
 
 ---
 
-## Cytotoxicity (Antineoplastic Drugs Only)
+## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (oncolytic viral immunotherapy — not a conventional cytotoxic agent) |
+| Cytotoxicity Classification | Immunotherapy (oncolytic virus) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Please refer to the SmPC warnings and precautions (biohazard/live viral vector handling precautions typically apply) |
+| Handling Protection | Please refer to the SmPC warnings and precautions; as a live, genetically modified herpes simplex virus, it requires appropriate biosafety handling |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening found 100 potential interactions. The main ones are:
+  - **Major**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisone, prednisolone), dexrazoxane, radiopharmaceuticals and radioimmunotherapies (iobenguane I-131, ibritumomab tiuxetan, tositumomab), levamisole, trimetrexate, mercaptopurine and dupilumab.
+  - **Moderate**: antivirals such as acyclovir (including topical) and penciclovir (topical). These are relevant because the product is a live herpes simplex virus.
+- **Considerations for the predicted indications**: Injection into the central nervous system (leptomeningeal disease) raises concerns about neurotoxicity and herpes encephalitis. Laryngeal and urethral injection raise airway and feasibility concerns.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -102,13 +111,15 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite ranking highest by TxGNN score (99.20%) and having plausible conceptual proximity to the drug's known melanoma indication, CMM7 currently has zero registered clinical trials and zero literature support (L5, model prediction only). Critical safety data (warnings, contraindications) and MOA data are flagged as blocking/high-severity data gaps in this Evidence Pack, preventing any safety pre-assessment.
+The prediction rests only on a model score. There are no clinical trials or publications, the target label "CMM7" cannot be mapped to a defined disease, and the only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Resolve the blocking data gap: TFDA/EMA SmPC warnings and contraindications for talimogene laherparepvec
-- Resolve the high-severity data gap: formal mechanism of action (MOA) documentation via DrugBank
-- Conduct a targeted search of clinical trial registries and literature specifically for T-VEC use in hereditary/familial melanoma (CMM7) populations
-- Note: among the other 9 predicted indications in this pack, **non-small cell squamous lung carcinoma** (rank 8, L2) already has a completed Phase 1b/2 basket trial (NCT02509507, n=127) and may warrant separate evaluation as a more evidence-backed candidate than CMM7.
+- Clarify what "CMM7" refers to and map it to a defined clinical entity
+- Obtain the SmPC warnings and contraindications for a safety screening
+- Obtain detailed mechanism of action data
+- Search for clinical and preclinical evidence in the predicted indications, starting with the melanoma-related ones
+- Assess route of administration and feasibility of injection for each predicted site
+- Clarify the reason for the cancelled EU authorization and the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

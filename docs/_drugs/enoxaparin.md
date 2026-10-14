@@ -2,7 +2,7 @@
 layout: default
 title: Enoxaparin
 parent: AI Predictions (L5)
-nav_order: 220
+nav_order: 227
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enoxaparin: From Venous Thromboembolism Prevention to Thrombophilia due to Protein C Deficiency
+# Enoxaparin: From Venous Thromboembolism Prophylaxis and Treatment to Thrombophilia Due to Protein C Deficiency
 
 ## One-Sentence Summary
 
-Enoxaparin is a low-molecular-weight heparin (LMWH) anticoagulant, established for the prevention and treatment of venous thromboembolism. The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency, autosomal recessive**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — evidence rests entirely on the model's confidence score.
-
----
+Enoxaparin is a low-molecular-weight heparin, originally used to prevent and treat venous thromboembolism and to treat acute coronary syndromes.
+The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency (autosomal recessive)**,
+but **no clinical trials and no publications** currently support this specific prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Venous thromboembolism prophylaxis/treatment (established LMWH use); specific authorized indication text not available — no EU marketing authorization is on file for this dataset |
+| Original Indication | Prophylaxis of venous thromboembolism (VTE), treatment of deep vein thrombosis, unstable angina/non-Q-wave myocardial infarction, STEMI, and prevention of clotting in the haemodialysis circuit |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate. Based on known information, Enoxaparin is a low-molecular-weight heparin (LMWH) that inhibits Factor Xa (and to a lesser extent thrombin), and its efficacy in preventing and treating venous thromboembolism is well established; mechanistically this antithrombotic action may be applicable to conditions of pathological hypercoagulability.
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, enoxaparin is a low-molecular-weight heparin that enhances antithrombin III activity and inhibits factor Xa. This reduces thrombin generation and clot formation.
 
-Protein C deficiency is an inherited thrombophilia: reduced Protein C activity impairs inactivation of Factors Va and VIIIa, producing a hypercoagulable state and elevated venous thrombosis risk. An anticoagulant such as enoxaparin is therefore mechanistically plausible as thromboprophylaxis in this population — the same rationale underlying LMWH use in other inherited and acquired thrombophilias.
+Protein C deficiency removes a natural anticoagulant brake, leaving patients prone to clotting. The original indications (preventing and treating venous thrombosis) address the same clotting problem, and heparins are used in clinical practice as anticoagulant cover in this condition. That makes the prediction biologically plausible.
 
-However, this mechanistic plausibility is not yet corroborated by any registered trial or published study specific to this disease. The prediction currently rests solely on the TxGNN model's score, and the original mechanism-of-action data for enoxaparin itself is flagged as a data gap in this evidence pack (DG002), which limits how confidently the mechanistic link above can be verified against primary sources.
-
----
+However, the very high score is a computational prediction only. No trials or publications are linked to this indication. Evidence is therefore at the model-prediction level (L5).
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization is currently on file for Enoxaparin in this dataset (market status: not marketed; 0 authorizations recorded).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004264 (cancelled) | Inhixa | Not specified | Inhixa is indicated for adults for: Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, gen... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications suggested by the knowledge graph** (derived from drug-disease relationship edges, not from label text): liver failure, thrombocytopenia, heparin-induced thrombocytopenia, blood coagulation disease, hemophilia, antithrombin III deficiency, Glanzmann thrombasthenia, qualitative platelet defect, intracranial or intracerebral haemorrhage, placental abruption, active peptic ulcer disease, infective/subacute bacterial endocarditis, inflammatory bowel disease/ulcerative colitis, biliary tract disease, obstructive jaundice, osteoporosis, and retinal conditions (retinitis, diabetic and hypertensive retinopathy, diabetic cataract).
+- **Drug Interactions**: 100 interactions were recorded. The main **Major** ones are:
+  - Antiplatelet and thrombolytic agents: acetylsalicylic acid, abciximab, alteplase
+  - NSAIDs: ketorolac, ibuprofen
+  - Others: deferasirox, acalabrutinib, trastuzumab emtansine, and the radiopharmaceuticals ibritumomab tiuxetan and tositumomab (including I-131)
+  - Moderate interactions include fenfluramine, dexfenfluramine, sibutramine, sugammadex, and aliskiren.
 
-*(Note: a blocking data gap (DG001) has been identified — TFDA label warnings/contraindications are not yet available, which prevents this candidate from entering the S1 safety pre-assessment stage.)*
-
----
+Please refer to the SmPC for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high TxGNN confidence score, but is unsupported by any clinical trial or literature evidence (L5), and the drug's mechanism-of-action and label safety data are both currently missing — together these block progression past initial screening.
+The prediction score is very high and the mechanism is plausible, but there are no trials or literature for protein C deficiency. In the EU, the only authorization in the data (Inhixa) is cancelled.
 
 **To proceed, the following is needed:**
-- Enoxaparin mechanism of action (MOA) data from DrugBank (DG002)
-- TFDA/SmPC label warnings and contraindications, to enable the S1 safety pre-assessment (DG001, blocking)
-- Targeted literature or preclinical search for LMWH use in inherited Protein C deficiency/thrombophilia to establish at least mechanistic (L4) support
-- Confirmation of original approved indication(s) and any existing marketing authorization, since none are currently on file
+- Literature review of heparin/LMWH use in congenital protein C deficiency (for example, case series and guidelines)
+- Mechanism of action data and SmPC warnings and contraindications
+- Confirmation of the current EU market status of enoxaparin products, since only a cancelled authorization appears in the data
+- Safety assessment for this rare population, including bleeding risk and the knowledge-graph contraindications listed above
+
+**Other predictions in the ranked list:**
+Evidence is weak for all of them, with no trials and no direct enoxaparin literature.
+- **Vertebral artery occlusion** (score 89.40%, L4) is the only one flagged as a research question. Anticoagulation is plausible, but the two linked papers (a May-Thurner syndrome case and a Bow Hunter's syndrome review) are indirect.
+- **Thrombotic thrombocytopenic purpura** (score 96.73%, L4) has only indirect literature. Heparin is not standard therapy, apart from thromboprophylaxis during recovery.
+- **Primary release disorder of platelets** and **pseudo-von Willebrand disease** are bleeding-tendency conditions, so an anticoagulant would be expected to add risk rather than benefit.
+- **Atypical haemolytic-uraemic syndrome with thrombomodulin anomaly** is mainly complement-driven.
+- **Painful neuropathy** and the **retinal conditions** (retinal telangiectasia, arteriosclerotic retinopathy, retinal microaneurysm) have no clear rationale. Anticoagulation may even raise haemorrhage risk in the retina.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

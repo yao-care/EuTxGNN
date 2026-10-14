@@ -2,7 +2,7 @@
 layout: default
 title: Choriogonadotropin Alfa
 parent: AI Predictions (L5)
-nav_order: 145
+nav_order: 148
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Choriogonadotropin alfa: From Assisted Reproductive Technology to Peptic Esophagitis
+# Choriogonadotropin alfa: From Ovulation Induction to Peptic Esophagitis
 
 ## One-Sentence Summary
 
-Choriogonadotropin alfa is a recombinant form of human chorionic gonadotropin (hCG), used clinically to trigger final oocyte maturation in assisted reproductive technology (ART) procedures.
-The TxGNN model predicts it may be effective for **Peptic Esophagitis**,
-however **0 clinical trials** and **0 publications** currently support this direction — making this an AI-only prediction with no empirical backing.
-
----
+Choriogonadotropin alfa is a recombinant human chorionic gonadotropin (hCG), originally used to trigger final follicular maturation and ovulation in fertility treatment.
+The TxGNN model predicts it may be effective for **peptic esophagitis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Triggering final follicular maturation and early luteinization in ART (no EU authorization data available) |
-| Predicted New Indication | Peptic Esophagitis |
+|------|------|
+| Original Indication | Women undergoing superovulation prior to assisted reproductive techniques such as IVF (triggering final follicular maturation and luteinisation), and anovulatory or oligo-ovulatory women (triggering ovulation and luteinisation) |
+| Predicted New Indication | Peptic esophagitis |
 | TxGNN Prediction Score | 98.44% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (no authorizations found in current dataset) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, choriogonadotropin alfa is a recombinant hCG that acts on luteinizing hormone/choriogonadotropin receptors (LHCGR), primarily expressed in gonadal tissue. Its established role is to trigger the LH surge equivalent needed for final oocyte maturation and ovulation induction in ART cycles.
+Currently, detailed mechanism of action data is not available. Based on known information, choriogonadotropin alfa is a recombinant hCG that acts on LH/hCG receptors to trigger ovulation. Its efficacy in ovulation triggering is established.
 
-The predicted link to peptic esophagitis is mechanistically weak. The hCG/LHCGR signaling axis has no known expression in esophageal mucosa. While gastroesophageal reflux disease (GERD) is indeed common during pregnancy — a high-hCG physiological state — the underlying mechanism involves progesterone-mediated lower esophageal sphincter relaxation combined with mechanical compression from the gravid uterus, rather than any direct hCG effect on esophageal tissue.
+No plausible mechanistic link to peptic esophagitis has been identified. The high score (0.984) most likely reflects knowledge-graph propagation rather than biology. Esophageal inflammation caused by acid reflux has no recognized connection to LH/hCG receptor signaling.
 
-The high TxGNN score (98.44%) most likely reflects an indirect topological association in the knowledge graph: the path "hCG → pregnancy → gastrointestinal symptoms → esophagitis" creates a graph-level proximity that does not translate into a direct pharmacological mechanism. This is a recognized pattern of topological pseudo-correlation in knowledge graph-based predictions and should not be interpreted as biological plausibility.
-
----
+Other top predictions show the same pattern. Several are esophageal conditions (esophageal disease, esophageal ulcer, esophageal malformation) and several are cardiac conduction disorders (sinoatrial block, His bundle tachycardia, familial heart block). Their clustering suggests a shared graph-based artifact rather than independent biological signals. None has any supporting trials or literature.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EU/EMA marketing authorizations found for Choriogonadotropin alfa in the current dataset.
-
-> **Note:** Choriogonadotropin alfa (Ovitrelle®) is known to hold EMA authorization for ART indications. The absence of data here reflects a gap in the current regulatory data pipeline, not the actual regulatory status. Manual verification against the EMA product database is recommended.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000320 (cancelled) | Ovitrelle | Not specified | Ovitrelle is indicated in the treatment of: women undergoing superovulation prior to assisted reproductive techniques such as in vitro fertilisation (IVF): Ovitrelle is administered to trigger final... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-> No drug interaction data, key warnings, or contraindication data were available in the current evidence pack. TFDA SmPC data retrieval is listed as a blocking data gap (DG001). Full safety review cannot proceed until this is resolved.
-
----
+No drug-interaction records were found, and the knowledge graph lists no contraindicated diseases for this drug. Absence of records is not evidence of safety. Any use outside the fertility setting, especially in cardiac conduction disorders, would raise safety questions that have not been evaluated.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure AI model prediction (L5) with no supporting clinical trials or published literature. The mechanistic link between choriogonadotropin alfa and peptic esophagitis is biologically implausible — the hCG/LHCGR axis has no established role in esophageal physiology, and the TxGNN high score is attributable to indirect knowledge graph topology rather than true biological signal.
+The prediction rests only on a knowledge-graph score. There are no trials or publications, no plausible mechanism, and the only EU authorization is cancelled. All ten top predictions are at evidence level L5.
 
 **To proceed, the following is needed:**
-
-- **Resolve DG001 (Blocking):** Obtain SmPC/prescribing information to complete safety assessment before any further evaluation
-- **Resolve DG002 (High):** Confirm full MOA profile via DrugBank API to verify whether any off-target receptor activity could theoretically involve esophageal tissue
-- **Mechanistic pre-screen:** Conduct a literature review on LHCGR expression in gastrointestinal/esophageal tissue to formally rule out or confirm the mechanistic link
-- **Reconsider top candidate:** Among the 10 predicted indications, **Raynaud disease** (Rank 4) carries the most biologically coherent rationale (pregnancy-associated symptom improvement, LHCGR expression in vascular smooth muscle, progesterone-mediated vasodilation hypothesis) and would be the preferred candidate for a focused mechanistic research question
+- A credible mechanistic hypothesis linking LH/hCG receptor signaling to esophageal mucosal pathology, plus mechanism of action data for the drug
+- Preclinical or observational evidence supporting the predicted indication
+- Current safety information (warnings and contraindications) from the product information, and a safety assessment for the proposed population
+- Clarification of the regulatory status, since the Ovitrelle authorization is cancelled
+- Route and formulation compatibility assessment for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

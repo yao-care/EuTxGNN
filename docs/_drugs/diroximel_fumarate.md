@@ -2,7 +2,7 @@
 layout: default
 title: Diroximel Fumarate
 parent: AI Predictions (L5)
-nav_order: 186
+nav_order: 193
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,72 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diroximel Fumarate: From Multiple Sclerosis to Diabetic Cataract
+# Diroximel fumarate: From Relapsing Remitting Multiple Sclerosis to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Diroximel fumarate (brand name: Vumerity) is a prodrug approved for the treatment of relapsing forms of multiple sclerosis (MS), acting through its active metabolite monomethyl fumarate (MMF) to activate the Nrf2 antioxidant pathway.
-The TxGNN model predicts it may be effective for **Diabetic Cataract**, based on a theoretical mechanistic link between Nrf2-mediated antioxidant protection and oxidative lens damage in diabetes.
-Currently, **no clinical trials** and **no publications** exist to support this repurposing direction — evidence rests entirely on AI model prediction.
-
----
+Diroximel fumarate (marketed as Vumerity) was originally authorized for adult patients with relapsing remitting multiple sclerosis.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but this is a model prediction only, with **0 clinical trials** and **0 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Relapsing forms of multiple sclerosis |
-| Predicted New Indication | Diabetic Cataract |
-| TxGNN Prediction Score | 99.9993% |
+|------|------|
+| Original Indication | Treatment of adult patients with relapsing remitting multiple sclerosis |
+| Predicted New Indication | Diabetic cataract |
+| TxGNN Prediction Score | 99.999% |
 | Evidence Level | L5 |
-| EU Market Status | Not authorized (0 licenses on record) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Diroximel fumarate is rapidly hydrolyzed in the gastrointestinal tract to its active metabolite, monomethyl fumarate (MMF). MMF activates the Nrf2 (Nuclear Factor Erythroid 2-Related Factor 2) transcription factor, which in turn upregulates a suite of cytoprotective and antioxidant enzymes — including heme oxygenase-1 (HO-1), NAD(P)H quinone dehydrogenase 1 (NQO1), and superoxide dismutase (SOD). This is the same mechanism responsible for its neuroprotective and anti-inflammatory effects in relapsing MS.
+Detailed mechanism of action data is not available in the data compiled for this report. Diroximel fumarate is known to be converted in the body to monomethyl fumarate (MMF), which activates the NRF2 pathway and has antioxidant and anti-inflammatory effects. This reasoning draws on general knowledge of the active metabolite and has not been confirmed in the data compiled for this report.
 
-Diabetic cataract arises from chronic hyperglycemia activating the polyol pathway, leading to sorbitol accumulation, osmotic swelling, advanced glycation end-product (AGE) deposition, and ultimately oxidative damage to lens crystallin proteins. Because Nrf2 activation upregulates the same antioxidant enzymes that counteract these processes, a theoretical pathway exists for diroximel fumarate to protect against lens protein oxidation and cataract progression.
+Multiple sclerosis and diabetic cataract are very different diseases. The only plausible link is oxidative stress: it contributes to lens opacification in diabetes, so an NRF2 activator could theoretically offer some protection. No trial or publication in the data tests this idea.
 
-However, this entire rationale remains at the level of mechanistic hypothesis. No published animal studies, in vitro lens cell experiments, or clinical trials have examined diroximel fumarate — or even MMF directly — in any ocular indication. Critical unknowns include whether systemic oral dosing achieves therapeutically relevant MMF concentrations in the avascular lens, and whether the polyol-pathway component of diabetic cataract is sufficiently Nrf2-amenable to be modified pharmacologically. The TxGNN model's near-perfect score (99.9993%) reflects knowledge-graph pathway proximity, not empirical validation.
-
----
+The model also ranks several other eye conditions highly, mostly other cataract types and diabetic retinopathy (including severe nonproliferative diabetic retinopathy). All of them are also prediction-only with no supporting studies. Cataract treatment is mainly surgical, and a systemic MS drug has no established role in it.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005437 (cancelled) | Vumerity | Not specified | Treatment of adult patients with relapsing remitting multiple sclerosis (see Section 5.1 for important information on the populations for which...) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 potential interactions. The 20 listed in detail are all rated Moderate. Main groups:
+  - Corticosteroids: hydrocortisone, triamcinolone (including ophthalmic), dexamethasone, betamethasone, budesonide, prednisolone, prednisone
+  - Immunosuppressive or antineoplastic agents: mercaptopurine, trimetrexate, dexrazoxane, levamisole, ibritumomab tiuxetan, tositumomab (including I-131), iobenguane (I-131)
+  - Others: naltrexone, ethanol, roflumilast, dupilumab
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-While the Nrf2–oxidative stress mechanistic bridge between diroximel fumarate and diabetic cataract is intellectually coherent, there is a complete absence of empirical evidence at every level — no preclinical models, no translational data, and no clinical signal — making any advancement premature.
+The prediction rests only on a model score, with no clinical trials or publications behind it (Evidence Level L5). The mechanistic link is unverified, and the product's only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-
-- **Preclinical proof-of-concept**: In vitro lens epithelial cell studies under high-glucose conditions + streptozotocin-induced diabetic rodent cataract models, measuring Nrf2 activation, HO-1/NQO1 induction, and lens opacity scoring after oral diroximel fumarate dosing
-- **Ocular pharmacokinetics**: MMF concentration measurement in aqueous humor and lens tissue following systemic administration, to confirm adequate drug exposure at the target organ
-- **MOA documentation**: Query DrugBank API to formally fill the DG002 data gap (mechanism of action) and confirm Nrf2 as the primary pathway
-- **Safety review**: Retrieve and parse the approved SmPC to address DG001 (package insert warnings and contraindications), which is currently blocking S1 safety pre-screening
-- **Comparative benchmark**: Assess other known Nrf2 activators (e.g., sulforaphane, bardoxolone methyl) with published ocular data to calibrate how realistic lens penetration and efficacy are as a drug class
+- Mechanism of action data for diroximel fumarate and MMF, to test the NRF2/oxidative stress hypothesis
+- Preclinical studies in diabetic lens or retinal models
+- Safety information from the SmPC (warnings and contraindications)
+- Assessment of route and formulation suitability for an eye condition
+- Clarification of the reasons for the cancelled EU authorization and the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

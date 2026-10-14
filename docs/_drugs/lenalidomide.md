@@ -2,15 +2,15 @@
 layout: default
 title: Lenalidomide
 parent: High Evidence (L1-L2)
-nav_order: 350
-evidence_level: L1
+nav_order: 361
+evidence_level: L2
 indication_count: 10
 ---
 
 # Lenalidomide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,54 +29,54 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Lenalidomide: From Multiple Myeloma / del(5q) MDS to Myeloid Leukemia
+# Lenalidomide: From Multiple Myeloma to Myeloid Leukemia
 
 ## One-Sentence Summary
 
-Lenalidomide is an oral immunomodulatory drug (IMiD) originally approved in multiple countries for multiple myeloma and transfusion-dependent anemia due to low-risk myelodysplastic syndrome (MDS) with del(5q) cytogenetic abnormality — though it carries no Taiwan regulatory registration at this time.
-The TxGNN model predicts it may be effective for **Myeloid Leukemia** (encompassing AML and the broader MDS spectrum beyond del(5q)),
-with **multiple completed Phase 2/3 clinical trials** and **20 publications** currently supporting this direction.
+Lenalidomide is an immunomodulatory drug originally authorised in the EU for multiple myeloma, del(5q) myelodysplastic syndromes, mantle cell lymphoma and follicular lymphoma.
+The TxGNN model predicts it may be effective for **myeloid leukemia**, supported by **44 registered clinical trials** (mostly small Phase 1/2 studies) and **20 publications** compiled for this report.
+The evidence is early-stage and largely single-arm, so the prediction remains a hypothesis rather than an established benefit.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Multiple Myeloma; del(5q) MDS (global approvals — not registered in Taiwan) |
-| Predicted New Indication | Myeloid Leukemia |
+|------|------|
+| Original Indication | Multiple myeloma (maintenance after transplant, combination therapy in untreated and previously treated disease); also follicular lymphoma, and for Revlimid, del(5q) myelodysplastic syndromes and mantle cell lymphoma |
+| Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 99.49% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L2 |
+| EU Market Status | Cancelled only (all licences cancelled) |
+| Number of Authorizations | 3 (0 valid, 3 cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Lenalidomide exerts its anti-cancer activity primarily through the cereblon (CRBN)–CRL4A E3 ubiquitin ligase complex. By binding CRBN, lenalidomide redirects the ligase to ubiquitinate and proteasomally degrade key transcription factors — most notably IKZF1 (Ikaros) and CK1α (encoded by *CSNK1A1* at chromosomal locus 5q31.2). The resulting loss of these proteins drives selective apoptosis in malignant hematopoietic cells while sparing most normal progenitors. In parallel, lenalidomide enhances NK cell–mediated cytotoxicity, suppresses regulatory T cells (Tregs), and inhibits pro-tumorigenic cytokines including TNF-α and VEGF, creating a multi-pronged anti-tumor immune environment.
+Lenalidomide binds cereblon (CRBN) and redirects the CRL4-CRBN E3 ubiquitin ligase to degrade IKZF1, IKZF3 and CK1alpha. CK1alpha degradation drives the response in del(5q) myelodysplastic syndromes (MDS), which is already an approved indication. The drug also activates T and NK cells, an immune effect that may help against leukemic cells.
 
-The mechanistic connection to myeloid leukemia is most directly established in the del(5q) AML subtype. In cells carrying a 5q31.2 deletion, haploinsufficiency of *CSNK1A1* leaves only one functional CK1α allele. Lenalidomide-driven CK1α degradation pushes these cells below a critical threshold, triggering p53-dependent selective apoptosis — while normal cells with two intact alleles produce sufficient residual CK1α and are relatively spared. This biology directly underpins lenalidomide's established efficacy in del(5q) MDS (globally approved) and provides a biologically grounded rationale for extension into del(5q) AML.
-
-Beyond the del(5q) subtype, the close biological relationship between MDS and AML — both arising from clonal hematopoietic stem cell disorders, with MDS frequently progressing to AML — supports applying lenalidomide across the broader myeloid leukemia spectrum. Multiple clinical programs have combined lenalidomide with hypomethylating agents (azacitidine) and conventional chemotherapy (MEC: mitoxantrone, etoposide, cytarabine), or employed it as post-remission maintenance, demonstrating active clinical investigation in AML across multiple lines of therapy and patient age groups.
+MDS and acute myeloid leukemia (AML) are closely related myeloid malignancies, and MDS frequently progresses to AML. The rationale is strongest for del(5q) disease. Evidence in non-del(5q) AML is limited to small single-arm Phase 1/2 studies, so the mechanistic link is plausible but not proven there.
 
 ---
 
 ## Clinical Trial Evidence
 
+The compiled data list 44 trials for this prediction. The 10 most relevant are shown below. Most are small Phase 1/2 studies. One Phase 3 trial (NCT00843882) is in MDS rather than leukemia, and a second Phase 3 trial (NCT04490707) is in AML but has an unknown status.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00179621](https://clinicaltrials.gov/study/NCT00179621) | Phase 3 | Completed | 205 | Multicenter randomized double-blind placebo-controlled 3-arm study comparing lenalidomide 10 mg vs 5 mg vs placebo in transfusion-dependent low/intermediate-1 risk MDS with del(5q); highest-quality evidence in myeloid disease |
-| [NCT03118466](https://clinicaltrials.gov/study/NCT03118466) | Phase 2 | Completed | 41 | MEC (mitoxantrone, etoposide, cytarabine) + lenalidomide in relapsed/refractory AML adults; provides direct efficacy and safety data for lenalidomide in AML combination therapy |
-| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Completed | 88 | 3-arm randomized trial of lenalidomide alone, sequential azacitidine + lenalidomide, or azacitidine alone in elderly (≥65 y) newly diagnosed AML |
-| [NCT01743859](https://clinicaltrials.gov/study/NCT01743859) | Phase 2 | Completed | 37 | Sequential azacitidine and lenalidomide in relapsed/refractory AML; primary endpoint CR/CRi rate |
-| [NCT02538965](https://clinicaltrials.gov/study/NCT02538965) | Phase 2 | Completed | 17 | Single-agent lenalidomide in pediatric relapsed/refractory AML (≥2nd relapse or refractory to ≥2 induction attempts); assessed morphological complete response within first 4 cycles |
-| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Unknown | 60 | Azacitidine + lenalidomide as MRD-monitored maintenance in elderly/unfit AML patients; MRD-guided strategy based on Chinese registry data |
-| [NCT02126553](https://clinicaltrials.gov/study/NCT02126553) | Phase 2 | Completed | 29 | Lenalidomide maintenance in high-risk AML in first remission; investigated immune mechanism of disease-free survival benefit |
-| [NCT01522976](https://clinicaltrials.gov/study/NCT01522976) | Phase 2 | Active, Not Recruiting | 282 | Randomized Phase II/III: azacitidine ± lenalidomide vs ± vorinostat in higher-risk MDS and CMML; large comparative dataset with long follow-up |
-| [NCT01442714](https://clinicaltrials.gov/study/NCT01442714) | Phase 2 | Terminated | 33 | Azacitidine + lenalidomide in elderly previously treated AML; early termination limits conclusions but combination safety data remain informative |
-| [NCT00831766](https://clinicaltrials.gov/study/NCT00831766) | Phase 1/2 | Completed | 51 | Sequential idarubicin + cytarabine followed by lenalidomide in MDS (RAEB-2) or untreated AML; evaluated safety, response rates, and response duration |
+| [NCT00352001](https://clinicaltrials.gov/study/NCT00352001) | Phase 1/2 | Completed | 37 | Lenalidomide plus azacitidine in advanced MDS; supports combination feasibility |
+| [NCT02126553](https://clinicaltrials.gov/study/NCT02126553) | Phase 2 | Completed | 29 | Lenalidomide maintenance in high-risk AML in remission; single-arm |
+| [NCT00360672](https://clinicaltrials.gov/study/NCT00360672) | Phase 2 | Completed | 27 | Lenalidomide alone in relapsed/refractory AML or high-risk MDS with chromosome 5 abnormalities |
+| [NCT00831766](https://clinicaltrials.gov/study/NCT00831766) | Phase 1/2 | Completed | 51 | Idarubicin and cytarabine followed by lenalidomide in RAEB-2 MDS or untreated AML |
+| [NCT01301820](https://clinicaltrials.gov/study/NCT01301820) | Phase 2 | Completed | 120 | Alternating lenalidomide and azacitidine maintenance in elderly AML in first remission |
+| [NCT01358734](https://clinicaltrials.gov/study/NCT01358734) | Phase 2 | Completed | 88 | Randomised comparison of lenalidomide, sequential azacitidine plus lenalidomide, and azacitidine in older newly diagnosed AML |
+| [NCT01038635](https://clinicaltrials.gov/study/NCT01038635) | Phase 1/2 | Completed | 94 | Azacitidine plus lenalidomide in high-risk MDS and AML |
+| [NCT00352365](https://clinicaltrials.gov/study/NCT00352365) | Phase 2 | Completed | 41 | Lenalidomide in older patients with untreated del(5q) AML who declined induction chemotherapy |
+| [NCT00843882](https://clinicaltrials.gov/study/NCT00843882) | Phase 3 | Active, not recruiting | 247 | Lenalidomide with or without epoetin alfa in low/intermediate-1 risk MDS with anemia |
+| [NCT04490707](https://clinicaltrials.gov/study/NCT04490707) | Phase 3 | Unknown | 60 | Azacitidine plus lenalidomide maintenance guided by MRD in elderly or unfit AML patients |
 
 ---
 
@@ -84,40 +84,52 @@ Beyond the del(5q) subtype, the close biological relationship between MDS and AM
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31221030](https://pubmed.ncbi.nlm.nih.gov/31221030/) | 2019 | Systematic Review & Meta-analysis | Hematology | Pooled analysis of azacitidine + lenalidomide in AML, high-risk MDS, and CMML; evaluated overall response rate, CR rate, and adverse event profile |
-| [30271212](https://pubmed.ncbi.nlm.nih.gov/30271212/) | 2018 | Systematic Review & Meta-analysis | Cancer Manag Res | Comprehensive review of lenalidomide efficacy and safety specifically in AML; addressed controversy over whether lenalidomide significantly improves response and OS |
-| [39881283](https://pubmed.ncbi.nlm.nih.gov/39881283/) | 2025 | Mechanistic Study | Cell Mol Biol Lett | Identified KDM5C histone demethylase as a CRBN stabilizer; KDM5C enhances AML cell sensitivity to lenalidomide by maintaining CRBN protein levels — clarifies resistance mechanism |
-| [37259567](https://pubmed.ncbi.nlm.nih.gov/37259567/) | 2023 | Prospective Phase 2 (Azalena Trial) | Haematologica | Azacitidine + lenalidomide + donor lymphocyte infusions as first salvage for post-transplant relapse of AML, MDS, and CMML; 50 patients enrolled, prospective design |
-| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Review | Am J Hematol | MDS 2023 update on diagnosis, risk stratification, and management; covers lenalidomide's established role and current guideline positioning |
-| [23644421](https://pubmed.ncbi.nlm.nih.gov/23644421/) | 2013 | Review / Trial Report | Leukemia | Critical appraisal of azacitidine + lenalidomide combination rationale in advanced MDS/AML; discusses epigenetic and immunological synergism |
-| [35512188](https://pubmed.ncbi.nlm.nih.gov/35512188/) | 2022 | Retrospective Cohort | Blood | ⚠️ **Safety Warning**: Lenalidomide exposure selectively promotes TP53-mutated therapy-related myeloid neoplasms through clonal positive selection pressure (n=416 t-MN patients) |
-| [23316859](https://pubmed.ncbi.nlm.nih.gov/23316859/) | 2013 | Review | Expert Opin Investig Drugs | Comprehensive review of lenalidomide as a novel AML treatment; summarizes clinical trial results and mechanistic rationale across AML subtypes |
-| [34471239](https://pubmed.ncbi.nlm.nih.gov/34471239/) | 2021 | Phase 1 Trial | Bone Marrow Transplant | Lenalidomide maintenance post-allogeneic transplant in unfavorable-risk AML and high-risk MDS; dose-escalation (5–15 mg) safety study, n=16 |
-| [37435080](https://pubmed.ncbi.nlm.nih.gov/37435080/) | 2023 | Prospective Study | Front Immunol | Azacitidine + low-dose lenalidomide as post-allo-HSCT relapse prophylaxis in AML (ChiCTR2200061803); reports efficacy and tolerability with MRD guidance |
+| [23316859](https://pubmed.ncbi.nlm.nih.gov/23316859/) | 2013 | Review | Expert Opin Investig Drugs | Lenalidomide as a novel AML treatment; trials in higher-risk MDS and AML |
+| [32899586](https://pubmed.ncbi.nlm.nih.gov/32899586/) | 2020 | Review | Cancers | Immunomodulatory drugs in AML treatment |
+| [39881283](https://pubmed.ncbi.nlm.nih.gov/39881283/) | 2025 | Preclinical | Cell Mol Biol Lett | KDM5C stabilises cereblon and increases AML cell sensitivity to lenalidomide |
+| [37288607](https://pubmed.ncbi.nlm.nih.gov/37288607/) | 2023 | Review | Am J Hematol | MDS diagnosis, risk stratification and management update |
+| [42400116](https://pubmed.ncbi.nlm.nih.gov/42400116/) | 2026 | Review | Am J Hematol | 2026 MDS update on diagnosis and management |
+| [37874917](https://pubmed.ncbi.nlm.nih.gov/37874917/) | 2023 | Review | Blood | Clinical decision-making and treatment of MDS |
+| [29795386](https://pubmed.ncbi.nlm.nih.gov/29795386/) | 2018 | Review | Blood Cancer J | Current MDS treatment algorithm |
+| [41348013](https://pubmed.ncbi.nlm.nih.gov/41348013/) | 2025 | Review | Hematology ASH Educ Program | Updates in low/intermediate-risk MDS |
+| [38066862](https://pubmed.ncbi.nlm.nih.gov/38066862/) | 2023 | Review | Hematology ASH Educ Program | Next-generation therapy for lower-risk MDS |
+| [22483153](https://pubmed.ncbi.nlm.nih.gov/22483153/) | 2012 | Review | Curr Cancer Drug Targets | Novel and emerging drugs for AML |
+
+No randomised controlled trial in myeloid leukemia appears among the retrieved publications; the evidence is mainly reviews and mechanistic work.
+
+---
+
+## EU Market Information
+
+All three EU authorisations for lenalidomide are currently cancelled.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000717 | Revlimid | Not specified | Multiple myeloma, del(5q) myelodysplastic syndromes, mantle cell lymphoma, follicular lymphoma (with rituximab) |
+| EMEA/H/C/004857 | Lenalidomide Accord | Not specified | Multiple myeloma (maintenance and combination therapy); follicular lymphoma (with rituximab) |
+| EMEA/H/C/005306 | Lenalidomide Mylan | Not specified | Multiple myeloma (maintenance and combination therapy); follicular lymphoma (with rituximab) |
 
 ---
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Immunomodulatory agent (IMiD) — not a conventional cytotoxic; anti-leukemic activity via CRBN-mediated degradation of IKZF1 and CK1α (targeted mechanism) |
-| Myelosuppression Risk | High — thrombocytopenia and neutropenia are the primary dose-limiting toxicities observed across del(5q) MDS and AML clinical trials |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (weekly for first 8 weeks, then monthly); serum creatinine / eGFR — dose adjustment required when CrCl < 60 mL/min (lenalidomide is renally excreted); liver function tests |
-| Handling Protection | Standard oral oncology precautions; teratogenic risk mandatory prevention program required (REMS in the US; Pregnancy Prevention Programme in EU/EMA) — thalidomide structural analogue with confirmed Category X teratogenicity |
+|------|------|
+| Cytotoxicity Classification | Immunomodulatory agent (thalidomide analogue) with antineoplastic activity; not a conventional cytotoxic |
+| Myelosuppression Risk | High; knowledge-graph contraindication edges list thrombocytopenia, neutropenia and agranulocytosis |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Complete blood count with differential (platelets and neutrophils), renal function; thromboembolism surveillance |
+| Handling Protection | Please refer to the SmPC warnings and precautions; as a thalidomide analogue, teratogenicity precautions apply |
 
 ---
 
 ## Safety Considerations
 
-No Taiwan regulatory warnings, contraindications, or drug-drug interaction data are available in this Evidence Pack. Two critical safety signals are identified from the published literature:
+- **Contraindications (knowledge-graph edges, not label text)**: thrombocytopenia, neutropenia, agranulocytosis, pulmonary embolism, impaired renal function, cancer, embryoma.
+- **Drug Interactions**: 100 interactions were found. The main ones are rated Major: **rosuvastatin** and **simvastatin**. Moderate: eliglustat and naltrexone. Many others have an unclassified level (for example metformin, omeprazole, prednisone, morphine).
+- **Secondary malignancy signal**: several publications report secondary B-cell acute lymphoblastic leukemia after prolonged lenalidomide therapy, and therapy-related MDS/AML after myeloma treatment.
 
-- **Therapy-related secondary malignancy**: Retrospective analysis of 416 therapy-related myeloid neoplasm patients (PMID 35512188) found that lenalidomide exposure selectively promotes outgrowth of TP53-mutated clones through positive selection pressure, increasing the risk of therapy-related myeloid neoplasms. This finding must be proactively disclosed in informed consent for any off-label or investigational use.
-
-- **Secondary B-cell acute lymphoblastic leukemia (B-ALL)**: Multiple case series and cohort studies report secondary B-ALL following lenalidomide-containing regimens, particularly in the setting of autologous stem cell transplant with lenalidomide maintenance (PMID 32880627, PMID 33512465). Active longitudinal surveillance for lineage switch is warranted.
-
-Please refer to the current SmPC and/or US Prescribing Information for complete, up-to-date safety details.
+Please refer to the SmPC for the full warnings, as label text was not available in the data compiled for this report.
 
 ---
 
@@ -126,15 +138,30 @@ Please refer to the current SmPC and/or US Prescribing Information for complete,
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The evidence base for lenalidomide in myeloid leukemia meets L1 criteria, anchored by two completed Phase 3 RCTs in myeloid disease (NCT00179621, n=205; NCT01029262, n=239), multiple completed Phase 2 trials directly in AML (including NCT03118466 and NCT01358734), and a systematic review with meta-analysis (PMID 31221030). The mechanistic rationale — CRBN-mediated CK1α degradation with haploinsufficiency amplification in del(5q) cells — is among the most precisely characterized in drug repurposing. However, the absence of Taiwan regulatory data, the documented secondary malignancy risk (TP53 clonal selection; secondary B-ALL), and the lack of formal MOA documentation in the Evidence Pack necessitate structured guardrails before clinical application.
+- Many small Phase 1/2 trials and a strong mechanistic basis, especially for del(5q) disease, support the prediction. No randomised Phase 3 trial confirms benefit in myeloid leukemia, and all EU licences are cancelled.
 
 **To proceed, the following is needed:**
-- Obtain TFDA prescribing information or SmPC: key warnings, contraindications, and drug-drug interaction profile (resolve Data Gap DG001)
-- Retrieve DrugBank MOA documentation to formally characterize the mechanism for regulatory submissions (resolve Data Gap DG002)
-- Define patient selection criteria by cytogenetic subtype (del(5q) vs. non-del(5q)) to optimize the therapeutic index
-- Establish a secondary malignancy surveillance protocol: periodic molecular testing for TP53 clonal evolution and B-ALL lineage monitoring
-- Clarify the regulatory pathway for compassionate use, named-patient access, or clinical trial enrollment in Taiwan (given current non-marketing status)
-- Implement a mandatory pregnancy prevention program before any clinical use, consistent with global REMS/PPP requirements
+- Restrict any further work to biomarker-defined populations (for example del(5q)) and to well-designed randomised studies in AML
+- Review the EMA product information for warnings and contraindications, which were not available in the data compiled for this report
+- Confirm the current EU availability, since all three licences are cancelled
+- Include a plan for monitoring blood counts, thromboembolism and secondary malignancies
+- Obtain detailed mechanism-of-action data from DrugBank
+
+---
+
+### Other Predicted Indications (Brief Notes)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
+|------|------|------|------|
+| Unclassified myelodysplastic syndrome | 99.43% | L3 | Proceed with Guardrails (limit to biomarker-defined patients) |
+| Lymph node cancer | 97.82% | L1 | Proceed with Guardrails (the only linked trial is in prostate cancer and is not relevant) |
+| Refractory cytopenia of childhood | 99.35% | L3 | Research Question |
+| Aregenerative anemia | 99.32% | L3 | Research Question |
+| Partial deletion of the long arm of chromosome 5 | 99.27% | L4 | Research Question |
+| Severe congenital hypochromic anemia with ringed sideroblasts | 99.28% | L5 | Hold |
+| Blast phase CML, BCR-ABL1 positive | 96.74% | L4 | Hold |
+| Ganglioneuroblastoma | 95.97% | L5 | Hold |
+| Acute lymphoblastic leukemia | 95.93% | L3 | Hold (secondary B-ALL safety concern) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

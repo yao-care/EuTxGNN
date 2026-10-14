@@ -2,7 +2,7 @@
 layout: default
 title: Bupivacaine
 parent: AI Predictions (L5)
-nav_order: 110
+nav_order: 112
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,71 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bupivacaine: From Local/Regional Anesthesia to Acrodermatitis Chronica Atrophicans
+# Bupivacaine: From Post-Operative Pain Block to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-Bupivacaine is a long-acting amino-amide local anesthetic widely used for nerve blocks, epidural anesthesia, spinal anesthesia, and perioperative pain management.
-The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans**,
-however, with **0 clinical trials** and **0 publications** currently supporting this specific direction, the evidence base rests entirely on AI model prediction.
-
----
+Bupivacaine is a local anesthetic, authorized in the EU (as the liposomal product Exparel) for nerve blocks and field blocks to treat post-operative pain.
+The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**,
+but **no clinical trials** and **no publications** currently support this prediction, and no plausible mechanistic link has been identified.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Local and regional anesthesia (nerve block, epidural, spinal anesthesia, pain management) |
-| Predicted New Indication | Acrodermatitis Chronica Atrophicans |
+|------|------|
+| Original Indication | Exparel liposomal: in adults as a brachial plexus block or femoral nerve block for post-operative pain; in adults and children aged 6 years or older as a field block for somatic post-operative pain from small- to medium-sized surgical wounds |
+| Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.23% |
 | Evidence Level | L5 |
-| Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Bupivacaine is an amino-amide local anesthetic that acts by blocking voltage-gated sodium channels (Nav1.x), preventing depolarization and nerve impulse propagation. Beyond this primary mechanism, laboratory evidence shows that bupivacaine and related local anesthetics can inhibit NF-κB signaling — a central regulator of inflammatory cytokine expression — at clinically relevant concentrations. This anti-inflammatory property is the most plausible mechanistic hook that the TxGNN model may have leveraged.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Generally, bupivacaine is an amide-type local anesthetic that blocks sodium channels in nerve fibres. Its efficacy in post-operative pain control is established.
 
-Acrodermatitis chronica atrophicans (ACA) is a late-stage cutaneous manifestation of Lyme borreliosis (*Borrelia burgdorferi sensu lato* infection), characterized by progressive atrophic skin changes and persistent low-grade dermal inflammation. The theoretical rationale is that bupivacaine's NF-κB inhibition could dampen the chronic inflammatory cascade seen in ACA, particularly in the post-antibiotic residual inflammation phase.
+For acrodermatitis chronica atrophicans, no mechanistic link is apparent. This condition is a late-stage skin manifestation of Borrelia infection and is treated with antibiotics. Bupivacaine has no known anti-infective or anti-atrophic activity. The high TxGNN score is a computational prediction only, so it should be treated as a hypothesis-generating signal rather than evidence of efficacy.
 
-In practice, however, this mechanistic link is extremely indirect. ACA is fundamentally an infectious disease requiring systemic antibiotic therapy; its inflammation is secondary to persistent or post-infectious immune dysregulation involving pathways (Toll-like receptor activation, complement cascades) not directly targeted by sodium channel blockade. There is no published preclinical or clinical evidence supporting any local anesthetic as a therapeutic agent for Borrelia-associated skin conditions. This prediction requires in vitro validation before it can be considered a credible repurposing candidate.
-
----
+Other predictions among the top 10 (for example neonatal dermatomyositis, amyopathic dermatomyositis, acne keloid, uterine polyp, epulis, polyp of vocal cord) are similarly weak. Where trials or publications exist (uterine polyp, epulis, vocal cord polyp), they describe bupivacaine or related anesthetic techniques used as procedural pain control, not treatment of the disease itself.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for acrodermatitis chronica atrophicans.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for acrodermatitis chronica atrophicans.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004586 (cancelled) | Exparel liposomal | Not specified | In adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. In adults and children aged 6 years or o... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (from a drug-disease network, not label text): hypertension and hypotensive disorders, liver failure and liver disease, kidney disease, epilepsy, COPD and respiratory failure, coronary artery disease, myocardial infarction, sudden cardiac arrest, heart conduction disease, atrial fibrillation, diabetes mellitus and diabetic ketoacidosis, hypothyroidism, inflammatory bowel disease, hemoglobinopathy, angle-closure glaucoma, substance abuse/dependence, and others. These should be verified against the official label.
+- **Drug Interactions**: 56 interactions were recorded. The main graded ones are moderate: aprepitant and liposomal morphine. Others (for example proton pump inhibitors, corticosteroids, ondansetron, metoclopramide, atropine, vancomycin, simvastatin) have no graded severity.
+- **Other considerations**: Bupivacaine's myotoxicity at high local concentrations is relevant to the muscle-related predictions (dermatomyositis). A published case report describes transient neurological syndrome after spinal hyperbaric bupivacaine.
 
----
+Please also refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN prediction score (99.23%), there is zero clinical or preclinical evidence supporting bupivacaine for acrodermatitis chronica atrophicans, and the proposed mechanistic link — NF-κB inhibition modulating Borrelia-driven chronic skin inflammation — remains highly speculative without any experimental grounding.
+The prediction rests only on a model score, with no trials, no literature and no plausible mechanism. The only EU authorization is cancelled, and the other top-ranked predictions are likewise unsupported or reflect procedural anesthesia rather than disease treatment.
 
 **To proceed, the following is needed:**
-- Retrieve detailed MOA data from DrugBank (DG002) and TFDA SmPC warnings/contraindications (DG001)
-- Conduct in vitro studies examining bupivacaine's effect on Borrelia-infected dermal fibroblasts or keratinocytes
-- Assess whether anti-inflammatory concentrations achievable in skin tissue are consistent with safe local delivery
-- Review whether any existing ACA animal models could serve as a feasibility screen
-- Evaluate route-of-administration compatibility: topical or intradermal delivery of bupivacaine for a chronic skin indication differs substantially from its established procedural anesthetic uses
+- Mechanism of action data and a credible biological rationale for the new indication
+- Any preclinical or clinical evidence in acrodermatitis chronica atrophicans
+- Official warnings and contraindications from the EU product information
+- Clarification of route and formulation compatibility with the proposed use
+- Review of whether the higher-ranked alternatives involve true disease treatment rather than procedural anesthesia
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

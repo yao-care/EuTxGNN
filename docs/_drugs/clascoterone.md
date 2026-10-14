@@ -2,7 +2,7 @@
 layout: default
 title: Clascoterone
 parent: AI Predictions (L5)
-nav_order: 149
+nav_order: 152
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,68 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Clascoterone is a topical androgen receptor (AR) antagonist approved in the United States for acne vulgaris, with no current EU marketing authorization on record.
-The TxGNN model predicts it may be effective for **Candidiasis**,
-with **no clinical trials** and **no publications** currently supporting this direction.
-
----
+Clascoterone is a topical androgen receptor inhibitor, originally used to treat acne vulgaris.
+The TxGNN model predicts it may be effective for **candidiasis**,
+but **no clinical trials and no publications** currently support this direction. The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acne Vulgaris |
+|------|------|
+| Original Indication | Acne vulgaris in adults; facial acne vulgaris in adolescents (12 to <18 years) |
 | Predicted New Indication | Candidiasis |
 | TxGNN Prediction Score | 94.82% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Clascoterone is a topical androgen receptor (AR) antagonist that competitively binds AR in sebaceous glands and hair follicles, reducing sebum production and the inflammatory cascade that drives acne vulgaris. Structurally, it is a 17α-propionate ester of 11-deoxycortisol — a cortisol precursor — which distinguishes it from systemic AR antagonists and limits its off-target endocrine effects.
+Clascoterone (Winlevi) is a topical anti-androgen. The data compiled for this report show that it targets the androgen receptor (AR), and it is understood to act locally in the sebaceous glands. Detailed mechanism of action data are not available in the compiled data beyond this target information.
 
-The proposed link between acne and candidiasis is highly indirect. Androgen signaling is known to modulate macrophage polarization and innate immune function, and androgen excess has been associated with impaired clearance of certain pathogens in some experimental contexts. The speculative hypothesis is that AR blockade might enhance the host's antifungal immune response. However, no preclinical, in vitro, or clinical studies have examined this connection for Clascoterone specifically.
+Acne vulgaris is an androgen-driven sebaceous and follicular condition, whereas candidiasis is a fungal infection. No antifungal mechanism is known for clascoterone, and the data show no biological link between androgen receptor blockade and *Candida* control. The high TxGNN score (0.948) is most likely explained by network proximity to skin or mucosal disease nodes in the knowledge graph rather than by a biological rationale.
 
-Critically, Clascoterone is formulated for topical skin application with extremely low systemic absorption — a property that is central to its favourable safety profile in acne, but that also makes meaningful systemic immunomodulation biologically implausible. The high TxGNN score most likely reflects graph propagation through shared immune comorbidity nodes in the knowledge graph, rather than a direct mechanistic pathway.
-
----
+For context, other top-ranked predictions (migraine disorders, leprosy, oral candidiasis, adrenal gland hyperfunction, multiple endocrine neoplasia and others) also lack mechanistic or clinical support in the compiled data. Several of them, such as the migraine subtypes, appear to reflect the same graph association rather than independent evidence. The prediction for candidiasis should therefore be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006138 (cancelled) | Winlevi | Not specified | Adults: acne vulgaris. Adolescents (12 to <18 years): facial acne vulgaris. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions / Pharmacology**: The only interaction record is pharmacological. Clascoterone binds the human androgen receptor (AR), which is its intended target. No drug-drug interactions with other medicines were identified.
+- **Other considerations**: Clascoterone has been associated with HPA axis suppression in some patients. This would be a particular concern in any endocrine-related use.
 
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure L5 prediction (AI model only) with zero supporting clinical trials or literature. The mechanistic bridge between topical AR antagonism and systemic candidiasis is biologically implausible given Clascoterone's topical route and negligible systemic exposure — the drug cannot plausibly reach concentrations needed to modulate the immune microenvironment at mucosal infection sites.
+The prediction rests on a model score alone (L5), with no registered trials or literature and no plausible antifungal mechanism. The only EU authorization is cancelled, and the topical facial-skin formulation is not suited to systemic or mucosal fungal disease.
 
 **To proceed, the following is needed:**
-- Retrieve full MOA and safety data (TFDA SmPC / EU SmPC) to complete baseline risk assessment
-- Commission in vitro studies examining whether AR signalling directly affects *Candida* growth or macrophage antifungal activity
-- Consider redirecting discovery effort toward indications with stronger mechanistic plausibility:
-  - **Atrophoderma vermiculata** (Rank 6): AR-pathway link through follicular biology is mechanistically closer to the approved acne indication
-  - **Adrenal gland hyperfunction / CAH** (Rank 9): Structural homology to cortisol precursors provides a direct biological rationale worth exploring
-- Any further pursuit of the candidiasis hypothesis should begin with a formulation feasibility assessment — a mucosally-delivered AR antagonist would be an entirely different product from the approved topical cream
+- Preclinical data (for example in vitro antifungal activity against *Candida*) to establish any biological rationale
+- Complete mechanism of action data
+- The EU label warnings and contraindications (SmPC) to support safety screening
+- Clarification of why the EU authorization was cancelled and whether any formulation suitable for the target site exists
+- A literature and trial search specific to clascoterone and candidiasis to confirm that no supporting evidence exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

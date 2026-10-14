@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Amlodipine
-parent: High Evidence (L1-L2)
-nav_order: 45
-evidence_level: L2
+parent: Medium Evidence (L3-L4)
+nav_order: 46
+evidence_level: L4
 indication_count: 10
 ---
 
 # Amlodipine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Amlodipine: From Hypertension to Intracerebral Hemorrhage
+# Amlodipine: From Essential Hypertension to Brain Stem Infarction
 
 ## One-Sentence Summary
 
-Amlodipine is an L-type calcium channel blocker established in clinical practice for hypertension and angina pectoris. Across 10 TxGNN predictions, the highest-ranked new indication is **brain stem infarction** (score 99.94%), while the best-evidenced actionable candidate is **intracerebral hemorrhage** — supported by **1 completed Phase 3 RCT** (TRIDENT trial, n = 1,671) and **8 publications**. This report focuses on intracerebral hemorrhage as the primary clinically actionable prediction.
+Amlodipine is a calcium channel blocker originally used to treat essential hypertension, including in several fixed-dose combination products.
+The TxGNN model's top-ranked prediction is **Brain Stem Infarction**, but no clinical trials or publications support it.
+The best-supported prediction in the data compiled for this report is **Intracerebral Hemorrhage** (secondary prevention), backed by **4 clinical trials** and **10 publications**, including a completed Phase 3 trial of 1,671 patients.
 
 ---
 
@@ -41,101 +43,117 @@ Amlodipine is an L-type calcium channel blocker established in clinical practice
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension; angina pectoris (established clinical use — Taiwan regulatory data not available in current dataset) |
-| Top TxGNN Prediction | Brain stem infarction |
-| Best-Evidenced New Indication | Intracerebral hemorrhage |
-| TxGNN Prediction Score (ICH) | 99.79% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed (per current dataset; TFDA verification recommended) |
-| Number of Taiwan Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Essential hypertension (patients not adequately controlled on amlodipine or valsartan monotherapy) |
+| Predicted New Indication | Brain stem infarction (top-ranked prediction). Intracerebral hemorrhage is the best-supported one (see below). |
+| TxGNN Prediction Score | 99.94% (brain stem infarction); 99.79% (intracerebral hemorrhage) |
+| Evidence Level | L5 (brain stem infarction); L1 (intracerebral hemorrhage) |
+| EU Market Status | Cancelled only (all licenses cancelled) |
+| Number of Authorizations | 8 (all cancelled) |
+| Recommended Decision | Hold (brain stem infarction); Proceed with Guardrails (intracerebral hemorrhage) |
+
+**Note:** The top-ranked prediction, brain stem infarction, is a model output only. The sections below therefore focus on intracerebral hemorrhage, the prediction with real clinical evidence, and briefly summarize the other predictions.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Amlodipine is a dihydropyridine-class calcium channel blocker that reduces peripheral vascular resistance by blocking L-type calcium channels in vascular smooth muscle, resulting in sustained arterial vasodilation. Detailed MOA data from DrugBank was not retrieved in this analysis; however, the drug's mechanism is extensively documented in the literature: it produces long-acting, gradual blood pressure reduction with minimal negative inotropic effect, making it among the most widely prescribed antihypertensives globally. Its slow offset and high bioavailability contribute to consistent 24-hour blood pressure control.
+Detailed mechanism of action data is not available in the data compiled for this report. Amlodipine is known to be an L-type calcium channel blocker that lowers blood pressure by reducing systemic vascular resistance.
 
-The link between amlodipine and intracerebral hemorrhage (ICH) is mechanistically direct. Hypertension is the strongest single modifiable risk factor for ICH, responsible for approximately 70–80% of cases. Sustained elevation of blood pressure generates wall stress on small penetrating cerebral arteries (lenticulostriate, thalamoperforators) — the vessels most vulnerable to rupture. By lowering and maintaining blood pressure below critical thresholds, CCBs such as amlodipine directly reduce the hemodynamic forces that precipitate vessel rupture. This rationale underpins the TRIDENT trial (NCT02699645), which tested a fixed low-dose triple pill comprising perindopril + indapamide + **amlodipine** specifically in patients with prior ICH, representing the first Phase 3 trial to directly investigate this strategy in an ICH cohort.
+For brain stem infarction, the link is only plausible in general terms: blood pressure lowering and vasodilation might contribute to secondary stroke prevention. No direct evidence exists.
 
-Importantly, TxGNN's predictions converge on multiple cerebrovascular indications simultaneously: brain stem infarction (rank 1), cerebral artery occlusion (rank 6), MRI-defined brain infarcts (rank 8), and intracerebral hemorrhage (rank 10). All share the same underlying biological pathway — cerebrovascular protection via sustained blood pressure control — which strongly reinforces the plausibility of the model's output. The convergence across distinct but related cerebrovascular endpoints suggests the signal is robust rather than coincidental.
+For intracerebral hemorrhage, the link is stronger. Blood pressure control is the main modifiable risk factor for recurrent hemorrhage. Amlodipine is one component of a triple low-dose single-pill regimen tested in the TRIDENT trial. Two caveats apply. The benefit comes from the combination pill, so amlodipine's own contribution cannot be separated. And the benefit works through blood pressure lowering, which is already within amlodipine's approved use. This supports a secondary-prevention strategy more than a novel mechanism. The trial results have not been reviewed here, so the size of the effect needs to be verified from the full publication.
+
+**Other predictions (all Hold unless noted):**
+
+| Predicted Indication | Evidence Level | Comment |
+|------|------|------|
+| Pulmonary hypertension (unclear multifactorial mechanism) | L5 | No supporting data |
+| Pulmonary hypertension owing to lung disease/hypoxia | L4 | Preclinical support only; vasodilators may worsen V/Q mismatch, and one case report links amlodipine to hypoxia during one-lung ventilation |
+| Malignant renovascular hypertension | L4 | Two pediatric case reports; largely restates the existing hypertension indication |
+| Malignant hypertensive renal disease | L5 | No supporting data |
+| Cerebral artery occlusion | L3 | Animal neuroprotection data; clinical trials are indirect, tiny, or terminated (Research Question) |
+| Braddock syndrome | L5 | No supporting data or plausible rationale |
+| MRI-defined brain infarct | L5 | No supporting data |
+| ABri amyloidosis | L5 | No supporting data |
 
 ---
 
 ## Clinical Trial Evidence
 
-*Primary focus: Intracerebral Hemorrhage (Rank 10)*
+Trials for intracerebral hemorrhage:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) | Phase 3 | Completed | 1,671 | **TRIDENT**: Multicentre, double-blind, placebo-controlled RCT testing fixed low-dose triple pill (perindopril + indapamide + **amlodipine**) in patients with prior ICH; primary endpoint: time to first recurrent stroke |
-| [NCT00134160](https://clinicaltrials.gov/study/NCT00134160) | Phase 4 | Completed | 1,000 | **CASE-J**: ARB monotherapy vs. ARB + CCB (**amlodipine** as CCB representative) in Japanese elderly high-risk hypertensives; cardiovascular outcomes including cerebral haemorrhage |
-| [NCT03264352](https://clinicaltrials.gov/study/NCT03264352) | Phase 4 | Recruiting | 11,414 | **IPAD**: Antihypertensive therapy in type 2 diabetes with high-normal blood pressure; ICH included as secondary endpoint; antihypertensive regimen may include CCBs |
-| [NCT03015311](https://clinicaltrials.gov/study/NCT03015311) | NA | Unknown | 8,000 | **STEP**: Intensive (< 130 mmHg) vs. standard (< 150 mmHg) SBP control in elderly hypertensives (60–80 years); MRI-defined brain infarct among endpoints; amlodipine not a specific test agent |
-| [NCT03783754](https://clinicaltrials.gov/study/NCT03783754) | NA | Terminated | 4 | TRIDENT MRI sub-study; terminated early with only 4 participants enrolled — no usable data |
+| [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) | Phase 3 | Completed | 1671 | TRIDENT: double-blind, placebo-controlled trial of a low-dose triple antihypertensive single pill (including amlodipine) on top of standard care to prevent recurrent stroke after intracerebral hemorrhage |
+| [NCT07458880](https://clinicaltrials.gov/study/NCT07458880) | NA | Recruiting | 140 | Triple antihypertensive medication for blood pressure control after intracerebral hemorrhage (TRICH score) |
+| [NCT03783754](https://clinicaltrials.gov/study/NCT03783754) | NA | Terminated | 4 | TRIDENT MRI sub-study; too small to be informative |
+| [NCT03785067](https://clinicaltrials.gov/study/NCT03785067) | Phase 3 | Terminated | 1 | TRIDENT cognitive sub-study; no usable data |
+
+Trials for cerebral artery occlusion (indirect evidence):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00805311](https://clinicaltrials.gov/study/NCT00805311) | Phase 4 | Terminated | 400 | Carotid endarterectomy vs optimal medical treatment in asymptomatic carotid stenosis; amlodipine is not the studied intervention |
 
 ---
 
 ## Literature Evidence
 
-*Primary focus: Intracerebral Hemorrhage (Rank 10)*
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34994269](https://pubmed.ncbi.nlm.nih.gov/34994269/) | 2022 | RCT Protocol | Int J Stroke | TRIDENT trial rationale and design paper: describes scientific basis for triple-pill strategy (including **amlodipine**) in ICH secondary prevention; confirms feasibility across international sites |
-| [14717341](https://pubmed.ncbi.nlm.nih.gov/14717341/) | 2003 | RCT | Hypertension Research | CASE-J trial design: candesartan vs. candesartan + CCB in high-risk Japanese hypertensives; ICH captured as cardiovascular outcome; demonstrates CCB + RAS blockade strategy |
-| [23053838](https://pubmed.ncbi.nlm.nih.gov/23053838/) | 2013 | Comparative Study | Neurological Sciences | Atenolol vs. standard care in hypertensive ICH (n = 138); contextualises antihypertensive choice in acute ICH and 3-month functional outcome |
-| [3154329](https://pubmed.ncbi.nlm.nih.gov/3154329/) | 1988 | Review | Cardiovascular Drugs and Therapy | CCB mechanisms in severe hypertension: reduction of systemic vascular resistance as primary mechanism; supports first-choice use in hypertensive emergencies with cerebrovascular risk |
-| [19299323](https://pubmed.ncbi.nlm.nih.gov/19299323/) | 2009 | Case Report | Ann Pharmacother | Probable amlodipine-induced angioedema in a patient with right thalamic haemorrhagic stroke — **safety signal** relevant to this population |
-
-*Supporting evidence: Cerebral Artery Occlusion (Rank 6, L4)*
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [21538457](https://pubmed.ncbi.nlm.nih.gov/21538457/) | 2011 | Animal Study | J Neurosci Research | Amlodipine + atorvastatin show additive neuroprotection via anti-apoptotic and anti-autophagic mechanisms after 90-min MCAO in Zucker metabolic syndrome rats |
-| [20971084](https://pubmed.ncbi.nlm.nih.gov/20971084/) | 2011 | Animal Study | Brain Research | Combination amlodipine + atorvastatin reduces infarct volume and neuronal damage synergistically vs. either agent alone at 24h post-MCAO |
-| [21276424](https://pubmed.ncbi.nlm.nih.gov/21276424/) | 2011 | Animal Study | Brain Research | Amlodipine + atorvastatin superior to monotherapy for ischemic stroke protection; physical/serum parameter analysis confirms metabolic benefits |
-| [17904110](https://pubmed.ncbi.nlm.nih.gov/17904110/) | 2007 | Animal Study | Brain Research | CCBs with antioxidative properties (including amlodipine) reduce neuronal damage after focal ischemia; proposes antioxidant activity as mechanism beyond calcium antagonism |
-| [17070425](https://pubmed.ncbi.nlm.nih.gov/17070425/) | 2006 | Animal Study | Am J Hypertension | Amlodipine reduces stroke size after focal brain ischemia in ApoE-deficient mice; suggests benefit even in the presence of dyslipidaemia |
+| [42019018](https://pubmed.ncbi.nlm.nih.gov/42019018/) | 2026 | RCT | N Engl J Med | TRIDENT main publication: low-dose triple-pill antihypertensive after intracerebral hemorrhage |
+| [34994269](https://pubmed.ncbi.nlm.nih.gov/34994269/) | 2022 | Trial design paper | Int J Stroke | Rationale and design of TRIDENT; single-pill combination as secondary prevention |
+| [19299323](https://pubmed.ncbi.nlm.nih.gov/19299323/) | 2009 | Case report | Ann Pharmacother | Probable amlodipine-induced angioedema in a patient with hemorrhagic stroke (safety signal) |
+| [3154329](https://pubmed.ncbi.nlm.nih.gov/3154329/) | 1988 | Review | Cardiovasc Drugs Ther | Calcium antagonists in hypertension and supraventricular arrhythmias |
+| [21538457](https://pubmed.ncbi.nlm.nih.gov/21538457/) | 2011 | Preclinical | J Neurosci Res | Amlodipine plus atorvastatin protected against ischemic injury in rats (cerebral artery occlusion) |
+| [17070425](https://pubmed.ncbi.nlm.nih.gov/17070425/) | 2006 | Preclinical | Am J Hypertens | Amlodipine reduced stroke size in ApoE-deficient mice |
+| [11282121](https://pubmed.ncbi.nlm.nih.gov/11282121/) | 2001 | Preclinical | Eur J Pharmacol | Amlodipine attenuated pulmonary vascular remodelling in hypoxic rats |
+| [36856509](https://pubmed.ncbi.nlm.nih.gov/36856509/) | 2023 | Case report | Heart Surg Forum | Amlodipine possibly linked to hypoxia during one-lung ventilation |
+| [35261597](https://pubmed.ncbi.nlm.nih.gov/35261597/) | 2022 | Case report | Saudi J Anaesth | Amlodipine overdose complicated by non-cardiogenic pulmonary edema (safety signal) |
+| [10759437](https://pubmed.ncbi.nlm.nih.gov/10759437/) | 2000 | Crossover trial | Eur Respir J | Amlodipine and responses to hypoxia in mountaineers (small, healthy volunteers) |
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Per the current dataset, amlodipine shows **0 active Taiwan FDA (TFDA) licenses** and market status of **not marketed**. This likely reflects a data retrieval gap rather than true market absence — amlodipine is a WHO Essential Medicine and a first-line antihypertensive recommended by ESC/ESH, AHA/ACC, and Taiwan Hypertension Society guidelines alike. Verification via direct TFDA database query is strongly recommended before drawing regulatory conclusions.
+All eight authorizations are cancelled, and no valid EU license currently exists for amlodipine-containing products in the data compiled for this report.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000776 | Dafiro | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (cancelled) |
+| EMEA/H/C/000774 | Copalia | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (cancelled) |
+| EMEA/H/C/000716 | Exforge | Not specified | Essential hypertension not adequately controlled on amlodipine or valsartan monotherapy (cancelled) |
+| EMEA/H/C/004037 | Amlodipine / Valsartan Mylan | Not specified | Essential hypertension in adults not adequately controlled on monotherapy (cancelled) |
+| EMEA/H/C/001224 | Twynsta | Not specified | Essential hypertension in adults: add-on or replacement therapy with telmisartan and amlodipine (cancelled) |
+
+Three further cancelled authorizations (Exforge HCT, Dafiro HCT, Copalia HCT) cover substitution therapy with the amlodipine, valsartan and hydrochlorothiazide combination.
 
 ---
 
 ## Safety Considerations
 
-Taiwan FDA prescribing information (warnings, contraindications) was not available in this analysis. A drug-drug interaction query returned no results.
+- **Disease contraindications flagged by the knowledge graph (not label text):** liver failure and liver disease, kidney disease, angioedema (including hereditary and RAAS-blocker-induced forms), hypotensive disorders, diabetes and diabetic ketoacidosis, systemic lupus erythematosus, neutropenia and agranulocytosis, pancreatitis, hypothyroidism, myopathy, and others. These come from model-derived edges and must be confirmed against the SmPC.
+- **Drug interactions:** 100 interactions were found; those listed are all moderate. Examples include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide), aprepitant, acetylsalicylic acid, bupropion, calcium salts, SGLT2 inhibitors (canagliflozin, dapagliflozin), clarithromycin and clotrimazole.
+- **Signals from the literature:** a case of probable amlodipine-induced angioedema, and an overdose case with non-cardiogenic pulmonary edema.
 
-Based on established pharmacological knowledge applicable to the ICH indication:
-
-- **Blood pressure over-correction risk**: In post-ICH patients, excessive BP lowering may compromise cerebral perfusion pressure, particularly in the acute phase. Careful titration to target is essential.
-- **Peripheral oedema**: The most common adverse effect of amlodipine (up to 10–15% at therapeutic doses); clinically important in post-stroke patients with limited mobility.
-- **Additive hypotension**: When used in the triple-pill combination (as in TRIDENT), additive hypotensive effects from perindopril + indapamide + amlodipine require active monitoring, especially in elderly patients.
-- **Angioedema signal**: One case report (PMID 19299323) describes probable amlodipine-associated angioedema in a haemorrhagic stroke patient — relevant safety consideration for ICH management.
-
-> Please refer to the Taiwan FDA SmPC and the TRIDENT trial protocol for complete safety information specific to the ICH population.
+Please refer to the SmPC for official warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold for brain stem infarction (top-ranked prediction); Proceed with Guardrails for intracerebral hemorrhage (secondary prevention)**
 
 **Rationale:**
-The completed Phase 3 TRIDENT trial directly evaluated an amlodipine-containing triple pill in 1,671 patients with prior intracerebral haemorrhage, providing Level 2 evidence that this strategy is feasible and specifically designed for the ICH secondary prevention context. The mechanistic rationale (blood pressure reduction → reduced wall stress on penetrating cerebral arteries) is unambiguous, and multiple independent TxGNN predictions converging on cerebrovascular indications further reinforce the signal.
+- Brain stem infarction is a model prediction only, with no trials or literature, so it cannot be advanced.
+- Intracerebral hemorrhage has a completed Phase 3 trial (TRIDENT, N=1,671) and a 2026 NEJM publication. However, the intervention is a three-drug pill, the benefit works through blood pressure lowering, and all EU licenses for amlodipine-containing products are cancelled.
 
 **To proceed, the following is needed:**
-
-- **TRIDENT primary results**: Publication of the main efficacy outcomes from NCT02699645 (completion date August 2025) — confirm or refute the superiority of triple-pill strategy
-- **Taiwan FDA verification**: Direct TFDA database query to confirm amlodipine's current regulatory status and retrieve official SmPC warnings/contraindications
-- **DrugBank MOA data**: Retrieve full pharmacological profile (targets, pathways, drug interactions) to complete the mechanistic analysis
-- **BP target specification**: Define safe blood pressure targets for the post-ICH population to be used in any local protocol development
-- **DDI re-query**: Expand drug interaction search using DrugBank API, focusing on common post-ICH co-medications (anticoagulants, antiplatelets, antiepileptics)
-- **Population-specific safety review**: Assess amlodipine tolerability data specifically in Asian/Taiwanese post-ICH cohorts, including peripheral oedema and hypotension event rates
+- Review of the full TRIDENT results (effect size, safety, and the contribution of each component)
+- Mechanism of action data and the SmPC warnings and contraindications, which are missing here
+- Clarification of EU regulatory status, since all listed authorizations are cancelled (other amlodipine products, such as single-agent ones, may exist but are not in the data compiled for this report)
+- A safety plan for patients with the flagged comorbidities (angioedema, hepatic or renal impairment, hypotension)
+- Further evidence for any other predicted indication before reconsideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

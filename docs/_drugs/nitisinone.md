@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitisinone
-parent: Medium Evidence (L3-L4)
-nav_order: 418
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 432
+evidence_level: L5
 indication_count: 10
 ---
 
 # Nitisinone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,9 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Nitisinone (NTBC) is used to treat Hereditary Tyrosinemia Type 1 (HT1) by blocking upstream tyrosine catabolism.
-> The TxGNN model predicts it may be effective for **Renal Tubular Acidosis**,
-> with **0 clinical trials** and **2 publications** currently supporting this direction — evidence is preliminary and indirect.
+Nitisinone was originally used to treat hereditary tyrosinemia type 1 (HT-1) and alkaptonuria (AKU).
+The TxGNN model predicts it may be effective for **renal tubular acidosis**, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model alone.
 
 ---
 
@@ -43,23 +42,21 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary Tyrosinemia Type 1 (HT1) *(inferred from mechanistic rationale; not present in structured regulatory fields)* |
-| Predicted New Indication | Renal Tubular Acidosis |
+| Original Indication | Hereditary tyrosinemia type 1 (HT-1), in combination with dietary restriction of tyrosine and phenylalanine; alkaptonuria (AKU) in adults |
+| Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L3 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed formal mechanism of action data is not available in the DrugBank record for this drug. Based on the available literature and repurposing rationale, Nitisinone (NTBC) inhibits 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme early in the tyrosine catabolic pathway. This blockade prevents the accumulation of downstream toxic metabolites (notably succinylacetone) that drive liver and kidney damage in Hereditary Tyrosinemia Type 1 (HT1), the drug's established indication.
+Nitisinone inhibits 4-hydroxyphenylpyruvate dioxygenase (HPPD), an enzyme in the tyrosine breakdown pathway. Blocking it prevents the build-up of toxic downstream metabolites in HT-1. Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on the drug's known pharmacology.
 
-HT1 patients frequently develop secondary proximal renal tubular dysfunction — a Fanconi-syndrome-like presentation that is a form of secondary renal tubular acidosis (RTA) — as a direct consequence of succinylacetone toxicity. Published cohort data (Maiorana et al., 2014) show that NTBC therapy improves renal tubular function in HT1 patients, which is the biological basis for this TxGNN prediction.
-
-Importantly, this is an **indirect** mechanism: Nitisinone does not appear to act directly on renal tubular acid-handling transporters or acid-base physiology. Its apparent benefit for RTA is a downstream consequence of removing the upstream metabolic toxin in HT1. This means the prediction is most plausible for **HT1-associated secondary RTA**, not for primary or idiopathic RTA of other etiologies (e.g., autoimmune, genetic transporter defects unrelated to tyrosine metabolism).
+The link to renal tubular acidosis is indirect. Renal tubular dysfunction (Fanconi-type) is a recognized manifestation of HT-1, so treating HT-1 may relieve some kidney tubule problems. However, no direct evidence supports an effect in primary renal tubular acidosis. The very high TxGNN score is a computational prediction only and should not be read as proof of efficacy.
 
 ---
 
@@ -71,24 +68,25 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [25172236](https://pubmed.ncbi.nlm.nih.gov/25172236/) | 2014 | Cohort | Molecular Genetics and Metabolism | Early NTBC therapy in HT1 patients was associated with improvement in renal tubular dysfunction, describing the early effect of NTBC on renal tubular disease. |
-| [27109516](https://pubmed.ncbi.nlm.nih.gov/27109516/) | 2016 | Case Series | Indian Journal of Gastroenterology | Case series of 4 children with tyrosinemia treated with NTBC; patients maintained on long-term therapy showed normal liver function and no renal tubular complications. |
+Currently no related literature available for renal tubular acidosis.
 
 ---
 
 ## EU Market Information
 
-This drug currently has no EU marketing authorization on record (market status: **Not marketed**, 0 authorizations found in this evidence pack).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000555 (cancelled) | Orfadin | Not specified | Hereditary tyrosinemia type 1 (HT 1) in adult and paediatric patients, in combination with dietary restriction of tyrosine and phenylalanine. Alkaptonuria (AKU) in adults... |
+| EMEA/H/C/004582 (cancelled) | Nityr | Not specified | Adult and paediatric patients with confirmed hereditary tyrosinemia type 1 (HT-1), in combination with dietary restriction of tyrosine and phenylalanine. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations flagged in the knowledge graph (not label text):** kidney disease, pyoureter, thrombocytopenia, leukopenia, hypophosphatemia, tyrosinemia. These come from drug-disease contraindication edges in the TxGNN knowledge graph and need confirmation against the official product information. Kidney disease is directly relevant to the predicted indication.
+- **Drug Interactions:** 100 interactions were found, and the 20 listed in the data are mostly Moderate (one is Minor). Examples include abiraterone, amiodarone, amlodipine, nifedipine, ibuprofen, pioglitazone, dexamethasone, atazanavir, aprepitant, apalutamide, baricitinib, bexarotene, bicalutamide, isotretinoin, aldesleukin, avatrombopag, amobarbital, abametapir (topical) and ginger. Armodafinil is the Minor one.
 
-*Note: Structured safety data (key warnings, contraindications, drug interactions) were not available in this evidence pack. Retrieval of the official product label is flagged as a **blocking** data gap for any further safety evaluation (see Conclusion).*
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -97,14 +95,16 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Evidence for this indication is limited to two observational/case-series publications (L3) describing an indirect mechanism specific to HT1-associated secondary renal tubular dysfunction, with no clinical trials directly testing Nitisinone for primary RTA. Combined with the absence of critical safety labeling data (blocking gap) and no current EU marketing authorization, the evidence does not yet support proceeding beyond a research question.
+The prediction has a high model score but no trials or literature, and the mechanistic link is only indirect, through the kidney tubule problems seen in HT-1. There are also no valid EU authorizations, and the label safety data could not be retrieved.
 
 **To proceed, the following is needed:**
-- TFDA/EMA-approved product label (warnings, contraindications, DDI) — currently a blocking gap (DG001)
-- Formal DrugBank mechanism-of-action data (DG002)
-- Clarification of scope: does the target population mean HT1-associated secondary RTA specifically, or RTA broadly? This materially changes the evidence bar
-- Any clinical or case-report data on Nitisinone use in RTA outside the HT1 context, if the broader indication is intended
-- Confirmation of EU/Taiwan regulatory and marketing status for this drug before any repurposing pathway is pursued
+- Official product information (warnings and contraindications) from the EMA, which is a blocking gap for safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- A literature search specific to renal tubular acidosis or Fanconi-type tubulopathy, to see whether any supportive data exist
+- Clarification of why both EU authorizations are cancelled (for example commercial withdrawal versus a safety reason)
+- Review of the knowledge-graph flags for kidney disease, hypophosphatemia and blood cell counts (thrombocytopenia, leukopenia) before any study in a kidney population
+
+**Other predictions in this analysis:** The remaining top-ranked predictions are galactosemia, serpinopathy with toxic serpin polymerization, C1 inhibitor deficiency, glycogen storage disease, adult polyglucosan body disease, glycogen storage disease due to glucose-6-phosphatase deficiency, Griscelli syndrome, X-linked chronic granulomatous disease and ermine phenotype. All were judged Hold. They have no trials, and the only supporting literature is general reviews of pediatric liver disease, with no mechanistic rationale linking HPPD inhibition to these conditions.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

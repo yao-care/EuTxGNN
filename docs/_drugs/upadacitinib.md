@@ -2,7 +2,7 @@
 layout: default
 title: Upadacitinib
 parent: AI Predictions (L5)
-nav_order: 627
+nav_order: 651
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Upadacitinib: From Immune-Mediated Inflammatory Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+# Upadacitinib: From Rheumatoid Arthritis to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
 
 ## One-Sentence Summary
 
-Upadacitinib is a selective JAK1 inhibitor that acts through immunomodulatory and anti-inflammatory pathways; its specific approved indication is not recorded in the current dataset. The TxGNN model's top-ranked prediction links it to **Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome**, a rare congenital developmental disorder, but this pairing is supported by **no clinical trials** and **no published literature**, and the evidence pack's own mechanistic review flags it as a likely knowledge-graph noise signal.
-
----
+Upadacitinib (Rinvoq) is a JAK1-selective inhibitor originally approved for immune-mediated inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, atopic dermatitis, ulcerative colitis and Crohn's disease.
+The TxGNN model predicts it may be effective for **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, an ultra-rare developmental disorder.
+There are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not specified in current dataset (Upadacitinib is a selective JAK1 inhibitor used for immune-mediated inflammatory conditions) |
+|------|------|
+| Original Indication | Moderate to severe active rheumatoid arthritis in adults who responded inadequately to, or are intolerant to, one or more DMARDs (also psoriatic arthritis, axial spondyloarthritis, giant cell arteritis, atopic dermatitis, ulcerative colitis, Crohn's disease) |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (see note in the EU Market Information section) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Upadacitinib is not available in this evidence pack (flagged as a High-severity data gap, DG002, pending a DrugBank API lookup). Based on information embedded in the prediction rationale itself, Upadacitinib is described as a selective JAK1 inhibitor whose therapeutic effect operates through immunomodulatory and anti-inflammatory signaling pathways.
+Detailed mechanism of action data is not available in the data compiled for this report. Upadacitinib is known to be a JAK1-selective inhibitor, which dampens inflammatory cytokine signaling through the JAK/STAT pathway. This explains its efficacy in the approved inflammatory and autoimmune indications.
 
-Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare congenital malformation syndrome affecting eye and skeletal development. It is a structural developmental disorder rather than an immune- or inflammation-driven condition, so there is no established disease-mechanism overlap with JAK1 inhibition.
+The predicted disease is different in nature. It is an ultra-rare developmental syndrome with no known JAK/STAT-driven inflammatory pathology. No plausible mechanistic link has been established between JAK1 inhibition and this condition. The very high score (0.996) most likely reflects artifacts of the knowledge graph rather than a biological rationale. It should be treated as a computational hypothesis only.
 
-The pack's own rationale explicitly characterizes this pairing as a probable knowledge-graph noise association: TxGNN assigned it the highest raw prediction score (99.61%) among the ten candidates evaluated, yet the accompanying biological review found no reasonable link between JAK1-mediated immune modulation and a congenital structural defect. For context, other candidates further down the ranked list — plasma cell myeloma (ranks 3 and 7) and amyotrophic lateral sclerosis (rank 9) — carry more plausible mechanistic hypotheses (IL-6/JAK/STAT3 signaling in myeloma progression; JAK-STAT-driven neuroinflammation in ALS) and were classified as "Research Question" rather than "Hold," although they too currently lack any clinical or literature evidence.
-
----
+Other predictions in the top 10 follow the same pattern. Most are rare genetic or developmental conditions (such as brachydactyly-syndactyly syndrome and axial spondylometaphyseal dysplasia) with no mechanistic rationale. The exception is plasma cell myeloma and its indolent form, where IL-6/JAK/STAT3 signaling provides only background biological plausibility, without clinical data and with malignancy and infection warnings that raise concern.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorizations are currently recorded for Upadacitinib in this dataset (0 authorizations; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004760 | Rinvoq | Not specified | Rheumatoid arthritis: moderate to severe active disease in adults who responded inadequately to, or are intolerant to, one or more DMARDs... |
 
----
+The data compiled for this report list this single authorization as cancelled. Since the same record carries a current indication text, the status should be verified against the EMA register before any decision relies on it.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in total. Representative major interactions include:
+  - Corticosteroids: hydrocortisone, prednisone, prednisolone, dexamethasone, triamcinolone, betamethasone, budesonide, beclomethasone dipropionate
+  - Clarithromycin
+  - Cobicistat
+  - Deferiprone
+  - Iobenguane (I-131)
+- Moderate interactions include aprepitant, cimetidine, miconazole and deferasirox. Zinc salts are minor.
+- Other noted concerns: the class carries malignancy, serious infection and thrombosis/VTE warnings, which are particularly relevant for the plasma cell neoplasm and heparin cofactor 2 deficiency predictions. These come from the prediction rationale, not from label text.
 
----
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-TxGNN assigns a high raw score to this pairing, but there is no clinical trial or literature evidence, and the accompanying mechanistic review concludes the association is likely a knowledge-graph noise signal with no biological plausibility linking JAK1 inhibition to a congenital structural malformation syndrome.
+The prediction has no clinical trials or literature, no mechanistic link, and a disease context in which JAK1 inhibition is not expected to help. The high score alone does not justify advancing.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/EMA label warnings and contraindications) and DG002 (confirmed mechanism of action via DrugBank API) before any safety evaluation (S1) can begin
-- Confirmed original indication and EU marketing authorization data for Upadacitinib
-- If further repurposing research is pursued, prioritize the mechanistically more plausible "Research Question" candidates in this pack (plasma cell myeloma, amyotrophic lateral sclerosis) over this top-ranked but biologically implausible pairing
+- Mechanistic data (MOA) and a biological rationale connecting JAK1 inhibition to the predicted disease
+- Safety information from the EMA SmPC (warnings and contraindications), which is currently missing
+- Verification of the EU authorization status
+- Preclinical or disease-model evidence if the prediction is to be pursued
+- Consideration of higher-priority predictions with at least some biological plausibility, such as plasma cell myeloma, before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

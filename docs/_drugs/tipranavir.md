@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tipranavir
-parent: Medium Evidence (L3-L4)
-nav_order: 595
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 617
+evidence_level: L5
 indication_count: 10
 ---
 
 # Tipranavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,49 +29,40 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tipranavir: From HIV-1 Infection to Congenital Human Immunodeficiency Virus
+# Tipranavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Tipranavir is a non-peptidic HIV-1 protease inhibitor originally developed as part of antiretroviral combination therapy for HIV-1 infection.
-The TxGNN model, together with the evidence pack's own scoring logic, identifies **Congenital Human Immunodeficiency Virus** (perinatal/vertical HIV-1 transmission) as the most credible repurposing candidate — a within-class extension of the same antiviral mechanism rather than a novel mechanistic hypothesis.
-Evidence is currently indirect: **9 clinical trials** are available (none Tipranavir-specific, one directly relevant to antiretroviral pharmacokinetics in pregnancy) and **0 dedicated publications**, placing this at Evidence Level L4.
-
-> **Note on candidate selection**: TxGNN's top-ranked predictions by raw score (simian immunodeficiency virus infection, feline AIDS, and several unrelated neoplasms) are explicitly flagged in the evidence pack's own rationale as animal disease models or embedding noise with "limited clinical relevance." This report therefore focuses on the highest-ranked candidate that the evidence pack itself elevates to decision stage S1 ("Research Question") — Congenital HIV Infection — as the only prediction with a coherent mechanistic rationale and supporting trial landscape.
+Tipranavir is a non-peptidic HIV-1 protease inhibitor, originally used (together with low-dose ritonavir) to treat HIV-1 infection in highly pretreated patients whose virus is resistant to multiple protease inhibitors.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, but **no clinical trials and no publications** currently support this prediction. The prediction rests on model output only, and the disease is an animal-model condition rather than a human indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (protease inhibitor class; no formal EU label text available — drug is not marketed) |
-| Predicted New Indication | Congenital Human Immunodeficiency Virus |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L4 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Original Indication | HIV-1 infection in highly pretreated adults and adolescents aged 12 years and older with virus resistant to multiple protease inhibitors (used with low-dose ritonavir) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action documentation for tipranavir is not available in the evidence pack (flagged as a High-severity data gap, DG002). Based on the information present in the repurposing rationale, tipranavir is a **non-peptidic HIV-1 protease inhibitor**, used clinically in combination antiretroviral regimens to block viral maturation by inhibiting the HIV-1 protease enzyme.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tipranavir is a non-peptidic HIV-1 protease inhibitor. Its efficacy in HIV-1 infection is supported by two phase III studies in highly pretreated adults and one phase II study in adolescents.
 
-Congenital HIV infection refers to vertical (mother-to-child) transmission of HIV-1 — the same virus and the same drug target as the original adult indication. This is therefore not a new mechanistic hypothesis but a **population extension** of an already-established drug class effect: protease inhibitors are a recognized component of antiretroviral regimens used to prevent and treat perinatal HIV transmission. The related prediction "AIDS related complex" (rank 6, same evidence level) reflects the same logic — it is an older clinical staging term for early symptomatic HIV-1 infection, i.e., the same disease continuum tipranavir already targets.
+Simian immunodeficiency virus (SIV) is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a disease of nonhuman primates, used as an animal model, and is not a human clinical indication. The very high TxGNN score most likely reflects how close the term sits to the approved HIV indication in the disease ontology rather than independent evidence.
 
-The key caveat is that none of the identified clinical trials evaluate tipranavir specifically; they study other antiretroviral classes (integrase inhibitors, CCR5 antagonists) or general antiretroviral pharmacokinetics. The mechanistic plausibility is therefore class-based rather than drug-specific, which is consistent with the L4 (mechanism/preclinical-level) evidence grading assigned in the pack.
+Other top-ranked predictions are of similar or lower value:
+- **Feline acquired immunodeficiency syndrome** (score 99.99%): a veterinary condition. The feline virus protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, so cross-activity is uncertain.
+- **Congenital HIV** and **AIDS related complex** (score 99.83%, Evidence Level L4): essentially the same disease as the approved HIV-1 indication. These are extensions or nomenclature overlaps rather than true repurposing. Evidence for children younger than 12 years is lacking.
+- **Obsolete familial combined hyperlipidemia**: protease inhibitors tend to raise triglycerides and cholesterol, so the drug would be expected to worsen this condition. The prediction is likely spurious.
+- **Neurodevelopmental disorder, prostate fibroma, Brenner tumor and benign reproductive neoplasms**: no plausible mechanistic link was identified, and these appear to be graph-embedding artifacts.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02422797](https://clinicaltrials.gov/study/NCT02422797) | Phase 3 | Completed | 518 | Non-inferiority switch to dolutegravir + rilpivirine in virologically suppressed HIV-1 adults; not tipranavir-specific (Relevance: Grade C) |
-| [NCT00197145](https://clinicaltrials.gov/study/NCT00197145) | Phase 3 | Terminated | 24 | Placebo-controlled CCR5 antagonist (GW873140) + ritonavir-based optimized background therapy in treatment-experienced HIV; terminated early, low enrollment (Relevance: Grade C) |
-| [NCT02938520](https://clinicaltrials.gov/study/NCT02938520) | Phase 3 | Active, not recruiting | 631 | Open-label switch to long-acting cabotegravir + rilpivirine in ART-naive HIV-1 adults; indirect ART-class evidence (Relevance: Grade C) |
-| [NCT02429791](https://clinicaltrials.gov/study/NCT02429791) | Phase 3 | Completed | 510 | Non-inferiority switch to dolutegravir + rilpivirine, parallel design to NCT02422797; indirect evidence (Relevance: Grade C) |
-| [NCT03299049](https://clinicaltrials.gov/study/NCT03299049) | Phase 3 | Active, not recruiting | 1049 | ATLAS-2M: long-acting cabotegravir + rilpivirine dosing interval (Q8W vs Q4W) in suppressed HIV-1 adults; indirect (Relevance: Grade C) |
-| [NCT02105987](https://clinicaltrials.gov/study/NCT02105987) | Phase 3 | Completed | 555 | STRIIVING: switch to abacavir/dolutegravir/lamivudine fixed-dose combination vs continued regimen in suppressed HIV-1 adults; indirect (Relevance: Grade C) |
-| [NCT02951052](https://clinicaltrials.gov/study/NCT02951052) | Phase 3 | Active, not recruiting | 618 | ATLAS: switch to long-acting IM cabotegravir + rilpivirine vs oral regimen in suppressed HIV-1 adults; indirect (Relevance: Grade C) |
-| [NCT01641809](https://clinicaltrials.gov/study/NCT01641809) | Phase 2 | Completed | 244 | Dose-ranging study of oral GSK1265744 (cabotegravir) + NRTIs for induction, followed by cabotegravir + rilpivirine maintenance in ART-naive HIV-1 adults; indirect (Relevance: Grade C) |
-| [NCT00042289](https://clinicaltrials.gov/study/NCT00042289) | N/A | Completed | 1578 | IMPAACT P1026s: pharmacokinetics of antiretroviral and TB drugs in pregnant and postpartum women and infants, spanning protease inhibitor use; most directly relevant to the perinatal/congenital HIV context, though tipranavir-specific data are not confirmed (Relevance: Grade B) |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
@@ -79,26 +70,32 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Tipranavir currently has no marketing authorization on file in the EU (market status: **Not Marketed**, 0 licenses recorded). No EU product, dosage form, or approved indication text is available for this drug.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000631 (cancelled) | Aptivus | Not specified | Aptivus, co-administered with low-dose ritonavir, is indicated for combination antiretroviral treatment of HIV-1 infection in highly pretreated adults and adolescents 12 years of age or older with virus resistant to... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Detailed TFDA/EMA labeling data (warnings, contraindications, drug-drug interactions) were not available at the time of this evaluation and are flagged as a **Blocking** data gap (DG001) that prevents a complete safety pre-assessment.
+- **Contraindications suggested by the knowledge graph** (derived from drug-disease relationships in the TxGNN knowledge graph, not from label text): liver failure, liver disease, hepatitis, chronic hepatitis B and C virus infection, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, blood coagulation disease, hemophilia, hypertriglyceridemia, hyperbilirubinemia (including Gilbert syndrome), injury, brain neoplasm, and intracranial hemorrhage.
+- **Drug Interactions**: 100 interactions were found in the interaction database. The following are examples from the 20 retrieved:
+  - **Major**: acetylsalicylic acid, eluxadoline
+  - **Moderate**: antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, linagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide, albiglutide, dulaglutide), dexamethasone, clarithromycin, loperamide, eliglustat, cholic acid, magnesium oxide, topical metronidazole
+
+Please refer to the SmPC for the label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- All identified clinical trials involve other antiretroviral agents (integrase inhibitors, CCR5 antagonists) rather than tipranavir itself; supporting evidence is class-based/mechanistic (L4), not drug-specific.
-- Core safety documentation (warnings, contraindications, DDI profile) is missing and classified as a Blocking data gap, preventing a valid S1 safety assessment.
-- The drug has no EU marketing authorization, adding regulatory uncertainty on top of the evidentiary gap.
+The prediction has no supporting clinical trials or literature (Evidence Level L5). SIV infection is an animal-model disease with no human indication. In addition, the only EU authorization has been cancelled, and the drug carries significant hepatic and bleeding safety concerns.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label data (warnings, contraindications) to close the Blocking data gap (DG001)
-- Documented mechanism of action from DrugBank or primary literature to close the High-severity gap (DG002)
-- Tipranavir-specific pharmacokinetic and safety data in pregnant women, neonates, and infants (perinatal transmission context), given available evidence is currently limited to other antiretroviral classes
-- Dedicated clinical trials or case series evaluating tipranavir in congenital/perinatal HIV populations before advancing beyond the current "Research Question" stage
+- Retrieval and review of the SmPC warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data for tipranavir
+- Preclinical or literature evidence of tipranavir activity against SIV, if the animal-model direction is of interest
+- A decision on whether the human HIV-related predictions (congenital HIV, AIDS related complex) are worth pursuing, since they largely overlap with the existing indication
+- Confirmation of the current regulatory and availability status in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Treosulfan
 parent: AI Predictions (L5)
-nav_order: 618
+nav_order: 640
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,86 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Treosulfan: From Conditioning Chemotherapy for Stem Cell Transplantation to Diabetic Cataract
+# Treosulfan: From Conditioning Before Stem Cell Transplantation to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Treosulfan is a bifunctional alkylating agent used primarily as conditioning chemotherapy prior to allogeneic hematopoietic stem cell transplantation (HSCT). The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the proposed mechanism directly contradicts the well-established cataractogenic (cataract-inducing) side effect profile of this drug class.
-
----
+Treosulfan is an alkylating agent used together with fludarabine as conditioning treatment before allogeneic haematopoietic stem cell transplantation (alloHSCT). The TxGNN model predicts it may be effective for **diabetic cataract**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Conditioning chemotherapy prior to hematopoietic stem cell transplantation (based on drug-class information; not available from formal EU regulatory data, as this drug has no EU marketing authorization on record) |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | Conditioning treatment, in combination with fludarabine, before alloHSCT in adults and in paediatric patients older than one month with malignant and non-malignant diseases |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 99.01% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap DG002). Based on known drug-class information, Treosulfan is a bifunctional epoxide-type alkylating agent, structurally and pharmacologically related to busulfan, and is used clinically as a myeloablative or reduced-intensity conditioning agent prior to hematopoietic stem cell transplantation. Its therapeutic effect depends on DNA cross-linking cytotoxicity to ablate the recipient's bone marrow before engraftment.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Treosulfan is a bifunctional alkylating agent. It is a prodrug converted to epoxide species that crosslink DNA, and this produces the myeloablative effect needed for transplant conditioning.
 
-This mechanism has no established or plausible link to diabetic cataract. On the contrary, alkylating agents as a class — including the closely related busulfan — are documented in the literature to **induce** cataract formation as a long-term adverse effect, not to treat or prevent it. There is no evidence of any antioxidant, anti-glycation, or lens-protective activity for Treosulfan.
+The prediction is **not well supported mechanistically**. Diabetic cataract involves polyol pathway activity, glycation and oxidative stress in the lens. A DNA-crosslinking cytotoxic agent has no established role in these processes. The high score most likely reflects shared associations within the cataract disease cluster of the knowledge graph rather than biological evidence. Cataract is also a recognized late complication of conditioning regimens, so the direction of effect may be the opposite of benefit.
 
-Reviewing the full set of TxGNN top-10 predictions for this drug, all ten predicted indications are cataract subtypes (diabetic cataract, nuclear senile cataract, cortical cataract, mature/immature cataract, etc.) with nearly identical scores clustered tightly between 0.9892 and 0.9901. This pattern strongly suggests a **systematic artifact from disease-node similarity clustering** in the TxGNN knowledge graph, rather than a drug-specific pharmacological signal. Combined with the absence of any supporting clinical or literature evidence, this prediction should be treated as mechanistically implausible rather than a genuine repurposing opportunity.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
----
+The other top-ranked predictions are all ocular conditions and show the same pattern: nuclear senile, cortical, type 2 diabetes-associated, craniostenotic, tetanic, mature, immature and senile cataract, and diabetic retinopathy. They all have scores of 98.9–99.0%, zero trials, zero publications, and no supported mechanistic link.
 
 ## EU Market Information
 
-Treosulfan currently has no marketing authorization on record in the EU (0 licenses, market status: Not Marketed). No product/authorization details are available in this Evidence Pack.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004751 (cancelled) | Trecondi | Not specified | Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients and in paediatric patients older than one month with malignant and non-malignant diseases. |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (bifunctional alkylating agent, epoxide class) |
-| Myelosuppression Risk | High — Treosulfan is clinically used specifically as a myeloablative/reduced-intensity conditioning agent, where profound bone marrow suppression is the intended therapeutic effect prior to stem cell engraftment |
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent) |
+| Myelosuppression Risk | High (myeloablative by design) |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Cytotoxic drug handling precautions apply; institution-specific handling protocol not detailed in this Evidence Pack |
-
----
+| Monitoring Items | Please refer to the SmPC warnings and precautions; at minimum, haematological parameters (CBC with differential) would be expected |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Systemic toxicity**: Based on the assessment compiled for this report, systemic exposure carries risks including myelosuppression, mucositis, seizures and secondary malignancy. These risks are not acceptable for a non-life-threatening ocular condition.
+- **Cataract as a late effect**: Cataract is a recognized late complication after conditioning regimens.
 
----
+No drug interaction data was found. Please refer to the SmPC for full safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication lacks any clinical trial or literature support (L5, model prediction only), and the proposed mechanism is contradicted by known class pharmacology — alkylating agents like Treosulfan are recognized causes of cataract, not treatments for it. All 10 top-ranked TxGNN predictions for this drug cluster narrowly around cataract subtypes with near-identical scores, indicating a likely knowledge-graph clustering artifact rather than a genuine signal.
+The prediction rests on a model score alone. There are no clinical trials or publications, and no plausible mechanism links an alkylating myeloablative agent to cataract treatment. The safety profile makes use in this setting inappropriate, and the EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Resolve blocking Data Gap DG001: TFDA/SmPC label warnings and contraindications for S1 safety screening
-- Resolve Data Gap DG002: confirmed mechanism of action data
-- Independent preclinical or pharmacological evidence for any lens-protective or anti-cataract activity, which does not currently exist
-- Re-evaluation of the underlying TxGNN prediction pipeline for possible disease-node clustering bias affecting this drug's full prediction set
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC, which are currently missing
+- Preclinical evidence of a biologically plausible effect on lens pathology
+- Assessment of route compatibility, since only systemic use is known and ocular delivery has not been evaluated
+- A risk-benefit justification, given that established treatments exist (cataract surgery, and anti-VEGF, laser or corticosteroids for diabetic retinopathy)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

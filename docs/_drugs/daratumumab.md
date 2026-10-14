@@ -2,15 +2,15 @@
 layout: default
 title: Daratumumab
 parent: Medium Evidence (L3-L4)
-nav_order: 164
-evidence_level: L3
+nav_order: 171
+evidence_level: L4
 indication_count: 10
 ---
 
 # Daratumumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,87 +33,81 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Daratumumab is a human IgG1κ monoclonal antibody targeting CD38, approved internationally for the treatment of multiple myeloma but not yet marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Indolent Plasma Cell Myeloma** (smouldering multiple myeloma),
-with **1 clinical trial** (indirect evidence) and **5 publications** currently supporting this direction.
-
----
+Daratumumab is an anti-CD38 monoclonal antibody, originally used to treat multiple myeloma and AL amyloidosis.
+The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**, but only **1 clinical trial** (a Phase 1 study in which daratumumab is a combination partner) and **5 publications** (mostly case reports and preclinical work) are currently linked to this prediction. Because high-risk smouldering myeloma is already an approved indication, this is close to an on-label use rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Multiple Myeloma (internationally approved; not marketed in Taiwan) |
-| Predicted New Indication | Indolent Plasma Cell Myeloma |
+|------|------|
+| Original Indication | Multiple myeloma (newly diagnosed and relapsed/refractory, in combination regimens or as monotherapy), smouldering multiple myeloma, AL amyloidosis |
+| Predicted New Indication | Indolent plasma cell myeloma |
 | TxGNN Prediction Score | 98.13% |
-| Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, daratumumab is a human anti-CD38 IgG1κ monoclonal antibody that binds to CD38 — a transmembrane glycoprotein highly and uniformly expressed on the surface of malignant plasma cells. Upon binding, it triggers multiple immune-mediated killing mechanisms including complement-dependent cytotoxicity (CDC), antibody-dependent cellular cytotoxicity (ADCC), antibody-dependent cellular phagocytosis (ADCP), and direct apoptosis induction. Its efficacy in active multiple myeloma has been extensively validated across multiple Phase 3 trials.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, daratumumab is an anti-CD38 monoclonal antibody. CD38 is highly and uniformly expressed on malignant plasma cells, including in the myeloma bone marrow niche. A preclinical study (PMID 28915615) reported CD38 expression across bone marrow cells in myeloma and indolent monoclonal gammopathy, and suggested that anti-CD38 therapy may also inhibit osteoclast formation.
 
-Indolent plasma cell myeloma (synonymous with smouldering multiple myeloma, SMM) represents the biologically immediate precursor state to active multiple myeloma. The malignant plasma cells in SMM express CD38 at equally high density as those in active disease — meaning daratumumab's molecular target is fully intact in this earlier-stage condition. PMID 28915615 directly characterises CD38 expression across the myeloma bone marrow niche by flow cytometry and immunohistochemistry, and explicitly discusses the biological rationale for anti-CD38 immunotherapy in plasma cell disorders at the indolent monoclonal stage.
-
-The TxGNN prediction score of 98.13% reflects this near-perfect mechanistic alignment. Notably, the AQUILA Phase 3 clinical trial (daratumumab monotherapy versus active monitoring in intermediate- and high-risk SMM) has already reported a statistically significant progression-free survival benefit, though this landmark data is not captured in the current Evidence Pack. The clinical trajectory from SMM to active MM is well-defined, and early intervention to delay or prevent transformation represents a logical and high-value therapeutic opportunity.
-
----
+Indolent plasma cell myeloma is essentially the early, slowly progressing form of the disease treated by the original indication. Daratumumab monotherapy is already authorized for adults with smouldering multiple myeloma at high risk of progression. The prediction is therefore mechanistically sound and largely overlaps with an existing indication. However, the trial and literature records supplied do not directly demonstrate daratumumab efficacy in this setting.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04136756](https://clinicaltrials.gov/study/NCT04136756) | Phase 1 | Completed | 30 | Dose escalation study of NKTR-255 (an IL-15 pathway immunomodulator) in relapsed/refractory haematological malignancies; daratumumab SC (DARZALEX FASPRO™) is used as a combination partner in one dosing arm. Daratumumab is not the primary investigational agent — indirect relevance only as a background combination drug in the same disease population. |
-
----
+| [NCT04136756](https://clinicaltrials.gov/study/NCT04136756) | Phase 1 | Completed | 30 | NKTR-255 (an IL-15 receptor agonist) alone or combined with subcutaneous daratumumab or rituximab in relapsed/refractory haematological malignancies. Daratumumab is only a combination partner, and no daratumumab-specific efficacy data for indolent myeloma are available. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28915615](https://pubmed.ncbi.nlm.nih.gov/28915615/) | 2017 | Translational/Mechanistic Study | Oncotarget | First systematic characterisation of CD38 expression across the myeloma bone marrow niche using flow cytometry and immunohistochemistry in a cohort including indolent monoclonal plasma cell conditions; provides direct mechanistic rationale for anti-CD38 immunotherapy (daratumumab) in the plasma cell disease continuum |
-| [41571958](https://pubmed.ncbi.nlm.nih.gov/41571958/) | 2026 | Review / Clinical Guideline | Nature Reviews Clinical Oncology | Comprehensive review of diagnosis, risk stratification and management of smouldering multiple myeloma; covers evolving treatment paradigms including the shift toward early intervention strategies for intermediate- and high-risk SMM |
-| [40257478](https://pubmed.ncbi.nlm.nih.gov/40257478/) | 2025 | Case Report | Annals of Hematology | Paraneoplastic leukocytoclastic vasculitis as a rare initial presentation of smoldering IgG kappa myeloma; illustrates the systemic morbidity that can arise even during the indolent phase, reinforcing the clinical rationale for earlier treatment intervention |
-| [32736600](https://pubmed.ncbi.nlm.nih.gov/32736600/) | 2020 | Case Report | BMC Gastroenterology | Crystal storing histiocytosis secondary to indolent multiple myeloma presenting as a colonic mass; demonstrates that indolent plasma cell myeloma can cause significant end-organ complications, supporting the case for effective targeted therapy at this earlier disease stage |
-| [34514307](https://pubmed.ncbi.nlm.nih.gov/34514307/) | 2021 | Case Report | European Heart Journal Case Reports | Concomitant aortic valve papillary fibroelastoma and cardiac AL amyloidosis; highlights irreversible end-organ damage arising from plasma cell disorders, underscoring the potential value of early daratumumab-based intervention before transformation to active disease |
+| [28915615](https://pubmed.ncbi.nlm.nih.gov/28915615/) | 2017 | Preclinical/Translational | Oncotarget | CD38 is expressed in the myeloma bone niche (including indolent monoclonal gammopathy), providing a rationale for anti-CD38 therapy to inhibit osteoclast formation |
+| [42488083](https://pubmed.ncbi.nlm.nih.gov/42488083/) | 2026 | Review | Am J Blood Res | CD38's roles in B-cell lymphoma pathogenesis and treatment (indirect relevance) |
+| [32736600](https://pubmed.ncbi.nlm.nih.gov/32736600/) | 2020 | Case report | BMC Gastroenterol | Colonic mass from crystal storing histiocytosis secondary to indolent multiple myeloma |
+| [40257478](https://pubmed.ncbi.nlm.nih.gov/40257478/) | 2025 | Case report | Ann Hematol | Paraneoplastic leukocytoclastic vasculitis as the first sign of smouldering IgG kappa myeloma |
+| [34514307](https://pubmed.ncbi.nlm.nih.gov/34514307/) | 2021 | Case report | Eur Heart J Case Rep | Imaging in a patient with aortic valve papillary fibroelastoma and cardiac AL amyloidosis (indirect relevance) |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004077 | Darzalex | Not specified | Multiple myeloma (newly diagnosed and relapsed/refractory, in combination regimens or as monotherapy), high-risk smouldering multiple... |
+
+The status of this authorization is cancelled.
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Anti-CD38 human IgG1κ monoclonal antibody (Immunotherapy) |
-| Myelosuppression Risk | Moderate — neutropenia, thrombocytopenia, and anaemia reported, particularly in combination regimens (e.g., with bortezomib or lenalidomide); lower risk as monotherapy |
-| Emetogenicity Classification | Low — as a biologic, primary acute adverse effect is infusion-related reactions (IRR), not nausea/vomiting |
-| Monitoring Items | CBC with differential (frequently during early cycles), liver and renal function, serum immunoglobulins; vital signs monitoring during infusions for IRR; type and screen (daratumumab interferes with indirect antiglobulin tests) |
-| Handling Protection | Standard aseptic biologic preparation protocols apply; not classified as a conventional cytotoxic, but institutional monoclonal antibody handling procedures are required |
-
----
+|------|------|
+| Cytotoxicity Classification | Immunotherapy (anti-CD38 monoclonal antibody) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC. Note that daratumumab interferes with red cell antibody screening and cross-matching |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 81 interactions were identified. Major-level examples include deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol and cladribine. Moderate-level examples include strontium chloride Sr-89, roflumilast, chloramphenicol, zidovudine, ganciclovir, azathioprine, alemtuzumab, anakinra, canakinumab, and several vaccines (anthrax, tetanus toxoid, live cholera).
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic rationale is exceptionally strong — CD38 is daratumumab's direct molecular target and is uniformly expressed on plasma cells throughout the disease continuum from SMM to active myeloma. Real-world Phase 3 trial evidence (AQUILA trial) already supports this application and is anticipated to elevate the evidence level to L1 once formally incorporated into the Evidence Pack.
+The strong mechanistic rationale and the existing approval for high-risk smouldering multiple myeloma make this a near-label use. However, the evidence specific to this prediction is weak (L4): the only linked trial is a Phase 1 combination study, and the literature consists mainly of case reports and preclinical work. In addition, the only EU authorization is cancelled, and safety label data were unavailable.
 
 **To proceed, the following is needed:**
-- Retrieve and formally document the AQUILA Phase 3 trial results to upgrade evidence level from L3 to L1
-- Obtain Taiwan SmPC equivalent (or reference the EMA/FDA SmPC) to complete key warnings, contraindications, and drug interaction profiling — currently all flagged as data gaps
-- Assess TFDA regulatory pathway: daratumumab has no Taiwan authorisation; evaluate filing strategy, compassionate use, or clinical trial application
-- Establish patient selection criteria — treatment benefit is most clearly established in intermediate- to high-risk SMM (per 2020 IMWG risk model); low-risk SMM patients may not require intervention
-- Note daratumumab's known interference with indirect antiglobulin tests (blood bank crossmatching); institutional protocols must be in place before clinical use
+- Confirm the current regulatory status of daratumumab products in the EU, since the single listed authorization is cancelled
+- Retrieve and review the SmPC warnings and contraindications
+- Obtain detailed mechanism of action data
+- Review pivotal smouldering myeloma trial data, which were not among the records supplied
+- Establish a monitoring plan covering infection risk, immunosuppression and blood-bank interference
+- Review the major drug interactions listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

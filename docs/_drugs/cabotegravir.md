@@ -2,7 +2,7 @@
 layout: default
 title: Cabotegravir
 parent: AI Predictions (L5)
-nav_order: 116
+nav_order: 118
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,86 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cabotegravir: From HIV Infection to Rheumatoid Arthritis
+# Cabotegravir: From HIV-1 Pre-Exposure Prophylaxis to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Cabotegravir is an HIV integrase strand transfer inhibitor (INSTI), approved internationally for HIV-1 prevention (PrEP) and treatment, but not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, with a high model confidence score of 99.45%.
-However, **no clinical trials or supporting publications** have been identified for this indication, leaving the prediction at the lowest evidence tier.
-
----
+Cabotegravir is an HIV-1 integrase strand transfer inhibitor, originally used for pre-exposure prophylaxis (PrEP) against sexually acquired HIV-1 infection.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | HIV-1 Infection (Prevention / Treatment) — based on drug class (INSTI); not registered in Taiwan |
-| Predicted New Indication | Rheumatoid Arthritis |
+|------|------|
+| Original Indication | Pre-exposure prophylaxis (PrEP), in combination with safer sex practices, to reduce the risk of sexually acquired HIV-1 infection in high-risk adults and adolescents weighing at least 35 kg |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed (0 authorizations) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the evidence pack. Based on known information, Cabotegravir belongs to the integrase strand transfer inhibitor (INSTI) class of antiretroviral agents. It works by blocking the HIV-1 integrase enzyme, preventing viral DNA from being inserted into the host cell genome — an entirely virally-targeted mechanism with no known direct interaction with mammalian inflammatory pathways.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Cabotegravir is known as an HIV-1 integrase strand transfer inhibitor, and its efficacy in HIV-1 prevention is the basis for its authorization.
 
-Rheumatoid arthritis (RA) is a chronic autoimmune disease driven by dysregulated T-cell and B-cell activity, pro-inflammatory cytokines (particularly TNF-α, IL-6, and IL-17), and synovial fibroblast proliferation. There is no established biological bridge between HIV integrase inhibition and these RA pathways. Some INSTI-class drugs have been observed to produce weak interactions with the NF-κB signalling pathway in vitro, but no studies have extended this observation to inflammatory arthritis models, and this remains speculative.
+No established mechanistic link to rheumatoid arthritis pathways (such as TNF, IL-6 or JAK/STAT signalling) is apparent. The high TxGNN score (99.45%) reflects a graph-based prediction only and is not backed by biological or clinical evidence. The original indication (viral infection prevention) and the predicted indication (an autoimmune joint disease) are also very different, so the score should be treated as a hypothesis to test, not a finding.
 
-The TxGNN high score (0.9945) most likely reflects indirect knowledge graph connections — for example, shared protein network neighbors between HIV-related immune activation nodes and RA-associated inflammatory nodes — rather than a direct, biologically validated pharmacological link. Without mechanistic validation or any clinical signal, this prediction should be treated as a hypothesis-generating output only.
+Other top-ranked predictions (sclerosing cholangitis, bronchitis, diabetic retinopathy, and several ultra-rare genetic syndromes) likewise have no supporting trials or literature. Some of the high scores for rare congenital conditions likely reflect artifacts of the knowledge graph structure rather than real biology.
 
----
+## EU Market Information
 
-## Clinical Trial Evidence
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005756 | Apretude | Not specified | Pre-exposure prophylaxis (PrEP), in combination with safer sex practices, to reduce the risk of sexually acquired HIV-1 infection in high-risk adults and... |
 
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for Cabotegravir in Rheumatoid Arthritis.
-
-> **Note:** 18 PubMed records were retrieved under the rank-10 prediction (Brain Small Vessel Disease 1 with or without Ocular Anomalies), but systematic review confirms all 18 are **disease background reviews** covering congenital ocular anomalies, syndromic disorders, and developmental genetics — none involve Cabotegravir as an intervention. These papers are therefore not cited as supporting evidence.
-
----
-
-## Taiwan Market Information
-
-Cabotegravir has no registered marketing authorizations in Taiwan. No product license data is available.
-
----
+This authorization is recorded as cancelled, so no valid EU marketing authorization is currently on file.
 
 ## Safety Considerations
 
-Please refer to the SmPC (Summary of Product Characteristics) and current prescribing information for safety data. Taiwan-specific label warnings and contraindications were not available in this evidence pack.
+- **Drug Interactions**: Seven moderate-level interactions were identified, all involving polyvalent cation-containing antacids and similar agents:
+  - Calcium carbonate
+  - Aluminum hydroxide
+  - Magnesium carbonate
+  - Magnesium hydroxide
+  - Magnesium oxide
+  - Sodium bicarbonate
+  - Sodium citrate
 
-> From the known drug class profile: INSTI-class agents (including Cabotegravir) are generally well tolerated but carry class considerations including hypersensitivity reactions, hepatotoxicity in patients with underlying liver disease, and immune reconstitution inflammatory syndrome (IRIS). Long-acting injectable Cabotegravir (cabotegravir LA) has additional injection-site reaction considerations. These are not confirmed from this evidence pack and should be verified against the official SmPC.
-
----
+Please refer to the SmPC for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model assigns a high confidence score to this pairing, but no clinical trials, no intervention-focused literature, and no plausible mechanistic basis have been identified to support Cabotegravir as a candidate for rheumatoid arthritis. The evidence level is L5 (AI prediction only), which does not meet the threshold for further investment without additional mechanistic grounding.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis can be drawn from the available data. In addition, the only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-
-- **MOA clarification**: Confirm whether any INSTI-class mechanism (e.g., NF-κB modulation, innate immune crosstalk) has been observed in inflammatory disease models; if so, quantify the magnitude and biological relevance
-- **Knowledge graph path analysis**: Identify the specific protein–disease nodes driving the TxGNN score to assess whether the indirect link is biologically interpretable or an artefact of graph topology
-- **Preclinical signal search**: Conduct a broader PubMed/EMBASE search for any in vitro or animal model data linking Cabotegravir (or the broader INSTI class) to arthritis, inflammation, or autoimmune modulation
-- **Safety data retrieval**: Obtain Taiwan TFDA SmPC and international label (FDA/EMA) to complete the safety profile before any further evaluation
-- **Market context**: Clarify Cabotegravir's current regulatory status in Taiwan and potential pathway for any new indication development, given zero existing local authorizations
-
----
-
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.*
+- Mechanism of action data (for example from DrugBank) to allow a proper mechanistic analysis
+- Warnings and contraindications from the EMA product information, needed for safety screening
+- Preclinical or mechanistic studies testing cabotegravir in rheumatoid arthritis models
+- A literature and trial registry search focused on cabotegravir and autoimmune or inflammatory joint disease
+- Clarification of the regulatory status and available dosage forms and routes of administration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tafamidis
-parent: AI Predictions (L5)
-nav_order: 562
-evidence_level: L5
+parent: Medium Evidence (L3-L4)
+nav_order: 583
+evidence_level: L4
 indication_count: 10
 ---
 
 # Tafamidis
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tafamidis: From Transthyretin Amyloidosis to Primary Release Disorder of Platelets
+# Tafamidis: From Transthyretin Amyloidosis Polyneuropathy to Primary Amyloidosis
 
 ## One-Sentence Summary
 
-Tafamidis is a transthyretin (TTR) tetramer stabilizer whose established clinical use, as reflected throughout the Evidence Pack's literature and trial data, is transthyretin amyloidosis (ATTR-CM/ATTR-PN). The TxGNN model's top-ranked prediction in this pack is **Primary Release Disorder of Platelets**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure knowledge-graph similarity output with no mechanistic or clinical corroboration.
+Tafamidis is a transthyretin (TTR) stabiliser, originally used to delay peripheral nerve damage in adults with stage-1 symptomatic transthyretin amyloidosis polyneuropathy.
+The TxGNN model's top-ranked prediction is a platelet disorder with no supporting evidence. The best-supported candidate is **primary amyloidosis** (rank 5), where the data compiled for this report include **no clinical trials** and **20 publications**. Most of these publications concern TTR amyloid cardiomyopathy rather than primary (light-chain) amyloidosis.
+
+This report assesses the rank-5 candidate because it is the first of the ten predictions with any supporting literature. The rank-1 prediction (primary release disorder of platelets) has no supporting evidence at all.
 
 ---
 
@@ -41,49 +44,68 @@ Tafamidis is a transthyretin (TTR) tetramer stabilizer whose established clinica
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in structured regulatory data (see Data Gap DG002); literature/trial evidence elsewhere in this pack (e.g., NEJM 2018, PMID 30145929) indicates the established use is transthyretin (ATTR) amyloidosis/cardiomyopathy |
-| Predicted New Indication | Primary Release Disorder of Platelets |
-| TxGNN Prediction Score | 89.27% |
-| Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Transthyretin amyloidosis in adults with stage-1 symptomatic polyneuropathy, to delay peripheral neurologic impairment |
+| Predicted New Indication | Primary amyloidosis (rank 5; the rank-1 prediction, primary release disorder of platelets, has no evidence) |
+| TxGNN Prediction Score | 85.00% (rank-1 prediction: 89.27%) |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Tafamidis is not available as a structured field (Data Gap DG002, High severity). However, the evidence pack's own literature and trial titles consistently identify Tafamidis as a small-molecule TTR tetramer stabilizer that prevents dissociation and misfolding of transthyretin into amyloid fibrils — this is the mechanism underlying its established use in transthyretin amyloidosis.
+Tafamidis binds to the thyroxine-binding sites of the TTR tetramer and stabilises it. This stops the tetramer from dissociating into monomers that misfold and form amyloid fibrils. It stabilises both wild-type and mutated TTR. Dissociation of the two dimers is the first step to fail in the tetramer, and tafamidis stabilises that interface.
 
-There is no known biological pathway connecting TTR tetramer stabilization to primary platelet release disorders. Platelet release defects arise from abnormalities in platelet granule content or secretion machinery, a biological domain unrelated to hepatic protein misfolding. The repurposing rationale attached to this candidate explicitly states that the prediction reflects only TxGNN knowledge-graph embedding similarity, without any clinical or mechanistic basis.
+This mechanism applies directly to TTR-driven amyloid disease. It is much less clear that it applies to "primary amyloidosis". That term classically means AL (light-chain) amyloidosis, where the precursor is an immunoglobulin light chain, not TTR, so TTR stabilisation would not be expected to work. The supporting publications are mostly about TTR amyloid cardiomyopathy, including the Phase 3 RCT ATTR-ACT (PMID 30145929). The disease label in the prediction is therefore ambiguous. If it was meant to represent ATTR cardiomyopathy, that would be an extension beyond the current polyneuropathy label and would need its own review.
 
-Notably, this Evidence Pack also contains several other predicted indications for Tafamidis (e.g., "primary amyloidosis," rank 5, and "acquired amyloid peripheral neuropathy," rank 6) that are strongly supported by Phase 3/4 trials and RCTs — but these correspond mechanistically to the drug's known/approved ATTR indications rather than genuine repurposing candidates. By contrast, the rank-1 candidate reviewed here (platelet release disorder) has neither mechanistic plausibility nor supporting evidence and should be treated as a low-confidence, exploratory hypothesis only.
+The other highly ranked predictions, such as thrombocytopenic purpura, Glanzmann thrombasthenia and primary hyperoxaluria, have no plausible mechanistic link to TTR stabilisation and no supporting studies. They look like network-based predictions only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+The table shows the most relevant publications for the rank-5 prediction. Randomised trials and meta-analyses are listed first, then reviews and cohort studies.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30145929](https://pubmed.ncbi.nlm.nih.gov/30145929/) | 2018 | RCT | N Engl J Med | Tafamidis in transthyretin amyloid cardiomyopathy; it binds TTR and prevents tetramer dissociation |
+| [41282536](https://pubmed.ncbi.nlm.nih.gov/41282536/) | 2025 | Network meta-analysis | Eur Heart J Open | Relative efficacy of tafamidis, acoramidis, patisiran and vutrisiran in ATTR cardiac amyloidosis |
+| [40889572](https://pubmed.ncbi.nlm.nih.gov/40889572/) | 2025 | Systematic review and meta-analysis | J Card Fail | Harmonised data from Phase 3 placebo-controlled trials of ATTR-specific drugs in cardiomyopathy |
+| [41317156](https://pubmed.ncbi.nlm.nih.gov/41317156/) | 2025 | Real-world cohort | Eur J Heart Fail | Phenotype and survival of wild-type ATTR cardiomyopathy patients treated with tafamidis |
+| [41334760](https://pubmed.ncbi.nlm.nih.gov/41334760/) | 2025 | Cohort | J Am Heart Assoc | Tafamidis associated with fewer deaths and heart-failure hospitalisations in patients aged 80 or over |
+| [38441582](https://pubmed.ncbi.nlm.nih.gov/38441582/) | 2024 | Review | JAMA | Overview of transthyretin cardiac amyloidosis |
+| [31407119](https://pubmed.ncbi.nlm.nih.gov/31407119/) | 2019 | Review | Clin Auton Res | Tafamidis for autonomic neuropathy in hereditary ATTR amyloidosis |
+| [32796279](https://pubmed.ncbi.nlm.nih.gov/32796279/) | 2020 | Review | Curr Opin Neurol | Current treatment of hereditary ATTR amyloidosis, drawing on three Phase 3 trials |
+| [39213194](https://pubmed.ncbi.nlm.nih.gov/39213194/) | 2025 | RCT (other drug: vutrisiran) | N Engl J Med | Vutrisiran, an RNA interference therapy, in ATTR cardiomyopathy |
+| [39556242](https://pubmed.ncbi.nlm.nih.gov/39556242/) | 2025 | Open-label extension (other drug: acoramidis) | Circulation | Long-term acoramidis data in ATTR cardiomyopathy |
+
+Most of these studies concern TTR cardiomyopathy or other TTR-targeting drugs. None directly tests tafamidis in AL (primary) amyloidosis.
+
+The rank-6 prediction, acquired amyloid peripheral neuropathy (score 84.77%), has 10 publications and no trials. It is mostly reviews, including a tafamidis review (PMID 26662359), and a cohort study of acquired ATTR amyloidosis after domino liver transplantation (PMID 41493356). It is also assessed as L4 and "Research Question".
 
 ---
 
 ## EU Market Information
 
-No EU marketing authorizations are currently on file for Tafamidis in this Evidence Pack (market status: **Not Marketed**, total licenses: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002294 | Vyndaqel | Not specified | Treatment of transthyretin amyloidosis in adult patients with stage-1 symptomatic polyneuropathy to delay peripheral neurologic impairment (status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 12 interactions were recorded. One is rated Major (ozanimod). Eleven are rated Moderate: rosuvastatin, deferasirox, eltrombopag, lusutrombopag, artesunate, axitinib, methotrexate, irinotecan, belinostat, imatinib and liposomal irinotecan.
 
-*(Note: Safety warning and contraindication fields in this Evidence Pack are flagged as a Blocking data gap — DG001 — meaning safety review cannot proceed to initial S1 assessment until TFDA/EMA label data is retrieved.)*
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -92,13 +114,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (primary release disorder of platelets) has no clinical trials, no literature, and no plausible mechanistic link to Tafamidis's known TTR-stabilizing activity — it sits at Evidence Level L5 / Decision Stage S0, the lowest confidence tier in this framework.
+The evidence for primary amyloidosis is indirect. The literature supports tafamidis in TTR amyloidosis, mainly cardiomyopathy, but primary amyloidosis usually means AL amyloidosis, where TTR stabilisation is not expected to work. The top-ranked predictions have no evidence. The EU authorisation is also cancelled, and safety label data are missing.
 
 **To proceed, the following is needed:**
-- Resolve Data Gap DG001 (TFDA/EMA label warnings and contraindications) — currently blocking any safety assessment (S1)
-- Resolve Data Gap DG002 (confirmed mechanism of action) to properly evaluate mechanistic plausibility
-- Obtain confirmed original indication and regulatory licensing data (currently absent from `taiwan_regulatory`)
-- If repurposing is still of interest, consider redirecting evaluation toward the pack's higher-evidence candidates (e.g., rank 5 "primary amyloidosis" [L1] and rank 6 "acquired amyloid peripheral neuropathy" [L2]) after confirming with a domain expert whether these represent genuine new indications or already-approved uses mislabeled due to disease-ontology mapping noise (as flagged for the "dermis disease" entry, rank 8)
+- Clarification of whether "primary amyloidosis" means AL amyloidosis or ATTR. If ATTR cardiomyopathy is intended, it should be reviewed as a separate indication extension.
+- Mechanism of action data from DrugBank.
+- Warnings and contraindications from the EMA product information, and clarification of the cancelled authorisation.
+- Registered clinical trials in the target population.
+- Evaluation of the Major interaction with ozanimod and the Moderate interactions listed above.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

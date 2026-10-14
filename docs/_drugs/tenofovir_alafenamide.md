@@ -2,7 +2,7 @@
 layout: default
 title: Tenofovir Alafenamide
 parent: AI Predictions (L5)
-nav_order: 579
+nav_order: 600
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,43 +29,49 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tenofovir Alafenamide: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Tenofovir Alafenamide: From Chronic Hepatitis B to Feline Acquired Immunodeficiency Syndrome
 
 ## One-Sentence Summary
 
-Tenofovir alafenamide (TAF) is a nucleotide reverse transcriptase inhibitor prodrug, originally developed for HIV-1 infection and later extended to chronic hepatitis B. The TxGNN model's top-ranked prediction points to **Feline Acquired Immunodeficiency Syndrome (FIV)** — a veterinary lentivirus disease — with a prediction score of **99.89%**, but this candidate is currently supported by **0 clinical trials** and **0 publications**, making it a pure AI-generated hypothesis with no direct evidence and no human clinical relevance.
+Tenofovir alafenamide (TAF) is an antiviral originally used to treat chronic hepatitis B (Vemlidy).
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, a veterinary condition caused by a lentivirus.
+Currently **0 clinical trials** and **0 publications** directly support this prediction, so the score is the only support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in the EU authorization records provided (0 licenses on file); based on contextual information in this evidence pack, TAF is originally indicated for HIV-1 infection and chronic hepatitis B |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome (FIV) — a veterinary indication, not a human disease |
+| Original Indication | Chronic hepatitis B (CHB) in adults and paediatric patients 6 years of age and older weighing at least 25 kg |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap in this evidence pack). Based on known information, tenofovir alafenamide is a prodrug of tenofovir that inhibits viral reverse transcriptase; it is used as part of antiretroviral combination regimens, and its efficacy in HIV-1 infection is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, TAF is a prodrug of tenofovir and a nucleotide reverse transcriptase inhibitor. Its efficacy in chronic hepatitis B is established, and mechanistically it may be applicable to other reverse-transcribing viruses.
 
-The mechanistic link proposed by TxGNN is that Feline Immunodeficiency Virus (FIV) and HIV are both lentiviruses that depend on reverse transcriptase for replication, so a reverse-transcriptase inhibitor like TAF is theoretically plausible against FIV. However, this rationale — as noted directly in the underlying repurposing rationale for this candidate — describes a **veterinary indication**, not a human clinical development target. There is no supporting clinical trial, no publication, and no regulatory pathway relevant to human drug repurposing for this pairing.
+Feline immunodeficiency virus is a lentivirus, the same virus family as HIV. TAF is active against HIV reverse transcriptase, so a plausible link to feline immunodeficiency virus exists. This reasoning is by analogy only. No study of TAF in cats was identified, and the prediction is not supported by veterinary or human clinical data.
 
-In short, the mechanistic plausibility is real at the level of viral biology, but the target disease itself falls entirely outside the scope of human pharmaceutical repurposing, which is why the evidence level remains at the lowest tier (L5 — model prediction only, no actual studies).
+The disease is also a veterinary indication, so it falls outside human drug repurposing in the usual sense.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization is currently on file for tenofovir alafenamide in this evidence pack (EU market status: **Not marketed**; 0 authorizations recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004169 | Vemlidy | — | Vemlidy is indicated for the treatment of chronic hepatitis B (CHB) in adults and paediatric... |
+
+The only authorization is listed as cancelled, so the product is not currently marketed in the EU under this authorization.
 
 ## Safety Considerations
 
@@ -76,13 +82,16 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN candidate (Feline Acquired Immunodeficiency Syndrome) has a high similarity score but zero clinical trial or literature support, and it describes a veterinary rather than human disease — it is not a viable human drug repurposing target as currently framed.
+The prediction rests on a model score alone, with no trials or literature for the predicted indication. It is also a veterinary condition, and the only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank to properly evaluate mechanistic relevance across candidates
-- TFDA/EMA-equivalent SmPC warnings and contraindications, which are currently a blocking data gap for any S1 safety evaluation
-- Re-triage of the full predicted-indication list to separate genuine repurposing candidates from noise (veterinary indications, animal-model surrogates such as SIV/SHIV, obsolete disease terms, and pairings that actually represent TAF's *existing* approved indications — e.g., hepatitis B virus infection and congenital/perinatal HIV — rather than novel repurposing opportunities)
-- Confirmation of EU marketing authorization status, since 0 licenses are currently on record for this product
+- Veterinary pharmacology and efficacy data for TAF against feline immunodeficiency virus, such as in vitro antiviral activity or studies in cats
+- Species-specific safety and dosing data, since human safety data cannot be extrapolated directly
+- Confirmation of the regulatory and availability pathway for any veterinary use, given the cancelled EU authorization
+- Detailed mechanism of action data
+- Safety information from the SmPC
+
+**Note on other predictions:** Among the other predictions compiled for this drug, the strongest evidence (multiple Phase 3 randomised trials with long-term follow-up) is for hepatitis B virus infection. That is the drug's original indication, not a new one. Evidence for the other predicted diseases is preclinical, indirect, or absent.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

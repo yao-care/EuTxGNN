@@ -2,7 +2,7 @@
 layout: default
 title: Eftrenonacog Alfa
 parent: AI Predictions (L5)
-nav_order: 204
+nav_order: 211
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,60 +29,59 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eftrenonacog Alfa: From Factor IX Replacement Therapy to Pseudo-von Willebrand Disease
+# Eftrenonacog alfa: From Haemophilia B to Pseudo-von Willebrand Disease
 
 ## One-Sentence Summary
 
-Eftrenonacog alfa is a recombinant coagulation Factor IX–Fc fusion protein whose established mechanism is Factor IX replacement; formal original-indication data is not on file for this evaluation. The TxGNN model's top prediction is **Pseudo-von Willebrand Disease**, but this candidate currently has **no clinical trials** and **no published literature** to support it, and the drug itself is not marketed in Taiwan.
+Eftrenonacog alfa is a recombinant factor IX-Fc fusion protein, originally used to treat and prevent bleeding in patients with haemophilia B (congenital factor IX deficiency).
+The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease**, but this rests on a model prediction alone, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no license records or indication text on file (0 licenses) |
-| Predicted New Indication | Pseudo-von Willebrand Disease |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency) |
+| Predicted New Indication | Pseudo-von Willebrand disease |
 | TxGNN Prediction Score | 99.48% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Market Status (Taiwan) | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Eftrenonacog alfa is currently a data gap in this evaluation, and no original indication is recorded in the structured data. The only mechanistic information available comes from the model's own rationale notes, which describe Eftrenonacog alfa as a recombinant Factor IX–Fc fusion protein whose known action is supplementing coagulation Factor IX.
+Currently, detailed mechanism of action data is not available. Based on known information, eftrenonacog alfa is a recombinant factor IX linked to an Fc fragment, and its efficacy in haemophilia B comes from replacing the missing clotting factor IX in the intrinsic coagulation pathway.
 
-Critically, the rationale generated for the top-ranked prediction (Pseudo-von Willebrand Disease) explicitly states that this is a platelet GPIbα-mutation disorder driven by abnormal platelet-VWF affinity — a platelet function defect, not a coagulation factor deficiency — and that it has **no direct physiological relationship** to Factor IX supplementation. This suggests the #1 ranked candidate may reflect knowledge-graph embedding similarity rather than a genuine mechanistic signal.
+Pseudo-von Willebrand disease is a platelet-type disorder caused by a gain-of-function defect in the platelet receptor GP1BA, which raises platelet affinity for von Willebrand factor. Factor IX replacement does not address this defect, so the mechanistic link is weak. The high TxGNN score most likely reflects network proximity between bleeding disorders in the knowledge graph rather than a true biological relationship.
 
-Of the ten candidates in this pack, the mechanistically strongest link is actually **rank 4, "acquired coagulation factor deficiency"** — the rationale for that candidate notes that if this category includes acquired Factor IX deficiency (e.g., autoimmune inhibitors, hepatic disease, DIC-related consumption), direct FIX supplementation has genuine physiological plausibility, though it is likewise unsupported by any clinical or literature evidence to date.
+Other predictions in the top 10 show the same pattern. Most are platelet disorders (primary release disorder of platelets, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia), a different type of defect from factor deficiency. Two are only theoretically plausible and are best treated as research questions:
+- **Acquired coagulation factor deficiency** (score 98.97%): factor replacement is conceptually relevant only for acquired FIX deficiency, which is rare.
+- **Factor XI deficiency** (score 96.42%): FXI sits upstream of FIX, but bleeding correlates poorly with factor levels, standard treatments differ, and exogenous FIX raises thrombotic concerns.
 
-## Clinical Trial Evidence
+Hemophilia A with vascular abnormality is driven by factor VIII deficiency, which FIX does not correct. Familial apolipoprotein C-II deficiency is a lipid disorder unrelated to coagulation and is likely a false positive.
 
-Currently no related clinical trials registered.
+## EU Market Information
 
-## Literature Evidence
-
-Currently no related literature available.
-
-## Market Information (Taiwan)
-
-Currently not marketed in Taiwan; no authorization records available (0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004142 | Alprolix | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency). (Status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. TFDA label warnings and contraindications for this product have not yet been retrieved for this evaluation (flagged as a blocking data gap).
+Please refer to the SmPC for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications are rated L5 (model prediction only) with zero supporting clinical trials or literature, and the pipeline's own scoring independently recommends "Hold" for every candidate. The drug is not currently marketed in Taiwan, and core safety data (warnings, contraindications) is an unresolved blocking gap, so this candidate cannot proceed to safety screening (S1) as-is.
+The prediction is supported only by the model score. No clinical trials or publications exist, the mechanism does not fit a platelet receptor defect, and the only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, blocking) — required before any S1 safety screening
-- Confirmed original indication and mechanism-of-action data (DG002)
-- Clinical or literature evidence for the top candidates, with priority re-evaluation of rank 4 ("acquired coagulation factor deficiency"), which the model's own rationale flags as mechanistically stronger than the current #1-ranked candidate
-- Reassessment of whether Pseudo-von Willebrand Disease should remain the lead candidate given the rationale's own note of no direct mechanistic link
+- Safety information from the EMA package insert (warnings and contraindications), which is currently missing and blocks safety screening
+- Detailed mechanism of action data from DrugBank
+- A mechanistic and literature review to decide whether acquired factor IX deficiency or factor XI deficiency merits a research question
+- Clarification of the product's regulatory status and availability, given the cancelled authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

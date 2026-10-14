@@ -2,7 +2,7 @@
 layout: default
 title: Ublituximab
 parent: AI Predictions (L5)
-nav_order: 624
+nav_order: 648
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,77 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ublituximab: From CD20+ B-Cell-Targeted Therapy to Diabetic Cataract
+# Ublituximab: From Relapsing Multiple Sclerosis to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Ublituximab is a CD20-targeted monoclonal antibody; no original approved indication or EU marketing authorization is on file in this Evidence Pack.
-The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic review found **no plausible biological link** between B-cell depletion and cataract formation.
-
----
+Ublituximab is an anti-CD20 monoclonal antibody (marketed as Briumvi), originally used to treat adult patients with relapsing forms of multiple sclerosis (RMS) with active disease.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented (no marketing authorization or approved indication text on file) |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | Adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.57% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Ublituximab is not available in this Evidence Pack, and there is no original approved indication on file — the drug currently holds no EU marketing authorization. The only mechanistic clue available comes from the embedded rationale text, which identifies Ublituximab as a CD20-targeted (anti-CD20) monoclonal antibody that acts by depleting CD20+ B cells.
+Detailed mechanism of action data is not available in the data compiled for this report. Ublituximab is known to be a glycoengineered monoclonal antibody that targets CD20 on B cells. It depletes these cells, which is the basis for its use in relapsing multiple sclerosis. It was also earlier developed for B-cell malignancies, including chronic lymphocytic leukaemia.
 
-The TxGNN model's top 10 predictions for this drug are dominated almost entirely by a single disease cluster: various forms of cataract (diabetic cataract, mature cataract, cortical cataract, nuclear senile cataract, immature cataract, tetanic cataract, craniostenosis cataract) plus diabetic retinopathy. All of these are structural or metabolic ophthalmic conditions — driven by lens protein oxidation, glycation, aggregation, age-related degeneration, or VEGF-driven microvascular damage — rather than B-cell-mediated autoimmune processes.
+**No credible mechanistic link to diabetic cataract has been identified.** Cataract formation in hyperglycaemia is driven mainly by lens protein aggregation, oxidative stress, and polyol pathway activity. None of these is plausibly modulated by B-cell depletion. The high score (0.986) is therefore best read as a knowledge-graph artefact, likely from propagation across the cluster of cataract-related diseases, rather than as biological evidence.
 
-For every one of the top-10 candidates, the domain rationale explicitly concludes there is no plausible mechanistic link between CD20+ B-cell depletion and lens or retinal pathology. A single drug landing on a tight cluster of mechanistically unrelated eye-lens diseases with near-identical, very high scores (98.3%–98.6%) is a classic signature of knowledge-graph embedding noise rather than a genuine biological signal, and is consistent with the "Hold" decision assigned to this candidate at stage S0.
-
----
+The same applies to the other top predictions, which are all cataract subtypes (type 2 diabetes–associated, mature, immature, cortical, nuclear senile, senile, tetanic, and craniostenosis cataract) and diabetic retinopathy. None has supporting trials or literature. For diabetic retinopathy, some immune involvement has been discussed, but there is no direct evidence that CD20+ B-cell depletion helps, and established therapies (anti-VEGF, corticosteroids, laser) already exist.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization is currently on file for Ublituximab as of the data cutoff (2026-09-17); the drug is not marketed in the EU and no license records are available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005914 | Briumvi | Not specified | Treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features. (Status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The only interaction record compiled is a pharmacological target entry, not a drug–drug interaction. Ublituximab binds CD20 (MS4A1) on B cells, and in preclinical data it mediates about 100 times greater antibody-dependent cell-mediated cytotoxicity than rituximab.
 
-> Note: This Evidence Pack flags a **Blocking** data gap (DG001) — no TFDA/EMA label warnings or contraindications are on file — which prevents this candidate from entering the S1 safety pre-screen stage.
-
----
+Please refer to the SmPC for warnings and contraindications. As an anti-CD20 immunosuppressive antibody, it carries infection and infusion-reaction risks that would be hard to justify without any rationale for benefit in cataract.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked candidate (and all top-10 predictions) lack any supporting clinical trial or literature evidence (L5), and the mechanistic review found no credible biological rationale linking CD20+ B-cell depletion to cataract or diabetic retinopathy pathology. A blocking data gap on the drug's safety label also prevents progression to safety pre-screening.
+The prediction is computational only (L5). There are no trials or publications, no plausible mechanistic link, and the EU authorization is cancelled. Immunosuppressive risks outweigh any unsupported expected benefit, and effective surgical treatment exists for cataract.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action and original approved indication(s) from DrugBank/EMA SmPC (High-severity data gap DG002)
-- Official EU/TFDA product label with warnings and contraindications (Blocking data gap DG001)
-- Independent review of the TxGNN output to rule out an embedding-noise artifact, e.g. by checking whether this drug scores higher for other B-cell/autoimmune-mediated indications outside this ocular cluster
-- If pursuing further, preclinical or mechanistic evidence establishing an immune-mediated pathway in lens or retinal disease, which is currently absent
+- Safety information from the EU SmPC (warnings and contraindications)
+- Mechanism of action data to assess any biological link
+- Preclinical or mechanistic evidence that CD20+ B cells play a role in lens or diabetic eye disease
+- Clarification of why the EU authorization was cancelled and the current regulatory status
+- Dosage form and route compatibility assessment (an intravenous antibody versus the ocular route needed for eye disease)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

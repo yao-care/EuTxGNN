@@ -2,7 +2,7 @@
 layout: default
 title: Besilesomab
 parent: AI Predictions (L5)
-nav_order: 88
+nav_order: 90
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,65 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Besilesomab: From Granulocyte Scintigraphy to Diabetic Cataract
+# Besilesomab: From Suspected Osteomyelitis Imaging to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Besilesomab (Scintimun) is a murine IgG1 monoclonal antibody targeting NCA-95 on granulocytes, originally developed as a diagnostic radiolabeled imaging agent for scintigraphic detection of bone and joint infections, including osteomyelitis and diabetic foot infections.
-The TxGNN model predicts it may be effective for **Diabetic Cataract**, ranking this as the highest-scored novel indication in the analysis.
-However, **0 clinical trials** and **0 publications** currently support this predicted direction, placing the evidence entirely at the AI model prediction stage.
+Besilesomab (marketed as Scintimun) is a radiolabeled antibody used for diagnostic imaging to locate inflammation or infection in peripheral bone in adults with suspected osteomyelitis.
+The TxGNN model predicts it may be relevant to **diabetic cataract**, but **no clinical trials and no publications** currently support this direction. The prediction rests on model output alone.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Granulocyte scintigraphy — diagnostic imaging of bone and joint infections |
-| Predicted New Indication | Diabetic Cataract |
+|------|------|
+| Original Indication | Scintigraphic imaging, together with other imaging modalities, to locate inflammation/infection in peripheral bone in adults with suspected osteomyelitis (not for diagnosing diabetic foot infection) |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.52% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known information, Besilesomab is a murine IgG1 monoclonal antibody directed against NCA-95 (non-specific cross-reacting antigen 95, also called CD66b), a glycoprotein expressed on the surface of granulocytes — particularly neutrophils. Its clinical application is as a diagnostic imaging agent: when radiolabeled with technetium-99m and injected intravenously, it homes to sites of granulocyte accumulation, enabling scintigraphic localization of infectious or inflammatory foci. It has no established therapeutic mechanism; it does not block, deplete, or modulate granulocyte function.
+Currently, detailed mechanism of action data is not available. Besilesomab is a diagnostic antibody tracer, understood to be a technetium-99m-labeled murine antibody that binds a granulocyte antigen. It is used to visualise where white blood cells accumulate in infected bone. It is not a therapeutic drug.
 
-The predicted indication of diabetic cataract shares the "diabetic" disease context with the drug's existing use in diabetic foot infection imaging, but differs fundamentally in pathomechanism. Diabetic cataract arises from the polyol pathway (aldose reductase converts glucose to sorbitol, causing osmotic stress in the lens), non-enzymatic glycation producing advanced glycation end-products (AGEs), and chronic oxidative stress — none of which directly involve granulocyte-mediated inflammation. The TxGNN prediction most likely reflects a knowledge-graph clustering effect: diabetic complications (retinopathy, cataract, neuropathy, foot infection) cluster tightly as neighboring disease nodes around diabetes-related drug nodes, generating co-occurrence signals rather than true mechanistic links.
+The data compiled for this report does not establish a mechanistic link between this imaging function and diabetic cataract. Diabetic cataract involves lens damage through glucose-related (polyol) and oxidative pathways, and a granulocyte-targeting imaging agent has no known action on these processes. The high score (98.52%) appears to reflect closeness among cataract-related terms in the model's knowledge graph rather than biological evidence. The same pattern appears in the other top-ranked predictions, which are almost all cataract subtypes (mature, senile, nuclear, cortical, tetanic, immature, craniostenosis-associated and type 2 diabetes-associated cataract), each with the same lack of support.
 
-Among all 10 predicted indications, **diabetic retinopathy** (rank 10) is the most biologically plausible. There is published evidence that neutrophils contribute to leukostasis — physical plugging of retinal capillaries — in the diabetic retina, which could in principle be a target for an anti-granulocyte agent. However, Besilesomab remains a diagnostic agent, not a therapeutic antibody, and no preclinical or clinical data support its use as a treatment for any of the predicted indications. For all cataract subtypes (ranks 1–9), there is no known biological pathway connecting granulocyte activity to lens opacification.
+The only weakly plausible connection among the top ten predictions is diabetic retinopathy (rank 10, score 98.20%). It has an inflammatory component involving leukocyte adhesion, and besilesomab binds granulocytes. This is speculative, and the product has no documented therapeutic effect.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Besilesomab in any of the 10 predicted indications (diabetic cataract, mature cataract, craniostenosis cataract, tetanic cataract, immature cataract, type 2 diabetes-associated cataract, nuclear senile cataract, cortical cataract, senile cataract, or diabetic retinopathy).
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for Besilesomab in any of the 10 predicted indications.
+Currently no related literature available.
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Besilesomab is not currently authorized for marketing in Taiwan (0 registered licenses). No dosage form, approved indication, or authorization number is on record in the Taiwan regulatory database.
-
-> Note: Besilesomab is authorized in the European Union by EMA (Scintimun, EU/1/10/644) for granulocyte scintigraphy in the diagnosis of suspected bone and joint infections. This EMA authorization does not extend to Taiwan.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001045 (cancelled) | Scintimun | Not specified | Diagnostic use only: scintigraphic imaging, in conjunction with other appropriate imaging modalities, to determine the location of inflammation/infection in peripheral bone in adults with suspected osteomyelitis... |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
-
-> Safety data for Besilesomab (key warnings, contraindications, and drug-drug interactions) are not available in this Evidence Pack. DG001 (TFDA SmPC / prescribing information) is flagged as a **Blocking** data gap. Given that Besilesomab contains a murine protein backbone, hypersensitivity and human anti-mouse antibody (HAMA) reactions are a class-level concern for murine monoclonal antibodies that should be reviewed before any clinical use.
 
 ---
 
@@ -96,15 +93,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications are rated L5 — purely AI model-generated with no supporting clinical trials or published literature — and the mechanistic link between Besilesomab's NCA-95 granulocyte-targeting mechanism and cataract pathophysiology lacks any established biological basis. Furthermore, Besilesomab is a diagnostic imaging agent rather than a therapeutic drug, raising a fundamental question of whether drug repurposing as a treatment is conceptually applicable without substantial molecular re-engineering.
+The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible mechanism links a diagnostic radiolabeled antibody to cataract. The only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-
-- **Clarify therapeutic vs. diagnostic classification**: Confirm whether Besilesomab can exert any therapeutic effect (e.g., antibody-dependent cellular cytotoxicity against granulocytes) beyond its imaging role, as current evidence supports only diagnostic use
-- **Obtain full MOA data** (DG002): Query DrugBank API for complete pharmacology, targets, and known off-target effects
-- **Obtain Taiwan SmPC / prescribing information** (DG001, Blocking): Required before any safety evaluation can proceed
-- **For the most biologically plausible indication (diabetic retinopathy)**: Conduct preclinical studies in leukostasis models (in vitro human retinal endothelial cell adhesion assays, streptozotocin-induced diabetic mouse retina) to establish whether NCA-95-directed neutralization reduces granulocyte adhesion before any clinical consideration
-- **For cataract indications**: Independent mechanistic evidence linking granulocyte activity to lens opacification pathology would be required — currently absent in the literature — before these indications can be considered viable repurposing candidates
+- Mechanism of action data for besilesomab
+- Safety information (warnings and contraindications) from the product information
+- Any preclinical or mechanistic evidence for lens or ocular effects
+- A rationale for a therapeutic role, since the product is a diagnostic agent
+- Confirmation of the regulatory status and availability of the product, given the cancelled authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

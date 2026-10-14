@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Duvelisib
-parent: Medium Evidence (L3-L4)
-nav_order: 199
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 206
+evidence_level: L5
 indication_count: 10
 ---
 
 # Duvelisib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,120 +29,109 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Duvelisib: From Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma to Hodgkin's Lymphoma
+# Duvelisib: From Relapsed/Refractory CLL and Follicular Lymphoma to Hodgkin's Lymphoma
 
 ## One-Sentence Summary
 
-Duvelisib (DrugBank DB11952) is a dual PI3Kδ/γ inhibitor whose original approved indication (per published FDA approval literature) was relapsed/refractory chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) and follicular lymphoma; it is currently **not marketed in the EU** (0 authorizations on file). The TxGNN model's top-ranked new indication is **Hodgkin's Lymphoma**, with a **99.94% prediction score**, supported by **11 clinical trials** and **15 publications** — however, essentially all of this evidence actually enrolls non-Hodgkin lymphoma (NHL), CLL, or T-cell lymphoma patients, not classical Hodgkin lymphoma, suggesting a possible knowledge-graph disease-label mismatch that must be resolved before this specific prediction can be trusted.
-
----
+Duvelisib is an oral dual PI3K-delta/gamma inhibitor, originally authorised in the EU for relapsed or refractory chronic lymphocytic leukaemia (CLL) and refractory follicular lymphoma (FL).
+The TxGNN model predicts it may be effective for **Hodgkin's lymphoma**, but the data compiled for this report contain **no Hodgkin-specific trial** (10 trials listed, all in other lymphoid malignancies) and **19 publications** that address related lymphomas rather than Hodgkin's lymphoma itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL), per FDA approval literature (no EU/TW license record on file) |
-| Predicted New Indication | Hodgkin's Lymphoma |
+| Original Indication | Relapsed or refractory CLL after at least two prior therapies; follicular lymphoma refractory to at least two prior systemic therapies |
+| Predicted New Indication | Hodgkin's lymphoma |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** (evidence-pack stage: "Research Question" / S1 — see rationale) |
+| Evidence Level | L2 (as assigned in the compiled data; see note below) |
+| EU Market Status | ✗ Cancelled only |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
----
+**Note on evidence level:** The compiled data give L2 for this prediction, but the supporting trials are in indolent non-Hodgkin lymphoma. Applied strictly to Hodgkin's lymphoma, the evidence is closer to L5 (model prediction with indirect evidence only).
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available in the structured drug record for duvelisib. Based on the supporting literature retrieved for this candidate, duvelisib is a first-in-class oral dual inhibitor of phosphoinositide-3-kinase delta and gamma (PI3K-δ/γ), which sit downstream of the B-cell receptor (BCR) signaling pathway and are essential for the growth, survival, and migration of neoplastic lymphoid cells (PMID 30430368, 28388280). This mechanism underpinned its original approval for CLL/SLL and follicular lymphoma.
+Detailed mechanism of action data is not available in the compiled data. From the known drug class, duvelisib inhibits PI3K-delta and PI3K-gamma. These enzymes support B-cell receptor signalling and the tumour microenvironment in lymphoid malignancies.
 
-Hodgkin lymphoma and non-Hodgkin lymphoma are both malignancies of lymphoid origin, and PI3K/BCR-pathway signaling is broadly implicated across B- and T-cell lymphoid neoplasms, which is the mechanistic basis for the TxGNN model's prediction. However, a close read of the evidence retrieved specifically for "Hodgkin's lymphoma" shows an important caveat: **none of the 11 clinical trials or 15 publications actually enroll or discuss classical Hodgkin lymphoma** — instead they consistently describe indolent NHL, peripheral T-cell lymphoma, CLL/SLL, or mantle cell lymphoma. This pattern strongly suggests the TxGNN knowledge graph may have mapped "Hodgkin's lymphoma" as a proxy/adjacent node for the broader lymphoma space rather than reflecting a validated, disease-specific signal. As a result, this indication should currently be treated as a **research hypothesis requiring disease-mapping verification**, not as an evidence-backed repurposing candidate.
+Its efficacy in CLL/SLL and follicular lymphoma is established, and the same pathway is active in other lymphomas. This makes the prediction biologically plausible. However, almost all available clinical evidence comes from indolent non-Hodgkin lymphoma, T-cell lymphoma and CLL, not classical Hodgkin's lymphoma. The disease label likely reflects a broad lymphoma grouping, so the link to Hodgkin's lymphoma is indirect.
 
-By contrast, other TxGNN-predicted indications for duvelisib in this same evidence pack — most notably "B-cell neoplasm" (rank 9, L1 evidence, driven by the pivotal Phase 3 DUO trial, NCT02004522) — are directly and robustly supported. This lends indirect plausibility to the PI3K-inhibitor mechanism in lymphoid malignancies generally, even while the Hodgkin-lymphoma-specific claim remains unconfirmed.
-
----
+One preclinical study (PMID 29522278) examined duvelisib in Epstein-Barr virus-associated lymphoma cells, a group that includes Burkitt and Hodgkin lymphoma. It offers weak, indirect support only.
 
 ## Clinical Trial Evidence
 
-*(from `predicted_indications[0]` — "Hodgkin's Lymphoma"; note: no trial in this list specifically enrolls classical Hodgkin lymphoma patients — all target NHL, PTCL, or related lymphoid malignancies)*
+None of these trials enrolled Hodgkin's lymphoma patients specifically.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04038359](https://clinicaltrials.gov/study/NCT04038359) | Phase 2 | Completed | 103 | Compared two intermittent dosing schedules of duvelisib in indolent NHL (iNHL); studied 2-week dose-holiday effects on tumor response and tolerability. |
-| [NCT04803201](https://clinicaltrials.gov/study/NCT04803201) | Phase 2 | Suspended | 170 | Randomized comparison of CHO(E)P vs CC-486-CHO(E)P vs Duvelisib-CHO(E)P in previously untreated CD30-negative peripheral T-cell lymphoma. |
-| [NCT01871675](https://clinicaltrials.gov/study/NCT01871675) | Phase 1 | Completed | 48 | Assessed MTD and preliminary efficacy of duvelisib + rituximab (± bendamustine) in relapsed/refractory lymphoma or CLL. |
-| [NCT04379167](https://clinicaltrials.gov/study/NCT04379167) | Phase 2 | Unknown | 140 | Evaluated related PI3K inhibitor YY-20394 monotherapy in relapsed/refractory follicular NHL after ≥2 prior therapies. |
-| [NCT05923502](https://clinicaltrials.gov/study/NCT05923502) | N/A | Not yet recruiting | 200 | Planned multicenter real-world observational study of duvelisib capsules in NHL. |
-| [NCT02576275](https://clinicaltrials.gov/study/NCT02576275) | Phase 3 | Withdrawn | 0 | Planned pivotal RCT of duvelisib + bendamustine/rituximab vs placebo in previously-treated indolent NHL; withdrawn before enrollment. |
-| [NCT05065866](https://clinicaltrials.gov/study/NCT05065866) | Phase 1 | Completed | 14 | Dose-finding study of duvelisib in combination with BMS-986345 in lymphoid malignancies. |
-| [NCT04836832](https://clinicaltrials.gov/study/NCT04836832) (DUAL) | Phase 1 | Withdrawn | 0 | Planned duvelisib + acalabrutinib combination in relapsed/refractory indolent NHL; withdrawn. |
-| [NCT05044039](https://clinicaltrials.gov/study/NCT05044039) | Phase 1 | Active, not recruiting | 42 | Dose escalation/expansion of duvelisib following CAR T-cell therapy, aiming to enhance CAR-T persistence via PI3K inhibition. |
-| [NCT01882803](https://clinicaltrials.gov/study/NCT01882803) | Phase 2 | Completed | 129 | Pivotal monotherapy trial in refractory iNHL (follicular/marginal zone/small lymphocytic lymphoma) — basis for duvelisib's follicular lymphoma indication, not Hodgkin lymphoma. |
-
-*(1 additional lower-relevance trial, NCT02640833, omitted for brevity — also unrelated to classical HL.)*
-
----
+| [NCT01882803](https://clinicaltrials.gov/study/NCT01882803) | Phase 2 | Completed | 129 | Duvelisib monotherapy in refractory indolent NHL (FL, marginal zone lymphoma, SLL) |
+| [NCT04038359](https://clinicaltrials.gov/study/NCT04038359) | Phase 2 | Completed | 103 | Two intermittent dosing schedules in indolent NHL; tests the effect of 2-week dose holidays on responses and tolerability |
+| [NCT01871675](https://clinicaltrials.gov/study/NCT01871675) | Phase 1 | Completed | 48 | Duvelisib with rituximab or bendamustine/rituximab in relapsed/refractory lymphoma or CLL; safety and MTD |
+| [NCT05065866](https://clinicaltrials.gov/study/NCT05065866) | Phase 1 | Completed | 14 | Duvelisib plus BMS-986345 in lymphoid malignancy; safety and tolerability |
+| [NCT05044039](https://clinicaltrials.gov/study/NCT05044039) | Phase 1 | Active, not recruiting | 42 | Duvelisib after CAR T-cell therapy to improve CAR T persistence |
+| [NCT04803201](https://clinicaltrials.gov/study/NCT04803201) | Phase 2 | Recruiting | 170 | Duvelisib-CHO(E)P vs other regimens in untreated CD30-negative peripheral T-cell lymphoma |
+| [NCT05923502](https://clinicaltrials.gov/study/NCT05923502) | N/A | Not yet recruiting | 200 | Real-world, non-interventional study in non-Hodgkin lymphoma |
+| [NCT02576275](https://clinicaltrials.gov/study/NCT02576275) | Phase 3 | Withdrawn | 0 | Duvelisib plus bendamustine/rituximab vs placebo in indolent NHL; no data |
+| [NCT04836832](https://clinicaltrials.gov/study/NCT04836832) | Phase 1 | Withdrawn | 0 | Duvelisib plus acalabrutinib in indolent NHL; no data |
+| [NCT02640833](https://clinicaltrials.gov/study/NCT02640833) | Phase 1 | Withdrawn | 0 | Duvelisib plus venetoclax in CLL/SLL and NHL; no data |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36685572](https://pubmed.ncbi.nlm.nih.gov/36685572/) | 2022 | Systematic Review/Meta-analysis | Frontiers in Immunology | Meta-analysis of prospective trials evaluating safety/efficacy of dual PI3K-δ,γ inhibition (duvelisib) across relapsed/refractory lymphoid neoplasm subtypes. |
-| [30799261](https://pubmed.ncbi.nlm.nih.gov/30799261/) | 2019 | Review | The Lancet Oncology | Discusses duvelisib's role specifically in indolent non-Hodgkin lymphoma. |
-| [29191916](https://pubmed.ncbi.nlm.nih.gov/29191916/) | 2018 | Phase 1 Clinical Trial | Blood | Foundational Phase 1 study (n=210) establishing MTD (75 mg BID) and clinical activity of duvelisib across advanced hematologic malignancies. |
-| [31490009](https://pubmed.ncbi.nlm.nih.gov/31490009/) | 2019 | Phase 1 Clinical Trial | American Journal of Hematology | Phase 1 combination trial of duvelisib with rituximab ± bendamustine in NHL and CLL patients. |
-| [31580408](https://pubmed.ncbi.nlm.nih.gov/31580408/) | 2019 | Review | Am J Health-Syst Pharm | Summarizes FDA-approved targeted therapies, including duvelisib, for B- and T-cell lymphomas. |
-| [32356174](https://pubmed.ncbi.nlm.nih.gov/32356174/) | 2020 | Review | Current Treatment Options in Oncology | Reviews the PI3K-inhibitor drug class, including duvelisib's mechanism and role in lymphoma treatment. |
-| [33132100](https://pubmed.ncbi.nlm.nih.gov/33132100/) | 2021 | Review | Clin Lymphoma Myeloma Leuk | Discusses next-generation PI3K inhibitors and unmet needs in relapsed/refractory B-cell lymphoma. |
-| [26413907](https://pubmed.ncbi.nlm.nih.gov/26413907/) | 2015 | Review | Expert Review of Hematology | Reviews BCR-signaling inhibitors (including early PI3K inhibitors) in B-cell lymphoproliferative disorders. |
-| [27872741](https://pubmed.ncbi.nlm.nih.gov/27872741/) | 2016 | Review | Mediterr J Hematol Infect Dis | Reviews novel agents, including PI3K inhibitors, for follicular lymphoma. |
-| [33616890](https://pubmed.ncbi.nlm.nih.gov/33616890/) | 2021 | Review | Drugs | Reviews novel therapeutic approaches, including PI3K inhibitors, for follicular lymphoma. |
-
-*(5 additional lower-priority items — an analytical/pharmacokinetic method paper, a T-cell lymphoma target-discovery paper, and papers on a different PI3K agent (copanlisib) — omitted as they do not add disease-specific evidence for this indication.)*
-
----
+| [36685572](https://pubmed.ncbi.nlm.nih.gov/36685572/) | 2022 | Systematic review/meta-analysis | Front Immunol | Safety and efficacy of duvelisib in relapsed/refractory lymphoid neoplasms |
+| [29191916](https://pubmed.ncbi.nlm.nih.gov/29191916/) | 2018 | Phase 1 trial | Blood | Duvelisib clinically active in 210 patients with advanced haematologic malignancies; MTD 75 mg twice daily |
+| [31490009](https://pubmed.ncbi.nlm.nih.gov/31490009/) | 2019 | Phase 1 trial | Am J Hematol | Duvelisib with rituximab or bendamustine/rituximab in NHL and CLL |
+| [30799261](https://pubmed.ncbi.nlm.nih.gov/30799261/) | 2019 | Review | Lancet Oncol | Duvelisib in indolent non-Hodgkin lymphoma |
+| [32356174](https://pubmed.ncbi.nlm.nih.gov/32356174/) | 2020 | Review | Curr Treat Options Oncol | Role of PI3K inhibitors as targeted therapy in lymphoma |
+| [33616890](https://pubmed.ncbi.nlm.nih.gov/33616890/) | 2021 | Review | Drugs | Novel therapy approaches to follicular lymphoma |
+| [31580408](https://pubmed.ncbi.nlm.nih.gov/31580408/) | 2019 | Review | Am J Health Syst Pharm | Approved targeted therapies in B- and T-cell lymphomas |
+| [33132100](https://pubmed.ncbi.nlm.nih.gov/33132100/) | 2021 | Review | Clin Lymphoma Myeloma Leuk | Next-generation PI3K inhibitors in B-cell lymphoma |
+| [36882482](https://pubmed.ncbi.nlm.nih.gov/36882482/) | 2023 | Preclinical | Sci Rep | PI3K-gamma/delta roles in mantle cell lymphoma and duvelisib efficacy |
+| [28017967](https://pubmed.ncbi.nlm.nih.gov/28017967/) | 2017 | Translational | Leukemia | Duvelisib sensitises CLL cells to venetoclax |
 
 ## EU Market Information
 
-Duvelisib currently has **no EU marketing authorization on file** (`total_licenses: 0`, `market_status: Not marketed`). No product/authorization table can be produced from the available data.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005381 (Cancelled) | Copiktra | Not specified | Copiktra monotherapy for adults with relapsed or refractory CLL after at least two prior therapies, and follicular lymphoma refractory to at least two prior... |
 
 ## Cytotoxicity
 
-Duvelisib is an antineoplastic agent (its literature-documented original indication, CLL/SLL, is a hematologic malignancy), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (oral dual PI3K-δ/γ small-molecule kinase inhibitor) — not a conventional cytotoxic chemotherapeutic |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions (no quantified hematologic toxicity data available in this evidence pack) |
-| Emetogenicity Classification | Low (typical of oral small-molecule kinase inhibitors as a class; not separately confirmed in this evidence pack) |
-| Monitoring Items | CBC, liver function tests, and renal function; literature in this pack references historical FDA boxed warnings for hepatotoxicity, severe diarrhea/colitis, and pneumonitis/infections — clinical monitoring should cover these organ systems |
-| Handling Protection | Despite oral administration, duvelisib is a hazardous antineoplastic agent and should be handled per institutional cytotoxic/hazardous-drug handling protocols |
-
----
+| Cytotoxicity Classification | Targeted therapy (oral PI3K-delta/gamma kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions; at minimum, blood counts, liver function and infection surveillance, given the class toxicities |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information — the structured safety fields in this evidence pack (`key_warnings`, `contraindications`, `ddi`) are all data gaps, and DDI query status is `not_found`.
+**Class-level warnings (from the compiled evidence assessment):** PI3K inhibitors carry serious toxicity, including infections, colitis, pneumonitis, severe cutaneous reactions and hepatotoxicity. A 2024 publication also notes that autoimmune and infectious toxicities have led to market withdrawals of PI3K-delta inhibitors.
 
-For context only: literature within this evidence pack notes that duvelisib carried FDA boxed warnings (hepatotoxicity, severe colitis, pneumonitis, and infections) and was **voluntarily withdrawn from the market in 2021** for commercial and safety-related reasons — this should be independently verified against the official SmPC/USPI before any further use.
+**Drug Interactions:** 100 interactions were identified. Those listed below are the **Major** ones among the first 20 displayed:
+- Clarithromycin
+- Cisapride
+- Eliglustat
 
----
+Many Moderate interactions were also recorded, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), proton pump inhibitors (omeprazole, esomeprazole, dexlansoprazole), cimetidine, aprepitant, pioglitazone, saxagliptin, dolasetron, granisetron, clotrimazole and glycerol phenylbutyrate. Because corticosteroids are commonly used in lymphoma regimens, combination use needs particular attention.
+
+Label-based warnings and contraindications were not available for this report. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The evidence pack's own scoring for this specific indication (Hodgkin's Lymphoma) is L4 / decision stage S1 ("Research Question") — an early, mechanism-level stage, not a clinically actionable one.
-- Critically, all 11 trials and 15 publications retrieved for "Hodgkin's Lymphoma" actually describe NHL, PTCL, CLL/SLL, or MCL populations — there is **no direct clinical evidence in classical Hodgkin lymphoma**, raising concern about a disease-label/knowledge-graph mapping error that must be resolved before this candidate can advance.
-- A **Blocking** data gap (DG001: TFDA/SmPC warnings and contraindications) independently prevents entry into the S1 safety pre-assessment stage regardless of efficacy evidence.
+The prediction score is high (99.94%), but no trial or publication tests duvelisib in Hodgkin's lymphoma. The supporting clinical evidence is in non-Hodgkin lymphoma, T-cell lymphoma and CLL. The only EU authorisation is cancelled, and the PI3K inhibitor class has significant toxicity. The strongest evidence in the data (the Phase 3 DUO trial) supports the original CLL/SLL indication, not a new one.
 
 **To proceed, the following is needed:**
-- Verify whether the TxGNN "Hodgkin's lymphoma" node is correctly mapped, or whether it is an artifact of the model associating duvelisib with the broader lymphoma disease cluster (given all supporting evidence is NHL/PTCL/CLL-specific).
-- Obtain official product labeling / SmPC warnings and contraindications (DG001, Blocking) via the regulatory agency's official product label, as this currently blocks any safety pre-assessment.
-- Obtain a formal DrugBank/pharmacology MOA record (DG002, High) to support a rigorous mechanistic-link analysis rather than relying on secondary literature.
-- If disease-mapping is confirmed correct, consider redirecting the primary repurposing focus toward "B-cell neoplasm" (rank 9), which already has L1-level Phase 3 evidence (DUO trial, NCT02004522) and a "Proceed with Guardrails" recommendation — a substantially stronger evidence base than the top-ranked Hodgkin's lymphoma prediction.
+- Hodgkin-lymphoma-specific preclinical data (e.g. cell-line or patient-sample work, including EBV-associated models)
+- A well-designed Phase 2 study in relapsed/refractory classical Hodgkin's lymphoma
+- Mechanism of action data and EMA label warnings and contraindications
+- A risk-benefit assessment that accounts for the class toxicities and the cancelled EU status
+- A review of whether other predicted indications (for example, mantle cell lymphoma, which has preclinical support) are stronger candidates
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

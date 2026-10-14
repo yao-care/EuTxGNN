@@ -2,7 +2,7 @@
 layout: default
 title: Tiratricol
 parent: AI Predictions (L5)
-nav_order: 596
+nav_order: 618
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tiratricol: From Undocumented Original Indication to Migraine with Brainstem Aura
+# Tiratricol: From MCT8 Deficiency (Allan-Herndon-Dudley Syndrome) to Migraine with Brainstem Aura
 
 ## One-Sentence Summary
 
-Tiratricol (TRIAC) is identified in the evidence pack as a thyroid hormone receptor beta (TRβ) agonist; its original approved indication is not documented in this evidence pack, and the compound does not currently hold any EU marketing authorization. The TxGNN model predicts a possible effect on **Migraine with Brainstem Aura**, but this prediction is currently supported by **zero clinical trials** and **zero publications**.
+Tiratricol (TRIAC) is a thyroid hormone analog, originally authorised in the EU to treat peripheral thyrotoxicosis in patients with MCT8 deficiency (Allan-Herndon-Dudley Syndrome).
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (no approved indication on file) |
-| Predicted New Indication | Migraine with Brainstem Aura |
+| Original Indication | Peripheral thyrotoxicosis in patients with MCT8 deficiency (Allan-Herndon-Dudley Syndrome), from birth |
+| Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 93.28% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Tiratricol is not available from DrugBank in this evidence pack. Contextual analysis, however, identifies the compound as triiodothyroacetic acid (TRIAC), a thyroid hormone metabolite that acts as a selective agonist of thyroid hormone receptor beta (TRβ).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tiratricol is a thyroid hormone analog that acts through thyroid hormone receptors alpha (THRA) and beta (THRB) and can enter cells without the MCT8 transporter. This explains its use in MCT8 deficiency.
 
-Because the original indication is undocumented, the relationship between the drug's established use and the predicted new indication cannot be directly evaluated. The rationale offered for the migraine prediction rests on an indirect line of reasoning: thyroid dysfunction (both hyper- and hypothyroidism) is epidemiologically associated with a higher prevalence of migraine, but no direct evidence links TRIAC/TRβ agonism to brainstem excitability or trigeminovascular system activity, the pathways thought to underlie migraine with brainstem aura.
+No established link between this mechanism and migraine pathophysiology (cortical spreading depression, CGRP or serotonergic pathways) was found in the data compiled. The high TxGNN score (0.93) is a knowledge-graph prediction only. The second-ranked prediction, migraine disorder (score 92.31%), is likely correlated with it and has the same lack of support.
 
-Confidence in this prediction is further weakened by a pattern visible across the drug's full prediction list: several lower-ranked candidates (e.g., polyp of vocal cord, middle ear, frontal sinus, and ureter) cluster together with no plausible shared mechanism, which is a signature of knowledge-graph embedding artifacts rather than genuine pharmacological signal. While the migraine-related predictions score higher and are mechanistically more plausible than the polyp cluster, the complete absence of clinical or literature corroboration means this should still be treated as a hypothesis-generating signal only.
+Other lower-ranked predictions include seborrheic dermatitis (80.59%) and amenorrhea (80.14%), where thyroid hormones plausibly influence skin and the reproductive axis, though only speculatively. The remaining predictions (various polyps, ocular tuberculosis; scores about 58–59%) have no identified mechanism and are likely graph artifacts.
 
 ## Clinical Trial Evidence
 
@@ -65,25 +67,30 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Tiratricol currently holds no marketing authorization in the EU (0 licenses on file). No product name, dosage form, or approved indication text is therefore available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005220 (cancelled) | Emcitate | Not specified | Peripheral thyrotoxicosis in patients with MCT8 deficiency (Allan-Herndon-Dudley Syndrome), from birth |
 
 ## Safety Considerations
 
-No verified safety data (key warnings, contraindications, or drug-drug interactions) is currently available for Tiratricol. Because the drug is not marketed in the EU, there is no Summary of Product Characteristics (SmPC) to consult. This absence of foundational safety information has been flagged as a **Blocking** data gap (DG001), which by itself prevents this candidate from advancing to the S1 safety pre-screening stage.
+- **Drug Interactions**: The interaction query found only pharmacological target relationships, with no drug-drug interactions graded by level. Tiratricol binds thyroid hormone receptor alpha (THRA) and thyroid hormone receptor beta (THRB).
+- **Other**: Public health agencies have warned against the use of tiratricol in weight-loss preparations. Systemic thyromimetic exposure carries potential cardiac and metabolic risks.
+
+Please refer to the SmPC for further safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- All predicted indications for Tiratricol, including the top-ranked Migraine with Brainstem Aura (93.28%), sit at Evidence Level L5 — model prediction only, with no supporting clinical trials or literature.
-- A Blocking data gap on safety labeling (DG001) makes it impossible to complete even a preliminary safety assessment, and the lack of documented mechanism of action (DG002) prevents a rigorous mechanistic-plausibility review.
+The prediction rests only on a knowledge-graph score, with no clinical trials, no literature and no documented mechanistic link to migraine. The EU authorisation is also listed as cancelled, and the safety profile of systemic thyromimetic exposure is hard to justify without supporting evidence.
 
 **To proceed, the following is needed:**
-- Documented original indication(s) and a confirmed mechanism of action for Tiratricol (currently a data gap per DrugBank query, DG002)
-- Product labeling equivalent to an SmPC (warnings, contraindications) to resolve the Blocking gap DG001
-- At least one preclinical or observational study directly linking TRβ agonism to migraine pathophysiology (brainstem excitability, trigeminovascular activation) before advancing beyond decision stage S0
-- Independent verification that the migraine and polyp prediction clusters are not artifacts of the TxGNN knowledge-graph embedding structure
+- Mechanism of action data and a plausible mechanistic link to migraine pathophysiology
+- Preclinical or observational evidence supporting efficacy in migraine
+- EU package insert warnings and contraindications (SmPC review)
+- Clarification of the current EU regulatory status
+- A risk-benefit assessment of thyroid hormone receptor activation in a non-thyroid indication, including cardiac and metabolic safety
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

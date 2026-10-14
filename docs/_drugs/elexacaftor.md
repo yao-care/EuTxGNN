@@ -2,7 +2,7 @@
 layout: default
 title: Elexacaftor
 parent: AI Predictions (L5)
-nav_order: 208
+nav_order: 215
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Elexacaftor is a CFTR corrector and one of three active components in the Trikafta/Kaftrio (elexacaftor-tezacaftor-ivacaftor, "ETI") combination, originally developed to treat Cystic Fibrosis in patients with at least one F508del mutation. The TxGNN model predicts a high association with **Rheumatoid Arthritis** (score 98.11%), but currently only **1 loosely-related clinical trial** and **no supporting literature** exist for this specific indication.
+Elexacaftor is a CFTR corrector used in combination with ivacaftor to treat cystic fibrosis in patients with at least one non-Class I CFTR mutation.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ---
 
@@ -41,29 +42,29 @@ Elexacaftor is a CFTR corrector and one of three active components in the Trikaf
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystic Fibrosis (inferred from clinical trial/literature context; not confirmed by TFDA/EMA licensing data — drug not currently marketed) |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Cystic fibrosis (CF) in patients aged 2 years and older with at least one non-Class I CFTR mutation, in combination with ivacaftor |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 98.11% |
-| Evidence Level | L5 (model prediction only) |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data for elexacaftor is not available (data gap, High severity). Based on known information, elexacaftor is a CFTR corrector used as part of the ETI triple combination, and its efficacy in Cystic Fibrosis — improving lung function and reducing pulmonary exacerbations — is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data show that elexacaftor targets CFTR, the chloride channel. It increases the amount of correctly folded CFTR at the cell surface (corrector function) and has a small potentiating effect on channel opening. In the approved triple combination it is used with tezacaftor and ivacaftor to restore chloride flow and help correct salt and water balance at epithelial surfaces. Off-target effects on several potassium channels have also been reported.
 
-However, for the Rheumatoid Arthritis prediction specifically, the model's own rationale indicates the association is weak: the high TxGNN score likely arises from proximity between CFTR-related pathways and inflammatory/immune-regulation pathways within the knowledge graph, rather than from any demonstrated pharmacological effect. No literature or mechanistic study currently supports elexacaftor acting on RA's autoimmune pathology (e.g., RF/anti-CCP-driven synovial inflammation). The one retrieved clinical trial (NCT04970225) studies neutrophil phenotype in CF patients — a basic immunology study unrelated to RA treatment — and was graded "C" relevance by the evidence pipeline. This prediction should be treated as a hypothesis-generating signal only, not a mechanistically supported repurposing candidate.
+No mechanistic link to rheumatoid arthritis has been identified. Cystic fibrosis is a genetic epithelial ion-channel disorder, whereas rheumatoid arthritis is an autoimmune joint disease. Elexacaftor has no established anti-inflammatory or immunomodulatory action relevant to rheumatoid arthritis.
+
+The high TxGNN score (98.11%) reflects a pattern in the knowledge graph only. It is not supported by any trial or publication, and it should be read as a hypothesis-generating signal, not as evidence of efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04970225](https://clinicaltrials.gov/study/NCT04970225) | N/A | Completed | 47 | Studied blood neutrophil function/phenotype in Cystic Fibrosis patients (impact of chronic *P. aeruginosa* infection, CFTR modulator treatment, and exacerbations). Does not evaluate elexacaftor in RA patients — graded low relevance (C) to this indication. |
+Currently no related clinical trials registered.
 
 ---
 
@@ -73,9 +74,27 @@ Currently no related literature available.
 
 ---
 
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005269 (status: cancelled) | Kaftrio | Tablets and granules | Kaftrio tablets are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who have at least one non-Class I mutation in the... |
+
+---
+
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 9 interaction records were found. Eight are rated Moderate, and the ninth is a pharmacological target record for CFTR, not a drug interaction. The Moderate interactions are with:
+  - Empagliflozin
+  - Repaglinide
+  - Rifaximin
+  - Rosuvastatin
+  - Simvastatin
+  - Selexipag
+  - Revefenacin
+  - Ethinylestradiol
+
+Please refer to the SmPC for warnings and contraindications.
 
 ---
 
@@ -84,15 +103,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The Rheumatoid Arthritis prediction rests solely on TxGNN's knowledge-graph score (L5, no direct clinical or literature support), and the only retrieved trial is unrelated to RA treatment. There is currently no mechanistic, clinical, or observational evidence to justify advancing this candidate.
+The prediction rests only on a model score. There are no clinical trials or publications, and no mechanistic link between CFTR correction and rheumatoid arthritis has been identified. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Elexacaftor mechanism of action (MOA) data (DG002, High severity)
-- TFDA/EMA label warnings and contraindications (DG001, Blocking severity — required before any S1 safety screening)
-- Dedicated preclinical or mechanistic studies linking CFTR modulation to RA immunopathology
-- Direct RA-specific clinical trial or case-level evidence for elexacaftor (or the ETI combination)
-
-*Note: Among this drug's other predicted indications, Pulmonary Hypertension (rank 10, L4, "Research Question" stage) shows a more plausible indirect mechanistic rationale via CF-associated pulmonary vascular remodeling, and may warrant separate evaluation.*
+- Mechanistic evidence for a role of CFTR modulation in rheumatoid arthritis (for example, preclinical or in vitro studies)
+- Any clinical or observational data on elexacaftor in rheumatoid arthritis
+- Warnings and contraindications from the SmPC, so that safety screening can be completed
+- Clarification of the cancelled EU authorization status
+- Review of the other lower-ranked TxGNN predictions. Pulmonary hypertension (rank 10) has 8 publications, but they all concern cystic fibrosis patients and none tests elexacaftor as a treatment for pulmonary hypertension.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

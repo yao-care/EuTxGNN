@@ -2,7 +2,7 @@
 layout: default
 title: Vemurafenib
 parent: AI Predictions (L5)
-nav_order: 638
+nav_order: 662
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,89 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vemurafenib: From BRAF V600E-Mutant Melanoma to HIV Infection
+# Vemurafenib: From BRAF-V600-Mutated Melanoma to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-> Vemurafenib is a BRAF V600E-selective kinase inhibitor, contextually used to treat BRAF V600E-mutant melanoma (the drug's formal original-indication text is not present in this Evidence Pack, but is consistently implied by the accompanying literature and rationale entries).
-> The TxGNN model's top-ranked prediction is **HIV infectious disease**, but this signal is currently supported by **0 clinical trials** and **0 publications**, and the pack itself flags "no known mechanistic association" between BRAF inhibition and HIV pathways.
-> This is a pure knowledge-graph similarity prediction with no biological or clinical corroboration to date.
-
----
+Vemurafenib is a BRAF V600 kinase inhibitor, originally used as monotherapy for adult patients with BRAF-V600-mutation-positive unresectable or metastatic melanoma.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack (no `taiwan_regulatory.licenses` entries); contextually consistent with BRAF V600E-mutant melanoma based on accompanying literature |
+| Original Indication | BRAF-V600-mutation-positive unresectable or metastatic melanoma (monotherapy, adults) |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 97.65% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in this Evidence Pack (flagged as a High-severity data gap). Based on contextual information within the pack — including literature titles referencing "vemurafenib for BRAF-mutated melanoma" and repeated mentions of "BRAF V600E-specific inhibition" — vemurafenib appears to function as a selective inhibitor of the mutated BRAF kinase, a key node in the MAPK signaling pathway that drives proliferation in BRAF V600E-positive tumors.
+Detailed mechanism of action data is not available in the data compiled for this report. Vemurafenib is known as an inhibitor of the mutated BRAF V600 kinase, and its efficacy in BRAF-mutated melanoma is the basis of its approval.
 
-For this top-ranked prediction, the relationship between the original indication (oncogenic BRAF-driven signaling) and the predicted new indication (HIV infectious disease) has **no established mechanistic basis**. The Evidence Pack's own rationale for this candidate states explicitly: *"BRAF V600E inhibition has no known association with HIV viral replication or host immune pathways; this is purely a knowledge-graph similarity prediction."*
+No mechanistic link between BRAF inhibition and HIV infection could be established from the available data. The prediction score is a computational output only, and no pathway-level rationale can be assessed. The same applies to the other high-ranking predictions (simian immunodeficiency virus infection and feline acquired immunodeficiency syndrome). These share a score and likely come from the same retroviral neighbourhood in the knowledge graph, so they should not be read as independent confirmation. The latter two are animal diseases with no direct human clinical relevance.
 
-In other words, this candidate was surfaced by the TxGNN model on the basis of network-embedding similarity rather than any pharmacological, virological, or immunological rationale. It should be treated as a hypothesis-generating signal only, not as evidence of biological plausibility.
-
----
+For context, the only predicted indication with any supporting literature is **female breast carcinoma** (rank 8, score 95.15%). It is rated L4 and framed as a research question rather than a recommendation. That evidence consists of case reports, reviews and melanoma-focused studies. One case report describes vemurafenib-induced progression of breast cancer, which suggests a paradoxical MAPK activation concern in BRAF-wild-type tumours. BRAF V600E mutations are rare in breast cancer, so any benefit would be limited to a small molecular subset.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials are registered for HIV infectious disease.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature is available for HIV infectious disease.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002409 (cancelled) | Zelboraf | Not specified | Vemurafenib is indicated in monotherapy for the treatment of adult patients with BRAF-V600-mutation-positive unresectable or metastatic melanoma. |
 
 ## Cytotoxicity
 
-Contextual evidence in this Evidence Pack (literature entries repeatedly describing vemurafenib as a melanoma-directed BRAF V600E inhibitor) supports classifying this as an antineoplastic/targeted agent, though no structured DrugBank category or toxicity data were provided.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (BRAF V600E kinase inhibitor) — inferred from contextual literature, not from structured category data |
+| Cytotoxicity Classification | Targeted therapy (BRAF kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Label-based warnings and contraindications are not available in the data compiled for this report. Please refer to the SmPC for safety information.
 
-Note: this drug also carries a **Blocking**-severity data gap in the underlying Evidence Pack — official label warnings/contraindications have not yet been retrieved, which prevents any formal S1 safety pre-assessment.
-
----
+- **Contraindications flagged by the knowledge graph** (computational drug-disease contraindication edges, not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, potassium deficiency disease, hypercalcemia disease, nephrocalcinosis, phosphorus metabolism disease, hyperbilirubinemia, hereditary hyperbilirubinemia, Gilbert syndrome, uveitis, iris disease, ciliary body disease, panuveitis and iritis. The literature also contains reports of uveitis during vemurafenib treatment.
+- **Drug interactions**: 100 interactions were found in total, and the 20 shown here include 3 rated Major and 1 further Major-level pairing noted below.
+  - Major: clarithromycin, dolasetron, palonosetron.
+  - Moderate examples: famotidine, pioglitazone, alosetron, loperamide, aprepitant, dexamethasone, sitagliptin, saxagliptin, linagliptin, naltrexone.
+  - The QT-related contraindication signals and the Major interactions with QT-active drugs (such as dolasetron and palonosetron) call for caution in any new use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (HIV infectious disease) has no clinical trials, no supporting literature, and no plausible mechanistic link per the pack's own rationale — it is an L5, model-only signal that does not meet the evidentiary bar to advance.
+The HIV prediction has a high model score but no clinical trials, no literature and no identified mechanism, so the evidence level is L5. In addition, the only EU authorization is cancelled, which limits the practical route to market.
 
 **To proceed, the following is needed:**
-- Official product label / SmPC data (warnings, contraindications, DDI) to close the Blocking-severity safety data gap
-- Confirmed mechanism of action (MOA) sourced from DrugBank or equivalent regulatory documentation
-- Independent biological rationale (in vitro or in vivo) connecting BRAF/MAPK inhibition to HIV pathophysiology before any experimental investment
-- Formal confirmation of the original approved indication and regulatory status, since no EU marketing authorization is currently on file
-
-**Additional observation (secondary signal, not part of the primary S0 candidate):**
-Among the other nine ranked predictions in this pack, **female breast carcinoma** (rank 8) stands out with a materially higher evidence tier (L3, "Research Question" stage) — it has one early-phase (withdrawn) trial and 19 literature citations, including case reports of BRAF V600E-mutant triple-negative breast cancer as well as a conflicting case report of vemurafenib-associated breast cancer progression. If further repurposing exploration is warranted for this molecule, that candidate — not the HIV signal — would be the more defensible starting point, though the mixed direction of effect (efficacy vs. progression) still requires subgroup clarification before advancing.
+- Mechanism of action data (for example from DrugBank) to test whether any biological link to HIV exists
+- Preclinical or in vitro studies of vemurafenib in HIV models
+- The SmPC warnings and contraindications, to complete safety screening, with particular attention to QT prolongation, ocular toxicity and drug interactions
+- Clarification of the cancelled EU authorization status and available dosage forms and routes
+- If prioritizing a better-supported direction, a separate review of the breast carcinoma signal, restricted to BRAF V600-mutant tumours and weighed against the paradoxical-activation risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

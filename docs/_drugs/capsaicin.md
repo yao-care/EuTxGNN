@@ -2,7 +2,7 @@
 layout: default
 title: Capsaicin
 parent: AI Predictions (L5)
-nav_order: 125
+nav_order: 127
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,91 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Capsaicin: From Neuropathic Pain to Otitis Externa
+# Capsaicin: From Peripheral Neuropathic Pain to Otitis Externa
 
 ## One-Sentence Summary
 
-Capsaicin is a TRPV1 receptor agonist derived from hot peppers, recognized globally as a topical analgesic for neuropathic and musculoskeletal pain, with no registered indications in the current regulatory dataset.
-The TxGNN model's top prediction identifies **Otitis Externa** as a potential new indication; however, the sole supporting literature (PMID 12769482) uses capsaicin as an inflammation-*inducing* tool in animal models — the mechanistic direction is opposite to therapeutic intent.
-With **0 clinical trials** and **1 preclinical publication** (tool compound role, not therapeutic use), the evidence level is **L5** and the recommendation is **Hold**.
-
----
+Capsaicin (marketed as Qutenza) was originally authorised in the EU for treating peripheral neuropathic pain in adults.
+The TxGNN model predicts it may be effective for **otitis externa**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. It is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not registered in current dataset (global use: neuropathic pain, musculoskeletal pain) |
-| Predicted New Indication | Otitis Externa |
+| Original Indication | Peripheral neuropathic pain in adults, alone or in combination with other pain medicines |
+| Predicted New Indication | Otitis externa |
 | TxGNN Prediction Score | 98.76% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed (0 authorizations in dataset) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not currently available in the data compiled for this report. From pharmacology data, capsaicin acts on the TRPV1 receptor, a pain-sensing ion channel on sensory nerves. Activating it causes an initial burning sensation, followed by desensitisation of the nerve endings and a reduction in the pain messenger substance P. This is why it is used on the skin for neuropathic pain, muscle and joint pain, and neuralgia.
 
-Formal mechanism of action data is not available in this dataset. Based on established pharmacological knowledge, capsaicin is the active pungent compound in chili peppers and a highly selective agonist at the TRPV1 (Transient Receptor Potential Vanilloid 1) channel — a calcium-permeable ion channel expressed on peripheral nociceptors. Its paradoxical analgesic effect proceeds in two phases: acute TRPV1 activation triggers an initial burning sensation, followed by sustained calcium influx that depletes neuropeptides (substance P, CGRP) from C-fiber endings and renders them transiently unresponsive. This "desensitization" mechanism underpins approved pharmaceutical products such as the Qutenza 8% patch, used for postherpetic neuralgia and diabetic peripheral neuropathy in multiple jurisdictions.
+The link to otitis externa is weak. Otitis externa is usually a bacterial or fungal infection of the ear canal, and pain is only one of its symptoms. A pain-desensitising effect could in theory ease the discomfort, but capsaicin would not treat the infection itself. Applying a known irritant inside the ear canal would also raise tolerability concerns. The high TxGNN score is best read as a computational association rather than evidence of benefit.
 
-TRPV1 receptors are expressed beyond skin tissue, including in the epithelium of the external auditory canal and in mastoid cells. TxGNN's high prediction score (98.76%) likely reflects this tissue co-expression pattern within the underlying knowledge graph, creating a topologically plausible neurophysiological link between capsaicin's receptor targets and otitis externa pathology.
-
-The critical problem is mechanistic directionality. Otitis externa is an inflammatory condition of the ear canal, and the only literature in this dataset (PMID 12769482) explicitly employs capsaicin to **provoke** acute ear inflammation in rodents as a positive-control model — it is a reagent for causing the disease, not treating it. Capsaicin's initial TRPV1 activation phase amplifies neurogenic inflammation before desensitization sets in; applying it to an already-inflamed and potentially infected ear canal would very likely intensify pain and worsen local inflammation acutely. There is no evidence that subsequent desensitization would produce a net therapeutic benefit in this context. The prediction score reflects co-expression correlations rather than a validated therapeutic opportunity.
-
----
+The data compiled for this report also list nine other predictions, all with the same evidence limits: post-bacterial disorder, postinfectious vasculitis, infective urethral stricture, post-infectious syndrome, Chagas cardiomyopathy, papillary conjunctivitis, infection-related hemolytic uremic syndrome, tinea corporis and rosacea conjunctivitis. Post-infectious syndrome is the only one with indirect literature support (L4), mainly work on TRPV1 sensitisation in post-infectious irritable bowel syndrome. That work does not test capsaicin as a treatment.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Capsaicin in Otitis Externa.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [12769482](https://pubmed.ncbi.nlm.nih.gov/12769482/) | 2003 | Animal Model / Preclinical | Methods in Molecular Biology | Capsaicin used to **induce** acute ear inflammation in rodent models (positive control for neurogenic inflammation assays). This is a tool compound application — the mechanistic direction is opposite to a therapeutic role. |
-
----
+Currently no related literature available for otitis externa.
 
 ## EU Market Information
 
-No marketing authorizations for Capsaicin are recorded in the current regulatory dataset (total authorizations: 0; market status: not marketed).
-
-> **Note:** Capsaicin-based pharmaceutical products are known to hold marketing authorizations in multiple international jurisdictions (e.g., Qutenza 179 mg cutaneous patch for peripheral neuropathic pain). The absence of records here may reflect dataset scope limitations and should be verified against the full EMA product database before drawing regulatory conclusions.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000909 | Qutenza | Not specified | Treatment of peripheral neuropathic pain in adults, alone or in combination with other medicinal products for pain (status: cancelled) |
 
 ## Safety Considerations
 
-Formal safety data (warnings, contraindications, drug interactions) is not available in this dataset. Please refer to the SmPC for complete safety information.
+- **Disease-related cautions (knowledge graph, not label text)**: The TxGNN knowledge graph links capsaicin to contraindication edges for several conditions. These include cardiovascular disease (hypertension, myocardial infarction, stroke, heart conduction disease, sudden cardiac arrest), liver and kidney disease, diabetes and diabetic ketoacidosis, blood coagulation disorders, anaemia, epilepsy, respiratory failure, and gastrointestinal conditions (gastritis, gastroesophageal reflux disease, oesophagitis). These need verification against the official label.
+- **Drug Interactions**: The interaction query completed and returned 6 pharmacological target associations, not drug–drug interactions. The targets are TRPV1, Kv1.1, Kv1.2, Kv1.7, Kv3.1 and CFTR.
+- **Local tolerability**: Capsaicin is a known skin and eye irritant, and topical use causes burning and irritation. This matters for use in the ear canal.
 
-In addition, the following topical safety concern is relevant to the predicted indication: capsaicin causes intense burning and local neurogenic inflammation upon first application to sensitized tissue. Direct application to an already-inflamed, potentially infected external ear canal would be expected to cause severe acute pain and could worsen existing inflammation — representing a significant safety barrier independent of the mechanistic direction concern noted above.
-
----
+Please refer to the SmPC for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The highest-ranked TxGNN prediction for otitis externa is mechanistically reversed — the only available literature uses capsaicin specifically to *cause* ear canal inflammation as an experimental model tool, and there are no clinical trials or positive preclinical studies to suggest a therapeutic benefit.
+The prediction rests on a model score alone, with no clinical trials or literature. The mechanistic link to otitis externa is weak, since it is an infection and capsaicin is an irritant. The only EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
-- Positive therapeutic preclinical data demonstrating capsaicin *treating* (rather than inducing) otitis externa, specifically assessing the desensitization phase in an infected/inflamed ear canal environment
-- Tolerability and safety data for topical capsaicin in the external ear canal
-- Formal MOA documentation from DrugBank API (Data Gap DG002)
-- Product monograph download and parsing to complete safety review (Data Gap DG001)
-
-**Alternative predictions with stronger evidence (from this same dataset):**
-
-| Rank | Indication | Evidence Level | Trial | Rationale |
-|------|-----------|---------------|-------|-----------|
-| 2 | Post-bacterial disorder | L4 | [NCT06807164](https://clinicaltrials.gov/study/NCT06807164) (Phase 2, n=123, Recruiting) | Three-arm RCT directly comparing capsaicin vs. Serratus Plane Block vs. Botox-A for chronic post-mastectomy neuropathic pain; TRPV1 desensitization mechanism is directly applicable |
-| 5 | Post-infectious syndrome | L4 | 3 observational trials + 4 mechanism papers | TRPV1 sensitization in post-infectious IBS documented in clinical cohort (PMID 29051514); TRPV1-resolvin interaction supports desensitization strategy (PMID 33023902) |
-
-These two indications represent meaningfully stronger repurposing candidates and would benefit from dedicated evidence packs and deeper review.
+- Mechanism of action data and a clearer rationale for pain relief in otitis externa
+- Preclinical or early clinical evidence on safety and tolerability in the ear canal
+- The warnings and contraindications from the official product information, which are still missing
+- Clarification of why the EU authorisation was cancelled and of the route and formulation needed
+- A review of whether post-infectious syndrome, the only prediction with indirect literature support, is a better candidate to study first
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

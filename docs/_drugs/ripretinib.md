@@ -2,7 +2,7 @@
 layout: default
 title: Ripretinib
 parent: AI Predictions (L5)
-nav_order: 508
+nav_order: 526
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,49 +29,58 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ripretinib: From Gastrointestinal Stromal Tumor to Multiple Endocrine Neoplasia
+# Ripretinib: From Gastrointestinal Stromal Tumour to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-Ripretinib is a KIT/PDGFRA switch-control kinase inhibitor used as a fourth-line treatment for gastrointestinal stromal tumor (GIST). The TxGNN model's top prediction — **Multiple Endocrine Neoplasia (MEN)** — scores highly (98.84%), but is supported by **zero clinical trials** and **zero publications**, and the evidence pack itself flags the mechanistic rationale as likely a knowledge-graph false positive, since MEN is driven by RET/MEN1 mutations with no known link to the KIT/PDGFRA pathway.
+Ripretinib is a kinase inhibitor originally used to treat advanced gastrointestinal stromal tumour (GIST) after failure of three or more prior kinase inhibitors.
+The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this specific indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastrointestinal Stromal Tumor (GIST), 4th-line — inferred from mechanistic rationale text; no structured EU authorization data available |
-| Predicted New Indication | Multiple Endocrine Neoplasia |
+| Original Indication | Advanced GIST in adults who have received prior treatment with three or more kinase inhibitors, including imatinib |
+| Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 98.84% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization has been cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in structured form (flagged as a High-severity data gap). Based on known pharmacology referenced in the evidence pack's rationale, ripretinib is a switch-control tyrosine kinase inhibitor targeting KIT and PDGFRA, approved as a fourth-line therapy for GIST.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Ripretinib is known as a broad switch-control inhibitor of KIT and PDGFRA, the kinases that drive most GISTs, and it also inhibits other kinases. Its efficacy in GIST has been studied in the INVICTUS and INTRIGUE trials.
 
-The top-ranked prediction, multiple endocrine neoplasia, is driven by RET mutations (MEN2) or MEN1 gene loss, neither of which has an established mechanistic connection to KIT/PDGFRA signaling. The evidence pack's own repurposing rationale explicitly states this link is "weak" and "may be a knowledge-graph embedding false positive" — there is no supporting clinical or preclinical evidence.
-
-This skepticism extends across the full set of 10 predicted indications reviewed: HER2-positive and hormone-receptor-defined breast cancer subtypes (driven by ERBB2/ER/PR pathways, unrelated to KIT/PDGFRA), two veterinary bovine viral diseases (infectious bovine rhinotracheitis, malignant catarrh — flagged as species-mismatch noise from a model trained partly on non-human data), cytomegalovirus infection (no antiviral mechanism), and amenorrhea (no established mechanistic link). Notably, the 19 literature records retrieved for "breast tumor luminal A or B" are B-cell immunology and Hepatitis B vaccine papers — a keyword-matching artifact on the letter "B," not genuine evidence. None of the 10 candidates in this pack currently clear even preliminary mechanistic plausibility screening.
+The link to multiple endocrine neoplasia is speculative. This condition is typically associated with drivers such as RET or MEN1, and no data connect ripretinib to these. The high score most likely reflects general oncology and kinase-inhibitor patterns in the knowledge graph rather than disease-specific support. Other top predictions (veterinary herpesvirus diseases, amenorrhea, several breast cancer subtypes) share similarly high scores without supporting evidence, which suggests the score alone is not a reliable signal for this drug.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for the top-ranked predicted indication (Multiple Endocrine Neoplasia).
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for the top-ranked predicted indication (Multiple Endocrine Neoplasia).
+Currently no related literature available for multiple endocrine neoplasia.
+
+For context, the data compiled for this report contain publications on ripretinib in its existing GIST indication. These do not support the predicted indication:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38182785](https://pubmed.ncbi.nlm.nih.gov/38182785/) | 2024 | RCT (post hoc biomarker analysis) | Nature Medicine | INTRIGUE trial ctDNA analysis: ripretinib vs sunitinib in GIST after imatinib; primary PFS was not superior to sunitinib |
+| [34313371](https://pubmed.ncbi.nlm.nih.gov/34313371/) | 2021 | Clinical study | The Oncologist | INVICTUS analysis of dose escalation to 150 mg twice daily after progression in GIST |
+| [38473346](https://pubmed.ncbi.nlm.nih.gov/38473346/) | 2024 | Cohort | Cancers | UK expanded access program: efficacy and safety of ripretinib in advanced GIST |
 
 ## EU Market Information
 
-Ripretinib currently holds **no EU marketing authorizations** (0 licenses on file; market status: Not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005614 | Qinlock | Not specified | Advanced GIST in adults who have received prior treatment with three or more kinase inhibitors, including imatinib (status: cancelled) |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (KIT/PDGFRA switch-control tyrosine kinase inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
@@ -79,19 +88,26 @@ Ripretinib currently holds **no EU marketing authorizations** (0 licenses on fil
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-interaction data are currently unavailable — TFDA/EMA label data collection is a blocking gap in this evidence pack.)
+- **Drug Interactions**: The interaction screening identified 90 potential interactions. The main ones are:
+  - **Major**: clarithromycin, cobicistat
+  - **Moderate** (examples): aprepitant, dexamethasone, cimetidine, miconazole, clotrimazole, rolapitant, deferasirox, fostamatinib, selexipag, pioglitazone, rosiglitazone, troglitazone, repaglinide, canagliflozin, eliglustat, metreleptin, fidaxomicin, glycerol phenylbutyrate
+
+  Several of these are CYP3A4-related, which is consistent with a pharmacokinetic study showing that a P-gp/CYP3A4 inhibitor altered ripretinib exposure in rats.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 predicted indications in this pack are Evidence Level L5 (AI prediction only, no clinical or trial support), and the top-ranked candidate (MEN) is explicitly flagged within the evidence pack as a likely mechanistic false positive with no known pathway overlap. The drug also has no EU marketing authorization and no confirmed structured MOA/safety data, so it cannot advance past S0.
+The prediction rests on a model score alone (evidence level L5), with no trials, no relevant literature, and no plausible mechanistic link to multiple endocrine neoplasia. In addition, the only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-- Regulatory label data (warnings, contraindications) — currently a blocking data gap (DG001)
-- Confirmed structured mechanism of action data (DG002)
-- Independent literature/trial search specifically for MEN, RET, or MEN1 to test (or refute) the mechanistic hypothesis before any further screening
+- Mechanism of action data (e.g. from DrugBank) and an assessment of whether ripretinib's kinase profile touches drivers of multiple endocrine neoplasia (RET, MEN1)
+- Preclinical evidence (cell line or animal models) for this condition
+- Warnings and contraindications from the SmPC, which are currently missing and block safety screening
+- Clarification of the reason for the EU authorization cancellation and the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

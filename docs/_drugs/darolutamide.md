@@ -2,7 +2,7 @@
 layout: default
 title: Darolutamide
 parent: AI Predictions (L5)
-nav_order: 167
+nav_order: 174
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,80 +33,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Darolutamide is a next-generation androgen receptor (AR) antagonist approved in multiple countries for the treatment of prostate cancer (nmCRPC and mHSPC), though it is not yet registered in Taiwan.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**,
-with **no clinical trials** and **no publications** currently supporting this repurposing direction.
-
----
+Darolutamide is a non-steroidal androgen receptor antagonist, originally used to treat prostate cancer (nmCRPC and mHSPC).
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**,
+but **no clinical trials** and **no publications** currently support this prediction, so it is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate Cancer (not registered in Taiwan) |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+| Original Indication | Non-metastatic castration-resistant prostate cancer (nmCRPC) at high risk of metastatic disease; metastatic hormone-sensitive prostate cancer (mHSPC) with androgen deprivation therapy, with or without docetaxel |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Darolutamide is a selective androgen receptor (AR) antagonist with a distinctive diarylthiohydantoin structure that confers low CNS penetration, minimal off-target hormonal activity, and a favorable drug–drug interaction profile compared to earlier-generation anti-androgens. It is approved for non-metastatic castration-resistant prostate cancer (nmCRPC) and metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy (ADT).
+Darolutamide is a non-steroidal androgen receptor antagonist. Detailed mechanism of action data was not available in the data compiled for this report, so this description relies on its known drug class.
 
-The proposed link between AR antagonism and HoFH draws on the observation that androgen signaling participates in hepatic LDL receptor (LDLR) expression and whole-body cholesterol metabolism. Androgen deprivation therapy is already known to alter lipid profiles — typically elevating LDL and lowering HDL — confirming that AR signaling does interact with cholesterol homeostasis pathways. Theoretically, modulating AR activity could influence hepatic lipid handling.
+Its established use is in androgen-driven prostate cancer. Homozygous familial hypercholesterolemia is a genetic disorder caused by defects in the LDL receptor pathway. No clear mechanistic link between androgen receptor blockade and this disease was identified. The high score appears to be a knowledge-graph artifact rather than a biologically grounded prediction, and it is not supported by any trial or publication.
 
-However, Homozygous Familial Hypercholesterolemia is caused by biallelic loss-of-function mutations in the *LDLR* gene, resulting in near-absent LDLR protein activity. AR antagonism has no known mechanism to rescue mutant LDLR function, upregulate alternative LDL clearance pathways, or compensate for LDLR deficiency. No preclinical data (in vitro or in vivo) demonstrates that darolutamide reduces LDL in LDLR-deficient models. The high TxGNN score (99.11%) most likely reflects an indirect mathematical connection through shared lipid metabolism nodes in the knowledge graph, rather than a genuine biological signal. **This prediction should be treated as a potential graph artifact rather than a clinically actionable hypothesis.**
-
----
+Other top-ranked predictions show the same pattern. They include multiple endocrine neoplasia, HIV, cytomegalovirus infection and several veterinary viral diseases. None has a plausible mechanistic link or direct clinical evidence. Two prostate cancer trials were retrieved for multiple endocrine neoplasia, but they appear to have been matched by keyword and do not test darolutamide in that condition.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for homozygous familial hypercholesterolemia.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004790 (cancelled) | Nubeqa | Not specified | Adult men with non-metastatic castration-resistant prostate cancer (nmCRPC) at high risk of developing metastatic disease; metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy... |
 
 ## Cytotoxicity
 
-Darolutamide is approved for prostate cancer and is classified as an antineoplastic targeted therapy. It is **not** a conventional cytotoxic agent.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — Non-steroidal androgen receptor antagonist (2nd-generation, diarylthiohydantoin class) |
-| Myelosuppression Risk | Low (myelosuppression is not a primary mechanism-related toxicity of AR antagonists; not expected in standard use) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Liver function tests (ALT/AST), cardiovascular status and blood pressure, fatigue/fall risk assessment in elderly patients |
-| Handling Protection | Standard antineoplastic handling precautions recommended per institutional cytotoxic drug policy |
-
----
+| Cytotoxicity Classification | Targeted/hormonal therapy (androgen receptor antagonist), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs. The 20 shown in the compiled data include:
+  - **Major**: dexamethasone, eluxadoline, rosuvastatin
+  - **Moderate**: clarithromycin, empagliflozin, glyburide, repaglinide, simvastatin, sulfasalazine, rifaximin, cobicistat, deferasirox, eltrombopag, lusutrombopag, among others
+  - **Minor**: aprepitant, cimetidine, miconazole
+- The rosuvastatin (Major) and simvastatin (Moderate) interactions matter here. Statins are a mainstay of lipid-lowering therapy, which is the setting of the predicted indication.
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction rests entirely on TxGNN model output (L5 evidence) with no supporting clinical trials or published literature for the HoFH indication. The biological rationale is mechanistically unsound — HoFH is a monogenic disease driven by LDLR loss-of-function, a target that AR antagonism cannot address — making this prediction very likely a knowledge graph artifact rather than a clinically actionable signal. Of note, 4 of the top 10 TxGNN predictions for darolutamide are veterinary or animal diseases (SIV, FIV, IBR, malignant catarrh), further suggesting this prediction run may reflect systematic graph-level noise rather than drug-specific biological insight.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism linking androgen receptor antagonism to LDL receptor pathway defects. The interaction with rosuvastatin adds a further concern in a lipid-lowering setting. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Obtain detailed MOA and pharmacology data from DrugBank (Data Gap DG002) to anchor any mechanistic hypothesis
-- Obtain SmPC / prescribing information to complete the safety profile and identify key warnings and contraindications (Data Gap DG001)
-- Consult a lipid metabolism specialist to independently assess whether any AR–LDLR mechanistic link could support hypothesis generation
-- If interest persists, commission targeted in vitro studies using LDLR-deficient hepatocyte models (e.g., HepG2-LDLR-KO) before any clinical translation is considered
+- Mechanistic data (MOA) and a plausible biological rationale linking androgen receptor blockade to LDL metabolism
+- Preclinical evidence, such as lipid or LDL receptor models
+- Warnings and contraindications from the SmPC, with a safety review of interactions with lipid-lowering drugs
+- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

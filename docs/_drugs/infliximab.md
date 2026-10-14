@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Infliximab
-parent: High Evidence (L1-L2)
-nav_order: 310
-evidence_level: L1
+parent: AI Predictions (L5)
+nav_order: 321
+evidence_level: L5
 indication_count: 10
 ---
 
 # Infliximab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,170 +29,113 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Infliximab: From TNF-α-Driven Autoimmune Disease to Expanded Immune-Mediated Indications
+# Infliximab: From Rheumatoid Arthritis and Crohn's Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
 
-## Summary
+## One-Sentence Summary
 
-Infliximab (DB00065) is a chimeric anti-TNF-α monoclonal antibody long used across the autoimmune/inflammatory disease spectrum (rheumatoid arthritis, Crohn's disease, ulcerative colitis, psoriatic arthritis, psoriasis, ankylosing spondylitis), though its formal original-indication and MOA text are missing from this evidence pack (**[Data Gap]**, DG001/DG002). This is a **multi-candidate** TxGNN run against 10 predicted indications; evidence quality varies enormously — from **L1** (Phase 3 RCT-backed) extensions of well-established anti-TNF biology (inflammatory spondylopathy, polyarticular juvenile RA) down to **L5** model-only hits for rare skeletal/ocular dysplasia syndromes that even the model's own rationale flags as mechanistically implausible. This report focuses evaluation effort on the 6 indications with actual trial/literature support and flags the 4 unsupported ones for immediate **Hold**.
+Infliximab is an anti-TNF-alpha antibody originally used for rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis.
+The TxGNN model's top-ranked prediction is **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, a rare developmental malformation syndrome, but **no clinical trials and no publications** support it.
+Lower-ranked predictions with real evidence (inflammatory spondylopathy, polyarticular juvenile rheumatoid arthritis, perianal Crohn's disease) are largely on-label or close to on-label uses, and are noted below.
 
-## Quick Overview (Highest-Evidence Candidate)
+## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in this pack (**[Data Gap]**) — publicly known anti-TNF indications: RA, Crohn's disease, UC, PsA, psoriasis, ankylosing spondylitis |
-| Predicted New Indication (top actionable) | Inflammatory spondylopathy |
-| TxGNN Prediction Score | 80.92% (rank 130,860) |
-| Evidence Level | L1 |
-| Taiwan Market Status | Not marketed (Not currently marketed per this dataset) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Treatment of rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis |
+| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| TxGNN Prediction Score | 90.22% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 5 (all cancelled) |
+| Recommended Decision | Hold |
 
-## All Predicted Indications — Ranked Overview
+## Why is This Prediction Reasonable?
 
-| Rank | Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
-|------|---------|-----------|-----------------|-----------------|-----------------|
-| 1 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 90.22% | L5 | S0 | **Hold** — no mechanistic link, model artifact |
-| 2 | Brachydactyly-syndactyly syndrome | 89.88% | L5 | S0 | **Hold** — model artifact |
-| 3 | Rheumatoid vasculitis | 85.32% | L3 | S1 | Research Question — conflicting signal (treats vs. induces) |
-| 4 | Hypermobility of coccyx | 82.49% | L5 | S0 | **Hold** — model artifact |
-| 5 | Anus disease (perianal Crohn's) | 81.21% | L2 | S3 | **Proceed with Guardrails** |
-| 6 | Kummell disease | 81.15% | L5 | S0 | **Hold** — model artifact |
-| 7 | Inflammatory spondylopathy | 80.92% | L1 | S3 | **Proceed with Guardrails** |
-| 8 | Polyarticular juvenile rheumatoid arthritis | 80.14% | L1 | S3 | **Proceed with Guardrails** |
-| 9 | Bronchitis | 77.87% | L4 | S0 | **Hold** — evidence shows adverse pulmonary events, not efficacy |
-| 10 | Crohn disease of the esophagus | 77.58% | L3 | S2 | Research Question |
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, infliximab is a chimeric monoclonal antibody that blocks TNF-alpha, a central inflammatory cytokine in rheumatoid arthritis, inflammatory bowel disease, spondyloarthritis and psoriasis.
 
-Ranks 1, 2, 4, 6 are rare structural/developmental or degenerative-bone conditions with **zero** clinical trial or literature hits and mechanism rationales that explicitly state "no reasonable connection to TNF-α" — these are excluded from further evaluation below.
+For the top-ranked prediction, no mechanistic rationale is apparent. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare developmental malformation syndrome, and TNF blockade has no known connection to its pathogenesis. The score of 0.90 is a graph-based computational prediction only.
 
-## Why Are These Predictions Reasonable?
+The same applies to the second-ranked prediction, brachydactyly-syndactyly syndrome, and to hypermobility of coccyx and Kummell disease, which are structural or mechanical conditions without a recognized TNF-driven component.
 
-Detailed mechanism-of-action data for infliximab is currently unavailable in this pack (**[Data Gap]**, DG002). Based on known public information, infliximab is a chimeric IgG1 monoclonal antibody that neutralizes soluble and membrane-bound TNF-α, a cytokine central to synovial, enteric, entheseal, and vascular inflammation. Its established efficacy in RA, Crohn's disease, and ankylosing spondylitis-type diseases stems from interrupting this pathway.
+Predictions further down the list are more credible because they are inflammatory conditions linked to approved uses:
 
-The credible candidates in this pack are essentially **mechanistic line-extensions of already-approved anti-TNF biology**: inflammatory spondylopathy and polyarticular juvenile RA share the same TNF-α-driven synovitis/enthesitis pathway as adult RA and AS; anus disease (perianal fistulizing Crohn's) and esophageal Crohn's disease are anatomic sub-phenotypes of Crohn's disease itself. Rheumatoid vasculitis is mechanistically plausible (TNF-α contributes to vasculitic endothelial injury) but the literature is genuinely bidirectional — several case reports describe infliximab **inducing** vasculitis via anti-drug antibody/immune-complex mechanisms, which is an unusual and important caveat.
+- **Inflammatory spondylopathy** (score 80.92%, L1): TNF-alpha is a validated driver in ankylosing spondylitis and spondyloarthritis. This is essentially an on-label indication rather than true repurposing.
+- **Polyarticular juvenile rheumatoid arthritis** (score 80.14%, L1): a Phase 3 RCT supports efficacy. The labeled indication text provided does not include juvenile arthritis, so use would be off-label.
+- **Anus disease** (score 81.21%, L3): the evidence concerns perianal fistulising Crohn's disease, which is already a labeled use. It should not be extended to other anal conditions.
+- **Rheumatoid vasculitis** (score 85.32%, L4) and **Crohn disease of the esophagus** (score 77.58%, L4): biologically plausible, but evidence is limited to reviews, case reports and observational studies.
+- **Bronchitis** (score 77.87%, L4, Hold): the literature concerns IBD-associated airway inflammation, not ordinary bronchitis, and infliximab raises the risk of respiratory infection.
 
-## Clinical Trial & Literature Evidence by Indication
+## Clinical Trial Evidence
 
-### 7. Inflammatory Spondylopathy (L1, Proceed with Guardrails)
-
-**Clinical Trials**
+Currently no related clinical trials are registered for the top-ranked prediction. For context, the most relevant trials among the other predictions are shown below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00051623](https://clinicaltrials.gov/study/NCT00051623) | Phase 3 | Completed | 70 | Multicenter double-blind RCT of infliximab in psoriatic/spondyloarthritic disease |
-| [NCT00439283](https://clinicaltrials.gov/study/NCT00439283) | Phase 3 | Completed | 240 | Continuous vs. on-demand infliximab maintenance in ankylosing spondylitis; ± methotrexate |
-| [NCT00207701](https://clinicaltrials.gov/study/NCT00207701) | Phase 3 | Completed | 279 | RCT of infliximab vs. placebo in ankylosing spondylitis on background NSAIDs |
-| [NCT00367237](https://clinicaltrials.gov/study/NCT00367237) | Phase 3 | Completed | 115 | Infliximab + MTX vs. MTX alone in MTX-naïve active psoriatic arthritis |
-| [NCT00591201](https://clinicaltrials.gov/study/NCT00591201) | Phase 2/3 | Completed | 26 | RCT + 52-week open extension of infliximab in juvenile spondyloarthropathies |
+| [NCT00036374](https://clinicaltrials.gov/study/NCT00036374) | Phase 3 | Completed | 123 | Double-blind trial of infliximab plus methotrexate in polyarticular juvenile rheumatoid arthritis |
+| [NCT02762812](https://clinicaltrials.gov/study/NCT02762812) | Phase 3 | Completed | 199 | Double-blind comparison of an infliximab biosimilar (BCD-055) with Remicade in ankylosing spondylitis |
+| [NCT00844805](https://clinicaltrials.gov/study/NCT00844805) | Phase 3 | Completed | 158 | Infliximab plus naproxen vs placebo plus naproxen in early axial spondyloarthritis |
+| [NCT00439283](https://clinicaltrials.gov/study/NCT00439283) | Phase 3 | Completed | 240 | Infliximab every 6 weeks vs on-demand infusion in ankylosing spondylitis |
+| [NCT00202865](https://clinicaltrials.gov/study/NCT00202865) | Phase 3 | Completed | 76 | Low-dose infliximab (3 mg/kg) vs placebo in ankylosing spondylitis |
+| [NCT00051623](https://clinicaltrials.gov/study/NCT00051623) | Phase 3 | Completed | 70 | Infliximab vs placebo in psoriatic arthritis |
+| [NCT01015547](https://clinicaltrials.gov/study/NCT01015547) | Phase 3 | Completed | 60 | Anti-TNF plus methotrexate vs DMARD combination vs methotrexate alone in very early polyarticular JIA |
+| [NCT00591201](https://clinicaltrials.gov/study/NCT00591201) | Phase 2/3 | Completed | 26 | Placebo-controlled trial of infliximab in juvenile spondyloarthropathy |
+| [NCT02148640](https://clinicaltrials.gov/study/NCT02148640) | Phase 4 | Completed | 482 | NOR-SWITCH: switching from Remicade to biosimilar Remsima across several inflammatory diseases |
+| [NCT00936143](https://clinicaltrials.gov/study/NCT00936143) | Phase 4 | Completed | 70 | Open-label infliximab in early ankylosing spondylitis |
 
-**Literature**
+## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27650650](https://pubmed.ncbi.nlm.nih.gov/27650650/) | 2016 | Review | BioDrugs | Infliximab biosimilar CT-P13 review; PLANETAS pivotal trial data in AS |
-| [24832835](https://pubmed.ncbi.nlm.nih.gov/24832835/) | 2014 | Meta-analysis | Eur J Health Econ | Systematic review/meta-analysis of infliximab-biosimilar efficacy/safety in AS |
-| [17651658](https://pubmed.ncbi.nlm.nih.gov/17651658/) | 2007 | Systematic Review | Health Technol Assess | Comparative effectiveness/cost-effectiveness of anti-TNFs in AS |
-| [17644552](https://pubmed.ncbi.nlm.nih.gov/17644552/) | 2008 | Cohort | Ann Rheum Dis | Inflammatory biomarkers correlate with infliximab response and MRI spinal inflammation in AS |
-| [12379627](https://pubmed.ncbi.nlm.nih.gov/12379627/) | 2002 | Review | Ann Rheum Dis | Infliximab clinical/radiological efficacy in rheumatic disease |
-
-### 8. Polyarticular Juvenile Rheumatoid Arthritis (L1, Proceed with Guardrails)
-
-**Clinical Trials**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00036374](https://clinicaltrials.gov/study/NCT00036374) | Phase 3 | Completed | 123 | Randomized double-blind trial of infliximab + MTX in polyarticular JRA |
-| [NCT01015547](https://clinicaltrials.gov/study/NCT01015547) | Phase 3 | Completed | 60 | Anti-TNF+MTX vs. combination DMARDs vs. MTX alone in very early polyarticular JIA |
-
-**Literature**
+No related literature is available for the top-ranked prediction. The most relevant publications for the other predictions are listed below.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17763439](https://pubmed.ncbi.nlm.nih.gov/17763439/) | 2007 | RCT | Arthritis Rheum | Placebo-controlled RCT of infliximab + MTX in polyarticular-course JRA |
-| [20237125](https://pubmed.ncbi.nlm.nih.gov/20237125/) | 2010 | Cohort | Ann Rheum Dis | Long-term open-label extension confirming sustained efficacy/safety |
-| [31612428](https://pubmed.ncbi.nlm.nih.gov/31612428/) | 2020 | Cohort | World J Pediatr | Single-center China study of infliximab outcomes in pJIA |
-| [33626206](https://pubmed.ncbi.nlm.nih.gov/33626206/) | 2021 | Cohort | Clin Pharmacol Ther | Response-exposure similarity between pJIA and adult RA supports extrapolation |
-| [23337074](https://pubmed.ncbi.nlm.nih.gov/23337074/) | 2013 | Systematic Review | Semin Arthritis Rheum | Systematic review of biologic response modifiers in polyarticular JIA |
+| [17763439](https://pubmed.ncbi.nlm.nih.gov/17763439/) | 2007 | RCT | Arthritis Rheum | Placebo-controlled trial of infliximab plus methotrexate in polyarticular-course juvenile rheumatoid arthritis |
+| [20237125](https://pubmed.ncbi.nlm.nih.gov/20237125/) | 2010 | RCT extension | Ann Rheum Dis | Long-term efficacy and safety of infliximab plus methotrexate in polyarticular JRA |
+| [25887212](https://pubmed.ncbi.nlm.nih.gov/25887212/) | 2015 | Systematic review | Cochrane Database Syst Rev | TNF-alpha inhibitors for ankylosing spondylitis |
+| [40621455](https://pubmed.ncbi.nlm.nih.gov/40621455/) | 2025 | Network meta-analysis | Front Immunol | Risk of new-onset and recurrent uveitis with different biologics in ankylosing spondylitis |
+| [33058033](https://pubmed.ncbi.nlm.nih.gov/33058033/) | 2021 | Systematic review | Clin Rheumatol | Biological therapy in rheumatoid vasculitis |
+| [40874971](https://pubmed.ncbi.nlm.nih.gov/40874971/) | 2026 | Multicenter cohort | Am J Gastroenterol | Subcutaneous infliximab in perianal Crohn's disease (BioLap-Rem) |
+| [42488031](https://pubmed.ncbi.nlm.nih.gov/42488031/) | 2026 | Review | Ther Adv Gastroenterol | Subcutaneous infliximab in perianal fistulizing Crohn's disease |
+| [41622053](https://pubmed.ncbi.nlm.nih.gov/41622053/) | 2026 | Retrospective study | Dig Liver Dis | Esophageal, gastric and duodenal Crohn's disease in the biologic era |
+| [11907371](https://pubmed.ncbi.nlm.nih.gov/11907371/) | 2002 | Case report | J Clin Gastroenterol | Infliximab for an esophagobronchial fistula in esophageal Crohn's disease |
+| [15853915](https://pubmed.ncbi.nlm.nih.gov/15853915/) | 2005 | Review | Scand J Immunol | Cutaneous vasculitis associated with both etanercept and infliximab (a safety concern) |
 
-### 5. Anus Disease / Perianal Crohn's (L2, Proceed with Guardrails)
+## EU Market Information
 
-**Clinical Trials**
+All five EU authorizations are cancelled, so there is currently no valid marketing authorization. Dosage form is not available in the compiled data.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02883296](https://clinicaltrials.gov/study/NCT02883296) | N/A | Completed | 15 | Long-term MRI follow-up of anal fistulae in Crohn's on infliximab/adalimumab |
-| [NCT02177071](https://clinicaltrials.gov/study/NCT02177071) | Phase 4 | Completed | 211 | Infliximab maintenance ± antimetabolites to sustain steroid-free remission |
-| [NCT03801928](https://clinicaltrials.gov/study/NCT03801928) | N/A | Completed | 118 | Real-world observational study of Infliximab (Inflectra) in IBD, US/Canada |
-| [NCT02925338](https://clinicaltrials.gov/study/NCT02925338) | N/A | Completed | 1,431 | National real-world registry of Inflectra (infliximab biosimilar) use |
-| [NCT02539368](https://clinicaltrials.gov/study/NCT02539368) | N/A | Completed | 2,565 | Post-marketing cohort of CT-P13 (infliximab) in IBD (CONNECT-IBD) |
-
-**Literature**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [20623697](https://pubmed.ncbi.nlm.nih.gov/20623697/) | 2011 | Cohort | Inflamm Bowel Dis | Combined infliximab + MTX + sphincter-sparing surgery in severe fistulizing anoperineal CD |
-| [12641520](https://pubmed.ncbi.nlm.nih.gov/12641520/) | 2003 | Cohort | Aliment Pharmacol Ther | Mucosal immune regulation and relapse after infliximab in fistulating CD |
-| [29126509](https://pubmed.ncbi.nlm.nih.gov/29126509/) | 2017 | Review | Semin Pediatr Surg | Treatment of perianal Crohn's disease |
-| [17402327](https://pubmed.ncbi.nlm.nih.gov/17402327/) | 2007 | Review | Isr Med Assoc J | Overview of perianal Crohn's disease management |
-| [39882221](https://pubmed.ncbi.nlm.nih.gov/39882221/) | 2025 | Review | J Anus Rectum Colon | Contemporary management of anal fistula with Crohn's disease |
-
-### 3. Rheumatoid Vasculitis (L3, Research Question — mixed signal)
-
-**Clinical Trials**: No trials directly target rheumatoid vasculitis; the 4 identified trials (NCT07138898, NCT05696106, NCT02590562, NCT01579006) are indirect RA/biologic-management studies graded C relevance — **not** included as supporting evidence.
-
-**Literature**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33058033](https://pubmed.ncbi.nlm.nih.gov/33058033/) | 2021 | Systematic Review | Clin Rheumatol | Systematic review of biological drugs (incl. infliximab) in rheumatoid vasculitis treatment |
-| [16078342](https://pubmed.ncbi.nlm.nih.gov/16078342/) | 2005 | Case Report | J Rheumatol | Rheumatoid vasculitis treated successfully with infliximab |
-| [40385904](https://pubmed.ncbi.nlm.nih.gov/40385904/) | 2025 | Case Report | Cureus | **Infliximab-induced** leukocytoclastic vasculitis in an RA patient (paradoxical) |
-| [35650123](https://pubmed.ncbi.nlm.nih.gov/35650123/) | 2023 | Case Report | Intern Med | IgA vasculitis nephritis after 11 years of infliximab in RA |
-| [28123776](https://pubmed.ncbi.nlm.nih.gov/28123776/) | 2017 | Cohort | RMD Open | BSRBR-RA cohort: risk of vasculitis-like events with TNF inhibitors |
-
-⚠️ Evidence is **directionally mixed** — infliximab has case-report support for treating RV but also multiple case reports/cohort data showing it can **induce** vasculitis. This safety signal should be weighted heavily before pursuing this indication.
-
-### 10. Crohn Disease of the Esophagus (L3, Research Question)
-
-**Clinical Trials**: Currently no related clinical trials registered.
-
-**Literature**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [41622053](https://pubmed.ncbi.nlm.nih.gov/41622053/) | 2026 | Cohort | Dig Liver Dis | Nationwide GETECCU cohort of esophageal/gastric/duodenal CD in the biologic era |
-| [16954965](https://pubmed.ncbi.nlm.nih.gov/16954965/) | 2006 | Cohort | J Pediatr Gastroenterol Nutr | Infliximab as first-line therapy in severe pediatric Crohn's disease |
-| [11907371](https://pubmed.ncbi.nlm.nih.gov/11907371/) | 2002 | Case Report | J Clin Gastroenterol | Infliximab treatment of esophagobronchial fistula in esophageal CD |
-| [17298766](https://pubmed.ncbi.nlm.nih.gov/17298766/) | 2007 | Review | Curr Treat Options Gastroenterol | Overview of Crohn's disease of the esophagus |
-| [40386539](https://pubmed.ncbi.nlm.nih.gov/40386539/) | 2025 | Case Report | ACG Case Rep J | Anti-TNF-refractory esophageal CD lesions requiring switch to upadacitinib — signals possible treatment failure in this niche |
-
-### 9. Bronchitis (L4, Hold)
-
-Literature is dominated by case reports of infliximab **causing or coinciding with** bronchial/pulmonary complications (tracheobronchitis, organizing pneumonia, granulomatous bronchiolitis) rather than treating bronchitis itself — the directional evidence does not support pursuing this candidate.
-
-## EU/Taiwan Market Information
-
-No authorization records are present in this dataset (`total_licenses: 0`, `market_status: Not marketed`). This does not reflect infliximab's actual global regulatory status (it is a long-marketed biologic, e.g., Remicade/CT-P13 biosimilars), but rather a data gap in this specific regulatory extract — TFDA label/license retrieval (DG001) is required before any safety or dosing claims can be finalized.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004647 | Zessly | Not specified | Treatment of rheumatoid arthritis, Crohn's disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis. |
+| EMEA/H/C/000240 | Remicade | Not specified | Rheumatoid arthritis Remicade, in combination with methotrexate, is indicated for the reduction of signs and symptoms as well as the... |
+| EMEA/H/C/002778 | Inflectra | Not specified | Rheumatoid arthritis Inflectra, in combination with methotrexate, is indicated for the reduction of signs and symptoms as well as th... |
+| EMEA/H/C/002576 | Remsima | Not specified | Rheumatoid arthritis Remsima, in combination with methotrexate, is indicated for the reduction of signs and symptoms as well as the... |
+| EMEA/H/C/004020 | Flixabi | Not specified | Rheumatoid arthritis Flixabi, in combination with methotrexate, is indicated for the reduction of signs and symptoms as well as the... |
 
 ## Safety Considerations
 
-Formal safety data (key warnings, contraindications, DDI) is entirely absent from this pack (**[Data Gap]**, DG001). Please refer to the SmPC/label for authoritative safety information.
+- **Drug Interactions**: 100 interactions were identified in total. The main ones are:
+  - **Major**: corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone including the ophthalmic form), deferiprone, and the radiopharmaceuticals iobenguane (I-131), ibritumomab tiuxetan and tositumomab (I-131).
+  - **Moderate**: metronidazole, tinidazole, naltrexone, rosuvastatin and simvastatin.
+  - **Minor**: zinc salts (sulfate, acetate, gluconate).
+- **Class-related concerns from the literature**: cutaneous vasculitis as a paradoxical adverse effect, serious infection (including respiratory infections, tuberculosis reactivation and *Pneumocystis* pneumonia), progressive multifocal leukoencephalopathy, and anti-drug antibodies with infusion-related anaphylaxis.
 
-**Literature-derived signal (not formal label data):** Across the rheumatoid vasculitis literature review, infliximab appears repeatedly both as a **treatment for** and a **trigger of** vasculitis (via anti-drug antibodies/immune complexes) and other paradoxical autoimmune events (drug-induced lupus, cutaneous vasculitis). This pattern should be explicitly flagged in any downstream clinical evaluation, particularly for the rheumatoid vasculitis indication.
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for inflammatory spondylopathy, polyarticular JRA, and perianal Crohn's/anus disease) · **Research Question** (rheumatoid vasculitis, esophageal Crohn's) · **Hold** (bronchitis and the 4 mechanistically implausible L5 predictions)
+**Decision: Hold**
 
 **Rationale:**
-- Three candidates (inflammatory spondylopathy, polyarticular JRA, anus disease) are backed by multiple completed Phase 2–4 RCTs and are essentially phenotype extensions of infliximab's already-established anti-TNF mechanism.
-- Rheumatoid vasculitis and esophageal Crohn's have plausible mechanisms but evidence limited to case reports/reviews, and rheumatoid vasculitis carries a documented paradoxical-induction risk.
-- The four L5 predictions (colobomatous microphthalmia-rhizomelic dysplasia, brachydactyly-syndactyly, coccyx hypermobility, Kummell disease) have zero supporting evidence and explicit mechanistic rationale against them — do not advance.
+- The top-ranked prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome, has no mechanistic rationale, no trials and no literature. Its high TxGNN score is not backed by any evidence.
+- Among the lower-ranked predictions, inflammatory spondylopathy and polyarticular juvenile rheumatoid arthritis reach L1 and could proceed with guardrails (TB screening, infection monitoring, demyelination vigilance), but they are largely on-label or close to it. Perianal Crohn's disease (L3) could also proceed with guardrails, limited to Crohn's-related disease.
+- All EU authorizations are cancelled, which further complicates any near-term development.
 
 **To proceed, the following is needed:**
-- TFDA label/SmPC retrieval to resolve DG001 (warnings, contraindications) before any S1+ safety evaluation
-- DrugBank MOA confirmation to resolve DG002
-- Route-compatibility and dosing data (currently "pending" for all candidates)
-- For rheumatoid vasculitis: a dedicated benefit-risk review given the induction-vs-treatment paradox before further scoring
+- Mechanism of action data for infliximab
+- Label warnings and contraindications from the SmPC (not currently available)
+- Clarification of why all EU authorizations are cancelled and whether a valid authorization exists elsewhere
+- A decision to re-rank the candidate list toward the evidence-supported indications (inflammatory spondylopathy, polyarticular juvenile rheumatoid arthritis, perianal Crohn's disease), since the top-ranked indication has no supporting evidence
+- For juvenile arthritis, an off-label use review restricted to refractory cases under pediatric rheumatology supervision
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Zolbetuximab
 parent: AI Predictions (L5)
-nav_order: 660
+nav_order: 685
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,90 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zolbetuximab: From Gastric Cancer to Diabetic Cataract
+# Zolbetuximab: From Gastric/GEJ Adenocarcinoma to Diabetic Cataract
 
 ## One-Sentence Summary
 
-> Zolbetuximab is a monoclonal antibody targeting Claudin 18.2 (CLDN18.2), approved for CLDN18.2-positive/HER2-negative gastric or gastroesophageal junction adenocarcinoma.
-> The TxGNN model's top prediction is **Diabetic Cataract**,
-> but this direction is currently supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic analysis found no biological plausibility for the link.
-
----
+Zolbetuximab (Vyloy) is a monoclonal antibody originally used, together with chemotherapy, as first-line treatment of CLDN18.2-positive, HER2-negative gastric or gastro-oesophageal junction adenocarcinoma.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but there are **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | CLDN18.2-positive/HER2-negative gastric or gastroesophageal junction adenocarcinoma (extracted from the rationale field; not yet confirmed via an official EU label) |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | First-line treatment, with fluoropyrimidine- and platinum-containing chemotherapy, of adult patients with locally advanced unresectable or metastatic HER2-negative, Claudin 18.2-positive gastric or GEJ adenocarcinoma |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.49% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Zolbetuximab is a chimeric IgG1 monoclonal antibody directed against Claudin 18.2 (CLDN18.2), a tight-junction protein that is normally restricted to the gastric mucosal epithelium but becomes surface-exposed upon malignant transformation. Its mechanism of action is antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC), which kill CLDN18.2-expressing tumor cells. On this basis it is used in CLDN18.2-positive, HER2-negative gastric or gastroesophageal junction adenocarcinoma.
+Detailed mechanism of action data is not available in the data compiled for this report. The drug is known to be an antibody against Claudin 18.2 (CLDN18.2), a tight-junction protein expressed in normal gastric mucosa and in gastric/GEJ tumours. Its anticancer effect is understood to rely on killing CLDN18.2-expressing cells through immune-mediated mechanisms (ADCC/CDC).
 
-The predicted new indication, diabetic cataract, is a metabolic/degenerative lens condition with a completely different pathophysiology — driven by the polyol (sorbitol) pathway, osmotic imbalance, oxidative stress, and lens protein aggregation. Lens epithelial cells are not a known site of CLDN18.2 expression, and none of the established cataract mechanisms intersect with antibody-mediated ADCC/CDC tumor cell killing.
-
-The Evidence Pack's own mechanistic rationale for every one of the top 10 predicted indications (9 of which are cataract subtypes, plus diabetic retinopathy) explicitly states there is **no known biological link** to CLDN18.2 and no supporting preclinical or clinical data. This pattern — a single drug's top predictions clustering almost entirely on cataract subtypes — is more consistent with a knowledge-graph proximity artifact (e.g., shared "diabetes"-adjacent graph neighbors) than with a genuine pharmacological signal, and should be treated as such until independent evidence emerges.
-
----
+**No credible mechanistic link was identified** between this target and diabetic cataract. Diabetic cataract develops through the polyol pathway, oxidative stress and protein glycation in the lens, and CLDN18.2 has no established role in lens biology. The high score (0.985) is a knowledge-graph prediction only, likely reflecting graph-level similarity among cataract subtypes. Nine of the top ten predictions are cataract subtypes (immature, mature, cortical, senile, tetanic and others), which supports this interpretation. The tenth is diabetic retinopathy, which also has no documented link to CLDN18.2.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-Zolbetuximab is currently not marketed in the EU (0 marketing authorizations on record in this Evidence Pack), so no EU product/indication table can be generated.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005868 | Vyloy | Not specified | Vyloy, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first line treatment of adult patients with locally... |
 
----
+The only authorization on record is listed as cancelled.
 
-## Cytotoxicity (Antineoplastic Drugs Only)
-
-*Zolbetuximab's original indication (gastric/gastroesophageal junction adenocarcinoma) is an oncology indication, so this section is included.*
+## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy — anti-CLDN18.2 monoclonal antibody, ADCC/CDC-mediated tumor cell killing (not a conventional cytotoxic chemotherapeutic) |
-| Myelosuppression Risk | Not established in this Evidence Pack — please refer to the SmPC warnings and precautions |
-| Emetogenicity Classification | Not established in this Evidence Pack — please refer to the SmPC warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy (monoclonal antibody against CLDN18.2 with immune-effector cytotoxic activity) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Nausea and vomiting are known gastrointestinal toxicities, attributed to CLDN18.2 expression in normal gastric mucosa; formal classification: please refer to the SmPC |
 | Monitoring Items | Please refer to the SmPC warnings and precautions |
-| Handling Protection | Standard biologic/monoclonal antibody infusion handling; specific cytotoxic-drug handling requirements not confirmed — please refer to the SmPC |
-
----
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The only interaction record is a pharmacological target relationship (zolbetuximab binding to its target, claudin 18). It is not a drug-drug interaction.
+- **Known toxicity concern**: Systemic use of an antibody with cytotoxic effector function raises safety concerns outside oncology, mainly gastrointestinal toxicity such as nausea and vomiting.
 
----
+For warnings and contraindications, please refer to the SmPC for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- All 10 predicted indications are Evidence Level L5 (AI prediction only — 0 clinical trials, 0 publications), and the mechanistic rationale for the top candidate (diabetic cataract) explicitly indicates no biological plausibility. A blocking data gap on TFDA/SmPC warnings and contraindications also prevents this candidate from entering the S1 safety pre-assessment stage.
+The prediction rests only on a knowledge-graph score. There are no trials or publications, no plausible mechanistic link between CLDN18.2 and lens opacification, and a cytotoxic-effector antibody carries a poor benefit-risk balance for a non-malignant eye condition. The EU authorization is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC label data (warnings, contraindications) — currently blocking (DG001)
-- Confirmed mechanism of action (MOA) data via DrugBank API — currently missing (DG002)
-- Independent preclinical or mechanistic evidence linking CLDN18.2 biology to lens/cataract pathology, given the current rationale finds none
-- A model-level review of why 9 of the top 10 predictions cluster on cataract subtypes, to rule out a knowledge-graph artifact before pursuing any of these candidates further
+- Biological evidence that CLDN18.2 is expressed or functionally relevant in the lens (otherwise the prediction should be deprioritized)
+- Preclinical studies in a diabetic cataract model
+- Complete safety data (warnings and contraindications) from the SmPC
+- Mechanism of action data
+- Clarification of the cancelled EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

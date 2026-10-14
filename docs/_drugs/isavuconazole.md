@@ -2,7 +2,7 @@
 layout: default
 title: Isavuconazole
 parent: AI Predictions (L5)
-nav_order: 326
+nav_order: 337
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isavuconazole: From Invasive Fungal Infections to Migraine Disorder
+# Isavuconazole: From Invasive Aspergillosis and Mucormycosis to Migraine Disorder
 
 ## One-Sentence Summary
 
-Isavuconazole is a triazole antifungal agent used to treat invasive aspergillosis and mucormycosis in immunocompromised patients.
-The TxGNN model predicts it may be effective for **migraine disorder**,
-however, there are currently **no clinical trials** and **no relevant publications** supporting this direction — all 10 top predictions remain at evidence level L5 (AI prediction only).
-
----
+Isavuconazole is an azole antifungal originally used to treat invasive aspergillosis and mucormycosis (when amphotericin B is inappropriate).
+The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials and no supporting publications** currently back this prediction.
+The prediction rests on graph-based modelling alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Invasive fungal infections (aspergillosis, mucormycosis) |
-| Predicted New Indication | Migraine Disorder |
+|------|------|
+| Original Indication | Treatment of invasive aspergillosis and mucormycosis in patients for whom amphotericin B is inappropriate (patients from 1 year of age for the infusion; from 6 years of age for the capsules) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 98.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization in the data compiled) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Isavuconazole belongs to the triazole class of antifungals. Triazoles work by inhibiting CYP51 (lanosterol 14α-demethylase), a fungal enzyme essential for ergosterol biosynthesis. Without ergosterol, fungal cell membranes lose structural integrity, leading to cell death. Detailed mechanism of action data from DrugBank was not available in this evidence pack, but the drug's antifungal pharmacology is well-established.
+Detailed mechanism of action data is not available in the data compiled for this report. Isavuconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase), which disrupts fungal cell membrane synthesis. Its efficacy in invasive aspergillosis and mucormycosis is established.
 
-Migraine is a neurovascular disorder driven by trigeminal nerve sensitization and cortical spreading depression, with no known connection to ergosterol pathways or fungal CYP51 biology. The antifungal mechanism of Isavuconazole does not map onto any established migraine pathway. One indirect consideration is that Isavuconazole is a potent inhibitor of human CYP3A4 and CYP2C19, which could alter plasma concentrations of certain co-administered drugs — but this is a drug–drug interaction (DDI) concern, not a therapeutic mechanism relevant to migraine.
+No plausible link to migraine has been identified. Migraine involves CGRP signalling, serotonergic pathways and cortical spreading depression, and none of these is connected to the antifungal mechanism of an azole. The high TxGNN score (0.990) reflects graph proximity only and should not be read as biological support.
 
-The high TxGNN score (98.99%) likely reflects indirect structural associations in the knowledge graph — for example, shared CYP metabolic nodes connecting both antifungals and migraine-related pharmacology — rather than a genuine biological signal. No preclinical or clinical data currently support Isavuconazole as a migraine treatment.
-
----
+The other top predictions (migraine with brainstem aura, migraine susceptibility, pulmonary hypertension, kyphoscoliotic heart disease, rheumatoid arthritis, atrophoderma vermiculata, nephrogenic syndrome of inappropriate antidiuresis, Prinzmetal angina, ulerythema ophryogenesis) are also prediction-only. Several appear to be graph-neighbour effects, and one (migraine susceptibility) is a genetic susceptibility entity rather than a treatable condition.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for migraine disorder.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for migraine disorder.
+For the top-ranked prediction (migraine disorder), currently no related literature available.
 
-> **Note on evidence quality:** A PubMed query for the overlapping indication "migraine with or without aura, susceptibility to" (rank 3) returned 20 publications; however, all articles on review concern epilepsy/migraine shared genetics and neurobiology (e.g., CACNA1A, ATP1A2 channelopathies, neuroinflammation). None address Isavuconazole or any antifungal agent. These results are classified as keyword co-mention false positives and do not constitute drug–disease evidence.
+For reference, the only publication retrieved across the top ten predictions concerns rheumatoid arthritis, rank 6:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37597857](https://pubmed.ncbi.nlm.nih.gov/37597857/) | 2023 | Case report | BMJ Case Reports | Disseminated histoplasmosis in an immunosuppressed patient (methotrexate and infliximab for rheumatoid arthritis) successfully treated with isavuconazole. This is antifungal use; it does not show that isavuconazole treats rheumatoid arthritis. |
 
-## Taiwan Market Information
+## EU Market Information
 
-Isavuconazole is currently **not marketed in Taiwan**. No marketing authorizations are on record with the TFDA.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002734 (cancelled) | Cresemba | Powder for concentrate for solution for infusion; hard capsules | Invasive aspergillosis and mucormycosis in patients for whom amphotericin B is inappropriate... |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-> Taiwan-specific package insert warnings and contraindications (TFDA) were not available in this evidence pack. This is a blocking data gap that must be resolved before any safety assessment can proceed.
-
----
+Two points from the compiled data are worth noting for any repurposing discussion. Azoles inhibit CYP3A4, so drug interactions are possible with co-administered therapies, such as pulmonary arterial hypertension drugs. Isavuconazole also shortens the QT interval, which matters for cardiovascular indications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications are at evidence level L5 with no supporting clinical or mechanistic evidence; the antifungal mechanism of action (CYP51 inhibition / ergosterol disruption) has no known intersection with migraine pathophysiology, and the high prediction scores are likely computational artifacts from CYP metabolic node clustering in the knowledge graph.
+The prediction is supported only by a graph-based score, with no clinical trials, no relevant literature and no plausible mechanistic link to migraine. The sole retrieved publication is an antifungal case report that does not support any new indication.
 
 **To proceed, the following is needed:**
-
-- **MOA data**: Query DrugBank API for full mechanism of action, target binding profile, and known human off-target effects
-- **TFDA package insert**: Download and parse the TFDA SmPC PDF to obtain Taiwan-specific warnings, contraindications, and DDI information (currently a blocking data gap)
-- **Hypothesis re-evaluation**: Determine whether any indirect biological pathway (e.g., CYP3A4-mediated effects on vasoactive mediators, ergosterol-related lipid signaling, or immunomodulation) could plausibly relate to migraine susceptibility — if not, de-prioritize all migraine-related predictions
-- **Broader indication scan**: Isavuconazole's known CYP3A4/2C19 inhibitory profile may be more relevant for repurposing targets that involve those metabolic pathways; a hypothesis-driven search beyond the top 10 TxGNN predictions may be warranted
+- Mechanism of action data (MOA) from DrugBank, and a mechanistic hypothesis connecting isavuconazole to migraine pathophysiology
+- Preclinical or observational evidence of any effect on migraine
+- Warnings and contraindications from the SmPC, so that safety screening can be carried out
+- Clarification of the current EU regulatory status, since the only authorization in the data is recorded as cancelled
+- Assessment of route compatibility and of drug interaction and QT-related risks in a migraine population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

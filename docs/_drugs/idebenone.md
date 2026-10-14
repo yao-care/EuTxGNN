@@ -2,7 +2,7 @@
 layout: default
 title: Idebenone
 parent: AI Predictions (L5)
-nav_order: 298
+nav_order: 309
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idebenone: From Mitochondrial Disorders to Hepatic Porphyria
+# Idebenone: From Leber's Hereditary Optic Neuropathy to Hepatic Porphyria
 
 ## One-Sentence Summary
 
-Idebenone is a coenzyme Q10 (ubiquinone) analog with known clinical use in mitochondrial energy metabolism support (e.g., Friedreich's ataxia, mitochondrial myopathies), though this evidence pack contains no formal record of an approved original indication for the drug. The TxGNN model predicts it may be effective for **hepatic porphyria**, but this is currently a **pure model prediction with zero clinical trials and zero publications** supporting the link.
+Idebenone was originally used to treat visual impairment in Leber's Hereditary Optic Neuropathy (LHON).
+The TxGNN model predicts it may be effective for **hepatic porphyria**,
+but **no clinical trials and no publications** currently support this prediction. It is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not on file in this evidence pack (drug not marketed in the EU; known clinical use in mitochondrial disorders per literature context, not formally documented here) |
+| Original Indication | Treatment of visual impairment in adolescent and adult patients with Leber's Hereditary Optic Neuropathy (LHON) |
 | Predicted New Indication | Hepatic porphyria |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the formal MOA field. Based on the repurposing rationale provided, Idebenone is a coenzyme Q10 (ubiquinone) analog that acts on the mitochondrial electron transport chain and exhibits antioxidant activity. This mechanism underlies its known clinical use in conditions involving mitochondrial energy deficits, such as Friedreich's ataxia and mitochondrial myopathies.
+Currently, detailed mechanism of action data is not available. Based on known information, idebenone is a short-chain benzoquinone analog of coenzyme Q10 with antioxidant and mitochondrial electron-transport activity. Its efficacy in LHON, a mitochondrial optic neuropathy, has led to its authorization for that condition.
 
-No original indication or EU marketing data exists in this evidence pack (0 licenses, market status "not marketed"), so the relationship between any prior approved use and hepatic porphyria cannot be established from regulatory data alone.
+A speculative link to hepatic porphyria is that oxidative stress and mitochondrial dysfunction may contribute to liver injury in porphyria, and an antioxidant might counter this. No supporting data were available for this report, and the relationship between LHON and hepatic porphyria is not established. The high score likely reflects patterns in the model's knowledge graph rather than a demonstrated mechanism.
 
-Mechanistically, hepatic mitochondrial oxidative stress has a theoretical connection to acute porphyria attacks, which is the basis for this TxGNN prediction. However, the evidence pack explicitly flags this as a hypothesis derived from knowledge-graph similarity (score clustering around 0.999 across several unrelated hepatic/portal diseases), rather than an experimentally or clinically supported mechanism — it may reflect a graph-clustering artifact around "liver-related" nodes rather than true pharmacological relevance.
+Other top-ranked predictions are also computational only. They include hepatopulmonary syndrome, primitive portal vein thrombosis, idiopathic copper-associated cirrhosis, hepatoportal sclerosis, early-onset familial noncirrhotic portal hypertension, immune-mediated necrotizing myopathy, osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome, antisynthetase syndrome, and focal myositis. All are classed L5 with a Hold recommendation. Several, especially the portal vein and portal hypertension conditions, have no plausible direct mechanistic link to idebenone.
 
 ## Clinical Trial Evidence
 
@@ -65,26 +67,28 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Idebenone currently holds no EU marketing authorizations on record (0 licenses; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003834 (status: cancelled) | Raxone | Not specified | Treatment of visual impairment in adolescent and adult patients with Leber's Hereditary Optic Neuropathy (LHON). |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
-*Note: A blocking data gap exists — TFDA label warnings/contraindications (DG001) are required before this candidate can proceed to safety screening (S1).*
+Please refer to the SmPC for safety information. No warnings, contraindications, or drug interaction data were available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by TxGNN model similarity scoring (L5) with no corroborating clinical trials or literature across any of the 10 predicted indications, and a blocking data gap exists for basic drug safety labeling. There is currently no evidentiary basis to advance beyond hypothesis generation.
+The prediction rests only on a model score, with no clinical trials, no literature, and no established mechanism. The only EU authorization (Raxone) is cancelled, and safety data could not be retrieved, so the candidate cannot advance to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings, contraindications, and DDI data (resolves blocking gap DG001)
-- Confirmed original indication and mechanism of action from DrugBank or regulatory sources (resolves DG002)
-- Preclinical or mechanistic studies specifically linking Idebenone to hepatic porphyria pathophysiology
-- Ongoing monitoring for any emerging clinical trials or publications on this drug-disease pair
+- Obtain the EMA product information (warnings and contraindications) to complete safety screening
+- Obtain mechanism of action data (e.g., from DrugBank)
+- Run a systematic literature and trial search on idebenone in porphyria and other liver diseases
+- Establish preclinical evidence of a mechanistic link to hepatic porphyria
+- Clarify the reason for withdrawal of the Raxone authorization and its implications for availability
+- Assess route and formulation compatibility for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

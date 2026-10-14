@@ -2,7 +2,7 @@
 layout: default
 title: Fostamatinib
 parent: AI Predictions (L5)
-nav_order: 265
+nav_order: 273
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,73 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fostamatinib: From Immune Thrombocytopenia to Autosomal Thrombocytopenia with Normal Platelets
+# Fostamatinib: From Chronic Immune Thrombocytopenia to Autosomal Thrombocytopenia with Normal Platelets
 
 ## One-Sentence Summary
 
-Fostamatinib is a SYK (spleen tyrosine kinase) inhibitor whose known clinical use is in immune-mediated platelet destruction (its formal original indication is not recorded in this evidence pack — see data gaps below). TxGNN's top-ranked prediction is **Autosomal Thrombocytopenia with Normal Platelets**, but this candidate has **no clinical trials, no literature, and no proposed mechanism the evidence pack itself endorses** — the rationale text explicitly states the pharmacological logic does not hold. This is a **Hold**, not a candidate ready for advancement.
-
----
+Fostamatinib is a SYK (spleen tyrosine kinase) inhibitor originally used to treat chronic immune thrombocytopenia (ITP) in adults who are refractory to other treatments.
+The TxGNN model predicts it may be effective for **autosomal thrombocytopenia with normal platelets**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in evidence pack (structured `original_indications` is empty; `original_moa` is a data gap). Rationale text elsewhere in the pack references known SYK-mediated immune thrombocytopenia (ITP) activity. |
-| Predicted New Indication | Autosomal Thrombocytopenia with Normal Platelets |
-| TxGNN Prediction Score | 99.45% (rank 5888 among all candidates) |
-| Evidence Level | L5 (model prediction only, no clinical or literature support) |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| Original Indication | Chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments |
+| Predicted New Indication | Autosomal thrombocytopenia with normal platelets |
+| TxGNN Prediction Score | 99.45% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for Fostamatinib in this evidence pack (`original_moa` = data gap, severity High). Based on the rationale text attached to the predictions themselves, Fostamatinib's known clinical activity works through SYK inhibition, which reduces Fc-receptor-mediated antibody-dependent platelet destruction — an immune-mediated mechanism relevant to conditions like immune thrombocytopenia (ITP).
+Fostamatinib is a SYK inhibitor; its active metabolite is R406. In chronic ITP, it reduces antibody-mediated destruction of platelets by macrophages. Detailed mechanism-of-action data was not available in the data compiled for this report, so this description relies on the known pharmacology of the drug.
 
-The top-ranked candidate, **Autosomal Thrombocytopenia with Normal Platelets**, is a different disease category: it is a congenital/hereditary thrombocytopenia driven by defects in megakaryocyte development or platelet structural genes, not by immune-mediated platelet destruction. The evidence pack's own mechanistic assessment states directly that "the pharmacological logic does not hold" for this pairing, and no clinical trial, ICTRP record, or PubMed literature supports it (0 results across all three sources per the query log).
+The new indication is a thrombocytopenia, so the model's high score probably reflects how close the disease sits to ITP in the knowledge graph. However, inherited thrombocytopenias are caused by genetic defects in platelet production, not by immune-mediated platelet destruction. SYK inhibition therefore has no clear mechanistic rationale here, and the prediction should be treated as a hypothesis only.
 
-In short: this is a case where the TxGNN embedding-space score is high, but the domain rationale attached to the same record contradicts it. The prediction should be treated as noise rather than a genuine repurposing hypothesis unless independent mechanistic or clinical signal emerges.
-
----
+Other top-ranked predictions show the same pattern. Syndromic constitutional thrombocytopenia (score 98.97%) is linked only through the shared low-platelet phenotype. Several others have no plausible mechanistic link and look like knowledge-graph artifacts: non-syndromic esophageal malformation, biotin metabolic disease, vitamin deficiency disorder, filariasis, and primary hereditary glaucoma. Glaucoma, open-angle glaucoma, and esophageal disease have only speculative or indirect links. None of these has trials, and the few publications retrieved are general kinase-inhibitor reviews or preclinical esophageal cancer studies, not studies of fostamatinib.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (autosomal thrombocytopenia with normal platelets), currently no related literature is available.
 
----
+Publications retrieved for lower-ranked predictions are only indirectly relevant:
 
-## Taiwan Market Information
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30877063](https://pubmed.ncbi.nlm.nih.gov/30877063/) | 2019 | Review | Pharmacological Research | Properties of FDA-approved small-molecule protein kinase inhibitors (glaucoma prediction); does not study fostamatinib in glaucoma |
+| [31862477](https://pubmed.ncbi.nlm.nih.gov/31862477/) | 2020 | Review | Pharmacological Research | 2020 update on FDA-approved kinase inhibitors (glaucoma prediction); no fostamatinib-specific glaucoma data |
+| [38096958](https://pubmed.ncbi.nlm.nih.gov/38096958/) | 2024 | Review | Pharmacological Research | US cost of FDA-approved kinase inhibitors (glaucoma prediction); no clinical evidence for this indication |
+| [37734435](https://pubmed.ncbi.nlm.nih.gov/37734435/) | 2023 | Preclinical proteomics study | Life Sciences | Proteomics and phosphoproteomics of esophageal cancer cells with different invasive abilities (esophageal disease prediction) |
+| [29930979](https://pubmed.ncbi.nlm.nih.gov/29930979/) | 2018 | Preclinical siRNA screen | Cellular and Molecular Gastroenterology and Hepatology | siRNA screen identifying a druggable immune signature driving esophageal adenocarcinoma cell growth (esophageal disease prediction) |
 
-Fostamatinib is currently **not marketed** in Taiwan (0 authorizations on record), so no product/authorization table is available.
+## EU Market Information
 
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005012 (cancelled) | Tavlesse | Not specified | Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all marked as data gaps in this evidence pack — DG001, severity Blocking, is required before any S1 safety screening can proceed.)
+- **Drug Interactions**: The interaction screening completed and returned 100 interacting drugs; the 20 listed in the compiled data are mostly Moderate severity.
+  - **Major**: Clarithromycin.
+  - **Moderate (examples)**: proton pump inhibitors and acid reducers (rabeprazole, omeprazole, dexlansoprazole, cimetidine); corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone); antiemetics (aprepitant, dolasetron); antidiabetic drugs (empagliflozin, pioglitazone); and others (alosetron, alvimopan, dronabinol, eliglustat, loperamide, morphine).
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Autosomal Thrombocytopenia with Normal Platelets) has zero clinical trial or literature support and is explicitly flagged in the evidence pack's own mechanistic assessment as pharmacologically implausible. There is no basis to advance this specific candidate.
+The prediction has a high model score but no clinical trials or relevant literature (Evidence Level L5). Inherited thrombocytopenia is not driven by the immune-mediated platelet destruction that SYK inhibition addresses, so there is no clear mechanistic support. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any safety screening
-- Confirmed mechanism of action (DG002, High) via DrugBank API query
-- If repurposing work continues for Fostamatinib, consider redirecting to better-supported candidates from the same evidence pack: **glaucoma** (rank 4, L4, 3 PubMed reviews) and **esophageal disease** (rank 10, L4, 2 PubMed papers on SYK-adjacent signaling) — both still weak (indirect, non-drug-specific literature) but stronger than the top-ranked candidate
+- Detailed mechanism-of-action data and a plausible biological rationale linking SYK inhibition to the genetic defects in platelet production
+- Preclinical or clinical evidence in this indication
+- Warnings and contraindications from the EU product information, which are required before any safety screening
+- Clarification of why the EU authorization was cancelled and what that means for availability
+- A review of the interaction profile, especially the Major interaction with clarithromycin, for the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

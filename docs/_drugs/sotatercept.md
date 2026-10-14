@@ -2,7 +2,7 @@
 layout: default
 title: Sotatercept
 parent: AI Predictions (L5)
-nav_order: 552
+nav_order: 573
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,60 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sotatercept: From Unestablished Indication (Not Yet Marketed) to Acute Lymphoblastic Leukemia
+# Sotatercept: From Pulmonary Arterial Hypertension to Acute Lymphoblastic Leukemia
 
 ## One-Sentence Summary
 
-Sotatercept has no approved indication on file in the current evidence pack — it is not yet marketed in the EU, and its original mechanism of action is not documented in this dataset. The TxGNN model predicts it may be relevant to **Acute Lymphoblastic Leukemia**, but this prediction is currently unsupported by any clinical trials or published literature, and the model's own rationale describes the mechanistic link as unclear.
+Sotatercept is an activin signaling inhibitor originally approved for pulmonary arterial hypertension (PAH) in adults.
+The TxGNN model predicts it may be effective for **acute lymphoblastic leukemia**, but **no clinical trials and no publications** currently support this direction. It is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no EU marketing authorization or documented indication in this dataset |
-| Predicted New Indication | Acute Lymphoblastic Leukemia (disease) |
+| Original Indication | PAH in adult patients with WHO Functional Class II to III, in combination with other PAH therapies, to improve exercise capacity |
+| Predicted New Indication | Acute lymphoblastic leukemia |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization in the data compiled for this report) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the structured `original_moa` field. However, the model's own rationale notes suggest Sotatercept acts on Activin/GDF ligands and ActRIIA receptor signalling, primarily affecting bone metabolism, erythropoiesis, and vascular remodeling — a profile consistent with the ActRIIA-Fc fusion protein class, but this is not formally confirmed within the evidence pack.
+Sotatercept is an activin receptor type IIA-Fc fusion protein. It acts as a ligand trap for activin and related TGF-beta superfamily members. Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general knowledge of the drug class.
 
-For the top-ranked prediction (Acute Lymphoblastic Leukemia), the model's own assessment explicitly states there is **no clear mechanistic link**: ALL pathogenesis centers on malignant transformation of lymphoid progenitor cells, which has no known intersection with Activin/ActRIIA signalling. The evidence pack suggests this association likely arises from indirect nodes in the knowledge graph (e.g., shared downstream signalling pathways) rather than direct biological evidence.
+Activin signaling has been implicated in the regulation of blood cell formation, so a biological connection to a leukemia is conceivable. However, no data link activin trapping to leukemic cell survival in acute lymphoblastic leukemia. The relationship between PAH, a vascular disease, and a blood cancer is weak. The high TxGNN score (0.998) is a computational output and cannot be verified from the supplied data.
 
-Notably, a lower-ranked candidate in this dataset — **drug-induced osteoporosis** (rank 4) — carries a substantially stronger mechanistic rationale: Activin A is a known osteoclast-activating factor, and ActRIIA-Fc class molecules (e.g., the related compound ACE-011) have documented effects promoting osteoblast activity while suppressing osteoclast function. This is flagged in the source data as a "Research Question" (decision stage S1) rather than "Hold," and may warrant a separate, dedicated literature review outside the scope of this report's top-ranked candidate.
+**Other predicted indications (all L5, all Hold):** The model also ranked the following diseases highly, and none has trials or literature in the data compiled:
+- Severe nonproliferative diabetic retinopathy and diabetic retinopathy (TGF-beta/activin involvement in retinal vessel remodeling is plausible but unsupported; sotatercept may increase telangiectasia and bleeding risk, a potential concern for fragile retinal vessels)
+- Drug-induced osteoporosis (activin A suppresses osteoblast activity, and related ActRIIA-Fc molecules have shown bone-building signals in early research, so this is comparatively more plausible, but still unverified here)
+- Diabetic cataract
+- HER2-positive breast carcinoma
+- Urothelial carcinoma variants (transitional cell carcinoma, prostatic urethra urothelial carcinoma, kidney pelvis sarcomatoid transitional cell carcinoma, infiltrating bladder urothelial carcinoma sarcomatoid variant). These scores likely reflect disease-ontology clustering rather than specific biology.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-Sotatercept currently has no EU marketing authorization on record (0 licenses, market status: Not marketed). No product, dosage form, or approved indication data is available for this drug in the evidence pack.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005647 | Winrevair | Not specified | PAH in adult patients with WHO FC II to III, in combination with other PAH therapies, to improve exercise capacity (see section 5.1). |
+
+The only authorization is recorded with a status of cancelled.
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
+
+The one drug-specific concern noted in the rationale for the retinopathy predictions is a possible increase in telangiectasia and bleeding risk. No drug-interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Acute Lymphoblastic Leukemia) is supported only by a TxGNN model score with zero corroborating clinical trials or literature (Evidence Level L5), and the model's own mechanistic rationale explicitly characterizes the biological link as indirect and unsupported. Combined with the fact that Sotatercept is not marketed in the EU and lacks documented original indication or MOA data, there is insufficient basis to advance this candidate.
+The prediction for acute lymphoblastic leukemia rests solely on a model score. There are no trials, no literature, and no verified mechanism. The EU authorization is recorded as cancelled, which also needs clarification. Safety data for the label are missing.
 
 **To proceed, the following is needed:**
-- Drug label warnings and contraindications (currently blocking — flagged as a critical data gap; source: regulatory label/SmPC)
-- Confirmed mechanism of action data (currently a high-severity gap; source: DrugBank or equivalent regulatory documentation)
-- Original approved indication(s) and EU marketing authorization status, to establish a proper repurposing baseline
-- If pursuing further investigation, prioritize a targeted literature review of the drug-induced osteoporosis signal (rank 4), which carries a more biologically plausible mechanistic rationale than the top-ranked ALL prediction
+- Safety data (warnings and contraindications) from the EMA product information, which is currently blocking safety screening
+- Confirmation of the current EU authorization status of Winrevair
+- Detailed mechanism of action data (for example from DrugBank)
+- Preclinical or mechanistic studies linking activin/ActRIIA trapping to leukemic cell biology
+- A literature and trial search for the predicted indications, with the bone-related prediction (drug-induced osteoporosis) as the most plausible one to review first
+- Route-of-administration and dosage-form compatibility assessment for any new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

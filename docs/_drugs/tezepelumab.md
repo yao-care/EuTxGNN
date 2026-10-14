@@ -2,7 +2,7 @@
 layout: default
 title: Tezepelumab
 parent: AI Predictions (L5)
-nav_order: 586
+nav_order: 607
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,61 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tezepelumab: From Asthma to Diabetic Cataract
+# Tezepelumab: From Severe Asthma to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Tezepelumab is a monoclonal antibody that inhibits TSLP, and based on the mechanistic evidence available in this pack it is used for asthma and other respiratory allergic inflammatory diseases. The TxGNN model predicts it may be effective for **Diabetic Cataract**, but this direction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model prediction that the evidence pack's own mechanistic review flags as biologically implausible.
+Tezepelumab (brand name Tezspire) is an anti-TSLP monoclonal antibody, originally used as add-on maintenance treatment for severe asthma and severe chronic rhinosinusitis with nasal polyps.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma / respiratory allergic inflammatory disease (inferred from mechanistic rationale; no formal labeling data on file) |
-| Predicted New Indication | Diabetic Cataract |
+| Original Indication | Severe asthma (add-on maintenance treatment in adults and adolescents 12 years and older); severe chronic rhinosinusitis with nasal polyps (CRSwNP) |
+| Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.40% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed MOA data for Tezepelumab is not on file in this evidence pack (flagged as a High-severity data gap). However, the repurposing rationale attached to each predicted indication consistently describes Tezepelumab as an inhibitor of thymic stromal lymphopoietin (TSLP), an epithelium-derived cytokine that triggers the Th2/inflammatory cascade, and states that the drug is mainly used for asthma and other respiratory allergic inflammatory diseases.
+Tezepelumab blocks thymic stromal lymphopoietin (TSLP), an epithelial alarmin that drives type 2 and other airway inflammation. Detailed mechanism of action data is not available in the data compiled for this report, so this description is based on the drug's known drug class.
 
-Diabetic cataract, by contrast, is driven by lens protein glycation, oxidative stress, and polyol-pathway dysregulation in the setting of chronic hyperglycemia — none of which have an established connection to the TSLP–Th2 axis. The evidence pack's own analysis attributes this prediction to an indirect knowledge-graph link through the shared "diabetes" node rather than to any genuine shared pathophysiology, and the same caveat applies to the other nine of the top ten predicted indications (mostly cataract subtypes of varying etiology: senile, cortical, nuclear, metabolic, and syndromic).
+No direct link between TSLP blockade and lens opacification in diabetes has been established. Any connection would be speculative, for example a contribution of chronic low-grade inflammation to oxidative or polyol-pathway damage in the lens. The other cataract types in the prediction list (mature, immature, senile, nuclear, cortical, tetanic and craniostenosis cataract) show similarly high scores, which suggests the predictions may reflect similarity among cataract terms in the knowledge graph rather than biology.
 
-One partial exception is rank 10, diabetic retinopathy, where the rationale notes emerging (but still preliminary) evidence that TSLP/Th2-related inflammatory mediators may participate in retinal vascular inflammation and neovascularization — a marginally stronger, though still unproven, mechanistic hypothesis. Overall, mechanistic plausibility for this candidate set is low, and the prediction should be treated as hypothesis-generating rather than actionable.
+Among the ten predicted indications, diabetic retinopathy (score 98.12%) is the most biologically plausible, through its inflammatory component. It is still hypothetical, and established treatments (anti-VEGF, laser, corticosteroids) already exist.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-Tezepelumab currently has **0 marketing authorizations** on record in this evidence pack, with market status listed as **Not marketed**. No license-level details (authorization number, product name, dosage form, or approved indication text) are available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005588 | Tezspire | Not specified | Add-on maintenance treatment of severe asthma in adults and adolescents 12 years and older inadequately controlled despite high-dose inhaled corticosteroids plus another maintenance medicine; add-on therapy with intranasal corticosteroids... |
+
+The only authorization on record has a cancelled status.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+No warnings, contraindications or drug interaction data were available in the data compiled for this report. Please refer to the SmPC for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All top-ranked predicted indications, including the leading candidate diabetic cataract, are supported only by TxGNN embedding similarity (L5) with zero clinical trials or literature evidence. The evidence pack's own mechanistic review identifies the shared "diabetes" node as a likely spurious knowledge-graph artifact rather than a genuine TSLP-mediated pathway, so this candidate does not meet the bar to advance past S0.
+The prediction rests on a model score alone, with no clinical trials, literature or plausible mechanistic link to diabetic cataract. The recorded EU authorization is cancelled, and safety information is missing.
 
 **To proceed, the following is needed:**
-- Authoritative confirmation of the original approved indication and label text (asthma) from EMA/DrugBank
-- Formal MOA documentation to replace the current data gap (DG002)
-- TFDA/EMA warnings, contraindications, and DDI data — this is currently a Blocking gap (DG001) that prevents any S1 safety assessment
-- Preclinical or clinical evidence directly linking TSLP inhibition to lens pathology before this candidate can move beyond hypothesis stage
-- If pursued further, prioritize diabetic retinopathy (rank 10) over the cataract cluster, given its comparatively stronger — though still preliminary — inflammatory mechanism rationale, and commission a targeted literature review on TSLP/Th2 involvement in retinal vascular disease
+- Safety information (warnings and contraindications) from the SmPC, which is a blocking gap for safety screening
+- Confirmation of the current EU authorization status, given that the record shows "Cancelled only"
+- Detailed mechanism of action data (MOA)
+- Preclinical or mechanistic studies of TSLP involvement in lens pathology
+- Consideration of diabetic retinopathy as a more plausible candidate, with a literature search and trial registry review
+- An assessment of whether a systemic biologic is a suitable route for an eye disease that is effectively treated by surgery
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

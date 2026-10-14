@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dopamine
-parent: AI Predictions (L5)
-nav_order: 189
-evidence_level: L5
+parent: Medium Evidence (L3-L4)
+nav_order: 196
+evidence_level: L4
 indication_count: 10
 ---
 
 # Dopamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dopamine: From Vasopressor Use in Shock to Postural Orthostatic Tachycardia Syndrome (POTS)
+# Dopamine: From Neonatal and Paediatric Hypotension to Postural Orthostatic Tachycardia Syndrome
 
 ## One-Sentence Summary
 
-Dopamine (DrugBank DB00988) is an endogenous catecholamine classically used clinically as a vasopressor/inotropic agent in shock and severe hypotension — no formal EU-approved indication text is available in this evidence pack. The TxGNN model predicts a possible new role in **Postural Orthostatic Tachycardia Syndrome (POTS)**, currently supported by **6 clinical trials** and **7 publications**, though the trials found are largely mechanistic/physiological studies of endogenous renal dopamine rather than interventional trials testing dopamine as a POTS treatment.
-
----
+Dopamine is an intravenous catecholamine, authorised in the EU for treating hypotension in haemodynamically unstable neonates, infants and children under 18 years.
+The TxGNN model predicts it may be effective for **postural orthostatic tachycardia syndrome (POTS)**. However, there are **no registered clinical trials** and only **5 indirect publications**, none of which tests dopamine itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (`original_indications` is empty). Based on general pharmacological knowledge, dopamine hydrochloride is used as a vasopressor/inotropic agent in shock and hypotension — TFDA/EMA-specific indication wording is a documented data gap (DG001) |
-| Predicted New Indication | Postural Orthostatic Tachycardia Syndrome (POTS) |
-| TxGNN Prediction Score | 88.00% (raw score 0.8800; model rank 82,652) |
-| Evidence Level | L4 (mechanistic/observational human studies; no direct interventional evidence of dopamine treating POTS) |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Treatment of hypotension in haemodynamically unstable neonates, infants and children < 18 years |
+| Predicted New Indication | Postural orthostatic tachycardia syndrome |
+| TxGNN Prediction Score | 88.00% |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate (`original_moa: [Data Gap]`). Based on general pharmacological knowledge, dopamine is an endogenous catecholamine and biosynthetic precursor of norepinephrine; as dopamine hydrochloride injection, it is used for its vasopressor and positive inotropic effects via dopaminergic (D1/D2) and adrenergic (α/β) receptor activity, supporting blood pressure and cardiac output in shock states. This receptor pharmacology also plays a physiological role in autonomic regulation of heart rate, vascular tone, and renal sodium handling.
+Currently, detailed mechanism of action data is not available. Based on known information, dopamine is an endogenous catecholamine and the precursor of norepinephrine. It is used intravenously as a vasopressor and inotrope to support blood pressure, and its efficacy in paediatric hypotension is the basis of its authorisation.
 
-POTS is a disorder of autonomic/sympathetic dysregulation, frequently accompanied by impaired plasma volume expansion and abnormal renal sodium handling — processes in which the renal dopaminergic system is known to participate. This provides a plausible biological rationale for TxGNN's association between dopamine and POTS: both the original (presumed) use and the predicted indication converge on sympathetic nervous system and vascular/volume regulation.
-
-However, it is important to note that the clinical trial evidence retrieved for this candidate largely investigates the *endogenous* renal dopaminergic system in POTS patients (e.g., using carbidopa to suppress dopamine synthesis, measuring urinary dopamine excretion, or studying dietary dopamine precursors) rather than administering dopamine itself as a therapeutic intervention for POTS. This is a meaningful distinction: the evidence supports a mechanistic link between the dopaminergic pathway and POTS pathophysiology, but does not directly demonstrate therapeutic benefit of dopamine administration in POTS patients.
-
----
+The link to POTS is indirect. Catecholamine abnormalities, including dysregulation of dopamine and norepinephrine, are described in POTS. Drugs acting on dopaminergic and noradrenergic pathways, such as bupropion, have been explored. However, POTS is characterised by an excessive heart-rate rise on standing. Dopamine has chronotropic effects and could worsen tachycardia, so the mechanistic fit is uncertain and possibly unfavourable.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00685919](https://clinicaltrials.gov/study/NCT00685919) | Phase 2/3 | Completed | 32 | Investigated how suppressing renal dopamine synthesis (via carbidopa) affects urinary sodium excretion in POTS patients vs. healthy volunteers — a mechanistic study, not a dopamine treatment trial |
-| [NCT01563107](https://clinicaltrials.gov/study/NCT01563107) | N/A | Completed | 38 | Examined how dietary sodium intake affects urinary sodium and dopamine excretion in POTS patients, exploring renal dopaminergic involvement in plasma volume regulation |
-| [NCT01547117](https://clinicaltrials.gov/study/NCT01547117) | N/A | Completed | 38 | Studied whether high-sodium diet appropriately expands plasma volume in POTS and how renin-angiotensin-aldosterone and renal dopamine respond |
-| [NCT01064739](https://clinicaltrials.gov/study/NCT01064739) | Early Phase 1 | Completed | 14 | Characterized diuretic effects of dietary catecholamine sources (e.g., fava beans, which raise endogenous dopamine) on renal sodium handling |
-| [NCT00001418](https://clinicaltrials.gov/study/NCT00001418) | N/A | Completed | 335 | Used PET imaging (fluorodopamine) to measure sympathetic nervous system activity in patients with neurocardiologic/autonomic disorders |
-| [NCT00748228](https://clinicaltrials.gov/study/NCT00748228) | N/A | Terminated | 22 | Studied dopamine-beta-hydroxylase (DBH) genetic variation and its relationship to blood pressure/heart rate response and dietary sodium in orthostatic intolerance |
-
-**Note:** None of the above trials test exogenous dopamine administration as a treatment for POTS; all are mechanistic/physiological studies of the endogenous dopaminergic system in POTS or related autonomic disorders.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29937049](https://pubmed.ncbi.nlm.nih.gov/29937049/) | 2018 | Systematic Review & Meta-analysis | Mayo Clinic Proceedings | Evaluates efficacy of existing POTS treatments overall; provides context for the current lack of clearly beneficial therapies but does not specifically evaluate dopamine |
-| [12403667](https://pubmed.ncbi.nlm.nih.gov/12403667/) | 2002 | Observational (clinical) study | Circulation | Found orthostatic intolerance in POTS/NCS occurs without persistent sympathetic neurocirculatory failure, informing cardiac sympathetic dysautonomia mechanisms relevant to dopaminergic signaling |
-| [28522107](https://pubmed.ncbi.nlm.nih.gov/28522107/) | 2017 | Observational study | Autonomic Neuroscience: Basic & Clinical | Compared neurohumoral/hemodynamic responses to head-up tilt between high- and normal-norepinephrine POTS subtypes |
-| [26608337](https://pubmed.ncbi.nlm.nih.gov/26608337/) | 2016 | Observational study | American Journal of Physiology (Heart & Circ.) | Characterized neurohumoral biomarker profiles in children with orthostatic intolerance to help predict treatment options |
-| [32606041](https://pubmed.ncbi.nlm.nih.gov/32606041/) | 2020 | Retrospective case series | Journal of Investigative Medicine | Retrospective review of bupropion (a dopamine/norepinephrine reuptake inhibitor, not dopamine itself) in 47 POTS patients showing symptom improvement |
-| [16601453](https://pubmed.ncbi.nlm.nih.gov/16601453/) | 2006 | Review | Current Opinion in Cardiology | Reviews familial/genetic factors in orthostatic tachycardia, including a norepinephrine transporter mutation |
-| [12102462](https://pubmed.ncbi.nlm.nih.gov/12102462/) | 2002 | Review | Clinical Autonomic Research | Reviews catecholamine abnormalities including DBH deficiency, which causes elevated dopamine and orthostatic hypotension |
-
----
+| [32606041](https://pubmed.ncbi.nlm.nih.gov/32606041/) | 2020 | Retrospective cohort | J Investig Med | Bupropion (a norepinephrine and dopamine reuptake inhibitor) in 47 POTS patients; explored for reduced orthostasis and symptom improvement |
+| [28522107](https://pubmed.ncbi.nlm.nih.gov/28522107/) | 2017 | Cohort / physiological study | Auton Neurosci | Neurohumoral and haemodynamic responses to prolonged head-up tilt in high versus normal standing norepinephrine POTS |
+| [12102462](https://pubmed.ncbi.nlm.nih.gov/12102462/) | 2002 | Review | Clin Auton Res | Catecholamine abnormalities, including dopamine beta-hydroxylase deficiency causing severe orthostatic hypotension |
+| [16601453](https://pubmed.ncbi.nlm.nih.gov/16601453/) | 2006 | Case series / genetic study | Curr Opin Cardiol | Familial orthostatic tachycardia linked to a norepinephrine transporter gene mutation |
+| [41952405](https://pubmed.ncbi.nlm.nih.gov/41952405/) | 2026 | Pilot RCT (different drug) | J Neurogastroenterol Motil | DA-9701, a prokinetic acting on 5-HT and D2 receptors, for GI symptoms in POTS |
 
 ## EU Market Information
 
-Dopamine currently has **no EU marketing authorization on record** in this evidence pack (`total_licenses: 0`, `market_status: Not marketed / Not marketed`, `licenses: []`). No product-level authorization details are available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006044 | Neoatricon (status: cancelled) | Not specified | Treatment of hypotension in haemodynamically unstable neonates, infants and children < 18 years |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. All safety fields in this evidence pack (key warnings, contraindications, drug interactions) are marked as data gaps, and the DDI query returned no results (`query_status: not_found`).
+- **Disease associations flagged by the knowledge graph** (not label text): phaeochromocytoma, adrenal gland cancer, sympathetic paraganglioma, duodenum cancer, small intestine cancer, heart cancer, acidosis disorder, and acquired lactic acidosis.
+- **Drug Interactions**: 86 interactions were identified, including 20 listed as moderate. These are mainly with antidiabetic agents, including insulins, sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide), GLP-1 agonists (exenatide, dulaglutide, albiglutide), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), alogliptin and acarbose. Diethylpropion is also listed.
 
-Notably, this evidence pack flags a **Blocking-severity data gap (DG001)**: TFDA/SmPC warning and contraindication labeling is missing, which prevents this candidate from entering initial safety screening (S1). A **High-severity gap (DG002)** also exists for formal mechanism-of-action data.
-
----
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The predicted indication is supported only by mechanistic/observational human studies of the endogenous renal dopaminergic system in POTS, not by direct interventional evidence that dopamine administration improves POTS symptoms.
-- A Blocking-severity safety data gap (missing TFDA/SmPC warnings and contraindications) prevents even an initial safety assessment, and the drug has no current EU marketing authorization.
+The prediction rests on a model score and indirect literature. No study or trial tests dopamine in POTS. Dopamine's chronotropic effect could aggravate the tachycardia that defines the condition, and its only EU authorisation has been cancelled.
 
 **To proceed, the following is needed:**
-- Resolve DG001: obtain and parse the TFDA/SmPC label for warnings and contraindications before any safety screening can proceed
-- Resolve DG002: query DrugBank API for a complete mechanism-of-action profile
-- Identify or commission interventional evidence testing dopamine (or dopaminergic agents) specifically as a POTS therapy, rather than as a physiological research probe
-- Complete a formal DDI screen (current status: not found)
-- Clarify current regulatory/market status and any historical licensing in EU jurisdictions
+- Mechanism of action data and a clear pharmacological rationale for POTS, including whether dopamine would worsen heart rate
+- Label warnings and contraindications from the SmPC, which are required before any safety screening
+- Direct clinical or physiological evidence of dopamine in POTS, and a route-of-administration assessment, since the drug is an intravenous vasopressor
+- A review of the interaction profile and the knowledge-graph contraindication signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

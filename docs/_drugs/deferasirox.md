@@ -2,7 +2,7 @@
 layout: default
 title: Deferasirox
 parent: Medium Evidence (L3-L4)
-nav_order: 172
+nav_order: 179
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,74 +29,81 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Deferasirox: From Iron Overload to HIV Infectious Disease
+# Deferasirox: From Transfusional Iron Overload to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-Deferasirox is an oral iron chelator established for managing chronic iron overload in transfusion-dependent patients (e.g., beta-thalassemia, sickle cell disease).
-The TxGNN model predicts it may be effective for **HIV Infectious Disease**,
-with **0 clinical trials** and **2 publications** currently supporting this direction — primarily through the hypothesis that iron chelation disrupts HIV Tat-mediated viral transcription.
-
----
+Deferasirox is an oral iron chelator, originally used to treat chronic iron overload caused by blood transfusions in beta thalassaemia and other anaemias.
+The TxGNN model predicts it may be effective for **HIV infectious disease**,
+but there are currently **0 clinical trials** and only **2 publications** (one preclinical study and one general drug overview), so this remains a research hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic iron overload (no regulatory record captured in current dataset) |
-| Predicted New Indication | HIV Infectious Disease |
+| Original Indication | Chronic iron overload due to frequent blood transfusions in beta thalassaemia major (aged 6 years and older), and in other settings where deferoxamine is contraindicated or inadequate (other anaemias, non-transfusion-dependent thalassaemia syndromes) |
+| Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.40% |
 | Evidence Level | L4 |
-| EU Market Status | Not registered (per current dataset) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 3 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Deferasirox is a tridentate oral iron chelator that selectively binds ferric iron (Fe³⁺). Although detailed MOA data is not available in this dataset, the drug's pharmacological identity is well-established: it reduces labile plasma iron and tissue iron burden by forming stable, soluble iron complexes that are excreted via the feces. It is most commonly used in patients with transfusional hemosiderosis — a complication of repeated blood transfusions in conditions such as beta-thalassemia and myelodysplastic syndromes.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, deferasirox is an iron chelator: it binds excess iron and helps remove it from the body. Its efficacy in iron overload is established, and its use there is the basis of its marketing authorizations.
 
-Iron has a multifaceted role in HIV pathogenesis. HIV-1 Tat protein — the viral transactivator essential for LTR-driven transcription — has been shown to accumulate in endolysosomes, where intracellular iron concentration modulates its oligomerization state. One 2021 in vitro study (PMID 34550543) demonstrated that elevated endolysosomal iron increases Tat oligomerization and β-catenin expression, thereby suppressing LTR transactivation. Separately, iron serves as a cofactor for ribonucleotide reductase, which is required for dNTP synthesis during viral replication. These observations collectively raise the hypothesis that iron chelation could interfere with HIV replication at multiple nodes.
+The link to HIV is indirect and rests on iron homeostasis. Iron availability is known to influence HIV-1 replication. A 2021 preclinical study (PMID 34550543) reported that iron in endolysosomes restricts Tat-mediated HIV-1 LTR transactivation. This suggests that iron status affects the virus, but it does not show that deferasirox treats HIV. The study also points to iron *restricting* Tat activity, so the direction of any therapeutic effect is not clear. No clinical trials exist, and the other cited paper is a general new-drug overview that provides no HIV evidence.
 
-However, this mechanistic link remains directionally ambiguous and unvalidated in human subjects. Removing iron could suppress viral replication under some conditions — but may also impair host immune cell function, potentially worsening HIV outcomes. The TxGNN prediction likely reflects iron's deep integration in the virus–host graph rather than a directly supported clinical hypothesis. No human trials have tested this.
+### Other Predictions (Context Only)
 
----
+The other top-ranked predictions have even less support:
+
+- **Chronic hepatitis C infection** (99.39%): Iron overload is common in chronic hepatitis C and may worsen liver injury, so chelation is conceptually plausible. The only cited paper is a methodological study of ferritin and hemosiderin iron, with no data on deferasirox. Evidence level L5.
+- **Beta-thalassaemia with other manifestations, hereditary pyropoikilocytosis and pyruvate kinase deficiency** (98.5–98.6%): These are anaemias with iron overload that largely overlap with the existing label. They are not true repurposing candidates. No specific data were provided, so these are classed as L4 (mechanism-based only).
+- **Neurodevelopmental disorder, obsolete familial combined hyperlipidemia, dermatofibrosarcoma protuberans, simian immunodeficiency virus infection and feline AIDS**: These are model predictions only, with no mechanistic rationale or evidence provided. The last two are animal diseases and are not relevant to human repurposing.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Basic Science / In Vitro | Journal of Neurovirology | Endolysosomal iron promotes HIV-1 Tat oligomerization and β-catenin expression, suppressing LTR transactivation — mechanistic evidence that iron status modulates HIV Tat activity in neural cells |
-| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Drug Review / Editorial | Journal of the American Pharmacists Association | Narrative overview of deferasirox as a new drug approval; no HIV efficacy data; confirms deferasirox's class as an oral iron chelator |
+| [34550543](https://pubmed.ncbi.nlm.nih.gov/34550543/) | 2021 | Preclinical/In vitro | Journal of Neurovirology | Endolysosomal iron restricts Tat-mediated HIV-1 LTR transactivation by increasing Tat oligomerization and β-catenin expression; relevant to HIV-associated neurocognitive disorder |
+| [16529348](https://pubmed.ncbi.nlm.nih.gov/16529348/) | 2006 | Review | Journal of the American Pharmacists Association | General overview of new drugs, including deferasirox; not specific evidence for HIV |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005014 | Deferasirox Mylan | Not stated | Deferasirox Mylan is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed... |
+| EMEA/H/C/005156 | Deferasirox Accord | Not stated | Deferasirox Accord is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed... |
+| EMEA/H/C/000670 | Exjade | Not stated | Exjade is indicated for the treatment of chronic iron overload due to frequent blood transfusions (≥7 ml/kg/month of packed red blood... |
+
+All three authorizations are listed as cancelled.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in total. Major-level examples include hydrocortisone, dexamethasone, betamethasone, triamcinolone, amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms), mesalazine, balsalazide and acetylsalicylic acid. Moderate-level examples include rabeprazole, pioglitazone, clarithromycin, aluminum hydroxide, aprepitant, saxagliptin, alosetron, cisapride and dexfenfluramine.
+- **Knowledge-graph contraindication signals** (from a drug-disease knowledge graph, not from label text): liver failure, liver disease, cirrhosis, kidney disease, impaired renal function, thrombocytopenia, neutropenia, agranulocytosis, anaemia, hyperbilirubinemia, Gilbert syndrome, gallbladder disease, active peptic ulcer disease, ocular hypertension, multiple organ dysfunction syndrome and cancer. These should be verified against the official label.
 
----
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence base consists solely of two early-stage publications — one in vitro mechanistic study and one drug review editorial — with no clinical trials and no human data in HIV populations. While the iron–HIV interaction is biologically plausible, the mechanistic direction is unresolved and the safety profile of iron chelation in immunocompromised patients has not been characterized.
+The HIV prediction has a high model score but no clinical trials, and its only supporting study is an in vitro paper with an indirect iron-homeostasis link. All EU authorizations are currently cancelled, and label-level safety data are missing. The evidence supports a research question, not a development decision.
 
 **To proceed, the following is needed:**
-- Formal MOA documentation (DrugBank or pharmacological literature) confirming iron chelation mechanism
-- In vitro or animal model studies specifically demonstrating deferasirox suppresses HIV-1 replication at clinically relevant concentrations
-- Clarification of the directional iron–HIV hypothesis: does lower iron help or harm the host immune response?
-- Safety data in HIV-infected or immunocompromised populations (renal function, hepatotoxicity, cytopenias)
-- Recovery of TFDA/EMA regulatory record (SmPC) to identify contraindications relevant to HIV co-morbidities (e.g., renal impairment, concurrent antiretroviral DDI risk)
+- Mechanism of action data (e.g., from DrugBank)
+- Label warnings and contraindications from the SmPC (for safety screening)
+- Direct preclinical data on deferasirox in HIV models, to establish the direction and size of any effect
+- A safety assessment for people living with HIV, given the knowledge-graph signals for liver, kidney and blood-cell disorders and the major interactions listed above
+- Clarification of why the EU authorizations were cancelled and whether this affects feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

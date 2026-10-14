@@ -2,7 +2,7 @@
 layout: default
 title: Rozanolixizumab
 parent: AI Predictions (L5)
-nav_order: 522
+nav_order: 540
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rozanolixizumab: From No Approved Indication to Bronchitis (AI-Predicted, Low Confidence)
+# Rozanolixizumab: From Generalised Myasthenia Gravis to Bronchitis
 
 ## One-Sentence Summary
 
-> Rozanolixizumab is an anti-FcRn monoclonal antibody that blocks IgG recycling and accelerates its degradation; per this evidence pack it is **not currently marketed** in Taiwan/EU and carries no recorded approved indication.
-> The TxGNN model's top-ranked new indication is **Bronchitis** (score 95.28%), but this is supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic rationale explicitly argues *against* biological plausibility for this specific indication.
-
----
+Rozanolixizumab is an anti-FcRn monoclonal antibody, originally used as an add-on therapy for generalised myasthenia gravis (gMG).
+The TxGNN model predicts it may be effective for **bronchitis**,
+but currently **0 clinical trials** and **0 publications** support this direction, so the prediction is computational only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available — drug is not marketed in Taiwan/EU and no approved indication text is recorded in this evidence pack |
+|------|------|
+| Original Indication | Add-on to standard therapy for generalised myasthenia gravis (gMG) in adult patients who are anti-AChR or anti-MuSK antibody positive |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 95.28% |
-| Evidence Level | L5 (model prediction only — no clinical trials or literature) |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the only authorisation is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Rozanolixizumab is a humanized anti-FcRn (neonatal Fc receptor) monoclonal antibody. By blocking FcRn, it prevents recycling of circulating IgG and accelerates its catabolism, producing a pharmacodynamic reduction in total IgG levels. This information is drawn from the mechanistic rationale attached to the predicted indications, since the drug's `original_moa` field is itself a data gap (DG002) in this pack.
+Rozanolixizumab is a monoclonal antibody that blocks the neonatal Fc receptor (FcRn; target gene FCGRT). FcRn normally recycles IgG and extends its lifespan in the blood. Blocking it lowers circulating IgG, including pathogenic autoantibodies. This is why the drug works in gMG, an IgG-mediated autoimmune disease. Detailed mechanism of action data was not available in the data compiled for this report, so this description is based on the known drug class and target.
 
-For the top-ranked prediction — **bronchitis** — the pack's own rationale states there is **no positive mechanistic link**: lowering circulating IgG is a well-characterized *adverse* consequence of anti-FcRn therapy (increased infection susceptibility, including respiratory infections), not a therapeutic pathway toward treating bronchitis. In other words, TxGNN's high similarity score here appears to be picking up a safety-signal association in the knowledge graph rather than a treatment relationship.
-
-Among the other 9 candidates in this pack, **plasma cell myeloma** (rank 2, score 95.05%) has a comparatively more coherent — though still purely theoretical — rationale: IgG-secreting myeloma cells produce monoclonal IgG (M-protein), and FcRn blockade could in principle accelerate clearance of circulating monoclonal IgG (analogous to plasmapheresis) for hyperviscosity symptoms. This is not a disease-modifying mechanism and remains speculative, but it is mechanistically stronger than the rank-1 bronchitis prediction. The remaining candidates (indolent myeloma, hemoglobinopathies, gastric carcinoma subtypes, chromosomal deletion, enzyme-deficiency hemolytic anemias) are explicitly flagged in the pack's own rationale as having weak or no mechanistic connection to FcRn/IgG biology.
-
----
+Bronchitis is usually caused by infection or irritants and is not an IgG-mediated autoimmune condition. No plausible mechanistic link to FcRn blockade is supported by the data. Lowering IgG could even raise the risk of infection. The high TxGNN score (95.28%) is therefore a computational signal only, and it should not be read as evidence of benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-Rozanolixizumab has **0 recorded marketing authorizations** in this evidence pack (`total_licenses: 0`, `market_status: Not marketed`). No license records, product names, or approved-indication text are available for extraction.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005824 (cancelled) | Rystiggo | Not stated | Rystiggo is indicated as an add-on to standard therapy for the treatment of generalised myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibody positive. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The only record is a pharmacological target interaction with the Fc fragment of IgG receptor and transporter (FCGRT). This is the drug's intended target, not a drug-drug interaction. No interaction severity level was recorded.
+- **Class-related concern**: Lowering IgG may increase infection risk. This is a particular concern for a respiratory infection-related indication such as bronchitis.
 
-*(Note: `key_warnings`, `contraindications`, and DDI data are all marked as data gaps in this pack. TFDA label warnings/contraindications are flagged as a **Blocking** data gap (DG001) that prevents entry into the S1 safety pre-screening stage.)*
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (bronchitis) is unsupported by any clinical trial or literature evidence (L5), and the pack's own mechanistic rationale argues against therapeutic plausibility rather than for it — it describes a known safety liability, not an indication. Combined with a Blocking data gap on TFDA label/safety data (DG001), this candidate does not meet the threshold to advance past S0.
+The prediction has no supporting clinical trials or literature (evidence level L5), and the mechanism does not fit bronchitis. The drug's only EU authorisation is also cancelled. Pursuing this indication is not justified at present.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC warnings, contraindications, and prescribing information (DG001 — Blocking; required for S1 safety pre-screen)
-- Confirmed original mechanism of action and any approved indications for Rozanolixizumab (DG002)
-- If pursuing repurposing hypotheses at all, prioritize mechanistically stronger candidates (e.g., rank 2 plasma cell myeloma, IgG-clearance rationale) over bronchitis for further literature/trial searches
-- Real-world clinical trial and publication evidence generation, since current support across all 10 candidates is model-prediction-only (L5)
+- A plausible mechanistic rationale for FcRn blockade in bronchitis, given that IgG reduction may worsen infection risk
+- Preclinical or clinical evidence in bronchitis
+- Warnings and contraindications from the EMA product information, for safety screening
+- Detailed mechanism of action data from DrugBank
+- Clarification of why the EU authorisation was cancelled and the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Axitinib
 parent: AI Predictions (L5)
-nav_order: 74
+nav_order: 76
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,179 +29,131 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Axitinib: From Advanced Renal Cell Carcinoma to Renal Cell Carcinoma Associated with Neuroblastoma
+# Axitinib: From Advanced Renal Cell Carcinoma to Renal Carcinoma
 
 ## One-Sentence Summary
 
-Axitinib (Inlyta) is a potent and selective VEGFR-1/2/3 tyrosine kinase inhibitor globally approved for advanced renal cell carcinoma (mRCC), though it is not currently registered in Taiwan.
-The TxGNN model's top-ranked prediction is **Renal Cell Carcinoma Associated with Neuroblastoma** (rank #1, score 99.90%), a rare composite malignancy — however, **no clinical trials or publications** currently support this specific direction.
-The model concurrently predicts Axitinib for multiple RCC subtypes (ranks #2–6, #9), several of which carry Phase 2–3 clinical trial evidence; the most evidence-rich prediction is **Renal Carcinoma** (rank #6, L1, 50+ clinical trials, 20+ publications).
+Axitinib is a VEGFR-targeting kinase inhibitor, originally used for advanced renal cell carcinoma (RCC) after failure of prior sunitinib or cytokine treatment.
+The TxGNN model's top-ranked prediction is **renal cell carcinoma associated with neuroblastoma**, which has no supporting studies. The best-supported prediction in this set is **Renal Carcinoma** (rank 6), backed by **40 clinical trials** and **20 publications**.
+Because renal carcinoma is essentially the existing approved indication, this is a confirmation of the label rather than true repurposing.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Advanced renal cell carcinoma (globally approved; not registered in Taiwan) |
-| Predicted New Indication | Renal Cell Carcinoma Associated with Neuroblastoma |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 (rank #1 target) |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold (rank #1) |
+|------|------|
+| Original Indication | Advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine |
+| Predicted New Indication | Renal cell carcinoma associated with neuroblastoma (rank 1, model's top prediction). The evidence below focuses on Renal Carcinoma (rank 6), the best-supported prediction. |
+| TxGNN Prediction Score | 99.90% (rank 1); 99.85% (renal carcinoma, rank 6) |
+| Evidence Level | L5 for the rank 1 prediction; L1 for renal carcinoma |
+| EU Market Status | Cancelled only (both authorizations cancelled) |
+| Number of Authorizations | 2 |
+| Recommended Decision | Hold for the rank 1 prediction; Proceed with Guardrails for renal carcinoma |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on well-established pharmacology, Axitinib is a second-generation oral VEGFR tyrosine kinase inhibitor that selectively targets VEGFR-1, VEGFR-2, and VEGFR-3 with an IC₅₀ approximately 10-fold lower than earlier-generation TKIs. In conventional clear-cell RCC, VHL gene loss stabilizes HIF-1α/2α, driving VEGF/VEGFR overexpression and tumor neovascularization — the mechanism Axitinib directly disrupts.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, axitinib is a selective inhibitor of vascular endothelial growth factor receptors 1-3 (VEGFR1-3). VEGF-driven angiogenesis is central to clear cell RCC, which makes this mechanism plausible across kidney cancers.
 
-For the rank #1 predicted indication — **renal cell carcinoma associated with neuroblastoma** — the RCC component, if VHL-deficient, would theoretically retain VEGF/VEGFR pathway dependence, offering a mechanistic rationale for VEGFR inhibition. However, the neuroblastoma component is primarily driven by MYCN amplification and ALK mutations, pathways not targeted by Axitinib. This mechanistic mismatch, combined with the ultra-rare and heterogeneous nature of this composite malignancy, substantially weakens the prediction's actionability.
+The rank 1 prediction, RCC associated with neuroblastoma, is a very rare subtype. No trials or literature address it, so the link is inferred only from the approved RCC indication. The same applies to unclassified RCC (rank 2), which has no dedicated studies.
 
-The TxGNN model likely derives this high score from the shared "renal cell carcinoma" node in the knowledge graph. The model's broader predictions across related RCC subtypes — including Xp11.2/TFE3 translocation RCC, unclassified RCC, and collecting duct carcinoma — are mechanistically more coherent and carry actual clinical evidence.
+Renal carcinoma (rank 6) is the broader approved disease, and its evidence is strong. Phase 3 randomized trials show benefit as second-line monotherapy (AXIS) and in first-line combinations with checkpoint inhibitors (KEYNOTE-426 with pembrolizumab, JAVELIN Renal 101 with avelumab), with 5-year follow-up published. The market status "Cancelled only" should be checked, because it may reflect specific product records rather than loss of the indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for renal cell carcinoma associated with neuroblastoma.
-
-**Related evidence from other high-ranked RCC subtype predictions (for context):**
-
-**Renal Carcinoma (Rank #6, L1 — strongest evidence)**
+The rank 1 prediction has no registered trials. The table below covers renal carcinoma (rank 6). It lists the 10 most relevant of the 40 trials.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00678392](https://clinicaltrials.gov/study/NCT00678392) | Phase 3 | Completed | 723 | AXIS trial: Axitinib vs. sorafenib as 2nd-line mRCC; established PFS/OS benefit and is the FDA/EMA approval basis |
-| [NCT05738694](https://clinicaltrials.gov/study/NCT05738694) | Phase 2 | Recruiting | 298 | Multicenter RCT: neoadjuvant Axitinib + PD-1 inhibitor vs. surgery alone in high-risk RCC (T2G3-4/T3-4/N1) |
-| [NCT00835978](https://clinicaltrials.gov/study/NCT00835978) | Phase 2 | Completed | 213 | Randomized double-blind study of Axitinib dose titration strategy in mRCC; supports dosing optimization |
-| [NCT05817903](https://clinicaltrials.gov/study/NCT05817903) | Phase 2 | Recruiting | 118 | AxIn Study: Axitinib intensification + nivolumab vs. nivolumab alone after nivolumab + ipilimumab induction |
-| [NCT02133742](https://clinicaltrials.gov/study/NCT02133742) | Phase 1 | Completed | 52 | Phase 1b PK/PD study of Axitinib + pembrolizumab combination; established recommended Phase 2 dose |
-| [NCT05808608](https://clinicaltrials.gov/study/NCT05808608) | Phase 1/2 | Recruiting | 33 | AK104 (PD-1/CTLA-4 bispecific antibody) + Axitinib in special pathological RCC subtypes |
-| [NCT04385654](https://clinicaltrials.gov/study/NCT04385654) | Phase 2 | Unknown | 40 | Toripalimab + Axitinib as neoadjuvant therapy for advanced/metastatic non-clear cell RCC |
-| [NCT03494816](https://clinicaltrials.gov/study/NCT03494816) | Phase 2 | Completed | 24 | NAXIVA: Axitinib for reducing venous tumour thrombus extent in clear cell RCC with venous invasion |
-| [NCT01441414](https://clinicaltrials.gov/study/NCT01441414) | Phase 2 | Terminated | 18 | Axitinib + CVX-060 (ANG-2 inhibitor) vs. axitinib alone in previously treated mRCC; terminated early |
-| [NCT00700258](https://clinicaltrials.gov/study/NCT00700258) | N/A (Registry) | Completed | 1,520 | STAR-TOR registry: safety, tolerability and efficacy of Axitinib in advanced mRCC in routine practice |
+| [NCT00678392](https://clinicaltrials.gov/study/NCT00678392) | Phase 3 | Completed | 723 | AXIS: axitinib vs sorafenib in second-line metastatic RCC; the pivotal trial for the approved indication |
+| [NCT02853331](https://clinicaltrials.gov/study/NCT02853331) | Phase 3 | Completed | 861 | KEYNOTE-426: pembrolizumab + axitinib vs sunitinib in first-line advanced RCC |
+| [NCT04394975](https://clinicaltrials.gov/study/NCT04394975) | Phase 3 | Completed | 421 | Toripalimab + axitinib vs sunitinib in first-line RCC |
+| [NCT01693822](https://clinicaltrials.gov/study/NCT01693822) | Phase 2 | Completed | 65 | A-PREDICT: axitinib in metastatic RCC patients unsuitable for nephrectomy, with biomarker evaluation |
+| [NCT00835978](https://clinicaltrials.gov/study/NCT00835978) | Phase 2 | Completed | 213 | Axitinib with or without dose titration in metastatic RCC |
+| [NCT05522231](https://clinicaltrials.gov/study/NCT05522231) | Phase 2/3 | Active, not recruiting | 265 | Fruquintinib + sintilimab vs axitinib or everolimus in second-line RCC |
+| [NCT06726421](https://clinicaltrials.gov/study/NCT06726421) | Phase 3 | Recruiting | 252 | Systemic therapy plus radiotherapy vs systemic therapy alone in oligometastatic kidney cancer |
+| [NCT05969496](https://clinicaltrials.gov/study/NCT05969496) | Phase 2 | Recruiting | 17 | Neoadjuvant pembrolizumab + axitinib in RCC with IVC tumor thrombus |
+| [NCT03494816](https://clinicaltrials.gov/study/NCT03494816) | Phase 2 | Completed | 24 | NAXIVA: neoadjuvant axitinib to reduce venous tumor thrombus extent |
+| [NCT03595124](https://clinicaltrials.gov/study/NCT03595124) | Phase 2 | Active, not recruiting | 15 | Axitinib + nivolumab vs nivolumab in TFE/translocation RCC (also relevant to rank 3) |
 
-**Xp11.2/TFE3 Translocation RCC (Rank #3, L2) and Childhood Kidney Cell Carcinoma (Rank #4, L2)**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03595124](https://clinicaltrials.gov/study/NCT03595124) | Phase 2 | Active, not recruiting | 15 | Randomized Phase 2: Axitinib + nivolumab vs. nivolumab alone for TFE/translocation RCC across all age groups (including pediatric) |
-| [NCT04510597](https://clinicaltrials.gov/study/NCT04510597) | Phase 3 | Recruiting | 364 | PROBE Trial: ICI-based combination ± cytoreductive nephrectomy for metastatic RCC; large Phase 3 providing indirect evidence |
-| [NCT02164838](https://clinicaltrials.gov/study/NCT02164838) | Phase 1 | Completed | 51 | First-ever pediatric Phase 1 trial of Axitinib in children and adolescents with refractory solid tumors; established MTD/RP2D |
-
-**Collecting Duct Carcinoma (Rank #9, L3)**
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06211114](https://clinicaltrials.gov/study/NCT06211114) | Phase 2 | Recruiting | 30 | ICI + Axitinib combination for previously treated advanced collecting duct carcinoma; most direct prospective evidence for this rare subtype |
+For the other predictions, evidence is limited. Rank 3 (Xp11.2/TFE3 RCC) has only NCT03595124. Rank 9 (collecting duct carcinoma) has [NCT06211114](https://clinicaltrials.gov/study/NCT06211114), a Phase 2 trial (n=30, recruiting) of a checkpoint inhibitor plus axitinib.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for renal cell carcinoma associated with neuroblastoma.
-
-**Related evidence from high-ranked RCC predictions (for context):**
-
-**Renal Carcinoma (Rank #6, L1)**
+The table covers renal carcinoma (rank 6), with randomized trials prioritized.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30779529](https://pubmed.ncbi.nlm.nih.gov/30779529/) | 2019 | RCT | N Engl J Med | KEYNOTE-426: Pembrolizumab + Axitinib superior to sunitinib in 1st-line advanced RCC (OS, PFS, ORR all improved) |
-| [40750932](https://pubmed.ncbi.nlm.nih.gov/40750932/) | 2025 | RCT Follow-up | Nature Med | KEYNOTE-426 5-year analysis: sustained OS/PFS superiority with biomarker characterization |
-| [30779531](https://pubmed.ncbi.nlm.nih.gov/30779531/) | 2019 | RCT | N Engl J Med | JAVELIN Renal 101: Avelumab + Axitinib vs. sunitinib; significantly improved PFS as 1st-line mRCC treatment |
-| [39706335](https://pubmed.ncbi.nlm.nih.gov/39706335/) | 2025 | RCT | Ann Oncol | JAVELIN Renal 101 final analysis: overall survival results for avelumab + axitinib vs. sunitinib |
-| [37872020](https://pubmed.ncbi.nlm.nih.gov/37872020/) | 2024 | RCT | Ann Oncol | RENOTORCH Phase 3: Toripalimab + Axitinib vs. sunitinib in intermediate/poor-risk advanced RCC |
-| [37500340](https://pubmed.ncbi.nlm.nih.gov/37500340/) | 2023 | RCT Follow-up | Eur Urol | KEYNOTE-426 43-month protocol-specified final analysis; durable survival benefit confirmed |
-| [39362847](https://pubmed.ncbi.nlm.nih.gov/39362847/) | 2024 | Cohort | Signal Transduct Target Ther | NEOTAX Phase 2: Neoadjuvant toripalimab + axitinib in ccRCC with IVC tumor thrombus; 35% down-staging rate |
-| [28276433](https://pubmed.ncbi.nlm.nih.gov/28276433/) | 2017 | Review | Nat Rev Dis Primers | Comprehensive RCC biology review: subtypes, VHL/HIF/VEGF pathway, treatment landscape |
-| [29033542](https://pubmed.ncbi.nlm.nih.gov/29033542/) | 2017 | Review | Drug Des Devel Ther | Axitinib mechanism, clinical development, and role in RCC treatment |
-| [32895571](https://pubmed.ncbi.nlm.nih.gov/32895571/) | 2020 | Biomarker Analysis | Nature Med | JAVELIN Renal 101 biomarker analysis: PD-L1 and TMB do not predict PFS; FcγR polymorphisms explored |
+| [30779529](https://pubmed.ncbi.nlm.nih.gov/30779529/) | 2019 | RCT (Phase 3) | N Engl J Med | KEYNOTE-426: pembrolizumab + axitinib vs sunitinib in advanced RCC |
+| [30779531](https://pubmed.ncbi.nlm.nih.gov/30779531/) | 2019 | RCT (Phase 3) | N Engl J Med | JAVELIN Renal 101: avelumab + axitinib vs sunitinib |
+| [40750932](https://pubmed.ncbi.nlm.nih.gov/40750932/) | 2025 | RCT 5-year follow-up | Nat Med | KEYNOTE-426 5-year survival and biomarker analyses |
+| [39706335](https://pubmed.ncbi.nlm.nih.gov/39706335/) | 2025 | RCT final analysis | Ann Oncol | JAVELIN Renal 101 final analysis, including overall survival |
+| [37872020](https://pubmed.ncbi.nlm.nih.gov/37872020/) | 2024 | RCT (Phase 3) | Ann Oncol | RENOTORCH: toripalimab + axitinib vs sunitinib |
+| [33284113](https://pubmed.ncbi.nlm.nih.gov/33284113/) | 2020 | RCT follow-up | Lancet Oncol | KEYNOTE-426 extended follow-up |
+| [37500340](https://pubmed.ncbi.nlm.nih.gov/37500340/) | 2023 | RCT follow-up | Eur Urol | KEYNOTE-426 43-month final prespecified analysis |
+| [39362847](https://pubmed.ncbi.nlm.nih.gov/39362847/) | 2024 | Phase 2 | Signal Transduct Target Ther | NEOTAX: neoadjuvant toripalimab + axitinib in ccRCC with IVC tumor thrombus |
+| [26487541](https://pubmed.ncbi.nlm.nih.gov/26487541/) | 2015 | Review | Drugs | Axitinib review in advanced RCC, summarizing the AXIS trial |
+| [32251121](https://pubmed.ncbi.nlm.nih.gov/32251121/) | 2020 | Systematic review / network meta-analysis | Am J Clin Oncol | Comparison of combination therapies in metastatic RCC |
 
-**Childhood Kidney Cell Carcinoma (Rank #4, L2)**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [39326645](https://pubmed.ncbi.nlm.nih.gov/39326645/) | 2024 | Review | Crit Rev Oncol Hematol | Narrative review of Axitinib outcomes across children, young adults, and adults with RCC |
-| [31012542](https://pubmed.ncbi.nlm.nih.gov/31012542/) | 2019 | Review | Pediatr Blood Cancer | Advanced pediatric RCC treatment review; discusses VEGFR-TKI as a treatment option given limited alternatives |
-| [26279736](https://pubmed.ncbi.nlm.nih.gov/26279736/) | 2015 | Case Report | Can Urol Assoc J | First reported pediatric use of Axitinib (12-year-old with malignant EAML); adult protocols applied safely |
-
-**Liposarcoma (Rank #5, L4)**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/) | 2016 | Preclinical | Sarcoma | Axitinib demonstrates antiangiogenic and antitumor activity in myxoid liposarcoma cell lines (FUS-CHOP translocation drives VEGF overexpression) |
+For other predictions, evidence is thin. Childhood kidney cell carcinoma (rank 4) has one review ([31012542](https://pubmed.ncbi.nlm.nih.gov/31012542/)) and one pediatric case report ([26279736](https://pubmed.ncbi.nlm.nih.gov/26279736/)). Liposarcoma (rank 5) has only one preclinical study ([27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/)).
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Axitinib is currently **not registered in Taiwan**. No TFDA-authorized product licenses are on record.
-
-| Item | Status |
-|------|--------|
-| Market Status | Not marketed in Taiwan |
-| Total Authorizations | 0 |
-| Regulatory Note | Axitinib (Inlyta®) is approved by the FDA (2012) and EMA for advanced/metastatic RCC, but Taiwan registration has not been obtained. TFDA SmPC data is unavailable (Data Gap DG001 — blocking for safety evaluation). |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006206 | Axitinib Accord | Not specified | Adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine (status: cancelled) |
+| EMEA/H/C/002406 | Inlyta | Not specified | Adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine (status: cancelled) |
 
 ---
 
 ## Cytotoxicity
 
-Axitinib is a targeted antineoplastic agent used in oncology (VEGFR tyrosine kinase inhibitor).
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — VEGFR-1/2/3 tyrosine kinase inhibitor (not conventional cytotoxic chemotherapy) |
-| Myelosuppression Risk | Low to moderate; thrombocytopenia and neutropenia reported less frequently than with cytotoxic agents; monitor CBC |
-| Emetogenicity Classification | Low |
-| Monitoring Items | Blood pressure (hypertension very common, often used as pharmacodynamic marker), liver function (ALT/AST), thyroid function (hypothyroidism), CBC, renal function, hand-foot skin reaction assessment |
-| Handling Protection | Oral solid dosage form; standard cytotoxic drug handling precautions apply per institutional protocols |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (VEGFR tyrosine kinase inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Label warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for these.
 
-TFDA-specific prescribing information (SmPC warnings and contraindications) was not retrievable for this report (Data Gap DG001, severity: Blocking). Known class-effect concerns for VEGFR-TKIs include hypertension, hand-foot skin reaction (palmar-plantar erythrodysesthesia), hepatotoxicity, thyroid dysfunction, arterial thromboembolic events, and wound healing complications. These should be reviewed against the full SmPC before any clinical use.
+**Drug Interactions**: 100 interactions were identified. Main ones:
+- **Major**: clarithromycin, dexamethasone
+- **Moderate**: aprepitant, clotrimazole, miconazole, naltrexone
+- **Minor**: acid-suppressing and antacid agents, including famotidine, ranitidine, cimetidine, nizatidine, rabeprazole, esomeprazole, lansoprazole, dexlansoprazole, aluminum hydroxide, calcium carbonate, magnesium salts and magaldrate
+
+Interacting drugs that inhibit or induce metabolism should be reviewed against the SmPC before co-administration.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for rank #1 prediction: renal cell carcinoma associated with neuroblastoma)
+**Decision: Hold for the rank 1 prediction (RCC associated with neuroblastoma); Proceed with Guardrails for renal carcinoma**
 
 **Rationale:**
-The composite RCC-neuroblastoma entity is ultra-rare with no clinical or preclinical data supporting Axitinib use, and the neuroblastoma component is driven by MYCN/ALK pathways that are mechanistically unrelated to VEGFR inhibition — the Hold recommendation is appropriate regardless of TxGNN's high computational score.
+- The rank 1 prediction has a very high score (99.90%) but no trials or literature (L5). Other rare subtypes (ovarian myxoid liposarcoma, angiolipoma) are also prediction-only. Familial spontaneous pneumothorax is probably a model artifact, linked through FLCN variants.
+- Renal carcinoma has L1 evidence, with multiple Phase 3 RCTs and long-term follow-up. It is the already approved indication, so it confirms the label rather than offering new repurposing value.
+- Collecting duct carcinoma (L2, one ongoing Phase 2 trial) and TFE3-fusion RCC (L2, n=15 trial) are the most credible genuinely new directions, but both remain research questions.
 
-**To proceed for rank #1, the following is needed:**
-- Preclinical studies characterizing VEGFR pathway activity in RCC-neuroblastoma composite tumors
-- Case series or expert consensus establishing treatment paradigms for this entity
-- TFDA SmPC safety data (DG001: Blocking — required before any S1 safety evaluation)
-- DrugBank MOA data confirmation (DG002: High priority)
-
----
-
-**Summary across all 10 predicted indications:**
-
-| Rank | Predicted Indication | Evidence Level | Recommendation |
-|------|---------------------|----------------|----------------|
-| #6 | Renal carcinoma | L1 | Proceed with Guardrails |
-| #3 | Xp11.2/TFE3 translocation RCC | L2 | Proceed with Guardrails |
-| #4 | Childhood kidney cell carcinoma | L2 | Proceed with Guardrails |
-| #9 | Collecting duct carcinoma | L3 | Proceed with Guardrails |
-| #2 | Unclassified renal cell carcinoma | L3 | Research Question |
-| #5 | Liposarcoma | L4 | Research Question |
-| #1 | RCC associated with neuroblastoma | L5 | **Hold** |
-| #7 | Ovarian myxoid liposarcoma | L5 | Hold |
-| #8 | Angiolipoma | L5 | Hold |
-| #10 | Familial spontaneous pneumothorax | L5 | Hold |
-
-The near-term opportunity for Axitinib in Taiwan lies in pursuing TFDA registration for established indications (advanced mRCC, ICI combination regimens) and exploring compassionate use frameworks for rare RCC subtypes with Phase 2 evidence — not the rank #1 TxGNN prediction.
+**To proceed, the following is needed:**
+- Safety data (warnings and contraindications) from the SmPC, which is currently missing and blocks safety screening
+- Detailed mechanism of action data
+- Clarification of why both EU authorizations are listed as cancelled, since this affects the EU access pathway
+- Results from NCT06211114 (collecting duct carcinoma) and NCT03595124 (TFE3-fusion RCC) before supporting those subtypes
+- Confirmation that the current dosage forms and routes are suitable for any new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

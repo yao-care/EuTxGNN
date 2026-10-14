@@ -2,7 +2,7 @@
 layout: default
 title: Regadenoson
 parent: AI Predictions (L5)
-nav_order: 495
+nav_order: 512
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,59 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Regadenoson: From Myocardial Perfusion Imaging Stress Agent to Systemic Anaphylaxis — Signal Credibility Questionable
+# Regadenoson: From Diagnostic Stress Agent for Myocardial Perfusion Imaging to Anaphylaxis
 
-## One-sentence Summary
+## One-Sentence Summary
 
-Regadenoson currently lacks marketing authorization in the European Union (this database contains no data on approved indications and mechanism of action), and is used clinically as a pharmacological stress testing agent for myocardial perfusion imaging (MPI). The TxGNN model ranks **systemic anaphylactic reaction (Anaphylaxis)** as the predicted indication with the highest score (99.85%), but is currently supported by only **1 clinical trial (with no direct relevance)** and **0 publications**. Systematic interpretation suggests this signal most likely reflects the drug's known adverse reaction profile (allergic-like reaction) rather than a therapeutic effect.
+Regadenoson is a selective coronary vasodilator used as a pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adults who cannot exercise adequately.
+The TxGNN model predicts it may be effective for **anaphylaxis**, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on model output alone, and the drug's vasodilating and blood-pressure-lowering profile raises a safety concern in this setting.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered (EU: Not marketed; based on clinical trial text context, clinical practice use is as pharmacological stress agent for myocardial perfusion imaging) |
-| Predicted New Indication | Anaphylaxis (systemic anaphylactic reaction) |
+|------|------|
+| Original Indication | Pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult patients unable to undergo adequate exercise stress (diagnostic use only) |
+| Predicted New Indication | Anaphylaxis |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Approvals | 0 |
-| Recommended Decision | **Hold** |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ---
 
-## Why This Prediction Requires High-Degree Skepticism?
+## Why is This Prediction Reasonable?
 
-Currently, no mechanism of action (MOA) data for regadenoson is available for query; this represents the first data gap in the present case and is flagged as a Blocking-level gap, meaning the standard safety preliminary assessment workflow cannot proceed until this gap is filled.
+Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data indicate that regadenoson is a selective A2A adenosine receptor agonist that also has binding records at the A1, A2B and A3 receptors. Its established effect is coronary vasodilation, which is why it is used as a stress agent in MPI.
 
-More critically, there is a **reversal in mechanism direction relative to the prediction direction**. Regadenoson is a selective adenosine A2A receptor agonist with known pharmacological properties capable of triggering mast cell degranulation and allergic-like (pseudoallergic) reactions—which are repeatedly documented in the literature as **adverse reactions** rather than diseases amenable to treatment with this drug. The same pattern also appears in other candidate indications in the current prediction list: headache disorder (ranked 5th) and migraine disorder (ranked 6th) have source evidence entirely derived from studies on "how to reduce regadenoson-induced headache/migraine adverse effects" in trials and case reports, rather than evidence for treating headache; pseudoallergy (ranked 4th) is similarly flagged as a known adverse effect rather than an indication.
+A theoretical link to anaphylaxis exists through A2A signalling. In preclinical models this pathway has anti-inflammatory and mast-cell-stabilizing effects, which could plausibly relate to allergic reactions. The same applies, more weakly, to the related predictions of food-dependent exercise-induced anaphylaxis and pseudoallergy.
 
-This consistent reverse-causality pattern—the AI learning that "drug X and adverse effect Y are highly co-occurring," yet the ranking algorithm interpreting it as "drug X may treat Y"—strongly suggests that the present prediction results may be **false positives driven by adverse reaction signal pollution** rather than genuine drug repurposing opportunities. Progression to subsequent evaluation stages is not recommended until the MOA and safety data gaps are filled.
+However, the original indication (a diagnostic imaging aid) has little in common with treating a severe allergic emergency. Regadenoson causes vasodilation and lowering of blood pressure, which could be harmful in anaphylactic shock. The high TxGNN score is therefore a model prediction only and is not supported by any trial or published study.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial ID | Phase | Status | Enrollment | Key Findings |
-|----------|-------|--------|------------|--------------|
-| [NCT06854458](https://clinicaltrials.gov/study/NCT06854458) | NA | Recruiting | 1,000 | Study subject is cardiac stress perfusion MRI imaging protocol to evaluate whether chest pain/dyspnea originates from coronary artery disease; **not studying regadenoson for treatment of anaphylaxis**, relevance rating: C (low relevance) |
-
-No trials currently investigate regadenoson for treatment of systemic anaphylactic reaction.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-No relevant literature data available.
+Currently no related literature available for anaphylaxis.
+
+Literature exists only for other lower-ranked predictions (headache disorder and migraine disorder), and it shows adverse effects rather than benefit:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [18513639](https://pubmed.ncbi.nlm.nih.gov/18513639/) | 2008 | Randomized, double-blind, placebo-controlled safety trial | J Nucl Cardiol | Safety of regadenoson in patients with mild and moderate asthma, who are at risk of adenosine-induced bronchoconstriction |
+| [40142667](https://pubmed.ncbi.nlm.nih.gov/40142667/) | 2025 | Real-world safety analysis | J Clin Med | Disproportionality analysis of adverse event reports in the FDA Adverse Event Reporting System (FAERS) |
+| [34308528](https://pubmed.ncbi.nlm.nih.gov/34308528/) | 2022 | Case report | J Nucl Cardiol | Hemiplegic migraine episode triggered by regadenoson |
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001176 (cancelled) | Rapiscan | Not specified | Diagnostic use only. Selective coronary vasodilator used as a pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult patients unable to undergo adequate exercise stress. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC (Summary of Product Characteristics) for safety information.
+**Contraindications (from knowledge graph, not label text):** The TxGNN knowledge graph lists contraindication links with the following conditions. These are model-derived and must be confirmed against the SmPC.
+- Cardiovascular: atrioventricular block, sick sinus syndrome, hypotensive disorder, hypertension, aortic and mitral valve stenosis, coronary artery disease, carotid stenosis, pericarditis and pericardial effusion, transient ischemic attack, vertebrobasilar insufficiency
+- Respiratory: asthma, chronic obstructive pulmonary disease, bronchial disease
+- Neurological and autonomic: epilepsy, autonomic nervous system disease, Horner syndrome
 
-> Supplementary note: This database contains no critical safety information for regadenoson including warnings, contraindications, and drug-drug interactions; this is a Blocking-level data gap (DG001). No safety-related decisions should be made until this gap is addressed.
+**Drug Interactions:** Six moderate-level interactions were identified:
+- Caffeine
+- Dipyridamole
+- Dyphylline
+- Theophylline
+- Aminophylline
+- Oxtriphylline
+
+Methylxanthines (caffeine, theophylline and related drugs) and dipyridamole act on the adenosine pathway and may alter the response to regadenoson.
+
+**Additional signals from the literature:** Headache and a case of hemiplegic migraine have been reported after regadenoson. A randomized safety trial examined its use in mild and moderate asthma.
+
+For label warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -90,15 +119,14 @@ Please refer to the SmPC (Summary of Product Characteristics) for safety informa
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predicted indication (anaphylaxis) is mechanistically opposite to the drug's known adverse reaction profile; the evidence is most likely AE signal pollution rather than a genuine therapeutic signal.
-- Mechanism of action (MOA) and TFDA/EMA safety labeling data represent Blocking-level gaps; S1 safety preliminary assessment cannot be performed at this time.
-- The drug lacks marketing authorization in the European Union, providing no approved indication baseline against which to contextualize mechanistic extension.
+The anaphylaxis prediction has no clinical trial or literature support (Evidence Level L5). The drug's vasodilatory and hypotensive effects work against its use in a condition marked by circulatory collapse. The EU authorization is also cancelled.
 
-**To advance further, the following gaps must be addressed:**
-- Query regadenoson complete mechanism of action data via DrugBank API (DG002)
-- Obtain full text of warnings and contraindications from TFDA/manufacturer labeling; analyze and populate into safety preliminary assessment (DG001)
-- For all predicted indications for the present candidate drug, a manual mechanism-based review comparing "efficacy signal vs. adverse reaction signal" is recommended to exclude candidate items where known side effects may have been misinterpreted as indications, before deciding whether any item merits progression to the S1 stage.
-
+**To proceed, the following is needed:**
+- Mechanism of action data (MOA) and a clear rationale for how A2A agonism could benefit anaphylaxis without causing harmful hypotension
+- Preclinical studies (mast cell and animal anaphylaxis models) showing a benefit
+- Label warnings and contraindications from the EMA package insert, to allow a formal safety screen
+- Assessment of whether a short-acting diagnostic agent is suitable for any therapeutic use, including route and dosing
+- Reassessment of the lower-ranked predictions (such as headache and migraine), which currently indicate harm rather than benefit
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

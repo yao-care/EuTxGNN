@@ -2,7 +2,7 @@
 layout: default
 title: Sufentanil
 parent: AI Predictions (L5)
-nav_order: 556
+nav_order: 577
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,70 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sufentanil: From Anesthesia and Severe Pain Management to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Sufentanil: From Acute Moderate to Severe Pain to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Sufentanil is a potent synthetic opioid analgesic, established in clinical practice for general anesthesia and severe pain management (e.g., epidural/intrathecal analgesia). The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the accompanying mechanistic analysis found no plausible biological rationale connecting opioid pharmacology to this indication.
-
----
+Sufentanil is a potent opioid analgesic, originally authorised in the EU (as Dzuveo) for managing acute moderate to severe pain in adults.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but there are **0 clinical trials** and **0 publications** supporting this prediction; the score is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Anesthesia / severe pain management (based on established pharmacology; no EU marketing authorization is on record in this dataset) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
+| Original Indication | Management of acute moderate to severe pain in adult patients |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 97.41% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for sufentanil is not available in this Evidence Pack. Sufentanil is a fentanyl-class synthetic opioid that acts as a potent μ-opioid receptor agonist, a mechanism well established for producing analgesia and anesthesia but with no documented physiological link to renal water handling or antidiuretic hormone signaling.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacology, sufentanil is a potent mu-opioid receptor agonist, and its efficacy in acute pain is the basis of its original authorisation.
 
-The repurposing rationale provided alongside this prediction explicitly states that there is **no known mechanistic connection** between μ-opioid receptor agonism and the syndrome of inappropriate antidiuresis / sodium-water metabolism pathway. This candidate arises purely from TxGNN's knowledge-graph embedding similarity, without any supporting biological or clinical pathway.
+The link to the predicted indication is weak. NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). Opioids can modestly influence vasopressin release, but no plausible mechanistic connection between mu-opioid agonism and correcting a constitutively active V2 receptor has been established. The high TxGNN score (0.974) should therefore be treated as a model-generated hypothesis rather than a mechanistically supported finding.
 
-Consequently, this prediction should be treated as a hypothesis-generating signal only, not as a candidate with plausible pharmacological grounding. None of the other nine ranked predictions in this Evidence Pack (common cold, gastroduodenitis, peptic ulcer disease, exercise-induced malignant hyperthermia, headache disorder, trigeminal autonomic cephalalgia, familial periodic paralysis, nephrogenic diabetes insipidus, obsolete rare pulmonary disease) fare better — several rationales note that opioid pharmacology is directionally *unfavorable* for the predicted disease (e.g., opioids worsen GI motility disorders, and opioids are explicitly discouraged as first-line therapy for headache disorders due to medication-overuse-headache risk).
-
----
+Other top-ranked predictions (for example common cold, gastroduodenitis, peptic ulcer disease and familial periodic paralysis) also lack a therapeutic rationale. Several retrieved papers describe opioid adverse effects or unrelated topics, which suggests keyword artefacts rather than real signals.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004335 | Dzuveo (status: cancelled) | Not specified | Management of acute moderate to severe pain in adult patients. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease relationship data, not label text): kidney disease, pyoureter, liver disease, gallbladder disease. These are of particular concern given that the predicted indication is a renal-related condition.
+- **Drug Interactions**: The interaction screen returned 100 records (20 reviewed here). Major-level interactions include:
+  - Bupropion
+  - Lorcaserin
+  - Dolasetron
+  - Naltrexone
+  - Palonosetron
 
-**Note:** A blocking data gap has been identified — TFDA/EU label warnings and contraindications for sufentanil have not yet been retrieved, which currently prevents this candidate from entering the S1 safety pre-screening stage.
-
----
+  Moderate-level interactions include morphine, naloxone, cimetidine, clarithromycin, aprepitant, atropine, hyoscyamine, glycopyrronium and dronabinol, among others. Combination with other opioids, opioid antagonists, serotonergic agents or CYP3A4 inhibitors needs careful review.
+- **General class concerns**: Respiratory depression and dependence risk are well-known for potent opioids. Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Nephrogenic Syndrome of Inappropriate Antidiuresis) has no clinical trial or literature support and no plausible mechanistic link — the rationale itself characterizes it as a pure embedding artifact. Combined with a blocking gap in safety labeling data, this candidate does not meet the threshold to proceed past initial screening.
+The prediction rests only on a model score, with no clinical trials, no supporting literature and no plausible mechanistic link between mu-opioid agonism and the AVPR2-driven pathology of NSIAD. The only EU authorisation has been cancelled, and the knowledge graph flags kidney disease as a contraindication.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/EU SmPC warnings, contraindications, and drug-drug interaction data (currently blocking S1 safety review)
-- Retrieve detailed mechanism of action (MOA) data from DrugBank to support or refute mechanistic plausibility
-- Re-evaluate lower-ranked candidates with at least partial evidence (e.g., headache disorder [L4], nephrogenic diabetes insipidus [L4]) as these have marginally more literature signal than the top-ranked prediction, despite unfavorable mechanistic direction
-- If pursuing further, obtain confirmed original indication and EU marketing status, as this drug currently shows zero EU authorizations in the dataset
+- Mechanism of action data and a documented biological rationale linking sufentanil to vasopressin V2 receptor signalling
+- Preclinical or in vitro evidence in NSIAD models
+- Complete warnings and contraindications from the SmPC
+- A formal safety assessment for renal and hepatic impairment
+- Review of alternative candidate indications. Of the other predictions, only headache disorder has indirect evidence (L4), and opioids are generally discouraged there
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

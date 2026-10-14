@@ -2,7 +2,7 @@
 layout: default
 title: Deferiprone
 parent: Medium Evidence (L3-L4)
-nav_order: 173
+nav_order: 180
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,72 +29,74 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Deferiprone: From Transfusional Iron Overload to Hepatic Porphyria
+# Deferiprone: From Thalassaemia Major Iron Overload to Hepatic Porphyria
 
 ## One-Sentence Summary
 
-Deferiprone is an oral iron chelator established for treating transfusional iron overload in patients with thalassemia major, targeting toxic intracellular iron accumulation in the heart, liver, and other organs.
-The TxGNN model predicts it may be effective for **Hepatic Porphyria**, particularly subtypes where excess hepatic iron worsens porphyrin-driven oxidative damage.
-Currently **0 registered clinical trials** and **2 preclinical publications** support this direction, placing the evidence at **L4** (mechanism/animal model level).
-
----
+Deferiprone is an oral iron chelator, originally used to treat iron overload in patients with thalassaemia major.
+The TxGNN model predicts it may be useful for **hepatic porphyria**, but there are currently **0 clinical trials** and only **2 preclinical publications** (both in mouse models) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Transfusional iron overload in thalassemia major |
-| Predicted New Indication | Hepatic Porphyria |
+|------|------|
+| Original Indication | Iron overload in patients with thalassaemia major when current chelation therapy is contraindicated or inadequate (monotherapy), or in combination with another chelator when monotherapy is ineffective or rapid or intensive correction is needed |
+| Predicted New Indication | Hepatic porphyria |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed (0 licenses in regulatory database) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data is not available for this drug. Based on known information, deferiprone is an oral iron chelator whose efficacy in iron overload in thalassaemia major is established. Mechanistically, it may be applicable to porphyrias in which iron drives disease.
 
-Detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Deferiprone (known as L1) is an oral bidentate iron chelator that binds ferric iron (Fe³⁺) in a 3:1 molar ratio and forms a stable complex excreted renally. Its key pharmacological advantage over deferoxamine is membrane permeability: deferiprone enters cells and removes iron from intracellular compartments, including cardiac myocytes, hepatocytes, and erythroid precursors. This property underlies its proven superiority over deferoxamine in clearing myocardial iron in thalassemia major patients.
+Iron is a driver of porphyrin accumulation and photosensitivity in several porphyrias. In uroporphyria models similar to porphyria cutanea tarda (PCT), iron overload inhibits the enzyme uroporphyrinogen decarboxylase, and reducing iron lowers uroporphyrin accumulation. A deferiprone-type chelator could therefore plausibly reduce iron burden and porphyrin production. In a mouse model of congenital erythropoietic porphyria (CEP), iron chelation rescued hemolytic anemia and skin photosensitivity.
 
-In hepatic porphyria — specifically **Congenital Erythropoietic Porphyria (CEP)** and **Porphyria Cutanea Tarda (PCT)** — hepatic iron overload functions as a pathogenic cofactor. Excess intracellular iron catalyzes Fenton-type reactions, generating reactive oxygen species that amplify oxidative damage from accumulating non-physiological porphyrin isomers. This worsens both skin photosensitivity and chronic hemolytic anemia. Deferiprone's ability to chelate intracellular iron provides a mechanistically coherent rationale: reducing the iron substrate for Fenton chemistry could attenuate the porphyrin-iron oxidative cascade in iron-overloaded subtypes.
+The evidence has important limits. It is preclinical (mouse) only, and it covers specific porphyria subtypes (CEP and PCT-like uroporphyria) rather than the broad "hepatic porphyria" label. No human trials are listed.
 
-However, **"hepatic porphyria" is a heterogeneous diagnostic category** that includes diseases with fundamentally different pathophysiology. The mechanistic rationale applies selectively to iron-driven subtypes (CEP, PCT). Acute hepatic porphyrias — Acute Intermittent Porphyria (AIP), Variegate Porphyria (VP), and Hereditary Coproporphyria (HCP) — are triggered by enzyme deficiencies in the heme synthesis pathway and are not primarily iron-mediated. Deferiprone is unlikely to provide benefit in these subtypes and the prediction should be interpreted with this heterogeneity in mind.
+## Clinical Trial Evidence
 
----
+Currently no related clinical trials are registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|-------------|
-| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Animal model + possible case series | *Blood* | Iron chelation rescued hemolytic anemia and skin photosensitivity in a CEP mouse model (UROS-deficient); results suggest that iron reduction — targeting the Fenton cascade — may be a viable therapeutic strategy in CEP |
-| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Animal experiment | *Hepatology* | Deferiprone reduced hepatic uroporphyrin (URO) accumulation in Hfe⁻/⁻ mice given ALA (a PCT model); efficacy was comparable to iron-deficient diet, validating iron depletion as a mechanistic intervention in PCT-like uroporphyria |
+|------|-----|------|------|---------|
+| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Preclinical (mouse, CEP) | Blood | Iron chelation rescued hemolytic anemia and skin photosensitivity in a congenital erythropoietic porphyria mouse model |
+| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Preclinical (mouse, PCT-type uroporphyria) | Hepatology | Compared deferiprone with iron-deficient diets for reducing hepatic uroporphyrin accumulation in Hfe-/- mice |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004710 (cancelled) | Deferiprone Lipomed | Not specified | Monotherapy for iron overload in thalassaemia major when current chelation therapy is contraindicated or inadequate; in combination with another chelator when monotherapy is ineffective... |
+| EMEA/H/C/000236 (cancelled) | Ferriprox | Not specified | Monotherapy for iron overload in thalassaemia major when current chelation therapy is contraindicated or inadequate; in combination with another chelator when monotherapy is ineffective... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screen returned 100 interactions. The 20 listed in the data compiled for this report are all rated Moderate. They are mainly polyvalent-cation products that can bind iron chelators and may reduce absorption, namely:
+  - Calcium salts (phosphate, acetate, carbonate, citrate, gluconate, lactate, glubionate)
+  - Magnesium salts and antacids (oxide, hydroxide, carbonate, chloride, citrate, gluconate, sulfate, magaldrate)
+  - Aluminum hydroxide
+  - Kaolin, attapulgite and sucralfate
+  - Iron
 
-> **Note:** Two data gaps have been identified that affect safety evaluation:
-> - **DG001 (Blocking):** TFDA labeling warnings and contraindications are unavailable — full S1 safety screening cannot be completed.
-> - **DG002 (High):** MOA documentation is absent — limits mechanistic link analysis.
-
----
+Warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC. In the broader context, the data indicate that deferiprone carries agranulocytosis and neutropenia risks.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All available evidence is preclinical (L4: animal models only), and the target population within "hepatic porphyria" is narrow — the mechanistic rationale holds for iron-overloaded subtypes (CEP, PCT) but not for acute hepatic porphyrias. Without human clinical data and with critical safety data gaps unresolved, this candidate is not ready to advance.
+The prediction score is high, and the biology of iron-driven porphyrin accumulation is plausible. However, support is limited to two mouse studies in other porphyria subtypes, with no human data. The EU authorizations are also all cancelled.
 
 **To proceed, the following is needed:**
-- **Subtype specificity:** Restrict the repurposing target to CEP and/or PCT with documented iron overload, rather than the broader "hepatic porphyria" grouping
-- **Safety gap resolution (DG001):** Retrieve SmPC or TFDA labeling to complete contraindication and warning review
-- **MOA documentation (DG002):** Obtain structured DrugBank MOA data to strengthen the mechanistic rationale dossier
-- **Human case evidence:** Identify published case reports or retrospective series of CEP/PCT patients who received deferiprone, to establish whether preclinical benefits translate clinically
-- **Biomarker eligibility criteria:** Define serum ferritin and transferrin saturation thresholds as inclusion criteria for any future pilot study, ensuring iron overload is confirmed in enrolled patients
+- Clarify which hepatic porphyria subtype is targeted (for example PCT-type versus CEP) and whether iron is a disease driver in it
+- Human clinical data, or a well-designed proof-of-concept trial, in the target subtype
+- Mechanism of action data and SmPC warnings and contraindications for a full safety review, including a monitoring plan for agranulocytosis and neutropenia
+- Verification of the current EU regulatory status, since both authorizations are listed as cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

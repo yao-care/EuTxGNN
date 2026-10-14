@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Thalidomide
-parent: High Evidence (L1-L2)
-nav_order: 587
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 608
+evidence_level: L5
 indication_count: 10
 ---
 
 # Thalidomide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,15 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Thalidomide: From Immunomodulatory/Anti-angiogenic Agent to Neuroblastoma
+# Thalidomide: From Multiple Myeloma to Ganglioneuroblastoma
 
 ## One-Sentence Summary
 
-Thalidomide's original approved indication is not on file in this evidence pack (Blocking data gap), though the included literature describes its history as a sedative later repurposed as an immunomodulatory/anti-angiogenic agent for multiple myeloma and erythema nodosum leprosum. Of the **10 candidate indications** screened by TxGNN for this drug, the best-supported one is **Neuroblastoma**, backed by **3 clinical trials** and **8 directly relevant publications** (xenograft, case-report, and mechanistic evidence for its anti-angiogenic activity). Most of the other predicted indications in this batch have little to no supporting evidence, and two are flagged as likely knowledge-graph false positives driven by thalidomide's well-known teratogenic signal rather than a genuine treatment relationship.
+Thalidomide was originally authorised in the EU, in combination with melphalan and prednisone, as first-line treatment for untreated multiple myeloma.
+The TxGNN model's top-ranked prediction is **ganglioneuroblastoma**, but this prediction has **no clinical trials and no publications** behind it.
+The best-supported candidate among the predictions is **neuroblastoma** (rank 4), with **3 clinical trials** and **12 publications** compiled.
+
+> Note: The top-ranked prediction (ganglioneuroblastoma) is prediction-only. The detailed sections below follow that top-ranked indication. Evidence for the better-supported candidates is summarised in the "Other Predicted Indications" section.
 
 ---
 
@@ -41,94 +45,111 @@ Thalidomide's original approved indication is not on file in this evidence pack 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (data gap — drug not currently EU-authorized; no original-indication record provided) |
-| Predicted New Indication | Neuroblastoma |
-| TxGNN Prediction Score | 98.66% |
-| Evidence Level | L2 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | First-line treatment of untreated multiple myeloma (with melphalan and prednisone) in patients aged ≥65 or ineligible for high-dose chemotherapy |
+| Predicted New Indication | Ganglioneuroblastoma |
+| TxGNN Prediction Score | 98.96% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 2 (both cancelled) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data from an authoritative source (e.g., DrugBank) is not available for this drug (High-severity data gap, DG002). Based on the literature collected in this evidence pack, thalidomide is described as an immunomodulatory drug (IMiD) with anti-angiogenic activity, acting through inhibition of bFGF/VEGF-driven neovascularization and, mechanistically, through binding to cereblon (CRBN), which modulates the CRL4–CRBN ubiquitin ligase complex and downstream transcription factors such as Ikaros.
+Detailed mechanism of action data is not currently available. Based on known information, thalidomide is an immunomodulatory and anti-angiogenic agent, and its efficacy in multiple myeloma has been established. Mechanistically, it may be applicable to neural crest tumours.
 
-For the neuroblastoma prediction specifically, the rationale is that thalidomide's anti-angiogenic mechanism (bFGF/VEGF inhibition) has been demonstrated effective in neuroblastoma xenograft models, and the cereblon (CRBN) pathway has separately been linked to N-myc suppression — a gene central to high-risk neuroblastoma biology. This gives the prediction a coherent mechanistic story beyond simple embedding similarity: anti-angiogenic therapy is a recognized strategy in pediatric solid tumors with limited treatment options, and neuroblastoma's known vascular dependence (higher microvessel density correlating with worse prognosis) provides a plausible biological bridge.
-
-It is worth noting, however, that formal confirmation of thalidomide's original approved indication is missing from this pack. The historical association with multiple myeloma and erythema nodosum leprosum, referenced incidentally in several of the collected publications, should be treated as background context rather than a verified regulatory fact until DG001/DG002 are resolved.
+Ganglioneuroblastoma belongs to the same tumour family as neuroblastoma. A plausible link exists through thalidomide's anti-angiogenic and immunomodulatory activity in these related neural crest tumours. This link is inferred only. No trials or publications specific to ganglioneuroblastoma were found, so the prediction should be regarded as a hypothesis.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00357500](https://clinicaltrials.gov/study/NCT00357500) | Phase 2 | Completed | 101 | Oral 5-drug anti-angiogenic (metronomic) regimen — thalidomide, celecoxib, fenofibrate, etoposide, cyclophosphamide — in patients with relapsed or progressive cancer, including neuroblastoma; graded "A" relevance as a direct trial in this population. |
-| [NCT00098865](https://clinicaltrials.gov/study/NCT00098865) | Phase 2 | Completed | 15 | Pilot study combining thalidomide with temozolomide in children with relapsed/progressive brain tumors or recurrent neuroblastoma, based on thalidomide's anti-angiogenic activity; graded "B" (population skews toward brain tumors). |
-| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Phase 1 | Completed | 26 | Pharmacokinetic trial combining thalidomide with docetaxel in advanced cancer, based on anti-angiogenic therapeutic principles; small sample, PK-focused rather than efficacy-driven. |
-
----
+Currently no related clinical trials registered for ganglioneuroblastoma.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [24123865](https://pubmed.ncbi.nlm.nih.gov/24123865/) | 2014 | Phase II trial (published results) | Pediatric Blood & Cancer | Published outcomes of the multi-agent oral antiangiogenic (metronomic) regimen in children with recurrent/progressive cancer, consistent with NCT00357500. |
-| [18024879](https://pubmed.ncbi.nlm.nih.gov/18024879/) | 2007 | Case report | J Clin Oncol | "Successful antiangiogenic therapy for neuroblastoma with thalidomide" — a direct positive clinical case. |
-| [14612937](https://pubmed.ncbi.nlm.nih.gov/14612937/) | 2003 | Preclinical (xenograft) | International Journal of Oncology | Thalidomide shown anti-angiogenic in a neuroblastoma xenograft model, foundational preclinical rationale. |
-| [29423589](https://pubmed.ncbi.nlm.nih.gov/29423589/) | 2018 | Preclinical | Pediatric Surgery International | Thalidomide potentiates etoposide-induced apoptosis in murine neuroblastoma via suppression of NF-κB activation. |
-| [15707702](https://pubmed.ncbi.nlm.nih.gov/15707702/) | 2005 | Review (mechanistic) | Cancer Treatment Reviews | Reviews antiangiogenic strategies in neuroblastoma, noting high vascular index correlates with poor prognosis. |
-| [23982484](https://pubmed.ncbi.nlm.nih.gov/23982484/) | 2013 | Preclinical/mechanistic | Cancer Immunology, Immunotherapy | Lenalidomide (thalidomide analogue) overcomes NK-cell suppression caused by neuroblastoma microenvironment cytokines (IL-6, TGFβ1). |
-| [27329811](https://pubmed.ncbi.nlm.nih.gov/27329811/) | 2016 | Mechanistic | Biochemical and Biophysical Research Communications | Nuclear cereblon (CRBN) modulates Ikaros transcriptional activity in human neuroblastoma cells — direct mechanistic support for the CRBN pathway rationale. |
-| [36549117](https://pubmed.ncbi.nlm.nih.gov/36549117/) | 2023 | Preclinical (drug design) | European Journal of Medicinal Chemistry | Structure-activity study using a thalidomide-derived PROTAC to degrade AURKA in neuroblastoma, leveraging the same CRBN-binding moiety. |
+Currently no related literature available for ganglioneuroblastoma.
 
 ---
 
-## Other Predicted Indications Screened
+## Other Predicted Indications With Evidence
 
-TxGNN generated 10 candidate indications for this drug. For context on the overall repurposing screen, the remaining 9 are summarized below (Neuroblastoma, the primary candidate above, is rank 4):
+The following lower-ranked predictions have more supporting data than the top-ranked one.
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation | Note |
+| Rank | Indication | Score | Evidence Level | Key Evidence | Recommendation |
 |---|---|---|---|---|---|
-| 1 | Ganglioneuroblastoma | 98.96% | L5 | Hold | No clinical trials or literature; theoretical neural-crest-tumor analogy only, based purely on knowledge-graph embedding similarity. |
-| 2 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 98.95% | L5 | Hold | No identifiable pharmacological rationale and no evidence; recommend manual review of the underlying KG node semantics. |
-| 3 | Retroperitoneal neoplasm | 98.68% | L4 | Hold | Evidence limited to unrelated case reports (Castleman disease, histiocytic sarcoma) and one irrelevant apixaban VTE-prophylaxis trial. |
-| 5 | Brachydactyly-syndactyly syndrome | 94.22% | L5 | Hold | ⚠️ Likely KG false positive — matches thalidomide's well-known teratogenic limb-malformation signal (phocomelia), not a treatment relationship. |
-| 6 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 93.20% | L5 | Hold | ⚠️ Likely KG false positive — phenotype overlaps with thalidomide embryopathy (rhizomelic limb shortening), not a treatment relationship. |
-| 7 | Rheumatoid arthritis | 92.40% | L3 | Research Question | Mechanistic rationale (TNF-α inhibition, anti-angiogenesis) is present, but direct clinical evidence is limited to small open-label studies from the 1980s–1990s; most listed trials target other diseases (Sjögren's, sarcoidosis). |
-| 8 | Myeloid leukemia | 90.54% | Not yet graded | Pending | Substantial literature on IMiDs/thalidomide in AML and MDS (anti-angiogenesis, cereblon pathway) plus several completed Phase 2 trials in MDS-related anemia; worth prioritizing for full evidence grading. |
-| 9 | Indolent plasma cell myeloma | 88.46% | Not yet graded | Pending | One completed Phase 2 trial (UARK 98-036, n=83) plus a substantial published series on thalidomide in smoldering/indolent myeloma; appears to have a richer evidence base than its current "pending" status reflects — worth prioritizing. |
-| 10 | Acute lymphoblastic leukemia | 74.75% | L4 | Hold | Most cited trials/literature involve lenalidomide (a thalidomide analogue) rather than thalidomide itself; some literature reports thalidomide-*associated* secondary leukemia, i.e., an adverse outcome, not a therapeutic benefit. |
+| 4 | Neuroblastoma | 98.66% | L2 | 3 trials (2 Phase 2, 1 Phase 1), preclinical xenograft and in vitro data | Research question |
+| 7 | Rheumatoid arthritis | 92.40% | L3 | Historical open studies, reviews; the one trial listed is in Sjogren's syndrome | Research question |
+| 8 | Myeloid leukemia | 90.54% | L2 | 6 trials (mostly Phase 2) in AML and MDS | Research question |
+| 9 | Indolent plasma cell myeloma | 88.46% | L2 | 1 Phase 2 trial plus Phase 2 single-agent reports | Research question |
+| 3 | Retroperitoneal neoplasm | 98.68% | L4 | Case reports only | Hold |
+| 10 | Acute lymphoblastic leukemia | 74.75% | L4 | Indirect evidence only | Hold |
+
+**Neuroblastoma (rank 4) trials**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00357500](https://clinicaltrials.gov/study/NCT00357500) | Phase 2 | Completed | 101 | Oral 5-drug anti-angiogenic regimen (thalidomide, celecoxib, fenofibrate, etoposide, cyclophosphamide) in relapsed or progressive cancer |
+| [NCT00098865](https://clinicaltrials.gov/study/NCT00098865) | Phase 2 | Completed | 15 | Thalidomide with temozolomide in relapsed or progressive brain tumours or neuroblastoma |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Phase 1 | Completed | 26 | Thalidomide with docetaxel, pharmacokinetic study in advanced cancer |
+
+**Neuroblastoma (rank 4) key literature**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24123865](https://pubmed.ncbi.nlm.nih.gov/24123865/) | 2014 | Phase 2 trial | Pediatr Blood Cancer | Multi-agent oral metronomic anti-angiogenic regimen in children with recurrent or progressive cancer |
+| [14612937](https://pubmed.ncbi.nlm.nih.gov/14612937/) | 2003 | Preclinical (xenograft) | Int J Oncol | Thalidomide is anti-angiogenic in a neuroblastoma xenograft model |
+| [29423589](https://pubmed.ncbi.nlm.nih.gov/29423589/) | 2018 | Preclinical | Pediatr Surg Int | Thalidomide potentiates etoposide-induced apoptosis in murine neuroblastoma via NF-κB suppression |
+| [10882863](https://pubmed.ncbi.nlm.nih.gov/10882863/) | 2000 | Review | Eur J Cancer | Thalidomide as an "accidental" anti-angiogenic drug |
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000823 (cancelled) | Thalidomide BMS (previously Thalidomide Celgene) | Not specified | Thalidomide BMS in combination with melphalan and prednisone as first line treatment of patients with untreated multiple myeloma, aged >/= 65 years or ine... |
+| EMEA/H/C/005715 (cancelled) | Thalidomide Lipomed | Not specified | Thalidomide Lipomed in combination with melphalan and prednisone is indicated as first line treatment of patients with untreated multiple myeloma, aged ... |
+
+---
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Immunomodulatory and anti-angiogenic agent used in oncology (not a conventional cytotoxic) |
+| Myelosuppression Risk | Neutropenia is listed among its contraindicated conditions in the knowledge graph; please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Blood counts, neurological assessment for peripheral neuropathy, and thromboembolism surveillance |
+| Handling Protection | Teratogen: pregnancy prevention programme requirements apply, as referenced in the former EU authorisations |
 
 ---
 
 ## Safety Considerations
 
-Formal safety data (key warnings, contraindications, drug-drug interactions) from the official regulatory label were not available in this evidence pack. This is logged as a **Blocking** data gap (DG001) that must be resolved before this candidate can pass S1 safety pre-screening.
+- **Teratogenicity**: Both former EU authorisations required prescription and dispensing under a Pregnancy Prevention Programme. Thalidomide is a known teratogen.
+- **Conditions flagged in the knowledge graph as contraindicated** (from drug-disease graph links, not label text): multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, epilepsy, neutropenia, agranulocytosis, peripheral nervous system disease, peripheral neuropathy, pulmonary embolism.
+- **Drug Interactions**: 100 interactions were identified. Major-level interactions include the corticosteroids hydrocortisone, triamcinolone, dexamethasone, betamethasone and prednisone. Moderate-level interactions include famotidine, ranitidine, cimetidine, nizatidine, morphine, metronidazole, clarithromycin, levofloxacin, ondansetron, palonosetron, dolasetron, metoclopramide, dronabinol and nabilone.
 
-Please refer to the SmPC for complete safety information once retrieved.
-
-Separately, it is worth noting that thalidomide's well-documented teratogenic risk (limb malformations) appears to actively confound the TxGNN predictions themselves: two of the ten candidate indications in this batch (Brachydactyly-syndactyly syndrome; Colobomatous microphthalmia-rhizomelic dysplasia syndrome, see table above) closely mirror the phenotype of thalidomide embryopathy and are very likely knowledge-graph artifacts derived from the drug's known adverse-effect associations rather than genuine treatment signals. Given thalidomide's history, a pregnancy-risk-management/controlled-distribution requirement should be treated as a default assumption pending confirmation from the official SmPC.
+Label-based warnings and contraindications were not available; please refer to the SmPC for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for the Neuroblastoma candidate)
+**Decision: Hold**
 
 **Rationale:**
-- Neuroblastoma is supported by 2 completed Phase 2 trials, 1 completed Phase 1 PK trial, and a coherent body of preclinical (xenograft, murine) and mechanistic (CRBN/N-myc, anti-angiogenic) literature, consistent with an L2 evidence level.
-- Drug-level safety documentation is a Blocking data gap, and thalidomide's known teratogenicity requires dedicated risk-management review before any development pathway is pursued — hence "Guardrails" rather than an unconditional "Go."
+- The top-ranked prediction, ganglioneuroblastoma, rests on model score alone (L5), with no trials or literature. Both EU authorisations are cancelled, and teratogenicity and neuropathy are major concerns, especially in paediatric patients.
+- Neuroblastoma, myeloid leukaemia and indolent myeloma have Phase 2 support and could be pursued as research questions, but attribution to thalidomide is limited by combination designs and no Phase 3 data.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve official TFDA/EMA SmPC warnings and contraindications.
-- Resolve DG002 (High): retrieve DrugBank/authoritative MOA data to confirm the anti-angiogenic/CRBN mechanistic rationale.
-- Confirm publication status and efficacy outcomes for the neuroblastoma subgroups of NCT00357500 and NCT00098865.
-- Define a pregnancy-prevention / controlled-distribution risk management plan given thalidomide's teratogenic history.
-- Manually review and most likely exclude the two KG-flagged false-positive indications (brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome) from further pipeline consideration.
-- Consider prioritizing "Indolent plasma cell myeloma" and "Myeloid leukemia" for full evidence grading, as their underlying literature base appears richer than their current "pending" scoring status suggests.
+- Mechanism of action data and SmPC warnings and contraindications
+- Review of neuroblastoma data as the nearest evidence-backed neural crest tumour, including whether ganglioneuroblastoma patients were included in those studies
+- Isolation of thalidomide's own contribution from combination regimens
+- A risk management plan covering teratogenicity, peripheral neuropathy and thromboembolism, plus a review of the reasons for the cancellations of the EU authorisations
+- Dosage form and route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

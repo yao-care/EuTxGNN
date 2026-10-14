@@ -2,7 +2,7 @@
 layout: default
 title: Ceftaroline Fosamil
 parent: AI Predictions (L5)
-nav_order: 134
+nav_order: 136
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,87 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ceftaroline Fosamil: From Bacterial Infections to Rheumatoid Arthritis
+# Ceftaroline fosamil: From Skin and Lung Infections to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Ceftaroline fosamil is a 5th-generation cephalosporin β-lactam antibiotic (prodrug), originally approved internationally for community-acquired bacterial pneumonia and acute bacterial skin and skin structure infections (ABSSSI), including MRSA — but currently not marketed in Taiwan.
-The TxGNN model predicts it may have potential for **Rheumatoid Arthritis** (highest-ranked prediction),
-yet **0 clinical trials** and **0 publications** support this direction; mechanistic analysis strongly suggests the high prediction score is a knowledge graph structural artifact rather than a genuine repurposing signal.
-
----
+Ceftaroline fosamil is a cephalosporin antibiotic, originally used to treat complicated skin and soft tissue infections and community-acquired pneumonia.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials and no directly relevant publications** currently support this prediction.
+The high model score is not backed by any clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Community-acquired bacterial pneumonia (CABP); acute bacterial skin and skin structure infections (ABSSSI), including MRSA — not available from Taiwan regulatory data |
-| Predicted New Indication | Rheumatoid Arthritis |
+| Original Indication | Complicated skin and soft tissue infections (cSSTI) and community-acquired pneumonia (CAP), in neonates, infants, children, adolescents and adults |
+| Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 98.20% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on known pharmacological information, Ceftaroline fosamil is a prodrug that is hydrolyzed in vivo to its active form, ceftaroline. It exerts bactericidal activity by binding to penicillin-binding proteins (PBPs) — including PBP2a, the key resistance determinant of MRSA — thereby inhibiting bacterial cell wall synthesis. This mechanism is entirely specific to prokaryotic biology and has no established immunomodulatory, anti-inflammatory, or disease-modifying relevance to autoimmune conditions.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, ceftaroline is a beta-lactam cephalosporin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), including PBP2a of MRSA. Its efficacy has been shown in bacterial skin and lung infections.
 
-Rheumatoid arthritis is a chronic, systemic autoimmune disease driven by dysregulated T-cell and B-cell responses, inflammatory cytokine cascades (TNF-α, IL-6, IL-17), and synovial hyperplasia. Unlike certain antibiotics with documented immunomodulatory properties (most notably minocycline, which has modest but real anti-inflammatory activity and has been studied in early RA), β-lactam antibiotics have no established off-target anti-inflammatory or immunomodulatory mechanism that could plausibly translate to RA disease modification.
+Rheumatoid arthritis is an autoimmune inflammatory disease with no bacterial driver. No plausible mechanistic link between ceftaroline and RA was identified, and no anti-inflammatory or immunomodulatory action is established for this drug. The score of 0.98 is therefore a model output only, and it should not be read as evidence of efficacy.
 
-The high TxGNN prediction scores across all 10 ranked indications (0.967–0.982) most likely reflect a **knowledge graph structural false positive**: ceftaroline has genuine clinical use in joint and bone infections (septic arthritis, osteomyelitis, prosthetic joint infections), and the KG nodes for these conditions are topologically adjacent to musculoskeletal disease nodes such as rheumatoid arthritis and osteoarthritis. The model has learned proximity without pharmacological causality. This pattern is further reinforced by the complete absence of any clinical trials or mechanistically relevant literature across all 10 predicted indications, and by the cluster of rare skeletal dysplasias (pseudoachondroplasia, brachyolmia, acromesomelic dysplasia, Hunter-Thompson type) appearing in ranks 5–9 — diseases caused by genetic mutations in cartilage/bone proteins, where antibiotic intervention has no plausible rationale whatsoever.
-
----
+Other top-ranked predictions show the same pattern: osteoarthritis, osteoarthritis susceptibility, gout, and several rare genetic skeletal dysplasias. None has a credible mechanistic rationale. Some matches appear to come from term similarity. For example, the only osteoarthritis-related paper concerns bone and joint *infection*, which is a different condition from degenerative osteoarthritis.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Ceftaroline fosamil in Rheumatoid Arthritis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Ceftaroline fosamil in Rheumatoid Arthritis.
+No literature directly addresses ceftaroline in rheumatoid arthritis. The publications below were retrieved for other top-ranked predictions and are shown only to clarify why they do not support repurposing.
 
-> **Contextual Note — Osteoarthritis (Rank 2):** Two publications were retrieved under the "osteoarthritis" query, but neither constitutes repurposing evidence for degenerative joint disease. Both address ceftaroline's use in **bacterial joint and bone infections** occurring in orthopaedic patients — a recognized on-label infectious disease application, not OA disease modification. This is a terminology mismatch between "osteoarthritis" (degenerative) and "osteoarticular infection" (infectious), not evidence of an anti-arthritic effect.
->
-> | PMID | Year | Type | Journal | Key Findings |
-> |------|-----|------|------|---------|
-> | [27530754](https://pubmed.ncbi.nlm.nih.gov/27530754/) | 2016 | Matched Cohort | J Antimicrob Chemother | Ceftaroline vs vancomycin for long-term outpatient treatment of **osteoarticular infection**; describes effectiveness/safety in infectious, not degenerative, joint disease |
-> | [23312602](https://pubmed.ncbi.nlm.nih.gov/23312602/) | 2013 | Survey/Expert Panel | Int J Antimicrob Agents | Expert survey on **prosthetic joint infection** antibiotic management; not related to OA disease modification |
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27530754](https://pubmed.ncbi.nlm.nih.gov/27530754/) | 2016 | Cohort | J Antimicrob Chemother | Matched cohort of outpatient ceftaroline vs vancomycin for osteoarticular *infection*. This is an antibacterial use, not treatment of osteoarthritis. |
+| [21382815](https://pubmed.ncbi.nlm.nih.gov/21382815/) | 2011 | Review | J Am Pharm Assoc | New-drug roundup listing ceftaroline alongside pegloticase (a gout drug). It does not show efficacy in gout. |
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Ceftaroline fosamil is currently **not marketed in Taiwan**. No TFDA-authorized products exist, and no license data is available for this drug.
-
-> For reference: Ceftaroline fosamil is approved internationally under the brand names **Teflaro** (United States, FDA) and **Zinforo** (European Union, EMA) for community-acquired bacterial pneumonia and acute bacterial skin and skin structure infections.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002252 (cancelled) | Zinforo | Not specified | Complicated skin and soft tissue infections (cSSTI), community-acquired pneumonia (CAP) in neonates, infants, children, adolescents and adults... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. Detailed warnings, contraindications, and drug interaction data were not available in this evidence pack. Taiwan TFDA prescribing information (仿單) has not yet been retrieved.
+- **Drug Interactions**: 12 interactions, all rated Moderate, were identified. They include:
+  - Aminoglycosides: kanamycin, neomycin, streptomycin, amikacin (including liposomal), gentamicin
+  - Anticoagulants: warfarin, dicoumarol
+  - Others: chloramphenicol, picosulfuric acid, ethinylestradiol, mycophenolic acid
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications lack pharmacological mechanistic support for repurposing an anti-bacterial β-lactam into non-infectious musculoskeletal or genetic disease categories. The uniformly high prediction scores (0.967–0.982) across biologically unrelated conditions — from autoimmune arthritis to rare skeletal dysplasias — are a strong signal of **knowledge graph topology bias** rather than genuine drug-disease pharmacology. No clinical trials and no mechanistically relevant literature exist for any of the 10 predicted indications.
+The prediction rests on a model score alone. There are no clinical trials, no supporting literature, and no plausible mechanism linking an antibacterial cephalosporin to an autoimmune disease. The EU authorization for the original product is also cancelled.
 
-**To proceed with any reassessment, the following would be needed:**
-
-- Obtain Taiwan TFDA SmPC (仿單) to establish local safety profile, warnings, and contraindications
-- Confirm full off-target pharmacological profile of ceftaroline (including any immunomodulatory effects, if documented in the primary literature)
-- Determine whether any β-lactam antibiotic class member has established anti-inflammatory activity applicable to autoimmune diseases — if not, deprioritize this entire drug class for autoimmune repurposing
-- Review KG subgraph structure around the ceftaroline node to identify and flag the "infection-adjacency" false positive pattern, which may affect other antibiotics in the dataset similarly
-- Consider rerunning TxGNN predictions with infection-related disease nodes masked, to assess whether musculoskeletal predictions persist or disappear (a methodological validation step)
+**To proceed, the following is needed:**
+- Mechanistic evidence for any immunomodulatory or anti-inflammatory effect of ceftaroline (mechanism of action data is currently missing)
+- Preclinical data in RA models
+- Warnings and contraindications from the SmPC, which are required before any safety screening
+- A review of whether the predictions have any infection-related rationale, for example infection management in RA patients, which would be supportive care rather than disease treatment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

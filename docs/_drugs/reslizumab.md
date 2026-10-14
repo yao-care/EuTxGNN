@@ -2,7 +2,7 @@
 layout: default
 title: Reslizumab
 parent: AI Predictions (L5)
-nav_order: 501
+nav_order: 519
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,53 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Reslizumab: From Undocumented Original Indication to Thrombocytopenia Due to Immune Destruction
+# Reslizumab: From Severe Eosinophilic Asthma to Immune Thrombocytopenia
 
 ## One-Sentence Summary
 
-> Reslizumab's original approved indication and detailed mechanism-of-action are not recorded in this evidence pack, and the drug is not currently marketed in the EU per this dataset. TxGNN's top-ranked prediction is efficacy for **Thrombocytopenia Due to Immune Destruction** (score 99.53%), but this candidate is currently supported by **0 clinical trials** and **0 publications**, and the model's own mechanistic annotation flags it as likely reflecting knowledge-graph structural similarity rather than a genuine biological pathway.
+Reslizumab is an anti-IL-5 monoclonal antibody, originally authorized in the EU as add-on therapy for severe eosinophilic asthma.
+The TxGNN model predicts it may be effective for **thrombocytopenia due to immune destruction**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a model-only signal.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not available — no license or indication data on file |
-| Predicted New Indication | Thrombocytopenia Due to Immune Destruction |
-| TxGNN Prediction Score | 99.53% (raw graph rank #5,237) |
+|------|------|
+| Original Indication | Add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high-dose inhaled corticosteroids plus another maintenance medicinal product |
+| Predicted New Indication | Thrombocytopenia due to immune destruction |
+| TxGNN Prediction Score | 99.53% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | ✗ Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for reslizumab is not available in this evidence pack. The only mechanistic information on file comes from the prediction's own rationale text, which notes that reslizumab's known action is IL-5 blockade, primarily affecting eosinophils.
+Detailed mechanism of action data is not available in the data compiled for this report. Reslizumab is known to be an anti-IL-5 monoclonal antibody. By blocking IL-5 signaling it reduces eosinophil numbers and activity, which is why it works in severe eosinophilic asthma.
 
-The rationale explicitly states that there is **no established mechanistic connection** between IL-5/eosinophil biology and immune-mediated platelet destruction (which is driven by anti-platelet autoantibodies and Fc-receptor-mediated clearance by macrophages). It further notes that the high TxGNN score likely reflects structural similarity between biologic-drug and autoimmune-disease nodes within the knowledge graph, rather than a true, validated biological pathway.
+The link to immune-mediated thrombocytopenia is weak. This condition is mainly driven by autoantibody-mediated platelet destruction and impaired platelet production, and eosinophil or IL-5 pathways are not an established driver. The high score most likely reflects proximity in the knowledge graph rather than a biological rationale. No trials or publications back the prediction.
 
-In short, despite the numerically high prediction score, the evidence pack's own scoring assigns this candidate **L5 (model prediction only, no supporting studies)** and a **Hold** recommendation — this is a data-driven signal without current biological or clinical corroboration.
+The same applies to the other platelet-related predictions, such as primary release disorder of platelets, pseudo-von Willebrand disease, autoimmune thrombocytopenia, Glanzmann thrombasthenia, neonatal thrombocytopenia, and Evans syndrome. All of them are model-only signals with no supporting mechanism. The only prediction with direct clinical evidence is **filariasis** (rank 9, score 96.22%, discussed in the conclusion).
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for immune thrombocytopenia.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for immune thrombocytopenia.
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003912 (cancelled) | Cinqaero | Not specified | Add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report. Because the product's EU authorization has been cancelled, any use would need to rely on the previously approved labeling and on new safety assessment. Using a monoclonal antibody in neonates (neonatal thrombocytopenia) would raise additional safety concerns.
 
 ---
 
@@ -84,15 +94,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Thrombocytopenia Due to Immune Destruction) has zero clinical trial or literature support, and the pack's own mechanistic assessment argues against biological plausibility. Drug-level regulatory data (TFDA label warnings/contraindications) is also flagged as a **Blocking** gap (DG001), which by itself prevents advancing this candidate to any safety review stage.
+The predicted indication rests only on a knowledge-graph score (L5). It has no clinical trials or publications, and its mechanistic rationale is weak. In addition, the only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (DG001, Blocking) — required before any S1 safety screening
-- Confirmed mechanism of action and original approved indication(s) for reslizumab (DG002, High)
-- Independent biological/preclinical evidence linking IL-5 blockade to immune platelet destruction, since none currently exists
-
-**Note on other candidates in this evidence pack:**
-This pack ("TW-DB06602-multi") evaluated 10 predicted indications for reslizumab. Nine of them — including the top-ranked one above — have no supporting clinical trials or literature (L5, Hold). One exception stands out: **filariasis** (rank 9, TxGNN score 96.22%, rank #29,004) is supported by a completed Phase 2, randomized, placebo-controlled trial ([NCT01111305](https://clinicaltrials.gov/study/NCT01111305), n=31) and 2 PubMed articles, evaluating reslizumab's use in reducing IL-5-dependent eosinophilia-related adverse reactions following diethylcarbamazine treatment of Loa loa infection (loiasis). This candidate is scored **L2 / S2 / Research Question** and, despite its lower raw TxGNN score, is mechanistically well-supported and may warrant a separate, dedicated evaluation report.
+- Detailed mechanism of action data to assess whether any IL-5/eosinophil role exists in immune thrombocytopenia
+- Preclinical or observational evidence linking IL-5 blockade to platelet destruction
+- Safety information from the SmPC, plus clarification of the reasons for and implications of the authorization cancellation
+- Consideration of **filariasis (loiasis)** as a better-supported alternative research question. A completed Phase 2 randomized, placebo-controlled pilot ([NCT01111305](https://clinicaltrials.gov/study/NCT01111305), n=31) tested single-dose reslizumab for reducing eosinophilia after diethylcarbamazine treatment of Loa loa infection. It was published as an RCT ([PMID 32910141](https://pubmed.ncbi.nlm.nih.gov/32910141/), 2021). A related review is also available ([PMID 33326992](https://pubmed.ncbi.nlm.nih.gov/33326992/), 2021). The study is small and a pilot, so efficacy as a therapeutic indication is not established.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

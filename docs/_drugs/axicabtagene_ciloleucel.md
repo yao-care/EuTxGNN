@@ -2,7 +2,7 @@
 layout: default
 title: Axicabtagene Ciloleucel
 parent: AI Predictions (L5)
-nav_order: 73
+nav_order: 75
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,99 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Axicabtagene Ciloleucel: From Large B-Cell Lymphoma to Crohn's Colitis
+# Axicabtagene ciloleucel: From Large B-Cell Lymphoma to Crohn's Colitis
 
 ## One-Sentence Summary
 
-Axicabtagene ciloleucel (Yescarta) is an autologous CD19-directed CAR-T cell therapy, internationally approved for relapsed or refractory large B-cell lymphoma, but not currently registered in Taiwan.
-The TxGNN model predicts it may be applicable to **Crohn's Colitis**, ranking it first among predicted new indications with a score of **91.39%**.
-However, **no clinical trials or publications** currently support this specific combination, making this a purely model-driven prediction at this stage.
-
----
+Axicabtagene ciloleucel (Yescarta) is a CD19-directed CAR-T cell therapy, originally used for relapsed or refractory large B-cell lymphoma and follicular lymphoma.
+The TxGNN model predicts it may be effective for **Crohn's colitis**, but **no clinical trials and no publications** currently support this prediction, so it is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Large B-Cell Lymphoma (international approval; not registered in Taiwan) |
-| Predicted New Indication | Crohn's Colitis |
+| Original Indication | Adult DLBCL and HGBL relapsing within 12 months of, or refractory to, first-line chemoimmunotherapy; r/r DLBCL and PMBCL after two or more lines of systemic therapy; r/r follicular lymphoma after three or more lines of systemic therapy |
+| Predicted New Indication | Crohn's colitis |
 | TxGNN Prediction Score | 91.39% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Axicabtagene ciloleucel (Yescarta) is an autologous, ex vivo-engineered CAR-T cell therapy targeting the CD19 antigen expressed on the surface of B cells. It works by reprogramming the patient's own T cells to recognize and eliminate CD19-positive cells, achieving deep and durable B-cell depletion. This mechanism has been clinically validated in aggressive B-cell malignancies — most notably diffuse large B-cell lymphoma (DLBCL), primary mediastinal large B-cell lymphoma, and follicular lymphoma.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Axicabtagene ciloleucel is a CD19-directed CAR-T cell therapy. Its efficacy in CD19-positive B-cell lymphomas is established, and mechanistically it depletes B cells.
 
-The link to Crohn's colitis rests on the role B cells play in intestinal inflammation. CD19⁺ B cells residing in the gut-associated lymphoid tissue (GALT) and intestinal mucosa produce pro-inflammatory cytokines (IL-6, TNF-α) and disease-associated autoantibodies that sustain chronic mucosal injury. By eliminating this B-cell compartment, CD19 CAR-T therapy could theoretically interrupt a key amplification loop in Crohn's disease pathogenesis. Critically, a 2024 proof-of-concept published by Schett et al. demonstrated that CD19-directed CAR-T cells (using a different CAR-T product, not axi-cel) can induce drug-free remission in refractory systemic autoimmune diseases — including systemic lupus erythematosus and systemic sclerosis — extending the therapeutic concept beyond oncology.
+In theory, B-cell depletion could modulate B-cell-involved immune pathways in inflammatory bowel disease. However, Crohn's disease is predominantly driven by T cells and cytokines, so the link is weak. The treatment's serious toxicities (cytokine release syndrome, neurotoxicity, prolonged cytopenias) and the need for lymphodepleting chemotherapy are difficult to justify in a non-malignant condition with many approved alternatives. The prediction should be viewed as a hypothesis only.
 
-That said, the mechanistic plausibility for Crohn's colitis specifically is rated **moderate at best**. Crohn's disease is predominantly driven by T-cell dysregulation (Th1/Th17 pathways, innate immune activation), with B cells playing a supporting rather than primary role. No clinical data exist for axi-cel — or any CD19 CAR-T product — in inflammatory bowel disease specifically. This prediction remains firmly in hypothesis-generating territory and should not be advanced without prospective mechanistic and safety evaluation.
-
----
+Other top-ranked predictions (for example multiple endocrine neoplasia, idiopathic aplastic anemia, adrenal gland hyperfunction, HER2-positive breast carcinoma, ankylosing spondylitis and the mastocytosis variants) also have no clear CD19-related rationale. The most biologically plausible of the ten is rheumatoid vasculitis (score 86.24%), where B-cell depletion has some theoretical basis and CD19 CAR-T is being explored in refractory autoimmune disease. This too remains hypothesis-level, with no clinical evidence provided.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Axicabtagene ciloleucel is **not registered** with the Taiwan Food and Drug Administration (TFDA) and has no issued marketing authorizations. No Taiwan-specific prescribing information (仿單) is available.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004480 (cancelled) | Yescarta | Not specified | DLBCL and HGBL that relapses within 12 months of, or is refractory to, first-line chemoimmunotherapy; r/r DLBCL and PMBCL after two or more lines... |
 
 ## Cytotoxicity
 
-Axicabtagene ciloleucel is an antineoplastic immunotherapy indicated for large B-cell lymphoma. This section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy — autologous CAR-T cell therapy (adoptive cell transfer) |
-| Myelosuppression Risk | High — significant cytopenias (neutropenia, thrombocytopenia, anemia) result from the mandatory lymphodepleting conditioning regimen (fludarabine + cyclophosphamide) administered prior to infusion; prolonged cytopenias lasting weeks are common |
-| CRS / ICANS Risk | High — cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS) are the primary serious adverse events; Grade ≥3 CRS observed in approximately 13–22% of patients in pivotal trials |
-| Monitoring Items | CBC with differential (daily during hospitalization and frequently post-discharge), ferritin, CRP, cytokine panels, neurological assessments, vital signs; monitor for at least 4 weeks at certified treatment center |
-| Handling Protection | Cryopreserved gene-modified cell therapy product; requires certified treatment center, chain-of-custody documentation, and specialized thawing procedures; follow institutional cell therapy and REMS program protocols |
-
----
+| Cytotoxicity Classification | Immunotherapy (autologous CD19-directed CAR-T cell therapy) |
+| Myelosuppression Risk | Prolonged cytopenias are commonly reported, and the lymphodepleting chemotherapy given beforehand is itself myelosuppressive; please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Haematological parameters (CBC with differential), plus monitoring for cytokine release syndrome and neurological toxicity; please refer to the SmPC |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Taiwan-specific prescribing information is unavailable as the drug is not registered with the TFDA. Based on international labeling, key safety signals include:
+- **Drug Interactions**: 40 interactions were identified. The ones listed below are from the first 20 records compiled for this report.
+  - **Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol, cladribine, leflunomide, natalizumab
+  - **Moderate**: strontium chloride Sr-89, roflumilast, chloramphenicol (including ophthalmic), alefacept, alemtuzumab, anakinra, azathioprine, canakinumab, dimethyl fumarate, niraparib, ocrelizumab
 
-- **Cytokine Release Syndrome (CRS)**: Potentially fatal; ranges from fever and hypotension to life-threatening multiorgan dysfunction; managed with tocilizumab and corticosteroids per institutional protocol
-- **Neurological Toxicity (ICANS)**: Includes encephalopathy, aphasia, seizure, and cerebral edema; requires REMS (Risk Evaluation and Mitigation Strategy) enrollment in the United States
-- **Prolonged Cytopenias**: Resulting from lymphodepleting conditioning; increases risk of serious infections including bacterial, viral, and fungal pathogens
-- **Hypogammaglobulinemia**: Consequence of sustained B-cell aplasia; may require immunoglobulin replacement therapy
+Many of these are immunosuppressive or myelosuppressive agents, so combined use deserves particular caution.
 
-Please refer to the full prescribing information (SmPC / US PI) for complete safety guidance.
-
----
+Please also refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN model identifies Crohn's colitis as the highest-ranked new indication for axicabtagene ciloleucel, grounded in a biologically coherent — if mechanistically secondary — role for B-cell depletion in intestinal inflammation. However, with zero supporting clinical trials or publications, an all-L5 evidence base, a drug not registered in Taiwan, and a serious toxicity profile requiring highly specialized delivery infrastructure, there is no basis to advance this candidate toward clinical development at this time.
+The prediction rests on model output alone (L5) with no trials or publications. The biological rationale for Crohn's colitis is weak, since the disease is mainly T-cell and cytokine driven, and the toxicity of CAR-T therapy is hard to justify given effective approved alternatives. The EU marketing authorization is also currently cancelled.
 
 **To proceed, the following is needed:**
-
-- **Clinical signal generation**: Identify published or ongoing studies of any CD19 CAR-T product (not necessarily axi-cel) in Crohn's disease or other inflammatory bowel diseases; assess whether the Schett 2024 autoimmune framework is being extended to IBD
-- **Mechanistic validation**: Quantify the relative contribution of B cells vs. T cells and innate immunity in the specific Crohn's colitis subtype targeted; determine whether gut GALT B-cell depletion is achievable and durable with systemic CAR-T infusion
-- **Regulatory prerequisite**: Obtain TFDA prescribing information (仿單) to complete Taiwan-specific safety screening and determine whether compassionate use or clinical trial pathways are feasible
-- **Feasibility assessment**: Evaluate T-cell collection adequacy in refractory Crohn's patients (who may be on immunosuppressants affecting T-cell quality), manufacturing logistics, and treatment center certification requirements in Taiwan
-- **Signal prioritization review**: Note that 9 of the 10 top TxGNN predictions for this drug carry significant mechanistic concerns — several target diseases (mastocytosis, HER2⁺ breast cancer, multiple endocrine neoplasia) whose tumor cells do not express CD19 at all, suggesting the model may be pattern-matching on graph proximity rather than true biological relevance; rheumatoid vasculitis (Rank 10) carries the strongest mechanistic rationale among the non-Crohn's predictions and may warrant parallel evaluation
+- Mechanism of action data and a clear mechanistic rationale for CD19 targeting in Crohn's colitis
+- Preclinical or early clinical evidence in inflammatory bowel disease
+- Warnings and contraindications from the SmPC, which are needed for safety screening
+- A risk-benefit assessment against approved biologics
+- Clarification of the cancelled EU authorization status
+- If any candidate is pursued, rheumatoid vasculitis is the more plausible research question, as a hypothesis-generating effort only
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Irbesartan
-parent: Medium Evidence (L3-L4)
-nav_order: 323
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 334
+evidence_level: L5
 indication_count: 10
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,80 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Irbesartan: From Hypertension to Malignant Hypertensive Renal Disease
+# Irbesartan: From Essential Hypertension to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Irbesartan is an Angiotensin II Type 1 Receptor Blocker (ARB) with established pharmacological use in hypertension and diabetic nephropathy, acting by inhibiting Angiotensin II-mediated renal vasoconstriction and fibrosis.
-The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease** (score: 99.31%),
-with **no registered clinical trials** and **no disease-specific publications** currently identified for this indication — though mechanistic evidence from related ARB approvals provides biological plausibility at Level L4.
-
----
+Irbesartan is an angiotensin II receptor blocker, originally used to treat essential hypertension and renal disease in patients with hypertension and type 2 diabetes.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, with a very high prediction score.
+However, **no clinical trials and no publications** currently support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hypertension; Diabetic Nephropathy (FDA-approved; not registered in Taiwan) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+|------|------|
+| Original Indication | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihypertensive medicinal-product regimen. |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold — Pending S1 Safety Assessment |
-
----
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 5 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Irbesartan selectively blocks the Angiotensin II Type 1 Receptor (AT1R), the primary effector receptor of the renin-angiotensin system (RAS). By blocking AT1R, Irbesartan inhibits Angiotensin II-driven renal afferent and efferent arteriolar constriction, reducing intraglomerular hypertension. It also suppresses aldosterone secretion, reduces proteinuria, and exerts direct antifibrotic effects on the renal parenchyma. Irbesartan has received FDA approval for nephropathy in type 2 diabetic patients, establishing its class-level renal-protective efficacy.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, irbesartan is an AT1 receptor blocker (an angiotensin II receptor antagonist). Its efficacy in hypertension and in renal disease associated with hypertension and type 2 diabetes is already established.
 
-Malignant hypertensive renal disease (accelerated hypertensive nephropathy) shares its core pathophysiology with the conditions where ARBs are already proven effective: severe Angiotensin II-driven renal microvascular damage, fibrinoid necrosis of arterioles, and progressive glomerulosclerosis. The pathological axis — RAS overactivation → AT1R stimulation → glomerular hypertension → nephrosclerosis — is precisely the target of Irbesartan's mechanism. This mechanistic alignment explains why TxGNN assigns a high prediction score and why the scoring system classifies this as an L4 (mechanism-supported) rather than a purely model-speculative (L5) candidate.
+Malignant hypertensive renal disease is kidney injury driven by severe, accelerated hypertension, which is closely related to the approved indications. Blocking the renin-angiotensin system could lower blood pressure and reduce renal injury, so the prediction is biologically plausible as a close extension of the approved use.
 
-One critical safety constraint must be acknowledged upfront: in patients with bilateral renal artery stenosis (or stenosis of a solitary functioning kidney), ARB-mediated efferent arteriolar dilation may precipitate acute kidney injury (AKI). This risk is particularly relevant in the malignant hypertension setting, where renovascular disease may coexist. Full S1 safety stratification — including bilateral renal artery stenosis exclusion — is a prerequisite before any clinical development can proceed.
+There are important caveats. Malignant hypertension is a hypertensive emergency, usually managed with intravenous agents. ARBs also carry risks of acute kidney injury and hyperkalaemia in this setting. The high TxGNN score is a network-based prediction and not clinical proof.
 
----
+Other top predictions (malignant renovascular hypertension, pulmonary hypertension subtypes, Prinzmetal angina, COL4A1-related small-vessel diseases, chronic pulmonary heart disease) likewise have no clinical trial support. Only preclinical or indirect literature exists for the hypoxia-related pulmonary hypertension and chronic pulmonary heart disease predictions.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for this indication.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for this specific indication.
+Currently no related literature available for malignant hypertensive renal disease.
 
----
+## EU Market Information
 
-## Taiwan Market Information
+All five authorizations are listed as cancelled; there is currently no valid EU authorization for irbesartan as a single agent.
 
-Irbesartan is currently **not marketed in Taiwan** with no authorizations on record. No product license data is available for review.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000785 | Irbesartan Zentiva (previously Irbesartan Winthrop) | Not specified | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihyp... |
+| EMEA/H/C/000962 | Ifirmasta (previously Irbesartan Krka) | Not specified | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mellitus as part of an anti... |
+| EMEA/H/C/001093 | Irbesartan Teva | Not specified | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mellitus as part of an anti... |
+| EMEA/H/C/000142 | Karvea | Not specified | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihyp... |
+| EMEA/H/C/000141 | Aprovel | Not specified | Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type-2 diabetes mellitus as part of an antihyp... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (drug-disease contraindication links, not label text): angioedema (including RAAS-blocker-induced and hereditary forms), pancreatitis, systemic lupus erythematosus, anuria, renal artery obstruction, hypotensive disorders, hepatic coma/encephalopathy, diabetic ketoacidosis, gout, hypercalcaemia, hyperparathyroidism, myopathy/rhabdomyolysis, and potassium-related disorders such as familial periodic paralysis.
+- **Drug Interactions**: 100 interactions were identified. The two Major interactions among those listed are **potassium citrate** and **potassium bicarbonate** (risk of hyperkalaemia). Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), acetylsalicylic acid, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), insulins (aspart, degludec), bupropion, aprepitant, morphine, dronabinol, and several bowel-preparation agents.
+- **Setting-specific risk**: in renovascular hypertension, ARBs are a concern in bilateral renal artery stenosis or stenosis in a solitary kidney (risk of acute renal failure).
 
-> **Critical mechanistic safety alert (from repurposing rationale):** Based on known ARB pharmacology and the proposed indication, use of Irbesartan in patients with bilateral renal artery stenosis carries a documented risk of acute kidney injury. This must be addressed as part of the S1 safety assessment before clinical development.
-
----
+Please refer to the SmPC for the full label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold — Pending S1 Safety Assessment**
+**Decision: Hold**
 
 **Rationale:**
-Irbesartan's AT1R-blocking mechanism is directly aligned with the pathophysiology of malignant hypertensive renal disease, and its FDA-approved renal-protective precedent in diabetic nephropathy provides a credible mechanistic bridge. However, the complete absence of direct clinical trials and disease-specific literature, combined with an unresolved bilateral renal artery stenosis safety flag, prevents advancement beyond Hold until the S1 gate is cleared.
+The prediction is mechanistically plausible but has no clinical trial or literature support, resting only on the TxGNN score (evidence level L5). The condition is a hypertensive emergency where ARBs carry notable renal and potassium risks, and all EU authorizations are currently cancelled.
 
 **To proceed, the following is needed:**
-- **S1 Safety Stratification**: Define explicit exclusion criteria for bilateral renal artery stenosis (and single-kidney with ipsilateral stenosis) in any clinical protocol
-- **MOA Data Retrieval**: Query DrugBank API for full Irbesartan mechanism of action, targets, and known off-target effects (Data Gap DG002)
-- **Taiwan SmPC Review**: Download and parse the TFDA product insert PDF to extract warnings and contraindications (Data Gap DG001 — currently Blocking)
-- **Targeted Literature Search**: Conduct a focused PubMed/Embase search specifically for "Irbesartan OR ARB AND malignant hypertensive nephropathy" to confirm the evidence gap and capture any case reports or mechanistic studies missed in the current query
-- **Preclinical Evidence Gap**: Design or identify an animal model study of malignant hypertensive nephropathy with ARB treatment to upgrade evidence from L4 toward L3 before requesting investigator-initiated trial consideration
-- **Regulatory Pathway Check**: Assess whether existing FDA diabetic nephropathy labeling can be leveraged as supportive bridging evidence for a Taiwan IND application
+- Retrieval of EMA label warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A targeted literature search and trial registry review for irbesartan in malignant hypertension and hypertensive nephropathy
+- Clarification of current EU regulatory status and available dosage forms and routes
+- A safety assessment covering acute kidney injury and hyperkalaemia in severe hypertension
+- Remapping of obsolete ontology terms (such as "susceptibility to ischemic stroke") before evaluating other predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

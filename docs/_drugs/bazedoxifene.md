@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Bazedoxifene
-parent: High Evidence (L1-L2)
-nav_order: 82
-evidence_level: L1
+parent: AI Predictions (L5)
+nav_order: 84
+evidence_level: L5
 indication_count: 10
 ---
 
 # Bazedoxifene
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,78 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Bazedoxifene: From Postmenopausal Osteoporosis to Amenorrhea
+# Bazedoxifene: From Postmenopausal Osteoporosis to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-Bazedoxifene is a third-generation selective estrogen receptor modulator (SERM), approved in Europe for postmenopausal osteoporosis prevention and used as part of the conjugated estrogens/bazedoxifene (CE/BZA) tissue selective estrogen complex (TSEC) for menopausal symptom management; it is not currently marketed in Taiwan.
-The TxGNN model predicts it may be applied to **Amenorrhea**, with **1 Phase 3 clinical trial** (n = 1,886) and **4 publications** currently supporting this direction.
-This prediction aligns with bazedoxifene's well-characterized endometrial antagonism within the TSEC framework — making it one of the more mechanistically grounded predictions in this pack.
-
----
+Bazedoxifene is a selective estrogen receptor modulator (SERM) originally authorized in the EU for treating postmenopausal osteoporosis in women at increased risk of fracture.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Postmenopausal osteoporosis (EU: Conbriza); menopausal symptoms as CE/BZA TSEC (EU: Duavive) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 98.45% |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations (Taiwan) | 0 |
-| Recommended Decision | Proceed with Guardrails |
+|------|------|
+| Original Indication | Treatment of postmenopausal osteoporosis in women at increased risk of fracture |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
+| TxGNN Prediction Score | 98.99% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no valid marketing authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bazedoxifene is a SERM that acts on estrogen receptor-α (ESR1) and estrogen receptor-β (ESR2). Its efficacy in postmenopausal osteoporosis rests on reducing bone resorption through estrogen receptor modulation. It is also used in the US in combination with conjugated estrogens for menopausal symptoms.
 
-Detailed mechanism of action data is not available in the current Evidence Pack. Based on established pharmacology, bazedoxifene acts as a tissue-selective estrogen receptor modulator: it behaves as an agonist in bone — reducing osteoclast-mediated bone resorption — while functioning as an antagonist in endometrial and breast tissue. This selectivity underpins its utility in postmenopausal women who still have an intact uterus.
+The data reviewed found no plausible mechanism linking estrogen receptor modulation to heparin cofactor II (SERPIND1) deficiency, a coagulation disorder. The high score appears to be a network-based computational association. Estrogen-class agents carry a venous thromboembolism (VTE) risk, which is a safety concern rather than a therapeutic rationale in a thrombotic coagulation disorder.
 
-The mechanistic rationale for amenorrhea centres on bazedoxifene's role in the CE/BZA TSEC combination. Conjugated estrogens (CE) relieve vasomotor symptoms and protect bone, but also stimulate the endometrium, historically requiring a progestin to prevent hyperplasia. Bazedoxifene substitutes for the progestin: its endometrial antagonism blocks CE's proliferative effect on the uterine lining, suppresses withdrawal bleeding, and induces amenorrhea — all without the adverse effects associated with progestogens.
-
-It is critical to frame this finding correctly: the "amenorrhea" predicted here is a pharmacologically intended, clinically favourable outcome of the TSEC approach — not a treatment for pathological amenorrhea (e.g., hypothalamic, pituitary, or primary ovarian insufficiency). Multiple Phase 3 SMART trials have confirmed CE/BZA's ability to maintain high amenorrhea rates while simultaneously relieving menopausal symptoms and preserving bone mineral density. The TxGNN prediction therefore reflects an already-documented mechanism rather than a speculative leap, lending it high face validity.
-
----
+Other top-ranked predictions show the same pattern. Most are coagulation or thrombophilia conditions (antithrombin deficiency type 2, factor 5 excess, thrombophilia) where the VTE risk argues against use, or rare conditions with no supporting data. Two predictions are closer to the original use:
+- **Amenorrhea** (score 98.45%) has indirect literature support only. Reviews of bazedoxifene combined with conjugated estrogens describe low rates of bleeding and amenorrhea, but none evaluate amenorrhea as a disease to be treated.
+- **Pregnancy-associated osteoporosis** is mechanistically adjacent to the approved use, but pregnancy and lactation are outside the labeled population and safety there is not established.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00808132](https://clinicaltrials.gov/study/NCT00808132) | Phase 3 | Completed | 1,886 | Double-blind, randomised, placebo- and active-controlled RCT of CE/BZA combinations in postmenopausal women; evaluated endometrial hyperplasia prevention (primary endpoint) and osteoporosis prevention; amenorrhea (absence of uterine bleeding) was a key safety and secondary efficacy endpoint, ~14.5-month follow-up |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [22853444](https://pubmed.ncbi.nlm.nih.gov/22853444/) | 2012 | Review | *Climacteric* | Comprehensive review of CE/BZA TSEC efficacy for vasomotor and vaginal symptoms; discusses amenorrhea rates as a marker of endometrial safety and compares benefit/risk profile with traditional HRT |
-| [24929044](https://pubmed.ncbi.nlm.nih.gov/24929044/) | 2014 | Review | *Steroids* | Describes the development rationale for CE/BZA; explains bazedoxifene's endometrial antagonism mechanism enabling progestin-free amenorrhea induction while preserving estrogen's benefits on bone and vasomotor symptoms |
-| [29790381](https://pubmed.ncbi.nlm.nih.gov/29790381/) | 2018 | Review | *Gynecological Endocrinology* | Reviews CE 0.45 mg/BZA 20 mg as a progestogen-free HRT option for non-hysterectomized women; summarises clinical data on amenorrhea outcomes and endometrial protection across the SMART trial programme |
-| [30895900](https://pubmed.ncbi.nlm.nih.gov/30895900/) | 2019 | Review | *Climacteric* | Advances in TSECs and SERMs; comparative tissue-selective profile of bazedoxifene, with amenorrhea induction discussed as a primary uterine safety endpoint distinguishing TSECs from progestin-based HRT |
+The top prediction (heparin cofactor 2 deficiency) has no related literature. The only indirect literature found relates to the rank 4 prediction, amenorrhea, and is shown here for context. These are reviews on bazedoxifene combined with conjugated estrogens in menopause, not studies of the predicted indication.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22853444](https://pubmed.ncbi.nlm.nih.gov/22853444/) | 2012 | Review | Climacteric | Bazedoxifene/conjugated estrogens for menopausal symptoms and osteoporosis prevention, with a discussion of safety and tolerability of hormone therapy |
+| [24929044](https://pubmed.ncbi.nlm.nih.gov/24929044/) | 2014 | Review | Steroids | Development of the first tissue selective estrogen complex (TSEC) for hot flashes and postmenopausal bone loss, offsetting estrogenic stimulation of endometrium and breast |
+| [30895900](https://pubmed.ncbi.nlm.nih.gov/30895900/) | 2019 | Review | Climacteric | Advances in TSECs and SERMs, including how raloxifene and bazedoxifene combinations compare with other therapies |
+| [29790381](https://pubmed.ncbi.nlm.nih.gov/29790381/) | 2018 | Review | Gynecological Endocrinology | TSEC as a progestogen-free option for estrogen deficiency symptoms in non-hysterectomized postmenopausal women |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000913 (cancelled) | Conbriza | Not specified | Conbriza is indicated for the treatment of postmenopausal osteoporosis in women at increased risk of fracture. A significant reduction in th... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions** (4 records found):
+  - Medroxyprogesterone acetate: Moderate (DDInter)
+  - Megestrol acetate: Moderate (DDInter)
+  - Estrogen receptor-α and estrogen receptor-β are listed as pharmacological targets of bazedoxifene, not as interacting drugs.
+- **VTE risk**: The assessment of the predicted indications notes that bazedoxifene carries a venous thromboembolism warning. This makes use in thrombophilic or coagulation-related conditions a particular concern.
 
-> **Note for reviewers:** The repurposing analysis flagged that bazedoxifene, as a SERM, carries a class-wide risk of venous thromboembolism (VTE). Several other TxGNN predictions in this pack (thrombophilia, antithrombin deficiency, factor V excess) were rated "Hold" precisely because SERM-mediated promotion of coagulation factors directly contradicts the therapeutic goal. TFDA package insert data is currently unavailable (Data Gap DG001); full SmPC review is required before clinical use.
-
----
+For full warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The CE/BZA-induced amenorrhea application is underpinned by a completed Phase 3 RCT enrolling nearly 1,900 subjects and four review publications spanning 2012–2019, giving it the strongest evidence level (L1) in this prediction pack. The mechanism is well-characterised and reproducible across the SMART trial programme. However, the indication must be precisely framed — this is CE/BZA TSEC-induced amenorrhea as a uterine protection strategy within postmenopausal HRT, not a treatment for pathological amenorrhea — and the combination is not yet registered in Taiwan.
+The prediction for heparin cofactor 2 deficiency rests only on a computational score, with no clinical trials, no literature, and no plausible mechanism. The drug's VTE risk is a safety concern in thrombotic coagulation disorders. In addition, the only EU authorization has been cancelled.
 
 **To proceed, the following is needed:**
-
-- **Safety data gap closure:** Download and parse the TFDA package insert (DG001) to confirm local warnings, contraindications, and VTE-related precautions
-- **MOA documentation:** Retrieve full mechanism of action data from DrugBank (DG002) to support regulatory submissions
-- **Indication scoping:** Formally define the clinical indication boundary — CE/BZA TSEC for menopausal symptom management with uterine protection — and explicitly exclude pathological amenorrhea treatment
-- **Taiwan regulatory pathway:** Bazedoxifene/CE combination (Duavive) holds EU approval; assess TFDA filing feasibility and required bridging studies for the Taiwanese population
-- **VTE risk management plan:** Establish screening criteria and monitoring protocols for thromboembolism risk, consistent with known SERM class effects
+- Mechanism of action data, and evidence of any biological link between estrogen receptor modulation and heparin cofactor II or SERPIND1
+- Safety information from the SmPC (warnings and contraindications), in particular the VTE risk in patients with coagulation disorders
+- Preclinical or mechanistic studies for the predicted indication
+- If a lead with better support is wanted, evaluation of the closer candidates (amenorrhea, pregnancy-associated osteoporosis) with dedicated evidence searches and a review of population suitability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

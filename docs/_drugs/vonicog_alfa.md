@@ -2,7 +2,7 @@
 layout: default
 title: Vonicog Alfa
 parent: AI Predictions (L5)
-nav_order: 651
+nav_order: 675
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,71 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vonicog Alfa: From Von Willebrand Disease to Primary Release Disorder of Platelets
+# Vonicog Alfa: From von Willebrand Disease to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Vonicog Alfa is a recombinant von Willebrand factor (rVWF) replacement therapy, known in clinical practice for treating von Willebrand disease (VWD), though this original indication is not explicitly recorded in the current Evidence Pack (data gap). The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**, but this direction is currently supported by **no clinical trials** and **no published literature**, and the underlying mechanistic rationale itself is flagged as indirect and insufficiently substantiated.
-
----
+Vonicog alfa is a recombinant von Willebrand factor (rVWF), originally used to prevent and treat bleeding in adults with von Willebrand disease (VWD).
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The score is a graph-based prediction only, and the mechanism argues against it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Von Willebrand disease (based on known drug class; not recorded in the Evidence Pack — `original_indications` field is empty) |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+| Original Indication | Prevention and treatment of haemorrhage or surgical bleeding in adults (18 years and older) with von Willebrand disease, when desmopressin (DDAVP) alone is ineffective or contraindicated |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (data gap DG002, severity High). Based on known information, Vonicog Alfa is a recombinant von Willebrand factor (rVWF) used to replace deficient endogenous VWF: it restores platelet adhesion at sites of vascular injury (via binding to platelet GPIb and subendothelial collagen) and stabilizes circulating Factor VIII by preventing its premature clearance.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, vonicog alfa is recombinant von Willebrand factor, which mediates platelet adhesion and aggregation at sites of vascular injury and carries factor VIII. Its efficacy in VWD is established.
 
-Primary release disorder of platelets, however, is a defect in intracellular signaling and granule secretion **after** platelet activation, not a defect in VWF-mediated adhesion. According to the rationale recorded in this Evidence Pack, the mechanistic link between rVWF replacement and correction of a granule-release defect is described as "indirect and with insufficient evidence" — VWF acts primarily at the adhesion stage, not the post-activation release stage. This means the biological plausibility of this specific prediction is weak, and the high TxGNN score most likely reflects a knowledge-graph pattern association (e.g., shared "bleeding disorder" / "platelet function" neighborhood) rather than a validated pharmacological mechanism.
+For the top-ranked prediction, the mechanism does not fit well. A platelet release (secretion) defect is an intrinsic problem of platelet granules or signalling, so supplying exogenous VWF would not be expected to correct it. The high TxGNN score reflects proximity in the knowledge graph among bleeding disorders, not clinical evidence.
 
-For context, among the other candidates generated for this drug, hemophilia (rank 4) carries somewhat more real-world evidentiary support (four Phase 3 trials and five publications, though these trials predominantly enrolled VWD rather than hemophilia patients) and reaches decision stage S1 ("Research Question"), while the rank-1 candidate discussed here remains at stage S0 with no supporting evidence at all.
-
----
+Other predictions fall into three groups:
+- **Mechanistically unlikely (platelet-side defects):** Glanzmann thrombasthenia (GPIIb/IIIa defect; standard care is platelet transfusion and recombinant factor VIIa), Scott syndrome, collagen receptor defects and constitutional thrombocytopenia.
+- **Plausible but unproven or risky:** Pseudo-von Willebrand disease (VWF could worsen platelet clumping and clearance), acquired coagulation factor deficiency (only acquired VWF deficiency would be relevant), and hemophilia (VWF stabilises factor VIII, but the label states the drug should not be used for haemophilia A).
+- **Likely not separate opportunities:** "Von Willebrand disease, X-linked form" is probably an extension of the existing VWD indication, and "flood factor deficiency" does not correspond to a recognised disorder and may be a data artefact.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for the predicted indication.
 
 ## Literature Evidence
 
-Currently no related literature available.
+The only publications retrieved relate to the rank 4 prediction (hemophilia). They concern VWD, not haemophilia, so they support the existing VWD indication and not repurposing.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [35439298](https://pubmed.ncbi.nlm.nih.gov/35439298/) | 2022 | RCT (phase 3) | Blood | Efficacy and safety of rVWF prophylaxis in adults with severe VWD, assessing the frequency of treated spontaneous bleeding events |
+| [37332615](https://pubmed.ncbi.nlm.nih.gov/37332615/) | 2023 | PK/PD comparison | Journal of Blood Medicine | Pharmacokinetic and pharmacodynamic comparison of recombinant and plasma-derived VWF in type 3 VWD |
+| [31298165](https://pubmed.ncbi.nlm.nih.gov/31298165/) | 2019 | Review | Current Pharmaceutical Design | Narrative review of new haemostatic agents and perioperative anaesthetic considerations |
+| [37926687](https://pubmed.ncbi.nlm.nih.gov/37926687/) | 2024 | Laboratory field study/survey | Haemophilia | Survey of how haemostasis laboratories measure rVWF versus plasma-derived VWF products |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004454 (cancelled) | Veyvondi | Not specified | Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), whe... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
-*(Note: Key warnings and contraindications are currently unavailable — this is flagged as a Blocking data gap (DG001) in the Evidence Pack, since TFDA label data has not yet been retrieved. No drug-drug interaction records were found.)*
-
----
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for "Primary Release Disorder of Platelets" is supported only by a TxGNN knowledge-graph score (L5, no clinical trials or literature), and the rationale itself identifies the mechanistic link as indirect and evidence-insufficient. Combined with the drug's current unmarketed status in the EU (0 authorizations) and missing MOA and safety-label data, there is no basis to advance this candidate beyond hypothesis generation at this time.
+The predictions rest on model scores alone (L5 for the top prediction, L4 for hemophilia), with no supporting trials or literature. For most candidates, the mechanism suggests VWF replacement would not correct the underlying defect. The only authorization is cancelled in the EU.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC warnings and contraindications (blocking data gap DG001) before any safety pre-assessment (S1) can begin
-- Confirmed mechanism of action data from DrugBank or the manufacturer (data gap DG002)
-- Preclinical or mechanistic studies specifically evaluating rVWF in platelet granule-release disorders
-- Verification of the drug's original approved indication(s), since `original_indications` is currently empty in source data
-- If prioritizing within this drug's candidate portfolio, consider directing initial validation effort toward the hemophilia (rank 4) or VWD-subtype (rank 7) candidates, which already have partial trial/literature support
+- Mechanism of action data from DrugBank
+- Warnings and contraindications from the SmPC or package insert
+- Clarification of the reason for the EU authorization cancellation
+- Confirmation of whether the VWD-related entries (X-linked form, acquired VWF deficiency) are already covered by the existing indication
+- Clinical or preclinical evidence for any candidate before reconsidering, with pseudo-von Willebrand disease and acquired von Willebrand syndrome the most mechanistically plausible to examine first
+- Review of whether ontology artefacts such as "flood factor deficiency" should be excluded
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

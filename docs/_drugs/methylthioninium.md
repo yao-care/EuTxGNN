@@ -2,7 +2,7 @@
 layout: default
 title: Methylthioninium
 parent: AI Predictions (L5)
-nav_order: 388
+nav_order: 402
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methylthioninium: From No Approved Indication to Irritable Bowel Syndrome (Predicted)
+# Methylthioninium: From Colorectal Lesion Visualisation and Methaemoglobinaemia to Irritable Bowel Syndrome
 
 ## One-Sentence Summary
 
-> Methylthioninium (methylene blue, DrugBank ID DB08167) currently has **no recorded approved indication and is not marketed** under this evidence pack (0 authorizations).
-> The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure model-inference signal with no direct or indirect evidence.
+Methylthioninium (methylene blue) was originally authorised in the EU as a diagnostic agent for colorectal lesions during colonoscopy and as an acute treatment for drug- or chemical-induced methaemoglobinaemia.
+The TxGNN model predicts it may be useful for **irritable bowel syndrome**, but **no clinical trials and no publications** currently support this prediction.
 
 ---
 
@@ -43,49 +42,50 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no approved indications on record, drug not currently marketed |
-| Predicted New Indication | Irritable Bowel Syndrome |
+| Original Indication | Diagnostic agent enhancing visualisation of colorectal lesions during screening or surveillance colonoscopy in adults |
+| Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 90.43% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for methylthioninium in this evidence pack, and no approved original indication is on record — the compound is not currently marketed (0 authorizations, decision stage S0).
+Detailed mechanism of action data is not available. Methylthioninium is known to inhibit nitric oxide synthase and guanylate cyclase and to undergo redox cycling. Its efficacy in methaemoglobinaemia is established, and mechanistically these properties could modulate gut smooth muscle tone and visceral sensitivity.
 
-The only mechanistic rationale accompanying the top prediction states: *"Methylene blue (Methylthioninium) is a guanylate cyclase/NOS inhibitor, theoretically capable of affecting intestinal smooth muscle tone and visceral sensitivity; however, there is no direct or indirect clinical data supporting its use in IBS — this is purely a TxGNN network-inference association with no supporting mechanistic literature."* This is explicitly flagged by the source data as inference-only reasoning, not an established pharmacological link.
+The original indications (colonic lesion visualisation and methaemoglobinaemia) are unrelated to irritable bowel syndrome in a therapeutic sense. The only link is that the colorectal setting of the diagnostic use is anatomically close to the predicted indication. The mechanistic link is therefore speculative and rests on the model score alone.
 
-Because both the original indication and MOA are undocumented here, the mechanistic plausibility of repurposing toward IBS cannot be independently corroborated, and this prediction should be treated as a hypothesis-generation signal rather than an evidence-backed candidate.
+Other lower-ranked predictions (for example dysthymic disorder, anaphylaxis, anxiety and variably protease-sensitive prionopathy) are likewise prediction-only. None has supporting trials in the data compiled for this report.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for irritable bowel syndrome.
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations are on record for methylthioninium (0 licenses); the compound is not currently marketed in the evaluated jurisdiction.
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/002776 | Lumeblue (previously Methylthioninium chloride Cosmo) | Not specified | Diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy. | Cancelled |
+| EMEA/H/C/002108 | Methylthioninium chloride Proveblue | Not specified | Acute symptomatic treatment of medicinal and chemical products-induced methaemoglobinaemia, in adults, children and adolescents (0 to 17 years)... | Cancelled |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
-**Note:** Safety warnings and contraindications for this compound are flagged as a **Blocking data gap** (DG001) — TFDA/regulatory label warnings and contraindications have not yet been retrieved, which prevents progression to the S1 safety pre-screening stage.
+Please refer to the SmPC for safety information. No warnings, contraindications or drug interaction data were available in the data compiled for this report.
 
 ---
 
@@ -94,13 +94,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (Irritable Bowel Syndrome, TxGNN score 90.43%) is an L5, S0-stage signal with zero supporting clinical trials or literature, and the drug itself lacks basic regulatory and mechanism-of-action data needed for any safety pre-screening.
+The prediction rests only on a model score (90.43%), with no registered trials or publications for irritable bowel syndrome (Evidence Level L5). Both EU authorisations are cancelled, and safety information is missing.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (Blocking gap — required before S1 safety evaluation)
-- Mechanism of action (MOA) confirmation via DrugBank API (High-priority gap)
-- Original/approved indication history for the compound, to establish a baseline for repurposing rationale
-- Any preclinical or mechanistic literature specific to gastrointestinal motility/visceral sensitivity to substantiate the IBS hypothesis before further evidence collection is prioritized
+- Retrieval of the EMA product information (warnings and contraindications), which currently blocks safety screening
+- Detailed mechanism of action data (for example from DrugBank)
+- A systematic literature search for methylene blue in irritable bowel syndrome and functional gut disorders
+- Assessment of route and formulation compatibility, since no dosage forms are recorded
+- Clarification of why the EU authorisations were cancelled (commercial versus safety reasons)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

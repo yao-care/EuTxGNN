@@ -2,7 +2,7 @@
 layout: default
 title: Sildenafil
 parent: AI Predictions (L5)
-nav_order: 539
+nav_order: 560
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct document-generation task with an explicit template and complete input data, so I'll produce the report directly.
-
----
-
-# Sildenafil: From an Unregistered Indication to Ambras Type Hypertrichosis Universalis Congenita
+# Sildenafil: From Pulmonary Arterial Hypertension to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Sildenafil's original indication cannot be characterized from this evidence pack — the drug is **not currently marketed** in this jurisdiction and no license records exist. The TxGNN model predicts a possible link to **Ambras type hypertrichosis universalis congenita**, an ultra-rare congenital hair-overgrowth syndrome, but this pairing is supported by **zero clinical trials** and **zero publications**, and the model's own rationale flags it as a likely knowledge-graph artifact rather than a genuine mechanistic signal.
-
----
+Sildenafil is a PDE5 inhibitor originally used to treat pulmonary arterial hypertension and erectile dysfunction.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No data available — drug is not marketed in this jurisdiction; 0 authorizations on file |
+| Original Indication | Pulmonary arterial hypertension (WHO functional class II and III) in adults and children aged 1 to 17 years, to improve exercise capacity |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 98.41% (rank 13,938 among all predictions) |
+| TxGNN Prediction Score | 98.41% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
-
----
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 8 (all cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is currently unavailable for sildenafil in this evidence pack (flagged as a **High-severity data gap**, DG002). Separately within the same evidence pack, literature attached to a different candidate indication (PMID 30292404) describes sildenafil as a PDE5 inhibitor that increases intracellular cGMP and causes vasodilation — a mechanism that plausibly affects vascular/follicular tissue but has no established connection to Ambras type hypertrichosis, a congenital genetic overgrowth syndrome.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sildenafil is a PDE5 inhibitor. It raises intracellular cGMP and causes vasodilation, which underlies its efficacy in pulmonary arterial hypertension and erectile dysfunction.
 
-Critically, the model's own repurposing rationale for this candidate states that the high TxGNN score "may reflect indirect connections in the knowledge graph with other hair/vascular-related nodes, without direct mechanistic evidence supporting sildenafil's action in this indication." In other words, this is very likely a **graph-topology artifact** (shared neighbors with unrelated hair/vascular nodes) rather than a biologically grounded hypothesis. Given the extreme rarity of this syndrome and complete absence of trials or literature, there is currently no basis to treat this as a credible repurposing signal.
+The link to Ambras syndrome is weak and speculative. One could imagine that improved perfusion or cGMP signaling around hair follicles has some effect, but no data support this for Ambras syndrome. Ambras syndrome is a rare genetic disorder, and the high score most likely reflects proximity in the knowledge graph to other hypertrichosis phenotypes rather than a true mechanistic rationale.
 
-**Note for consideration**: within this same evidence pack, a lower-ranked candidate — **genetic alopecia** (rank 9, score 75.03%) — has substantially stronger support: one completed early-phase RCT (NCT06527729, sildenafil lipid nanocarrier vs. placebo in alopecia areata, n=28), one additional relevant trial (NCT05369481, topical sildenafil vs. minoxidil), and a mechanistic publication (PMID 30292404) directly studying sildenafil's effect on human hair follicles. That candidate is already scored L3 / Research Question stage and may warrant prioritized evaluation over the top-ranked but evidence-free Ambras hypertrichosis prediction.
-
----
+Among the other predictions, the only one with direct sildenafil-related literature is **genetic alopecia** (rank 9, score 75.03%). A 2018 study, "Novel effect of sildenafil on hair growth", suggests sildenafil may influence human hair follicles. This is hypothesis-generating only, and it is marked as a research question. It is also in the opposite direction from a hypertrichosis indication, since it concerns promoting hair growth rather than reducing it.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for Ambras type hypertrichosis universalis congenita.
 
 ## EU Market Information
 
-Sildenafil has **no marketing authorizations on file** in this dataset (`market_status`: Not Marketed, `total_licenses`: 0). No license table can be generated.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/000638 | Revatio | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years; injection for patients temporarily unable to take oral therapy... | Cancelled |
+| EMEA/H/C/004289 | Granpidam | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years... | Cancelled |
+| EMEA/H/C/004186 | Mysildecard | Not specified | Pulmonary arterial hypertension (WHO class II and III), adults and children aged 1 to 17 years... | Cancelled |
+| EMEA/H/C/000202 | Viagra | Not specified | Erectile dysfunction in men; sexual stimulation is required for effectiveness | Cancelled |
+| EMEA/H/C/001090 | Sildenafil Actavis | Not specified | Erectile dysfunction in men; sexual stimulation is required for effectiveness | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease contraindications from the knowledge graph** (not label text): the compiled data link sildenafil to contraindication edges with the following conditions:
+  - Cardiovascular: aortic stenosis and other aortic valve disease, hypotensive disorder, acute coronary syndrome, myocardial infarction, stroke and cerebrovascular disorder, hypertrophic cardiomyopathy, pulmonary veno-occlusive disease
+  - Haematological: sickle cell anaemia, hereditary persistence of fetal haemoglobin, haemoglobinopathy, plasma cell myeloma, leukaemia
+  - Genitourinary: priapism, Peyronie disease and related penile fibromatosis
+  - Other: liver failure, oesophageal dyskinesia, hearing loss disorders, anterior ischaemic optic neuropathy
+- **Drug Interactions**: 100 interactions were recorded. Among those listed, the **Major** interaction is with **clarithromycin**. Moderate interactions include aprepitant, morphine, dexamethasone, cimetidine, miconazole, clotrimazole, papaverine, opium, and several SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin).
+- **Systemic exposure**: hypotension and interaction risk would need careful consideration if a systemic route were used for a new indication.
 
-*(Note: key warnings and contraindications for this drug are recorded as a **Blocking-severity data gap** (DG001) — TFDA/label safety data has not yet been retrieved. This must be resolved before any safety evaluation (S1 stage) can proceed.)*
-
----
+Please also refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or literature support, and the model's own rationale identifies it as a likely spurious knowledge-graph connection rather than a genuine mechanistic hypothesis. In addition, two blocking data gaps — missing label/safety data (DG001, Blocking) and missing MOA documentation (DG002, High) — prevent this candidate from advancing past S0.
+The prediction has a high model score but no clinical trials or literature, so it remains at evidence level L5. No plausible mechanistic link to Ambras syndrome is established. All EU authorizations for sildenafil are currently cancelled, which further limits near-term development in the EU.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (DG001 — currently blocking)
-- Confirmed mechanism-of-action documentation for sildenafil (DG002)
-- Any direct preclinical or mechanistic evidence specifically linking sildenafil to Ambras type hypertrichosis (currently none exists)
-- Consider redirecting evaluation effort toward the better-evidenced **genetic alopecia** candidate (rank 9, L3, Research Question) identified in the same evidence pack, which already has a completed RCT and supporting mechanistic literature
+- Mechanism of action data and a credible biological rationale for hypertrichosis
+- Preclinical or case-level evidence specific to Ambras syndrome
+- Label warnings and contraindications from the SmPC
+- Clarification of EU regulatory status, including why the authorizations are cancelled
+- Consideration of whether the better-supported hair-related signal (genetic alopecia, L4) is a more suitable research direction, along with the route of administration (for example topical rather than systemic)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

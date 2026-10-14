@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ixekizumab
-parent: Medium Evidence (L3-L4)
-nav_order: 333
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 344
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ixekizumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,68 +29,110 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ixekizumab: From Plaque Psoriasis / Ankylosing Spondylitis to Rheumatoid Vasculitis
+# Ixekizumab: From Plaque Psoriasis to Rheumatoid Vasculitis
 
 ## One-Sentence Summary
 
-Ixekizumab is a high-affinity monoclonal antibody targeting interleukin-17A (IL-17A), approved globally for plaque psoriasis, psoriatic arthritis, and ankylosing spondylitis, though not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Rheumatoid Vasculitis**,
-with **1 clinical trial** (indirectly related, Grade C) and **no published literature** currently supporting this specific direction.
-
----
+Ixekizumab (brand name Taltz) is an IL-17A–blocking antibody, originally used to treat plaque psoriasis, psoriatic arthritis, axial spondyloarthritis and juvenile arthritis subtypes.
+The TxGNN model's top-ranked prediction is **rheumatoid vasculitis**, but this prediction has **no direct supporting studies**: the one linked trial is about perioperative immunosuppressant management, and no literature was retrieved.
+The clinical evidence in the compiled data (**18 trials** and **20 publications** under the sixth-ranked prediction, inflammatory spondylopathy) mostly confirms existing approved uses rather than a new indication.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Plaque psoriasis, psoriatic arthritis, ankylosing spondylitis (global approvals; not registered in Taiwan) |
-| Predicted New Indication | Rheumatoid Vasculitis |
+|------|------|
+| Original Indication | Moderate to severe plaque psoriasis in adults who are candidates for systemic therapy (the label also covers paediatric psoriasis, psoriatic arthritis, axial spondyloarthritis and juvenile idiopathic arthritis subtypes) |
+| Predicted New Indication | Rheumatoid vasculitis |
 | TxGNN Prediction Score | 97.53% |
-| Evidence Level | L4 |
-| Taiwan Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only (no currently valid authorization in the data compiled) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known information, Ixekizumab is a high-affinity IgG4 monoclonal antibody that selectively binds and neutralizes IL-17A — a key pro-inflammatory cytokine central to Th17-mediated autoimmune responses. Its clinical efficacy in plaque psoriasis, psoriatic arthritis, and ankylosing spondylitis has been extensively validated across multiple pivotal Phase 3 trials (SPIRIT-P1/P2, COAST-V/W/X).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ixekizumab is a monoclonal antibody that neutralizes IL-17A, a cytokine that drives inflammation in psoriasis, psoriatic arthritis and spondyloarthritis.
 
-Rheumatoid vasculitis (RV) is a severe extra-articular complication of long-standing seropositive rheumatoid arthritis, involving necrotizing inflammation of small- and medium-sized vessels. Because rheumatoid disease and spondyloarthritis share certain IL-17-mediated inflammatory pathways — and Ixekizumab has demonstrated broad anti-inflammatory activity — a theoretical rationale for immune modulation in RV exists.
+IL-17A is also implicated in systemic vasculitis and other autoimmune inflammation, so blocking it is biologically plausible for rheumatoid vasculitis. However, this is a computational prediction only. No clinical or literature evidence supports ixekizumab in this condition.
 
-However, the primary pathomechanism of rheumatoid vasculitis centers on immune complex deposition, complement activation, and neutrophil-mediated vessel wall injury. IL-17A plays a limited and indirect role in this process, making the mechanistic bridge to Ixekizumab considerably weaker than in spondyloarthritis. No direct preclinical or clinical evidence currently supports IL-17A inhibition as a therapeutic strategy for rheumatoid vasculitis. The TxGNN high score likely reflects indirect connectivity via shared rheumatoid arthritis and immune-cell nodes in the knowledge graph, rather than a direct disease-specific mechanism.
-
----
+The other predictions in the list are weaker:
+- Several (acute lymphoblastic leukaemia, the CLL/SLL entries, hypermobility of the coccyx, Kummell disease, gingival fibromatosis) have no clear mechanistic link and no evidence.
+- Polyarticular juvenile rheumatoid arthritis has indirect support, because ixekizumab is already used in two JIA subtypes (juvenile psoriatic arthritis and enthesitis-related arthritis).
+- "Inflammatory spondylopathy" and "vertebral disease" overlap with axial spondyloarthritis, which is already an approved use. This is closer to confirming an existing label than to true repurposing.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|-------------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Not Yet Recruiting | 80 | Assesses immunosuppressant management (holding vs. shorter interruption) in rheumatology patients — including potential Ixekizumab users — undergoing elective total shoulder arthroplasty. Primary outcomes are flare incidence, pain scores (VAS), functional outcomes (PROMIS), and wound complications. Not a vasculitis treatment trial; Ixekizumab is one of many immunosuppressants under evaluation. |
+**Rheumatoid vasculitis (top prediction)**
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Recruiting | 80 | Perioperative immunosuppressant management in rheumatology patients undergoing shoulder arthroplasty. It does not test ixekizumab for rheumatoid vasculitis, so it is not efficacy evidence. |
+
+**Inflammatory spondylopathy (the best-supported prediction; overlaps with approved uses)**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04285229](https://clinicaltrials.gov/study/NCT04285229) | Phase 3 | Completed | 147 | Randomized, placebo-controlled study in Chinese patients with radiographic axial spondyloarthritis |
+| [NCT02696798](https://clinicaltrials.gov/study/NCT02696798) | Phase 3 | Completed | 316 | Randomized, placebo-controlled study in TNF inhibitor–experienced radiographic axSpA |
+| [NCT02757352](https://clinicaltrials.gov/study/NCT02757352) | Phase 3 | Completed | 303 | 52-week randomized, placebo-controlled study in non-radiographic axSpA |
+| [NCT02696785](https://clinicaltrials.gov/study/NCT02696785) | Phase 3 | Completed | 341 | Active- and placebo-controlled study in biologic-naive radiographic axSpA |
+| [NCT03129100](https://clinicaltrials.gov/study/NCT03129100) | Phase 3 | Completed | 773 | 104-week extension with randomized withdrawal and retreatment in axSpA |
+| [NCT02349295](https://clinicaltrials.gov/study/NCT02349295) | Phase 3 | Completed | 363 | Placebo-controlled study in biologic-experienced psoriatic arthritis |
+| [NCT01695239](https://clinicaltrials.gov/study/NCT01695239) | Phase 3 | Completed | 417 | Active- and placebo-controlled study in biologic-naive psoriatic arthritis |
+| [NCT02584855](https://clinicaltrials.gov/study/NCT02584855) | Phase 3 | Completed | 394 | Open-label lead-in followed by randomized withdrawal in psoriatic arthritis |
+| [NCT03151551](https://clinicaltrials.gov/study/NCT03151551) | Phase 4 | Completed | 566 | Open-label comparison of ixekizumab versus adalimumab in psoriatic arthritis |
+| [NCT06588296](https://clinicaltrials.gov/study/NCT06588296) | Phase 3 | Completed | 279 | Ixekizumab alone versus with tirzepatide in psoriatic arthritis with obesity or overweight |
+
+Further trials were retrieved for this prediction. They include a paediatric study (NCT04527380), a tapering study (NCT04610476), an Indian safety study (NCT05855967), and several registry or vaccine-response studies. They are omitted here because they are less relevant.
+
+## Literature Evidence
+
+No literature was found for rheumatoid vasculitis. The following publications were retrieved for the spondyloarthritis-related predictions.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31813637](https://pubmed.ncbi.nlm.nih.gov/31813637/) | 2020 | RCT (COAST-X) | Lancet | Ixekizumab in non-radiographic axial spondyloarthritis |
+| [30343531](https://pubmed.ncbi.nlm.nih.gov/30343531/) | 2019 | RCT | Arthritis Rheumatol | 16-week results in radiographic axSpA after TNF inhibitor failure |
+| [27553214](https://pubmed.ncbi.nlm.nih.gov/27553214/) | 2017 | RCT (SPIRIT-P1) | Ann Rheum Dis | Ixekizumab in biologic-naive psoriatic arthritis, with adalimumab as active control |
+| [31563894](https://pubmed.ncbi.nlm.nih.gov/31563894/) | 2020 | RCT | Ann Rheum Dis | Head-to-head ixekizumab versus adalimumab in psoriatic arthritis (24 weeks) |
+| [41903163](https://pubmed.ncbi.nlm.nih.gov/41903163/) | 2026 | RCT | Arthritis Rheumatol | Ixekizumab plus tirzepatide gave greater disease control than ixekizumab alone in psoriatic arthritis with overweight or obesity |
+| [38503473](https://pubmed.ncbi.nlm.nih.gov/38503473/) | 2024 | Systematic review | Ann Rheum Dis | Evidence informing the 2023 EULAR psoriatic arthritis recommendations |
+| [36270657](https://pubmed.ncbi.nlm.nih.gov/36270657/) | 2023 | Systematic review | Ann Rheum Dis | Biologic DMARD evidence informing the 2022 ASAS-EULAR axSpA recommendations |
+| [41050680](https://pubmed.ncbi.nlm.nih.gov/41050680/) | 2025 | Network meta-analysis | Front Immunol | Efficacy and safety of IL-17, IL-12/23 and IL-23 inhibitors in psoriatic arthritis |
+| [32719044](https://pubmed.ncbi.nlm.nih.gov/32719044/) | 2020 | Review | Ann Rheum Dis | Paradoxical gastrointestinal effects of IL-17 blockers, including disease exacerbation in Crohn's disease and ulcerative colitis |
+| [40701624](https://pubmed.ncbi.nlm.nih.gov/40701624/) | 2025 | Cohort study | RMD Open | Real-world effectiveness in 709 Danish patients with axSpA and PsA |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003943 (cancelled) | Taltz | Not specified | Plaque psoriasis in adults; paediatric plaque psoriasis; psoriatic arthritis; ankylosing spondylitis and non-radiographic axial spondyloarthritis; juvenile psoriatic arthritis... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screen returned 100 entries; the 20 listed in the data compiled include one **major** interaction and several moderate ones.
+  - **Major**: adalimumab (combining two immunomodulatory biologics).
+  - **Moderate** (examples): warfarin, apixaban, rivaroxaban, dicoumarol, simvastatin, tacrolimus, theophylline, aminophylline, roflumilast, nifedipine, fentanyl, lidocaine, hydrocodone, and tetanus toxoid vaccine.
+  - **Minor**: zinc salts.
+- **Class-related monitoring points** (from the literature and mechanistic review): paradoxical inflammatory bowel disease or gastrointestinal effects of IL-17 blockers, infections including candidiasis, and vaccination planning.
 
----
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Rheumatoid vasculitis pathology is driven primarily by immune complex deposition and complement activation — processes where IL-17A inhibition offers minimal mechanistic benefit. The only available trial (NCT07138898) addresses perioperative drug management, not vasculitis treatment, and no supporting literature exists. Evidence level L4 is insufficient to justify progression.
+- The top prediction, rheumatoid vasculitis, has a high model score (97.53%) and a plausible IL-17A rationale. It has no direct trial or literature support, so it remains at evidence level L5.
+- The strong Phase 3 evidence applies to spondyloarthritis and psoriatic arthritis, which are already approved uses (that prediction would be L1, Proceed with Guardrails, but it is confirmation of an existing label rather than new repurposing).
 
 **To proceed, the following is needed:**
-
-- Retrieval of Ixekizumab MOA data from DrugBank API to confirm or refute IL-17A relevance in vasculitis
-- Preclinical data or case series documenting IL-17A upregulation specifically in rheumatoid vasculitis lesions
-- Safety profile review from TFDA or EMA SmPC, particularly regarding immunosuppression depth in patients with systemic vasculitis
-- Assessment of whether existing PsA/AS safety experience is transferable to the RV patient population (typically older, with more comorbidities)
-- Consultation with rheumatology specialists to evaluate whether a mechanistic hypothesis is worth pursuing before initiating evidence search
+- Mechanism of action data and a detailed mechanistic analysis for vasculitis
+- Case reports, case series or preclinical studies of IL-17A blockade in rheumatoid vasculitis
+- Label warnings and contraindications from the SmPC (currently missing)
+- Clarification of the cancelled EU authorization status, since no valid marketing authorization appears in the data compiled
+- If pursuing the spondyloarthritis-related predictions, narrowing them to specific inflammatory entities rather than broad categories like "vertebral disease"
+- A safety plan covering inflammatory bowel disease, infection and vaccination, and a review of the major adalimumab interaction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

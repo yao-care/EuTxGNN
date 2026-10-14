@@ -2,7 +2,7 @@
 layout: default
 title: Opicapone
 parent: AI Predictions (L5)
-nav_order: 435
+nav_order: 449
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,68 +33,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Opicapone is a peripheral COMT (catechol-O-methyltransferase) inhibitor, used as adjunctive therapy with levodopa in Parkinson's disease.
-> The TxGNN model's top-ranked prediction is **Rasmussen Subacute Encephalitis**,
-> but this pairing is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as mechanistically implausible.
-
----
+Opicapone is a peripheral COMT inhibitor, originally used as adjunctive therapy to levodopa/DDCI in adults with Parkinson's disease who have end-of-dose motor fluctuations.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease (adjunct to levodopa/DOPA-decarboxylase inhibitor therapy) — inferred from mechanistic rationale text; not present as a structured field in this evidence pack |
-| Predicted New Indication | Rasmussen Subacute Encephalitis |
+| Original Indication | Adjunctive therapy to levodopa/DDCI in adults with Parkinson's disease and end-of-dose motor fluctuations who cannot be stabilised on those combinations |
+| Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 98.64% |
 | Evidence Level | L5 |
-| EU/TW Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the structured `original_moa` field (flagged as a Blocking/High data gap). Based on information embedded in the model's own rationale text, Opicapone acts as a peripherally-restricted COMT inhibitor, reducing peripheral breakdown of levodopa to prolong central dopaminergic availability — its established role in Parkinson's disease motor fluctuation management.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, opicapone is a peripheral COMT inhibitor that prolongs the effect of levodopa in Parkinson's disease.
 
-For the top-ranked prediction, **this mechanistic link is explicitly weak**. Rasmussen subacute encephalitis is a T-cell mediated autoimmune/inflammatory cortical encephalitis in children, a pathology with no known connection to COMT enzyme activity or catecholamine metabolism. The rationale itself states that the high TxGNN score likely reflects **topological proximity of neurological-disease nodes in the knowledge graph, rather than genuine pharmacological plausibility** — there is no clinical or mechanistic support for this pairing.
+The link to the predicted indication is weak. Rasmussen encephalitis is an immune-mediated, T-cell-driven inflammatory epilepsy syndrome, and COMT inhibition has no established role in it. The high TxGNN score most likely reflects proximity in the knowledge graph (shared neurological terms) rather than a biological rationale.
 
-Notably, several lower-ranked candidates in this evidence pack show stronger biological rationale — particularly **Lewy body dementia** (rank 7, synucleinopathy overlap with Parkinson's disease, flagged "Research Question") and **PLA2G6-associated neurodegeneration** (rank 3, parkinsonian phenotype overlap, flagged "Research Question"). These may be more productive directions than the top-scored candidate for further investigation.
-
----
+For context, the other top predictions fall into three groups:
+- **Biologically plausible, indirect evidence (research question only):** juvenile parkinsonism of Hunt (98.64% is not its score; it scored 97.30%) and Lewy body dementia (95.69%). Both share dopaminergic deficit with Parkinson's disease. In Lewy body dementia, dopaminergic augmentation may worsen psychosis and hallucinations.
+- **Weak and speculative:** PLA2G6-associated neurodegeneration (97.61%), where parkinsonism may partially respond to dopaminergic therapy but the underlying defect is not addressed.
+- **No mechanistic link:** myelitis, transaldolase deficiency, fructose-1,6-bisphosphatase deficiency, lethal infantile mitochondrial myopathy, and the two X-linked intellectual disability syndromes.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002790 (cancelled) | Ongentys | Not specified | Adjunctive therapy to levodopa/DDCI in adult patients with Parkinson's disease and end-of-dose motor fluctuations who cannot be stabilised on those combinations... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions:** 53 interactions were identified. Of the 20 listed in the compiled data, one is rated Major and the rest Moderate.
+  - **Major:** methylene blue.
+  - **Moderate (examples):** epinephrine (including ophthalmic and topical forms), morphine (including liposomal), codeine, opium, diphenoxylate, difenoxin, dronabinol, nabilone, metoclopramide, sibutramine, ethanol, promethazine, chlorpheniramine, cetirizine, azelastine (nasal), dextromethorphan.
 
-*(Note: TFDA/EMA label warnings and contraindications are marked as a Blocking data gap (DG001) in this evidence pack — this must be resolved before any safety evaluation can proceed.)*
-
----
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Rasmussen subacute encephalitis) has no clinical or literature evidence, and the model's own mechanistic rationale explicitly disputes its pharmacological plausibility, attributing the high score to knowledge-graph topology rather than biology. This does not meet the bar to proceed.
+The prediction has a high model score but no clinical or literature support and no plausible mechanistic link. Rasmussen encephalitis is immune-mediated, and COMT inhibition is not an established pathway. The product's EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/regulatory label — warnings, contraindications) — currently blocking any safety evaluation
-- Resolve DG002 (confirmed mechanism of action from DrugBank or primary literature)
-- Re-evaluate mechanistically stronger candidates from this same prediction set — particularly Lewy body dementia and PLA2G6-associated neurodegeneration — as alternative research questions
-- If pursuing Rasmussen encephalitis specifically, obtain independent mechanistic or preclinical justification before any clinical consideration, given the model's own caveat about graph-topology bias
+- Mechanism of action data (MOA) to assess any biological link
+- Warnings and contraindications from the SmPC, which is required before any safety screening
+- Preclinical or clinical evidence specific to Rasmussen encephalitis
+- Clarification of the cancelled EU authorization status
+- If a lead is wanted from this candidate list, juvenile parkinsonism of Hunt is the more plausible research question, as an extension of the approved Parkinson's disease use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

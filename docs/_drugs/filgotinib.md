@@ -2,7 +2,7 @@
 layout: default
 title: Filgotinib
 parent: AI Predictions (L5)
-nav_order: 254
+nav_order: 261
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Filgotinib: From Autoimmune Disease to HER2 Positive Breast Carcinoma
+# Filgotinib: From Rheumatoid Arthritis and Ulcerative Colitis to HER2-Positive Breast Carcinoma
 
 ## One-Sentence Summary
 
-> Filgotinib is a selective JAK1 inhibitor known for treating autoimmune conditions such as rheumatoid arthritis and ulcerative colitis.
-> The TxGNN model predicts it may be effective for **HER2 Positive Breast Carcinoma**,
-> but **zero clinical trials** and **zero publications** currently support this specific direction — the evidence pack itself flags this as a likely false-positive prediction driven by graph-embedding proximity rather than a real mechanistic link.
-
----
+Filgotinib is a JAK1-selective inhibitor, originally used to treat moderate to severe rheumatoid arthritis and ulcerative colitis in adults.
+The TxGNN model predicts it may be effective for **HER2 positive breast carcinoma**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, ulcerative colitis (autoimmune diseases) — noted in evidence rationale; no Taiwan/EU regulatory license record exists in this dataset |
-| Predicted New Indication | HER2 Positive Breast Carcinoma |
+| Original Indication | Rheumatoid arthritis (moderate to severe active, adults with inadequate response or intolerance to one or more DMARDs); ulcerative colitis (moderately to severely active, adults) |
+| Predicted New Indication | HER2 positive breast carcinoma |
 | TxGNN Prediction Score | 98.88% |
 | Evidence Level | L5 |
-| Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (Data Gap). Based on the known information in this evidence pack, filgotinib is a selective JAK1 inhibitor that modulates cytokine signaling (e.g., IL-6, IFN pathways) and is established for autoimmune indications such as rheumatoid arthritis and ulcerative colitis.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the known target profile, filgotinib acts on the JAK family, with the strongest selectivity for JAK1. Its pharmacology records list JAK1, JAK2, JAK3 and TYK2 as targets. Its efficacy in rheumatoid arthritis and ulcerative colitis, both immune-mediated inflammatory diseases, has been established.
 
-The evidence pack's own rationale, however, explicitly cautions against this prediction: there is **no known mechanistic link** between JAK1-mediated cytokine signaling and the HER2-driven tumorigenesis pathway that characterizes HER2-positive breast carcinoma. No clinical trials and no literature exist connecting filgotinib to this indication. The high TxGNN score most likely reflects proximity in the knowledge graph's embedding space rather than a biologically grounded relationship, and should be treated as a **potential false positive** pending further evidence.
+The only link to HER2-positive breast cancer is theoretical. JAK/STAT signaling is implicated in breast cancer biology, so a JAK inhibitor could in principle affect tumour-related inflammatory signaling. However, no filgotinib-specific data for HER2-positive disease were found, and the similarity between the original and new indications has not been assessed. The high score therefore reflects network proximity in the knowledge graph, not clinical evidence.
 
-By contrast, the pack's second-ranked prediction (thrombocytopenia) at least has literature-level evidence — though notably that evidence describes filgotinib **inducing** immune-mediated thrombocytopenia as an adverse reaction, not treating it. This further underscores that top TxGNN scores alone should not be read as therapeutic support without corroborating trial or literature data.
-
----
+Other top-ranked predictions are similarly unsupported. Several are thrombocytopenia-related conditions. A 2026 case report describes immune-mediated thrombocytopenia in an ulcerative colitis patient after starting filgotinib, although a drug-induced cause was not confirmed. This suggests a possible adverse effect rather than a therapeutic benefit.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for HER2 positive breast carcinoma.
 
----
+## EU Market Information
 
-## Market Information
-
-Filgotinib currently holds **no market authorization records** in this dataset (market status: Not Marketed; total authorizations: 0). No approved product information is available to summarize.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005113 (cancelled) | Jyseleca | Not specified | Rheumatoid arthritis: moderate to severe active disease in adults with inadequate response or intolerance to one or more DMARDs, as monotherapy or with methotrexate. Ulcerative colitis... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Mechanistic target profile**: Filgotinib acts on JAK1, JAK2, JAK3 and TYK2. These are pharmacological target records, not interactions with other drugs.
+- **Possible haematological signal**: A 2026 case report describes immune-mediated thrombocytopenia after filgotinib initiation in a patient with ulcerative colitis. Causality was uncertain, but platelet counts should be monitored closely.
 
-*(Note: A separate case report identified in this evidence pack — PMID [41458193](https://pubmed.ncbi.nlm.nih.gov/41458193/) — describes immune-mediated thrombocytopenia occurring after filgotinib initiation in a patient with ulcerative colitis. This is an adverse-event signal unrelated to the HER2 breast carcinoma prediction above, but relevant to overall drug safety awareness.)*
-
----
+Please refer to the SmPC for full warnings, contraindications and drug interaction information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (HER2 positive breast carcinoma, TxGNN score 98.88%) has zero clinical trial or literature support, and the evidence pack's own mechanistic assessment flags it as a likely false positive with no plausible biological link to JAK1 inhibition. Combined with blocking data gaps in TFDA safety labeling and mechanism of action, this candidate does not meet the threshold to advance.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications for HER2-positive breast carcinoma, and the mechanistic link is only theoretical. The EU authorization for the original indications is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC warnings, precautions, and contraindications (currently a Blocking data gap)
-- Confirmed mechanism of action data from DrugBank (currently a High-severity data gap)
-- Independent preclinical or mechanistic evidence specifically linking JAK1 inhibition to HER2-driven breast carcinoma pathways
-- Re-screening of lower-ranked candidates (e.g., thrombocytopenia) with caution, given existing literature points to an adverse-reaction signal rather than therapeutic benefit
+- Preclinical or mechanistic studies showing JAK1 inhibition affects HER2-positive breast cancer models
+- Detailed mechanism of action data
+- Safety information from the SmPC, including warnings and contraindications
+- Review of the reported thrombocytopenia signal and of the reasons for the authorization cancellation
+- Assessment of the similarity between the original and new indications, and of route compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

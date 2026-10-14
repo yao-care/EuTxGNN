@@ -2,7 +2,7 @@
 layout: default
 title: Idursulfase
 parent: AI Predictions (L5)
-nav_order: 300
+nav_order: 311
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idursulfase: From Hunter Syndrome (MPS II) to Ptosis-Strabismus-Ectopic Pupils Syndrome
+# Idursulfase: From Hunter Syndrome to Ptosis-Strabismus-Ectopic Pupils Syndrome
 
 ## One-Sentence Summary
 
-Idursulfase is a recombinant enzyme replacement therapy used for Hunter syndrome (Mucopolysaccharidosis II, MPS II). The TxGNN model predicts it may be effective for **ptosis-strabismus-ectopic pupils syndrome**, but this direction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack itself flags no plausible mechanistic link.
+Idursulfase (Elaprase) is an enzyme replacement therapy originally used for the long-term treatment of Hunter syndrome (MPS II).
+The TxGNN model predicts it may be effective for **ptosis-strabismus-ectopic pupils syndrome**, but **no clinical trials** and **no publications** currently support this prediction.
+The score appears to reflect knowledge-graph proximity rather than a biological rationale.
 
 ---
 
@@ -41,47 +43,55 @@ Idursulfase is a recombinant enzyme replacement therapy used for Hunter syndrome
 
 | Item | Content |
 |------|------|
-| Original Indication | Hunter syndrome (Mucopolysaccharidosis II, MPS II) |
+| Original Indication | Long-term treatment of patients with Hunter syndrome (mucopolysaccharidosis II, MPS II). Heterozygous females were not studied in the clinical trials. |
 | Predicted New Indication | Ptosis-strabismus-ectopic pupils syndrome |
 | TxGNN Prediction Score | 97.89% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Idursulfase is flagged as a data gap in the evidence pack. However, the pack's own rationale notes indicate Idursulfase is a recombinant form of iduronate-2-sulfatase (IDS), used as enzyme replacement therapy for Hunter syndrome (MPS II) — a lysosomal storage disorder caused by IDS gene deficiency that leads to glycosaminoglycan (GAG) accumulation.
+Detailed mechanism of action data is not available in the data compiled for this report. Idursulfase is a recombinant iduronate-2-sulfatase. It breaks down glycosaminoglycans (dermatan sulfate and heparan sulfate) that build up in MPS II.
 
-Ptosis-strabismus-ectopic pupils syndrome is a congenital craniofacial/extraocular muscle developmental disorder. The evidence pack explicitly states there is **no known mechanistic connection** between this syndrome and GAG metabolism or lysosomal storage — the pathology is structural/developmental, not a substrate-accumulation disease that IDS enzyme replacement would address. This top-ranked prediction is therefore flagged by the source data itself as lacking mechanistic basis, and no supporting trials or literature were found.
+The predicted condition is a congenital ocular and neuromuscular malformation. It has no known glycosaminoglycan storage pathology, so no mechanistic link between the original and new indication could be identified. Enzyme replacement therapy is also not expected to cross the blood-brain barrier, so it is unlikely to affect developmental ocular or neuromuscular defects.
 
-Notably, among all 10 predicted indications in this pack, only rank 10 (Scheie syndrome, TxGNN score 94.79%, lower than the top prediction) has any literature evidence (7 publications). Even there, the evidence pack raises an explicit mechanism-mismatch warning: Scheie syndrome is a subtype of MPS **I** (alpha-L-iduronidase/IDUA gene deficiency, treated with laronidase), not MPS II (IDS gene deficiency, treated with Idursulfase). The apparent TxGNN signal likely reflects knowledge-graph clustering by the shared "mucopolysaccharidosis" disease category rather than a true enzyme-substrate match.
+The high TxGNN score (0.979) therefore seems to reflect graph proximity rather than a biological rationale. The same applies to the other top-ranked predictions, which are all congenital eyelid, ocular-muscle or cranial-nerve conditions (for example congenital Horner syndrome, jaw-winking syndrome, congenital entropion and ectropion). None has any supporting trial or publication.
+
+The only prediction with a biologically coherent link is **Scheie syndrome** (rank 10, score 94.79%, evidence level L4). It is an attenuated form of MPS I, in which the same glycosaminoglycans accumulate. However, idursulfase acts on a different enzymatic step and would not replace the missing alpha-L-iduronidase enzyme. Laronidase is the specific therapy for MPS I.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for the top-ranked prediction (ptosis-strabismus-ectopic pupils syndrome).
+
+For reference, the literature retrieved for the Scheie syndrome prediction is indirect only. None of it shows efficacy of idursulfase in Scheie syndrome.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22210671](https://pubmed.ncbi.nlm.nih.gov/22210671/) | 2011 | Review | Rheumatology (Oxford) | Overview of therapy for the mucopolysaccharidoses, including ERT for MPS I and MPS II |
+| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | Rev Med Interne | Review of enzyme replacement therapy in lysosomal storage diseases |
+| [36329518](https://pubmed.ncbi.nlm.nih.gov/36329518/) | 2022 | Case report/series | Orphanet J Rare Dis | Desensitization approach for idursulfase and laronidase in MPS II and MPS I-S |
+| [39731157](https://pubmed.ncbi.nlm.nih.gov/39731157/) | 2024 | Cohort/follow-up | Orphanet J Rare Dis | Two-year follow-up after drug desensitization in MPS |
+| [21732093](https://pubmed.ncbi.nlm.nih.gov/21732093/) | 2012 | Cohort | J Inherit Metab Dis | Serum heparin cofactor II-thrombin complex as a biomarker in treated MPS I and II patients |
 
 ---
 
 ## EU Market Information
 
-Idursulfase is currently **not marketed** in the target region, with 0 authorizations on record.
-
----
-
-## Safety Considerations
-
-Please refer to the SmPC for safety information.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000700 (cancelled) | Elaprase | Not specified | Elaprase is indicated for the long-term treatment of patients with Hunter syndrome (mucopolysaccharidosis II, MPS II). Heterozygous... |
 
 ---
 
@@ -90,13 +100,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no supporting clinical trial or literature evidence, and the evidence pack itself states there is no plausible mechanistic basis. The only candidate in this set with literature support (Scheie syndrome) carries an explicit enzyme/gene-target mismatch warning, so overall evidentiary support for repurposing is currently absent.
+The prediction rests only on a computational score, with no clinical trials, no publications and no identifiable mechanism. The EU authorization is also cancelled. Idursulfase is not recommended for further development in this indication.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (DG001, currently blocking S1 safety review)
-- Confirmed original mechanism-of-action documentation via DrugBank API (DG002)
-- A mechanistically grounded candidate indication (e.g., one tied to GAG/lysosomal storage pathology) before advancing past S0
-- If the Scheie syndrome direction is pursued, clarification of the IDUA vs. IDS enzyme-target discrepancy before any further evaluation
+- Mechanism of action data for idursulfase
+- Safety information from the product label (warnings and contraindications), which is currently unavailable
+- Any biological or clinical evidence linking the drug to the predicted condition
+- If a related direction is pursued, a separate review of Scheie syndrome, where laronidase is the established therapy, would be a more sensible research question than the top-ranked ocular syndromes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

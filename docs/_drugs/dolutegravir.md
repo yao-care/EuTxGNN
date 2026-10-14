@@ -2,7 +2,7 @@
 layout: default
 title: Dolutegravir
 parent: Medium Evidence (L3-L4)
-nav_order: 188
+nav_order: 195
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,85 +29,68 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dolutegravir: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Dolutegravir: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
 
 ## One-Sentence Summary
 
-Dolutegravir (DTG) is a second-generation integrase strand transfer inhibitor (INSTI) established globally as a preferred first-line treatment for HIV-1 infection, though it carries no market authorization in Taiwan.
-The TxGNN model predicts it may be effective against **Feline Acquired Immunodeficiency Syndrome (FIV infection in cats)**,
-with **1 veterinary observational study** directly supporting this direction; the 5 clinical trials retrieved were human HIV-1 studies matched by DTG's chemical identifier rather than the FIV indication itself.
-
----
+Dolutegravir is an integrase strand transfer inhibitor, originally used in combination with other antiretrovirals to treat HIV infection in adults, adolescents and children.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, with **0 registered clinical trials** and **1 publication** currently supporting this direction.
+The evidence is indirect and comes from veterinary or preclinical work, so it is a research-model signal rather than a human treatment opportunity.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan (globally used for HIV-1 infection) |
-| Predicted New Indication | Feline Acquired Immunodeficiency Syndrome |
+|------|------|
+| Original Indication | HIV infection, in combination with other antiretroviral medicinal products, in adults, adolescents and children (from 4 weeks of age and weighing at least 3 kg) |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L4 |
-| Market Status | ✗ Not Marketed (Taiwan) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold (Research Question) |
-
----
+| EU Market Status | Cancelled only (the single marketing authorization is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Dolutegravir is a second-generation integrase strand transfer inhibitor (INSTI) that blocks retroviral replication by chelating Mg²⁺ ions in the active site of viral integrase, thereby preventing the strand transfer step that inserts viral cDNA into the host genome. Although the mechanism of action field is not populated in this Evidence Pack, DTG's pharmacology is well-documented in published literature: it acts with high potency and maintains a substantially higher barrier to resistance than first-generation INSTIs such as raltegravir, making it the WHO-preferred first-line antiretroviral agent globally.
+Detailed mechanism of action data is not available in the data compiled for this report. Dolutegravir is known to be an HIV integrase strand transfer inhibitor, and its efficacy in HIV infection is established.
 
-Feline Immunodeficiency Virus (FIV) is a lentivirus—the same retroviral subfamily as HIV-1—that causes progressive immunodeficiency in domestic cats, closely mirroring the pathophysiology of AIDS in humans. Because FIV encodes a structurally homologous integrase enzyme (sharing the conserved HHCC zinc-binding domain and DDE catalytic triad), the INSTI class is theoretically active against FIV replication. The mechanistic link is therefore biologically coherent: both HIV-1 and FIV rely on integrase-mediated proviral integration, and DTG's binding geometry to this shared active site forms a rational basis for cross-species activity.
+Feline immunodeficiency virus (FIV) is a lentivirus whose integrase enzyme is related to HIV-1 integrase. Activity against FIV is therefore mechanistically plausible. Feline AIDS is a close veterinary counterpart of HIV disease, which probably explains the very high model score.
 
-A critical caveat is that domestic cats have substantially different pharmacokinetic profiles from humans—particularly reduced glucuronidation capacity (UGT1A deficiency) and distinct CYP450 expression patterns—meaning DTG's absorption, distribution, metabolism, and excretion in cats cannot be directly extrapolated from human data. A 2023 veterinary case series (PMID 37112803) directly addressed this gap by evaluating a cART regimen of DTG (2.5 mg/kg) combined with tenofovir and emtricitabine in FIV-infected domestic cats, examining pharmacokinetics and immunophenotype changes. This represents the first direct clinical evidence for this veterinary repurposing hypothesis, though the study remains preliminary and uncontrolled. This prediction sits firmly in the **veterinary medicine** domain rather than constituting a conventional human drug repurposing scenario.
-
----
+The one available publication (2023) tested a combination regimen of dolutegravir, tenofovir and emtricitabine in FIV-infected cats. It looked at pharmacokinetics and clinical outcomes, but it gives no dolutegravir-specific efficacy data. This is a veterinary condition and not a human indication, so the repurposing value lies mainly in research models.
 
 ## Clinical Trial Evidence
 
-> **Important context**: All 5 retrieved trials are human HIV-1 studies matched by DTG's development code (GSK1349572). No clinical trials targeting FIV with DTG are currently registered.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT01263015](https://clinicaltrials.gov/study/NCT01263015) | Phase 3 | Completed | 844 | DTG + ABC/3TC vs Atripla (EFV/FTC/TDF) over 96 weeks in HIV-1 ART-naïve adults; demonstrated non-inferior antiviral activity for DTG arm |
-| [NCT01227824](https://clinicaltrials.gov/study/NCT01227824) | Phase 3 | Completed | 828 | SPRING-2: DTG 50 mg once daily vs raltegravir 400 mg twice daily, both with NRTI backbone; established once-daily DTG dosing advantage |
-| [NCT00951015](https://clinicaltrials.gov/study/NCT00951015) | Phase 2 | Completed | 208 | Phase IIb dose-selection study for DTG in HIV-1 ART-naïve adults with ABC/3TC or TDF/FTC backbone; selected 50 mg QD as optimal dose |
-| [NCT01231516](https://clinicaltrials.gov/study/NCT01231516) | Phase 3 | Completed | 724 | DTG vs raltegravir in HIV-1 ART-experienced, integrase inhibitor–naïve adults with investigator-selected background regimen; DTG showed non-inferiority |
-| [NCT01499199](https://clinicaltrials.gov/study/NCT01499199) | Phase 3 | Completed | 13 | Single-arm CNS/plasma PK study of DTG + ABC/3TC in HIV-1 ART-naïve adults; characterized DTG CNS penetration |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Observational / Case Series (Veterinary) | *Viruses* | First evaluation of cART (DTG 2.5 mg/kg + tenofovir 20 mg/kg + emtricitabine 40 mg/kg) in FIV-infected specific pathogen-free domestic cats; examined pharmacokinetics and immunophenotype changes under treatment |
+|------|-----|------|------|---------|
+| [37112803](https://pubmed.ncbi.nlm.nih.gov/37112803/) | 2023 | Preclinical (veterinary) | Viruses | Evaluated pharmacokinetics and clinical outcomes of combination antiretroviral therapy (dolutegravir, tenofovir, emtricitabine) in FIV-infected domestic cats. No dolutegravir-specific efficacy data. |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002753 (cancelled) | Tivicay | Not specified | Tivicay is indicated in combination with other anti-retroviral medicinal products for the treatment of Human Immunodeficiency Virus (HIV) infected adults, adolescents and children of at least 6 years of age or older and weighing at least 14 kg... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 62 interactions were identified in total. Among those listed, the main **Major** interactions are with polyvalent cation products, which can reduce dolutegravir absorption: aluminum hydroxide, magaldrate, attapulgite, kaolin, calcium salts (acetate, carbonate, citrate, glubionate, gluconate, lactate, phosphate), iron, and magnesium salts (carbonate, chloride, citrate). **Minor** interactions include aprepitant, cimetidine, clarithromycin, clotrimazole and dexamethasone.
 
-> **Veterinary context note**: Human safety data for DTG cannot be directly applied to feline patients. Cats' limited glucuronidation capacity (UGT1A deficiency) raises the risk of drug accumulation and dose-dependent toxicity at human-equivalent doses. Species-specific toxicology studies are prerequisite to any clinical feline use.
-
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (Research Question)**
+**Decision: Hold**
 
 **Rationale:**
-While the mechanistic basis for DTG activity against FIV is biologically plausible—both viruses encode homologous integrase enzymes susceptible to INSTI-class inhibition—the current evidence rests on a single uncontrolled veterinary observational study. This is a veterinary medicine application rather than a human drug repurposing scenario, and no authorizations exist in Taiwan. The high TxGNN prediction score (99.85%) most likely reflects the knowledge graph's proximity between HIV and FIV lentiviral nodes rather than direct clinical validation.
+The prediction rests on a model score and a single indirect veterinary publication, with no clinical trials. Feline AIDS is not a human indication, so the finding is best treated as a research-model observation. In addition, the only EU authorization for dolutegravir in the compiled data is cancelled.
 
 **To proceed, the following is needed:**
-
-- Controlled veterinary clinical trials (randomized where feasible) evaluating DTG efficacy, safety, and optimal dosing in FIV-infected cats
-- Feline-specific pharmacokinetic/pharmacodynamic studies to characterize DTG absorption, metabolism, and safe dose ranges given known UGT1A limitations in cats
-- In vitro FIV integrase susceptibility profiling and resistance mutation characterization for DTG
-- Long-term feline safety monitoring data covering hepatic enzymes, renal function, complete blood count, and body weight
-- DTG mechanism of action data (DG002 gap: currently absent from Evidence Pack; recommend DrugBank API query)
-- Regulatory pathway assessment for veterinary drug authorization in the target jurisdiction
+- Dolutegravir-specific efficacy data in FIV models (the existing study used a combination regimen)
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC
+- Confirmation of the current EU authorization status and a veterinary regulatory pathway if animal use is of interest
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

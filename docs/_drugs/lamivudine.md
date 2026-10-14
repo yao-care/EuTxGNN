@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lamivudine
-parent: High Evidence (L1-L2)
-nav_order: 338
-evidence_level: L1
+parent: Medium Evidence (L3-L4)
+nav_order: 349
+evidence_level: L4
 indication_count: 10
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,116 +29,97 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Lamivudine: From HIV/Antiretroviral Therapy to Hepatitis B Virus Infection
+# Lamivudine: From Chronic Hepatitis B to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Lamivudine (3TC) is a nucleoside reverse transcriptase inhibitor (NRTI) with established global approval for HIV-1 treatment and chronic hepatitis B, but currently not marketed in Taiwan.
-The TxGNN model's highest-ranked human clinical prediction is **Hepatitis B Virus Infection** (rank 6, score 97.84%), supported by **50+ clinical trials** and **20+ publications**, reflecting a well-documented efficacy base that represents a regulatory introduction opportunity in Taiwan.
-
-> **Note on top TxGNN predictions**: Ranks 1 and 2 are simian immunodeficiency virus (SIV, score 99.93%) and feline acquired immunodeficiency syndrome (FIV, score 99.93%) — both non-human veterinary indications with no applicable human repurposing value. Ranks 3, 4, 8, 9, and 10 carry Hold recommendations (L5 evidence or known mechanistic incompatibility). This report focuses on **Hepatitis B Virus Infection** (rank 6) as the highest-evidence, most clinically actionable human indication.
+Lamivudine is a nucleoside reverse transcriptase inhibitor, authorised in the EU for chronic hepatitis B and for HIV combination therapy.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, an animal-model counterpart of HIV.
+Support comes from **0 registered clinical trials** and **15 publications**, mostly macaque studies, so the evidence is preclinical only.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not licensed in Taiwan; globally approved for HIV-1 and chronic hepatitis B |
-| Predicted New Indication | Hepatitis B Virus Infection |
-| TxGNN Prediction Score | 97.84% (rank 6) |
-| Evidence Level | L1 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 (Taiwan) |
-| Recommended Decision | Proceed with Guardrails |
+|------|------|
+| Original Indication | Chronic hepatitis B in adults with compensated liver disease and active viral replication (an alternative antiviral with a higher genetic barrier should be considered first) |
+| Predicted New Indication | Simian immunodeficiency virus infection |
+| TxGNN Prediction Score | 99.93% |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 4 (all cancelled) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Lamivudine is a cytidine nucleoside analogue. After intracellular phosphorylation to its active triphosphate form (3TC-TP), it acts as a competitive inhibitor of reverse transcriptase — incorporating into the growing viral DNA chain and causing obligate chain termination. The key structural reason this works against both HIV and HBV is that **HIV reverse transcriptase and HBV DNA polymerase share homologous YMDD catalytic domains**, allowing the same molecule to inhibit both enzymes through the same mechanism.
+Detailed mechanism of action data is not available in the data compiled for this report. Lamivudine is known to be a nucleoside analogue reverse transcriptase inhibitor (NRTI). Its efficacy against hepatitis B and HIV is established, and mechanistically it may be applicable to SIV.
 
-HBV replicates via a pregenomic RNA (pgRNA) intermediate, which is reverse-transcribed into the viral relaxed circular DNA (rcDNA) by HBV polymerase. Lamivudine blocks this step precisely, which explains why it earned dual FDA approval as both Epivir® (HIV-1, 1995) and Epivir-HBV® (chronic hepatitis B, 1998). This mechanistic overlap is exactly what the TxGNN knowledge graph captures, producing a high prediction score (97.84%) that mirrors real-world clinical consensus.
+SIV is a lentivirus closely related to HIV and uses the same enzyme, reverse transcriptase, which is lamivudine's target. Macaque studies of combination antiretroviral therapy support this link. They include work on the M184V resistance mutation, which appears quickly in SIV-infected animals treated with lamivudine, much as it does in HIV-1 patients.
 
-The key clinical limitation is the YMDD-motif resistance mutation (rtM204V/I), which emerges in approximately 25% of patients by year 1 and exceeds 50% by year 3 of lamivudine monotherapy. Current EASL and AASLD guidelines consequently position tenofovir (TDF/TAF) and entecavir as preferred first-line agents, with lamivudine retained as a third-line or resource-limited alternative. In Taiwan, where lamivudine is presently unmarked, introducing it with a clear resistance monitoring plan and explicit guideline-concordant positioning represents the main guardrail required before proceeding.
+SIV infection in macaques is an experimental model of an already-approved human indication (HIV). The prediction is therefore scientifically plausible, but it does not represent a new human indication.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|-------------|-------|--------|------------|--------------|
-| [NCT00001457](https://clinicaltrials.gov/study/NCT00001457) | Phase 2 | Completed | 60 | Foundational "Lamivudine for Chronic Hepatitis B" trial — directly compared with alpha interferon; established antiviral efficacy and tolerability benchmark for chronic HBV |
-| [NCT00124241](https://clinicaltrials.gov/study/NCT00124241) | Phase 2b | Completed | N/A | Extension study: telbivudine vs lamivudine vs LdT+3TC beyond 1 year — directly evaluated lamivudine long-term comparative outcomes |
-| [NCT03236584](https://clinicaltrials.gov/study/NCT03236584) | Phase 3 | Unknown | 76 | Tenofovir monotherapy vs lamivudine + adefovir in lamivudine-resistant CHB with prior viral suppression — informs resistance rescue strategy |
-| [NCT01580202](https://clinicaltrials.gov/study/NCT01580202) | Phase 3 | Completed | 180 | Entecavir vs lamivudine prophylaxis to prevent HBV reactivation in HBV-positive patients undergoing cytotoxic chemotherapy |
-| [NCT00076336](https://clinicaltrials.gov/study/NCT00076336) | Phase 3 | Completed | 232 | Telbivudine vs lamivudine in decompensated chronic hepatitis B with cirrhosis — safety and virological suppression in high-risk patients |
-| [NCT00131742](https://clinicaltrials.gov/study/NCT00131742) | Phase 3 | Completed | N/A | Telbivudine vs lamivudine in Chinese adults with compensated CHB — relevant Asian population data |
-| [NCT02202473](https://clinicaltrials.gov/study/NCT02202473) | Phase 4 | Completed | 192 | Oxymatrine + lamivudine vs lamivudine monotherapy — evaluated whether combination reduces long-term resistance incidence |
-| [NCT00380614](https://clinicaltrials.gov/study/NCT00380614) | Phase 4 | Completed | N/A | Randomized trial of lamivudine in acute hepatitis B — rapid HBV DNA reduction to potentially prevent fulminant hepatitis |
-| [NCT01046799](https://clinicaltrials.gov/study/NCT01046799) | Phase 3 | Completed | 20 | Post-liver transplant HBV reinfection prevention: short-term HBIG then entecavir vs lamivudine |
-| [NCT00354653](https://clinicaltrials.gov/study/NCT00354653) | Phase 4 | Completed | 100 | Open-label lamivudine in HBeAg-negative chronic HBV in Iran — 2-year efficacy in pre-core mutant patients |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|--------------|
-| [35499182](https://pubmed.ncbi.nlm.nih.gov/35499182/) | 2022 | Cochrane Review | Antiviral Therapy | Adefovir for lamivudine-resistant HBV: documents lamivudine's established initial efficacy and >50% year-3 resistance rate; defines rescue therapy paradigm |
-| [31272463](https://pubmed.ncbi.nlm.nih.gov/31272463/) | 2019 | Meta-analysis | Virology Journal | Lamivudine in children with chronic HBV: meta-analysis confirms safety and efficacy of 3 mg/kg/day in pediatric population |
-| [16984494](https://pubmed.ncbi.nlm.nih.gov/16984494/) | 2006 | Systematic Review | Alimentary Pharmacology & Therapeutics | Systematic review of lamivudine prophylaxis for chemotherapy-induced HBV reactivation; supports preemptive use in HBsAg-positive cancer patients |
-| [22077578](https://pubmed.ncbi.nlm.nih.gov/22077578/) | 2011 | Cost-Effectiveness | PharmacoEconomics | Prophylactic lamivudine reduces HBV vertical transmission in high-viremia mothers; favorable cost-effectiveness ratio modeled for Taiwan context |
-| [12269843](https://pubmed.ncbi.nlm.nih.gov/12269843/) | 2002 | Review | Paediatric Drugs | Dose-ranging data: lamivudine 3 mg/kg/day (max 100 mg) optimal for pediatric CHB; comprehensive tolerability review |
-| [19207972](https://pubmed.ncbi.nlm.nih.gov/19207972/) | 2009 | Review | Liver International | Natural history of chronic HBV and long-term outcomes under treatment; lamivudine positioned as foundational antiviral comparator |
-| [11231955](https://pubmed.ncbi.nlm.nih.gov/11231955/) | 2001 | Review | Gastroenterology | Molecular anatomy of YMDD resistance in HBV: mechanism of rtM204V/I emergence and its clinical implications for lamivudine long-term therapy |
-| [12702032](https://pubmed.ncbi.nlm.nih.gov/12702032/) | 2003 | Cohort | Journal of Internal Medicine | Lamivudine before and after liver transplantation: effective HBV suppression reduces post-transplant graft reinfection risk |
-| [16980024](https://pubmed.ncbi.nlm.nih.gov/16980024/) | 2006 | Cohort | Transplantation Proceedings | Successful lamivudine treatment of HBV after heart transplantation in Taiwan (N=18); supports use in immunosuppressed post-transplant patients |
-| [21973301](https://pubmed.ncbi.nlm.nih.gov/21973301/) | 2011 | Review | Expert Review of Anti-infective Therapy | HBV management in hematopoietic stem cell transplantation: lamivudine prophylaxis for reactivation prevention in immunocompromised patients |
+|------|-----|------|------|---------|
+| [12021341](https://pubmed.ncbi.nlm.nih.gov/12021341/) | 2002 | Preclinical (macaque) | J Virol | In newborn macaques infected with SIVmac251, M184V mutants emerged within 5 weeks of lamivudine or emtricitabine therapy. This mimics rapid resistance in HIV-1 patients. |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Preclinical (macaque PEP) | AIDS | Evaluated post-exposure prophylaxis with zidovudine, lamivudine and indinavir against vaginal SIV transmission. |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Preclinical (macaque) | J Virol | Viral decay in SIV-infected cynomolgus macaques given a 7-day course of quadruple antiretroviral therapy. |
+| [12502828](https://pubmed.ncbi.nlm.nih.gov/12502828/) | 2003 | Preclinical (macaque) | J Virol | Tenofovir selected for reversion of the M184V mutation in SIV reverse transcriptase, even in the presence of lamivudine. |
+| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | Preclinical (macaque HAART) | J Virol | Efavirenz, lamivudine and tenofovir reduced plasma viral RNA in RT-SHIV-infected rhesus macaques. |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro | Antivir Ther | Tested the activity of 16 approved anti-HIV drugs against HIV-2, SIV and SHIV strains, to inform treatment and post-exposure prophylaxis. |
+| [12163615](https://pubmed.ncbi.nlm.nih.gov/12163615/) | 2002 | Preclinical | J Virol | The lamivudine-resistance mutation M184V delayed reversion of attenuated SIV variants. |
+| [14610172](https://pubmed.ncbi.nlm.nih.gov/14610172/) | 2003 | Preclinical (macaque) | J Virol | Preliminary report on the effect of early antiviral prophylaxis on lymphocyte proliferation in SIVmac251-infected macaques. |
+| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | Review | Curr Opin HIV AIDS | Discusses islatravir, a novel reverse transcriptase translocation inhibitor, for HIV-1 treatment and prevention. Not lamivudine-specific. |
+| [39509655](https://pubmed.ncbi.nlm.nih.gov/39509655/) | 2024 | Epidemiology | AIDS Rev | Describes the HIV-1 and HIV-2 burden in Ivory Coast and the SIV origin of HIV. Not drug-specific. |
 
 ---
 
-## Taiwan Market Information
-
-Lamivudine is currently **not marketed in Taiwan**. No TFDA licenses are on record.
+## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|-------------|-------------|---------------------|
-| — | No Taiwan authorizations | — | No Taiwan authorizations on record |
+|---------|------|------|-----------|
+| EMEA/H/C/001113 | Lamivudine Teva | Not specified | Lamivudine Teva is indicated for the treatment of chronic hepatitis B in adults with: compensated liver disease with ev... |
+| EMEA/H/C/000242 | Zeffix | Not specified | Zeffix is indicated for the treatment of chronic hepatitis B in adults with: compensated liver disease with evidence of... |
+| EMEA/H/C/001111 | Lamivudine Teva Pharma B.V. | Not specified | Lamivudine Teva Pharma B.V. is indicated as part of antiretroviral combination therapy for the treatment of human-immun... |
+| EMEA/H/C/000107 | Epivir | Not specified | Epivir is indicated as part of antiretroviral combination therapy for the treatment of human-immunodeficiency-virus (HI... |
 
-For reference, lamivudine holds approvals in other major jurisdictions:
-- **FDA**: Epivir® (HIV-1 treatment); Epivir-HBV® (chronic hepatitis B with active viral replication and evidence of active hepatitis)
-- **EMA**: Epivir® and multiple generic products approved for HIV-1 and chronic HBV
-
-A TFDA regulatory submission would be required before lamivudine can be marketed in Taiwan. Given the extensive global evidence base, an abbreviated NDA or referencing international approval packages may accelerate the review process.
+All four authorisations are cancelled.
 
 ---
 
 ## Safety Considerations
 
-No Taiwan-specific package insert data (warnings, contraindications) is available in this evidence pack. Based on established international safety profiles:
+- **Contraindication-related signals (from a knowledge graph, not label text):** liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, pancreatitis, gallbladder disease, neutropenia, agranulocytosis, anemia, macrocytic anemia, lactic acidosis, hypertriglyceridemia, myopathy, muscular disease, skeletal muscle disease, myositis, dermatomyositis, familial periodic paralysis, pyoureter, obesity disorder and monogenic obesity. These come from drug-disease relationship data and should be checked against the SmPC.
+- **Drug Interactions:** 100 interactions were recorded. Moderate-level interactions include lactitol, mannitol, naltrexone, orlistat and sorbitol. Others, such as metformin, cimetidine, omeprazole, pantoprazole, morphine and vancomycin, are listed with unclassified severity.
 
-- **YMDD Resistance (Critical)**: The rtM204V/I mutation confers high-level resistance to lamivudine. Resistance emerges in ~25% at year 1, rising to >50% by year 3 of monotherapy. HBV DNA monitoring every 3–6 months is mandatory, with a pre-defined switch strategy upon virological breakthrough (HBV DNA rebound ≥1 log₁₀ IU/mL above nadir).
-- **HBV Flare on Discontinuation**: Abrupt withdrawal triggers hepatitis exacerbation in a subset of patients; potentially life-threatening in those with underlying cirrhosis or impaired hepatic reserve. Discontinuation requires structured tapering and clinical monitoring.
-- **Lactic Acidosis / Severe Hepatomegaly**: Rare but potentially fatal class effect of NRTIs; risk is elevated in patients with hepatic dysfunction or prolonged use.
-- **Drug Interactions**: No DDI data was found in the database query for this evidence pack. Please refer to the FDA/EMA SmPC for complete interaction profile, particularly with TMP-SMX (increases lamivudine exposure) and other NRTIs.
+Please also refer to the SmPC for authoritative warnings and contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Lamivudine has Level 1 evidence for hepatitis B virus infection, underpinned by multiple completed Phase 3 RCTs, a Cochrane systematic review, and FDA approval dating to 1998. The TxGNN prediction (97.84%) accurately reflects the well-established mechanistic basis — HBV polymerase inhibition via the same YMDD-domain targeting used in HIV treatment. The absence of Taiwan marketing authorization represents a regulatory gap, not a scientific uncertainty, and there are specific patient populations (chemotherapy prophylaxis, liver transplant recipients, pregnancy, resource-limited settings) where lamivudine's clinical role remains current and relevant even within a guideline landscape that favors tenofovir and entecavir for treatment-naive patients.
+The evidence is limited to macaque and in vitro studies, with no registered clinical trials. SIV infection is an animal model of HIV, a human indication lamivudine already covers, so it offers no new human indication. All EU authorisations are also cancelled.
 
 **To proceed, the following is needed:**
-- **Safety package**: Obtain full FDA/EMA SmPC or TFDA package insert; confirm warnings, contraindications, and DDI profile before any clinical evaluation
-- **Guideline positioning**: Confirm lamivudine's current placement in EASL 2024 and AASLD guidelines; document that it is third-line for treatment-naive patients but may remain preferred in pregnancy, renal impairment, or specific co-infection scenarios
-- **Resistance monitoring protocol**: Define HBV DNA monitoring intervals (every 3 months for first year, every 6 months thereafter), virological breakthrough threshold, and pre-planned entecavir or tenofovir switch criteria
-- **Target population definition**: Identify the specific Taiwan patient segments where lamivudine provides added value over already-available alternatives (if any exist in Taiwan)
-- **Regulatory pathway assessment**: Determine whether TFDA will accept an abbreviated NDA based on existing FDA/EMA dossiers, and estimate timeline and cost for market introduction
-- **Commercial and supply chain review**: Assess whether generic lamivudine products can be sourced at competitive cost, given that tenofovir and entecavir generics are also widely available
+- A clear definition of the intended human indication. For example, the hepatitis B prediction ranked lower in the same analysis has much stronger trial support, including Phase 3 RCTs.
+- Detailed mechanism of action data (MOA).
+- Warnings and contraindications from the SmPC.
+- Confirmation of current product availability in the EU, since all licences are cancelled.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

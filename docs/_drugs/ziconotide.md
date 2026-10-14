@@ -2,7 +2,7 @@
 layout: default
 title: Ziconotide
 parent: Medium Evidence (L3-L4)
-nav_order: 657
+nav_order: 682
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,76 +29,72 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ziconotide: From Chronic Severe Pain to Migraine Disorder
+# Ziconotide: From Severe Chronic Pain to Migraine Disorder
 
 ## One-Sentence Summary
 
-Ziconotide is a selective N-type calcium channel blocker historically used as an intrathecal analgesic for severe chronic pain in patients already fitted with an intrathecal pump. The TxGNN model predicts it may also be effective for **Migraine Disorder**, but this direction is currently supported by only **1 case report** and **no registered clinical trials**, and the drug is not currently marketed in the EU.
-
----
+Ziconotide is an intrathecal analgesic originally used for severe, chronic pain in patients who require intrathecal (IT) analgesia.
+The TxGNN model predicts it may be effective for **migraine disorder**,
+but currently there are **0 registered clinical trials** and only **1 case report** directly supporting this direction (plus 2 related publications under the closely related migraine-susceptibility entry).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented as a formal EU authorization (see below); per the supporting literature, ziconotide is a calcium-channel-blocking analgesic administered intrathecally for chronic severe pain |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-A structured mechanism-of-action (MOA) record for ziconotide is not available in this Evidence Pack (flagged as a High-severity data gap). Based on the pharmacological description embedded in the supporting evidence, however, ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker that inhibits presynaptic release of glutamate, CGRP, and substance P at the dorsal horn of the spinal cord and within the trigeminovascular system. It has historically been delivered intrathecally for the management of chronic severe pain in patients already carrying an implanted intrathecal pump.
+Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker. By blocking these channels on primary nociceptive afferents, it reduces the release of pain-related neurotransmitters such as substance P, CGRP and glutamate. Formal mechanism of action data were not available in the data compiled for this report, so this description is drawn from the mechanistic analysis of the prediction itself.
 
-Migraine pathophysiology is centrally driven by trigeminovascular nociceptive signaling, in which the same neurotransmitters (glutamate, CGRP, substance P) play a key role. This shared pharmacological target gives the migraine prediction biological plausibility, and is consistent with the mechanistic rationale attached to this indication in the Evidence Pack.
+CGRP-mediated trigeminovascular signalling is central to migraine. Since ziconotide dampens the same kind of nociceptive neurotransmission that underlies its approved use in severe chronic pain, a mechanistic link to migraine is plausible.
 
-That said, the supporting evidence is limited to a single refractory case report (a patient who already had an intrathecal pump in place for chronic pain and incidentally experienced resolution of chronic migraine). There is no controlled trial evidence, and the highly invasive intrathecal route substantially limits real-world applicability — it would realistically only be relevant to migraine patients who already require an intrathecal pump for another indication, not as a general-purpose migraine therapy.
-
----
+The clinical support is thin. It consists of a single case report of chronic migraine resolving with intrathecal ziconotide and a 2022 discussion article proposing the approach. Practical feasibility is also limited by the need for intrathecal delivery, a narrow therapeutic index and neuropsychiatric adverse effects.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case Report | Journal of Pain Research | Resolution of chronic migraine headaches in a patient receiving intrathecal ziconotide for chronic severe pain; single-patient observation, no controlled comparison |
-
----
+| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case report | Journal of Pain Research | Chronic migraine headaches resolved with intrathecal ziconotide in a reported patient |
+| [35505713](https://pubmed.ncbi.nlm.nih.gov/35505713/) | 2022 | Review / case-based discussion | Cureus | Proposes intrathecal ziconotide as an option for chronic migraine refractory to conventional treatment (listed under the related migraine-susceptibility entry) |
+| [41628204](https://pubmed.ncbi.nlm.nih.gov/41628204/) | 2026 | Review | Pain Physician | Narrative review of neuromodulation devices for chronic pain; indirect relevance (listed under the related migraine-susceptibility entry) |
 
 ## EU Market Information
 
-Ziconotide currently has no marketing authorization on record for the EU market (0 licenses; market status: Not marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000551 | Prialt (status: cancelled) | Not specified | Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia. |
 
 ## Safety Considerations
 
-No detailed warnings, contraindications, or drug-drug interaction data are currently available in the Evidence Pack (this is flagged as a Blocking-severity gap that prevents a full initial safety assessment). Please refer to the product's Summary of Product Characteristics (SmPC) or approved labeling, once available, for complete safety information before any further evaluation.
+- **Knowledge-graph contraindication signals** (from drug–disease links in the TxGNN knowledge graph, not label text): psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder, and blood coagulation disease.
+- **Drug Interactions**: 48 interactions were identified, all of those listed being Moderate in level. Main examples include opioids (morphine, codeine, hydrocodone, opium, diphenoxylate, difenoxin), antihistamines (promethazine, chlorpheniramine, cetirizine, brompheniramine, carbinoxamine, clemastine, azelastine nasal), cannabinoids (dronabinol, nabilone), ethanol, metoclopramide, dextromethorphan and sibutramine. Many of these involve additive central nervous system depression.
+- Neuropsychiatric adverse effects and a narrow therapeutic index were noted in the prediction analysis.
 
----
+Please also refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The migraine prediction has mechanistic plausibility (shared trigeminovascular neurotransmitter targets) but is currently supported by only a single case report with no controlled clinical trial data, and ziconotide is not marketed anywhere in the EU. Combined with the absence of core safety labeling information (a Blocking-severity data gap), the evidence base is not yet sufficient to advance beyond a research question.
+The mechanistic link between N-type calcium channel blockade and migraine is plausible, but support is limited to a case report and hypothesis-generating articles with no controlled trials. The EU authorization has been cancelled, and the intrathecal route, narrow therapeutic index and neuropsychiatric risks (with knowledge-graph contraindication signals for psychiatric disorders) make the benefit-risk balance hard to justify without stronger evidence. It remains a research question rather than a candidate for development.
 
 **To proceed, the following is needed:**
-- Retrieval and parsing of the official product label/SmPC (warnings, contraindications, DDI) — currently a Blocking gap
-- A structured, sourced mechanism-of-action record for ziconotide (currently a High-severity gap)
-- Prospective or at least larger retrospective/case-series data on ziconotide in migraine, given the current evidence is a single case report
-- A feasibility assessment of the intrathecal delivery route, since this will restrict any realistic target population to patients who already require an intrathecal pump
+- Controlled or prospective clinical data (at least a well-designed Phase 2 study) in refractory chronic migraine
+- Mechanism of action data confirmed from a primary drug database
+- Safety information from the SmPC (warnings and contraindications), particularly psychiatric risk
+- An assessment of route feasibility and of whether a currently authorized product is available in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

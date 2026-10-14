@@ -29,70 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Agalsidase Beta: From Fabry Disease to Cervical Neuroblastoma
+# Agalsidase beta: From Fabry Disease to Cervical Neuroblastoma
 
 ## One-Sentence Summary
 
-Agalsidase beta (Fabrazyme) is a recombinant enzyme replacement therapy for Fabry disease, a lysosomal storage disorder caused by α-galactosidase A deficiency.
-The TxGNN model predicts it may have activity in **cervical neuroblastoma**, with **0 clinical trials** and **0 publications** currently supporting this direction — making this a model-only prediction with no empirical support.
-
----
+Agalsidase beta (Fabrazyme) is an enzyme replacement therapy originally used for long-term treatment of Fabry disease (alpha-galactosidase A deficiency).
+The TxGNN model predicts it may be effective for **cervical neuroblastoma**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Fabry disease (lysosomal storage disorder; α-galactosidase A deficiency) |
-| Predicted New Indication | Cervical Neuroblastoma |
+|------|------|
+| Original Indication | Long-term enzyme replacement therapy in patients with a confirmed diagnosis of Fabry disease (alpha-galactosidase A deficiency) |
+| Predicted New Indication | Cervical neuroblastoma |
 | TxGNN Prediction Score | 98.37% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known information, Agalsidase beta is a recombinant human α-galactosidase A, used as enzyme replacement therapy (ERT) for Fabry disease. It works by substituting the deficient lysosomal enzyme to break down Gb3 (globotriaosylceramide) deposits that accumulate in vascular endothelium, kidney, heart, and peripheral nerves.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, agalsidase beta is a recombinant human alpha-galactosidase A. It replaces the deficient enzyme in Fabry disease and clears globotriaosylceramide (Gb3) accumulated in lysosomes.
 
-The predicted target, cervical neuroblastoma, is an extremely rare pediatric malignancy arising from neural crest cells. Its pathogenesis involves MYCN amplification, ALK mutations, and aberrant sympathetic nervous system development — none of which overlap with lysosomal Gb3 clearance. Although lysosomal dysfunction has been studied in neuroblastoma biology, there is no established evidence that exogenous enzyme replacement therapy could exert anti-tumor effects via this pathway.
-
-A critical analytical concern: the top 10 TxGNN predictions for Agalsidase beta are dominated by rare head-and-neck and skull base tumors (neuroblastoma, schwannoma, meningioma, benign oral neoplasms). Scores for ranks 4–7 differ by less than 0.0001 (0.98308–0.98304), which strongly suggests systematic knowledge graph node clustering — specifically around "head and neck" and "nervous system" anatomical nodes — rather than independent biological signals. Fabry disease's known peripheral neuropathy may have created indirect KG pathways to these nodes, artificially inflating prediction scores across this cluster.
-
----
+No established mechanistic link connects Gb3 clearance to neuroblastoma. The high TxGNN score (98.37%) is a model-derived output only. The other top-ranked predictions are also tumours, mostly of the head, neck and cranial nerves. These include schwannoma of the jugular foramen, epiglottis neoplasm, benign neoplasms of the tongue, floor of mouth, buccal mucosa and hypopharynx, nasal cavity inverting papilloma, vestibulocochlear nerve neoplasm and jugular foramen meningioma. This clustering suggests the scores reflect shared knowledge-graph neighbourhood features rather than a pharmacological rationale. Fabry disease can involve auditory and vestibular symptoms, but these come from Gb3 accumulation, not from a neoplastic process.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000370 | Fabrazyme | Not specified | Long-term enzyme replacement therapy in patients with a confirmed diagnosis of Fabry disease (alpha-galactosidase A deficiency). (Status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions** (4 interactions found in the interaction database):
+  - Amiodarone: Major
+  - Chloroquine: Major
+  - Gentamicin: Major
+  - Migalastat: Moderate
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN score (98.37%), all 10 top predictions are at evidence level L5 (model prediction only), with zero supporting clinical trials or literature for any indication. The mechanistic connection between lysosomal enzyme replacement and cervical neuroblastoma is not biologically plausible with current evidence, and the scoring pattern across the top-10 list is consistent with systematic model output bias rather than genuine independent repurposing signals.
+The prediction is supported only by the model score, with no clinical trials, no publications and no biological rationale (Evidence Level L5). The only EU authorization is cancelled, and warning and contraindication data are missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- Retrieve full mechanism of action data (DrugBank API)
-- Biological plausibility assessment: Does lysosomal Gb3 accumulation or ERT play any demonstrable role in neural crest tumor development?
-- Preclinical evidence (cell line or animal model data) examining any anti-tumor or anti-proliferative effect of Agalsidase beta
-- TFDA SmPC download and parsing for safety warnings and contraindications (currently Blocking gap)
-- Independent validation to rule out KG clustering artifact — consider whether the head-and-neck tumor cluster reflects true signal or graph topology bias before pursuing any single indication further
+- Mechanism of action data, and a plausible biological rationale linking Gb3 clearance or alpha-galactosidase A replacement to neuroblastoma
+- Preclinical evidence (in vitro or in vivo) in neuroblastoma models
+- Warnings and contraindications from the SmPC, and clarification of the reason for the cancelled EU authorization
+- Assessment of route and formulation compatibility, since an intravenously administered enzyme may not suit the proposed indications
+- Review of the major interactions (amiodarone, chloroquine, gentamicin) for any future use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

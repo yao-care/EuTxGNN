@@ -2,7 +2,7 @@
 layout: default
 title: Telmisartan
 parent: AI Predictions (L5)
-nav_order: 574
+nav_order: 595
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Telmisartan is an angiotensin II receptor blocker (ARB), and its original indication in this evidence pack is described in the context of hypertension management via AT1 receptor blockade. The TxGNN model predicts it may be effective for **Prinzmetal Angina**, but currently this prediction is supported only by the model's score, with **no clinical trials** and **no published literature** in the evidence pack.
+Telmisartan is an angiotensin receptor blocker originally used to treat essential hypertension and to reduce cardiovascular morbidity in high-risk patients.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but **no clinical trials and no publications** were found for this specific prediction.
+Among the other top-ranked predictions, **intracerebral hemorrhage** has the strongest evidence (a completed Phase 3 trial of a combination regimen, plus a 2026 publication).
 
 ---
 
@@ -41,41 +43,105 @@ Telmisartan is an angiotensin II receptor blocker (ARB), and its original indica
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (inferred from ARB/AT1-blockade mechanism referenced in the evidence pack; no formal indication label data available) |
-| Predicted New Indication | Prinzmetal Angina |
+| Original Indication | Treatment of essential hypertension in adults; reduction of cardiovascular morbidity in patients with atherothrombotic cardiovascular disease or type 2 diabetes with target organ damage |
+| Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 6 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action (MOA) data is not available in the evidence pack (flagged as a data gap). Based on the information that is available, Telmisartan is an angiotensin II receptor blocker (ARB) that works primarily by blocking the AT1 receptor to lower blood pressure and inhibit vascular remodeling.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Telmisartan belongs to the angiotensin II type 1 (AT1) receptor blocker class, and its efficacy in hypertension and cardiovascular risk reduction is established. Preclinical literature also describes a partial PPARγ-agonist activity.
 
-Prinzmetal (variant) angina, however, is pathophysiologically driven by coronary artery smooth muscle spasm and is conventionally managed with calcium channel blockers or nitrates — pathways with no established mechanistic link to the renin-angiotensin-aldosterone system (RAAS). The evidence pack's own rationale explicitly notes that this candidate is a high-scoring model prediction **without substantive mechanistic support**.
+Prinzmetal (vasospastic) angina involves coronary artery spasm. A plausible link exists through vasodilation and renin-angiotensin system (RAS)/AT1 blockade. However, vasospastic angina is not a recognized telmisartan indication, and no trial or publication supporting this link was retrieved. The prediction is therefore model-derived only.
 
-In other words, this is a case where TxGNN generated a numerically high score, but the underlying pharmacology does not provide a plausible biological rationale for repurposing. This should be treated as a low-confidence, exploratory signal rather than a clinically actionable hypothesis.
+### Other Predicted Indications (for context)
+
+| Rank | Predicted Indication | Score | Evidence Level | Decision |
+|---|---|---|---|---|
+| 2 | Brain stem infarction | 99.98% | L5 | Hold |
+| 3 | ABri amyloidosis | 99.97% | L5 | Hold |
+| 4 | Cerebral artery occlusion | 99.95% | L4 | Research Question |
+| 5 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.93% | L4 | Hold |
+| 6 | Pulmonary hypertension with unclear multifactorial mechanism | 99.93% | L5 | Hold |
+| 7 | Malignant hypertensive renal disease | 99.93% | L5 | Hold |
+| 8 | Malignant renovascular hypertension | 99.93% | L5 | Hold |
+| 9 | Intracerebral hemorrhage | 99.93% | L2 | Research Question |
+| 10 | Braddock syndrome | 99.92% | L5 | Hold |
+
+Notably, **intracerebral hemorrhage** is supported by blood-pressure lowering as the established route to preventing recurrent bleeding. Telmisartan was one component of the TRIDENT triple low-dose single-pill regimen, so its independent contribution cannot be isolated. **Cerebral artery occlusion** is supported only by preclinical studies showing reduced infarct volume and neuroinflammation. For **malignant renovascular hypertension**, ARBs carry a safety concern (renal function decline with bilateral renal artery stenosis), so caution is needed.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+No clinical trials are registered for the top-ranked prediction (Prinzmetal angina). Currently no related clinical trials registered.
+
+For reference, the most relevant trials among the other predicted indications are:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02699645](https://clinicaltrials.gov/study/NCT02699645) | Phase 3 | Completed | 1671 | TRIDENT: triple low-dose blood-pressure-lowering pill vs standard care to prevent recurrent stroke after intracerebral hemorrhage (combination, not telmisartan alone) |
+| [NCT01075698](https://clinicaltrials.gov/study/NCT01075698) | Phase 4 | Completed | 1228 | Telmisartan vs ordinary therapy on biomarkers and cardiovascular events in high-risk hypertensive patients (cerebral artery occlusion context) |
+| [NCT03783754](https://clinicaltrials.gov/study/NCT03783754) | Not applicable | Terminated | 4 | TRIDENT MRI sub-study; too small to inform efficacy |
+| [NCT03785067](https://clinicaltrials.gov/study/NCT03785067) | Phase 3 | Terminated | 1 | TRIDENT cognitive sub-study; no usable data |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+No publications were found for Prinzmetal angina. Currently no related literature available for this specific prediction.
+
+For reference, the most relevant publications among the other predicted indications are:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42019018](https://pubmed.ncbi.nlm.nih.gov/42019018/) | 2026 | RCT (TRIDENT results) | N Engl J Med | Single pill with three low-dose antihypertensives after intracerebral hemorrhage |
+| [34994269](https://pubmed.ncbi.nlm.nih.gov/34994269/) | 2022 | Trial design/rationale | Int J Stroke | TRIDENT rationale and design |
+| [25161182](https://pubmed.ncbi.nlm.nih.gov/25161182/) | 2014 | Randomized clinical trial | Eur Heart J | 24 h ambulatory blood pressure and angiotensin receptor blockade at high altitude |
+| [19604102](https://pubmed.ncbi.nlm.nih.gov/19604102/) | 2009 | Preclinical (animal) | J Neurotrauma | Telmisartan reduced cerebral infarct volume in experimental stroke |
+| [32992165](https://pubmed.ncbi.nlm.nih.gov/32992165/) | 2020 | Preclinical (animal) | J Stroke Cerebrovasc Dis | PPARγ activation by telmisartan benefits brain injury in an ischaemic stroke model |
+| [28699721](https://pubmed.ncbi.nlm.nih.gov/28699721/) | 2016 | Preclinical (animal) | Indian J Exp Biol | Telmisartan plus nimodipine neuroprotection in cerebral ischemia |
+| [17538008](https://pubmed.ncbi.nlm.nih.gov/17538008/) | 2007 | Preclinical (animal) | J Pharmacol Exp Ther | AT1 blockade reduced apoptosis, inflammation and oxidative stress in intracerebral hemorrhage in rats |
+| [27078703](https://pubmed.ncbi.nlm.nih.gov/27078703/) | 2016 | Preclinical (animal) | Neurol Res | Telmisartan ameliorated oxidative stress and vasospasm after subarachnoid hemorrhage |
+| [29969996](https://pubmed.ncbi.nlm.nih.gov/29969996/) | 2018 | Preclinical (animal) | BMC Cardiovasc Disord | Telmisartan protected chronic intermittent hypoxic mice via cardiac RAS modulation |
+| [24336063](https://pubmed.ncbi.nlm.nih.gov/24336063/) | 2013 | Preclinical (in vitro) | Int J Mol Sci | Hypoxia-induced collagen synthesis in lung fibroblasts via the angiotensin system |
+
+---
+
+## EU Market Information
+
+All six EU authorizations for telmisartan single-agent products are cancelled.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000209 | Micardis | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+| EMEA/H/C/000210 | Pritor | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+| EMEA/H/C/000211 | Kinzalmono | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+| EMEA/H/C/001168 | Telmisartan Actavis | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+| EMEA/H/C/001196 | Tolura | Not specified | Hypertension: treatment of essential hypertension in adults. Cardiovascular prevention: reduction of cardiovascular... |
+
+A sixth authorization, Telmisartan Teva Pharma (EMEA/H/C/002511), covered treatment of essential hypertension in adults and is also cancelled.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Drug Interactions** (100 interactions identified; examples from the first 20 reviewed):
+- **Major**: potassium citrate, potassium bicarbonate (risk of hyperkalaemia)
+- **Moderate**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), acetylsalicylic acid, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), insulin and exenatide, bupropion, morphine, dronabinol, and bowel-preparation agents (picosulfuric acid, sodium sulfate, polyethylene glycol with electrolytes)
+
+**Conditions flagged by the knowledge graph** (derived from drug-disease contraindication links, not from label text; they should be verified against the SmPC):
+- Liver and biliary: liver failure, liver disease, hepatic coma, hepatic encephalopathy, cholestasis (including benign recurrent and familial intrahepatic forms), gallbladder disease, pancreatitis, neonatal jaundice
+- Kidney and urinary: kidney disease, anuria, pyoureter, renal artery obstruction, nephrocalcinosis
+- Metabolic: diabetes mellitus, diabetic ketoacidosis, gout, hyperuricemia, potassium deficiency, hypercalcemia, hyperparathyroidism, osteitis fibrosa, phosphorus metabolism disease
+- Other: hypotensive disorder, systemic lupus erythematosus (including pediatric)
+
+Label-based warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for safety information.
 
 ---
 
@@ -84,13 +150,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This prediction is based solely on the TxGNN model score, with zero supporting clinical trials or literature, and the proposed mechanism (RAAS/AT1 blockade) has no established link to the pathophysiology of Prinzmetal angina (coronary vasospasm), which is conventionally treated via calcium channel blockers or nitrates.
+The top prediction, Prinzmetal angina, rests on model score alone (L5) with no trials or literature. All EU telmisartan authorizations are cancelled, and label-based safety data is missing. The strongest signal lies in intracerebral hemorrhage (L2), but that evidence comes from a combination regimen and cannot be attributed to telmisartan alone.
 
 **To proceed, the following is needed:**
-- TFDA/EMA-approved label warnings and contraindications (currently a **Blocking** data gap — required before any Stage 1 safety screening can begin)
-- Confirmed mechanism of action (MOA) data via DrugBank API (currently a **High**-severity data gap)
-- Independent mechanistic or preclinical evidence specifically linking ARB pharmacology to coronary vasospasm before considering further investment in this indication
-- Note: within this same prediction batch, **cerebral artery occlusion** and **intracerebral hemorrhage** show substantially stronger evidence (L2, "Proceed with Guardrails," supported by completed Phase 3/4 trials such as NCT01075698 and NCT02699645/TRIDENT). These may warrant separate, higher-priority evaluation ahead of the Prinzmetal angina candidate.
+- Mechanism-of-action data (e.g., from DrugBank)
+- SmPC warnings and contraindications to complete safety screening
+- For Prinzmetal angina: any clinical or mechanistic evidence on telmisartan in coronary vasospasm
+- For intracerebral hemorrhage: TRIDENT results broken down by component, to isolate telmisartan's contribution, and a prospective-use plan given the cancelled EU authorizations
+- A specific review of renal risk before considering renovascular or malignant hypertensive indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

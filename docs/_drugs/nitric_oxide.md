@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitric Oxide
-parent: High Evidence (L1-L2)
-nav_order: 419
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 433
+evidence_level: L5
 indication_count: 10
 ---
 
 # Nitric Oxide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,15 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Nitric Oxide: From No Marketed Indication to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+# Nitric Oxide: From Neonatal Hypoxic Respiratory Failure with Pulmonary Hypertension to Malformation Syndrome with Odontal and/or Periodontal Component
 
 ## One-Sentence Summary
 
-> Nitric oxide currently holds no marketing authorization or approved indication on file in this jurisdiction, so there is no established baseline use to compare against.
-> Among TxGNN's ranked predictions, **pulmonary arterial hypertension associated with congenital heart disease** is the candidate with genuine mechanistic and clinical grounding — not simply the highest model score —
-> supported by **14 clinical trials** and **20 publications**, several directly testing inhaled nitric oxide in overlapping patient populations.
-
-**Note on prediction selection**: TxGNN's raw top-ranked predictions (ranks 1–6 by score — e.g. "malformation syndrome with odontal/periodontal component," "hypertrichosis") show no mechanistic link to nitric oxide biology, and the evidence pack itself flags rank 1 as a likely **embedding-level false positive**. This report instead presents **pulmonary arterial hypertension associated with congenital heart disease** (rank 8), the only candidate in the full ranked list reaching Evidence Level L2 and a "Proceed with Guardrails" recommendation.
+Nitric oxide (inhaled, marketed as INOmax) was originally authorised in the EU for newborn hypoxic respiratory failure with pulmonary hypertension and for peri-/post-operative pulmonary hypertension around heart surgery.
+The TxGNN model's top-ranked prediction is **malformation syndrome with odontal and/or periodontal component**, but this is supported by **0 clinical trials** and only literature that does not study nitric oxide as a treatment.
+Much stronger signals appear lower in the ranking, most notably **pulmonary arterial hypertension** (25+ registered trials), which is discussed below as a more credible direction.
 
 ---
 
@@ -45,85 +43,105 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on file — Nitric Oxide has no marketing authorization in this jurisdiction |
-| Predicted New Indication | Pulmonary Arterial Hypertension Associated with Congenital Heart Disease |
-| TxGNN Prediction Score | 99.41% |
-| Evidence Level | L2 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Newborns ≥34 weeks gestation with hypoxic respiratory failure and pulmonary hypertension; peri-/post-operative pulmonary hypertension in heart surgery (ages 0-17 years) |
+| Predicted New Indication | Malformation syndrome with odontal and/or periodontal component (rank 1) |
+| TxGNN Prediction Score | 99.57% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (the single authorisation is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for nitric oxide is not available in this evidence pack. Based on the trial and literature data that are present, nitric oxide's biological role as an endogenous vasodilator acting through the NO–cGMP signalling pathway is well documented, and endothelial NO deficiency is a recognized contributor to pulmonary vascular remodeling and elevated pulmonary vascular resistance.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nitric oxide is an endogenous signalling molecule. When inhaled, it acts as a selective pulmonary vasodilator, which is the basis of its approved use in pulmonary hypertension.
 
-In the congenital heart disease (CHD) population specifically, chronically increased pulmonary blood flow and shear stress drive endothelial dysfunction and impaired NO bioavailability, which is proposed as a direct mechanistic driver of PAH-CHD (see literature on eNOS polymorphisms, perioperative NO/H2S levels, and plasma NO levels in CHD children with increased pulmonary flow, below). Inhaled NO is already used clinically as a pulmonary vasodilator and as the standard agent for acute pulmonary vasoreactivity testing, including in neonatal and post-cardiac-surgery PAH settings — this is not a novel biological hypothesis but an extension of an existing, mechanistically anchored clinical use pattern into a chronic-disease context.
+For the top-ranked prediction, the link is weak. The retrieved literature concerns periodontitis, gingival inflammation and oral-microbiome nitrite metabolism. Most papers study plant extracts or other molecules, not nitric oxide as a treatment. NO is an inflammatory and vascular signalling mediator, but there is no direct link to a malformation syndrome with a dental component. The very high score (0.996) is a computational prediction without clinical support. The other top-ranked predictions (hypertrichosis, Ambras syndrome, Dandy-Walker malformation syndrome, hair shaft abnormality) likewise have no trials and no plausible mechanistic rationale.
 
-The gap is that most identified trials test acute or perioperative NO use, adjunct therapies (sildenafil, iloprost, sotatercept), or NO as a diagnostic/vasoreactivity tool — direct long-term efficacy data for inhaled or systemic NO as chronic maintenance therapy in PAH-CHD is limited.
+By contrast, several lower-ranked predictions are biologically coherent with the original use:
+
+- **Pulmonary arterial hypertension (rank 7, L2):** The NO-soluble guanylate cyclase-cGMP pathway is central to pulmonary vascular tone and is deficient in PAH. Inhaled NO is already used for vasoreactivity testing.
+- **PAH associated with congenital heart disease (rank 8, L3):** This overlaps with the already-approved peri-operative indication, so it is not a true repurposing.
+- **PAH associated with chronic haemolytic anaemia (rank 10, L3):** Free haemoglobin scavenges NO in sickle cell disease, giving a rationale for NO replacement.
+- **Pulmonary arteriovenous malformation (rank 6, L3):** Small observational reports describe improved oxygen saturation after the Fontan procedure.
 
 ---
 
 ## Clinical Trial Evidence
 
+Currently no related clinical trials are registered for the top-ranked indication (malformation syndrome with odontal and/or periodontal component).
+
+For reference, the most relevant trials found for the best-supported prediction, **pulmonary arterial hypertension** (rank 7), are listed below.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00955487](https://clinicaltrials.gov/study/NCT00955487) | Phase 2 | Completed | 124 | Early low-dose inhaled NO evaluated to reduce bronchopulmonary dysplasia and associated pulmonary hypertension in premature newborns |
-| [NCT00352430](https://clinicaltrials.gov/study/NCT00352430) | Phase 1 | Completed | 31 | Cardiopulmonary function assessment and NO-based therapies in hemolysis-associated pulmonary hypertension |
-| [NCT01959828](https://clinicaltrials.gov/study/NCT01959828) | Phase 3 | Completed | 18 | Safety and effectiveness of inhaled NO (IK-3001) in Japanese patients with PH associated with cardiac surgery |
-| [NCT00023296](https://clinicaltrials.gov/study/NCT00023296) | Phase 1 | Completed | 59 | Inhaled NO plus transfusion therapy for pulmonary hypertension secondary to sickle cell anemia |
-| [NCT02951130](https://clinicaltrials.gov/study/NCT02951130) | Phase 2 | Completed | 66 | Milrinone evaluated in CDH-associated PPHN that is frequently resistant to conventional pulmonary vasodilators including inhaled NO |
-| [NCT03314233](https://clinicaltrials.gov/study/NCT03314233) | N/A | Completed | 21 | Delayed cord clamping in CDH infants at risk for pulmonary hypoplasia/hypertension requiring NO, ECMO or vasopressor support |
-| [NCT02261883](https://clinicaltrials.gov/study/NCT02261883) | Phase 2 | Terminated | 42 | IV treprostinil as add-on therapy for persistent pulmonary hypertension of the newborn |
-| [NCT01383083](https://clinicaltrials.gov/study/NCT01383083) | N/A | Unknown | 42 | Iloprost safety/tolerability/hemodynamics in adult PAH-CHD (Eisenmenger physiology) |
-| [NCT07356778](https://clinicaltrials.gov/study/NCT07356778) | Phase 4 | Recruiting | 36 | Sotatercept add-on vs standard PAH therapy in vasodilator-resistant unrepaired congenital shunts (ASD/VSD/PDA), including Eisenmenger syndrome |
-| [NCT05201144](https://clinicaltrials.gov/study/NCT05201144) | Phase 2 | Recruiting | 40 | Phosphodiesterase-5 inhibitor for postnatal pulmonary hypertension in neonatal congenital diaphragmatic hernia |
+| [NCT02734953](https://clinicaltrials.gov/study/NCT02734953) | Phase 2 | Completed | 10 | Effects of iNO on invasively derived pulmonary vascular parameters in PAH; directly relevant but small, hemodynamic endpoints |
+| [NCT02725372](https://clinicaltrials.gov/study/NCT02725372) | Phase 3 | Terminated | 207 | Placebo-controlled, double-blind RCT of pulsed iNO in symptomatic PAH |
+| [NCT00005776](https://clinicaltrials.gov/study/NCT00005776) | Phase 3 | Terminated | 235 | NINOS: iNO vs 100% oxygen in term/near-term infants with hypoxic respiratory failure; outcome of death or need for ECMO |
+| [NCT00005773](https://clinicaltrials.gov/study/NCT00005773) | Phase 3 | Terminated | 302 | Early iNO in term/near-term infants with respiratory failure; aimed to reduce death and ECMO use |
+| [NCT01959828](https://clinicaltrials.gov/study/NCT01959828) | Phase 3 | Completed | 18 | Safety and efficacy of iNO in Japanese patients with pulmonary hypertension associated with cardiac surgery |
+| [NCT00023296](https://clinicaltrials.gov/study/NCT00023296) | Phase 1 | Completed | 59 | iNO with transfusion therapy in sickle cell anaemia with secondary pulmonary hypertension |
+| [NCT01717209](https://clinicaltrials.gov/study/NCT01717209) | Phase 4 | Completed | 14 | Combined iNO and inhaled prostacyclin after cardiac surgery (heart transplant/LVAD) |
+| [NCT00139217](https://clinicaltrials.gov/study/NCT00139217) | N/A | Completed | 400 | Non-invasive iNO in persistent pulmonary hypertension of the newborn |
+| [NCT07099144](https://clinicaltrials.gov/study/NCT07099144) | N/A | Recruiting | 120 | Single-arm Phase IV safety study of INOmax with ventilatory support in neonates ≥34 weeks |
+| [NCT02267655](https://clinicaltrials.gov/study/NCT02267655) | Phase 1 | Completed | 8 | Exploratory study of pulsed iNO in WHO Group 3 pulmonary hypertension (COPD, IPF) |
+
+Note that there is no Phase 3 RCT evidence for long-term PAH therapy, and several of these trials are terminated or address related conditions.
 
 ---
 
 ## Literature Evidence
 
+Publications retrieved for the top-ranked indication are laboratory or review studies on periodontal disease and do not test nitric oxide as a treatment. The most relevant are shown below, followed by the more clinically relevant evidence for pulmonary arteriovenous malformation (rank 6).
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35699093](https://pubmed.ncbi.nlm.nih.gov/35699093/) | 2022 | Cohort (genetic) | Clin Exp Hypertens | eNOS gene polymorphisms (rs1799983, rs2070744, rs61722009) associated with PAH in newborns with CHD |
-| [33555425](https://pubmed.ncbi.nlm.nih.gov/33555425/) | 2021 | Cohort (prognostic) | Eur J Pediatr | Perioperative endogenous H2S and NO levels linked to prognosis in children with CHD-PAH |
-| [40681972](https://pubmed.ncbi.nlm.nih.gov/40681972/) | 2025 | Clinical trial | BMC Cardiovasc Disord | Novel electrochemical NO generator evaluated for postoperative PH in adult CHD-PAH patients after cardiac surgery |
-| [28608969](https://pubmed.ncbi.nlm.nih.gov/28608969/) | 2017 | Cohort | Clin Exp Pharmacol Physiol | Iloprost effect on NO, endothelin-1, ADMA and other endothelial biomarkers in CHD-PAH |
-| [22526220](https://pubmed.ncbi.nlm.nih.gov/22526220/) | 2012 | Cohort | Pediatr Cardiol | Elevated homocysteine and ADMA levels associated with PH in congenital heart disease |
-| [18041423](https://pubmed.ncbi.nlm.nih.gov/18041423/) | 2007 | Cohort | J Med Assoc Thai | Plasma NO levels measured in children with CHD and increased pulmonary blood flow |
-| [19009218](https://pubmed.ncbi.nlm.nih.gov/19009218/) | 2008 | Review | J Bras Pneumol | Inhaled NO identified as the preferred agent for pulmonary vasoreactivity testing due to selective effect and short half-life |
-| [18333354](https://pubmed.ncbi.nlm.nih.gov/18333354/) | 2007 | Review | Rom J Intern Med | Management approaches for PAH associated with congenital heart disease |
-| [10564299](https://pubmed.ncbi.nlm.nih.gov/10564299/) | 1999 | Review | Artif Organs | Pathophysiology of pulmonary hypertension in congenital heart disease, including endothelial NO contribution |
-| [16919006](https://pubmed.ncbi.nlm.nih.gov/16919006/) | 2006 | Review | Eur J Clin Invest | Treatment options in pediatric PAH, including vasoreactivity testing and bosentan experience |
+| [35574962](https://pubmed.ncbi.nlm.nih.gov/35574962/) | 2022 | Cohort | J Am Heart Assoc | Oral microbiome nitrite generation/depletion and cardiometabolic risk; relates to the NO pathway, not to a dental malformation syndrome |
+| [24670812](https://pubmed.ncbi.nlm.nih.gov/24670812/) | 2014 | Metagenomic study | PLoS One | Nitrate-reducing oral bacteria and NO homeostasis |
+| [20646228](https://pubmed.ncbi.nlm.nih.gov/20646228/) | 2011 | Laboratory | Oral Diseases | NO production in macrophage cells stimulated with *P. gingivalis* vesicles |
+| [15505230](https://pubmed.ncbi.nlm.nih.gov/15505230/) | 2004 | Review | J Dent Res | Hypochlorous acid and taurine chloramine in periodontal disease |
+| [36066659](https://pubmed.ncbi.nlm.nih.gov/36066659/) | 2022 | Cohort | Eur J Pediatr | European iNO registry: effects of iNO on oxygenation in neonates with pulmonary hypertension secondary to arteriovenous malformations |
+| [20693933](https://pubmed.ncbi.nlm.nih.gov/20693933/) | 2011 | Cohort/Case series | Pediatr Crit Care Med | iNO improved oxygen saturation in children with pulmonary AVMs after the Fontan procedure |
+| [15975403](https://pubmed.ncbi.nlm.nih.gov/15975403/) | 2005 | Case report | Ann Thorac Surg | iNO reversed life-threatening hypoxaemia after Fontan in a patient with pulmonary AVMs |
+| [40681972](https://pubmed.ncbi.nlm.nih.gov/40681972/) | 2025 | Clinical/technology study | BMC Cardiovasc Disord | Novel electrochemical NO generator for post-operative PAH in congenital heart disease |
 
 ---
 
 ## EU Market Information
 
-Nitric oxide currently has no marketing authorizations on file in this dataset (0 licenses, market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000337 | INOmax | Not specified | In conjunction with ventilatory support, for newborns ≥34 weeks gestation with hypoxic respiratory failure and pulmonary hypertension, and peri-/post-operative pulmonary hypertension in heart surgery (ages 0-17)... |
+
+The only authorisation is listed as cancelled.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (knowledge-graph-derived, not from label text):** methemoglobinemia, sulfhemoglobinemia, heart failure.
+- **Drug Interactions:** 61 interactions were identified. The most notable are:
+  - **Major:** nitrous acid.
+  - **Moderate:** topical or ophthalmic local anaesthetics (tetracaine, lidocaine, benzocaine).
+  - The remainder (e.g. morphine, omeprazole, vancomycin, epinephrine, heparin, epoprostenol, dexamethasone) have no assigned severity level.
+
+For label-based warnings and contraindications, please refer to the SmPC.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Mechanistic plausibility is strong (NO deficiency/endothelial dysfunction is an established driver of PAH-CHD, and inhaled NO is already standard-of-care for acute pulmonary vasoreactivity testing and perioperative PH in this population), and this is the only candidate among the 10 ranked predictions reaching Evidence Level L2. However, most trials evaluate acute/perioperative use, adjunct agents, or diagnostic testing rather than chronic maintenance therapy with NO itself, so efficacy for sustained PAH-CHD treatment remains unproven.
+The top-ranked prediction (malformation syndrome with odontal and/or periodontal component) rests solely on a model score, with no clinical trials, no plausible mechanistic link, and literature that does not study nitric oxide as a treatment. The EU authorisation is also cancelled. The evidence level is L5. Among the lower-ranked predictions, PAH has an L2 rating and the most trial activity, but those trials are small or terminated, and pulmonary AVM and haemolytic-anaemia PAH are research questions. PAH with congenital heart disease is a possible "Proceed with Guardrails" candidate, but it overlaps with the existing peri-operative indication and is therefore not a true repurposing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (DG002 — currently a data gap, blocks mechanistic relevance analysis)
-- TFDA/EMA label warnings and contraindications (DG001 — Blocking; required before any S1 safety screening)
-- A regulatory pathway assessment, since nitric oxide is not currently marketed in this jurisdiction (0 authorizations)
-- Route/delivery feasibility data for chronic (vs. acute/diagnostic) administration in PAH-CHD
-- A dedicated efficacy trial in the chronic PAH-CHD population, since current evidence is drawn largely from adjacent populations (neonatal PH, post-cardiac surgery PH, hemolysis-associated PH) rather than PAH-CHD directly
+- Mechanism of action data and label warnings/contraindications (blocking data gaps for safety screening)
+- A decision to prioritise a better-supported indication (e.g. PAH or pulmonary AVM) over the top-ranked prediction
+- For any pulmonary indication: confirmation of the regulatory pathway given the cancelled EU authorisation, and a practical chronic-delivery plan (pulsed or portable systems)
+- Guardrails if pursued: restrict use to the labelled peri-operative setting, monitor methaemoglobin and NO₂, and avoid abrupt withdrawal because of rebound pulmonary hypertension
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Dexrazoxane
 parent: AI Predictions (L5)
-nav_order: 182
+nav_order: 189
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexrazoxane: From Anthracycline-Induced Cardiotoxicity to Sclerosing Cholangitis
+# Dexrazoxane: From Anthracycline Extravasation to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Dexrazoxane is a chemoprotective agent used to prevent anthracycline-induced cardiotoxicity during cancer chemotherapy, working primarily through iron chelation to reduce reactive oxygen species in cardiac tissue.
-The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, yet this prediction is currently supported by **0 clinical trials** and **0 publications** — representing a purely AI-driven hypothesis with no direct clinical or preclinical evidence.
-Across all 10 predicted indications in this Evidence Pack, **cystitis** (Rank 10, L4) is the only candidate with a concrete mechanistic rationale, and even that remains limited to preclinical conjecture.
-
----
+Dexrazoxane was originally authorized in the EU (as Savene) for the treatment of anthracycline extravasation.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but this is a model prediction only: **0 clinical trials** and **0 publications** were found for this indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cardioprotection in patients receiving anthracycline-based chemotherapy |
-| Predicted New Indication | Sclerosing Cholangitis |
+| Original Indication | Treatment of anthracycline extravasation |
+| Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Dexrazoxane is a bisdioxopiperazine compound derived from EDTA. After cellular uptake, it is hydrolyzed intracellularly to form ICRF-198, an open-chain chelator that sequesters free iron ions. By competing with anthracyclines (e.g., doxorubicin) for iron binding, it prevents the formation of anthracycline–Fe²⁺ complexes that would otherwise catalyze Fenton reactions, producing hydroxyl radicals that damage cardiomyocyte DNA and membranes. It also carries secondary Topoisomerase IIβ inhibitory activity. *(Note: MOA data is listed as unavailable in the Evidence Pack; the above draws on established pharmacological literature.)*
+Currently, detailed mechanism of action data is not available. Based on known information, dexrazoxane is a cardioprotectant and iron chelator used alongside anthracycline chemotherapy, and its efficacy in anthracycline extravasation was the basis of its EU authorization.
 
-Sclerosing cholangitis — particularly Primary Sclerosing Cholangitis (PSC) — is a chronic autoimmune fibro-inflammatory disease of the bile ducts leading to progressive strictures and liver failure. Oxidative stress and iron dysregulation have been theorized to contribute to biliary epithelial injury and periductal fibrosis. On that basis, iron chelation could be imagined to reduce ROS-driven damage. However, this bridge is highly speculative: the TxGNN knowledge graph most likely identified Dexrazoxane via shared oxidative stress or immune-signalling nodes in the graph rather than a direct pharmacological pathway. There is currently **no preclinical or clinical evidence** of Dexrazoxane tested in any biliary disease model.
+A speculative link to sclerosing cholangitis is that iron chelation and topoisomerase II modulation might reduce oxidative injury and inflammation in the biliary epithelium. This idea is not supported by any evidence compiled for this report. The very high prediction score most likely reflects patterns in the knowledge graph rather than demonstrated biology, so it should be treated as a hypothesis only.
 
-Of the 10 predicted indications reviewed, the overwhelming majority (Ranks 1–9) represent knowledge-graph noise: infections requiring antibiotics (paratyphoid fever, UTI, pyelonephritis, peritonitis, epiglottitis), mucosal conditions (conjunctivitis, laryngitis, bronchitis), and sclerosing cholangitis — none of which map to Dexrazoxane's established mechanism. The single exception is **cystitis** (Rank 10): PMID 37690746 (2023) demonstrated that cyclophosphamide metabolite acrolein triggers ferroptosis (Fe²⁺-driven lipid peroxidation) in bladder urothelium, creating a plausible theoretical role for Dexrazoxane as an iron chelator to suppress this pathway — though the current standard protectant remains mesna.
-
----
+The other predicted indications (bronchitis, paratyphoid fever, conjunctivitis, epiglottitis, peritonitis, laryngitis, urinary tract infection, pyelonephritis, cystitis) are mostly infectious or inflammatory conditions with no known link to dexrazoxane's mechanism. The only one with a plausible, though indirect, mechanistic angle is cystitis, through ferroptosis research. That is preclinical and does not involve dexrazoxane directly.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Dexrazoxane in sclerosing cholangitis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Dexrazoxane in sclerosing cholangitis.
+Currently no related literature available for sclerosing cholangitis.
 
----
+## EU Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000682 (cancelled) | Savene | Not specified | Savene is indicated for the treatment of anthracycline extravasation. |
 
-Dexrazoxane is currently not marketed in Taiwan, with no registered product authorizations on file.
+## Cytotoxicity
 
-| Item | Status |
-|------|------|
-| Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-
----
+Dexrazoxane is a chemoprotectant used with anthracycline chemotherapy rather than a cytotoxic anticancer drug in its own right, so it is not classified as antineoplastic and a full cytotoxicity profile is not provided. Please refer to the SmPC warnings and precautions for haematological monitoring and handling guidance.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease-level contraindication signals (knowledge graph, not label text)**: impaired renal function disease; non-infectious meningitis.
+- **Drug Interactions**: 19 interactions were identified.
+  - **Major (11)**: live vaccines and live biological products, namely BCG (Tice strain), measles, mumps, rubella, rotavirus, smallpox (vaccinia), typhoid (live), yellow fever and varicella zoster vaccines, and talimogene laherparepvec.
+  - **Moderate (8)**: doxorubicin (including liposomal), dimethyl fumarate, diroximel fumarate, monomethyl fumarate, adenovirus type 4 vaccine antigen, *Bifidobacterium longum infantis*, *Lactobacillus acidophilus*, and live oral cholera vaccine.
 
----
+Please refer to the SmPC for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The sclerosing cholangitis prediction is generated by AI inference alone (L5 evidence), with zero supporting clinical trials or literature; the theoretical connection through iron chelation and oxidative stress is indirect, unvalidated in biliary tissue, and insufficient to justify any translational investment at this stage.
+The prediction for sclerosing cholangitis rests on the model score alone, with no clinical trials or literature (Evidence Level L5). The sole EU authorization has been cancelled, and the mechanistic link is speculative.
 
 **To proceed, the following is needed:**
-
-- **Regulatory data (Blocking):** Obtain the Taiwan TFDA SmPC for Dexrazoxane to extract full warnings, contraindications, and prescribing restrictions — currently the most critical data gap preventing safety evaluation
-- **MOA data:** Complete DrugBank mechanism of action entry to formally verify indication–mechanism compatibility
-- **Preclinical evidence for PSC:** In vitro or animal studies of iron chelation in bile duct injury models before any clinical hypothesis can be formed
-- **If pivoting to cystitis (Rank 10, the mechanistically superior candidate):** Design a head-to-head preclinical study of Dexrazoxane vs. mesna in a cyclophosphamide-induced hemorrhagic cystitis model, specifically measuring ferroptosis markers (GPX4, lipid ROS) to determine whether iron chelation adds protective benefit beyond the established acrolein-scavenging approach
+- Detailed mechanism of action data for dexrazoxane
+- Preclinical evidence (for example, iron or oxidative injury models in biliary disease) supporting a role in sclerosing cholangitis
+- Review of the SmPC warnings and contraindications to complete the safety screening
+- Assessment of route compatibility and renal-function considerations for any new use
+- If a research direction is pursued, cystitis (ferroptosis-related mechanisms) may merit a separate exploratory look, but it currently has only indirect preclinical support
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

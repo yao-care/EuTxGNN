@@ -2,7 +2,7 @@
 layout: default
 title: Methylnaltrexone
 parent: AI Predictions (L5)
-nav_order: 386
+nav_order: 400
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,71 +33,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Methylnaltrexone is a peripherally-restricted mu-opioid receptor antagonist internationally used to treat opioid-induced constipation; no local marketing authorization or original-indication record exists in this evidence pack.
-> The TxGNN model's top-ranked prediction is **Congenital Hypotrichosis Milia**, but this pairing has **no supporting clinical trials or literature (0/0)**, and the model's own rationale explicitly flags it as likely knowledge-graph noise rather than a genuine mechanistic link.
-
----
+Methylnaltrexone is a peripherally restricted opioid antagonist, originally used to treat opioid-induced constipation in patients receiving palliative care.
+The TxGNN model predicts it may be effective for **congenital hypotrichosis milia**, but **no clinical trials and no publications** currently support this prediction. It rests on the model's graph-based score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack (drug not locally marketed); internationally recognized use is opioid-induced constipation (OIC) |
-| Predicted New Indication | Congenital Hypotrichosis Milia |
+| Original Indication | Treatment of opioid-induced constipation in advanced-illness patients receiving palliative care when response to usual laxative therapy has not been sufficient |
+| Predicted New Indication | Congenital hypotrichosis milia |
 | TxGNN Prediction Score | 78.35% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on general drug classification knowledge, methylnaltrexone (DB06800) belongs to the peripherally-acting mu-opioid receptor antagonist (PAMORA) class, which blocks opioid effects on gastrointestinal mu-receptors without crossing the blood-brain barrier — the basis for its recognized use in opioid-induced constipation. No local (Taiwan) approved-indication text or license record is present to confirm this against the evidence pack itself.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, methylnaltrexone is a peripherally restricted antagonist of the mu-opioid receptor. It also has recorded binding to the delta and kappa opioid receptors. Its efficacy in opioid-induced constipation comes from blocking opioid effects in the gut without reversing central pain relief.
 
-For the top-ranked candidate, however, the evidence pack's own repurposing rationale states there is **no known pathophysiological connection** between peripheral mu-opioid receptor antagonism and congenital hypotrichosis milia, a rare congenital hair/skin disorder. The rationale explicitly attributes this pairing to likely noise from rare-disease node connections within the TxGNN knowledge graph, rather than a biologically plausible mechanism.
+For congenital hypotrichosis milia, a rare inherited hair-follicle disorder, the data show **no identifiable mechanistic link**. Nothing connects opioid receptor signalling to this condition. The score of 0.78 is a graph-based prediction only and ranks 148,457th among all predictions, so it should be treated as a weak signal.
 
-Notably, among the 10 candidates in this evidence pack, only two show any literature-level engagement: **respiratory failure** (rank 7, L4) has mechanistic literature on opioid receptors and cardiorespiratory control — though the rationale itself argues methylnaltrexone's peripheral restriction likely makes it *ineffective* against central respiratory depression; and **alopecia/alopecia areata** (ranks 5–6) have a plausible but unproven hypothesis involving mu-opioid receptor expression in hair follicle keratinocytes. Neither has any clinical trial or case-report evidence. The rank-1 candidate reported here has weaker rationale support than either of these.
-
----
+The other top-ranked predictions are similarly unsupported: hypotrichosis simplex of the scalp, exercise-induced malignant hyperthermia, common cold, alopecia, diffuse alopecia areata, familial periodic paralysis, and trigeminal autonomic cephalalgia. The only partly plausible candidate is respiratory failure (rank 7), where preclinical work on peripheral versus central mu-opioid receptors in fentanyl-induced cardiorespiratory effects (PMID 41087032) is indirectly relevant. That work does not concern the top-ranked indication in this report.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available for congenital hypotrichosis milia.
 
 ## EU Market Information
 
-No marketing authorizations are recorded for this drug in this jurisdiction (market status: Not marketed / Not marketed; total licenses: 0).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000870 (cancelled) | Relistor | Not specified | Treatment of opioid-induced constipation in advanced-illness patients who are receiving palliative care when response to usual laxative therapy has not been sufficient. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 13 interaction records were found. Ten are rated Moderate in DDInter:
+  - Other opioid antagonists and related agents: alvimopan, naloxone, naldemedine, nalmefene, naloxegol, naltrexone
+  - Other drugs: capmatinib, pitolisant, risdiplam, gilteritinib
 
----
+  The remaining three records are receptor-binding entries (delta, kappa and mu opioid receptors), not drug-drug interactions.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top predicted pairing (methylnaltrexone → congenital hypotrichosis milia) has zero clinical trial or literature evidence, and the model's own mechanistic rationale identifies it as probable knowledge-graph noise rather than a credible hypothesis. Combined with a **blocking** data gap on TFDA warnings/contraindications (DG001) and a **high-severity** gap on mechanism of action (DG002), the candidate cannot proceed past initial safety screening (S0).
+The prediction has no clinical trials, no literature and no identifiable mechanistic link (Evidence Level L5). The only EU authorization has been cancelled, and warning and contraindication data are missing, so the case cannot proceed to safety screening.
 
 **To proceed, the following is needed:**
-- TFDA label (warnings, contraindications) — required to clear Blocking gap DG001 before any S1 safety assessment
-- Confirmed mechanism of action via DrugBank API — required to clear High-severity gap DG002
-- Confirmation of original approved indication and local market status (currently absent from evidence pack)
-- If pursuing a biologically more plausible direction, consider re-evaluating the alopecia/alopecia areata candidates (ranks 5–6), which at least have a stated (if unproven) mechanistic hypothesis — but note these also currently lack any clinical trial or literature support
+- Warnings and contraindications from the EMA product information (currently a blocking data gap)
+- Mechanism of action data (for example from DrugBank) to assess whether any biological link to hair-follicle disorders exists
+- Preclinical evidence that peripheral opioid receptor antagonism affects hair follicle biology
+- Assessment of route and formulation compatibility for the new indication
+- Consideration of whether a better-supported indication, such as opioid-induced respiratory effects (rank 7), should be prioritised instead
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Pioglitazone
 parent: AI Predictions (L5)
-nav_order: 471
+nav_order: 487
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,9 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Pioglitazone is a thiazolidinedione (TZD)-class PPAR-γ agonist historically used as an insulin sensitizer in type 2 diabetes mellitus.
-> The TxGNN model predicts it may be effective for **Opsismodysplasia**, a rare INPPL1-related skeletal dysplasia,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the evidence pack itself notes no known biological link between the two conditions.
+Pioglitazone is an oral insulin-sensitising drug originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia,
+but **no clinical trials and no publications** currently support this specific prediction, so it rests on the model score alone.
 
 ---
 
@@ -43,49 +43,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in evidence pack (no EU license text or `original_indications` entries available; Pioglitazone is generally classified as a type 2 diabetes mellitus therapy) |
+| Original Indication | Type 2 diabetes mellitus (monotherapy, dual or triple oral therapy, and combination with insulin) |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (all authorisations cancelled) |
+| Number of Authorizations | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as data gap **DG002**, High severity). Based on general drug classification, Pioglitazone belongs to the thiazolidinedione (TZD) class, acting as a PPAR-γ agonist that improves insulin sensitivity and has been used clinically in type 2 diabetes management.
+Detailed mechanism of action data is not available in the data compiled for this report. Pioglitazone is known as a thiazolidinedione that activates PPAR-gamma and improves insulin sensitivity. Its efficacy in type 2 diabetes is established, but any link to opsismodysplasia is speculative.
 
-Opsismodysplasia, however, is a rare autosomal recessive skeletal dysplasia caused by mutations in *INPPL1*, affecting phosphoinositide signaling and bone growth — a pathway with no established connection to PPAR-γ agonism. The evidence pack's own mechanistic assessment is explicit on this point: *"與 PPAR-γ 通路無已知關聯，僅為 TxGNN 圖譜相似性預測，缺乏生物學合理性連結"* (no known association with the PPAR-γ pathway; the prediction reflects only TxGNN graph-similarity output and lacks biological plausibility).
+Opsismodysplasia is a rare skeletal dysplasia associated with INPPL1, a gene involved in PI3K/insulin signalling. The only plausible bridge to pioglitazone is this shared insulin-signalling biology. There is no clinical or literature evidence to support benefit. The high score (0.996) is a graph-based prediction only.
 
-Given the absence of a coherent mechanistic rationale and the complete lack of clinical trials or literature (L5), this candidate should be treated as a preliminary algorithmic signal only — not a validated repurposing hypothesis warranting further investment at this time.
+Other predictions in the list share the same limitation:
+
+| Rank | Predicted Disease | Score | Evidence Level | Note |
+|------|------|------|------|------|
+| 2 | Classic stiff person syndrome | 99.50% | L5 | Hypothetical immunomodulatory or diabetes-related link |
+| 3 | Focal stiff limb syndrome | 99.50% | L5 | Likely derived from similarity to the classic form |
+| 4 | Thiamine-responsive dysfunction syndrome | 99.48% | L5 | Probably a diabetes-overlap association |
+| 5–8 | Localised lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 99.18–99.30% | L5 | Theoretical PPAR-gamma adipogenesis rationale only |
+| 9 | Pancreatic agenesis | 99.18% | L4 | Only indirect literature on type 2 diabetes |
+| 10 | Autoimmune oophoritis | 98.06% | L5 | Speculative anti-inflammatory rationale |
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for opsismodysplasia.
+
+For reference, seven publications were retrieved for the rank-9 prediction (pancreatic agenesis). They are reviews and a comparator trial on thiazolidinediones or PPAR-gamma agonism in type 2 diabetes, and none address pancreatic agenesis directly:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20859539](https://pubmed.ncbi.nlm.nih.gov/20859539/) | 2010 | Review | Vasc Health Risk Manag | Pioglitazone plus alogliptin as a pathophysiologically sound combination in type 2 diabetes |
+| [23680744](https://pubmed.ncbi.nlm.nih.gov/23680744/) | 2013 | Review | Hosp Pract (1995) | Pleiotropic effects of thiazolidinediones, including protection of beta-cell function |
+| [15892654](https://pubmed.ncbi.nlm.nih.gov/15892654/) | 2005 | Review | Curr Mol Med | Clinical significance of PPAR-gamma agonism and potential beta-cell benefit |
+| [22068250](https://pubmed.ncbi.nlm.nih.gov/22068250/) | 2012 | Review | Endocr Pract | Targeting insulin resistance and beta-cell dysfunction in prediabetes |
+| [16644631](https://pubmed.ncbi.nlm.nih.gov/16644631/) | 2006 | Clinical trial | Diabetes Care | Muraglitazar (a different dual PPAR agonist) versus pioglitazone in type 2 diabetes |
+| [12149047](https://pubmed.ncbi.nlm.nih.gov/12149047/) | 2002 | Review | Drugs | Rosiglitazone (a different thiazolidinedione) in type 2 diabetes |
+| [15832493](https://pubmed.ncbi.nlm.nih.gov/15832493/) | 2002 | Review | Treat Endocrinol | Rosiglitazone profile in type 2 diabetes |
 
 ---
 
 ## EU Market Information
 
-Pioglitazone currently has no EU marketing authorizations on file in this evidence pack (market status: **not marketed**, 0 licenses recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002277 | Pioglitazone Accord (cancelled) | Not specified | Type 2 diabetes mellitus as monotherapy in adults inadequately controlled by diet and exercise, for whom metformin is inappropriate... |
+| EMEA/H/C/002324 | Pioglitazone Actavis (cancelled) | Not specified | Second or third line treatment of type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
+| EMEA/H/C/000285 | Actos (cancelled) | Not specified | Type 2 diabetes mellitus as monotherapy, dual or triple oral therapy, or with insulin... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease contraindications flagged in the knowledge graph** (not taken from label text): kidney disease, liver disease, gallbladder disease, congestive heart failure, and a broad group of pituitary and gonadal hormone deficiencies (e.g. hypopituitarism, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome), as well as adrenocortical insufficiency/Addison disease, thymus gland disease and infectious disease.
+- **Drug Interactions**: 100 interactions were found in the interaction database. Most of those shown are Moderate, for example with abiraterone, acetazolamide, alpelisib, epinephrine, ethanol, formoterol, hydrochlorothiazide, hydrocortisone, phenylephrine, pseudoephedrine and salbutamol. A few are Minor, such as nifedipine, ethinylestradiol and topical corticosteroids.
 
-*(Note: a Blocking data gap — DG001, missing TFDA/regulatory drug label warnings and contraindications — prevents this candidate from entering Stage S1 safety review.)*
+Label-level warnings and contraindications were not available. Please refer to the SmPC for full safety information.
 
 ---
 
@@ -94,13 +120,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (opsismodysplasia, TxGNN score 99.59%) has zero supporting clinical trials or literature (L5), and the evidence pack's own mechanistic review found no biological plausibility linking Pioglitazone's PPAR-γ pathway to this rare skeletal disorder. In addition, a Blocking data gap (missing regulatory safety labeling) prevents entry into Stage S1 safety review.
+The prediction for opsismodysplasia is supported only by a graph-based model score. There are no clinical trials or publications, and the mechanistic link is speculative. All EU authorisations for pioglitazone are also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory drug label (warnings, contraindications) — resolves Blocking gap **DG001**
-- Verified mechanism of action data via DrugBank API — resolves High-priority gap **DG002**
-- Independent mechanistic or preclinical evidence directly connecting Pioglitazone to opsismodysplasia before further investment
-- If exploring alternative candidates from this evidence pack, rank 9 (**pancreatic agenesis**, L4) has some literature support, though the rationale notes the cited studies are non-specific reviews of TZDs in general type 2 diabetes rather than disease-specific evidence, and the mechanism (insulin sensitization vs. absolute insulin deficiency) is potentially contradictory
+- Mechanism of action data to assess whether PPAR-gamma activity could plausibly affect INPPL1/PI3K-related bone biology
+- Preclinical or case-level evidence in opsismodysplasia (cell or animal models)
+- Label-level warnings and contraindications from the SmPC, which are required before any safety screening
+- Clarification of current regulatory and supply status in the EU, given that all licences are cancelled
+- Re-evaluation of the lower-ranked predictions only if direct evidence emerges, since none currently have supporting trials
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

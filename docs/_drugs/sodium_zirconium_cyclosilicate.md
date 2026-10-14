@@ -2,7 +2,7 @@
 layout: default
 title: Sodium Zirconium Cyclosilicate
 parent: AI Predictions (L5)
-nav_order: 547
+nav_order: 568
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,76 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sodium Zirconium Cyclosilicate: From Hyperkalemia to Breast Fibrocystic Disease
+# Sodium Zirconium Cyclosilicate: From Hyperkalaemia to Breast Fibrocystic Disease
 
 ## One-Sentence Summary
 
-Sodium zirconium cyclosilicate (SZC) is a non-absorbed inorganic cation exchange compound used for the treatment of hyperkalemia (elevated blood potassium).
-The TxGNN model predicts it may be effective for **Breast Fibrocystic Disease**, but this direction is currently supported by **0 clinical trials** and **0 publications**.
-The accompanying mechanistic analysis in the evidence pack indicates this signal is most likely a knowledge-graph artifact (co-occurrence within a cluster of benign breast conditions) rather than a genuine pharmacological relationship.
-
----
+Sodium zirconium cyclosilicate is a potassium-binding agent, originally used to treat hyperkalaemia in adults.
+The TxGNN model predicts it may be effective for **breast fibrocystic disease**,
+but **no clinical trials and no publications** currently support this direction, and no credible mechanistic link has been identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperkalemia (reduction of elevated serum potassium) |
-| Predicted New Indication | Breast Fibrocystic Disease |
+| Original Indication | Treatment of hyperkalaemia in adult patients |
+| Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 93.41% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-A formal, structured mechanism-of-action (MOA) record for this drug is not available in the current dataset (flagged as a data gap). However, the repurposing rationale accompanying the prediction describes SZC's mechanism in detail: it is a non-absorbed inorganic cation exchange compound that acts locally within the intestinal lumen, selectively binding potassium (K⁺) and, to a lesser extent, ammonium (NH₄⁺) ions, with no systemic absorption.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sodium zirconium cyclosilicate is a non-absorbed inorganic cation exchanger that traps potassium in the gastrointestinal tract. Its efficacy in hyperkalaemia comes from this gut-restricted action.
 
-Breast fibrocystic disease is driven by hormonal and epithelial proliferative mechanisms unrelated to intestinal ion exchange. The evidence pack itself explicitly notes that this prediction, along with the other top-ranked predictions for this drug (benign mammary dysplasia, apocrine/blunt duct adenosis, fat necrosis, breast abscess, lactation disease, breast adenosis, and two unrelated coagulation-factor deficiencies), shows **no identifiable biological pathway** connecting SZC's local gut ion-exchange activity to any of these conditions.
+This pharmacology has no known connection to breast tissue, hormonal pathways, or fibrocystic changes. The high TxGNN score is a knowledge-graph prediction only, and it is likely driven by network artifacts rather than biological rationale.
 
-Taken together, the pattern across all ten top predictions — spanning benign breast pathology and inherited coagulation disorders with no shared mechanism — suggests these are graph-proximity or comorbidity-cluster artifacts within the knowledge graph rather than pharmacologically grounded signals. This prediction should be treated as exploratory only and does not currently meet the bar for mechanistic plausibility.
-
----
+The same pattern appears across the other top predictions. Several benign breast conditions (benign mammary dysplasia, apocrine adenosis, blunt duct adenosis, breast adenosis) share near-identical scores, which suggests clustering of related diseases in the graph rather than independent evidence. Two coagulation disorders (heparin cofactor 2 deficiency and antithrombin deficiency type 2) also appear, and they too lack any mechanistic support.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-This drug currently has no marketing authorization records in the EU (market status: **Not Marketed**, 0 authorizations on file).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004029 | Lokelma | Not specified | Treatment of hyperkalaemia in adult patients (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 16 interactions were identified, all rated Moderate. The listed interacting drugs are:
+  - Antivirals and HIV drugs: atazanavir, rilpivirine, ledipasvir, ritonavir, saquinavir, nelfinavir, raltegravir, indinavir
+  - Azole antifungals: itraconazole, posaconazole, ketoconazole
+  - Kinase inhibitors: dasatinib, nilotinib, erlotinib
+  - Others: atorvastatin, furosemide
 
----
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a TxGNN model score (Evidence Level L5), with zero clinical trials and zero literature citations, and the drug's known mechanism (local, non-absorbed intestinal K⁺ binding) has no established biological link to breast fibrocystic disease or the other top-ranked candidate indications. The evidence pack's own mechanistic analysis assesses these signals as likely graph artifacts rather than genuine repurposing candidates.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanism links a non-absorbed gut potassium binder to benign breast disease. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Formal MOA documentation for sodium zirconium cyclosilicate (currently a High-severity data gap)
-- TFDA/EMA label warnings and contraindications (currently a Blocking data gap; required before any S1 safety evaluation can proceed)
-- An independent mechanistic or preclinical hypothesis explaining a plausible pathway between gut cation exchange and breast tissue pathology, if this candidate is to be pursued further
-- Confirmation of whether the observed prediction cluster (benign breast conditions + coagulation disorders) reflects a systematic artifact in the underlying knowledge graph, to avoid similarly unreliable predictions for other drugs
+- Mechanism of action data to cross-check the prediction
+- Any preclinical or clinical evidence linking the drug to breast conditions
+- Warnings and contraindications from the SmPC for safety screening
+- Clarification of why the EU authorization was cancelled
+- Assessment of route compatibility and systemic exposure, since the drug is minimally absorbed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

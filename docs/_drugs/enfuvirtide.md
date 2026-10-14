@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Enfuvirtide
-parent: Medium Evidence (L3-L4)
-nav_order: 219
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 226
+evidence_level: L5
 indication_count: 10
 ---
 
 # Enfuvirtide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,29 +33,26 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Enfuvirtide is an HIV-1 fusion inhibitor peptide, originally used in combination antiretroviral therapy for HIV-1 infection in treatment-experienced patients.
-The TxGNN model predicts relevance to **Simian Immunodeficiency Virus (SIV) infection**, an experimental primate model of lentiviral disease,
-currently supported by **0 clinical trials** and **12 publications**, nearly all preclinical or animal-model studies rather than human clinical evidence.
+Enfuvirtide is a peptide fusion inhibitor originally used, together with other antiretrovirals, to treat HIV-1 infection in patients whose earlier regimens have failed.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, but there are **0 clinical trials** and only **10 publications**, mostly preclinical studies of next-generation lipopeptide inhibitors rather than enfuvirtide itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (combination antiretroviral therapy) |
-| Predicted New Indication | Simian immunodeficiency virus (SIV) infection |
+| Original Indication | HIV-1 infection in treatment-experienced patients who failed or are intolerant to protease inhibitor, NNRTI and NRTI regimens |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 98.18% |
-| Evidence Level | L3 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L3 (class-level preclinical and review literature; no human trials) |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on known pharmacology, Enfuvirtide is a first-in-class HIV-1 fusion inhibitor peptide that binds the HR1 region of the viral envelope glycoprotein gp41, blocking the conformational change required for fusion between the viral envelope and the host cell membrane. Its efficacy in HIV-1 infection has been established in combination regimens, and mechanistically it may extend to SIV, since SIV gp41 shares high sequence homology with HIV-1 gp41 — both viruses belong to the genus *Lentivirus*.
+Detailed mechanism of action data for enfuvirtide is not available in the data compiled for this report. Based on the literature, enfuvirtide (T-20) is a peptide derived from the gp41 HR2 (C-terminal heptad repeat) region. It blocks formation of the six-helix bundle and so prevents fusion of the viral and cell membranes in HIV-1.
 
-However, SIV infection is not a human disease; it is a macaque-based experimental model used to study HIV pathogenesis and to validate next-generation antiviral candidates before human trials. Nearly all of the supporting literature describes preclinical work on enfuvirtide-derived lipopeptide analogs (not enfuvirtide itself) tested in SIV-infected rhesus macaques, primarily for vaccine and drug-development research rather than for treating SIV as a clinical indication in any species with therapeutic intent.
-
-As a result, while the TxGNN score and homology-based mechanistic rationale are reasonable at the knowledge-graph level, the practical translational value of this specific "predicted indication" is limited — it reflects research-tool usage of the mechanism rather than an actionable new clinical indication for enfuvirtide.
+SIV is closely related to HIV and uses a similar gp41-mediated fusion mechanism, so a mechanistic rationale exists. There are important caveats, though. Enfuvirtide's sequence is specific to HIV-1, and its activity against SIV and HIV-2 is reduced (PMID 15040537). Most of the supporting studies test next-generation lipopeptide fusion inhibitors (for example LP-52 and cholesterylated peptides) in rhesus macaque and SIV/SHIV models, not enfuvirtide itself. This is class-level preclinical evidence. SIV infection is also an animal-virus indication with no direct human clinical relevance.
 
 ## Clinical Trial Evidence
 
@@ -65,37 +62,43 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32404526](https://pubmed.ncbi.nlm.nih.gov/32404526/) | 2020 | Animal/Preclinical | Journal of Virology | Lipopeptide fusion inhibitor LP-52 rapidly suppressed plasma viral load in SIVmac239-infected rhesus macaques |
-| [31462566](https://pubmed.ncbi.nlm.nih.gov/31462566/) | 2019 | In vitro/Preclinical | Journal of Virology | Membrane-anchored short-peptide fusion inhibitor fully protected target cells from HIV-1, HIV-2, and SIV infection |
-| [30867304](https://pubmed.ncbi.nlm.nih.gov/30867304/) | 2019 | In vitro/Preclinical | Journal of Virology | Cholesterol-modified enfuvirtide (T-20)-derived lipopeptides showed markedly increased and long-lasting anti-HIV/SIV activity |
-| [30716118](https://pubmed.ncbi.nlm.nih.gov/30716118/) | 2019 | Cohort/Clinical (human HIV, not SIV) | PLoS Pathogens | Low-dose lipopeptide HIV fusion inhibitor maintained long-term viral suppression as monotherapy in rhesus macaques |
-| [30089693](https://pubmed.ncbi.nlm.nih.gov/30089693/) | 2018 | In vitro/Structural | Journal of Virology | Structural characterization confirms T-20 (enfuvirtide) as the reference fusion inhibitor against HIV-1, HIV-2, and SIV, noting its low potency and low resistance barrier |
-| [29899103](https://pubmed.ncbi.nlm.nih.gov/29899103/) | 2018 | Animal/Preclinical | Journal of Virology | Novel enfuvirtide-based lipopeptides (LP-50/LP-51) showed high therapeutic efficacy in rhesus monkey HIV/SIV models |
-| [27795437](https://pubmed.ncbi.nlm.nih.gov/27795437/) | 2017 | In vitro/Preclinical | Journal of Virology | Helical short-peptide fusion inhibitor derived from enfuvirtide's target region active against HIV-1, HIV-2, and SIV |
-| [28356533](https://pubmed.ncbi.nlm.nih.gov/28356533/) | 2017 | In vitro/Preclinical | Journal of Virology | Lipopeptide HIV-1/2 fusion inhibitor built on the enfuvirtide (T-20) scaffold shows potent in vitro, ex vivo, and in vivo antiviral activity |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro | Antiviral Therapy | Susceptibility screening of anti-HIV-1 compounds (including enfuvirtide-class agents) against HIV-2, SIV, and SHIV strains |
-| [11478858](https://pubmed.ncbi.nlm.nih.gov/11478858/) | 2001 | In vitro/Mechanistic | Journal of Molecular Biology | SIV gp41 binds membranes in both monomeric and trimeric states, informing the structural basis for fusion-inhibitor design |
+| [32404526](https://pubmed.ncbi.nlm.nih.gov/32404526/) | 2020 | Preclinical (non-human primate) | J Virol | Lipopeptide LP-52 evaluated in SIVmac239-infected rhesus macaques; low-dose monotherapy rapidly reduced plasma viral load. Resistance selection was also assessed |
+| [30716118](https://pubmed.ncbi.nlm.nih.gov/30716118/) | 2019 | Preclinical (non-human primate) | PLoS Pathog | Low-dose lipopeptide monotherapy maintained long-term viral suppression in rhesus macaques |
+| [29899103](https://pubmed.ncbi.nlm.nih.gov/29899103/) | 2018 | Preclinical (non-human primate) | J Virol | LP-50 and LP-51, designed from T-20-based LP-40, showed high therapeutic efficacy in rhesus monkey models |
+| [30867304](https://pubmed.ncbi.nlm.nih.gov/30867304/) | 2019 | Preclinical (in vitro/in vivo) | J Virol | Cholesterol-modified T-20-based fusion inhibitors with extremely potent, long-lasting anti-HIV-1/2 activity |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | Preclinical (in vitro) | Antivir Ther | Susceptibility of HIV-2, SIV and SHIV to approved anti-HIV-1 drugs; relevant to the reduced activity of enfuvirtide against SIV |
+| [26450803](https://pubmed.ncbi.nlm.nih.gov/26450803/) | 2015 | Review | AIDS Rev | Review of HIV-1 group O origin, evolution, pathogenesis and treatment |
+| [28356533](https://pubmed.ncbi.nlm.nih.gov/28356533/) | 2017 | Preclinical | J Virol | Lipopeptide LP-19 with potent in vitro, ex vivo and in vivo activity against HIV-1/2 |
+| [27795437](https://pubmed.ncbi.nlm.nih.gov/27795437/) | 2017 | Preclinical (in vitro) | J Virol | Helical short-peptide fusion inhibitor with potent activity against HIV-1, HIV-2 and SIV |
+| [30089693](https://pubmed.ncbi.nlm.nih.gov/30089693/) | 2018 | Preclinical (in vitro/structural) | J Virol | Structural and functional characterization of fusion inhibitors with extremely potent activity against HIV-1, HIV-2 and SIV |
+| [31462566](https://pubmed.ncbi.nlm.nih.gov/31462566/) | 2019 | Preclinical (in vitro) | J Virol | Membrane-anchored short-peptide fusion inhibitor protected target cells from HIV-1, HIV-2 and SIV infection |
 
 ## EU Market Information
 
-Enfuvirtide currently holds no marketing authorization in the EU dataset used for this evaluation (market status: not marketed; 0 licenses on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000514 (cancelled) | Fuzeon | Not specified | Fuzeon is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1-infected patients who have... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: One moderate-level interaction is recorded, with cobicistat (DDInter).
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph lists pneumonia as a drug-disease contraindication edge. This comes from graph data, not from the product label, and should be verified against the SmPC.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted "indication" — SIV infection — is an animal research model rather than a human disease, so the supporting literature (mostly preclinical macaque studies of enfuvirtide-derived analogs, not enfuvirtide itself) does not translate into an actionable clinical development path. This is compounded by the absence of any EU marketing authorization and a blocking data gap on TFDA labeling.
+The predicted indication is an animal-virus infection, and the supporting studies mostly concern next-generation lipopeptide inhibitors rather than enfuvirtide. Enfuvirtide's activity against SIV is reduced, and no clinical trials exist. The only EU authorization is cancelled. The other nine predicted indications (for example feline immunodeficiency, vulvar conditions, oral conditions) have no supporting evidence and no plausible mechanism, so they do not change this decision.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (currently a blocking data gap, DG001)
-- Confirmed mechanism of action documentation from DrugBank (DG002)
-- Clarification of whether the intended human-relevant target is actually HIV-2 or drug-resistant HIV-1 (for which enfuvirtide-class fusion inhibitors have real clinical rationale), since SIV itself is not a treatable human condition
-- Assessment of EU regulatory pathway given the drug's current non-marketed status
+- Mechanism of action data from DrugBank
+- Safety information (warnings and contraindications) from the Fuzeon SmPC
+- Direct data on enfuvirtide itself (not lipopeptide analogues) in SIV models
+- Clarification of the research purpose, since SIV has no direct human clinical use, and of whether a research question or a human indication is intended
+- Confirmation of the regulatory and supply status of enfuvirtide in the EU, given the cancelled authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

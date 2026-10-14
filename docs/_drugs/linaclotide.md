@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Linaclotide
-parent: Medium Evidence (L3-L4)
-nav_order: 356
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 368
+evidence_level: L5
 indication_count: 10
 ---
 
 # Linaclotide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,91 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Linaclotide: From Constipation-Type Bowel Disorders to Large Intestine Disease
-
-## Methodological Note
-
-TxGNN scored 10 candidate indications for linaclotide. The top-ranked hits by raw score (cauda equina syndrome, obsolete neurogenic bladder, insomnia, mitral valve prolapse variants, rhinitis) were explicitly flagged in the evidence pack as **statistical artifacts with no plausible mechanism** — the pack itself labels them "predictive noise" (score 0.95–0.9996 despite zero mechanistic or evidentiary support). The only candidate that survived to evidence stage S2 with a "Proceed with Guardrails" call is **large intestine disease** (rank 9, score 95.14%), supported by 8 literature items including drug-specific and mechanistic studies. This report focuses on that candidate rather than the nominally top-ranked one, since reporting the top score without this context would be misleading.
-
----
+# Linaclotide: From Irritable Bowel Syndrome with Constipation to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Linaclotide (DrugBank DB08890) is a minimally-absorbed guanylate cyclase-C (GC-C) agonist used internationally for constipation-predominant bowel disorders (IBS-C/CIC per the cited literature); it currently holds **no marketing authorization in this jurisdiction** (0 licenses, not marketed). The TxGNN model's only credibly-supported new signal points to broader **Large Intestine Disease**, backed by **8 publications** (no clinical trials) — largely mechanistic/preclinical rather than direct clinical evidence in this specific disease framing.
-
----
+Linaclotide is a guanylate cyclase-C agonist, originally authorised in the EU for moderate to severe irritable bowel syndrome with constipation (IBS-C) in adults.
+The TxGNN model predicts it may be effective for **cauda equina syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. The score is a model output only.
+Among the top 10 predictions, the only signal with some biological plausibility is **large intestine disease**, which largely overlaps with the existing approved use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available from local regulatory data (no licenses on file). Per cited literature, linaclotide is approved elsewhere for constipation-predominant IBS (IBS-C) and chronic idiopathic constipation (CIC). |
-| Predicted New Indication | Large Intestine Disease |
-| TxGNN Prediction Score | 95.14% (rank 9 of candidates) |
-| Evidence Level | L3 |
-| Market Status (local regulatory data) | Not marketed / Not marketed |
-| Number of Authorizations | 0 |
+| Original Indication | Symptomatic treatment of moderate to severe irritable bowel syndrome with constipation (IBS-C) in adults |
+| Predicted New Indication | Cauda equina syndrome |
+| TxGNN Prediction Score | 99.96% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no structured mechanism-of-action record exists in the drug-level fields (marked as a High-severity data gap, DG002). However, the evidence pack's literature-derived rationale is clear: linaclotide is a **guanylate cyclase-C (GC-C) receptor agonist** acting on intestinal epithelial apical receptors, increasing intracellular and extracellular cGMP. This drives chloride/bicarbonate secretion and accelerates intestinal transit, and separately reduces colonic nociceptor sensitization to relieve visceral pain (PMID 23958540).
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, linaclotide is a guanylate cyclase-C (GC-C) agonist that acts locally in the gut lumen with minimal systemic absorption. Activating GC-C raises cGMP, which increases intestinal fluid secretion and speeds transit.
 
-"Large intestine disease" as a TxGNN-predicted category overlaps substantially with linaclotide's already-established pharmacology in IBS-C and chronic idiopathic constipation — this is best understood as an **adjacent extension of known activity**, not a mechanistically novel repurposing. Preclinical work also shows chronic linaclotide can reverse colitis-induced bladder and neuroplastic changes (PMID 30282832) and that GC-C/cGMP signaling is implicated in colitis and dysbiosis models (PMID 34546338), suggesting the drug's colonic action may extend to inflammatory large-bowel states beyond simple constipation. No data currently link linaclotide's local, non-absorbed GI action to any of the other 9 TxGNN-flagged candidates (autonomic nervous system disease has an indirect literature echo; the remainder — cauda equina syndrome, neurogenic bladder, insomnia, mitral valve prolapse/MVP1, gastroduodenitis, rhinitis — lack any mechanistic plausibility per the evidence pack's own assessment).
+A plausible mechanistic route from this local gut action to cauda equina syndrome, a neurological compression disorder, was not identified. The high score most likely reflects shared bowel and bladder dysfunction features in the knowledge graph rather than a pharmacological link. Therefore the prediction should be regarded as unsupported.
 
----
+**Other top-ranked predictions** (all Hold unless noted):
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|---|---|---|---|---|
+| 2 | Neurogenic bladder (obsolete term) | 99.89% | L5 | No trials or publications. Preclinical colitis-model work suggests visceral cross-sensitisation, but it does not support this as a treatment target. |
+| 3 | Insomnia | 99.51% | L5 | No evidence or plausible mechanism. |
+| 4 | Autonomic nervous system disease | 98.85% | L4 | Three reviews on autonomic disorders and GI dysmotility. Any relevance is indirect (treating constipation as a symptom). |
+| 5–7 | Familial mitral valve prolapse, mitral valve prolapse, MVP1 | 97.84%, 97.45%, 96.90% | L5 | Likely redundant ontology nodes, with no mechanistic plausibility. |
+| 8 | Gastroduodenitis | 96.51% | L4 | One IBS-C review, which concerns the existing use. No direct evidence in upper GI inflammation. |
+| 9 | Large intestine disease | 95.14% | L3 | Most plausible, but it overlaps with the approved use. Research question stage. |
+| 10 | Rhinitis | 94.67% | L5 | No evidence or plausible mechanism. |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for cauda equina syndrome, nor for any of the other top 10 predicted indications.
 
 ## Literature Evidence
 
+No literature is available for cauda equina syndrome. The most relevant publications come from the ninth-ranked prediction, **large intestine disease**, and are shown below for context. They are not evidence for the primary prediction.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23464519](https://pubmed.ncbi.nlm.nih.gov/23464519/) | 2013 | Review (drug-specific) | Future Medicinal Chemistry | Overview of linaclotide's approval (Constella™/Linzess™) and clinical/biological profile for IBS-C and CIC |
-| [23958540](https://pubmed.ncbi.nlm.nih.gov/23958540/) | 2013 | Preclinical (mechanistic, animal) | Gastroenterology | Linaclotide inhibits colonic nociceptors and relieves abdominal pain via GC-C/extracellular cGMP |
-| [30282832](https://pubmed.ncbi.nlm.nih.gov/30282832/) | 2018 | Preclinical (animal) | JCI Insight | Chronic linaclotide reduces colitis-induced neuroplasticity and reverses persistent bladder dysfunction (gut-bladder axis) |
-| [38923030](https://pubmed.ncbi.nlm.nih.gov/38923030/) | 2024 | Review | Alimentary Pharmacology & Therapeutics | Management approaches for refractory constipation in children |
-| [34546338](https://pubmed.ncbi.nlm.nih.gov/34546338/) | 2021 | Preclinical (mouse model) | Journal of Experimental Medicine | Gut-associated cGMP mediates colitis and dysbiosis in a GUCY2C activating-mutation mouse model |
-| [33849828](https://pubmed.ncbi.nlm.nih.gov/33849828/) | 2021 | Preclinical (rat model) | J. Southern Medical University | Changes in GC-C in colon tissue of rats with pancreatitis-associated intestinal injury |
-| [23748116](https://pubmed.ncbi.nlm.nih.gov/23748116/) | 2013 | Review (mechanistic) | Pain | Uroguanylin/GC-C/cGMP pathway and visceral hypersensitivity in inflammation/stress models |
-| [33751780](https://pubmed.ncbi.nlm.nih.gov/33751780/) | 2021 | Review | Neurogastroenterology and Motility | Pharmacology and clinical evidence for bisacodyl in constipation (comparator laxative context, not linaclotide-specific) |
+| [41413756](https://pubmed.ncbi.nlm.nih.gov/41413756/) | 2026 | Randomised crossover clinical physiology study | Neurogastroenterol Motil | Effect of linaclotide on colonic motility assessed by high-resolution manometry in healthy subjects |
+| [23958540](https://pubmed.ncbi.nlm.nih.gov/23958540/) | 2013 | Preclinical (animal) | Gastroenterology | Linaclotide inhibits colonic nociceptors and relieves abdominal pain via GC-C and extracellular cGMP |
+| [30282832](https://pubmed.ncbi.nlm.nih.gov/30282832/) | 2018 | Preclinical (animal) | JCI Insight | Chronic linaclotide reduces colitis-induced neuroplasticity and reverses persistent bladder dysfunction |
+| [34546338](https://pubmed.ncbi.nlm.nih.gov/34546338/) | 2021 | Preclinical (animal) | J Exp Med | Activating GUCY2C mutation in mice: excess gut cGMP drives colitis and dysbiosis (possible safety signal) |
+| [23464519](https://pubmed.ncbi.nlm.nih.gov/23464519/) | 2013 | Review | Future Med Chem | Overview of linaclotide's development and approval for IBS-C and chronic idiopathic constipation |
+| [31724881](https://pubmed.ncbi.nlm.nih.gov/31724881/) | 2020 | Review | Expert Opin Pharmacother | Pharmacological management of IBS-C (rank 8, gastroduodenitis) |
+| [41404536](https://pubmed.ncbi.nlm.nih.gov/41404536/) | 2025 | Review | Curr Treat Options Neurol | Update on treatment of autonomic disorders (rank 4) |
 
-**Note:** none of the above are randomized controlled trials of linaclotide specifically in "large intestine disease" as a standalone entity; they are mechanistic/preclinical studies plus one drug-specific pharmacology review, consistent with the assigned L3 evidence level.
+## EU Market Information
 
----
-
-## Market Information
-
-Linaclotide currently holds **no marketing authorization on file** in this jurisdiction (market status: Not marketed; 0 licenses recorded). No dosage form or approved-indication text is available to summarize.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002490 | Constella (status: cancelled) | Not specified | Symptomatic treatment of moderate to severe irritable-bowel syndrome with constipation (IBS-C) in adults. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No key warnings, contraindications, or drug-drug interaction data are currently on file (DDI query returned no results; a Blocking-severity data gap, DG001, notes that the local regulatory label has not yet been obtained/parsed).
+Safety information from the product label was not available in the data compiled for this report. Please refer to the SmPC for warnings and contraindications.
 
----
+**Drug Interactions:** 56 interactions were recorded. The 20 shown in the data include:
+- **Moderate:** levonorgestrel, ethinylestradiol, norethisterone, levothyroxine, porcine thyroid
+- **Minor:** proton pump inhibitors (rabeprazole, esomeprazole, dexlansoprazole), NSAIDs (ketorolac, ibuprofen, diclofenac, oxaprozin, bromfenac), and other laxatives (bisacodyl, sodium picosulfate, docusate, polyethylene glycol, castor oil, cascara)
+
+**Theoretical consideration:** A mouse model with excess GC-C/cGMP signalling showed colitis and dysbiosis (PMID 34546338). This raises a possible concern in inflammatory bowel settings, which would need clarification before any expansion of use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only candidate indication with real (if indirect, preclinical-weighted) evidentiary support — Large Intestine Disease — reaches L3/S2 ("Proceed with Guardrails") on scientific grounds alone. However, a **Blocking** data gap (DG001: no local product label/warnings on file) currently prevents any safety initial assessment, and the drug has **zero marketing authorizations** in this jurisdiction, meaning there is no established local safety or regulatory foothold to build on. Until that gap is closed, no Go decision can responsibly be made regardless of the mechanistic plausibility.
+The top prediction, cauda equina syndrome, has no trials or publications and no plausible pharmacological mechanism. The score reflects model association only. The EU authorisation has been cancelled. The only biologically plausible signal, large intestine disease, largely overlaps with the already-approved IBS-C use and is not a clearly new indication.
 
 **To proceed, the following is needed:**
-- Obtain and parse the official product label/SmPC (warnings, contraindications) to resolve DG001 — required to even enter safety-stage (S1) review
-- Formal mechanism-of-action documentation to close DG002, beyond the literature-inferred GC-C/cGMP pathway summarized above
-- If pursuing the Large Intestine Disease signal specifically: clarify how it differs from linaclotide's already-marketed indications elsewhere (IBS-C/CIC), since this may be a market-access question rather than a genuine new-indication research question
-- Given the other 9 TxGNN candidates lack any supporting evidence, no further action is recommended on those unless new clinical or mechanistic data emerges
+- Label safety data (warnings and contraindications) from the SmPC
+- Mechanism of action data confirmed from DrugBank
+- A defined, non-redundant new indication, such as a specific colonic or visceral pain/hypersensitivity condition, with supporting clinical data
+- Clarification of why the EU authorisation was cancelled (commercial or safety reasons)
+- Review of the colitis/cGMP safety signal before any use in inflammatory conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

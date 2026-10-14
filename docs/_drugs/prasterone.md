@@ -2,7 +2,7 @@
 layout: default
 title: Prasterone
 parent: AI Predictions (L5)
-nav_order: 479
+nav_order: 495
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasterone: From No Approved Indication to Heparin Cofactor 2 Deficiency
+# Prasterone: From Vulvar and Vaginal Atrophy to Heparin Cofactor 2 Deficiency
 
 ## One-Sentence Summary
 
-Prasterone (DHEA) has no recorded original indication in this evidence pack and is not currently marketed in this jurisdiction. The TxGNN model predicts a possible link to **Heparin Cofactor 2 Deficiency**, but this is a Level 5 (L5) prediction with **zero clinical trials** and **zero supporting publications**, and the model's own generated rationale explicitly flags the score as a graph-embedding artifact rather than a validated biological mechanism.
-
----
+Prasterone (DHEA) was originally authorised as Intrarosa for the treatment of vulvar and vaginal atrophy in postmenopausal women with moderate to severe symptoms.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it in the data compiled for this report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on file; drug is not currently marketed in this jurisdiction |
+| Original Indication | Treatment of vulvar and vaginal atrophy in postmenopausal women having moderate to severe symptoms |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | ✗ Authorisation cancelled (no valid marketing authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on the limited information present in this evidence pack, Prasterone (DHEA) is described as a gonadal steroid hormone precursor. No approved original indication or licensing history is on file, so it is not possible to compare this candidate against an established clinical use case, and no independent MOA source could be verified.
+Currently, detailed mechanism of action data is not available. Based on known information, prasterone is the endogenous steroid DHEA, a precursor of sex hormones. Its efficacy in postmenopausal vulvar and vaginal atrophy has been established, and it is thought to act locally through conversion to oestrogens and androgens. The only pharmacological record compiled for this report is an interaction with the glycine receptor, which has no obvious connection to coagulation.
 
-More importantly, the evidence pack's own analysis of the top-ranked prediction states directly that there is **no known mechanistic pathway** connecting DHEA's endocrine metabolism to Heparin Cofactor II (a serine protease inhibitor) gene deficiency. The high TxGNN score is attributed to knowledge-graph proximity between nodes, not to any documented pharmacological or physiological relationship — the rationale text itself describes this as "非生物學依據" (not a biological basis).
+The original and predicted indications are not closely related. Heparin cofactor 2 deficiency is a hereditary deficiency of a serine protease inhibitor involved in coagulation. No established mechanism links DHEA to correcting it. The very high TxGNN score most likely reflects network proximity in the knowledge graph rather than a pharmacological rationale.
 
-A further caution emerges from a lower-ranked but evidence-backed prediction in the same pack: for "thrombophilia" (rank 4, L4), the associated literature describes hyperandrogenic states (e.g., PCOS, Leydig cell tumors) as being **associated with increased thrombotic risk**, not reduced risk. Since DHEA is an androgen precursor, this is a directionally concerning signal — it suggests androgen exposure may exacerbate, rather than treat, disorders of coagulation and clotting-factor regulation. Given that three of the top five predictions in this pack (ranks 1, 2, 3) are inherited clotting-factor deficiencies, this pattern should be treated as a safety caution rather than supportive evidence.
+Sex steroids can influence coagulation parameters, and oral oestrogens are known to raise thrombotic risk. For a prothrombotic condition, this is more a safety concern than a therapeutic rationale.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered
-
----
-
-## Literature Evidence
-
-Currently no related literature available
-
----
+Other top-ranked predictions are also mostly coagulation or haematology disorders: factor 5 excess with spontaneous thrombosis, antithrombin deficiency type 2, thrombophilia, protein S deficiency, pseudo-von Willebrand disease and primary release disorder of platelets. Two others, severe nonproliferative diabetic retinopathy and scleroderma, have speculative anti-inflammatory or immunomodulatory rationales. All ten predictions have evidence level L5 and a Hold recommendation.
 
 ## EU Market Information
 
-No marketing authorizations are on file for Prasterone in this jurisdiction (0 total licenses). The drug is currently listed as not marketed.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004138 (cancelled) | Intrarosa | Not specified | Intrarosa is indicated for the treatment of vulvar and vaginal atrophy in postmenopausal women having moderate to severe symptoms. |
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
----
+The pharmacology data compiled for this report lists one interaction record, with the glycine receptor (all subtypes), where DHEA is recorded as a metabolite ligand. It carries no severity level and is not a clinical drug-drug interaction.
+
+Because the predicted indications are prothrombotic or bleeding disorders, the effect of sex-steroid modulation on coagulation would need careful assessment before any use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Heparin cofactor 2 deficiency) is an L5, AI-only signal with no supporting clinical trials or literature, and the model's own rationale explicitly disclaims a biological basis. Related evidence elsewhere in the pack (thrombophilia, rank 4) points toward androgen excess *increasing* thrombotic risk, which runs counter to using this drug for clotting-factor–related indications.
+The prediction rests on a model score alone (L5). There are no clinical trials or publications, no established mechanism, and the only EU authorisation has been cancelled. The biological link to heparin cofactor 2 deficiency is not supported, and a coagulation-related safety concern cannot be excluded.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data — warnings and contraindications (currently a Blocking gap, DG001)
-- Verified mechanism of action (MOA) for Prasterone (DG002)
-- Original approved indication and licensing history, since the drug is not currently marketed in this jurisdiction
-- Independent preclinical or mechanistic evidence directly linking DHEA/androgen pathways to hemostasis or coagulation-factor regulation before further evaluation is warranted
+- Mechanism of action data for prasterone, and a plausible link to heparin cofactor 2 or the coagulation cascade
+- Warnings and contraindications from the SmPC, which are a blocking gap for safety screening
+- Preclinical or observational evidence on the effect of DHEA on coagulation and thrombotic risk
+- Assessment of route compatibility, since the original product was a local vaginal formulation and the new indication would likely need systemic exposure
+- Review of the other predicted indications (for example scleroderma and diabetic retinopathy), which have more plausible, though still speculative, immunomodulatory or anti-inflammatory rationales
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

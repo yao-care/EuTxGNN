@@ -2,7 +2,7 @@
 layout: default
 title: Interferon Beta-1A
 parent: AI Predictions (L5)
-nav_order: 320
+nav_order: 331
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Interferon beta-1a: From Multiple Sclerosis to Jeune Syndrome Situs Inversus
+# Interferon beta-1a: From Relapsing Multiple Sclerosis to Jeune Syndrome Situs Inversus
 
 ## One-Sentence Summary
 
-Interferon beta-1a is a recombinant cytokine widely established as a disease-modifying therapy for relapsing-remitting multiple sclerosis (RRMS), exerting its effects through immunomodulation to reduce relapse frequency and slow disease progression.
-The TxGNN model predicts it may be effective for **Jeune Syndrome Situs Inversus** (rank 1, score 97.47%),
-however **no clinical trials** and **no publications** currently support this specific indication — this is a pure AI model prediction at Evidence Level **L5**.
-
----
+Interferon beta-1a is an immunomodulatory biologic, originally used to treat relapsing multiple sclerosis and patients with a first demyelinating event at high risk of developing MS.
+The TxGNN model predicts it may be effective for **Jeune syndrome situs inversus**, but **no clinical trials and no relevant publications** support this prediction. It is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Multiple sclerosis (relapsing-remitting); original indications not recorded in this Evidence Pack |
-| Predicted New Indication | Jeune Syndrome Situs Inversus |
+|------|------|
+| Original Indication | Relapsing multiple sclerosis, and a single demyelinating event at high risk of progressing to clinically definite MS |
+| Predicted New Indication | Jeune syndrome situs inversus |
 | TxGNN Prediction Score | 97.47% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on established pharmacological knowledge, Interferon beta-1a is a recombinant form of the endogenous cytokine IFN-β, primarily approved for relapsing-remitting multiple sclerosis. Its known biological actions include suppression of pro-inflammatory T-cell activity, reduction of cytokine-driven inflammation, inhibition of leukocyte trafficking across the blood–brain barrier, and upregulation of anti-inflammatory mediators — all targeting immune-mediated neuroinflammation.
+Currently, detailed mechanism of action data is not available. Interferon beta-1a is an immunomodulator, and its efficacy in relapsing multiple sclerosis is established through its approved indications.
 
-Jeune Syndrome Situs Inversus (asphyxiating thoracic dystrophy with situs inversus) is a rare autosomal-recessive ciliopathy caused by loss-of-function mutations in genes encoding intraflagellar transport (IFT) complex components, most commonly *DYNC2H1*. The disease mechanism involves structural defects of primary cilia, leading to skeletal dysplasia, narrow thorax, and organ laterality reversal. This is a fundamentally developmental and structural disorder with no known immune-mediated component.
+Jeune syndrome and situs inversus are ciliopathy-related skeletal and laterality disorders with genetic causes. Interferon beta-1a has no known action on ciliary function or skeletal development. No mechanistic link to the predicted indication has been identified.
 
-There is no established pharmacological pathway by which IFN-β-1a could repair ciliary architecture, rescue IFT gene function, or correct organ situs. The high TxGNN prediction score (97.47%) most likely reflects over-representation of rare-disease nodes within the knowledge graph — rare diseases tend to have high inter-connectivity — rather than a genuine drug–disease pharmacological relationship. This prediction should be regarded as a knowledge-graph artifact, not a credible repurposing hypothesis.
+The high score (97.47%) reflects a model prediction only. It is not supported by any clinical or literature evidence, and the prediction should be treated as a hypothesis, not a finding.
 
----
+The other top-ranked predictions are likewise unsupported by evidence. They include Pierre Robin syndrome variants, chromosomal deletion disorders, orofacial clefting, Laubry-Pezzi syndrome, and ovarian tumours (rete ovarii cystadenoma and borderline serous tumour). All are L5 with a Hold recommendation, mostly congenital or structural conditions that an immunomodulator would not be expected to correct.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No literature directly related to Jeune syndrome situs inversus is available. Publications retrieved for the lower-ranked prediction "disorder of fucoglycosan synthesis" mainly concern multiple sclerosis therapies (such as teriflunomide, alemtuzumab, fingolimod and network meta-analyses). These match the drug's original MS indication, not the predicted disease, and they are not evidence for any new use.
 
----
-
-## Taiwan Market Information
-
-Interferon beta-1a is currently not marketed in Taiwan. No marketing authorizations are on record.
+## EU Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------------------|--------------|-------------|---------------------|
-| — | — | — | No authorizations found |
-
----
+|---------|------|------|-----------|
+| EMEA/H/C/000136 (cancelled) | Rebif | Not specified | Single demyelinating event at high risk of developing clinically definite MS; relapsing multiple sclerosis (two or more acute exacerbations in the previous two years). Efficacy not demonstrated in secondary... |
+| EMEA/H/C/000102 (cancelled) | Avonex | Not specified | Relapsing multiple sclerosis (two or more relapses in the previous three years); slows disability progression and reduces relapse frequency; single demyelinating event at high risk of... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction databases. One is classified as Major, and the rest listed are Moderate.
+  - **Major**: Bupropion
+  - **Moderate (examples)**: Acarbose, pioglitazone, rosiglitazone, clarithromycin, levofloxacin, minocycline, naltrexone, rosuvastatin, simvastatin, orlistat, and anabolic steroids (oxandrolone, oxymetholone, stanozolol)
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Jeune Syndrome Situs Inversus is a genetic ciliopathy driven by IFT complex dysfunction, with no immunological disease mechanism; IFN-β-1a has no plausible pathway to address ciliary structural defects, IFT gene mutations, or organ laterality reversal. All 10 top-ranked TxGNN predictions for this drug involve either structural chromosomal anomalies, developmental syndromes, or congenital malformations — none of which are mechanistically linked to IFN-β immunomodulation — suggesting a systematic model artefact rather than actionable repurposing signals.
+The prediction is supported only by the TxGNN model score. There are no clinical trials or relevant literature, and no plausible biological link between an MS immunomodulator and a ciliopathy-related skeletal and laterality disorder. Both EU marketing authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Basic science evidence (in vitro or animal models) demonstrating any effect of IFN-β signalling on IFT complex function or ciliogenesis
-- Identification of any proposed biological mechanism linking type I interferon pathways to ciliopathy rescue
-- Expert curation to determine whether any lower-ranked TxGNN predictions for Interferon beta-1a carry stronger mechanistic and clinical rationale
-- TFDA prescribing information (SmPC) to complete the safety profile before any clinical consideration
+- Mechanism of action data for interferon beta-1a
+- Warnings and contraindications from the product information
+- Preclinical or mechanistic evidence linking interferon beta signalling to the pathophysiology of Jeune syndrome situs inversus
+- Confirmation of the reasons for the cancelled EU authorizations and of the current availability of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

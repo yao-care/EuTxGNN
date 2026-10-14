@@ -2,7 +2,7 @@
 layout: default
 title: Zinc
 parent: AI Predictions (L5)
-nav_order: 659
+nav_order: 684
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zinc: From Nutritional Supplementation to Filariasis
+# Zinc: From Wilson's Disease to Filariasis
 
 ## One-Sentence Summary
 
-Zinc (DrugBank ID DB01593) is an essential trace element with no single approved therapeutic indication on file in this dataset — it functions primarily as a nutritional/dietary supplement and enzymatic cofactor. The TxGNN model's top-ranked prediction links zinc to **Filariasis**, but this signal is currently supported only by AI prediction, with **1 clinical trial** and **20 publications** retrieved, none of which directly demonstrate antifilarial efficacy of zinc itself.
+Zinc was originally authorised in the EU for the treatment of Wilson's disease.
+The TxGNN model predicts it may be effective for **filariasis**, but **no clinical trials** and no human studies of zinc as a filariasis therapy support this direction.
+The retrieved publications (**20**) are mostly about mosquito control, parasite biology, or computational work, so this remains a computational prediction only.
 
 ---
 
@@ -41,62 +43,58 @@ Zinc (DrugBank ID DB01593) is an essential trace element with no single approved
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented — zinc has no approved original indication on file (0 EU marketing licenses); included as an essential trace element/nutritional supplement |
+| Original Indication | Treatment of Wilson's disease |
 | Predicted New Indication | Filariasis |
 | TxGNN Prediction Score | 93.19% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for zinc is not available in this dataset, and no approved original indication is on file — zinc holds DrugBank ID DB01593 but has zero EU marketing authorizations. As an essential trace element, zinc is broadly known to act as a structural and catalytic cofactor for over 300 enzymes, and plays roles in immune function, wound healing, and epithelial/mucosal barrier integrity. These general biological properties are the basis on which TxGNN's knowledge-graph model draws associations to a wide range of diseases, including filariasis.
+Currently, detailed mechanism of action data is not available. Based on known information, zinc is a mineral therapy whose efficacy in Wilson's disease is established (it limits copper absorption), and the link to filariasis is not established mechanistically.
 
-However, the retrieved evidence does not substantiate a specific mechanistic link between zinc and filariasis treatment. Per the evidence pack's own rationale: *"No clear mechanism supports a direct antiparasitic effect of zinc against filarial worms. The majority of the retrieved literature concerns zinc oxide nanoparticles used for mosquito vector control, or parasite molecular biology studies (e.g., zinc-dependent metalloenzymes in Setaria/Brugia species) that are unrelated to zinc as a therapeutic agent, and provide no direct evidence for zinc supplementation as a treatment for lymphatic filariasis."*
-
-In short, the prediction score is driven by graph-level proximity (zinc's broad connectivity to enzyme/immune pathways) rather than by direct pharmacological or clinical evidence. This is a case where the AI signal and the underlying literature diverge materially, and it should be treated as hypothesis-generating only.
+The retrieved literature does not support a credible link. It covers zinc oxide nanoparticles used as mosquito larvicides, a zinc-finger protein in *Schistosoma*, zinc-dependent enzymes in filarial parasites, and nutritional or computational studies. None examines zinc as a treatment for filarial infection in humans. The high TxGNN score should be treated as a hypothesis only.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04695886](https://clinicaltrials.gov/study/NCT04695886) | N/A | Unknown | 6,440 | Community-delivered malaria elimination model trial in Myanmar; evaluates community health worker–based malaria services, not a zinc treatment intervention. Relevance graded **C** — weak/no direct link to filariasis or zinc therapy. |
+Currently no related clinical trials registered for filariasis.
 
 ---
 
 ## Literature Evidence
 
+No randomised or clinical studies of zinc treating filariasis were found. The most relevant items are listed below and are mainly preclinical, observational, or review-type. Many other retrieved papers were not classified.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40524903](https://pubmed.ncbi.nlm.nih.gov/40524903/) | 2025 | Review | Journal of Tropical Medicine | Systematic review of metal-based nanoparticles (including ZnO) against mosquito vectors of malaria, dengue, and filariasis — a vector-control, not a therapeutic, application |
-| [40138337](https://pubmed.ncbi.nlm.nih.gov/40138337/) | 2025 | Cohort | PLoS One | Machine-learning study of nutritional predictors of lymphatic filariasis progression in Ghana; zinc not isolated as a specific factor |
-| [29772240](https://pubmed.ncbi.nlm.nih.gov/29772240/) | 2018 | Preclinical | Biochem Biophys Res Commun | Characterization of a zinc finger protein in *Schistosoma japonicum* — parasite molecular biology, not a zinc treatment study |
-| [40352769](https://pubmed.ncbi.nlm.nih.gov/40352769/) | 2025 | Preclinical | 3 Biotech | Green-synthesized ZnO nanoparticles evaluated for mosquito larvicidal/antibacterial activity — vector control application |
-| [8522762](https://pubmed.ncbi.nlm.nih.gov/8522762/) | 1995 | Preclinical | Journal of Helminthology | Identifies a zinc-dependent cysteine proteinase as an allergen in the filarial parasite *Setaria digitata*; parasite biology, not zinc therapy |
-| [30261054](https://pubmed.ncbi.nlm.nih.gov/30261054/) | 2018 | Preclinical | PLoS One | Characterization of *Wolbachia* Type IV secretion effectors in *Brugia malayi* — endosymbiont biology unrelated to zinc supplementation |
-| [34666103](https://pubmed.ncbi.nlm.nih.gov/34666103/) | 2021 | Preclinical | Mol Biochem Parasitol | In-silico docking study targeting a *Wolbachia* (Brugia malayi) enzyme for novel antifilarial drug discovery — no zinc intervention tested |
-| [18262499](https://pubmed.ncbi.nlm.nih.gov/18262499/) | 2008 | Preclinical | Acta Tropica | Characterizes a zinc-dependent metalloexopeptidase (leucine aminopeptidase) from the filarial parasite *Setaria cervi* — enzyme structure study, not treatment evidence |
-| [19523248](https://pubmed.ncbi.nlm.nih.gov/19523248/) | 2009 | Preclinical | Parasitology | Characterizes a phosphatase from bovine filarial parasite *Setaria cervi* and its effect on eosinophil degranulation — parasite enzymology |
-| [16870314](https://pubmed.ncbi.nlm.nih.gov/16870314/) | 2006 | Preclinical | Vaccine | Vaccination with a parasite-derived zinc-containing collagenase protects against *Brugia malayi* infection in jirds — a vaccine antigen study, not zinc supplementation |
-
-**Note:** None of the retrieved literature is an RCT or directly tests zinc supplementation as a filariasis treatment. Most items describe zinc-containing parasite enzymes (as drug discovery targets) or zinc oxide nanoparticles for mosquito vector control — mechanistically distinct from zinc as a therapeutic agent.
+| [40524903](https://pubmed.ncbi.nlm.nih.gov/40524903/) | 2025 | Systematic review | J Trop Med | Metal-based nanoparticles as a vector-control tool against mosquitoes (including filariasis vectors), not a human therapy |
+| [36320445](https://pubmed.ncbi.nlm.nih.gov/36320445/) | 2022 | Preclinical | Biomass Convers Biorefin | Bio-fabricated ZnO nanoparticles show larvicidal activity against *Culex quinquefasciatus*, the lymphatic filariasis vector |
+| [40138337](https://pubmed.ncbi.nlm.nih.gov/40138337/) | 2025 | Cohort | PLoS One | Machine-learning study of nutritional predictors of lymphatic filariasis progression in Ghana (n=109) |
+| [34666103](https://pubmed.ncbi.nlm.nih.gov/34666103/) | 2021 | In silico | Mol Biochem Parasitol | Computational screening of inhibitors of *Wolbachia* MurF in *Brugia malayi*; not related to zinc therapy |
+| [15521106](https://pubmed.ncbi.nlm.nih.gov/15521106/) | 2004 | Double-blind placebo-controlled study | Ann Trop Med Parasitol | Limb care with penicillin and/or diethylcarbamazine to prevent adenolymphangitis in bancroftian filariasis; zinc not the intervention |
+| [16870314](https://pubmed.ncbi.nlm.nih.gov/16870314/) | 2006 | Preclinical | Vaccine | A parasite zinc-containing collagenase used as a vaccine antigen in jirds; zinc is part of the antigen, not a therapy |
+| [18262499](https://pubmed.ncbi.nlm.nih.gov/18262499/) | 2008 | Preclinical | Acta Trop | Purification of a zinc-dependent aminopeptidase from a bovine filarial parasite |
+| [23965548](https://pubmed.ncbi.nlm.nih.gov/23965548/) | 2013 | Review | Emerg Infect Dis | Nodding syndrome and its association with onchocerciasis; zinc not evaluated |
 
 ---
 
 ## EU Market Information
 
-Zinc (DB01593) currently has **no marketing authorization on file for the EU market** (0 licenses recorded in this dataset).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000535 | Wilzin | Not specified | Treatment of Wilson's disease. (status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
 
 ---
 
@@ -105,13 +103,17 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction score is high, but the supporting evidence base for filariasis is weak and largely off-target — dominated by zinc oxide nanoparticle vector-control studies and parasite enzyme characterization papers rather than any clinical or preclinical evidence of zinc's antifilarial therapeutic activity. This is classified as evidence level L5 (AI prediction only), and the evidence pack itself flags the mechanistic rationale as unsupported.
+The prediction for filariasis rests on the model score alone. There are no registered trials and no human studies of zinc as an antifilarial, and the literature concerns vector control and parasite biology. The only EU authorisation is cancelled, which further limits near-term development.
 
 **To proceed, the following is needed:**
-- Zinc's mechanism of action (MOA) data (currently a Data Gap, High severity)
-- Regulatory safety label data — key warnings, contraindications, and TFDA/EMA SmPC information (currently a Blocking Data Gap; required before any Stage 1 safety review)
-- Direct interventional evidence (preclinical or clinical) testing zinc supplementation specifically for filariasis prevention or treatment, rather than proxy studies on parasite zinc-dependent enzymes or ZnO nanoparticle vector control
-- Given the stronger, more mechanistically coherent signals seen for other candidates in this evidence pack (e.g., dermatitis and enterocolitis, both rated L2/"Proceed with Guardrails"), consider re-prioritizing evaluation toward those indications rather than filariasis
+- Mechanism of action data for zinc, and a plausible biological rationale for activity against filarial parasites or their *Wolbachia* symbionts
+- In vitro and animal studies testing zinc against filarial worms
+- Safety information from the SmPC (warnings and contraindications)
+- Clarification of the regulatory status and available formulations, given that the only EU authorisation is cancelled
+
+---
+
+**Note on other predictions:** Among lower-ranked predictions, **dermatitis** (score 91.7%) and **enterocolitis** (90.7%) have more supporting material (Phase 4 and N/A-phase trials, mostly of topical zinc oxide products or zinc supplementation in preterm infants, plus systematic reviews). They are rated L3 and are best considered research questions rather than development candidates, because the topical route and endpoints differ from the original indication.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

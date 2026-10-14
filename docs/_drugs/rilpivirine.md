@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rilpivirine
-parent: AI Predictions (L5)
-nav_order: 504
-evidence_level: L5
+parent: Medium Evidence (L3-L4)
+nav_order: 522
+evidence_level: L4
 indication_count: 10
 ---
 
 # Rilpivirine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-> Rilpivirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) approved for the treatment of HIV-1 infection in humans, often used as part of two-drug regimens with cabotegravir (long-acting injectable) or dolutegravir (oral).
-> The TxGNN model's top-ranked prediction is **Simian Immunodeficiency Virus (SIV) infection**, a disease of macaques used as a preclinical model for HIV research — not a naturally occurring human condition.
-> Support comes from **0 clinical trials** and **4 publications**, all of which are preclinical macaque studies or a mechanism review, with no evidence of a translatable human indication.
+Rilpivirine is an HIV-1 antiviral (a non-nucleoside reverse transcriptase inhibitor) used to treat HIV-1 infection in adults, adolescents and children.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, a primate model of HIV.
+Currently there are **0 registered clinical trials** and **5 publications**, all preclinical or review articles, supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (per clinical trial documentation in evidence pack) |
-| Predicted New Indication | Simian Immunodeficiency Virus (SIV) infection |
+| Original Indication | HIV-1 infection, in combination with cabotegravir injection (Rekambys) in virologically suppressed adults and adolescents, or with other antiretrovirals (Edurant) in adults and children |
+| Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 (preclinical/mechanism studies only) |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the DrugBank record for this drug, but clinical trial documentation confirms Rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and is approved for HIV-1 infection, frequently as part of a two-drug long-acting injectable regimen with cabotegravir.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV-1 infection is established.
 
-SIV is the macaque-infecting relative of HIV, and researchers commonly use SIV or chimeric RT-SHIV (SHIV engineered to carry the HIV-1 reverse transcriptase gene specifically so that HIV drugs remain active) as an animal model to study HIV treatment, prevention, and remission strategies. Because Rilpivirine's target enzyme is homologous between the two viruses, it retains antiviral activity in these models — which is almost certainly why the TxGNN knowledge graph links Rilpivirine to SIV infection with such a high score.
+Simian immunodeficiency virus (SIV) and the chimeric virus RT-SHIV, which carries HIV-1 reverse transcriptase, are the standard macaque models of HIV. Activity against SIV is therefore mechanistically plausible. The macaque studies in the literature test long-acting rilpivirine, usually with cabotegravir, for prevention, post-exposure prophylaxis and remission.
 
-However, this connection reflects **research tool use in an animal model**, not a bona fide new clinical indication: SIV infection is not a disease that occurs or is treated in humans, and none of the supporting literature describes SIV as a target condition for drug approval. This is an important distinction from the drug's approved human indication (HIV-1 infection) and should not be read as evidence of a repurposing opportunity in the conventional sense.
+This prediction is essentially a preclinical model of the already approved HIV indication, not a new human disease. Its value is in supporting research, not in opening a new patient population.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | Preclinical (macaque) | Nature Communications | Long-acting cabotegravir/rilpivirine plus immune adjunct tested for SHIV remission in early-treated macaques |
-| [41370971](https://pubmed.ncbi.nlm.nih.gov/41370971/) | 2026 | Preclinical (macaque) | EBioMedicine | Single-injection long-acting cabotegravir/rilpivirine evaluated as HIV post-exposure prophylaxis in a macaque model |
-| [26438501](https://pubmed.ncbi.nlm.nih.gov/26438501/) | 2015 | Preclinical (macaque) | Antimicrobial Agents and Chemotherapy | Low frequency of drug-resistant variants selected by long-acting rilpivirine in RT-SHIV-infected macaques used for PrEP studies |
-| [29746267](https://pubmed.ncbi.nlm.nih.gov/29746267/) | 2018 | Review | Current Opinion in HIV and AIDS | Review of cabotegravir (rilpivirine's regimen partner) for antiretroviral therapy and PrEP; mechanistic background only |
+| [26438501](https://pubmed.ncbi.nlm.nih.gov/26438501/) | 2015 | Preclinical (macaque) | Antimicrob Agents Chemother | Long-acting rilpivirine in macaques infected with SIV containing HIV-1 RT; examined the low frequency of drug-resistant variants selected |
+| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | Preclinical (macaque) | Nat Commun | RT-SHIV-infected macaques treated with oral emtricitabine/tenofovir alafenamide plus long-acting cabotegravir/rilpivirine; remission with early treatment |
+| [41370971](https://pubmed.ncbi.nlm.nih.gov/41370971/) | 2026 | Preclinical (macaque) | EBioMedicine | A single injection of long-acting cabotegravir plus rilpivirine evaluated as post-exposure prophylaxis |
+| [42040962](https://pubmed.ncbi.nlm.nih.gov/42040962/) | 2026 | Preclinical (macaque) | Research Square | Long-acting antiretroviral combinations in early-life SIV infection; the study focuses on lenacapavir with or without cabotegravir (no rilpivirine in the abstract) |
+| [29746267](https://pubmed.ncbi.nlm.nih.gov/29746267/) | 2018 | Review | Curr Opin HIV AIDS | Review of cabotegravir for antiretroviral therapy and pre-exposure prophylaxis |
 
 ## EU Market Information
 
-No marketing authorizations are recorded for Rilpivirine in the evidence pack (0 licenses; market status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005060 | Rekambys (cancelled) | Not specified | In combination with cabotegravir injection for HIV-1 infection in virologically suppressed adults and adolescents (at least 12 years, ≥35 kg)... |
+| EMEA/H/C/002264 | Edurant (cancelled) | Not specified | In combination with other antiretrovirals for HIV-1 infection in paediatric patients 2 to <18 years and adults without known NNRTI resistance... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease links in the TxGNN knowledge graph, not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, chronic hepatitis B virus infection, gallbladder disease, lactic acidosis, Fanconi renotubular syndrome, hypophosphatemia, osteomalacia, rickets, obesity disorder, monogenic obesity, pyoureter and obsolete pathologic fracture. Some of these (for example renal, bone and lactic acidosis signals) may reflect other antiretrovirals and should be verified against the label.
+- **Drug Interactions**: 100 interactions were found. Major interactions include the acid-reducing agents famotidine, ranitidine, cimetidine, omeprazole, esomeprazole, rabeprazole and dexlansoprazole, as well as dexamethasone, cisapride and dolasetron. Moderate interactions include loperamide, aprepitant, clarithromycin, clotrimazole, antacids (aluminum hydroxide, calcium carbonate, magnesium oxide) and several laxatives.
+
+Please refer to the SmPC for the official warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction is a macaque-only disease (SIV infection) used as an HIV research model, not an actual human clinical indication, and all supporting evidence is preclinical (no clinical trials, no RCTs). Combined with a Blocking data gap on regulatory safety warnings (TFDA labeling) and a High-severity gap on mechanism of action, there is insufficient basis to advance this candidate.
+The prediction score is high, but the evidence is entirely preclinical (macaque studies), with no registered clinical trials. SIV infection is an animal disease model of the approved HIV-1 indication, not a distinct human indication. Both EU authorizations are cancelled, and official safety label data are missing.
 
 **To proceed, the following is needed:**
-- TFDA/EMA SmPC warnings, contraindications, and DDI data (Blocking gap DG001)
-- Confirmed mechanism-of-action documentation from DrugBank (High gap DG002)
-- Re-evaluation of lower-ranked predictions with genuine human clinical relevance (e.g., rank 4 "congenital HIV" and rank 5 "AIDS related complex" have completed Phase 3 human trials, though both substantially overlap with the existing approved HIV-1 indication rather than representing a true new indication)
+- Clear definition of the intended use: a research model of HIV or a veterinary application
+- Mechanism of action data (MOA)
+- EMA SmPC warnings and contraindications, and a review of the knowledge-graph contraindication signals
+- Clarification of the current EU authorization status
+- Review of the higher-ranked and more clinically relevant predictions, such as congenital HIV (pregnancy use) and HIV/HCV co-infection, which have more human evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

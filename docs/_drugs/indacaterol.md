@@ -2,7 +2,7 @@
 layout: default
 title: Indacaterol
 parent: AI Predictions (L5)
-nav_order: 308
+nav_order: 319
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Indacaterol is a long-acting inhaled β2-adrenergic agonist (LABA), publicly known for its established use in chronic obstructive pulmonary disease (COPD) and asthma maintenance therapy. The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**, but this prediction is currently supported by **0 clinical trials** and **0 publications** — it is a model-score-only signal.
+Indacaterol is an ultra-long-acting inhaled beta2-agonist, originally authorized in the EU as a maintenance bronchodilator for adults with chronic obstructive pulmonary disease (COPD).
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but **no clinical trials and no publications** currently support this prediction.
 
 ---
 
@@ -41,41 +42,59 @@ Indacaterol is a long-acting inhaled β2-adrenergic agonist (LABA), publicly kno
 
 | Item | Content |
 |------|------|
-| Original Indication | COPD (chronic obstructive pulmonary disease) — *note: this Evidence Pack contains no Taiwan/EU marketing-authorization or original-indication data; this is based on the drug's publicly known profile, not pack data* |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis |
+| Original Indication | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | ✗ Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this candidate (flagged as a Blocking/High-severity data gap in the source pack). Based on known information, indacaterol is a long-acting β2-adrenergic receptor agonist, and its efficacy in COPD/asthma bronchodilation is well established; mechanistically, this activity does not have a documented pathway relevant to NSIAD.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Indacaterol is a long-acting beta2-adrenergic agonist. Its efficacy in COPD comes from relaxing airway smooth muscle through cAMP signalling.
 
-NSIAD is caused by a gain-of-function mutation in the vasopressin V2 receptor, leading to inappropriate water retention independent of vasopressin levels. There is no known pharmacological interaction between β2-adrenergic agonism and V2 receptor signaling. The evidence pack's own rationale is explicit on this point: this pairing has **no established mechanistic link**, no clinical trials, and no literature support — it reflects the TxGNN model's statistical prediction score alone.
-
-Given the absence of both mechanistic plausibility and empirical evidence, this specific drug–indication pair should be treated as a low-confidence, exploratory signal rather than a near-term repurposing candidate.
+The link to NSIAD is weak. A beta2-agonist could theoretically modulate renal water handling through cAMP and vasopressin V2 receptor signalling. However, NSIAD is caused by activating mutations of the V2 receptor (AVPR2), the primary defect. A beta2-agonist is therefore unlikely to correct it. The high score (0.995) probably reflects proximity in the knowledge graph rather than a verified causal mechanism, so the prediction should be treated as a hypothesis only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001211 | Hirobriz Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
+| EMEA/H/C/001114 | Onbrez Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
+| EMEA/H/C/001210 | Oslif Breezhaler | — | Maintenance bronchodilator treatment of airflow obstruction in adults with COPD (cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Knowledge-graph contraindication signals** (drug-disease contraindication links from the TxGNN knowledge graph, not label text): hypertension, long QT syndrome (including familial), sudden cardiac arrest, heart conduction disease, coronary artery disease, epilepsy, diabetes mellitus, hyperglycemia, diabetic ketoacidosis, potassium deficiency, and thyrotoxicosis/hyperthyroidism/Graves disease.
+- **Drug Interactions**: 100 interactions were identified. Those shown below are examples.
+  - **Moderate:**
+    - Antidiabetic agents (acarbose, metformin, pioglitazone, alogliptin, saxagliptin, albiglutide, canagliflozin, dapagliflozin, chlorpropamide)
+    - Epinephrine
+    - Isometheptene
+    - Famotidine
+    - Clarithromycin
+  - **Minor:** corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, beclomethasone, triamcinolone) and aprepitant.
+
+For warnings and contraindications from the product label, please refer to the SmPC.
 
 ---
 
@@ -84,15 +103,15 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-This candidate is supported only by a TxGNN model score (L5, no clinical or literature evidence), and the proposed mechanism has no known biological basis connecting β2-agonism to the V2-receptor-driven pathology of NSIAD.
+The prediction rests on a computational score alone. There are no trials or publications, and the proposed mechanism is implausible given that NSIAD is driven by a V2 receptor defect. All EU authorizations are also cancelled.
+
+Among the other top-10 predictions, only **bronchial disease** (rank 7) has substantive supporting evidence, mainly published asthma Phase 3 data on indacaterol-containing combinations. That is largely an extension of the approved COPD use rather than a novel repurposing. If pursued, it would need to be as a fixed-dose combination with an inhaled corticosteroid, because LABA monotherapy is contraindicated in asthma.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action (MOA) data for indacaterol (currently a Blocking data gap)
-- Preclinical or mechanistic studies exploring any indirect link between β2-adrenergic signaling and vasopressin V2 receptor activity
-- TFDA/EMA label warnings and contraindications (currently a Blocking data gap, required before any S1 safety review)
-- Ongoing monitoring for emerging clinical trial or case-report evidence
-
-*Note: within this same Evidence Pack, a separate predicted indication ("bronchial disease," rank 7) shows substantially stronger support — L1 evidence level with multiple completed Phase 3 trials and 20 publications — but reflects indacaterol's already-established core pharmacology (COPD/asthma) rather than a novel repurposing signal. This report follows the pack's designated top-ranked candidate (NSIAD) per the specified extraction rule.*
+- Mechanistic or preclinical evidence linking beta2-agonism to NSIAD pathophysiology
+- Mechanism of action data and warnings/contraindications from the SmPC
+- Verification of current regulatory and availability status, given that all EU authorizations are cancelled
+- A cardiovascular, metabolic and electrolyte (potassium) safety assessment for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

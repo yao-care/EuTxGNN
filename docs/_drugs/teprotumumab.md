@@ -2,7 +2,7 @@
 layout: default
 title: Teprotumumab
 parent: AI Predictions (L5)
-nav_order: 582
+nav_order: 603
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,65 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teprotumumab: From Undocumented Original Indication to Monosomy X
+# Teprotumumab: From Thyroid Eye Disease to Monosomy X
 
 ## One-Sentence Summary
 
-Teprotumumab's originally approved indication and mechanism of action are not documented in this Evidence Pack, and the drug currently has no marketing authorization in the EU.
-The TxGNN model predicts a possible association with **Monosomy X** (the karyotype underlying Turner syndrome),
-but this candidate is currently supported by **0 clinical trials** and **0 publications**, and its mechanistic rationale has not yet been assessed.
+Teprotumumab is an IGF-1R-inhibiting monoclonal antibody, originally used to treat moderate to severe thyroid eye disease (TED).
+The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome), but **no clinical trials and no publications** currently support this direction. The prediction rests on a network-based score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in evidence pack (drug not authorized in the EU) |
+| Original Indication | Treatment of moderate to severe thyroid eye disease (TED) |
 | Predicted New Indication | Monosomy X |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for Teprotumumab is not available in this Evidence Pack, and no original indication has been recorded. Based on general knowledge of the drug class, Teprotumumab is an IGF-1 receptor (IGF-1R) monoclonal antibody antagonist, but this Evidence Pack does not document a confirmed original indication or approved use, so no direct comparison between an "original indication" and "Monosomy X" can be made at this time.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, teprotumumab is an IGF-1R inhibitory monoclonal antibody. Its efficacy in thyroid eye disease relates to blocking IGF-1R signalling in orbital tissue.
 
-For the top-ranked prediction (Monosomy X), the mechanistic-link and similarity-to-original-indication fields in the Evidence Pack are explicitly marked as **pending** — meaning the biological rationale has not yet been reviewed or validated by the pipeline. This is notable because several other predictions for this same drug (esophageal varices, mitochondrial OXPHOS disorders, varicose disease) were reviewed and flagged with **Hold** recommendations, with reviewers noting only weak or indirect mechanistic links (e.g., IGF-1's general association with metabolic/hepatic pathways) and no evidence of a causal pharmacological pathway supporting repurposing. This pattern suggests the TxGNN signal for this drug may reflect knowledge-graph co-occurrence rather than a validated mechanism, and the Monosomy X prediction should be treated with similar caution until a dedicated mechanistic review is completed.
+For the predicted indication, the mechanistic logic is **weak and possibly counter-directional**. Turner syndrome (monosomy X) is characterised by short stature and gonadal dysgenesis. Its management typically supports growth hormone and IGF-1 signalling, whereas teprotumumab blocks IGF-1R. The high TxGNN score (0.998) is a network-based association only. It most likely reflects the cluster of related X-chromosome disorders in the knowledge graph rather than independent evidence.
 
-It is also worth noting that several of the top 10 predictions for this drug (ranks 1, 4, 6, 7, 8, 10) cluster around sex-chromosome disorders and Turner-syndrome-related karyotypes (monosomy X, mosaic monosomy X, Turner syndrome due to structural X anomalies, mixed gonadal dysgenesis, sex chromosome disorder of sex development). This clustering may indicate a shared knowledge-graph neighborhood (e.g., growth-related or endocrine nodes) rather than independent, mechanism-driven signals for each condition — a pattern that warrants scrutiny before any of these candidates advance.
+The other top predictions show the same pattern. These include Turner syndrome subtypes, mosaic monosomy X, mixed gonadal dysgenesis, sex chromosome disorders, esophageal varices (with and without bleeding), varicose disease and a mitochondrial oxidative phosphorylation disorder. None has a clearly identified mechanistic link, and none has trials or literature behind it.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-Teprotumumab currently has no EU marketing authorization (market status: **not marketed**, 0 authorizations on file). No dosage forms, brand names, or approved indication text are available for the EU market.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006396 (status: cancelled) | Tepezza | Not specified | Treatment of moderate to severe thyroid eye disease (TED). |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 45 interactions were identified in total, all of the examined entries rated Moderate. They are mainly with glucose-lowering drugs, which fits the known risk of hyperglycaemia with this drug class. Examples include:
+  - Metformin, pioglitazone, glimepiride, glipizide, glyburide
+  - Insulin human
+  - Canagliflozin, dapagliflozin, empagliflozin
+  - Semaglutide, dulaglutide, exenatide
+  - Saxagliptin, linagliptin, alogliptin
+- **Other considerations**: Hearing impairment and hyperglycaemia are noted as adverse effects of concern for an intravenous biologic. This weighs against use in chronic, non-lethal conditions.
 
-> Note: This Evidence Pack flags the absence of TFDA/label warnings and contraindications as a **Blocking** data gap (DG001), meaning a formal safety pre-screen (S1) cannot be completed until this information is obtained.
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked predicted indication (Monosomy X) has zero supporting clinical trials or literature, and its mechanistic rationale is explicitly unassessed ("pending") in the Evidence Pack. Combined with the absence of the drug's original indication, mechanism of action, and any EU marketing authorization, there is currently insufficient basis to advance this candidate beyond an AI-prediction-only stage.
+The prediction is supported only by a network score, with no trials or publications. IGF-1R blockade runs counter to the growth-promoting approach used in Turner syndrome. The only EU authorization is cancelled, so no currently valid label is available for reference.
 
 **To proceed, the following is needed:**
-- Confirm Teprotumumab's original approved indication and mechanism of action (query DrugBank API, per DG002)
-- Obtain TFDA/SmPC warnings and contraindications to complete the S1 safety pre-screen (per DG001, Blocking)
-- Complete mechanistic-link and similarity-to-original-indication review for the Monosomy X prediction (currently marked "pending")
-- Conduct a targeted literature/clinical-trial search for IGF-1R pathway involvement in Turner syndrome or monosomy X-related growth/endocrine phenotypes
-- Clarify EU regulatory status and any prior submission history, given the current "not marketed" designation
+- Mechanism of action data to allow a proper mechanistic-link analysis
+- The EU product information (warnings and contraindications) for safety screening
+- Preclinical or mechanistic evidence that IGF-1R inhibition could benefit, and not harm, patients with Turner syndrome
+- A literature and trial search specific to the predicted indication
+- Clarification of the reason for the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Guanfacine
-parent: High Evidence (L1-L2)
-nav_order: 287
-evidence_level: L1
+parent: AI Predictions (L5)
+nav_order: 297
+evidence_level: L5
 indication_count: 10
 ---
 
 # Guanfacine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Guanfacine: From Hypertension to Tourette Syndrome
+# Guanfacine: From ADHD to Tourette Syndrome
 
 ## One-Sentence Summary
 
-Guanfacine is an alpha‑2A adrenergic agonist originally used to treat **hypertension**, and has since been repurposed elsewhere for ADHD. The TxGNN model predicts it may also be effective for **Tourette Syndrome**, a hypothesis already supported by **3 clinical trials** (including a completed Phase III RCT designed specifically to test guanfacine in Tourette syndrome/ADHD) and **20 publications**, several of which study guanfacine directly in tic disorders.
-
-> ⚠️ Note on sourcing: This Evidence Pack contains no DrugBank MOA record and no EU/Taiwan license data for Guanfacine (`original_moa`, `original_indications`, and `licenses` are all empty). The "Hypertension" original indication above is drawn from a literature citation within this pack (PMID 30707118: *"Guanfacine is Food and Drug Administration approved for hypertension and attention-deficit hyperactivity disorder..."*), not from a confirmed regulatory source. This should be verified against an official label before use.
+Guanfacine is an alpha-2A adrenergic agonist, originally authorised in the EU for attention deficit hyperactivity disorder (ADHD) in children and adolescents aged 6–17.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, with **2 clinical trials** (one completed Phase 3 and one completed Phase 4) and **about 20 publications** currently supporting this direction.
 
 ---
 
@@ -43,23 +42,25 @@ Guanfacine is an alpha‑2A adrenergic agonist originally used to treat **hypert
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension *(per literature citation, not confirmed via EU/Taiwan regulatory license data — see note above)* |
-| Predicted New Indication | Tourette Syndrome |
+| Original Indication | ADHD in children and adolescents aged 6–17 for whom stimulants are not suitable, not tolerated or ineffective |
+| Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.27% |
-| Evidence Level | L1 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L2 (see note below) |
+| EU Market Status | ✗ Cancelled only (no currently valid authorisations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Proceed with Guardrails |
+
+*Note on evidence level:* Only one completed Phase 3 randomised trial is registered, and it is small (n=35). Under the stated rules, L1 requires at least two completed Phase 3 RCTs, so the level is L2 rather than L1.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed DrugBank mechanism-of-action data is currently unavailable for Guanfacine (flagged as a High-severity data gap in this Evidence Pack). Based on information recovered from the associated literature evidence, however, Guanfacine is consistently described as a selective **alpha‑2A adrenergic receptor agonist**. Several guanfacine-specific studies in this pack (e.g. PMID 7559307, PMID 12469007) describe its action on central noradrenergic signalling, particularly in the prefrontal cortex (PFC).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, guanfacine is a selective alpha-2A adrenergic agonist. It is thought to strengthen prefrontal cortical network function and to reduce noradrenergic drive.
 
-The repurposing rationale for Tourette syndrome centers on this same PFC mechanism: alpha‑2A agonism is believed to strengthen prefrontal inhibitory control circuits and dampen excessive cortico-striato-thalamic activity — the circuit implicated in the generation of motor and vocal tics. This is mechanistically continuous with guanfacine's already-established (though off-label in many markets) use for ADHD and tic-spectrum conditions, and is consistent with real-world clinical practice, where guanfacine is already widely used adjunctively for tic disorders.
+ADHD and Tourette syndrome are both neurodevelopmental disorders that often occur together; roughly half of children with Tourette syndrome also have ADHD. Prefrontal regulation of cortico-striato-thalamo-cortical circuits is thought to be involved in tic control. Alpha-2 agonists such as guanfacine and clonidine are discussed as first-line options in European tic guidelines, particularly when ADHD is also present. They are also attractive because, unlike stimulants, they do not typically worsen tics.
 
-Tourette syndrome and ADHD are also highly comorbid conditions with overlapping neurobiology, which is reflected in the evidence base: many of the clinical trials and publications in this pack (e.g. NCT00004376, PMID 7559307, PMID 23473832) study guanfacine in mixed ADHD + Tourette syndrome populations rather than Tourette syndrome in isolation. This convergence of an established pharmacological rationale, existing off-label clinical use, and a dedicated completed Phase III trial is why the TxGNN prediction for Tourette syndrome is considered mechanistically reasonable rather than a purely model-driven association.
+An important caveat is that the available trials are small and systematic reviews rate the overall quality of evidence as limited.
 
 ---
 
@@ -67,9 +68,8 @@ Tourette syndrome and ADHD are also highly comorbid conditions with overlapping 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00004376](https://clinicaltrials.gov/study/NCT00004376) | Phase 3 | Completed | 35 | Randomized, double-blind, placebo-controlled evaluation of guanfacine's safety and efficacy in children/adolescents with Tourette syndrome or another chronic tic disorder, with or without comorbid ADHD. |
-| [NCT01547000](https://clinicaltrials.gov/study/NCT01547000) | Phase 4 | Completed | 34 | Multi-site pilot study of tolerability and efficacy of extended-release guanfacine (Intuniv) in children with Tourette Disorder. |
-| [NCT01172288](https://clinicaltrials.gov/study/NCT01172288) | Phase 2 | Completed | 31 | Trial of N-acetylcysteine (not guanfacine) for pediatric tic disorders; guanfacine is referenced only as an existing comparator therapy — indirect relevance only (Grade C). |
+| [NCT00004376](https://clinicaltrials.gov/study/NCT00004376) | Phase 3 | Completed | 35 | Randomised, double-blind, placebo-controlled study of guanfacine in children and adolescents with Tourette syndrome or chronic tic disorder and ADHD; evaluates safety and efficacy |
+| [NCT01547000](https://clinicaltrials.gov/study/NCT01547000) | Phase 4 | Completed | 34 | Multi-site pilot of extended-release guanfacine (Intuniv) in children with Tourette disorder; assesses tolerability and preliminary efficacy |
 
 ---
 
@@ -77,34 +77,35 @@ Tourette syndrome and ADHD are also highly comorbid conditions with overlapping 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12469007](https://pubmed.ncbi.nlm.nih.gov/12469007/) | 2002 | RCT | Clinical Neuropharmacology | 4-week double-blind, placebo-controlled trial of guanfacine in 24 children with Tourette syndrome; improved tic severity and select neuropsychological measures. |
-| [7559307](https://pubmed.ncbi.nlm.nih.gov/7559307/) | 1995 | Clinical Experience | J Am Acad Child Adolesc Psychiatry | Early open-label experience showing guanfacine improved comorbid ADHD symptoms in Tourette syndrome without worsening tics. |
-| [34757514](https://pubmed.ncbi.nlm.nih.gov/34757514/) | 2022 | Review/Guideline | Eur Child Adolesc Psychiatry | ESSTS European clinical guidelines v2.0 for Tourette syndrome pharmacological treatment; includes alpha-2 agonists such as guanfacine. |
-| [31061209](https://pubmed.ncbi.nlm.nih.gov/31061209/) | 2019 | Systematic Review | Neurology | AAN systematic review of tic-disorder treatments, evaluating efficacy and risk of available pharmacotherapies. |
-| [40489853](https://pubmed.ncbi.nlm.nih.gov/40489853/) | 2025 | Narrative Review | Medicine | Review of Phase III/IV pharmacological trials for Tourette syndrome across age groups. |
-| [34286606](https://pubmed.ncbi.nlm.nih.gov/34286606/) | 2021 | Systematic Review | J Psychopharmacol | Assessment of evidence quality for pharmacological treatments of Tourette syndrome. |
-| [23473832](https://pubmed.ncbi.nlm.nih.gov/23473832/) | 2013 | Review | Eur J Paediatr Neurol | Review of current pharmacological options for Tourette syndrome with comorbid ADHD. |
-| [37378108](https://pubmed.ncbi.nlm.nih.gov/37378108/) | 2023 | Case Series | Cureus | Combination of guanfacine and aripiprazole produced significant tic improvement in 3 Tourette syndrome patients. |
-| [30899317](https://pubmed.ncbi.nlm.nih.gov/30899317/) | 2019 | Case Report | Ann Gen Psychiatry | Guanfacine monotherapy effective for ADHD/ASD comorbid with Tourette syndrome. |
-| [16229000](https://pubmed.ncbi.nlm.nih.gov/16229000/) | 2006 | Case Series (Safety) | Movement Disorders | Reports syncope in 4 children with Tourette syndrome treated with guanfacine, attributed to drug-induced hypotension/bradycardia. |
+| [34757514](https://pubmed.ncbi.nlm.nih.gov/34757514/) | 2022 | Clinical guideline | Eur Child Adolesc Psychiatry | European guidelines (v2.0) on pharmacological treatment of Tourette syndrome and tic disorders |
+| [27132945](https://pubmed.ncbi.nlm.nih.gov/27132945/) | 2016 | Systematic review | J Child Psychol Psychiatry | Systematic review of treatments for Tourette syndrome in children and young people |
+| [34286606](https://pubmed.ncbi.nlm.nih.gov/34286606/) | 2021 | Systematic review | J Psychopharmacol | Assesses the quality of evidence for pharmacological treatment of Tourette syndrome |
+| [31061209](https://pubmed.ncbi.nlm.nih.gov/31061209/) | 2019 | Systematic review | Neurology | Comprehensive review of the efficacy and risks of tic treatments |
+| [12469007](https://pubmed.ncbi.nlm.nih.gov/12469007/) | 2002 | Double-blind placebo-controlled pilot | Clin Neuropharmacol | 4-week study of guanfacine in 24 children with mild Tourette syndrome |
+| [19625978](https://pubmed.ncbi.nlm.nih.gov/19625978/) | 2009 | Meta-analysis | J Am Acad Child Adolesc Psychiatry | Compares treatments for ADHD in children with comorbid tic disorders |
+| [7559307](https://pubmed.ncbi.nlm.nih.gov/7559307/) | 1995 | Clinical experience | J Am Acad Child Adolesc Psychiatry | Preliminary experience with guanfacine in comorbid ADHD and Tourette syndrome |
+| [23473832](https://pubmed.ncbi.nlm.nih.gov/23473832/) | 2013 | Review | Eur J Paediatr Neurol | Pharmacological options for Tourette syndrome with comorbid ADHD |
+| [37378108](https://pubmed.ncbi.nlm.nih.gov/37378108/) | 2023 | Case series | Cureus | Three patients improved on guanfacine plus aripiprazole |
+| [16229000](https://pubmed.ncbi.nlm.nih.gov/16229000/) | 2006 | Case report | Mov Disord | Four children with Tourette syndrome had syncope on guanfacine, likely from hypotension or bradycardia (safety signal) |
 
 ---
 
 ## EU Market Information
 
-Guanfacine currently has **no European Union marketing authorization** on record in this Evidence Pack (`market_status`: Not Marketed; `total_licenses`: 0). No product-level authorization data is available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003759 | Intuniv (cancelled) | Not specified | ADHD in children and adolescents 6–17 years old for whom stimulants are not suitable, not tolerated or have been shown to be ineffective... |
+| EMEA/H/C/006312 | Paxneury (cancelled) | Not specified | ADHD in children and adolescents 6–17 years old for whom stimulants are not suitable, not tolerated or have been shown to be ineffective... |
 
 ---
 
 ## Safety Considerations
 
-Formal safety data (key warnings, contraindications, and structured DDI records) is not available in this Evidence Pack, and a DDI query returned no results. **Please refer to the SmPC for safety information** once a marketing authorization or product label becomes available.
+- **Contraindications suggested by the knowledge graph (not label text):** orthostatic hypotension, hypotensive disorder, atrioventricular block and heart block, myocardial infarction, coronary artery disease, cerebrovascular disorder, chronic kidney disease and end-stage renal failure, liver disease, and constipation, among others. These come from knowledge-graph relationships and must be verified against the product label.
+- **Drug Interactions:** 100 interactions were identified. Major-level interactions include **aprepitant, dexamethasone and clarithromycin**. Moderate-level interactions include corticosteroids (hydrocortisone, prednisone, prednisolone, betamethasone, budesonide, triamcinolone), metformin, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), cimetidine and miconazole.
+- **Literature-based safety signals:** syncope in children with Tourette syndrome (PMID 16229000), and case reports of manic reactions in children (PMIDs 10467976, 27228067).
 
-That said, several safety signals specific to guanfacine emerge from the literature evidence collected for this candidate and are worth flagging for a future formal safety review:
-- **Cardiovascular effects**: Syncope has been reported in children with Tourette syndrome treated with guanfacine, attributed to drug-induced hypotension or bradycardia (PMID 16229000).
-- **Overdose/combination risk**: A case of sinus pause has been reported when guanfacine was combined with olanzapine in overdose (PMID 31447925), suggesting caution with co-administered CNS/cardiac-active agents.
-
-This candidate also carries a **Blocking**-severity data gap (official TFDA/EU label warnings and contraindications not yet retrieved), which currently prevents this candidate from completing a formal S1 safety review.
+Please refer to the SmPC for the full warnings and precautions.
 
 ---
 
@@ -113,16 +114,15 @@ This candidate also carries a **Blocking**-severity data gap (official TFDA/EU l
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Guanfacine's repurposing for Tourette syndrome is supported by a completed Phase III RCT specifically testing the drug in this population, a confirmatory completed Phase IV pilot study, and an unusually deep literature base (including guanfacine-specific RCT and case evidence, plus European clinical guidelines recommending alpha-2 agonists for tic disorders). This is a mechanistically coherent extension of guanfacine's known noradrenergic activity and its established off-label use in tic-spectrum disorders. However, the absence of official label safety data and the lack of any current EU marketing authorization mean this candidate cannot yet proceed past guarded evaluation.
+Tourette syndrome is the only predicted indication with completed controlled trials (a Phase 3 placebo-controlled trial and a Phase 4 study) and supportive guideline-level literature. However, both trials are small and the overall evidence quality is limited. The EU authorisations for guanfacine are currently all cancelled, which complicates any near-term EU development.
 
 **To proceed, the following is needed:**
-- Official SmPC/product label data (warnings, contraindications) — currently a Blocking data gap
-- Confirmed DrugBank mechanism-of-action documentation — currently a High-severity data gap
-- A defined EU regulatory pathway, since Guanfacine has no current EU marketing authorization
-- A structured formal DDI review (current query returned no results)
-- Additional confirmatory RCT data, as the only completed Phase III trial (NCT00004376, n=35) is over two decades old
-
-**For context:** TxGNN's top-ranked prediction for Guanfacine by raw score is *faciodigitogenital syndrome*, and other high-scoring predictions include *chondromyxoid fibroma*, *variably protease-sensitive prionopathy*, and *migraine with brainstem aura* — all classified L5/Hold, with no identifiable mechanistic link or supporting evidence. A second well-evidenced candidate, *specific developmental disorder* (ADHD-spectrum, also L1/Proceed with Guardrails), largely overlaps with Guanfacine's known existing ADHD use rather than representing a genuinely new indication, which is why Tourette syndrome was selected as the primary focus of this report.
+- Retrieval of the SmPC warnings and contraindications, which are currently missing
+- Mechanism of action data from DrugBank to support the mechanistic-link analysis
+- A larger adequately powered RCT in Tourette syndrome, since the existing trials have 35 and 34 participants
+- Clarification of EU regulatory status, given that both licences are cancelled
+- A safety monitoring plan covering blood pressure, heart rate, sedation, syncope and mood symptoms, and avoiding abrupt discontinuation
+- Review of the major drug interactions (aprepitant, dexamethasone, clarithromycin) in the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

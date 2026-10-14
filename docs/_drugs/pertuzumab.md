@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pertuzumab
-parent: Medium Evidence (L3-L4)
-nav_order: 468
-evidence_level: L4
+parent: High Evidence (L1-L2)
+nav_order: 483
+evidence_level: L1
 indication_count: 10
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,90 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct content-generation task with an already fully specified template; I'll follow it exactly against the supplied Evidence Pack.
-
-A few data-fidelity notes before the report: `predicted_indications[0]` is **"normal breast-like subtype of breast carcinoma"**, which per the pack's own `repurposing_rationale` is flagged as a likely TxGNN over-generalization artifact (L4/Hold), not the strongest candidate in the pack (ranks 2–3 have L1/Proceed-with-Guardrails evidence, but those are PR-status stratifications of Pertuzumab's *existing* approved indication, not a new indication). I've followed the instruction to build the report around `predicted_indications[0]` as specified, and flagged this context where relevant so the report isn't misleading.
-
----
-
-# Pertuzumab: From HER2-Positive Breast Cancer to Normal Breast-Like Subtype of Breast Carcinoma
+# Pertuzumab: From HER2-Positive Breast Cancer to Progesterone-Receptor Positive Breast Cancer
 
 ## One-Sentence Summary
 
-> Pertuzumab is a HER2-targeted monoclonal antibody whose approved use is referenced throughout the evidence pack as HER2-positive breast cancer (structured indication/MOA fields are a data gap in this pack).
-> The TxGNN model's top-ranked prediction is **normal breast-like (PAM50 "normal-like") subtype of breast carcinoma**,
-> but **0 of the 6 identified clinical trials specifically enrolled this subtype**, and **no supporting literature** was found — the biological rationale is weak and possibly contradictory to the drug's mechanism.
+Pertuzumab is an anti-HER2 antibody, originally used for HER2-positive metastatic and early breast cancer (in combination with trastuzumab and chemotherapy).
+The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, with **1 completed Phase 3 trial** and **20 publications** currently supporting this direction.
+This is best understood as a subpopulation of the already approved HER2-positive indication rather than a truly new disease, and efficacy depends on HER2 status, not progesterone receptor (PR) status.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive breast cancer (inferred from evidence annotations; structured license/indication data is a data gap) |
-| Predicted New Indication | Normal breast-like subtype of breast carcinoma |
+| Original Indication | HER2-positive metastatic or locally recurrent unresectable breast cancer (with trastuzumab and docetaxel); neoadjuvant treatment of HER2-positive, locally advanced, inflammatory, or early-stage breast cancer at high risk of recurrence |
+| Predicted New Indication | Progesterone-receptor positive breast cancer |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
+| Evidence Level | L1 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap in this pack). Based on the available context, Pertuzumab is a HER2-targeted monoclonal antibody used in HER2-positive breast cancer, where it blocks HER2 domain II-mediated heterodimerization (notably with HER3), complementing trastuzumab's mechanism.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pertuzumab binds HER2 and blocks its heterodimerization with partners such as HER3 and EGFR. It is additive with trastuzumab, and its efficacy in HER2-positive breast cancer is established.
 
-The predicted indication, however, raises a biological concern: PAM50 "normal-like" breast carcinoma is a subtype typically characterized as **low-proliferation and HER2-negative leaning**, which sits awkwardly against an anti-HER2 mechanism of action. This mismatch is explicitly noted in the pack's own scoring rationale.
+HER2-positive tumors that also express PR (HR+/HER2+) are covered by this mechanism. Crosstalk between HER2 and hormone receptor signaling supports combining anti-HER2 therapy with endocrine therapy, as tested in the WSG-TP-II trial. The prediction is therefore reasonable only for the HER2-positive subset of PR-positive disease. Most PR-positive breast cancers are HER2-negative, and for them there is no clear mechanistic rationale.
 
-Consistent with this concern, all six identified clinical trials are general HER2-positive neoadjuvant treatment studies (T-DXd trials, vaccine combinations, precision-medicine platforms) — none specifically enrolled or stratified for the "normal-like" molecular subtype. The most plausible explanation is that TxGNN's knowledge-graph embedding over-generalized "breast cancer" trial evidence across molecular subtypes that are not mechanistically interchangeable. This prediction should be treated as **hypothesis-generating only**, not as an actionable repurposing signal.
+The related predictions for "progesterone-receptor negative breast cancer" (HER2-positive, hormone receptor-negative tumors, supported by one Phase 3 and one Phase 2 trial) follow the same logic: the benefit depends on HER2 positivity, not on receptor status.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05900206](https://clinicaltrials.gov/study/NCT05900206) | Phase 2 | Recruiting | 370 | Trastuzumab deruxtecan (T-DXd) vs. standard preoperative treatment in HER2+ breast cancer; biology-driven neoadjuvant selection (ARIADNE) — general HER2+ trial, no normal-like subtype stratification |
-| [NCT01796197](https://clinicaltrials.gov/study/NCT01796197) | Phase 2 | Completed | 23 | Paclitaxel + trastuzumab + pertuzumab as preoperative therapy for inflammatory breast cancer; small sample, general HER2+ population |
-| [NCT04329065](https://clinicaltrials.gov/study/NCT04329065) | Phase 2 | Recruiting | 25 | WOKVAC vaccine combined with neoadjuvant chemotherapy and HER2-targeted therapy; non-subtype-specific |
-| [NCT05582499](https://clinicaltrials.gov/study/NCT05582499) | Phase 2 | Recruiting | 716 | Precision neoadjuvant treatment platform for operable breast cancer; no evidence of subtype-specific stratification |
-| [NCT04750122](https://clinicaltrials.gov/study/NCT04750122) | Phase 1/2 | Recruiting | 46 | Drug-screening (patient-derived tumor-like cell clusters)-guided neoadjuvant therapy for HER2+ early breast cancer |
-| [NCT06348134](https://clinicaltrials.gov/study/NCT06348134) | Phase 2 | Recruiting | 74 | Optimal neoadjuvant-to-adjuvant anti-HER2 therapy in Nigerian women with HER2+ breast cancer |
-
-**Note:** All six trials were graded "C" relevance (indirect) — none specifically enrolled or reported outcomes for the PAM50 normal-like subtype.
+| [NCT04629846](https://clinicaltrials.gov/study/NCT04629846) | Phase 3 | Completed | 517 | Randomized, double-blind equivalence trial of the pertuzumab biosimilar QL1209 vs reference pertuzumab, each with trastuzumab and docetaxel, in early or locally advanced HER2-positive, ER/PR-negative breast cancer. It is a biosimilar comparison, not direct evidence for PR-positive disease. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27179402](https://pubmed.ncbi.nlm.nih.gov/27179402/) | 2016 | RCT (Phase 2) | Lancet Oncol | NeoSphere 5-year analysis: neoadjuvant pertuzumab + trastuzumab + docetaxel in HER2-positive breast cancer, reporting progression-free survival, disease-free survival and safety |
+| [28945833](https://pubmed.ncbi.nlm.nih.gov/28945833/) | 2017 | RCT (Phase 2) | Ann Oncol | WSG-ADAPT HER2+/HR-: 12 weeks of neoadjuvant trastuzumab + pertuzumab with or without weekly paclitaxel |
+| [38906970](https://pubmed.ncbi.nlm.nih.gov/38906970/) | 2024 | RCT (Phase 3) | Br J Cancer | QL1209 pertuzumab biosimilar equivalence trial in neoadjuvant HER2-positive, ER/PR-negative breast cancer |
+| [42150145](https://pubmed.ncbi.nlm.nih.gov/42150145/) | 2026 | RCT | J Clin Oncol | WSG TP-II survival analysis: neoadjuvant trastuzumab + pertuzumab + endocrine therapy vs chemotherapy in HR+/HER2+ early breast cancer |
+| [37166817](https://pubmed.ncbi.nlm.nih.gov/37166817/) | 2023 | RCT | JAMA Oncol | WSG-TP-II: endocrine therapy plus dual HER2 blockade vs de-escalated chemotherapy in HR+/HER2+ early breast cancer |
+| [41401771](https://pubmed.ncbi.nlm.nih.gov/41401771/) | 2026 | Phase 3 RCT | ESMO Open | TQB2440 pertuzumab biosimilar equivalence trial in HER2-positive, ER/PgR-negative early or locally advanced breast cancer |
+| [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Guideline | J Clin Oncol | ASCO guideline update on systemic therapy for advanced HER2-positive breast cancer |
+| [27057657](https://pubmed.ncbi.nlm.nih.gov/27057657/) | 2016 | Review | Cancer Treat Rev | Review of HR+/HER2+ breast cancer, including cross-talk between HER2 and hormone receptor pathways |
+| [26321480](https://pubmed.ncbi.nlm.nih.gov/26321480/) | 2015 | Review | Breast | Biology of luminal HER2 vs HER2-enriched subtypes and therapeutic implications |
+| [40983817](https://pubmed.ncbi.nlm.nih.gov/40983817/) | 2025 | Review | Breast Cancer | Signaling pathway interactions and clinical translation in HR+/HER2+ breast cancer |
 
 ## EU Market Information
 
-Pertuzumab is currently **not marketed** under this evidence pack (0 authorizations on record; no license entries available).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002547 (cancelled) | Perjeta | Not specified | Metastatic breast cancer: in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent... |
 
 ## Cytotoxicity
 
-Pertuzumab is a monoclonal antibody targeted therapy used in an oncology context (HER2-positive breast cancer), so this section is included.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (HER2-targeted monoclonal antibody; not a conventional cytotoxic agent) |
+| Cytotoxicity Classification | Targeted therapy (anti-HER2 monoclonal antibody); it is not a conventional cytotoxic agent, but is given with cytotoxic chemotherapy such as docetaxel |
 | Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions. Cardiac function monitoring is commonly performed with anti-HER2 combinations, as in the cardiac safety studies TRYPHAENA and BERENICE. |
 | Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: Idelalisib (moderate interaction, DDInter). The pharmacology data also confirm that pertuzumab targets the HER2 receptor (ERBB2).
+
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The top-ranked prediction (normal breast-like subtype) has weak, indirect evidence — no trial or publication specifically supports Pertuzumab's use in this subtype, and the mechanistic link is biologically questionable given the subtype's typical HER2-negative leaning. This is best treated as a data-quality/over-generalization artifact of the TxGNN model rather than a genuine repurposing signal.
+A completed Phase 3 trial and multiple randomized studies, including NeoSphere, WSG-TP-II and PERTAIN, support pertuzumab-based therapy in HER2-positive disease, including the PR-positive subset. However, this is not a true repurposing case: it falls within the approved HER2-positive indication, and the only Phase 3 trial is a biosimilar equivalence study in ER/PR-negative patients. Use should be restricted to confirmed HER2-positive disease.
 
 **To proceed, the following is needed:**
-- Confirmed HER2 amplification/overexpression status specifically within PAM50 "normal-like" tumors, to establish a valid biological rationale
-- Core drug-level data gaps must be closed first: original indication/MOA (DG002) and TFDA/EMA label warnings and contraindications (DG001, Blocking)
-- If a repurposing signal is still desired, ranks 2–3 in this pack ("progesterone-receptor positive/negative breast cancer") have substantially stronger evidence (L1, multiple completed Phase 3 RCTs) — but note these represent PR-status stratification within Pertuzumab's **existing** HER2-positive breast cancer indication, not a novel indication, and should be labeled accordingly rather than presented as new repurposing candidates
+- Confirmation of HER2-positive status as a mandatory eligibility criterion; PR status alone does not indicate benefit
+- Mechanism of action data and package insert warnings and contraindications (currently missing, and the missing safety data is a blocking gap for safety screening)
+- Clarification of EU regulatory status, since the only EU authorization on record is cancelled
+- Cardiac safety monitoring plan for dual HER2 blockade combined with chemotherapy
+- Review of the other predictions: "normal breast-like subtype," "luminal A or B," and the non-breast tumors lack supporting trials or a clear HER2-based rationale, and should remain on Hold or be treated as research questions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

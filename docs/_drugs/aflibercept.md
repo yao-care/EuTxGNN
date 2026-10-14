@@ -29,78 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aflibercept: From Neovascular Ocular Disease to Esotropia
+# Aflibercept: From Neovascular Age-Related Macular Degeneration to Esotropia
 
 ## One-Sentence Summary
 
-Aflibercept is a recombinant VEGF Trap biologic, internationally approved for neovascular ocular conditions (wet AMD, diabetic macular edema) and metastatic colorectal cancer, but currently not marketed in Taiwan.
-The TxGNN model predicts it may be effective for **Esotropia** (inward eye deviation),
-however with **0 clinical trials** and **0 publications** directly supporting this direction, this remains an AI-only prediction.
-
----
+Aflibercept is a VEGF trap, originally used to treat retinal diseases such as wet age-related macular degeneration (AMD), and (in its systemic form) metastatic colorectal cancer.
+The TxGNN model predicts it may be effective for **esotropia**, but this prediction rests on the model alone: **no clinical trials** and **no publications** currently support it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; internationally approved for wet AMD, DME, and mCRC |
+|------|------|
+| Original Indication | Neovascular (wet) age-related macular degeneration (AMD), plus macular oedema secondary to retinal vein occlusion, diabetic macular oedema and myopic choroidal neovascularisation |
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 14 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacological information, Aflibercept (Eylea / Zaltrap) is a recombinant fusion protein consisting of the extracellular domains of VEGFR1 and VEGFR2 fused to the Fc region of human IgG1. It functions as a high-affinity "VEGF Trap," binding VEGF-A, VEGF-B, and placental growth factor (PlGF), thereby blocking angiogenesis driven by these ligands. This mechanism has been validated in wet AMD, diabetic macular edema, macular edema following retinal vein occlusion, and (as ziv-aflibercept) metastatic colorectal cancer.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, aflibercept is a decoy receptor ("trap") that binds VEGF-A, VEGF-B and placental growth factor (PlGF). Its efficacy has been shown in several retinal neovascular and oedematous diseases.
 
-Esotropia is a form of strabismus where one or both eyes deviate inward. Its primary etiology is neuromuscular — involving imbalance in extraocular muscle control, refractive error (accommodative esotropia), or cranial nerve palsy — none of which are VEGF-mediated processes. Standard treatments are surgical realignment, optical correction, and prism therapy. While VEGF has been implicated as a secondary factor in retinopathy of prematurity (ROP), which can cause cicatricial strabismus, this represents an indirect, limited connection rather than a direct therapeutic target.
+Esotropia is a disorder of ocular alignment (strabismus), mainly neuromuscular or refractive in origin. No established VEGF-driven mechanism is known for it. The very high score (0.994) most likely reflects the graph-based closeness of ocular diseases to the approved retinal indications, rather than a true biological link.
 
-The high TxGNN score (99.38%) most likely reflects Aflibercept's strong graph-network proximity to the ophthalmic disease domain in the knowledge graph, rather than a specific biologically plausible mechanism for esotropia. The mechanistic link, as assessed in the evidence pack's own rationale, is rated as extremely weak, with no direct VEGF-driven pathological pathway identified.
-
----
+Other predicted indications were also reviewed (esophageal varices, varicose disease, several rare tumours and others). Most have either a weak theoretical rationale or none, and none has supporting clinical or literature evidence. For esophageal varices and neonatal haemorrhagic disease, the bleeding risk of anti-VEGF therapy is an added concern.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Aflibercept in esotropia.
+Currently no related clinical trials registered for esotropia.
 
----
+For reference, one trial was linked to another predicted indication (hemorrhagic disease of newborn), but it does not support that indication:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02537054](https://clinicaltrials.gov/study/NCT02537054) | Phase 2 | Completed | 15 | Intravitreal aflibercept for choroidal neovascularization and fibrovascular proliferation in pseudoxanthoma elasticum. This is an ocular neovascular condition, not a match for the predicted disease. |
 
 ## Literature Evidence
 
-Currently no related literature available for Aflibercept in esotropia.
+Currently no related literature available.
 
----
+## EU Market Information
 
-## Taiwan Market Information
+All listed authorisations are cancelled. Dosage form was not recorded.
 
-Aflibercept is currently **not marketed in Taiwan**. No TFDA marketing authorizations are on record for this drug.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002392 | Eylea | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
+| EMEA/H/C/002532 | Zaltrap | Not specified | Treatment of metastatic colorectal cancer (MCRC). |
+| EMEA/H/C/006607 | Ahzantive | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
+| EMEA/H/C/006339 | Pavblu | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
+| EMEA/H/C/006056 | Opuviz | Not specified | Adult wet AMD, macular oedema secondary to RVO, diabetic macular oedema, myopic CNV |
 
-> Note: Internationally, Aflibercept is marketed as **Eylea** (ophthalmic, Bayer/Regeneron) for wet AMD and retinal conditions, and as **Zaltrap** (intravenous, Sanofi) for metastatic colorectal cancer. Taiwan-specific regulatory status should be confirmed directly with TFDA.
+Nine further biosimilar authorisations (Afiveg, Afqlir, Yesafili, Vgenfli, Eydenzelt, Mynzepli, Eyluxvi, Eiyzey, Baiama) carry the same retinal indications and are also cancelled.
 
----
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (anti-VEGF biologic), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Taiwan TFDA package insert data (warnings and contraindications) was not available at the time of this report generation. Please refer to the internationally approved SmPC / prescribing information for safety guidance.
+- **Drug Interactions**: A drug-interaction query returned 78 records. Major-level interactions include deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol, cladribine and clozapine. Moderate-level interactions include strontium chloride Sr-89, roflumilast, chloramphenicol, zidovudine, azathioprine, alemtuzumab, anakinra and canakinumab, as well as several vaccines. Many of these appear to relate to myelosuppression or immunosuppression, and their relevance to intravitreal use is unclear.
+- **Bleeding risk**: Systemic anti-VEGF agents carry a haemorrhage risk, which is a particular concern for the bleeding-related predictions.
 
----
+Warnings and contraindications from the product information were not available. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN model score, the mechanistic connection between Aflibercept's anti-VEGF action and esotropia is weak — esotropia is primarily a neuromuscular eye alignment disorder without an established VEGF-driven pathological pathway. With zero supporting clinical trials or publications, and no Taiwan regulatory approval, this prediction does not meet the minimum threshold for further development at this time.
+The prediction for esotropia rests only on a model score, with no trials, no literature and no plausible VEGF-related mechanism. All EU authorisations are currently cancelled, and the safety review cannot proceed without the label warnings.
 
 **To proceed, the following is needed:**
-- Identification of a mechanistically justifiable esotropia subtype (e.g., ROP-associated strabismus with documented VEGF involvement) where anti-VEGF treatment could plausibly modify disease course
-- Retrieval of Aflibercept's full MOA data from DrugBank API to confirm receptor binding profile
-- Download and parsing of Taiwan TFDA package insert PDF to assess local safety profile and contraindications
-- At minimum one published case report or preclinical study demonstrating anti-VEGF effects on ocular alignment before escalating to evidence collection
+- Product information (SmPC) warnings and contraindications
+- Mechanism of action data to support any mechanistic link
+- Preclinical or clinical evidence for esotropia (or another predicted indication)
+- Clarification of EU authorisation status and available formulations and routes
+- A bleeding-risk assessment before considering any bleeding-related indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

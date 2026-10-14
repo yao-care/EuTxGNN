@@ -2,7 +2,7 @@
 layout: default
 title: Peginterferon Beta-1A
 parent: AI Predictions (L5)
-nav_order: 459
+nav_order: 474
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,82 +29,61 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Peginterferon beta-1a: From Multiple Sclerosis to Heart Neoplasm
+# Peginterferon beta-1a: From Relapsing Remitting Multiple Sclerosis to Heart Neoplasm
 
 ## One-Sentence Summary
 
-Peginterferon beta-1a (internationally marketed as Plegridy) is a pegylated interferon beta-1a normally used for relapsing forms of multiple sclerosis. The TxGNN model predicts a possible signal for **Heart Neoplasm** (score 94.10%), but this is currently a **model-prediction-only** finding — **0 clinical trials** and **0 publications** were found for this drug-disease pair, and the drug itself is **not marketed/authorized** in this jurisdiction (0 licenses on file).
-
----
+Peginterferon beta-1a is a type I interferon originally used to treat relapsing remitting multiple sclerosis in adults.
+The TxGNN model predicts it may be effective for **heart neoplasm**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in evidence pack — no licenses/indication text on file. (Externally known use: relapsing forms of multiple sclerosis, marketed as Plegridy) |
-| Predicted New Indication | Heart Neoplasm |
+| Original Indication | Treatment of relapsing remitting multiple sclerosis in adult patients |
+| Predicted New Indication | Heart neoplasm |
 | TxGNN Prediction Score | 94.10% |
 | Evidence Level | L5 |
-| Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the evidence pack (flagged as data gap DG002, High severity). Based on general pharmacological knowledge, peginterferon beta-1a is a PEGylated form of interferon beta-1a, an immunomodulatory cytokine that reduces immune-mediated inflammation and demyelination in the central nervous system — this is the basis for its approved use in multiple sclerosis. It has no established antineoplastic or cardiac-targeted mechanism.
+Currently, detailed mechanism of action data is not available. Based on known information, peginterferon beta-1a is a type I interferon (a pegylated form of interferon beta-1a). Its efficacy in relapsing remitting multiple sclerosis is its established use, and type I interferons are generally known for immunomodulatory, antiproliferative and antiviral properties.
 
-The link between multiple sclerosis (an autoimmune neurological disease) and heart neoplasm (a rare structural/cardiac tumor) is not mechanistically obvious. The predicted rationale draws an indirect analogy to interferon-alpha, a related but distinct interferon class with documented antiproliferative use in some vascular tumors (e.g., infantile hemangioma). However, no preclinical or clinical data specifically link peginterferon **beta**-1a to cardiac tumor biology — the connection here is a knowledge-graph embedding similarity, not a validated pharmacological hypothesis.
+These general properties could plausibly be relevant to neoplasms. However, the data compiled for this report do not support any specific link between interferon beta signalling and cardiac tumours. The TxGNN score is a computational prediction only, and the prediction should be treated as a hypothesis, not as evidence of efficacy.
 
-Given the complete absence of supporting clinical trials or literature (confirmed by 0 hits across ClinicalTrials.gov, ICTRP, and PubMed queries), this prediction should be treated as an early-stage hypothesis only, appropriate for the L5 / S0 (model-prediction-only) evidence tier assigned by the scoring system.
+Other top-ranked predictions are also unvalidated. They include several ovarian tumour terms (borderline serous tumour, Brenner tumour, benign cystadenomas), heart conduction disease, congenital ventricular septal anomaly and pericardium disease. The ovarian terms appear to form a cluster of closely related predictions, so they are not independent support. A structural congenital heart defect is not expected to respond to interferon-based immunomodulation.
 
----
+## EU Market Information
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
-
-## Market Information
-
-This drug is **not currently marketed or authorized** in this jurisdiction — there are 0 licenses on file, and no authorization number, product name, dosage form, or approved indication text is available in the evidence pack.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002827 | Plegridy | Not specified | Treatment of relapsing remitting multiple sclerosis in adult patients. (status: cancelled) |
 
 ## Safety Considerations
 
-Safety data collection is currently **blocked**: label warnings and contraindications could not be retrieved (data gap DG001, **Blocking** severity — no TFDA label/SmPC data parsed yet), and no drug-interaction data was found (query status: not found). This gap prevents the candidate from advancing to the S1 preliminary safety screening stage.
+- **Drug Interactions**: The interaction screen returned 100 potential interactions in total. The 20 listed in the data compiled for this report are mostly of moderate severity.
+  - **Major**: Bupropion
+  - **Moderate (examples)**: Clarithromycin, Levofloxacin, Minocycline, Naltrexone, Pioglitazone, Rosiglitazone, Rosuvastatin, Simvastatin, Acarbose, Orlistat, Oxandrolone, Oxymetholone, Pegvaliase
 
-Please refer to the SmPC for safety information once available.
-
----
+For the other safety information (warnings and contraindications), please refer to the SmPC. In addition, interferon-class cardiac adverse effects have been reported, which would need examination before any cardiac indication is pursued.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate sits at evidence level L5 (model prediction only) with zero clinical trials or publications across all 10 top-ranked predicted indications, and a Blocking-severity data gap (missing label safety data) prevents even a preliminary safety screen. Several other top-ranked predictions for this drug — notably *heart conduction disease* (rank 3) and *pericardium disease* (rank 10) — are plausibly explained by reversed causality: interferon-beta is a known cause of cardiac conduction abnormalities and pericarditis as adverse drug reactions, not a treatment for them, which raises signal-quality concerns for this entire drug-disease cluster rather than supporting the top prediction.
+The prediction is supported only by a model score (94.10%), with no registered clinical trials, no publications and no mechanistic data. The only EU authorization is cancelled, and the predicted cardiac indications raise safety questions given the class's cardiac adverse effects.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC label data — warnings and contraindications (DG001, Blocking)
-- Confirmed mechanism of action (DG002)
-- Independent preclinical or clinical evidence of interferon beta-1a activity in cardiac neoplasms specifically (not extrapolated from interferon-alpha)
-- Causal-direction review of KG-derived predictions that overlap with known adverse drug reactions (heart conduction disease, pericardium disease) before any further evaluation
-
----
-
-### ⚠️ Note on Other Top-Ranked Candidates
-
-Beyond the primary prediction, ranks 4–9 (borderline ovarian serous tumor, rete ovarii cystadenoma, ovarian mucinous cystadenofibroma, ovarian benign neoplasm, ovarian papillary cystadenoma, malignant ovarian Brenner tumor) form a tight score cluster (88.0–88.9%) of largely benign/rare ovarian entities with no clinical treatment precedent for systemic immunomodulatory therapy — this pattern is more consistent with knowledge-graph node clustering around "ovarian tumor" concepts than with distinct pharmacological signals. None of these carry clinical trial or literature support either. All 10 candidates for this drug are recommended for **Hold** pending the data-gap remediation above.
+- Detailed mechanism of action data (MOA) for peginterferon beta-1a
+- Warnings and contraindications from the SmPC, to complete safety screening
+- Preclinical or literature evidence linking type I interferon activity to cardiac tumours
+- Clarification of the clinical need and route of administration for the predicted indication
+- Review of the cardiac safety profile of interferon beta products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

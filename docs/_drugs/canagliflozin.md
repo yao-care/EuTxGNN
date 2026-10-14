@@ -2,7 +2,7 @@
 layout: default
 title: Canagliflozin
 parent: AI Predictions (L5)
-nav_order: 119
+nav_order: 121
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,97 +29,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Canagliflozin: From Type 2 Diabetes to Focal Stiff Limb Syndrome
+# Canagliflozin: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
 
 ## One-Sentence Summary
 
-Canagliflozin is a selective SGLT2 inhibitor widely approved for type 2 diabetes mellitus, with landmark trial evidence supporting cardiovascular and renal protective benefits independent of glycemic control.
-The TxGNN model predicts it may be effective for **Focal Stiff Limb Syndrome**, a rare autoimmune neurological disorder,
-however **0 clinical trials and 0 publications** currently support this direction — and this pattern holds uniformly across all 10 top-ranked predictions, each remaining at the lowest evidence tier (L5).
-
----
+Canagliflozin is an SGLT2 inhibitor, originally used to treat insufficiently controlled type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Type 2 Diabetes Mellitus |
-| Predicted New Indication | Focal Stiff Limb Syndrome |
+|------|------|
+| Original Indication | Treatment of adults and children aged 10 years and older with insufficiently controlled type 2 diabetes mellitus, as an adjunct to diet and exercise |
+| Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 97.92% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Canagliflozin is a selective SGLT2 (sodium-glucose cotransporter-2) inhibitor that acts in the proximal renal tubule to block glucose reabsorption, resulting in increased urinary glucose excretion and reduced blood glucose levels through an entirely insulin-independent mechanism. Beyond glycemic control, SGLT2 inhibitors reduce intracellular sodium and calcium overload in cardiomyocytes, decrease renal glomerular hyperfiltration pressure, and suppress NLRP3 inflammasome activation — mechanisms that explain the drug's cardiovascular mortality benefit (CANVAS trial) and nephroprotective effect (CREDENCE trial) well beyond its original anti-diabetic role. These pleiotropic effects have fueled significant interest in repurposing SGLT2 inhibitors across multiple organ systems.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, canagliflozin is an SGLT2 inhibitor, and its efficacy in type 2 diabetes has been established through its glucose-lowering action.
 
-Focal stiff limb syndrome (FSLS) is a localized variant of stiff person spectrum disorder (SPSD). Its pathogenesis is primarily driven by anti-GAD65 (glutamic acid decarboxylase 65) or anti-amphiphysin autoantibodies, which impair GABA synthesis and GABAergic neurotransmission, producing episodic muscle rigidity and spasms confined to a single limb rather than the truncal distribution seen in classic stiff person syndrome. It is fundamentally an autoimmune neurological disease with no established metabolic component.
+For focal stiff limb syndrome, no clear mechanistic link can be identified. This condition belongs to the stiff-person spectrum of autoimmune/neurological disorders, typically linked to impaired GABAergic inhibition and anti-GAD or anti-amphiphysin antibodies. SGLT2 inhibition has no established effect on this pathway.
 
-The mechanistic link between SGLT2 inhibition and autoimmune GABAergic dysfunction is not established. Canagliflozin does not modulate GABA synthesis enzymes, GABAergic receptor function, B-cell autoreactivity toward GAD65, or T-cell trafficking to the central nervous system. The 97.92% TxGNN prediction score most likely reflects indirect graph traversals through shared "metabolic-immune comorbidity" network nodes — a structural artifact of how the knowledge graph connects disparate disease clusters — rather than any genuine pharmacological relationship. This prediction warrants skepticism rather than direct translation toward clinical investigation.
-
----
+The high TxGNN score (0.979) is a graph-based prediction only. A similar pattern appears for classic stiff person syndrome (identical score), which may reflect shared graph neighbours such as diabetes and autoimmunity (anti-GAD antibodies are also associated with type 1 diabetes) rather than a therapeutic rationale.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002649 (cancelled) | Invokana | Not specified | Treatment of adults and children aged 10 years and older with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction query found 100 potential interactions in total. Most of those listed are of moderate severity, for example:
+  - Phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol (moderate)
+  - Acebutolol, nifedipine, fosinopril, aliskiren (moderate)
+  - Furosemide, acetazolamide (moderate)
+  - Hydrocortisone (moderate; topical forms minor)
+  - Fosphenytoin, fosamprenavir, gemifloxacin, alfuzosin, levonorgestrel, ethanol (moderate)
 
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 top-ranked TxGNN predictions for Canagliflozin are at evidence level L5 — model prediction only — with zero supporting clinical trials or publications for any predicted indication. The prediction landscape is dominated by two mechanistically implausible clusters (autoimmune neurological disorders and lipodystrophy variants), indicating that the knowledge graph may be routing through broad metabolic-immune co-occurrence nodes rather than identifying true pharmacological opportunities.
-
----
-
-**Cross-Prediction Pattern Analysis**
-
-| Rank | Indication | Score | Assessment |
-|------|-----------|-------|-----------|
-| 1 | Focal Stiff Limb Syndrome | 97.92% | ✗ No mechanistic basis — anti-GAD65 autoimmune pathway unrelated to SGLT2 |
-| 2 | Classic Stiff Person Syndrome | 97.92% | ✗ Identical score to Rank 1; same KG node, same implausibility |
-| 3 | Opsismodysplasia | 97.81% | ✗ SHIP2/PI3K mutation in bone development; SGLT2 has no effect on SHIP2 |
-| 4 | Thiamine-Responsive Dysfunction Syndrome | 97.70% | ✗ Symptomatic glucose control for one component of a B1-deficiency syndrome; not a true repurposing |
-| 5 | Drug-Induced Localized Lipodystrophy | 96.59% | ✗ Mechanical/inflammatory cause; SGLT2i promotes global fat reduction, opposite direction |
-| 6 | Centrifugal Lipodystrophy | 96.43% | ✗ Complement C3-mediated fat loss; SGLT2 has no complement pathway effect |
-| 7 | Pressure-Induced Localized Lipoatrophy | 96.33% | ✗ Mechanical injury mechanism; no SGLT2 role |
-| 8 | Idiopathic Localized Lipodystrophy | 96.16% | ✗ Scores 5→8 form a tight band (0.966→0.962), confirming systematic group-level error |
-| **9** | **Pancreatic Agenesis** | **96.04%** | **⚠ Research Question — see below** |
-| 10 | Autoimmune Oophoritis | 82.37% | ✗ Lowest score in set; organ-specific T-cell autoimmunity unaffected by SGLT2i |
-
----
-
-**Notable Exception — Pancreatic Agenesis (Rank #9):**
-Among all 10 predictions, pancreatic agenesis is the only case carrying a plausible mechanistic rationale. Patients with complete pancreatic agenesis (caused by mutations in PTF1A, PDX1, or GATA6) have no endogenous insulin production from birth and depend entirely on exogenous insulin replacement. Because canagliflozin's glucose-lowering effect is entirely insulin-independent — it acts directly on renal tubular transport — it could theoretically serve as an adjunct therapy to reduce exogenous insulin dose requirements and improve glycemic stability while also delivering renal and cardiovascular protection. This is the one prediction in this batch that is mechanistically coherent and deserves separate evaluation as a **Research Question**, not immediate dismissal.
-
----
+The prediction rests only on a graph-based model score. There are no trials or publications, and no plausible mechanistic link between SGLT2 inhibition and the GABAergic/autoimmune pathology of focal stiff limb syndrome. The only EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-
-- **[DG001 — Blocking]** Obtain the Taiwan label (TFDA SmPC) for full warnings and contraindications before any safety evaluation can proceed
-- **[DG002 — High]** Resolve the MOA data gap via DrugBank API to enable formal mechanism-based scoring
-- **For the Pancreatic Agenesis Research Question specifically:**
-  - Conduct a targeted literature search for SGLT2 inhibitor use in congenital diabetes and neonatal diabetes mellitus (the closest analogue to pancreatic agenesis)
-  - Assess whether combined endocrine and exocrine pancreatic insufficiency (malabsorption, fat-soluble vitamin deficiency) affects canagliflozin's pharmacokinetics or safety profile
-  - Consult with metabolic disease and rare disease specialists before advancing to any clinical hypothesis generation
+- Mechanism of action data for canagliflozin, to allow a proper mechanistic-link analysis
+- Warnings and contraindications from the SmPC, which are needed before safety screening
+- Preclinical or mechanistic evidence connecting SGLT2 inhibition to stiff-person spectrum disorders
+- Clarification of the current EU authorization status and route/dosage form compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

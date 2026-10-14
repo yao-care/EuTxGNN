@@ -2,7 +2,7 @@
 layout: default
 title: Avelumab
 parent: Medium Evidence (L3-L4)
-nav_order: 71
+nav_order: 73
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,148 +29,83 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Avelumab: From Urothelial Carcinoma to Human Herpesvirus 8-Related Tumor
+# Avelumab: From Merkel Cell Carcinoma to Human Herpesvirus 8-Related Tumor
 
 ## One-Sentence Summary
 
-Avelumab (Bavencio) is a fully human anti-PD-L1 IgG1 monoclonal antibody internationally approved for Merkel cell carcinoma and platinum-treated urothelial carcinoma (UC) maintenance therapy, but currently not registered in Taiwan.
-The TxGNN model's top-ranked prediction identifies **Human Herpesvirus 8 (HHV-8)-Related Tumor** as the primary repurposing candidate, with the biological rationale anchored in virally-encoded LANA-mediated PD-L1 upregulation — a specific immune evasion circuit directly targeted by checkpoint blockade — supported by class-effect evidence from pembrolizumab in Kaposi's sarcoma.
-This is an **L4 mechanistic hypothesis** with **0 direct clinical trials** and **0 publications** for this specific indication; however, across this 10-indication panel, rank 9 (**prostatic urethra urothelial carcinoma**) carries the strongest actionable evidence at **L2 — Proceed with Guardrails**, backed by the JAVELIN Bladder 100 Phase 3 RCT (n=700, OS HR=0.69).
-
----
+Avelumab (Bavencio) is a PD-L1 immune checkpoint antibody, originally used for metastatic Merkel cell carcinoma, advanced renal cell carcinoma (with axitinib) and maintenance treatment of urothelial carcinoma.
+The TxGNN model predicts it may be effective for **human herpesvirus 8-related tumor**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a computational prediction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not registered in Taiwan; internationally approved for Merkel cell carcinoma and urothelial carcinoma maintenance |
-| Predicted New Indication (Rank 1) | Human Herpesvirus 8-Related Tumor |
+|------|------|
+| Original Indication | Metastatic Merkel cell carcinoma (monotherapy); first-line advanced renal cell carcinoma (with axitinib); first-line maintenance of locally advanced or metastatic urothelial carcinoma after platinum-based chemotherapy |
+| Predicted New Indication | Human herpesvirus 8-related tumor |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision (Rank 1) | Research Question |
-
----
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Avelumab binds PD-L1 with high affinity, blocking its interaction with both PD-1 and B7-H1 on cytotoxic T lymphocytes, thereby lifting tumor-imposed immune suppression and restoring antitumor surveillance. Unlike some IgG4-subclass checkpoint inhibitors, avelumab's IgG1 backbone additionally mediates antibody-dependent cellular cytotoxicity (ADCC), providing a second, direct tumor-killing mechanism. This dual-action profile is clinically validated in JAVELIN Merkel 200 (Merkel cell carcinoma) and JAVELIN Bladder 100 (locally advanced/metastatic UC, OS HR=0.69, n=700, Phase 3), establishing the mechanistic foundation for extrapolation.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, avelumab is a PD-L1-blocking antibody, and its efficacy in Merkel cell carcinoma has been established. Mechanistically, it may be applicable to human herpesvirus 8-related tumors.
 
-For HHV-8 (KSHV)-related tumors — encompassing Kaposi's sarcoma and primary effusion lymphoma — the link to PD-L1 blockade is biologically specific rather than generic. The viral latency-associated nuclear antigen (LANA) directly transcriptionally upregulates PD-L1 on infected tumor cells, creating a virally-encoded immune evasion circuit. This means HHV-8-driven tumors carry a defined, testable molecular trigger for checkpoint inhibition, not merely incidental PD-L1 expression.
+HHV-8 drives Kaposi sarcoma and related lymphoproliferative tumors. These tumors can express PD-L1 and show T-cell exhaustion, so PD-L1 blockade could in principle restore antiviral and antitumor immunity. Merkel cell carcinoma is also a virus-associated tumor (Merkel cell polyomavirus), which supports the general concept.
 
-Class-effect evidence lends indirect support: pembrolizumab (anti-PD-1) has demonstrated activity in Kaposi's sarcoma in published case reports and exploratory pilot studies, establishing proof-of-concept that the PD-L1/PD-1 axis is functionally active and therapeutically exploitable in this tumor context. No avelumab-specific studies exist for HHV-8 tumors at present, placing this at L4; however, the mechanistic specificity distinguishes this from the purely graph-structural predictions in ranks 2–8 and justifies a prospective Research Question designation rather than a blanket Hold.
+This reasoning is an inference from the drug class and the approved indication, not evidence from the supplied data. The high TxGNN score is a computational prediction only.
 
----
+## Other Predicted Indications (Summary)
 
-## Clinical Trial Evidence
+None of the following has clinical trial or literature support in the data compiled for this report.
 
-Currently no related clinical trials registered for Human Herpesvirus 8-Related Tumor.
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Middle ear neuroendocrine tumor | 99.97% | L5 | Possible link via neuroendocrine lineage shared with Merkel cell carcinoma; PD-L1 dependence not established; extremely rare |
+| 3 | Malignant cutaneous granular cell skin tumor | 99.97% | L5 | Loose similarity to other cutaneous malignancies; no mechanistic evidence |
+| 4 | Ectomesenchymoma | 99.97% | L5 | Rare pediatric tumor; no PD-L1 or checkpoint response data |
+| 5 | Adenosine deaminase deficiency | 99.95% | L5 | Not a tumor; probable false positive |
+| 6 | Reticular dysgenesis | 99.94% | L5 | Genetic severe combined immunodeficiency; probable false positive |
+| 7 | Immunoerythromyeloid hypoplasia | 99.94% | L5 | No apparent mechanistic rationale |
+| 8 | Non-severe combined immunodeficiency | 99.92% | L5 | No mechanism evident; possible safety concerns |
+| 9 | Prostatic urethra urothelial carcinoma | 99.92% | L4 | Biologically plausible given the approved urothelial carcinoma indication; needs PD-L1 status and a defined clinical setting |
+| 10 | Kidney pelvis sarcomatoid transitional cell carcinoma | 99.91% | L4 | Indirect support only; upper tract disease is a distinct entity, so extrapolation requires caution |
 
----
+Ranks 5 to 8 are immunodeficiency disorders. The high scores likely reflect knowledge-graph artifacts rather than real therapeutic potential.
 
-## Literature Evidence
+## EU Market Information
 
-Currently no related literature available for Human Herpesvirus 8-Related Tumor.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004338 | Bavencio | Not specified | Bavencio is indicated as monotherapy for the treatment of adult patients with metastatic Merkel cell carcinoma (MCC). Bavencio in comb... |
 
----
-
-## All Predicted Indications Overview
-
-This Evidence Pack covers 10 predicted indications. The table below summarizes the full panel ranked by TxGNN score:
-
-| Rank | Disease | TxGNN Score | Evidence Level | Decision |
-|------|---------|-------------|---------------|---------|
-| 1 | Human Herpesvirus 8-Related Tumor | 99.97% | L4 | Research Question |
-| 2 | Middle Ear Neuroendocrine Tumor | 99.97% | L5 | Hold |
-| 3 | Malignant Cutaneous Granular Cell Skin Tumor | 99.97% | L5 | Hold |
-| 4 | Ectomesenchymoma | 99.97% | L5 | Hold |
-| 5 | Adenosine Deaminase Deficiency | 99.95% | L5 | Hold |
-| 6 | Reticular Dysgenesis | 99.94% | L5 | Hold |
-| 7 | Immunoerythromyeloid Hypoplasia | 99.94% | L5 | Hold |
-| 8 | Non-Severe Combined Immunodeficiency | 99.92% | L5 | Hold |
-| **9** | **Prostatic Urethra Urothelial Carcinoma** | **99.92%** | **L2** | **Proceed with Guardrails** |
-| 10 | Kidney Pelvis Sarcomatoid Transitional Cell Carcinoma | 99.91% | L4 | Research Question |
-
-> **Actionability Note:** Despite ranking 9th by TxGNN score, **prostatic urethra urothelial carcinoma** carries the highest actionable evidence (L2) in this panel, supported by direct class-effect from the JAVELIN Bladder 100 Phase 3 RCT. Ranks 5–8 (immune deficiency conditions) are rated Hold due to a fundamental mechanistic incompatibility: checkpoint inhibition requires functional effector T cells, which are absent or severely depleted in these conditions — the predictions are assessed as knowledge graph false positives, not genuine biological candidates.
-
-### Supporting Trial for Rank 10: Kidney Pelvis Sarcomatoid TCC
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05431777](https://clinicaltrials.gov/study/NCT05431777) | N/A | Completed | 79 | Retrospective multicenter observational study evaluating real-world treatment patterns, safety, and outcomes of avelumab first-line maintenance in Japanese patients with locally advanced/metastatic urothelial carcinoma; provides baseline treatment pattern data relevant to this rare upper-tract sarcomatoid subtype |
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Immunotherapy — anti-PD-L1 checkpoint inhibitor (fully human IgG1 monoclonal antibody); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low via direct cytotoxic mechanism; monitor for immune-related hematological events (immune thrombocytopenia, autoimmune hemolytic anemia) which are uncommon but reported |
-| Emetogenicity Classification | Minimal — not associated with chemotherapy-induced nausea/vomiting |
-| Monitoring Items | Thyroid function (TSH, free T4), liver enzymes (ALT/AST/bilirubin), CBC with differential, renal function (creatinine), blood glucose; infusion reaction assessment during each administration (pre-medication with antihistamine and acetaminophen per protocol) |
-| Handling Protection | Standard biologic aseptic handling protocol; not classified as a hazardous cytotoxic drug under NIOSH or equivalent guidelines — conventional cytotoxic PPE not required; standard infusion safety and spill procedures apply |
-
----
+This authorization is listed as cancelled.
 
 ## Safety Considerations
 
-Detailed Taiwan TFDA prescribing information is unavailable (drug not registered in Taiwan). Please refer to the EMA SmPC for Bavencio (avelumab) for complete safety information, with particular attention to immune-related adverse events (irAEs) including pneumonitis, immune-mediated hepatitis, colitis, endocrinopathies (hypothyroidism, adrenal insufficiency, type 1 diabetes), and nephritis.
+- **Drug Interactions**: Three major interactions were identified (source: DDInter):
+  - Lenalidomide (Major)
+  - Pomalidomide (Major)
+  - Thalidomide (Major)
 
----
+For other safety information, such as warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
----
-
-### Priority 1 — Prostatic Urethra Urothelial Carcinoma (Rank 9)
-
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Prostatic urethra urothelial carcinoma is an anatomical subtype sharing the same histology, molecular drivers, and PD-L1 expression profile as bladder UC. The JAVELIN Bladder 100 Phase 3 RCT directly supports class-effect extrapolation; the absence of subtype-specific trial data reflects a search term limitation, not a lack of clinical relevance.
+The top prediction has no registered clinical trials or publications. Its rationale rests on indirect inference from the drug class and the approved Merkel cell carcinoma indication. In addition, the only EU authorization is cancelled, and warnings and contraindications data are unavailable.
 
 **To proceed, the following is needed:**
-- Assess Taiwan import/compassionate use pathway given zero local registrations
-- Confirm PD-L1 and TMB biomarker testing protocol for patient selection
-- Review JAVELIN Bladder 100 subgroup analyses for upper tract and urethral UC patients
-- Establish irAE monitoring and management plan for this patient population
-
----
-
-### Priority 2 — Human Herpesvirus 8-Related Tumor (Rank 1)
-
-**Decision: Research Question**
-
-**Rationale:**
-Virally-encoded PD-L1 upregulation via LANA provides a specific and testable biological mechanism, and pembrolizumab class-effect data in Kaposi's sarcoma establish proof-of-concept for PD-L1/PD-1 axis targeting in HHV-8 malignancies. This signal warrants structured investigation, not dismissal.
-
-**To proceed, the following is needed:**
-- Systematic review of PD-1/PD-L1 inhibitors in Kaposi's sarcoma and primary effusion lymphoma to quantify class-effect benchmark
-- PD-L1 IHC and TIL characterization on HHV-8-positive tumor tissue samples
-- Evaluate feasibility of a basket trial or expanded access protocol including HHV-8 tumor subtypes
-
----
-
-### Priority 3 — Kidney Pelvis Sarcomatoid TCC (Rank 10)
-
-**Decision: Research Question**
-
-**Rationale:**
-Sarcomatoid differentiation in UC is associated with high PD-L1 expression (reported 60–80%) and high TMB, defining a biologically enriched population for checkpoint inhibition. Class-effect from JAVELIN Bladder 100 applies with the same logic as prostatic urethra UC. The observational trial (NCT05431777) demonstrates clinical community awareness of this subtype.
-
-**To proceed, the following is needed:**
-- PD-L1 and TMB biomarker profiling specifically in sarcomatoid UC subtype
-- Retrospective efficacy signal analysis from NCT05431777 dataset
-- Consider sarcomatoid histology as a stratification factor in existing UC checkpoint inhibitor trial protocols
-
----
-
-### Indications Recommended for Hold (Ranks 2–8)
-
-- **Ranks 2–4** (middle ear neuroendocrine tumor, malignant cutaneous granular cell tumor, ectomesenchymoma): Extremely rare entities with no PD-L1 expression data, no immunotherapy precedent, and in the case of ectomesenchymoma, a pediatric population requiring additional checkpoint inhibitor safety evaluation. Predictions assessed as knowledge graph structural proximity signals.
-- **Ranks 5–8** (adenosine deaminase deficiency, reticular dysgenesis, immunoerythromyeloid hypoplasia, non-severe CID): Fundamental mechanistic incompatibility. Checkpoint inhibition requires functional effector T cells to exert any effect; in severe immunodeficiency states, these cells are absent or severely depleted. Furthermore, immune activation in patients with residual or recovering lymphocytes poses unpredictable autoimmune risk. These predictions are assessed as knowledge graph false positives and should not be advanced without extraordinary mechanistic evidence.
+- A systematic search for clinical trials and literature on PD-1/PD-L1 blockade in HHV-8-related tumors (e.g., Kaposi sarcoma)
+- Mechanism of action data for avelumab
+- Package insert warnings and contraindications for safety screening
+- Clarification of why the EU authorization was cancelled and whether the product is available
+- Priority review of the urothelial-type predictions (ranks 9 and 10), which have a more direct link to an approved indication
+- Exclusion of the immunodeficiency predictions (ranks 5 to 8) as probable false positives
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

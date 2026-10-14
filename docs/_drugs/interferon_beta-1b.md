@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Interferon Beta-1B
-parent: Medium Evidence (L3-L4)
-nav_order: 321
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 332
+evidence_level: L5
 indication_count: 10
 ---
 
 # Interferon Beta-1B
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,88 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Interferon beta-1b (IFN-β-1b) is a recombinant Type I interferon approved in many countries for relapsing forms of multiple sclerosis, though it currently holds no marketing authorization in Taiwan.
-The TxGNN model predicts it may be effective for **Hairy Cell Leukemia (HCL)**, supported by **5 publications** (predominantly small-series studies from 1987–1990) and no registered clinical trials.
-The prediction is mechanistically grounded: IFN-β-1b and the already-established IFN-α therapy for HCL share the same IFNAR1/IFNAR2 receptor complex, making a class-level antiproliferative effect biologically plausible.
-
----
+Interferon beta-1b (Betaferon) is an immunomodulatory drug originally used to treat multiple sclerosis (MS), including a first demyelinating event, relapsing-remitting MS and active secondary progressive MS.
+The TxGNN model's top-ranked prediction is **hairy cell leukemia** (score 99.16%), but **no clinical trials and no publications** were found for this use, so it rests on model prediction alone.
+The other high-ranking predictions that have evidence (autoimmune and demyelinating diseases of the central nervous system) largely overlap with the existing MS label and are not true new indications.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Relapsing multiple sclerosis (globally approved; not marketed in Taiwan) |
-| Predicted New Indication | Hairy Cell Leukemia |
+| Original Indication | Single demyelinating event at high risk of clinically definite MS; relapsing-remitting MS with ≥2 relapses in the last two years; secondary progressive MS with active disease |
+| Predicted New Indication | Hairy cell leukemia |
 | TxGNN Prediction Score | 99.16% |
-| Evidence Level | L3 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Research Question |
-
----
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only (the single centralised authorization is cancelled) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for IFN-β-1b is not available from the Taiwan regulatory source. Based on known pharmacology, IFN-β-1b is a non-glycosylated recombinant Type I interferon that binds to the shared IFNAR1/IFNAR2 receptor complex, activating the JAK-STAT signaling pathway to produce antiproliferative, antiviral, and immunomodulatory effects. Its efficacy in relapsing multiple sclerosis has been established through large randomized trials spanning several decades.
+Detailed mechanism of action data for interferon beta-1b is not available in the data compiled for this report. Based on known information, it is a type I interferon that modulates T-cell activation, reduces leukocyte trafficking across the blood-brain barrier and shifts the cytokine balance toward an anti-inflammatory profile, which underlies its efficacy in MS.
 
-The mechanistic rationale for hairy cell leukemia rests on receptor-level convergence: IFN-α — already a proven therapy for HCL — and IFN-β-1b bind to identical receptor subunits. Hairy cells characteristically overexpress IFNAR, rendering them highly sensitive to Type I interferon antiproliferative signaling. While IFN-β-1b and IFN-α differ in amino acid sequence and glycosylation status, they engage overlapping JAK-STAT cascades and stimulate similar ADCC-enhancing effects. This shared receptor biology directly supports the TxGNN prediction.
+Interferon alpha is a historically established therapy for hairy cell leukemia. This gives a class-level immunomodulatory and antiproliferative rationale for type I interferons in this disease. However, the link between interferon beta-1b and hairy cell leukemia is an extrapolation. MS and hairy cell leukemia are very different diseases, and no direct evidence was retrieved to support the connection.
 
-Historical clinical data from 1987–1990 provides early proof-of-concept: prospective and case-series studies of beta-serine interferon (the precursor form of IFN-β-1b) demonstrated meaningful hematologic responses in HCL patients, including peripheral blood count normalization in the majority of evaluable cases. However, since cladribine and pentostatin now achieve high complete remission rates as first-line treatments, IFN-β therapy for HCL would currently occupy a second-line or refractory-disease niche. The prediction is historically validated but must be interpreted in the context of substantially evolved treatment standards.
-
----
+The prediction should therefore be treated as a hypothesis, not as a supported repurposing opportunity.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Interferon beta-1b in hairy cell leukemia.
+Currently no related clinical trials registered for hairy cell leukemia.
 
----
+For reference, the strongest trials found for the closely related predicted category "autoimmune disease of the central nervous system" (essentially the existing MS label) are:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00185211](https://clinicaltrials.gov/study/NCT00185211) | Phase 3 | Completed | 468 | Open-label extension of the placebo-controlled BENEFIT study; long-term effect of early vs. delayed treatment in patients with a first demyelinating event or clinically definite MS |
+| [NCT01333501](https://clinicaltrials.gov/study/NCT01333501) | Phase 4 | Completed | 151 | Randomized, rater-blinded comparison of fingolimod vs. interferon beta-1b on cognitive symptoms in relapsing-remitting MS |
+| [NCT01111656](https://clinicaltrials.gov/study/NCT01111656) | Phase 2 | Completed | 28 | Follow-up of atorvastatin added to interferon beta-1b in relapsing-remitting MS |
+| [NCT00893217](https://clinicaltrials.gov/study/NCT00893217) | Phase 2 | Completed | 71 | Double-blind safety and tolerability comparison of 500 mcg vs. 250 mcg every other day in relapsing-remitting MS |
+| [NCT01158183](https://clinicaltrials.gov/study/NCT01158183) | N/A | Completed | 226 | Real-world observational outcomes study in relapsing forms of MS |
+| [NCT01701856](https://clinicaltrials.gov/study/NCT01701856) | Phase 4 | Terminated | 5 | Natalizumab de-escalation to interferon beta-1b; too small to be informative |
 
 ## Literature Evidence
 
+Currently no related literature available for hairy cell leukemia.
+
+For reference, key publications for the MS-related predicted categories are:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3312839](https://pubmed.ncbi.nlm.nih.gov/3312839/) | 1987 | Case Series | Leukemia | UCLA experience with Type I interferons in 51 HCL patients; recombinant beta-serine-IFN produced hematologic improvement in 71% of treated patients; responses occurred within 6–12 months, similar in pattern to IFN-α |
-| [2736487](https://pubmed.ncbi.nlm.nih.gov/2736487/) | 1989 | Prospective Comparative | Cancer | rIFN-β-ser (90 × 10⁶ IU SC TIW) prospectively compared to rIFN-α in HCL (n=8 evaluable): 63% achieved normalization of peripheral blood counts; additional 25% showed partial improvement; persistent bone marrow hairy cells detected in all patients |
-| [2082943](https://pubmed.ncbi.nlm.nih.gov/2082943/) | 1990 | Case Series | American Journal of Hematology | 12 heavily pre-treated HCL patients (median 8.5 months from diagnosis) received beta-ser IFN 90 MU IV three times weekly; bone marrow involvement 90–100% hairy cells at baseline; antiproliferative activity demonstrated |
-| [1702309](https://pubmed.ncbi.nlm.nih.gov/1702309/) | 1990 | Biomarker Study | British Journal of Haematology | Panel of monoclonal antibodies used to identify residual hairy cells after IFN-α or IFN-β therapy (n=20); hairy cells retained characteristic CD22/CD11c/CD25/CD32 phenotype post-treatment, informing minimal residual disease monitoring |
-| [2198792](https://pubmed.ncbi.nlm.nih.gov/2198792/) | 1990 | Case Report | American Journal of Clinical Oncology | 2'-deoxycoformycin (DCF) achieved complete response in 3 patients who had failed prior IFN-α (n=2) or IFN-β-ser (n=1), confirming IFN-β as an active prior-line therapy and establishing DCF as a salvage option |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Comparative benefit of immunomodulators and immunosuppressants in relapsing-remitting MS |
+| [39254048](https://pubmed.ncbi.nlm.nih.gov/39254048/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Relative benefit and safety of immunomodulators in progressive MS |
+| [38032059](https://pubmed.ncbi.nlm.nih.gov/38032059/) | 2023 | Network meta-analysis | Cochrane Database Syst Rev | Relative safety of MS immunotherapies |
+| [26384035](https://pubmed.ncbi.nlm.nih.gov/26384035/) | 2015 | Network meta-analysis | Cochrane Database Syst Rev | Earlier network meta-analysis of therapies for relapsing-remitting MS |
+| [21128695](https://pubmed.ncbi.nlm.nih.gov/21128695/) | 2011 | Review | CNS Drugs | Review of interferon beta-1b use in MS; large randomized trials support efficacy 250 μg every other day |
+| [15182221](https://pubmed.ncbi.nlm.nih.gov/15182221/) | 2004 | Review | CNS Drugs | Review of interferon beta-1b in relapsing-remitting and secondary progressive MS |
 
----
+## EU Market Information
 
-## Taiwan Market Information
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000081 | Betaferon | Not specified | Betaferon is indicated for the treatment of patients with a single demyelinating event with an active inflammatory process, if it is severe enough to warrant... |
 
-Interferon beta-1b is not approved in Taiwan and holds no TFDA marketing authorization. No product licenses are currently registered.
-
----
+This authorization has a cancelled status, so there is currently no valid EU marketing authorization for this product.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction database. Examples include a Major interaction with bupropion, and Moderate interactions with drugs such as pioglitazone, rosiglitazone, acarbose, simvastatin, rosuvastatin, clarithromycin, levofloxacin, minocycline and naltrexone.
+- **Other considerations from the prediction review**: Interferon beta-1b carries hepatic injury warnings (elevated transaminases) and pregnancy-related safety considerations. Published reports also describe injection-site reactions, flu-like symptoms and delayed skin reactions.
 
----
+For full warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
-**Decision: Research Question**
+**Decision: Hold**
 
 **Rationale:**
-Available evidence is limited to small observational studies and case series from over 30 years ago (L3), predating modern HCL treatment standards. While the mechanistic link via shared IFNAR receptors with IFN-α — an established HCL therapy — is compelling, no prospective controlled trials with IFN-β-1b in HCL have been registered, and current standard-of-care (cladribine/pentostatin) has substantially superseded interferon-based approaches.
+The hairy cell leukemia prediction has a high model score but no trials or publications, and it is supported only by an extrapolation from interferon alpha. The MS-related predictions have strong evidence (Phase 3 BENEFIT extension, Cochrane network meta-analyses), but this evidence supports the existing label and is not new repurposing. The only EU authorization is cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data confirming IFNAR1/IFNAR2 expression density in hairy cells and comparative receptor binding affinity of IFN-β-1b versus IFN-α subtypes
-- Taiwan TFDA prescribing information (仿單) for complete safety, warning, and contraindication data (currently unavailable — Data Gap DG001)
-- Pharmacokinetic/pharmacodynamic assessment comparing IFN-β-1b dosing regimens used in MS with beta-serine-IFN doses used historically in HCL trials
-- Evaluation of whether IFN-β-1b offers a meaningful niche in HCL patients refractory to purine analogues, particularly BRAF V600E–negative or vemurafenib-ineligible cases
-- Updated literature search to determine whether any contemporary evidence on IFN-β in HCL has emerged beyond the 1987–1990 publications
+- Preclinical or early clinical data for interferon beta-1b in hairy cell leukemia, and a comparison with established therapies (interferon alpha, purine analogs)
+- Detailed mechanism of action data
+- Warnings and contraindications from the SmPC, which are currently missing and block formal safety screening
+- Clarification of the cancelled EU authorization status and available dosage forms and routes
+- Hepatic safety assessment and a pregnancy risk plan for any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

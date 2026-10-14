@@ -2,15 +2,15 @@
 layout: default
 title: Cytarabine
 parent: Medium Evidence (L3-L4)
-nav_order: 158
-evidence_level: L3
+nav_order: 163
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,101 +29,88 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cytarabine: From Acute Leukemia to Small Cell Lung Carcinoma
+# Cytarabine: From Acute Myeloid Leukaemia (t-AML / AML-MRC) to Small Cell Lung Carcinoma
 
 ## One-Sentence Summary
 
-Cytarabine (Ara-C) is a nucleoside antimetabolite with established clinical use in hematologic malignancies, particularly acute myeloid leukemia (AML).
-The TxGNN model predicts it may be effective for **Small Cell Lung Carcinoma (SCLC)**, with a prediction score of 99.78%.
-This direction is supported by **3 registered clinical trials** (indirect relevance) and **20 publications**, including several historical Phase I/II studies that directly incorporated cytarabine into SCLC regimens between 1979 and 1988.
-
----
+Cytarabine, in its liposomal combination form (Vyxeos liposomal), was originally authorised in the EU for newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC).
+The TxGNN model predicts it may be effective for **small cell lung carcinoma**, but **no clinical trials** are registered for this use and the retrieved literature (**20 publications**) is mostly about non-small cell lung cancer or other drugs, so the direction is supported by model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Acute myeloid leukemia (AML) and hematologic malignancies |
-| Predicted New Indication | Small Cell Lung Carcinoma |
+|------|------|
+| Original Indication | Newly diagnosed therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC) in adults |
+| Predicted New Indication | Small cell lung carcinoma |
 | TxGNN Prediction Score | 99.78% |
-| Evidence Level | L3 |
-| EU Market Status | Not marketed (no registered authorizations) |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (the single authorisation has been cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from formal database sources. Based on established pharmacological knowledge, cytarabine is a pyrimidine nucleoside antimetabolite — after intracellular phosphorylation to its active form ara-CTP, it competitively inhibits DNA polymerase-α and becomes incorporated into elongating DNA strands, causing chain termination. This cytotoxic mechanism is strictly S-phase specific, making cytarabine most active against cells with high proliferation indices.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cytarabine is a pyrimidine nucleoside analogue that inhibits DNA synthesis in cells in S-phase. Its efficacy in acute myeloid leukaemia is established, and mechanistically it may be applicable to rapidly proliferating tumours such as small cell lung carcinoma.
 
-Small cell lung carcinoma is one of the most aggressively proliferating solid tumors, with Ki-67 indices typically exceeding 50%. This biological characteristic theoretically creates susceptibility to S-phase-specific cytotoxic agents. Historical clinical evidence confirms this hypothesis was actively explored: a 1979 study (PMID 232239) directly incorporated cytosine arabinoside into a combination regimen for 20 previously untreated SCLC patients alongside cyclophosphamide and Adriamycin. A 1984 study (PMID 6095640) tested intensive Ara-C infusion in SCLC both as monotherapy in refractory patients and as an addition to the CAV combination in extensive-stage disease. VP-16 plus infusional Ara-C was further evaluated as salvage therapy in relapsed SCLC in 1988 (PMID 2841844).
-
-However, the landscape of SCLC treatment has fundamentally transformed since these historical studies. The current standard of care combines etoposide/platinum-based chemotherapy with PD-L1 checkpoint inhibitors (atezolizumab or durvalumab), achieving substantially improved outcomes compared to older alkylating agent combinations. Cytarabine has not been re-evaluated in modern SCLC clinical trials, and its modest response rates in historical NSCLC Phase II studies (14–18%) underscore the limitation of straightforward extrapolation. The TxGNN high prediction score likely reflects cytarabine's broad cytotoxic profile captured in the knowledge graph topology rather than SCLC-specific contemporary mechanistic validation.
-
----
+The link is plausible but weak. Most retrieved cytarabine studies in lung cancer are older phase II trials in **non-small cell** lung cancer, combined with cisplatin, and they showed modest results (for example, a 14% overall response rate with substantial grade III–IV myelosuppression in one study). One 1987 report on high-dose cytarabine in small cell lung cancer (PMID 3030547) was retrieved, but it has no abstract available, so its findings cannot be assessed. Several other papers concern related drugs (gemcitabine, topotecan, decitabine, pemetrexed) rather than cytarabine itself. Solid tumours are also generally less sensitive to cytarabine than leukaemias, so the high TxGNN score should not be read as clinical support.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03101579](https://clinicaltrials.gov/study/NCT03101579) | Phase 1 | Completed | 13 | Tested intrathecal pemetrexed for recurrent NSCLC leptomeningeal metastases; cytarabine is referenced as the existing standard for intrathecal chemotherapy, providing context for its established role in the CNS compartment |
-| [NCT03507244](https://clinicaltrials.gov/study/NCT03507244) | Phase 1/2 | Completed | 34 | Intrathecal pemetrexed combined with involved-field radiotherapy for solid tumor leptomeningeal metastases; indirectly contextualizes cytarabine's position as a benchmark intrathecal agent |
-| [NCT00863512](https://clinicaltrials.gov/study/NCT00863512) | Phase 3 | Terminated | 34 | Adjuvant chemotherapy for early-stage NSCLC (vinorelbine, cisplatin, docetaxel, gemcitabine, pemetrexed); terminated early due to slow accrual; cytarabine not an investigational agent |
-
-> No contemporary clinical trials evaluating cytarabine specifically in SCLC were identified. All retrieved trials are of low direct relevance (grade C).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [232239](https://pubmed.ncbi.nlm.nih.gov/232239/) | 1979 | Clinical Trial | Med Pediatr Oncol | 20 previously untreated SCLC patients; cyclophosphamide + Adriamycin + cytosine arabinoside (20 mg/m² q12h SC, days 5–9) combined with 3,000 rads radiotherapy; foundational direct evidence of Ara-C use in SCLC |
-| [6095640](https://pubmed.ncbi.nlm.nih.gov/6095640/) | 1984 | Clinical Trial | Am J Clin Oncol | Intensive Ara-C (100 mg/m²/d continuous infusion) in SCLC: no responses in 10 heavily pretreated monotherapy patients; separately added to CAV backbone in 25 extensive-stage SCLC patients |
-| [2841844](https://pubmed.ncbi.nlm.nih.gov/2841844/) | 1988 | Clinical Trial | Am J Clin Oncol | 17 chemotherapy-refractory SCLC patients; VP-16 (three daily bolus doses) + infusional Ara-C (45 mg/m²/d ×72h); evaluates salvage strategy in relapsed disease |
-| [9363869](https://pubmed.ncbi.nlm.nih.gov/9363869/) | 1997 | RCT | J Clin Oncol | CALGB randomized trial of chemotherapy + radiotherapy ± warfarin in limited-stage SCLC; cytarabine-containing backbone regimen; assesses anticoagulation benefit on response and survival |
-| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Phase II | Tumori | 32 advanced NSCLC patients; cisplatin (40 mg/m² days 1–3) + vindesine + cytarabine (15 mg/m² q12h days 1–3); 18% objective response rate; provides dose-finding context |
-| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Phase II | Cancer | 37 chemo-naive advanced NSCLC patients; high-dose cytarabine (3 g/m² IV) + cisplatin (100 mg/m²); 14% overall response rate; Grade IV myelosuppression in 32%, four treatment-related deaths |
-| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilot Study | Eur J Cancer Clin Oncol | Cisplatin + cytarabine combination chemotherapy in advanced NSCLC; pilot feasibility and early efficacy data |
-| [6264785](https://pubmed.ncbi.nlm.nih.gov/6264785/) | 1981 | Case Series | Am J Med | 60 SCLC patients with cerebral and meningeal metastases receiving intensive chemotherapy; 78% CR + PR rate; documents cytarabine-containing regimen utility in CNS compartment SCLC |
-| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Case Report | Gan Kagaku Ryoho | Stage IV SCLC with meningeal carcinomatosis; multidisciplinary treatment including cytarabine-containing intrathecal therapy after systemic progression; illustrates current clinical practice context |
-| [348088](https://pubmed.ncbi.nlm.nih.gov/348088/) | 1978 | Review | Antibiotics Chemother | Comprehensive overview of Ara-C analogs developed to overcome rapid deactivation by cytidine deaminase; mechanistic foundation for understanding cytarabine's pharmacological limitations in solid tumors |
+|------|-----|------|------|---------|
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Phase II trial (NSCLC) | Cancer | High-dose cytarabine plus cisplatin in 37 untreated NSCLC patients: 14% response rate, grade IV myelosuppression in 32%, four deaths on study |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Phase II trial (NSCLC) | Tumori | Cisplatin, vindesine and cytarabine in 32 advanced NSCLC patients; modest activity |
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | Randomised phase II (NSCLC) | Med Pediatr Oncol | Cisplatin-cytarabine vs cisplatin-vinblastine in 151 NSCLC patients |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Pilot study (NSCLC) | Eur J Cancer Clin Oncol | Cisplatin plus cytarabine in advanced NSCLC |
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | Clinical report (SCLC) | Cancer Treat Rep | High-dose cytarabine in small cell lung cancer; no abstract available |
+| [9561978](https://pubmed.ncbi.nlm.nih.gov/9561978/) | 1998 | Clinical report | Arch Neurol | Combined-modality therapy for carcinomatous meningitis from NSCLC |
+| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Case report | Gan To Kagaku Ryoho | Meningeal carcinomatosis with small cell lung carcinoma treated with a multidisciplinary approach |
+| [1360876](https://pubmed.ncbi.nlm.nih.gov/1360876/) | 1992 | In vitro | Cancer Chemother Pharmacol | Drug sensitivity patterns in SCLC cell lines (doxorubicin focus) |
+| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | Review | Gan To Kagaku Ryoho | Gemcitabine and DMDC, structurally related to cytarabine; many solid tumours are insensitive to cytarabine |
+| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Phase II (single-arm) | ESMO Open | Intrathecal pemetrexed (not cytarabine) for leptomeningeal metastases from EGFR+ NSCLC |
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004282 | Vyxeos liposomal (previously Vyxeos) | Not specified | Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related... |
+
+This authorisation is cancelled; no valid authorisations remain.
 
 ## Cytotoxicity
 
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic (Nucleoside antimetabolite / Pyrimidine analog) |
-| Myelosuppression Risk | High — bone marrow suppression is the primary dose-limiting toxicity; severe leukopenia, thrombocytopenia, and anemia are expected dose-dependent effects; Grade IV myelosuppression reported in 32% of patients at high-dose regimens (3 g/m²) (PMID 2156598) |
-| Emetogenicity Classification | Low to moderate (dose-dependent; high-dose regimens ≥3 g/m² may cause more pronounced nausea and vomiting) |
-| Monitoring Items | CBC with differential (nadir at days 7–14), platelet count, liver function tests (AST, ALT, bilirubin), renal function (creatinine, BUN), neurological assessment (cerebellar toxicity risk at high doses ≥1 g/m²) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; closed-system drug transfer devices recommended; special precautions required for high-dose preparation and administration |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (pyrimidine nucleoside antimetabolite) |
+| Myelosuppression Risk | High (grade IV myelosuppression reported in 32% of patients in one high-dose cytarabine plus cisplatin lung cancer study) |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver and renal function |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (from knowledge-graph drug–disease edges, not label text)**: The model flags many conditions, including kidney disease, liver disease, pancreatitis, gallbladder disease, thrombocytopenia, anaemia, leukopenia, neutropenia and agranulocytosis (including congenital neutropenia syndromes), peripheral neuropathy, pulmonary oedema, fungal infections, diarrhoeal disease and necrotising enterocolitis. These are particularly relevant because lung cancer patients may already have compromised marrow or organ function.
+- **Drug Interactions**: 100 interactions were found. The only severity-graded ones are naltrexone (moderate) and levofloxacin (minor); the others, including morphine, metformin, prednisone, simvastatin, vancomycin and several proton-pump inhibitors, have no severity grade.
 
----
+Please refer to the SmPC for full warnings and precautions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-While historical clinical data (1979–1997) demonstrates that cytarabine was directly incorporated into SCLC regimens and provides a mechanistic basis through S-phase-specific cytotoxicity against high-proliferation tumors, the evidence is entirely from the pre-immunotherapy era and no contemporary clinical trials have re-evaluated cytarabine in SCLC. The combination of dated L3 evidence, significant toxicity at effective doses, and displacement by superior modern regimens is insufficient to support current clinical development without fresh validation.
+The prediction has no registered clinical trials and no supportive SCLC data beyond an old report without an available abstract. The NSCLC studies showed limited efficacy with significant toxicity, and the only EU authorisation has been cancelled. Evidence is at the L4 level.
 
 **To proceed, the following is needed:**
-- Contemporary in vitro and in vivo efficacy data in SCLC cell lines and xenograft models, benchmarked against current etoposide/platinum/immunotherapy standards
-- Pharmacokinetic assessment of cytarabine tumor penetration in solid tumor (lung) settings, where rapid deamination by cytidine deaminase significantly limits systemic exposure compared to hematologic disease
-- Formal mechanism of action verification via DrugBank API to document DNA polymerase inhibition relevance in SCLC context
-- Evaluation of a potential niche role in SCLC CNS disease (leptomeningeal metastases) where intrathecal cytarabine delivery may bypass the pharmacokinetic limitations of systemic administration
-- EU regulatory landscape survey for existing cytarabine-containing products (EMA authorization database query required)
-- Exploration of potential synergy or sensitization strategies combining cytarabine with checkpoint inhibitors or targeted agents in SCLC preclinical models
+- Retrieve and appraise the 1987 high-dose cytarabine SCLC report (PMID 3030547)
+- Mechanism of action data and a rationale specific to SCLC
+- Preclinical data on cytarabine in SCLC models
+- Full safety information from the SmPC, since warnings and contraindications could not be obtained
+- A review of the other predicted indications; neuroblastoma has in vitro support but no direct clinical evidence, and the remaining predictions are supported only by indirect or no data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

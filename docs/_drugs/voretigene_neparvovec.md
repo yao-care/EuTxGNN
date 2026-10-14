@@ -2,7 +2,7 @@
 layout: default
 title: Voretigene Neparvovec
 parent: AI Predictions (L5)
-nav_order: 652
+nav_order: 676
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Voretigene neparvovec: From Inherited Retinal Dystrophy to Myxomatous Mitral Valve Prolapse
+# Voretigene neparvovec: From Inherited Retinal Dystrophy (RPE65) to Myxomatous Mitral Valve Prolapse
 
 ## One-Sentence Summary
 
-> Voretigene neparvovec is an AAV2-delivered gene therapy used for RPE65 mutation-associated inherited retinal dystrophy, administered by subretinal injection to restore the visual cycle in retinal pigment epithelial cells.
-> The TxGNN model's top-ranked candidate suggests a possible link to **Myxomatous Mitral Valve Prolapse**, but with a low prediction score (**56.4%**), a rank of over 374,000, and **zero clinical trials or publications** supporting this direction.
-> The evidence pack's own mechanistic assessment identifies this as likely knowledge-graph topological noise rather than a genuine biological signal.
-
----
+Voretigene neparvovec (Luxturna) is an AAV2-based gene therapy, originally used to treat vision loss caused by inherited retinal dystrophy with confirmed biallelic RPE65 mutations.
+The TxGNN model predicts it may be effective for **myxomatous mitral valve prolapse**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | RPE65 mutation-associated inherited retinal dystrophy (inferred from mechanism-of-action description in the evidence pack; no formal EU-approved indication text is available in this dataset) |
-| Predicted New Indication | Myxomatous Mitral Valve Prolapse |
+| Original Indication | Vision loss due to inherited retinal dystrophy caused by confirmed biallelic RPE65 mutations, in adult and paediatric patients with sufficient viable retinal cells |
+| Predicted New Indication | Mitral valve prolapse, myxomatous |
 | TxGNN Prediction Score | 56.42% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Voretigene neparvovec is an AAV2 (adeno-associated virus serotype 2) vector-based gene therapy that is administered exclusively by subretinal injection. It works locally within retinal pigment epithelial cells to deliver a functional copy of the *RPE65* gene, correcting the visual-cycle defect caused by biallelic *RPE65* mutations. This is a highly localized, single-organ therapy with no evidence of systemic biodistribution.
+Currently, detailed mechanism of action data is not available from the compiled data. Based on known information, voretigene neparvovec is a gene therapy that delivers RPE65 cDNA to the retina by subretinal injection using an AAV2 vector, restoring the visual cycle in the retinal pigment epithelium. Its efficacy has been established for RPE65-related retinal dystrophy.
 
-Myxomatous mitral valve prolapse is a degenerative connective-tissue disorder of the cardiac valve apparatus, driven by distinct biological pathways (extracellular matrix remodeling, valvular interstitial cell dysfunction) that are unrelated to the retinal visual cycle or *RPE65* biology. There is no known shared gene, pathway, or tissue target between the original indication and this predicted one.
+No plausible mechanistic link to the predicted indication was found. Myxomatous mitral valve disease involves connective tissue and remodeling of the valvular extracellular matrix, which is unrelated to RPE65 biology. The vector is also delivered locally into the subretinal space, so it would not be expected to act on cardiac valve tissue.
 
-The evidence pack's own repurposing rationale explicitly flags this: given the low TxGNN score (0.56, near the bottom of the model's ranking distribution at position 374,391 out of the full candidate space) and the complete absence of corroborating clinical or literature evidence, the prediction is most plausibly explained as knowledge-graph topological noise rather than a genuine mechanistic association. All nine other top-10 candidates for this drug (pituitary dwarfism, cystic hygroma, conductive hearing loss, median nerve mononeuropathy susceptibility, Wiskott-Aldrich syndrome 2, esophageal malformation, hypermobility syndrome, woolly hair, and an obsolete hypertension term) show the same pattern: low scores, no supporting evidence, and no mechanistic overlap with a gene therapy restricted to subretinal, single-organ delivery.
-
----
+The score of 0.564 is therefore best read as a model output without biological support. The other top-ranked predictions (for example pituitary dwarfism, cystic hygroma, conductive hearing loss, and Wiskott-Aldrich syndrome 2) also lack a mechanistic rationale, which suggests the prediction list for this drug is not informative.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No EU marketing authorization records are available for this drug in the current dataset (market status: Not marketed; 0 licenses on file).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004451 (cancelled) | Luxturna | Not specified | Treatment of adult and paediatric patients with vision loss due to inherited retinal dystrophy caused by confirmed biallelic RPE65 mutations and who have sufficient viable retinal cells. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
----
+Please refer to the SmPC for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has a low TxGNN score (56.4%) and an extremely low rank (~374,000), no supporting clinical trials or literature, and no plausible mechanistic link between a localized subretinal *RPE65* gene therapy and a degenerative cardiac valve disorder. The evidence pack itself assesses this as likely model noise rather than a true signal, and the same pattern holds across all ten top-ranked candidates for this drug.
+The prediction has no clinical trials, no literature, and no plausible mechanistic link (Evidence Level L5). The drug's only EU authorization is cancelled, and a locally delivered retinal gene therapy is not suited to a valvular connective tissue disease. This candidate should not advance.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label warnings and contraindications (currently a blocking data gap; required before any safety pre-assessment, S1, can begin)
-- Confirmed mechanism-of-action and formal indication text from DrugBank or an official regulatory source (currently a data gap; the MOA used in this report was inferred from narrative rationale text, not a verified structured field)
-- Any future TxGNN re-run with updated evidence should re-check whether higher-scoring, mechanistically plausible candidates emerge before further investment in this drug's repurposing pathway
+- Mechanism of action data for the drug
+- Safety information (warnings and contraindications) from the product information
+- A biological rationale linking RPE65 gene replacement to mitral valve pathology
+- Preclinical evidence in a relevant valve disease model, plus a feasible delivery route to cardiac tissue
+- Clarification of the reason for the cancelled EU authorization
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

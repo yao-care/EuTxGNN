@@ -2,7 +2,7 @@
 layout: default
 title: Sacituzumab Govitecan
 parent: AI Predictions (L5)
-nav_order: 525
+nav_order: 543
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,79 +29,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct documentation task with an explicit output template supplied in the system prompt; I'll follow it directly.
-
-# Sacituzumab Govitecan: Original Indication Unknown — Predicted Signal for Drug-Induced Osteoporosis
+# Sacituzumab govitecan: From Triple-Negative Breast Cancer to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-> The original indication for Sacituzumab govitecan is not recorded in this evidence pack (data gap), though the drug is identifiable as a Trop-2-directed antibody-drug conjugate (ADC) with a cytotoxic SN-38 payload.
-> The TxGNN model predicts a possible link to **Drug-Induced Osteoporosis**,
-> but this is supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags the signal as mechanistically implausible.
+Sacituzumab govitecan (Trodelvy) was originally used to treat unresectable or metastatic triple-negative breast cancer.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**,
+but **no clinical trials and no publications** currently support this prediction, which is a computational result only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no data on file) |
+| Original Indication | Monotherapy for adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have received two or more prior systemic therapies, including at least one for advanced disease |
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data (`original_moa`) is marked as a data gap. However, the evidence pack's own repurposing rationale identifies Sacituzumab govitecan as a **Trop-2-directed antibody-drug conjugate (ADC)**, whose payload is **SN-38** — a topoisomerase I inhibitor and the active metabolite of irinotecan. Its clinical mechanism is cytotoxic tumour cell killing, consistent with known cytotoxic ADC oncology agents.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sacituzumab govitecan is a Trop-2-directed antibody-drug conjugate that delivers SN-38, a topoisomerase I inhibitor, to tumour cells. Its efficacy has been shown in metastatic triple-negative breast cancer.
 
-This mechanism has **no established link to bone metabolism regulation** (RANKL/OPG signalling, osteoclast activity) or to drug-induced osteoporosis pathophysiology. If anything, the pharmacology runs in the opposite direction: cytotoxic chemotherapeutic agents are known to potentially cause myelosuppression and metabolic disturbance, which would be more consistent with a *safety* signal than a *therapeutic* one for bone health.
+No plausible mechanistic link to drug-induced osteoporosis can be established. Nothing in the data suggests a bone-protective effect, and cytotoxic chemotherapy is more often associated with bone loss than with bone protection. The high score (0.998) reflects model output only and is not backed by trials or literature.
 
-The same pattern repeats across the remaining top-10 predictions (diabetic retinopathy, diabetic/cortical/nuclear/senile/mature/immature cataract subtypes). This clustering — multiple closely related ophthalmic conditions all scoring similarly — is a typical signature of a TxGNN knowledge-graph embedding artifact rather than 10 independent pharmacological signals. Given ADCs carrying topoisomerase-inhibitor payloads have documented ocular toxicity potential, it is plausible this cluster reflects a mislabelled *toxicity* association rather than genuine therapeutic candidacy. **This prediction is not considered pharmacologically reasonable based on currently available data.**
+Other top predictions (severe nonproliferative diabetic retinopathy, diabetic retinopathy, and several cataract subtypes) share the same weakness. Several cataract subtypes have identical scores, which suggests redundant knowledge-graph propagation rather than disease-specific biology.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-Sacituzumab govitecan currently holds **0 authorizations** and is **not marketed** in the EU dataset covered by this evidence pack (`total_licenses: 0`, `licenses: []`). No authorization records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005182 (status: cancelled) | Trodelvy | Not specified | Trodelvy as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have... |
 
 ## Cytotoxicity
 
-Sacituzumab govitecan is classified as antineoplastic based on the drug's own mechanistic description in this evidence pack (Trop-2-directed ADC with SN-38/topoisomerase I inhibitor payload, cytotoxic tumour cell killing).
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (antibody-drug conjugate with cytotoxic SN-38 payload) |
-| Myelosuppression Risk | High — cytotoxic topoisomerase I inhibitor payloads are known to carry myelosuppression risk; no drug-specific toxicity dataset available for confirmation |
+| Cytotoxicity Classification | Antibody-drug conjugate with a cytotoxic topoisomerase I inhibitor payload (SN-38) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | CBC with differential (neutropenia/anaemia/thrombocytopenia surveillance), renal and hepatic function |
-| Handling Protection | Cytotoxic drug handling precautions apply pending confirmation via SmPC/TFDA labelling |
+| Monitoring Items | Please refer to the SmPC warnings and precautions (typically blood counts and liver and renal function) |
+| Handling Protection | Handle according to cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 40 interactions were recorded, including the following main ones.
+  - **Major**: deferiprone, fostamatinib, adalimumab, apalutamide, certolizumab pegol, cladribine, dacomitinib, irinotecan, leflunomide, natalizumab, nilotinib, ozanimod
+  - **Moderate**: alefacept, alemtuzumab, anakinra, canakinumab, dimethyl fumarate, lorlatinib, ocrelizumab, omacetaxine mepesuccinate
 
-> **Note:** TFDA label warnings/contraindications are flagged in this evidence pack as a **Blocking data gap** (DG001) — this prevents completion of the initial S1 safety screen and must be resolved before any further evaluation.
+  Many of these are immunosuppressants or myelosuppressive agents, and irinotecan shares the SN-38 active metabolite pathway.
+
+- **Other safety concerns**: Systemic cytotoxic exposure carries risks such as myelosuppression and diarrhoea. These are hard to justify in a non-oncologic, non-life-threatening condition.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- Evidence level is L5 (model prediction only — zero supporting clinical trials or literature), and the drug's own mechanistic profile (cytotoxic ADC) has no plausible link to drug-induced osteoporosis or the other clustered ophthalmic predictions in the top-10 list.
-- A blocking safety data gap (TFDA warnings/contraindications, DG001) prevents this candidate from even entering the S1 safety screening stage.
+The prediction rests on a model score alone, with no trials, no literature, and no plausible mechanism. The cytotoxic profile of the drug makes the risk-benefit balance unfavourable for drug-induced osteoporosis. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA label PDF (warnings, contraindications) — DG001, blocking
-- Confirmed mechanism of action documentation via DrugBank API — DG002
-- Independent pharmacological review of the top-10 prediction cluster to rule out embedding artifact before pursuing any candidate from this list
-- If pursued, safety review specifically addressing whether the osteoporosis/eye-condition cluster reflects a mislabelled toxicity signal rather than efficacy signal
+- Mechanism of action data to assess any biological link to bone metabolism
+- Preclinical or observational evidence supporting a bone-related effect
+- Label warnings and contraindications from the SmPC to complete the safety review
+- Clarification of why the EU authorization was cancelled and of the current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

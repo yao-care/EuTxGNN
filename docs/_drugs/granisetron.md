@@ -2,7 +2,7 @@
 layout: default
 title: Granisetron
 parent: AI Predictions (L5)
-nav_order: 285
+nav_order: 295
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,70 +33,65 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Granisetron is a selective 5-HT3 receptor antagonist established for preventing chemotherapy- and radiotherapy-induced nausea and vomiting. The TxGNN model predicts it may also be effective for **Manic Bipolar Affective Disorder**, but this direction is currently supported by **0 clinical trials** and **0 publications** — the signal rests entirely on a mechanistic hypothesis, not on observed clinical data.
-
----
+Granisetron is a 5-HT3 receptor antagonist, originally used to prevent nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials and no publications** currently support this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chemotherapy-/radiotherapy-induced nausea and vomiting (general pharmacological knowledge for granisetron; no jurisdiction-specific license text is available because the drug is not marketed in the evaluated jurisdiction) |
-| Predicted New Indication | Manic Bipolar Affective Disorder |
+| Original Indication | Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days |
+| Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed, sourced mechanism-of-action data for granisetron is not available in this evidence pack (flagged as a High-severity data gap). What is available comes from the model's own repurposing rationale, which identifies granisetron as a 5-HT3 (serotonin) receptor antagonist. The rationale proposes that 5-HT3 blockade could theoretically modulate central serotonin–dopamine crosstalk implicated in mood circuitry, drawing an analogy to exploratory adjunctive use of a related 5-HT3 antagonist (ondansetron) in mania. Critically, the evidence pack itself flags this as an extrapolation: granisetron has **no direct data** in bipolar disorder, and the link is described as a "mechanistic extension, lacking direct evidence."
+Detailed mechanism of action data is not available in the data compiled for this report. Granisetron is known to be a selective 5-HT3 receptor antagonist, and its efficacy in chemotherapy-induced nausea and vomiting is established.
 
-This same 5-HT3-antagonism mechanism appears repeatedly across the ten TxGNN predictions in this pack, but the model's own scoring treats it very differently depending on plausibility. For **manic bipolar affective disorder**, **Tourette syndrome**, and **trichotillomania**, the recommendation is "Research Question" — these are conditions with known serotonergic/dopaminergic involvement, so a central 5-HT3 mechanism is at least biologically conceivable. For **conjunctivitis, allergic/cold urticaria, angioedema, bronchitis, and nephrogenic SIAD**, the recommendation is "Hold" — these conditions have no plausible connection to 5-HT3 antagonism, and several (urticaria, angioedema) are actually **known adverse effects of granisetron**, suggesting the model may be picking up an adverse-event co-occurrence signal in the knowledge graph rather than a genuine therapeutic association.
+A theoretical link to mania exists through serotonergic and dopaminergic modulation in limbic circuits. Other 5-HT3 antagonists, such as ondansetron, have been explored in neuropsychiatric conditions. However, this link is speculative. No granisetron-specific trials or literature were found, and the TxGNN score reflects a computational prediction rather than clinical evidence.
 
-In short, the mania prediction is the most mechanistically defensible of the ten candidates, but it remains a hypothesis generated purely from graph-based inference, with no supporting trial or literature evidence to date.
-
----
+Other top-ranked predictions include Tourette syndrome (99.52%), trichotillomania (99.23%), and several urticaria, conjunctivitis and other conditions. Some of these, such as Tourette syndrome and trichotillomania, have a speculative class-level rationale. Others, such as nephrogenic syndrome of inappropriate antidiuresis, conjunctivitis and bronchitis, appear to be network artifacts without a plausible mechanism. None has clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-Granisetron currently has **no marketing authorization on record** in the evaluated jurisdiction (market status: Not Marketed; 0 licenses). No product/dosage-form/indication data is available to tabulate.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002296 (cancelled) | Sancuso | Not specified | Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients rece... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Warnings, contraindications, and drug–drug interaction data for granisetron were not retrievable in this evidence pack — this is logged as a Blocking data gap that must be resolved before any safety evaluation can proceed.)
+- **Knowledge-graph contraindication signals** (from a computational knowledge graph, not label text): long QT syndrome, familial long QT syndrome, potassium deficiency disease (hypokalaemia), sudden cardiac arrest, heart conduction disease.
+- **Drug Interactions**: 100 interactions were identified; the first 20 retrieved are summarized here.
+  - **Major**: fentanyl, dextromethorphan, tramadol, alfentanil, almotriptan, sumatriptan, amiodarone, amisulpride, amitriptyline, anagrelide. These include serotonergic agents (risk of serotonin syndrome) and QT-prolonging agents.
+  - **Moderate**: abametapir (topical), abiraterone, dihydrocodeine, codeine, famotidine, formoterol, adenosine, salbutamol, alfuzosin, propofol.
 
----
+Please refer to the SmPC for label-based warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (manic bipolar affective disorder) is supported only by a model score and an unvalidated mechanistic hypothesis — there are zero clinical trials and zero publications, placing this at the lowest evidence tier (L5). Compounding this, a **Blocking** data gap on TFDA warning/contraindication information means a basic safety assessment (S1) cannot even be initiated, and granisetron holds no marketing authorization in the evaluated jurisdiction.
+The prediction is supported only by the TxGNN model score (L5). There are no registered trials or publications, the mechanistic link is speculative, and the only EU authorization is cancelled. The cardiac contraindication signals and the many QT-related and serotonergic interactions also matter in a psychiatric population that often takes interacting drugs.
 
 **To proceed, the following is needed:**
-- TFDA/regulatory label data (warnings and contraindications) to resolve the Blocking data gap and enable a safety pre-screen
-- Verified mechanism-of-action data via DrugBank API to properly assess the biological plausibility of the serotonin–mania link
-- Preclinical or mechanistic studies specifically examining 5-HT3 antagonism in mood/impulse-control disorders (bipolar mania, Tourette syndrome, trichotillomania), since current support is inferred by analogy to other 5-HT3 antagonists rather than granisetron-specific data
-- Confirmation of current market/authorization status for granisetron in the target jurisdiction
+- Mechanism of action data (e.g., from DrugBank)
+- Label warnings and contraindications from the EMA package insert, to complete safety screening
+- Preclinical or early clinical studies of granisetron (or 5-HT3 antagonists as a class) in mania or bipolar disorder
+- A cardiac safety assessment (QT interval, electrolytes) and an interaction review for typical psychiatric co-medications
+- Comparison of the higher-plausibility candidates (Tourette syndrome, trichotillomania) before committing resources
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

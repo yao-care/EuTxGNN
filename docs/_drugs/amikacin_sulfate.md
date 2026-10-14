@@ -2,7 +2,7 @@
 layout: default
 title: Amikacin Sulfate
 parent: AI Predictions (L5)
-nav_order: 44
+nav_order: 45
 evidence_level: L5
 indication_count: 0
 ---

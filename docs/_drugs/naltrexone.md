@@ -2,7 +2,7 @@
 layout: default
 title: Naltrexone
 parent: AI Predictions (L5)
-nav_order: 406
+nav_order: 420
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Naltrexone: From Unregistered Indication to Hypervitaminosis (Low-Confidence Signal)
+# Naltrexone: From Weight Management to Hypervitaminosis
 
 ## One-Sentence Summary
 
-Naltrexone (DrugBank DB00704) currently has no recorded marketing authorization or approved indication in this jurisdiction, and detailed mechanism-of-action data is not yet available in this evidence pack. The TxGNN model's top-ranked prediction is **Hypervitaminosis**, but this association is supported by **0 clinical trials** and **0 publications**, and the internal mechanistic review flags it as likely model noise rather than a biologically plausible signal.
-
----
+Naltrexone (an opioid receptor antagonist) was authorised in the EU as a component of Mysimba for weight management in adults with obesity or overweight. The TxGNN model predicts it may be effective for **hypervitaminosis**, but this rests on the model score alone, with **0 clinical trials** and **0 publications** supporting the prediction. The top-ranked prediction is therefore not supported by evidence, and the recommendation is to hold.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no marketing authorizations on file for this drug in this jurisdiction |
+| Original Indication | Adjunct to a reduced-calorie diet and increased physical activity for weight management in adults (≥18 years) with BMI ≥ 30 kg/m² (obese), or ≥ 27 to < 30 kg/m² (overweight) with one or more weight-related comorbidities; discontinue after 16 weeks if less than 5% of initial body weight is lost |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 98.66% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on the information provided, Naltrexone's original approved indication(s) are also not recorded in this evidence pack — the drug is not currently marketed in this jurisdiction (0 authorizations on file).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, naltrexone is an opioid receptor antagonist. In Mysimba it is combined with bupropion, and the combination is used to reduce appetite and food reward.
 
-Naltrexone is pharmacologically known as an opioid receptor antagonist. However, for the top-ranked prediction, **Hypervitaminosis** (vitamin overdose/toxicity), the evidence pack's own rationale explicitly states there is *"no plausible mechanism: opioid receptor antagonism has no known intersection with vitamin-overdose metabolic pathways"*, and classifies this as likely **TxGNN embedding noise** rather than a genuine signal.
+No plausible mechanistic link was identified between opioid receptor antagonism and hypervitaminosis. The high score (98.66%) is a model output only, and no trial or publication supports it. Weight management and vitamin excess are unrelated therapeutic areas. The prediction should be regarded as a hypothesis-generating artefact of the knowledge graph, not a credible repurposing signal.
 
-Reviewing the remaining top-10 predictions reinforces this concern: most candidates (e.g., proximal 16p11.2 microdeletion syndrome, obsolete hypertelorism, frontorhiny, DECR deficiency leukodystrophy, myxomatous mitral valve prolapse, bridged sella turcica, nonopposable triphalangeal thumb) have no mechanistic rationale connecting them to opioid receptor pharmacology, and several are rare congenital/structural conditions or even obsolete disease terms. The one candidate with an evidence-based literature trail — **restless legs syndrome (rank 5, L4)** — is itself mechanistically ambiguous: the cited literature suggests endogenous opioid *deficiency* may underlie RLS pathophysiology, implying an opioid *agonist* (not an antagonist like naltrexone) would be the more logical therapeutic direction. As such, none of the top-10 predictions in this pack currently present a mechanistically coherent, evidence-supported repurposing case.
+### Other predicted indications reviewed
 
----
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Proximal 16p11.2 microdeletion syndrome | 98.13% | L5 | Obesity and neurodevelopmental features loosely overlap with naltrexone's effects; speculative and without evidence |
+| 5 | Restless legs syndrome | 92.20% | L4 | The opioid system is implicated in RLS, but opioid antagonism may worsen symptoms; none of the five retrieved papers shows a therapeutic effect of naltrexone |
+| 8 | ADHD, inattentive type | 62.20% | L5 | Indirect hypothesis around impulsivity and reward pathways; no trials or literature |
+| 3, 4, 6, 7, 9, 10 | Structural, congenital or metabolic conditions (e.g., hypertelorism, frontorhiny, DECR deficiency, myxomatous mitral valve prolapse, bridged sella turcica, triphalangeal thumb) | 61.77%–95.64% | L5 | No pharmacological rationale; likely knowledge-graph artefacts |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for hypervitaminosis or for any of the other top-ranked predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hypervitaminosis.
 
-*(Note: literature evidence exists for the rank-5 candidate, restless legs syndrome, but not for the top-ranked prediction, hypervitaminosis, shown above. See Conclusion for further discussion.)*
+For reference, the only literature retrieved among the top 10 predictions was for restless legs syndrome (rank 5). These papers do not show a direct therapeutic effect of naltrexone in that condition:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41090493](https://pubmed.ncbi.nlm.nih.gov/41090493/) | 2025 | Review | Cochrane Database of Systematic Reviews | Treatments for impulsive-compulsive behaviors in Parkinson's disease; not specific to naltrexone in RLS |
+| [33238082](https://pubmed.ncbi.nlm.nih.gov/33238082/) | 2020 | Review | Journal of Clinical Psychiatry | Critical appraisal of gabapentin for alcohol-related disorders; RLS is mentioned only as a gabapentin indication |
+| [40686928](https://pubmed.ncbi.nlm.nih.gov/40686928/) | 2025 | Cohort | Brain, Behavior, & Immunity - Health | Neuropsychiatric disorders in mast cell activation syndrome; not about naltrexone in RLS |
+| [15130554](https://pubmed.ncbi.nlm.nih.gov/15130554/) | 2004 | Cohort | Neurophysiologie Clinique | Gabapentin for symptoms (including restless legs) after rapid opiate detoxification |
+| [39893547](https://pubmed.ncbi.nlm.nih.gov/39893547/) | 2026 | Pharmacovigilance analysis | Expert Opinion on Drug Safety | Adverse-event signal analysis for naltrexone from the FAERS database |
 
 ## EU Market Information
 
-No marketing authorizations are currently on file for this drug in this jurisdiction (0 licenses; market status: Not Marketed).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/003687 (cancelled) | Mysimba | Not specified | Adjunct to a reduced-calorie diet and increased physical activity for weight management in adults with obesity (BMI ≥ 30) or overweight (BMI ≥ 27)... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+**Contraindication signals from the knowledge graph** (these are drug-disease contraindication links from a knowledge graph, not label text). Flagged conditions include:
+- **Liver:** liver failure, acute liver failure, liver disease, hepatitis
+- **Neurological and psychiatric:** epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder
+- **Respiratory:** chronic obstructive pulmonary disease, respiratory failure
+- **Endocrine:** hypothyroidism, myxedema, congenital hypothyroidism, Addison disease, adrenal insufficiency and related adrenal disorders, congenital adrenal hyperplasia
+- **Other:** pancreatitis, gallbladder disease, impaired renal function, benign prostatic hyperplasia, hypotensive disorder, chronic diarrheal disease, paralytic ileus
 
-*(Drug-level safety data — including TFDA/regulatory label warnings and contraindications — is marked as a **Blocking** data gap in this evidence pack and has not yet been retrieved.)*
+**Drug Interactions:** 100 interactions were recorded. Those in the listed sample are mostly of Moderate severity. The **Major** interactions in the sample are with opioid analgesics:
+- Fentanyl
+- Codeine
+- Dihydrocodeine
+- Tramadol
 
----
+Naltrexone blocks opioid receptors, so the concern is reduced opioid effect. Moderate-level interactions in the sample include ethanol, ibuprofen, ketorolac, acetaminophen, isotretinoin, acitretin and several antiretroviral and oncology agents.
+
+Label warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (Hypervitaminosis) has no clinical trial or literature support and is explicitly flagged by the internal mechanistic review as likely model noise, with no plausible biological link to opioid receptor antagonism. In addition, two drug-level data gaps are marked **Blocking**/**High** severity — missing mechanism-of-action data and missing regulatory label warnings/contraindications — meaning this candidate has not yet cleared the initial safety screening stage (S1).
+The top prediction (hypervitaminosis) has a high model score but no trials, no literature and no plausible mechanism, so it sits at evidence level L5. The product's only EU authorisation is cancelled. None of the other top-ranked predictions has supporting clinical evidence. Restless legs syndrome (L4) is a research question only, because opioid antagonism may worsen symptoms.
 
 **To proceed, the following is needed:**
-- Retrieve Naltrexone's mechanism-of-action data via the DrugBank API (DG002)
-- Obtain the applicable regulatory label (warnings/contraindications) to complete S1 safety screening (DG001, Blocking)
-- If pursuing further evaluation, prioritize the restless legs syndrome candidate (rank 5, L4, 5 supporting publications) over Hypervitaminosis, while resolving the antagonist-vs-agonist mechanistic conflict noted above
-- Independently re-validate the top-10 prediction list for mechanistic plausibility before committing further review resources, given multiple candidates in this batch appear to be low-confidence embedding artifacts (including one obsolete disease term)
+- Label warnings and contraindications from the SmPC (currently a blocking gap for safety screening)
+- Mechanism of action data for naltrexone
+- A mechanistic or preclinical rationale linking opioid antagonism to the predicted condition
+- Targeted literature and trial searches for the more plausible candidates (restless legs syndrome, ADHD, 16p11.2 microdeletion syndrome)
+- Clarification of why the Mysimba authorisation was cancelled and whether any other EU naltrexone products are authorised
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

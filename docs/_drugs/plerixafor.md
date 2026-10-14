@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Plerixafor
-parent: Medium Evidence (L3-L4)
-nav_order: 474
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 490
+evidence_level: L5
 indication_count: 10
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,109 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Plerixafor: From Stem Cell Mobilization to Indolent Plasma Cell Myeloma
+# Plerixafor: From Stem Cell Mobilisation in Lymphoma and Multiple Myeloma to Indolent Plasma Cell Myeloma
 
 ## One-Sentence Summary
 
-Plerixafor is a CXCR4 antagonist originally used to mobilize peripheral blood stem cells for autologous transplantation in patients with lymphoma and multiple myeloma. The TxGNN model predicts it may be effective for **Indolent Plasma Cell Myeloma**, but currently **0 clinical trials** and **0 publications** directly support this specific indication — the signal rests entirely on mechanistic reasoning.
-
----
+Plerixafor is a CXCR4 antagonist, originally used together with G-CSF to mobilise haematopoietic stem cells for autologous transplantation in patients with lymphoma and multiple myeloma.
+The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**, but **no clinical trials or publications** currently support this specific prediction.
+The data compiled for this report show much stronger support for a related prediction, **myeloid leukemia** (25 clinical trials and 20 publications, all early-phase), which is discussed below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peripheral blood stem cell mobilization prior to autologous transplantation (non-Hodgkin lymphoma, multiple myeloma) |
-| Predicted New Indication | Indolent Plasma Cell Myeloma |
+| Original Indication | Mobilisation of haematopoietic stem cells (with G-CSF) for autologous transplantation in lymphoma and multiple myeloma patients whose cells mobilise poorly |
+| Predicted New Indication | Indolent plasma cell myeloma |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only (no currently valid authorisation in the data) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Plerixafor is a CXCR4 chemokine receptor antagonist that is well established as an adjunct to G-CSF for mobilizing hematopoietic stem cells in patients with non-Hodgkin lymphoma and multiple myeloma prior to autologous transplantation (confirmed by trial documentation in the evidence pack, e.g. NCT01319864: "Plerixafor is FDA approved for mobilizing stem cells from the bone marrow").
+Detailed mechanism of action data are not available in the compiled data. Pharmacology records show that plerixafor targets the chemokine receptors **CXCR4** and **ACKR3**. Blocking CXCR4 disrupts its interaction with CXCL12, which normally anchors stem cells in the bone marrow. This is how plerixafor releases stem cells into the blood for collection.
 
-Mechanistically, the CXCR4/CXCL12 axis also governs the homing and survival of malignant plasma cells within the bone marrow niche. Because plerixafor already has extensive safety experience in myeloma patients (in the stem-cell-mobilization setting), the hypothesis that blocking this same axis could reduce plasma cell tumor burden in indolent plasma cell myeloma is biologically plausible.
+Plerixafor is already used in multiple myeloma for stem cell mobilisation, so the model likely scores the indolent (smouldering) subtype highly because of its closeness to this approved use. A plausible link is that CXCR4/CXCL12 signalling helps myeloma cells home to and stay in the bone marrow niche. However, nothing in the compiled data supports this for the indolent subtype, so the link remains speculative.
 
-That said, this remains a **theoretical extrapolation**. No trial or publication in this evidence pack tests plerixafor as a direct treatment for indolent/smoldering myeloma — the rationale is built entirely on the drug's known pharmacology and its established, but indirect, safety footprint in the myeloma population.
-
----
+**Other predictions in the data.** The strongest-supported prediction is **myeloid leukemia** (TxGNN score 99.02%, evidence level L2). Here, blocking CXCR4 is thought to free leukaemic cells and leukaemic stem cells from the protective marrow niche and make them more sensitive to chemotherapy. The evidence is mostly early-phase and single-arm. There is no Phase 3 RCT, and benefit over chemotherapy alone has not been shown. Predictions for melanoma subtypes, bronchitis, cecal lesions and CMM7 rest on computation or indirect preclinical data only. Bronchitis is likely a model artefact.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered for indolent plasma cell myeloma.
 
----
+For reference, the main trials for the better-supported prediction, myeloid leukemia, are shown below (10 of 25 listed):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00512252](https://clinicaltrials.gov/study/NCT00512252) | Phase 1/2 | Completed | 52 | Plerixafor with mitoxantrone, etoposide and cytarabine in relapsed/refractory AML |
+| [NCT00906945](https://clinicaltrials.gov/study/NCT00906945) | Phase 1/2 | Completed | 39 | Plerixafor plus G-CSF as chemosensitisation in relapsed/refractory AML |
+| [NCT00990054](https://clinicaltrials.gov/study/NCT00990054) | Phase 1 | Completed | 36 | Dose escalation with cytarabine and daunorubicin ("7+3") in newly diagnosed AML |
+| [NCT01319864](https://clinicaltrials.gov/study/NCT01319864) | Phase 1 | Completed | 20 | Plerixafor as chemosensitiser with cytarabine and etoposide in paediatric relapsed acute leukaemia and MDS |
+| [NCT01352650](https://clinicaltrials.gov/study/NCT01352650) | Phase 1 | Completed | 71 | Decitabine plus plerixafor priming in AML patients aged 60 or older |
+| [NCT01435343](https://clinicaltrials.gov/study/NCT01435343) | Phase 1/2 | Completed | 55 | Fludarabine, idarubicin, cytarabine, G-CSF and plerixafor in relapsed/refractory AML |
+| [NCT00822770](https://clinicaltrials.gov/study/NCT00822770) | Phase 1/2 | Completed | 47 | G-CSF and plerixafor with busulfan/fludarabine before allogeneic transplant |
+| [NCT01160354](https://clinicaltrials.gov/study/NCT01160354) | Phase 1/2 | Terminated | 22 | Plerixafor and clofarabine in older untreated AML; closed early |
+| [NCT02605460](https://clinicaltrials.gov/study/NCT02605460) | Phase 2 | Unknown | 20 | CXCR4 antagonist chemosensitisation before stem cell transplant in acute leukaemia |
+| [NCT01455025](https://clinicaltrials.gov/study/NCT01455025) | Phase 1 | Terminated | 11 | Dose escalation with induction/consolidation chemotherapy in relapsed AML; small sample |
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for indolent plasma cell myeloma.
 
----
+For reference, key publications for myeloid leukemia (10 of 20 listed):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22308295](https://pubmed.ncbi.nlm.nih.gov/22308295/) | 2012 | Phase 1/2 trial | Blood | Chemosensitisation with plerixafor in 52 patients with relapsed/refractory AML |
+| [32877869](https://pubmed.ncbi.nlm.nih.gov/32877869/) | 2020 | Systematic review/meta-analysis | Leukemia Research | Plerixafor with chemotherapy and/or transplant in acute leukaemia, preclinical and clinical studies |
+| [39261603](https://pubmed.ncbi.nlm.nih.gov/39261603/) | 2024 | Review | Leukemia | CXCR4 as a therapeutic target in AML |
+| [29392425](https://pubmed.ncbi.nlm.nih.gov/29392425/) | 2018 | Phase 1/2 trial | Annals of Hematology | PLERIFLAG regimen in early-relapsed or refractory AML |
+| [29724902](https://pubmed.ncbi.nlm.nih.gov/29724902/) | 2018 | Phase 1 trial | Haematologica | Plerixafor plus decitabine in older patients with newly diagnosed AML |
+| [32697348](https://pubmed.ncbi.nlm.nih.gov/32697348/) | 2020 | Phase 1 trial | American Journal of Hematology | Sorafenib, G-CSF and plerixafor in relapsed/refractory FLT3-ITD AML |
+| [30654137](https://pubmed.ncbi.nlm.nih.gov/30654137/) | 2019 | Phase 1 trial | Biol Blood Marrow Transplant | Safety of plerixafor with myeloablative conditioning before allogeneic transplant |
+| [33644841](https://pubmed.ncbi.nlm.nih.gov/33644841/) | 2021 | Phase 1 trial | Int J Hematol | Plerixafor with TBI-based myeloablative conditioning (9 patients) |
+| [28916148](https://pubmed.ncbi.nlm.nih.gov/28916148/) | 2017 | Review | Methods | CXCR4/CXCL12 in homing and migration; plerixafor already in clinical use for mobilisation |
+| [32079173](https://pubmed.ncbi.nlm.nih.gov/32079173/) | 2020 | Review | Biology | CXCR4 antagonists as stem cell mobilisers and therapy sensitisers in AML and glioblastoma |
 
 ## EU Market Information
 
-Plerixafor currently holds no marketing authorization in this registry (status: Not Marketed, 0 authorizations recorded). No product, dosage form, or approved-indication data is available to tabulate.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001030 (cancelled) | Mozobil | Not specified | Mozobil is indicated in combination with granulocyte-colony-stimulating factor to enhance mobilisation of haematopoietic stem cells to th... |
+| EMEA/H/C/005943 (cancelled) | Plerixafor Accord | Not specified | Adult patients Plerixafor Accord is indicated in combination with granulocyte-colony stimulating factor (G-CSF) to enhance mobilisat... |
 
----
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Not a conventional cytotoxic. Plerixafor is a CXCR4 antagonist used to mobilise stem cells and, in the leukaemia trials, as a chemosensitiser alongside cytotoxic regimens |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations from the knowledge graph:** The TxGNN knowledge graph links plerixafor to contraindication-type relationships with thrombocytopenia, impaired renal function and leukemia. These come from a computational graph, not from label text, and should be checked against the SmPC.
+- **Pharmacological interactions:** Plerixafor acts on CXCR4 and ACKR3. No drug-drug interactions with severity levels were recorded.
+- **Expected pharmacological effect:** Plerixafor raises circulating white blood cell counts (leukocytosis) by mobilising cells into the blood. This is relevant to the leukaemia setting and to any inflammatory conditions.
 
-> Note: Both key warnings and contraindications are flagged as a **Blocking** data gap (DG001) in the evidence pack — TFDA/label-level safety data has not yet been retrieved, which by itself prevents this candidate from clearing initial safety screening (S1).
-
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (indolent plasma cell myeloma) has no direct clinical trial or literature support — evidence level L4 reflects mechanism-only reasoning. Combined with a **blocking** data gap on warnings/contraindications and the drug's current unmarketed status in this jurisdiction, there is not enough evidence to move this specific indication past a research hypothesis.
+For the top-ranked prediction, indolent plasma cell myeloma, there are no trials or publications, so the evidence is limited to the model score (L5). All EU authorisations for plerixafor are listed as cancelled in the compiled data. The myeloid leukemia direction has more support (L2, early-phase trials) and could be pursued as a separate research question, but benefit over chemotherapy alone has not been shown.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (Blocking): retrieve label-level warnings and contraindications before any S1 safety evaluation
-- Resolve DG002: obtain confirmed mechanism-of-action detail from DrugBank/SmPC
-- Generate or identify preclinical/clinical data testing plerixafor specifically in indolent/smoldering plasma cell myeloma (current evidence only covers active myeloma stem-cell mobilization, not indolent-stage treatment)
-- Consider that among the 10 candidates in this evidence pack, **myeloid leukemia** (rank 7) has substantially stronger support — evidence level L2, with multiple completed Phase 1/2 trials (e.g. NCT01352650, NCT00990054, PMID 22308295, PMID 29724902) testing plerixafor as a CXCR4-blocking chemosensitizer. If the sponsor wants to advance a plerixafor repurposing program, that indication warrants separate, prioritized evaluation ahead of indolent plasma cell myeloma.
+- Clinical or preclinical evidence on CXCR4/CXCL12 in indolent (smouldering) myeloma
+- Detailed mechanism of action data
+- Warnings and contraindications from the current SmPC, and confirmation of the EU authorisation status
+- For the leukaemia direction, randomised comparative data and a safety review of the terminated trials
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

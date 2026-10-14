@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mexiletine
-parent: Medium Evidence (L3-L4)
-nav_order: 390
-evidence_level: L3
+parent: AI Predictions (L5)
+nav_order: 404
+evidence_level: L5
 indication_count: 10
 ---
 
 # Mexiletine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,69 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Mexiletine: From Ventricular Arrhythmia to Headache Disorder
+# Mexiletine: From Non-Dystrophic Myotonia to Hypertrichosis
 
 ## One-Sentence Summary
 
-Mexiletine is a Class IB sodium-channel blocker with an established history as an oral antiarrhythmic and as an off-label agent for neuropathic pain and myotonia. Among the ten TxGNN-predicted indications in this evidence pack, **Headache Disorder** is the one with actual, drug-specific supporting literature — **0 clinical trials but 7 publications** (including several case series naming mexiletine directly), whereas the model's top-ranked candidates (e.g., hypertrichosis, nephrogenic SIAD) have no supporting evidence at all and are flagged internally as likely noise.
-
-> **Note on indication selection:** TxGNN's #1-ranked prediction by raw score is "hypertrichosis," which has zero clinical trials, zero literature, and an explicit rationale stating no known mechanistic link. This report instead profiles **Headache Disorder** (TxGNN rank 10, score 99.48%), the candidate with the strongest actual evidence base and the highest internal decision stage (S2) in the pack, consistent with standard practice of prioritizing evidence over raw model score alone.
-
----
+Mexiletine is a sodium channel blocker, originally authorised in the EU for the symptomatic treatment of myotonia in adults with non-dystrophic myotonic disorders.
+The TxGNN model predicts it may be effective for **hypertrichosis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not formally recorded in regulatory data (drug not marketed in this region). Literature in this pack confirms established use as an oral Class IB antiarrhythmic for ventricular arrhythmia, with off-label use in neuropathic pain and myotonia |
-| Predicted New Indication | Headache Disorder |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L3 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+|------|------|
+| Original Indication | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders |
+| Predicted New Indication | Hypertrichosis |
+| TxGNN Prediction Score | 99.78% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in our database for mexiletine (data gap). Based on the literature retrieved in this evidence pack, mexiletine is described as "a Class 1B antiarrhythmic drug that acts on sodium channels," and is already used clinically for neuropathic pain and myotonia — both conditions involving abnormal neuronal/muscular excitability driven by sodium channel dysfunction.
+Detailed mechanism of action data is not available in the data compiled for this report. Mexiletine is a class IB sodium channel blocker, and its efficacy in non-dystrophic myotonia is the basis of its EU authorisation.
 
-Headache disorders — particularly trigeminal autonomic cephalalgias such as SUNCT/SUNA and refractory chronic daily headache — are increasingly understood to involve abnormal, sodium-channel-dependent firing within the trigeminal-vascular system. Intravenous **lidocaine**, a close pharmacological relative of mexiletine (both Class IB agents), is an established treatment for these conditions, and this evidence pack directly links the two: one publication (PMID 20425204) explicitly reviews "intravenous lidocaine and mexiletine in the management of trigeminal autonomic cephalalgias."
-
-This creates a plausible mechanistic bridge — sodium channel blockade suppressing pathological neuronal firing — from mexiletine's established antiarrhythmic/neuropathic pain use to headache disorders. The evidence, however, consists entirely of small case series and one open-label prospective study spanning 1981–2021, with no randomized controlled trials, which limits certainty despite the biological plausibility.
-
----
+Nothing in the available data links sodium channel blockade to the regulation of hair growth. The high score (0.998) most likely reflects patterns in the knowledge graph rather than a biological rationale. No trials or publications support the prediction. At this stage it should be regarded as a hypothesis with no demonstrated plausibility.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|------|------|---------|---------------|
-| [33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/) | 2021 | Prospective Open-label + Meta-analysis | J Neurol Neurosurg Psychiatry | Prospective study of medical treatments (including sodium channel blockers) for SUNCT/SUNA, a trigeminal autonomic headache subtype; single-arm meta-analysis of treatment efficacy |
-| [20425204](https://pubmed.ncbi.nlm.nih.gov/20425204/) | 2010 | Case Series/Observational | Curr Pain Headache Rep | Reviews IV lidocaine and mexiletine (both Class 1B sodium channel blockers) for trigeminal autonomic cephalalgias; notes mexiletine's established use in neuropathic pain and myotonia supports a role in headache syndromes |
-| [18793209](https://pubmed.ncbi.nlm.nih.gov/18793209/) | 2008 | Case Series (n=9) | Headache | Nine patients with refractory chronic daily headache treated with mexiletine |
-| [6938859](https://pubmed.ncbi.nlm.nih.gov/6938859/) | 1981 | Case Series | N Z Med J | Early report describing mexiletine use for vascular headaches |
-| [40197813](https://pubmed.ncbi.nlm.nih.gov/40197813/) | 2025 | Cochrane Review | Cochrane Database Syst Rev | Review of drug treatments for myotonia (sodium channelopathy); background mechanistic evidence for mexiletine's channel-blocking activity, not headache-specific |
-| [24820732](https://pubmed.ncbi.nlm.nih.gov/24820732/) | 2014 | Review | Curr Pain Headache Rep | General review of new daily persistent headache; no mexiletine-specific data, included as disease background |
-| [91699](https://pubmed.ncbi.nlm.nih.gov/91699/) | 1979 | Clinical Study | Kardiologiia | Original antiarrhythmic efficacy study of mexiletine (Mexityl) in ventricular arrhythmia; unrelated to headache, included as background pharmacology only |
-
----
+Currently no related literature available.
 
 ## EU Market Information
 
-Mexiletine currently has **no marketing authorization on record** in this region (0 authorizations; market status: Not Marketed). No product/dosage-form information is available to summarize.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/004584 | Namuscla | Not specified | Symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders. | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (drug-disease contraindication links, not label text): epilepsy, liver disease, gallbladder disease, hypotensive disorder, myocardial infarction, coronary thrombosis, hemoglobinopathy, atrioventricular block, sick sinus syndrome and familial sick sinus syndrome. Most of these are cardiac conduction or ischaemic conditions, consistent with the proarrhythmic concerns of class I antiarrhythmics.
+- **Drug Interactions**: 100 interactions were recorded. The main ones listed are:
+  - **Major**: bupropion.
+  - **Moderate**: alosetron, morphine, lorcaserin, potassium citrate, picosulfuric acid, polyethylene glycol (3350 with electrolytes), eliglustat, obeticholic acid, sodium sulfate, glycerol phenylbutyrate and rolapitant.
+  - **Minor**: ascorbic acid.
 
-*(Note: This candidate has a blocking internal data gap — label warnings and contraindications for mexiletine could not be sourced, which prevents formal safety pre-screening (S1) for this candidate.)*
-
----
+Please refer to the SmPC for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-While mexiletine's sodium-channel mechanism plausibly links to headache disorders — and is supported by a multi-decade, mexiletine-specific case series literature (1981–2021) plus one prospective open-label study — the evidence remains Level L3 (no RCTs, no clinical trials registered), and a **blocking data gap on safety warnings/contraindications** means the candidate cannot yet complete initial safety screening.
+The prediction for hypertrichosis rests on a model score alone. There are no clinical trials or literature, no plausible mechanism, and the only EU authorisation is cancelled. Taking on mexiletine's cardiac and interaction risks is not justified for this indication.
 
 **To proceed, the following is needed:**
-- Source mexiletine's label warnings and contraindications (e.g., via DrugBank or an SmPC from a market where it is authorized) to clear the blocking safety data gap
-- Obtain formal mechanism of action (MOA) documentation to strengthen the mechanistic rationale
-- Design a small controlled/pilot trial in refractory headache disorder (e.g., trigeminal autonomic cephalalgia) to validate the existing case-series signal, given QT-prolongation and cardiac risk considerations typical of Class IB antiarrhythmics
-- Clarify regulatory pathway, since mexiletine currently holds no marketing authorization in this region
+- Mechanism of action data and a plausible biological link between sodium channel blockade and hair growth
+- Any preclinical or clinical evidence in hypertrichosis
+- Label-based warnings and contraindications from the SmPC, and a safety review (cardiac risk, interaction burden)
+- Clarification of current EU availability, given the cancelled authorisation
+
+**Note on other predicted indications:** In the same prediction list, **headache disorder** (rank 10, L3) and **migraine disorder** (rank 6, L4) have more support. They rest on small, uncontrolled reports of mexiletine in trigeminal autonomic cephalalgias, refractory chronic daily headache and SUNCT/SUNA. These are better candidates for further research than hypertrichosis, but they still lack controlled trials.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

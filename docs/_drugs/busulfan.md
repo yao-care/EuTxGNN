@@ -2,15 +2,15 @@
 layout: default
 title: Busulfan
 parent: High Evidence (L1-L2)
-nav_order: 114
-evidence_level: L2
+nav_order: 116
+evidence_level: L1
 indication_count: 10
 ---
 
 # Busulfan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,104 +29,108 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Busulfan: From Chronic Myeloid Leukemia to Myelodysplastic Syndrome
+# Busulfan: From Haematopoietic Transplant Conditioning to Myelodysplastic Syndrome
 
 ## One-Sentence Summary
 
-Busulfan is a bifunctional alkylating agent historically used for chronic myeloid leukemia (CML) and established as a cornerstone myeloablative conditioning drug before allogeneic hematopoietic stem cell transplantation (HSCT).
-The TxGNN model predicts it may be effective for **Myelodysplastic Syndrome (MDS)**,
-with **40+ clinical trials** identified — including multiple completed Phase 2 and Phase 3 studies — supporting its role as a conditioning component in MDS patients undergoing allo-HSCT, though no PubMed literature was retrieved for this specific indication pairing.
-
----
+Busulfan is an alkylating agent originally authorised in the EU as conditioning treatment before haematopoietic progenitor cell transplantation (HPCT).
+The TxGNN model predicts it may be effective for **myelodysplastic syndrome (MDS)**, with **36 clinical trials** and **19 publications** compiled for this direction, including a completed Phase 3 randomised trial.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic myeloid leukemia / HSCT conditioning (Taiwan TFDA data unavailable) |
-| Predicted New Indication | Myelodysplastic Syndrome (MDS) |
+| Original Indication | Conditioning treatment prior to conventional HPCT (busulfan + cyclophosphamide in adults; busulfan + cyclophosphamide or melphalan in paediatric patients) |
+| Predicted New Indication | Myelodysplastic syndrome |
 | TxGNN Prediction Score | 99.62% |
-| Evidence Level | L2 |
-| Taiwan Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L1 |
+| EU Market Status | ✗ Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on established pharmacology, Busulfan is a bifunctional alkylating agent of the alkylsulfonate class. It cross-links DNA strands via alkylation of guanine bases, selectively destroying rapidly dividing hematopoietic progenitor cells. This makes it particularly suited for bone marrow clearance before donor stem cell engraftment.
+Busulfan is a bifunctional alkylating agent. It cross-links DNA, which depletes malignant and dysplastic haematopoietic clones and ablates host marrow, creating space for donor stem cell engraftment. Detailed mechanism of action data is not available in the compiled data, so this description reflects general pharmacology.
 
-Busulfan has been a cornerstone of HSCT conditioning for decades, primarily in AML and CML. Common regimens include Bu+Cy (BUCY), Bu+Flu (BuFlu), and Bu+Mel+Flu, each designed to eradicate abnormal host hematopoiesis and suppress immune rejection of the graft. Pharmacokinetic-guided dosing (TDM) has further optimized therapeutic window management for this drug.
+Allogeneic transplantation is the only potentially curative treatment for higher-risk MDS. The approved indication (conditioning before HPCT) is the same clinical step used in MDS transplants. The prediction is therefore an extension of an existing use rather than a new mechanism.
 
-MDS is a clonal disorder of hematopoietic stem cells characterized by dysplastic and ineffective blood cell production, with a subset progressing to AML. Allogeneic HSCT remains the only potentially curative treatment for intermediate- to high-risk MDS. Since Busulfan's therapeutic target — the aberrant bone marrow stem cell compartment — is identical in both CML conditioning and MDS, the TxGNN prediction is mechanistically coherent and clinically well-grounded. Multiple Phase 2 and Phase 3 trials have already validated Busulfan-containing conditioning in MDS patients across diverse combinations and intensity levels.
-
----
+One caveat applies. The Phase 2/3 trials in this set are not confirmed as completed Phase 3 RCTs on their own. The completed Phase 3 evidence comes from trials that enrolled MDS together with AML.
 
 ## Clinical Trial Evidence
 
+The data include 36 trials for this indication. The table lists the 10 most relevant.
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00469144](https://clinicaltrials.gov/study/NCT00469144) | Phase 3 | Completed | 233 | Randomized trial comparing PK-guided versus fixed-dose IV busulfan with fludarabine for AML/MDS; assessed whether individualized dosing improves efficacy and reduces toxicity |
-| [NCT00629798](https://clinicaltrials.gov/study/NCT00629798) | Phase 2 | Completed | 64 | Bu+Mel+Flu with peri-transplant palifermin for advanced MDS and AML receiving T-cell depleted HSCT; tested gastrointestinal mucosal protection alongside conditioning |
-| [NCT00301834](https://clinicaltrials.gov/study/NCT00301834) | Phase 2 | Completed | 35 | Bu+Flu+Alemtuzumab reduced-toxicity regimen specifically targeting pediatric MDS, marrow failure syndromes, and stem cell defects; full safety and efficacy evaluation |
-| [NCT06829472](https://clinicaltrials.gov/study/NCT06829472) | Phase 3 | Recruiting | 120 | Randomized comparison of melphalan 100 vs 140 mg/m² within Mel-Bu-Flu (MBF) conditioning for AML/MDS; aimed at preserving low relapse while reducing toxicity |
-| [NCT04713956](https://clinicaltrials.gov/study/NCT04713956) | Phase 2/3 | Unknown | 242 | Head-to-head comparison of G-CSF+DAC+BUCY versus G-CSF+DAC+BF for MDS (RAEB-1, RAEB-2) and secondary AML undergoing allo-HSCT |
-| [NCT05823714](https://clinicaltrials.gov/study/NCT05823714) | Phase 2 | Unknown | 70 | Novel bridging strategy: venetoclax+azacitidine induction followed by modified BUCY conditioning for high-risk MDS/AML; evaluates efficacy and safety of sequential approach |
-| [NCT03412409](https://clinicaltrials.gov/study/NCT03412409) | Phase 2 | Recruiting | 50 | Reduced-intensity conditioning for elderly or high-comorbidity MDS patients undergoing haploidentical HSCT; addresses underserved population with limited transplant tolerance |
-| [NCT06247917](https://clinicaltrials.gov/study/NCT06247917) | Phase 2 | Unknown | 59 | FLU-BU-MEL conditioning for allo-HSCT in untreated intermediate/high-risk MDS-EB; direct single-arm prospective evaluation of triple-drug combination |
-| [NCT02793544](https://clinicaltrials.gov/study/NCT02793544) | Phase 2 | Completed | 80 | Multicenter trial of HLA-mismatched unrelated donor BMT with post-transplant cyclophosphamide for hematologic malignancies including MDS; busulfan included as conditioning option |
-| [NCT00453206](https://clinicaltrials.gov/study/NCT00453206) | NA | Completed | 66 | Reduced-intensity conditioning with fludarabine, busulfan, and melphalan for broad hematological diseases including MDS; demonstrated feasibility across mixed-diagnosis cohort |
-
----
+| [NCT00005866](https://clinicaltrials.gov/study/NCT00005866) | Phase 3 | Completed | 240 | Randomised comparison of busulfan-TBI vs cyclophosphamide-TBI before sibling PBSC transplant in advanced MDS or MDS-related AML |
+| [NCT00822393](https://clinicaltrials.gov/study/NCT00822393) | Phase 3 | Completed | 570 | Treosulfan-based vs reduced-intensity busulfan-based conditioning in AML/MDS patients ineligible for standard conditioning |
+| [NCT04708054](https://clinicaltrials.gov/study/NCT04708054) | Phase 2/3 | Recruiting | 324 | Venetoclax added to fractionated busulfan regimen in high-risk AML and MDS |
+| [NCT05453552](https://clinicaltrials.gov/study/NCT05453552) | Phase 2/3 | Unknown | 242 | G-CSF + decitabine + BuCy vs G-CSF + decitabine + BF in high-risk MDS |
+| [NCT04713956](https://clinicaltrials.gov/study/NCT04713956) | Phase 2/3 | Unknown | 242 | Same two regimens in RAEB-1, RAEB-2 and AML secondary to MDS |
+| [NCT00502905](https://clinicaltrials.gov/study/NCT00502905) | Phase 2 | Completed | 200 | IV busulfan + fludarabine with allogeneic transplant for AML and MDS |
+| [NCT01643668](https://clinicaltrials.gov/study/NCT01643668) | Phase 2 | Completed | 34 | Reduced-intensity busulfan/clofarabine conditioning before allogeneic transplant |
+| [NCT01056614](https://clinicaltrials.gov/study/NCT01056614) | Phase 2 | Completed | 23 | Fludarabine + targeted IV busulfan conditioning in myeloid malignancies |
+| [NCT02250937](https://clinicaltrials.gov/study/NCT02250937) | Phase 2 | Active, not recruiting | 116 | Venetoclax with timed sequential busulfan, cladribine and fludarabine in AML/MDS |
+| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | Phase 2 | Completed | 68 | Busulfan/fludarabine/ATG plus azacitidine in high-risk MDS and older AML |
 
 ## Literature Evidence
 
-Currently no related literature available for this indication pairing from the evidence database.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36702138](https://pubmed.ncbi.nlm.nih.gov/36702138/) | 2023 | RCT (Phase 3) | Lancet Haematol | G-CSF + decitabine + BuCy vs BuCy on relapse in MDS-RAEB or secondary AML undergoing transplant |
+| [35617104](https://pubmed.ncbi.nlm.nih.gov/35617104/) | 2022 | RCT (Phase 3) | Am J Hematol | Final analysis: treosulfan vs reduced-intensity busulfan in older AML/MDS patients |
+| [31606445](https://pubmed.ncbi.nlm.nih.gov/31606445/) | 2020 | RCT (Phase 3) | Lancet Haematol | Non-inferiority trial of treosulfan vs busulfan plus fludarabine in older AML/MDS patients |
+| [42285355](https://pubmed.ncbi.nlm.nih.gov/42285355/) | 2026 | RCT (Phase 2) | Transplant Cell Ther | Two busulfan fractionation schedules with fludarabine and cladribine in AML/MDS |
+| [40079242](https://pubmed.ncbi.nlm.nih.gov/40079242/) | 2025 | Review | Am J Hematol | Contemporary review of allogeneic transplant for myelofibrosis and MDS |
+| [33425740](https://pubmed.ncbi.nlm.nih.gov/33425740/) | 2020 | Meta-analysis | Front Oncol | Treosulfan vs busulfan-based conditioning in MDS and AML |
+| [34692485](https://pubmed.ncbi.nlm.nih.gov/34692485/) | 2021 | Meta-analysis | Front Oncol | Reduced-intensity vs myeloablative conditioning in AML and MDS |
+| [34489555](https://pubmed.ncbi.nlm.nih.gov/34489555/) | 2021 | Registry analysis | Bone Marrow Transplant | Fludarabine/busulfan vs busulfan/cyclophosphamide in MDS (propensity-matched) |
+| [35296446](https://pubmed.ncbi.nlm.nih.gov/35296446/) | 2022 | Registry analysis | Transplant Cell Ther | Myeloablative vs reduced-intensity Flu/Bu in MDS |
+| [37856098](https://pubmed.ncbi.nlm.nih.gov/37856098/) | 2024 | Risk assessment | Pediatr Blood Cancer | Evidence-based assessment of secondary malignancy risk after busulfan |
 
----
+## EU Market Information
 
-## Taiwan Market Information
-
-Busulfan is currently **not marketed in Taiwan** (0 TFDA authorizations). The drug is approved internationally — Busilvex® (IV busulfan, Pierre Fabre) holds EMA authorization in the EU, and Busulfex® is approved in the United States — both primarily as conditioning regimens before HSCT. A formal TFDA approval pathway or special import arrangement would be required for use in Taiwan.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002806 (cancelled) | Busulfan Fresenius Kabi | Not specified | Busulfan followed by cyclophosphamide (BuCy2) as conditioning treatment prior to conventional HPCT in adults when considered the best available option. BuCy4 or BuMel... |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Alkylating agent – alkylsulfonate class; bifunctional DNA cross-linker) |
-| Myelosuppression Risk | High — myeloablation is the intended therapeutic mechanism; profound and prolonged pancytopenia is expected and required for engraftment |
-| Emetogenicity Classification | Low to moderate (IV formulation); standard antiemetic prophylaxis recommended |
-| Monitoring Items | CBC with differential (serial), busulfan serum pharmacokinetics (TDM; target AUC 900–1350 µmol·min/L), liver function tests (hepatic veno-occlusive disease / sinusoidal obstruction syndrome risk), renal function, pulmonary function (busulfan-induced pulmonary fibrosis risk with prolonged use) |
-| Handling Protection | Must follow cytotoxic drug handling regulations; IV preparation requires closed-system transfer devices (CSTD) and appropriate PPE per institutional pharmacy protocol |
-
----
+| Cytotoxicity Classification | Conventional cytotoxic (bifunctional alkylating agent) |
+| Myelosuppression Risk | High (myeloablative at conditioning doses; this is the intended effect) |
+| Emetogenicity Classification | Moderate |
+| Monitoring Items | CBC with differential, liver function (including signs of hepatic veno-occlusive disease), renal function, electrolytes, seizure monitoring; PK-guided dosing where available |
+| Handling Protection | Must follow cytotoxic drug handling regulations. Please also refer to the SmPC warnings and precautions. |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease-level cautions (knowledge graph, not label text)**: The knowledge graph links busulfan to contraindication or caution signals for epilepsy, thrombocytopenia, neutropenia, agranulocytosis, anaemia (including macrocytic and Fanconi anaemia), pulmonary fibrosis, infectious disease (including fungal infection and dermatophytosis), hyperglycaemia, potassium deficiency and hyperuricaemia. These are not taken from the product label and need verification against the SmPC.
+- **Drug Interactions**: The interaction query returned 100 interactions. Notable ones are **metronidazole (Major)**, **aprepitant (Moderate)** and **miconazole (Moderate)**. Levofloxacin is Minor. Many others (for example azole and amphotericin antifungals, proton pump inhibitors, corticosteroids, ondansetron, granisetron, morphine, vancomycin) have no assigned severity level.
+- **Guardrails from the repurposing analysis**: hepatic veno-occlusive disease, seizure prophylaxis, targeted PK dosing, and regimen intensity matched to age and comorbidity. Long-term secondary malignancy risk is a known concern (PMID 37856098).
 
-> **Note:** Taiwan TFDA package insert data (key warnings, contraindications, and drug interaction profile) was not available at the time of this report generation. This is classified as a Blocking data gap. Safety assessment should be based on the EMA Summary of Product Characteristics (SmPC) for Busilvex® or the US FDA label for Busulfex® until TFDA documentation is retrieved.
-
----
+Label warnings and contraindications were not available in the compiled data. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 2 trials and at least one large completed Phase 3 trial (NCT00469144, n=233) have evaluated Busulfan-containing conditioning regimens specifically in MDS patients, demonstrating clinical feasibility and acceptable safety profiles across multiple combination strategies (BuCy, BuFluMel, modified BUCY, and BuFlu). The mechanistic rationale — ablating dysplastic hematopoietic stem cells to enable donor engraftment — directly maps to MDS pathophysiology, making this prediction biologically and clinically sound. However, Busulfan is not currently marketed in Taiwan, which represents a significant regulatory barrier before clinical application.
+Busulfan-based conditioning for MDS transplant is supported by a completed Phase 3 RCT (NCT00005866), another completed Phase 3 trial (NCT00822393), several Phase 3 publications, and many Phase 2 studies. However, most of these trials pooled MDS with AML or compared busulfan against alternatives rather than against no busulfan. The current EU authorisation is cancelled, and the label covers conditioning in general, not MDS specifically.
 
 **To proceed, the following is needed:**
+- Clarify the regulatory position, since the only EU licence in the data is cancelled, and check other busulfan products
+- Obtain the SmPC warnings and contraindications, which are missing from the compiled data (a blocking data gap)
+- Obtain mechanism of action data from DrugBank
+- Confirm MDS-specific results from the pooled AML/MDS trials
+- Set up a safety plan covering hepatic VOD prophylaxis, seizure prophylaxis, PK-guided dosing, and age- and comorbidity-matched regimen intensity
 
-- **Regulatory pathway**: Establish TFDA special import or approval process for Busulfan (currently 0 Taiwan authorizations)
-- **Safety documentation**: Retrieve Taiwan TFDA package insert or equivalent SmPC to complete safety assessment (key warnings, contraindications, DDI profile)
-- **PK/TDM protocol**: Implement pharmacokinetic-guided dosing (target AUC monitoring) to optimize therapeutic window and reduce toxicity
-- **Patient selection framework**: Define eligibility based on MDS subtype (RAEB-1, RAEB-2), IPSS-R risk score, age, comorbidity burden, and availability of suitable allogeneic donor
-- **Institutional readiness**: Confirm availability of allogeneic HSCT infrastructure including HLA typing, GVHD prophylaxis protocols, and post-transplant monitoring capacity
-- **Literature gap**: Conduct targeted PubMed search with broader MeSH terms to retrieve existing systematic reviews and registry data on Busulfan conditioning outcomes in MDS
+**Other predictions in the list (brief):**
+- Refractory cytopenia of childhood (L2) is plausible, since BuMel is on the paediatric label, but the evidence is mixed-disease Phase 2 trials and one cohort. It could proceed with guardrails.
+- Aregenerative anaemia is rated L1, but the supporting Phase 3 trial enrolled mainly malignancy patients, so the support is indirect.
+- HIV infection and unclassified MDS are research questions.
+- The 5q deletion, congenital sideroblastic anaemia, the neurodevelopmental disorder, seborrheic keratosis and SIV infection have no clinical evidence and should be held.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

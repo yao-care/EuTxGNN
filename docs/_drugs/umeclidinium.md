@@ -2,7 +2,7 @@
 layout: default
 title: Umeclidinium
 parent: AI Predictions (L5)
-nav_order: 626
+nav_order: 650
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,27 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Umeclidinium is a long-acting muscarinic antagonist (LAMA) used clinically as a bronchodilator in chronic obstructive pulmonary disease (COPD). The TxGNN model predicts it may be effective for **Migraine Disorder** (score 96.36%), but this prediction is currently supported by **no clinical trials and no literature** — it is a topological model prediction only, and the evidence pack itself flags the underlying anticholinergic mechanism as having no known link to migraine pathophysiology.
+Umeclidinium is an inhaled long-acting muscarinic antagonist, originally used as a maintenance bronchodilator for chronic obstructive pulmonary disease (COPD).
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 clinical trials** and **0 relevant publications** supporting this direction. The prediction rests on the knowledge-graph model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic Obstructive Pulmonary Disease (COPD) — bronchodilation (drug class information from the evidence pack; no Taiwan/EU regulatory license record confirms this) |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD) |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 96.36% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for umeclidinium is not available in this evidence pack (flagged as a High-severity data gap). Based on the drug-class information that is available, umeclidinium is a long-acting muscarinic (anticholinergic) receptor antagonist (LAMA), used clinically for bronchodilation in COPD by blocking acetylcholine-mediated smooth muscle contraction in the airways.
+Currently, detailed mechanism of action data is not available. Based on known information, umeclidinium is an inhaled long-acting muscarinic antagonist (LAMA). Its efficacy in COPD has been established through bronchodilation via blockade of muscarinic receptors in the airways.
 
-Migraine pathophysiology is driven primarily by activation of the trigeminovascular system and the CGRP signaling pathway — neither of which has an established mechanistic connection to muscarinic receptor blockade. The evidence pack explicitly notes that this rationale is mechanistically weak and reflects only a knowledge-graph embedding similarity identified by TxGNN, not a plausible pharmacological pathway.
+A possible link to migraine is the involvement of muscarinic receptors in central and trigeminovascular pain pathways. This link is speculative. Inhaled delivery gives low systemic exposure, so a central effect is unlikely. The TxGNN prediction is graph-based only, and no clinical or literature evidence supports it.
 
-It is also worth noting that among the other top-ranked candidates for this drug, two (open-angle glaucoma, primary hereditary glaucoma) represent the **opposite** mechanistic direction: anticholinergic agents are a known relative risk factor in glaucoma populations rather than a treatment option, and should be treated as a safety signal rather than a repurposing opportunity. This reinforces that the current prediction set for umeclidinium should be interpreted cautiously rather than as validated therapeutic leads.
+Other top predictions show similar weaknesses:
+- **Migraine with brainstem aura** is a subtype of migraine, so it likely comes from the same graph neighborhood and is not independent evidence.
+- **Open-angle glaucoma and primary hereditary glaucoma** conflict with known pharmacology. Antimuscarinics can precipitate angle-closure glaucoma rather than treat glaucoma, so these predictions also carry a potential safety concern.
+- **Gastroduodenitis and peptic ulcer disease** have a theoretical class-level link through reduced gastric secretion. Minimal systemic exposure from inhalation makes an effect improbable.
+- **Nephrogenic syndrome of inappropriate antidiuresis, atrophoderma vermiculata and allergic urticaria** have no evident mechanistic connection.
+- **Common cold** has a theoretical symptomatic link (anticholinergics can reduce rhinorrhea), but the only retrieved publication is a general COPD review and is not relevant evidence.
 
 ## Clinical Trial Evidence
 
@@ -61,30 +67,35 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no relevant literature available for migraine disorder.
 
 ## EU Market Information
 
-No marketing authorizations were found in the evidence pack. According to `taiwan_regulatory.market_status`, umeclidinium is currently **not marketed** in the EU under this dataset (0 authorizations recorded).
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| EMEA/H/C/004654 | Rolufta Ellipta (previously Rolufta) | Not specified | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD | Cancelled |
+| EMEA/H/C/002809 | Incruse Ellipta (previously Incruse) | Not specified | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screen found 100 potential interactions, and the 20 reviewed are all rated Moderate. They are mainly additive anticholinergic effects with other antimuscarinic or anticholinergic agents, including hyoscyamine, atropine, glycopyrronium, aclidinium, dicyclomine, trospium, scopolamine, promethazine and chlorpheniramine. Other interactions listed include eluxadoline, prucalopride, acetylcholine and inhaled human insulin.
+- **Pharmacology-based concern**: Antimuscarinics may raise intraocular pressure and precipitate angle-closure glaucoma, so the glaucoma predictions are counter-therapeutic.
+
+For label warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The migraine indication is supported only by a model-level topological prediction (L5), with no clinical trials or literature, and the proposed mechanism (muscarinic antagonism) has no established link to migraine pathophysiology.
-- Critical safety inputs (TFDA label warnings/contraindications) and detailed MOA data are both flagged as unresolved data gaps, one of which is Blocking severity — this alone prevents progression to the S1 safety-screening stage.
-- Other top-ranked predictions for this drug (open-angle glaucoma, primary hereditary glaucoma) point in a mechanistically opposite direction and should be treated as a safety caution rather than an opportunity, further supporting a conservative Hold across this candidate line.
+The prediction has only model-based support (L5). It has no registered trials or relevant publications, and the mechanistic link is weak given low systemic exposure after inhalation. Both EU authorizations are cancelled. None of the other top-ranked predictions has supporting evidence, and the glaucoma predictions conflict with known pharmacology.
 
 **To proceed, the following is needed:**
-- TFDA label warnings and contraindications (DG001, Blocking) — required before any S1 safety evaluation
-- Detailed mechanism of action data from DrugBank (DG002, High) — required to assess mechanistic plausibility
-- Independent literature or preclinical evidence directly linking umeclidinium (not just the anticholinergic class) to migraine pathophysiology
-- If any candidate advances, an explicit safety review addressing anticholinergic contraindications (e.g., angle-closure glaucoma risk) before further development
+- Mechanism of action data, to assess a muscarinic role in migraine pathways
+- A targeted literature review for muscarinic antagonists in migraine, and preclinical or mechanistic studies
+- Label warnings and contraindications from the SmPC for formal safety screening
+- Evaluation of whether any non-inhaled route would be needed to reach relevant tissues, since route compatibility has not been assessed
+- Clarification of the cancelled EU authorizations and current market availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

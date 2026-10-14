@@ -2,7 +2,7 @@
 layout: default
 title: Capecitabine
 parent: AI Predictions (L5)
-nav_order: 123
+nav_order: 125
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,98 +29,101 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Capecitabine: From Colorectal Cancer to Gastric Adenocarcinoma and Proximal Polyposis of the Stomach
+# Capecitabine: From Colorectal, Gastric and Breast Cancer to Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS)
 
 ## One-Sentence Summary
 
-Capecitabine is an oral fluoropyrimidine prodrug that is enzymatically converted to 5-fluorouracil (5-FU) preferentially within tumour tissues, widely used globally for colorectal cancer, gastric cancer, and breast cancer treatment.
-The TxGNN model predicts it may be effective for **Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS)** — a rare hereditary gastric cancer syndrome —
-with **0 clinical trials** and **0 publications** currently supporting this specific indication, placing the evidence at **L5 (AI prediction only)**.
-
----
+Capecitabine is an oral chemotherapy drug that the body converts to 5-FU. It was originally authorised in the EU for colon, colorectal, gastric and breast cancer.
+The TxGNN model predicts it may be effective for **gastric adenocarcinoma and proximal polyposis of the stomach**, but there are currently **0 clinical trials** and **0 publications** linked to this specific condition. The high score mostly reflects capecitabine's existing approval for advanced gastric cancer.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | No approved indication on record in this database (Taiwan/EU data gap) |
-| Predicted New Indication | Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS) |
+|------|------|
+| Original Indication | Adjuvant treatment of stage III (Dukes' stage C) colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), and locally advanced or metastatic breast cancer |
+| Predicted New Indication | Gastric adenocarcinoma and proximal polyposis of the stomach |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| Market Status | Not marketed (0 authorizations on record) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 5 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack (flagged as Data Gap). Based on known pharmacology, Capecitabine is an oral fluoropyrimidine prodrug that undergoes a three-step enzymatic conversion to 5-fluorouracil (5-FU), with the final activation step catalysed by Thymidine Phosphorylase (TP), which is overexpressed in many tumour tissues relative to healthy tissue. The active metabolite 5-FU inhibits Thymidylate Synthase (TS), thereby blocking de novo pyrimidine synthesis and DNA replication, ultimately triggering tumour cell apoptosis. This tumour-selective activation underlies its established use across multiple gastrointestinal cancers.
+Currently, detailed mechanism of action data is not available. Based on known information, capecitabine is a prodrug of 5-FU that inhibits thymidylate synthase, blocking DNA synthesis in rapidly dividing tumour cells. Its efficacy in gastric cancer is already established, so it may mechanistically apply to related gastric tumours.
 
-GAPPS (Gastric Adenocarcinoma and Proximal Polyposis of the Stomach) is an ultra-rare hereditary syndrome caused by germline point mutations in the *APC* gene Promoter 1B, resulting in diffuse fundic gland polyposis in the gastric fundus and body with high malignant transformation potential. Mechanistically, Capecitabine's TS inhibition pathway is theoretically applicable to GAPPS-associated adenocarcinoma, since the target enzyme is relevant to rapidly proliferating cancer cells regardless of tumour origin. The transformation from GAPPS polyps to frank adenocarcinoma shares histopathological features with sporadic gastric cancer.
+The predicted condition is a syndromic form of gastric adenocarcinoma. The model's high score largely reflects this overlap with the approved gastric cancer indication, so this is closer to on-label use than true repurposing. No trials or publications address this rare subtype, so nothing shows that capecitabine works specifically in it.
 
-However, the high TxGNN prediction score almost certainly reflects generalisation from the broader gastric cancer knowledge graph rather than GAPPS-specific biological signal. GAPPS is so rare (fewer than 100 reported families worldwide) that no clinical chemotherapy data exist for this syndrome, and TP expression levels in GAPPS-associated tumours have never been characterised. Proceeding to repurposing for this specific entity requires disease-specific preclinical evidence generation before any clinical steps.
+For context, the data compiled for this report also cover other gastric subtypes with more support:
+- **Gastric tubular adenocarcinoma** has L1 evidence, including Phase 3 trials such as CLASSIC (adjuvant capecitabine plus oxaliplatin).
+- **Gastric cardia adenocarcinoma** has L2 evidence from completed Phase 2 trials.
+- **Gastric body carcinoma** has L1 evidence, including a Phase 3 trial with a fluoropyrimidine/platinum backbone.
 
----
+All of these largely reflect the labelled gastric use.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Capecitabine in Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Capecitabine in Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS).
+Currently no related literature available.
 
----
+## EU Market Information
 
-## Market Information
+All five EU authorisations are cancelled, so none is currently valid.
 
-No marketing authorizations on record for Capecitabine in this Evidence Pack (market status: not marketed, 0 licenses).
-
-> **Data Note**: This reflects a data collection gap. Capecitabine (Xeloda®) holds established regulatory approvals in multiple jurisdictions (EMA, FDA, PMDA, and others) for colorectal cancer, gastric cancer, and breast cancer. If Taiwan/EU SmPC data is obtained (see Conclusion section), the above status should be updated accordingly.
-
----
+| Authorization Number | Product Name | Approved Indication |
+|---------|------|-----------|
+| EMEA/H/C/000316 | Xeloda | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer (with docetaxel or as monotherapy)... |
+| EMEA/H/C/002605 | Ecansya (previously Capecitabine Krka) | Adjuvant stage-III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
+| EMEA/H/C/002568 | Capecitabine Medac | Adjuvant stage-III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
+| EMEA/H/C/002386 | Capecitabine Accord | Adjuvant stage-III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
+| EMEA/H/C/002362 | Capecitabine Teva | Adjuvant stage III colon cancer, metastatic colorectal cancer, first-line advanced gastric cancer (with platinum), breast cancer... |
 
 ## Cytotoxicity
 
-Capecitabine is a fluoropyrimidine antineoplastic agent (conventional cytotoxic) and this section applies.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Fluoropyrimidine class (oral prodrug of 5-FU) |
-| Myelosuppression Risk | Low to moderate — less myelosuppressive than intravenous 5-FU; neutropenia and lymphopenia may occur |
-| Emetogenicity Classification | Low (oral route; nausea more common than vomiting) |
-| Monitoring Items | CBC with differential count, liver function (AST/ALT/bilirubin), renal function (CrCl — dose reduction required if 30–50 mL/min), INR/PT (critical if co-administered with warfarin), hand-foot syndrome (palmar-plantar erythrodysaesthesia) grading |
-| Handling Protection | Standard oral cytotoxic handling precautions apply; tablets should not be crushed; caregivers should avoid direct contact with broken tablets |
-
-> No cytotoxicity data is available from this Evidence Pack. The above is based on the drug's established fluoropyrimidine class profile. Please refer to the SmPC for complete prescribing information.
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (fluoropyrimidine class) |
+| Myelosuppression Risk | Medium (neutropenia and thrombocytopenia are possible; please refer to the SmPC warnings and precautions) |
+| Emetogenicity Classification | Low to medium |
+| Monitoring Items | Complete blood count with differential, liver and renal function, bilirubin; DPYD (DPD deficiency) status before treatment |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Conditions flagged in the knowledge graph:** The TxGNN knowledge graph links capecitabine to the following conditions as contraindication-type relationships. This comes from the graph, not from label text, so it needs confirmation against the SmPC.
+  - Liver disease and hyperbilirubinaemia (including Gilbert syndrome)
+  - Gallbladder disease
+  - Thrombocytopenia, neutropenia, agranulocytosis and anaemia (including macrocytic anaemia)
+  - Impaired renal function
+  - Infectious disease
+  - Coronary artery disease, sudden cardiac arrest and heart conduction disease
+  - Necrotising enterocolitis
+  - Stomatitis
+  - Dihydropyrimidine dehydrogenase (DPD) deficiency
+- **Drug interactions:** The interaction screening returned 100 records. The main ones listed in the data are:
+  - Moderate: metronidazole and tinidazole.
+  - Minor: antacids (aluminium hydroxide, magaldrate, magnesium carbonate, magnesium hydroxide, magnesium oxide) and levofloxacin.
+  - Unknown severity: pantoprazole, omeprazole, lansoprazole, metformin, glimepiride, doxycycline, morphine, atropine, prednisone, hydrocortisone, simvastatin and dolasetron.
+  - Warfarin interaction should also be considered, as noted in the supporting rationale.
 
-> All safety fields in this Evidence Pack (key warnings, contraindications, drug-drug interactions) are flagged as data gaps. Obtaining the TFDA/EMA SmPC is classified as a **Blocking** data gap (DG001) and must be resolved before any clinical safety assessment can proceed.
-
----
+Please refer to the SmPC for the full label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-GAPPS is an ultra-rare hereditary syndrome with no published clinical evidence supporting the use of Capecitabine, and the TxGNN L5 prediction most likely reflects gastric cancer knowledge graph generalisation rather than disease-specific signal. The absolute absence of trials, publications, or case reports for this indication — combined with the blocking safety data gap — makes advancement beyond hypothesis generation premature at this stage.
+For this specific condition there are no linked trials or publications, the evidence level is L5, and the high model score mainly reflects capecitabine's existing gastric cancer approval. In addition, all five EU authorisations are currently cancelled.
 
 **To proceed, the following is needed:**
-
-- **Resolve blocking data gap (DG001):** Obtain TFDA/EMA SmPC to complete safety pre-screening before any further evaluation
-- **Resolve high-severity data gap (DG002):** Query DrugBank API to confirm Capecitabine's MOA and TP/TS pathway details formally
-- **Preclinical evidence:** Characterise TP and TS expression levels in GAPPS-associated fundic gland polyps and adenocarcinoma tissue (IHC or transcriptomic data from published GAPPS case series)
-- **Registry/case series search:** Systematic search of GAPPS patient registries (e.g., GAPPS International Registry) for any recorded chemotherapy use after malignant transformation
-- **Consider broader gastric cancer evidence context:** Other gastric cancer subtypes in this Evidence Pack (gastric tubular adenocarcinoma — Rank 3, L1; gastric cardia adenocarcinoma — Rank 5, L1; gastric body carcinoma — Rank 8, L1) carry substantially stronger clinical evidence for Capecitabine and may be more productive repurposing targets for regulatory review
+- Subtype-specific clinical or case evidence for GAPPS-type gastric adenocarcinoma
+- Confirmation of the current EU authorisation status and available products
+- Mechanism of action data and the SmPC warnings and contraindications
+- A safety plan covering DPYD testing, renal and liver function, and warfarin interaction
+- Consideration of better-supported gastric subtypes (tubular adenocarcinoma, cardia adenocarcinoma) as higher-priority candidates
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

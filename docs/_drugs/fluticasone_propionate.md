@@ -2,15 +2,15 @@
 layout: default
 title: Fluticasone Propionate
 parent: High Evidence (L1-L2)
-nav_order: 262
-evidence_level: L1
+nav_order: 269
+evidence_level: L2
 indication_count: 10
 ---
 
 # Fluticasone Propionate
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Fluticasone Propionate: From No Taiwan-Registered Indication to Atopic Dermatitis
+# Fluticasone Propionate: From Asthma to Atopic Dermatitis
 
 ## One-Sentence Summary
 
-Fluticasone propionate is a topical corticosteroid that currently holds **no marketing authorization in Taiwan** in this dataset, so its original approved indication cannot be extracted from local regulatory records. Among 10 TxGNN-predicted indications, the model's single highest-scoring candidate ("2-hydroxyethyl methacrylate sensitization") has zero supporting studies, so this report instead evaluates the **best-evidenced candidate, Atopic Dermatitis**, which is backed by **11 clinical trials** and **20 publications**, including a completed Phase 3 RCT.
-
-> **Note on selection**: The dataset's top-ranked TxGNN prediction by raw score has no clinical trial or literature support (evidence level L5, "Hold"). Atopic Dermatitis (rank 7 by score, but rank 1 by evidence strength) is presented here because it is the only candidate that reaches an actionable evidence tier (L1) and a "Proceed with Guardrails" recommendation.
+Fluticasone propionate is an inhaled corticosteroid, originally authorised in the EU (as the Seffalair Spiromax combination product) for regular treatment of asthma.
+The TxGNN model predicts it may be effective for **Atopic Dermatitis** (the best-supported of the top 10 predictions), with **5 clinical trials** and **19 publications** currently supporting this direction.
+The topical formulation is already a recognised treatment for atopic dermatitis, so this is a repurposing candidate mainly relative to the listed asthma product.
 
 ---
 
@@ -43,23 +43,25 @@ Fluticasone propionate is a topical corticosteroid that currently holds **no mar
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no marketing authorization on file for this drug in Taiwan |
-| Predicted New Indication | Atopic Dermatitis |
+| Original Indication | Regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and "as needed" inhaled short-acting beta-agonists |
+| Predicted New Indication | Atopic dermatitis |
 | TxGNN Prediction Score | 95.32% |
-| Evidence Level | L1 |
-| EU/TW Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L2 |
+| EU Market Status | ✗ Cancelled only |
+| Number of Authorizations | 1 |
 | Recommended Decision | Proceed with Guardrails |
+
+Note: TxGNN ranked "2-hydroxyethyl methacrylate sensitization" first (98.56%), but it has no supporting trials or literature (L5, Hold). Atopic dermatitis is the prediction with the strongest evidence and is the focus of this report.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed original mechanism-of-action data for this drug record is not available (flagged as a High-severity data gap, DG002). Based on the evidence collected for the Atopic Dermatitis prediction itself, fluticasone propionate is a high-potency topical glucocorticoid that acts by activating the glucocorticoid receptor, suppressing pro-inflammatory cytokine expression, and reducing cutaneous inflammation and pruritus — the standard mechanism underlying topical corticosteroid therapy for inflammatory skin disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology records show that fluticasone propionate binds the glucocorticoid receptor (NR3C2 and PGR are also listed as targets: mineralocorticoid and progesterone receptors). Glucocorticoid receptor activation suppresses inflammatory cytokines and immune cell activity, which is the established basis for corticosteroid use in inflammatory diseases.
 
-This mechanistic pathway aligns directly with Atopic Dermatitis, a chronic relapsing inflammatory skin condition for which topical corticosteroids are first-line therapy internationally (marketed elsewhere as Cutivate). The evidence pack notes that this indication is already an approved use for fluticasone propionate in multiple other markets; its absence from this local dataset likely reflects a data-collection gap in Taiwan's registry rather than a lack of biological plausibility.
+Asthma and atopic dermatitis are both allergic, inflammatory conditions that often coexist (the "atopic march"). Corticosteroid-responsive inflammation is a shared feature, so the same receptor-mediated anti-inflammatory action is mechanistically applicable to the skin.
 
-By contrast, the model's numerically highest-scoring prediction (contact sensitization to 2-hydroxyethyl methacrylate) and several other candidates (vulvar inverted follicular keratosis, alopecia mucinosa, telogen effluvium, hereditary hypotrichosis) have mechanistic links rated as weak or purely speculative by the source rationale text, with no corroborating trials or literature — these remain at "Hold" status.
+The published literature describes fluticasone propionate as a medium-potency (class III) topical glucocorticoid with high lipophilicity, high glucocorticoid receptor affinity and rapid hepatic biotransformation, available as a 0.05% cream and a 0.005% ointment. It is used as a standard topical treatment for atopic dermatitis, including intermittent and maintenance regimens. Note that the topical forms differ from the inhaled asthma product listed in the EU data.
 
 ---
 
@@ -67,16 +69,11 @@ By contrast, the model's numerically highest-scoring prediction (contact sensiti
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01772056](https://clinicaltrials.gov/study/NCT01772056) | Phase 3 | Terminated | 54 | Twice-weekly fluticasone propionate 0.05% cream as maintenance therapy to reduce AD relapse in children after acute flare stabilization |
-| [NCT00690105](https://clinicaltrials.gov/study/NCT00690105) | Phase 4 | Completed | 577 | Head-to-head tacrolimus 0.1% vs. fluticasone 0.005% ointment in adults with moderate-severe facial AD ("red face" lesions) |
-| [NCT00689832](https://clinicaltrials.gov/study/NCT00689832) | Phase 4 | Completed | 487 | Tacrolimus 0.03% vs. fluticasone 0.005% ointment in children ≥2 years with moderate-severe AD |
-| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Completed | 107 | Intermittent (twice-weekly) fluticasone 0.05% cream added to daily moisturizer to reduce relapse risk in stabilized pediatric AD |
-| [NCT00119158](https://clinicaltrials.gov/study/NCT00119158) | Phase 4 | Completed | 90 | Combined pimecrolimus + fluticasone (Cutivate) cream in severe AD lesions |
-| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Completed | 121 | Fluticasone 0.05% vs. EpiCeram barrier-repair cream in pediatric AD |
-| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Completed | 56 | Open-label HPA-axis safety study of fluticasone lotion 0.05% in pediatric AD |
-| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Active, not recruiting | 398 | Proactive fluticasone + skin barrier cream vs. reactive therapy in infants to prevent AD progression and food allergy |
-| [NCT04706559](https://clinicaltrials.gov/study/NCT04706559) | N/A | Completed | 98 | Probiotic supplementation trial in pediatric AD (fluticasone not the primary intervention) |
-| [NCT00426283](https://clinicaltrials.gov/study/NCT00426283) | Phase 2 | Completed | 42 | High-dose swallowed fluticasone vs. placebo for eosinophilic esophagitis (different indication, included for completeness) |
+| [NCT01915914](https://clinicaltrials.gov/study/NCT01915914) | Phase 4 | Completed | 107 | Open-label randomized study of twice-weekly fluticasone 0.05% cream plus moisturiser to reduce relapse in children with stabilised atopic dermatitis |
+| [NCT00546000](https://clinicaltrials.gov/study/NCT00546000) | Phase 4 | Completed | 56 | Open-label study of Cutivate (fluticasone) 0.05% lotion and its effect on the HPA axis in infants with atopic dermatitis |
+| [NCT00616538](https://clinicaltrials.gov/study/NCT00616538) | Phase 4 | Completed | 121 | Investigator-blind pilot study comparing EpiCeram barrier emulsion with fluticasone 0.05% in paediatric atopic dermatitis (fluticasone as comparator) |
+| [NCT07537751](https://clinicaltrials.gov/study/NCT07537751) | Not specified | Completed | 40 | Randomized double-blind comparison of crisaborole 2% versus fluticasone 0.05% in children with mild to moderate atopic dermatitis (fluticasone as comparator) |
+| [NCT03742414](https://clinicaltrials.gov/study/NCT03742414) | Phase 2 | Active, not recruiting | 398 | SEAL study: proactive skin care including fluticasone cream to prevent atopic dermatitis and food allergy in infants (prevention focus) |
 
 ---
 
@@ -84,28 +81,34 @@ By contrast, the model's numerically highest-scoring prediction (contact sensiti
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29373242](https://pubmed.ncbi.nlm.nih.gov/29373242/) | 2018 | RCT | Allergologia et Immunopathologia | Intermittent fluticasone 0.05% cream vs. vehicle reduces relapse risk in stabilized pediatric AD |
-| [33150035](https://pubmed.ncbi.nlm.nih.gov/33150035/) | 2020 | Open-label comparative study | Dermatology Practical & Conceptual | Compares proactive topical fluticasone vs. tacrolimus for efficacy and safety in AD |
-| [11862174](https://pubmed.ncbi.nlm.nih.gov/11862174/) | 2002 | Cohort/Safety study | J Am Acad Dermatol | Fluticasone 0.05% cream shown safe in severe/extensive AD in infants as young as 3 months |
-| [27543211](https://pubmed.ncbi.nlm.nih.gov/27543211/) | 2016 | Cohort | J Am Acad Dermatol | Fluticasone cream plus bleach baths alters cutaneous microbiome in childhood AD |
-| [21977914](https://pubmed.ncbi.nlm.nih.gov/21977914/) | 2012 | Review | JEADV | Reviews fluticasone's high therapeutic index for intervention and maintenance treatment of AD |
-| [15608497](https://pubmed.ncbi.nlm.nih.gov/15608497/) | 2005 | Review | Skin Pharmacology and Physiology | Reviews safety and efficacy of fluticasone across dermatological disorders including AD |
-| [12207596](https://pubmed.ncbi.nlm.nih.gov/12207596/) | 2002 | Clinical study | British Journal of Dermatology | Intermittent dosing of fluticasone cream reduces long-term AD relapse risk |
-| [14522623](https://pubmed.ncbi.nlm.nih.gov/14522623/) | 2003 | Comparative study | J Dermatological Treatment | Two multicentre RCTs of fluticasone 0.05% cream for acute and maintenance AD treatment in children |
-| [17225720](https://pubmed.ncbi.nlm.nih.gov/17225720/) | 2007 | Comparative study | Annals of Allergy, Asthma & Immunology | Fluticasone reduces Staphylococcus colonization in AD, with or without antibiotics |
-| [24655575](https://pubmed.ncbi.nlm.nih.gov/24655575/) | 2014 | Review | J Allergy and Clinical Immunology | Discusses induction of remission and subclinical inflammation treatment concepts in AD |
+| [14522623](https://pubmed.ncbi.nlm.nih.gov/14522623/) | 2003 | Randomized, double-blind comparative studies | J Dermatol Treat | Two multicentre studies of fluticasone 0.05% cream for acute and maintenance treatment of moderate to severe AD in children |
+| [27543211](https://pubmed.ncbi.nlm.nih.gov/27543211/) | 2016 | RCT | J Am Acad Dermatol | Effects of fluticasone cream and adjunctive bleach baths on the skin microbiome in childhood AD |
+| [21977914](https://pubmed.ncbi.nlm.nih.gov/21977914/) | 2012 | Review | J Eur Acad Dermatol Venereol | Topical fluticasone for intervention and maintenance treatment of AD, with a high therapeutic index |
+| [15608497](https://pubmed.ncbi.nlm.nih.gov/15608497/) | 2005 | Review | Skin Pharmacol Physiol | Safety and efficacy of topical fluticasone in skin diseases including AD, psoriasis and vitiligo |
+| [11862174](https://pubmed.ncbi.nlm.nih.gov/11862174/) | 2002 | Clinical safety study | J Am Acad Dermatol | Safety of fluticasone 0.05% cream in severe, extensive AD in children as young as 3 months |
+| [18298423](https://pubmed.ncbi.nlm.nih.gov/18298423/) | 2009 | Clinical study | Pediatr Allergy Immunol | Twice-weekly maintenance with fluticasone 0.005% ointment in 90 children (4-10 years) with AD, including sex differences |
+| [12207596](https://pubmed.ncbi.nlm.nih.gov/12207596/) | 2002 | Clinical study | Br J Dermatol | Intermittent dosing of fluticasone cream to reduce relapse risk in AD |
+| [33150035](https://pubmed.ncbi.nlm.nih.gov/33150035/) | 2020 | Open-label prospective study | Dermatol Pract Concept | Topical fluticasone versus tacrolimus in proactive treatment of AD |
+| [9704834](https://pubmed.ncbi.nlm.nih.gov/9704834/) | 1998 | Comparative study | J Am Acad Dermatol | Fluticasone 0.05% cream once daily versus clobetasone butyrate twice daily in children with AD |
+| [16394380](https://pubmed.ncbi.nlm.nih.gov/16394380/) | 2005 | Open-label uncontrolled study | Indian J Dermatol Venereol Leprol | Fluticasone 0.005% plus mupirocin ointment in AD with suspected secondary bacterial infection |
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations are on file for this drug (market status: Not Marketed; total authorizations: 0).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004881 (cancelled) | Seffalair Spiromax | Not specified | Regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and "as needed" inhaled sh... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links fluticasone propionate to contraindication with conditions including hypertension, long QT syndrome, epilepsy, liver disease, gallbladder disease, hyperglycemia, measles, herpes simplex virus keratitis, and a range of pituitary hormone deficiency and hypogonadotropic hypogonadism conditions. These should be verified against the product label.
+- **Target pharmacology**: Fluticasone propionate acts on the glucocorticoid receptor and also lists the mineralocorticoid and progesterone receptors as targets. No specific drug-drug interaction entries were identified.
+- **Topical use guardrails (from the evidence)**: Skin atrophy, HPA-axis suppression with prolonged or extensive use, and caution in paediatric patients.
+
+Please refer to the SmPC for full warnings and contraindications.
 
 ---
 
@@ -114,14 +117,15 @@ Please refer to the SmPC for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The Atopic Dermatitis prediction is supported by an L1 evidence base — including a completed Phase 3 RCT and multiple Phase 4 comparative trials — and topical corticosteroids are an established standard of care for this condition elsewhere, making the mechanistic rationale strong. However, this drug currently has no Taiwan marketing authorization and two Blocking/High-severity data gaps remain unresolved.
+Atopic dermatitis has direct clinical and literature support for topical fluticasone propionate, including completed Phase 4 studies and maintenance-regimen data. However, no Phase 3 RCT was identified, the Phase 4 studies were open-label or small, and the only Phase 2 trial is a prevention study, so the evidence level is L2. The EU asthma authorisation is cancelled, and the topical formulation is a different product.
 
 **To proceed, the following is needed:**
-- TFDA label warnings/contraindications (DG001, Blocking) — required before any safety pre-assessment (S1) can proceed
-- Confirmed mechanism-of-action documentation from DrugBank (DG002, High)
-- Local regulatory pathway assessment given the current "Not Marketed" status in Taiwan
-- Drug-drug interaction data (current DDI query returned no results)
-- Anatomical/indication-fit clarification if the lower-evidence candidate "Polyp of Middle Ear" (L3, nasal-polyp evidence extrapolated to a different anatomical site) is also to be pursued
+- Confirmation of the topical formulation's EU authorisation status for atopic dermatitis
+- Randomized controlled trial data (ideally Phase 3) for fluticasone as the primary treatment
+- Warnings and contraindications from the SmPC (not available in the data compiled for this report)
+- Mechanism of action data from DrugBank
+- A safety monitoring plan for skin atrophy and HPA-axis suppression, especially in children and with extensive or prolonged use
+- Other predictions (e.g. alopecia areata, nasal and middle ear polyps) remain at Hold or research-question level, with no direct supporting trials
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

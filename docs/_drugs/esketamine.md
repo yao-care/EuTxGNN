@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Esketamine
-parent: Medium Evidence (L3-L4)
-nav_order: 234
-evidence_level: L4
+parent: AI Predictions (L5)
+nav_order: 241
+evidence_level: L5
 indication_count: 10
 ---
 
 # Esketamine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Esketamine: From Treatment-Resistant Depression to Agoraphobia
+# Esketamine: From Treatment-Resistant Major Depressive Disorder to Agoraphobia
 
 ## One-Sentence Summary
 
-Esketamine is the S-enantiomer of ketamine, marketed internationally (as Spravato) for treatment-resistant depression (TRD). The TxGNN model's top-ranked prediction for this compound is **Agoraphobia**, but this specific direction is currently supported by **0 clinical trials** and only **1 indirect literature reference**, placing it at the lowest tier of evidence maturity.
+Esketamine (nasal spray, brand name Spravato) was originally approved in the EU, together with an SSRI or SNRI, for adults with treatment-resistant Major Depressive Disorder.
+The TxGNN model predicts it may be effective for **agoraphobia**, with a very high computational score.
+However, there are currently **0 clinical trials** and **0 publications** supporting this specific direction, so the prediction rests on the model alone.
 
 ---
 
@@ -41,49 +43,52 @@ Esketamine is the S-enantiomer of ketamine, marketed internationally (as Spravat
 
 | Item | Content |
 |------|------|
-| Original Indication | Treatment-resistant depression (per literature record; no formal local license on file) |
+| Original Indication | Treatment-resistant Major Depressive Disorder in adults who have not responded to at least two different antidepressants in the current moderate to severe episode (in combination with an SSRI or SNRI) |
 | Predicted New Indication | Agoraphobia |
 | TxGNN Prediction Score | 99.57% |
-| Evidence Level | L4 |
-| EU Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 (model prediction only) |
+| EU Market Status | Cancelled only (the single authorization is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on information present elsewhere in the evidence collected, Esketamine is the active ingredient of the nasal spray Spravato, an NMDA-receptor antagonist that modulates glutamatergic neurotransmission and produces rapid-acting antidepressant effects; it has established efficacy in treatment-resistant depression and is approved for that use in the US and EU.
+Detailed mechanism of action data is not currently available. Esketamine is known to be the S-enantiomer of ketamine and an NMDA receptor antagonist. Its antidepressant efficacy in treatment-resistant depression is established, and mechanistically it may be applicable to anxiety-spectrum conditions such as agoraphobia.
 
-Treatment-resistant depression and agoraphobia both fall within the broader mood/anxiety-disorder spectrum, and glutamatergic (NMDA) signaling has been implicated in fear-extinction and panic-circuit neurobiology in general anxiety research. This provides a plausible, though unproven, mechanistic bridge.
-
-However, the only supporting literature retrieved is a general review of anxiety-disorder pharmacotherapy (panic disorder, GAD, social anxiety disorder) that does not specifically address agoraphobia or provide esketamine-specific efficacy data. No clinical trials in agoraphobia patients have been identified. The prediction should therefore be treated as a knowledge-graph-driven hypothesis rather than an evidence-backed clinical signal.
+Depression and agoraphobia are both mood and anxiety-related disorders, and they often co-occur. Glutamatergic signalling and synaptic plasticity are plausible shared pathways. However, no trials or literature were found that directly link esketamine to agoraphobia. The high TxGNN score is a computational prediction, not clinical proof, and the similarity to the original indication has not yet been assessed.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33424664](https://pubmed.ncbi.nlm.nih.gov/33424664/) | 2020 | Review | Frontiers in Psychiatry | General review of current and emerging pharmacotherapy for anxiety disorders (panic disorder, GAD, social anxiety disorder); does not focus specifically on agoraphobia and provides no esketamine-specific clinical data |
+Currently no related literature available.
 
 ---
 
 ## EU Market Information
 
-Esketamine is currently **not marketed** in this jurisdiction (0 marketing authorizations on record).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004535 (cancelled) | Spravato | Not specified | Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are all flagged as data gaps or not found in this evidence pack; TFDA label/warning retrieval is a Blocking-severity gap, DG001, required before any safety screening can proceed.)
+- **Disease-level contraindications (from the knowledge graph, not label text)**: vascular disease; arteriovenous hemangioma/malformation. These come from drug-disease contraindication links and should be checked against the official product information.
+- **Drug Interactions**: 70 interactions were recorded in total. In the 20 listed in the data compiled for this report:
+  - **Major**: diethylpropion, phentermine, fenfluramine, mazindol, caffeine.
+  - **Moderate** (examples): morphine, opium, loperamide, diphenoxylate, difenoxin, dronabinol, nabilone, metoclopramide, scopolamine, and several nasal corticosteroids and decongestants (beclomethasone, budesonide, triamcinolone, dexamethasone, ephedrine).
+
+Please refer to the SmPC for label warnings and contraindications, which were not available for this report.
 
 ---
 
@@ -92,16 +97,15 @@ Please refer to the SmPC for safety information. (Key warnings, contraindication
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN-ranked prediction (Agoraphobia) has no supporting clinical trials and only one indirect, non-specific literature review (L4 — mechanism/preclinical-tier evidence). Combined with the absence of local marketing authorization and two outstanding data gaps (TFDA label/warnings — Blocking; MOA — High), there is insufficient evidence to advance this candidate beyond hypothesis stage.
+The prediction score is very high, but there are no clinical trials or publications for agoraphobia (evidence level L5). The only mechanistic argument is a plausible NMDA-antagonism link to anxiety symptoms, so there is not yet a basis for further development. In addition, the only EU authorization on record is cancelled.
 
 **To proceed, the following is needed:**
-- Retrieve TFDA/SmPC label warnings and contraindications (DG001, blocking S1 safety screening)
-- Confirm mechanism of action via DrugBank API (DG002)
-- Identify or initiate clinical trials specifically evaluating esketamine in agoraphobia
-- Obtain agoraphobia-specific literature beyond general anxiety-disorder reviews
-- Drug-drug interaction (DDI) data, currently not found in queried sources
-
-*Note: This candidate's evidence pack also contains other predicted indications (e.g., neurotic depression, rank 3) with substantially stronger clinical trial and literature support (L1, "Proceed with Guardrails") largely reflecting esketamine's already-approved TRD indication under a legacy diagnostic label — these may warrant separate review outside the scope of this agoraphobia-focused report.*
+- Mechanism of action data (MOA) to support the mechanistic-link analysis
+- Product label warnings and contraindications from the SmPC for safety screening
+- Preclinical or early clinical evidence of esketamine in agoraphobia or panic and anxiety disorders
+- A systematic assessment of similarity to the original indication
+- Clarification of the current EU authorization status and available routes of administration
+- A safety plan covering abuse and misuse potential, dissociation, and blood pressure monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

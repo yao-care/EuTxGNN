@@ -2,15 +2,15 @@
 layout: default
 title: Pravastatin
 parent: Medium Evidence (L3-L4)
-nav_order: 481
-evidence_level: L3
+nav_order: 497
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,69 +29,81 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Pravastatin: From Hypercholesterolemia to Homozygous Familial Hypercholesterolemia
+# Pravastatin: From Mixed Hyperlipidaemia to Homozygous Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-Pravastatin is a well-established HMG-CoA reductase inhibitor (statin), classically used to treat hypercholesterolemia and dyslipidemia. The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia (HoFH)**, with **1 clinical trial** and **13 publications** currently retrieved, though the underlying mechanistic rationale is notably weaker than for typical (heterozygous) familial hypercholesterolemia.
+Pravastatin is a statin, originally authorised in the EU (as part of the fixed-dose product Pravafenix) for mixed hyperlipidaemia in adults at high cardiovascular risk.
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**, but the data compiled for this report contain **1 clinical trial** (which tests a different drug) and **13 publications** (mostly reviews of other lipid-lowering agents), so there is no direct pravastatin evidence for this use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in this dataset (no EU license entries); Pravastatin is a statin (HMG-CoA reductase inhibitor), classically indicated for hypercholesterolemia/dyslipidemia |
-| Predicted New Indication | Homozygous Familial Hypercholesterolemia |
+| Original Indication | Adjunct to diet for mixed hyperlipidaemia in adults at high cardiovascular risk, to reduce triglycerides and increase HDL-C when LDL-C is adequately controlled on pravastatin 40 mg or another moderate-intensity statin |
+| Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L3 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L4 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on known pharmacology, Pravastatin is a hydrophilic HMG-CoA reductase inhibitor (statin class). Its efficacy in hypercholesterolemia/dyslipidemia is well established, acting primarily through upregulation of hepatic LDL receptors (LDLR), which increases clearance of circulating LDL cholesterol.
+Detailed mechanism of action data is not available in the data compiled for this report. Pravastatin belongs to the statin class, which inhibits HMG-CoA reductase and upregulates hepatic LDL receptors, and its lipid-lowering efficacy in hyperlipidaemia is well established. Mechanistically, it could be applicable to familial hypercholesterolemia, which is also a disorder of high LDL cholesterol.
 
-Homozygous Familial Hypercholesterolemia (HoFH) results from near-complete loss of functional LDL receptors (biallelic LDLR, APOB, or PCSK9 mutations). Because statins depend on residual LDLR activity to lower LDL-C, their efficacy in HoFH is inherently limited — statins are typically used only as adjunct therapy alongside LDL-apheresis or PCSK9 inhibitors (e.g., alirocumab), rather than as primary treatment. This is reflected in the evidence pack: the sole retrieved clinical trial (NCT03510715) actually evaluates alirocumab, not pravastatin, in pediatric HoFH patients, and no literature directly demonstrates pravastatin monotherapy efficacy in HoFH. The mechanistic rationale is therefore considerably weaker than for classical (heterozygous) familial hypercholesterolemia, where residual LDLR function allows statins to act more directly.
+However, the rationale is weak for the homozygous form. Homozygous familial hypercholesterolemia involves severely reduced or absent LDL receptor function, so a drug that works by raising LDL receptor expression is expected to have limited effect. One of the retrieved reviews also states that statins are not very effective in this condition. The prediction therefore appears to reflect network proximity in lipid metabolism rather than a demonstrated therapeutic link.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Evaluated **alirocumab** (not pravastatin) in children/adolescents (8–17y) with HoFH on background therapy, assessing LDL-C reduction at Week 12. Relevance graded "C" — pravastatin is not the studied agent. |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Open-label study of alirocumab (a PCSK9 inhibitor) in children and adolescents aged 8–17 with homozygous familial hypercholesterolemia. Pravastatin is not the investigational agent, so it provides no direct evidence |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | Review (Cochrane) | Cochrane Database Syst Rev | Systematic review of statin therapy (incl. pravastatin) in pediatric familial hypercholesterolemia; HoFH-specific data limited |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Guideline | Endocr Pract | AACE/ACE dyslipidemia management guideline; positions statins as background therapy in severe hypercholesterolemia including HoFH |
-| [31358055](https://pubmed.ncbi.nlm.nih.gov/31358055/) | 2019 | In vitro (iPSC hepatocyte) | Stem Cell Res Ther | iPSC-derived LDLR-deficient hepatocyte model for FH enabling CRISPR correction studies; mechanistic relevance to HoFH LDLR biology |
-| [34425670](https://pubmed.ncbi.nlm.nih.gov/34425670/) | 2021 | Genetics/Case study | Iran Biomed J | Identifies novel LDLRAP1 splice-site variant causing autosomal recessive FH; illustrates genetic basis of HoFH-spectrum disease |
-| [12269853](https://pubmed.ncbi.nlm.nih.gov/12269853/) | 2002 | Review | Drugs | Rosuvastatin review noting pravastatin was inferior to atorvastatin/simvastatin/rosuvastatin in LDL-lowering trials — comparator evidence, not HoFH-specific |
-| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clin Ther | Rosuvastatin review listing HoFH among statin-class indications for LDL-C reduction |
-| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Review | Am J Cardiovasc Drugs | Review of ezetimibe, often combined with statins in refractory hypercholesterolemia including HoFH |
-| [14647533](https://pubmed.ncbi.nlm.nih.gov/14647533/) | 2003 | Review | Cardiovasc Drug Rev | Ezetimibe as add-on to statins for patients not reaching LDL-C goals — relevant to HoFH combination-therapy context |
-| [9129869](https://pubmed.ncbi.nlm.nih.gov/9129869/) | 1997 | Review | Drugs | Pharmacology/therapeutic review of atorvastatin in hyperlipidemias; comparator statin, not pravastatin/HoFH-specific |
-| [9793596](https://pubmed.ncbi.nlm.nih.gov/9793596/) | 1998 | Review | Ann Pharmacother | Review of atorvastatin in primary hypercholesterolemia and mixed dyslipidemias; comparator statin literature |
+| [28685504](https://pubmed.ncbi.nlm.nih.gov/28685504/) | 2017 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Statins for children with familial hypercholesterolemia |
+| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | Systematic Review (Cochrane) | Cochrane Database Syst Rev | Updated review of statins for children with familial hypercholesterolemia |
+| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Guideline | Endocr Pract | AACE/ACE guidelines for dyslipidaemia management and cardiovascular disease prevention |
+| [15532136](https://pubmed.ncbi.nlm.nih.gov/15532136/) | 2004 | Review | Prescrire Int | Notes statins are not very effective in familial homozygous hypercholesterolaemia |
+| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clin Ther | Rosuvastatin indicated for several hyperlipidaemias, including homozygous familial hypercholesterolemia |
+| [12269853](https://pubmed.ncbi.nlm.nih.gov/12269853/) | 2002 | Review | Drugs | Rosuvastatin review; reported superior lipid improvement vs pravastatin in hypercholesterolaemia |
+| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Review | Am J Cardiovasc Drugs | Ezetimibe, a cholesterol absorption inhibitor |
+| [14647533](https://pubmed.ncbi.nlm.nih.gov/14647533/) | 2003 | Review | Cardiovasc Drug Rev | Ezetimibe as a first-in-class cholesterol absorption inhibitor |
+| [9129869](https://pubmed.ncbi.nlm.nih.gov/9129869/) | 1997 | Review | Drugs | Atorvastatin pharmacology and therapeutic potential in hyperlipidaemias |
+| [9793596](https://pubmed.ncbi.nlm.nih.gov/9793596/) | 1998 | Review | Ann Pharmacother | Atorvastatin in primary hypercholesterolemia and mixed dyslipidemias |
+
+None of these papers provides direct evidence of pravastatin efficacy in homozygous familial hypercholesterolemia.
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/001243 (cancelled) | Pravafenix | Not specified | Adjunct to diet and other non-pharmacological treatment for mixed hyperlipidaemia in adult patients at high cardiovascular risk to reduce triglycerides and incr... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and DDI data are flagged as a Blocking data gap — DG001 — and could not be retrieved for this evidence pack.)
+Package-insert warnings and contraindications were not available in the data compiled for this report. Please refer to the SmPC for safety information.
+
+- **Knowledge-graph contraindication signals** (from a drug-disease knowledge graph, not label text): kidney disease, liver disease, gallbladder disease, myopathy and other muscle disease, rhabdomyolysis, thrombocytopenia, peptic ulcer disease, gout, hemophilia, anaemia, nephrolithiasis, and others. These should be verified against the official label.
+- **Drug Interactions**: 100 interactions were found. Moderate-level interactions include metronidazole, clarithromycin, eluxadoline, naltrexone, pectin, rosuvastatin, simvastatin and tinidazole. Others (for example calcitriol, acarbose, sucralfate, prednisone) have an unclassified severity level.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although TxGNN assigns a very high prediction score (99.95%) for HoFH, the mechanistic rationale is weak — HoFH patients have near-complete LDLR deficiency, which limits statins' primary mode of action, and the only retrieved clinical trial actually studies alirocumab rather than pravastatin. Evidence level is L3 (indirect/background literature), the drug has no recorded EU marketing authorization in this dataset, and a Blocking safety data gap (DG001) prevents any S1 safety screening.
+The only support is a high model score. The one linked trial tests a different drug, the literature is largely about other lipid-lowering agents, and the biology of absent LDL receptor function argues against meaningful statin efficacy. The only EU authorisation for a pravastatin-containing product is cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EMA SmPC warnings and contraindications (Blocking gap DG001)
-- Confirmed mechanism of action data (High-severity gap DG002)
-- Pravastatin-specific (not just statin-class) efficacy/safety data in HoFH, ideally as an adjunct to PCSK9 inhibitors/apheresis
-- Verification of current EU marketing/authorization status (currently 0 licenses on record)
+- Direct pravastatin efficacy data in homozygous familial hypercholesterolemia (or a clear rationale for residual LDL receptor activity in the target patients)
+- Mechanism of action data and SmPC warnings and contraindications
+- Review of current EU authorisations of other pravastatin products to clarify the market situation
+- Comparison against established therapies for this condition (such as PCSK9 inhibitors)
 
-**Note:** This same evidence pack contains a related, more mechanistically sound candidate — *hypercholesterolemia, autosomal dominant* (rank 6) — with **L1 evidence** and a **"Proceed with Guardrails"** recommendation, since this indication (classical LDLR/APOB/PCSK9-driven FH, typically heterozygous) directly matches pravastatin's established LDLR-upregulation mechanism. That candidate may warrant separate evaluation.
+*Other predictions with more relevant evidence:* Heterozygous familial hypercholesterolemia and autosomal dominant hypercholesterolemia have substantial pediatric pravastatin data (evidence level L3), but they represent established statin uses rather than true repurposing. Dyslipidemia in HIV has the largest body of pravastatin-specific trials (evidence level L2) and is an indication for cardiovascular risk management in people with HIV, not treatment of HIV itself.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

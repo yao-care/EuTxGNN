@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Imipenem
-parent: High Evidence (L1-L2)
-nav_order: 304
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 315
+evidence_level: L5
 indication_count: 10
 ---
 
 # Imipenem
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,94 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Imipenem: From Bacterial Infections to Staphylococcus Aureus Infection
+# Imipenem: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Diffuse Scleroderma
+
+The prompt template uses the first-ranked prediction (diffuse scleroderma). That prediction has no supporting evidence. Because the rank 1 prediction is only a model output, the report also points to the better-supported candidates (typhoid fever and *Staphylococcus aureus* infection) in the sections below.
 
 ## One-Sentence Summary
 
-Imipenem is a carbapenem antibiotic originally developed to treat severe, often multidrug-resistant, bacterial infections. Among 10 TxGNN-predicted indications in this evidence pack, **Staphylococcus Aureus Infection** has by far the strongest support — **13 clinical trials** (including a completed Phase 4 combination trial) and **20 publications** spanning four decades — though this represents an extension of Imipenem's existing antibacterial spectrum rather than a truly novel repurposing. The model's single highest-scoring prediction (diffuse scleroderma) is explicitly flagged in the evidence pack as a knowledge-graph artifact with no supporting evidence and is not a viable candidate.
+Imipenem is a carbapenem antibiotic, originally used (as part of Recarbrio) for hospital-acquired pneumonia, bacteraemia and infections caused by aerobic Gram-negative organisms in adults with limited treatment options.
+The TxGNN model predicts it may be effective for **diffuse scleroderma**, but there are **0 clinical trials** and **0 publications** supporting this specific prediction.
+Among the other predictions, typhoid fever and *Staphylococcus aureus* infection have the most relevant evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally available — Imipenem is not currently marketed in this jurisdiction (0 licenses on file); known pharmacologically as a carbapenem antibiotic for severe bacterial infections |
-| Predicted New Indication | Staphylococcus Aureus Infection (strongest-evidence candidate among 10 predictions in this pack) |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L2 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Hospital-acquired pneumonia (including ventilator-associated pneumonia), associated bacteraemia, and infections due to aerobic Gram-negative organisms in adults with limited treatment options |
+| Predicted New Indication | Diffuse scleroderma |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L5 |
+| EU Market Status | ✗ Cancelled only |
+| Number of Authorizations | 1 (cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed, formally sourced mechanism-of-action data is currently a documented gap (see DG002 below). However, the evidence pack's own rationale annotations consistently describe Imipenem as a carbapenem β-lactam antibiotic that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins (PBPs), giving it a broad spectrum of activity against many Gram-positive and Gram-negative organisms.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, imipenem is a carbapenem antibacterial that inhibits bacterial cell wall synthesis, and its efficacy in serious Gram-negative infections is established.
 
-Because the original indication for Imipenem is bacterial infection in general, its predicted activity against Staphylococcus aureus infection is not a mechanistic leap into a new disease category — it is a direct application of its existing antibacterial mechanism. This is reflected in the evidence: in vitro susceptibility data, animal infection models (endocarditis, endophthalmitis), and a completed Phase 4 trial (NCT00871104) evaluating fosfomycin plus imipenem against MRSA endocarditis versus vancomycin. The main caveat is that Imipenem alone has limited activity against methicillin-resistant strains (MRSA), so most of the higher-quality evidence involves combination regimens (with fosfomycin or linezolid) rather than monotherapy.
+For diffuse scleroderma, however, no plausible mechanistic link exists. Scleroderma is an autoimmune fibrotic disease, while imipenem acts on bacterial targets. The very high TxGNN score (99.99%) reflects a model prediction only, and no trials or literature support it. This prediction should be treated as a likely artefact rather than a real repurposing opportunity.
 
-By contrast, several other predictions in this pack (diffuse scleroderma, paranasal sinus neoplasm, eosinophilia-myalgia syndrome) are explicitly annotated in the rationale data as having no plausible mechanistic link to an antibacterial drug and are treated as knowledge-graph embedding artifacts rather than genuine repurposing signals.
+The more credible directions among the other predictions are:
+
+- **Typhoid fever (L4):** Carbapenems are used as a last-line option for extensively drug-resistant (XDR) typhoid, where resistance to fluoroquinolones and third-generation cephalosporins limits alternatives. This is the strongest biological and practical rationale. Evidence is observational or surveillance-based, with no controlled imipenem trials.
+- **Paratyphoid fever and salmonellosis (L4):** Imipenem is active against Enterobacterales including *Salmonella*, but the evidence is limited to susceptibility and resistance surveys.
+- ***Staphylococcus aureus* infection (L3):** Imipenem alone has little activity against MRSA, but combinations (for example with fosfomycin) show synergy in vitro and in small clinical series.
+- **Sinusitis, chronic rhinosinusitis, chronic ethmoidal sinusitis (L4–L5):** Imipenem has a broad spectrum, but these conditions are usually managed with narrower agents, and no imipenem-specific clinical evidence was found.
+- **Paranasal sinus neoplasm and eosinophilia-myalgia syndrome (L5):** No plausible mechanism.
 
 ## Clinical Trial Evidence
 
+Currently no related clinical trials registered for diffuse scleroderma.
+
+For reference, the only trials found among the predicted indications relate to *Staphylococcus aureus* infection (rank 9):
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00871104](https://clinicaltrials.gov/study/NCT00871104) | Phase 4 | Completed | 50 | Fosfomycin plus imipenem vs. vancomycin for MRSA infective endocarditis |
-| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Phase 4 | Unknown | 60 | Linezolid alone vs. combined with carbapenem against MRSA in ventilator-associated pneumonia |
-| [NCT03583333](https://clinicaltrials.gov/study/NCT03583333) | Phase 3 | Completed | 274 | Imipenem/cilastatin/relebactam vs. piperacillin/tazobactam for hospital-acquired/ventilator-associated bacterial pneumonia |
-| [NCT00707239](https://clinicaltrials.gov/study/NCT00707239) | Phase 2 | Terminated | 108 | Tigecycline vs. imipenem/cilastatin for hospital-acquired pneumonia |
-| [NCT04292054](https://clinicaltrials.gov/study/NCT04292054) | Phase 3 | Recruiting | 506 | Antibiotic prophylaxis (incl. carbapenem-class regimens) for burn excision-graft surgery |
-| [NCT03218397](https://clinicaltrials.gov/study/NCT03218397) | N/A | Completed | 500 | Rapid identification/susceptibility testing (RAPIDS-GN) for Gram-negative bacteremia |
-| [NCT06174649](https://clinicaltrials.gov/study/NCT06174649) | N/A | Completed | 900 | Fast antibiotic susceptibility testing trial for Gram-negative bacteremia |
-| [NCT06634940](https://clinicaltrials.gov/study/NCT06634940) | N/A | Recruiting | 1000 | International surveillance of antimicrobial resistance in cirrhosis-related bacterial infections |
-| [NCT06044272](https://clinicaltrials.gov/study/NCT06044272) | N/A | Completed | 10000 | Retrospective antimicrobial resistance profiling, Meta State, Colombia (2018–2022) |
-| [NCT06743529](https://clinicaltrials.gov/study/NCT06743529) | N/A | Recruiting | 686 | Immediate vs. substantiated antibiotic therapy for suspected ventilator-associated pneumonia |
+| [NCT00871104](https://clinicaltrials.gov/study/NCT00871104) | Phase 4 | Completed | 50 | Fosfomycin plus imipenem versus vancomycin for MRSA infective endocarditis |
+| [NCT01356472](https://clinicaltrials.gov/study/NCT01356472) | Phase 4 | Unknown | 60 | Linezolid alone or combined with a carbapenem against MRSA in ventilator-associated pneumonia (carbapenem not necessarily imipenem) |
 
 ## Literature Evidence
 
+Currently no related literature available for diffuse scleroderma.
+
+For reference, the most relevant publications among the other predicted indications:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Clinical treatment study | Antimicrob Agents Chemother | Imipenem-cilastatin evaluated in 23 patients with methicillin-sensitive and methicillin-resistant S. aureus infections |
-| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Case commentary | Antimicrob Agents Chemother | Imipenem/cilastatin plus fosfomycin as a novel combination for refractory MRSA infection |
-| [10588305](https://pubmed.ncbi.nlm.nih.gov/10588305/) | 1999 | In vitro/in vivo study | J Antimicrob Chemother | Combined vancomycin and imipenem synergistic/additive against MRSA in most isolates tested |
-| [20680368](https://pubmed.ncbi.nlm.nih.gov/20680368/) | 2010 | In vitro/in vivo study | Eur J Clin Microbiol Infect Dis | Linezolid alone and combined with vancomycin/imipenem against S. aureus with reduced glycopeptide susceptibility |
-| [7928812](https://pubmed.ncbi.nlm.nih.gov/7928812/) | 1994 | Animal model | J Antimicrob Chemother | Comparative efficacy of imipenem, oxacillin, vancomycin for chronic foreign-body MSSA/MRSA infection |
-| [23089756](https://pubmed.ncbi.nlm.nih.gov/23089756/) | 2013 | Animal model | Antimicrob Agents Chemother | Imipenem (with fosfomycin/rifampin) evaluated in tissue-cage MRSA foreign-body infection model |
-| [6421794](https://pubmed.ncbi.nlm.nih.gov/6421794/) | 1983 | Animal model | J Antimicrob Chemother | Imipenem therapy of experimental S. aureus and S. faecalis endocarditis, comparable to nafcillin/penicillin combinations |
-| [14618340](https://pubmed.ncbi.nlm.nih.gov/14618340/) | 2003 | Animal model | Graefe's Arch Clin Exp Ophthalmol | IV imipenem vs. ceftazidime/amikacin for S. aureus endophthalmitis in rabbit model |
-| [22196394](https://pubmed.ncbi.nlm.nih.gov/22196394/) | 2012 | Review | Int J Antimicrob Agents | Review of MRSA pathogenesis, key clinical trials, and antibacterial resistance implications |
-| [36526264](https://pubmed.ncbi.nlm.nih.gov/36526264/) | 2023 | Systematic review | J Glob Antimicrob Resist | AMR prevalence of E. coli and S. aureus among bacteremic patients in Africa |
+| [39991360](https://pubmed.ncbi.nlm.nih.gov/39991360/) | 2025 | Cohort | Cureus | Carbapenems as the final line of defence in MDR/XDR typhoid fever in Peshawar |
+| [36277244](https://pubmed.ncbi.nlm.nih.gov/36277244/) | 2022 | Observational | Infect Drug Resist | Single versus combination therapy in XDR *Salmonella* Typhi in Pakistan |
+| [3460521](https://pubmed.ncbi.nlm.nih.gov/3460521/) | 1986 | Clinical study | Antimicrob Agents Chemother | Imipenem-cilastatin in 23 patients with MSSA and MRSA infections |
+| [33020155](https://pubmed.ncbi.nlm.nih.gov/33020155/) | 2020 | Case commentary | Antimicrob Agents Chemother | Imipenem/cilastatin plus fosfomycin for refractory MRSA infection |
+| [15707075](https://pubmed.ncbi.nlm.nih.gov/15707075/) | 2003 | Case report and review | J Med Liban | Rhabdomyolysis in *Salmonella* Typhi infection successfully treated with imipenem/cilastatin |
+| [19208884](https://pubmed.ncbi.nlm.nih.gov/19208884/) | 2009 | In vitro | J Med Microbiol | MIC of carbapenems and tigecycline against 210 *Salmonella* isolates |
 
-## Other Predicted Indications in This Evidence Pack
+## EU Market Information
 
-This candidate record (`TW-DB01598-multi`) contains 10 TxGNN predictions. For context, here is how the remaining nine compare:
-
-| Disease | TxGNN Score | Evidence Level | Decision Stage | Recommendation |
-|---------|------|------|------|------|
-| Diffuse scleroderma (rank 1, highest score) | 99.99% | L5 | S0 | Hold — no mechanistic link; likely KG artifact |
-| Paratyphoid fever | 99.99% | L3 | S2 | Research Question |
-| Salmonellosis | 99.99% | L3 | S2 | Research Question |
-| Sinusitis | 99.99% | L3 | S1 | Research Question |
-| Chronic rhinosinusitis | 99.98% | L4 | S0 | Hold |
-| Typhoid fever | 99.98% | L3 | S2 | Proceed with Guardrails — carbapenems already used as last-line therapy for XDR S. Typhi |
-| Chronic ethmoidal sinusitis | 99.98% | L4 | S0 | Hold |
-| Paranasal sinus neoplasm | 99.98% | L5 | S0 | Hold — antibiotics have no antineoplastic mechanism; KG artifact |
-| Eosinophilia-myalgia syndrome | 99.85% | L5 | S0 | Hold — non-infectious syndrome; no plausible mechanism |
-
-Note that predicted TxGNN scores are uniformly high (all ≥99.8%) and do not by themselves discriminate evidence quality — several of the highest-scoring predictions (diffuse scleroderma, paranasal sinus neoplasm, eosinophilia-myalgia syndrome) are explicitly the weakest on independent clinical/mechanistic review.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004808 (cancelled) | Recarbrio | Not specified | Recarbrio is indicated for:- Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults (see sections 4.4 and 5.1).... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. A drug-drug interaction query returned no results, and formal TFDA warning/contraindication text is currently a **blocking data gap** (DG001) that must be resolved before any safety-relevant (S1) evaluation can proceed.
+- **Disease-level contraindication signals (knowledge graph, not label text):** epilepsy, kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions:** 15 interactions were identified. Major interactions: bupropion, iohexol, iopamidol. Moderate interactions include warfarin, dicoumarol, theophylline and other xanthines (aminophylline, dyphylline, oxtriphylline), cyclosporine, mycophenolic acid, ethinylestradiol, pemetrexed, lindane and polyethylene glycol (3350 with electrolytes).
+
+Please refer to the SmPC for the approved warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (for Staphylococcus Aureus Infection specifically; other candidates in this pack are Research Question or Hold — see table above)
+**Decision: Hold**
 
 **Rationale:**
-Staphylococcus aureus infection is supported by a completed Phase 4 combination trial, decades of clinical and animal-model literature, and a mechanistically direct antibacterial rationale — but this is best framed as label/spectrum extension rather than novel repurposing, and Imipenem alone is not reliably effective against MRSA without a partner agent.
+The top-ranked prediction (diffuse scleroderma) has no mechanistic rationale, no trials and no literature, so it is supported by the model score alone. The EU authorization is also cancelled. Among the other predictions, typhoid fever (XDR cases) and *S. aureus* combination therapy are the most plausible research questions, but the evidence is observational or small-scale.
 
 **To proceed, the following is needed:**
-- TFDA warnings, contraindications, and full prescribing information (DG001 — blocking; currently missing)
-- Formal mechanism-of-action documentation from DrugBank or equivalent source (DG002)
-- Confirmation of local marketing/regulatory status, since this drug currently has zero authorizations on file in this jurisdiction
-- A defined combination-therapy protocol (e.g., with fosfomycin or linezolid) if pursuing the MRSA-specific use case, since monotherapy evidence is weak for resistant strains
+- Mechanism of action data for imipenem
+- Package insert warnings and contraindications (SmPC), required before safety screening
+- For typhoid fever: prospective or comparative clinical data on imipenem in MDR/XDR cases
+- For *S. aureus*: confirmatory randomized data on imipenem-containing combinations
+- Route and formulation compatibility assessment for any proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

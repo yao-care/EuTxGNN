@@ -2,7 +2,7 @@
 layout: default
 title: Relugolix
 parent: AI Predictions (L5)
-nav_order: 498
+nav_order: 515
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,65 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using the drug-repurposing report template to generate the Relugolix report from the evidence pack.
-
-# Relugolix: From Advanced Prostate Cancer to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Relugolix: From Advanced Hormone-Sensitive Prostate Cancer to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-> Relugolix is an oral GnRH receptor antagonist, originally developed for advanced prostate cancer (and, in combination formulations, for hormone-dependent gynaecological conditions).
-> The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
-> but currently **no clinical trials** and **no published literature** support this specific direction — the signal comes from the AI model alone.
+Relugolix was originally used to treat adult patients with advanced hormone-sensitive prostate cancer.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Advanced prostate cancer *(based on general drug knowledge; not present in EU authorization data)* |
+| Original Indication | Treatment of adult patients with advanced hormone-sensitive prostate cancer |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 96.13% |
 | Evidence Level | L5 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on known information, Relugolix is an oral, non-peptide GnRH (gonadotropin-releasing hormone) receptor antagonist. It blocks pituitary GnRH receptors, suppressing LH/FSH release and downstream sex hormone (testosterone/estradiol) secretion. Its efficacy in advanced prostate cancer, and in combination products for hormone-dependent gynaecological conditions, has been established through this hypothalamic-pituitary-gonadal (HPG) axis mechanism.
+Currently, detailed mechanism of action data is not available. Relugolix is known to be a GnRH receptor antagonist that suppresses the pituitary-gonadal axis, and its efficacy in advanced hormone-sensitive prostate cancer is the basis of its original approval.
 
-Nephrogenic syndrome of inappropriate antidiuresis (NSIAD) is a rare condition caused by gain-of-function mutations in the renal vasopressin V2 receptor (AVPR2), which leads to constitutive water reabsorption independent of circulating vasopressin (ADH), causing hyponatremia. This is a distinct pharmacological axis (renal water-handling) from the HPG axis targeted by Relugolix.
+NSIAD, by contrast, is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2). No plausible mechanistic connection between GnRH receptor antagonism and V2 receptor signalling is evident. The high TxGNN score appears to be a network-based prediction without supporting biological rationale, so the prediction should be treated with caution.
 
-There is no established mechanistic pathway connecting GnRH receptor antagonism to AVPR2 receptor activity. Combined with the complete absence of supporting clinical trials or literature, this prediction should be interpreted as a knowledge-graph-derived hypothesis rather than a mechanistically or clinically substantiated candidate.
+Other top-ranked predictions show the same pattern: none has clinical or literature support. The mastocytosis group (smouldering systemic mastocytosis, systemic mastocytosis, lymphoadenopathic mastocytosis with eosinophilia; scores 95.9%–96.1%) has at most an indirect, speculative link via sex-hormone modulation of mast cells, while the disease is driven mainly by KIT mutations. Multiple endocrine neoplasia (95.3%) is thematically endocrine but is driven by MEN1/RET variants. Leprosy, congenital malformation syndromes and Dandy-Walker-related syndromes have no plausible mechanism and are likely graph artefacts.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-Relugolix currently has no recorded EU marketing authorizations in the evidence pack (market status: Not Marketed, 0 licenses). No product/indication table can be generated from available data.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005353 | Orgovyx | Not specified | Treatment of adult patients with advanced hormone-sensitive prostate cancer (status: cancelled) |
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Hormonal therapy (GnRH receptor antagonist), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Please refer to the SmPC warnings and precautions |
+| Handling Protection | Please refer to the SmPC warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs in total. Examples of **Major** interactions include clarithromycin, dolasetron, eliglustat, rolapitant and fidaxomicin. Many **Moderate** interactions were also found, including dexamethasone, levofloxacin, ondansetron, palonosetron, granisetron, famotidine, and several bowel-preparation or laxative products (bisacodyl, picosulfuric acid, polyethylene glycol, sodium sulfate, lactitol, lactulose). Minor interactions include metreleptin and metronidazole.
+
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score, with no clinical trials, no literature, and no clear mechanistic link between GnRH receptor antagonism and AVPR2-driven NSIAD. Regulatory and safety data are also entirely missing, so the candidate cannot proceed past the S0/S1 screening stage.
+The prediction has no supporting clinical trials or publications (evidence level L5) and no plausible biological link between GnRH receptor antagonism and the V2 receptor mechanism underlying NSIAD. The only EU authorization is cancelled, which further limits near-term development.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label data — warnings and contraindications (currently a Blocking data gap, DG001)
-- Confirmed mechanism of action from DrugBank or primary literature (DG002)
-- EU marketing authorization records (license numbers, approved indications, dosage forms)
-- Any preclinical or case-level evidence exploring a GnRH–vasopressin pathway interaction, if it exists
-- Drug-drug interaction (DDI) data
+- Detailed mechanism of action data (MOA) and a mechanistic review of why the model links relugolix to this disease
+- Warnings and contraindications from the SmPC, to allow safety screening
+- Any preclinical or clinical evidence supporting the predicted indication
+- Clarification of the reasons for the cancelled EU authorization and the current regulatory position
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

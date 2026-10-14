@@ -2,7 +2,7 @@
 layout: default
 title: Bortezomib
 parent: AI Predictions (L5)
-nav_order: 97
+nav_order: 99
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,100 +29,116 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bortezomib: From Multiple Myeloma to Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction
+# Bortezomib: From Multiple Myeloma to Neuroblastoma
 
 ## One-Sentence Summary
 
-Bortezomib (Velcade) is a first-in-class proteasome inhibitor, globally approved for the treatment of multiple myeloma and mantle cell lymphoma, but not currently registered in Taiwan.
-The TxGNN model predicts it may be effective for **Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction**, with a prediction score of 96.10%; however, **no clinical trials or published literature** currently support this specific indication.
-It is worth noting that the model simultaneously predicts strong activity across several other haematological and paediatric cancers — including neuroblastoma (4 clinical trials, 20 publications), Hodgkin's lymphoma, and myeloid leukemia — where substantially more evidence exists.
+Bortezomib is a proteasome inhibitor originally used to treat multiple myeloma and mantle cell lymphoma.
+The TxGNN model's top-ranked predictions are rare or poorly supported conditions. The best-supported candidate in the data compiled for this report is **Neuroblastoma** (TxGNN score 95.11%), with **3 completed early-phase clinical trials** and **20 publications**, mostly preclinical.
+The evidence is early-stage and no efficacy signal has been confirmed.
 
----
+> Note: The prediction ranked first by TxGNN score (vertebral anomalies and variable endocrine and T-cell dysfunction, 96.10%) has no clinical trials or literature. This report therefore evaluates neuroblastoma, the highest-ranked prediction with substantive supporting data. Other candidates are summarized at the end.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Multiple myeloma; mantle cell lymphoma (globally approved; not registered in Taiwan) |
-| Predicted New Indication | Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction |
-| TxGNN Prediction Score | 96.10% |
-| Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
-| Recommended Decision | Hold |
-
----
+|------|------|
+| Original Indication | Progressive multiple myeloma (monotherapy or combined with pegylated liposomal doxorubicin or dexamethasone), previously untreated multiple myeloma, and previously untreated mantle cell lymphoma |
+| Predicted New Indication | Neuroblastoma (rank 4 by TxGNN score) |
+| TxGNN Prediction Score | 95.11% |
+| Evidence Level | L3 (preclinical and early-phase clinical data only; no completed Phase 3 or randomized trials) |
+| EU Market Status | Cancelled only (all 5 EU authorizations are cancelled) |
+| Number of Authorizations | 5 |
+| Recommended Decision | Hold (research question; not ready for development) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, the formal mechanism of action data (MOA) was not retrieved in this evidence pack. Based on extensive descriptions in the retrieved literature, however, bortezomib is a highly selective and reversible inhibitor of the 26S proteasome — the principal intracellular machinery for targeted protein degradation. By blocking proteasomal activity, bortezomib causes accumulation of pro-apoptotic proteins (such as Bik, Bim, NOXA, and PUMA), suppresses the constitutively active NF-κB pathway, and induces endoplasmic reticulum stress, collectively driving tumour cell death. Its approved indications — plasma cell myeloma and B-cell lymphoma — are both highly dependent on proteasome function for proliferation and survival.
+Detailed mechanism of action data is not available in the data compiled for this report. Bortezomib is known to be a selective, reversible inhibitor of the 26S proteasome. Inhibiting the proteasome suppresses NF-κB signalling, induces endoplasmic reticulum stress and apoptosis, and has anti-angiogenic effects.
 
-The predicted indication, vertebral anomalies and variable endocrine and T-cell dysfunction, is a rare, complex multi-system disorder affecting bone structure, endocrine organs, and T-lymphocyte function. The TxGNN model generates this prediction through network-level graph relationships within the biological knowledge graph, potentially linking proteasome regulation to immune cell homeostasis or skeletal morphogenesis pathways. The NF-κB signalling axis — a primary target of bortezomib — is known to participate in both T-cell development and bone remodelling (via RANK/RANKL regulation), which may provide an indirect mechanistic rationale.
-
-That said, no direct preclinical or clinical evidence supports this specific repurposing. The prediction should be interpreted as a hypothesis-generating signal rather than a clinically actionable finding. In contrast, for paediatric neuroblastoma and haematological malignancies (Hodgkin's lymphoma, AML, NHL), the same evidence pack contains multiple completed clinical trials and extensive mechanistic literature, representing far stronger repurposing candidates.
-
----
+Multiple myeloma and mantle cell lymphoma are proteasome-dependent haematological cancers. Neuroblastoma is a childhood solid tumour of neural crest origin. Preclinical work shows bortezomib inhibits growth and angiogenesis in neuroblastoma cell lines, including chemoresistant lines, and reduces tumour burden in xenograft and murine models. It also acts synergistically with fenretinide, doxorubicin, TRAIL and HDAC inhibitors. Resistance mechanisms have been described (Nrf2/HO-1/GSH signalling and caspase-3 sequestration in aggresomes), and these may limit efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Bortezomib in Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction.
-
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02139397](https://clinicaltrials.gov/study/NCT02139397) | Phase 1/2 | Completed | 16 | DFMO plus bortezomib in relapsed/refractory neuroblastoma; evaluates safety, tolerability and tumour response |
+| [NCT00644696](https://clinicaltrials.gov/study/NCT00644696) | Phase 1 | Completed | 18 | Irinotecan plus bortezomib in children and young adults with recurrent/refractory high-risk neuroblastoma; safety and dose-finding |
+| [NCT01132911](https://clinicaltrials.gov/study/NCT01132911) | Phase 1 | Completed | 5 | Vorinostat plus bortezomib in children with refractory/recurrent solid tumours, including CNS tumours and lymphomas; very small |
 
 ## Literature Evidence
 
-Currently no related literature available for Bortezomib in Vertebral Anomalies and Variable Endocrine and T-cell Dysfunction.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38523673](https://pubmed.ncbi.nlm.nih.gov/38523673/) | 2024 | Review | Genes & Diseases | Role of proteasomes in tumorigenesis |
+| [26835334](https://pubmed.ncbi.nlm.nih.gov/26835334/) | 2014 | Review | Translational Pediatrics | Advances in paediatric cancer treatment |
+| [16912267](https://pubmed.ncbi.nlm.nih.gov/16912267/) | 2006 | Preclinical (in vitro) | J Natl Cancer Inst | Bortezomib effect on neuroblastoma cell growth, apoptosis and angiogenesis |
+| [16391799](https://pubmed.ncbi.nlm.nih.gov/16391799/) | 2006 | Preclinical (in vitro/in vivo) | Int J Oncol | Anti-cancer effects against chemoresistant neuroblastoma cell lines |
+| [17689684](https://pubmed.ncbi.nlm.nih.gov/17689684/) | 2007 | Preclinical (murine model) | Surgery | Inhibits angiogenesis and reduces tumour burden in a murine model |
+| [19414367](https://pubmed.ncbi.nlm.nih.gov/19414367/) | 2009 | Preclinical (xenograft) | Anticancer Res | Effects in vitro and in a metastatic xenograft model |
+| [19228726](https://pubmed.ncbi.nlm.nih.gov/19228726/) | 2009 | Preclinical (in vitro) | Clin Cancer Res | Combination with fenretinide involves ER stress response |
+| [26031842](https://pubmed.ncbi.nlm.nih.gov/26031842/) | 2015 | Preclinical (liposomal formulation) | J Control Release | Tumour vascular targeted liposomal bortezomib reduces side effects and increases activity |
+| [27023064](https://pubmed.ncbi.nlm.nih.gov/27023064/) | 2016 | Preclinical (resistance) | PLoS One | Nrf2, HO-1 and GSH mediate neuroblastoma resistance to bortezomib |
+| [38355966](https://pubmed.ncbi.nlm.nih.gov/38355966/) | 2024 | Preclinical | Sci Rep | Activated caspase-3 sequestration in aggresomes mediates resistance |
 
----
+## EU Market Information
 
-## Taiwan Market Information
+All five EU authorizations are currently cancelled; the product is not actively marketed under these licenses.
 
-Bortezomib is currently not registered in Taiwan (Not marketed). No marketing authorizations are on file in the Taiwan FDA database. The drug is, however, approved internationally — including by the US FDA and EMA — for multiple myeloma and mantle cell lymphoma under the brand name Velcade.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000539 | Velcade | Not specified | Progressive multiple myeloma, previously untreated multiple myeloma, mantle cell lymphoma (previously untreated, unsuitable for transplant)... |
+| EMEA/H/C/003984 | Bortezomib Accord | Not specified | Progressive multiple myeloma, previously untreated multiple myeloma, mantle cell lymphoma (previously untreated, unsuitable for transplant)... |
+| EMEA/H/C/004076 | Bortezomib Sun | Not specified | Progressive multiple myeloma, previously untreated multiple myeloma, mantle cell lymphoma (previously untreated, unsuitable for transplant)... |
+| EMEA/H/C/004207 | Bortezomib Hospira | Not specified | Progressive multiple myeloma, previously untreated multiple myeloma, mantle cell lymphoma (previously untreated, unsuitable for transplant)... |
+| EMEA/H/C/005074 | Bortezomib Fresenius Kabi | Not specified | Progressive multiple myeloma, previously untreated multiple myeloma, mantle cell lymphoma (previously untreated, unsuitable for transplant)... |
 
 ## Cytotoxicity
 
-Bortezomib is an antineoplastic agent (proteasome inhibitor) used in the treatment of haematological malignancies.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Targeted therapy — Proteasome inhibitor (first-in-class boronic acid dipeptide; not conventional cytotoxic) |
-| Myelosuppression Risk | Moderate — thrombocytopenia is dose-limiting and frequently observed; neutropenia and anaemia also reported in combination regimens |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (particularly platelet count before each cycle), peripheral neuropathy grading (NCI CTCAE), liver function tests, renal function, electrolytes |
-| Handling Protection | Must follow cytotoxic drug handling regulations; subcutaneous administration preferred to reduce systemic exposure on administration staff |
-
----
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (proteasome inhibitor) with cytotoxic antineoplastic activity |
+| Myelosuppression Risk | Medium; thrombocytopenia and neutropenia are listed among the disease associations in the knowledge graph |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Complete blood count (platelets, neutrophils), liver function, peripheral neuropathy, cardiopulmonary status |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Formal warning and contraindication data from the Taiwan package insert were not retrieved in this evidence pack (Data Gap — see DG001). Based on the international SmPC and literature:
+- **Contraindication-related signals (knowledge graph, not label text)**: associations include thrombocytopenia, neutropenia, agranulocytosis, peripheral neuropathy and peripheral nervous system disease, liver disease, interstitial lung disease, pneumonia, acute respiratory distress syndrome, pulmonary hypertension, cardiovascular and heart disease, long QT syndrome, hypotensive disorders and orthostatic hypotension, ileus and intestinal obstruction, posterior leukoencephalopathy syndrome, gallbladder disease, diabetes mellitus and diabetic ketoacidosis.
+- **Drug Interactions** (100 interactions recorded; examples shown): most are moderate, including antidiabetic agents (acarbose, metformin, pioglitazone, alogliptin, SGLT2 inhibitors, GLP-1 agonists, sulfonylureas), clarithromycin, clotrimazole, metronidazole, aprepitant and ascorbic acid. Dexamethasone and esomeprazole are minor.
+- **Peripheral neuropathy**: preclinical literature notes it occurs in about 20–30% of patients, often leading to dose reduction or discontinuation. A preclinical paper also reports bortezomib-induced bone growth impairment in mice, which is relevant to paediatric use.
 
-- **Key Warning**: Peripheral neuropathy is a significant and cumulative toxicity; subcutaneous administration substantially reduces incidence compared to intravenous infusion
-- **Key Warning**: Thrombocytopenia is common and nadir typically occurs on Day 11 of each cycle; platelet count must be monitored before each dose
+Label warnings and contraindications from the EU product information were not available; please refer to the SmPC for authoritative safety information.
 
-For comprehensive safety guidance, please refer to the international SmPC (EMA or US FDA label) until the Taiwan TFDA package insert can be retrieved and reviewed.
+## Other Predicted Indications (Summary)
 
----
+| Rank | Indication | TxGNN Score | Evidence Level | Assessment |
+|---|---|---|---|---|
+| 1 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 96.10% | L5 | No trials or literature; no identifiable mechanistic rationale |
+| 2 | Ganglioneuroblastoma | 96.01% | L5 | No direct data; plausibly related to neuroblastoma signal |
+| 3 | Retroperitoneal neoplasm | 95.64% | L4 | Single case report only |
+| 5 | Hodgkin's lymphoma | 85.09% | L2 | Several small Phase 2 trials (e.g., IGEV ± bortezomib, n=13; bortezomib-gemcitabine); NF-κB rationale; most trials are multi-histology |
+| 6 | Myeloid leukemia | 83.77% | L2 | Multiple Phase 1/2 trials, including completed Phase 2 TEAM (n=50); no randomized efficacy evidence |
+| 7 | Non-Hodgkin lymphoma, familial | 83.59% | L2 | Randomized Phase 2 (n=135) supportive; evidence applies to NHL broadly, not a familial subgroup |
+| 8 | Colon adenocarcinoma | 79.12% | L3 | Preclinical activity; clinical studies show no documented efficacy signal |
+| 9 | Lymph node cancer | 77.96% | L3 | Broad category; only one Phase 2 trial where bortezomib's role is unclear |
+| 10 | Dermatofibrosarcoma protuberans | 77.01% | L5 | Only cell-line establishment papers |
+
+Of these, Hodgkin's lymphoma, myeloid leukemia and non-Hodgkin lymphoma have the strongest clinical signals and may be better near-term repurposing candidates than neuroblastoma, although none has confirmed efficacy.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Although the TxGNN model assigns a high prediction score (96.10%) for bortezomib in vertebral anomalies and variable endocrine and T-cell dysfunction, zero clinical trials and zero publications support this specific indication. The mechanistic link between proteasome inhibition and this rare multi-system disorder remains entirely speculative, and pursuing a development programme without even preclinical evidence would not be justifiable at this stage.
+Neuroblastoma has consistent preclinical support and three completed small Phase 1/2 paediatric combination trials, but no confirmed efficacy results, and the evidence is limited to L3. In addition, all EU authorizations for bortezomib are cancelled, so no active EU marketed product is available under these licenses.
 
 **To proceed, the following is needed:**
-
-- Preclinical mechanistic study confirming that proteasome inhibition modulates the pathological pathway(s) underlying this condition (e.g., NF-κB in T-cell homeostasis; RANK/RANKL in vertebral development)
-- At least one published case report or preclinical in vitro/in vivo study demonstrating bortezomib activity in this disease model
-- Retrieval of the Taiwan TFDA package insert (DG001 remediation) to complete the safety review before any clinical translation
-- Formal MOA documentation from DrugBank (DG002 remediation)
-- Drug-drug interaction assessment for the relevant patient population
-- Consultation with rare disease specialists to clarify disease pathophysiology and patient population size
-
-> **Alternative recommendation**: Consider prioritising the neuroblastoma indication (TxGNN rank 4, score 95.11%) for deeper evaluation. Four clinical trials — including two completed Phase 1/2 studies specifically testing bortezomib in relapsed/refractory neuroblastoma — and 20 publications, including multiple mechanistic in vitro and in vivo studies, provide an L3–L4 evidence base that is far more actionable.
+- Published efficacy and safety results from NCT02139397, NCT00644696 and NCT01132911
+- Mechanism of action data and EU label (SmPC) warnings and contraindications
+- Paediatric safety assessment, including peripheral neuropathy and bone growth effects
+- Clarification of the EU regulatory and market status, given that all authorizations are cancelled
+- Comparative prioritization against stronger-evidence candidates (Hodgkin's lymphoma, myeloid leukemia, non-Hodgkin lymphoma)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

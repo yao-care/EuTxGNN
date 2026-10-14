@@ -2,7 +2,7 @@
 layout: default
 title: Parecoxib
 parent: Medium Evidence (L3-L4)
-nav_order: 452
+nav_order: 467
 evidence_level: L3
 indication_count: 10
 ---
@@ -33,7 +33,9 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Parecoxib is a selective COX-2 inhibitor (injectable prodrug of valdecoxib), long used as an adjunct for short-term postoperative pain management. The TxGNN model predicts it may be effective for **Migraine Disorder**, but this direction is currently supported by only **1 pilot comparative study** and **no registered clinical trials** specifically targeting migraine.
+Parecoxib is an injectable COX-2 inhibitor (a prodrug of valdecoxib), originally authorised in the EU for short-term treatment of postoperative pain in adults.
+The TxGNN model predicts it may be effective for **migraine disorder**.
+Support is limited: **0 registered clinical trials** and **1 clinical comparison study** (a 2011 pilot study), plus preclinical work on related migraine entries.
 
 ---
 
@@ -41,23 +43,23 @@ Parecoxib is a selective COX-2 inhibitor (injectable prodrug of valdecoxib), lon
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — Parecoxib is not currently marketed in Taiwan (0 licenses on record); no approved indication text in the evidence pack |
-| Predicted New Indication | Migraine Disorder |
+| Original Indication | Short-term treatment of postoperative pain in adults |
+| Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L3 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the evidence pack. Based on publicly known pharmacology, Parecoxib is a selective COX-2 inhibitor and prodrug of valdecoxib, historically used via IV/IM injection for acute postoperative pain due to its anti-inflammatory and analgesic properties.
+Parecoxib is a prodrug of valdecoxib, a selective COX-2 inhibitor. Detailed mechanism-of-action data were not available in the data compiled for this report, but the class mechanism is well established: COX-2 inhibition reduces prostaglandin synthesis, giving analgesic and anti-inflammatory effects. This is how the drug relieves postoperative pain.
 
-The mechanistic link to migraine proposed by the model is that COX-2 inhibition reduces prostaglandin-mediated neurogenic inflammation in the trigeminovascular system, which theoretically could relieve acute migraine attacks. However, COX-2 is **not** a mainstream migraine treatment target — current standard-of-care relies on triptans and CGRP antagonists — so this remains a secondary, mechanistically plausible but clinically unproven pathway.
+Migraine involves pain and neurogenic inflammation in the trigeminal system. Preclinical work (PMID 21394197) shows that IL-1β stimulates COX-2-dependent PGE2 synthesis and CGRP release in rat trigeminal ganglia cells. In a rat model of trigeminovascular activation, parecoxib affected plasma protein extravasation and c-fos expression (PMID 16492237). This offers a plausible mechanistic bridge from pain relief to acute migraine treatment.
 
-Notably, a related predicted indication in this same evidence pack, "headache disorder" (rank 5, same L3 evidence level), shares this identical mechanistic rationale, but the clinical trials retrieved under that indication are almost all postoperative/procedural pain studies (graded "C" relevance), not headache-specific trials — reinforcing that the existing evidence base is adjacent rather than direct.
+The clinical signal is thin. A 2011 pilot study compared intravenous parecoxib 40 mg with oral rizatriptan and subcutaneous sumatriptan in acute migraine attacks. Its design could not be confirmed from the title alone, and no registered trials were found.
 
 ---
 
@@ -71,21 +73,25 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21996647](https://pubmed.ncbi.nlm.nih.gov/21996647/) | 2011 | Comparative Study | Clinical Neuropharmacology | Pilot study comparing oral rizatriptan (10mg), IV parecoxib (40mg), and subcutaneous sumatriptan for acute migraine attack treatment |
+| [21996647](https://pubmed.ncbi.nlm.nih.gov/21996647/) | 2011 | Clinical comparative pilot study | Clinical Neuropharmacology | Compared IV parecoxib 40 mg, oral rizatriptan 10 mg and subcutaneous sumatriptan in acute migraine attacks |
+| [16492237](https://pubmed.ncbi.nlm.nih.gov/16492237/) | 2006 | Preclinical (rat) | Headache | Parecoxib affected meningeal plasma protein extravasation and c-fos expression in a trigeminovascular model |
+| [21394197](https://pubmed.ncbi.nlm.nih.gov/21394197/) | 2011 | Preclinical (rat cells) | PLoS One | IL-1β stimulates COX-2-dependent PGE2 synthesis and CGRP release in trigeminal ganglia cells |
 
 ---
 
 ## EU Market Information
 
-Parecoxib currently has no marketing authorization on record in Taiwan (0 licenses; market status: Not Marketed). No approved indication or product information is available from the regulatory dataset.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000381 | Dynastat | Not specified | For the short-term treatment of postoperative pain in adults. (status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Class cardiovascular risk**: Literature on COX-2 inhibitors describes increased risk of myocardial infarction and stroke with long-term use, and valdecoxib (the active metabolite) has been linked to serious skin reactions. This weighs on any chronic or repeated use, such as migraine.
 
-*(Note: Taiwan label warnings/contraindications data is flagged as a **Blocking** data gap — required before this candidate can proceed to a formal safety evaluation (S1 stage).)*
+Please refer to the SmPC for full warnings, contraindications and drug interaction information.
 
 ---
 
@@ -94,14 +100,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The migraine indication is supported by a single small pilot comparative study rather than a registered or completed RCT, and Parecoxib is not currently marketed in Taiwan. Critically, the TFDA label (warnings/contraindications) data gap is classified as **Blocking**, meaning a rigorous safety assessment cannot yet be performed — this alone is sufficient to hold the candidate regardless of efficacy signal strength.
+The prediction score is high and a plausible trigeminovascular mechanism exists. However, the clinical evidence is a single pilot comparison of unconfirmed design, there are no registered trials, and the EU authorisation is cancelled. The class carries known cardiovascular and skin safety concerns, which matter for a recurrent condition such as migraine.
 
 **To proceed, the following is needed:**
-- Obtain TFDA/SmPC label data (warnings, contraindications) to close the Blocking data gap (DG001)
-- Obtain DrugBank/primary literature MOA confirmation (DG002)
-- Identify or commission a properly powered RCT in acute migraine (current evidence is a single pilot study, N unspecified)
-- Clarify route/formulation fit — Parecoxib is an injectable-only product; feasibility for an outpatient migraine-abortive indication needs explicit assessment
-- Note: two other candidates in this pack (**headache disorder**, rank 5, L3; **rheumatoid arthritis**, rank 9, L4) sit at the same early "Research Question" stage and warrant the same evidentiary bar before any further action; remaining 6 candidates (L5, Hold) show no supporting literature or trials and are not recommended for further review at this time.
+- Full review of the 2011 pilot study (design, sample size, endpoints, outcomes)
+- Mechanism-of-action data and the SmPC safety sections (warnings, contraindications)
+- Assessment of an injectable perioperative agent against established oral and non-injectable migraine therapies, and confirmation of whether the product remains available
+- A registered, controlled trial in acute migraine, with a cardiovascular risk-benefit assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Dapagliflozin
 parent: AI Predictions (L5)
-nav_order: 162
+nav_order: 169
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dapagliflozin: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Dapagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Dapagliflozin is a well-established SGLT2 inhibitor, internationally approved for type 2 diabetes mellitus, heart failure with reduced ejection fraction, and chronic kidney disease — though no Taiwan marketing authorization records appear in the current dataset.
-The TxGNN model predicts it may be effective for **Classic Stiff Person Syndrome (SPS)**, with **0 clinical trials** and **0 publications** currently supporting this specific direction.
-The prediction achieves a high TxGNN score of 98.20%, but the mechanistic bridge between SGLT2 inhibition and the GABAergic autoimmune pathology of SPS remains unestablished.
-
----
+Dapagliflozin is an SGLT2 inhibitor originally used to treat type 2 diabetes mellitus, chronic heart failure with reduced ejection fraction, and chronic kidney disease.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Not retrieved from Taiwan regulatory data; internationally recognized for Type 2 Diabetes, Heart Failure, and Chronic Kidney Disease |
-| Predicted New Indication | Classic Stiff Person Syndrome |
+|------|------|
+| Original Indication | Type 2 diabetes mellitus (adults and children aged 10 years and above); also symptomatic chronic heart failure with reduced ejection fraction and chronic kidney disease in adults |
+| Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 98.20% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not Marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (the single authorization on record is cancelled) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this dataset. Based on known information, Dapagliflozin belongs to the SGLT2 (sodium-glucose cotransporter 2) inhibitor class. It works by blocking glucose reabsorption in the proximal renal tubule, leading to urinary glucose excretion and downstream metabolic benefits. Beyond glycosuria, SGLT2 inhibitors are recognized to activate AMPK, reduce reactive oxygen species, suppress pro-inflammatory cytokines (NF-κB, IL-6, TNF-α), and confer cardioprotective and renoprotective effects that extend well beyond glycemic control.
+Detailed mechanism of action data is not currently available. Based on known information, dapagliflozin belongs to the SGLT2 inhibitor class. Its efficacy in type 2 diabetes, heart failure and chronic kidney disease is established, but no mechanism has been shown that would make it applicable to stiff person syndrome.
 
-Classic Stiff Person Syndrome is a rare autoimmune neurological disorder driven by anti-GAD65 (glutamic acid decarboxylase 65) antibodies, which impair GABAergic inhibitory neurotransmission and result in progressive muscle rigidity, episodic spasms, and heightened sensitivity to external stimuli. The therapeutic backbone of SPS is GABA enhancement (diazepam, baclofen) and immunosuppression (intravenous immunoglobulin, rituximab). Dapagliflozin has no known direct effect on GABAergic neurotransmission, anti-GAD65 antibody production, or the specific T-cell / B-cell immune checkpoints implicated in SPS pathogenesis.
+Stiff person syndrome is an autoimmune neurological disorder, typically associated with anti-GAD65 antibodies and impaired GABAergic signaling. SGLT2 inhibition has no known direct relevance to this pathway. The only conceivable link is speculative: GAD65 autoimmunity overlaps with diabetes, which is the original treatment area.
 
-The high TxGNN score (98.20%) most likely reflects indirect co-occurrence of neuro-metabolic disease nodes within the knowledge graph — for example, shared metabolic stress pathways or inflammatory node overlaps — rather than a direct biological mechanistic link. Without supporting preclinical or clinical evidence, this prediction should be treated as a hypothesis-generating signal only, requiring independent mechanistic justification before any further investment.
-
----
+The prediction should be read with caution. The closely related "focal stiff limb syndrome" received an identical score (98.20%), which suggests the result is driven by shared neighbors in the knowledge graph rather than by independent evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for Dapagliflozin in Classic Stiff Person Syndrome.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for Dapagliflozin in Classic Stiff Person Syndrome.
+Currently no related literature available for classic stiff person syndrome.
 
----
+## EU Market Information
 
-## Taiwan Market Status
-
-No Taiwan marketing authorization on record for Dapagliflozin. The drug is not marketed in Taiwan according to the current dataset (0 authorizations retrieved). Note that Dapagliflozin is internationally approved and marketed under the brand names Farxiga (AstraZeneca, USA) and Forxiga (AstraZeneca, EU/Taiwan TFDA approval may exist but was not captured in this dataset).
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/006006 (cancelled) | Dapagliflozin Viatris | Not specified | Type 2 diabetes mellitus in adults and children aged 10 years and above, as monotherapy when metformin is inappropriate or in addition to other medicinal products; symptomatic chronic heart failure with reduced ejection fraction; chronic kidney disease... |
 
 ## Safety Considerations
 
-Please refer to the official prescribing information / SmPC for safety information. Taiwan-specific TFDA prescribing information was not available in this dataset (Data Gap: TFDA warnings and contraindications — Blocking severity).
+- **Drug Interactions**: The interaction screen returned 100 records. The ones listed here are mostly Moderate, with a few Minor. Examples of Moderate interactions include:
+  - Diuretics and blood pressure medicines: furosemide, hydrochlorothiazide, acetazolamide, fosinopril, aliskiren, nifedipine
+  - Sympathomimetics and bronchodilators: phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol
+  - Others: acebutolol, alfuzosin, hydrocortisone, levonorgestrel, ethanol, fosamprenavir, gemifloxacin
+- Minor interactions include topical corticosteroids (hydrocortisone topical, alclometasone topical).
 
----
+Please refer to the SmPC for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Despite a high TxGNN model score (98.20%), there is a fundamental mechanistic mismatch between Dapagliflozin's SGLT2 inhibition profile and the GABAergic autoimmune pathology of classic stiff person syndrome; zero clinical trials and zero publications support this pairing, leaving it as a model-only prediction with no biological validation.
+The prediction rests on a model score alone. No clinical trials or literature support dapagliflozin in stiff person syndrome, no plausible mechanism has been identified, and the only EU authorization on record is cancelled.
 
 **To proceed, the following is needed:**
-
-- **MOA data gap closure**: Retrieve Dapagliflozin's complete mechanism of action from DrugBank API to assess any secondary neurological or immunomodulatory pathways (current severity: High)
-- **TFDA SmPC retrieval**: Download and parse the TFDA prescribing information PDF to complete the safety profile before any S1 safety evaluation can proceed (current severity: Blocking)
-- **Preclinical mechanistic study**: Assess whether SGLT2 inhibition or AMPK activation has any measurable effect on GABAergic transmission, anti-GAD65 antibody titres, or related autoimmune markers in animal models
-- **Knowledge graph audit**: Investigate why TxGNN assigns a 98.20% score to SPS — identify the intermediate KG nodes driving this prediction to determine whether the signal reflects biological plausibility or graph topology artefacts
-- **Broader indication landscape review**: Among the 10 predicted indications in this evidence pack, rank 9 (Pancreatic Agenesis, L4) has one relevant preclinical publication (PMID [33559163](https://pubmed.ncbi.nlm.nih.gov/33559163/)) showing dapagliflozin ameliorates pancreatic injury via AMPK/mTOR signalling in obese rats — though this addresses pancreatic *injury* (not congenital *agenesis*) and represents a disease-matching mismatch requiring separate review
+- Mechanism of action data and a documented mechanistic link between SGLT2 inhibition and stiff person syndrome pathology
+- Any preclinical or clinical evidence in stiff person syndrome or related autoimmune neurological disorders
+- Warnings and contraindications from the SmPC to complete safety screening
+- Clarification of the EU authorization status (cancelled) and the availability of other dapagliflozin products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

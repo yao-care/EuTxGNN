@@ -2,7 +2,7 @@
 layout: default
 title: Tecovirimat
 parent: AI Predictions (L5)
-nav_order: 570
+nav_order: 591
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tecovirimat: From Orthopoxvirus Infection to Hordeolum
+# Tecovirimat: From Smallpox, Monkeypox and Cowpox to Hordeolum
 
 ## One-Sentence Summary
 
-Tecovirimat is an antiviral agent whose known mechanism specifically targets the VP37 envelope-wrapping protein of orthopoxviruses (variola/smallpox, mpox, vaccinia), and it has established clinical use in the treatment of these infections. The TxGNN model predicts a possible new indication for **Hordeolum** (an acute bacterial infection of the eyelid), but this candidate is supported only by a computational score (**score-based ranking only, no confirming trials or publications**), and the drug's own mechanism of action provides no plausible pathway to a bacterial eyelid infection.
+Tecovirimat is an antiviral originally used to treat smallpox, monkeypox (mpox) and cowpox, and to treat complications of vaccinia virus replication after smallpox vaccination.
+The TxGNN model predicts it may be effective for **hordeolum** (a stye of the eyelid), but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone and is likely a network-prediction artifact.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Smallpox / Mpox (orthopoxvirus infections) — not confirmed in the EU regulatory dataset provided (no EU marketing authorization on record) |
+| Original Indication | Smallpox, monkeypox and cowpox in adults and children weighing at least 13 kg; complications of vaccinia virus replication after smallpox vaccination |
 | Predicted New Indication | Hordeolum |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 (model prediction only, no clinical trials or literature) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is marked as a data gap in this Evidence Pack. However, the repurposing rationale accompanying the prediction independently describes Tecovirimat's known mechanism: it selectively inhibits the VP37 envelope-wrapping protein of orthopoxviruses, blocking viral envelopment and cell-to-cell/extracellular spread. This mechanism is active only against poxviruses (smallpox, mpox, vaccinia) and has no known activity against bacteria.
+Currently, detailed mechanism of action data is not available in the compiled data. Tecovirimat is known to be a narrow-spectrum antiviral that inhibits the orthopoxvirus VP37 envelope-wrapping protein. Its efficacy has been established against orthopoxvirus infections, not against other pathogen groups.
 
-Hordeolum, however, is an acute bacterial infection of the meibomian or Zeis/Moll glands of the eyelid, most commonly caused by *Staphylococcus* species. There is no overlap between an antiviral, poxvirus-specific mechanism and the pathophysiology of a bacterial eyelid abscess. The relationship between the original indication (orthopoxvirus infection) and the predicted new indication (hordeolum) is therefore not mechanistically supported.
+The predicted indication does not fit this mechanism. Hordeolum is typically a bacterial infection (usually *Staphylococcus aureus*) of an eyelid gland. Bacteria have no VP37 homolog, and tecovirimat has no known antibacterial activity. The high TxGNN score (99.66%) is therefore most likely a network-prediction artifact rather than a true repurposing signal.
 
-This appears to be a case where the TxGNN knowledge-graph embedding produced a high similarity score without an underlying biological rationale — a known limitation of purely graph-based repurposing predictions in the absence of confirmatory clinical or literature evidence. The Evidence Pack's own scoring explicitly reflects this: Evidence Level L5, decision stage S0, and a recommendation of Hold.
+The same pattern holds for the other top-ranked predictions: bacterial infections (Vibrio, Klebsiella, *E. coli*, noma) and unrelated viruses (herpes, Newcastle disease, equine infectious anemia, astroviruses, arteriviruses). None has a plausible mechanistic link to tecovirimat.
 
 ## Clinical Trial Evidence
 
@@ -61,30 +62,33 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for hordeolum.
+
+Among the other ranked predictions, a few papers were retrieved, but all concern tecovirimat in mpox, which is the original indication, and none supports the predicted indication.
 
 ## EU Market Information
 
-Tecovirimat currently has no marketing authorization on record in the EU dataset provided (`total_licenses: 0`, market status: **Not marketed**). No authorization table can be generated.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005248 (cancelled) | Tecovirimat SIGA | Not specified | Smallpox, monkeypox and cowpox in adults and children weighing at least 13 kg; complications of vaccinia virus replication after smallpox vaccination... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
-
-*(Note: key warnings, contraindications, and drug-drug interaction data are marked as blocking data gaps in this Evidence Pack — specifically, TFDA/EU label warnings and contraindications have not yet been retrieved, which is flagged as a blocking issue for any safety pre-assessment.)*
+Please refer to the SmPC for safety information. No interaction data were found for this drug in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication (hordeolum) has no supporting clinical trials or literature (Evidence Level L5), and the drug's known antiviral, poxvirus-specific mechanism provides no plausible biological pathway to a bacterial eyelid infection. In addition, this drug is not currently marketed in the EU dataset, and safety labelling data (warnings/contraindications) remains an unresolved blocking data gap.
+The prediction for hordeolum has no clinical, literature or mechanistic support. A bacterial eyelid infection cannot plausibly be treated by a narrow-spectrum orthopoxvirus inhibitor. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Retrieval of the TFDA/EU product label (SmPC) to resolve the blocking safety data gap (warnings, contraindications)
-- Confirmed mechanism-of-action documentation from DrugBank or equivalent source
-- Independent mechanistic or preclinical evidence linking VP37 inhibition (or any other Tecovirimat activity) to bacterial eyelid infection, before this candidate can advance past S0
-- Given that all top-10 TxGNN predictions for this drug (hordeolum, vibrio infection, Klebsiella infection, noma, E. coli infection, Newcastle disease, herpes, equine infectious anemia, Astroviridae infection, Arterivirus infection) show the same pattern — high score, no mechanistic plausibility, no confirmatory evidence — this candidate bundle should be treated as a low-priority screening artifact rather than a near-term repurposing opportunity.
+- Mechanism of action data (MOA) from DrugBank
+- Warnings and contraindications from the EMA package insert, which are required before any safety screening
+- Any experimental evidence of activity in the predicted indication; without it, this candidate should not advance
+- Confirmation of the reason for the authorization cancellation and the current EU availability of tecovirimat
+- If repurposing is still of interest, a review of lower-ranked predictions that are viral and closer to orthopoxviruses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

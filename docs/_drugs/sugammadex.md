@@ -2,7 +2,7 @@
 layout: default
 title: Sugammadex
 parent: AI Predictions (L5)
-nav_order: 557
+nav_order: 578
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,62 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sugammadex: From Neuromuscular Blockade Reversal to Breast Fibrocystic Disease
+# Sugammadex: From Reversal of Neuromuscular Blockade to Breast Fibrocystic Disease
 
 ## One-Sentence Summary
 
-Sugammadex is a cyclodextrin-based binding agent used during anesthesia to reverse rocuronium/vecuronium-induced neuromuscular blockade.
-The TxGNN model predicts it may be effective for **Breast Fibrocystic Disease**,
-but currently **0 clinical trials** and **0 publications** support this direction, and the evidence pack's own mechanistic review found no known biological link between the two.
+Sugammadex was originally developed to reverse neuromuscular blockade caused by rocuronium or vecuronium during anaesthesia.
+The TxGNN model predicts it may be effective for **breast fibrocystic disease**, but **no clinical trials and no supporting publications** currently exist for this direction.
+The prediction rests on model output alone and is best treated as a computational artifact until shown otherwise.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Reversal of rocuronium/vecuronium-induced neuromuscular blockade (derived from evidence pack rationale text; formal regulatory indication text unavailable — see Data Gaps below) |
-| Predicted New Indication | Breast Fibrocystic Disease |
+| Original Indication | Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults (paediatric use is limited to routine reversal of rocuronium-induced blockade) |
+| Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 98.49% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 6 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available (flagged as a High-severity data gap, DG002). Based on information contained in this evidence pack, Sugammadex is a modified cyclodextrin whose only established pharmacological action is to selectively encapsulate the steroidal neuromuscular blocking agents rocuronium and vecuronium, thereby reversing anesthesia-induced muscle paralysis. This is a narrow molecular-trapping mechanism with no known involvement of hormone receptors, growth factor signaling, or other pathways relevant to breast tissue.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, sugammadex is a modified gamma-cyclodextrin. It encapsulates steroidal neuromuscular blocking agents (rocuronium and vecuronium), which inactivates them.
 
-Breast fibrocystic disease is a benign, estrogen/progesterone-sensitive proliferative condition of breast epithelium. There is no structural, receptor-level, or pathway-level overlap between this condition and sugammadex's mechanism of action. The evidence pack's own mechanistic assessment for this specific prediction states explicitly that no known receptor or pathway link exists, and no clinical trials or literature have been found linking the two.
+This is a highly specific, binding-based action. Fibrocystic breast disease is a benign, hormone-responsive condition. No plausible mechanistic link exists between the two. Sugammadex has no known activity on mammary tissue.
 
-Given the absence of any supporting mechanistic, preclinical, or clinical evidence, this ranking appears to be driven purely by knowledge-graph embedding similarity rather than any biologically plausible rationale. It should be treated as a hypothesis-generation signal only, consistent with its L5 evidence level and Hold recommendation.
+The high score (98.49%) most likely reflects network-based artifacts in the knowledge graph. Several closely related benign breast terms (blunt duct adenosis, apocrine adenosis, benign mammary dysplasia) receive nearly identical scores, which points to clustering of related ontology terms rather than independent evidence. The other top-ranked predictions, such as Prinzmetal angina, peripheral arterial disease, tendinitis and antithrombin deficiency, also lack any mechanistic support.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available for breast fibrocystic disease.
+
+Publications were found only for other lower-ranked predictions (thrombotic disease and female breast carcinoma). They describe perioperative or anaesthetic use of sugammadex, such as coagulation testing in morbidly obese patients, and case reports in malignant hyperthermia and myasthenia gravis. They do not show a therapeutic effect on those diseases and are not evidence for the predicted indication.
+
+---
 
 ## EU Market Information
 
-No EU marketing authorizations are recorded for Sugammadex in this dataset (market status: Not Marketed, total licenses: 0).
+All six authorizations are cancelled. No valid authorization remains.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000885 | Bridion | Not specified | Reversal of neuromuscular blockade induced by rocuronium or vecuronium. For the peadiatric population: sugammadex is only recomm... |
+| EMEA/H/C/005403 | Sugammadex Mylan | Not specified | Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults. For the paediatric population: sugammadex... |
+| EMEA/H/C/005760 | Sugammadex Fresenius Kabi | Not specified | Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults. For the paediatric population: sugammadex... |
+| EMEA/H/C/005935 | Sugammadex Amomed | Not specified | Reversal of neuromuscular blockade induced by rocuronium or vecuronium. For the paediatric population: sugammadex is only reco... |
+| EMEA/H/C/006046 | Sugammadex Adroiq | Not specified | Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults.For the paediatric population: sugammadex is... |
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 31 interactions were identified in total. The main ones listed here are from the first 20 records compiled.
+  - **Major**: hormonal contraceptives and progestogens (levonorgestrel, norethisterone, desogestrel, norgestrel, drospirenone, medroxyprogesterone acetate)
+  - **Moderate**: anticoagulants and antithrombotics (warfarin, apixaban, rivaroxaban, edoxaban, betrixaban, dalteparin, bivalirudin, argatroban, desirudin, danaparoid, ardeparin, anisindione, antithrombin III human, antithrombin alfa)
+
+Because the predicted indication involves hormone-responsive breast tissue, the major interactions with hormonal agents would be directly relevant in any future use. Interactions with anticoagulants are also relevant, since sugammadex can transiently affect coagulation parameters.
+
+Please refer to the SmPC for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or peer-reviewed literature currently support efficacy of sugammadex in breast fibrocystic disease, and the evidence pack's own mechanistic review found no known receptor or pathway connection between the drug and the disease. The prediction rests entirely on a TxGNN embedding score (L5), with no experimental validation.
+The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible mechanistic link exists. In addition, all EU authorizations are currently cancelled, and sugammadex carries major interactions with hormonal agents that are commonly relevant in breast conditions.
 
 **To proceed, the following is needed:**
-- Formal mechanism-of-action documentation from DrugBank (currently marked as a High-severity data gap, DG002)
-- TFDA/EMA label warnings, contraindications, and DDI data (currently a Blocking data gap, DG001, preventing entry into S1 safety screening)
-- Preclinical or in vitro studies establishing a plausible biological link between sugammadex and breast epithelial proliferation before any further evaluation
-- If exploratory value is still of interest, note that among the other candidate indications in this evidence pack, only "thrombotic disease" (rank 6) reached L4/S1 status, based on two papers (PMID 28714298, 22577926) reporting a coagulation *safety* signal in ROTEM studies — not a therapeutic efficacy signal — and would warrant separate, more cautious evaluation.
+- Mechanism of action data and a plausible biological rationale linking encapsulation of steroidal agents to fibrocystic breast pathology
+- Preclinical or observational evidence of any benefit in benign breast disease
+- Full SmPC warnings and contraindications, which have not yet been retrieved
+- Clarification of the EU regulatory status, including why all six authorizations are cancelled
+- Review of whether the high scores for related benign breast terms result from knowledge-graph clustering rather than independent signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

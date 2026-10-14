@@ -2,7 +2,7 @@
 layout: default
 title: Nelarabine
 parent: AI Predictions (L5)
-nav_order: 408
+nav_order: 422
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nelarabine: From T-cell Acute Lymphoblastic Leukemia to Relapsing-Remitting Multiple Sclerosis
+# Nelarabine: From T-Cell Acute Lymphoblastic Leukaemia to Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Nelarabine is a purine nucleoside antimetabolite originally used to treat T-cell acute lymphoblastic leukemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL).
-The TxGNN model predicts it may be effective for **Relapsing-Remitting Multiple Sclerosis (RRMS)**, but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the underlying rationale flags a direct mechanistic contradiction with the drug's known neurotoxicity profile.
+Nelarabine is a purine nucleoside analogue originally used to treat relapsed or refractory T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL).
+The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | T-cell acute lymphoblastic leukemia (T-ALL) / T-cell lymphoblastic lymphoma (T-LBL) (per literature record; no local marketing authorization data available) |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis |
+| Original Indication | T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) that has not responded to, or has relapsed after, at least two chemotherapy regimens |
+| Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 99.43% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for nelarabine is not available in the current dataset. Based on information found in the supporting literature within this evidence pack, nelarabine is a prodrug that is converted to ara-GTP and acts as a T-cell-selective DNA synthesis inhibitor, exploiting the high deoxycytidine kinase (dCK) to adenosine deaminase/purine nucleoside phosphorylase (ADA:PNP) ratio characteristic of malignant T-lymphoblasts. This selective T-cell cytotoxicity underlies its approved use in T-ALL/T-LBL.
+Detailed mechanism of action data is not available in the data compiled for this report. Nelarabine is known to be a purine nucleoside analogue that is selectively toxic to T-lymphoblasts, and its efficacy in T-cell malignancies has been established.
 
-However, the relationship between this cytotoxic mechanism and RRMS runs in the opposite direction of what MS therapy requires. RRMS management centers on immune modulation and myelin protection, whereas nelarabine carries a known black-box warning for severe neurotoxicity, including demyelinating lesions and encephalopathy. Applying a drug whose principal dose-limiting toxicity is demyelination/CNS injury to a demyelinating autoimmune disease is mechanistically contradictory rather than merely under-evidenced — this is explicitly noted in the model's own repurposing rationale.
+The only plausible link is class-level. Other lymphocyte-depleting purine analogues, such as cladribine, are used in multiple sclerosis, so a drug that depletes lymphocytes could in theory resemble them. The prediction is therefore best viewed as a graph-based hypothesis, not a mechanistically supported one.
 
-For this reason, despite a high TxGNN similarity score, this candidate does not represent a biologically plausible repurposing direction and should not be interpreted as a promising lead without independent confirmatory evidence.
+The hypothesis also has a serious problem. Nelarabine carries a known severe neurotoxicity warning, including demyelination and Guillain-Barré-like ascending neuropathy. Applying it to a demyelinating disease of the central nervous system is highly unfavourable, and the knowledge graph also lists demyelinating disease and inflammatory demyelinating polyradiculoneuropathy among its contraindication-related conditions.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for relapsing-remitting multiple sclerosis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for relapsing-remitting multiple sclerosis.
 
 ## EU Market Information
 
-Nelarabine currently has no marketing authorization in this jurisdiction (market status: Not Marketed; total licenses: 0). No product-level data is available for reporting.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000752 (cancelled) | Atriance | Not specified | Nelarabine is indicated for the treatment of patients with T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) whose d... |
 
 ## Cytotoxicity
 
-Nelarabine is an antineoplastic agent (purine nucleoside antimetabolite; approved for T-ALL/T-LBL), so this section applies.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (Purine nucleoside antimetabolite; same class as fludarabine, cladribine) |
-| Myelosuppression Risk | Please refer to the SmPC warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside antimetabolite) |
+| Myelosuppression Risk | High (the knowledge graph links the drug to neutropenia, thrombocytopenia, anaemia and agranulocytosis) |
 | Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
-| Monitoring Items | Complete blood count (CBC), neurological examination (given the drug's known severe neurotoxicity profile), liver and renal function |
+| Monitoring Items | Complete blood count with differential, liver and renal function, and neurological assessment |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Conditions linked to the drug in the knowledge graph (contraindication edges, not label text)**: liver failure, epilepsy, thrombocytopenia, neutropenia, agranulocytosis, peripheral nervous system disease, peripheral neuropathy, anaemia, macrocytic anaemia, hyperbilirubinaemia (including hereditary forms and Gilbert syndrome), impaired renal function, learning disability, intellectual disability, demyelinating disease, and inflammatory demyelinating polyradiculoneuropathy.
+- **Drug Interactions**: The interaction query returned 100 records. Among those listed, the **Major** interactions are bupropion, deferiprone, iopamidol, iohexol and samarium (153Sm) lexidronam. **Moderate** interactions include metronidazole, tinidazole, secnidazole, benznidazole, disulfiram, chloroquine, hydroxychloroquine, rosuvastatin, simvastatin, palifermin, strontium-89 chloride, lindane, and the bowel-preparation products picosulfuric acid, sodium sulfate and polyethylene glycol with electrolytes.
 
-*Note: The repurposing rationale for this candidate independently flags that nelarabine carries a known black-box warning for severe neurotoxicity (demyelinating lesions, encephalopathy), which is directly relevant to evaluating its use in a demyelinating disease context such as RRMS.*
+Label-based warnings and contraindications are not available in the compiled data. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This candidate has no clinical trial or literature support (L5, model prediction only), and the proposed mechanism runs counter to nelarabine's known neurotoxic/demyelinating liability — a direct conflict with the therapeutic goal in RRMS. There is no basis to advance this candidate at this time.
+The prediction rests on a model score alone, with no trials or literature. Nelarabine's neurotoxicity, including demyelination, runs directly against the proposed use in multiple sclerosis. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Formal mechanism-of-action (MOA) data for nelarabine from DrugBank or the manufacturer
-- TFDA/EMA-equivalent labeling data on warnings, contraindications, and neurotoxicity (currently a blocking data gap per this evidence pack)
-- Preclinical evidence specifically addressing whether any subpopulation-selective immunomodulatory effect could offset the demyelination risk in an autoimmune CNS disease model
-- Independent expert (neurology/oncology) review before any further evaluation stage is considered
+- Label warnings and contraindications from the EMA product information
+- Mechanism of action data
+- Preclinical evidence that nelarabine is neurologically safe and active in demyelinating disease models
+- A benefit-risk comparison against approved lymphocyte-depleting MS therapies
+
+## Other Predictions (For Reference)
+
+Nine further predictions were reviewed. All are rated **Hold**.
+
+| Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|
+| Hodgkin lymphoma | 98.23% | L4 | Three Phase 2 trials of nelarabine (506U78) in other lymphomas give only indirect support, and none studied Hodgkin lymphoma. Reed-Sternberg cells are B-cell derived. |
+| Chronic lymphocytic leukaemia/small lymphocytic lymphoma (two entries) | 98.65% | L5 | Purine analogues are active in CLL as a class, but nelarabine is T-cell selective and CLL is a B-cell disease. The two entries are likely redundant. |
+| Rhabdomyosarcoma and its subtypes (vaginal botryoid, extrahepatic bile duct, parameningeal) | 98.0–98.3% | L5 | No mechanistic link or evidence. Parameningeal disease adds concern given the neurotoxicity. |
+| Pancreatic adenocarcinoma | 98.07% | L5 | The one linked publication is unrelated to nelarabine, so it provides no support. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

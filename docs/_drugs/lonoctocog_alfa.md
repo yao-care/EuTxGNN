@@ -2,7 +2,7 @@
 layout: default
 title: Lonoctocog Alfa
 parent: AI Predictions (L5)
-nav_order: 363
+nav_order: 375
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,62 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lonoctocog Alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+# Lonoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
 
 ## One-Sentence Summary
 
-Lonoctocog alfa is a recombinant Factor VIII (FVIII) replacement product, originally developed for Haemophilia A (FVIII deficiency). The TxGNN model's top prediction suggests possible efficacy in **pseudo-von Willebrand disease**, but this is supported by **0 clinical trials** and **0 publications** — and the evidence pack's own mechanistic analysis argues the biological link is weak.
+Lonoctocog alfa (Afstyla) is a single-chain recombinant factor VIII product, originally used to treat and prevent bleeding in patients with haemophilia A.
+The TxGNN model predicts it may be effective for **pseudo-von Willebrand disease**, but **no clinical trials and no publications** currently support this direction.
+The prediction most likely reflects proximity in the knowledge graph rather than a real therapeutic link.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Haemophilia A (Factor VIII deficiency) |
+| Original Indication | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency); can be used for all age groups |
 | Predicted New Indication | Pseudo-von Willebrand disease |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed (Taiwan) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for Lonoctocog alfa is not currently available in this evidence pack. Based on known drug-class information, Lonoctocog alfa is a B-domain-deleted recombinant Factor VIII, used to replace deficient or absent FVIII in Haemophilia A.
+Detailed mechanism of action data is not available from the data compiled for this report. Lonoctocog alfa is a recombinant factor VIII lacking the B domain, built as a single chain. Its role is to replace missing FVIII in haemophilia A. Its single-chain structure gives it higher von Willebrand factor (VWF) binding affinity, which may help stabilise FVIII in circulation.
 
-Pseudo-von Willebrand disease, however, is not a coagulation-factor deficiency — it is caused by a platelet GPIb receptor abnormality that produces excessive affinity for von Willebrand factor (vWF), leading to spontaneous vWF/platelet clearance. The pathology sits entirely on the platelet-receptor side, not the FVIII-synthesis side.
+Pseudo-von Willebrand disease (platelet-type VWD) is a different problem. It is caused by gain-of-function variants in the platelet receptor GP1BA. These variants increase platelet affinity for VWF, so high-molecular-weight VWF multimers are lost and platelet counts fall. Supplying more FVIII does not correct this platelet receptor defect.
 
-Because of this, the evidence pack's own mechanistic assessment concludes the link is **weak**: supplementing FVIII does not correct a platelet receptor defect, and the high TxGNN similarity score most likely reflects the model picking up on shared "bleeding disorder" graph neighborhoods rather than a real causal mechanism. This prediction should be treated as a hypothesis-generation signal only, not a mechanistically grounded candidate.
+The high TxGNN score is most likely an artifact of shared coagulation-pathway nodes in the knowledge graph. No direct mechanistic rationale was identified.
+
+Other predictions in the top 10 are also weakly supported. Most are primary platelet disorders (primary release disorder of platelets, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia), where FVIII replacement does not address the defect. Acquired coagulation factor deficiency is the most plausible of the group, but it needs to be narrowed to a specific factor deficiency, and acquired haemophilia A is usually driven by inhibitor autoantibodies. Esophageal varices (with or without bleeding) have a portal hypertension mechanism rather than an FVIII deficiency. Thrombotic thrombocytopenic purpura is a particular concern, because a procoagulant product could in principle worsen microvascular thrombosis.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
+
+---
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004075 (cancelled) | Afstyla | Not specified | Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Afstyla can be used for all age groups. |
+
+---
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-**Data gap flagged as blocking**: TFDA label warnings/contraindications for Lonoctocog alfa are not yet available (DG001), which prevents any safety pre-screening for this candidate.
+One risk is worth noting from the predicted indications. Using a procoagulant product in thrombotic thrombocytopenic purpura, or in patients with cirrhosis and esophageal varices, would raise a thrombotic safety concern.
 
-## Other Predicted Indications — Context
-
-Nine additional candidates (rank 2–10) were generated with similarly high TxGNN scores (98.1%–99.8%), all at evidence level L5 with zero supporting trials or literature. The pack's rationale text flags each as mechanistically weak relative to FVIII replacement (e.g., Glanzmann thrombasthenia, Scott syndrome, and constitutional thrombocytopenia are platelet-defect diseases, not coagulation-factor deficiencies). One candidate — **thrombotic thrombocytopenic purpura (rank 10)** — deserves specific caution rather than pursuit: FVIII concentrates typically co-contain vWF, and increasing vWF activity could theoretically worsen microthrombus formation in TTP, which is the opposite of the therapeutic goal (ADAMTS13/vWF reduction). This should be tracked as a potential contraindication signal, not a repurposing opportunity.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (pseudo-von Willebrand disease) lacks any clinical or literature support, and the evidence pack's own mechanistic review indicates the biological rationale is weak — FVIII replacement does not address the underlying platelet-receptor defect. Combined with a blocking data gap on TFDA safety labeling and the drug's unmarketed status in Taiwan, there is currently no basis to advance this candidate.
+The prediction rests on model output alone (Evidence Level L5). There are no registered trials or publications, and the mechanism does not support a link between FVIII replacement and a platelet receptor defect. The sole EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- TFDA (or manufacturer SmPC) warnings and contraindications for Lonoctocog alfa (currently blocking)
-- Confirmed detailed mechanism-of-action documentation from DrugBank/primary literature
-- Any preclinical or case-level evidence specifically linking FVIII replacement to platelet-receptor disorders, before considering escalation beyond L5
-- If pursuing further, explicit exclusion/caution review for TTP given the theoretical vWF-related risk noted above
+- Mechanism of action data for lonoctocog alfa
+- Label warnings and contraindications from the SmPC
+- A systematic literature and trial search specific to pseudo-von Willebrand disease
+- Narrowing of the broader predicted category "acquired coagulation factor deficiency" to a specific factor deficiency, if that direction is pursued
+- Confirmation of the reason for the cancelled authorization and current availability in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

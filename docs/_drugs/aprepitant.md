@@ -2,7 +2,7 @@
 layout: default
 title: Aprepitant
 parent: AI Predictions (L5)
-nav_order: 57
+nav_order: 58
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,74 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aprepitant: From Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Aprepitant: From Postoperative and Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Aprepitant is an NK1 (neurokinin 1) receptor antagonist approved in multiple countries for prevention of chemotherapy-induced nausea and vomiting (CINV) and post-operative nausea and vomiting (PONV).
-The TxGNN model's top prediction places it as a candidate for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)** with a score of 99.97%,
-however **zero clinical trials and zero publications** link Aprepitant to this condition, and no biologically plausible mechanism has been identified.
-
----
+Aprepitant is a substance P/NK1 receptor antagonist, originally used to prevent nausea and vomiting after surgery and during cancer chemotherapy.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Prevention of chemotherapy-induced nausea and vomiting (CINV) |
-| Predicted New Indication | Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD) |
+|------|------|
+| Original Indication | Prevention of postoperative nausea and vomiting (PONV) in adults; prevention of nausea and vomiting associated with chemotherapy (other strengths and formulations) |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the Evidence Pack. Based on known information, Aprepitant is an NK1 (neurokinin 1) receptor antagonist that selectively blocks substance P — a neuropeptide involved in the vomiting reflex, neurogenic inflammation, and pain sensitization. Its clinical efficacy in preventing acute and delayed chemotherapy-induced nausea and vomiting is well-established, and it holds marketing authorizations in the US, EU, and Japan, though it is not currently approved in Taiwan.
+Aprepitant blocks the NK1 receptor, the target of substance P. This is the basis of its antiemetic effect. Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on its known drug class.
 
-NSIAD is a rare X-linked condition caused by constitutive gain-of-function mutations in the *AVPR2* gene encoding the V2 vasopressin receptor. This leads to unregulated water retention and persistent dilutional hyponatremia independent of circulating vasopressin levels. Critically, the NK1/substance P signaling pathway has no established biochemical crosstalk with the AVPR2/cAMP/aquaporin-2 (AQP2) axis that underlies this syndrome. There is no known mechanism by which blocking substance P would suppress constitutively active V2 receptor signaling or reduce pathological water reabsorption.
+The link between the original and predicted indications is weak. Nephrogenic SIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These act downstream of any effect NK1 signalling might have on neuroendocrine or fluid regulation. The connection is speculative, and no clinical or literature evidence supports it.
 
-The high TxGNN score (99.97%) most likely reflects indirect topological proximity between Aprepitant-associated nodes and NSIAD-related disease nodes within the biomedical knowledge graph, rather than a true pharmacological relationship. Without a coherent mechanistic pathway and in the complete absence of clinical or preclinical supporting evidence, this prediction is not actionable at this stage.
+The very high TxGNN score (99.97%) is a computational prediction from a knowledge graph. It is not evidence of efficacy and should be treated as a hypothesis only.
 
----
+Other predicted indications in the data (hypertrichosis, pulmonary hypertension, leprosy, subarachnoid haemorrhage and others) also score above 99.8%. All are at evidence level L5 with a Hold recommendation. Subarachnoid haemorrhage has the most plausible biological rationale, based on preclinical work on substance P/NK1 signalling in blood-brain barrier disruption and cerebral oedema, but it remains hypothetical.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000527 (cancelled) | Emend | Not specified | Emend 40 mg hard capsules is indicated for the prevention of postoperative nausea and vomiting (PONV) in adults. Emend is also available as 80 mg and 125 m... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (knowledge graph, not label text)**: The TxGNN knowledge graph lists liver failure as a drug-disease contraindication.
+- **Drug Interactions**: 100 interactions were found in the DDInter database. Examples:
+  - **Major**: fentanyl, alfentanil, acalabrutinib
+  - **Moderate**: paclitaxel, abemaciclib, nifedipine, ibuprofen, hydrocortisone, levonorgestrel, fluvoxamine, fosphenytoin, gefitinib, rabeprazole, lidocaine
+  - **Minor**: dolutegravir
 
----
+  Many of these likely reflect aprepitant's metabolism through CYP3A4. Please refer to the SmPC for full details.
+
+Please refer to the SmPC for warnings and precautions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The NK1/substance P pathway has no known interaction with the AVPR2/AQP2 axis responsible for NSIAD, making a pharmacological rationale absent; combined with zero supporting clinical or preclinical evidence, this prediction is not actionable.
+The prediction has no clinical trial or literature support (evidence level L5). The proposed mechanism is speculative, because the cause of nephrogenic SIAD lies downstream of NK1 signalling. The EU authorization is also cancelled.
 
 **To proceed, the following is needed:**
-- Retrieve Aprepitant's detailed MOA data from DrugBank (currently a blocking data gap) to formally complete the mechanistic analysis
-- Identify any basic science data — in vitro or animal models — demonstrating NK1 receptor involvement in AVPR2 activity or renal water handling before clinical translation can be considered
-- Obtain TFDA prescribing information (仿單) to complete the safety profile, currently flagged as a blocking gap
-- Consider prioritizing alternative TxGNN-predicted indications with stronger mechanistic rationale for further investigation:
-  - **Subarachnoid hemorrhage** (Rank 9): substance P is released into CSF after SAH and drives neurogenic edema and vasospasm — NK1 antagonism has conceptual support from animal models
-  - **Hypertrichosis** (Rank 2): NK1 receptors are functionally expressed in hair follicle dermal papilla and outer root sheath; substance P may influence anagen/catagen cycling
-
-> ⚠️ *This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any therapeutic application.*
+- Detailed mechanism of action data for aprepitant
+- Preclinical or mechanistic studies testing whether NK1 antagonism affects V2 receptor-mediated water handling
+- Label warnings and contraindications from the current SmPC, to allow safety screening
+- Clarification of the cancelled EU authorization status and available dosage forms
+- Comparison with other predicted indications, such as subarachnoid haemorrhage, where the biological rationale is more plausible
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

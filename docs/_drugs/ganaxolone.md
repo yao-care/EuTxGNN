@@ -2,7 +2,7 @@
 layout: default
 title: Ganaxolone
 parent: AI Predictions (L5)
-nav_order: 270
+nav_order: 278
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ganaxolone: From Epilepsy (Neurodevelopmental Seizure Disorders) to Alcohol Withdrawal Delirium
+# Ganaxolone: From CDKL5 Deficiency Disorder Seizures to Alcohol Withdrawal Delirium
 
 ## One-Sentence Summary
 
-Ganaxolone is a synthetic neuroactive steroid whose confirmed original indication is not present in this evidence pack (Taiwan market status: not marketed, 0 authorizations). The TxGNN model's top-ranked prediction is **Alcohol Withdrawal Delirium**, but this specific prediction is currently supported by **0 clinical trials** and **0 publications** — it is a pure mechanism-based extrapolation with no direct evidence.
+Ganaxolone is a synthetic neurosteroid originally used as an adjunctive treatment for epileptic seizures in CDKL5 deficiency disorder (CDD).
+The TxGNN model predicts it may be effective for **alcohol withdrawal delirium**, but **no clinical trials and no publications** currently support this specific prediction.
+Evidence is limited to a model prediction, with indirect preclinical support in neighbouring indications (alcohol withdrawal, autism spectrum disorder).
 
 ---
 
@@ -41,47 +43,64 @@ Ganaxolone is a synthetic neuroactive steroid whose confirmed original indicatio
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available — no Taiwan marketing authorization on record (evidence pack references epilepsy/neurodevelopmental seizure disorders in related rationale text, but this is not a confirmed regulatory indication) |
-| Predicted New Indication | Alcohol Withdrawal Delirium |
+| Original Indication | Adjunctive treatment of epileptic seizures associated with CDKL5 deficiency disorder (CDD) in patients 2 to 17 years of age; may be continued in patients 18 years and older |
+| Predicted New Indication | Alcohol withdrawal delirium |
 | TxGNN Prediction Score | 94.85% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| Market Status (Taiwan) | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for Ganaxolone is not available in this evidence pack (flagged as a High-severity data gap, DG002). Based on the information that is available, Ganaxolone is described in the evidence rationale as a synthetic neuroactive steroid acting as a **positive allosteric modulator (PAM) at the GABA-A receptor** — the same general receptor target used by benzodiazepines and barbiturates, the current standard-of-care drug classes for alcohol withdrawal management.
+Detailed mechanism of action data are not available in the compiled data. Based on known pharmacology, ganaxolone is a synthetic neurosteroid that acts as a positive allosteric modulator of the GABA-A receptor (the compiled pharmacology data list the GABA-A receptor α1 subunit, GABRA1, as its target). Its efficacy in CDD-related seizures is the basis of its original approval.
 
-This shared receptor mechanism is the entire basis of the prediction: theoretically, GABA-A potentiation could suppress the central nervous system hyperexcitability that drives alcohol withdrawal delirium, in a manner analogous to benzodiazepine therapy. However, this rationale is explicitly described in the source data as **"pure mechanistic extrapolation"** — no clinical trial, case report, or preclinical study specific to alcohol withdrawal delirium exists to support it. The TxGNN score reflects the strength of the knowledge-graph relationship, not clinical validation.
+Alcohol withdrawal involves reduced GABAergic inhibition together with glutamatergic hyperexcitability. Enhancing GABA-A signalling is therefore a plausible way to counter withdrawal hyperexcitability, which is the mechanistic link behind the prediction. This reasoning is theoretical for alcohol withdrawal delirium itself: no trials or publications address it, and the high score is a model output only.
 
-It is worth noting that other, lower-ranked predictions in this same evidence pack for closely related conditions have meaningfully stronger support: **"alcohol withdrawal"** (rank 6) has L4 evidence including an animal pharmacogenetic study directly involving ganaxolone in ethanol withdrawal, and **"autism spectrum disorder"** (rank 7) has L3 evidence with 13 literature hits, including a direct ganaxolone behavioral study in an autism mouse model and clinical linkage through CDKL5-related epilepsy syndromes. These may be more productive candidates for further evaluation than the top-ranked but evidence-free prediction discussed here.
+Closely related indications have somewhat more support. For **alcohol withdrawal** (score 81.8%), a 2019 mouse study examined ganaxolone's anticonvulsant effect during chronic ethanol withdrawal, which is direct preclinical support (Evidence Level L4). For **autism spectrum disorder** (score 79.3%), there is a registered Phase 2 trial plus preclinical work in the BTBR mouse model (also L4). These are secondary candidates and not the focus of this report.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for alcohol withdrawal delirium.
+
+For reference, a trial exists for a different predicted indication (autism spectrum disorder):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07635862](https://clinicaltrials.gov/study/NCT07635862) | Phase 2 | Not yet recruiting | 66 | Randomized, placebo-controlled trial of ganaxolone in autistic children and adolescents aged 5 to 17; planned start 2027-01, no results yet |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for alcohol withdrawal delirium.
+
+For reference, the most relevant publications for the closely related indication, alcohol withdrawal:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30513375](https://pubmed.ncbi.nlm.nih.gov/30513375/) | 2019 | Preclinical (animal) | Neuroscience | Mouse genotypes differ in sensitivity to ganaxolone's anticonvulsant effect during chronic ethanol withdrawal |
+| [34588093](https://pubmed.ncbi.nlm.nih.gov/34588093/) | 2023 | Review | CNS Spectrums | General review of novel antidepressants beyond monoamine targets; indirect relevance |
 
 ---
 
 ## EU Market Information
 
-No marketing authorizations on record. Ganaxolone's market status in Taiwan is "Not Marketed" with 0 total licenses/authorizations, so no product/dosage-form/indication table can be generated.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005825 | Ztalmy | Not specified | Adjunctive treatment of epileptic seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 to 17 years... |
+
+This authorization is recorded as cancelled, so there is currently no valid EU marketing authorization.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. (Key warnings, contraindications, and drug-drug interaction data were queried but not found in the available sources; the TFDA package insert data gap is classified as **Blocking** and must be resolved before any safety assessment can proceed — see Conclusion.)
+Please refer to the SmPC for safety information. The compiled data contain no label warnings, contraindications or drug-interaction data. The only interaction-related record is the pharmacological target entry (GABA-A receptor α1 subunit), which is not a drug-drug interaction.
 
 ---
 
@@ -90,13 +109,14 @@ Please refer to the SmPC for safety information. (Key warnings, contraindication
 **Decision: Hold**
 
 **Rationale:**
-This prediction (Alcohol Withdrawal Delirium) carries a high TxGNN score but zero clinical or literature evidence, and Ganaxolone has no marketing authorization or safety labeling on file in Taiwan. There is currently no basis to move this specific candidate past a mechanism-only hypothesis.
+The prediction for alcohol withdrawal delirium rests on model score and a plausible GABAergic mechanism only (Evidence Level L5), with no trials or literature. The EU authorization is cancelled, and safety information from the label is missing.
 
 **To proceed, the following is needed:**
-- TFDA package insert (warnings/contraindications) — currently a Blocking data gap
-- Confirmed mechanism of action documentation for Ganaxolone — currently a High-severity data gap
-- Any clinical or preclinical study specifically evaluating Ganaxolone in alcohol withdrawal delirium
-- Consider redirecting evaluation effort to the higher-evidence candidates identified in the same evidence pack ("alcohol withdrawal," L4/S1; "autism spectrum disorder," L3/S1), which already carry a "Research Question" recommendation rather than "Hold"
+- Safety information (warnings, contraindications) from the EMA product information
+- Detailed mechanism of action data (e.g., from DrugBank)
+- Preclinical studies in alcohol withdrawal delirium models, building on the existing alcohol-withdrawal seizure work
+- Clarification of the EU regulatory status, given the cancelled authorization
+- Monitoring of NCT07635862 (autism spectrum disorder) as a source of ganaxolone safety data in a new paediatric population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Vigabatrin
 parent: Medium Evidence (L3-L4)
-nav_order: 644
+nav_order: 668
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,67 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Vigabatrin: From Infantile Spasms to ARX-Related X-Linked Intellectual Disability with Seizures
+# Vigabatrin: From Infantile Spasms and Resistant Focal Epilepsy to ARX-Related X-Linked Intellectual Disability With or Without Seizures
 
 ## One-Sentence Summary
 
-Vigabatrin is an irreversible GABA-transaminase inhibitor already established as standard therapy for infantile spasms (West syndrome) and certain refractory epilepsies. The TxGNN model predicts it may be effective for **ARX-related X-linked intellectual disability with or without seizures**, with a prediction score of **98.66%**, though currently **no clinical trials** and only **16 indirect publications** (disease natural history, genotype-phenotype reviews, and case reports) support this direction.
+Vigabatrin is an antiepileptic drug, originally authorised in the EU (as Kigabeq) for infantile spasms (West's syndrome) and for resistant focal epilepsy in children from 1 month to under 7 years of age.
+The TxGNN model predicts it may be useful for **ARX-related X-linked intellectual disability, with or without seizures**, but **no clinical trials** are registered and the **9 publications** found are indirect (reviews and case reports, none ARX-specific).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally documented in the regulatory data provided; per the evidence pack's mechanistic rationale, Vigabatrin's established use is infantile spasms (West syndrome) and refractory epilepsy via GABA-transaminase inhibition |
-| Predicted New Indication | ARX-related X-linked intellectual disability with or without seizures |
+| Original Indication | Monotherapy for infantile spasms (West's syndrome); add-on therapy for resistant partial epilepsy (focal onset seizures) in infants and children aged 1 month to under 7 years |
+| Predicted New Indication | Intellectual disability, X-linked, with or without seizures, ARX-related |
 | TxGNN Prediction Score | 98.66% |
 | Evidence Level | L4 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorisation) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured mechanism-of-action data for Vigabatrin was flagged as a data gap in this evidence pack. However, the model's own mechanistic rationale confirms that Vigabatrin is an irreversible inhibitor of GABA-transaminase, which raises brain GABA concentrations and is already standard treatment for infantile spasms (West syndrome).
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, vigabatrin irreversibly inhibits GABA transaminase, which raises brain GABA levels. This is the basis for its use against infantile spasms and focal seizures.
 
-ARX gene mutations cause abnormal migration and differentiation of GABAergic interneurons, and clinically this frequently presents as infantile spasms and other treatment-resistant seizure phenotypes alongside intellectual disability. Since Vigabatrin's approved mechanism directly targets the GABAergic pathway implicated in ARX-related disease, there is a plausible pharmacological rationale for its use in the seizure component of this syndrome.
+ARX mutations impair the development and migration of GABAergic interneurons. They are associated with infantile spasms and early-onset epilepsy, including X-linked infantile spasms. A GABA-enhancing drug is therefore mechanistically plausible for the **seizure component** of this condition. It would not be expected to treat the intellectual disability itself.
 
-That said, all 16 supporting publications describe disease natural history, genotype-phenotype correlations, or general antiepileptic drug guidelines — none report direct efficacy data for Vigabatrin specifically in ARX-related X-linked intellectual disability. Vigabatrin also carries a known risk of irreversible peripheral visual field constriction, which requires careful risk-benefit evaluation in a pediatric population that may need long-term treatment.
+The supporting literature is indirect. It consists of reviews and case reports on genetic epilepsies and developmental disorders that mention vigabatrin, plus one case of partial efficacy in West syndrome due to pyruvate dehydrogenase complex deficiency. None addresses ARX-related disease directly, so the prediction stays at the hypothesis stage.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38703411](https://pubmed.ncbi.nlm.nih.gov/38703411/) | 2024 | Review | Molecular Genetics and Metabolism | Updated clinical/molecular review of ALG13-CDG; epileptic spasms are a common presenting symptom, overlapping with ARX-related phenotypes |
-| [23400943](https://pubmed.ncbi.nlm.nih.gov/23400943/) | 2013 | Review | Pharmacotherapy | Summarizes antiepileptic drug data across neurogenetic seizure disorders, providing context for GABA-modulating therapy in this disease group |
-| [38409029](https://pubmed.ncbi.nlm.nih.gov/38409029/) | 2024 | Review/Guideline | Orphanet Journal of Rare Diseases | International seizure-management guidelines for Rett syndrome and tuberous sclerosis complex, informative for GABA-related epilepsy phenotypes |
-| [18462864](https://pubmed.ncbi.nlm.nih.gov/18462864/) | 2008 | Review | Clinical Neurology and Neurosurgery | Describes the phenotypic spectrum of ARX mutations, including infantile spasms and severe intellectual disability |
-| [26365141](https://pubmed.ncbi.nlm.nih.gov/26365141/) | 2015 | Review | Current Pharmaceutical Design | Reviews GABAergic neurobiology of Fragile X spectrum disorder and targeted treatment trials, relevant to the GABA-modulation rationale |
-| [35545418](https://pubmed.ncbi.nlm.nih.gov/35545418/) | 2022 | Case Report | J Central South Univ (Medical Sciences) | Two pediatric cases of NEXMIF-related X-linked intellectual disability with epilepsy, illustrating the overlapping XLID-epilepsy phenotype |
-| [31867230](https://pubmed.ncbi.nlm.nih.gov/31867230/) | 2019 | Case Report/Series | Quantitative Imaging in Medicine and Surgery | Fetal/neonatal MRI findings in ARX-related lissencephaly presenting with neonatal refractory seizures |
-| [41004695](https://pubmed.ncbi.nlm.nih.gov/41004695/) | 2025 | Case Report | Neurology | Vigabatrin-associated MRI brain changes and acute obstructive hydrocephalus in an infant treated with Vigabatrin for hypsarrhythmia due to LIS1-related lissencephaly — a directly relevant Vigabatrin safety signal in a related neurogenetic epilepsy syndrome |
-| [36436329](https://pubmed.ncbi.nlm.nih.gov/36436329/) | 2023 | Case Report | Pediatric Neurology | Partial efficacy of Vigabatrin in an infant with West syndrome due to pyruvate dehydrogenase complex deficiency, supporting Vigabatrin use in genetic infantile spasm syndromes |
-| [21344176](https://pubmed.ncbi.nlm.nih.gov/21344176/) | 2012 | Commentary | Amino Acids | Discusses whether GABA-transaminase inhibitors (Vigabatrin's pharmacological class) may improve stereotyped behaviors in Rett syndrome |
+| [26494205](https://pubmed.ncbi.nlm.nih.gov/26494205/) | 2016 | Retrospective multicenter survey | Brain & Development | Epilepsy phenotype and antiepileptic drug response in LIS1-associated classic lissencephaly |
+| [38409029](https://pubmed.ncbi.nlm.nih.gov/38409029/) | 2024 | Review (guideline literature review) | Orphanet J Rare Dis | Treatment guidelines for seizures in Rett syndrome and tuberous sclerosis complex |
+| [23400943](https://pubmed.ncbi.nlm.nih.gov/23400943/) | 2013 | Review | Pharmacotherapy | Antiepileptic therapy for seizures in neurogenetic disorders |
+| [38703411](https://pubmed.ncbi.nlm.nih.gov/38703411/) | 2024 | Review | Mol Genet Metab | Clinical and molecular review of ALG13-CDG, where epileptic spasms are a common presenting symptom |
+| [26365141](https://pubmed.ncbi.nlm.nih.gov/26365141/) | 2015 | Review (mechanistic) | Curr Pharm Des | GABAergic neurobiology of FMR1 expanded alleles and targeted treatments in fragile X spectrum disorder |
+| [36436329](https://pubmed.ncbi.nlm.nih.gov/36436329/) | 2023 | Case report | Pediatr Neurol | Partial efficacy of vigabatrin in an infant with West syndrome due to pyruvate dehydrogenase complex deficiency |
+| [35545418](https://pubmed.ncbi.nlm.nih.gov/35545418/) | 2022 | Case report / literature review | J Cent South Univ (Med Sci) | NEXMIF mutations causing intellectual disability and epilepsy (2 cases plus review) |
+| [32323081](https://pubmed.ncbi.nlm.nih.gov/32323081/) | 2020 | Case report / review | Neurol Sci | Clinical characterisation of the 17p13.3 microdeletion (YWHAE and CRK genes) |
+| [41004695](https://pubmed.ncbi.nlm.nih.gov/41004695/) | 2025 | Case report (adverse effect) | Neurology | Vigabatrin-associated MRI changes with acute obstructive hydrocephalus in an infant with LIS1-related lissencephaly |
+
+## EU Market Information
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004534 (cancelled) | Kigabeq | Not specified | Infants and children from 1 month to under 7 years: monotherapy for infantile spasms (West's syndrome); add-on therapy for resistant partial epilepsy... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations flagged in the knowledge graph** (these come from the TxGNN knowledge graph, not from label text): kidney disease, pyoureter, congestive heart failure, peripheral nervous system disease, peripheral neuropathy, anaemia, macrocytic anaemia, scotoma.
+- **Drug Interactions**: 65 interactions were recorded. Examples of **Major** interactions are the corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisone, prednisolone), topical oxyquinoline and deferoxamine. **Moderate** interactions include morphine, opium, diphenoxylate, difenoxin, dronabinol, nabilone, metoclopramide, sibutramine and ethanol.
+- **Other evidence**: A 2025 case report describes vigabatrin-associated MRI changes in an infant, in whom acute obstructive hydrocephalus was also present.
+
+Please refer to the SmPC for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic link between Vigabatrin's GABA-transaminase inhibition and the GABAergic pathology of ARX-related disease is biologically plausible, but no clinical trials and no direct efficacy studies of Vigabatrin in this specific rare disease population currently exist — evidence is limited to disease-description literature (L4).
+The prediction score is high, and the GABAergic mechanism is plausible for ARX-related seizures. However, there are no registered trials, and none of the literature is ARX-specific. The only EU authorisation is cancelled. Vigabatrin also carries known safety concerns, including retinal toxicity and MRI changes.
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (currently a blocking data gap, required before any safety pre-screening)
-- Confirmed structured mechanism-of-action documentation for Vigabatrin (currently a data gap)
-- Direct clinical or case-series evidence of Vigabatrin use specifically in ARX-related X-linked intellectual disability with seizures
-- A pediatric safety monitoring plan addressing Vigabatrin's known risk of irreversible peripheral visual field defects, given the likely need for long-term use in this population
+- ARX-specific clinical or case-series data on vigabatrin for seizures, such as infantile spasms
+- Mechanism of action data and the SmPC warnings and contraindications
+- A clear statement of the target outcome, because vigabatrin would address seizures, not the intellectual disability
+- A review of the cancelled Kigabeq authorisation and of the route and formulation options for infants
+- A safety plan covering visual field and retinal monitoring, MRI changes, and the major drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

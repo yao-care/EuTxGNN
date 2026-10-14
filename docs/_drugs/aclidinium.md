@@ -33,80 +33,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Aclidinium is a long-acting muscarinic antagonist (LAMA) bronchodilator used for COPD maintenance treatment (not currently registered in Taiwan).
-The TxGNN model predicts potential activity in **Open-Angle Glaucoma** (score: 89.36%), but mechanistic analysis reveals a pharmacologically **opposing relationship** — M3 receptor antagonism may raise intraocular pressure rather than lower it.
-Currently, there are **no clinical trials and no publications** specifically supporting this repurposing direction; all 10 predicted indications remain at evidence level L5.
+Aclidinium is an inhaled long-acting muscarinic antagonist, originally used as a maintenance bronchodilator for chronic obstructive pulmonary disease (COPD).
+The TxGNN model predicts it may be effective for **open-angle glaucoma**, but **no clinical trials and no directly relevant publications** currently support this direction. The antimuscarinic mechanism also points toward a safety concern rather than a benefit in glaucoma.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | COPD maintenance bronchodilation (inferred from DrugBank DB08897 and referenced clinical evidence; no Taiwan registration) |
-| Predicted New Indication | Open-Angle Glaucoma |
+|------|------|
+| Original Indication | Maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD) |
+| Predicted New Indication | Open-angle glaucoma |
 | TxGNN Prediction Score | 89.36% |
 | Evidence Level | L5 |
-| Taiwan Market Status | ✗ Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
-## Why Is This Prediction Reasonable?
+## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the regulatory dossier. Based on known information, Aclidinium is a long-acting muscarinic antagonist (LAMA) that selectively blocks M3 muscarinic receptors in airway smooth muscle, producing sustained bronchodilation. This mechanism underpins its proven efficacy in COPD.
+Currently, detailed mechanism of action data is not available. Based on known information, aclidinium is an inhaled long-acting muscarinic antagonist. Its efficacy in COPD has been established, but mechanistically it is **not** clearly applicable to open-angle glaucoma.
 
-For glaucoma, the pharmacological direction is actually reversed. Muscarinic **agonists** — most notably pilocarpine — are established first-line glaucoma medications that activate M3 receptors in the ciliary muscle, increasing aqueous humor outflow and reducing intraocular pressure (IOP). As an M3 **antagonist**, Aclidinium would theoretically reduce ciliary muscle tone, impair trabecular outflow, and potentially *raise* IOP. Anticholinergic drugs already carry a class contraindication in narrow-angle glaucoma, and there is no established mechanistic rationale for LAMA therapy as a treatment for any glaucoma subtype.
+Antimuscarinic agents can cause pupil dilation (mydriasis) and may raise intraocular pressure in susceptible patients, particularly where there is an angle-closure risk. The mechanistic direction is therefore not supportive of therapeutic benefit in glaucoma. The prediction appears to be a graph-based association from the model, with no verifiable mechanistic rationale.
 
-The TxGNN model's high prediction score (89.36%) most likely reflects shared disease-node representations in the underlying knowledge graph — for example, COPD–glaucoma comorbidity links — rather than direct pharmacological evidence for glaucoma treatment. This prediction should be treated with caution, as the mechanistic basis actively conflicts with standard-of-care glaucoma pharmacology.
+Other top-ranked predictions are also unsupported by evidence:
+- **Primary hereditary glaucoma and glaucoma 1, open angle**: related glaucoma entries with the same concern.
+- **Migraine disorder, migraine with brainstem aura, headache disorder, trigeminal autonomic cephalalgia**: speculative links. Headache is a reported adverse event in aclidinium COPD trials rather than a therapeutic effect.
+- **Irritable bowel syndrome and gastroduodenitis**: antimuscarinics are used for gastrointestinal symptoms as a class, but aclidinium is inhaled with minimal systemic exposure, and there is no drug-specific evidence.
+- **Dermatitis**: the only retrieved paper concerns COPD, not dermatitis.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for open-angle glaucoma.
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for open-angle glaucoma.
+No literature directly related to open-angle glaucoma is available.
+
+For reference, the only publication retrieved across the predicted indications (listed under dermatitis) concerns the approved COPD indication and gives no evidence for the predicted use:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23679347](https://pubmed.ncbi.nlm.nih.gov/23679347/) | 2013 | RCT (extension study, COPD population) | COPD | 52-week extension of ACCORD COPD I evaluating long-term safety and tolerability of aclidinium 200 μg and 400 μg twice daily in COPD patients |
 
 ---
 
-## Taiwan Market Information
+## EU Market Information
 
-Aclidinium is currently **not marketed in Taiwan**. No TFDA regulatory authorizations have been identified for this drug.
-
----
-
-## Full Prediction Landscape (All 10 Indications)
-
-The following table summarizes all TxGNN predictions in this multi-indication evidence pack. All indications are L5 with no supporting clinical evidence.
-
-| Rank | Disease | TxGNN Score | Recommendation | Key Mechanistic Issue |
-|------|---------|-------------|----------------|-----------------------|
-| 1 | Open-Angle Glaucoma | 89.36% | Hold | M3 antagonism opposes standard IOP-lowering mechanism |
-| 2 | Primary Hereditary Glaucoma | 88.95% | Hold | Same opposing mechanism; genetic pathology lacks LAMA target |
-| 3 | Migraine Disorder | 86.15% | Hold | Headache is a known anticholinergic adverse effect |
-| 4 | Migraine with Brainstem Aura | 85.36% | Hold | Inhaled route insufficient for CNS/brainstem penetration |
-| 5 | Irritable Bowel Syndrome | 84.56% | Research Question | Class effect plausible (M3 antispasmodics exist); primary barrier is rapid systemic hydrolysis (t½ < 1 hr) limiting GI exposure |
-| 6 | Headache Disorder | 83.48% | Hold | Only trial (NCT02165826) monitors headache as a COPD safety endpoint, not a therapeutic target |
-| 7 | Trigeminal Autonomic Cephalalgia | 82.74% | Hold | Inhaled route cannot target pterygopalatine ganglion; CGRP-based therapies more mechanistically direct |
-| 8 | Glaucoma 1, Open Angle | 79.57% | Hold | Duplicate of Rank 1 (OMIM reclassification); same concerns apply |
-| 9 | Gastroduodenitis | 79.52% | Hold | Systemic concentrations after inhalation insufficient for gastric M3 effect; standard therapies (PPI, H. pylori eradication) far superior |
-| 10 | Dermatitis | 79.28% | Hold | Only supporting evidence (PMID 23679347) is a COPD safety extension study — dermatitis appears as an adverse event, not a treatment target |
-
-**Sole signal worth flagging**: IBS (Rank 5) is the only prediction with a coherent mechanistic class effect — approved antispasmodics (dicyclomine, hyoscyamine) share M3 antagonism with Aclidinium. However, the key research question is whether systemic bioavailability after inhalation can reach therapeutic concentrations in the gastrointestinal tract, given rapid plasma hydrolysis.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002211 (cancelled) | Eklira Genuair | Not specified (inhaled) | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD |
+| EMEA/H/C/002706 (cancelled) | Bretaris Genuair | Not specified (inhaled) | Maintenance bronchodilator treatment to relieve symptoms in adult patients with COPD |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for complete safety information.
+**Drug Interactions**: The interaction screen identified 100 interacting drugs, all of the 20 listed being Moderate level. The main ones are other anticholinergic or antimuscarinic agents, where additive effects are expected:
+- Atropine, scopolamine, hyoscyamine
+- Clidinium, dicyclomine, mepenzolate, methscopolamine, propantheline, trospium
+- Glycopyrronium (including topical)
+- Antihistamines and tricyclics with anticholinergic activity: promethazine, chlorpheniramine, acrivastine, amitriptyline
 
-> As an anticholinergic drug, Aclidinium carries a class-level concern for **narrow-angle glaucoma** (a known contraindication for anticholinergic agents). This is especially relevant given that 3 of the 10 TxGNN predictions involve glaucoma or ophthalmic indications. Full TFDA SmPC data (warnings, contraindications) was not available in this evidence pack and must be obtained before any clinical repurposing assessment can proceed.
+Other moderate interactions include eluxadoline, prucalopride, acetylcholine, physostigmine (ophthalmic) and inhaled rapid-acting human insulin.
+
+**Class-level concern for the predicted indication**: antimuscarinic activity may raise intraocular pressure in susceptible patients, which is directly relevant to glaucoma.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ---
 
@@ -115,14 +114,14 @@ Please refer to the SmPC for complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-All 10 TxGNN-predicted indications are at evidence level L5 with no supporting clinical trials or targeted publications. The highest-ranked prediction (open-angle glaucoma) is mechanistically counterindicated — M3 antagonism is pharmacologically opposite to the required IOP-lowering action. Multiple headache predictions are undermined by the fact that headache is a documented anticholinergic adverse effect. The only biologically plausible direction (IBS, Rank 5) faces a significant delivery barrier that has not been assessed.
+The prediction rests on model output alone (L5), with no clinical trials or relevant literature. The antimuscarinic mechanism raises a safety concern in glaucoma rather than suggesting benefit. In addition, both EU authorizations are cancelled.
 
 **To proceed, the following is needed:**
-
-- **Immediate (Data Gaps)**: Obtain TFDA SmPC to document warnings and contraindications (Data Gap DG001, Blocking severity); retrieve MOA details from DrugBank API (Data Gap DG002, High severity)
-- **For IBS pathway only**: Conduct pharmacokinetic modeling or preclinical gut motility studies to determine whether Aclidinium achieves therapeutic concentrations at gastrointestinal M3 receptors after inhalation or alternative delivery routes
-- **For glaucoma predictions**: No further investigation recommended — mechanistic direction opposes therapeutic requirement; flag class contraindication risk in safety review
-- **General**: Reassess all predictions after completing MOA documentation, as the mechanistic conflict identified here applies broadly to any indication requiring intact M3 receptor activity
+- Mechanism of action data from DrugBank, and an explanation of why the model links aclidinium to glaucoma
+- SmPC warnings and contraindications, particularly regarding narrow-angle glaucoma and intraocular pressure
+- Preclinical or clinical evidence of intraocular pressure effects with inhaled aclidinium
+- Assessment of route compatibility, since the drug is inhaled and glaucoma treatment is typically ocular
+- Confirmation of whether any valid EU marketing authorization is available
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

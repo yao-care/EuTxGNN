@@ -2,7 +2,7 @@
 layout: default
 title: Somapacitan
 parent: AI Predictions (L5)
-nav_order: 550
+nav_order: 571
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,28 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Somapacitan is a long-acting growth hormone receptor (GHR) agonist (a somatropin analog), typically used to treat growth hormone deficiency.
-The TxGNN model's top-ranked prediction is **Allergic Asthma**, but currently **no clinical trials** and **no literature** support this direction, and the evidence pack's own mechanistic review flags the prediction as biologically implausible — likely a knowledge-graph embedding artifact rather than a genuine signal.
+Somapacitan (Sogroya) is a long-acting growth hormone analogue, originally used to replace endogenous growth hormone in children and adults with growth hormone deficiency.
+The TxGNN model predicts it may be effective for **allergic asthma**, but **no clinical trials and no publications** currently support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Growth hormone deficiency (inferred from MOA description; not confirmed by regulatory license data, which is unavailable for this drug) |
-| Predicted New Indication | Allergic Asthma |
+| Original Indication | Replacement of endogenous growth hormone (GH) in children aged 3 years and above and adolescents with growth failure due to growth hormone deficiency (paediatric GHD), and in adults with growth hormone deficiency (adult GHD) |
+| Predicted New Indication | Allergic asthma |
 | TxGNN Prediction Score | 95.73% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-The drug-level mechanism-of-action field is marked as a data gap in this evidence pack. However, the repurposing rationale review independently describes Somapacitan as a long-acting GHR agonist and somatropin analog — meaning it activates the growth hormone receptor and stimulates the GH/IGF-1 axis, the same pathway used therapeutically to correct growth hormone deficiency.
+Currently, detailed mechanism of action data is not available. Based on known information, somapacitan is a long-acting growth hormone analogue that acts through the growth hormone receptor. Its efficacy in growth hormone deficiency is the basis of its original approval.
 
-For the top-ranked candidate, allergic asthma, the evidence pack's own analysis concludes there is **no known mechanistic link** between GHR agonism and the Th2-driven inflammatory pathways of allergic asthma. The high TxGNN score is attributed to knowledge-graph embedding similarity rather than any biological rationale.
+The data compiled for this report show no established link between growth hormone receptor signalling and allergic airway inflammation. The prediction comes only from the TxGNN knowledge-graph score, so no mechanistic bridge between the original and the new indication can be verified at this time.
 
-This pattern repeats across all ten ranked candidates in this pack: none have supporting clinical trials or literature, and several (e.g., ranks 3–4, driven by *COL4A1*-related vascular disorders) appear to be false positives from keyword co-occurrence in unrelated ophthalmology/genetics case reports rather than genuine drug-disease relevance. Notably, for diabetic nephropathy (rank 8), the reviewer identifies a *contradictory* signal — GH-axis suppression (not activation) is the direction associated with renal protection in prior literature, meaning a GHR agonist could theoretically worsen rather than help this condition. Overall, this candidate set shows model-score-only predictions without corroborating biological or clinical support.
+The other top-ranked predictions are also computational only and lack supporting evidence. They include intrinsic asthma (95.34%), brain small vessel disease (92.08%), gout (91.60%) and diabetic nephropathy (90.98%). Several of them are closely related to one another in the knowledge graph, such as the asthma-related entries and the two collagen IV-related syndromes.
+
+Two predictions raise direction-of-effect concerns:
+- **Gout:** Growth hormone therapy can affect uric acid and metabolism, so a therapeutic benefit is not supported.
+- **Diabetic nephropathy:** Excess growth hormone is associated with glomerular hyperfiltration and impaired glucose metabolism, so any effect could be harmful.
 
 ## Clinical Trial Evidence
 
@@ -66,24 +70,35 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Somapacitan currently holds no EU marketing authorization (0 licenses on file; market status: Not marketed). No authorization or approved-indication data is available for this drug in the evidence pack.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005030 (status: cancelled) | Sogroya | Not specified | Sogroya is indicated for the replacement of endogenous growth hormone (GH) in children aged 3 years and above, and adolescents with... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information. No key warnings, contraindications, or drug interaction data are currently available for Somapacitan in this evidence pack.
+- **Drug Interactions:** The interaction screening returned 100 interactions in total, and the first 20 returned are all rated Moderate. They fall mainly into these groups:
+  - Antidiabetic agents: acarbose, metformin, pioglitazone, alogliptin, saxagliptin, albiglutide, canagliflozin, dapagliflozin and chlorpropamide
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone and budesonide
+  - Proton pump inhibitors: omeprazole and rabeprazole
+  - Others: clarithromycin, aprepitant, dolasetron and dronabinol
+
+  Growth hormone can reduce insulin sensitivity, so glucose control needs attention when it is combined with antidiabetic drugs. Corticosteroids can blunt the growth-promoting effect of growth hormone.
+
+For warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (allergic asthma) has no clinical trial or literature support, and the evidence pack's own mechanistic review assesses it as biologically implausible. The remaining nine candidates in this set show the same pattern — no corroborating evidence, and in some cases either false-positive literature matches or mechanistically contradictory signals. There is currently no basis to advance any candidate in this set beyond model-score screening.
+The prediction for allergic asthma comes from the model score alone, with no clinical trials, no literature, and no verifiable mechanism. The only EU authorization is cancelled, and warning and contraindication data are missing.
 
 **To proceed, the following is needed:**
-- Resolve the blocking data gap: TFDA/EMA label warnings and contraindications (currently unavailable, blocks any safety pre-screen)
-- Resolve the high-priority data gap: confirmed mechanism-of-action documentation (currently marked as a gap despite being referenced indirectly in the rationale text)
-- Original approved indication and regulatory license data (none present in this pack)
-- If any candidate is to be pursued further, independent confirmation of a plausible GH/IGF-1-axis mechanistic connection to the target disease, beyond TxGNN score alone
+- Mechanism of action data for somapacitan, plus a plausible rationale linking growth hormone receptor signalling to allergic airway disease
+- A systematic search of clinical trial registries and the literature for any evidence in asthma
+- Warnings and contraindications from the EMA product information
+- Clarification of the reason for the authorization cancellation and the current regulatory status
+- Route and formulation compatibility assessment (somapacitan is a injectable biologic, and asthma therapy usually relies on inhaled or oral routes)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

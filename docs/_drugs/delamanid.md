@@ -2,7 +2,7 @@
 layout: default
 title: Delamanid
 parent: Medium Evidence (L3-L4)
-nav_order: 176
+nav_order: 183
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Delamanid: From Multidrug-Resistant Tuberculosis to Bovine Tuberculosis
+# Delamanid: From Multidrug-Resistant Tuberculosis to Tuberculosis, Bovine
 
 ## One-Sentence Summary
 
-Delamanid is a nitroimidazole antimycobacterial originally used for multidrug-resistant pulmonary tuberculosis (MDR-TB). The TxGNN model predicts it may also be effective for **Bovine Tuberculosis** (zoonotic *Mycobacterium bovis* infection), but this direction is currently supported only by a prediction score and **1 indirect publication** (a pathogen genomics study, not a drug-efficacy study) — **no clinical trials exist** for this specific pairing.
+Delamanid is an anti-tuberculosis drug, originally used as part of combination regimens for pulmonary multidrug-resistant tuberculosis (MDR-TB).
+The TxGNN model predicts it may be effective for **bovine tuberculosis (zoonotic TB caused by *M. bovis*)**,
+but only **0 clinical trials** and **1 publication** (a drug-resistance survey, not a delamanid efficacy study) are available, so the prediction rests mainly on the model and a plausible mechanism.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Multidrug-resistant tuberculosis (MDR-TB) — noted in evidence-pack rationale; no EU/TFDA label text available in this pack |
-| Predicted New Indication | Tuberculosis, Bovine |
+| Original Indication | Pulmonary multidrug-resistant tuberculosis (MDR-TB), as part of a combination regimen, in adults, adolescents, children and infants weighing at least 10 kg |
+| Predicted New Indication | Tuberculosis, bovine |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data (`original_moa`) is not available for delamanid in this evidence pack. Based on the repurposing rationale associated with this prediction, delamanid is a nitro-dihydro-imidazooxazole prodrug that is activated by the mycobacterial Ddn nitroreductase system and subsequently inhibits mycolic acid (cell wall) synthesis — a mechanism it shares with its approved indication of MDR pulmonary tuberculosis caused by *Mycobacterium tuberculosis*.
+Detailed mechanism-of-action data for delamanid is not available in the data compiled for this report. Based on the mechanistic assessment, delamanid inhibits mycolic acid synthesis in *Mycobacterium tuberculosis*, which is the basis of its effect in MDR-TB.
 
-*Mycobacterium bovis*, the causative agent of bovine tuberculosis, belongs to the same *Mycobacterium tuberculosis* complex and shares the mycolic acid synthesis pathway and Ddn activation system. This provides a plausible mechanistic bridge: in theory, delamanid should retain activity against *M. bovis*.
+*Mycobacterium bovis*, the cause of bovine and zoonotic tuberculosis, belongs to the same *M. tuberculosis* complex. Activity against it is therefore biologically plausible. One caution is that *M. bovis* is intrinsically resistant to pyrazinamide, which may change which companion drugs can be used in a regimen.
 
-However, this extrapolation carries important caveats noted directly in the evidence pack: *M. bovis* has intrinsic resistance to pyrazinamide, and drug-susceptibility data for other anti-TB agents (including delamanid specifically) against *M. bovis* is scarce. Zoonotic TB is effectively an orphan indication here, and no delamanid-specific in vitro or clinical susceptibility data currently exists.
+No delamanid-specific data in *M. bovis* were provided. The single publication is a whole-genome sequencing survey of *M. bovis* isolates from zoonotic TB that describes genetic diversity and drug resistance. It does not test delamanid's efficacy, so the prediction is supported mainly by mechanistic reasoning.
 
 ## Clinical Trial Evidence
 
@@ -63,11 +65,13 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Cohort/Epidemiology | BMC Genomics | Whole-genome sequencing study characterizing genetic diversity and drug-resistance patterns of *M. bovis* isolates from zoonotic human TB cases; this is a pathogen genomics study and does not evaluate delamanid efficacy directly |
+| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Molecular epidemiology / drug resistance survey | BMC Genomics | Whole-genome sequencing of human *M. bovis* isolates from zoonotic TB, describing circulating genotypes and the genomic basis of virulence and drug resistance. It contains no delamanid efficacy data. |
 
 ## EU Market Information
 
-Delamanid currently has no EU marketing authorizations recorded in this evidence pack (0 licenses; market status: Not Marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002552 (cancelled) | Deltyba | Not specified | Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults,... |
 
 ## Safety Considerations
 
@@ -78,15 +82,18 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence for this specific prediction is the TxGNN score plus a single pathogen-genomics publication that does not test delamanid; there are no clinical trials, no drug-specific susceptibility data against *M. bovis*, and no EU marketing authorization to anchor a safety/regulatory pathway. This falls short of the threshold to proceed even under guardrails.
+The prediction score is high, and *M. bovis* belongs to the same bacterial complex as the drug's approved target. However, there are no clinical trials and no delamanid-specific literature, and the only paper is a resistance survey. The EU authorization is also currently cancelled. The evidence is therefore insufficient to advance.
 
 **To proceed, the following is needed:**
-- TFDA/EMA product label (SmPC) with warnings and contraindications — currently a **blocking** data gap (DG001) that prevents any S1 safety screening
-- Confirmed mechanism of action via DrugBank API (DG002)
-- In vitro/preclinical susceptibility data of delamanid specifically against *M. bovis*
-- Any clinical or case-series evidence of delamanid use in human zoonotic/bovine TB
+- In vitro susceptibility (MIC) data for delamanid against *M. bovis* isolates
+- Detailed mechanism-of-action data, including the activation pathway, and confirmation that it works in *M. bovis*
+- Safety information from the SmPC (warnings and contraindications), which was not available for this report
+- Clarification of the regulatory status of Deltyba in the EU, since the authorization is listed as cancelled
+- Any clinical or case-series data on delamanid in zoonotic TB, plus a plan for companion drugs given *M. bovis* pyrazinamide resistance
 
-**Note:** Within this same evidence pack, a related candidate indication — *inactive tuberculosis* (latent/non-active TB, rank 3) — has substantially stronger evidence (L2, including an ongoing Phase 3 trial, NCT03568383, PHOENIx MDR-TB, n=5,832, and 20 supporting publications). If the goal is to identify the most defensible repurposing direction for delamanid, that candidate warrants prioritized evaluation over bovine tuberculosis.
+---
+
+*Note on other predictions:* Among the other predicted diseases, **inactive tuberculosis** has the strongest supporting evidence. It is linked to one Phase 2/3 trial (CRUSH-TB, NCT05766267, n=288, active but not recruiting), which includes a delamanid-containing short-course regimen for pulmonary TB. That trial studies active pulmonary TB, so it is closer to regimen optimization than to true repurposing for latent infection. The remaining predictions (for example allergic urticaria, fascioliasis, inhalational botulism and urea cycle disorder) have no plausible mechanistic support and are likely model artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

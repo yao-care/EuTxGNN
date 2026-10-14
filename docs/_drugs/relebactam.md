@@ -2,7 +2,7 @@
 layout: default
 title: Relebactam
 parent: AI Predictions (L5)
-nav_order: 497
+nav_order: 514
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,64 +29,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-Using no additional skill — this is a direct report-generation task per the fully-specified prompt template, not a coding/debugging/brainstorming task.
-
----
-
-# Relebactam: From Antibacterial Adjunct Therapy to Hyperamylasemia
+# Relebactam: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Hyperamylasemia
 
 ## One-Sentence Summary
 
-Relebactam is a diazabicyclooctane β-lactamase inhibitor used exclusively as a fixed combination with imipenem/cilastatin (Recarbrio) to restore antibacterial activity against certain resistant gram-negative organisms. The TxGNN model's top prediction points to **Hyperamylasemia**, but this candidate is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as likely low-confidence noise due to the absence of any plausible biological mechanism.
+Relebactam is a beta-lactamase inhibitor, co-formulated with imipenem/cilastatin (Recarbrio), originally used to treat hospital-acquired pneumonia and infections caused by resistant aerobic Gram-negative bacteria.
+The TxGNN model predicts it may be effective for **hyperamylasemia**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Antibacterial adjunct (combination with imipenem/cilastatin, as in Recarbrio); no formal approved-indication text on file |
+|------|------|
+| Original Indication | Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP); bacteraemia associated with HAP/VAP; infections due to aerobic Gram-negative organisms in adults with limited treatment options |
 | Predicted New Indication | Hyperamylasemia |
 | TxGNN Prediction Score | 99.22% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, relebactam is a component of the imipenem/cilastatin/relebactam combination (Recarbrio), where it inhibits class A and C β-lactamases to protect imipenem from enzymatic degradation and restore susceptibility of certain resistant gram-negative pathogens. It has no independent antibacterial activity and is never used as a standalone agent.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, relebactam is a beta-lactamase inhibitor (acting on class A and C serine beta-lactamases) that protects imipenem from enzymatic degradation. Its efficacy therefore lies in restoring antibacterial activity against resistant Gram-negative bacteria.
 
-There is no established or plausible mechanistic pathway connecting a β-lactamase inhibitor to amylase metabolism or pancreatic/salivary gland function. The evidence pack's own mechanistic rationale explicitly characterizes this top-ranked prediction as biologically implausible ("TxGNN 分數雖高但缺乏生物學合理性，判定為模型雜訊/低可信度預測") — i.e., a high model score without a credible biological basis, most likely statistical noise from the knowledge graph rather than a genuine repurposing signal.
+No mechanistic link to hyperamylasemia has been identified. Relebactam has no known role in amylase regulation, and the high TxGNN score appears to be an artifact of the knowledge graph rather than a biological signal. The other top-ranked predictions show the same pattern. Most involve haematological or immunological conditions (for example, polyclonal hyperviscosity syndrome, congenital analbuminemia, monoclonal gammopathy), and none has a plausible mechanism or any supporting study.
 
-Reviewing the full set of 10 predictions in this pack, all are scored L5 (model prediction only, no supporting trials or literature) and all carry a "Hold" recommendation. Notably, rank 10 (septicemic plague) is the only candidate with an internally noted mechanistic rationale of any substance — theoretical antibacterial activity of imipenem/relebactam against *Yersinia pestis* — though it too lacks any direct clinical or literature support. This further underscores that the current candidate set does not meet the bar for advancement.
+Of the ten predictions reviewed, only **septicemic plague** (rank 10, score 97.94%) has a biologically plausible antibacterial rationale. It is caused by a Gram-negative bacterium, but this is indirect, class-level reasoning only. Relebactam would matter only if beta-lactamase-mediated resistance were present, which is uncommon in *Yersinia pestis*. Well-established first-line agents (aminoglycosides, fluoroquinolones, doxycycline) already exist. This is best treated as a research question, not a development candidate.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available
+Currently no related literature available.
 
 ## EU Market Information
 
-This drug currently holds no EU marketing authorizations (market status: not marketed; 0 licenses on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004808 (cancelled) | Recarbrio | Not specified | Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults; bacteraemia associated with HAP or VAP; infections due to aerobic Gram-negative organisms in adults with limited treatment options... |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+Please refer to the SmPC for safety information. No warnings, contraindications, or drug interaction records were available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials or literature support the top-ranked predicted indication, and the mechanistic rationale itself identifies the prediction as likely model noise rather than a genuine signal. Evidence across all 10 ranked candidates in this pack is uniformly L5 with no corroborating data.
+The predicted indication, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanism, so the high score is most likely a knowledge-graph artifact. The only EU authorization has been cancelled, which further limits practical feasibility.
 
 **To proceed, the following is needed:**
-- TFDA/SmPC warnings and contraindications (currently a **blocking** data gap — required before any S1 safety review)
-- Mechanism of action (MOA) detail from DrugBank or the manufacturer (currently a data gap; needed to properly assess mechanistic plausibility)
-- Confirmed original approved indication text (imipenem/cilastatin/relebactam combination use is inferred, not sourced from official labeling)
-- If reconsidering any candidate from this set, prioritize septicemic plague (rank 10) for a targeted literature/preclinical search given its comparatively stronger — though still unverified — mechanistic rationale
+- Mechanism of action data for relebactam, to allow a proper mechanistic cross-check
+- Warnings and contraindications from the product information, which are required before any safety screening
+- Any preclinical or clinical evidence linking relebactam to the predicted indication
+- If pursuing the one biologically plausible prediction (septicemic plague), in vitro susceptibility data for *Yersinia pestis* and a comparison against established first-line agents
+- Clarification of the reason for the authorization cancellation and the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

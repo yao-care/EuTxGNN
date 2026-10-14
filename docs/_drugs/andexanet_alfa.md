@@ -2,7 +2,7 @@
 layout: default
 title: Andexanet Alfa
 parent: AI Predictions (L5)
-nav_order: 50
+nav_order: 51
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,55 +29,55 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Andexanet Alfa: From Factor Xa Inhibitor Reversal to Glanzmann Thrombasthenia
+# Andexanet alfa: From FXa Inhibitor Reversal to Glanzmann Thrombasthenia
 
 ## One-Sentence Summary
 
-Andexanet alfa (Andexxa/Ondexxya) is a catalytically inactive recombinant Factor Xa decoy protein approved in the US and EU for reversing the anticoagulant effects of direct Factor Xa inhibitors (apixaban, rivaroxaban) in patients with life-threatening or uncontrolled bleeding.
-The TxGNN model predicts it may be effective for **Glanzmann Thrombasthenia** (rank #1, score 99.77%),
-however **no clinical trials and no supporting publications** exist for this combination, and mechanistic analysis indicates this is a knowledge graph false positive driven by bleeding-phenotype disease cluster overlap rather than a true mechanistic signal.
+Andexanet alfa was originally used to reverse the anticoagulant effect of the direct factor Xa inhibitors apixaban and rivaroxaban in adults with life-threatening or uncontrolled bleeding.
+The TxGNN model predicts it may be effective for **Glanzmann thrombasthenia**, but **no clinical trials** and **no publications** currently support this direction.
+The prediction appears to be a graph-based artifact rather than a biologically grounded signal.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Factor Xa inhibitor (apixaban/rivaroxaban) reversal in acute major bleeding (not registered in Taiwan) |
-| Predicted New Indication | Glanzmann Thrombasthenia |
+|------|------|
+| Original Indication | For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding. |
+| Predicted New Indication | Glanzmann thrombasthenia |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L5 |
-| Taiwan Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not retrieved in this evidence pack. Based on established pharmacological knowledge, andexanet alfa is a modified, catalytically inactive form of human Factor Xa produced via recombinant technology. Its sole pharmacological action is to sequester direct Factor Xa inhibitors (anti-Xa DOACs such as apixaban and rivaroxaban) in the bloodstream, acting as a competitive decoy receptor. It has no intrinsic procoagulant activity and does not directly activate the coagulation cascade — it simply removes the inhibitor that was suppressing endogenous Factor Xa.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the available descriptions, andexanet alfa is a recombinant, catalytically inactive factor Xa decoy. It binds and sequesters direct FXa inhibitors, and indirectly affects tissue factor pathway inhibitor (TFPI). Its efficacy is in restoring normal coagulation in patients who are anticoagulated with these drugs.
 
-Glanzmann thrombasthenia (GT) is a rare autosomal recessive bleeding disorder caused by loss-of-function mutations in the *ITGA2B* or *ITGB3* genes encoding the GPIIb/IIIa (integrin αIIbβ3) complex on platelet surfaces. The result is complete inability of platelets to aggregate in response to any agonist. This is a **primary hemostasis defect** — a platelet-level problem occurring upstream of the coagulation cascade. Andexanet alfa's pharmacological target (neutralizing an exogenous anti-Xa molecule) lies entirely within the **secondary hemostasis** (coagulation cascade) compartment and has no interaction with GPIIb/IIIa signaling, platelet aggregation pathways, or integrin expression.
+Glanzmann thrombasthenia is an inherited defect of the platelet integrin alphaIIb-beta3 that causes platelet aggregation failure. Andexanet alfa does not act on platelet function, and patients with this condition are not taking FXa inhibitors. No plausible mechanistic link was identified.
 
-The high TxGNN score (99.77%) most likely originates from knowledge graph topology: both conditions share the same "hemorrhagic disease" disease cluster in the graph, creating spurious co-proximity. There is no hypothesis by which reversing a Factor Xa inhibitor could compensate for structural absence of functional GPIIb/IIIa. This prediction should be flagged as a **graph-topology false positive** and not pursued without a credible mechanistic rationale.
+The high TxGNN score (about 0.998) most likely reflects shared bleeding-disorder associations in the knowledge graph rather than a biological rationale. The prediction should be regarded as a hypothesis-generating signal only.
 
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+Other top-ranked predictions have the same weakness. They include primary release disorder of platelets, pseudo-von Willebrand disease, hemophilia, constitutional thrombocytopenia, collagen receptor defects, acquired coagulation factor deficiency, Scott syndrome, congenital prothrombin deficiency and hereditary thrombocytosis with transverse limb defect. Each is also rated L5 with a Hold recommendation.
 
 ---
 
-## Literature Evidence
+## EU Market Information
 
-Currently no related literature available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004108 (Cancelled) | Ondexxya | Not specified | For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Thromboembolic risk**: For the prediction of hereditary thrombocytosis, the compiled rationale notes that andexanet alfa carries a thromboembolic warning. This would also be a theoretical concern in any anticoagulated patient with a bleeding disorder such as hemophilia.
+
+For other safety information, please refer to the SmPC.
 
 ---
 
@@ -86,13 +86,13 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Despite a near-perfect TxGNN prediction score, there is a fundamental mechanistic incompatibility between andexanet alfa's Factor Xa inhibitor–neutralization mechanism and the platelet GPIIb/IIIa aggregation defect that defines Glanzmann thrombasthenia; no clinical trial, observational study, or even preclinical model has explored this combination.
+The prediction rests only on model scores. There are no clinical trials or publications for Glanzmann thrombasthenia, and no plausible mechanistic link exists, because andexanet alfa does not affect platelet integrin function. The only EU authorization is cancelled.
 
-**To proceed, the following would be needed:**
-- A credible mechanistic hypothesis connecting Factor Xa decoy activity to GPIIb/IIIa function or platelet aggregation (none currently identified)
-- Preclinical data in GPIIb/IIIa-deficient animal models or platelet-function assays demonstrating any signal
-- Expert hematology consultation to assess biological plausibility before any clinical exploration
-- Resolution of Data Gap DG001 (TFDA/SmPC warnings and contraindications) and DG002 (full MOA data from DrugBank) to complete the safety pre-screening required for any clinical trial consideration
+**To proceed, the following is needed:**
+- Warnings and contraindications from the SmPC, which are currently missing and block safety screening
+- Mechanism-of-action data from DrugBank
+- Preclinical or mechanistic evidence showing a rational link to platelet aggregation defects
+- Clarification of the current regulatory status of Ondexxya in the EU
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

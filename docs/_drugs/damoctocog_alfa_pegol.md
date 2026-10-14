@@ -2,7 +2,7 @@
 layout: default
 title: Damoctocog Alfa Pegol
 parent: AI Predictions (L5)
-nav_order: 161
+nav_order: 167
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,37 +29,40 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Damoctocog alfa pegol: From Hemophilia A to Primary Release Disorder of Platelets
+# Damoctocog alfa pegol: From Haemophilia A to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Damoctocog alfa pegol (Jivi) is a site-specifically PEGylated recombinant Factor VIII (FVIII) replacement therapy, primarily indicated for the treatment and prophylaxis of bleeding episodes in patients with Hemophilia A (congenital FVIII deficiency).
-The TxGNN model predicts it may be effective for **Primary Release Disorder of Platelets**, with **0 clinical trials** and **0 publications** currently supporting this direction.
-Mechanistic analysis strongly suggests this prediction reflects knowledge graph topological noise rather than a genuine biological repurposing opportunity.
+Damoctocog alfa pegol is a PEGylated recombinant factor VIII (FVIII) product, originally used to treat and prevent bleeding in people with haemophilia A.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but **no clinical trials and no publications** currently support this direction.
+The prediction appears to reflect network proximity among bleeding disorders rather than a biological link.
 
 ---
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hemophilia A (congenital Factor VIII deficiency; derived from known drug profile — no regulatory record found in dataset) |
-| Predicted New Indication | Primary Release Disorder of Platelets |
+|------|------|
+| Original Indication | Treatment and prophylaxis of bleeding in previously treated patients (PTPs) ≥ 7 years of age with haemophilia A (congenital factor VIII deficiency) |
+| Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 97.67% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed MOA data is not currently available in the Evidence Pack. Based on established pharmacology, Damoctocog alfa pegol is a B-domain deleted recombinant FVIII with site-specific 20 kDa PEGylation, which extends plasma half-life by reducing receptor-mediated clearance. It functions within the intrinsic coagulation pathway as a cofactor of the intrinsic tenase complex (FVIIIa–FIXa), dramatically accelerating the conversion of Factor X to Factor Xa during secondary hemostasis. Its original approved use is prophylaxis and on-demand treatment of bleeding in patients with Hemophilia A.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, damoctocog alfa pegol is a PEGylated, B-domain-deleted recombinant FVIII. It replaces the missing clotting factor in haemophilia A, and its efficacy in that setting is the basis of its authorization.
 
-Primary platelet release disorder is characterised by defective secretion of platelet dense granules (ADP, serotonin) or alpha granules (fibrinogen, vWF) upon platelet activation — a pathological process confined entirely to primary hemostasis at the platelet level. FVIII replacement has no known mechanism to correct platelet granule packaging or release defects. In clinical practice, recombinant Factor VIIa (rFVIIa; NovoSeven) serves as the bypass hemostatic agent for platelet function disorders, not FVIII concentrates.
+Primary release disorder of platelets is a defect of primary haemostasis, involving impaired platelet granule secretion or signalling. FVIII levels in these patients are normal, so FVIII replacement has no clear mechanistic rationale. The high TxGNN score most likely reflects the shared "bleeding disorder" neighbourhood in the knowledge graph rather than a true biological connection.
 
-The TxGNN score of 97.67% most likely reflects the topological proximity between Hemophilia A and platelet release disorder nodes within the knowledge graph's broader "bleeding disorder" cluster — both diseases belong to the same disease superclass — rather than any direct mechanistic correspondence. This is a classic example of disease-cluster noise in graph-based prediction models, and should not be interpreted as evidence of therapeutic plausibility.
+The other top-ranked predictions show the same pattern:
+- **Platelet or primary haemostasis defects** (Glanzmann thrombasthenia, constitutional thrombocytopenia, collagen receptor defect): the defect lies in platelets, not FVIII.
+- **Pseudo-von Willebrand disease**: a theoretical link exists because VWF carries and stabilizes FVIII, but the primary defect is a platelet GPIbα gain-of-function, which FVIII does not address.
+- **Unrelated conditions** (diabetic retinopathy, testicular tumour, bronchial carcinoid, chondroid hamartoma, ductal proliferation): no plausible mechanism was identified, and these are likely model artifacts.
 
 ---
 
@@ -77,15 +80,17 @@ Currently no related literature available.
 
 ## EU Market Information
 
-No EU marketing authorization records were found for Damoctocog alfa pegol in this dataset (0 authorizations; market status: not marketed).
-
-> **Note for reviewers:** Damoctocog alfa pegol (Jivi®, Bayer AG) has received regulatory approvals in major markets including the United States (FDA, 2018) and the European Union (EMA, EU/1/18/1331) for Hemophilia A. The absence of records in this dataset likely reflects a data collection gap rather than true non-approval status. Please verify current EU authorization status via the EMA product database.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004054 (cancelled) | Jivi | Not specified | Treatment and prophylaxis of bleeding in previously treated patients (PTPs) ≥ 7 years of age with haemophilia A (congenital factor VIII deficiency). |
 
 ---
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
+
+No drug interaction records were found for this drug, and the knowledge graph lists no contraindicated diseases.
 
 ---
 
@@ -94,13 +99,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN prediction for primary platelet release disorder lacks biological plausibility — FVIII replacement therapy acts downstream in the coagulation cascade and cannot address the platelet granule secretion defect that underlies this condition. There is no supporting clinical trial evidence, no supporting literature, and the mechanistic rationale for repurposing is absent. The high prediction score is attributed to knowledge graph topology, not therapeutic potential.
+The prediction rests only on model scores. There are no clinical trials or publications, and the biology argues against benefit: the predicted platelet disorders involve normal FVIII levels. The only EU authorization is cancelled.
 
-**To proceed, the following would be needed:**
-- Retrieve complete MOA data from DrugBank API (DB14700) to formally document the mechanism of action
-- Obtain Taiwan/EU SmPC to complete the safety profile (warnings, contraindications, DDI)
-- Identify any preclinical studies demonstrating a role of FVIII or the tenase complex in platelet granule biology — without such evidence, this indication cannot advance beyond L5
-- Consider reviewing other predicted indications in the pack (e.g., Pseudo-von Willebrand Disease, Rank 3) where a weak but mechanistically traceable secondary FVIII connection exists, before revisiting this candidate
+**To proceed, the following is needed:**
+- Mechanism of action data (DrugBank)
+- Warnings and contraindications from the product information (EMA)
+- Preclinical or mechanistic evidence showing that FVIII replacement could benefit the predicted condition
+- Clarification of the cancelled EU authorization status
+- Route and dosage form compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

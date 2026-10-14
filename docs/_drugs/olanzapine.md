@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Olanzapine
-parent: High Evidence (L1-L2)
-nav_order: 430
-evidence_level: L2
+parent: AI Predictions (L5)
+nav_order: 444
+evidence_level: L5
 indication_count: 10
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,74 +29,118 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Olanzapine: From Schizophrenia to Neurotic Depression
+# Olanzapine: From Schizophrenia and Bipolar Mania to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-> Olanzapine is a second-generation (atypical) antipsychotic, established for the treatment of **schizophrenia and bipolar I disorder**. Among 10 TxGNN-predicted indications in this evidence pack, the model's raw top-ranked hit ("benign paroxysmal torticollis of infancy") has zero supporting evidence and is flagged by the pack itself as likely knowledge-graph noise. The strongest evidence-backed candidate is **Neurotic Depression** (an ICD-9 legacy term overlapping with treatment-resistant/dysthymic depression), supported by **0 dedicated clinical trials** but **25 relevant publications**, including systematic reviews/network meta-analyses and the pivotal trial behind the already-approved olanzapine-fluoxetine combination (Symbyax).
+Olanzapine is an atypical antipsychotic originally used to treat schizophrenia and moderate to severe manic episodes in bipolar disorder.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but **no clinical trials and no publications** currently support this prediction.
+Of the other top-ranked predictions, agoraphobia and the depression-related terms (neurotic depression, melancholia, dysthymic disorder) have far more supporting literature and are the more realistic research directions.
 
-> **Note on candidate selection**: This evidence pack scores 10 predicted indications by raw TxGNN similarity, not by evidence quality. Five candidates (benign paroxysmal torticollis of infancy, distal 17p13.3 microdeletion syndrome, retinal dystrophy with extraocular anomalies, Ohdo syndrome, childhood apraxia of speech) are rated **L5/Hold** — no clinical or mechanistic link, likely embedding artifacts. This report focuses on **Neurotic Depression** (rank 6), the highest evidence-tier candidate (L2, "Proceed with Guardrails"), tied closely with "melancholia" (rank 7, same evidence base).
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia / Bipolar I Disorder (general pharmacological knowledge — not present in this evidence pack; EU regulatory record shows **Not marketed / 0 authorizations**) |
-| Predicted New Indication | Neurotic Depression |
-| TxGNN Prediction Score | 98.77% |
-| Evidence Level | L2 |
-| EU Market Status | ✗ Not Marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Schizophrenia; moderate to severe manic episodes; prevention of recurrence in bipolar disorder |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 99.54% |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (all authorizations cancelled) |
+| Number of Authorizations | 9 |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this evidence pack (data gap DG002). Based on general pharmacological knowledge, Olanzapine is an atypical antipsychotic acting primarily through **5-HT2A and D2 receptor antagonism**, with additional activity at histaminergic, muscarinic, and adrenergic receptors. Its efficacy in schizophrenia and bipolar I disorder is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, olanzapine blocks several receptors, including serotonin 5-HT2A/2C and dopamine D2. This profile underlies its efficacy in schizophrenia and mania.
 
-"Neurotic depression" is a legacy ICD-9 diagnostic term that largely maps onto what is now classified as dysthymia or mild-to-moderate/treatment-resistant major depressive disorder (MDD). The mechanistic rationale for olanzapine in this space is not speculative: the **olanzapine-fluoxetine combination (OFC, marketed as Symbyax)** is already an approved therapy for treatment-resistant depression and bipolar depression, based on the premise that 5-HT2A antagonism augments SSRI-driven monoaminergic antidepressant effects. The literature base for this candidate consists largely of systematic reviews and network meta-analyses of antipsychotic augmentation in treatment-resistant depression, rather than trials targeting "neurotic depression" by name — this terminology gap is the main caveat requiring clarification before further action.
+For the top-ranked prediction, **benign paroxysmal torticollis of infancy**, no mechanistic rationale is supported by the available data. The condition is a self-limiting paediatric disorder related to migraine equivalents and channelopathies. The high score (0.995) is a computational prediction only, and giving an antipsychotic to infants would raise serious safety concerns. This prediction is not recommended for further development without independent supporting evidence.
 
-Compared to the raw top-scoring TxGNN prediction (benign paroxysmal torticollis of infancy, a pediatric migraine-variant/vestibular condition with no plausible D2/5-HT2A link and zero literature support), Neurotic Depression represents a mechanistically coherent, evidence-anchored candidate consistent with olanzapine's known psychiatric pharmacology.
+The remaining top-ten predictions fall into three groups:
+
+- **Anxiety and depression group (agoraphobia, dysthymic disorder, neurotic depression, melancholia):** These are the most plausible. Olanzapine's serotonin and dopamine modulation is the basis for its use as an antidepressant augmenter, notably with fluoxetine. Neurotic depression and melancholia are supported by several systematic reviews and network meta-analyses of antipsychotic augmentation in treatment-resistant depression. This evidence is class-level, not specific to these subtypes. Agoraphobia is supported mainly by an open-label trial in treatment-resistant panic disorder (31 patients, olanzapine 5 mg/day added to an SSRI, PMID 16415705) plus case reports. Dysthymia evidence is thin.
+- **Broad or indirect terms (neurotic disorder, retinal dystrophy):** The literature consists of case reports and prescribing surveys that show real-world use but not efficacy for the stated condition.
+- **Genetic and developmental conditions (distal 17p13.3 microdeletion syndrome, Ohdo syndrome, childhood apraxia of speech):** There is no evidence and no plausible mechanism.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered
+Currently no related clinical trials are registered for the predicted indication, nor for any of the other top-ten predicted indications.
+
+---
 
 ## Literature Evidence
 
+For benign paroxysmal torticollis of infancy, currently no related literature is available.
+
+For reference, the strongest literature found for the more plausible alternative predictions is listed below (these do not support the top-ranked indication).
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [14609883](https://pubmed.ncbi.nlm.nih.gov/14609883/) | 2003 | RCT | Archives of General Psychiatry | Pivotal trial establishing efficacy of olanzapine and olanzapine-fluoxetine combination (OFC) in bipolar I depression — basis for OFC's regulatory approval |
-| [19640209](https://pubmed.ncbi.nlm.nih.gov/19640209/) | 2009 | Review | Expert Opinion on Pharmacotherapy | Reviews efficacy/safety data of fluoxetine-olanzapine combination in treatment-resistant major depression |
-| [17845277](https://pubmed.ncbi.nlm.nih.gov/17845277/) | 2007 | RCT (post-hoc) | Bipolar Disorders | Analyzes onset of antidepressant effect for OFC vs. olanzapine alone in bipolar depression |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic Review + NMA | Journal of Affective Disorders | Compares augmentation agents (incl. olanzapine) for treatment-resistant depression |
-| [38360024](https://pubmed.ncbi.nlm.nih.gov/38360024/) | 2024 | Systematic Review + NMA | The Lancet Psychiatry | Assesses efficacy/safety of pharmacological treatments for psychotic depression |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematic Review + Meta-analysis | Journal of Psychopharmacology | Evaluates augmentation/combination treatments for early-stage treatment-resistant depression |
-| [38487836](https://pubmed.ncbi.nlm.nih.gov/38487836/) | 2024 | Systematic Review + NMA | European Psychiatry | Bayesian NMA of FDA-approved atypical antipsychotics (incl. olanzapine) for bipolar depression |
-| [37149344](https://pubmed.ncbi.nlm.nih.gov/37149344/) | 2023 | Review | The Psychiatric Clinics of North America | Reviews antidepressant/atypical antipsychotic pharmacotherapy for treatment-resistant depression |
-| [36855876](https://pubmed.ncbi.nlm.nih.gov/36855876/) | 2023 | Review | American Journal of Psychiatry | Discusses role of antipsychotics in the evolving treatment-resistant depression landscape |
-| [35993319](https://pubmed.ncbi.nlm.nih.gov/35993319/) | 2022 | Systematic Review + NMA | Psychological Medicine | Efficacy/acceptability of second-generation antipsychotics with antidepressants in unipolar depression augmentation |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic review / NMA | J Affect Disord | Augmentation strategies in treatment-resistant major depression (neurotic depression, melancholia) |
+| [38360024](https://pubmed.ncbi.nlm.nih.gov/38360024/) | 2024 | Systematic review / NMA | Lancet Psychiatry | Pharmacological treatments for psychotic depression |
+| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Systematic review / meta-analysis | J Psychopharmacol | Augmentation and combination treatments for early-stage treatment-resistant depression |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematic review / meta-analysis | J Psychopharmacol | Antidepressants plus second-generation antipsychotics vs. esketamine vs. lithium in major depression |
+| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Cochrane review | Cochrane Database Syst Rev | Second-generation antipsychotics for major depressive disorder and dysthymia |
+| [16415705](https://pubmed.ncbi.nlm.nih.gov/16415705/) | 2006 | Open-label trial | J Clin Psychopharmacol | Olanzapine augmentation in SSRI-resistant panic disorder (agoraphobia), 12 weeks, 31 patients |
+| [40946318](https://pubmed.ncbi.nlm.nih.gov/40946318/) | 2026 | Systematic review | Psychother Psychosom | Treatment options in treatment-resistant anxiety disorders |
+| [26635099](https://pubmed.ncbi.nlm.nih.gov/26635099/) | 2016 | Systematic review | Expert Opin Pharmacother | Treatment-resistant panic disorder |
+| [10578457](https://pubmed.ncbi.nlm.nih.gov/10578457/) | 1999 | Open-label clinical study | Biol Psychiatry | Olanzapine in borderline personality disorder with comorbid dysthymia |
+| [15470803](https://pubmed.ncbi.nlm.nih.gov/15470803/) | 2004 | Case report | Pharmacopsychiatry | Remission of panic disorder with olanzapine plus paroxetine |
+
+---
 
 ## EU Market Information
 
-Currently no marketing authorization on file in this evidence pack (EU market status: **Not marketed**, 0 authorizations recorded).
+All nine EU authorizations for olanzapine are cancelled. No valid authorization remains.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/000115 | Zyprexa | Coated tablets and powder for solution for injection | Schizophrenia, manic episodes, prevention of bipolar recurrence; injection for rapid control of agitation... |
+| EMEA/H/C/000287 | Zyprexa Velotab | Orodispersible tablet | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
+| EMEA/H/C/000792 | Zalasta | Not specified | Schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
+| EMEA/H/C/000810 | Olanzapine Teva | Not specified | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
+| EMEA/H/C/000961 | Olanzapine Viatris (previously Olanzapine Mylan) | Not specified | Adults: schizophrenia, moderate to severe manic episodes, prevention of recurrence in bipolar disorder |
+
+Four further cancelled authorizations are on record: Olazax Disperzi, Olazax, Olanzapine Glenmark and Olanzapine Glenmark Europe.
+
+---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph (not label text):** The TxGNN knowledge graph links olanzapine to the following groups of conditions:
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycaemia, hyperlipidaemia, hypertriglyceridaemia, obesity
+  - Liver and gallbladder: liver disease, liver failure, cirrhosis, gallbladder disease
+  - Cardiovascular and cerebrovascular: stroke, cerebral infarction, myocardial infarction, orthostatic and other hypotension, coronary thrombosis
+  - Blood: neutropenia, agranulocytosis, blood coagulation disease
+  - Other: epilepsy, benign prostatic hyperplasia, female breast carcinoma
+- **Drug interactions:** The interaction screen returned 100 interactions. Examples:
+  - Major: bupropion, morphine, potassium citrate
+  - Moderate: antidiabetic agents (metformin, acarbose, alogliptin, dapagliflozin, canagliflozin, chlorpropamide, albiglutide), anticholinergics (atropine, hyoscyamine, glycopyrronium), clarithromycin, famotidine, epinephrine, loperamide
+
+Please refer to the SmPC for label-based warnings and contraindications. Label-based safety data could not be retrieved for this report.
+
+The data compiled for this report also flag metabolic burden and sedation as key limits on benefit-risk in anxiety and depression. Use in infants raises particular safety concerns.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Multiple systematic reviews and network meta-analyses support atypical antipsychotic (including olanzapine) augmentation in treatment-resistant depression, and the olanzapine-fluoxetine combination is already an approved therapy for a mechanistically related indication (treatment-resistant bipolar depression). However, no trial targets "neurotic depression" specifically, and this legacy diagnostic label requires mapping to a current nosological category before clinical development can proceed.
+The top-ranked prediction, benign paroxysmal torticollis of infancy, rests only on a computational score. It has no trials, no literature, no plausible mechanism, and a serious paediatric safety concern. Olanzapine also has no valid EU authorization at present, as all nine licences are cancelled.
 
 **To proceed, the following is needed:**
-- TFDA/EU SmPC warnings, contraindications, and drug-interaction data (currently blocking — DG001)
-- Confirmed original MOA and indication documentation for olanzapine (DG002)
-- Clarification of "neurotic depression" mapping to current DSM-5/ICD-11 categories (dysthymia vs. treatment-resistant MDD) to define target population
-- Consider a dedicated trial or well-defined subgroup analysis rather than relying solely on indirect TRD/bipolar depression evidence
-- Screen out low-evidence candidates in this pack (benign paroxysmal torticollis of infancy, distal 17p13.3 microdeletion syndrome, retinal dystrophy with extraocular anomalies, Ohdo syndrome, childhood apraxia of speech) — all L5/Hold with no clinical or mechanistic support
+- Re-prioritising the candidate list. Neurotic depression and melancholia (L3, class-level evidence from several network meta-analyses) and agoraphobia (L3, an open-label trial in panic disorder) are better-supported research questions. They should be assessed as separate candidates, with metabolic guardrails.
+- Detailed mechanism of action data
+- Label-based warnings and contraindications from the SmPC
+- Clarification of the regulatory status of olanzapine in the EU, since all listed centralised authorizations are cancelled. This could mean authorizations now sit at national level.
+- For any paediatric indication, a dedicated paediatric safety assessment before any further work
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

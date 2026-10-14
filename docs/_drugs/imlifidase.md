@@ -2,7 +2,7 @@
 layout: default
 title: Imlifidase
 parent: AI Predictions (L5)
-nav_order: 306
+nav_order: 317
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,78 +29,66 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Imlifidase: From Kidney Transplant Desensitization to Diabetic Cataract
+# Imlifidase: From Kidney Transplant Desensitisation to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Imlifidase is an IgG-cleaving cysteine protease approved for antibody desensitization prior to kidney transplantation. The TxGNN model's top prediction flags **diabetic cataract** as a possible new indication, but this is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale states no known biological pathway connects the drug's mechanism to cataract pathology.
-
----
+Imlifidase is an IgG-degrading enzyme originally used to desensitise highly sensitised adult kidney transplant patients.
+The TxGNN model predicts it may be effective for **diabetic cataract**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Kidney transplant desensitization (removal of anti-HLA antibodies) — inferred from repurposing rationale text; no formal license/indication record available |
+| Original Indication | Desensitisation treatment of highly sensitised adult kidney transplant patients with a positive crossmatch against an available deceased donor |
 | Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 98.75% |
-| Evidence Level | L5 (model prediction only, no supporting studies) |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (marketing authorisation no longer valid) |
+| Number of Authorizations | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this evidence pack. Based on the available repurposing rationale, imlifidase is an IgG-degrading enzyme (cysteine protease) that also inhibits complement activation; its approved use is antibody desensitization before kidney transplantation in highly sensitized patients.
+Detailed mechanism of action data are not available in the data compiled for this report. Based on known information, imlifidase is an IgG-cleaving enzyme (IdeS, derived from *Streptococcus pyogenes*). It rapidly degrades circulating IgG antibodies, which is why it is used to enable kidney transplantation in patients with pre-formed donor-specific antibodies.
 
-Diabetic cataract results from lens protein oxidation and polyol-pathway–driven osmotic damage — a metabolic and structural process with no established connection to IgG cleavage or complement inhibition. The evidence pack's own mechanistic assessment explicitly states there is **no known biological pathway overlap** between imlifidase's pharmacology and cataract formation.
-
-The high TxGNN score most likely reflects a graph-embedding artifact: imlifidase and the ten disease candidates cluster near shared "diabetes" and "diabetic complication" nodes in the knowledge graph, rather than reflecting a genuine mechanistic signal. This pattern repeats across all ten top-ranked candidates (nine cataract subtypes/stages plus diabetic retinopathy), all scoring within a narrow 0.9848–0.9875 band and all flagged the same way in their rationale text — consistent with node-proximity noise rather than independent, mechanism-based hypotheses.
-
----
+The link between the original and predicted indications is weak. Diabetic cataract arises mainly from polyol pathway activation, oxidative stress and protein glycation in the lens. These are not antibody-mediated processes, and no established mechanism connects IgG cleavage to lens opacification. The high score (98.75%) is a graph-based prediction only. It is likely influenced by the dense cluster of closely related cataract nodes in the knowledge graph, since nine other cataract and retinal conditions received nearly identical scores (98.5-98.7%). These include type 2 diabetes-associated cataract, senile cataract and diabetic retinopathy. None has any trial or literature support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
-*(Confirmed by systematic queries against ClinicalTrials.gov, ICTRP, and PubMed for imlifidase against all 10 predicted indications — all returned 0 results.)*
-
----
-
 ## EU Market Information
 
-Imlifidase currently has 0 marketing authorizations on record and is **not marketed** in this jurisdiction, so no authorization table is available.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004849 | Idefirix | Not specified | Desensitisation treatment of highly sensitised adult kidney transplant patients with positive crossmatch against an available deceased donor. The use of Idefirix should be reserved for... |
 
----
+This authorisation is recorded as cancelled, so there is currently no valid EU marketing authorisation.
 
 ## Safety Considerations
 
 Please refer to the SmPC for safety information.
 
-*(Note: this is flagged as a Blocking data gap — TFDA/regulatory label warnings and contraindications have not yet been retrieved, which prevents any formal safety pre-assessment.)*
-
----
+As a general consideration, imlifidase is a bacterial-derived protease that acts systemically. Any ocular use would raise immunogenicity and safety questions that have not been studied. No drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All ten TxGNN-predicted indications for imlifidase are cataract-related conditions or diabetic retinopathy, all rated L5 (prediction only), with zero clinical trials or publications found across 32 systematic evidence queries. The model's own rationale for each candidate explicitly states there is no known mechanistic link, pointing to knowledge-graph node-proximity artifacts rather than a genuine repurposing signal.
+The prediction is supported only by the TxGNN score, with no clinical trials, no literature and no plausible mechanistic link between IgG cleavage and diabetic cataract. The only EU authorisation has also been cancelled.
 
 **To proceed, the following is needed:**
-- Confirmed mechanism of action data (currently a High-severity data gap)
-- TFDA/EU label warnings and contraindications (currently a Blocking data gap — required before any safety pre-assessment)
-- Independent preclinical evidence linking IgG cleavage/complement inhibition to diabetic ocular complications
-- At minimum, exploratory case reports or mechanistic literature before this candidate can move beyond S0
+- Mechanistic evidence that IgG-mediated processes contribute to diabetic cataract formation
+- Preclinical studies (for example, lens or diabetic animal models) to test any biological effect
+- Official mechanism of action data from DrugBank
+- EU package insert (SmPC) warnings and contraindications, and clarification of why the authorisation was cancelled
+- An assessment of the feasibility and safety of an ocular or other suitable route of administration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

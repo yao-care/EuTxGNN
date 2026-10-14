@@ -2,7 +2,7 @@
 layout: default
 title: Valsartan
 parent: Medium Evidence (L3-L4)
-nav_order: 631
+nav_order: 655
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Valsartan: From Hypertension to Malignant Hypertensive Renal Disease
+# Valsartan: From Essential Hypertension and Heart Failure to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-> Valsartan is a widely used angiotensin II receptor blocker (ARB), whose original approved indication text is not documented in this Evidence Pack but is generally recognized as hypertension and related cardiovascular conditions.
-> The TxGNN model predicts it may be effective for **Malignant Hypertensive Renal Disease**,
-> currently supported by **0 clinical trials** and **1 preclinical publication** (on a related but different drug), representing mechanism-level evidence only.
+Valsartan is an angiotensin II receptor blocker, originally used to treat essential hypertension and, in combination with sacubitril, chronic heart failure.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but **no clinical trials** and only **1 indirect publication** (which tests a different drug) currently support this direction.
+The prediction rests mainly on the model score and mechanistic plausibility.
 
 ---
 
@@ -43,23 +43,23 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in this Evidence Pack (Valsartan is a well-established ARB commonly indicated for hypertension) |
-| Predicted New Indication | Malignant Hypertensive Renal Disease |
+| Original Indication | Paediatric and adult symptomatic chronic heart failure (Entresto, Neparvis); essential hypertension (Dafiro, Copalia, Exforge and related combinations) |
+| Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 9 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the drug profile itself. However, the repurposing rationale attached to this prediction indicates that valsartan acts as an **AT1 (angiotensin II type 1) receptor antagonist**, blocking angiotensin II–mediated vasoconstriction. This reduces systemic blood pressure and intraglomerular pressure, a mechanism with direct physiological relevance to hypertension-driven kidney injury.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in essential hypertension and, as part of sacubitril/valsartan, in heart failure with reduced ejection fraction is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
 
-Malignant hypertensive renal disease is a severe complication of uncontrolled hypertension, characterized by rapid glomerular and renal vascular damage. Extending an AT1-blocking antihypertensive agent to this indication is mechanistically plausible, since RAAS blockade is already a cornerstone strategy for slowing progression of hypertensive nephropathy in clinical practice.
+Severe hypertension with kidney injury is strongly driven by angiotensin II. Blocking the AT1 receptor could plausibly reduce angiotensin II-mediated vascular injury and nephrosclerosis. Valsartan is already indicated for hypertension, so the new indication is a more severe form of the same disease family.
 
-That said, the supporting literature in this Evidence Pack does not involve valsartan directly — it studies avosentan, an endothelin receptor antagonist, in a rat model of hypertensive nephropathy. This provides indirect pathway-level support (RAAS/vascular injury biology) rather than valsartan-specific pharmacological evidence.
+The supporting literature is indirect. The only paper retrieved for this indication (PMID 24368192) studies avosentan, an endothelin antagonist, in a rat model of hypertensive nephropathy, and does not test valsartan. A related prediction (malignant renovascular hypertension) has preclinical class-effect evidence for AT1 blockade, but that is outside this indication.
 
 ---
 
@@ -73,19 +73,31 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preclinical (other-drug study) | Pharmacological Research | In double-transgenic rats overexpressing human renin/angiotensinogen, avosentan (an endothelin antagonist, **not valsartan**) was renoprotective against hypertensive nephropathy at doses that did not cause fluid retention — supporting the general RAAS/vascular injury pathway rather than valsartan-specific efficacy. |
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preclinical | Pharmacological Research | Avosentan (an endothelin antagonist, not valsartan) protected against hypertensive nephropathy in double transgenic rats at doses that did not cause fluid retention. Indirect evidence only. |
 
 ---
 
 ## EU Market Information
 
-No EU marketing authorization records are present in this Evidence Pack (`total_licenses = 0`); the reported market status for this candidate is **Not Marketed**.
+All nine authorizations are cancelled. The five main ones are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004062 | Entresto | Not specified | Paediatric heart failure Entresto is indicated in children and adolescents aged one year or older for tr... |
+| EMEA/H/C/004343 | Neparvis | Not specified | Paediatric heart failure Neparvis is indicated in children and adolescents aged one year or older for tr... |
+| EMEA/H/C/000776 | Dafiro | Not specified | Treatment of essential hypertension. Dafiro is indicated in patients whose blood pressure is not adequa... |
+| EMEA/H/C/000774 | Copalia | Not specified | Treatment of essential hypertension. Copalia is indicated in patients whose blood pressure is not adequa... |
+| EMEA/H/C/000716 | Exforge | Not specified | Treatment of essential hypertension. Exforge is indicated in patients whose blood pressure is not adequa... |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindication signals from the knowledge graph** (drug-disease links from the TxGNN knowledge graph, not label text): liver failure and liver disease, hepatic coma and encephalopathy, pancreatitis, gallbladder disease, angioedema (including RAS-blocker-induced and hereditary forms), systemic lupus erythematosus, potassium deficiency, diabetes mellitus and diabetic ketoacidosis, hyperuricemia and gout, neutropenia and agranulocytosis, hypotensive disorder, hyperparathyroidism, hypercalcemia, anuria, renal artery obstruction and impaired renal function.
+- **Drug Interactions**: 100 interactions were found in total. Major interactions are listed with **potassium bicarbonate** and **potassium chloride**, which carry a risk of hyperkalaemia. Moderate interactions include **insulins** (multiple formulations), **exenatide**, **hydrocortisone**, **eluxadoline** and **polyethylene glycol with electrolytes**.
+- **Indication-specific caution**: for renovascular forms of hypertension, ARBs can precipitate renal failure in bilateral renal artery stenosis. This is relevant to the renal and renovascular targets.
+
+Please refer to the SmPC for the full warnings and contraindications, because label-based safety data could not be retrieved.
 
 ---
 
@@ -94,16 +106,14 @@ Please refer to the SmPC for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L4 (preclinical/mechanistic only), with no valsartan-specific clinical trials or human data for malignant hypertensive renal disease, and the only supporting publication studies a different drug (avosentan). Combined with a blocking data gap on regulatory safety labeling and no confirmed marketing authorization, the evidence base does not yet support proceeding.
+The prediction score is high and the AT1-blockade mechanism is plausible. However, there are no clinical trials, the only paper concerns a different drug, and all EU authorizations for valsartan-containing products are cancelled. Evidence is limited to model prediction and indirect preclinical support (L4).
 
 **To proceed, the following is needed:**
-- TFDA/EMA label warnings and contraindications (currently a **Blocking** data gap — DG001)
-- Confirmed mechanism of action documentation for valsartan (**High**-severity data gap — DG002)
-- Valsartan-specific preclinical or clinical data in hypertensive nephropathy/malignant hypertension models
-- Drug interaction (DDI) and safety monitoring data before any S1 safety screening can be completed
-- Clarification of regulatory/market status, given the "Not Marketed" flag for this jurisdiction
-
-*Note: Among the other predicted indications assessed in this pack, "chronic pulmonary heart disease" (rank 6) reached a higher evidence tier (L3) via sacubitril/valsartan combination trials, but that evidence reflects a fixed-dose combination product rather than valsartan monotherapy and would require separate evaluation.*
+- Mechanism of action data for valsartan
+- Label-based warnings and contraindications from the SmPC
+- Direct evidence for valsartan, or other AT1 receptor blockers, in malignant hypertensive renal disease (preclinical or clinical)
+- Clarification of current EU regulatory status, given that all nine authorizations are cancelled
+- A renal safety plan covering renal artery stenosis, potassium and renal function monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

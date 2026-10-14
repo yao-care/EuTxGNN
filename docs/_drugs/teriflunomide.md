@@ -2,7 +2,7 @@
 layout: default
 title: Teriflunomide
 parent: High Evidence (L1-L2)
-nav_order: 583
+nav_order: 604
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Teriflunomide: From No Documented Original Indication to Relapsing-Remitting Multiple Sclerosis
+# Teriflunomide: From Relapsing-Remitting Multiple Sclerosis to Relapsing-Remitting Multiple Sclerosis (Model Confirms the Existing Indication)
 
 ## One-Sentence Summary
 
-> This evidence pack records no approved indication or authorization for teriflunomide in the regulatory dataset (0 licenses on file, market status "not marketed"), and the original mechanism-of-action field is also a data gap.
-> The TxGNN model's top-ranked prediction is **Relapsing-Remitting Multiple Sclerosis (RRMS)**, supported by **27 clinical trials** and **20 publications** — including several completed Phase 3 RCTs.
-> **Important caveat:** the literature evidence in this pack itself (e.g. PMID 26758290) states that teriflunomide (Aubagio®) has been licensed in the EU since 2013 specifically for RRMS. This means the "predicted new indication" is very likely the drug's **already-known, already-approved indication**, not a genuine repurposing signal — the empty regulatory license data appears to be a data gap rather than a reflection of clinical reality.
+Teriflunomide is an oral immunomodulator already approved in the EU for relapsing-remitting multiple sclerosis (RRMS) in adults and children aged 10 years and older.
+The TxGNN model's top prediction is **relapsing-remitting multiple sclerosis**, which is the drug's existing indication rather than a new one. The data compiled for this report show **13 clinical trials** and **20 publications** for it, so the prediction agrees with established use.
+The most credible genuinely new direction is **immune thrombocytopenia (ITP)**, currently at Phase 2 only, with no results yet.
 
 ---
 
@@ -43,71 +43,105 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 | Item | Content |
 |------|------|
-| Original Indication | Not documented in the regulatory license dataset (0 licenses on file) |
-| Predicted New Indication | Relapsing-Remitting Multiple Sclerosis |
+| Original Indication | Relapsing-remitting multiple sclerosis (adults and paediatric patients aged 10 years and older) |
+| Predicted New Indication | Relapsing-remitting multiple sclerosis (top-ranked prediction, identical to the approved indication) |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L1 |
-| EU Market Status | ✗ Not Marketed (per dataset — see discrepancy note below) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 3 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
-**Data discrepancy note:** The regulatory record shows 0 EU authorizations and "not marketed," yet the literature evidence in this same pack (PMID 26758290) explicitly states teriflunomide has been EU-licensed for RRMS since August 2013, with the SmPC later expanded (Sept 2014) to include first clinical demyelinating events. This inconsistency should be reconciled against the EMA/EU register before any downstream decision relies on the "not marketed" status.
+> Note: the L1 level and the decision apply to the MS indication, which is already approved. For the one new-indication candidate with trial activity (thrombocytopenia/ITP), the evidence is L2 and the stage is a research question only.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed structured mechanism-of-action data is not available in this dataset (`original_moa` = data gap). However, the evidence pack's own repurposing rationale supplies substantive mechanistic information: teriflunomide is a **dihydroorotate dehydrogenase (DHODH) inhibitor** that blocks de novo pyrimidine synthesis, selectively suppressing proliferation of rapidly dividing, activated T and B lymphocytes. This anti-proliferative, immunomodulatory action is the accepted core mechanism underlying its use in autoimmune-mediated demyelinating disease.
+Detailed mechanism of action data is not available in the DrugBank-derived record compiled for this report. Based on the available literature, teriflunomide's active form inhibits the mitochondrial enzyme dihydroorotate dehydrogenase (DHODH). This limits de novo pyrimidine synthesis and reduces the proliferation of activated T and B lymphocytes, which drive the autoimmune damage in MS.
 
-Multiple Sclerosis — specifically the relapsing-remitting subtype — is an immune-mediated, T/B-lymphocyte-driven neurodegenerative disease. Given teriflunomide's selective lymphocyte-proliferation-blocking mechanism, its applicability to RRMS is mechanistically direct rather than a distant cross-indication inference.
+The top prediction is not a repurposing finding. It reflects the drug's existing, regulator-approved use, and the high score is consistent with that. It serves as a sanity check on the model rather than a new opportunity.
 
-The critical interpretive point, however, is that this mechanistic fit is not novel: it reflects teriflunomide's well-established, already-approved use (as Aubagio®) for RRMS in the EU since 2013, corroborated by multiple pivotal trials (TEMSO, TENERE) and head-to-head Phase 3 comparator trials against newer agents (ofatumumab, ublituximab, tolebrutinib, ponesimod, evobrutinib). In other words, this TxGNN output functions here as a **validation case** — correctly recovering a known drug-disease relationship — rather than as a genuine repurposing candidate. Within this same evidence pack, a secondary, more novel signal is visible at a lower rank: teriflunomide combined with dexamethasone for **primary immune thrombocytopenia (ITP)**, which has active Phase 2 RCTs (e.g. NCT07065968) testing a use outside its known label — that candidate would warrant separate, dedicated evaluation as a true repurposing opportunity.
+Among the other predictions, immune thrombocytopenia has a plausible mechanistic basis. The same lymphocyte-suppressing effect could reduce autoimmune platelet destruction. By contrast, most remaining predictions (rare inherited platelet disorders, fibromatoses such as Ledderhose disease and penile fibromatosis, and chronic hepatitis C) have no clinical evidence. Some may simply reflect shared phenotypes in the knowledge graph. For several of these, safety concerns argue against use, such as neonatal thrombocytopenia (teratogenicity) and hepatitis C (hepatotoxicity).
 
 ---
 
 ## Clinical Trial Evidence
 
+**Relapsing-remitting multiple sclerosis (existing indication)**
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1,088 | TEMSO pivotal trial: randomized, double-blind, placebo-controlled study establishing teriflunomide's effect on relapse frequency and disability accumulation in relapsing MS; the key trial underpinning original approval |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension of the TEMSO trial documenting sustained safety, tolerability, and durability of efficacy on disability, relapse rate, and MRI outcomes |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | TENERE trial: rater-blinded comparison of teriflunomide vs interferon beta-1a on time to treatment failure, relapse frequency, and patient-reported outcomes |
-| [NCT03302442](https://clinicaltrials.gov/study/NCT03302442) | N/A | Completed | 3,000 | Large real-world observational comparison (French MS Observatory) of dimethyl fumarate vs teriflunomide on clinical and MRI outcomes in RRMS |
-| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Phase 4 | Active, not recruiting | 800 | DELIVER-MS: compares early intensive high-efficacy therapy vs escalation strategy to inform overall treatment philosophy in RRMS |
-| [NCT06663189](https://clinicaltrials.gov/study/NCT06663189) | Phase 3 | Not yet recruiting | 200 | TWINS trial: randomized, open-label study evaluating disease-modifying therapy withdrawal in inactive RRMS patients aged ≥55 |
-| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A | Not yet recruiting | 100 | ROOF-MS: real-world prospective cohort comparing teriflunomide vs dimethyl fumarate on physical and cognitive fatigability in MS |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term extension study assessing durability of teriflunomide's safety and efficacy in relapsing MS |
-| [NCT04129736](https://clinicaltrials.gov/study/NCT04129736) | Phase 4 | Completed | 12 | Determined teriflunomide 14 mg concentration in serum and cerebrospinal fluid in RRMS patients |
-| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A | Completed | 30 | Phase 4 open-label mechanistic study identifying regulatory B lymphocytes as central mediators of teriflunomide's therapeutic effect |
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1088 | Placebo-controlled pivotal study of teriflunomide on relapse frequency and disability progression |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Teriflunomide (two doses) versus interferon beta-1a, rater-blinded, with long-term extension |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term safety extension of the pivotal study (7 mg and 14 mg doses) |
+| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Ofatumumab versus first-line DMT (physician's choice, may include teriflunomide) in newly diagnosed RMS |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term extension of the Phase 2 study; safety and efficacy |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A | Completed | 106 | Real-world observational effectiveness of teriflunomide over at least 2 years |
+| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A | Completed | 30 | Mechanistic study on regulatory B lymphocytes as mediators of teriflunomide's effect |
+| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Phase 4 | Active, not recruiting | 800 | Early intensive versus escalation treatment strategies (indirectly relevant) |
+| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | N/A | Completed | 900 | Early aggressive versus escalation therapy; teriflunomide is part of the escalation comparator |
+| [NCT07189325](https://clinicaltrials.gov/study/NCT07189325) | Phase 3 | Recruiting | 250 | Anti-CD20 maintenance versus de-escalation (not specific to teriflunomide) |
+
+**Thrombocytopenia / immune thrombocytopenia (potential new indication)**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07065968](https://clinicaltrials.gov/study/NCT07065968) | Phase 2 | Recruiting | 132 | Teriflunomide plus high-dose dexamethasone versus dexamethasone alone, first-line newly diagnosed ITP |
+| [NCT06176911](https://clinicaltrials.gov/study/NCT06176911) | Phase 2 | Unknown | 124 | Teriflunomide plus danazol versus danazol in steroid-resistant or relapsed ITP |
+| [NCT06190145](https://clinicaltrials.gov/study/NCT06190145) | Phase 2 | Unknown | 40 | Single-arm study of teriflunomide in steroid-resistant or relapsed ITP |
+| [NCT06176235](https://clinicaltrials.gov/study/NCT06176235) | Phase 2 | Withdrawn | 0 | Teriflunomide plus dexamethasone in newly diagnosed ITP; withdrawn before enrolment, so provides no evidence |
 
 ---
 
 ## Literature Evidence
 
+**Relapsing-remitting multiple sclerosis**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | ASCLEPIOS trials: compared anti-CD20 ofatumumab against teriflunomide in relapsing MS |
-| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | ULTIMATE trials: evaluated ublituximab (B-cell depleting antibody) versus teriflunomide in relapsing MS |
-| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Compared BTK inhibitor tolebrutinib against teriflunomide for efficacy and safety in relapsing MS |
-| [26758290](https://pubmed.ncbi.nlm.nih.gov/26758290/) | 2016 | RCT | CNS Drugs | Reviews the EU SmPC for teriflunomide, confirming EU licensure since August 2013 for RRMS, with key clinical/safety outcomes and prescribing considerations |
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network Meta-analysis | Cochrane Database Syst Rev | Compares relative benefits of immunomodulators, immunosuppressants, and biologics (including teriflunomide) in RRMS |
-| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurology | OPTIMUM trial: first Phase 3 active-comparator study of ponesimod vs teriflunomide in relapsing MS |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurology | evolutionRMS1/2: Phase 3 trials comparing BTK inhibitor evobrutinib against teriflunomide in relapsing MS |
-| [35266417](https://pubmed.ncbi.nlm.nih.gov/35266417/) | 2022 | RCT | Mult Scler | ASCLEPIOS I/II subgroup analysis: ofatumumab showed superior clinical and MRI outcomes vs teriflunomide in newly diagnosed, treatment-naive patients |
-| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Review | JAMA | General review of MS diagnosis and treatment, summarizing the evidence base for current disease-modifying therapies |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Comprehensive review of teriflunomide's efficacy and tolerability in RRMS, based on RCT and real-world evidence |
+| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | OPTIMUM: ponesimod versus teriflunomide, the first Phase 3 head-to-head of two oral DMTs in relapsing MS |
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Ofatumumab versus teriflunomide in MS (teriflunomide as active comparator) |
+| [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab versus teriflunomide in relapsing MS |
+| [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib versus teriflunomide in relapsing MS |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | Evobrutinib versus teriflunomide in two Phase 3 trials |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Relative benefit of immunomodulators and immunosuppressants in RRMS |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Teriflunomide is effective and generally well tolerated, based on RCTs and real-world evidence; DHODH inhibition mechanism |
+| [33620411](https://pubmed.ncbi.nlm.nih.gov/33620411/) | 2021 | Review | JAMA | Overview of MS diagnosis and treatment |
+| [37578431](https://pubmed.ncbi.nlm.nih.gov/37578431/) | 2023 | Observational | Eur J Neurol | Real-world comparison of dimethyl fumarate and teriflunomide |
+| [34046085](https://pubmed.ncbi.nlm.nih.gov/34046085/) | 2021 | Observational | Ther Adv Neurol Disord | Teriflunomide effectiveness and safety by age and pre-treatment status |
+
+**Thrombocytopenia**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34267852](https://pubmed.ncbi.nlm.nih.gov/34267852/) | 2021 | Case report | J Hematol | Leflunomide-induced thrombotic thrombocytopenic purpura; a safety signal for the drug class, not evidence of efficacy |
 
 ---
 
 ## EU Market Information
 
-Currently no EU marketing authorization records are available in this dataset (0 licenses on file). This conflicts with literature evidence (PMID 26758290) indicating EU licensure since 2013; the regulatory database should be verified/reconciled.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/002514 | Aubagio | Not specified | Relapsing remitting multiple sclerosis in adults and paediatric patients aged 10 years and older... (cancelled) |
+| EMEA/H/C/005960 | Teriflunomide Accord | Not specified | Relapsing remitting multiple sclerosis in adults and paediatric patients aged 10 years and older... (cancelled) |
+| EMEA/H/C/005962 | Teriflunomide Viatris (previously Teriflunomide Mylan) | Not specified | Relapsing remitting multiple sclerosis in adults and paediatric patients aged 10 years and older (body weight > 40 kg)... (cancelled) |
+
+All three authorizations are listed as cancelled in the data compiled for this report, so the current EU market status should be verified before any planning.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: The interaction screen returned 100 entries. Most flagged as Major include:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Antibiotics: clarithromycin, minocycline
+  - Others: acetylsalicylic acid, pioglitazone, acarbose, bupropion, chenodeoxycholic acid, oxandrolone, oxymetholone
+  - Moderate-level interactions include cimetidine, empagliflozin, sitagliptin and alosetron.
+
+  The corticosteroid interactions matter for the ITP trials, which combine teriflunomide with high-dose dexamethasone.
+- **Class concerns noted in the analysis**: hepatotoxicity (boxed warning), teratogenicity (contraindicated in pregnancy), and hematologic toxicity such as cytopenias, including a reported case of leflunomide-induced TTP.
+
+Please refer to the SmPC for the full warnings and contraindications, which were not available in the data compiled for this report.
 
 ---
 
@@ -116,13 +150,15 @@ Please refer to the SmPC for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-- Multiple completed Phase 3 RCTs (TEMSO, TENERE, and several active-comparator trials) provide L1-level evidence for teriflunomide's efficacy in RRMS, but this evidence supports a **known, already-approved indication** rather than a novel repurposing candidate. Regulatory and safety data gaps prevent this from being treated as a validated new-use decision at this stage.
+- For RRMS, multiple Phase 3 trials and numerous head-to-head RCTs support teriflunomide (evidence level L1). It is an established therapy, so this is a confirmation rather than a repurposing candidate.
+- For genuinely new indications, only ITP has trial activity (Phase 2, L2, no results). Teriflunomide can itself cause cytopenias, so ITP stays a research question. All other predictions have no supporting evidence and should be held.
 
 **To proceed, the following is needed:**
-- Product label warnings/contraindications (source: TFDA website; blocking gap — required before any safety pre-screening/S1 stage can proceed)
-- Detailed mechanism-of-action data (source: DrugBank API; high-priority gap — needed to properly assess mechanistic linkage for lower-ranked, more novel candidates)
-- Reconciliation of the "not marketed / 0 licenses" regulatory status against the EU approval history cited in the literature evidence
-- If genuine repurposing value is the goal, separate dedicated evaluation of the immune thrombocytopenia (ITP) signal (rank 5 in this pack), which has active Phase 2 RCTs testing teriflunomide outside its known indication
+- Verify the current EU authorization status, since all three licences are listed as cancelled.
+- Obtain the SmPC warnings and contraindications, which are currently missing.
+- Obtain detailed mechanism-of-action data from DrugBank.
+- Follow the results of NCT07065968 and the other ITP trials, with careful hematologic and liver monitoring.
+- Do not pursue the other predicted conditions (rare inherited thrombocytopenias, fibromatoses, hepatitis C) without supporting preclinical or clinical data.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -2,7 +2,7 @@
 layout: default
 title: Polatuzumab Vedotin
 parent: AI Predictions (L5)
-nav_order: 475
+nav_order: 491
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,88 +29,97 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Polatuzumab Vedotin: From Diffuse Large B-Cell Lymphoma to HER2 Positive Breast Carcinoma
+# Polatuzumab vedotin: From Diffuse Large B-Cell Lymphoma to HER2-Positive Breast Carcinoma
 
 ## One-Sentence Summary
 
-> Polatuzumab vedotin is an anti-CD79b antibody-drug conjugate (ADC) originally developed for relapsed/refractory Diffuse Large B-Cell Lymphoma (DLBCL).
-> The TxGNN model predicts it may be effective for **HER2 positive breast carcinoma**,
-> but this prediction is currently supported by **0 clinical trials** and **0 publications**, and the model's own rationale flags it as mechanistically implausible.
-
----
+Polatuzumab vedotin is an anti-CD79b antibody-drug conjugate originally used to treat diffuse large B-cell lymphoma (DLBCL).
+The TxGNN model predicts it may be effective for **HER2-positive breast carcinoma**, but **no clinical trials and no relevant publications** currently support this direction. The prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diffuse Large B-Cell Lymphoma (DLBCL) — per known drug class (no structured license data on file; drug is not marketed in this jurisdiction) |
+| Original Indication | Relapsed/refractory DLBCL (with bendamustine and rituximab) in adults not eligible for haematopoietic stem cell transplant; previously untreated DLBCL (with R-CHP) |
 | Predicted New Indication | HER2 positive breast carcinoma |
 | TxGNN Prediction Score | 99.34% |
 | Evidence Level | L5 |
-| EU Market Status | ✗ Not marketed (Not marketed) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorization in the compiled data) |
+| Number of Authorizations | 1 (0 valid, 1 cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, no verified structured mechanism-of-action (MOA) record is available for Polatuzumab vedotin in this evidence pack — this is flagged internally as a High-severity data gap requiring a DrugBank API lookup. Based on the drug-class context noted in the model's own rationale, Polatuzumab vedotin is an anti-CD79b antibody-drug conjugate (ADC) that delivers the microtubule-disrupting cytotoxic payload MMAE specifically to CD79b-expressing B cells, and it is approved for relapsed/refractory DLBCL in combination regimens.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, polatuzumab vedotin is an antibody-drug conjugate. It pairs an anti-CD79b antibody with the microtubule-disrupting agent monomethyl auristatin E (MMAE). Its efficacy in DLBCL has been established.
 
-CD79b is a surface marker restricted to the B-cell lineage; it is not expressed on breast epithelial or breast tumor cells. This means the antibody targeting component of the ADC has no biological mechanism to engage HER2-positive, PR-positive, PR-negative, luminal A/B, or normal breast-like breast tumors — the mechanistic rationale linking the original indication to any of the predicted breast cancer subtypes is weak to absent.
+The link to HER2-positive breast carcinoma is weak. CD79b is a component of the B-cell receptor and is restricted to B-lineage cells. It is not a recognized target in HER2-positive breast cancer. The only conceivable connection is the generic cytotoxicity of MMAE, which would not be tumour-selective in this setting. The high TxGNN score therefore appears to be a graph-based computational signal without a supporting mechanistic or clinical rationale.
 
-The TxGNN knowledge-graph score for this pairing is high (99.34%), but it is not corroborated by any registered clinical trial or relevant literature. This pattern — a high embedding score with zero real-world evidence and no plausible target biology — is consistent with a knowledge-graph false positive rather than a genuine repurposing signal, as explicitly noted in the evidence pack's own repurposing rationale.
-
----
+The other top predictions show the same pattern. They include other breast cancer subtypes, drug-induced osteoporosis, acne, and several coagulation disorders. None has retrieved trials, and none has a plausible CD79b-related mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No publications directly address HER2-positive breast carcinoma. The compiled data does contain 18 publications retrieved for another breast cancer prediction (luminal A or B). All of them concern DLBCL or other B-cell lymphomas, and none supports use in breast cancer. They are shown below only to illustrate the drug's established evidence base in its original indication.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34904799](https://pubmed.ncbi.nlm.nih.gov/34904799/) | 2022 | RCT | N Engl J Med | POLARIX: polatuzumab vedotin with R-CHP in previously untreated DLBCL |
+| [40991874](https://pubmed.ncbi.nlm.nih.gov/40991874/) | 2025 | RCT (long-term follow-up) | J Clin Oncol | 5-year POLARIX update showing sustained progression-free survival benefit of Pola-R-CHP vs R-CHOP |
+| [40085955](https://pubmed.ncbi.nlm.nih.gov/40085955/) | 2025 | RCT subgroup analysis | Blood Adv | POLARIX analysis in older patients (≥60 years) |
+| [41037766](https://pubmed.ncbi.nlm.nih.gov/41037766/) | 2025 | Phase 3 | J Clin Oncol | SUNMO: mosunetuzumab plus polatuzumab vedotin in transplant-ineligible relapsed/refractory LBCL |
+| [31693429](https://pubmed.ncbi.nlm.nih.gov/31693429/) | 2020 | Clinical trial | J Clin Oncol | Polatuzumab vedotin in relapsed/refractory DLBCL |
+| [34749395](https://pubmed.ncbi.nlm.nih.gov/34749395/) | 2022 | Clinical trial update | Blood Adv | Polatuzumab vedotin plus bendamustine and rituximab in relapsed/refractory DLBCL: survival update and extension cohort |
+| [38072960](https://pubmed.ncbi.nlm.nih.gov/38072960/) | 2024 | Phase 1b/2 | Nat Med | Mosunetuzumab plus polatuzumab vedotin in relapsed/refractory aggressive LBCL |
+| [41115257](https://pubmed.ncbi.nlm.nih.gov/41115257/) | 2025 | Phase Ib/II | J Clin Oncol | Glofitamab plus polatuzumab vedotin in relapsed/refractory LBCL |
+| [40995463](https://pubmed.ncbi.nlm.nih.gov/40995463/) | 2025 | Guideline | HemaSphere | EHA clinical practice guidelines for large B-cell lymphoma |
+| [25925619](https://pubmed.ncbi.nlm.nih.gov/25925619/) | 2015 | Phase 1 | Lancet Oncol | Safety and activity in relapsed/refractory B-cell NHL and CLL |
 
 ## EU Market Information
 
-This drug currently holds no EU marketing authorizations (0 licenses on file; market status: Not marketed／not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004870 | Polivy | Not specified | Polivy in combination with bendamustine and rituximab is indicated for the treatment of adult patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL) who are not candidates for... |
 
----
+The authorization status in the compiled data is "cancelled". Verify the current status against the official EMA register before relying on it.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Antibody-drug conjugate) with cytotoxic microtubule-inhibitor payload (MMAE) |
-| Myelosuppression Risk | Medium–High (class effect of MMAE-based ADCs; neutropenia commonly reported — please refer to the SmPC for drug-specific data, as detailed toxicity data is not on file) |
-| Emetogenicity Classification | Low to moderate (typical of ADC-class agents; not confirmed for this specific product) |
-| Monitoring Items | CBC with differential (neutropenia), liver function tests, peripheral neuropathy assessment (MMAE-related) |
-| Handling Protection | Yes — must follow institutional hazardous/cytotoxic drug handling protocols given the MMAE payload |
-
----
+| Cytotoxicity Classification | Antibody-drug conjugate delivering a cytotoxic microtubule inhibitor (MMAE) |
+| Myelosuppression Risk | Please refer to the SmPC warnings and precautions (the prediction rationale notes myelosuppression as a recognized toxicity) |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Haematological parameters (CBC), signs of peripheral neuropathy and infection; please refer to the SmPC |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction screen. The list reviewed contains these major-level interactions:
+  - Clarithromycin
+  - Cobicistat
+  - Deferiprone
+  - Samarium (153Sm) lexidronam
 
----
+  Moderate-level interactions include aprepitant, cimetidine, metronidazole, miconazole, rosuvastatin, simvastatin, ticagrelor, chloroquine, hydroxychloroquine and disulfiram, among others.
+- **Known toxicity profile (from the compiled prediction rationale)**: peripheral neuropathy, myelosuppression and infection risk.
+
+Label warnings and contraindications were not available in the compiled data. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction carries a high TxGNN score but zero corroborating clinical trials or literature (Evidence Level L5), and the mechanistic rationale itself indicates CD79b — the drug's only known target — is not expressed in breast tumor tissue, making the biological plausibility of this repurposing candidate weak. The same pattern (high score, no evidence, no target expression) also applies to the other 9 predicted indications in this candidate set, several of which (e.g., antithrombin deficiency, heparin cofactor 2 deficiency) appear to be unrelated coagulation disorders with no conceivable mechanistic link, and one (luminal A/B breast cancer) shows literature counts that on inspection are likely a text-mining artifact from the letter "B" rather than genuine relevance.
+The prediction for HER2-positive breast carcinoma is supported only by the TxGNN score (Evidence Level L5). There are no clinical trials or relevant literature, and there is no plausible link between CD79b targeting and this tumour type. Established HER2-directed therapies already exist, and the toxicity of a cytotoxic ADC makes the risk-benefit balance unfavourable without supporting data.
 
 **To proceed, the following is needed:**
-- Resolve the Blocking-severity data gap (DG001): obtain TFDA/regional label warnings and contraindications before any safety-stage (S1) review
-- Resolve the High-severity data gap (DG002): obtain verified MOA data from DrugBank API
-- Independent confirmation of CD79b (or any alternative target) expression status in HER2-positive breast carcinoma tissue
-- Do not advance beyond S0 unless genuine clinical trial or peer-reviewed evidence emerges for this specific drug-indication pairing
+- Evidence of CD79b (or another suitable target) expression in HER2-positive breast tumours
+- Preclinical studies in HER2-positive breast cancer models
+- Mechanism of action data and EU label warnings and contraindications
+- Confirmation of the current EU authorization status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

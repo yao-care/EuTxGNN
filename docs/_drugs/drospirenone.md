@@ -2,7 +2,7 @@
 layout: default
 title: Drospirenone
 parent: AI Predictions (L5)
-nav_order: 194
+nav_order: 201
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,81 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Drospirenone: From Hormonal Contraception to Elevated Plasma Zinc
+# Drospirenone: From Oral Contraception to Elevated Plasma Zinc
 
 ## One-Sentence Summary
 
-> Drospirenone is a spironolactone-derived progestin used in combined oral contraceptives and hormone replacement therapy, valued for its antimineralocorticoid and antiandrogenic activity.
-> The TxGNN model's top-ranked prediction suggests a possible association with **elevated plasma zinc**,
-> but this candidate currently has **no supporting clinical trials and no supporting literature** — the score reflects a knowledge-graph pattern only, not observed clinical or mechanistic evidence.
-
----
+Drospirenone is a progestin that was originally authorised in the EU for oral contraception.
+The TxGNN model predicts it may be relevant to **elevated plasma zinc**, but this is a model prediction only,
+with **0 clinical trials** and **0 publications** currently supporting this specific indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not formally recorded in this evidence pack; based on supporting literature, drospirenone is used as the progestin component of combined oral contraceptives and menopausal hormone therapy |
+| Original Indication | Oral contraception |
 | Predicted New Indication | Zinc, elevated plasma |
 | TxGNN Prediction Score | 98.74% |
-| Evidence Level | L5 (model prediction only, no clinical or literature evidence) |
-| EU Market Status | Not Marketed |
-| Number of Authorizations | 0 |
+| Evidence Level | L5 |
+| EU Market Status | Cancelled only (no currently valid authorisations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for drospirenone is flagged as a data gap in this evidence pack. Based on the supporting literature that is available, drospirenone is a 17α-spirolactone derivative structurally related to spironolactone. It acts as a progestin with additional **antimineralocorticoid (anti-aldosterone)** and **antiandrogenic** activity, which is why it is combined with ethinyl estradiol or estetrol in oral contraceptive and hormone-therapy products — its antimineralocorticoid effect promotes sodium excretion and potassium retention, and its antiandrogenic effect is used clinically to manage acne and hirsutism in conditions such as PCOS.
+Currently, detailed mechanism of action data is not available. Drospirenone is a progestin with known anti-mineralocorticoid and anti-androgenic activity (similar to spironolactone), and its efficacy in contraception is established. However, nothing in the data compiled for this report links these actions to the regulation of plasma zinc.
 
-There is no established or literature-supported pharmacological pathway linking antimineralocorticoid/antiandrogenic progestin activity to **plasma zinc regulation**. Zinc homeostasis is governed primarily by intestinal absorption/transporter proteins (ZIP/ZnT families), renal handling, and metallothionein binding — none of which are known targets or downstream effects of drospirenone's aldosterone-receptor antagonism. The complete absence of clinical trials or publications connecting these two entities is consistent with this being a **knowledge-graph embedding artifact** rather than a biologically grounded signal: the high TxGNN score likely reflects proximity in the model's learned representation space rather than a real pharmacological relationship.
+The high TxGNN score (98.74%) reflects a pattern found by the model, not a demonstrated biological connection. No trials or publications support the link, and the relationship between contraception and elevated plasma zinc is unclear. The prediction should be treated as a hypothesis only.
 
-Given this, the prediction should be treated as a hypothesis-generation output only, not as a candidate with mechanistic or clinical support at this time.
-
----
+Other highly ranked predictions (for example dyschondrosteosis-nephritis syndrome, thyrocerebrorenal syndrome, and several congenital malformation syndromes) also lack mechanistic support. The publications retrieved for some of them concern drospirenone in premenstrual syndrome/PMDD, polycystic ovary syndrome and migraine. These were matched on the drug rather than the predicted disease, so they do not support those predictions.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## EU Market Information
 
-No marketing authorizations are currently recorded for drospirenone in this dataset (market status: Not Marketed; 0 authorizations on file).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005382 | Lydisilka | Not specified | Oral contraception. The decision to prescribe Lydisilka should take into consideration the individual woman's current risk factors, par... |
+| EMEA/H/C/005336 | Drovelis | Not specified | Oral contraceptive |
 
----
+Both authorisations have a cancelled status.
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Disease associations flagged in the knowledge graph (not label text):** The TxGNN knowledge graph lists contraindication links with conditions including hypertension, epilepsy, liver disease, kidney disease, gallbladder disease, adrenocortical insufficiency/Addison disease, hypothyroidism, systemic lupus erythematosus, asthma, diabetes mellitus/diabetic ketoacidosis, hypertriglyceridemia, hypercalcemia, porphyria, and anxiety and dysthymic disorders. These are model-derived associations and need confirmation against the SmPC.
+- **Drug Interactions:** 100 interactions were identified. Examples include clarithromycin (Major), and several Moderate interactions with antidiabetic agents (acarbose, canagliflozin, dapagliflozin, empagliflozin, glimepiride, glipizide, glyburide, exenatide, dulaglutide), aprepitant, acetylsalicylic acid, clotrimazole and potassium citrate.
+- **Class risk:** Venous thromboembolism risk is highlighted in the approved indication text for combined hormonal contraceptives.
 
-*Note: Key warnings, contraindications, and drug-interaction data are all flagged as data gaps in this evidence pack (DG001, severity: Blocking) — this must be resolved with official labeling data before any safety assessment can proceed.*
-
----
+For full warnings and contraindications, please refer to the SmPC.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked TxGNN prediction (elevated plasma zinc) has a high model score but zero supporting clinical trials or literature, and no plausible pharmacological mechanism connects drospirenone's known antimineralocorticoid/antiandrogenic activity to zinc homeostasis. This meets the criteria for **L5 — model prediction only**, and per the model's own scoring output the recommendation is already Hold.
-
-It is also worth flagging for data-quality purposes: among the other candidates in this batch, the literature sets returned for "dyschondrosteosis-nephritis syndrome" and "thyrocerebrorenal syndrome" (both rare congenital syndromes) consist entirely of PMS/PMDD/PCOS/oral-contraceptive publications with no relevance to those disease labels. This suggests a possible disease-label–to-literature mapping error in the underlying evidence retrieval pipeline for this drug's candidate set, and the full batch may warrant a QA re-run before any candidate from it is advanced.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no supporting literature and no identifiable mechanistic link to plasma zinc. In addition, the two EU authorisations are cancelled.
 
 **To proceed, the following is needed:**
-- Official mechanism of action (MOA) data from DrugBank or the approved product labeling
-- TFDA/EMA labeling data — key warnings, contraindications, and drug interactions (currently a Blocking data gap, DG001)
-- Confirmed original indication and licensing history for this drug in the target market
-- A biological/mechanistic hypothesis or preclinical signal connecting drospirenone to zinc metabolism before this candidate is escalated beyond S0
-- Re-validation of the literature-to-disease mapping pipeline for this candidate batch, given the mismatches observed in ranks 2 and 7
+- Mechanism of action data for drospirenone and a plausible pathway to zinc homeostasis
+- Preclinical or observational data linking drospirenone to plasma zinc levels
+- Clarification of whether elevated plasma zinc is a clinically meaningful treatment target
+- Label-based warnings and contraindications from the SmPC, which are required before safety screening
+- Review of the cancelled authorisation status and its implications for development
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

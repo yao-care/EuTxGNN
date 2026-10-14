@@ -2,7 +2,7 @@
 layout: default
 title: Cladribine
 parent: AI Predictions (L5)
-nav_order: 148
+nav_order: 151
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,96 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cladribine: From Hairy Cell Leukemia to Parameningeal Embryonal Rhabdomyosarcoma
+# Cladribine: From Multiple Sclerosis and Hairy-Cell Leukaemia to Parameningeal Embryonal Rhabdomyosarcoma
 
 ## One-Sentence Summary
 
-Cladribine is a purine nucleoside analog with established efficacy in hairy cell leukemia and, more recently, relapsing forms of multiple sclerosis. The TxGNN model predicts it may be effective for **Parameningeal Embryonal Rhabdomyosarcoma**, yet currently **no clinical trials** and **no supporting publications** exist for this indication. Evidence is limited to AI model prediction only (L5), and this prediction — along with all 10 top-ranked indications — clusters around rhabdomyosarcoma subtypes, raising concern for knowledge graph topology artifacts rather than genuine biological signals.
-
----
+Cladribine is a purine nucleoside analogue originally used to treat highly active relapsing multiple sclerosis and hairy-cell leukaemia.
+The TxGNN model predicts it may be effective for **parameningeal embryonal rhabdomyosarcoma**,
+but **no clinical trials and no publications** currently support this prediction. It rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
-|------|---------|
-| Original Indication | Hairy cell leukemia (based on known pharmacology; not captured in regulatory dataset) |
-| Predicted New Indication | Parameningeal Embryonal Rhabdomyosarcoma |
+|------|------|
+| Original Indication | Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features |
+| Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed (0 authorizations in dataset — see note below) |
-| Number of Authorizations | 0 |
+| EU Market Status | Cancelled only (no currently valid authorizations) |
+| Number of Authorizations | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
----
+## Why is This Prediction Reasonable?
 
-## Why Is This Prediction Reasonable?
+Detailed mechanism of action data for the original indication is not available in the data compiled for this report. Based on general pharmacology, cladribine (2-chlorodeoxyadenosine) is resistant to adenosine deaminase and is phosphorylated by deoxycytidine kinase. It accumulates as cladribine triphosphate, which causes DNA strand breaks and apoptosis. Its effect is mainly in lymphocytes and monocytes, which have a high ratio of deoxycytidine kinase to 5'-nucleotidase.
 
-Currently, detailed mechanism of action data is not available in this Evidence Pack. Based on known pharmacology, Cladribine is a chlorinated deoxyadenosine analog resistant to adenosine deaminase. It is phosphorylated intracellularly by deoxycytidine kinase (dCK) into the active triphosphate form (2-CdATP), which incorporates into DNA and causes irreparable double-strand breaks and apoptosis. This mechanism preferentially targets cells with a high dCK-to-5'-nucleotidase ratio — primarily lymphoid lineage cells — which explains its efficacy in hairy cell leukemia and multiple sclerosis (immune modulation via lymphodepletion).
+Its proven activity is in lymphoid disease (hairy-cell leukaemia and multiple sclerosis). Rhabdomyosarcoma is a solid mesenchymal tumour and lacks this lymphocyte-specific enzyme profile. Activity there would be plausible only as a general cytotoxic effect.
 
-Parameningeal embryonal rhabdomyosarcoma (RMS) is an aggressive pediatric mesenchymal tumor arising near the meninges (nasal cavity, paranasal sinuses, middle ear). The standard treatment backbone is the VAC regimen (vincristine, actinomycin D, cyclophosphamide) with radiation. The mechanistic gap is significant: RMS cells are of skeletal muscle progenitor origin and their dCK/5'-nucleotidase expression ratio has not been characterized in the literature, meaning selectivity of Cladribine for RMS cannot be assumed.
-
-The TxGNN score of 0.9977 is high, but the pattern across the top 10 predictions — all rhabdomyosarcoma subtypes or rare mesenchymal tumors with tightly clustered scores (0.9977 → 0.9807) and zero supporting evidence — strongly suggests this reflects shared proliferative/oncogenic node connectivity in the knowledge graph rather than a disease-specific biological signal. This prediction should be interpreted with caution as a hypothesis-generating signal only.
-
----
+The high score (0.998) most likely reflects proximity to other rhabdomyosarcoma-related terms in the knowledge graph, not a demonstrated mechanistic link. The same cluster produced several related predictions (embryonal rhabdomyosarcoma of the vagina, prostate and bile duct, rhabdomyosarcoma in general, and skeletal muscle neoplasm). None of them has clinical or literature support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the lead prediction.
 
-> **Note on Rank 7 (Liver Sarcoma):** One publication was retrieved (PMID [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/), 2004, Case Report — *Smoldering systemic mastocytosis treated with cladribine*). This is a **false positive** match — the paper describes mastocytosis therapy, not liver sarcoma. After exclusion, all 10 predicted indications have zero supporting evidence.
-
----
+Among the lower-ranked predictions, the only publication found is PMID [15241520](https://pubmed.ncbi.nlm.nih.gov/15241520/) (2004, case report, *Der Hautarzt*). It describes successful cladribine therapy in smoldering systemic mastocytosis, linked to the "liver sarcoma" prediction. This is a haematologic neoplasm, so it does not support efficacy in rhabdomyosarcoma or liver sarcoma.
 
 ## EU Market Information
 
-No authorizations were captured in this dataset (0 licenses, status: not marketed).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/004230 | Mavenclad | Not specified | Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features. |
+| EMEA/H/C/000504 | Litak | Not specified | Litak is indicated for the treatment of hairy-cell leukaemia. |
 
-> **Important discrepancy:** Cladribine is known to hold EMA authorization as **Mavenclad®** (oral tablets) for relapsing remitting multiple sclerosis (approved 2017). If this authorization was not captured by the data pipeline, please verify directly at the [EMA Product Catalogue](https://www.ema.europa.eu/en/medicines/find-medicine/european-public-assessment-reports) before making regulatory decisions. This gap does not affect the repurposing evidence assessment for RMS, but it is relevant to the drug's overall safety and SmPC availability.
-
----
+Both authorizations are listed as cancelled in the data compiled for this report.
 
 ## Cytotoxicity
 
-Cladribine meets the criteria for antineoplastic classification: it is a cytotoxic chemotherapy agent (purine nucleoside analog) with proven efficacy in hematologic malignancy.
-
 | Item | Content |
-|------|---------|
-| Cytotoxicity Classification | Conventional cytotoxic — Purine nucleoside analog (halogenated deoxyadenosine) |
-| Myelosuppression Risk | High — profound lymphopenia (CD4+ and CD8+ T-cell depletion) is a class-defining effect; neutropenia and thrombocytopenia also reported |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential (especially lymphocyte subsets and CD4+ count), liver function tests, renal function; opportunistic infection surveillance during lymphopenic nadir |
-| Handling Protection | Must follow cytotoxic drug handling regulations; teratogenic potential — reproductive precautions required |
-
----
+|------|------|
+| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analogue / antimetabolite) |
+| Myelosuppression Risk | High. Knowledge-graph contraindication links include neutropenia, thrombocytopenia, agranulocytosis and anaemia |
+| Emetogenicity Classification | Please refer to the SmPC warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver and renal function (kidney disease appears among the knowledge-graph contraindications), and neurological status (peripheral neuropathy appears among them) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information.
+- **Contraindications (knowledge-graph links, not label text)**: kidney disease, pyoureter, thrombocytopenia, neutropenia, agranulocytosis, anaemia, macrocytic anaemia, peripheral neuropathy, peripheral nervous system disease, hyperuricaemia.
+- **Drug Interactions** (100 interactions recorded; main ones shown):
+  - **Major**: systemic and other corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, triamcinolone, budesonide); deferiprone; radiopharmaceuticals and radioimmunotherapy agents (ibritumomab tiuxetan, iobenguane I-131, tositumomab, samarium-153 lexidronam, strontium-89 chloride).
+  - **Moderate**: palifermin, dipyridamole, cilostazol, eltrombopag.
 
-> Safety data (key warnings, contraindications, drug interactions) were not available in this Evidence Pack. Given Cladribine's known profound lymphodepletive effects, any repurposing application must conduct a full SmPC review prior to clinical development — including immunosuppression, infection risk, secondary malignancy, and reproductive toxicity.
-
----
+Label-based warnings and contraindications were not available. Please refer to the SmPC for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All 10 top-ranked TxGNN predictions for Cladribine cluster around rhabdomyosarcoma subtypes and rare mesenchymal tumors, all at evidence level L5 with zero clinical trials or literature support. The mechanistic basis for Cladribine activity in mesenchymal tumors is absent, and the score clustering pattern across highly specific RMS subtypes is a strong indicator of knowledge graph node bias rather than meaningful biological signal.
+The prediction is supported only by a knowledge-graph score. There are no clinical trials or publications for rhabdomyosarcoma, and the pharmacology of cladribine (selective for lymphoid cells) does not clearly fit this tumour type. Both EU authorizations are cancelled, and the safety profile includes significant myelosuppression risk.
 
 **To proceed, the following is needed:**
-
-- **Artifact verification:** Re-evaluate whether the RMS cluster in TxGNN predictions reflects genuine biology or KG topology bias (e.g., by checking edge distribution from Cladribine node to mesenchymal disease nodes)
-- **In vitro mechanistic data:** dCK and 5'-nucleotidase expression profiling in RMS cell lines (e.g., RD, A-204, Rh30) to assess whether Cladribine's selective cytotoxicity mechanism applies
-- **Full MOA data:** Retrieve complete DrugBank API entry (DB00242) to support mechanistic rationale analysis
-- **Safety data:** Obtain TFDA and EMA SmPC for full warnings, contraindications, and DDI profile before any clinical hypothesis development
-- **Evidence gap reassessment:** If RMS-specific evidence (even preclinical) emerges from the literature, re-score as L4 and re-evaluate; otherwise this candidate should remain deprioritized relative to indications where Cladribine has established mechanistic logic (e.g., lymphoid malignancies)
+- Preclinical data on cladribine in rhabdomyosarcoma cell lines or models, including dCK and 5'-nucleotidase expression
+- Mechanism of action data (MOA)
+- Label-based warnings and contraindications from the SmPC
+- Clarification of the current EU regulatory status, since both authorizations are cancelled
+- Comparison against established rhabdomyosarcoma chemotherapy regimens
+- A myelosuppression and immunosuppression risk assessment for a paediatric and young adult population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

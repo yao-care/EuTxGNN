@@ -2,7 +2,7 @@
 layout: default
 title: Sparsentan
 parent: AI Predictions (L5)
-nav_order: 553
+nav_order: 574
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,12 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sparsentan: From IgA Nephropathy to Predicted Alopecia
+# Sparsentan: From IgA Nephropathy to Alopecia
 
 ## One-Sentence Summary
 
-Sparsentan is a dual endothelin type A (ETA) / angiotensin II type 1 (AT1) receptor antagonist (DEARA), known in clinical practice for reducing proteinuria in primary IgA nephropathy — though this original indication is not recorded in the current Evidence Pack.
-The TxGNN model predicts it may be effective for **Alopecia**, but this is currently supported by **0 clinical trials** and **0 publications** — the signal comes purely from knowledge-graph embedding similarity, and the drug's own repurposing rationale describes the mechanistic link as "weak, with no known direct pathway."
+Sparsentan is a dual endothelin type A and angiotensin II type 1 receptor antagonist, originally used to treat primary IgA nephropathy (IgAN) with significant proteinuria.
+The TxGNN model predicts it may be effective for **alopecia**, but **no clinical trials and no publications** currently support this direction. The prediction rests on model output alone.
 
 ---
 
@@ -42,23 +42,23 @@ The TxGNN model predicts it may be effective for **Alopecia**, but this is curre
 
 | Item | Content |
 |------|------|
-| Original Indication | Not present in this Evidence Pack (`original_indications` is empty; drug is not EU-marketed). Based on known pharmacology, Sparsentan is a DEARA developed for primary IgA nephropathy |
+| Original Indication | Treatment of adults with primary IgA nephropathy (IgAN) with urine protein excretion > 1.0 g/day (or urine protein-to-creatinine ratio > 0.75 g/g) |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 94.52% |
 | Evidence Level | L5 |
-| EU Market Status | Not marketed |
-| Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
+| EU Market Status | Cancelled only (no currently valid authorization) |
+| Number of Authorizations | 1 |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available in the Evidence Pack (flagged as data gap DG002). Based on known information, Sparsentan is a dual ETA/AT1 receptor antagonist (DEARA class); its ability to reduce proteinuria in primary IgA nephropathy is well established in clinical use, but this original-indication context is not captured in the structured data supplied here, and the drug currently holds no EU marketing authorization (0 licenses).
+Sparsentan blocks two receptors at once: the endothelin type A receptor (ETA) and the angiotensin II type 1 receptor (AT1). In IgA nephropathy this dual blockade is used to reduce proteinuria. Detailed mechanism of action data is not available in the data compiled for this report, so the analysis below relies on the known targets only.
 
-The relationship between the original indication (a proteinuric kidney disease driven by endothelin/angiotensin-mediated vascular and glomerular effects) and the predicted new indication (alopecia, a hair-follicle growth-cycle disorder) is not mechanistically obvious. The evidence pack's own rationale text states explicitly that there is "no known direct pathway between ETA/AT1 antagonism and hair follicle growth-cycle regulation," and that the signal is "inferred solely from knowledge-graph embedding similarity, with weak mechanistic support." In other words, the model has found a statistical association in the graph, not a biologically grounded hypothesis.
+The link between kidney disease and alopecia is weak. No established connection between endothelin or angiotensin II receptor blockade and hair follicle biology was identified. One speculative route is vasoactive or fibrotic signaling in the scalp microvasculature, but this has not been tested. The high TxGNN score (0.945) is a computational prediction and should not be read as evidence of efficacy.
 
-It is also worth noting that this candidate is one of ten AI-generated predictions for Sparsentan, and several of the lower-ranked ones (angioedema, potassium deficiency, fetal erythroblastosis) are flagged in the rationale text as likely **inverted signals** — i.e., the model may be capturing known *adverse effects* of AT1-antagonist pharmacology (angioedema risk, hyperkalemia, pregnancy contraindication/fetal toxicity) rather than genuine therapeutic opportunities. This pattern suggests the overall prediction set for this drug should be treated with added caution rather than as a curated shortlist of therapeutic hypotheses.
+Other top-ranked predictions are also mostly in hair and skin disorders (congenital hypotrichosis milia, hypotrichosis simplex of the scalp, diffuse alopecia areata, lichen disease, dermatitis). For several of them the plausible mechanism points away from benefit. For example, alopecia areata is driven by autoimmune JAK/STAT and T-cell pathways, which sparsentan does not target. This clustering suggests the model may be picking up a pattern unrelated to sparsentan's actual pharmacology.
 
 ---
 
@@ -76,17 +76,18 @@ Currently no related literature available.
 
 ## EU Market Information
 
-Sparsentan currently holds **0 EU marketing authorizations** (`total_licenses: 0`, `market_status: Not marketed/Not marketed`). No product records are available to summarize.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| EMEA/H/C/005783 | Filspari | Not specified | Treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion > 1.0 g/day (or urine protein-to-creatinine ratio > 0.75 g/g, see section 5.1). (Status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the SmPC for safety information (`safety.key_warnings`, `safety.contraindications`, and `safety.ddi` are all unavailable in this Evidence Pack; DG001 flags TFDA label warnings/contraindications as a **Blocking** data gap for safety triage).
+- **Drug Interactions**: The interaction query completed and returned only pharmacological target records, not drug-drug interactions. The targets are the angiotensin II type 1 receptor (AGTR1) and the endothelin type A receptor (EDNRA).
+- **Class-related concerns from the prediction analysis**: Endothelin and angiotensin receptor antagonists carry embryo-fetal toxicity warnings, so use in pregnancy is a concern. Angiotensin receptor blockade also tends to raise serum potassium (hyperkalemia risk). These points come from general class knowledge, not from the label data compiled for this report.
 
-**Class-related signals noted in the prediction set (not sourced from a formal safety database, but embedded in the rationale text of other ranked predictions for this drug):**
-- Rank 5 (angioedema) and rank 8 (potassium deficiency/hyperkalemia) rationales note that AT1-antagonist-class drugs are clinically known to *cause*, not treat, these conditions — a possible inverted graph signal.
-- Rank 10 (fetal erythroblastosis) rationale flags that ARB-class agents are contraindicated in pregnancy due to fetal toxicity — a serious safety consideration if this drug class is evaluated further for any indication.
+Please refer to the SmPC for full safety information, including warnings and contraindications.
 
 ---
 
@@ -95,13 +96,14 @@ Please refer to the SmPC for safety information (`safety.key_warnings`, `safety.
 **Decision: Hold**
 
 **Rationale:**
-All ten predicted indications for Sparsentan are Evidence Level L5 (model prediction only — zero clinical trials, zero literature), the top-ranked alopecia hypothesis has an explicitly weak mechanistic basis per the model's own rationale text, and the drug has no EU marketing authorization. Critical safety data (TFDA label warnings/contraindications) is flagged as a **Blocking** data gap, and several other predictions in the same set appear to represent inverted/contradictory pharmacological signals rather than genuine indications — this further lowers confidence in the overall prediction batch.
+The prediction for alopecia is supported only by a model score (L5), with no registered trials or publications and no plausible mechanistic link. The only EU authorization is also listed as cancelled, which adds regulatory uncertainty.
 
 **To proceed, the following is needed:**
-- Resolve DG001 (TFDA/FDA label warnings and contraindications) before any S1 safety triage
-- Resolve DG002 (confirmed mechanism of action and original indication, e.g., via DrugBank/FDA label for Filspari/IgA nephropathy)
-- Preclinical or mechanistic evidence directly linking ETA/AT1 antagonism to hair follicle biology before pursuing the alopecia hypothesis
-- Independent pharmacovigilance review of ranks 5, 8, and 10 to confirm whether they represent inverted safety signals rather than viable indications
+- Parse the EU product information to obtain warnings and contraindications. This is a blocking gap for safety screening.
+- Obtain detailed mechanism of action data (for example from DrugBank).
+- Preclinical or mechanistic studies testing whether ETA/AT1 blockade affects hair follicle biology.
+- Clarification of why the EU authorization was cancelled, and of the available routes of administration (for example, whether a topical formulation would be feasible for a scalp condition).
+- A review of the other top-ranked predictions, since several show no plausible benefit or point toward risk (for example angioedema and potassium deficiency).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
