@@ -3,7 +3,7 @@ layout: default
 title: "EPOC (copd) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about EPOC (copd). 1 articles, 26 related drugs."
+description: "Health news about EPOC (copd). 2 articles, 26 related drugs."
 permalink: /news/copd/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/copd/
 ---
 
 <p class="key-answer" data-question="What news is there about EPOC (copd)?">
-<strong>EPOC (copd)</strong> currently has <strong>1 news articles</strong> and 26 related drugs.
+<strong>EPOC (copd)</strong> currently has <strong>2 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,15 @@ This page brings together the latest health news about “EPOC” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Inhalatoren bei Asthma und COPD: Vier von fünf Patienten wenden sie falsch an](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXVjb3ZVYXVWbnc3azc0RGt5V1NpT2pQWnpVb0o4N3lhaklhQ3QwVFZJc2wtUXp5V3dlN1JhYTI3M3E3dHdVeDc2dTJoYm1iZzRoSDVRaUdSMXlQck9CeFQ2dURYWWRpblZaTjFOMndNaERhRnFhR3dBdDhQYksydjIzUzc4anpIMjVtX21Oa0lYdGNkNncyYldKellvek9RNUxiQVNZaVF5WmFYLTBKNVlkS1RvSjA?oc=5)
+
+2026-10-14
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXVjb3ZVYXVWbnc3azc0RGt5V1NpT2pQWnpVb0o4N3lhaklhQ3QwVFZJc2wtUXp5V3dlN1JhYTI3M3E3dHdVeDc2dTJoYm1iZzRoSDVRaUdSMXlQck9CeFQ2dURYWWRpblZaTjFOMndNaERhRnFhR3dBdDhQYksydjIzUzc4anpIMjVtX21Oa0lYdGNkNncyYldKellvek9RNUxiQVNZaVF5WmFYLTBKNVlkS1RvSjA?oc=5)
+
+---
 
 ### [« Près de 40 % des cancers pourraient être évités » : les gestes anti-cancer du Pr Khayat](https://news.google.com/rss/articles/CBMixAFBVV95cUxOazBZb2QxbXBlUkRYanAxRTJTR2JoLTFMSllLMUVLTlZBTGpkX2haOWpScmlhTmRDRWVxd0xKUGdmVlhkN1BJWW5kTmtucHpJMlJzWF9HMUZiM2N5X19ZX1ZEYVowcWV5dXdIX3BUQmNYakExLWczaDQzblNwaDJlWHNfdlVNdVNVN0hpcUdzb2tNVERZOTdJOW50Y3l1T0J2OXV0Q3FaVWFabFZDTGx3aHFSVXFEY2tzZDI5ZVRTdy11TkEx?oc=5)
 

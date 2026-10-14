@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 17 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 18 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>17 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>18 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,13 +54,21 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (17)
+## Related News (18)
 
-### [La Iglesia en R.D. Congo denuncia que el ébola se extiende, mientras aumenta la violencia - Ayuda a la Iglesia Necesitada](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDE5VkxKSkRwVkxza20wYi1sSHVPR0QtcUlEWllQWFBUc09PVEVTOHRQY010aE5RSWU1TzhmeDhzSmtOS0ZTX2pOV1FfaENyM0Z1blplbExBMjdNbS14Z2RULXpka2NhaEdQTkVfaXVNODNfRTBuSTRxQ1JBWnIwNEZrNFYxclEwZlp6amJBekY5N0VSTllCOHAxVWdHZmFXeHFxVlF0YVdyOG05?oc=5)
+### [Los casos de ébola en la República Democrática del Congo superan los 9.000 - Democracy Now!](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZ5c2NMVVkxLXp6ZWkwcDVvTHZCOXZnQ3pyaURiOXJ0ZW5sRG5LWFVUUDNkRndVV05XUi1qQ1NJZVVpUFhNeE5FUzN5ZzRqbXNZTklVNnJQU2czaklqdHQyUUY1T0FHZDBub0tSbFVaMTZVdEU2WVY5S2p3dHFOWGRxaEh5Q0tjOGxFanQ1QTFPSGNLcTJPakdGUmNaRmJua2FKOHl2NUxtT2ZzSGFzalpSa1BDZFVlOWc?oc=5)
 
 2026-10-14
 
-Source: [Ayuda a la Iglesia Necesitada](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDE5VkxKSkRwVkxza20wYi1sSHVPR0QtcUlEWllQWFBUc09PVEVTOHRQY010aE5RSWU1TzhmeDhzSmtOS0ZTX2pOV1FfaENyM0Z1blplbExBMjdNbS14Z2RULXpka2NhaEdQTkVfaXVNODNfRTBuSTRxQ1JBWnIwNEZrNFYxclEwZlp6amJBekY5N0VSTllCOHAxVWdHZmFXeHFxVlF0YVdyOG05?oc=5)
+Source: [Democracy Now!](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZ5c2NMVVkxLXp6ZWkwcDVvTHZCOXZnQ3pyaURiOXJ0ZW5sRG5LWFVUUDNkRndVV05XUi1qQ1NJZVVpUFhNeE5FUzN5ZzRqbXNZTklVNnJQU2czaklqdHQyUUY1T0FHZDBub0tSbFVaMTZVdEU2WVY5S2p3dHFOWGRxaEh5Q0tjOGxFanQ1QTFPSGNLcTJPakdGUmNaRmJua2FKOHl2NUxtT2ZzSGFzalpSa1BDZFVlOWc?oc=5)
+
+---
+
+### [Ovarien bleiben nach der Menopause aktiv: Proteomstudie zeigt Umbau und Entzündung - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGtrWElKLXpLNjJEektXd0xyd0RZcXlIeHJJUzU3VUd3WFJHaFBMTllZY183V0wyMVkybTVLRVU3a3kzd3NNMnlxV0tsR3BYVENRWnpNUW5lR2hCX1Y0dkdUTENIcGxHZnNVRWRTNGZxZThyN0RtUldncDM5Q0ZxNXdkX1VkWTVCNDk1ZU1COU5jZHBTbU5PeHcxZ0Q4RTk4VEV3OVhVUTJDWjFRa0I3cC1OR0s?oc=5)
+
+2026-10-14
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGtrWElKLXpLNjJEektXd0xyd0RZcXlIeHJJUzU3VUd3WFJHaFBMTllZY183V0wyMVkybTVLRVU3a3kzd3NNMnlxV0tsR3BYVENRWnpNUW5lR2hCX1Y0dkdUTENIcGxHZnNVRWRTNGZxZThyN0RtUldncDM5Q0ZxNXdkX1VkWTVCNDk1ZU1COU5jZHBTbU5PeHcxZ0Q4RTk4VEV3OVhVUTJDWjFRa0I3cC1OR0s?oc=5)
 
 ---
 
@@ -72,11 +80,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTc0LTdVT
 
 ---
 
-### [Boissons sucrées, en-cas salés et restauration rapide : il y a désormais plus de jeunes obèses qu’en sous-nutrition dans le monde - Le Figaro](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0s2U1AzWEpWY3dXVTMxTl9kY0xEMFEwUlpJTEExeGN6S2RzYW55ZkQ1VU1HZVhpQVlod3h5YmNzWXpWcTZVU0F2UFZqQzlFY0Q3TklXcWp6cnJ5bVByeWJrdFJPSWdrMFlRTVE2bkgxdjFLZEpvbVB3cGhvb2piME9yeTQ4Z3B2OXF0ZGZVNEFlOHNHSkNnNnhHYjloYldoWnpyMWZTRGZlZHVzM3UtX3NiTFM1aXlleHdwVjZDdEliak5QVGFjSVJYTGlPSFNXWnpfNmJQSmVnTVQ2dm1HWDRPNk9WalpkVkNJbFNGZEd5RnViTnZYOUpNWHg?oc=5)
+### [Le vaccin contre la grippe est désormais à prescription obligatoire : qu’est-ce que ça change ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVFfc01pNzh6RTNKb01LUGM4SGdvWXl0MzJ2a1pvNVNpa3duZjNWeXM4NU5TV1Jzdm5TVF9OQ3J0TnlRSkJVZXp3QkRlUXZHY3g2Njgwa0VBSUNWV3FWU1JUODZ3Y1pqOU5hWWNfYWNYbVZJZ185ektuS1dXSlc4eWFfd09wXzdjRHFXR3FKRGMxWVA0aTEwbFg1TDdVQkVWb3pwajYxSkVhNnBmekhmSzBEaUdSNUVhdGJqV216OU5ndGNoX3NQcWZ5SFVOd1h1bXNzQXc0YWxXSE1XTWstaU1R?oc=5)
 
 2026-10-14
 
-Source: [Le Figaro](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0s2U1AzWEpWY3dXVTMxTl9kY0xEMFEwUlpJTEExeGN6S2RzYW55ZkQ1VU1HZVhpQVlod3h5YmNzWXpWcTZVU0F2UFZqQzlFY0Q3TklXcWp6cnJ5bVByeWJrdFJPSWdrMFlRTVE2bkgxdjFLZEpvbVB3cGhvb2piME9yeTQ4Z3B2OXF0ZGZVNEFlOHNHSkNnNnhHYjloYldoWnpyMWZTRGZlZHVzM3UtX3NiTFM1aXlleHdwVjZDdEliak5QVGFjSVJYTGlPSFNXWnpfNmJQSmVnTVQ2dm1HWDRPNk9WalpkVkNJbFNGZEd5RnViTnZYOUpNWHg?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVFfc01pNzh6RTNKb01LUGM4SGdvWXl0MzJ2a1pvNVNpa3duZjNWeXM4NU5TV1Jzdm5TVF9OQ3J0TnlRSkJVZXp3QkRlUXZHY3g2Njgwa0VBSUNWV3FWU1JUODZ3Y1pqOU5hWWNfYWNYbVZJZ185ektuS1dXSlc4eWFfd09wXzdjRHFXR3FKRGMxWVA0aTEwbFg1TDdVQkVWb3pwajYxSkVhNnBmekhmSzBEaUdSNUVhdGJqV216OU5ndGNoX3NQcWZ5SFVOd1h1bXNzQXc0YWxXSE1XTWstaU1R?oc=5)
 
 ---
 
@@ -96,19 +104,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMz
 
 ---
 
+### [DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter - Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkNjc1VDSC03X0c0MzZyUm9XQjZZN09QZi1oT2ZOSHZ2U3J4VVFmcVFxUllhN0IzbVBiZnFuQy1haUlMcnd2R3hQMTJOcHBKeWh2bTBPYTZpY2pkTWlzU3hmc0tNdk5wMS04azZtVzFQZjh6bEx6bU1tYTBibkZ1OTM5SFJ1VGVFUjUxR250T3lVX3puWmc0MmpRZi1mTVhOeDhQWGs5SGZYbndaTnRvcNIBtgFBVV95cUxNWFJiSi1ybDlmb2RZQzVEMjRSNHJMZnpFd2JIVnpBdkxhcHZKejhXd1hhVU01TE9JVTBMR2tibkhIbUZZTGJLX0dJVE14a2FYMW1WSVB3U0pUWmZzNjNYYkJHdVBkc2FmNFJpb0Y5TUEtVEtWMWRCR1ZzaGZvZkRTRk8yN2VaQnBxZ0tKM0pFVWxvLWZHMFczQnJOcVNua0VEdUlSOWhtYWZyTC1JRmlQNnJxTTVpUQ?oc=5)
+
+2026-10-13
+
+Source: [Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkNjc1VDSC03X0c0MzZyUm9XQjZZN09QZi1oT2ZOSHZ2U3J4VVFmcVFxUllhN0IzbVBiZnFuQy1haUlMcnd2R3hQMTJOcHBKeWh2bTBPYTZpY2pkTWlzU3hmc0tNdk5wMS04azZtVzFQZjh6bEx6bU1tYTBibkZ1OTM5SFJ1VGVFUjUxR250T3lVX3puWmc0MmpRZi1mTVhOeDhQWGs5SGZYbndaTnRvcNIBtgFBVV95cUxNWFJiSi1ybDlmb2RZQzVEMjRSNHJMZnpFd2JIVnpBdkxhcHZKejhXd1hhVU01TE9JVTBMR2tibkhIbUZZTGJLX0dJVE14a2FYMW1WSVB3U0pUWmZzNjNYYkJHdVBkc2FmNFJpb0Y5TUEtVEtWMWRCR1ZzaGZvZkRTRk8yN2VaQnBxZ0tKM0pFVWxvLWZHMFczQnJOcVNua0VEdUlSOWhtYWZyTC1JRmlQNnJxTTVpUQ?oc=5)
+
+---
+
 ### [Papillomavirus : l'OMS envisage la vaccination dès 4 à 8 ans - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1wMERlQUxtT0ZSelJDVDFFTUZzbDgyZ19BZkR0MnRwMmFZWlNKQWdPNWFhN0tLb3R6UnlYZWpuZzBVZnBiV0hxMUhDSmJvODBtYnprMGZNUHBlcUY1QWVaRDgxSDhjQXVKUzA1bjRiTkdhZHhFb2haOUp5N1M1d3o3Nm1XQWcxNHhVRnpfRk9DX1I3Mk5COUZXQThiaUd6Y3pUNlVWaHZwWTFXWVVaUQ?oc=5)
 
 2026-10-13
 
 Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1wMERlQUxtT0ZSelJDVDFFTUZzbDgyZ19BZkR0MnRwMmFZWlNKQWdPNWFhN0tLb3R6UnlYZWpuZzBVZnBiV0hxMUhDSmJvODBtYnprMGZNUHBlcUY1QWVaRDgxSDhjQXVKUzA1bjRiTkdhZHhFb2haOUp5N1M1d3o3Nm1XQWcxNHhVRnpfRk9DX1I3Mk5COUZXQThiaUd6Y3pUNlVWaHZwWTFXWVVaUQ?oc=5)
-
----
-
-### [Farmaci, Luppi (Msd): "Uno scudo per proteggere i neonati dal Rsv" - Il Tirreno](https://news.google.com/rss/articles/CBMizAFBVV95cUxNd29DLWtJS1ZFdzg2ZFdTWUxVYWNGcFRqVEFGRm5laDJMWXBOSDRzQWx4V0lSc0dHRVpVQm1kYkpyY0Y0bUpKNG9LZ3d2cjgzU0V6QWhqNjJ4em1yMzNFSHJXQVFpMkpyVlNyUG9mR1hTNXhYS29mbkVuZVR1NG5MOVVHbTFaYTNEa1FUWWVIMzZQNjd5d280LTF4QktFcUhHcHJkUmdONDF3RmQxNWctd2tYNXJzRUhPbkM1R1E1b1gySXg2MXB5VDVJa2g?oc=5)
-
-2026-10-13
-
-Source: [Il Tirreno](https://news.google.com/rss/articles/CBMizAFBVV95cUxNd29DLWtJS1ZFdzg2ZFdTWUxVYWNGcFRqVEFGRm5laDJMWXBOSDRzQWx4V0lSc0dHRVpVQm1kYkpyY0Y0bUpKNG9LZ3d2cjgzU0V6QWhqNjJ4em1yMzNFSHJXQVFpMkpyVlNyUG9mR1hTNXhYS29mbkVuZVR1NG5MOVVHbTFaYTNEa1FUWWVIMzZQNjd5d280LTF4QktFcUhHcHJkUmdONDF3RmQxNWctd2tYNXJzRUhPbkM1R1E1b1gySXg2MXB5VDVJa2g?oc=5)
 
 ---
 
@@ -136,14 +144,6 @@ Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWX
 
 ---
 
-### [A Nutritionist Shares the 8 Foods Women After 45 Navigating Perimenopause Should Prioritize](https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2hTQmpoeF9wb2pHYVo1Tl9rU2tRbVY4TE1femtmSDVSa1FIZHAwTFJydFh4Vloxa2hEalhhVm9RT3RiV3NsdDhETEJ2TXdnN0VsNUJXNVNMUFhPUnJfYTIzUlVpUlJ2aVZ6MlJlWnpmZTZWT25RNVQ5MnFlNGdXeDZoc1NQdWc?oc=5)
-
-2026-10-13
-
-Source: [Grazia](https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2hTQmpoeF9wb2pHYVo1Tl9rU2tRbVY4TE1femtmSDVSa1FIZHAwTFJydFh4Vloxa2hEalhhVm9RT3RiV3NsdDhETEJ2TXdnN0VsNUJXNVNMUFhPUnJfYTIzUlVpUlJ2aVZ6MlJlWnpmZTZWT25RNVQ5MnFlNGdXeDZoc1NQdWc?oc=5)
-
----
-
 ### [The lung cancer symptoms everyone should know – and flag with a doctor - The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
 
 2026-10-13
@@ -157,6 +157,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS
 2026-10-13
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQajVpdXpsN1dlbEE0SkY2dG9QczBLcVVkaXVuR3pRc3pzUzJWMmtHYkthcEFqdlJoXy1Ca1ZEV1JxRk1vT3NHUlNWWjBDZVJsUzc1N25KNW1PaGxuX3pLZ3pNM0NFeFJhejJmakVyRFFIRXRZX1k0Y2VyVlBUWEV2UmNqYWdOVjdmX3NiOVpB?oc=5)
+
+---
+
+### [Women ‘more likely to be told autoimmune conditions are psychological’ - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
+
+2026-10-13
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
 
 ---
 

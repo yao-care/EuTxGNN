@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cenobamate?">
-<strong>Cenobamate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Cenobamate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -45,22 +45,16 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 <li>epilepsy with generalized tonic-clonic seizures (94.2%)</li>
 <li>partial motor epilepsy (93.4%)</li>
 <li>trigeminal nerve neoplasm (91.2%)</li>
-<li class="indication-matched">epilepsy (90.7%)<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy (90.7%)</li>
 <li>restless legs syndrome (87.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [La relación entre la epilepsia y las enfermedades gastrointestinales en golden retrievers podría abrir nuevas vías terapéuticas](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2phTm1vTDlsVnV5dkR0aXpPTElZQVVWNW5EZGxBNHU1Tnk5YVBON0twVlB5YWppSF9EeEFneFNicjZsV0w5bUF5Wk1WSUpDTlk3VUtlMTdVQlFoNjNvOVlDU1dLTktDUVduWk1uSWVFbTZNb1dHZGIxb011bjd6OFN4ajBrR3pBcnh1YmhFQmhzR1NuUEVuZlZJamJzYUREOF9ZUkxaVkFlU0JJLWxfTFdiSG1uckczdWd2blRjZjRsd2o0WHYxLU9OSXUyTU9sTXJlOUVPRldJcWpmQ2I0Wi1ta1HSAeoBQVVfeXFMTlN4NllxQzhmNVlHX0xYNGYxdXd5N19sOC1DRi1MRFpQNVg4NDhDRDN4bHgtTndna3prM29PTEw4U3Q0UFhyUGg1R2FGMlFXaEFlNFFXSWdaS1hYLW40Z2IzdndWUXpSM2QzeFE1ZlYwbWZodHRRbUJRLV9oYk9kZW5nQkt4UllvVWR6NDF5NHRLeTdjaml5NndIZ0phWTR2dTlhenNoVG5raXUyOGNaOHoxQzl4V0taR3dmdDlkU0xqVE9JczZfdnJldDNiTDVPX3dFZUdrNjFNdWdRUnFSRDZndExQbmN1M2hB?oc=5)
-
-2026-10-13 <span class="news-indication-tag">epilepsia</span>
-
-Source: [Animalshealth.es](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa2phTm1vTDlsVnV5dkR0aXpPTElZQVVWNW5EZGxBNHU1Tnk5YVBON0twVlB5YWppSF9EeEFneFNicjZsV0w5bUF5Wk1WSUpDTlk3VUtlMTdVQlFoNjNvOVlDU1dLTktDUVduWk1uSWVFbTZNb1dHZGIxb011bjd6OFN4ajBrR3pBcnh1YmhFQmhzR1NuUEVuZlZJamJzYUREOF9ZUkxaVkFlU0JJLWxfTFdiSG1uckczdWd2blRjZjRsd2o0WHYxLU9OSXUyTU9sTXJlOUVPRldJcWpmQ2I0Wi1ta1HSAeoBQVVfeXFMTlN4NllxQzhmNVlHX0xYNGYxdXd5N19sOC1DRi1MRFpQNVg4NDhDRDN4bHgtTndna3prM29PTEw4U3Q0UFhyUGg1R2FGMlFXaEFlNFFXSWdaS1hYLW40Z2IzdndWUXpSM2QzeFE1ZlYwbWZodHRRbUJRLV9oYk9kZW5nQkt4UllvVWR6NDF5NHRLeTdjaml5NndIZ0phWTR2dTlhenNoVG5raXUyOGNaOHoxQzl4V0taR3dmdDlkU0xqVE9JczZfdnJldDNiTDVPX3dFZUdrNjFNdWdRUnFSRDZndExQbmN1M2hB?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

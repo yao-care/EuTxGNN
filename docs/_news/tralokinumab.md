@@ -14,7 +14,7 @@ permalink: /news/tralokinumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Tralokinumab?">
-<strong>Tralokinumab</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Tralokinumab</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tralokinumab with the latest
 <p><a href="{{ '/drugs/tralokinumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
-### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+### [Typ-2-Diabetes: Wenn das individuelle Therapieziel noch nicht erreicht ist – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FMSy03Z3ZqcVlPZk01b2ZtM0h3RVV4eGZvTFhQaDVHcnozcThpcGJSVURVOUVXTEZLMjdQLXV5WHdpbERwZGJoMUI4NFhTRTdYTG9ldm9la3l0blJ1aWNIa29yUl9BLXd1a19sMmNSNjJ5OFJrZ1dHYWl1dFpFQXZOQlVGY1lTYXdLQVYzdGxUbjZKdXBWQmdnYTRHbEkyRGg1X2VCbkEwN2x3NVNHNW9Xd2QwMnlWNWlSMHBlV2NNRzF6VXlQX3BULTAzenJoQ3F0NmtUNW42QQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FMSy03Z3ZqcVlPZk01b2ZtM0h3RVV4eGZvTFhQaDVHcnozcThpcGJSVURVOUVXTEZLMjdQLXV5WHdpbERwZGJoMUI4NFhTRTdYTG9ldm9la3l0blJ1aWNIa29yUl9BLXd1a19sMmNSNjJ5OFJrZ1dHYWl1dFpFQXZOQlVGY1lTYXdLQVYzdGxUbjZKdXBWQmdnYTRHbEkyRGg1X2VCbkEwN2x3NVNHNW9Xd2QwMnlWNWlSMHBlV2NNRzF6VXlQX3BULTAzenJoQ3F0NmtUNW42QQ?oc=5)
+
+---
+
+### [Demenz vorbeugen: Was Ihr Gehirn wirklich schützt](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSC1yN2w5VHU0eHNyOUQ2WGFteEtycGtRQ0hhZEs4Z1ljNjdTcWRoZkhZV0dENGIwZ0wwMGZoS2tVT255MXY5bllrQ3ZMRHlITUlBREw0TGJDbnZ0Y1NjZnoyS21odU1jYVFFUXhqVzB2OHgtNlNHMEpCN1RRdWVEZlROM3licVg5bk9kcTNXOWJLQk5uTjNaQi1SdHZVVF9qZ0tiMFhfVHk5UHByWm0tdllZVElPQQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSC1yN2w5VHU0eHNyOUQ2WGFteEtycGtRQ0hhZEs4Z1ljNjdTcWRoZkhZV0dENGIwZ0wwMGZoS2tVT255MXY5bllrQ3ZMRHlITUlBREw0TGJDbnZ0Y1NjZnoyS21odU1jYVFFUXhqVzB2OHgtNlNHMEpCN1RRdWVEZlROM3licVg5bk9kcTNXOWJLQk5uTjNaQi1SdHZVVF9qZ0tiMFhfVHk5UHByWm0tdllZVElPQQ?oc=5)
 
 ---
 
@@ -78,14 +86,6 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV
 
 ---
 
-### [La detección temprana abre una nueva era en la diabetes tipo 1 en España - El Diario Vasco](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUxKS2NOX3IyZ2RPeWJfQmhycVdLcjJLVGJlSnFSOGFpaFVyb2JTVU9Md05seVRwVlppVkZZSzRaalExdjNuMzFpTi1qbk0zcnZkR3YzUUlpc00tOWlZbGk4WlBjdWNyT0t0TjBjVGVhMTdVdDNtemF6ZGd1S1hfM3o0YmgwRy1CSm5CdmZSc3hjZHNaNW01R2dxMG5HQ0NzT2pXNGNMN05XMWxv?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUxKS2NOX3IyZ2RPeWJfQmhycVdLcjJLVGJlSnFSOGFpaFVyb2JTVU9Md05seVRwVlppVkZZSzRaalExdjNuMzFpTi1qbk0zcnZkR3YzUUlpc00tOWlZbGk4WlBjdWNyT0t0TjBjVGVhMTdVdDNtemF6ZGd1S1hfM3o0YmgwRy1CSm5CdmZSc3hjZHNaNW01R2dxMG5HQ0NzT2pXNGNMN05XMWxv?oc=5)
-
----
-
 ### [Predisposizione al diabete? Due abitudini possono ridurre il rischio fino al 70% - La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMixwFBVV95cUxNcV9LSW5uNEZENnc2YmhSYlowaWJ6MnJ2WElYU1RlbjV3NXF1Mm9WSlVobkNiYnVFQ1E4WUE5dnkwQzFGQzRlYVVPOHlxbzVWcDF5eW5kd21sby1WZF9xMFJSLW55cHY3WHJxNlZzQkpBRjFqS01SN2ZhakN6Z1A0RWxKZ0hQQl9KbHphU0U0b0FhcE93a2lYY25PdXdUOUcyNW4xUExRN2VFUmZjQzgybWVHbHJuZEpzZWlQTWhVemd1WmZQY0pz0gHMAUFVX3lxTE5ZYVJ0QkljTVFpTU85T1FSeXBzN3VBcFZPODFIbjZzall2X3VYQmtEWGh1NjBNTUhNd1M3S3B6NkZ3by1jQTlLZXJvMGViTzdfZVdyV3lNS3pTdTdfTjRERHlISFlmempmeVI3aWZidHQtd0hVTHJBVzhhUWxGMWtLeGVCN3Y2S011WW9yd2pRajNWbjdwMjVMREpJSkJCbW1wNlNPc1BjNFJDbHdRTy10aEQtRDlWR2pjNmduR2pYaG05N20yLTNWUW9JbQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">diabete</span>
@@ -94,11 +94,11 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMixwFBV
 
 ---
 
-### [El GLP-1 oral de Lilly ha demostrado seguridad cardiovascular, además de la reducción sostenida de la glucosa en sangre y pérdida de peso - Revista Pharma Market](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbmdVSHd4RmhIandJS1ktbm1Xc0UzcG1ac3N0bV9SMTdSb1JtVWFubXNLbHV3a095S0hlN2NjRlpmRkR0NDBnRWVIbGgzMnI3SDV3ZzlkbHdqWTdlSWtsT2wwQVI4Q2piM3NZV0o3eWxfRW9QOE4wdVBQc3ZYQ0ZhdUxSRTNhbUtEb3BoRnRfYmtSUVdLdkw4aHhnS2ExQkwwT2ZvalRrSTFGNEVCWVVkZklROFF3eXJ1ZmFFbVZGTFp2aU8yb1RiODdwdnpNZmppTmlxNTRxTnFBb3hpVWVOMkQzMVdwZW9XLTFVMUt3VXZxZw?oc=5)
+### [Diabetes und Rauchstopp: Acht Jahre Abstinenz senken Augenschäden um 41 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxOazdfRERPU1ZhRHVNOGtFRmZDYzlnUmhtRmIxR1RGMWY5em94WkJxbzk4QlFQNm5PTVVESVRYZTJlZUhWRzhNamVCNE5fTnFfUW9IT1RSaDFGbEQ2R1gzWFNjMkhpUTlwNm9KYnpJeGdsSmVYejNaUEFtQTFTTEVwTjZKdjlZdklDaGgzcGhFMmhreTdkUlJCQUs5S21IaGpaQzM0UnlSMG1NU3poMGNFcG5wc1VfTGZLV2pXVA?oc=5)
 
 2026-10-14 <span class="news-indication-tag">diabetes</span>
 
-Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbmdVSHd4RmhIandJS1ktbm1Xc0UzcG1ac3N0bV9SMTdSb1JtVWFubXNLbHV3a095S0hlN2NjRlpmRkR0NDBnRWVIbGgzMnI3SDV3ZzlkbHdqWTdlSWtsT2wwQVI4Q2piM3NZV0o3eWxfRW9QOE4wdVBQc3ZYQ0ZhdUxSRTNhbUtEb3BoRnRfYmtSUVdLdkw4aHhnS2ExQkwwT2ZvalRrSTFGNEVCWVVkZklROFF3eXJ1ZmFFbVZGTFp2aU8yb1RiODdwdnpNZmppTmlxNTRxTnFBb3hpVWVOMkQzMVdwZW9XLTFVMUt3VXZxZw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOazdfRERPU1ZhRHVNOGtFRmZDYzlnUmhtRmIxR1RGMWY5em94WkJxbzk4QlFQNm5PTVVESVRYZTJlZUhWRzhNamVCNE5fTnFfUW9IT1RSaDFGbEQ2R1gzWFNjMkhpUTlwNm9KYnpJeGdsSmVYejNaUEFtQTFTTEVwTjZKdjlZdklDaGgzcGhFMmhreTdkUlJCQUs5S21IaGpaQzM0UnlSMG1NU3poMGNFcG5wc1VfTGZLV2pXVA?oc=5)
 
 ---
 
@@ -118,14 +118,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0REOWlLZ1dx
 
 ---
 
-### [Resultados positivos con safigliprón en adultos con diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFydFRtNTBYS3VISEg3bzVyNncycTVuSU91R2Q4V19LUlJtUWhSNWVVMGJaakRYeWhxY2NMeFJ1dTRTYjdwT1NIaXV3bTU3NmZueDVCcE43eHprbE1xa2tfd0JnUkYzNUVZQWhOWXgyZFpma2Iwc2pORjZqQmxKUzllZ016cGdXX0hNMFdUX05OVFFPQ1ZubDBWTi1YTWJVUDkxSnhpOXJYR3I3MDRuRmFFN25tOXFlOG92RjZoZ9IBugFBVV95cUxOZks3MWlQLXd3YmQ0XzcydjlvdmVHRlQ0Y0RzTmVlUDE4MWdSbUFkTjAxMW1lUzRUNzQ1RE1ORzc5RGRacDZrNWI3dVZ0VkpEZDJ1TmZaYjBETjRyaEV0YXgtRmVlRS1EenNzdUUtSmZQLTNfVUF3aHBYcnN5cWRlRVZzVllDTmhmT01pQ1owWTZIU2l4Y3hHMHNiblp5RXZSYUJrU0g1NVEwU2t1YTlOcGhNLUZ5M2w2bEE?oc=5)
-
----
-
 ### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
 
 2026-10-12 <span class="news-indication-tag">diabetes</span>
@@ -142,11 +134,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8t
 
 ---
 
-### [Früherkennung und Ketoazidose: Abbott Big City Talk in Berlin - Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+### [Diabetes: Diese Medikamente sollen früher verordnet werden](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
 
-2026-10-07 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-Source: [Monitor Versorgungsforschung](https://news.google.com/rss/articles/CBMisAFBVV95cUxQemhKeDhzTkxENkVsWjBZR2h1YkJmMWdZWlA2TFJ3VUJXMWtyMFZOUjU0NFVtZ1JCLXU4RlktNHU5dDlTMFFsamNJcE0zT0x3YkFPQzBSQUQ3Zk15M0VsbDlHWWp6RDVmZ0lnSGdtaDVLY2hXVDhOMlZoUGQ5R0c4cmdGRnNEbVlaOUp6VkZkWTZUM29kNERmU0x6TjViT1B6RFM3cE5sQkJQT1NlOF9FTQ?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
 
 ---
 

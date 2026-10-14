@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Encender y apagar neuronas con luz: El hallazgo botánico que ha conquistado el Premio Nobel de 2026 - Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXY2ek0ycktlVGhJZmNFOXJUX2V5clVxVEhkanlJVlhORGlCUDZLbUlSQ3h5TzVPQk1ySHhZYTRuWkphZzVRN2hOSlFxT3BJWUxBaGl6WF91Z1drSzFGTUxEdW9Valk3QmZIR2x2ejBKTEFnWEtjNUZMTUNKbEUwZmxpYmRWUU5IVTRITWF2WktqbnF6RHBrUk80RDczQTFMSnRXWW5oWjdtcXJkRUdCNTB0T25GSUZoM041TmpRTXhJS2Zra3o2ZmUyNFlXd3pBY0lmcndpdV9pM2RNSG5XQ3VZRzI2U1nSAewBQVVfeXFMTlFvaklHM2FZTGZHb3VybzhTQ2F1NFF5aEdnU1lleFI1MlpCZnF4SHNFb2g0cDZXaEhROEtZUlBJdzhzcWRDckg3VlNqUlBsbzdCUUI2emFrekxMRG03SkRsbktfQmxBdEVYUWlmTU40dnRMZld6aUZpS0FpbU5GNlFmN1Vyb2JkeVMwN3dDM2FkY09WaGs0Zm9wdkp1c25yMDAxcmc2QVlYS3NqTG85NGNwSUNmTm1Kb3Q5WDY3bjcwajFBTnV3TVFoOElNNUtNcml6OFRSUm1wTEg3VjdKS1dIcVl5UFQyenpaekg?oc=5)
+
+2026-10-14 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [Observatorio de Bioética, UCV](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNXY2ek0ycktlVGhJZmNFOXJUX2V5clVxVEhkanlJVlhORGlCUDZLbUlSQ3h5TzVPQk1ySHhZYTRuWkphZzVRN2hOSlFxT3BJWUxBaGl6WF91Z1drSzFGTUxEdW9Valk3QmZIR2x2ejBKTEFnWEtjNUZMTUNKbEUwZmxpYmRWUU5IVTRITWF2WktqbnF6RHBrUk80RDczQTFMSnRXWW5oWjdtcXJkRUdCNTB0T25GSUZoM041TmpRTXhJS2Zra3o2ZmUyNFlXd3pBY0lmcndpdV9pM2RNSG5XQ3VZRzI2U1nSAewBQVVfeXFMTlFvaklHM2FZTGZHb3VybzhTQ2F1NFF5aEdnU1lleFI1MlpCZnF4SHNFb2g0cDZXaEhROEtZUlBJdzhzcWRDckg3VlNqUlBsbzdCUUI2emFrekxMRG03SkRsbktfQmxBdEVYUWlmTU40dnRMZld6aUZpS0FpbU5GNlFmN1Vyb2JkeVMwN3dDM2FkY09WaGs0Zm9wdkp1c25yMDAxcmc2QVlYS3NqTG85NGNwSUNmTm1Kb3Q5WDY3bjcwajFBTnV3TVFoOElNNUtNcml6OFRSUm1wTEg3VjdKS1dIcVl5UFQyenpaekg?oc=5)
+
+---
 
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 

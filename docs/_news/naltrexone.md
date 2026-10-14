@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,9 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
+### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables » - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">obésité</span>
 
@@ -62,11 +62,11 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cU
 
 ---
 
-### [Boissons sucrées, en-cas salés et restauration rapide : il y a désormais plus de jeunes obèses qu’en sous-nutrition dans le monde - Le Figaro](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0s2U1AzWEpWY3dXVTMxTl9kY0xEMFEwUlpJTEExeGN6S2RzYW55ZkQ1VU1HZVhpQVlod3h5YmNzWXpWcTZVU0F2UFZqQzlFY0Q3TklXcWp6cnJ5bVByeWJrdFJPSWdrMFlRTVE2bkgxdjFLZEpvbVB3cGhvb2piME9yeTQ4Z3B2OXF0ZGZVNEFlOHNHSkNnNnhHYjloYldoWnpyMWZTRGZlZHVzM3UtX3NiTFM1aXlleHdwVjZDdEliak5QVGFjSVJYTGlPSFNXWnpfNmJQSmVnTVQ2dm1HWDRPNk9WalpkVkNJbFNGZEd5RnViTnZYOUpNWHg?oc=5)
+### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">MS</span>
+2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
-Source: [Le Figaro](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0s2U1AzWEpWY3dXVTMxTl9kY0xEMFEwUlpJTEExeGN6S2RzYW55ZkQ1VU1HZVhpQVlod3h5YmNzWXpWcTZVU0F2UFZqQzlFY0Q3TklXcWp6cnJ5bVByeWJrdFJPSWdrMFlRTVE2bkgxdjFLZEpvbVB3cGhvb2piME9yeTQ4Z3B2OXF0ZGZVNEFlOHNHSkNnNnhHYjloYldoWnpyMWZTRGZlZHVzM3UtX3NiTFM1aXlleHdwVjZDdEliak5QVGFjSVJYTGlPSFNXWnpfNmJQSmVnTVQ2dm1HWDRPNk9WalpkVkNJbFNGZEd5RnViTnZYOUpNWHg?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ Source: [Le Figaro](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0s2U1A
 2026-10-13 <span class="news-indication-tag">obesidad</span>
 
 Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0tWVElLSmhndzBVb01vdzZNR3J3YWpfLUY2bGZReVA3OF9Pb01YVURScUNvU1lRM3FydmFpNGI1bjl4THJVN01FY2gwWUlTTVZuZDZBMEZLeDJ4VmlpLUpEVjJnOVRHdnBnR1hDUjhXd0lEOGpQVE04WUkzMk5ydDYtUG5LUFUtcEg2cDR0Q3NETDRCM2J2NUh3eWpsYWd5NktxU21XQ3FzcHh0aV9VQdIBtgFBVV95cUxOM1FOTldUSFlUeURuRmhuX1JzSXNGVlVzR2NOeEVreEtpR1k3VXV0d3drUVR3elRObFVIbVViTGxGdEowUl9sXzhyN0RRMkpYYTl3WXJNZER1ZXZDdnFVNE5ObjVfUHJlRDYxRUoyQmJZajctVWZ3Z3BLdFFuMndsRERjX0ZtXzVUZ1cyaS1vREpFbFhtVHNycFFvYzVVYmlHX1Fod1NMeFNVcExEdkpULUJGVGc0QQ?oc=5)
+
+---
+
+### [The Guardian view on cancers in under-50s: the risks of obesity must be confronted | Editorial - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWjRqVlhkYmpBdV8xdEZhNEpMS2YxU3lmMDAzMlY1QTZvUUV0Z1lfcXY0c2tIZ2UxZXFHaXhfblAyTWJmeGZJUEVOU1ZqZW9KSFFRdmFKbHE5cS16Y0JwV0FMdk9lNDFRbUl0NlI3MWtfal9mTi1yZ0FVbHlEd3B0WUJDSVVoWDBrYVYyVUh1TVU4cnNtUTJtYTNvVWpsaVJyMDAzb0RxX2NMb2dkX25Ob2oxSkdycktQMV9BYmlQZE5VVjFjci1fcGN0Z2Z4SWpy?oc=5)
+
+2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">obesity</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWjRqVlhkYmpBdV8xdEZhNEpMS2YxU3lmMDAzMlY1QTZvUUV0Z1lfcXY0c2tIZ2UxZXFHaXhfblAyTWJmeGZJUEVOU1ZqZW9KSFFRdmFKbHE5cS16Y0JwV0FMdk9lNDFRbUl0NlI3MWtfal9mTi1yZ0FVbHlEd3B0WUJDSVVoWDBrYVYyVUh1TVU4cnNtUTJtYTNvVWpsaVJyMDAzb0RxX2NMb2dkX25Ob2oxSkdycktQMV9BYmlQZE5VVjFjci1fcGN0Z2Z4SWpy?oc=5)
 
 ---
 

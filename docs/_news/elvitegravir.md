@@ -14,7 +14,7 @@ permalink: /news/elvitegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Elvitegravir?">
-<strong>Elvitegravir</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Elvitegravir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Elvitegravir with the latest
 <p><a href="{{ '/drugs/elvitegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 2026-10-14 <span class="news-indication-tag">hepatitis</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
-
----
-
-### [Anonyme HIV- und Hepatitis-C-Beratung im Gesundheitsamt Fulda](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Osthessen-Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd19hWXVWT19ybUVhMUdWczJROXpKYjZWOFU2LU5ydWNBM2xBeHRab1hUdmFpVEtrbm9QeFZnejNIS0x4R2thRnduWDZZMWFyb01QUUNFaXl5ZkItNGY3WUViNm1TV1Q5Ml9xUVdrQ3pxVEEtb3JjUnVYaF9rRUJZSlFTM0ZING0yRG9SRXR2aEdLcDZmaXYyeGRFekFLcHlqU3dtQ0Q0bDYyWkptNEVzQy1TU1I3RHA0UERkNG84bjVqaVU?oc=5)
 
 ---
 

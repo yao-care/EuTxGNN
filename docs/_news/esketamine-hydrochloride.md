@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 
 ## Related News (3)
 
+### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
+
+2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
+
+---
+
 ### [Perinatale Depression mit erhöhter Säuglingssterblichkeit assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
 
 2026-10-12 <span class="news-indication-tag">depression</span>
@@ -67,14 +75,6 @@ Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR
 2026-10-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
-
----
-
-### [Gute Laune auf dem Teller: Diese Lebensmittel können deine Stimmung aufhellen - Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
-
-2026-10-11 <span class="news-indication-tag">depression</span>
-
-Source: [Bild der Frau](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFpRUFNwX2dOVTlyRHJqLVRhR3hfUEs2LXZOaGVkR3Q2YTg3TWlQVENOYk9IWWxPd1BOeWFQLUYzSjhNMFFMVmgteDMtQ2swNHg3SG1CU3V6UXhCSnRqX3RRN2U1Z2F2NmxvZnRITUFXWUFWR2V2MWRZT1QyeW9sN1lseWE0SGlpSnpqSzln?oc=5)
 
 ---
 
