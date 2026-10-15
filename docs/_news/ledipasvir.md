@@ -54,14 +54,6 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 
 ## Related News (19)
 
-### [Los casos de ébola en la República Democrática del Congo superan los 9.000 - Democracy Now!](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZ5c2NMVVkxLXp6ZWkwcDVvTHZCOXZnQ3pyaURiOXJ0ZW5sRG5LWFVUUDNkRndVV05XUi1qQ1NJZVVpUFhNeE5FUzN5ZzRqbXNZTklVNnJQU2czaklqdHQyUUY1T0FHZDBub0tSbFVaMTZVdEU2WVY5S2p3dHFOWGRxaEh5Q0tjOGxFanQ1QTFPSGNLcTJPakdGUmNaRmJua2FKOHl2NUxtT2ZzSGFzalpSa1BDZFVlOWc?oc=5)
-
-2026-10-14 <span class="news-indication-tag">MS</span>
-
-Source: [Democracy Now!](https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZ5c2NMVVkxLXp6ZWkwcDVvTHZCOXZnQ3pyaURiOXJ0ZW5sRG5LWFVUUDNkRndVV05XUi1qQ1NJZVVpUFhNeE5FUzN5ZzRqbXNZTklVNnJQU2czaklqdHQyUUY1T0FHZDBub0tSbFVaMTZVdEU2WVY5S2p3dHFOWGRxaEh5Q0tjOGxFanQ1QTFPSGNLcTJPakdGUmNaRmJua2FKOHl2NUxtT2ZzSGFzalpSa1BDZFVlOWc?oc=5)
-
----
-
 ### [Ovarien bleiben nach der Menopause aktiv: Proteomstudie zeigt Umbau und Entzündung - it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGtrWElKLXpLNjJEektXd0xyd0RZcXlIeHJJUzU3VUd3WFJHaFBMTllZY183V0wyMVkybTVLRVU3a3kzd3NNMnlxV0tsR3BYVENRWnpNUW5lR2hCX1Y0dkdUTENIcGxHZnNVRWRTNGZxZThyN0RtUldncDM5Q0ZxNXdkX1VkWTVCNDk1ZU1COU5jZHBTbU5PeHcxZ0Q4RTk4VEV3OVhVUTJDWjFRa0I3cC1OR0s?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MS</span>
@@ -72,25 +64,17 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGtrW
 
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
-2026-10-14 <span class="news-indication-tag">hepatitis</span>
+2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 ---
 
-### [UK’s ‘longest medicine shortage’ leaves 60% without key drug - what can you do? - The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTc0LTdVTklqMnl4clAxODRMNnZFbXg0d0REbkQ4U0NFZjRja09uVzJVai1PYnNrWlhvNERDV1ZaLUNBcXJ0NUlpTGlVclJlU3h2S1JTRHZOLVdELUROakVrcXNfNmowdmF0OWtuS29zcFRGYjhkVDNyakw0MHdHaGRzdTNNTUVZU2gxQXJ3?oc=5)
-
-2026-10-14 <span class="news-drug-tag">Estradiol</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTc0LTdVTklqMnl4clAxODRMNnZFbXg0d0REbkQ4U0NFZjRja09uVzJVai1PYnNrWlhvNERDV1ZaLUNBcXJ0NUlpTGlVclJlU3h2S1JTRHZOLVdELUROakVrcXNfNmowdmF0OWtuS29zcFRGYjhkVDNyakw0MHdHaGRzdTNNTUVZU2gxQXJ3?oc=5)
-
----
-
-### [Le vaccin contre la grippe est désormais à prescription obligatoire : qu’est-ce que ça change ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVFfc01pNzh6RTNKb01LUGM4SGdvWXl0MzJ2a1pvNVNpa3duZjNWeXM4NU5TV1Jzdm5TVF9OQ3J0TnlRSkJVZXp3QkRlUXZHY3g2Njgwa0VBSUNWV3FWU1JUODZ3Y1pqOU5hWWNfYWNYbVZJZ185ektuS1dXSlc4eWFfd09wXzdjRHFXR3FKRGMxWVA0aTEwbFg1TDdVQkVWb3pwajYxSkVhNnBmekhmSzBEaUdSNUVhdGJqV216OU5ndGNoX3NQcWZ5SFVOd1h1bXNzQXc0YWxXSE1XTWstaU1R?oc=5)
+### [El brote de ébola en República Democrática del Congo rebasa los 9.100 casos y deja más de 4.400 fallecidos](https://news.google.com/rss/articles/CBMi3wFBVV95cUxONzVtQkxOVXBHdjV3Um9xNjBTeGRlVFltQk9IUWU2d3dPT1NIRkdMQ1piZ2dkakl3QVNIcUxjY0cxLUJ0VnBOWFpaQldQQW1QbmlxMmhHUUpSMkY4VlFJTDkwcllzRjRFak5vNElTd01LX1U5Sm1BYXV1LUJ6U3FIUlg3dWhhMnJwdUxxQVRQeUcxVHZQZmdpY3VGOWtWSnRWYTFJaTJjZG90SE1feTB1dmsyYzQtY3g3T2JSc2o4SEV0Um5jTmNFYUNnYUJfR2ctaV93YzR0R2ltMzlJRGFv0gHkAUFVX3lxTE94SGtIUFFURXZJTXpkMXUxZWRYRndhMGVwN2VLRGc3SUV2bDNZOWdYczlSOEVPVEdVSFgwd05neHl2aVgzcHRFT1NRbTNTY1dkV2hOVG5LZmlUa0hudTBnRHp0eWZYWUpoU2xOTVl1STZrcERoemNRWloxNkRJeUxCd3BEQXNvZmJfWGlmeWZuZGFDbWhCSUpxSmZDV2ZtT24tOXU0LTYwVUJZNm5STXpDZ0d5UzU2VGE5VVAwVUxmbDg3b1JETndYWVc1TklWUERuS0lfR1FYRGI3a2RSMTAxaEluQg?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MS</span>
 
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVFfc01pNzh6RTNKb01LUGM4SGdvWXl0MzJ2a1pvNVNpa3duZjNWeXM4NU5TV1Jzdm5TVF9OQ3J0TnlRSkJVZXp3QkRlUXZHY3g2Njgwa0VBSUNWV3FWU1JUODZ3Y1pqOU5hWWNfYWNYbVZJZ185ektuS1dXSlc4eWFfd09wXzdjRHFXR3FKRGMxWVA0aTEwbFg1TDdVQkVWb3pwajYxSkVhNnBmekhmSzBEaUdSNUVhdGJqV216OU5ndGNoX3NQcWZ5SFVOd1h1bXNzQXc0YWxXSE1XTWstaU1R?oc=5)
+Source: [Demócrata](https://news.google.com/rss/articles/CBMi3wFBVV95cUxONzVtQkxOVXBHdjV3Um9xNjBTeGRlVFltQk9IUWU2d3dPT1NIRkdMQ1piZ2dkakl3QVNIcUxjY0cxLUJ0VnBOWFpaQldQQW1QbmlxMmhHUUpSMkY4VlFJTDkwcllzRjRFak5vNElTd01LX1U5Sm1BYXV1LUJ6U3FIUlg3dWhhMnJwdUxxQVRQeUcxVHZQZmdpY3VGOWtWSnRWYTFJaTJjZG90SE1feTB1dmsyYzQtY3g3T2JSc2o4SEV0Um5jTmNFYUNnYUJfR2ctaV93YzR0R2ltMzlJRGFv0gHkAUFVX3lxTE94SGtIUFFURXZJTXpkMXUxZWRYRndhMGVwN2VLRGc3SUV2bDNZOWdYczlSOEVPVEdVSFgwd05neHl2aVgzcHRFT1NRbTNTY1dkV2hOVG5LZmlUa0hudTBnRHp0eWZYWUpoU2xOTVl1STZrcERoemNRWloxNkRJeUxCd3BEQXNvZmJfWGlmeWZuZGFDbWhCSUpxSmZDV2ZtT24tOXU0LTYwVUJZNm5STXpDZ0d5UzU2VGE5VVAwVUxmbDg3b1JETndYWVc1TklWUERuS0lfR1FYRGI3a2RSMTAxaEluQg?oc=5)
 
 ---
 
@@ -115,14 +99,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxNMz
 2026-10-13 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkNjc1VDSC03X0c0MzZyUm9XQjZZN09QZi1oT2ZOSHZ2U3J4VVFmcVFxUllhN0IzbVBiZnFuQy1haUlMcnd2R3hQMTJOcHBKeWh2bTBPYTZpY2pkTWlzU3hmc0tNdk5wMS04azZtVzFQZjh6bEx6bU1tYTBibkZ1OTM5SFJ1VGVFUjUxR250T3lVX3puWmc0MmpRZi1mTVhOeDhQWGs5SGZYbndaTnRvcNIBtgFBVV95cUxNWFJiSi1ybDlmb2RZQzVEMjRSNHJMZnpFd2JIVnpBdkxhcHZKejhXd1hhVU01TE9JVTBMR2tibkhIbUZZTGJLX0dJVE14a2FYMW1WSVB3U0pUWmZzNjNYYkJHdVBkc2FmNFJpb0Y5TUEtVEtWMWRCR1ZzaGZvZkRTRk8yN2VaQnBxZ0tKM0pFVWxvLWZHMFczQnJOcVNua0VEdUlSOWhtYWZyTC1JRmlQNnJxTTVpUQ?oc=5)
-
----
-
-### [Papillomavirus : l'OMS envisage la vaccination dès 4 à 8 ans - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1wMERlQUxtT0ZSelJDVDFFTUZzbDgyZ19BZkR0MnRwMmFZWlNKQWdPNWFhN0tLb3R6UnlYZWpuZzBVZnBiV0hxMUhDSmJvODBtYnprMGZNUHBlcUY1QWVaRDgxSDhjQXVKUzA1bjRiTkdhZHhFb2haOUp5N1M1d3o3Nm1XQWcxNHhVRnpfRk9DX1I3Mk5COUZXQThiaUd6Y3pUNlVWaHZwWTFXWVVaUQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">MS</span>
-
-Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSE1wMERlQUxtT0ZSelJDVDFFTUZzbDgyZ19BZkR0MnRwMmFZWlNKQWdPNWFhN0tLb3R6UnlYZWpuZzBVZnBiV0hxMUhDSmJvODBtYnprMGZNUHBlcUY1QWVaRDgxSDhjQXVKUzA1bjRiTkdhZHhFb2haOUp5N1M1d3o3Nm1XQWcxNHhVRnpfRk9DX1I3Mk5COUZXQThiaUd6Y3pUNlVWaHZwWTFXWVVaUQ?oc=5)
 
 ---
 
@@ -174,6 +150,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRElt
 
 ---
 
+### [„Viel früher als gedacht“: Neue Erkenntnisse zur Menopause dank bislang größter Studie](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaU5fU2V0QjlfTXRTQ2lZYjVfbmlNcWxObW95TTM5b2lVTGRnWXlKcGZDeUhuYWh2MlBNR1RHdkowSUNNQTZUbXkydFQtZnZUU2E0STRiZ3dKSmtIRWFqSVhrYnZjd0ZFR1RKMTlTUXQzRUF0Yll1S2hDNUFQbkIzX1JBMmotVENDSVpBQVlabXdMNVBsX3JBTHNDMmVEUWgxN29FOU4zNE9EelBlX0h5QTY0dHZ3X3ktTGYtcEs3Q3hXUkpITUVhNkhNLWdpUQ?oc=5)
+
+2026-10-12 <span class="news-indication-tag">MS</span>
+
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMizgFBVV95cUxQaU5fU2V0QjlfTXRTQ2lZYjVfbmlNcWxObW95TTM5b2lVTGRnWXlKcGZDeUhuYWh2MlBNR1RHdkowSUNNQTZUbXkydFQtZnZUU2E0STRiZ3dKSmtIRWFqSVhrYnZjd0ZFR1RKMTlTUXQzRUF0Yll1S2hDNUFQbkIzX1JBMmotVENDSVpBQVlabXdMNVBsX3JBTHNDMmVEUWgxN29FOU4zNE9EelBlX0h5QTY0dHZ3X3ktTGYtcEs3Q3hXUkpITUVhNkhNLWdpUQ?oc=5)
+
+---
+
 ### [The Victorian illnesses making UK comeback- including 'nightmare' disease - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUV0TGs4SC1yYnhQcHZlWmIyQmRWVlBTNHpNQmpfUnpQQnpKaVZBa2pGZ3oxQjFOTVB4ZWZia2lqa2dGZ1ZnVWFfcEUwbnJSVG9QZmVVYW9tdkhReGpDWnIycjBmVEhKR3FQbk45OExkOVJuSzNudmdWUFBEdHJkMkRLdERZVUtPWmc?oc=5)
 
 2026-10-12 <span class="news-indication-tag">MS</span>
@@ -195,6 +179,22 @@ Source: [Wales Online](https://news.google.com/rss/articles/CBMihgFBVV95cUxQM3gy
 2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
+
+---
+
+### [Sexually transmitted diarrhea cases soaring in US — and its growing resistant to medicine - The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGdwdGxCU2RkbXRYYlFzMlZJU1FESm4wVVYxQ21yckJGTzItbHJQb0hQRnZoV2ZaZkJFSVRiTk5QWU4wUjlUWUpGZTJLblFQS1dFT00tbXlIZHluZnRJeVNveUhLVjlLd1FnZTFhTVg3S0NlTlNCLUlneTZHMzQyNC1jTzQ4ZTMwMEJyRURmRTliOWk1eFM5VE1wY3hFNklpWUktUXJpMFMxdjh1T0Fv?oc=5)
+
+2026-10-09 <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGdwdGxCU2RkbXRYYlFzMlZJU1FESm4wVVYxQ21yckJGTzItbHJQb0hQRnZoV2ZaZkJFSVRiTk5QWU4wUjlUWUpGZTJLblFQS1dFT00tbXlIZHluZnRJeVNveUhLVjlLd1FnZTFhTVg3S0NlTlNCLUlneTZHMzQyNC1jTzQ4ZTMwMEJyRURmRTliOWk1eFM5VE1wY3hFNklpWUktUXJpMFMxdjh1T0Fv?oc=5)
+
+---
+
+### [What is XFG Covid strain? Symptoms to look out for as UK cases grow - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
+
+2026-10-09 <span class="news-indication-tag">MS</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk1EYmlOdWhtQ1h1YTVZdmU5MGFmaGp5b2t0Rng5Y0U0eEkxWERkdFpES1Z3SllVczN2MnJqQ3RGYVliNkYwZHltcTJfQ2tGRGQtNXEwdkdlN29VSTk5Wnp6OWhuMDRhOFk0ampBUmdwQmozVjdJcTkzUHFiMlA2ekxoWGYtV1Q2RkhuelljMUM5eDR2dWExLWpFTlo2eDJna2VpWQ?oc=5)
 
 ---
 

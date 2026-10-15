@@ -3,7 +3,7 @@ layout: default
 title: "Emtricitabine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Emtricitabine. Original indication: Treatment of adults and adolescents (aged 12 years.... 20 predicted indications."
+description: "Health news related to Emtricitabine. Original indication: Treatment of adults and adolescents (aged 12 years.... 10 predicted indications."
 permalink: /news/emtricitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Emtricitabine?">
-<strong>Emtricitabine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Emtricitabine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,17 @@ This page combines the AI-predicted indications for Emtricitabine with the lates
 <ul>
 <li><strong>Original indication</strong>: Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>HIV infectious disease (100.0%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
-<li>obsolete familial combined hyperlipidemia (98.2%)</li>
-<li>AIDS (97.1%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Feline acquired immunodeficiency syndrome (99.9%)</li>
+<li>Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li>Obsolete familial combined hyperlipidemia (98.2%)</li>
 <li>AIDS related complex (93.5%)</li>
-<li>congenital human immunodeficiency virus (93.5%)</li>
-<li>chronic hepatitis C virus infection (85.9%)</li>
+<li>Congenital human immunodeficiency virus (93.5%)</li>
+<li>simian immunodeficiency virus infection (99.9%)</li>
 <li>fibroma of prostate (81.4%)</li>
 <li>Brenner tumor (80.5%)</li>
 <li>benign reproductive system neoplasm (80.2%)</li>
 <li>benign prostate phyllodes tumor (78.5%)</li>
-<li>homozygous familial hypercholesterolemia (76.7%)</li>
-<li>hepatitis B virus infection (76.5%)</li>
-<li>breast fibrocystic disease (75.5%)</li>
-<li>male reproductive organ cancer (75.0%)</li>
-<li>apocrine adenosis of breast (74.2%)</li>
-<li>blunt duct adenosis of breast (74.2%)</li>
-<li>hypercholesterolemia, autosomal dominant (71.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/emtricitabine/' | relative_url }}">View full drug report →</a></p>
@@ -56,7 +46,7 @@ This page combines the AI-predicted indications for Emtricitabine with the lates
 
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
-2026-10-14 <span class="news-indication-tag">hepatitis</span>
+2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 

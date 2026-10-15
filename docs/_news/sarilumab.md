@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
 
@@ -78,11 +78,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRX
 
 ---
 
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxP
 2026-10-12 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
-
----
-
-### [« Près de 40 % des cancers pourraient être évités » : les gestes anti-cancer du Pr Khayat](https://news.google.com/rss/articles/CBMixAFBVV95cUxOazBZb2QxbXBlUkRYanAxRTJTR2JoLTFMSllLMUVLTlZBTGpkX2haOWpScmlhTmRDRWVxd0xKUGdmVlhkN1BJWW5kTmtucHpJMlJzWF9HMUZiM2N5X19ZX1ZEYVowcWV5dXdIX3BUQmNYakExLWczaDQzblNwaDJlWHNfdlVNdVNVN0hpcUdzb2tNVERZOTdJOW50Y3l1T0J2OXV0Q3FaVWFabFZDTGx3aHFSVXFEY2tzZDI5ZVRTdy11TkEx?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">EPOC</span>
-
-Source: [parismatch.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOazBZb2QxbXBlUkRYanAxRTJTR2JoLTFMSllLMUVLTlZBTGpkX2haOWpScmlhTmRDRWVxd0xKUGdmVlhkN1BJWW5kTmtucHpJMlJzWF9HMUZiM2N5X19ZX1ZEYVowcWV5dXdIX3BUQmNYakExLWczaDQzblNwaDJlWHNfdlVNdVNVN0hpcUdzb2tNVERZOTdJOW50Y3l1T0J2OXV0Q3FaVWFabFZDTGx3aHFSVXFEY2tzZDI5ZVRTdy11TkEx?oc=5)
 
 ---
 

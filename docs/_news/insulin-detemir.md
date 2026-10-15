@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Detemir?">
-<strong>Insulin Detemir</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Detemir</strong> currently has <strong>12 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Insulin Detemir with the lat
 <p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [Typ-2-Diabetes: Wenn das individuelle Therapieziel noch nicht erreicht ist – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FMSy03Z3ZqcVlPZk01b2ZtM0h3RVV4eGZvTFhQaDVHcnozcThpcGJSVURVOUVXTEZLMjdQLXV5WHdpbERwZGJoMUI4NFhTRTdYTG9ldm9la3l0blJ1aWNIa29yUl9BLXd1a19sMmNSNjJ5OFJrZ1dHYWl1dFpFQXZOQlVGY1lTYXdLQVYzdGxUbjZKdXBWQmdnYTRHbEkyRGg1X2VCbkEwN2x3NVNHNW9Xd2QwMnlWNWlSMHBlV2NNRzF6VXlQX3BULTAzenJoQ3F0NmtUNW42QQ?oc=5)
 
@@ -40,11 +40,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 
 ---
 
-### [Demenz vorbeugen: Was Ihr Gehirn wirklich schützt](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSC1yN2w5VHU0eHNyOUQ2WGFteEtycGtRQ0hhZEs4Z1ljNjdTcWRoZkhZV0dENGIwZ0wwMGZoS2tVT255MXY5bllrQ3ZMRHlITUlBREw0TGJDbnZ0Y1NjZnoyS21odU1jYVFFUXhqVzB2OHgtNlNHMEpCN1RRdWVEZlROM3licVg5bk9kcTNXOWJLQk5uTjNaQi1SdHZVVF9qZ0tiMFhfVHk5UHByWm0tdllZVElPQQ?oc=5)
+### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
 
 2026-10-14 <span class="news-indication-tag">diabetes</span>
 
-Source: [BILD](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSC1yN2w5VHU0eHNyOUQ2WGFteEtycGtRQ0hhZEs4Z1ljNjdTcWRoZkhZV0dENGIwZ0wwMGZoS2tVT255MXY5bllrQ3ZMRHlITUlBREw0TGJDbnZ0Y1NjZnoyS21odU1jYVFFUXhqVzB2OHgtNlNHMEpCN1RRdWVEZlROM3licVg5bk9kcTNXOWJLQk5uTjNaQi1SdHZVVF9qZ0tiMFhfVHk5UHByWm0tdllZVElPQQ?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
 
 ---
 
@@ -53,6 +53,14 @@ Source: [BILD](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSC1yN2w5VHU0
 2026-10-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcHpjeDhqOU5zOHFybnhPQm16NzA2aTd4SFFnbEpqSUcwNlRNakltRjloRHRTNzZlSllXT1IxNDI4S0l2SkZIeVRxY2cya2F6UjlUZHFfSGJjZ3JJTEVIZXBFRTNvWHF4bElpS2FGamZtQ0VZaUgtVXA3Z01FMUJNTGxBYzd1dWppOWNob25iYXUxVnVpZHBvSW92Ul9ySk9VTjVNQTBGS3lrdHhNN3RjNXRMaXRReldxeWFOUVBtQ3FCQXl4Q3JpWHN5cjRXLXJ3MTNXM2diNnJWZnlQRHA1SHNyNUxGV0prSnFIVV9hT3RRZjNqUy05Tg?oc=5)
+
+---
+
+### [Santé : la communauté médicale reconnaît officiellement un nouveau type de diabète, différent des types 1 et 2](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0stQ0ZsSUVpV3ZNX3RfbkVHZFpnTHB1SXBGVFZETDZrcUdEbzd6Q3Fvb3pqUUoyX2hLblJVS1JnQTNJMnVvR1RfbldmTlhxZ3BzWWQ5ODU2aEhBNWE5aWZRdTAyZVV0WDFTZ3hJUnBicFQyQm5GSEk3Rk00czlISVRrSGRwYVo3UjQ2UHY1SHh6OHJGNFh2WWEwS2hwVVVUOUVlMFhhYXJWVGlQQmg0ZklqREhaT1ozb29XYXNXUQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabète</span>
+
+Source: [Presse-citron](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0stQ0ZsSUVpV3ZNX3RfbkVHZFpnTHB1SXBGVFZETDZrcUdEbzd6Q3Fvb3pqUUoyX2hLblJVS1JnQTNJMnVvR1RfbldmTlhxZ3BzWWQ5ODU2aEhBNWE5aWZRdTAyZVV0WDFTZ3hJUnBicFQyQm5GSEk3Rk00czlISVRrSGRwYVo3UjQ2UHY1SHh6OHJGNFh2WWEwS2hwVVVUOUVlMFhhYXJWVGlQQmg0ZklqREhaT1ozb29XYXNXUQ?oc=5)
 
 ---
 
@@ -112,11 +120,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8t
 
 ---
 
-### [Diabetes: Diese Medikamente sollen früher verordnet werden](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
+### [Direktvergleich: Metformin oder SGLT2-Hemmer bei frühem Typ-2-Diabetes?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
 
 2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDFvZzhrREVGX1dhbmNfM1FhcmtzcG9kLXZEOERIOXBQT1VPU3lZUDZtV0s3WTB6UzJXcm5YZnRpY1BuUi0wQTRXTmIwWjlBRXFORUNnUVdUcjJ5OGV1bzdHT3lLWGphSjRTa24zT25OUkIyY2NkYnFzRWZ3NXZCQUw0Y21qcWt1c0tpVG90M1dUX2k4d2x1aUo0MFlGTkhaTFUzTlFEenBaNkE?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
 
 ---
 

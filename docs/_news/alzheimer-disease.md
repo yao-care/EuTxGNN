@@ -46,17 +46,17 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (3)
 
-### [Give breakthrough Alzheimer’s drugs on NHS, dementia experts say - The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
+### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
 
 2026-10-13
 
-Source: [The Times](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnZrUjg0ei1kV0p4cWJvX2lGS1lPRHhxeEk1NGswalJxNUpLZ1RVODVCMHVkVERKaENaeXlXMC13ckhtaE9SVXl4by12Y1pBa01BcmFDbXhneFBvXzI3ck9lX2tHZlJTSjEyTmFfVERwbzFfNHVnLXQ2UXJFaFl6OXl4R2lELUtWTW9mQW1PNkc2U2hCYlNRWHFBdTZlYWs1aHhSckV0UE44YlhiTkN3bExfaTB4R1V5akFz?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
 
 ---
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
-2026-10-12
+2026-10-11
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 

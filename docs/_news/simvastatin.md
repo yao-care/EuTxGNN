@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ### [Schlaganfall: Ein Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 
-2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-15 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 

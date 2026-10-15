@@ -3,7 +3,7 @@ layout: default
 title: "Artenimol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Artenimol. Original indication: Eurartesim is indicated for the treatment of uncom.... 20 predicted indications."
+description: "Health news related to Artenimol. Original indication: Eurartesim is indicated for the treatment of uncom.... 10 predicted indications."
 permalink: /news/artenimol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/artenimol/
 ---
 
 <p class="key-answer" data-question="What news is there about Artenimol?">
-<strong>Artenimol</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Artenimol</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,7 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <ul>
 <li><strong>Original indication</strong>: Eurartesim is indicated for the treatment of uncomplicated Plasmodium falciparum malaria in adults, children and infants 6 months and over and weighing 5 kg or more. Consideration should be given to...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>malaria (99.9%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
 <li>Smouldering systemic mastocytosis (98.7%)</li>
 <li>lymphoadenopathic mastocytosis with eosinophilia (98.4%)</li>
 <li>systemic mastocytosis (98.3%)</li>
@@ -38,15 +37,6 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <li>juvenile idiopathic arthritis (96.6%)</li>
 <li>West syndrome (96.3%)</li>
 <li>intellectual disability, X-linked, with or without seizures, arx-related (95.9%)</li>
-<li>echinococcus granulosus infectious disease (94.3%)</li>
-<li>alveolar echinococcosis (93.2%)</li>
-<li>gastrin secretion abnormality (93.0%)</li>
-<li>cystic echinococcosis (93.0%)</li>
-<li>enterobiasis (92.4%)</li>
-<li>pseudoachondroplasia (92.1%)</li>
-<li>juvenile arthritis due to defect in LACC1 (92.0%)</li>
-<li>acne (disease) (91.0%)</li>
-<li>monosomy X (90.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>
@@ -54,11 +44,11 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 
 ## Related News (2)
 
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 ---
 

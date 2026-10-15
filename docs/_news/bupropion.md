@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Bupropion</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,19 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Dalla cultura del cibo fino agli stili di vita: al via l'Obesity week -Il programma - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
+
+2026-10-14 <span class="news-indication-tag">obesity</span>
+
+Source: [Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
+
+---
 
 ### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables » - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">obésité</span>
+2026-10-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Linaclotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Linaclotide. Original indication: Constella is indicated for the symptomatic treatme.... 20 predicted indications."
+description: "Health news related to Linaclotide. Original indication: Constella is indicated for the symptomatic treatme.... 10 predicted indications."
 permalink: /news/linaclotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/linaclotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Linaclotide?">
-<strong>Linaclotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Linaclotide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,10 @@ This page combines the AI-predicted indications for Linaclotide with the latest 
 <ul>
 <li><strong>Original indication</strong>: Constella is indicated for the symptomatic treatment of moderate to severe irritable-bowel syndrome with constipation (IBS-C) in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
 <li>cauda equina syndrome (100.0%)</li>
-<li>irritable bowel syndrome (99.9%)</li>
 <li>obsolete neurogenic bladder (disease) (99.9%)</li>
 <li>insomnia (disease) (99.5%)</li>
-<li>neurocirculatory asthenia (99.2%)</li>
 <li>autonomic nervous system disease (98.8%)</li>
 <li>familial mitral valve prolapse (97.8%)</li>
 <li>mitral valve prolapse (disease) (97.5%)</li>
@@ -39,14 +37,6 @@ This page combines the AI-predicted indications for Linaclotide with the latest 
 <li>gastroduodenitis (96.5%)</li>
 <li>large intestine disease (95.1%)</li>
 <li>rhinitis (94.7%)</li>
-<li>small intestine disease (94.5%)</li>
-<li>peptic ulcer disease (94.0%)</li>
-<li>dysautonomia (94.0%)</li>
-<li>gastroenteritis (92.9%)</li>
-<li>active vestibular Meniere disease (89.8%)</li>
-<li>active cochlear Meniere disease (89.8%)</li>
-<li>active cochleovestibular Meniere disease (89.8%)</li>
-<li>vertigo, benign recurrent, 2 (89.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/linaclotide/' | relative_url }}">View full drug report →</a></p>

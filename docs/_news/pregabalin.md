@@ -3,7 +3,7 @@ layout: default
 title: "Pregabalin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pregabalin. Original indication: Epilepsy  Pregabalin Accord is indicated as adjunc.... 20 predicted indications."
+description: "Health news related to Pregabalin. Original indication: Epilepsy  Pregabalin Accord is indicated as adjunc.... 10 predicted indications."
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,47 +26,29 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <ul>
 <li><strong>Original indication</strong>: Epilepsy  Pregabalin Accord is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.  Generalised Anxiety Disorder  Pregabalin Accord is indicated...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Osteoarthritis (98.6%)</li>
+<li>Headache disorder (97.6%)</li>
+<li>Migraine disorder (99.5%)</li>
+<li>Migraine with brainstem aura (99.4%)</li>
+<li>Inclusion body myositis (99.5%)</li>
 <li>tendinitis (99.7%)</li>
 <li>idiopathic granulomatous myositis (99.7%)</li>
 <li>myositis fibrosa (99.7%)</li>
-<li>fibromyalgia (99.7%)</li>
-<li>inclusion body myositis (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
 <li>osteoarthritis susceptibility (98.7%)</li>
-<li>myofascial pain syndrome (98.6%)</li>
-<li>osteoarthritis (98.6%)</li>
-<li>headache disorder (97.6%)</li>
 <li>atrophoderma vermiculata (97.6%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.3%)</li>
-<li>brachyolmia (97.3%)</li>
-<li>pseudoachondroplasia (97.1%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (97.0%)</li>
-<li>ulerythema ophryogenesis (97.0%)</li>
-<li>myosclerosis (96.7%)</li>
-<li>migraine with or without aura, susceptibility to (96.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### ["I thought it was a migraine": Exeter student warns after collapsing with meningitis - Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
-
-2026-10-13 <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [Devon Live](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjlVV0diM09vbmxuYUMzZkx0SHdVZjVsZ2lCM1IxNGpPZUJhUjBsa3dOeU9aOFByTEhuUkRqRXVDUW94c251T0dQcmFMVjI0a080UWkwOVRRQmx0dnZkcERsWFE3RTZsTFpWSkFVcU9sSVMzWEh0Mkc3eHB4ZGtzODEzeUNUd09rT2dUVA?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,27 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [Schlaganfall: Ein Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 
-2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-15 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
 
 ---
 
+### [Dalla cultura del cibo fino agli stili di vita: al via l'Obesity week -Il programma - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
+
+2026-10-14 <span class="news-indication-tag">obesity</span>
+
+Source: [Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
+
+---
+
 ### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables » - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">obésité</span>
+2026-10-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Artesunate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Artesunate. Original indication: Artesunate Amivas is indicated for the initial tre.... 20 predicted indications."
+description: "Health news related to Artesunate. Original indication: Artesunate Amivas is indicated for the initial tre.... 10 predicted indications."
 permalink: /news/artesunate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/artesunate/
 ---
 
 <p class="key-answer" data-question="What news is there about Artesunate?">
-<strong>Artesunate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Artesunate</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,7 @@ This page combines the AI-predicted indications for Artesunate with the latest h
 <ul>
 <li><strong>Original indication</strong>: Artesunate Amivas is indicated for the initial treatment of severe malaria in adults and children. Consideration should be given to official guidance on the appropriate use of antimalarial agents.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>malaria (85.7%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
 <li>acne (disease) (79.2%)</li>
 <li>Smouldering systemic mastocytosis (79.2%)</li>
 <li>lymphoadenopathic mastocytosis with eosinophilia (77.3%)</li>
@@ -38,15 +37,6 @@ This page combines the AI-predicted indications for Artesunate with the latest h
 <li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (59.7%)</li>
 <li>Wiskott-Aldrich syndrome 2 (59.4%)</li>
 <li>alacrima, achalasia, and intellectual disability syndrome (59.3%)</li>
-<li>GATA1-Related X-Linked Cytopenia (57.1%)</li>
-<li>inherited Fanconi renotubular syndrome (57.0%)</li>
-<li>acquired hypertrichosis lanuginosa (57.0%)</li>
-<li>ABetaL34V amyloidosis (56.9%)</li>
-<li>Ramon syndrome (56.9%)</li>
-<li>thiopurine immunosuppressant-induced pancreatitis (56.7%)</li>
-<li>Coronavinae infectious disease (56.5%)</li>
-<li>familial Mediterranean fever, autosomal dominant (56.3%)</li>
-<li>Zollinger-Ellison syndrome (56.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artesunate/' | relative_url }}">View full drug report →</a></p>
@@ -54,11 +44,11 @@ This page combines the AI-predicted indications for Artesunate with the latest h
 
 ## Related News (2)
 
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "hypertension News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hypertension. 1 articles, 55 related drugs."
+description: "Health news about hypertension. 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about hypertension?">
-<strong>hypertension</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
+<strong>hypertension</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -83,13 +83,21 @@ This page brings together the latest health news about “hypertension” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [JNMG 2026 – Bilan lipidique : au-delà du LDL-c](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables » - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
 
-2026-10-13
+2026-10-14
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0RPZFI5eHVtYWNKY2RnVnYxaFNDNzBKV1o2VkdaU1RxUW1YVzdLREE0WkFkdmZKcU5wd2lpdVVHMFBLWW41ZklYWkhqTEs1N1NPVmE1QnNNNXpyWTdPcmhoYkp0aWotMGd3OEVGZ3JVeXVPXzd1NFhmRExjdnpPSXFpTWlIT1lEdkY3akluZkhhV1lSQWJoYk84bko?oc=5)
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
+
+---
+
+### [« Ni une maladie, ni un poison »… Le cholestérol, une préoccupation majeure et un traitement toujours controversé - Sud Ouest](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2ppQl9VVjlBNUJVN3g0c1VDUWFqTExlUDkzSHJVcWZZZmpLM2NKZW0yOHJValpuUkR5QnJPZ251MkxWeDBUSTJaNFIweFN6eER4SFo5WVNtZnZIMDVaNk9kc3o0cTlHUDR5eXR6VGlvUW1wZ25yd3pCUGN2RDg0M2R5bWdNNVBScHAwMEl4TFJZYkJqVXMtelhrMHdCOHR3RGE3eTNhbnp4QVhOUVcwaFdVcnVZLXcxdGRZT3BjdXJzOGVLNW1oQlVOR2FCY3plTUZjbVpUcERSNXBia1hqQzVkYw?oc=5)
+
+2026-10-10
+
+Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2ppQl9VVjlBNUJVN3g0c1VDUWFqTExlUDkzSHJVcWZZZmpLM2NKZW0yOHJValpuUkR5QnJPZ251MkxWeDBUSTJaNFIweFN6eER4SFo5WVNtZnZIMDVaNk9kc3o0cTlHUDR5eXR6VGlvUW1wZ25yd3pCUGN2RDg0M2R5bWdNNVBScHAwMEl4TFJZYkJqVXMtelhrMHdCOHR3RGE3eTNhbnp4QVhOUVcwaFdVcnVZLXcxdGRZT3BjdXJzOGVLNW1oQlVOR2FCY3plTUZjbVpUcERSNXBia1hqQzVkYw?oc=5)
 
 ---
 
