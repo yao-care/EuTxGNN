@@ -14,7 +14,7 @@ permalink: /news/acetylsalicylic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetylsalicylic Acid?">
-<strong>Acetylsalicylic Acid</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Acetylsalicylic Acid</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Acetylsalicylic Acid with th
 <p><a href="{{ '/drugs/acetylsalicylic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Mediterrane Ernährung und chronische Migräne: Zusammenhang beobachtet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">Migräne</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+---
 
 ### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 

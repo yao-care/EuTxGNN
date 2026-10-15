@@ -3,7 +3,7 @@ layout: default
 title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 8 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 10 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diabetes-mellitus/
 ---
 
 <p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>10 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -114,7 +114,7 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
 
 ### [Uno de cada tres pacientes de diabetes tipo 2 tratados con insulina basal no alcanza adherencia adecuada, según estudio](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
 
@@ -124,11 +124,27 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXB
 
 ---
 
+### [Non sono i fritti il vero pericolo per il fegato: l'ingrediente insospettabile che lo sta riempiendo di grasso ogni giorno](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+
+2026-10-15
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+
+---
+
 ### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
 
 2026-10-15
 
 Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+---
+
+### [Ozempic and Wegovy linked to rare risk of sudden vision loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
+
+2026-10-15
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
 
 ---
 

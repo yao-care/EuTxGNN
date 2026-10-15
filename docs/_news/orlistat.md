@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,11 +52,11 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (6)
 
 ### [José Abellán, doctor: “El estrés crónico es un factor de riesgo cardiovascular como el colesterol, la tensión - Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
 
-2026-10-15 <span class="news-indication-tag">ictus</span>
+2026-10-15 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 Source: [Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
 
@@ -99,38 +99,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblRK
 2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
-
----
-
-### [Crece el cáncer de colon en América Latina: ¿existe un vínculo con la obesidad?](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0tWVElLSmhndzBVb01vdzZNR3J3YWpfLUY2bGZReVA3OF9Pb01YVURScUNvU1lRM3FydmFpNGI1bjl4THJVN01FY2gwWUlTTVZuZDZBMEZLeDJ4VmlpLUpEVjJnOVRHdnBnR1hDUjhXd0lEOGpQVE04WUkzMk5ydDYtUG5LUFUtcEg2cDR0Q3NETDRCM2J2NUh3eWpsYWd5NktxU21XQ3FzcHh0aV9VQdIBtgFBVV95cUxOM1FOTldUSFlUeURuRmhuX1JzSXNGVlVzR2NOeEVreEtpR1k3VXV0d3drUVR3elRObFVIbVViTGxGdEowUl9sXzhyN0RRMkpYYTl3WXJNZER1ZXZDdnFVNE5ObjVfUHJlRDYxRUoyQmJZajctVWZ3Z3BLdFFuMndsRERjX0ZtXzVUZ1cyaS1vREpFbFhtVHNycFFvYzVVYmlHX1Fod1NMeFNVcExEdkpULUJGVGc0QQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">obesidad</span>
-
-Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0tWVElLSmhndzBVb01vdzZNR3J3YWpfLUY2bGZReVA3OF9Pb01YVURScUNvU1lRM3FydmFpNGI1bjl4THJVN01FY2gwWUlTTVZuZDZBMEZLeDJ4VmlpLUpEVjJnOVRHdnBnR1hDUjhXd0lEOGpQVE04WUkzMk5ydDYtUG5LUFUtcEg2cDR0Q3NETDRCM2J2NUh3eWpsYWd5NktxU21XQ3FzcHh0aV9VQdIBtgFBVV95cUxOM1FOTldUSFlUeURuRmhuX1JzSXNGVlVzR2NOeEVreEtpR1k3VXV0d3drUVR3elRObFVIbVViTGxGdEowUl9sXzhyN0RRMkpYYTl3WXJNZER1ZXZDdnFVNE5ObjVfUHJlRDYxRUoyQmJZajctVWZ3Z3BLdFFuMndsRERjX0ZtXzVUZ1cyaS1vREpFbFhtVHNycFFvYzVVYmlHX1Fod1NMeFNVcExEdkpULUJGVGc0QQ?oc=5)
-
----
-
-### [La obesidad, más allá del peso: un nuevo abordaje basado en la remodelación metabólica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
-
-2026-10-13 <span class="news-indication-tag">obesidad</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
----
-
-### [Guerra nucleare e intelligenza artificiale possono cancellare l'umanità: le 17 minacce del secolo secondo Lancet - Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQanV2R0xIYmFPdGw2T3h3LUoxcHlYdEtFa1ZHNzhBcTFMSWpVdVpoX2N0QlpCLW15UUp5NFQ2d1JGcE9WdmFtclhoRU5WMzEzRHhHWklBLW90YzJBeW9STU9NTWdDcWFDYVZLdDhPUXNadk5idUpNcWFjLXlsVExuc1dJMzJ2WDdZU01XMmlodjVxN01GcG9QOU10Y3BHeUhiSXdLWjVvYmV2QThON0xyY1Atbi0zZHloaEdBNTZPX2Y4d293anN3NFJNVFN1ckZZd1Y1YUFQeFRVUFNZc0g3NTNsV2dmcVhLNEs4UXJzTlNmaFAyTm8tUURLMkNydjBVekl6dk1GRDloVXpUMGNpbnZ0NWJBYWdpN2RQSXF5NTVNc05kWmxoWUVfNNIBsAJBVV95cUxNRVQ5dk9lQW1ldUt6XzVkQnYyTmhEc0wyOG5waTZhbHZzTmYzaV9GcVRpZ05GeEs3U3BqMTNwY2VDZXFlVjIwY3JIaW85bWhuV1cxZWczYU41WEc4c18yZkZ4N3ZXZUJkU2k0MHNDanNNaVhSSEZld2NkaGtheTJ6b0ZxTGVFYmVMLWhRZ0JVWS1rejdjN1Z5cENPZnZab2JmZmhoMHFoZFJmUmQtc2JDTU9LQW1GVTlqTFU3YVRQVEhwTGRVenJybzY2QVcxM1JhOVdYWEJ3RTRjYUd0SjV2ZkJTLUxESTNtM284VlhSbEw0aUtDTTZpdzFsb3M1Y25JcndVeDg3R0hEQ29WckJyLXJSbW9qMUswbjRCZ2pGaDlONElDeDRHc281VVJJWl9I?oc=5)
-
-2026-10-12 <span class="news-indication-tag">obesità</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMiqwJBVV95cUxQanV2R0xIYmFPdGw2T3h3LUoxcHlYdEtFa1ZHNzhBcTFMSWpVdVpoX2N0QlpCLW15UUp5NFQ2d1JGcE9WdmFtclhoRU5WMzEzRHhHWklBLW90YzJBeW9STU9NTWdDcWFDYVZLdDhPUXNadk5idUpNcWFjLXlsVExuc1dJMzJ2WDdZU01XMmlodjVxN01GcG9QOU10Y3BHeUhiSXdLWjVvYmV2QThON0xyY1Atbi0zZHloaEdBNTZPX2Y4d293anN3NFJNVFN1ckZZd1Y1YUFQeFRVUFNZc0g3NTNsV2dmcVhLNEs4UXJzTlNmaFAyTm8tUURLMkNydjBVekl6dk1GRDloVXpUMGNpbnZ0NWJBYWdpN2RQSXF5NTVNc05kWmxoWUVfNNIBsAJBVV95cUxNRVQ5dk9lQW1ldUt6XzVkQnYyTmhEc0wyOG5waTZhbHZzTmYzaV9GcVRpZ05GeEs3U3BqMTNwY2VDZXFlVjIwY3JIaW85bWhuV1cxZWczYU41WEc4c18yZkZ4N3ZXZUJkU2k0MHNDanNNaVhSSEZld2NkaGtheTJ6b0ZxTGVFYmVMLWhRZ0JVWS1rejdjN1Z5cENPZnZab2JmZmhoMHFoZFJmUmQtc2JDTU9LQW1GVTlqTFU3YVRQVEhwTGRVenJybzY2QVcxM1JhOVdYWEJ3RTRjYUd0SjV2ZkJTLUxESTNtM284VlhSbEw0aUtDTTZpdzFsb3M1Y25JcndVeDg3R0hEQ29WckJyLXJSbW9qMUswbjRCZ2pGaDlONElDeDRHc281VVJJWl9I?oc=5)
 
 ---
 

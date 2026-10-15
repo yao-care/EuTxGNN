@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "migraine News"
+title: "Migräne (migraine) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about migraine. 1 articles, 49 related drugs."
+description: "Health news about Migräne (migraine). 2 articles, 49 related drugs."
 permalink: /news/migraine/
 ---
 
-# migraine News
+# Migräne (migraine) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about migraine?">
-<strong>migraine</strong> currently has <strong>1 news articles</strong> and 49 related drugs.
+<p class="key-answer" data-question="What news is there about Migräne (migraine)?">
+<strong>Migräne (migraine)</strong> currently has <strong>2 news articles</strong> and 49 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “migraine” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Migräne” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -77,7 +77,15 @@ This page brings together the latest health news about “migraine” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Mediterrane Ernährung und chronische Migräne: Zusammenhang beobachtet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+2026-10-15
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+---
 
 ### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
 

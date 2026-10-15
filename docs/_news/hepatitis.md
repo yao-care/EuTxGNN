@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "hepatitis News"
+title: "epatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hepatitis. 1 articles, 25 related drugs."
+description: "Health news about epatite (hepatitis). 1 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
-# hepatitis News
+# epatite (hepatitis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hepatitis?">
-<strong>hepatitis</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
+<p class="key-answer" data-question="What news is there about epatite (hepatitis)?">
+<strong>epatite (hepatitis)</strong> currently has <strong>1 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hepatitis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “epatite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -55,11 +55,11 @@ This page brings together the latest health news about “hepatitis” and lists
 
 ## Related News (1)
 
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+### [Due casi di epatite A fra i bambini di una famiglia a Fossano, scattata la profilassi dell’Asl Cn1 - La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
 
-2026-10-14
+2026-10-15
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+Source: [La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
 
 ---
 

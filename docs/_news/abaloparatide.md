@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (12)
 
 ### [Uno de cada tres pacientes de diabetes tipo 2 tratados con insulina basal no alcanza adherencia adecuada, según estudio](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
 
@@ -62,11 +62,35 @@ Source: [Infosalus](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXB
 
 ---
 
+### [Non sono i fritti il vero pericolo per il fegato: l'ingrediente insospettabile che lo sta riempiendo di grasso ogni giorno](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+
+---
+
+### [Mediterrane Ernährung und chronische Migräne: Zusammenhang beobachtet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">Migräne</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
+
+---
+
 ### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+---
+
+### [Ozempic and Wegovy linked to rare risk of sudden vision loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
+
+2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
 
 ---
 
@@ -80,7 +104,7 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQ
 
 ### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
 

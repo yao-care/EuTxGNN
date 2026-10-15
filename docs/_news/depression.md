@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 4 articles, 7 related drugs."
+description: "Health news about dépression (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
 
 2026-10-14
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
+
+---
+
+### [Depressione, perché la stessa cura non funziona per tutti: i sei profili individuati nel cervello](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjNtYS1PbzAyWWJrWGQzNFpjMUpsc0RQZWhNRFhrV0xxaFhybXRoRVV3VURHSU1TMFV6RHhackhCRklTVkJ3RTBvT21aYWducm1admFaT29GRVA3b2NZMHhJSEI2ZEdzb3NSU3k4SkNGWGJhNzZkSlYzN05yY05wcGNYUHVjZ3ljbnZmN1llWE1xVXpZMElOR3hQMWdXUEdtbDlrQTh2TlRTQ2ZJLV9RUVhpMDdGd19kamFnTVRqNm5mUjI4dmtQRkc1YlpuMGZha0dlbjg4WDZTNG1xQk5B?oc=5)
+
+2026-10-14
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjNtYS1PbzAyWWJrWGQzNFpjMUpsc0RQZWhNRFhrV0xxaFhybXRoRVV3VURHSU1TMFV6RHhackhCRklTVkJ3RTBvT21aYWducm1admFaT29GRVA3b2NZMHhJSEI2ZEdzb3NSU3k4SkNGWGJhNzZkSlYzN05yY05wcGNYUHVjZ3ljbnZmN1llWE1xVXpZMElOR3hQMWdXUEdtbDlrQTh2TlRTQ2ZJLV9RUVhpMDdGd19kamFnTVRqNm5mUjI4dmtQRkc1YlpuMGZha0dlbjg4WDZTNG1xQk5B?oc=5)
 
 ---
 
