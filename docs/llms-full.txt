@@ -1,0 +1,42 @@
+# EuTxGNN — AI-readable summary
+
+## Platform positioning
+
+EuTxGNN is a drug repurposing research platform for medicines available in the European Union, maintained by 藥提醒科技有限公司 (yao.care). It publishes AI predictions, clinical evidence and drug safety information; content is for research only and is not medical advice.
+
+## Method and evidence
+
+Built on the TxGNN method published by Harvard's Zitnik Lab, exploring possible links between existing drugs and new indications. Model predictions are combined with ClinicalTrials.gov, PubMed, DrugBank, EMA data and DDInter into traceable reports.
+
+Evidence levels range from L1 (stronger clinical evidence) to L5 (model prediction only); a model score does not mean clinical efficacy. Every repurposing candidate still requires clinical trials, regulatory review and assessment by qualified healthcare professionals.
+
+## Main content
+
+- `/` Drug Repurposing Reports — AI-powered drug repurposing predictions for 642 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation.
+- `/drugs/` Drug List — Complete list of 642 EMA drugs with TxGNN repurposing predictions
+- `/evidence-high/` High Evidence (L1-L2) — L1-L2 level drug repurposing candidates with strong clinical evidence support.
+- `/evidence-medium/` Medium Evidence (L3-L4) — L3-L4 level drug repurposing candidates with observational or preclinical evidence.
+- `/evidence-low/` AI Predictions (L5) — L5 level drug repurposing candidates with AI prediction only, no clinical evidence yet.
+- `/methodology/` Methodology — EuTxGNN prediction and validation methodology
+- `/guide/` User Guide — How to use EuTxGNN drug repurposing reports
+- `/sources/` Data Sources — EuTxGNN data sources and references
+- `/downloads/` Downloads — Download EuTxGNN drug repurposing prediction data including evidence summaries and complete datasets.
+- `/news/` 📰 Health News — Automated health news monitoring for EuTxGNN drugs and indications
+- `/about/` About — About the EuTxGNN drug repurposing prediction project
+
+## Example drug reports
+
+- Aripiprazole (L1): https://eutxgnn.yao.care/drugs/aripiprazole/
+- Atazanavir (As Sulfate) (L1): https://eutxgnn.yao.care/drugs/atazanavir-as-sulfate/
+- Bosutinib (L1): https://eutxgnn.yao.care/drugs/bosutinib/
+
+## Citation and limitations
+
+Please cite the original TxGNN paper (https://doi.org/10.1038/s41591-023-02233-x). Site content and predictions are for research and education only and are not medical advice; any real-world use or repurposing decision must be confirmed by qualified professionals, clinical trials and regulatory review.
+
+## Official links
+
+- https://eutxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/EuTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x

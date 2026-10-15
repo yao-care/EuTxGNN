@@ -114,7 +114,7 @@ permalink: /drugs/
 | Brentuximab Vedotin | L5 | 51 | [View](/drugs/brentuximab-vedotin/) |
 | Brexpiprazole | L5 | 50 | [View](/drugs/brexpiprazole/) |
 | Brigatinib | L5 | 51 | [View](/drugs/brigatinib/) |
-| Brimonidine Tartrate | L5 | 50 | [View](/drugs/brimonidine-tartrate/) |
+| Brimonidine Tartrate | L5 | 50 | [View](/drugs/brimonidine/) |
 | Brinzolamide | L5 | 50 | [View](/drugs/brinzolamide/) |
 | Brivaracetam | L5 | 50 | [View](/drugs/brivaracetam/) |
 | Brodalumab | L5 | 50 | [View](/drugs/brodalumab/) |
@@ -128,7 +128,7 @@ permalink: /drugs/
 | Cabazitaxel | L5 | 50 | [View](/drugs/cabazitaxel/) |
 | Cabotegravir | L5 | 50 | [View](/drugs/cabotegravir/) |
 | Cabozantinib | L5 | 50 | [View](/drugs/cabozantinib/) |
-| Caffeine Citrate | L5 | 50 | [View](/drugs/caffeine-citrate/) |
+| Caffeine Citrate | L5 | 50 | [View](/drugs/caffeine/) |
 | Canagliflozin | L5 | 50 | [View](/drugs/canagliflozin/) |
 | Canakinumab | L5 | 56 | [View](/drugs/canakinumab/) |
 | Cangrelor | L5 | 50 | [View](/drugs/cangrelor/) |
@@ -139,7 +139,7 @@ permalink: /drugs/
 | Carbidopa | L5 | 50 | [View](/drugs/carbidopa/) |
 | Carfilzomib | L5 | 50 | [View](/drugs/carfilzomib/) |
 | Carglumic Acid | L5 | 50 | [View](/drugs/carglumic-acid/) |
-| Cariprazine Hydrochloride | L5 | 50 | [View](/drugs/cariprazine-hydrochloride/) |
+| Cariprazine Hydrochloride | L5 | 50 | [View](/drugs/cariprazine/) |
 | Carmustine | L5 | 87 | [View](/drugs/carmustine/) |
 | Caspofungin (As Acetate) | L5 | 50 | [View](/drugs/caspofungin-as-acetate/) |
 | Catridecacog | L5 | 1 | [View](/drugs/catridecacog/) |
@@ -193,7 +193,7 @@ permalink: /drugs/
 | Deutetrabenazine | L5 | 50 | [View](/drugs/deutetrabenazine/) |
 | Dexamethasone | L5 | 174 | [View](/drugs/dexamethasone/) |
 | Dexmedetomidine Hydrochloride | L5 | 50 | [View](/drugs/dexmedetomidine-hydrochloride/) |
-| Dexrazoxane Hydrochloride | L5 | 50 | [View](/drugs/dexrazoxane-hydrochloride/) |
+| Dexrazoxane Hydrochloride | L5 | 50 | [View](/drugs/dexrazoxane/) |
 | Dibotermin Alfa | L5 | 2 | [View](/drugs/dibotermin-alfa/) |
 | Diflunisal | L5 | 50 | [View](/drugs/diflunisal/) |
 | Dimethyl Fumarate | L5 | 50 | [View](/drugs/dimethyl-fumarate/) |
@@ -228,7 +228,7 @@ permalink: /drugs/
 | Emicizumab | L5 | 50 | [View](/drugs/emicizumab/) |
 | Empagliflozin | L5 | 50 | [View](/drugs/empagliflozin/) |
 | Emtricitabine | L5 | 50 | [View](/drugs/emtricitabine/) |
-| Enalapril (Maleate) | L5 | 50 | [View](/drugs/enalapril-maleate/) |
+| Enalapril (Maleate) | L5 | 50 | [View](/drugs/enalapril/) |
 | Encorafenib | L5 | 50 | [View](/drugs/encorafenib/) |
 | Enfortumab Vedotin | L5 | 50 | [View](/drugs/enfortumab-vedotin/) |
 | Enfuvirtide | L5 | 51 | [View](/drugs/enfuvirtide/) |
@@ -283,7 +283,7 @@ permalink: /drugs/
 | Galcanezumab | L5 | 50 | [View](/drugs/galcanezumab/) |
 | Galsulfase | L5 | 50 | [View](/drugs/galsulfase/) |
 | Ganaxolone | L5 | 50 | [View](/drugs/ganaxolone/) |
-| Ganirelix Acetate | L5 | 50 | [View](/drugs/ganirelix-acetate/) |
+| Ganirelix Acetate | L5 | 50 | [View](/drugs/ganirelix/) |
 | Gefitinib | L5 | 51 | [View](/drugs/gefitinib/) |
 | Gemtuzumab Ozogamicin | L5 | 50 | [View](/drugs/gemtuzumab-ozogamicin/) |
 | Gilteritinib Fumarate | L5 | 50 | [View](/drugs/gilteritinib-fumarate/) |
@@ -323,7 +323,7 @@ permalink: /drugs/
 | Indacaterol Maleate | L5 | 50 | [View](/drugs/indacaterol-maleate/) |
 | Inebilizumab | L5 | 50 | [View](/drugs/inebilizumab/) |
 | Infliximab | L5 | 53 | [View](/drugs/infliximab/) |
-| Inotersen Sodium | L5 | 50 | [View](/drugs/inotersen-sodium/) |
+| Inotersen Sodium | L5 | 50 | [View](/drugs/inotersen/) |
 | Inotuzumab Ozogamicin | L5 | 50 | [View](/drugs/inotuzumab-ozogamicin/) |
 | Insulin Aspart | L5 | 50 | [View](/drugs/insulin-aspart/) |
 | Insulin Degludec | L5 | 50 | [View](/drugs/insulin-degludec/) |
@@ -389,7 +389,7 @@ permalink: /drugs/
 | Mecasermin | L5 | 51 | [View](/drugs/mecasermin/) |
 | Melatonin | L5 | 50 | [View](/drugs/melatonin/) |
 | Melphalan Hydrochloride | L5 | 50 | [View](/drugs/melphalan-hydrochloride/) |
-| Memantine Hydrochloride | L5 | 50 | [View](/drugs/memantine-hydrochloride/) |
+| Memantine Hydrochloride | L5 | 50 | [View](/drugs/memantine/) |
 | Mepolizumab | L5 | 51 | [View](/drugs/mepolizumab/) |
 | Meropenem | L5 | 50 | [View](/drugs/meropenem/) |
 | Metformin | L5 | 50 | [View](/drugs/metformin/) |
@@ -399,7 +399,7 @@ permalink: /drugs/
 | Methylphenidate Hydrochloride | L5 | 50 | [View](/drugs/methylphenidate-hydrochloride/) |
 | Methylthioninium Chloride | L5 | 50 | [View](/drugs/methylthioninium-chloride/) |
 | Metreleptin | L5 | 53 | [View](/drugs/metreleptin/) |
-| Mexiletine Hydrochloride | L5 | 50 | [View](/drugs/mexiletine-hydrochloride/) |
+| Mexiletine Hydrochloride | L5 | 50 | [View](/drugs/mexiletine/) |
 | Micafungin | L5 | 50 | [View](/drugs/micafungin/) |
 | Midazolam | L5 | 50 | [View](/drugs/midazolam/) |
 | Midostaurin | L5 | 56 | [View](/drugs/midostaurin/) |
@@ -426,7 +426,7 @@ permalink: /drugs/
 | Nevirapine | L5 | 50 | [View](/drugs/nevirapine/) |
 | Nilotinib | L5 | 50 | [View](/drugs/nilotinib/) |
 | Nintedanib | L5 | 55 | [View](/drugs/nintedanib/) |
-| Niraparib (Tosilate Monohydrate) | L5 | 50 | [View](/drugs/niraparib-tosilate-monohydrate/) |
+| Niraparib (Tosilate Monohydrate) | L5 | 50 | [View](/drugs/niraparib/) |
 | Nitisinone | L5 | 50 | [View](/drugs/nitisinone/) |
 | Nitric Oxide | L5 | 50 | [View](/drugs/nitric-oxide/) |
 | Nivolumab | L5 | 52 | [View](/drugs/nivolumab/) |
@@ -434,21 +434,21 @@ permalink: /drugs/
 | Nonacog Beta Pegol | L5 | 50 | [View](/drugs/nonacog-beta-pegol/) |
 | Norelgestromin | L5 | 50 | [View](/drugs/norelgestromin/) |
 | Norethisterone | L5 | 50 | [View](/drugs/norethisterone/) |
-| Nusinersen Sodium | L5 | 50 | [View](/drugs/nusinersen-sodium/) |
+| Nusinersen Sodium | L5 | 50 | [View](/drugs/nusinersen/) |
 | Obinutuzumab | L5 | 50 | [View](/drugs/obinutuzumab/) |
 | Ocrelizumab | L5 | 50 | [View](/drugs/ocrelizumab/) |
 | Octreotide Hydrochloride | L5 | 50 | [View](/drugs/octreotide-hydrochloride/) |
 | Ofatumumab | L5 | 50 | [View](/drugs/ofatumumab/) |
 | Olanzapine | L5 | 50 | [View](/drugs/olanzapine/) |
 | Olaparib | L5 | 54 | [View](/drugs/olaparib/) |
-| Olopatadine Hydrochloride | L5 | 50 | [View](/drugs/olopatadine-hydrochloride/) |
+| Olopatadine Hydrochloride | L5 | 50 | [View](/drugs/olopatadine/) |
 | Omalizumab | L5 | 50 | [View](/drugs/omalizumab/) |
 | Onasemnogene Abeparvovec | L5 | 50 | [View](/drugs/onasemnogene-abeparvovec/) |
 | Opicapone | L5 | 50 | [View](/drugs/opicapone/) |
 | Oritavancin (Diphosphate) | L5 | 50 | [View](/drugs/oritavancin-diphosphate/) |
 | Orlistat | L5 | 50 | [View](/drugs/orlistat/) |
 | Oseltamivir | L5 | 50 | [View](/drugs/oseltamivir/) |
-| Osilodrostat Phosphate | L5 | 50 | [View](/drugs/osilodrostat-phosphate/) |
+| Osilodrostat Phosphate | L5 | 50 | [View](/drugs/osilodrostat/) |
 | Ospemifene | L5 | 51 | [View](/drugs/ospemifene/) |
 | Oteracil | L5 | 50 | [View](/drugs/oteracil/) |
 | Oxybutynin | L5 | 50 | [View](/drugs/oxybutynin/) |
@@ -461,7 +461,7 @@ permalink: /drugs/
 | Panitumumab | L5 | 51 | [View](/drugs/panitumumab/) |
 | Pantoprazole | L5 | 50 | [View](/drugs/pantoprazole/) |
 | Parathyroid Hormone | L5 | 50 | [View](/drugs/parathyroid-hormone/) |
-| Parecoxib Sodium | L5 | 50 | [View](/drugs/parecoxib-sodium/) |
+| Parecoxib Sodium | L5 | 50 | [View](/drugs/parecoxib/) |
 | Pasireotide | L5 | 50 | [View](/drugs/pasireotide/) |
 | Patisiran Sodium | L5 | 50 | [View](/drugs/patisiran-sodium/) |
 | Pazopanib | L5 | 51 | [View](/drugs/pazopanib/) |
@@ -495,7 +495,7 @@ permalink: /drugs/
 | Pretomanid | L5 | 50 | [View](/drugs/pretomanid/) |
 | Prilocaine | L5 | 51 | [View](/drugs/prilocaine/) |
 | Propranolol Hydrochloride | L5 | 50 | [View](/drugs/propranolol-hydrochloride/) |
-| Prucalopride Succinate | L5 | 50 | [View](/drugs/prucalopride-succinate/) |
+| Prucalopride Succinate | L5 | 50 | [View](/drugs/prucalopride/) |
 | Raloxifene Hydrochloride | L5 | 50 | [View](/drugs/raloxifene-hydrochloride/) |
 | Raltegravir | L5 | 50 | [View](/drugs/raltegravir/) |
 | Ramucirumab | L5 | 50 | [View](/drugs/ramucirumab/) |
@@ -566,7 +566,7 @@ permalink: /drugs/
 | Sparsentan | L5 | 50 | [View](/drugs/sparsentan/) |
 | Spironolactone | L5 | 53 | [View](/drugs/spironolactone/) |
 | Stiripentol | L5 | 52 | [View](/drugs/stiripentol/) |
-| Sufentanil Citrate | L5 | 50 | [View](/drugs/sufentanil-citrate/) |
+| Sufentanil Citrate | L5 | 50 | [View](/drugs/sufentanil/) |
 | Sugammadex Sodium | L5 | 50 | [View](/drugs/sugammadex-sodium/) |
 | Sunitinib | L5 | 51 | [View](/drugs/sunitinib/) |
 | Susoctocog Alfa | L5 | 50 | [View](/drugs/susoctocog-alfa/) |
@@ -638,7 +638,7 @@ permalink: /drugs/
 | Ulipristal | L5 | 50 | [View](/drugs/ulipristal/) |
 | Umeclidinium Bromide | L5 | 50 | [View](/drugs/umeclidinium-bromide/) |
 | Upadacitinib | L5 | 50 | [View](/drugs/upadacitinib/) |
-| Urea (13C) | L5 | 50 | [View](/drugs/urea-13c/) |
+| Urea (13C) | L5 | 50 | [View](/drugs/urea/) |
 | Ustekinumab | L5 | 51 | [View](/drugs/ustekinumab/) |
 | Vaborbactam | L5 | 50 | [View](/drugs/vaborbactam/) |
 | Valsartan | L5 | 51 | [View](/drugs/valsartan/) |
