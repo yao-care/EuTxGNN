@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# Adipositas (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
+<strong>Adipositas (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -38,6 +38,14 @@ This page brings together the latest health news about “obesidad” and lists 
 
 ## Related News (7)
 
+### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+2026-10-15
+
+Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+---
+
 ### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
 
 2026-10-15
@@ -51,14 +59,6 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm
 2026-10-15
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hqNWROVmtKWTBaaWoxU0FkanRkU1pjYmxENGw3cHNZZ1cxdDkxaWZjcDBxU09JZWdqVnFUWm5WT1lqcmx1TTRuOHpXU3ZPN0M4R0hSclJwLS1RanVud2lmbm5rallGaEVCQnp0eE9Ddnd0WDJ6WTFmcFhQSk5pY3hHZjFEdTh0Zk1ER0NZSDI0RElmcWF6Sk1sUHpMVldGbmdtMWtlcFJOUkZONEcxVlBYLS1HQklxcWFDZHJ6d3F3ZWo1TEpIU3FwRGpKVFdKSUY5T3hyQktjLXVYZ1NmNHJn?oc=5)
-
----
-
-### [Dalla cultura del cibo fino agli stili di vita: al via l'Obesity week -Il programma - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
-
-2026-10-14
-
-Source: [Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0
 
 ---
 
-### [“La obesidad es una enfermedad” , el mensaje de Lilly para abrir una conversación social - Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
+### [La obesidad, más allá del peso: un nuevo abordaje basado en la remodelación metabólica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
 
 2026-10-13
 
-Source: [Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
 
 ---
 

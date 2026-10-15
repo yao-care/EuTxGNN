@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,19 +52,11 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
-
-### [Depression lindern: Wie Ernährung die Psyche unterstützen kann](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUW4xYXZtVkJ2d0N5VzJUQzZoXzRpN2I4ZkJOdDFVR0UyRGJGTGxmM1NaSlM0cUloNldrRnVjR0V4NUxjS3lKVjBsMjN1RmRtX1c4SE95NzhQRjdRSzFsWmNyaDBpdlAxRElqZjJIclBrZ2gzcmV5Z2xjeFV6T202SjFraXRTN0pyVU9iVEFjbGZNOU9rcFlVQmdUUWoyd0VVcnFaTkl3eFlJY2pHV3o1SXlyN25wNTkycjFVYm1xaFFJNEUtYl9nMy1CeWNQM3l4M2JlQQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">depression</span>
-
-Source: [BILD](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUW4xYXZtVkJ2d0N5VzJUQzZoXzRpN2I4ZkJOdDFVR0UyRGJGTGxmM1NaSlM0cUloNldrRnVjR0V4NUxjS3lKVjBsMjN1RmRtX1c4SE95NzhQRjdRSzFsWmNyaDBpdlAxRElqZjJIclBrZ2gzcmV5Z2xjeFV6T202SjFraXRTN0pyVU9iVEFjbGZNOU9rcFlVQmdUUWoyd0VVcnFaTkl3eFlJY2pHV3o1SXlyN25wNTkycjFVYm1xaFFJNEUtYl9nMy1CeWNQM3l4M2JlQQ?oc=5)
-
----
+## Related News (4)
 
 ### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
 
-2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-10-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
 
@@ -72,7 +64,7 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1Zc
 
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 

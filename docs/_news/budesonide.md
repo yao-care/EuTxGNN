@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Budesonide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <li>polyp of ureter (99.7%)</li>
 <li>neoplastic polyp (99.7%)</li>
 <li>2-hydroxyethyl methacrylate sensitization (99.6%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 asma</span></li>
+<li>asthma (99.5%)</li>
 <li>Crohn's colitis (99.3%)</li>
 <li>inflammatory bowel disease (99.2%)</li>
 <li>anus disease (99.0%)</li>
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">asma</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

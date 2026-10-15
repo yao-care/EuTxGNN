@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Netupitant with the latest h
 
 ## Related News (2)
 
-### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
+### [Bluthochdruck: Diese 8 Lebensmittelzusatzstoffe fallen in großer Studie auf](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">Herzerkrankung</span>
+2026-10-14 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
 
 ---
 

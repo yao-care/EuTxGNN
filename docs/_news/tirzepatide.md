@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (3)
 
-### [Tirzepatide, meno tumori dell’endometrio? Il segnale da oltre 350mila donne](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlUyMG1LeHhVSllGcXlYbkJzR1BfN2JRUGg2Mkl1V2dfZWtJcFBqdEpaazk1d1dCUzRna3ZwN3pKbXVHQl9PdXhDQkcwRVJrN1B2dzBYcEhieTZldHhDVXRBLU9lMWRaVlZNUDktVzJMaXFpbExfc1llZGk1WFMybHg4emptWVRMcEg4S25KbzNkZEpHeDI4NlpTTkNOc0JPVExIektBejRHMXROVDdOLWJYMF9FbjZKRzBYNFZ1OWxYb25wVWQ0dU4zMXc?oc=5)
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">tumor</span>
+2026-10-14 <span class="news-indication-tag">arthritis</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlUyMG1LeHhVSllGcXlYbkJzR1BfN2JRUGg2Mkl1V2dfZWtJcFBqdEpaazk1d1dCUzRna3ZwN3pKbXVHQl9PdXhDQkcwRVJrN1B2dzBYcEhieTZldHhDVXRBLU9lMWRaVlZNUDktVzJMaXFpbExfc1llZGk1WFMybHg4emptWVRMcEg4S25KbzNkZEpHeDI4NlpTTkNOc0JPVExIektBejRHMXROVDdOLWJYMF9FbjZKRzBYNFZ1OWxYb25wVWQ0dU4zMXc?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

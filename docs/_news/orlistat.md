@@ -54,19 +54,27 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (10)
 
+### [José Abellán, doctor: “El estrés crónico es un factor de riesgo cardiovascular como el colesterol, la tensión - Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">ictus</span>
+
+Source: [Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
+
+---
+
+### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+---
+
 ### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">obesidad</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
-
----
-
-### [Schlaganfälle treffen immer häufiger diese Altersgruppe](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
-
-2026-10-15 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
 
 ---
 
@@ -86,17 +94,9 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblRK
 
 ---
 
-### [Dalla cultura del cibo fino agli stili di vita: al via l'Obesity week -Il programma - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
-
-2026-10-14 <span class="news-indication-tag">obesity</span>
-
-Source: [Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
-
----
-
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
@@ -110,19 +110,19 @@ Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0
 
 ---
 
+### [La obesidad, más allá del peso: un nuevo abordaje basado en la remodelación metabólica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
+
+2026-10-13 <span class="news-indication-tag">obesidad</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
+
+---
+
 ### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
----
-
-### [“La obesidad es una enfermedad” , el mensaje de Lilly para abrir una conversación social - Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
-
-2026-10-13 <span class="news-indication-tag">obesidad</span>
-
-Source: [Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
 
 ---
 

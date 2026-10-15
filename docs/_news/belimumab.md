@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Belimumab?">
-<strong>Belimumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Belimumab</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Belimumab with the latest he
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
 
-### [Wechseljahre erhöhen Diabetesrisiko: Was Frauen tun können - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTQyTnRwMlBWWVBVNzVJcDN3ajlWamEtNXNEM18zUzNxMXdVdmNhc0xyMmZDXzlIelNBN3RwZ1VYWlZXaW1GU25XREMyb1VMRzNkcGZROGlKN2Y4MHNBMmtmem9vUDR1SXhJMmg1Szc5RkNXOG9HMnVtenF2dEVEa1NtSV9xQ0xRUzUtQVFIWTNLdW91dk9fWnRQRjNFRVZYd296S1F1aThYeEllc3N6RXgzUUNjT2Q3VzRPeV8tOGdFeXc?oc=5)
+### [Uno de cada tres pacientes de diabetes tipo 2 tratados con insulina basal no alcanza adherencia adecuada, según estudio](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
 
-Source: [Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTQyTnRwMlBWWVBVNzVJcDN3ajlWamEtNXNEM18zUzNxMXdVdmNhc0xyMmZDXzlIelNBN3RwZ1VYWlZXaW1GU25XREMyb1VMRzNkcGZROGlKN2Y4MHNBMmtmem9vUDR1SXhJMmg1Szc5RkNXOG9HMnVtenF2dEVEa1NtSV9xQ0xRUzUtQVFIWTNLdW91dk9fWnRQRjNFRVZYd296S1F1aThYeEllc3N6RXgzUUNjT2Q3VzRPeV8tOGdFeXc?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
+
+---
+
+### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
 
 ---
 
@@ -70,19 +78,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQ
 
 ---
 
+### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
+
+2026-10-14 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
+
+---
+
 ### [Santé : la communauté médicale reconnaît officiellement un nouveau type de diabète, différent des types 1 et 2](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0stQ0ZsSUVpV3ZNX3RfbkVHZFpnTHB1SXBGVFZETDZrcUdEbzd6Q3Fvb3pqUUoyX2hLblJVS1JnQTNJMnVvR1RfbldmTlhxZ3BzWWQ5ODU2aEhBNWE5aWZRdTAyZVV0WDFTZ3hJUnBicFQyQm5GSEk3Rk00czlISVRrSGRwYVo3UjQ2UHY1SHh6OHJGNFh2WWEwS2hwVVVUOUVlMFhhYXJWVGlQQmg0ZklqREhaT1ozb29XYXNXUQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">diabète</span>
 
 Source: [Presse-citron](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY0stQ0ZsSUVpV3ZNX3RfbkVHZFpnTHB1SXBGVFZETDZrcUdEbzd6Q3Fvb3pqUUoyX2hLblJVS1JnQTNJMnVvR1RfbldmTlhxZ3BzWWQ5ODU2aEhBNWE5aWZRdTAyZVV0WDFTZ3hJUnBicFQyQm5GSEk3Rk00czlISVRrSGRwYVo3UjQ2UHY1SHh6OHJGNFh2WWEwS2hwVVVUOUVlMFhhYXJWVGlQQmg0ZklqREhaT1ozb29XYXNXUQ?oc=5)
-
----
-
-### [Del control glucémico al manejo integral: qué cambia en el consenso ADA/EASD sobre diabetes tipo 2 - El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlB3VDhfbU5BSWVTb1o4LXczSWNtNVVIbGhDQVdzOFYxUXJGZjMtZ1V3UTRwR21lNTdJMWtYYnJwMkUzVjR0MXJCTEFqZDZ6NGxQM1F0b2hZaGhfNU9BT3MtWmdMc3FlZFh3Q2tRVjBhLU5oNXJES0xWM3czSk1nZUhYemp5VTZwRVhKSzY1NHZlYzBRQkRqZmN3V3VtV095SFpvNkpmaE8waW5uc0NvbTZaTVEzQkZJRWlPcXNiUzEwMy1zWFhOWlV3?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiygFBVV95cUxNWlB3VDhfbU5BSWVTb1o4LXczSWNtNVVIbGhDQVdzOFYxUXJGZjMtZ1V3UTRwR21lNTdJMWtYYnJwMkUzVjR0MXJCTEFqZDZ6NGxQM1F0b2hZaGhfNU9BT3MtWmdMc3FlZFh3Q2tRVjBhLU5oNXJES0xWM3czSk1nZUhYemp5VTZwRVhKSzY1NHZlYzBRQkRqZmN3V3VtV095SFpvNkpmaE8waW5uc0NvbTZaTVEzQkZJRWlPcXNiUzEwMy1zWFhOWlV3?oc=5)
 
 ---
 
@@ -102,27 +110,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV9
 
 ---
 
-### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabetes</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
-
----
-
-### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
+### [Vortrag in Groß-Gerau: Wenn Diabetes das Augenlicht bedroht - Echo Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTIxVlhYVHEzelNyZktCbkpMTGJpYTdCbndNbDB3eHRQOXB6clgxVnlRbWdsM2xMNWxWdXNaUE05NGVVeXg3UUhsem1tTDZ6V0trSTVSZ0F5bks3aGFyOEpoZDBqaFRKN2RNWkNRQlI4eVd5NmY2X0I2RUdXMUpibHA4MDVzdXlSaVgxbnUwcG1xR0YzbjZDNElBVW52cU5MdzJGLTZTS3phV0VoZUd3c1l1Qmo4bHVtcDNXMXBhTVIxZEN0MDk2MEp6c20?oc=5)
 
 2026-10-09 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
-
----
-
-### [Volkskrankheit Diabetes: Neue Empfehlungen könnten Behandlung deutlich verändern](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
-
-2026-10-08 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
+Source: [Echo Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTIxVlhYVHEzelNyZktCbkpMTGJpYTdCbndNbDB3eHRQOXB6clgxVnlRbWdsM2xMNWxWdXNaUE05NGVVeXg3UUhsem1tTDZ6V0trSTVSZ0F5bks3aGFyOEpoZDBqaFRKN2RNWkNRQlI4eVd5NmY2X0I2RUdXMUpibHA4MDVzdXlSaVgxbnUwcG1xR0YzbjZDNElBVW52cU5MdzJGLTZTS3phV0VoZUd3c1l1Qmo4bHVtcDNXMXBhTVIxZEN0MDk2MEp6c20?oc=5)
 
 ---
 

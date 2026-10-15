@@ -62,17 +62,17 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUM
 
 ### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
-2026-10-11 <span class="news-indication-tag">dementia</span>
+2026-10-12 <span class="news-indication-tag">dementia</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 ---
 
-### [The health condition adults with ADHD are four times more likely to experience - The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
+### [Andy Burnham: I want Britain to make the breakthrough on dementia - The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
-2026-10-08 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+2026-10-08 <span class="news-indication-tag">dementia</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTVEVThxaEJRUnBWMmlVaEFqc0VvWnBwS0RfcDZvTHo4cGI2SWhFdFFtSEpydGJja2lhSVg5T2pyMFlCMmd6Y01qRmZoZmw1c3BNYzJLM2FnV2hZSHR3OS1OeC1USHM2LThlU0g3R1FsWFJCcXEtd0pqV09JMktpbm50akJMdHJqM0t3ZkdxSmpKOXJSS00wbVZiZGhWSzRBSHRPTHNB?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdzVTMnprazA4T29GLWhlenRFSTEwNzJoTXR3TDBZeUt6cDFWakwxcUowLWRGaXBVTWdBVlhDX19fRmlkbFRtWDZ3clRyd25HbFB6U1lLVjNvU1NXMEtYSTFLMVR1bTdnUktPWmRkN2lBZUxDOE1pdTRjZVd6djFPWVpJX1dxYWdCbDNtUzk3Q0lzTHlDWlE?oc=5)
 
 ---
 

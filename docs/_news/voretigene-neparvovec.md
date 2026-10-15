@@ -14,7 +14,7 @@ permalink: /news/voretigene-neparvovec/
 ---
 
 <p class="key-answer" data-question="What news is there about Voretigene Neparvovec?">
-<strong>Voretigene Neparvovec</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Voretigene Neparvovec</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Voretigene Neparvovec with t
 <p><a href="{{ '/drugs/voretigene-neparvovec/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Bluthochdruck: Diese 8 Lebensmittelzusatzstoffe fallen in großer Studie auf](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

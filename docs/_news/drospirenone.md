@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 
 ## Related News (3)
 
-### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">asma</span>
+2026-10-14 <span class="news-indication-tag">arthritis</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

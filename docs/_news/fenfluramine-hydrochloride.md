@@ -54,6 +54,14 @@ This page combines the AI-predicted indications for Fenfluramine Hydrochloride w
 
 ## Related News (7)
 
+### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+
+---
+
 ### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">obesidad</span>
@@ -70,17 +78,9 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
-### [Dalla cultura del cibo fino agli stili di vita: al via l'Obesity week -Il programma - Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
-
-2026-10-14 <span class="news-indication-tag">obesity</span>
-
-Source: [Gazzetta di Parma](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3F3ZGFHWWZkdkJNZFVIS1pKNy1zWlAxQ2ZSeEtOSkRTLVN6azRiVlE1RmpaaDc1NmdDNDlIcGhvWG1lM1Mxa3ZaNEh3OG1pLVRObjV2UkluMXVYRTlldFFFQmxRN3pkRUgwY0ZzMmxOV3hVR1ppNW01TWVzN2gtMUdGdU1OdE92eTFHV3BkYWZkNkhBVWFPODh4cGJLMFJVc2dZaHYzenh3V3BSMExNRkdVMDVfWHo5alQ2OGRKeEpHQzRULTNINHBVODNuMEJJT3FrTFNwYmpHOFdx?oc=5)
-
----
-
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
@@ -94,11 +94,11 @@ Source: [DW.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxQX29VaTR3X0
 
 ---
 
-### [“La obesidad es una enfermedad” , el mensaje de Lilly para abrir una conversación social - Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
+### [La obesidad, más allá del peso: un nuevo abordaje basado en la remodelación metabólica](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">obesidad</span>
 
-Source: [Reason Why](https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFjbzZXV205TU0zLTN6VVBidFVGcGstaE9oemhDdHdURXpmLTlMRGttUGJCUW5ydm13ZnNnZ0p0eWc0XzY5Q1dWX0JqRFF4VGhnUjZORTNjaHNkZ0J6MUI4Qm1seFRxbENrRTdfOWxTdGhkZFJVUWFzR1lnUnZMRnViR1liVEVSVHB0VkZB?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBMSDlkRHFkcDcyN3lKSVVRQkQ1QVk2WUFIdHcxYnN6dnotckt4YVpvdVJvSzNFLUNnNmFqS18tYXZxbk00UGJrT2t3ZTdyNmduSmJRX09xYmVTUUV2aDZxa3VLSTUzLVdvSHRmV0h2anNBMjV6TEdVWEJmYzAzRlRaVnBBV0NWYnBHRDQtSFJYU1pfQXMwWDVoWVZYa3N3c1pGNEIwMFVhczcyTTlmVU5qMA?oc=5)
 
 ---
 

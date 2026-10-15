@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 3 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 3 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>3 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>3 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -41,11 +41,11 @@ This page brings together the latest health news about “Schlaganfall” and li
 
 ## Related News (3)
 
-### [Schlaganfälle treffen immer häufiger diese Altersgruppe](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
+### [José Abellán, doctor: “El estrés crónico es un factor de riesgo cardiovascular como el colesterol, la tensión - Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
 
 2026-10-15
 
-Source: [T-Online](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
+Source: [Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
 
 ---
 
