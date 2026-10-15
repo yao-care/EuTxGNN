@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 4 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Everything that should happen after a dementia diagnosis - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2dheE9hUExhbTY0NGZtSW9kdFE3SzllWURYeXpZRXgxdDJZdzVINEoyQTFNNFJNSVZZTW5ib1M4Tm1zampBVXJxX0Z0ZW1jTTRJS1JHQ0pDLU1SWWVRazc2dmJmb1VkRjl4QXFiVzF1ZExYZUFjVVJRYTBCaDZfSUt3NGZXX2NFT2FMZm5JbnlnVUthNmlMZnUtcTdPS3hjLV9IWTVsSm8tV2tjb0E?oc=5)
+
+2026-10-14
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2dheE9hUExhbTY0NGZtSW9kdFE3SzllWURYeXpZRXgxdDJZdzVINEoyQTFNNFJNSVZZTW5ib1M4Tm1zampBVXJxX0Z0ZW1jTTRJS1JHQ0pDLU1SWWVRazc2dmJmb1VkRjl4QXFiVzF1ZExYZUFjVVJRYTBCaDZfSUt3NGZXX2NFT2FMZm5JbnlnVUthNmlMZnUtcTdPS3hjLV9IWTVsSm8tV2tjb0E?oc=5)
+
+---
 
 ### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
 

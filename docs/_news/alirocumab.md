@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Chronische Nierenerkrankung | Intensive Drucksenkung schützt das Herz, kann aber GFR reduzieren](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
+
+---
 
 
 <div class="disclaimer">

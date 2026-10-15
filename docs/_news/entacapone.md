@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,15 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Everything that should happen after a dementia diagnosis - The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2dheE9hUExhbTY0NGZtSW9kdFE3SzllWURYeXpZRXgxdDJZdzVINEoyQTFNNFJNSVZZTW5ib1M4Tm1zampBVXJxX0Z0ZW1jTTRJS1JHQ0pDLU1SWWVRazc2dmJmb1VkRjl4QXFiVzF1ZExYZUFjVVJRYTBCaDZfSUt3NGZXX2NFT2FMZm5JbnlnVUthNmlMZnUtcTdPS3hjLV9IWTVsSm8tV2tjb0E?oc=5)
+
+2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2dheE9hUExhbTY0NGZtSW9kdFE3SzllWURYeXpZRXgxdDJZdzVINEoyQTFNNFJNSVZZTW5ib1M4Tm1zampBVXJxX0Z0ZW1jTTRJS1JHQ0pDLU1SWWVRazc2dmJmb1VkRjl4QXFiVzF1ZExYZUFjVVJRYTBCaDZfSUt3NGZXX2NFT2FMZm5JbnlnVUthNmlMZnUtcTdPS3hjLV9IWTVsSm8tV2tjb0E?oc=5)
+
+---
 
 ### [Dementia experts fight NHS drug ban - The Telegraph](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUMwUmNwNjgtTlZ6YnpseUp5dUdZMzZkYjhGNDh4VFJyendNdk9waHd4cHF2blYwN1Q0SjlXa2F5ZGJORS02TC1JTXdWSDh0bDdmTzR1aW9mYkV3VkJTemhDWkE0TS1rcGozOHkwZjFrUXRSTGNUQzBVZDJ4ckRQNXVPempCMms?oc=5)
 

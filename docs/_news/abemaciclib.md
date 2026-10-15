@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <li>multiple endocrine neoplasia (97.1%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (96.9%)</li>
 <li>homozygous familial hypercholesterolemia (96.6%)</li>
-<li>heart disease (96.3%)</li>
+<li class="indication-matched">heart disease (96.3%)<span class="indication-tag">📰 Herzerkrankung</span></li>
 <li>Laubry-Pezzi syndrome (96.3%)</li>
 <li>Pierre Robin syndrome associated with a chromosomal anomaly (96.3%)</li>
 <li>Jeune syndrome situs inversus (96.2%)</li>
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
+
+2026-10-12 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
 
 ---
 

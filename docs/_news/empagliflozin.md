@@ -14,7 +14,7 @@ permalink: /news/empagliflozin/
 ---
 
 <p class="key-answer" data-question="What news is there about Empagliflozin?">
-<strong>Empagliflozin</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Empagliflozin</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,21 @@ This page combines the AI-predicted indications for Empagliflozin with the lates
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (9)
 
-### [Typ-2-Diabetes: Wenn das individuelle Therapieziel noch nicht erreicht ist – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FMSy03Z3ZqcVlPZk01b2ZtM0h3RVV4eGZvTFhQaDVHcnozcThpcGJSVURVOUVXTEZLMjdQLXV5WHdpbERwZGJoMUI4NFhTRTdYTG9ldm9la3l0blJ1aWNIa29yUl9BLXd1a19sMmNSNjJ5OFJrZ1dHYWl1dFpFQXZOQlVGY1lTYXdLQVYzdGxUbjZKdXBWQmdnYTRHbEkyRGg1X2VCbkEwN2x3NVNHNW9Xd2QwMnlWNWlSMHBlV2NNRzF6VXlQX3BULTAzenJoQ3F0NmtUNW42QQ?oc=5)
+### [Wechseljahre erhöhen Diabetesrisiko: Was Frauen tun können - Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTQyTnRwMlBWWVBVNzVJcDN3ajlWamEtNXNEM18zUzNxMXdVdmNhc0xyMmZDXzlIelNBN3RwZ1VYWlZXaW1GU25XREMyb1VMRzNkcGZROGlKN2Y4MHNBMmtmem9vUDR1SXhJMmg1Szc5RkNXOG9HMnVtenF2dEVEa1NtSV9xQ0xRUzUtQVFIWTNLdW91dk9fWnRQRjNFRVZYd296S1F1aThYeEllc3N6RXgzUUNjT2Q3VzRPeV8tOGdFeXc?oc=5)
 
-2026-10-14 <span class="news-indication-tag">diabetes</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FMSy03Z3ZqcVlPZk01b2ZtM0h3RVV4eGZvTFhQaDVHcnozcThpcGJSVURVOUVXTEZLMjdQLXV5WHdpbERwZGJoMUI4NFhTRTdYTG9ldm9la3l0blJ1aWNIa29yUl9BLXd1a19sMmNSNjJ5OFJrZ1dHYWl1dFpFQXZOQlVGY1lTYXdLQVYzdGxUbjZKdXBWQmdnYTRHbEkyRGg1X2VCbkEwN2x3NVNHNW9Xd2QwMnlWNWlSMHBlV2NNRzF6VXlQX3BULTAzenJoQ3F0NmtUNW42QQ?oc=5)
-
----
-
-### [Cholesterin-Senker haben einen unerwarteten Nebeneffekt auf das Demenz-Risiko](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUnRWMkdreDE0YS1TSk5xalFFLXVlOTVzMEphMEVycDh5bmMxaUYwdEpmajVxclRMZmF1UmYyWEZGRlV2TmRJSW1yMkptWnZVeS1ndTM4VUhBcFVvVW1iSGdpSUZZQUMweTdyNndaZ1IwWk12QmVjaGJqQU5yUEg0RUI2cF9yVmdmUnJaTklCNG5zS3FFMGdSUUw1d0VvVGcwRHhma0FOX2Z0QXBCOFJENVNGTmhBTnFCWHVpdFFIRlRmdmtMUTZuWmFXM3RSUzVUeUY0WmQ1anhLS29seVE?oc=5)
+Source: [Schwäbische Zeitung](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTQyTnRwMlBWWVBVNzVJcDN3ajlWamEtNXNEM18zUzNxMXdVdmNhc0xyMmZDXzlIelNBN3RwZ1VYWlZXaW1GU25XREMyb1VMRzNkcGZROGlKN2Y4MHNBMmtmem9vUDR1SXhJMmg1Szc5RkNXOG9HMnVtenF2dEVEa1NtSV9xQ0xRUzUtQVFIWTNLdW91dk9fWnRQRjNFRVZYd296S1F1aThYeEllc3N6RXgzUUNjT2Q3VzRPeV8tOGdFeXc?oc=5)
 
 ---
 
-### [Typ-2-Diabetes mit frühem Beginn: 50 Prozent Remissionsrate durch strukturierte Diät und Bewegung - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcHpjeDhqOU5zOHFybnhPQm16NzA2aTd4SFFnbEpqSUcwNlRNakltRjloRHRTNzZlSllXT1IxNDI4S0l2SkZIeVRxY2cya2F6UjlUZHFfSGJjZ3JJTEVIZXBFRTNvWHF4bElpS2FGamZtQ0VZaUgtVXA3Z01FMUJNTGxBYzd1dWppOWNob25iYXUxVnVpZHBvSW92Ul9ySk9VTjVNQTBGS3lrdHhNN3RjNXRMaXRReldxeWFOUVBtQ3FCQXl4Q3JpWHN5cjRXLXJ3MTNXM2diNnJWZnlQRHA1SHNyNUxGV0prSnFIVV9hT3RRZjNqUy05Tg?oc=5)
+### [Prädiabetes: Nur Lebensstilinterventionen senken das Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
-2026-10-14 <span class="news-indication-tag">diabetes</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcHpjeDhqOU5zOHFybnhPQm16NzA2aTd4SFFnbEpqSUcwNlRNakltRjloRHRTNzZlSllXT1IxNDI4S0l2SkZIeVRxY2cya2F6UjlUZHFfSGJjZ3JJTEVIZXBFRTNvWHF4bElpS2FGamZtQ0VZaUgtVXA3Z01FMUJNTGxBYzd1dWppOWNob25iYXUxVnVpZHBvSW92Ul9ySk9VTjVNQTBGS3lrdHhNN3RjNXRMaXRReldxeWFOUVBtQ3FCQXl4Q3JpWHN5cjRXLXJ3MTNXM2diNnJWZnlQRHA1SHNyNUxGV0prSnFIVV9hT3RRZjNqUy05Tg?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
 ---
 
@@ -102,27 +94,11 @@ Source: [La Gazzetta dello Sport](https://news.google.com/rss/articles/CBMixwFBV
 
 ---
 
-### [Diabetes und Rauchstopp: Acht Jahre Abstinenz senken Augenschäden um 41 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxOazdfRERPU1ZhRHVNOGtFRmZDYzlnUmhtRmIxR1RGMWY5em94WkJxbzk4QlFQNm5PTVVESVRYZTJlZUhWRzhNamVCNE5fTnFfUW9IT1RSaDFGbEQ2R1gzWFNjMkhpUTlwNm9KYnpJeGdsSmVYejNaUEFtQTFTTEVwTjZKdjlZdklDaGgzcGhFMmhreTdkUlJCQUs5S21IaGpaQzM0UnlSMG1NU3poMGNFcG5wc1VfTGZLV2pXVA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOazdfRERPU1ZhRHVNOGtFRmZDYzlnUmhtRmIxR1RGMWY5em94WkJxbzk4QlFQNm5PTVVESVRYZTJlZUhWRzhNamVCNE5fTnFfUW9IT1RSaDFGbEQ2R1gzWFNjMkhpUTlwNm9KYnpJeGdsSmVYejNaUEFtQTFTTEVwTjZKdjlZdklDaGgzcGhFMmhreTdkUlJCQUs5S21IaGpaQzM0UnlSMG1NU3poMGNFcG5wc1VfTGZLV2pXVA?oc=5)
-
----
-
 ### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
 
 2026-10-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
-
----
-
-### [Malattia del 'fegato grasso', la seconda causa di trapianto dell'organo](https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0REOWlLZ1dxTG9BZjFWZDlHZkFVaGxqUW15QUxrdV9hTzJBOUJhUjlvMjh6M3RqdXlHMHM0MVlTU2lBbVp3ZzRCcGNjYzc3WTBOajh0TVNUbks1c3ZrVkZyYU80bldtTFVkSXBfN3l5RE9tUjBTcTFQMmMxOHRtalZJUTV0WmJoU2UwM3cxa25UVHNLcVJoOThFM3NuV3AyZ2hUNkloOFAtQmRoOUpKbFRrZHpMellNX1lka3ljWVdGSEdYMGk5TURRaHU1SFBGTjVIYWx6N1dPZzNOUXBuaFM2TEdOeGowQ0lpZm4tRDR5MVhuOTQ5aTItUXdhMzZtQnRKbk9PSG9XQjdBZlNCbkJCQlVLdnZ5?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
-
-Source: [ANSA](https://news.google.com/rss/articles/CBMimAJBVV95cUxOT0REOWlLZ1dxTG9BZjFWZDlHZkFVaGxqUW15QUxrdV9hTzJBOUJhUjlvMjh6M3RqdXlHMHM0MVlTU2lBbVp3ZzRCcGNjYzc3WTBOajh0TVNUbks1c3ZrVkZyYU80bldtTFVkSXBfN3l5RE9tUjBTcTFQMmMxOHRtalZJUTV0WmJoU2UwM3cxa25UVHNLcVJoOThFM3NuV3AyZ2hUNkloOFAtQmRoOUpKbFRrZHpMellNX1lka3ljWVdGSEdYMGk5TURRaHU1SFBGTjVIYWx6N1dPZzNOUXBuaFM2TEdOeGowQ0lpZm4tRDR5MVhuOTQ5aTItUXdhMzZtQnRKbk9PSG9XQjdBZlNCbkJCQlVLdnZ5?oc=5)
 
 ---
 
@@ -134,19 +110,19 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGw
 
 ---
 
-### [Researchers followed glucose monitor users for three years and found a possible kidney benefit](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
+### [Unter Jüngeren mit Typ-2-Diabetes sozial Benachteiligte häufiger betroffen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabetes</span>
+2026-10-09 <span class="news-indication-tag">diabetes</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY2xHNmx3UFgxQ2hqN0R1WV8zdXNibFpxM3lnOFRZWVBxSHlxdDJtSEhZVEFOTFktM2pqZ2lIMENXRUh3bjVYMm1ZNnRtcjdfdzZpWGdQZ0lIbjFJUW1YY3I5SW5RWF93ckR0M0dWS0gyZ2NZajctN2ZnY0FFSjNUUWExZTdOV1c0akdSTDltUElrUDV2Y192Wm5ud1dFd21tZXpoaDUzMER4bGdtYmlwZF9rUkd1d19NbERwdUsxc3NRUkM3aHI5WUtUdW96ejdyX21aNGhJQkd1dWM?oc=5)
 
 ---
 
-### [Direktvergleich: Metformin oder SGLT2-Hemmer bei frühem Typ-2-Diabetes?](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
+### [Volkskrankheit Diabetes: Neue Empfehlungen könnten Behandlung deutlich verändern](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
 
-2026-10-08 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-10-08 <span class="news-indication-tag">diabetes</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMGZ6T1YtT3AyRmFJWTRFWUM4OXRsQk1qZkNLbnU3Z1N2czB2a3k4cDFveUtDekxqRk9ZS2l3M0I5a0xSUUQzd1ZvZ3FQYzBucThKRXVDa1ZJYkYtaEZYYnBBR1dOQVNJS1VsMUZ2ZmFPd0hCOGpPVXNyTTJfQVJlN25IeTdyVHp0d1JlSTlWbGg4dUEyUXJSN2pjS3ZHRlNvU0M4ZWh4ZUJmdTA3VTBQN19XTkZkQ0lSR1lB?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejZBY041N21XZzdyY0J0RTluT1RTbW5NMk14LTJUVVJUNkR5Z1RqQlpaLVI2RjNzYkhuTW55TTdXbkRIY2d1bXM3aV83bHBnV0RHSGlYUTlnSFB1NFVHRVNCcnF1aFpBY296V2VmUWk0VE13RzYyYy1GZ0hEeVRzTjVacmg0VjdJZlE5Z1dnWlJwTGtWcmJQYlVVV3hvT1d1T2I2cHNkVE95MGFRaFgtOVR4bUZFZEhBakwtV1AtZS1FeHQ4dXZvRjZIMWhZQnlhOUE?oc=5)
 
 ---
 

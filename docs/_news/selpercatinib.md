@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,13 +52,13 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Pr Hechmi Louzir (The Lancet) : « Les pires scénarios pour l’avenir de l’humanité ne sont pas inévitables » - Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
+### [Zunehmende Hinweise auf einen Zusammenhang zwischen HPV und Herzerkrankungen](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span>
+2026-10-12 <span class="news-indication-tag">Herzerkrankung</span>
 
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdnBqRE9WNUdhYnhYbWxkY3MzX3Y3TUR3NC1pR2J6UW5qWHBMd0U5TTB4bDNmczgyTGJ0TF9ZZnpsdUlLZU5VQWdyOWRjbTdOc0FGSmFxUUNGbVJ0M3BNX1dHenNNcWhBUUlRMU9fYUJqSXNkUHhKb0FBQzF1WXJVcXBBZ1ptN242SXN3Z3FoZWg5WHd5NFJVOGVOd3dhaVVkSzdpQmdzdHgzaXFiNERfNGxaSjNncFBpWmlDMk9hak93Q1R3bXUwZkg0akRrVWJRd3RuMDZ4NUE0dW9GYmhudGoxeFduRGk0OHl1S0xqaw?oc=5)
+Source: [https://www.kinderaerzte-im-netz.at/](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnlVZHNLcGU4dnM1U0I3N0FJd1FsU29NdmMyRkNaTGhpcFdlNnYzdU96bU5tdU0zdUJtY0dhN3phVTUtaFhlUUNUVWtaR3REUG1kTEtIQ0E0RnpsVHB6VTZJbVJpQ2kyaWwyeWVKaG9rN3VlTWF4QkRFWW5VLTR3cUtJWXBFY0VVMmhlU2JmWk04TlRPTjI4T0xkTU01bUJ1ZVVKQXBMNGxPSjl1TDk4dWFMUXp2Z3lmRDlUV3Fiejd5U1pHbDRLZlRVbk5CT0VWRkotXw?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi7wFBVV95cU
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
----
-
-### [« Ni une maladie, ni un poison »… Le cholestérol, une préoccupation majeure et un traitement toujours controversé - Sud Ouest](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2ppQl9VVjlBNUJVN3g0c1VDUWFqTExlUDkzSHJVcWZZZmpLM2NKZW0yOHJValpuUkR5QnJPZ251MkxWeDBUSTJaNFIweFN6eER4SFo5WVNtZnZIMDVaNk9kc3o0cTlHUDR5eXR6VGlvUW1wZ25yd3pCUGN2RDg0M2R5bWdNNVBScHAwMEl4TFJZYkJqVXMtelhrMHdCOHR3RGE3eTNhbnp4QVhOUVcwaFdVcnVZLXcxdGRZT3BjdXJzOGVLNW1oQlVOR2FCY3plTUZjbVpUcERSNXBia1hqQzVkYw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">hypertension</span>
-
-Source: [Sud Ouest](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU2ppQl9VVjlBNUJVN3g0c1VDUWFqTExlUDkzSHJVcWZZZmpLM2NKZW0yOHJValpuUkR5QnJPZ251MkxWeDBUSTJaNFIweFN6eER4SFo5WVNtZnZIMDVaNk9kc3o0cTlHUDR5eXR6VGlvUW1wZ25yd3pCUGN2RDg0M2R5bWdNNVBScHAwMEl4TFJZYkJqVXMtelhrMHdCOHR3RGE3eTNhbnp4QVhOUVcwaFdVcnVZLXcxdGRZT3BjdXJzOGVLNW1oQlVOR2FCY3plTUZjbVpUcERSNXBia1hqQzVkYw?oc=5)
 
 ---
 

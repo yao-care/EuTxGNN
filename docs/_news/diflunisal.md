@@ -54,11 +54,11 @@ This page combines the AI-predicted indications for Diflunisal with the latest h
 
 ## Related News (2)
 
-### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 ---
 

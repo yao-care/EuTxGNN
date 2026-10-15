@@ -3,7 +3,7 @@ layout: default
 title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 2 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 3 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>2 news articles</strong> and 11 related drugs.
+<strong>Schlaganfall (stroke)</strong> currently has <strong>3 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,21 @@ This page brings together the latest health news about “Schlaganfall” and li
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Schlaganfall: Ein Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
+### [Schlaganfälle treffen immer häufiger diese Altersgruppe](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
 
 2026-10-15
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeTdnUVFIVlVreXBLc2JRTzMxUFZ4OHVFNl9YUkZMM2xmQ0NjN1lIMUpsOFdpNzYwem9ocEpYMXJVWU5LajVPemFKaHczbHVDTGFEY05xX24yeTZiTVRuM3NSV1F0TnFTSGtxWW0xVW5YdDNCdVF3VE51bzh5S3g5eEViZ2piSVMxQUREdnJNUVlsU3h6THZmYXJjenViNWRuZklDTU1VcjROSmVTOEg4QW0weEZhZEYxU1AxNEpwX2tHdndMLV82OEJHQkdOZkJpdUpvbXg0aXhTSUNYUWFIZQ?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMXRYR2dHeTZGLXhtbEtrTnI5WG5HUDl5QVZoM2o5U1JleDZVTDRTZlNScWxZMjh4a0RQOUVvTXJXX1BzT0VVQWtOUU5McjE1TWY0ODVhOGlhRmVkd1F2SEc0NTg4UklXZUZDODFPYTJMLTdFSmQtalE2Wm4tWkRFRGdwVUdvdnNZaGdidFlHbzdFRUFJbEtDNlBSZlpRYzI4UUh4N3gtNUgyZURyRzlPSnhNUkVFd1RULVpIM1IyVWdYNWpiTlVMQ1N1anhsRkRGZWJ3WjI1NURjY1R6a1V3SGdSdWw3aXM?oc=5)
+
+---
+
+### [Ictus, non sempre intervenire con un catetere significa salvare più cervello](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblRKLVd2RlRwR3VMdmtrRGMzNHpUNDk3VkRtZXgtYjRBU0I1YjE1WTd0dndtVUkxdUltV09YOWtTYWtFNDdUazZZbnpFS0p1Y1FvSjBfdnp2QWxmXzhSMk9jUUluY21fSFgxOWpQcEFpV19wV1hrV0pyOEpkMWNoYXlyOWVJQXFVUWRXcXVDNkdraFBlanhZOEJnTWlNcE5YTzAtU1hsYV9lcm9aU2oxR0xUcGs2Z2lUZjRxQ29fbGJtRTRFWnhUQnJyMTFhR0Vf?oc=5)
+
+2026-10-14
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblRKLVd2RlRwR3VMdmtrRGMzNHpUNDk3VkRtZXgtYjRBU0I1YjE1WTd0dndtVUkxdUltV09YOWtTYWtFNDdUazZZbnpFS0p1Y1FvSjBfdnp2QWxmXzhSMk9jUUluY21fSFgxOWpQcEFpV19wV1hrV0pyOEpkMWNoYXlyOWVJQXFVUWRXcXVDNkdraFBlanhZOEJnTWlNcE5YTzAtU1hsYV9lcm9aU2oxR0xUcGs2Z2lUZjRxQ29fbGJtRTRFWnhUQnJyMTFhR0Vf?oc=5)
 
 ---
 

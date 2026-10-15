@@ -14,7 +14,7 @@ permalink: /news/indacaterol-maleate/
 ---
 
 <p class="key-answer" data-question="What news is there about Indacaterol Maleate?">
-<strong>Indacaterol Maleate</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Indacaterol Maleate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Indacaterol Maleate with the
 <p><a href="{{ '/drugs/indacaterol-maleate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [No existe evidencia de exacerbaciones de asma tras la vacuna antigripal inactivada - El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">asma</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbnhfUHNwLWYxdTUtTHEtSlg0OTVGbDJzWmFpVDdJWVU5X2ZiRVNLbnB2VnBuZG44YUdHd1UzdC1JeG1yekdZckNJYVZrR0hfcHE0SkdsSHB0R2V5UC1jMEtvRWFFMlEwM1pVRkNfZlJpMjFFRzFkNC1LbnJJM2dKeWMxdEgyUExSeWFfSkhJdFU4SVAxblBCaUlUVjFVZE5nVHJya19hMEZ6NUtXUS1kTEt0NnhZdw?oc=5)
-
----
-
-### [Inhalatoren bei Asthma und COPD: Vier von fünf Patienten wenden sie falsch an](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXVjb3ZVYXVWbnc3azc0RGt5V1NpT2pQWnpVb0o4N3lhaklhQ3QwVFZJc2wtUXp5V3dlN1JhYTI3M3E3dHdVeDc2dTJoYm1iZzRoSDVRaUdSMXlQck9CeFQ2dURYWWRpblZaTjFOMndNaERhRnFhR3dBdDhQYksydjIzUzc4anpIMjVtX21Oa0lYdGNkNncyYldKellvek9RNUxiQVNZaVF5WmFYLTBKNVlkS1RvSjA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">copd</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXVjb3ZVYXVWbnc3azc0RGt5V1NpT2pQWnpVb0o4N3lhaklhQ3QwVFZJc2wtUXp5V3dlN1JhYTI3M3E3dHdVeDc2dTJoYm1iZzRoSDVRaUdSMXlQck9CeFQ2dURYWWRpblZaTjFOMndNaERhRnFhR3dBdDhQYksydjIzUzc4anpIMjVtX21Oa0lYdGNkNncyYldKellvek9RNUxiQVNZaVF5WmFYLTBKNVlkS1RvSjA?oc=5)
 
 ---
 

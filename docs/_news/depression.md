@@ -3,7 +3,7 @@ layout: default
 title: "dépression (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 3 articles, 7 related drugs."
+description: "Health news about dépression (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<strong>dépression (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Depression lindern: Wie Ernährung die Psyche unterstützen kann](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUW4xYXZtVkJ2d0N5VzJUQzZoXzRpN2I4ZkJOdDFVR0UyRGJGTGxmM1NaSlM0cUloNldrRnVjR0V4NUxjS3lKVjBsMjN1RmRtX1c4SE95NzhQRjdRSzFsWmNyaDBpdlAxRElqZjJIclBrZ2gzcmV5Z2xjeFV6T202SjFraXRTN0pyVU9iVEFjbGZNOU9rcFlVQmdUUWoyd0VVcnFaTkl3eFlJY2pHV3o1SXlyN25wNTkycjFVYm1xaFFJNEUtYl9nMy1CeWNQM3l4M2JlQQ?oc=5)
+
+2026-10-15
+
+Source: [BILD](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUW4xYXZtVkJ2d0N5VzJUQzZoXzRpN2I4ZkJOdDFVR0UyRGJGTGxmM1NaSlM0cUloNldrRnVjR0V4NUxjS3lKVjBsMjN1RmRtX1c4SE95NzhQRjdRSzFsWmNyaDBpdlAxRElqZjJIclBrZ2gzcmV5Z2xjeFV6T202SjFraXRTN0pyVU9iVEFjbGZNOU9rcFlVQmdUUWoyd0VVcnFaTkl3eFlJY2pHV3o1SXlyN25wNTkycjFVYm1xaFFJNEUtYl9nMy1CeWNQM3l4M2JlQQ?oc=5)
+
+---
+
+### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
+
+2026-10-14
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
+
+---
 
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 

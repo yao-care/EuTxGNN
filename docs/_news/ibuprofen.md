@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [El Nobel de Medicina 2026 reconoce una tecnología que abre nuevas vías para recuperar la visión](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXlqTm1mVWZxZThKVUxiQktZTl9qZ0hqd1VoeXpVMEVvQjFnb3UtUXNKMUFfZTBIVkRVV2w1emVJVWd0alhVcDZFaHUwMG9KaEFpeWRYQXpUUl9mWVNZb2U4NnlJWGlPS1FybXU1VDBYN2hZM3NMT3NHSUdSc0Nkc3pRVmZYWXd6YklHRm9hc3FLMGZMcmFiY3JERzktdGhMTGFKclpfd2l5ejJrNnplOTNuUndhWTcwQ29F?oc=5)
-
-2026-10-14 <span class="news-drug-tag">Ibuprofen</span> <span class="news-indication-tag">AF</span>
-
-Source: [Modaengafas.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXlqTm1mVWZxZThKVUxiQktZTl9qZ0hqd1VoeXpVMEVvQjFnb3UtUXNKMUFfZTBIVkRVV2w1emVJVWd0alhVcDZFaHUwMG9KaEFpeWRYQXpUUl9mWVNZb2U4NnlJWGlPS1FybXU1VDBYN2hZM3NMT3NHSUdSc0Nkc3pRVmZYWXd6YklHRm9hc3FLMGZMcmFiY3JERzktdGhMTGFKclpfd2l5ejJrNnplOTNuUndhWTcwQ29F?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Hoher BMI schwächt das Ansprechen auf JAK-Hemmer](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNazgwYXlkc3A5YXVZYXlCMVlMSmRwMjFSRldCT19iTWV2UnhGWUF3ZnQ2ekNFMHhkeG15MDNkMUFZR2pBYnd1bXMweHVpd243U3FvTXJrd2ZrbV9ZZ0duaXg4bWlGX0dBYlN6azBOYi1jSUJSLXRPUWxtU2xxRmdLc1M5M3FtdzFOOE1XWlV4NVh2SEZPQzBYeFlfUktTOGhIZHlWeFItazVIRXlYWVNTY2FramhrVTVLLXNyWA?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 ---
 
