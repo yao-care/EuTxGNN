@@ -50,7 +50,7 @@ Data sources, downloads, and references
 
 | Resource | Link |
 |----------|------|
-| TxGNN Paper | [Nature Medicine](https://doi.org/10.1038/s41591-023-02233-x) |
+| TxGNN Paper | [Nature Medicine](https://doi.org/10.1038/s41591-024-03233-x) |
 | TxGNN GitHub | [mims-harvard/TxGNN](https://github.com/mims-harvard/TxGNN) |
 | EMA Medicines | [ema.europa.eu](https://www.ema.europa.eu/) |
 | DrugBank | [drugbank.com](https://go.drugbank.com/) |
