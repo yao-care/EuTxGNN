@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 97
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Binimetinib: predicted new indication Choroideremia . Rank 2 is non-cutaneous melanoma… (evidence level L5). Approved use: Unresectable or metastatic melanoma with a BRAF V600 mutation"
 ---
 
 # Binimetinib

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 480
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Bladder pain syndrome characterised by glomerulations or Hunner's les…"
 ---
 
 # Pentosan Polysulfate

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 597
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Temozolomide: predicted new indication Adult astrocytic tumour (evidence level L1). Approved use: Newly diagnosed glioblastoma multiforme (with radiotherapy…"
 ---
 
 # Temozolomide

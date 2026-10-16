@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Delay of imminent pre-term birth in pregnant adult women (regular ute…"
 ---
 
 # Atosiban

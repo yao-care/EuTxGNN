@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Primary immune thrombocytopenia (ITP) in adults refractory to other t…"
 ---
 
 # Romiplostim

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 149
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cilastatin: predicted new indication Staphylococcus aureus infection (evidence level L3). Approved use: Hospital-acquired pneumonia (HAP)…"
 ---
 
 # Cilastatin

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 34
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alendronic Acid: predicted new indication HIV infectious disease (evidence level L5). Approved use: Treatment of postmenopausal osteoporosis in patients at risk of vitam…"
 ---
 
 # Alendronic Acid

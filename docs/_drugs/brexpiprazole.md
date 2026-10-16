@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Brexpiprazole: predicted new indication Dysthymic disorder (evidence level L5). Approved use: Schizophrenia in adults and adolescents aged 13 years and older"
 ---
 
 # Brexpiprazole

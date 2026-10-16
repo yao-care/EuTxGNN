@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 314
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L4). Approved use: Long-term enzyme replacement therapy for non-neuronopathic (Type 1) o…"
 ---
 
 # Imiglucerase

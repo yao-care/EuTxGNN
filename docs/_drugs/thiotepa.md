@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 609
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thiotepa: predicted new indication Adult germ cell tumor (evidence level L2). Approved use: Conditioning treatment prior to allogeneic or autologous HPCT in haem…"
 ---
 
 # Thiotepa

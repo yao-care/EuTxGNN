@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alemtuzumab: predicted new indication Syndrome with combined immunodeficiency (evidence level L5). Approved use: Adult patients with relapsing-remitting multiple sclerosis (RRMS) wit…"
 ---
 
 # Alemtuzumab

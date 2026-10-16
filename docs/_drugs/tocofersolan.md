@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tocofersolan: predicted new indication Amenorrhea (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
 ---
 
 # Tocofersolan

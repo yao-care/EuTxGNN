@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 581
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…"
 ---
 
 # Tacrolimus

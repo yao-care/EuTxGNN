@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 668
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vigabatrin: predicted new indication Intellectual disability, X-linked, with or without seizures… (evidence level L4). Approved use: Monotherapy for infantile spasms (West's syndrome)"
 ---
 
 # Vigabatrin

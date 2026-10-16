@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 212
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Elacestrant: predicted new indication Amenorrhea (evidence level L5). Approved use: Postmenopausal women and men with ER-positive, HER2-negative…"
 ---
 
 # Elacestrant

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 434
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nivolumab: predicted new indication Non-cutaneous melanoma (evidence level L2). Approved use: Advanced (unresectable or metastatic) melanoma…"
 ---
 
 # Nivolumab

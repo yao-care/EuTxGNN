@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carfilzomib: predicted new indication CMM7 (evidence level L5). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
 ---
 
 # Carfilzomib

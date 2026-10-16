@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 111
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Budesonide: predicted new indication Atopic eczema (evidence level L4). Approved use: Eosinophilic esophagitis (EoE) in adults (older than 18 years of age)"
 ---
 
 # Budesonide

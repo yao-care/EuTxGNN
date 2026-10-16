@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 600
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tenofovir Alafenamide: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis B (CHB) in adults and paediatric patients 6 years o…"
 ---
 
 # Tenofovir Alafenamide

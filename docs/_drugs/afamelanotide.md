@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Afamelanotide: predicted new indication X-linked erythropoietic protoporphyria (evidence level L5). Approved use: Prevention of phototoxicity in adult patients with erythropoietic pro…"
 ---
 
 # Afamelanotide

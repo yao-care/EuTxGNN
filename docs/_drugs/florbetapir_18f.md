@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 ---
 
 # Florbetapir 18F

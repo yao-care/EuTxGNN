@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 ---
 
 # Phenylalanine

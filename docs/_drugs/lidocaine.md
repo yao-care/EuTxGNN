@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Treatment of primary premature ejaculation in adult men"
 ---
 
 # Lidocaine

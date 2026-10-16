@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Interferon Beta-1A: predicted new indication Jeune syndrome situs inversus (evidence level L5). Approved use: Relapsing multiple sclerosis…"
 ---
 
 # Interferon Beta-1A

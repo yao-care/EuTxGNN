@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Add-on therapy in adult patients with severe eosinophilic asthma inad…"
 ---
 
 # Reslizumab

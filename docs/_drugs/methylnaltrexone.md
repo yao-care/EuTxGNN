@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylnaltrexone: predicted new indication Congenital hypotrichosis milia (evidence level L5). Approved use: Treatment of opioid-induced constipation in advanced-illness patients…"
 ---
 
 # Methylnaltrexone

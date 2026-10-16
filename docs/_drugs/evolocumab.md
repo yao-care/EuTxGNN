@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Evolocumab: predicted new indication Symptomatic form of hemophilia in female carriers (evidence level L5). Approved use: Hypercholesterolaemia and mixed dyslipidaemia"
 ---
 
 # Evolocumab

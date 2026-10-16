@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Gemtuzumab Ozogamicin: predicted new indication Chronic myelogenous leukemia, BCR-ABL1 positive (evidence level L5). Approved use: Combination therapy with daunorubicin and cytarabine for previously …"
 ---
 
 # Gemtuzumab Ozogamicin

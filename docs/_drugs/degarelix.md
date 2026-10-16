@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Degarelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Treatment of adult male patients with advanced hormone-dependent pros…"
 ---
 
 # Degarelix

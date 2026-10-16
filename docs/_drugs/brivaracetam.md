@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 108
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Brivaracetam: predicted new indication Visual epilepsy (evidence level L5). Approved use: Adjunctive therapy for partial-onset seizures with or without seconda…"
 ---
 
 # Brivaracetam

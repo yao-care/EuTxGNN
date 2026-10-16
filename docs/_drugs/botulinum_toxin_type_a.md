@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Botulinum Toxin Type A: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Temporary improvement in the appearance of moderate to severe glabell…"
 ---
 
 # Botulinum Toxin Type A

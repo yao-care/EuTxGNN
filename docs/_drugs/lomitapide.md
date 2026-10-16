@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lomitapide: predicted new indication Macrothrombocytopenia with mitral valve insufficiency (evidence level L5). Approved use: Adjunct to a low-fat diet and other lipid-lowering medicines…"
 ---
 
 # Lomitapide

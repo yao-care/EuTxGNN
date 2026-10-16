@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Somapacitan: predicted new indication Allergic asthma (evidence level L5). Approved use: Replacement of endogenous growth hormone (GH) in children aged 3 year…"
 ---
 
 # Somapacitan

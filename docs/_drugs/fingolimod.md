@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fingolimod: predicted new indication Borderline ovarian serous tumor (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (adults and paed…"
 ---
 
 # Fingolimod

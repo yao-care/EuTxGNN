@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Macimorelin: predicted new indication Hypertrichosis (evidence level L5). Approved use: Diagnosis of growth hormone deficiency (GHD) in adults (diagnostic us…"
 ---
 
 # Macimorelin

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 216
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eliglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). Approved use: Long-term treatment of adult patients with Gaucher disease type 1 (GD…"
 ---
 
 # Eliglustat

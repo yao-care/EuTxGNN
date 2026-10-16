@@ -8,6 +8,7 @@ parent: AI Predictions (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 50
+last_modified_at: 2026-10-16
 ---
 
 # Angiotensin Ii Acetate

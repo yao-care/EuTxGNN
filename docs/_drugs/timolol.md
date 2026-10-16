@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Timolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Decrease of intraocular pressure (IOP) in adult patients with open an…"
 ---
 
 # Timolol

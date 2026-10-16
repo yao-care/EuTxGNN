@@ -8,6 +8,7 @@ parent: AI Predictions (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 50
+last_modified_at: 2026-10-16
 ---
 
 # Fondaparinux Sodium

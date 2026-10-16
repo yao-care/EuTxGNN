@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 590
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tazobactam: predicted new indication Pneumonia (evidence level L1). Approved use: Complicated intra-abdominal infections"
 ---
 
 # Tazobactam

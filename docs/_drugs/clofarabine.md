@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 153
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clofarabine: predicted new indication Myeloid leukaemia (evidence level L1). Approved use: Acute lymphoblastic leukaemia (ALL) in paediatric patients who have r…"
 ---
 
 # Clofarabine

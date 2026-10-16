@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paclitaxel: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Metastatic breast cancer in adults who have failed first-line treatme…"
 ---
 
 # Paclitaxel

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 230
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L4). Approved use: Solid tumours expressing an NTRK gene fusion (adults and paediatric p…"
 ---
 
 # Entrectinib

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Axitinib: predicted new indication Renal cell carcinoma associated with neuroblastoma . The evidence bel… (evidence level L5). Approved use: Advanced renal cell carcinoma (RCC) after failure of prior…"
 ---
 
 # Axitinib

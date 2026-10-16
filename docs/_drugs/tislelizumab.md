@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 621
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tislelizumab: predicted new indication Mixed-type autoimmune hemolytic anemia (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)…"
 ---
 
 # Tislelizumab

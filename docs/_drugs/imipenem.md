@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Imipenem: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Hospital-acquired pneumonia (including ventilator-associated pneumoni…"
 ---
 
 # Imipenem

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Treatment-resistant Major Depressive Disorder in adults who have not…"
 ---
 
 # Esketamine

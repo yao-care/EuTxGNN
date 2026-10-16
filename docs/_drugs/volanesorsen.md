@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Volanesorsen: predicted new indication Megaloblastic anemia (evidence level L5). Approved use: Adjunct to diet in adult patients with genetically confirmed familial…"
 ---
 
 # Volanesorsen

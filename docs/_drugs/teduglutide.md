@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Teduglutide: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Short Bowel Syndrome (SBS) in patients aged 1 year and above who are…"
 ---
 
 # Teduglutide

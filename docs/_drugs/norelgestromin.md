@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Norelgestromin: predicted new indication Amenorrhea (evidence level L5). Approved use: Female contraception (women of fertile age, 18 to 45 years)"
 ---
 
 # Norelgestromin

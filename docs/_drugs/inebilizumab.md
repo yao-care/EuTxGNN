@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Inebilizumab: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Monotherapy for adult patients with neuromyelitis optica spectrum dis…"
 ---
 
 # Inebilizumab

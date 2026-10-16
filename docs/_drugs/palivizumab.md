@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 461
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Palivizumab: predicted new indication Benign neoplasm of tongue (evidence level L5). Approved use: Prevention of serious lower-respiratory-tract disease requiring hospi…"
 ---
 
 # Palivizumab

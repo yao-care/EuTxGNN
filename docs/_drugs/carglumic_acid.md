@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 130
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carglumic Acid: predicted new indication Cystic teratoma (evidence level L5). Approved use: Hyperammonaemia due to primary N-acetylglutamate synthase deficiency…"
 ---
 
 # Carglumic Acid

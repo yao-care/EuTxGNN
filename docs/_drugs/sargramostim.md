@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 547
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sargramostim: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Treatment of patients of all ages acutely exposed to myelosuppressive…"
 ---
 
 # Sargramostim

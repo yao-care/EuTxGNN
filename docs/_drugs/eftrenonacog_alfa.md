@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eftrenonacog Alfa: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia B…"
 ---
 
 # Eftrenonacog Alfa

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 242
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eslicarbazepine Acetate: predicted new indication Adolescent/adult onset autosomal dominant epilepsy with auditory feat… (evidence level L5). Approved use: Adjunctive therapy in adults…"
 ---
 
 # Eslicarbazepine Acetate

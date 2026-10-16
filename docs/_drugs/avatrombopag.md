@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Avatrombopag: predicted new indication Macrothrombocytopenia with mitral valve insufficiency (evidence level L5). Approved use: Severe thrombocytopenia in adults with chronic liver disease schedule…"
 ---
 
 # Avatrombopag

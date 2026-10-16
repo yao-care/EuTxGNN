@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dulaglutide: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (patients 10 years and above) with insuffici…"
 ---
 
 # Dulaglutide

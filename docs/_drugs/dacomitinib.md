@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dacomitinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: First-line monotherapy for adults with locally advanced or metastatic…"
 ---
 
 # Dacomitinib

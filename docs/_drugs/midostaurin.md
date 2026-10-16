@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Midostaurin: predicted new indication Familial thrombocytosis (evidence level L5). Approved use: Newly diagnosed FLT3-mutation-positive AML (with standard chemotherap…"
 ---
 
 # Midostaurin

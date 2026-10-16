@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 672
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Symptomatic metastatic basal cell carcinoma…"
 ---
 
 # Vismodegib

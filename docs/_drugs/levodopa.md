@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 365
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Intermittent treatment of episodic motor fluctuations (OFF episodes)…"
 ---
 
 # Levodopa

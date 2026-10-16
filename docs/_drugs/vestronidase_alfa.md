@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 666
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vestronidase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Treatment of non-neurological manifestations of Mucopolysaccharidosis…"
 ---
 
 # Vestronidase Alfa

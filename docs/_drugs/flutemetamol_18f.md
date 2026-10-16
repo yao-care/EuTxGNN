@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flutemetamol 18F: predicted new indication Anaphylaxis (evidence level L5). Approved use: PET imaging of β-amyloid neuritic plaque density in the brains of adu…"
 ---
 
 # Flutemetamol 18F

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 534
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Roflumilast: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Maintenance treatment of severe COPD (post-bronchodilator FEV1 below…"
 ---
 
 # Roflumilast

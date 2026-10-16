@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 686
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Zoledronic Acid: predicted new indication HIV infectious disease (evidence level L2). Approved use: Prevention of skeletal-related events in adults with advanced maligna…"
 ---
 
 # Zoledronic Acid

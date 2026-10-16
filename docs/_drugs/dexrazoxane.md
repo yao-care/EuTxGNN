@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 189
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dexrazoxane: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Treatment of anthracycline extravasation"
 ---
 
 # Dexrazoxane

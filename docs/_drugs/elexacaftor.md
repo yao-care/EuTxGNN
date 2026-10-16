@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Elexacaftor: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Cystic fibrosis (CF) in patients aged 2 years and older with at least…"
 ---
 
 # Elexacaftor

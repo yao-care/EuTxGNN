@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 618
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tiratricol: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Peripheral thyrotoxicosis in patients with MCT8 deficiency (Allan-Her…"
 ---
 
 # Tiratricol

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Arsenic Trioxide: predicted new indication Unclassified myelodysplastic syndrome (evidence level L5). Approved use: Induction of remission and consolidation in adults with newly diagnos…"
 ---
 
 # Arsenic Trioxide

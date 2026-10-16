@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 622
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tivozanib: predicted new indication Endocervical carcinoma (evidence level L5). Approved use: First-line treatment of adult patients with advanced renal cell carci…"
 ---
 
 # Tivozanib

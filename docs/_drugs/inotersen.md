@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 322
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Inotersen: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of stage 1 or stage 2 polyneuropathy in adult patients with…"
 ---
 
 # Inotersen

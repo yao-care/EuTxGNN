@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Treatment of obese patients (BMI ≥ 30 kg/m²) or overweight patients (…"
 ---
 
 # Orlistat

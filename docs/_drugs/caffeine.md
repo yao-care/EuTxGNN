@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Treatment of primary apnoea of premature newborns"
 ---
 
 # Caffeine

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tyrosine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Maple syrup urine disease (MSUD) presenting with an acute decompensat…"
 ---
 
 # Tyrosine

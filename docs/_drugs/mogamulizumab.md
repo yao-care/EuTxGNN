@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mogamulizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L5). Approved use: Adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) wh…"
 ---
 
 # Mogamulizumab

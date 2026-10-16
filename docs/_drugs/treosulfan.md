@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Conditioning treatment, in combination with fludarabine…"
 ---
 
 # Treosulfan

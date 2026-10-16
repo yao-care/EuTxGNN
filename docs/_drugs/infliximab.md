@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 321
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Infliximab: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Treatment of rheumatoid arthritis, Crohn's disease…"
 ---
 
 # Infliximab

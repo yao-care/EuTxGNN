@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Darolutamide: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
 ---
 
 # Darolutamide

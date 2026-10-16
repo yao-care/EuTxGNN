@@ -6,6 +6,7 @@ parent: Phase 2 Evidence (L2)
 nav_order: 278
 evidence_level: L2
 indication_count: 50
+last_modified_at: 2026-10-16
 ---
 
 # Guanfacine Hydrochloride

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Prucalopride: predicted new indication Hypoalphalipoproteinemia (evidence level L5). Approved use: Symptomatic treatment of chronic constipation in adults in whom laxat…"
 ---
 
 # Prucalopride

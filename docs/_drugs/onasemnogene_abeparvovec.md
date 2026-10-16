@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Onasemnogene Abeparvovec: predicted new indication Bronchitis (evidence level L5). Approved use: 5q spinal muscular atrophy (SMA) with a bi-allelic SMN1 mutation and…"
 ---
 
 # Onasemnogene Abeparvovec

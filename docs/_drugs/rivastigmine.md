@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 533
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rivastigmine: predicted new indication Glaucoma (evidence level L4). Approved use: Symptomatic treatment of mild to moderately severe Alzheimer's dement…"
 ---
 
 # Rivastigmine

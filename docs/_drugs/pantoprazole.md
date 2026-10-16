@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 465
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
 ---
 
 # Pantoprazole

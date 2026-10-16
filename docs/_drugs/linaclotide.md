@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Symptomatic treatment of moderate to severe irritable bowel syndrome…"
 ---
 
 # Linaclotide

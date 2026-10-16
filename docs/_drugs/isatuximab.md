@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 336
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Isatuximab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma (in combination with pomalidomide/dexamethasone…"
 ---
 
 # Isatuximab

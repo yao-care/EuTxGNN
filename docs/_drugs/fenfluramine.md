@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Seizures associated with Dravet syndrome as add-on therapy to other a…"
 ---
 
 # Fenfluramine

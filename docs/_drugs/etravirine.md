@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etravirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV-1 infection in antiretroviral-treatment-experienced adults and pa…"
 ---
 
 # Etravirine

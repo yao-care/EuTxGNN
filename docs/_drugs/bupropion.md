@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 114
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bupropion: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Weight management in adults (≥18 years) with BMI ≥30 kg/m² (obese)…"
 ---
 
 # Bupropion

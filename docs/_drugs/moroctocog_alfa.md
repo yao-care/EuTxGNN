@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Moroctocog Alfa: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia A…"
 ---
 
 # Moroctocog Alfa

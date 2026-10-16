@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bupivacaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Exparel liposomal: in adults as a brachial plexus block or femoral ne…"
 ---
 
 # Bupivacaine

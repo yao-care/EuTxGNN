@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Velaglucerase Alfa: predicted new indication Steel syndrome (evidence level L5). Approved use: Long-term enzyme replacement therapy (ERT) in patients with type 1 Ga…"
 ---
 
 # Velaglucerase Alfa

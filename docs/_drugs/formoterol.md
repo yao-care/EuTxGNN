@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Formoterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Asthma and COPD (maintenance treatment…"
 ---
 
 # Formoterol

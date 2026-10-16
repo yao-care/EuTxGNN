@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 642
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trifluridine: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Metastatic colorectal cancer (with bevacizumab or as monotherapy) and…"
 ---
 
 # Trifluridine

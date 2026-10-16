@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Axicabtagene Ciloleucel: predicted new indication Crohn's colitis (evidence level L5). Approved use: Adult DLBCL and HGBL relapsing within 12 months of, or refractory to…"
 ---
 
 # Axicabtagene Ciloleucel

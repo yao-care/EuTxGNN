@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Treatment of visual impairment in adolescent and adult patients with…"
 ---
 
 # Idebenone

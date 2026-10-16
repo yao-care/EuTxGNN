@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Severe hepatic veno-occlusive disease (VOD/SOS) in HSCT therapy…"
 ---
 
 # Defibrotide

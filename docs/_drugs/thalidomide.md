@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thalidomide: predicted new indication Ganglioneuroblastoma (evidence level L5). Approved use: First-line treatment of untreated multiple myeloma (with melphalan an…"
 ---
 
 # Thalidomide

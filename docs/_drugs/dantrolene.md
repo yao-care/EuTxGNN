@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Dantrolene: predicted new indication Malignant hyperthermia, susceptibility to (evidence level L5). Approved use: Treatment of malignant hyperthermia in adults and children of all age…"
 ---
 
 # Dantrolene

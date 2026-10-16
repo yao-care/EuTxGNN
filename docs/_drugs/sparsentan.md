@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 574
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sparsentan: predicted new indication Alopecia (evidence level L5). Approved use: Treatment of adults with primary IgA nephropathy (IgAN) with urine pr…"
 ---
 
 # Sparsentan

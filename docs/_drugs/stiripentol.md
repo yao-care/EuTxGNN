@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Stiripentol: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Adjunctive therapy (with clobazam and valproate) of refractory genera…"
 ---
 
 # Stiripentol

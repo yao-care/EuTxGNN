@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 427
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Netupitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Prevention of acute and delayed nausea and vomiting associated with h…"
 ---
 
 # Netupitant

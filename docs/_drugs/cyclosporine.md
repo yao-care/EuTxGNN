@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 162
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cyclosporine: predicted new indication Granulomatous disease, chronic, autosomal recessive (evidence level L4). Approved use: Treatment of moderate to severe dry eye disease (keratoconjunctivitis…"
 ---
 
 # Cyclosporine

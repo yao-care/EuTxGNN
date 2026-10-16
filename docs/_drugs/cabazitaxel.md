@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 117
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cabazitaxel: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Treatment of patients with hormone refractory metastatic prostate can…"
 ---
 
 # Cabazitaxel

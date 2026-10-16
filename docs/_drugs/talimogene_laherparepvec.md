@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Talimogene Laherparepvec: predicted new indication CMM7 (ambiguous label) (evidence level L5). Approved use: Unresectable melanoma that is regionally or distantly metastatic (Sta…"
 ---
 
 # Talimogene Laherparepvec

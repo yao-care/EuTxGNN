@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 160
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Corifollitropin Alfa: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Controlled Ovarian Stimulation (COS) in combination with a GnRH antag…"
 ---
 
 # Corifollitropin Alfa

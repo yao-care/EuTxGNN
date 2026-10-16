@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Adjunct to standard levodopa/benserazide or levodopa/carbidopa in adu…"
 ---
 
 # Entacapone

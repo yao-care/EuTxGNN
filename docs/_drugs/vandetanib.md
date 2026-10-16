@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L5). Approved use: Aggressive and symptomatic medullary thyroid cancer (MTC) in patients…"
 ---
 
 # Vandetanib

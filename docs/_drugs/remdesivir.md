@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: COVID-19 in adults and paediatric patients (at least 4 weeks of age a…"
 ---
 
 # Remdesivir

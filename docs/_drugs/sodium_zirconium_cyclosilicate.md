@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 568
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sodium Zirconium Cyclosilicate: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Treatment of hyperkalaemia in adult patients"
 ---
 
 # Sodium Zirconium Cyclosilicate

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rufinamide: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Adjunctive therapy for seizures associated with Lennox-Gastaut syndro…"
 ---
 
 # Rufinamide

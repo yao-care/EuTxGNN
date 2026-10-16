@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 124
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cannabidiol: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Adjunctive therapy of seizures associated with Lennox-Gastaut syndrom…"
 ---
 
 # Cannabidiol

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Saxagliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus in adults (monotherapy…"
 ---
 
 # Saxagliptin

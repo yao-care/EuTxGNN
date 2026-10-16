@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tenecteplase: predicted new indication Posterolateral myocardial infarction (evidence level L5). Approved use: Thrombolytic treatment of suspected myocardial infarction with persis…"
 ---
 
 # Tenecteplase

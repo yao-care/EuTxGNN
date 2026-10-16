@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 350
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lanadelumab: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Routine prevention of recurrent attacks of hereditary angioedema (HAE…"
 ---
 
 # Lanadelumab

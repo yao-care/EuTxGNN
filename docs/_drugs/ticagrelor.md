@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Prevention of atherothrombotic events in adults with ACS or a history…"
 ---
 
 # Ticagrelor

@@ -6,6 +6,7 @@ parent: Phase 3+ Evidence (L1)
 nav_order: 53
 evidence_level: L1
 indication_count: 50
+last_modified_at: 2026-10-16
 ---
 
 # Atazanavir (As Sulfate)

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 234
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Eptinezumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Prophylaxis of migraine in adults who have at least 4 migraine days p…"
 ---
 
 # Eptinezumab

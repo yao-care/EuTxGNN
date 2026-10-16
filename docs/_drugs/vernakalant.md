@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 664
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vernakalant: predicted new indication Stroke disorder (evidence level L4). Approved use: Rapid conversion of recent-onset atrial fibrillation to sinus rhythm…"
 ---
 
 # Vernakalant

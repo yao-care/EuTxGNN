@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 603
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Teprotumumab: predicted new indication Monosomy X (evidence level L5). Approved use: Treatment of moderate to severe thyroid eye disease (TED)"
 ---
 
 # Teprotumumab

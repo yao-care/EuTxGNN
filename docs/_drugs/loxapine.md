@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 378
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loxapine: predicted new indication Manic bipolar affective disorder (evidence level L3). Approved use: Rapid control of mild-to-moderate agitation in adult patients with sc…"
 ---
 
 # Loxapine

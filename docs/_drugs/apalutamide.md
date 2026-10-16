@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Apalutamide: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Non-metastatic castration-resistant prostate cancer (nmCRPC) at high…"
 ---
 
 # Apalutamide

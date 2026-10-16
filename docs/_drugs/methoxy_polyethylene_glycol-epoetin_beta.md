@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Symptomatic anaemia associated with chronic kidney disease …"
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta

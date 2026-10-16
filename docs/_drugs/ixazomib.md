@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 342
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ixazomib: predicted new indication Indolent plasma cell myeloma (evidence level L3). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
 ---
 
 # Ixazomib

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L5). Approved use: Newly diagnosed de novo or secondary AML in adults not eligible for s…"
 ---
 
 # Decitabine

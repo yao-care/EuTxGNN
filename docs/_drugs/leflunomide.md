@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 360
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Leflunomide: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Active rheumatoid arthritis as a DMARD (psoriatic arthritis is also c…"
 ---
 
 # Leflunomide

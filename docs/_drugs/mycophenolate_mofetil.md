@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L5). Approved use: Prophylaxis of acute transplant rejection (with ciclosporin and corti…"
 ---
 
 # Mycophenolate Mofetil

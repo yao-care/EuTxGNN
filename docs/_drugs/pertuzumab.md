@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 483
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pertuzumab: predicted new indication Progesterone-receptor positive breast cancer (evidence level L1). Approved use: HER2-positive metastatic or locally recurrent unresectable breast can…"
 ---
 
 # Pertuzumab

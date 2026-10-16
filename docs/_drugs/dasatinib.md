@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 176
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Paediatric and adult Ph+ CML (chronic phase…"
 ---
 
 # Dasatinib

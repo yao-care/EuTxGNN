@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 223
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Enalapril: predicted new indication Chronic pulmonary heart disease (evidence level L4). Approved use: Treatment of heart failure"
 ---
 
 # Enalapril

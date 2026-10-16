@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Anifrolumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Add-on therapy for adult patients with moderate to severe…"
 ---
 
 # Anifrolumab

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Denosumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 ---
 
 # Denosumab

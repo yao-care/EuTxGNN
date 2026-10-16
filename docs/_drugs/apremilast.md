@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Apremilast: predicted new indication Migraine disorder (evidence level L5). Approved use: Active psoriatic arthritis in adults (also moderate to severe plaque…"
 ---
 
 # Apremilast

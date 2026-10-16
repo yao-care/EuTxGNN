@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dostarlimab: predicted new indication Acute megakaryoblastic leukemia (evidence level L5). Approved use: First-line treatment (with carboplatin and paclitaxel) of primary adv…"
 ---
 
 # Dostarlimab

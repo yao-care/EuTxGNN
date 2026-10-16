@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Niraparib: predicted new indication Cystic neoplasm (mapped to gynecologic serous carcinomas… (evidence level L5). Approved use: Maintenance treatment of advanced (FIGO Stage III–IV) high-grade epit…"
 ---
 
 # Niraparib

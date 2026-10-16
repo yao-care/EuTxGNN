@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 401
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: ADHD in children and adolescents aged 6-17 years…"
 ---
 
 # Methylphenidate

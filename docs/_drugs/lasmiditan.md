@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 354
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lasmiditan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Acute treatment of the headache phase of migraine attacks…"
 ---
 
 # Lasmiditan

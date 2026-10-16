@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 395
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Complicated urinary tract infection (cUTI) including pyelonephritis…"
 ---
 
 # Meropenem

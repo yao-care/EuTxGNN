@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Regorafenib: predicted new indication Liposarcoma (evidence level L5). Approved use: Metastatic colorectal cancer (previously treated)"
 ---
 
 # Regorafenib

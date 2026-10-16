@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Romosozumab: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Severe osteoporosis in postmenopausal women at high risk of fracture"
 ---
 
 # Romosozumab

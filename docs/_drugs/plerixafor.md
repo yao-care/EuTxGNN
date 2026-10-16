@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Plerixafor: predicted new indication Indolent plasma cell myeloma (evidence level L5). Approved use: Mobilisation of haematopoietic stem cells (with G-CSF) for autologous…"
 ---
 
 # Plerixafor

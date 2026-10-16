@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 177
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Daunorubicin: predicted new indication Hodgkin's lymphoma (evidence level L3). Approved use: Newly diagnosed t-AML or AML-MRC in adults (liposomal formulation)"
 ---
 
 # Daunorubicin

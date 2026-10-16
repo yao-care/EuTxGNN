@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bempedoic Acid: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Primary hypercholesterolaemia (heterozygous familial and non-familial…"
 ---
 
 # Bempedoic Acid

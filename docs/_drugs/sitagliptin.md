@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sitagliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (improving glycaemic control in adults)"
 ---
 
 # Sitagliptin

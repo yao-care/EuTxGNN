@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Adjunct to levodopa/benserazide or levodopa/carbidopa in levodopa-res…"
 ---
 
 # Tolcapone

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 410
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Miglustat: predicted new indication Tay-Sachs disease (evidence level L2). Approved use: Mild to moderate type 1 Gaucher disease (when enzyme replacement ther…"
 ---
 
 # Miglustat

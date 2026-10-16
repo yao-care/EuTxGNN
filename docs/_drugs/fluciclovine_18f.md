@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 266
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluciclovine 18F: predicted new indication Trichotillomania (evidence level L5). Approved use: PET imaging to detect recurrence of prostate cancer in adult men with…"
 ---
 
 # Fluciclovine 18F

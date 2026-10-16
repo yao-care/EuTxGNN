@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lapatinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Breast cancer with HER2 (ErbB2) overexpression…"
 ---
 
 # Lapatinib

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Use with serum thyroglobulin (Tg) testing…"
 ---
 
 # Thyrotropin Alfa

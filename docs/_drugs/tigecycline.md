@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 613
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tigecycline: predicted new indication Disorder of tyrosine metabolism (evidence level L4). Approved use: Complicated skin and soft tissue infections (cSSTI…"
 ---
 
 # Tigecycline

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fesoterodine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Treatment of the symptoms (increased urinary frequency a…"
 ---
 
 # Fesoterodine

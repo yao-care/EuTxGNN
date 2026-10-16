@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vemurafenib: predicted new indication HIV infectious disease (evidence level L5). Approved use: BRAF-V600-mutation-positive unresectable or metastatic melanoma (mono…"
 ---
 
 # Vemurafenib

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 629
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Relapsed small cell lung cancer (SCLC) and metastatic ovarian cancer…"
 ---
 
 # Topotecan

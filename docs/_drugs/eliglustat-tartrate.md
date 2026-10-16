@@ -8,6 +8,7 @@ parent: AI Predictions (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 50
+last_modified_at: 2026-10-16
 ---
 
 # Eliglustat (Tartrate)

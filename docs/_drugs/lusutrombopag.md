@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Severe thrombocytopenia in adult patients with chronic liver disease…"
 ---
 
 # Lusutrombopag

@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 466
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Adjunctive treatment of adult patients with chronic hypoparathyroidis…"
 ---
 
 # Parathyroid Hormone

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal-cell carcinoma (first-line…"
 ---
 
 # Temsirolimus

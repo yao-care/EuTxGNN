@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Maintenance treatment in adult patients with acromegaly who have resp…"
 ---
 
 # Octreotide

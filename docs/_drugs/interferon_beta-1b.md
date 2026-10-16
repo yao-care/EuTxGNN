@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Interferon Beta-1B: predicted new indication Hairy cell leukemia (evidence level L5). Approved use: Single demyelinating event at high risk of clinically definite MS"
 ---
 
 # Interferon Beta-1B

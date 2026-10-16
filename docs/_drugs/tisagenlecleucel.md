@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 620
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tisagenlecleucel: predicted new indication Crohn's colitis (evidence level L5). Approved use: Paediatric and young adult patients (up to 25 years) with refractory…"
 ---
 
 # Tisagenlecleucel

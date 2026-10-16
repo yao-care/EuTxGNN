@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 470
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pazopanib: predicted new indication Unclassified renal cell carcinoma (evidence level L3). Approved use: Advanced renal-cell carcinoma (first-line…"
 ---
 
 # Pazopanib

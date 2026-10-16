@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 101
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bosutinib: predicted new indication Myeloid leukaemia (evidence level L1). Approved use: Newly diagnosed chronic phase Ph+ CML, and Ph+ CML in chronic…"
 ---
 
 # Bosutinib

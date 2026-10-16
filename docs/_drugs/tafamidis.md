@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 583
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tafamidis: predicted new indication Primary amyloidosis (evidence level L4). Approved use: Transthyretin amyloidosis in adults with stage-1 symptomatic polyneur…"
 ---
 
 # Tafamidis

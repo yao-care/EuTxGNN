@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Treatment of treatment-experienced adults…"
 ---
 
 # Maraviroc

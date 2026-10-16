@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 44
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amikacin: predicted new indication Paratyphoid fever (evidence level L4). Approved use: NTM lung infections caused by Mycobacterium avium Complex (MAC) in ad…"
 ---
 
 # Amikacin

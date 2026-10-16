@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Talazoparib: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Germline BRCA-mutated breast cancer"
 ---
 
 # Talazoparib

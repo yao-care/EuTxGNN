@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 159
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Concizumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Routine prophylaxis of bleeding in patients 12 years or older with ha…"
 ---
 
 # Concizumab

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nitisinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Hereditary tyrosinemia type 1 (HT-1)…"
 ---
 
 # Nitisinone

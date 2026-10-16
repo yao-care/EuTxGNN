@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Avibactam: predicted new indication Streptococcal pneumonia (evidence level L5). Approved use: Complicated intra-abdominal infection (cIAI)…"
 ---
 
 # Avibactam

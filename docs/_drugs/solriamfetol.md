@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Solriamfetol: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Improving wakefulness and reducing excessive daytime sleepiness in ad…"
 ---
 
 # Solriamfetol

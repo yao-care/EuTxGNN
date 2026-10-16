@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Venetoclax: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lym… (evidence level L5). Approved use: Chronic lymphocytic leukaemia (CLL) in combination with …"
 ---
 
 # Venetoclax

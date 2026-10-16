@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 601
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tenofovir Disoproxil: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV-1 infection (adults and adolescents…"
 ---
 
 # Tenofovir Disoproxil

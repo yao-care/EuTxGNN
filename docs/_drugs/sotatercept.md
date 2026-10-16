@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 573
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sotatercept: predicted new indication Acute lymphoblastic leukemia (evidence level L5). Approved use: PAH in adult patients with WHO Functional Class II to III…"
 ---
 
 # Sotatercept

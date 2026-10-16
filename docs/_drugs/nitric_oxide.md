@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Newborns ≥34 weeks gestation with hypoxic respiratory failure…"
 ---
 
 # Nitric Oxide

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 628
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolvaptan: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L1). Approved use: Hyponatraemia secondary to the syndrome of inappropriate an…"
 ---
 
 # Tolvaptan

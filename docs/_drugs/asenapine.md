@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Moderate to severe manic episodes associated with bipolar I disorder…"
 ---
 
 # Asenapine

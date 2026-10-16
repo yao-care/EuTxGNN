@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 148
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Choriogonadotropin Alfa: predicted new indication Peptic esophagitis (evidence level L5). Approved use: Women undergoing superovulation prior to assisted reproductive techni…"
 ---
 
 # Choriogonadotropin Alfa

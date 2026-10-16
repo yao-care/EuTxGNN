@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 352
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L3). Approved use: Long-term enzyme replacement therapy in patients with a confirmed dia…"
 ---
 
 # Laronidase

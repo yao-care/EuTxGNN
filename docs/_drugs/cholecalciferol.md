@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cholecalciferol: predicted new indication Familial isolated hypoparathyroidism due to impaired PTH secretion (evidence level L5). Approved use: Treatment of postmenopausal osteoporosis in patients at…"
 ---
 
 # Cholecalciferol

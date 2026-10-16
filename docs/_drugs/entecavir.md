@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 229
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Chronic hepatitis B virus (HBV) infection in adults with compensated…"
 ---
 
 # Entecavir

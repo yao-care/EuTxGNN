@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Silodosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Treatment of the signs and symptoms of benign prostatic hyperplasia (…"
 ---
 
 # Silodosin

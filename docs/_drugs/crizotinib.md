@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Crizotinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: ALK-positive advanced NSCLC (first-line and previously treated)…"
 ---
 
 # Crizotinib

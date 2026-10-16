@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 521
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: HR-positive…"
 ---
 
 # Ribociclib

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Temoporfin: predicted new indication Nasopharyngeal teratoma (evidence level L5). Approved use: Palliative treatment of patients with advanced head and neck squamous…"
 ---
 
 # Temoporfin

@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 273
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Chronic immune thrombocytopenia (ITP) in adult patients who are refra…"
 ---
 
 # Fostamatinib

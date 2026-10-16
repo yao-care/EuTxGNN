@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Drospirenone: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Oral contraception"
 ---
 
 # Drospirenone

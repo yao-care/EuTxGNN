@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 264
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Florbetaben 18F: predicted new indication Migraine disorder (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
 ---
 
 # Florbetaben 18F

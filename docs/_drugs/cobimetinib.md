@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cobimetinib: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Use in combination with vemurafenib for adult patients with unresecta…"
 ---
 
 # Cobimetinib

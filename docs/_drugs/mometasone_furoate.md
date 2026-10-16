@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mometasone Furoate: predicted new indication 2-hydroxyethyl methacrylate sensitization (evidence level L5). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years an…"
 ---
 
 # Mometasone Furoate

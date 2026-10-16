@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nusinersen: predicted new indication Skin atrophy (evidence level L5). Approved use: 5q Spinal Muscular Atrophy"
 ---
 
 # Nusinersen

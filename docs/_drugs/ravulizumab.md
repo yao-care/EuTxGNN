@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 defici… (evidence level L5). Approved use: Paroxysmal nocturnal haemoglobinuria (PNH) in adult and…"
 ---
 
 # Ravulizumab

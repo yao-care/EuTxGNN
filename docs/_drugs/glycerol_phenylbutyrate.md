@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Glycerol Phenylbutyrate: predicted new indication Citrullinemia, type II, adult-onset (evidence level L5). Approved use: Adjunctive therapy for chronic management of urea cycle disorders (CP…"
 ---
 
 # Glycerol Phenylbutyrate

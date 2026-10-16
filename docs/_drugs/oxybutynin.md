@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Symptomatic treatment of urge incontinence and/or increased urinary f…"
 ---
 
 # Oxybutynin

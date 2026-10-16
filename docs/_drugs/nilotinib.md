@@ -5,6 +5,8 @@ parent: Medium Evidence (L3-L4)
 nav_order: 429
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Newly diagnosed Philadelphia chromosome-positive CML in chronic phase…"
 ---
 
 # Nilotinib

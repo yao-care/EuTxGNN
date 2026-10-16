@@ -5,6 +5,8 @@ parent: AI Predictions (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alirocumab: predicted new indication Ichthyosis, X-linked, without steroid sulfatase deficiency (evidence level L5). Approved use: Primary hypercholesterolaemia and mixed dyslipidaemia"
 ---
 
 # Alirocumab
