@@ -70,9 +70,17 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMjNt
 
 ---
 
+### [Common blood pressure drug boosts brown adipose tissue activity and metabolism](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
+
+---
+
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
@@ -83,14 +91,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQV
 2026-10-12 <span class="news-indication-tag">depression</span>
 
 Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
-
----
-
-### [Christine Passerieux, psychiatre : "Les premiers signes d'une santé mentale qui décline sont souvent confondus avec du stress" - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
-
-2026-10-12 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
-
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMikAFBVV95cUxNMFQ5cTZxUG9ubnM4YzVnVDFlVmRXMms1MHhsMXZkWHR6WWx5NHR1WFd0SV9qeWZLV0hiRGdwRVBPa1RSR2dtcUhwOXk3dGczRV9wQ0cyU0x5NFJyOFlkcXladWlCODZ1YWpVNG84QTA4WUwteU9Tai1RMUhmdDV4SmZVQnl2YnVFTUtzYjRQV0k?oc=5)
 
 ---
 

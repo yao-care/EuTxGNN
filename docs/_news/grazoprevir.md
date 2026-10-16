@@ -56,7 +56,7 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 
 ### [Rote-Hand-Brief zu Ocrelizumab (Ocrevus®): Leberfunktion vor und während der Behandlung kontrollieren - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3FSZ053T1FKX0hLemhyR1RHRnJteV9lVm9KVkdXUUoxSVhOUlJzYWtXVkxOUUxPSDA3cDlLakJWX2Y4ZWtha1VkSXpza2JOM25kM3N1Zy05c0hnWk5TaGM2dFlnVkk0UTctVWJGNmk2ODJTSEFPcy0wZGZCQVVBUG5qcW1YVlBRVGxqTlRUb2N1NGc0TnJsYmRkZW9zRk1yZ25UZWsyWjlDMzVLU2ljRmE1VUtxeHg1Q1lrOTBqZ0toNFpCUjRHb3hSTmxTbjVGRGFvLQ?oc=5)
 
-2026-10-15 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-15 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3FSZ053T1FKX0hLemhyR1RHRnJteV9lVm9KVkdXUUoxSVhOUlJzYWtXVkxOUUxPSDA3cDlLakJWX2Y4ZWtha1VkSXpza2JOM25kM3N1Zy05c0hnWk5TaGM2dFlnVkk0UTctVWJGNmk2ODJTSEFPcy0wZGZCQVVBUG5qcW1YVlBRVGxqTlRUb2N1NGc0TnJsYmRkZW9zRk1yZ25UZWsyWjlDMzVLU2ljRmE1VUtxeHg1Q1lrOTBqZ0toNFpCUjRHb3hSTmxTbjVGRGFvLQ?oc=5)
 
@@ -70,19 +70,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhq
 
 ---
 
+### [ENTRETIEN. Personnes âgées : ce faux « petit appétit » qui mène à la dénutrition, l’alerte d’un spécialiste en gériatrie](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJVeEs0dG11OWkwVFlUdG1UYzNKWFlLaG1KSWxNNllyai03ekp1dHNhVzNiUnc5cTZsYm5BSDZra25CQ20wU1RvN1pmYmFzWml6UE5lMUxlQ0djYVpGVklDOE9YTmVDSjYtdGlEazFuTHZxYnVxdXNTWFdOejltZEVwZTZMeDFISzVvd2QyUHhNemUwUjlJNWlKR1pVb2lIWk5laWtjVUphR21ZVTVqUmk3VllxNFI0TDFyRzA5RHlMblZ5c0Z3SUUtTE80UHhjSUUyS3U5dndpdUJOcmNYb1RCTWU2TTdmSGFxWVB4TnEzVGFTQTY0Q3NhUmRWazZ5Mm1KclRCOGlDa0tCUy1MenRDUEUzQ2N3T3k4?oc=5)
+
+2026-10-15 <span class="news-indication-tag">MS</span>
+
+Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJVeEs0dG11OWkwVFlUdG1UYzNKWFlLaG1KSWxNNllyai03ekp1dHNhVzNiUnc5cTZsYm5BSDZra25CQ20wU1RvN1pmYmFzWml6UE5lMUxlQ0djYVpGVklDOE9YTmVDSjYtdGlEazFuTHZxYnVxdXNTWFdOejltZEVwZTZMeDFISzVvd2QyUHhNemUwUjlJNWlKR1pVb2lIWk5laWtjVUphR21ZVTVqUmk3VllxNFI0TDFyRzA5RHlMblZ5c0Z3SUUtTE80UHhjSUUyS3U5dndpdUJOcmNYb1RCTWU2TTdmSGFxWVB4TnEzVGFTQTY0Q3NhUmRWazZ5Mm1KclRCOGlDa0tCUy1MenRDUEUzQ2N3T3k4?oc=5)
+
+---
+
 ### [Due casi di epatite A fra i bambini di una famiglia a Fossano, scattata la profilassi dell’Asl Cn1 - La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
 
 2026-10-15 <span class="news-indication-tag">epatite</span>
 
 Source: [La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
-
----
-
-### [New Guidelines Strongly Support Hormone Therapy for Common Menopause Symptoms - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1lXUVV1TktyNlotVEQyQjlyZ1BGQnRwTGZQQUhjWGFqYU9iNHhrTXpIUzRTajdjS0x1VUFGUzA1eUplRlZJUlVrQTFkSlN2bUJ3ZG5iQk5va0hWb1R6ems4aGpGN0x2c05Jbk0tY0p4cWNEeXdreDNMV1oxdGhabkk3Ukl5QTg?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MS</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1lXUVV1TktyNlotVEQyQjlyZ1BGQnRwTGZQQUhjWGFqYU9iNHhrTXpIUzRTajdjS0x1VUFGUzA1eUplRlZJUlVrQTFkSlN2bUJ3ZG5iQk5va0hWb1R6ems4aGpGN0x2c05Jbk0tY0p4cWNEeXdreDNMV1oxdGhabkk3Ukl5QTg?oc=5)
 
 ---
 
@@ -94,11 +94,19 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1Zc
 
 ---
 
-### [La OMS lanza un portal con IA para ayudar a los sanitarios a informar sobre el alcohol y el riesgo de cáncer de mama](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVlUY2NGSkNodkF6ZDEwd0tJNW9Rc1lMTzdNMks0cGNnQnQtTHYyQ0RJbzZfTV9mWjk3Q3AxX1pCdUhxR0ZrUmQtUU1rcmZrb3JJVEVvb1lSOURTWDlVam02SHV5NXV0OC12WUczRGRUeWJjTDlzWllBTHNmNjdGazdwRFBFR3U1VFdwYVdXTzZVZVZmNFFBUXNZMkJvd0pldFMwU2lQclhFVUg0aDNPSUVlQm1qeGxxRDh1Y1BLS2NjV0UxdS1HSklaU2JvaEMyamFJenhsSUt0V1E?oc=5)
+### [Solo el 15 % de los europeos sabe que el alcohol puede causar cáncer de mama, según la OMS](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnJoMjFRTTZIVC0yTVpKMVV4SDlRa21UYUZ4WnhqVHlQeDZVeEpUZnExTU5WM2hqemMwV1VHMjRsU25CWkRoOE9lWF9KSVRxajR6cFljSzJjMHhTLURkS2lQMXBUaERwR0MxZEdCeVRsa24zVXhzeVlOQzFwTV9wdV9IdUVnTU9kVk50SVF1dVlBSVRtZFYyVV9IaFdvV1VGYlNocjBFakZkRjl1UHRRck91TzdTSjFyWXZjamJ4QndhbXYxYkM1X2M3OGRUN2g5YlRGQnpza9IB8gFBVV95cUxNdkxZUHZpLXh4SW1DeWpnSHNHakQzdm4zT1lTVnV1Z09mb295UjdKbkdPRzdRWHBqTk5ETnJDUzh1SER2ZEVXS1dpdTZIN2x0c1VpWEdSd1VET3hLMWg4TUZUX2JPd0pTeXUxX18zTHFfcDRDUVh3RWIwTGVGSDdhVlREZy1RTkVSMDVfckpIWDVvVC1VNkxHcGs3WmE5R1NoS3JfNGtlSjRmQU1BdjB5T3A4b0thYlp2SXRKSk1xSlkxVDJ6RU14aU43NmtETEZqWTJMNHoySHdRZzlYUU5wZy1GeVp1RXdsa3hlcGFaR18yUQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MS</span>
 
-Source: [Notimérica](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdVlUY2NGSkNodkF6ZDEwd0tJNW9Rc1lMTzdNMks0cGNnQnQtTHYyQ0RJbzZfTV9mWjk3Q3AxX1pCdUhxR0ZrUmQtUU1rcmZrb3JJVEVvb1lSOURTWDlVam02SHV5NXV0OC12WUczRGRUeWJjTDlzWllBTHNmNjdGazdwRFBFR3U1VFdwYVdXTzZVZVZmNFFBUXNZMkJvd0pldFMwU2lQclhFVUg0aDNPSUVlQm1qeGxxRDh1Y1BLS2NjV0UxdS1HSklaU2JvaEMyamFJenhsSUt0V1E?oc=5)
+Source: [Infobae](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNnJoMjFRTTZIVC0yTVpKMVV4SDlRa21UYUZ4WnhqVHlQeDZVeEpUZnExTU5WM2hqemMwV1VHMjRsU25CWkRoOE9lWF9KSVRxajR6cFljSzJjMHhTLURkS2lQMXBUaERwR0MxZEdCeVRsa24zVXhzeVlOQzFwTV9wdV9IdUVnTU9kVk50SVF1dVlBSVRtZFYyVV9IaFdvV1VGYlNocjBFakZkRjl1UHRRck91TzdTSjFyWXZjamJ4QndhbXYxYkM1X2M3OGRUN2g5YlRGQnpza9IB8gFBVV95cUxNdkxZUHZpLXh4SW1DeWpnSHNHakQzdm4zT1lTVnV1Z09mb295UjdKbkdPRzdRWHBqTk5ETnJDUzh1SER2ZEVXS1dpdTZIN2x0c1VpWEdSd1VET3hLMWg4TUZUX2JPd0pTeXUxX18zTHFfcDRDUVh3RWIwTGVGSDdhVlREZy1RTkVSMDVfckpIWDVvVC1VNkxHcGs3WmE5R1NoS3JfNGtlSjRmQU1BdjB5T3A4b0thYlp2SXRKSk1xSlkxVDJ6RU14aU43NmtETEZqWTJMNHoySHdRZzlYUU5wZy1GeVp1RXdsa3hlcGFaR18yUQ?oc=5)
+
+---
+
+### [Sexual dimorphism in epidermal stem cell dynamics](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBES2pTTFFsMFVFbzZIOGRQOWgza0VIZzZkRlNNeVlIOTRlTl9qSDdqbHlnX2xkRm5jLW4xUEdxX0dWVFp3bHFnRzRpdU9rQ0RMQ0VpT3VpOGVDUnVUUlR3?oc=5)
+
+2026-10-14 <span class="news-indication-tag">MS</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBES2pTTFFsMFVFbzZIOGRQOWgza0VIZzZkRlNNeVlIOTRlTl9qSDdqbHlnX2xkRm5jLW4xUEdxX0dWVFp3bHFnRzRpdU9rQ0RMQ0VpT3VpOGVDUnVUUlR3?oc=5)
 
 ---
 
@@ -110,19 +118,11 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjdY
 
 ---
 
-### [Early flu season: why you should get your jab sooner this year - The Conversation](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmlPT2ZmZzZvb2RSbHBMUTJiUlFkaklpZ2pDRGU1dGFIZHhQRXZHa1ZoRmczcmg3ZjdmVU1KaHFGcHcxSHNJMlB4REJOZnVJS0E5X1BZTXZvd1hXeW5INHV0b1doZWNULThnVUV1TmxMVGZiZjlJM1RrSl9XRDkwVWREMVl1bzgtNm9pQzd3c1htTEV5NXR3bWFra0Y?oc=5)
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
-2026-10-14 <span class="news-indication-tag">MS</span>
+2026-10-14 <span class="news-indication-tag">hepatitis</span>
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmlPT2ZmZzZvb2RSbHBMUTJiUlFkaklpZ2pDRGU1dGFIZHhQRXZHa1ZoRmczcmg3ZjdmVU1KaHFGcHcxSHNJMlB4REJOZnVJS0E5X1BZTXZvd1hXeW5INHV0b1doZWNULThnVUV1TmxMVGZiZjlJM1RrSl9XRDkwVWREMVl1bzgtNm9pQzd3c1htTEV5NXR3bWFra0Y?oc=5)
-
----
-
-### [IBS Symptoms Improved by FODMAP-Targeting Enzyme Combo](https://news.google.com/rss/articles/CBMiowFBVV95cUxPandLSzhNMFY4eWdGWU5VcGx5QVFnekUtcl9NT2I0c2IxbGdnYkFKQWQtUnNYOHR3NEJ6Zlg1ZjdjOVZWRXZvblFKVzBiS1NZd0txU2RFWF9jLXM3b0xRNUR5b0N0VlNZLXplNXdFZWpFUEFBdHRDR1pkbGwzbk8wdjNyUHpRQVlPTkEyQ3ZvS2VrSHZ0ZzhheVdmaFZsLUV2MHJB?oc=5)
-
-2026-10-13 <span class="news-indication-tag">MS</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPandLSzhNMFY4eWdGWU5VcGx5QVFnekUtcl9NT2I0c2IxbGdnYkFKQWQtUnNYOHR3NEJ6Zlg1ZjdjOVZWRXZvblFKVzBiS1NZd0txU2RFWF9jLXM3b0xRNUR5b0N0VlNZLXplNXdFZWpFUEFBdHRDR1pkbGwzbk8wdjNyUHpRQVlPTkEyQ3ZvS2VrSHZ0ZzhheVdmaFZsLUV2MHJB?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 ---
 

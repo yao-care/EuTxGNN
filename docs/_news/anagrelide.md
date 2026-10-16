@@ -14,7 +14,7 @@ permalink: /news/anagrelide/
 ---
 
 <p class="key-answer" data-question="What news is there about Anagrelide?">
-<strong>Anagrelide</strong> currently has <strong>44 news articles</strong>, with 20 predicted indications.
+<strong>Anagrelide</strong> currently has <strong>41 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,21 @@ This page combines the AI-predicted indications for Anagrelide with the latest h
 <p><a href="{{ '/drugs/anagrelide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (41)
+
+### [Cancer du pancréas : 50 % de cas en plus en dix ans, et l'alcool ou le tabac n'expliquent pas tout - Le Tribunal du Net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhxUU15dXVRTW9jS3BEa2Z0Ny1oQ2JoR0NmRWZXSlVEODU0bmZfRmpMZFdJMUpJekdnVUF5bkhQckdhVi1mOTFNdkJqUHNuWGVlTEtGUUM3VHJnX3BJeEpLNjExVjh3NFlJaGRzUXpCQkNURi1hcGJfVzJLUWQ3T3M4c0JyYnNtV2xR?oc=5)
+
+2026-10-15 <span class="news-indication-tag">cancer</span>
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhxUU15dXVRTW9jS3BEa2Z0Ny1oQ2JoR0NmRWZXSlVEODU0bmZfRmpMZFdJMUpJekdnVUF5bkhQckdhVi1mOTFNdkJqUHNuWGVlTEtGUUM3VHJnX3BJeEpLNjExVjh3NFlJaGRzUXpCQkNURi1hcGJfVzJLUWQ3T3M4c0JyYnNtV2xR?oc=5)
+
+---
 
 ### [Who Was Rachna Shroff? Indian-American Cancer Researcher Dies Of Disease She Was Trying To Cure](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span>
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
-
----
-
-### [Descubren que el uso de cabergolina durante el posparto podría reducir el riesgo de cáncer de mamá](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWlJDWk5mWFZSSThwY0ZvMTFHZGRDZEluTUk3cXZ6NVlqSnBmNFNPOTVTTzIzaGFnRzdOMk5aYXYtVnZ5cGZzZDV2SlVqdXlybEJtdEtWdUlLRENVMnpFcWJpTEo5SWNmTVhZenR0UHNlT21IRUZBNDJScFFnSUZualpDcFlORmwtNWh6bVN1R0xKaC13ekpzSldtbjBNci1FaUEtZ3hSTXprd3hxM3UybGJiQTRtYURCWUpCalVGVmxKOUVPRmVSOERYSFRONU5iQzJfcVBXQzlmTmt5QXpPX1RvaFI2TUJZZXc?oc=5)
-
-2026-10-15 <span class="news-indication-tag">tumor</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWlJDWk5mWFZSSThwY0ZvMTFHZGRDZEluTUk3cXZ6NVlqSnBmNFNPOTVTTzIzaGFnRzdOMk5aYXYtVnZ5cGZzZDV2SlVqdXlybEJtdEtWdUlLRENVMnpFcWJpTEo5SWNmTVhZenR0UHNlT21IRUZBNDJScFFnSUZualpDcFlORmwtNWh6bVN1R0xKaC13ekpzSldtbjBNci1FaUEtZ3hSTXprd3hxM3UybGJiQTRtYURCWUpCalVGVmxKOUVPRmVSOERYSFRONU5iQzJfcVBXQzlmTmt5QXpPX1RvaFI2TUJZZXc?oc=5)
 
 ---
 
@@ -142,14 +142,6 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMixgFBVV95cUxN
 
 ---
 
-### [Woman thought contraceptive coil was 'killing' her before shock cancer diagnosis - Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXprV3ZkcHNtMC1xYmt5dG44U25iak1HbnFHa0hLMGJRdzZ2ZU1aTHl1UVVSdDRBY0toZVBMNDlUVlJXOHhWSGI2UnFQOFcyUHUwLU5pVlA2UDdJbkszRTY1RmZFcHJSbVFncjdVMWVBUTBxaXphcFBqVUZ4RGQ4V0p5LWx0T1lBdEg2WGRR0gGTAUFVX3lxTE1pWm9qeXp5TUg5UjJSdjVvNUxkMXg1bGR3VF94SEtZRmx6NzJ0enRfc0h2TjJORHBXOWJjUC1wVVQyc2pnM3FuLVdIdFg1R0cwU3NvaHR5bUFacGt5cTcydjRRUl9iYmI5bG41SGN3RkQzU1RuQUtCU3VYTXg2MlRpc0VNQ3FCTzN6YXY1Zlc5clNyVQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXprV3ZkcHNtMC1xYmt5dG44U25iak1HbnFHa0hLMGJRdzZ2ZU1aTHl1UVVSdDRBY0toZVBMNDlUVlJXOHhWSGI2UnFQOFcyUHUwLU5pVlA2UDdJbkszRTY1RmZFcHJSbVFncjdVMWVBUTBxaXphcFBqVUZ4RGQ4V0p5LWx0T1lBdEg2WGRR0gGTAUFVX3lxTE1pWm9qeXp5TUg5UjJSdjVvNUxkMXg1bGR3VF94SEtZRmx6NzJ0enRfc0h2TjJORHBXOWJjUC1wVVQyc2pnM3FuLVdIdFg1R0cwU3NvaHR5bUFacGt5cTcydjRRUl9iYmI5bG41SGN3RkQzU1RuQUtCU3VYTXg2MlRpc0VNQ3FCTzN6YXY1Zlc5clNyVQ?oc=5)
-
----
-
 ### [Digiuno intermittente e fegato grasso: mangiare in 8 ore fa davvero la differenza?](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0doNnZaTDVwUlczdHJfRVdzak9oRklsVVl3R3FtYUFtV3RERldzZG04YXZCSWpoejBYaTcyUFBBbjc5RU12LUdfdXhYeUlhRjliam5scWJiUE11S2JKRHBuN1BTUUJIV3ZQRDZabDFvWG5TaWhyLUJlYk9Gb3hIeXdYU2ZIb0ExZzRJb1o0clRyYjFISVplT05MVHhNZzlqVkVfclJWVkxfdGpXVHgxTlJoX0J4bW1lNXIxdWRrQ29QUktFNF91MF9PSDFwU3dxNkFKaFZtdw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">tumor</span>
@@ -174,11 +166,19 @@ Source: [Univrmagazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGM
 
 ---
 
-### [Actress with cancer diagnosis back on stage](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR21HVFE5U2xWRGxGeDJZamVjb0xlbzQtRmRxRl90cGpiLThwNTFMeE40XzVtZTFqZk1Ua0xHcWk2clBIM29mUEstY3oyeUNPSmFPbmc?oc=5)
+### [Guernsey actress with breast cancer diagnosis back on stage](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR21HVFE5U2xWRGxGeDJZamVjb0xlbzQtRmRxRl90cGpiLThwNTFMeE40XzVtZTFqZk1Ua0xHcWk2clBIM29mUEstY3oyeUNPSmFPbmc?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR21HVFE5U2xWRGxGeDJZamVjb0xlbzQtRmRxRl90cGpiLThwNTFMeE40XzVtZTFqZk1Ua0xHcWk2clBIM29mUEstY3oyeUNPSmFPbmc?oc=5)
+
+---
+
+### [Contraceptive coil 'helped uncover my ovarian cancer'](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPS1hTMTRUcGR1MWxjN2FDTTNRRldsYUF2amxQQmhkcE1uRmg2MUgtZ1NMMUdHUlZkdkMzZkxyU09ablVqVXFoNTVJZUZITE5UQzdpNG5JVEprX2JEeGc?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPS1hTMTRUcGR1MWxjN2FDTTNRRldsYUF2amxQQmhkcE1uRmg2MUgtZ1NMMUdHUlZkdkMzZkxyU09ablVqVXFoNTVJZUZITE5UQzdpNG5JVEprX2JEeGc?oc=5)
 
 ---
 
@@ -187,14 +187,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR
 2026-10-14 <span class="news-indication-tag">tumor</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbnF0SzljOVhPNnhOZ1ZLUlV0Vi0yYWZjQm4xQkpSeE8xNlRCSUY5V1Q2NTRUM0dJZzkxMnd2bUxFZWMxZUpRWUZIWTlqU3U3ZDRiejhKdjFid2RXRVRzTkZweVpYZ1A4SUQtZXl0VUpIRkN0bzd6WGt0Yy1NYnlSR3J6ZHJuX2JNRkl5ZEl0RDVVZFBjeU9aXzlQdDZWNDhETk5Ld0otMEdOcGVFbUtDcjc3T1BMUWswRzBZZ2YxZUlqYmJOTkV3bXpQWGpJRTIzeE5MMjY4VGJBcFFWcnNvbEo3WQ?oc=5)
-
----
-
-### [Elefanti, il segreto dei giganti che resistono al cancro](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkNtSFVFdGVQODNqZlJnQmlvaVpqazh6UWcwb3FlXzVQZ2l4dzVsQkNiRnYzTjJsRC0zRVlRc28yX3QzVjVFNV9lS1BIRmlYYmdhRGJteEdIOU9UU1hDdklQeElTVTlHTWVOcEpQa3FhZWFjbEtETHUzV3B3U2pxTF9BRklQbVJCXy1RY182ZVdBLTE3WGNqS1c5UWRnMjBtZmZRMHJCOGhrV25jRkQxeHFLbDc?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancro</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkNtSFVFdGVQODNqZlJnQmlvaVpqazh6UWcwb3FlXzVQZ2l4dzVsQkNiRnYzTjJsRC0zRVlRc28yX3QzVjVFNV9lS1BIRmlYYmdhRGJteEdIOU9UU1hDdklQeElTVTlHTWVOcEpQa3FhZWFjbEtETHUzV3B3U2pxTF9BRklQbVJCXy1RY182ZVdBLTE3WGNqS1c5UWRnMjBtZmZRMHJCOGhrV25jRkQxeHFLbDc?oc=5)
 
 ---
 
@@ -270,14 +262,6 @@ Source: [ANSA](https://news.google.com/rss/articles/CBMihwJBVV95cUxPLUEweG5OX0x3
 
 ---
 
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
----
-
 ### [«J’avais des trous de mémoire, je cherchais mes mots» : cette Bretonne met en lumière les troubles cognitifs post-cancer](https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQWpUS3lRRGh1V09rdjNMY000NldZWWhIMXFXRDFES3NudEdJUEJaYTJCOG1ZNmxKRzl4eUtXRlNGTEJ3LUdQcHY2dnJSeFVjdFFPNnpFaEVKUTB4bHFXb0YtQi1EdzNLMG8ybTVlX2tsc29ucDF1V0dzcVBxSzBpRWdkVFUyZ21US0JIZkVTU1VZZGpsMUhMWkNGeFAxMnR6dVRwa1Q1OTlLd25TS2xUbjE5czBORUNrb2FjbzVjUEd3UUN3TWNXQk15c18zbzFfMW1UU2lRYUx3WlZCRTRUNlhqTTAyM284cjRsX3JIT2poNTNDUXZ3STdEU2tPb3B6VHBCd0hjSndoMDRZUTAwbUdkbmVxd2lDWkpRYkMxM0tCNUpNVjhkdUstYU1hTkx4ZHd5U2RzRVhfNno1Vmx0Nnln?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span>
@@ -299,14 +283,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMijgFBVV95cUxQajVpdXpsN1dlbEE0SkY2dG9QczBLcVVkaXVuR3pRc3pzUzJWMmtHYkthcEFqdlJoXy1Ca1ZEV1JxRk1vT3NHUlNWWjBDZVJsUzc1N25KNW1PaGxuX3pLZ3pNM0NFeFJhejJmakVyRFFIRXRZX1k0Y2VyVlBUWEV2UmNqYWdOVjdmX3NiOVpB?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">arthritis</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 ---
 

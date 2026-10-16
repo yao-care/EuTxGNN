@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [„Talk im Klinikum“: Adipositas – mehr als ein paar Kilo zu viel](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
+### [Oltre la semaglutide: la rivoluzione dei farmaci che riducono il peso del 30% e proteggono il cuore](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
 
-Source: [inSüdthüringen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25hQ3RVcDRobXdhLWk4dlpNWC1reFZKNm8yTXZPQWNKLWNFUV9TZ2wtWFFCb0hNZzJROFRpRjB2dDBFSnJ1TWJlTkVKMzVqWW9lZENvdDhiellGLVBTc21FbHVTN3FKY3VybE95azdFMXF5M0F6c3N1MnRYQVNkNVdnaEZkZUxBTTBkV0g1bmdXX0FRWF9kYzB5UDBpRHZlenFTSU5qRmt0My1jOGJBbGVycnZvNDRKTUw3Skx0bFJjUTRIcDdyZHMzZ2MtMnhpaFNJeDh3?oc=5)
-
----
-
-### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
-
-2026-10-15 <span class="news-indication-tag">obesidad</span>
-
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
 
 ---
 
@@ -68,9 +60,25 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 
 ---
 
+### [Los tratamientos para la obesidad y la diabetes se disparan en Euskadi - El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
+
+---
+
+### [La obesidad no se detecta únicamente con la báscula - IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
+
+2026-10-14 <span class="news-indication-tag">obesidad</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
+
+---
+
 ### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
-2026-10-14 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
+2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 

@@ -62,11 +62,11 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXI
 
 ---
 
-### [Bluthochdruck: Diese 8 Lebensmittelzusatzstoffe fallen in großer Studie auf](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-14 <span class="news-indication-tag">hepatitis</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 ---
 

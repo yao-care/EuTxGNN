@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="What news is there about Perampanel?">
-<strong>Perampanel</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Perampanel</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ This page combines the AI-predicted indications for Perampanel with the latest h
 <li>guanidinoacetate methyltransferase deficiency (99.6%)</li>
 <li>partial motor epilepsy (99.4%)</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.1%)</li>
-<li class="indication-matched">epilepsy (99.0%)<span class="indication-tag">📰 epilepsia</span></li>
+<li>epilepsy (99.0%)</li>
 <li>epilepsy with generalized tonic-clonic seizures (99.0%)</li>
 <li>trigeminal nerve neoplasm (98.7%)</li>
 <li>trigeminal neuralgia (97.2%)</li>
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Perampanel with the latest h
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Hasta seis veces más riesgo de demencia precoz tras un diagnóstico reciente de epilepsia](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHZBdU53Q3o1R09nbld6LWhSYzlpNWQ5Qk5xR3I1MC1PWVdMNl9MV1hfYzVmQWlJbmdjeV9TR0h2VDhwMlo1c1JwSnU1SWxQSUhIdlpHNVozazJnRTVVeDlSZlRKemRLdjZlNUVaQXRoZHFLTTZCYkt3alRCRkR2WkkzOHI3OVdPQXRFYXFvYXZFVEduQk5PQXVuaWRGYlI3dFl1X1kyNzQ1cm5mYTRLTXU0Y3BlUVgtLUNENjlmSmNqeWtrT2xibGtJamxiY1l0WlktY0FITS1UQQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">epilepsia</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHZBdU53Q3o1R09nbld6LWhSYzlpNWQ5Qk5xR3I1MC1PWVdMNl9MV1hfYzVmQWlJbmdjeV9TR0h2VDhwMlo1c1JwSnU1SWxQSUhIdlpHNVozazJnRTVVeDlSZlRKemRLdjZlNUVaQXRoZHFLTTZCYkt3alRCRkR2WkkzOHI3OVdPQXRFYXFvYXZFVEduQk5PQXVuaWRGYlI3dFl1X1kyNzQ1cm5mYTRLTXU0Y3BlUVgtLUNENjlmSmNqeWtrT2xibGtJamxiY1l0WlktY0FITS1UQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

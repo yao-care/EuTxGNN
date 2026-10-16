@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine Hydrochloride?">
-<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Dexmedetomidine Hydrochloride</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Mediterrane Ernährung und chronische Migräne: Zusammenhang beobachtet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
 
 2026-10-15 <span class="news-indication-tag">Migräne</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
-
----
-
-### [Bluthochdruck: Diese 8 Lebensmittelzusatzstoffe fallen in großer Studie auf](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/abiraterone-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Abiraterone Acetate?">
-<strong>Abiraterone Acetate</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
+<strong>Abiraterone Acetate</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,37 +30,13 @@ This page combines the AI-predicted indications for Abiraterone Acetate with the
 <p><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (3)
 
 ### [Mediterrane Ernährung und chronische Migräne: Zusammenhang beobachtet](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
 
 2026-10-15 <span class="news-indication-tag">Migräne</span>
 
 Source: [food-monitor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbF9ZeFJxMU5lWV9TZmVPc1k1a2NubmdrbnN1ZkhUMGVkT2dOU3JzeDhTTXc0ZkZmWG42Sm5vSS00Q1I0bmtBM3A5Wl9jQ2c3Y3IzQTBfUTdTYkJmdVc3aUN2c2VmdVB2cEpxcy1Nc1dEeG1sTVM5QkJFVWt5M1dVLTNReENpSW54c0FzMEtWVGFDRjNxblcydGR1WGxRdlp4TGQ2LW94X1BGYWM?oc=5)
-
----
-
-### [Bluthochdruck: Diese 8 Lebensmittelzusatzstoffe fallen in großer Studie auf](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFzM3ZuNG5aeGVhZ09pdkNOWmJWTElkLVc2a25TSWNseUk2TC0wdGFxX0V0NDVGczZwSVppTEtJVTE3TzhGQ2dVSHBHWGc1bC1MX21RUklQZW5RZUgwRUtndlZkRndUU09yWU5OZGtrYnlILVkwb0JsUzZVWTY3R240dGgxUFd0YTlfalVRRmpxQ05fMmFQUDR2Tkd1S1VybGxTUkViZFFLX1VqVjZUdQ?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
----
-
-### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">arthritis</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 ---
 
