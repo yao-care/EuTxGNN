@@ -3,7 +3,7 @@ layout: default
 title: "Brolucizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brolucizumab. Original indication: Beovu is indicated in adults for the treatment of .... 10 predicted indications."
+description: "Health news related to Brolucizumab. Original indication: . 10 predicted indications."
 permalink: /news/brolucizumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Brolucizumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.7%)</li>

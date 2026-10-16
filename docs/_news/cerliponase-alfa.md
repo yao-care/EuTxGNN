@@ -3,7 +3,7 @@ layout: default
 title: "Cerliponase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cerliponase Alfa. Original indication: Brineura is indicated for the treatment of neurona.... 20 predicted indications."
+description: "Health news related to Cerliponase Alfa. Original indication: . 20 predicted indications."
 permalink: /news/cerliponase-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Cerliponase Alfa with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Brineura is indicated for the treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl peptidase 1 (TPP1) deficiency</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>Scheie syndrome (100.0%)</li>

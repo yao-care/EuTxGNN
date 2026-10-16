@@ -3,7 +3,7 @@ layout: default
 title: "Esomeprazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Esomeprazole. Original indication: Nexium Control is indicated for the short-term tre.... 20 predicted indications."
+description: "Health news related to Esomeprazole. Original indication: . 20 predicted indications."
 permalink: /news/esomeprazole/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Esomeprazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>gastrin secretion abnormality (99.8%)</li>
 <li>peptic esophagitis (99.6%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Deutetrabenazine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Deutetrabenazine. Original indication: Treatment of moderate to severe tardive dyskinesia.... 20 predicted indications."
+description: "Health news related to Deutetrabenazine. Original indication: . 20 predicted indications."
 permalink: /news/deutetrabenazine/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Deutetrabenazine with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of moderate to severe tardive dyskinesia in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>psychogenic movement disorders (98.7%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Eftrenonacog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eftrenonacog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 0 predicted indications."
+description: "Health news related to Eftrenonacog Alfa. Original indication: . 0 predicted indications."
 permalink: /news/eftrenonacog-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Eftrenonacog Alfa with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/eftrenonacog-alfa/' | relative_url }}">View full drug report →</a></p>

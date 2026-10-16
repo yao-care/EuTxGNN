@@ -3,7 +3,7 @@ layout: default
 title: "Bazedoxifene News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bazedoxifene. Original indication: Conbriza is indicated for the treatment of postmen.... 20 predicted indications."
+description: "Health news related to Bazedoxifene. Original indication: . 20 predicted indications."
 permalink: /news/bazedoxifene/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Bazedoxifene with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Conbriza is indicated for the treatment of postmenopausal osteoporosis in women at increased risk of fracture. A significant reduction in the incidence of vertebral fractures has been demonstrated;...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>heparin cofactor 2 deficiency (99.0%)</li>

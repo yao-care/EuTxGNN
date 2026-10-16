@@ -3,7 +3,7 @@ layout: default
 title: "Sparsentan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sparsentan. Original indication: Filspari is indicated for the treatment of adults .... 20 predicted indications."
+description: "Health news related to Sparsentan. Original indication: . 20 predicted indications."
 permalink: /news/sparsentan/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Sparsentan with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Filspari is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion &gt; 1.0 g/day (or urine protein-to-creatinine ratio &gt; 0.75 g/g,...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>alopecia (94.5%)</li>

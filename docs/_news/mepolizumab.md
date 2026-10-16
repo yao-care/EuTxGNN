@@ -3,7 +3,7 @@ layout: default
 title: "Mepolizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mepolizumab. Original indication: Severe eosinophilic asthmaNucala is indicated as a.... 20 predicted indications."
+description: "Health news related to Mepolizumab. Original indication: The only supporting report is a single case (PMID .... 20 predicted indications."
 permalink: /news/mepolizumab/
 ---
 
@@ -24,8 +24,8 @@ This page combines the AI-predicted indications for Mepolizumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Original indication</strong>: The only supporting report is a single case (PMID 28648630). It describes a steroid-resistant hypereosinophilic immune diathesis that resolved with mepolizumab, together with improvement of a mixed...</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>thrombocytopenia due to immune destruction (99.7%)</li>
 <li>primary release disorder of platelets (99.6%)</li>

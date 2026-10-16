@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alirocumab. Original indication: Primary hypercholesterolaemia and mixed dyslipidae.... 20 predicted indications."
+description: "Health news related to Alirocumab. Original indication: . 20 predicted indications."
 permalink: /news/alirocumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Primary hypercholesterolaemia and mixed dyslipidaemia Praluent is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, and in...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>

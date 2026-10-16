@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Propionate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fluticasone Propionate. Original indication: Seffalair Spiromax is indicated in the regular tre.... 20 predicted indications."
+description: "Health news related to Fluticasone Propionate. Original indication: . 20 predicted indications."
 permalink: /news/fluticasone-propionate/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Fluticasone Propionate with 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Seffalair Spiromax is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older not adequately controlled with inhaled corticosteroids and ‘as needed’ inhaled...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>atopic eczema (99.7%)</li>
 <li>dermatitis, atopic (99.3%)</li>

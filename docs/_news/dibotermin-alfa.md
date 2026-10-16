@@ -3,7 +3,7 @@ layout: default
 title: "Dibotermin Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dibotermin Alfa. Original indication: Inductos is indicated for single level lumbar inte.... 12 predicted indications."
+description: "Health news related to Dibotermin Alfa. Original indication: . 12 predicted indications."
 permalink: /news/dibotermin-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Dibotermin Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Inductos is indicated for single level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non operative...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (12)</strong>:<ul>
 <li>tibia fracture (50.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Caplacizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Caplacizumab. Original indication: Cablivi is indicated for the treatment of adults e.... 20 predicted indications."
+description: "Health news related to Caplacizumab. Original indication: . 20 predicted indications."
 permalink: /news/caplacizumab/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Caplacizumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Cablivi is indicated for the treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression.</li>
-<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (100.0%)</li>
 <li>pseudo-von Willebrand disease (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Glucagon News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Glucagon. Original indication: Baqsimi is indicated for the treatment of severe h.... 20 predicted indications."
+description: "Health news related to Glucagon. Original indication: . 20 predicted indications."
 permalink: /news/glucagon/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Glucagon with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Baqsimi is indicated for the treatment of severe hypoglycaemia in adults, adolescents, and children aged 4 years and over with diabetes mellitus.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>irritable bowel syndrome (99.2%)</li>
 <li>cauda equina syndrome (98.8%)</li>

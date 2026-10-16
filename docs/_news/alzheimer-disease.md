@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
-
-### [Mum wants son with childhood dementia to 'experience life'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
-2026-10-16
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
----
+## Related News (2)
 
 ### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 

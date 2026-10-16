@@ -3,7 +3,7 @@ layout: default
 title: "Brodalumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brodalumab. Original indication: Kyntheum is indicated for the treatment of moderat.... 20 predicted indications."
+description: "Health news related to Brodalumab. Original indication: . 20 predicted indications."
 permalink: /news/brodalumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Brodalumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Kyntheum is indicated for the treatment of moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>strongyloidiasis (99.8%)</li>

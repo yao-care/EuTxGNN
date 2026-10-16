@@ -3,7 +3,7 @@ layout: default
 title: "Delamanid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Delamanid. Original indication: Deltyba is indicated for use as part of an appropr.... 20 predicted indications."
+description: "Health news related to Delamanid. Original indication: . 20 predicted indications."
 permalink: /news/delamanid/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Delamanid with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>multidrug-resistant tuberculosis (99.9%)</li>
 <li>tuberculosis, bovine (99.9%)</li>

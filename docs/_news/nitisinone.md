@@ -3,7 +3,7 @@ layout: default
 title: "Nitisinone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nitisinone. Original indication: Treatment of adult and paediatric patients with co.... 20 predicted indications."
+description: "Health news related to Nitisinone. Original indication: . 20 predicted indications."
 permalink: /news/nitisinone/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Nitisinone with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of adult and paediatric patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT-1) in combination with dietary restriction of tyrosine and phenylalanine.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>renal tubular acidosis (100.0%)</li>

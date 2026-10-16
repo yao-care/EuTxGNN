@@ -3,7 +3,7 @@ layout: default
 title: "Besilesomab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Besilesomab. Original indication: This medicinal product is for diagnostic use only .... 20 predicted indications."
+description: "Health news related to Besilesomab. Original indication: . 20 predicted indications."
 permalink: /news/besilesomab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/besilesomab/
 ---
 
 <p class="key-answer" data-question="What news is there about Besilesomab?">
-<strong>Besilesomab</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Besilesomab</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Besilesomab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: This medicinal product is for diagnostic use only and the approved indication is scintigraphic imaging, in conjunction with other appropriate imaging modalities, for determining the location of...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>diabetic cataract (98.5%)</li>
@@ -52,15 +51,7 @@ This page combines the AI-predicted indications for Besilesomab with the latest 
 <p><a href="{{ '/drugs/besilesomab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
-
-### [El GLP-1 oral de Lilly se asoció con reducciones significativas en el riesgo de diabetes tipo 2 y enfermedad cardiovascular - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span>
-
-Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
-
----
+## Related News (7)
 
 ### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
 
@@ -78,6 +69,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1
 
 ---
 
+### [La menopausia como ventana de oportunidad: la FJD urge a prevenir el riesgo cardiovascular y óseo en la transición hormonal](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+
+---
+
 ### [Warum Frauen in den Wechseljahren jetzt ihr Diabetesrisiko kennen sollten - Kurier Dachau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlBSMDM4Wld0OVQ5VmgzaHRPbURmNXNCOUZTTlFBZFlSZU83dlE0eE9lOWFXUm5TdzRvZXNGaXJuRUNmQzNfRTdlVnJJaVR5VzZDMkIzb1l0S2dxZURjRm1Yc0wwMjVpcFhyNDVMT2MzS1N6WHZyZDc1VnM1c2ExX2xMaDNyN2o0czNqN0lQUURNTlBwaTJmTW1vaW5DbjRZZUZLMXZiQ2ZjSFJTV210N043a0NzZElYRk0xSXdGaGFRdjNtNTQ5LW5ZRDA2TldKUnNqMWdZR3NDeEFPTFZ1RkNkcw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
@@ -86,35 +85,11 @@ Source: [Kurier Dachau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlB
 
 ---
 
-### [Ozempic and Wegovy linked to rare risk of sudden vision loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
-
-2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
-
----
-
 ### [Prädiabetes: Nur Lebensstilinterventionen senken das Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
-
----
-
-### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
-
----
-
-### [Common blood pressure drug boosts brown adipose tissue activity and metabolism](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
 
 ---
 

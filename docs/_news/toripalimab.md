@@ -3,7 +3,7 @@ layout: default
 title: "Toripalimab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Toripalimab. Original indication: Loqtorzi, in combination with cisplatin and gemcit.... 20 predicted indications."
+description: "Health news related to Toripalimab. Original indication: . 20 predicted indications."
 permalink: /news/toripalimab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Toripalimab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>mixed-type autoimmune hemolytic anemia (93.8%)</li>

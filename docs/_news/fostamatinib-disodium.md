@@ -3,7 +3,7 @@ layout: default
 title: "Fostamatinib Disodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fostamatinib Disodium. Original indication: Tavlesse is indicated for the treatment of chronic.... 20 predicted indications."
+description: "Health news related to Fostamatinib Disodium. Original indication: . 20 predicted indications."
 permalink: /news/fostamatinib-disodium/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Fostamatinib Disodium with t
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>thrombocytopenia due to immune destruction (99.8%)</li>
 <li>autosomal thrombocytopenia with normal platelets (99.5%)</li>

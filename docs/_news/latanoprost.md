@@ -3,7 +3,7 @@ layout: default
 title: "Latanoprost News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Latanoprost. Original indication: Catiolanze is indicated for the reduction of eleva.... 20 predicted indications."
+description: "Health news related to Latanoprost. Original indication: . 20 predicted indications."
 permalink: /news/latanoprost/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Latanoprost with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Catiolanze is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension. Catiolanze is indicated for the reduction of...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary hereditary glaucoma (99.9%)</li>

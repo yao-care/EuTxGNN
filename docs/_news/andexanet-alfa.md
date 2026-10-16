@@ -3,7 +3,7 @@ layout: default
 title: "Andexanet Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Andexanet Alfa. Original indication: For adult patients treated with a direct factor Xa.... 20 predicted indications."
+description: "Health news related to Andexanet Alfa. Original indication: . 20 predicted indications."
 permalink: /news/andexanet-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Andexanet Alfa with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>Glanzmann thrombasthenia (99.8%)</li>

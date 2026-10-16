@@ -3,7 +3,7 @@ layout: default
 title: "Tobramycin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tobramycin. Original indication: Vantobra&nbsp;is indicated for the management of c.... 20 predicted indications."
+description: "Health news related to Tobramycin. Original indication: . 20 predicted indications."
 permalink: /news/tobramycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tobramycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Tobramycin?">
-<strong>Tobramycin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tobramycin</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Tobramycin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Vantobra&nbsp;is indicated for the management of chronic pulmonary infection due to Pseudomonas aeruginosa in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>punctate epithelial keratoconjunctivitis (100.0%)</li>
 <li>exposure keratitis (99.9%)</li>
@@ -52,9 +51,15 @@ This page combines the AI-predicted indications for Tobramycin with the latest h
 <p><a href="{{ '/drugs/tobramycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

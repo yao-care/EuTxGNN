@@ -3,7 +3,7 @@ layout: default
 title: "Phenylephrine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Phenylephrine. Original indication: Omidria is indicated in adults for maintenance of .... 20 predicted indications."
+description: "Health news related to Phenylephrine. Original indication: . 20 predicted indications."
 permalink: /news/phenylephrine/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Phenylephrine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement...</li>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>pharyngitis (100.0%)</li>
 <li>nasal cavity disease (100.0%)</li>

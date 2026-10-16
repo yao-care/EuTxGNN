@@ -3,7 +3,7 @@ layout: default
 title: "Bupivacaine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bupivacaine. Original indication: Exparel&nbsp;liposomal is indicated:  in adults as.... 20 predicted indications."
+description: "Health news related to Bupivacaine. Original indication: . 20 predicted indications."
 permalink: /news/bupivacaine/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Bupivacaine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Exparel&nbsp;liposomal is indicated:  in adults as a brachial plexus block or femoral nerve block for treatment of post-operative pain. in adults and children aged 6 years or older as a field block...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>dermatitis (99.5%)</li>

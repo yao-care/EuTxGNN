@@ -3,7 +3,7 @@ layout: default
 title: "Brinzolamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brinzolamide. Original indication: Decrease of elevated intraocular pressure (IOP) in.... 20 predicted indications."
+description: "Health news related to Brinzolamide. Original indication: . 20 predicted indications."
 permalink: /news/brinzolamide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Brinzolamide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Decrease of elevated intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary hereditary glaucoma (99.5%)</li>

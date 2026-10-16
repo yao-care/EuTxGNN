@@ -3,7 +3,7 @@ layout: default
 title: "Abatacept News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Abatacept. Original indication: Rheumatoid arthritisOrencia, in combination with m.... 10 predicted indications."
+description: "Health news related to Abatacept. Original indication: . 4 predicted indications."
 permalink: /news/abatacept/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="What news is there about Abatacept?">
-<strong>Abatacept</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Abatacept</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,31 +24,32 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Rheumatoid arthritisOrencia, in combination with methotrexate, is indicated for:  the treatment of moderate to severe active rheumatoid arthritis (RA) in adult patients who responded inadequately to...</li>
-<li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>rheumatoid vasculitis (99.9%)</li>
-<li>ankylosing spondylitis (99.9%)</li>
-<li>hypermobility of coccyx (99.9%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>Kummell disease (99.8%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.8%)</li>
-<li>vertebral disease (99.7%)</li>
-<li>spondyloarthropathy, susceptibility to (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.5%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Ankylosing spondylitis | 99.91% | L2 | Only a small open-label pilot (n=30); reviews describe abatacept as not effective for axial disease (99.0%)</li>
+<li>Inflammatory spondylopathy | 99.84% | L1 | The Phase 3 evidence is from psoriatic arthritis, not the axial subset (99.0%)</li>
+<li>Polyarticular juvenile rheumatoid arthritis | 99.83% | L1 | Already an approved indication, so not a true repurposing candidate (99.0%)</li>
+<li>Spondyloarthropathy, susceptibility to | 99.65% | L4 | A genetic-susceptibility category, not a treatable entity (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

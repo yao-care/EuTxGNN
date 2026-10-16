@@ -3,7 +3,7 @@ layout: default
 title: "Canakinumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Canakinumab. Original indication: Periodic fever syndromes Ilaris is indicated for t.... 20 predicted indications."
+description: "Health news related to Canakinumab. Original indication: . 20 predicted indications."
 permalink: /news/canakinumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Canakinumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Periodic fever syndromes Ilaris is indicated for the treatment of the following autoinflammatory periodic fever syndromes in adults, adolescents and children aged 2 years and older:...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>hepatic infarction (99.9%)</li>

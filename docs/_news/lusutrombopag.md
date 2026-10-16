@@ -3,7 +3,7 @@ layout: default
 title: "Lusutrombopag News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lusutrombopag. Original indication: Mulpleo is indicated for the treatment of severe t.... 10 predicted indications."
+description: "Health news related to Lusutrombopag. Original indication: . 10 predicted indications."
 permalink: /news/lusutrombopag/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Lusutrombopag with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Mulpleo is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease undergoing invasive procedures</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>hereditary thrombocytopenia with normal platelets (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Raltegravir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Raltegravir. Original indication: Isentress is indicated in combination with other a.... 20 predicted indications."
+description: "Health news related to Raltegravir. Original indication: . 20 predicted indications."
 permalink: /news/raltegravir/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Raltegravir with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Isentress is indicated in combination with other anti-retroviral medicinal products for the treatment of human immunodeficiency virus (HIV 1) infection.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>HIV infectious disease (99.9%)</li>
 <li>simian immunodeficiency virus infection (99.8%)</li>

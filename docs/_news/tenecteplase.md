@@ -3,7 +3,7 @@ layout: default
 title: "Tenecteplase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tenecteplase. Original indication: Metalyse is indicated for the thrombolytic treatme.... 20 predicted indications."
+description: "Health news related to Tenecteplase. Original indication: Because no trials or literature specific to this s.... 20 predicted indications."
 permalink: /news/tenecteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenecteplase?">
-<strong>Tenecteplase</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tenecteplase</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Metalyse is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of...</li>
+<li><strong>Original indication</strong>: Because no trials or literature specific to this subtype were provided, the support is indirect. A closely related prediction, posteroinferior myocardial infarction (score 99.87%), has the same...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>myocardial infarction (99.9%)</li>
@@ -52,9 +52,15 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

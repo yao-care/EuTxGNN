@@ -3,7 +3,7 @@ layout: default
 title: "Vigabatrin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vigabatrin. Original indication: Kigabeq is indicated in infants and children from .... 20 predicted indications."
+description: "Health news related to Vigabatrin. Original indication: . 20 predicted indications."
 permalink: /news/vigabatrin/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Vigabatrin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Kigabeq is indicated in infants and children from 1 month to less than 7 years of age for:  Treatment in monotherapy of infantile spasms (West's syndrome). Treatment in combination with other...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>West syndrome (99.1%)</li>
 <li>intellectual disability, X-linked, with or without seizures, arx-related (98.7%)</li>

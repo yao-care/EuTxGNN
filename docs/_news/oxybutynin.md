@@ -3,7 +3,7 @@ layout: default
 title: "Oxybutynin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Oxybutynin. Original indication: Symptomatic treatment of urge incontinence and/or .... 20 predicted indications."
+description: "Health news related to Oxybutynin. Original indication: . 20 predicted indications."
 permalink: /news/oxybutynin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Oxybutynin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with unstable bladder.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>cauda equina syndrome (99.9%)</li>

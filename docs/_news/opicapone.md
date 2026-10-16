@@ -3,7 +3,7 @@ layout: default
 title: "Opicapone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Opicapone. Original indication: Ongentys is indicated as adjunctive therapy to pre.... 20 predicted indications."
+description: "Health news related to Opicapone. Original indication: . 20 predicted indications."
 permalink: /news/opicapone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ongentys is indicated as adjunctive therapy to preparations of levodopa/ DOPA decarboxylase inhibitors (DDCI) in adult patients with Parkinson’s disease and end-of-dose motor fluctuations who cannot...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>juvenile onset Parkinson disease 19A (99.6%)</li>
@@ -52,19 +51,11 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Mum wants son with childhood dementia to 'experience life'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
-2026-10-16 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
----
+## Related News (2)
 
 ### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">dementia</span>
+2026-10-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 

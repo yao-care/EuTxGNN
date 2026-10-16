@@ -3,7 +3,7 @@ layout: default
 title: "Perampanel News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Perampanel. Original indication: Fycompa is indicated for the adjunctive treatment .... 20 predicted indications."
+description: "Health news related to Perampanel. Original indication: . 20 predicted indications."
 permalink: /news/perampanel/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Perampanel with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years of age with epilepsy....</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>visual epilepsy (99.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Zoledronic Acid Monohydrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zoledronic Acid Monohydrate. Original indication: Prevention of skeletal related events (pathologica.... 20 predicted indications."
+description: "Health news related to Zoledronic Acid Monohydrate. Original indication: . 20 predicted indications."
 permalink: /news/zoledronic-acid-monohydrate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Zoledronic Acid Monohydrate 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>bone Paget disease (99.6%)</li>
 <li>HIV infectious disease (94.0%)</li>

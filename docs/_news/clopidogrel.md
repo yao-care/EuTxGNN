@@ -3,7 +3,7 @@ layout: default
 title: "Clopidogrel News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Clopidogrel. Original indication: Acute Coronary Syndrome Myocardial Infarction. 12 predicted indications."
+description: "Health news related to Clopidogrel. Original indication: . 12 predicted indications."
 permalink: /news/clopidogrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel?">
-<strong>Clopidogrel</strong> currently has <strong>0 news articles</strong>, with 12 predicted indications.
+<strong>Clopidogrel</strong> currently has <strong>1 news articles</strong>, with 12 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Clopidogrel with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Acute Coronary Syndrome Myocardial Infarction</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (12)</strong>:<ul>
 <li>acute coronary syndrome (50.0%)</li>
 <li>ST-elevation myocardial infarction (50.0%)</li>
@@ -44,9 +43,15 @@ This page combines the AI-predicted indications for Clopidogrel with the latest 
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

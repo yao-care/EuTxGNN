@@ -3,7 +3,7 @@ layout: default
 title: "Norelgestromin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norelgestromin. Original indication: Female contraception. Evra is intended for women o.... 20 predicted indications."
+description: "Health news related to Norelgestromin. Original indication: . 20 predicted indications."
 permalink: /news/norelgestromin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Norelgestromin with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>amenorrhea (disease) (99.5%)</li>

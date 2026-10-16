@@ -3,7 +3,7 @@ layout: default
 title: "Tolvaptan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tolvaptan. Original indication: Treatment of adult patients with hyponatraemia sec.... 20 predicted indications."
+description: "Health news related to Tolvaptan. Original indication: . 20 predicted indications."
 permalink: /news/tolvaptan/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Tolvaptan with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of adult patients with hyponatraemia secondary to syndrome of inappropriate antidiuretic-hormone secretion (SIADH).</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (100.0%)</li>

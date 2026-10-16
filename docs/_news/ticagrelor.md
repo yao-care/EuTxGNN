@@ -3,7 +3,7 @@ layout: default
 title: "Ticagrelor News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ticagrelor. Original indication: Brilique, co administered with acetylsalicylic aci.... 20 predicted indications."
+description: "Health news related to Ticagrelor. Original indication: . 20 predicted indications."
 permalink: /news/ticagrelor/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Ticagrelor with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Brilique, co administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with  acute coronary syndromes (ACS) or a history of myocardial...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>intracranial arteriosclerosis (100.0%)</li>

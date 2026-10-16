@@ -3,7 +3,7 @@ layout: default
 title: "Erenumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Erenumab. Original indication: Aimovig is indicated for prophylaxis of migraine i.... 20 predicted indications."
+description: "Health news related to Erenumab. Original indication: However, none of these studies specifically enroll.... 20 predicted indications."
 permalink: /news/erenumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erenumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Erenumab?">
-<strong>Erenumab</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Erenumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,8 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Aimovig is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month when initiating treatment with Aimovig.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Original indication</strong>: However, none of these studies specifically enrolled or analyzed patients with brainstem aura (formerly basilar-type migraine). The evidence is therefore indirect, extrapolated from broader migraine...</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>migraine with brainstem aura (99.9%)</li>
 <li>migraine disorder (99.9%)</li>
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

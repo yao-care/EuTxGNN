@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Teriparatide. Original indication: Kauliv is indicated in adults. Treatment of osteop.... 20 predicted indications."
+description: "Health news related to Teriparatide. Original indication: . 20 predicted indications."
 permalink: /news/teriparatide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Teriparatide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Kauliv is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture (see section 5.1). In postmenopausal women, a significant reduction in the...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>duodenal ulcer (disease) (99.9%)</li>

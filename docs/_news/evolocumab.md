@@ -3,7 +3,7 @@ layout: default
 title: "Evolocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Evolocumab. Original indication: Hypercholesterolaemia and mixed dyslipidaemia Repa.... 20 predicted indications."
+description: "Health news related to Evolocumab. Original indication: . 20 predicted indications."
 permalink: /news/evolocumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Evolocumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Hypercholesterolaemia and mixed dyslipidaemia Repatha is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>symptomatic form of hemophilia in female carriers (99.8%)</li>

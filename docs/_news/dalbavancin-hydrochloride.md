@@ -3,7 +3,7 @@ layout: default
 title: "Dalbavancin Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dalbavancin Hydrochloride. Original indication: Xydalba is indicated for the treatment of acute ba.... 20 predicted indications."
+description: "Health news related to Dalbavancin Hydrochloride. Original indication: . 20 predicted indications."
 permalink: /news/dalbavancin-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dalbavancin Hydrochloride?">
-<strong>Dalbavancin Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dalbavancin Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Dalbavancin Hydrochloride wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Xydalba is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients from birth (see sections 4.4 and 5.1).Consideration should be...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>postinfectious vasculitis (99.8%)</li>
 <li>post-bacterial disorder (99.8%)</li>
@@ -52,9 +50,15 @@ This page combines the AI-predicted indications for Dalbavancin Hydrochloride wi
 <p><a href="{{ '/drugs/dalbavancin-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

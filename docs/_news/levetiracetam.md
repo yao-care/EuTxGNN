@@ -3,7 +3,7 @@ layout: default
 title: "Levetiracetam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levetiracetam. Original indication: Keppra is indicated as monotherapy in the treatmen.... 20 predicted indications."
+description: "Health news related to Levetiracetam. Original indication: . 20 predicted indications."
 permalink: /news/levetiracetam/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Levetiracetam with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Keppra is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Keppra is...</li>
-<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>visual epilepsy (100.0%)</li>
 <li>audiogenic seizures (100.0%)</li>

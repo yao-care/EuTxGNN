@@ -3,7 +3,7 @@ layout: default
 title: "Catridecacog News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Catridecacog. Original indication: Long-term prophylactic treatment of bleeding in ad.... 11 predicted indications."
+description: "Health news related to Catridecacog. Original indication: . 11 predicted indications."
 permalink: /news/catridecacog/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Catridecacog with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Long-term prophylactic treatment of bleeding in adult and paediatric patients 6 years and above with congenital factor-XIII-A-subunit deficiency.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (11)</strong>:<ul>
 <li>factor XIII, A subunit, deficiency (50.0%)</li>

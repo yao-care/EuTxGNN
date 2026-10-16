@@ -3,7 +3,7 @@ layout: default
 title: "Teduglutide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Teduglutide. Original indication: Revestive is indicated for the treatment of patien.... 20 predicted indications."
+description: "Health news related to Teduglutide. Original indication: . 20 predicted indications."
 permalink: /news/teduglutide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Teduglutide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery....</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>short bowel syndrome (99.1%)</li>

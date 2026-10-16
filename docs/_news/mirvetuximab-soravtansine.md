@@ -3,7 +3,7 @@ layout: default
 title: "Mirvetuximab Soravtansine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mirvetuximab Soravtansine. Original indication: Elahere as monotherapy is indicated for the treatm.... 20 predicted indications."
+description: "Health news related to Mirvetuximab Soravtansine. Original indication: . 20 predicted indications."
 permalink: /news/mirvetuximab-soravtansine/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Mirvetuximab Soravtansine wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Elahere as monotherapy is indicated for the treatment of adult patients with folate receptor-alpha (FRα) positive, platinum-resistant high grade serous epithelial ovarian, fallopian tube, or primary...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>antithrombin deficiency type 2 (98.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Turoctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Turoctocog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 12 predicted indications."
+description: "Health news related to Turoctocog Alfa. Original indication: . 12 predicted indications."
 permalink: /news/turoctocog-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Turoctocog Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Novoeight can be used for all age groups.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (12)</strong>:<ul>
 <li>symptomatic form of hemophilia in female carriers (50.0%)</li>

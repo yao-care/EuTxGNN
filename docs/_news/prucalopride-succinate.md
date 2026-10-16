@@ -3,7 +3,7 @@ layout: default
 title: "Prucalopride Succinate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Prucalopride Succinate. Original indication: Resolor is indicated for symptomatic treatment of .... 0 predicted indications."
+description: "Health news related to Prucalopride Succinate. Original indication: . 0 predicted indications."
 permalink: /news/prucalopride-succinate/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Prucalopride Succinate with 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/prucalopride-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Dexrazoxane Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dexrazoxane Hydrochloride. Original indication: Savene is indicated for the treatment of anthracyc.... 0 predicted indications."
+description: "Health news related to Dexrazoxane Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/dexrazoxane-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexrazoxane Hydrochloride?">
-<strong>Dexrazoxane Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Dexrazoxane Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,19 @@ This page combines the AI-predicted indications for Dexrazoxane Hydrochloride wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Savene is indicated for the treatment of anthracycline extravasation.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+2026-10-15 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Ketorolac News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ketorolac. Original indication: Omidria is indicated in adults for maintenance of .... 20 predicted indications."
+description: "Health news related to Ketorolac. Original indication: . 20 predicted indications."
 permalink: /news/ketorolac/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Ketorolac with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>papillary conjunctivitis (99.9%)</li>
 <li>headache disorder (99.4%)</li>

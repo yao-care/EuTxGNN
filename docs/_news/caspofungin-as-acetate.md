@@ -3,7 +3,7 @@ layout: default
 title: "Caspofungin (As Acetate) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Caspofungin (As Acetate). Original indication: Treatment of invasive candidiasis in adult or paed.... 20 predicted indications."
+description: "Health news related to Caspofungin (As Acetate). Original indication: . 20 predicted indications."
 permalink: /news/caspofungin-as-acetate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Caspofungin (As Acetate) wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>gastrin secretion abnormality (99.4%)</li>
 <li>punctate epithelial keratoconjunctivitis (98.9%)</li>

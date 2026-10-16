@@ -3,7 +3,7 @@ layout: default
 title: "Reslizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Reslizumab. Original indication: Cinqaero is indicated as add-on therapy in adult p.... 20 predicted indications."
+description: "Health news related to Reslizumab. Original indication: . 20 predicted indications."
 permalink: /news/reslizumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Reslizumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Cinqaero is indicated as add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>thrombocytopenia due to immune destruction (99.5%)</li>

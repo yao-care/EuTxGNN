@@ -3,7 +3,7 @@ layout: default
 title: "Glycerol Phenylbutyrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Glycerol Phenylbutyrate. Original indication: Ravicti is indicated for use as adjunctive therapy.... 20 predicted indications."
+description: "Health news related to Glycerol Phenylbutyrate. Original indication: . 3 predicted indications."
 permalink: /news/glycerol-phenylbutyrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycerol-phenylbutyrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycerol Phenylbutyrate?">
-<strong>Glycerol Phenylbutyrate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Glycerol Phenylbutyrate</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,29 +24,11 @@ This page combines the AI-predicted indications for Glycerol Phenylbutyrate with
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ravicti is indicated for use as adjunctive therapy for chronic management of patients&nbsp;with urea cycle disorders (UCDs) including deficiencies of carbamoyl phosphate-synthase-I (CPS), ornithine...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>urea cycle disorder (98.7%)</li>
-<li>argininosuccinic aciduria (98.2%)</li>
-<li>carbamoyl phosphate synthetase I deficiency disease (97.9%)</li>
-<li>acute neonatal citrullinemia type I (97.2%)</li>
-<li>adult-onset citrullinemia type I (97.2%)</li>
-<li>citrullinemia, type II, adult-onset (97.1%)</li>
-<li>3-methylcrotonyl-CoA carboxylase 1 deficiency (97.1%)</li>
-<li>hyperinsulinism-hyperammonemia syndrome (96.8%)</li>
-<li>hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency (96.6%)</li>
-<li>hyperargininemia (95.0%)</li>
-<li>citrullinemia (94.3%)</li>
-<li>citrin deficiency (93.5%)</li>
-<li>neonatal intrahepatic cholestasis due to citrin deficiency (92.7%)</li>
-<li>benign neoplasm of adrenal gland (90.8%)</li>
-<li>hyperammonemia due to N-acetylglutamate synthase deficiency (89.0%)</li>
-<li>familial apolipoprotein C-II deficiency (86.3%)</li>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (83.1%)</li>
-<li>acute intermittent porphyria (81.3%)</li>
-<li>renal-hepatic-pancreatic dysplasia (79.6%)</li>
-<li>autosomal ichthyosis syndrome with fatal disease course (79.5%)</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>3-methylcrotonyl-CoA carboxylase 1 deficiency | 97.10% | Weak rationale; the condition is often benign and not primarily hyperammonemic (99.0%)</li>
+<li>Hyperinsulinism-hyperammonemia syndrome | 96.78% | Plausible but of limited clinical relevance; hypoglycemia is the main treatment target (99.0%)</li>
+<li>Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency | 96.56% | The most biologically plausible candidate; functionally close to the approved UCD indication (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycerol-phenylbutyrate/' | relative_url }}">View full drug report →</a></p>

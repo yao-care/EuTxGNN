@@ -3,7 +3,7 @@ layout: default
 title: "Simvastatin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Simvastatin. Original indication: Cholib is indicated as adjunctive therapy to diet .... 20 predicted indications."
+description: "Health news related to Simvastatin. Original indication: . 20 predicted indications."
 permalink: /news/simvastatin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Cholib is indicated as adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C levels...</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (100.0%)</li>

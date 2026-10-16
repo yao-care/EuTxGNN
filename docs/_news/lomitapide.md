@@ -3,7 +3,7 @@ layout: default
 title: "Lomitapide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lomitapide. Original indication: Lojuxta is indicated as an adjunct to a low?fat di.... 20 predicted indications."
+description: "Health news related to Lomitapide. Original indication: . 20 predicted indications."
 permalink: /news/lomitapide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Lomitapide with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Lojuxta is indicated as an adjunct to a low?fat diet and other lipid?lowering medicinal products with or without low-density-lipoprotein (LDL) apheresis in adult patients with homozygous familial...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>marcothrombocytopenia with mitral valve insufficiency (99.9%)</li>

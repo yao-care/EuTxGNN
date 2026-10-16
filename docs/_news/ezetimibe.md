@@ -3,7 +3,7 @@ layout: default
 title: "Ezetimibe News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ezetimibe. Original indication: Hypercholesterolaemia and mixed dyslipidaemiaNuste.... 20 predicted indications."
+description: "Health news related to Ezetimibe. Original indication: Other predictions follow the same pattern. Familia.... 20 predicted indications."
 permalink: /news/ezetimibe/
 ---
 
@@ -24,8 +24,8 @@ This page combines the AI-predicted indications for Ezetimibe with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Hypercholesterolaemia and mixed dyslipidaemiaNustendi is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Original indication</strong>: Other predictions follow the same pattern. Familial hypercholesterolemia and autosomal dominant hypercholesterolemia are essentially covered by the approved heterozygous familial indication. Other...</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (99.9%)</li>
 <li>obsolete familial combined hyperlipidemia (99.7%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Human Thrombin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Human Thrombin. Original indication: TachoSil is indicated in adults and children from .... 20 predicted indications."
+description: "Health news related to Human Thrombin. Original indication: . 20 predicted indications."
 permalink: /news/human-thrombin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Human Thrombin with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: TachoSil is indicated in adults and children from 1 month of age for supportive treatment in surgery for improvement of haemostasis, to promote tissue sealing and for suture support in vascular...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (97.0%)</li>

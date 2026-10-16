@@ -3,7 +3,7 @@ layout: default
 title: "Asfotase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Asfotase Alfa. Original indication: Strensiq is indicated for long-term enzyme replace.... 20 predicted indications."
+description: "Health news related to Asfotase Alfa. Original indication: . 20 predicted indications."
 permalink: /news/asfotase-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Asfotase Alfa with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Strensiq is indicated for long-term enzyme replacement therapy in patients with paediatric-onset hypophosphatasia to treat the bone manifestations of the disease.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (100.0%)</li>

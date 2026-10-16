@@ -3,7 +3,7 @@ layout: default
 title: "Ketoconazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ketoconazole. Original indication: Ketoconazole Esteve is indicated for the treatment.... 20 predicted indications."
+description: "Health news related to Ketoconazole. Original indication: . 20 predicted indications."
 permalink: /news/ketoconazole/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ketoconazole Esteve is indicated for the treatment of endogenous Cushing’s syndrome in adults and adolescents above the age of 12 years.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>cutaneous candidiasis (99.8%)</li>
 <li>acne (disease) (99.8%)</li>

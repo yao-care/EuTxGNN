@@ -3,7 +3,7 @@ layout: default
 title: "Artenimol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Artenimol. Original indication: Eurartesim is indicated for the treatment of uncom.... 10 predicted indications."
+description: "Health news related to Artenimol. Original indication: . 9 predicted indications."
 permalink: /news/artenimol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/artenimol/
 ---
 
 <p class="key-answer" data-question="What news is there about Artenimol?">
-<strong>Artenimol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Artenimol</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,31 +24,37 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Eurartesim is indicated for the treatment of uncomplicated Plasmodium falciparum malaria in adults, children and infants 6 months and over and weighing 5 kg or more. Consideration should be given to...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Smouldering systemic mastocytosis (98.7%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (98.4%)</li>
-<li>systemic mastocytosis (98.3%)</li>
-<li>Plasmodium vivax malaria (97.3%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (97.2%)</li>
-<li>juvenile chronic polyarthritis (96.6%)</li>
-<li>rheumatoid nodulosis (96.6%)</li>
-<li>juvenile idiopathic arthritis (96.6%)</li>
-<li>West syndrome (96.3%)</li>
-<li>intellectual disability, X-linked, with or without seizures, arx-related (95.9%)</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Lymphoadenopathic mastocytosis with eosinophilia | 98.42% | L5 | Hold (99.0%)</li>
+<li>Systemic mastocytosis | 98.28% | L5 | Hold (99.0%)</li>
+<li>*Plasmodium vivax* malaria | 97.30% | L4 | Research Question (99.0%)</li>
+<li>Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis | 97.17% | L5 | Hold (99.0%)</li>
+<li>Juvenile chronic polyarthritis | 96.61% | L5 | Hold (99.0%)</li>
+<li>Rheumatoid nodulosis | 96.57% | L5 | Hold (99.0%)</li>
+<li>Juvenile idiopathic arthritis | 96.57% | L5 | Hold (99.0%)</li>
+<li>West syndrome | 96.33% | L5 | Hold (99.0%)</li>
+<li>X-linked intellectual disability (ARX-related), with or without seizures | 95.87% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

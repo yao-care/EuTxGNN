@@ -3,7 +3,7 @@ layout: default
 title: "Levodopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levodopa. Original indication: Stalevo is indicated for the treatment of adult pa.... 10 predicted indications."
+description: "Health news related to Levodopa. Original indication: . 5 predicted indications."
 permalink: /news/levodopa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Levodopa</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,37 +24,23 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Stalevo is indicated for the treatment of adult patients with Parkinson's disease and end-of-dose motor fluctuations not stabilised on levodopa / dopa-decarboxylase (DDC)-inhibitor treatment.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
 <li>Multiple system atrophy, parkinsonian type (97.0%)</li>
 <li>PLA2G6-associated neurodegeneration (98.8%)</li>
 <li>Lewy body dementia (97.2%)</li>
 <li>Paralysis agitans, juvenile, of Hunt (98.0%)</li>
 <li>X-linked intellectual disability-ataxia-apraxia syndrome (96.5%)</li>
-<li>Rasmussen subacute encephalitis (99.1%)</li>
-<li>myelitis (98.5%)</li>
-<li>transaldolase deficiency (98.2%)</li>
-<li>fructose-1,6-bisphosphatase deficiency (97.8%)</li>
-<li>progressive supranuclear palsy-corticobasal syndrome (97.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Mum wants son with childhood dementia to 'experience life'](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
-2026-10-16 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xbU5ucGVRbFg4SGUwaFZfMmlvanI0OGR1Z1doalo0blktWU5QWGlXT3Fna2dzLXo2Mkw5NHRJYXFJd3czSFBfV3VyZUdDVHZZNUNWUkpQZTZ6eHEtX2c?oc=5)
-
----
+## Related News (2)
 
 ### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">dementia</span>
+2026-10-15 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
 
 Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 

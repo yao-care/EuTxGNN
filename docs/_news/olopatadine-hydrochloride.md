@@ -3,7 +3,7 @@ layout: default
 title: "Olopatadine Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Olopatadine Hydrochloride. Original indication: Treatment of ocular signs and symptoms of seasonal.... 0 predicted indications."
+description: "Health news related to Olopatadine Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/olopatadine-hydrochloride/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Olopatadine Hydrochloride wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/olopatadine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

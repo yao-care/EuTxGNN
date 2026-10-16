@@ -3,7 +3,7 @@ layout: default
 title: "Remdesivir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Remdesivir. Original indication: Veklury is indicated for the treatment of coronavi.... 20 predicted indications."
+description: "Health news related to Remdesivir. Original indication: . 20 predicted indications."
 permalink: /news/remdesivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="What news is there about Remdesivir?">
-<strong>Remdesivir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Remdesivir</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Veklury is indicated for the treatment of coronavirus disease 2019 (COVID 19) in&nbsp;adults and paediatric patients (at least 4 weeks of age and weighing at least 3 kg):&nbsp;  with pneumonia...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>multiple endocrine neoplasia (99.5%)</li>
@@ -52,9 +51,15 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Enoxaparin Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Enoxaparin Sodium. Original indication: Inhixa is indicated for adults for:  Prophylaxis o.... 20 predicted indications."
+description: "Health news related to Enoxaparin Sodium. Original indication: . 20 predicted indications."
 permalink: /news/enoxaparin-sodium/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Enoxaparin Sodium with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Inhixa is indicated for adults for:  Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, general or oncological surgery. Prophylaxis of venous thromboembolism in...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>purpura fulminans (99.8%)</li>
 <li>pulmonary embolism (disease) (99.6%)</li>

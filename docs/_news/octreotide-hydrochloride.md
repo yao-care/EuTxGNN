@@ -3,7 +3,7 @@ layout: default
 title: "Octreotide Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Octreotide Hydrochloride. Original indication: Oczyesa is indicated for maintenance treatment in .... 20 predicted indications."
+description: "Health news related to Octreotide Hydrochloride. Original indication: . 20 predicted indications."
 permalink: /news/octreotide-hydrochloride/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Octreotide Hydrochloride wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>vulvar inverted follicular keratosis (99.6%)</li>
 <li>seborrheic keratosis (99.5%)</li>

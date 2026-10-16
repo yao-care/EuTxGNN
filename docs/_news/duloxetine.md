@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Duloxetine. Original indication: Treatment of major depressive disorder. Treatment .... 11 predicted indications."
+description: "Health news related to Duloxetine. Original indication: . 11 predicted indications."
 permalink: /news/duloxetine/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Duloxetine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of major depressive disorder. Treatment of diabetic peripheral neuropathic pain. Treatment of generalised anxiety disorder. Cymbalta is indicated in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (11)</strong>:<ul>
 <li>female stress incontinence (50.0%)</li>

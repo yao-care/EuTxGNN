@@ -3,7 +3,7 @@ layout: default
 title: "Darifenacin Hydrobromide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Darifenacin Hydrobromide. Original indication: Symptomatic treatment of urge incontinence and/or .... 20 predicted indications."
+description: "Health news related to Darifenacin Hydrobromide. Original indication: . 20 predicted indications."
 permalink: /news/darifenacin-hydrobromide/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Darifenacin Hydrobromide wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with overactive bladder syndrome.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>overactive bladder (disease) (99.8%)</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (96.9%)</li>

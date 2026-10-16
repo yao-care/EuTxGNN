@@ -3,7 +3,7 @@ layout: default
 title: "Paliperidone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Paliperidone. Original indication: Invega is indicated for the treatment of schizophr.... 20 predicted indications."
+description: "Health news related to Paliperidone. Original indication: . 20 predicted indications."
 permalink: /news/paliperidone/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Paliperidone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective disorder in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>schizophrenia (100.0%)</li>

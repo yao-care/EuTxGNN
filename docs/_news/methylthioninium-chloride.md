@@ -3,7 +3,7 @@ layout: default
 title: "Methylthioninium Chloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Methylthioninium Chloride. Original indication: Lumeblue is indicated as a diagnostic agent enhanc.... 20 predicted indications."
+description: "Health news related to Methylthioninium Chloride. Original indication: . 20 predicted indications."
 permalink: /news/methylthioninium-chloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methylthioninium-chloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Methylthioninium Chloride?">
-<strong>Methylthioninium Chloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Methylthioninium Chloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Methylthioninium Chloride wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Lumeblue is indicated as a diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>irritable bowel syndrome (90.4%)</li>
 <li>dysthymic disorder (88.5%)</li>
@@ -52,9 +50,15 @@ This page combines the AI-predicted indications for Methylthioninium Chloride wi
 <p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+2026-10-15 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+---
 
 
 <div class="disclaimer">

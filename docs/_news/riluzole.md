@@ -3,7 +3,7 @@ layout: default
 title: "Riluzole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Riluzole. Original indication: Rilutek is indicated to extend life or the time to.... 20 predicted indications."
+description: "Health news related to Riluzole. Original indication: . 20 predicted indications."
 permalink: /news/riluzole/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Riluzole with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>

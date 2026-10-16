@@ -3,7 +3,7 @@ layout: default
 title: "Alendronic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alendronic Acid. Original indication: Treatment of postmenopausal osteoporosis in patien.... 20 predicted indications."
+description: "Health news related to Alendronic Acid. Original indication: . 20 predicted indications."
 permalink: /news/alendronic-acid/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Alendronic Acid with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Fosavance reduces the risk of vertebral and hip fractures.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>bone Paget disease (99.3%)</li>

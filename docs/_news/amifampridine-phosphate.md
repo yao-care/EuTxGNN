@@ -3,7 +3,7 @@ layout: default
 title: "Amifampridine Phosphate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Amifampridine Phosphate. Original indication: Symptomatic treatment of Lambert-Eaton myasthenic .... 0 predicted indications."
+description: "Health news related to Amifampridine Phosphate. Original indication: . 0 predicted indications."
 permalink: /news/amifampridine-phosphate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Amifampridine Phosphate with
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/amifampridine-phosphate/' | relative_url }}">View full drug report →</a></p>
 </div>

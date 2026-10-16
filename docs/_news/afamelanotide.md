@@ -3,7 +3,7 @@ layout: default
 title: "Afamelanotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Afamelanotide. Original indication: Prevention of phototoxicity in adult patients with.... 20 predicted indications."
+description: "Health news related to Afamelanotide. Original indication: . 20 predicted indications."
 permalink: /news/afamelanotide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Afamelanotide with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP).</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>X-linked erythropoietic protoporphyria (98.9%)</li>

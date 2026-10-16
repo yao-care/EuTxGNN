@@ -3,7 +3,7 @@ layout: default
 title: "Lasmiditan Succinate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lasmiditan Succinate. Original indication: RAYVOW is indicated for the acute treatment of the.... 20 predicted indications."
+description: "Health news related to Lasmiditan Succinate. Original indication: . 20 predicted indications."
 permalink: /news/lasmiditan-succinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lasmiditan-succinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan Succinate?">
-<strong>Lasmiditan Succinate</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Lasmiditan Succinate</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: RAYVOW is indicated for the acute treatment of the headache phase of migraine attacks, with or without aura in adults.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>migraine disorder (99.9%)</li>
 <li>migraine with brainstem aura (99.9%)</li>
@@ -52,7 +50,15 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (5)
+
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+
+---
 
 ### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
@@ -70,43 +76,19 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM
 
 ---
 
-### [Oltre la semaglutide: la rivoluzione dei farmaci che riducono il peso del 30% e proteggono il cuore](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
-
-2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
-
----
-
-### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
+### [Un estudio defiende que el índice de masa corporal no explica "la gravedad" de la obesidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
 
 2026-10-15 <span class="news-indication-tag">obesidad</span>
 
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
 
 ---
 
-### [17 menaces pour l'humanité identifiées par le Lancet : sommes-nous vraiment prêts à affronter les deux plus redoutables ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hqNWROVmtKWTBaaWoxU0FkanRkU1pjYmxENGw3cHNZZ1cxdDkxaWZjcDBxU09JZWdqVnFUWm5WT1lqcmx1TTRuOHpXU3ZPN0M4R0hSclJwLS1RanVud2lmbm5rallGaEVCQnp0eE9Ddnd0WDJ6WTFmcFhQSk5pY3hHZjFEdTh0Zk1ER0NZSDI0RElmcWF6Sk1sUHpMVldGbmdtMWtlcFJOUkZONEcxVlBYLS1HQklxcWFDZHJ6d3F3ZWo1TEpIU3FwRGpKVFdKSUY5T3hyQktjLXVYZ1NmNHJn?oc=5)
+### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
-2026-10-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hqNWROVmtKWTBaaWoxU0FkanRkU1pjYmxENGw3cHNZZ1cxdDkxaWZjcDBxU09JZWdqVnFUWm5WT1lqcmx1TTRuOHpXU3ZPN0M4R0hSclJwLS1RanVud2lmbm5rallGaEVCQnp0eE9Ddnd0WDJ6WTFmcFhQSk5pY3hHZjFEdTh0Zk1ER0NZSDI0RElmcWF6Sk1sUHpMVldGbmdtMWtlcFJOUkZONEcxVlBYLS1HQklxcWFDZHJ6d3F3ZWo1TEpIU3FwRGpKVFdKSUY5T3hyQktjLXVYZ1NmNHJn?oc=5)
-
----
-
-### [La obesidad no se detecta únicamente con la báscula - IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
-
----
-
-### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

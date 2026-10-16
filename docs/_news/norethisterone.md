@@ -3,7 +3,7 @@ layout: default
 title: "Norethisterone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norethisterone. Original indication: See EMA product information. 20 predicted indications."
+description: "Health news related to Norethisterone. Original indication: . 20 predicted indications."
 permalink: /news/norethisterone/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: See EMA product information</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>acne (disease) (100.0%)</li>
 <li>amenorrhea (disease) (99.6%)</li>

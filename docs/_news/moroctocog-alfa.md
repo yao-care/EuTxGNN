@@ -3,7 +3,7 @@ layout: default
 title: "Moroctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Moroctocog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 20 predicted indications."
+description: "Health news related to Moroctocog Alfa. Original indication: . 20 predicted indications."
 permalink: /news/moroctocog-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Moroctocog Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). ReFacto AF is appropriate for use in adults and children of all ages, including newborns....</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (100.0%)</li>

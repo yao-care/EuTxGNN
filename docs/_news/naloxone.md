@@ -3,7 +3,7 @@ layout: default
 title: "Naloxone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Naloxone. Original indication: Substitution treatment for opioid-drug dependence,.... 20 predicted indications."
+description: "Health news related to Naloxone. Original indication: . 20 predicted indications."
 permalink: /news/naloxone/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Naloxone with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>opiate dependence (97.4%)</li>

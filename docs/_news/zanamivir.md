@@ -3,7 +3,7 @@ layout: default
 title: "Zanamivir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zanamivir. Original indication: Dectova is indicated for the treatment of complica.... 20 predicted indications."
+description: "Health news related to Zanamivir. Original indication: . 20 predicted indications."
 permalink: /news/zanamivir/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Zanamivir with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Dectova is indicated for the treatment of complicated and potentially life-threatening influenza A or B virus infection in adult and paediatric patients (aged ?6 months) when:  The patient’s...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>pyelonephritis (99.8%)</li>

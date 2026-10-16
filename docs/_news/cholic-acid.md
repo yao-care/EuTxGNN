@@ -3,7 +3,7 @@ layout: default
 title: "Cholic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cholic Acid. Original indication: Orphacol is indicated for the treatment of inborn .... 20 predicted indications."
+description: "Health news related to Cholic Acid. Original indication: . 20 predicted indications."
 permalink: /news/cholic-acid/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Cholic Acid with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase deficiency ininfants,...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>cholelithiasis (99.9%)</li>
 <li>HIV infectious disease (99.8%)</li>

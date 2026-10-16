@@ -3,7 +3,7 @@ layout: default
 title: "Pentosan Polysulfate Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pentosan Polysulfate Sodium. Original indication: Elmiron is indicated for the treatment of bladder .... 20 predicted indications."
+description: "Health news related to Pentosan Polysulfate Sodium. Original indication: . 20 predicted indications."
 permalink: /news/pentosan-polysulfate-sodium/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Pentosan Polysulfate Sodium 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Elmiron is indicated for the treatment of bladder pain syndrome characterized by either glomerulations or Hunner’s lesions in adults with moderate to severe pain, urgency and frequency of micturition.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (99.7%)</li>
 <li>Glanzmann thrombasthenia (99.7%)</li>

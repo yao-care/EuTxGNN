@@ -3,7 +3,7 @@ layout: default
 title: "Idursulfase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Idursulfase. Original indication: Elaprase is indicated for the long-term treatment .... 20 predicted indications."
+description: "Health news related to Idursulfase. Original indication: . 20 predicted indications."
 permalink: /news/idursulfase/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Idursulfase with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Elaprase is indicated for the long-term treatment of patients with Hunter syndrome (mucopolysaccharidosis II, MPS II). Heterozygous females were not studied in the clinical trials.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>ptosis-strabismus-ectopic pupils syndrome (97.9%)</li>

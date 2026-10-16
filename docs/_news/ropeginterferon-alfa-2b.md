@@ -3,7 +3,7 @@ layout: default
 title: "Ropeginterferon Alfa-2B News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ropeginterferon Alfa-2B. Original indication: Besremi is indicated as monotherapy in adults for .... 0 predicted indications."
+description: "Health news related to Ropeginterferon Alfa-2B. Original indication: . 0 predicted indications."
 permalink: /news/ropeginterferon-alfa-2b/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Ropeginterferon Alfa-2B with
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/ropeginterferon-alfa-2b/' | relative_url }}">View full drug report →</a></p>

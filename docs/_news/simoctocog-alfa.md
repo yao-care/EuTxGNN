@@ -3,7 +3,7 @@ layout: default
 title: "Simoctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Simoctocog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 20 predicted indications."
+description: "Health news related to Simoctocog Alfa. Original indication: . 9 predicted indications."
 permalink: /news/simoctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simoctocog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Simoctocog Alfa?">
-<strong>Simoctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Simoctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,29 +24,17 @@ This page combines the AI-predicted indications for Simoctocog Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Nuwiq can be used for all age groups.</li>
-<li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>hemophilia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>acquired coagulation factor deficiency (100.0%)</li>
-<li>symptomatic form of hemophilia in female carriers (99.9%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.9%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.9%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (99.8%)</li>
-<li>hemophilia A with vascular abnormality (99.8%)</li>
-<li>thrombotic thrombocytopenic purpura (99.7%)</li>
-<li>platelet-type bleeding disorder (99.7%)</li>
-<li>factor XI deficiency (99.6%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (99.6%)</li>
-<li>flood factor deficiency (99.4%)</li>
-<li>methylcobalamin deficiency type cblG (99.4%)</li>
-<li>familial thrombomodulin anomalies (99.3%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (99.3%)</li>
-<li>hemorrhagic disorder due to a platelet anomaly (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Primary release disorder of platelets | 99.997% | L5 | Platelet function defect; no rationale for FVIII (99.0%)</li>
+<li>Glanzmann thrombasthenia | 99.995% | L5 | Integrin defect; FVIII does not address it (99.0%)</li>
+<li>Scott syndrome | 99.969% | L5 | Missing phospholipid surface; theoretical link only (99.0%)</li>
+<li>Acquired coagulation factor deficiency | 99.952% | L5 | Most plausible in principle (e.g. FVIII-specific deficiency without inhibitors); research question only (99.0%)</li>
+<li>Bleeding diathesis due to a collagen receptor defect | 99.921% | L5 | Primary platelet defect with normal FVIII (99.0%)</li>
+<li>Hemorrhagic disorder due to constitutional thrombocytopenia | 99.917% | L5 | Bleeding from platelet deficiency, not FVIII (99.0%)</li>
+<li>Fetal and neonatal alloimmune thrombocytopenia | 99.845% | L5 | Immune platelet destruction; likely graph artifact (99.0%)</li>
+<li>Hemophilia A with vascular abnormality | 99.779% | L4 | Overlaps the approved indication; a subtype rather than true repurposing; research question (99.0%)</li>
+<li>Thrombotic thrombocytopenic purpura | 99.724% | L5 | Prothrombotic condition; FVIII could pose a safety concern (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simoctocog-alfa/' | relative_url }}">View full drug report →</a></p>

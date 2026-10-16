@@ -3,7 +3,7 @@ layout: default
 title: "Dexamethasone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dexamethasone. Original indication: Treatment of multiple myeloma.. 20 predicted indications."
+description: "Health news related to Dexamethasone. Original indication: . 20 predicted indications."
 permalink: /news/dexamethasone/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Dexamethasone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of multiple myeloma.</li>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>alopecia areata (100.0%)</li>
 <li>alopecia mucinosa (100.0%)</li>

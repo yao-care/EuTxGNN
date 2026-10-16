@@ -3,7 +3,7 @@ layout: default
 title: "Solriamfetol Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Solriamfetol Hydrochloride. Original indication: Sunosi is indicated to improve wakefulness and red.... 20 predicted indications."
+description: "Health news related to Solriamfetol Hydrochloride. Original indication: . 20 predicted indications."
 permalink: /news/solriamfetol-hydrochloride/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Solriamfetol Hydrochloride w
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy). Sunosi is indicated to improve wakefulness and reduce...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>attention deficit-hyperactivity disorder (100.0%)</li>
 <li>faciodigitogenital syndrome (100.0%)</li>

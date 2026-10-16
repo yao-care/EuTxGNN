@@ -3,7 +3,7 @@ layout: default
 title: "Defibrotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Defibrotide. Original indication: Defitelio is indicated for the treatment of severe.... 20 predicted indications."
+description: "Health news related to Defibrotide. Original indication: . 20 predicted indications."
 permalink: /news/defibrotide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Defibrotide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Defitelio is indicated for the treatment of severe hepatic veno-occlusive disease (VOD) also known as sinusoidal obstructive syndrome (SOS) in haematopoietic stem-cell transplantation (HSCT) therapy....</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>pseudo-von Willebrand disease (99.9%)</li>

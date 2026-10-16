@@ -3,7 +3,7 @@ layout: default
 title: "Vinflunine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vinflunine. Original indication: Javlor is indicated in monotherapy for the treatme.... 20 predicted indications."
+description: "Health news related to Vinflunine. Original indication: . 20 predicted indications."
 permalink: /news/vinflunine/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Vinflunine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Javlor is indicated in monotherapy for the treatment of adult patients with advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>amyotrophic lateral sclerosis (99.0%)</li>

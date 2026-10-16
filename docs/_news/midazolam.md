@@ -3,7 +3,7 @@ layout: default
 title: "Midazolam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Midazolam. Original indication: Treatment of prolonged, acute, convulsive seizures.... 20 predicted indications."
+description: "Health news related to Midazolam. Original indication: . 20 predicted indications."
 permalink: /news/midazolam/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Midazolam with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults.BUCCOLAM must only be used by parents/carers where the patient has been diagnosed to have epilepsy.For infants...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>insomnia (disease) (99.7%)</li>
 <li>anxiety (99.3%)</li>

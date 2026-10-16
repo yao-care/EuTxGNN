@@ -3,7 +3,7 @@ layout: default
 title: "Pantoprazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pantoprazole. Original indication: Short-term treatment of reflux symptoms (e.g. hear.... 20 predicted indications."
+description: "Health news related to Pantoprazole. Original indication: . 20 predicted indications."
 permalink: /news/pantoprazole/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Pantoprazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>peptic esophagitis (99.9%)</li>
 <li>multiple endocrine neoplasia (99.8%)</li>

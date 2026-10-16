@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Oxybate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sodium Oxybate. Original indication: Treatment of narcolepsy with cataplexy in adult pa.... 0 predicted indications."
+description: "Health news related to Sodium Oxybate. Original indication: . 0 predicted indications."
 permalink: /news/sodium-oxybate/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Sodium Oxybate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of narcolepsy with cataplexy in adult patients.</li>
 <li><strong>Evidence level</strong>: L2</li>
 </ul>
 <p><a href="{{ '/drugs/sodium-oxybate/' | relative_url }}">View full drug report →</a></p>

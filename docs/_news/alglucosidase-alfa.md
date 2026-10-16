@@ -3,7 +3,7 @@ layout: default
 title: "Alglucosidase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alglucosidase Alfa. Original indication: Myozyme is indicated for long-term enzyme-replacem.... 20 predicted indications."
+description: "Health news related to Alglucosidase Alfa. Original indication: . 20 predicted indications."
 permalink: /news/alglucosidase-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Alglucosidase Alfa with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Myozyme is indicated for long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-?-glucosidase deficiency). In patients with late-onset Pompe disease...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>adult polyglucosan body disease (99.5%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Amikacin Sulfate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Amikacin Sulfate. Original indication: Arikayce liposomal is indicated for the treatment .... 20 predicted indications."
+description: "Health news related to Amikacin Sulfate. Original indication: . 20 predicted indications."
 permalink: /news/amikacin-sulfate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Amikacin Sulfate with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Arikayce liposomal is indicated for the treatment of non-tuberculous mycobacterial (NTM) lung infections caused by Mycobacterium avium Complex (MAC) in adults with limited treatment options who do...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>paratyphoid fever (99.8%)</li>
 <li>diffuse scleroderma (99.8%)</li>

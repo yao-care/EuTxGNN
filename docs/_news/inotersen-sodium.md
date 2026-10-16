@@ -3,7 +3,7 @@ layout: default
 title: "Inotersen Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Inotersen Sodium. Original indication: Treatment of stage 1 or Stage 2 polyneuropathy in .... 0 predicted indications."
+description: "Health news related to Inotersen Sodium. Original indication: . 0 predicted indications."
 permalink: /news/inotersen-sodium/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Inotersen Sodium with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/inotersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

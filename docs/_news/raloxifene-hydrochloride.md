@@ -3,7 +3,7 @@ layout: default
 title: "Raloxifene Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Raloxifene Hydrochloride. Original indication: Raloxifene is indicated for the treatment and prev.... 20 predicted indications."
+description: "Health news related to Raloxifene Hydrochloride. Original indication: . 20 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated....</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>duodenal ulcer (disease) (99.7%)</li>
 <li>obsolete susceptibility to ischemic stroke (99.7%)</li>

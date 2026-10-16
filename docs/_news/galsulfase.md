@@ -3,7 +3,7 @@ layout: default
 title: "Galsulfase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Galsulfase. Original indication: Naglazyme is indicated for long-term enzyme-replac.... 20 predicted indications."
+description: "Health news related to Galsulfase. Original indication: . 20 predicted indications."
 permalink: /news/galsulfase/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Galsulfase with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Naglazyme is indicated for long-term enzyme-replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis VI (MPS VI; N-acetylgalactosamine-4-sulfatase deficiency;...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>ptosis-strabismus-ectopic pupils syndrome (97.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Oritavancin (Diphosphate) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Oritavancin (Diphosphate). Original indication: Tenkasi is indicated for the treatment of acute ba.... 20 predicted indications."
+description: "Health news related to Oritavancin (Diphosphate). Original indication: . 20 predicted indications."
 permalink: /news/oritavancin-diphosphate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Oritavancin (Diphosphate) wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Tenkasi is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients aged 3 months and older (see sections 4.2, 4.4 and 5.1)....</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>Bacteroidaceae infectious disease (99.5%)</li>
 <li>ophthalmic herpes zoster (99.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Exenatide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Exenatide. Original indication: Byetta is indicated for treatment of type-2 diabet.... 20 predicted indications."
+description: "Health news related to Exenatide. Original indication: . 20 predicted indications."
 permalink: /news/exenatide/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Exenatide with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Byetta is indicated for treatment of type-2 diabetes mellitus in combination with:  metformin; sulphonylureas; thiazolidinediones; metformin and a sulphonylurea; metformin and a thiazolidinedione; ...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary hereditary glaucoma (96.2%)</li>

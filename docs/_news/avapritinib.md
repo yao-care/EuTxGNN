@@ -3,7 +3,7 @@ layout: default
 title: "Avapritinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avapritinib. Original indication: Unresectable or metastatic gastrointestinal stroma.... 20 predicted indications."
+description: "Health news related to Avapritinib. Original indication: . 20 predicted indications."
 permalink: /news/avapritinib/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Avapritinib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>axial spondylometaphyseal dysplasia (99.9%)</li>

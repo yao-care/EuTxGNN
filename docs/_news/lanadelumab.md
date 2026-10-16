@@ -3,7 +3,7 @@ layout: default
 title: "Lanadelumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lanadelumab. Original indication: Takhzyro is indicated for routine prevention of re.... 20 predicted indications."
+description: "Health news related to Lanadelumab. Original indication: . 20 predicted indications."
 permalink: /news/lanadelumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Lanadelumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Takhzyro is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in patients aged 2 years and older.</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>C1 inhibitor deficiency (100.0%)</li>

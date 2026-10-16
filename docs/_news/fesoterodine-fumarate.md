@@ -3,7 +3,7 @@ layout: default
 title: "Fesoterodine Fumarate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fesoterodine Fumarate. Original indication: Treatment of the symptoms (increased urinary frequ.... 20 predicted indications."
+description: "Health news related to Fesoterodine Fumarate. Original indication: . 20 predicted indications."
 permalink: /news/fesoterodine-fumarate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Fesoterodine Fumarate with t
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>overactive bladder (disease) (98.9%)</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (91.1%)</li>

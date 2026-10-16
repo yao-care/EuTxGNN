@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Hydroxocobalamin. Original indication: Treatment of known or suspected cyanide poisoning..... 10 predicted indications."
+description: "Health news related to Hydroxocobalamin. Original indication: . 10 predicted indications."
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Hydroxocobalamin with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of known or suspected cyanide poisoning. Cyanokit is to be administered together with appropriate decontamination and supportive measures.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>esophageal varices with bleeding (99.2%)</li>

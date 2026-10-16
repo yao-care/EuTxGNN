@@ -3,7 +3,7 @@ layout: default
 title: "Susoctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Susoctocog Alfa. Original indication: Treatment of bleeding episodes in patients with ac.... 20 predicted indications."
+description: "Health news related to Susoctocog Alfa. Original indication: . 20 predicted indications."
 permalink: /news/susoctocog-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Susoctocog Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (99.9%)</li>

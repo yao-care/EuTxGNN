@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Zirconium Cyclosilicate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sodium Zirconium Cyclosilicate. Original indication: Lokelma is indicated for the treatment of hyperkal.... 0 predicted indications."
+description: "Health news related to Sodium Zirconium Cyclosilicate. Original indication: . 0 predicted indications."
 permalink: /news/sodium-zirconium-cyclosilicate/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Sodium Zirconium Cyclosilica
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Lokelma is indicated for the treatment of hyperkalaemia in adult patients.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/sodium-zirconium-cyclosilicate/' | relative_url }}">View full drug report →</a></p>

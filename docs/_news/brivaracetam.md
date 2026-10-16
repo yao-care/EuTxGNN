@@ -3,7 +3,7 @@ layout: default
 title: "Brivaracetam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brivaracetam. Original indication: Briviact is indicated as adjunctive therapy in the.... 20 predicted indications."
+description: "Health news related to Brivaracetam. Original indication: . 20 predicted indications."
 permalink: /news/brivaracetam/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Brivaracetam with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Briviact is indicated as adjunctive therapy in the treatment of partial-onset seizures with or without secondary generalisation in adult and adolescent patients from 16 years of age with epilepsy.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>visual epilepsy (99.5%)</li>

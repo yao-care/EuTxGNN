@@ -3,7 +3,7 @@ layout: default
 title: "Etelcalcetide Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Etelcalcetide Hydrochloride. Original indication: Parsabiv is indicated for the treatment of seconda.... 20 predicted indications."
+description: "Health news related to Etelcalcetide Hydrochloride. Original indication: . 20 predicted indications."
 permalink: /news/etelcalcetide-hydrochloride/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Etelcalcetide Hydrochloride 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>hyperphosphatemia (disease) (99.4%)</li>
 <li>esophageal varices with bleeding (99.3%)</li>

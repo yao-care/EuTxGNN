@@ -3,7 +3,7 @@ layout: default
 title: "Mecasermin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mecasermin. Original indication: For the long-term treatment of growth failure in c.... 20 predicted indications."
+description: "Health news related to Mecasermin. Original indication: . 20 predicted indications."
 permalink: /news/mecasermin/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Mecasermin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD). Severe primary IGFD is defined by:  height...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>monosomy X (99.6%)</li>

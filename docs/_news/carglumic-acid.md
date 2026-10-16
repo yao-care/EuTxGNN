@@ -3,7 +3,7 @@ layout: default
 title: "Carglumic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Carglumic Acid. Original indication: Ucedane is indicated in treatment of:  hyperammona.... 20 predicted indications."
+description: "Health news related to Carglumic Acid. Original indication: . 20 predicted indications."
 permalink: /news/carglumic-acid/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Carglumic Acid with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ucedane is indicated in treatment of:  hyperammonaemia due to N-acetylglutamate synthase primary deficiency; Hyperammonaemia due to isovaleric acidaemia; Hyperammonaemia due to methymalonic...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>cystic teratoma (86.6%)</li>

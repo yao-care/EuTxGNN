@@ -3,7 +3,7 @@ layout: default
 title: "Setmelanotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Setmelanotide. Original indication: IMCIVREE is indicated for the treatment of obesity.... 20 predicted indications."
+description: "Health news related to Setmelanotide. Original indication: A link to migraine is biologically conceivable but.... 20 predicted indications."
 permalink: /news/setmelanotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/setmelanotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Setmelanotide?">
-<strong>Setmelanotide</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Setmelanotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Setmelanotide with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: IMCIVREE is indicated for the treatment of obesity and the control of hunger associated with genetically confirmed Bardet Biedl syndrome (BBS), loss-of-function biallelic pro-opiomelanocortin (POMC),...</li>
+<li><strong>Original indication</strong>: A link to migraine is biologically conceivable but speculative. The melanocortin and POMC pathways have been discussed in relation to pain modulation and neurovascular regulation. However, no trials...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>migraine disorder (92.2%)</li>
@@ -52,15 +52,9 @@ This page combines the AI-predicted indications for Setmelanotide with the lates
 <p><a href="{{ '/drugs/setmelanotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

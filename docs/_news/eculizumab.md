@@ -3,7 +3,7 @@ layout: default
 title: "Eculizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eculizumab. Original indication: Bekemv is indicated in adults and children for the.... 20 predicted indications."
+description: "Health news related to Eculizumab. Original indication: . 20 predicted indications."
 permalink: /news/eculizumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Eculizumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Bekemv is indicated in adults and children for the treatment of paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>cyclic hematopoiesis (100.0%)</li>

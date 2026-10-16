@@ -3,7 +3,7 @@ layout: default
 title: "Blinatumomab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Blinatumomab. Original indication: Blincyto is indicated as monotherapy for the treat.... 10 predicted indications."
+description: "Health news related to Blinatumomab. Original indication: . 10 predicted indications."
 permalink: /news/blinatumomab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/blinatumomab/
 ---
 
 <p class="key-answer" data-question="What news is there about Blinatumomab?">
-<strong>Blinatumomab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Blinatumomab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Blinatumomab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Blincyto is indicated as monotherapy for the treatment of adults with CD19 positive relapsed or refractory B‑cell precursor acute lymphoblastic leukaemia (ALL). Patients with Philadelphia...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>primary release disorder of platelets (95.2%)</li>
@@ -42,13 +41,13 @@ This page combines the AI-predicted indications for Blinatumomab with the latest
 <p><a href="{{ '/drugs/blinatumomab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
 
-### [El GLP-1 oral de Lilly se asoció con reducciones significativas en el riesgo de diabetes tipo 2 y enfermedad cardiovascular - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
 
-2026-10-16 <span class="news-indication-tag">diabetes</span>
+2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
 
 ---
 
@@ -68,6 +67,14 @@ Source: [iSanidad](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1
 
 ---
 
+### [La menopausia como ventana de oportunidad: la FJD urge a prevenir el riesgo cardiovascular y óseo en la transición hormonal](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+
+---
+
 ### [GLP-1 RA Use Starts Earlier in HS Than in Psoriasis](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzJDS0RvN3ROYTI2blpVMFN3UUVxNnpwVnJWOFA0aGRRS2FOV292QlV1ZXVFaVZlV3JTdDFqcWFCTXFDeE5wbWo3a3MtaVVKWEw2YWNjcWZFaGRoSW1pOXVhLWt3SC1LcDZXVzQwalpwcjF5Rl94Q3dRT3FnUGFyZmIxZi1DbFZCZEVILU1OYUhNbGZPQUdUQktvZ3VOUXN5NlVIaENnN3RBSlQ4Wm9r?oc=5)
 
 2026-10-15 <span class="news-indication-tag">psoriasis</span>
@@ -84,35 +91,11 @@ Source: [Kurier Dachau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlB
 
 ---
 
-### [Ozempic and Wegovy linked to rare risk of sudden vision loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
-
-2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1BdXJhMVRKWHE1Rkk2NEQ4aXplUEk0M292ZldBLU5ld3RqQmxNZnN0a3kwREswYjJUVncxcG45ckMydDR2RWQzNnZQbzJRRy00Z2NKd2xMVkRDVy15SGpaNVE3YnFCbWdya185cUxPdw?oc=5)
-
----
-
 ### [Prädiabetes: Nur Lebensstilinterventionen senken das Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
-
----
-
-### [The fat jabs that could halt depression and schizophrenia symptoms in their tracks revealed - The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1ZcTlteUJTUXdGa19qSW5BNjVXRF9rS1piX3hMZmN1NVF2SE9CLVkxTlZDNmZ4MlVLVnM1SkRnUlJGNXVsSm9ILUdqN0pxeTlKNFdhb2FFdmhCWnpua1dQUTd2eENiUGFkUHlfNmx3MEp3N244TGR4al9nbWpsNlNqTkxteWJ5aFlPdXZ3ZFE?oc=5)
-
----
-
-### [Common blood pressure drug boosts brown adipose tissue activity and metabolism](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
 
 ---
 

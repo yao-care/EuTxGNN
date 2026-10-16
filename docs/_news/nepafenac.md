@@ -3,7 +3,7 @@ layout: default
 title: "Nepafenac News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nepafenac. Original indication: Nevanac is indicated for:  prevention and treatmen.... 20 predicted indications."
+description: "Health news related to Nepafenac. Original indication: . 20 predicted indications."
 permalink: /news/nepafenac/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>eye disease (99.8%)</li>
 <li>optic papillitis (99.8%)</li>

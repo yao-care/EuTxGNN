@@ -3,7 +3,7 @@ layout: default
 title: "Teprotumumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Teprotumumab. Original indication: Treatment of moderate to severe thyroid eye diseas.... 20 predicted indications."
+description: "Health news related to Teprotumumab. Original indication: . 20 predicted indications."
 permalink: /news/teprotumumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Teprotumumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of moderate to severe thyroid eye disease (TED).</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>monosomy X (99.8%)</li>

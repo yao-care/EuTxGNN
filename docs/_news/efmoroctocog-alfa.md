@@ -3,7 +3,7 @@ layout: default
 title: "Efmoroctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Efmoroctocog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 20 predicted indications."
+description: "Health news related to Efmoroctocog Alfa. Original indication: . 20 predicted indications."
 permalink: /news/efmoroctocog-alfa/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Efmoroctocog Alfa with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Elocta can be used for all age groups.</li>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>pseudo-von Willebrand disease (100.0%)</li>
 <li>primary release disorder of platelets (100.0%)</li>

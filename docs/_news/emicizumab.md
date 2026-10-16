@@ -3,7 +3,7 @@ layout: default
 title: "Emicizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Emicizumab. Original indication: Hemlibra is indicated for routine prophylaxis of b.... 20 predicted indications."
+description: "Health news related to Emicizumab. Original indication: . 20 predicted indications."
 permalink: /news/emicizumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Emicizumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Hemlibra is indicated for routine prophylaxis of bleeding episodes in patients with haemophilia A (congenital factor VIII deficiency):  with factor VIII inhibitors without factor VIII inhibitors who...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>pseudo-von Willebrand disease (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Albutrepenonacog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Albutrepenonacog Alfa. Original indication: Treatment and prophylaxis of bleeding in patients .... 0 predicted indications."
+description: "Health news related to Albutrepenonacog Alfa. Original indication: . 0 predicted indications."
 permalink: /news/albutrepenonacog-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Albutrepenonacog Alfa with t
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">View full drug report →</a></p>

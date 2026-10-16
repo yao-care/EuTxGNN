@@ -3,7 +3,7 @@ layout: default
 title: "Rivastigmine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rivastigmine. Original indication: Symptomatic treatment of mild to moderately severe.... 20 predicted indications."
+description: "Health news related to Rivastigmine. Original indication: . 20 predicted indications."
 permalink: /news/rivastigmine/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Rivastigmine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>glaucoma (99.3%)</li>
 <li>acute intermittent porphyria (98.2%)</li>

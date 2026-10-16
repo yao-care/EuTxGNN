@@ -3,7 +3,7 @@ layout: default
 title: "Ravulizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ravulizumab. Original indication: Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiri.... 20 predicted indications."
+description: "Health news related to Ravulizumab. Original indication: . 20 predicted indications."
 permalink: /news/ravulizumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Ravulizumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Paroxysmal nocturnal haemoglobinuria (PNH)Ultomiris is indicated in the treatment of adult and paediatric patients with a body weight of 10 kg or above with PNH:- in patients with haemolysis with...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (100.0%)</li>

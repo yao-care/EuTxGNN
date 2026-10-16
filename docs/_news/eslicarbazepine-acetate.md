@@ -3,7 +3,7 @@ layout: default
 title: "Eslicarbazepine Acetate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eslicarbazepine Acetate. Original indication: Zebinix is indicated as adjunctive therapy in adul.... 20 predicted indications."
+description: "Health news related to Eslicarbazepine Acetate. Original indication: . 20 predicted indications."
 permalink: /news/eslicarbazepine-acetate/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Eslicarbazepine Acetate with
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Zebinix is indicated as adjunctive therapy in adults, adolescents and children aged above 6 years, with partial-onset seizures with or without secondary generalisation.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>partial epilepsy (99.0%)</li>

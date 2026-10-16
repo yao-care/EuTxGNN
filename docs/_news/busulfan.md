@@ -3,7 +3,7 @@ layout: default
 title: "Busulfan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Busulfan. Original indication: Busulfan Fresenius Kabi followed by cyclophosphami.... 20 predicted indications."
+description: "Health news related to Busulfan. Original indication: One caveat applies. The Phase 2/3 trials in this s.... 20 predicted indications."
 permalink: /news/busulfan/
 ---
 
@@ -24,8 +24,8 @@ This page combines the AI-predicted indications for Busulfan with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Busulfan Fresenius Kabi followed by cyclophosphamide (BuCy2) is indicated as conditioning treatment prior to conventional haematopoietic progenitor cell transplantation (HPCT) in adult patients when...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Original indication</strong>: One caveat applies. The Phase 2/3 trials in this set are not confirmed as completed Phase 3 RCTs on their own. The completed Phase 3 evidence comes from trials that enrolled MDS together with AML.</li>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>myelodysplastic syndrome (99.6%)</li>
 <li>refractory cytopenia of childhood (99.5%)</li>

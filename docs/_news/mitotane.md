@@ -3,7 +3,7 @@ layout: default
 title: "Mitotane News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mitotane. Original indication: Symptomatic treatment of advanced (unresectable, m.... 20 predicted indications."
+description: "Health news related to Mitotane. Original indication: . 20 predicted indications."
 permalink: /news/mitotane/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Mitotane with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Symptomatic treatment of advanced (unresectable, metastatic or relapsed) adrenal cortical carcinoma. The effect of Lysodren on non-functional adrenal cortical carcinoma is not established.</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>multiple endocrine neoplasia (98.0%)</li>
 <li>acne (disease) (97.8%)</li>

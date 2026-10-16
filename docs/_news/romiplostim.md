@@ -3,7 +3,7 @@ layout: default
 title: "Romiplostim News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Romiplostim. Original indication: Adults: Nplate is indicated for the treatment of p.... 20 predicted indications."
+description: "Health news related to Romiplostim. Original indication: Other top-ranked predictions show the same pattern.... 20 predicted indications."
 permalink: /news/romiplostim/
 ---
 
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Romiplostim with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Adults: Nplate is indicated for the treatment of primary immune thrombocytopenia  (ITP) in adult patients who are refractory to other treatments (e.g. corticosteroids, immunoglobulins). Paediatrics:...</li>
+<li><strong>Original indication</strong>: Other top-ranked predictions show the same pattern. Pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, and collagen receptor defects are mostly functional platelet disorders...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (100.0%)</li>

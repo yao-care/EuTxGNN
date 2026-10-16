@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Furoate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fluticasone Furoate. Original indication: Asthma Indication Revinty Ellipta is indicated in .... 20 predicted indications."
+description: "Health news related to Fluticasone Furoate. Original indication: . 20 predicted indications."
 permalink: /news/fluticasone-furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Asthma Indication Revinty Ellipta is indicated in the regular treatment of asthma in adults and adolescents aged 12 years and older, where use of a combination product (long-acting beta2-agonist and...</li>
-<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>atopic eczema (100.0%)</li>
 <li>allergic asthma (100.0%)</li>
@@ -52,9 +51,15 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <p><a href="{{ '/drugs/fluticasone-furoate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+2026-10-15 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+---
 
 
 <div class="disclaimer">

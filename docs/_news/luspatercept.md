@@ -3,7 +3,7 @@ layout: default
 title: "Luspatercept News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Luspatercept. Original indication: Reblozyl is indicated in adults for the treatment .... 10 predicted indications."
+description: "Health news related to Luspatercept. Original indication: . 10 predicted indications."
 permalink: /news/luspatercept/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Luspatercept with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>monosomy X (96.0%)</li>

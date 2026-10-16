@@ -3,7 +3,7 @@ layout: default
 title: "Avatrombopag Maleate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avatrombopag Maleate. Original indication: Doptelet is indicated for the treatment of severe .... 20 predicted indications."
+description: "Health news related to Avatrombopag Maleate. Original indication: . 20 predicted indications."
 permalink: /news/avatrombopag-maleate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Avatrombopag Maleate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Doptelet is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo an invasive procedure. Doptelet is indicated for the...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>marcothrombocytopenia with mitral valve insufficiency (100.0%)</li>
 <li>hereditary thrombocytopenia with normal platelets (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Dopamine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dopamine. Original indication: Treatment of hypotension in haemodynamically unsta.... 20 predicted indications."
+description: "Health news related to Dopamine. Original indication: . 20 predicted indications."
 permalink: /news/dopamine/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of hypotension in haemodynamically unstable neonates, infants and children &lt; 18 years</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>hypotensive disorder (97.1%)</li>
 <li>postural orthostatic tachycardia syndrome (88.0%)</li>

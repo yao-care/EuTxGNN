@@ -3,7 +3,7 @@ layout: default
 title: "Ganaxolone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ganaxolone. Original indication: Ztalmy is indicated for the adjunctive treatment o.... 20 predicted indications."
+description: "Health news related to Ganaxolone. Original indication: . 20 predicted indications."
 permalink: /news/ganaxolone/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Ganaxolone with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ztalmy is indicated for the adjunctive treatment of epileptic seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients 2 to 17 years of age. Ztalmy may be...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>alcohol withdrawal delirium (94.8%)</li>

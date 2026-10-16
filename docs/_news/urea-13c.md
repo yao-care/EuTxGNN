@@ -3,7 +3,7 @@ layout: default
 title: "Urea (13C) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Urea (13C). Original indication: This medicinal product is for diagnostic use only..... 0 predicted indications."
+description: "Health news related to Urea (13C). Original indication: . 0 predicted indications."
 permalink: /news/urea-13c/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Urea (13C) with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: This medicinal product is for diagnostic use only. For in vivo diagnosis of gastroduodenal Helicobacter pylori (H. pylori) infection.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/urea-13c/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

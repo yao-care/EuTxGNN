@@ -3,7 +3,7 @@ layout: default
 title: "Icatibant Acetate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Icatibant Acetate. Original indication: Icatibant Accord is indicated for symptomatic trea.... 20 predicted indications."
+description: "Health news related to Icatibant Acetate. Original indication: . 20 predicted indications."
 permalink: /news/icatibant-acetate/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Icatibant Acetate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Icatibant Accord is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years and older, with C1 esterase inhibitor...</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>C1 inhibitor deficiency (100.0%)</li>
 <li>hereditary angioedema with C1Inh deficiency (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Sarilumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sarilumab. Original indication: Rheumatoid arthritisKevzara in combination with me.... 20 predicted indications."
+description: "Health news related to Sarilumab. Original indication: . 20 predicted indications."
 permalink: /news/sarilumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Rheumatoid arthritisKevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>rheumatoid arthritis (99.2%)</li>
@@ -52,7 +51,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
 
 ### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
@@ -62,11 +61,27 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 
 ---
 
+### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+2026-10-15 <span class="news-indication-tag">BPCO</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
+
+---
+
 ### [(83) Entzündungen im Darm lindern - Dr. Viola Andresen über Morbus Crohn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
 
 2026-10-14 <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+
+---
+
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

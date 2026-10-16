@@ -3,7 +3,7 @@ layout: default
 title: "Flutemetamol (18F) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Flutemetamol (18F). Original indication: This medicinal product is for diagnostic use only..... 20 predicted indications."
+description: "Health news related to Flutemetamol (18F). Original indication: . 20 predicted indications."
 permalink: /news/flutemetamol-18f/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Flutemetamol (18F) with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: This medicinal product is for diagnostic use only. Vizamyl is a radiopharmaceutical medicinal product indicated for Positron Emission Tomography (PET) imaging of ? amyloid neuritic plaque density in...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>anaphylaxis (98.8%)</li>

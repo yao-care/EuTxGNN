@@ -3,7 +3,7 @@ layout: default
 title: "Fenofibrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fenofibrate. Original indication: Pravafenix is indicated as an adjunct to diet and .... 20 predicted indications."
+description: "Health news related to Fenofibrate. Original indication: . 20 predicted indications."
 permalink: /news/fenofibrate/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Fenofibrate with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Pravafenix is indicated as an adjunct to diet and other non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment of mixed hyperlipidaemia in adult patients at high...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (99.9%)</li>
 <li>obsolete familial combined hyperlipidemia (99.8%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Relugolix News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Relugolix. Original indication: Ryeqo is indicated in adult women of reproductive .... 20 predicted indications."
+description: "Health news related to Relugolix. Original indication: . 20 predicted indications."
 permalink: /news/relugolix/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Relugolix with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ryeqo is indicated in adult women of reproductive age for: - treatment of moderate to severe symptoms of uterine fibroids, - symptomatic treatment of endometriosis in women with a history of previous...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis (96.1%)</li>

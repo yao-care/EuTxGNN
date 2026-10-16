@@ -3,7 +3,7 @@ layout: default
 title: "Nusinersen Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nusinersen Sodium. Original indication: Spinraza is indicated for the treatment of 5q Spin.... 0 predicted indications."
+description: "Health news related to Nusinersen Sodium. Original indication: . 0 predicted indications."
 permalink: /news/nusinersen-sodium/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Nusinersen Sodium with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Patisiran Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Patisiran Sodium. Original indication: Onpattro is indicated for the treatment of heredit.... 20 predicted indications."
+description: "Health news related to Patisiran Sodium. Original indication: . 20 predicted indications."
 permalink: /news/patisiran-sodium/
 ---
 
@@ -24,8 +24,6 @@ This page combines the AI-predicted indications for Patisiran Sodium with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Onpattro is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy.</li>
-<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>dermatitis (90.7%)</li>
 <li>hydroa vacciniforme, familial (90.1%)</li>

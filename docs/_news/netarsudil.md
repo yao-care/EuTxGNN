@@ -3,7 +3,7 @@ layout: default
 title: "Netarsudil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Netarsudil. Original indication: Reduction of elevated intraocular pressure (IOP) i.... 20 predicted indications."
+description: "Health news related to Netarsudil. Original indication: Several other predicted indications are of low cre.... 20 predicted indications."
 permalink: /news/netarsudil/
 ---
 
@@ -24,7 +24,7 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension.</li>
+<li><strong>Original indication</strong>: Several other predicted indications are of low credibility. Hypoglycemia, hereditary thrombocytopenia, dense granule disease and macrothrombocytopenia with mitral valve insufficiency have no...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>open-angle glaucoma (99.6%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Sebelipase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sebelipase Alfa. Original indication: Kanuma is indicated for long-term enzyme replaceme.... 20 predicted indications."
+description: "Health news related to Sebelipase Alfa. Original indication: . 20 predicted indications."
 permalink: /news/sebelipase-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Sebelipase Alfa with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Kanuma is indicated for long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>Scheie syndrome (99.8%)</li>

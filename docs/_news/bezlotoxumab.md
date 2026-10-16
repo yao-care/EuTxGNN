@@ -3,7 +3,7 @@ layout: default
 title: "Bezlotoxumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bezlotoxumab. Original indication: Zinplava is indicated for the prevention of recurr.... 20 predicted indications."
+description: "Health news related to Bezlotoxumab. Original indication: . 20 predicted indications."
 permalink: /news/bezlotoxumab/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Bezlotoxumab with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Zinplava is indicated for the prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>acute female pelvic peritonitis (99.9%)</li>

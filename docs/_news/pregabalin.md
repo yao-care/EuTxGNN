@@ -3,7 +3,7 @@ layout: default
 title: "Pregabalin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pregabalin. Original indication: Epilepsy  Pregabalin Accord is indicated as adjunc.... 10 predicted indications."
+description: "Health news related to Pregabalin. Original indication: . 5 predicted indications."
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,13 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Epilepsy  Pregabalin Accord is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.  Generalised Anxiety Disorder  Pregabalin Accord is indicated...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
 <li>Osteoarthritis (98.6%)</li>
 <li>Headache disorder (97.6%)</li>
 <li>Migraine disorder (99.5%)</li>
 <li>Migraine with brainstem aura (99.4%)</li>
 <li>Inclusion body myositis (99.5%)</li>
-<li>tendinitis (99.7%)</li>
-<li>idiopathic granulomatous myositis (99.7%)</li>
-<li>myositis fibrosa (99.7%)</li>
-<li>osteoarthritis susceptibility (98.7%)</li>
-<li>atrophoderma vermiculata (97.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
@@ -52,11 +46,11 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 
 ---
 
-### [Dad's brain cancer plea after migraines dismissed](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">migraine</span> <span class="news-indication-tag">AF</span>
+2026-10-14 <span class="news-indication-tag">arthritis</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN2J6WWMyTGRqR1NJeGs0N2hyRENyLTBORUZfUTZhMEh6bkE5TEtKd0tJcVFVazdrV0VKQWxmSDc5UThMUXpTcW1FTmtySHg0d3d1dnBheW5hVE56b3c?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

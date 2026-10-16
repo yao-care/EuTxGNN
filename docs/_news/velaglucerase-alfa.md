@@ -3,7 +3,7 @@ layout: default
 title: "Velaglucerase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Velaglucerase Alfa. Original indication: Vpriv is indicated for long-term enzyme-replacemen.... 0 predicted indications."
+description: "Health news related to Velaglucerase Alfa. Original indication: . 9 predicted indications."
 permalink: /news/velaglucerase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/velaglucerase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Velaglucerase Alfa?">
-<strong>Velaglucerase Alfa</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Velaglucerase Alfa</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,18 @@ This page combines the AI-predicted indications for Velaglucerase Alfa with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Vpriv is indicated for long-term enzyme-replacement therapy (ERT) in patients with type-1 Gaucher disease.</li>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Esophageal varices without bleeding | 96.20% | Only an indirect link via Gaucher-related hepatosplenomegaly and portal hypertension; likely a network-proximity artifact (99.0%)</li>
+<li>Esophageal varices with bleeding | 96.20% | No evidence the enzyme affects acute variceal bleeding, which has established standard care (99.0%)</li>
+<li>Hypophosphatasia | 95.04% | Different enzyme and substrate; an approved ERT (asfotase alfa) already exists (99.0%)</li>
+<li>Wolman disease with hypolipoproteinemia and acanthocytosis | 93.99% | Lysosomal storage disease like Gaucher, but glucocerebrosidase does not act on cholesteryl esters or triglycerides; sebelipase alfa is the specific ERT (99.0%)</li>
+<li>Autosomal ichthyosis syndrome with fatal disease course | 93.74% | Weak rationale via epidermal glucosylceramide metabolism; systemic ERT does not reach the CNS (99.0%)</li>
+<li>Cholesteryl ester storage disease | 92.90% | Shared lysosomal biology only; different substrate, and an approved targeted ERT exists (99.0%)</li>
+<li>Varicose disease | 92.70% | No plausible mechanistic connection; likely a graph artifact (99.0%)</li>
+<li>Growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant | 92.08% | STAT5B-related; no link to lysosomal enzyme deficiency (99.0%)</li>
+<li>Proximal myopathy with extrapyramidal signs | 92.06% | Drug does not cross the blood-brain barrier; no established mechanism (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/velaglucerase-alfa/' | relative_url }}">View full drug report →</a></p>
 </div>

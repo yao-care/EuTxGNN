@@ -3,7 +3,7 @@ layout: default
 title: "Vestronidase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vestronidase Alfa. Original indication: Mepsevii is indicated for the treatment of non-neu.... 0 predicted indications."
+description: "Health news related to Vestronidase Alfa. Original indication: . 0 predicted indications."
 permalink: /news/vestronidase-alfa/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Vestronidase Alfa with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Mepsevii is indicated for the treatment of non-neurological manifestations of Mucopolysaccharidosis VII (MPS VII; Sly syndrome).</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
 <p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">View full drug report →</a></p>

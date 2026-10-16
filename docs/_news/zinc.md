@@ -3,7 +3,7 @@ layout: default
 title: "Zinc News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zinc. Original indication: Treatment of Wilson's disease.. 20 predicted indications."
+description: "Health news related to Zinc. Original indication: . 20 predicted indications."
 permalink: /news/zinc/
 ---
 
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Treatment of Wilson's disease.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>filariasis (93.2%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Filgrastim News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Filgrastim. Original indication: Ratiograstim is indicated for the reduction in the.... 20 predicted indications."
+description: "Health news related to Filgrastim. Original indication: . 20 predicted indications."
 permalink: /news/filgrastim/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Filgrastim with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Ratiograstim is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with established cytotoxic chemotherapy for malignancy (with...</li>
-<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>primary release disorder of platelets (100.0%)</li>
 <li>pseudo-von Willebrand disease (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Brimonidine Tartrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brimonidine Tartrate. Original indication: Mirvaso is indicated for the symptomatic treatment.... 0 predicted indications."
+description: "Health news related to Brimonidine Tartrate. Original indication: . 0 predicted indications."
 permalink: /news/brimonidine-tartrate/
 ---
 
@@ -24,10 +24,8 @@ This page combines the AI-predicted indications for Brimonidine Tartrate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Mirvaso is indicated for the symptomatic treatment of facial erythema of rosacea in adult patients.</li>
-<li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/brimonidine-tartrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

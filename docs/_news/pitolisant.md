@@ -3,7 +3,7 @@ layout: default
 title: "Pitolisant News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pitolisant. Original indication: Wakix is indicated in adults, adolescents and chil.... 20 predicted indications."
+description: "Health news related to Pitolisant. Original indication: . 20 predicted indications."
 permalink: /news/pitolisant/
 ---
 
@@ -24,8 +24,7 @@ This page combines the AI-predicted indications for Pitolisant with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Wakix is indicated in adults, adolescents and children from the age of 6 years for the treatment of narcolepsy with or without cataplexy (see also section 5.1).</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>insomnia (disease) (99.7%)</li>
 <li>attention deficit-hyperactivity disorder (99.4%)</li>

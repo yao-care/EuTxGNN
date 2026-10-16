@@ -3,7 +3,7 @@ layout: default
 title: "Orlistat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Orlistat. Original indication: Xenical is indicated in conjunction with a mildly .... 20 predicted indications."
+description: "Health news related to Orlistat. Original indication: . 20 predicted indications."
 permalink: /news/orlistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,6 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (20)</strong>:<ul>
 <li>obesity disorder (99.5%)</li>
@@ -52,7 +51,15 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
+
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+
+---
 
 ### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
 
@@ -94,35 +101,19 @@ Source: [Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlF
 
 ---
 
-### [Oltre la semaglutide: la rivoluzione dei farmaci che riducono il peso del 30% e proteggono il cuore](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
-
-2026-10-15 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMG9iVG9KSmRnb0J2Ry00MnNPZDl1cE1lM0F4ZU02LVZBcWpYcE1fdWg5aDF3bTJMc2pacjdTdlotTGxXcU55NGFBamVkX0hLck1XSUxEdEZfbHlqM2kzamZYQ3BsMFFsU1JWby1wWmJSeXU3T3JwckpDaGVRWTVvWEl3WHFha0Jka0RTRkd4ZkQ1cnlVSTEzck9WQlUxdi1ycENvZnNHMkhLZ3d2VEdZcmVZejVWWW9CUndEXzQxelR4WGttY2Z4RW9ZcElLamR2RTN1Nkwzdlk?oc=5)
-
----
-
-### [Un estudio apunta que el índice de masa corporal no sirve para explicar la gravedad de la obesidad - Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
+### [Un estudio defiende que el índice de masa corporal no explica "la gravedad" de la obesidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
 
 2026-10-15 <span class="news-indication-tag">obesidad</span>
 
-Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmtGTHpJcXFVV1lZWUZONVduWFM3NHNUaC1BUlNFOUdzRnlPTktXNFBEbG5ET1N1WUI0UVNfSDA5ZUpuZ2lXODk2WlBINlktQ1o1VzZ0R2c5TmFBa251QTdHWXpFQzFDMkNlMXlOT3BGNEZ1ejdSRGkxcngtUnUtREFxenI4dTg1NktxbkNqc2hFQk5TS0dFcGpYbTVpNWluOFRxUnMzaklCRkg1NzNTSg?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
 
 ---
 
-### [17 menaces pour l'humanité identifiées par le Lancet : sommes-nous vraiment prêts à affronter les deux plus redoutables ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hqNWROVmtKWTBaaWoxU0FkanRkU1pjYmxENGw3cHNZZ1cxdDkxaWZjcDBxU09JZWdqVnFUWm5WT1lqcmx1TTRuOHpXU3ZPN0M4R0hSclJwLS1RanVud2lmbm5rallGaEVCQnp0eE9Ddnd0WDJ6WTFmcFhQSk5pY3hHZjFEdTh0Zk1ER0NZSDI0RElmcWF6Sk1sUHpMVldGbmdtMWtlcFJOUkZONEcxVlBYLS1HQklxcWFDZHJ6d3F3ZWo1TEpIU3FwRGpKVFdKSUY5T3hyQktjLXVYZ1NmNHJn?oc=5)
+### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
-2026-10-15 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3hqNWROVmtKWTBaaWoxU0FkanRkU1pjYmxENGw3cHNZZ1cxdDkxaWZjcDBxU09JZWdqVnFUWm5WT1lqcmx1TTRuOHpXU3ZPN0M4R0hSclJwLS1RanVud2lmbm5rallGaEVCQnp0eE9Ddnd0WDJ6WTFmcFhQSk5pY3hHZjFEdTh0Zk1ER0NZSDI0RElmcWF6Sk1sUHpMVldGbmdtMWtlcFJOUkZONEcxVlBYLS1HQklxcWFDZHJ6d3F3ZWo1TEpIU3FwRGpKVFdKSUY5T3hyQktjLXVYZ1NmNHJn?oc=5)
-
----
-
-### [La obesidad no se detecta únicamente con la báscula - IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">obesidad</span>
-
-Source: [IM Farmacias](https://news.google.com/rss/articles/CBMingFBVV95cUxOaERHTnZ5ODRsb1JmYWZTQ2tIU0VHLW5RWFhxMGl5Q2o0WmQtQVV6UjJVbWNKS2w2Yy1GVU1VVjBqaVRnVDdVeDRXXzZJanlLQTFpTHg2Rjc3QmdUQTZQSWVaLUdjWlVrMElVLXRLZlpDSThjcTVVWGFIQUw4dVZfVmdkRWdvaXRsYnZwQ2IwQ293UEFPN0pMQnRQQllIZ9IBmAFBVV95cUxOcElFSm9wM3NrTDRzWmg4UDBlVTN0ZFd4VGtTYVVVSDJmVm1sZ3RIWGxJdTJVdEw5MlM3YTJjQ3RIQmdSekttS3k0OS1PVEVOTG9CemdxMHhXbHQ3eGQ2eDFaR0g4ZXJ5b0dHMTBnckhUM2RoVVRETXc1SGFxWEhfc0hCQVFmczlBYnBUaXRDWmhqalJsU2g1MA?oc=5)
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 
