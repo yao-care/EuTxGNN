@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <li>acrodermatitis chronica atrophicans (98.7%)</li>
 <li>rheumatoid arthritis (98.7%)</li>
 <li>acne keloid (98.7%)</li>
-<li>psoriasis (98.7%)</li>
+<li class="indication-matched">psoriasis (98.7%)<span class="indication-tag">📰 psoriasis</span></li>
 <li>neonatal dermatomyositis (98.6%)</li>
 <li>exanthem (disease) (98.6%)</li>
 <li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (98.6%)</li>
@@ -52,13 +52,21 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
-2026-10-12 <span class="news-indication-tag">arthritis</span>
+2026-10-15 <span class="news-indication-tag">artrite</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [GLP-1 RA Use Starts Earlier in HS Than in Psoriasis](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzJDS0RvN3ROYTI2blpVMFN3UUVxNnpwVnJWOFA0aGRRS2FOV292QlV1ZXVFaVZlV3JTdDFqcWFCTXFDeE5wbWo3a3MtaVVKWEw2YWNjcWZFaGRoSW1pOXVhLWt3SC1LcDZXVzQwalpwcjF5Rl94Q3dRT3FnUGFyZmIxZi1DbFZCZEVILU1OYUhNbGZPQUdUQktvZ3VOUXN5NlVIaENnN3RBSlQ4Wm9r?oc=5)
+
+2026-10-15 <span class="news-indication-tag">psoriasis</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzJDS0RvN3ROYTI2blpVMFN3UUVxNnpwVnJWOFA0aGRRS2FOV292QlV1ZXVFaVZlV3JTdDFqcWFCTXFDeE5wbWo3a3MtaVVKWEw2YWNjcWZFaGRoSW1pOXVhLWt3SC1LcDZXVzQwalpwcjF5Rl94Q3dRT3FnUGFyZmIxZi1DbFZCZEVILU1OYUhNbGZPQUdUQktvZ3VOUXN5NlVIaENnN3RBSlQ4Wm9r?oc=5)
 
 ---
 

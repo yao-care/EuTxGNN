@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,29 +52,37 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
-### [Demenzrisiko: Studie zeigt Wirkung von Blutdruck, Diabetes und Rauchen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
+### [El GLP-1 oral de Lilly se asoció con reducciones significativas en el riesgo de diabetes tipo 2 y enfermedad cardiovascular - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
-
----
-
-### [Uno de cada tres pacientes de diabetes tipo 2 tratados con insulina basal no alcanza adherencia adecuada, según estudio](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabetes</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
 
 ---
 
-### [Non sono i fritti il vero pericolo per il fegato: l'ingrediente insospettabile che lo sta riempiendo di grasso ogni giorno](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+---
+
+### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+2026-10-15 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [Uno de cada tres pacientes con diabetes tipo 2 no alcanza una adherencia adecuada a la insulina basal](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
 
 ---
 
@@ -110,17 +118,9 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1Zc
 
 ---
 
-### [Los tratamientos para la obesidad y la diabetes se disparan en Euskadi - El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
-
----
-
 ### [Common blood pressure drug boosts brown adipose tissue activity and metabolism](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
 
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-10-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
 
@@ -134,19 +134,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV9
 
 ---
 
-### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+### [Cholesterin: Diese Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">arthritis</span>
+2026-10-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
-
----
-
-### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabetes</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
 ---
 

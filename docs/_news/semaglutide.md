@@ -54,27 +54,35 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (13)
 
-### [Demenzrisiko: Studie zeigt Wirkung von Blutdruck, Diabetes und Rauchen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
+### [El GLP-1 oral de Lilly se asoció con reducciones significativas en el riesgo de diabetes tipo 2 y enfermedad cardiovascular - Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
-
----
-
-### [Uno de cada tres pacientes de diabetes tipo 2 tratados con insulina basal no alcanza adherencia adecuada, según estudio](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabetes</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjFRcXBGbEtDc205d19qMUhURlRRQ0xzaU5mRDJnTERGLVJnOEUtb1R2MmYtXzhsNWtJMHUwekpFNnV4X1hOb1l0R3ZPOWtxNllVV3VVUGtWSDdyeS1zLUVIN0pnbXpnNU1LWVZ3bjg4bW55bThJWXBWVGp2NVhIVl9fd3g5a005UElod1RYd2xQUnlUSklJcDZVT1F1SGxnS3lJcml4Q0pvRkdsWUlBa09sWTVhSGRjYzkxNkJaeE5fNi1UVzByZ3cwRUhmR3p6eDFpSWVWVkI0RXR3QnU2cUtOMTNVZ05OYUc5b2cwLV9Vb2VIeVcyX2UtcHFqUzA?oc=5)
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNa25xTUgtb1BhTU9xek54R0Z3ejFnMC1NR251aTNfR19TWldlandIY0hKd09tSlIwcko1eWxJVTZfS2VVcGI3SGozXzZjZThfdmUzT3FjV3ZSZFE5eFVtZEY4RXdSZGF4ZGozdWZ5LTc4ek5sSzd1WUNZaGVqazhRX1dUVTd1OV9yRnVjUThSR2haM29ZbDJzTjVzaWU1UmVBTmdqYV9FYnpadGtNOXFLbXRSY2pZc0w3bkFGOHFxQy1PMmNja1FjNEZVdTBNZkRhb09jcnJZdE1zQTF4dWozVQ?oc=5)
 
 ---
 
-### [Non sono i fritti il vero pericolo per il fegato: l'ingrediente insospettabile che lo sta riempiendo di grasso ogni giorno](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">AF</span>
+2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGp1bURSNGw5VlQ1eWdwTFlVODFEaGNkMEJTdFhKaXRLMU9iS1hUd3d0emtrQlFqN0ZMZ1BKbkN2eTd5ejFXd1Fqc3VjRjFwcGRCV2tuNXBlT29mX3pDNjNUVS1oSWtFdVNjd2ptQmN5cm82VEcwSGNIRmgxY1VmYnJWREc2THIyUnFUZmg0UWYyWDB5aF9hc0JhWjJFS0VyTXJJOU96eXUtQXlKSV92cA?oc=5)
+Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
+
+---
+
+### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+---
+
+### [Uno de cada tres pacientes con diabetes tipo 2 no alcanza una adherencia adecuada a la insulina basal](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi2AFBVV95cU
 2026-10-15 <span class="news-indication-tag">diabetes</span>
 
 Source: [Kurier Dachau](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlBSMDM4Wld0OVQ5VmgzaHRPbURmNXNCOUZTTlFBZFlSZU83dlE0eE9lOWFXUm5TdzRvZXNGaXJuRUNmQzNfRTdlVnJJaVR5VzZDMkIzb1l0S2dxZURjRm1Yc0wwMjVpcFhyNDVMT2MzS1N6WHZyZDc1VnM1c2ExX2xMaDNyN2o0czNqN0lQUURNTlBwaTJmTW1vaW5DbjRZZUZLMXZiQ2ZjSFJTV210N043a0NzZElYRk0xSXdGaGFRdjNtNTQ5LW5ZRDA2TldKUnNqMWdZR3NDeEFPTFZ1RkNkcw?oc=5)
+
+---
+
+### [Osakidetza receta ya Ozempic a 63.700 vascos, entre ellos más de 100 menores - El Diario Vasco](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTBEOVlrLWEwY3JRY0ppSTFENnNOMDJSRHlDemtxRkQtT2VCQnhna3pSb2hsTEZTU2dqSG5wQXBYQ0t0N18zaVVCSDNMNXZsQ3QyNXJoU2cxSHAwaklZTEEyVHNOSjM0b3NuU1dab01JdnRCSmxwWHVBeFZveTBuWnlTLVhVN3RpZU5peE5BdTlZUGN3el9rMXoxUXhzMmvSAaQBQVVfeXFMUE93ZUZoOFhraGhoR1BJQnV2dURBN2taUDBKR1N2NDM1czh0eTZ6bTFJRXdzRkZMcTlzYVdXeUd2cU5XU19wd1VsVG9QdVJtVkZrOV9oblZJZjIzR2k2N1d1ZWdpakpsN2ZGZ1B2ZmdPdG9uSVRJVVFERkZyR1A3bnVPOEhmNWlUVHMxc250YjFTZTdrN3I4clI5ZTF1RlVEVEZUeXg?oc=5)
+
+2026-10-15 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSTBEOVlrLWEwY3JRY0ppSTFENnNOMDJSRHlDemtxRkQtT2VCQnhna3pSb2hsTEZTU2dqSG5wQXBYQ0t0N18zaVVCSDNMNXZsQ3QyNXJoU2cxSHAwaklZTEEyVHNOSjM0b3NuU1dab01JdnRCSmxwWHVBeFZveTBuWnlTLVhVN3RpZU5peE5BdTlZUGN3el9rMXoxUXhzMmvSAaQBQVVfeXFMUE93ZUZoOFhraGhoR1BJQnV2dURBN2taUDBKR1N2NDM1czh0eTZ6bTFJRXdzRkZMcTlzYVdXeUd2cU5XU19wd1VsVG9QdVJtVkZrOV9oblZJZjIzR2k2N1d1ZWdpakpsN2ZGZ1B2ZmdPdG9uSVRJVVFERkZyR1A3bnVPOEhmNWlUVHMxc250YjFTZTdrN3I4clI5ZTF1RlVEVEZUeXg?oc=5)
 
 ---
 
@@ -118,27 +134,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYkIxRU1Zc
 
 ---
 
-### [Los tratamientos para la obesidad y la diabetes se disparan en Euskadi - El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Correo](https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFN1bVNDOXRUZWtCSkYyVnVwRXlzbXJLQ1Y2TUZyWmxpZGpmWnJjNVBNZHljY193eW1BUXRwbUhWbXlQWnplNHhRbW10YVhkS2c3bVQ2ZDdVbTNmdEFzZ3pDTmhtTEl5QWZVaUZ3LVM5empLVk41S1ZwcVZjUWpqMzlaSXNkQ05BaUdQOVRHaE5vLUxxUERhaWZ3QkZRUklBSWdxTnBJMzdmU3Zmbnk00gG0AUFVX3lxTE5JUm9VMS1uVG5hc0Y2aWVub09sRzl4WVhkOE5FZERheUxkSDVudjB0S055MVl5di0wMmcwdWxPSlByU0dYRXRlTThBSlFXUGY0dHdtTzdpd0RBWm5KSUFteXo0a3RFTUNBZzNZTGE4cHpHX0lFS2dzQmZ5dWlobTNYY245SHY0NTMxOGtfZloyazk0STZZUFU1dDB6ZnNZVzZ3NnZIMV9WTGJQSU8yeHJhTVZEWQ?oc=5)
-
----
-
 ### [Common blood pressure drug boosts brown adipose tissue activity and metabolism](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
 
-2026-10-14 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-10-14 <span class="news-indication-tag">diabetes</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0QyQUNndnQzVUVTLXViX1dDUjNUSm5YdURaNFpTbkVlU29faThUUjhPb3kybmtVWGMxM0gzWDVCRy0xdnB2dW5vZkJPemRKUUZpLTB2UkprMFRxa3Z4Vks5TjNsQlVLOVlXMFd3bGMxZC1LamhHTUVnQjBETmFaSlZkYk0xSnE5RlBDYVpMZ1dsSW9VclNsSl9ESDhJWkZ2ZDhDWVZVOHJPei1rTmliakhfTjRvdWpjczQ1T0VMalNkVkNu?oc=5)
-
----
-
-### [Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
-
-2026-10-14 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesity</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5)
 
 ---
 
@@ -150,11 +150,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV9
 
 ---
 
-### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+### [Cholesterin: Diese Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabetes</span>
+2026-10-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
 ---
 
