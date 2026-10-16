@@ -27,7 +27,7 @@ This page brings together the latest health news about “diabetes” and lists 
 <ul>
 <li><a href="{{ '/drugs/abaloparatide/' | relative_url }}">Abaloparatide</a></li>
 <li><a href="{{ '/drugs/alogliptin/' | relative_url }}">Alogliptin</a></li>
-<li><a href="{{ '/drugs/angiotensin-ii-acetate/' | relative_url }}">Angiotensin Ii Acetate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Angiotensin Ii Acetate</a></li>
 <li><a href="{{ '/drugs/anifrolumab/' | relative_url }}">Anifrolumab</a></li>
 <li><a href="{{ '/drugs/belimumab/' | relative_url }}">Belimumab</a></li>
 <li><a href="{{ '/drugs/besilesomab/' | relative_url }}">Besilesomab</a></li>
@@ -38,12 +38,12 @@ This page brings together the latest health news about “diabetes” and lists 
 <li><a href="{{ '/drugs/canagliflozin/' | relative_url }}">Canagliflozin</a></li>
 <li><a href="{{ '/drugs/catumaxomab/' | relative_url }}">Catumaxomab</a></li>
 <li><a href="{{ '/drugs/chenodeoxycholic-acid/' | relative_url }}">Chenodeoxycholic Acid</a></li>
-<li><a href="{{ '/drugs/colesevelam-as-hydrochloride/' | relative_url }}">Colesevelam (As Hydrochloride)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Colesevelam (As Hydrochloride)</a></li>
 <li><a href="{{ '/drugs/concizumab/' | relative_url }}">Concizumab</a></li>
 <li><a href="{{ '/drugs/damoctocog-alfa-pegol/' | relative_url }}">Damoctocog Alfa Pegol</a></li>
 <li><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">Dapagliflozin</a></li>
 <li><a href="{{ '/drugs/denosumab/' | relative_url }}">Denosumab</a></li>
-<li><a href="{{ '/drugs/diroximel-fumarate-biib098/' | relative_url }}">Diroximel Fumarate (Biib098)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Diroximel Fumarate (Biib098)</a></li>
 <li><a href="{{ '/drugs/dulaglutide/' | relative_url }}">Dulaglutide</a></li>
 <li><a href="{{ '/drugs/empagliflozin/' | relative_url }}">Empagliflozin</a></li>
 <li><a href="{{ '/drugs/eravacycline/' | relative_url }}">Eravacycline</a></li>
@@ -93,10 +93,10 @@ This page brings together the latest health news about “diabetes” and lists 
 <li><a href="{{ '/drugs/saxagliptin/' | relative_url }}">Saxagliptin</a></li>
 <li><a href="{{ '/drugs/semaglutide/' | relative_url }}">Semaglutide</a></li>
 <li><a href="{{ '/drugs/sitagliptin/' | relative_url }}">Sitagliptin</a></li>
-<li><a href="{{ '/drugs/sitagliptin-hydrochloride/' | relative_url }}">Sitagliptin Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sitagliptin Hydrochloride</a></li>
 <li><a href="{{ '/drugs/somapacitan/' | relative_url }}">Somapacitan</a></li>
 <li><a href="{{ '/drugs/sotatercept/' | relative_url }}">Sotatercept</a></li>
-<li><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">Sufentanil Citrate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sufentanil Citrate</a></li>
 <li><a href="{{ '/drugs/tafasitamab/' | relative_url }}">Tafasitamab</a></li>
 <li><a href="{{ '/drugs/teplizumab/' | relative_url }}">Teplizumab</a></li>
 <li><a href="{{ '/drugs/tezepelumab/' | relative_url }}">Tezepelumab</a></li>

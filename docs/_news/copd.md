@@ -30,7 +30,7 @@ This page brings together the latest health news about “BPCO” and lists the 
 <li><a href="{{ '/drugs/budesonide/' | relative_url }}">Budesonide</a></li>
 <li><a href="{{ '/drugs/cabotegravir/' | relative_url }}">Cabotegravir</a></li>
 <li><a href="{{ '/drugs/cilastatin/' | relative_url }}">Cilastatin</a></li>
-<li><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">Dexrazoxane Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Dexrazoxane Hydrochloride</a></li>
 <li><a href="{{ '/drugs/dupilumab/' | relative_url }}">Dupilumab</a></li>
 <li><a href="{{ '/drugs/epinephrine/' | relative_url }}">Epinephrine</a></li>
 <li><a href="{{ '/drugs/eravacycline/' | relative_url }}">Eravacycline</a></li>
@@ -39,7 +39,7 @@ This page brings together the latest health news about “BPCO” and lists the 
 <li><a href="{{ '/drugs/granisetron/' | relative_url }}">Granisetron</a></li>
 <li><a href="{{ '/drugs/idarucizumab/' | relative_url }}">Idarucizumab</a></li>
 <li><a href="{{ '/drugs/maribavir/' | relative_url }}">Maribavir</a></li>
-<li><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">Methylthioninium Chloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Methylthioninium Chloride</a></li>
 <li><a href="{{ '/drugs/natalizumab/' | relative_url }}">Natalizumab</a></li>
 <li><a href="{{ '/drugs/omalizumab/' | relative_url }}">Omalizumab</a></li>
 <li><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">Onasemnogene Abeparvovec</a></li>

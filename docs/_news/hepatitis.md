@@ -43,7 +43,7 @@ This page brings together the latest health news about “epatite” and lists t
 <li><a href="{{ '/drugs/lopinavir/' | relative_url }}">Lopinavir</a></li>
 <li><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">Peginterferon Alfa-2A</a></li>
 <li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>
-<li><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">Rilpivirine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Rilpivirine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/ritonavir/' | relative_url }}">Ritonavir</a></li>
 <li><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">Sofosbuvir</a></li>
 <li><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">Tenofovir Alafenamide</a></li>

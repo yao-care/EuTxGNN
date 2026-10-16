@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Zoledronic Acid Monohydrate 
 <li>homozygous familial hypercholesterolemia (79.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zoledronic-acid-monohydrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Niraparib (Tosilate Monohydr
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/niraparib-tosilate-monohydrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

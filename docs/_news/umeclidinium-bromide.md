@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Umeclidinium Bromide with th
 <li>malformation syndrome with odontal and/or periodontal component (89.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/umeclidinium-bromide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

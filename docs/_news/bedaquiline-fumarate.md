@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Bedaquiline Fumarate with th
 <li>fasciolopsiasis (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/bedaquiline-fumarate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

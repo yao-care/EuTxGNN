@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Filgotinib Maleate with the 
 <li>infectious bovine rhinotracheitis (97.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/filgotinib-maleate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

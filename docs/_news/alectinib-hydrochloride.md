@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Alectinib Hydrochloride with
 <li>amyotrohpic lateral sclerosis type 22 (98.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/alectinib-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (42)

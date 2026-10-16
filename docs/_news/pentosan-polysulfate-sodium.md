@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Pentosan Polysulfate Sodium 
 <li>hemolytic anemia due to glucophosphate isomerase deficiency (96.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/pentosan-polysulfate-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

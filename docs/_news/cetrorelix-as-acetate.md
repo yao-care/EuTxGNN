@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Cetrorelix (As Acetate) with
 <li>amenorrhea (disease) (98.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/cetrorelix-as-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (39)

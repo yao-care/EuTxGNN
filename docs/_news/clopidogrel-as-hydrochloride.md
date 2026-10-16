@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Clopidogrel (As Hydrochlorid
 <li>brachyolmia (98.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (2)

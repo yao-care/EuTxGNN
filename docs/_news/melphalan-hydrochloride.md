@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Melphalan Hydrochloride with
 <li>theca steroid-producing cell malignant tumor of ovary, not further specified (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/melphalan-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

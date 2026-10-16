@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Cinacalcet Hydrochloride wit
 <li>benign reproductive system neoplasm (88.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (43)

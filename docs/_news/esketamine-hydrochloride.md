@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 <li>narcissistic personality disorder (91.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nusinersen Sodium with the l
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/nusinersen-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

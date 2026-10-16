@@ -26,9 +26,9 @@ This page brings together the latest health news about “MS” and lists the dr
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">Alemtuzumab</a></li>
-<li><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">Asenapine Maleate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Asenapine Maleate</a></li>
 <li><a href="{{ '/drugs/belatacept/' | relative_url }}">Belatacept</a></li>
-<li><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">Cariprazine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Cariprazine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/cladribine/' | relative_url }}">Cladribine</a></li>
 <li><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">Dimethyl Fumarate</a></li>
 <li><a href="{{ '/drugs/elbasvir/' | relative_url }}">Elbasvir</a></li>
@@ -42,7 +42,7 @@ This page brings together the latest health news about “MS” and lists the dr
 <li><a href="{{ '/drugs/lurasidone/' | relative_url }}">Lurasidone</a></li>
 <li><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">Mycophenolate Mofetil</a></li>
 <li><a href="{{ '/drugs/nelarabine/' | relative_url }}">Nelarabine</a></li>
-<li><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">Ozanimod Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/peginterferon-alfa-2a/' | relative_url }}">Peginterferon Alfa-2A</a></li>
 <li><a href="{{ '/drugs/peginterferon-beta-1a/' | relative_url }}">Peginterferon Beta-1A</a></li>
 <li><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">Pibrentasvir</a></li>

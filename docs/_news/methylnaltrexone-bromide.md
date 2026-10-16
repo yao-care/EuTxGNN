@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Methylnaltrexone Bromide wit
 <li>hypouricemia, renal (61.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/methylnaltrexone-bromide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

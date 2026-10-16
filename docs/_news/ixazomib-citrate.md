@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Ixazomib Citrate with the la
 <li>atrial flutter (disease) (56.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ixazomib-citrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

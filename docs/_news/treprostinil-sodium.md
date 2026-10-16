@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Treprostinil Sodium with the
 <li>familial clubfoot due to 17q23.1q23.2 microduplication (97.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

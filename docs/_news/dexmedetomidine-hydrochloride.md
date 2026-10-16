@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Dexmedetomidine Hydrochlorid
 <li>tendinitis (97.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

@@ -26,12 +26,12 @@ This page brings together the latest health news about “obesità” and lists 
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/bupropion/' | relative_url }}">Bupropion</a></li>
-<li><a href="{{ '/drugs/fenfluramine-hydrochloride/' | relative_url }}">Fenfluramine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">Lasmiditan Succinate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Fenfluramine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Lasmiditan Succinate</a></li>
 <li><a href="{{ '/drugs/melatonin/' | relative_url }}">Melatonin</a></li>
 <li><a href="{{ '/drugs/naltrexone/' | relative_url }}">Naltrexone</a></li>
 <li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
-<li><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">Vernakalant Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Vernakalant Hydrochloride</a></li>
 <li><a href="{{ '/drugs/ziconotide/' | relative_url }}">Ziconotide</a></li>
 </ul>
 </div>

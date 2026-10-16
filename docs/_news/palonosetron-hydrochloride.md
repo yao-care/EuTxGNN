@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Palonosetron Hydrochloride w
 <li>irritable bowel syndrome (94.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/palonosetron-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

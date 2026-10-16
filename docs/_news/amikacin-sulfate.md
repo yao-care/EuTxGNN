@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Amikacin Sulfate with the la
 <li>pneumococcal meningitis (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/amikacin-sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

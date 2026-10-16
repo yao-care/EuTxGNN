@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Aclidinium Bromide with the 
 <li>amyopathic dermatomyositis (75.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/aclidinium-bromide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

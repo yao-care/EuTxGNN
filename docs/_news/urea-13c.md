@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Urea (13C) with the latest h
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/urea-13c/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

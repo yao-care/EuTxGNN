@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Propranolol Hydrochloride wi
 <li>cutaneous glomangioma (98.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/propranolol-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (41)

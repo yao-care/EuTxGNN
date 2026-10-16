@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Icatibant Acetate with the l
 <li>bleeding diathesis due to a collagen receptor defect (97.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/icatibant-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

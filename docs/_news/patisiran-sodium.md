@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Patisiran Sodium with the la
 <li>mixed-type autoimmune hemolytic anemia (78.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/patisiran-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

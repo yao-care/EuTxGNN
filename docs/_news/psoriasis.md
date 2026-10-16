@@ -31,7 +31,7 @@ This page brings together the latest health news about “psoriasis” and lists
 <li><a href="{{ '/drugs/inebilizumab/' | relative_url }}">Inebilizumab</a></li>
 <li><a href="{{ '/drugs/lebrikizumab/' | relative_url }}">Lebrikizumab</a></li>
 <li><a href="{{ '/drugs/natalizumab/' | relative_url }}">Natalizumab</a></li>
-<li><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">Ozanimod Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/risankizumab/' | relative_url }}">Risankizumab</a></li>
 <li><a href="{{ '/drugs/tacrolimus/' | relative_url }}">Tacrolimus</a></li>
 <li><a href="{{ '/drugs/tafasitamab/' | relative_url }}">Tafasitamab</a></li>

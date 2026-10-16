@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Dasatinib Monohydrate with t
 <li>lung germ cell tumor (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dasatinib-monohydrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (42)

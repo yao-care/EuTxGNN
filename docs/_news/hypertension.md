@@ -25,7 +25,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><a href="{{ '/drugs/abiraterone-acetate/' | relative_url }}">Abiraterone Acetate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Abiraterone Acetate</a></li>
 <li><a href="{{ '/drugs/aliskiren/' | relative_url }}">Aliskiren</a></li>
 <li><a href="{{ '/drugs/alpelisib/' | relative_url }}">Alpelisib</a></li>
 <li><a href="{{ '/drugs/ambrisentan/' | relative_url }}">Ambrisentan</a></li>
@@ -34,15 +34,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
 <li><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">Azilsartan Medoxomil</a></li>
-<li><a href="{{ '/drugs/bosentan-as-monohydrate/' | relative_url }}">Bosentan (As Monohydrate)</a></li>
-<li><a href="{{ '/drugs/cinacalcet-hydrochloride/' | relative_url }}">Cinacalcet Hydrochloride</a></li>
-<li><a href="{{ '/drugs/colistimethate-sodium/' | relative_url }}">Colistimethate Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Bosentan (As Monohydrate)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Cinacalcet Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Colistimethate Sodium</a></li>
 <li><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">Corifollitropin Alfa</a></li>
-<li><a href="{{ '/drugs/dacomitinib-monohydrate/' | relative_url }}">Dacomitinib Monohydrate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Dacomitinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
-<li><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/elexacaftor/' | relative_url }}">Elexacaftor</a></li>
-<li><a href="{{ '/drugs/enalapril-maleate/' | relative_url }}">Enalapril (Maleate)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Enalapril (Maleate)</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/febuxostat/' | relative_url }}">Febuxostat</a></li>
@@ -53,17 +53,17 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/iloprost/' | relative_url }}">Iloprost</a></li>
 <li><a href="{{ '/drugs/irbesartan/' | relative_url }}">Irbesartan</a></li>
 <li><a href="{{ '/drugs/isavuconazole/' | relative_url }}">Isavuconazole</a></li>
-<li><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">Ivabradine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Ivabradine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/lonafarnib/' | relative_url }}">Lonafarnib</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
 <li><a href="{{ '/drugs/macitentan/' | relative_url }}">Macitentan</a></li>
-<li><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">Memantine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">Mexiletine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/migalastat-hydrochloride/' | relative_url }}">Migalastat Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Memantine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Mexiletine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Migalastat Hydrochloride</a></li>
 <li><a href="{{ '/drugs/netupitant/' | relative_url }}">Netupitant</a></li>
 <li><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">Nitric Oxide</a></li>
 <li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
-<li><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">Parecoxib Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Parecoxib Sodium</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/rasburicase/' | relative_url }}">Rasburicase</a></li>
 <li><a href="{{ '/drugs/riociguat/' | relative_url }}">Riociguat</a></li>
@@ -75,7 +75,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
 <li><a href="{{ '/drugs/thyrotropin-alfa/' | relative_url }}">Thyrotropin Alfa</a></li>
 <li><a href="{{ '/drugs/timolol/' | relative_url }}">Timolol</a></li>
-<li><a href="{{ '/drugs/treprostinil-sodium/' | relative_url }}">Treprostinil Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Treprostinil Sodium</a></li>
 <li><a href="{{ '/drugs/tucatinib/' | relative_url }}">Tucatinib</a></li>
 <li><a href="{{ '/drugs/valsartan/' | relative_url }}">Valsartan</a></li>
 <li><a href="{{ '/drugs/varenicline/' | relative_url }}">Varenicline</a></li>

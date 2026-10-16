@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Solriamfetol Hydrochloride w
 <li>Balo concentric sclerosis (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/solriamfetol-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

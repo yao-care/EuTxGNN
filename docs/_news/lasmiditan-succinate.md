@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Lasmiditan Succinate with th
 <li>headache disorder (66.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (7)

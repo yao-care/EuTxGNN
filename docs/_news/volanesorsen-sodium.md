@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Volanesorsen Sodium with the
 <li>proteinuria (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/volanesorsen-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

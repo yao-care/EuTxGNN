@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Rilpivirine Hydrochloride wi
 <li>hepatitis, viral, animal (83.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/rilpivirine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

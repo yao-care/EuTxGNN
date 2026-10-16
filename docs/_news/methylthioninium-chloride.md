@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Methylthioninium Chloride wi
 <li>benign paroxysmal torticollis of infancy (65.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/methylthioninium-chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (1)

@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Larotrectinib Sulfate with t
 <li>hyperthyroidism (98.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/larotrectinib-sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

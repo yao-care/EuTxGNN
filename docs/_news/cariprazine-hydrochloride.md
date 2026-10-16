@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Cariprazine Hydrochloride wi
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (16)

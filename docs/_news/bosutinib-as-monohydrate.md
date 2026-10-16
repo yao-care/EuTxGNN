@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Bosutinib (As Monohydrate) w
 <li>breast tumor luminal A or B (95.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/bosutinib-as-monohydrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

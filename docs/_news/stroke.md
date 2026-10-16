@@ -31,11 +31,11 @@ This page brings together the latest health news about “Schlaganfall” and li
 <li><a href="{{ '/drugs/azilsartan-medoxomil/' | relative_url }}">Azilsartan Medoxomil</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
 <li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
-<li><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">Raloxifene Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Raloxifene Hydrochloride</a></li>
 <li><a href="{{ '/drugs/simvastatin/' | relative_url }}">Simvastatin</a></li>
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
 <li><a href="{{ '/drugs/vardenafil/' | relative_url }}">Vardenafil</a></li>
-<li><a href="{{ '/drugs/vernakalant-hydrochloride/' | relative_url }}">Vernakalant Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Vernakalant Hydrochloride</a></li>
 </ul>
 </div>
 

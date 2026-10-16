@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Caspofungin (As Acetate) wit
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (93.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/caspofungin-as-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

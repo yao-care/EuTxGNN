@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Angiotensin Ii Acetate with 
 <li>cecal disease (84.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/angiotensin-ii-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (9)

@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Fostamatinib Disodium with t
 <li>progesterone-receptor negative breast cancer (96.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/fostamatinib-disodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

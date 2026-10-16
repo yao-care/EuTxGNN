@@ -27,8 +27,8 @@ This page brings together the latest health news about “dépression” and lis
 <ul>
 <li><a href="{{ '/drugs/agomelatine/' | relative_url }}">Agomelatine</a></li>
 <li><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">Brexpiprazole</a></li>
-<li><a href="{{ '/drugs/duloxetine-hydrochloride/' | relative_url }}">Duloxetine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/esketamine-hydrochloride/' | relative_url }}">Esketamine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Duloxetine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Esketamine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/olanzapine/' | relative_url }}">Olanzapine</a></li>
 <li><a href="{{ '/drugs/tasimelteon/' | relative_url }}">Tasimelteon</a></li>
 <li><a href="{{ '/drugs/vortioxetine/' | relative_url }}">Vortioxetine</a></li>

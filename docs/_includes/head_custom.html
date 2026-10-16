@@ -128,7 +128,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "MedicalWebPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "{{ page.title }} Drug Repurposing Report",
-      "description": "{{ page.description | default: page.title | append: ' drug repurposing analysis and evidence' }}",
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-03",
@@ -144,7 +144,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "MedicalEntity",
-        "name": "{{ page.title }}"
+        "name": {{ page.title | jsonify }}
       },
       "specialty": "Pharmacology",
       "medicalAudience": {
@@ -180,7 +180,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -206,11 +206,6 @@ window.TXGNN_ANALYTICS = {
       },
       "publisher": {
         "@id": "https://www.yao.care/#organization"
-      },
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://eutxgnn.yao.care/?search={search_term_string}",
-        "query-input": "required name=search_term_string"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -466,7 +461,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "Health News Monitoring - EuTxGNN",
-      "description": "{{ page.description | default: 'Automated monitoring of health news for 642 drugs and related indications' }}",
+      "description": {{ page.description | default: 'Automated monitoring of health news for 642 drugs and related indications' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://eutxgnn.yao.care/#website"
@@ -511,8 +506,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "Article",
       "@id": "{{ page.url | absolute_url }}#article",
-      "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.title }}",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-01",
       "dateModified": "2026-03-03",
@@ -551,7 +546,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -576,7 +571,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "{{ page.title }}",
+      "name": {{ page.title | jsonify }},
       "item": "{{ page.url | absolute_url }}"
     }
   ]

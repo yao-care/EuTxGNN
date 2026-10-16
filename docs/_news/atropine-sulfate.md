@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Atropine Sulfate with the la
 <li>syndrome with a Dandy-Walker malformation as major feature (94.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/atropine-sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

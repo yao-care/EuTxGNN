@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Diroximel Fumarate (Biib098)
 <li>amyopathic dermatomyositis (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/diroximel-fumarate-biib098/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (9)

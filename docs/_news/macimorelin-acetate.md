@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Macimorelin Acetate with the
 <li>polyp of middle ear (79.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

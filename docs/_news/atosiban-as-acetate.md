@@ -47,7 +47,7 @@ This page combines the AI-predicted indications for Atosiban (As Acetate) with t
 <li>glaucoma 1, open angle (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/atosiban-as-acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (1)
