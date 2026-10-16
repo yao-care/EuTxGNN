@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Symptomatic treatment of moderate to severe irritable bowel syndrome…"
+monitor_inn: "Linaclotide"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)", "autonomic nervous system disease", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "MVP1", "gastroduodenitis", "large intestine disease", "rhinitis"]
 ---
 
 # Linaclotide

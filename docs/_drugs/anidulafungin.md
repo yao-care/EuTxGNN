@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Anidulafungin: predicted new indication Impetigo (evidence level L5). Approved use: Treatment of invasive candidiasis in adults and paediatric patients a…"
+monitor_inn: "Anidulafungin"
+predicted_indications: ["impetigo", "malignant pleural mesothelioma", "staphylococcal scalded skin syndrome", "pleural empyema (disease)", "malignant visceral pleura tumor", "bullous impetigo", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "hordeolum", "Clostridium infectious disease"]
 ---
 
 # Anidulafungin

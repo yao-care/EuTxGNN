@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Conditioning treatment, in combination with fludarabine…"
+monitor_inn: "Treosulfan"
+predicted_indications: ["diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "immature cataract", "diabetic retinopathy", "senile cataract"]
 ---
 
 # Treosulfan

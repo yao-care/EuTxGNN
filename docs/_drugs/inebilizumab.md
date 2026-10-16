@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inebilizumab: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Monotherapy for adult patients with neuromyelitis optica spectrum dis…"
+monitor_inn: "Inebilizumab"
+predicted_indications: ["drug-induced osteoporosis", "psoriasis", "pityriasis lichenoides", "plasma cell myeloma", "indolent plasma cell myeloma", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "HER2 positive breast carcinoma", "parapsoriasis", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Inebilizumab

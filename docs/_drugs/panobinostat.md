@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Panobinostat: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Relapsed and/or refractory multiple myeloma (with bortezomib and dexa…"
+monitor_inn: "panobinostat"
+predicted_indications: ["myeloid leukemia"]
 ---
 
 # Panobinostat

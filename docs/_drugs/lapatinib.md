@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lapatinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Breast cancer with HER2 (ErbB2) overexpression…"
+monitor_inn: "Lapatinib"
+predicted_indications: ["dermatofibrosarcoma protuberans", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "cysticercosis", "heart fibrosarcoma", "low grade fibromyxoid sarcoma", "Plasmodium falciparum malaria", "coenurosis", "lymphangiomyoma"]
 ---
 
 # Lapatinib

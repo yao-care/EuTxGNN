@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Galcanezumab: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Prophylaxis of migraine in adults who have at least 4 migraine days p…"
+monitor_inn: "Galcanezumab"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "thrombophilia", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "hemorrhagic disease of newborn", "prekallikrein deficiency", "thrombotic disorder due to a platelet anomaly"]
 ---
 
 # Galcanezumab

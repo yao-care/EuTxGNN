@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lefamulin: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Community-acquired pneumonia (CAP) in adults…"
+monitor_inn: "Lefamulin"
+predicted_indications: ["leishmaniasis, diffuse cutaneous", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "mucocutaneous leishmaniasis", "inhalational botulism"]
 ---
 
 # Lefamulin

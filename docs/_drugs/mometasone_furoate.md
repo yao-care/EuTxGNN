@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mometasone Furoate: predicted new indication 2-hydroxyethyl methacrylate sensitization (evidence level L5). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years an…"
+monitor_inn: "Mometasone furoate"
+predicted_indications: ["2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "fibroepithelial polyp", "polyp of vulva", "polyp of ureter", "epulis", "neoplastic polyp"]
 ---
 
 # Mometasone Furoate

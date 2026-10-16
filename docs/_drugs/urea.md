@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Urea: predicted new indication Dermatitis (evidence level L5). Approved use: In vivo diagnosis of gastroduodenal Helicobacter pylori infection (di…"
+monitor_inn: "Urea"
+predicted_indications: ["dermatitis", "acne keloid", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "acne (disease)", "vulvar inverted follicular keratosis", "familial pityriasis rubra pilaris"]
 ---
 
 # Urea

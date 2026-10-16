@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eltrombopag: predicted new indication HIV infectious disease (evidence level L5). Approved use: Adult primary immune thrombocytopenia (ITP) refractory to other treat…"
+monitor_inn: "Eltrombopag"
+predicted_indications: ["HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "female breast carcinoma", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "AIDS", "rheumatoid arthritis", "cholecystolithiasis"]
 ---
 
 # Eltrombopag

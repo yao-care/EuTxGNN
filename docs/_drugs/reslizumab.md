@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Add-on therapy in adult patients with severe eosinophilic asthma inad…"
+monitor_inn: "Reslizumab"
+predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia", "neonatal thrombocytopenia", "autosomal thrombocytopenia with normal platelets", "Evans syndrome", "filariasis", "acne keloid"]
 ---
 
 # Reslizumab

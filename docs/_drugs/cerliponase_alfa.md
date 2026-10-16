@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cerliponase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Neuronal ceroid lipofuscinosis type 2 (CLN2) disease…"
+monitor_inn: "Cerliponase alfa"
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "myoclonic epilepsy, juvenile, susceptibility to", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
 ---
 
 # Cerliponase Alfa

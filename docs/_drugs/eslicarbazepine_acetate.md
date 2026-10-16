@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eslicarbazepine Acetate: predicted new indication Adolescent/adult onset autosomal dominant epilepsy with auditory feat… (evidence level L5). Approved use: Adjunctive therapy in adults…"
+monitor_inn: "Eslicarbazepine acetate"
+predicted_indications: ["adolescent/adult onset autosomal dominant epilepsy with auditory features", "status epilepticus", "restless legs syndrome", "guanidinoacetate methyltransferase deficiency", "epilepsy with generalized tonic-clonic seizures", "visual epilepsy", "beta-ketothiolase deficiency", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures"]
 ---
 
 # Eslicarbazepine Acetate

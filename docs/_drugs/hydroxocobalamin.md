@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Treatment of known or suspected cyanide poisoning…"
+monitor_inn: "Hydroxocobalamin"
+predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "focal myositis", "inflammatory myopathy with abundant macrophages", "idiopathic eosinophilic myositis", "vitamin deficiency disorder", "congenital prothrombin deficiency"]
 ---
 
 # Hydroxocobalamin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clascoterone: predicted new indication Candidiasis (evidence level L5). Approved use: Acne vulgaris in adults"
+monitor_inn: "Clascoterone"
+predicted_indications: ["candidiasis", "migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "leprosy", "atrophoderma vermiculata", "oral candidiasis", "progeria-short stature-pigmented nevi syndrome", "adrenal gland hyperfunction", "multiple endocrine neoplasia"]
 ---
 
 # Clascoterone

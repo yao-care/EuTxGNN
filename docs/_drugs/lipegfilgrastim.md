@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lipegfilgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Reduction in the duration of neutropenia and the incidence of febrile…"
+monitor_inn: "Lipegfilgrastim"
+predicted_indications: ["primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "diabetic retinopathy", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombocytopenia due to immune destruction", "bleeding diathesis due to a collagen receptor defect", "Scott syndrome", "drug-induced osteoporosis"]
 ---
 
 # Lipegfilgrastim

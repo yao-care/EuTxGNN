@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Teriflunomide: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L1). Approved use: Relapsing-remitting multiple sclerosis (adults and paediatric patient…"
+monitor_inn: "Teriflunomide"
+predicted_indications: ["relapsing-remitting multiple sclerosis", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia", "dense granule disease", "penile fibromatosis", "Ledderhose disease", "chronic hepatitis C virus infection", "palmar fibromatosis"]
 ---
 
 # Teriflunomide

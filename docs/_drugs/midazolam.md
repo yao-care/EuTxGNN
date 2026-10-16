@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Midazolam: predicted new indication Insomnia (evidence level L3). Approved use: Treatment of prolonged, acute…"
+monitor_inn: "Midazolam"
+predicted_indications: ["insomnia (disease)", "myofascial pain syndrome", "obsessive-compulsive disorder", "tendinitis", "benign paroxysmal torticollis of infancy", "anxiety disorder", "agoraphobia", "myositis fibrosa", "idiopathic granulomatous myositis", "dysthymic disorder"]
 ---
 
 # Midazolam

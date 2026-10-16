@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tucatinib: predicted new indication Migraine disorder (evidence level L5). Approved use: HER2-positive locally advanced or metastatic breast cancer in adults…"
+monitor_inn: "Tucatinib"
+predicted_indications: ["migraine disorder", "multiple endocrine neoplasia", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "homozygous familial hypercholesterolemia", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "Prinzmetal angina", "rheumatoid arthritis"]
 ---
 
 # Tucatinib

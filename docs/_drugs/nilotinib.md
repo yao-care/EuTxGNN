@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Newly diagnosed Philadelphia chromosome-positive CML in chronic phase…"
+monitor_inn: "Nilotinib"
+predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma", "Ewing sarcoma", "ganglioneuroblastoma (disease)", "heart fibrosarcoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "kidney fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma"]
 ---
 
 # Nilotinib

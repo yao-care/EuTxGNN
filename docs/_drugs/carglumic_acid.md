@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carglumic Acid: predicted new indication Cystic teratoma (evidence level L5). Approved use: Hyperammonaemia due to primary N-acetylglutamate synthase deficiency…"
+monitor_inn: "Carglumic acid"
+predicted_indications: ["cystic teratoma", "spinal cord dermoid cyst", "disease of orbital part of eye adnexa", "disease of orbital region", "dermoid cyst of ovary", "eye disease", "open-angle glaucoma", "primary hereditary glaucoma", "recurrent idiopathic neuroretinitis", "optic perineuritis"]
 ---
 
 # Carglumic Acid

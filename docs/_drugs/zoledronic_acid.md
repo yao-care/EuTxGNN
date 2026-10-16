@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zoledronic Acid: predicted new indication HIV infectious disease (evidence level L2). Approved use: Prevention of skeletal-related events in adults with advanced maligna…"
+monitor_inn: "Zoledronic acid"
+predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "biotin metabolic disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "vitamin deficiency disorder", "Worth syndrome", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "autosomal dominant neovascular inflammatory vitreoretinopathy"]
 ---
 
 # Zoledronic Acid

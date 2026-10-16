@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fingolimod: predicted new indication Borderline ovarian serous tumor (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (adults and paed…"
+monitor_inn: "Fingolimod"
+predicted_indications: ["borderline ovarian serous tumor", "ovarian papillary cystadenoma", "malignant ovarian Brenner tumor", "rete ovarii cystadenoma", "serous neoplasm", "ovarian mucinous cystadenofibroma", "mucinous ovarian cystadenoma", "ovarian benign neoplasm", "ovarian surface papilloma", "Immunoerythromyeloid hypoplasia"]
 ---
 
 # Fingolimod

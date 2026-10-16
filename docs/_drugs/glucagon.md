@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L3). Approved use: Severe hypoglycaemia in adults…"
+monitor_inn: "Glucagon"
+predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "acute laryngopharyngitis", "nasal cavity disease", "pharyngitis", "primary hereditary glaucoma", "open-angle glaucoma", "filariasis", "large intestine disease"]
 ---
 
 # Glucagon

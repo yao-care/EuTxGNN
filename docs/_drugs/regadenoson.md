@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Pharmacological stress agent for radionuclide myocardial perfusion im…"
+monitor_inn: "Regadenoson"
+predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy", "headache disorder", "migraine disorder", "trigeminal autonomic cephalalgia", "migraine with brainstem aura", "glossodynia", "coccygodynia"]
 ---
 
 # Regadenoson

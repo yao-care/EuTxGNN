@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Melatonin: predicted new indication Migraine disorder (evidence level L1). Approved use: Treatment of insomnia in children and adolescents aged 2-18 years wit…"
+monitor_inn: "Melatonin"
+predicted_indications: ["migraine with brainstem aura", "obesity disorder", "restless legs syndrome", "migraine disorder", "hypervitaminosis", "obsolete hypertelorism (disease)", "monogenic obesity", "frontorhiny", "proximal 16p11.2 microdeletion syndrome", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Melatonin

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enalapril: predicted new indication Chronic pulmonary heart disease (evidence level L4). Approved use: Treatment of heart failure"
+monitor_inn: "Enalapril"
+predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary heart disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "primary hereditary glaucoma", "Braddock syndrome", "open-angle glaucoma", "chronic kidney disease"]
 ---
 
 # Enalapril

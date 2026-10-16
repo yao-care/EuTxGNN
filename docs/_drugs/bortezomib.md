@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bortezomib: predicted new indication Neuroblastoma (evidence level L5). Approved use: Progressive multiple myeloma (monotherapy or combined with pegylated…"
+monitor_inn: "Bortezomib"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "neuroblastoma", "Hodgkins lymphoma", "myeloid leukemia", "lymphoma, non-Hodgkin, familial", "colon adenocarcinoma", "lymph node cancer", "dermatofibrosarcoma protuberans"]
 ---
 
 # Bortezomib

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Afatinib: predicted new indication HER2 positive breast carcinoma (evidence level L2). Approved use: EGFR TKI-naïve adults with locally advanced or metastatic NSCLC with…"
+monitor_inn: "Afatinib"
+predicted_indications: ["HER2 positive breast carcinoma", "multiple endocrine neoplasia", "progesterone-receptor negative breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "dense granule disease"]
 ---
 
 # Afatinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sufentanil: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Management of acute moderate to severe pain in adult patients"
+monitor_inn: "Sufentanil"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "common cold", "gastroduodenitis", "peptic ulcer disease", "exercise-induced malignant hyperthermia", "headache disorder", "trigeminal autonomic cephalalgia", "familial periodic paralysis", "nephrogenic diabetes insipidus", "obsolete rare pulmonary disease"]
 ---
 
 # Sufentanil

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L4). Approved use: Severe refractory eosinophilic asthma (add-on treatment) in adults…"
+monitor_inn: "Mepolizumab"
+predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia", "Evans syndrome", "neonatal thrombocytopenia", "autosomal thrombocytopenia with normal platelets", "filariasis", "mixed-type autoimmune hemolytic anemia"]
 ---
 
 # Mepolizumab

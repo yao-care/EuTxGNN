@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Exenatide: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Type 2 diabetes mellitus (adults 18 years and older)…"
+monitor_inn: "Exenatide"
+predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "headache disorder", "trigeminal autonomic cephalalgia", "diffuse alopecia areata", "alopecia", "obsolete rare pulmonary disease", "common cold"]
 ---
 
 # Exenatide

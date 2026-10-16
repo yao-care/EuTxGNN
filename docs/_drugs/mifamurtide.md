@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mifamurtide: predicted new indication Filariasis (evidence level L5). Approved use: High-grade resectable non-metastatic osteosarcoma after complete surg…"
+monitor_inn: "Mifamurtide"
+predicted_indications: ["filariasis", "primary hereditary glaucoma", "autoimmune oophoritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "type 1 diabetes mellitus", "brain small vessel disease 1 with or without ocular anomalies", "open-angle glaucoma", "cholecystolithiasis", "trigeminal autonomic cephalalgia", "diabetic nephropathy"]
 ---
 
 # Mifamurtide

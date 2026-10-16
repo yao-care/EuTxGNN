@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Repaglinide: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus (NIDDM) whose hyperglycaemia can no longer b…"
+monitor_inn: "Repaglinide"
+predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
 ---
 
 # Repaglinide

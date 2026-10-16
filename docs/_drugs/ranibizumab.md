@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ranibizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L1). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
+monitor_inn: "Ranibizumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "immature cataract", "tetanic cataract", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
 ---
 
 # Ranibizumab

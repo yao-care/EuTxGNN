@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sildenafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Pulmonary arterial hypertension (WHO functional class II and III) in…"
+monitor_inn: "Sildenafil"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypertrichosis (disease)", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "familial isolated trichomegaly", "genetic alopecia", "obsolete patella aplasia, coxa vara, and tarsal synostosis"]
 ---
 
 # Sildenafil

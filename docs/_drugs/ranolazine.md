@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ranolazine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Add-on therapy for the symptomatic treatment of patients with stable…"
+monitor_inn: "Ranolazine"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "myositis fibrosa", "idiopathic granulomatous myositis", "tendinitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "fibromyalgia", "headache disorder", "conjunctivitis"]
 ---
 
 # Ranolazine

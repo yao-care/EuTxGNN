@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Darifenacin: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Symptomatic treatment of urge incontinence and/or increas…"
+monitor_inn: "Darifenacin"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "thoracic malformation", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "low compliance bladder", "adult familial nephronophthisis-spastic quadriparesia syndrome", "karyomegalic interstitial nephritis", "polycystic kidney disease", "primary hereditary glaucoma", "respiratory failure"]
 ---
 
 # Darifenacin

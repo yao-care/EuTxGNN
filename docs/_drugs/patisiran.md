@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Patisiran: predicted new indication Dermatitis (evidence level L5). Approved use: Treatment of hATTR amyloidosis in adult patients with stage 1 or stag…"
+monitor_inn: "Patisiran"
+predicted_indications: ["dermatitis", "hydroa vacciniforme, familial", "amyopathic dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "Smouldering systemic mastocytosis", "overactive bladder (disease)", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Patisiran

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tremelimumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: First-line treatment of advanced or unresectable HCC (with durvalumab)"
+monitor_inn: "Tremelimumab"
+predicted_indications: ["diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Tremelimumab

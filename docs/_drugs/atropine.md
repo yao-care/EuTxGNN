@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Atropine: predicted new indication Migraine disorder (evidence level L4). Approved use: Slowing the progression of myopia in paediatric patients (children ag…"
+monitor_inn: "Atropine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "open-angle glaucoma", "primary hereditary glaucoma", "ulerythema ophryogenesis", "headache disorder", "trigeminal autonomic cephalalgia", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Atropine

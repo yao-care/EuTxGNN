@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eliglustat: predicted new indication Autosomal ichthyosis syndrome with fatal disease course (evidence level L5). Approved use: Long-term treatment of adult patients with Gaucher disease type 1 (GD…"
+monitor_inn: "Eliglustat"
+predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "benign neoplasm of adrenal gland", "polycystic kidney disease 3 with or without polycystic liver disease", "gastrocutaneous syndrome", "familial generalized lentiginosis", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis"]
 ---
 
 # Eliglustat

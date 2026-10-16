@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Proliferating infantile haemangioma requiring systemic therapy (life-…"
+monitor_inn: "Propranolol"
+predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "chondroma", "cirrhotic cardiomyopathy", "cardiomyopathy", "intramuscular hemangioma", "Maffucci syndrome", "breast epithelioid hemangioma", "breast capillary hemangioma"]
 ---
 
 # Propranolol

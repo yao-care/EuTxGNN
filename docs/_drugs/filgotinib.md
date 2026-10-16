@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Filgotinib: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Rheumatoid arthritis (moderate to severe active…"
+monitor_inn: "Filgotinib"
+predicted_indications: ["HER2 positive breast carcinoma", "thrombocytopenia", "hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "multiple endocrine neoplasia", "homozygous familial hypercholesterolemia", "progesterone-receptor negative breast cancer", "progesterone-receptor positive breast cancer"]
 ---
 
 # Filgotinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carfilzomib: predicted new indication CMM7 (evidence level L5). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
+monitor_inn: "Carfilzomib"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma", "indolent plasma cell myeloma", "intellectual disability, autosomal dominant 55, with seizures", "myeloid leukemia", "neutrophil immunodeficiency syndrome", "central nervous system melanocytic neoplasm"]
 ---
 
 # Carfilzomib

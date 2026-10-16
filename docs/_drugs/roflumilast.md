@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Roflumilast: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Maintenance treatment of severe COPD (post-bronchodilator FEV1 below…"
+monitor_inn: "Roflumilast"
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "headache disorder", "female breast carcinoma", "trigeminal autonomic cephalalgia", "obsolete patella aplasia, coxa vara, and tarsal synostosis", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "pulmonary hypertension, primary, autosomal recessive"]
 ---
 
 # Roflumilast

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nonacog Beta Pegol: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in patients with haemophilia B…"
+monitor_inn: "Nonacog beta pegol"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "Scott syndrome", "severe nonproliferative diabetic retinopathy", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder", "hereditary thrombocytosis with transverse limb defect"]
 ---
 
 # Nonacog Beta Pegol

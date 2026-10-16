@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Besilesomab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Scintigraphic imaging, together with other imaging modalities…"
+monitor_inn: "Besilesomab"
+predicted_indications: ["diabetic cataract", "mature cataract", "craniostenosis cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Besilesomab

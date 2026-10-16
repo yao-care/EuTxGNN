@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Relugolix: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Treatment of adult patients with advanced hormone-sensitive prostate…"
+monitor_inn: "Relugolix"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "multiple endocrine neoplasia", "gastrin secretion abnormality", "leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Relugolix

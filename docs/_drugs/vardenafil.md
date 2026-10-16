@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vardenafil: predicted new indication Amenorrhea (evidence level L5). Approved use: Treatment of erectile dysfunction in adult men"
+monitor_inn: "Vardenafil"
+predicted_indications: ["amenorrhea (disease)", "hypoalphalipoproteinemia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypertrichosis (disease)", "malignant catarrh", "infectious bovine rhinotracheitis", "duodenogastric reflux"]
 ---
 
 # Vardenafil

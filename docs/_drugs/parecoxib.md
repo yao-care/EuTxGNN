@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Short-term treatment of postoperative pain in adults"
+monitor_inn: "Parecoxib"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "headache disorder", "kyphoscoliotic heart disease", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "rheumatoid arthritis", "ulerythema ophryogenesis"]
 ---
 
 # Parecoxib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Letermovir: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Prophylaxis of CMV reactivation and disease in CMV-seropositive allog…"
+monitor_inn: "Letermovir"
+predicted_indications: ["vulvovaginal candidiasis", "fungal infectious disease", "tinea nigra", "malignant catarrh", "infectious bovine rhinotracheitis", "anogenital human papillomavirus infection", "AIDS", "dermatophytosis", "piedra", "varicella zoster infection"]
 ---
 
 # Letermovir

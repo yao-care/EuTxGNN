@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cholic Acid: predicted new indication HIV infectious disease (evidence level L4). Approved use: Inborn errors in primary bile acid synthesis due to 3β-hydroxy-Δ5-C27…"
+monitor_inn: "Cholic Acid"
+predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]
 ---
 
 # Cholic Acid

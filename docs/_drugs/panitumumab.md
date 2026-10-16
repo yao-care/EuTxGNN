@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Panitumumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Adult patients with wild-type RAS metastatic colorectal cancer (mCRC)…"
+monitor_inn: "Panitumumab"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract"]
 ---
 
 # Panitumumab

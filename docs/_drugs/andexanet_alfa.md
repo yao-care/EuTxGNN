@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Andexanet Alfa: predicted new indication Glanzmann thrombasthenia (evidence level L5). Approved use: For adult patients treated with a direct factor Xa (FXa) inhibitor (a…"
+monitor_inn: "Andexanet alfa"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "acquired coagulation factor deficiency", "Scott syndrome", "congenital prothrombin deficiency", "hereditary thrombocytosis with transverse limb defect"]
 ---
 
 # Andexanet Alfa

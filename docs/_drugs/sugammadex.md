@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sugammadex: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Reversal of neuromuscular blockade induced by rocuronium or vecuroniu…"
+monitor_inn: "Sugammadex"
+predicted_indications: ["breast fibrocystic disease", "Prinzmetal angina", "peripheral arterial disease", "blunt duct adenosis of breast", "apocrine adenosis of breast", "thrombotic disease", "tendinitis", "antithrombin deficiency type 2", "benign mammary dysplasia", "female breast carcinoma"]
 ---
 
 # Sugammadex

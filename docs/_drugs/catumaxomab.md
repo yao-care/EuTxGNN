@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Catumaxomab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Intraperitoneal treatment of malignant ascites in adults with EpCAM-p…"
+monitor_inn: "Catumaxomab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "transitional cell carcinoma", "HER2 positive breast carcinoma"]
 ---
 
 # Catumaxomab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desloratadine: predicted new indication Cold urticaria (evidence level L5). Approved use: Relief of symptoms of allergic rhinitis and urticaria"
+monitor_inn: "Desloratadine"
+predicted_indications: ["cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "punctate epithelial keratoconjunctivitis", "Angelucci syndrome"]
 ---
 
 # Desloratadine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Denosumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
+monitor_inn: "Denosumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dermatitis", "diabetic cataract", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "acne keloid", "amyopathic dermatomyositis"]
 ---
 
 # Denosumab

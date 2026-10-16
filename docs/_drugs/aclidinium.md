@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aclidinium: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Maintenance bronchodilator treatment to relieve symptoms in adult pat…"
+monitor_inn: "Aclidinium"
+predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "migraine disorder", "migraine with brainstem aura", "irritable bowel syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "glaucoma 1, open angle", "gastroduodenitis", "dermatitis"]
 ---
 
 # Aclidinium

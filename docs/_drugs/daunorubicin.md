@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Daunorubicin: predicted new indication Hodgkin's lymphoma (evidence level L3). Approved use: Newly diagnosed t-AML or AML-MRC in adults (liposomal formulation)"
+monitor_inn: "Daunorubicin"
+predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
 ---
 
 # Daunorubicin

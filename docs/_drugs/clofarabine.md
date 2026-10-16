@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clofarabine: predicted new indication Myeloid leukaemia (evidence level L1). Approved use: Acute lymphoblastic leukaemia (ALL) in paediatric patients who have r…"
+monitor_inn: "Clofarabine"
+predicted_indications: ["myeloid leukemia", "precursor lymphoblastic lymphoma/leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "acute lymphoblastic leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma"]
 ---
 
 # Clofarabine

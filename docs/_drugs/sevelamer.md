@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sevelamer: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Control of hyperphosphataemia in adult patients receiving haemodialys…"
+monitor_inn: "Sevelamer"
+predicted_indications: ["breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "HIV infectious disease", "AIDS", "breast abscess", "fat necrosis of breast", "lactation disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Sevelamer

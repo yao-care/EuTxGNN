@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vernakalant: predicted new indication Stroke disorder (evidence level L4). Approved use: Rapid conversion of recent-onset atrial fibrillation to sinus rhythm…"
+monitor_inn: "Vernakalant"
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "obsolete susceptibility to ischemic stroke", "sarcoglycanopathy", "Wildervanck syndrome", "ABri amyloidosis", "transient ischemic attack (disease)", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obesity disorder", "hypervitaminosis"]
 ---
 
 # Vernakalant

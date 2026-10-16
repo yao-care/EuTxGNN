@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zolbetuximab: predicted new indication Diabetic cataract (evidence level L5). Approved use: First-line treatment…"
+monitor_inn: "Zolbetuximab"
+predicted_indications: ["diabetic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Zolbetuximab

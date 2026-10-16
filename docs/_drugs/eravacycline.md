@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eravacycline: predicted new indication Bronchitis (evidence level L5). Approved use: Complicated intra-abdominal infections (cIAI) in adults and adolescen…"
+monitor_inn: "Eravacycline"
+predicted_indications: ["bronchitis", "laryngotracheitis", "bronchial neoplasm (disease)", "conjunctivitis", "sclerosing cholangitis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis"]
 ---
 
 # Eravacycline

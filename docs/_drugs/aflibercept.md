@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AMD)…"
+monitor_inn: "Aflibercept"
+predicted_indications: ["esotropia", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "urethral calculus", "adenosine deaminase deficiency", "hemorrhagic disease of newborn", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "middle ear neuroendocrine tumor"]
 ---
 
 # Aflibercept

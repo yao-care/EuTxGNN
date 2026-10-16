@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Baricitinib: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis (moderate to severe active…"
+monitor_inn: "Baricitinib"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "indolent plasma cell myeloma", "WHIM syndrome", "plasma cell myeloma", "myeloid leukemia", "Meester-Loeys syndrome", "ganglioneuroblastoma (disease)", "heparin cofactor 2 deficiency", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 ---
 
 # Baricitinib

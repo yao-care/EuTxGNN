@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Naltrexone: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Adjunct to a reduced-calorie diet and increased physical activity for…"
+monitor_inn: "Naltrexone"
+predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny", "restless legs syndrome", "progressive encephalopathy with leukodystrophy due to DECR deficiency", "mitral valve prolapse, myxomatous", "attention deficit hyperactivity disorder, inattentive type", "sella turcica, bridged", "triphalangeal thumb, Nonopposable"]
 ---
 
 # Naltrexone

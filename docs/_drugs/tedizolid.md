@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tedizolid: predicted new indication Orofacial clefting syndrome (evidence level L5). Approved use: Acute bacterial skin and skin structure infections (ABSSSI) in adults…"
+monitor_inn: "Tedizolid"
+predicted_indications: ["orofacial clefting syndrome", "interventricular septum aneurysm", "bronchitis", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "partial deletion of the long arm of chromosome 22"]
 ---
 
 # Tedizolid

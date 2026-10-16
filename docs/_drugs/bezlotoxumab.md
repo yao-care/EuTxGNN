@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bezlotoxumab: predicted new indication Acute female pelvic peritonitis (evidence level L5). Approved use: Prevention of recurrence of Clostridium difficile infection (CDI) in…"
+monitor_inn: "Bezlotoxumab"
+predicted_indications: ["acute female pelvic peritonitis", "embryonic cyst of fallopian tube", "tubal pregnancy", "salpingitis isthmica nodosa", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "pelvic varices"]
 ---
 
 # Bezlotoxumab

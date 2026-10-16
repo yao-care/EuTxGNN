@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Agomelatine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
+monitor_inn: "Agomelatine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "melancholia", "neurotic depression", "Ohdo syndrome and variants", "dysthymic disorder", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
 ---
 
 # Agomelatine

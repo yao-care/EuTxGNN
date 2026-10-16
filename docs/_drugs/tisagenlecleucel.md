@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tisagenlecleucel: predicted new indication Crohn's colitis (evidence level L5). Approved use: Paediatric and young adult patients (up to 25 years) with refractory…"
+monitor_inn: "Tisagenlecleucel"
+predicted_indications: ["Crohn's colitis", "multiple endocrine neoplasia", "idiopathic aplastic anemia", "adrenal gland hyperfunction", "HER2 positive breast carcinoma", "ankylosing spondylitis", "lymphoadenopathic mastocytosis with eosinophilia", "systemic mastocytosis", "Smouldering systemic mastocytosis", "rheumatoid vasculitis"]
 ---
 
 # Tisagenlecleucel

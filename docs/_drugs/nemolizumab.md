@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nemolizumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Moderate-to-severe atopic dermatitis (patients aged 12 years and olde…"
+monitor_inn: "Nemolizumab"
+predicted_indications: ["diabetic cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Nemolizumab

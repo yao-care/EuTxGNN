@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tipiracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Metastatic colorectal cancer (with bevacizumab or as monotherapy)"
+monitor_inn: "Tipiracil"
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
 ---
 
 # Tipiracil

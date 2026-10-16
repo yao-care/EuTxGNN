@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Solid tumours with an NTRK gene fusion that are locally advanced…"
+monitor_inn: "Larotrectinib"
+predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma", "cytomegalovirus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "progesterone-receptor negative breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "thrombocytopenia"]
 ---
 
 # Larotrectinib

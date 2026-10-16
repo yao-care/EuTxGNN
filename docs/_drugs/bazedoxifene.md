@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bazedoxifene: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Treatment of postmenopausal osteoporosis in women at increased risk o…"
+monitor_inn: "Bazedoxifene"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "Worth syndrome", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "thrombophilia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
 ---
 
 # Bazedoxifene

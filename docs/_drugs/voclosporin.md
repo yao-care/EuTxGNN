@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Voclosporin: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Active class III…"
+monitor_inn: "Voclosporin"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "dermatitis", "renal osteodystrophy", "exanthem (disease)", "severe nonproliferative diabetic retinopathy", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Voclosporin

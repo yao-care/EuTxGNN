@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Afamelanotide: predicted new indication X-linked erythropoietic protoporphyria (evidence level L5). Approved use: Prevention of phototoxicity in adult patients with erythropoietic pro…"
+monitor_inn: "Afamelanotide"
+predicted_indications: ["X-linked erythropoietic protoporphyria", "cutaneous porphyria", "cyclic hematopoiesis", "primary hyperoxaluria", "X-linked severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "cold agglutinin disease", "proteinuria", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency"]
 ---
 
 # Afamelanotide

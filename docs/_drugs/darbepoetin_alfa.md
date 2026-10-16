@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Darbepoetin Alfa: predicted new indication Amenorrhea (evidence level L5). Approved use: Treatment of symptomatic anaemia associated with chronic renal failur…"
+monitor_inn: "Darbepoetin alfa"
+predicted_indications: ["amenorrhea (disease)", "renin-angiotensin-aldosterone system-blocker-induced angioedema", "anaphylaxis", "psoriasis", "penile fibromatosis", "food-dependent exercise-induced anaphylaxis", "Peyronie disease", "Ledderhose disease", "infantile digital fibromatosis", "HER2 positive breast carcinoma"]
 ---
 
 # Darbepoetin Alfa

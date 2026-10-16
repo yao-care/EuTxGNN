@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tecovirimat: predicted new indication Hordeolum (evidence level L5). Approved use: Smallpox…"
+monitor_inn: "Tecovirimat"
+predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "escherichia coli infection", "Newcastle disease", "idiopathic recurrent and disabling cutaneous herpes", "equine infectious anemia", "Astroviridae infectious disease", "Arterivirus infectious disease"]
 ---
 
 # Tecovirimat

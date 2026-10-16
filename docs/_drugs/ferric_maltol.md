@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ferric Maltol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Treatment of iron deficiency in adults"
+monitor_inn: "Ferric maltol"
+predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome", "biotin metabolic disease", "severe nonproliferative diabetic retinopathy", "ariboflavinosis", "Keshan disease", "non-syndromic esophageal malformation", "folic acid deficiency anemia", "protein-energy malnutrition"]
 ---
 
 # Ferric Maltol

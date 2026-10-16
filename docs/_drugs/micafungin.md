@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Micafungin: predicted new indication Urinary tract infection (disease) (evidence level L3). Approved use: Invasive candidiasis"
+monitor_inn: "Micafungin"
+predicted_indications: ["urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "malignant visceral pleura tumor", "sarcomatoid mesothelioma", "urogenital tuberculosis"]
 ---
 
 # Micafungin

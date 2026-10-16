@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pegvisomant: predicted new indication Borderline ovarian serous tumor (evidence level L5). Approved use: Treatment of adult patients with acromegaly who have had an inadequat…"
+monitor_inn: "Pegvisomant"
+predicted_indications: ["borderline ovarian serous tumor", "rete ovarii cystadenoma", "ovarian papillary cystadenoma", "pyelonephritis", "malignant ovarian Brenner tumor", "aleukemic mast cell leukemia", "ovarian mucinous cystadenofibroma", "ovarian benign neoplasm", "mucinous ovarian cystadenoma", "ovarian surface papilloma"]
 ---
 
 # Pegvisomant

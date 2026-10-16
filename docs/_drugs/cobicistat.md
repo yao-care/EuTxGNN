@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cobicistat: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Pharmacokinetic enhancer of atazanavir 300 mg or darunavir 800 mg onc…"
+monitor_inn: "Cobicistat"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "chronic hepatitis C virus infection", "congenital human immunodeficiency virus", "AIDS related complex", "hepatitis C virus infection", "obsolete familial combined hyperlipidemia", "hepatitis B virus infection", "hepatitis E virus infection"]
 ---
 
 # Cobicistat

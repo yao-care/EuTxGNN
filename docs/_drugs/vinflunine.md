@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vinflunine: predicted new indication Amyotrophic lateral sclerosis (evidence level L5). Approved use: Advanced or metastatic transitional-cell carcinoma of the urothelial…"
+monitor_inn: "Vinflunine"
+predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "Mills syndrome", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "autosomal dominant mitochondrial myopathy with exercise intolerance", "monomelic amyotrophy", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome"]
 ---
 
 # Vinflunine

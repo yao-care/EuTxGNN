@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mirvetuximab Soravtansine: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: FRα-positive, platinum-resistant high grade serous epithelial ovarian…"
+monitor_inn: "Mirvetuximab Soravtansine"
+predicted_indications: ["antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "candidiasis", "plasma cell myeloma", "indolent plasma cell myeloma", "tinea corporis", "thrombophilia", "uterine polyp", "pediatric systemic lupus erythematosus"]
 ---
 
 # Mirvetuximab Soravtansine

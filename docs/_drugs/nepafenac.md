@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Prevention and treatment of postoperative pain and inflammation assoc…"
+monitor_inn: "Nepafenac"
+predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 ---
 
 # Nepafenac

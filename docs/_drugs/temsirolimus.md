@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Advanced renal-cell carcinoma (first-line…"
+monitor_inn: "Temsirolimus"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma", "uterine corpus myxoid leiomyosarcoma", "anus leiomyosarcoma", "uterine corpus epithelioid leiomyosarcoma", "small intestinal sarcoma", "retroperitoneal sarcoma", "leiomyosarcoma", "unclassified renal cell carcinoma"]
 ---
 
 # Temsirolimus

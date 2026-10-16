@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Maintenance treatment of asthma in adults and adolescents 12 years of…"
+monitor_inn: "Mometasone"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "Crohn's colitis", "myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "cystic teratoma", "spinal cord dermoid cyst", "aregenerative anemia", "disease of orbital part of eye adnexa"]
 ---
 
 # Mometasone

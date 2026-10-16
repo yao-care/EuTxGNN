@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oseltamivir: predicted new indication Pyelonephritis (evidence level L5). Approved use: Treatment and post-exposure prevention of influenza in adults and chi…"
+monitor_inn: "Oseltamivir"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "staphylococcus aureus infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "pneumonia", "streptococcal pneumonia", "aspergillosis, susceptibility to"]
 ---
 
 # Oseltamivir

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L4). Approved use: Prevention of stroke and systemic embolism in non-valvular atrial fib…"
+monitor_inn: "Apixaban"
+predicted_indications: ["migraine disorder", "migraine with or without aura, susceptibility to", "leprosy", "rheumatoid arthritis", "migraine with brainstem aura", "Prinzmetal angina", "brachydactyly-syndactyly syndrome", "pulmonary hypertension", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "kyphoscoliotic heart disease"]
 ---
 
 # Apixaban

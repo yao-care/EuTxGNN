@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Deutetrabenazine: predicted new indication Psychogenic movement disorders (evidence level L5). Approved use: Treatment of moderate to severe tardive dyskinesia in adults"
+monitor_inn: "Deutetrabenazine"
+predicted_indications: ["psychogenic movement disorders", "tremor-nystagmus-duodenal ulcer syndrome", "primary orthostatic tremor", "benign paroxysmal tonic upgaze of childhood with ataxia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "polycystic kidney disease 3 with or without polycystic liver disease", "acute intermittent porphyria", "Hirschsprung disease"]
 ---
 
 # Deutetrabenazine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Interferon Beta-1A: predicted new indication Jeune syndrome situs inversus (evidence level L5). Approved use: Relapsing multiple sclerosis…"
+monitor_inn: "Interferon beta-1a"
+predicted_indications: ["Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "disorder of fucoglycosan synthesis", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "genetic syndromic Pierre Robin syndrome", "rete ovarii cystadenoma", "borderline ovarian serous tumor"]
 ---
 
 # Interferon Beta-1A

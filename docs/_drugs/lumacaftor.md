@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lumacaftor: predicted new indication Leprosy (evidence level L5). Approved use: Cystic fibrosis (CF) in patients aged 6 years and older (tablets) or…"
+monitor_inn: "Lumacaftor"
+predicted_indications: ["leprosy", "migraine with or without aura, susceptibility to", "migraine disorder", "rheumatoid arthritis", "pulmonary hypertension", "kyphoscoliotic heart disease", "migraine with brainstem aura", "multiple endocrine neoplasia", "brachydactyly-syndactyly syndrome", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Lumacaftor

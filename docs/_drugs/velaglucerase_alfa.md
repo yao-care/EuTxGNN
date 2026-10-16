@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Velaglucerase Alfa: predicted new indication Steel syndrome (evidence level L5). Approved use: Long-term enzyme replacement therapy (ERT) in patients with type 1 Ga…"
+monitor_inn: "Velaglucerase alfa"
+predicted_indications: ["Steel syndrome", "esophageal varices without bleeding", "esophageal varices with bleeding", "hypophosphatasia", "Wolman disease with hypolipoproteinemia and acanthocytosis", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "varicose disease", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "proximal myopathy with extrapyramidal signs"]
 ---
 
 # Velaglucerase Alfa

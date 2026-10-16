@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Angiotensin Ii: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Refractory hypotension in adults with septic or othe…"
+monitor_inn: "Angiotensin II"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "severe nonproliferative diabetic retinopathy", "exocrine pancreatic insufficiency", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract"]
 ---
 
 # Angiotensin Ii

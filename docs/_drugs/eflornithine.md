@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Treatment of facial hirsutism in women"
+monitor_inn: "Eflornithine"
+predicted_indications: ["esotropia", "neurotrophic keratopathy", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "trypanosomiasis, bovine", "blood group incompatibility", "monoclonal gammopathy", "premalignant hematological system disease", "congenital prothrombin deficiency"]
 ---
 
 # Eflornithine

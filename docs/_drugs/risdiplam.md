@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Risdiplam: predicted new indication Acne (evidence level L5). Approved use: 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosi…"
+monitor_inn: "Risdiplam"
+predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, elevated plasma", "common wart", "metastatic melanoma", "dermatitis", "non-cutaneous melanoma", "acrodermatitis chronica atrophicans", "epithelioid cell melanoma", "eyelid melanoma"]
 ---
 
 # Risdiplam

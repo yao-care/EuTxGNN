@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiratricol: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Peripheral thyrotoxicosis in patients with MCT8 deficiency (Allan-Her…"
+monitor_inn: "Tiratricol"
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "seborrheic dermatitis", "amenorrhea (disease)", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "ocular tuberculosis", "polyp of frontal sinus", "polyp of ureter"]
 ---
 
 # Tiratricol

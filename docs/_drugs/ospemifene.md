@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ospemifene: predicted new indication Leprosy (evidence level L5). Approved use: Moderate to severe symptomatic vulvar and vaginal atrophy (VVA) in po…"
+monitor_inn: "Ospemifene"
+predicted_indications: ["leprosy", "pulmonary hypertension", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "rheumatoid arthritis", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Ospemifene

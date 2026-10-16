@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Pre-exposure prophylaxis (PrEP)…"
+monitor_inn: "Cabotegravir"
+predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy", "brachydactyly-syndactyly syndrome", "diabetic retinopathy", "non-syndromic visceral malformation", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 ---
 
 # Cabotegravir

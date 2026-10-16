@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Voretigene Neparvovec: predicted new indication Mitral valve prolapse, myxomatous (evidence level L5). Approved use: Vision loss due to inherited retinal dystrophy caused by confirmed bi…"
+monitor_inn: "Voretigene neparvovec"
+predicted_indications: ["mitral valve prolapse, myxomatous", "pituitary dwarfism", "cystic hygroma", "conductive hearing loss disorder", "susceptibility to mononeuropathy of the median nerve, mild", "Wiskott-Aldrich syndrome 2", "non-syndromic esophageal malformation", "hypermobility syndrome", "woolly hair, autosomal recessive 3", "obsolete hypertension, diastolic, resistance to"]
 ---
 
 # Voretigene Neparvovec

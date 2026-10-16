@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Symptomatic treatment of urge incontinence and/or increased urinary f…"
+monitor_inn: "Oxybutynin"
+predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease", "low compliance bladder", "nephrogenic syndrome of inappropriate antidiuresis", "insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "familial episodic pain syndrome with predominantly upper body involvement", "transient tic disorder"]
 ---
 
 # Oxybutynin

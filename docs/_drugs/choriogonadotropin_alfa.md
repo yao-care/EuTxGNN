@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Choriogonadotropin Alfa: predicted new indication Peptic esophagitis (evidence level L5). Approved use: Women undergoing superovulation prior to assisted reproductive techni…"
+monitor_inn: "Choriogonadotropin alfa"
+predicted_indications: ["peptic esophagitis", "postural orthostatic tachycardia syndrome", "esophageal disease", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal ulcer", "His bundle tachycardia", "sinoatrial block", "progressive familial heart block", "sinoatrial node disease"]
 ---
 
 # Choriogonadotropin Alfa

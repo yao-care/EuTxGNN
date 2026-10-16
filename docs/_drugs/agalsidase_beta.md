@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Agalsidase Beta: predicted new indication Cervical neuroblastoma (evidence level L5). Approved use: Long-term enzyme replacement therapy in patients with a confirmed dia…"
+monitor_inn: "Agalsidase beta"
+predicted_indications: ["cervical neuroblastoma", "schwannoma of jugular foramen", "epiglottis neoplasm", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "benign neoplasm of buccal mucosa", "benign neoplasm of hypopharynx", "nasal cavity inverting papilloma", "vestibulocochlear nerve neoplasm", "jugular foramen meningioma"]
 ---
 
 # Agalsidase Beta

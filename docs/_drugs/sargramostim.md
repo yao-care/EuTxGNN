@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sargramostim: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Treatment of patients of all ages acutely exposed to myelosuppressive…"
+monitor_inn: "Sargramostim"
+predicted_indications: ["drug-induced osteoporosis", "primary release disorder of platelets", "severe nonproliferative diabetic retinopathy", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "cervical neuroblastoma", "schwannoma of jugular foramen", "benign neoplasm of buccal mucosa", "benign neoplasm of tongue", "inner ear neoplasm"]
 ---
 
 # Sargramostim

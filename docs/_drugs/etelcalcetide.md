@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etelcalcetide: predicted new indication Hyperphosphatemia (evidence level L3). Approved use: Secondary hyperparathyroidism (SHPT) in adult patients with chronic k…"
+monitor_inn: "Etelcalcetide"
+predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "glaucoma", "pancreatitis", "primary hyperoxaluria", "primary immunodeficiency syndrome due to p14 deficiency", "severe congenital neutropenia", "Barth syndrome"]
 ---
 
 # Etelcalcetide

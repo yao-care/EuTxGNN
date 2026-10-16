@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ozanimod: predicted new indication Progressive relapsing multiple sclerosis (evidence level L4). Approved use: Relapsing-remitting multiple sclerosis (RRMS) with active disease"
+monitor_inn: "Ozanimod"
+predicted_indications: ["progressive relapsing multiple sclerosis", "transient neonatal thrombocytopenia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "relapsing-remitting multiple sclerosis", "dense granule disease", "colonic neoplasm", "psoriasis", "cecum villous adenoma"]
 ---
 
 # Ozanimod

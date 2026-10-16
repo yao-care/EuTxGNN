@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Colesevelam: predicted new indication Gout (evidence level L5). Approved use: Primary hypercholesterolaemia (adjunct to diet…"
+monitor_inn: "Colesevelam"
+predicted_indications: ["gout", "congestive heart failure", "acute pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "infectious otitis media", "diabetic nephropathy", "phosphorus metabolism disease", "middle ear cholesterol granuloma", "otosalpingitis"]
 ---
 
 # Colesevelam

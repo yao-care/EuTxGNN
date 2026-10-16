@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brolucizumab: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Neovascular (wet) age-related macular degeneration (AM…"
+monitor_inn: "Brolucizumab"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices without bleeding", "esophageal varices with bleeding", "exocrine pancreatic insufficiency", "MRCS syndrome", "pigmented paravenous retinochoroidal atrophy", "familial flecked retinopathy", "ectopia lentis-chorioretinal dystrophy-myopia syndrome", "retinal dystrophy in systemic or cerebroretinal lipidoses", "senile reticular retinal degeneration"]
 ---
 
 # Brolucizumab

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chenodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Inborn errors of primary bile acid synthesis due to sterol 27-hydroxy…"
+monitor_inn: "Chenodeoxycholic acid"
+predicted_indications: ["homozygous familial hypercholesterolemia", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "obsolete familial combined hyperlipidemia", "obsolete hyperuricemia (disease)", "hypouricemia, renal", "diabetic nephropathy", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "familial isolated hypoparathyroidism due to impaired PTH secretion", "Lesch-Nyhan syndrome"]
 ---
 
 # Chenodeoxycholic Acid

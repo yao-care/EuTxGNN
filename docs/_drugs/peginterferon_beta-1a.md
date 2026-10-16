@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Peginterferon Beta-1A: predicted new indication Heart neoplasm (evidence level L5). Approved use: Treatment of relapsing remitting multiple sclerosis in adult patients"
+monitor_inn: "Peginterferon beta-1a"
+predicted_indications: ["heart neoplasm", "congenital anomaly of ventricular septum", "heart conduction disease", "borderline ovarian serous tumor", "rete ovarii cystadenoma", "ovarian mucinous cystadenofibroma", "ovarian benign neoplasm", "ovarian papillary cystadenoma", "malignant ovarian Brenner tumor", "pericardium disease"]
 ---
 
 # Peginterferon Beta-1A

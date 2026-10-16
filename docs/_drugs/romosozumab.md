@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Romosozumab: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Severe osteoporosis in postmenopausal women at high risk of fracture"
+monitor_inn: "Romosozumab"
+predicted_indications: ["obsolete vitamin D deficiency", "calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization", "severe nonproliferative diabetic retinopathy", "renal osteodystrophy", "osteomalacia (disease)", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "Worth syndrome", "impaired renal function disease"]
 ---
 
 # Romosozumab

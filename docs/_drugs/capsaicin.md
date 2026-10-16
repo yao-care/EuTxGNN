@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Capsaicin: predicted new indication Otitis externa (evidence level L5). Approved use: Peripheral neuropathic pain in adults…"
+monitor_inn: "Capsaicin"
+predicted_indications: ["otitis externa", "post-bacterial disorder", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "papillary conjunctivitis", "infection-related hemolytic uremic syndrome", "tinea corporis", "rosacea conjunctivitis"]
 ---
 
 # Capsaicin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vibegron: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Symptomatic treatment of adult patients with overactive blad…"
+monitor_inn: "Vibegron"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "thoracic malformation", "esophageal varices without bleeding", "esophageal varices with bleeding", "karyomegalic interstitial nephritis", "adult familial nephronophthisis-spastic quadriparesia syndrome", "hypotrichosis simplex of the scalp"]
 ---
 
 # Vibegron

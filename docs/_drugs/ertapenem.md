@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Intra-abdominal infections, community-acquired pneumonia…"
+monitor_inn: "Ertapenem"
+predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "toxocariasis", "urinary tract infection (disease)", "blood group incompatibility", "gonococcal urethritis", "Ureaplasma urethritis"]
 ---
 
 # Ertapenem

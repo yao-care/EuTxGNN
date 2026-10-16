@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Roxadustat: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Treatment of adult patients with symptomatic anaemia associated with…"
+monitor_inn: "Roxadustat"
+predicted_indications: ["dry eye syndrome", "bone Paget disease", "dentinogenesis imperfecta", "squamous cell carcinoma", "dental pulp calcification", "dentin dysplasia", "Sjogren syndrome", "adenosquamous breast carcinoma", "acantholytic variant squamous cell breast carcinoma", "metaplastic breast carcinoma"]
 ---
 
 # Roxadustat

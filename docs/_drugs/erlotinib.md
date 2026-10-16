@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Erlotinib: predicted new indication Ewing sarcoma (evidence level L4). Approved use: Non-small cell lung cancer (NSCLC)…"
+monitor_inn: "Erlotinib"
+predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung hilum carcinoma", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
 ---
 
 # Erlotinib

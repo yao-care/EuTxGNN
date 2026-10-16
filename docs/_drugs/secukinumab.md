@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Secukinumab: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults and children from 6 yea…"
+monitor_inn: "Secukinumab"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "HER2 positive breast carcinoma", "drug-induced osteoporosis", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer", "fetal and neonatal alloimmune thrombocytopenia"]
 ---
 
 # Secukinumab

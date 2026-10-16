@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Basiliximab: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Prophylaxis of acute organ rejection in de-novo allogeneic renal tran…"
+monitor_inn: "Basiliximab"
+predicted_indications: ["plasma cell myeloma", "bronchitis", "indolent plasma cell myeloma", "hemoglobinopathy", "gastric carcinoma", "diffuse gastric adenocarcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "Jeune syndrome situs inversus"]
 ---
 
 # Basiliximab

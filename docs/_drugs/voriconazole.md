@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Voriconazole: predicted new indication Multidrug-resistant tuberculosis (evidence level L5). Approved use: Invasive aspergillosis"
+monitor_inn: "Voriconazole"
+predicted_indications: ["multidrug-resistant tuberculosis", "cysticercosis", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "tuberculosis, bovine", "isolated genetic hair shaft abnormality", "inactive tuberculosis", "tuberculous ascites", "tuberculosis, avian"]
 ---
 
 # Voriconazole

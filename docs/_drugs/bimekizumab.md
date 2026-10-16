@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bimekizumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
+monitor_inn: "Bimekizumab"
+predicted_indications: ["diabetic cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "antithrombin deficiency type 2"]
 ---
 
 # Bimekizumab

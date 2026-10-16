@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Prophylaxis of venous thromboembolism (VTE)…"
+monitor_inn: "Enoxaparin"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "pseudo-von Willebrand disease", "neuropathy, painful", "thrombotic thrombocytopenic purpura", "retinal telangiectasia", "arteriosclerotic retinopathy", "retinal microaneurysm", "vertebral artery occlusion"]
 ---
 
 # Enoxaparin

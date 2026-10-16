@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Burosumab: predicted new indication Renal osteodystrophy (evidence level L5). Approved use: X-linked hypophosphataemia in children and adolescents aged 1 to 17 y…"
+monitor_inn: "Burosumab"
+predicted_indications: ["renal osteodystrophy", "impaired renal function disease", "non-renal secondary hyperparathyroidism", "bone remodeling disease", "hyperparathyroidism, transient neonatal", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "hypocalcemic rickets", "nuclear senile cataract"]
 ---
 
 # Burosumab

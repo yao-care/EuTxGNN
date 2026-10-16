@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tralokinumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Moderate to severe atopic dermatitis in adults and adolescents 12 yea…"
+monitor_inn: "Tralokinumab"
+predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Tralokinumab

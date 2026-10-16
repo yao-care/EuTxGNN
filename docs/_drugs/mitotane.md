@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mitotane: predicted new indication Multiple endocrine neoplasia (evidence level L4). Approved use: Symptomatic treatment of advanced (unresectable…"
+monitor_inn: "Mitotane"
+predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "seborrheic keratosis", "vulvar inverted follicular keratosis", "apocrine adenosis of breast", "blunt duct adenosis of breast", "fat necrosis of breast", "breast abscess"]
 ---
 
 # Mitotane

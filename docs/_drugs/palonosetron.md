@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Prevention of acute nausea and vomiting associated with highly emetog…"
+monitor_inn: "Palonosetron"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "headache disorder", "trigeminal autonomic cephalalgia", "open-angle glaucoma", "sciatic neuropathy", "primary hereditary glaucoma"]
 ---
 
 # Palonosetron

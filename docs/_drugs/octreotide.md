@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Maintenance treatment in adult patients with acromegaly who have resp…"
+monitor_inn: "Octreotide"
+predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis", "nephrotic syndrome ocular anomalies", "Addison disease", "membranoproliferative glomerulonephritis, X-linked", "familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis", "familial idiopathic steroid-resistant nephrotic syndrome with minimal changes", "adrenocortical insufficiency", "primary hypereosinophilic syndrome", "autosomal recessive familial Mediterranean fever"]
 ---
 
 # Octreotide

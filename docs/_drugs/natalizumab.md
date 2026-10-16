@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Natalizumab: predicted new indication Bronchitis (evidence level L5). Approved use: Highly active relapsing remitting multiple sclerosis (RRMS) in adults…"
+monitor_inn: "Natalizumab"
+predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis", "pityriasis lichenoides", "penile fibromatosis", "pustulosis palmaris et plantaris", "dermatitis", "neonatal dermatomyositis"]
 ---
 
 # Natalizumab

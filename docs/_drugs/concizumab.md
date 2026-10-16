@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Concizumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Routine prophylaxis of bleeding in patients 12 years or older with ha…"
+monitor_inn: "Concizumab"
+predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "antithrombin deficiency type 2", "senile cataract"]
 ---
 
 # Concizumab

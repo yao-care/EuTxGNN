@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Estradiol: predicted new indication Anovulation (evidence level L5). Approved use: Female contraception (Evra, for women aged 18 to 45)"
+monitor_inn: "Estradiol"
+predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "anovulation", "ovarian remnant syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "luteoma of pregnancy", "partial autosomal trisomy/tetrasomy", "ovarian ectopic pregnancy"]
 ---
 
 # Estradiol

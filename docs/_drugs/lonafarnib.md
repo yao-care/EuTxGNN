@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lonafarnib: predicted new indication Leprosy (evidence level L5). Approved use: Hutchinson-Gilford progeria syndrome…"
+monitor_inn: "Lonafarnib"
+predicted_indications: ["leprosy", "rheumatoid arthritis", "Prinzmetal angina", "homozygous familial hypercholesterolemia", "hyperthyroidism", "pulmonary hypertension", "brachydactyly-syndactyly syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Lonafarnib

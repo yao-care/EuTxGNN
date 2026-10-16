@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Setmelanotide: predicted new indication Migraine disorder (evidence level L5). Approved use: Treatment of obesity and control of hunger associated with geneticall…"
+monitor_inn: "Setmelanotide"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "esophageal ulcer", "Ambras type hypertrichosis universalis congenita", "pituitary dwarfism"]
 ---
 
 # Setmelanotide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Semaglutide: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Treatment of adults with insufficiently controlled type 2 diabetes me…"
+monitor_inn: "Semaglutide"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "autoimmune oophoritis"]
 ---
 
 # Semaglutide

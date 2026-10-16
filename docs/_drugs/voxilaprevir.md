@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Voxilaprevir: predicted new indication Hepatitis B virus infection (evidence level L4). Approved use: Chronic hepatitis C virus (HCV) infection in patients aged 12 years a…"
+monitor_inn: "voxilaprevir"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "HIV infectious disease", "chronic hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 ---
 
 # Voxilaprevir

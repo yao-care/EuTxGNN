@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mirabegron: predicted new indication Thoracic malformation (evidence level L5). Approved use: Overactive bladder in adults (urgency…"
+monitor_inn: "Mirabegron"
+predicted_indications: ["thoracic malformation", "renal-hepatic-pancreatic dysplasia", "polycystic kidney disease 3 with or without polycystic liver disease", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "esophageal varices with bleeding", "esophageal varices without bleeding", "hypotrichosis simplex of the scalp", "karyomegalic interstitial nephritis", "congenital hypotrichosis milia"]
 ---
 
 # Mirabegron

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ibrutinib: predicted new indication Polyclonal hypergammaglobulinemia (evidence level L5). Approved use: Mantle cell lymphoma (MCL)…"
+monitor_inn: "Ibrutinib"
+predicted_indications: ["polyclonal hypergammaglobulinemia", "monoclonal paraproteinemia disease", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "small intestinal Burkitt lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "marginal zone lymphoma", "extracutaneous mastocytoma", "neoplasm of mature B-cells"]
 ---
 
 # Ibrutinib

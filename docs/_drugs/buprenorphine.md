@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Treatment of opioid dependence within a framework of medical…"
+monitor_inn: "Buprenorphine"
+predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease", "schizophreniform disorder", "schizophrenia", "benign paroxysmal tonic upgaze of childhood with ataxia", "psychogenic movement disorders"]
 ---
 
 # Buprenorphine

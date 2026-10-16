@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zinc: predicted new indication Filariasis (evidence level L5). Approved use: Treatment of Wilson's disease"
+monitor_inn: "Zinc"
+predicted_indications: ["filariasis", "primary hereditary glaucoma", "dermatitis", "open-angle glaucoma", "acrodermatitis chronica atrophicans", "enterocolitis (disease)", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
 ---
 
 # Zinc

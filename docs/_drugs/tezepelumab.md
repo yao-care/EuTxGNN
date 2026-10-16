@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tezepelumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Severe asthma (add-on maintenance treatment in adults and adolescents…"
+monitor_inn: "Tezepelumab"
+predicted_indications: ["diabetic cataract", "mature cataract", "craniostenosis cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Tezepelumab

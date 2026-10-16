@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cinacalcet: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Treatment of secondary hyperparathyroidism (HPT) in patients with end…"
+monitor_inn: "Cinacalcet"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "common cold", "female breast carcinoma", "multiple endocrine neoplasia", "headache disorder", "trigeminal autonomic cephalalgia", "hypertrichosis (disease)", "subarachnoid hemorrhage (disease)", "pulmonary hypertension", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Cinacalcet

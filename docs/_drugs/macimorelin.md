@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Macimorelin: predicted new indication Hypertrichosis (evidence level L5). Approved use: Diagnosis of growth hormone deficiency (GHD) in adults (diagnostic us…"
+monitor_inn: "Macimorelin"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "anomalous left coronary artery from the pulmonary artery", "myocardial ischemia", "cold urticaria", "coronary artery disease"]
 ---
 
 # Macimorelin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perflutren: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Diagnostic use only: ultrasound contrast enhancement in patients with…"
+monitor_inn: "Perflutren"
+predicted_indications: ["acute intermittent porphyria", "nephrogenic syndrome of inappropriate antidiuresis", "multidrug-resistant tuberculosis", "myocardial ischemia", "adult-onset citrullinemia type I", "acute neonatal citrullinemia type I", "coronary artery disease", "anomalous left coronary artery from the pulmonary artery", "inactive tuberculosis", "tuberculosis, avian"]
 ---
 
 # Perflutren

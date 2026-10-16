@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cariprazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Treatment of schizophrenia in adult patients"
+monitor_inn: "Cariprazine"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "syndromic myopia", "myopia X-linked", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "distal 17p13.3 microdeletion syndrome"]
 ---
 
 # Cariprazine

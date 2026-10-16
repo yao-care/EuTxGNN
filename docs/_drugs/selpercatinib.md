@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Advanced RET fusion-positive non-small cell lung cancer (NSCLC)"
+monitor_inn: "Selpercatinib"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "pulmonary hypertension, primary, autosomal recessive", "obsolete patella aplasia, coxa vara, and tarsal synostosis", "idiopathic pulmonary arterial hypertension", "atrophoderma vermiculata", "coxopodopatellar syndrome"]
 ---
 
 # Selpercatinib

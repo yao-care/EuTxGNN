@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Belatacept: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Prophylaxis of graft rejection in adult recipients of a renal transpl…"
+monitor_inn: "Belatacept"
+predicted_indications: ["plasma cell myeloma", "indolent plasma cell myeloma", "relapsing-remitting multiple sclerosis", "Crohn's colitis", "heart disease", "Laubry-Pezzi syndrome", "hyperthyroidism", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "colonic neoplasm"]
 ---
 
 # Belatacept

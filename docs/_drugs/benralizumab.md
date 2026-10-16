@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Benralizumab: predicted new indication Dermatitis (evidence level L5). Approved use: Severe eosinophilic asthma (add-on maintenance)"
+monitor_inn: "Benralizumab"
+predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "autoimmune thrombocytopenic", "Evans syndrome"]
 ---
 
 # Benralizumab

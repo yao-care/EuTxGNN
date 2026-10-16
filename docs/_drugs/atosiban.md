@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Delay of imminent pre-term birth in pregnant adult women (regular ute…"
+monitor_inn: "Atosiban"
+predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
 ---
 
 # Atosiban

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Treatment of major depressive episodes in adults"
+monitor_inn: "Vortioxetine"
+predicted_indications: ["neurotic disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "Keppen-Lubinsky syndrome", "blepharophimosis - intellectual disability syndrome, Ohdo type", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
 ---
 
 # Vortioxetine

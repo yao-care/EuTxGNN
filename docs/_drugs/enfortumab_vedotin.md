@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Padcev, in combination with pembrolizumab…"
+monitor_inn: "Enfortumab vedotin"
+predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh", "HER2 positive breast carcinoma"]
 ---
 
 # Enfortumab Vedotin

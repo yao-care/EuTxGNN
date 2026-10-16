@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vemurafenib: predicted new indication HIV infectious disease (evidence level L5). Approved use: BRAF-V600-mutation-positive unresectable or metastatic melanoma (mono…"
+monitor_inn: "Vemurafenib"
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "acute intermittent porphyria", "collagenopathy", "paratenonitis", "female breast carcinoma", "calcific tendinitis", "lymphocytic hypereosinophilic syndrome"]
 ---
 
 # Vemurafenib

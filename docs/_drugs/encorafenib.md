@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Encorafenib: predicted new indication Choroideremia (evidence level L5). Approved use: Unresectable or metastatic melanoma with a BRAF V600 mutation (with b…"
+monitor_inn: "Encorafenib"
+predicted_indications: ["choroideremia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "choroidal dystrophy, central areolar", "superficial spreading melanoma", "lentigo maligna melanoma", "balloon cell malignant melanoma", "acral lentiginous melanoma (disease)"]
 ---
 
 # Encorafenib

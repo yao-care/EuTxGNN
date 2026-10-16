@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Bladder pain syndrome characterised by glomerulations or Hunner's les…"
+monitor_inn: "Pentosan polysulfate"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "fetal and neonatal alloimmune thrombocytopenia", "autosomal dominant macrothrombocytopenia", "hemoglobinopathy", "autoimmune hemolytic anemia", "autoimmune thrombocytopenic", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
 ---
 
 # Pentosan Polysulfate

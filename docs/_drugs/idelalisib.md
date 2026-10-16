@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: CLL (in combination with rituximab or ofatumumab) and refractory foll…"
+monitor_inn: "Idelalisib"
+predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "B-cell neoplasm", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "lymphoma, non-Hodgkin, familial", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
 ---
 
 # Idelalisib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tofacitinib: predicted new indication Plasma cell myeloma (evidence level L5). Approved use: Rheumatoid arthritis (also psoriatic arthritis, ulcerative colitis…"
+monitor_inn: "Tofacitinib"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "indolent plasma cell myeloma", "plasma cell myeloma", "myeloid leukemia", "ganglioneuroblastoma (disease)", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Tofacitinib

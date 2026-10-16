@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sarilumab: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis (in combination with methotrexate…"
+monitor_inn: "Sarilumab"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis", "indolent plasma cell myeloma", "inflammatory bowel disease", "anus disease", "granulomatous disease, chronic, autosomal recessive, 5", "plasma cell myeloma", "Crohn disease of the esophagus", "functional neutrophil defect"]
 ---
 
 # Sarilumab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Florbetapir 18F: predicted new indication Bronchitis (evidence level L5). Approved use: PET imaging of beta-amyloid neuritic plaque density in the brains of…"
+monitor_inn: "Florbetapir (18F)"
+predicted_indications: ["bronchitis", "rheumatoid arthritis", "bronchial neoplasm (disease)", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "headache disorder", "trigeminal autonomic cephalalgia", "laryngotracheitis", "osteoarthritis susceptibility"]
 ---
 
 # Florbetapir 18F

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enfuvirtide: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV-1 infection in treatment-experienced patients who failed or are i…"
+monitor_inn: "Enfuvirtide"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ulceration of vulva", "vulvar neoplasm", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible", "burning mouth syndrome", "oral leukoedema"]
 ---
 
 # Enfuvirtide

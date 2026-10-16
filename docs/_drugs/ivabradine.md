@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ivabradine: predicted new indication Hypertrichosis (evidence level L5). Approved use: Symptomatic treatment of chronic stable angina pectoris"
+monitor_inn: "Ivabradine"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "leprosy"]
 ---
 
 # Ivabradine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Artesunate: predicted new indication Acne (disease) (evidence level L5). Approved use: Initial treatment of severe malaria in adults and children"
+monitor_inn: "Artesunate"
+predicted_indications: ["acne (disease)", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "gastrin secretion abnormality", "systemic mastocytosis", "leishmaniasis, diffuse cutaneous", "abnormality of glucagon secretion", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "Wiskott-Aldrich syndrome 2", "alacrima, achalasia, and intellectual disability syndrome"]
 ---
 
 # Artesunate

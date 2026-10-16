@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Damoctocog Alfa Pegol: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Treatment and prophylaxis of bleeding in previously treated patients…"
+monitor_inn: "Damoctocog alfa pegol"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "tumor of testis and paratestis", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation"]
 ---
 
 # Damoctocog Alfa Pegol

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tagraxofusp: predicted new indication Esotropia (evidence level L5). Approved use: First-line monotherapy for adult patients with blastic plasmacytoid d…"
+monitor_inn: "Tagraxofusp"
+predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "ductal or ductular proliferation", "cystic neoplasm", "thyroglossal duct cyst"]
 ---
 
 # Tagraxofusp

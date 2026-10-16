@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Esomeprazole: predicted new indication Duodenal ulcer (evidence level L1). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn and acid regu…"
+monitor_inn: "Esomeprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)", "active peptic ulcer disease", "abnormality of glucagon secretion", "gastrojejunal ulcer", "peptic ulcer perforation", "Smouldering systemic mastocytosis", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Esomeprazole

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pomalidomide: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma in adults who have received at least one prior regim…"
+monitor_inn: "Pomalidomide"
+predicted_indications: ["indolent plasma cell myeloma", "CMM7", "pediatric leptomeningeal melanoma", "vulvar melanoma (disease)", "epithelioid cell uveal melanoma", "melanoma", "cholangiocarcinoma, susceptibility to", "congenital temporomandibular joint ankylosis", "polydipsia", "ganglioneuroblastoma (disease)"]
 ---
 
 # Pomalidomide

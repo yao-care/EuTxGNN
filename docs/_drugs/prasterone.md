@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prasterone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Treatment of vulvar and vaginal atrophy in postmenopausal women havin…"
+monitor_inn: "Prasterone"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
 ---
 
 # Prasterone

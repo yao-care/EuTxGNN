@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fesoterodine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Treatment of the symptoms (increased urinary frequency a…"
+monitor_inn: "Fesoterodine"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "thoracic malformation", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "karyomegalic interstitial nephritis", "low compliance bladder", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "polycystic kidney disease"]
 ---
 
 # Fesoterodine

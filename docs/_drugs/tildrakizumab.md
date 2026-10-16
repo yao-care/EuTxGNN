@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate to severe plaque psoriasis in adults who are candidates for…"
+monitor_inn: "Tildrakizumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract"]
 ---
 
 # Tildrakizumab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Pulmonary XDR, or treatment-intolerant/nonresponsive MDR…"
+monitor_inn: "Pretomanid"
+predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery", "HIV infectious disease", "oral candidiasis", "Bacteroidaceae infectious disease", "thrombocytopenia", "fascioliasis"]
 ---
 
 # Pretomanid

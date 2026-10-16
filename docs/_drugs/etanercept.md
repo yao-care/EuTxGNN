@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etanercept: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (in adults, with or without methotrexate)…"
+monitor_inn: "Etanercept"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "WHIM syndrome"]
 ---
 
 # Etanercept

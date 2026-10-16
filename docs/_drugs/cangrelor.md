@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cangrelor: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Reduction of thrombotic cardiovascular events in adults with coronary…"
+monitor_inn: "Cangrelor"
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary", "posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction"]
 ---
 
 # Cangrelor

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Umeclidinium: predicted new indication Migraine disorder (evidence level L5). Approved use: Maintenance bronchodilator treatment to relieve symptoms in adult pat…"
+monitor_inn: "Umeclidinium"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "open-angle glaucoma", "primary hereditary glaucoma", "nephrogenic syndrome of inappropriate antidiuresis", "gastroduodenitis", "common cold", "atrophoderma vermiculata", "peptic ulcer disease", "allergic urticaria"]
 ---
 
 # Umeclidinium

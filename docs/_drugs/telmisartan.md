@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Treatment of essential hypertension in adults"
+monitor_inn: "Telmisartan"
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "intracerebral hemorrhage", "Braddock syndrome"]
 ---
 
 # Telmisartan

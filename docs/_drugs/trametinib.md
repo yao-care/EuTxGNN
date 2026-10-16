@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trametinib: predicted new indication Choroideremia (evidence level L5). Approved use: Unresectable or metastatic BRAF V600-mutant melanoma"
+monitor_inn: "Trametinib"
+predicted_indications: ["choroideremia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "balloon cell malignant melanoma", "malignant melanoma of the mucosa", "lentigo maligna melanoma", "superficial spreading melanoma", "amelanotic skin melanoma"]
 ---
 
 # Trametinib

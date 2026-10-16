@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Entrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L4). Approved use: Solid tumours expressing an NTRK gene fusion (adults and paediatric p…"
+monitor_inn: "Entrectinib"
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "thrombocytopenia", "cytomegalovirus infection", "pulmonary hypertension", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "female breast carcinoma", "transient neonatal thrombocytopenia", "infectious bovine rhinotracheitis"]
 ---
 
 # Entrectinib

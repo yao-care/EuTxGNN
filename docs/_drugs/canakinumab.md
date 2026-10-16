@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Canakinumab: predicted new indication Hepatic infarction (evidence level L5). Approved use: Autoinflammatory periodic fever syndromes (CAPS, TRAPS, HIDS/MKD…"
+monitor_inn: "Canakinumab"
+predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "familial Mediterranean fever, autosomal dominant", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
 ---
 
 # Canakinumab

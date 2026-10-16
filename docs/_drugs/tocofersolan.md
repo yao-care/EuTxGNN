@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tocofersolan: predicted new indication Amenorrhea (evidence level L5). Approved use: Vitamin E deficiency due to digestive malabsorption in paediatric pat…"
+monitor_inn: "Tocofersolan"
+predicted_indications: ["amenorrhea (disease)", "acne (disease)", "infectious bovine rhinotracheitis", "malignant catarrh", "conjunctivitis", "cytomegalovirus infection", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "roseolovirus infectious disease", "peripheral arterial disease"]
 ---
 
 # Tocofersolan

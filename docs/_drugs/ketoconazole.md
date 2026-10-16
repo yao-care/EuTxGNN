@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Endogenous Cushing's syndrome in adults and adolescents above 12 year…"
+monitor_inn: "Ketoconazole"
+predicted_indications: ["acne (disease)", "zinc, elevated plasma", "leprosy", "vulvovaginal candidiasis", "urticaria, aquagenic", "punctate epithelial keratoconjunctivitis", "tinea profunda", "nail infection", "neonatal candidiasis", "congenital candidiasis"]
 ---
 
 # Ketoconazole

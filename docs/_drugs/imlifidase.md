@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imlifidase: predicted new indication Diabetic cataract (evidence level L5). Approved use: Desensitisation treatment of highly sensitised adult kidney transplan…"
+monitor_inn: "Imlifidase"
+predicted_indications: ["diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "immature cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Imlifidase

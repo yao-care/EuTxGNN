@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Icosapent Ethyl: predicted new indication Myocardial infarction (evidence level L1). Approved use: Reduction of cardiovascular risk as an adjunct to statin therapy"
+monitor_inn: "Icosapent ethyl"
+predicted_indications: ["hemoglobinopathy", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "myocardial infarction", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary", "rheumatoid arthritis", "posterolateral myocardial infarction", "posteroinferior myocardial infarction"]
 ---
 
 # Icosapent Ethyl

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dopamine: predicted new indication Postural orthostatic tachycardia syndrome (evidence level L4). Approved use: Treatment of hypotension in haemodynamically unstable neonates…"
+monitor_inn: "Dopamine"
+predicted_indications: ["postural orthostatic tachycardia syndrome", "variably protease-sensitive prionopathy", "multiple system atrophy", "hypotrichosis simplex of the scalp", "gastroduodenitis", "congenital hypotrichosis milia", "common cold", "diffuse alopecia areata", "peptic ulcer disease", "rhinitis"]
 ---
 
 # Dopamine

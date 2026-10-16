@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pegaspargase: predicted new indication Precursor lymphoblastic lymphoma/leukemia (evidence level L1). Approved use: Component of antineoplastic combination therapy in acute lymphoblasti…"
+monitor_inn: "Pegaspargase"
+predicted_indications: ["precursor lymphoblastic lymphoma/leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "acute lymphoblastic leukemia", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 ---
 
 # Pegaspargase

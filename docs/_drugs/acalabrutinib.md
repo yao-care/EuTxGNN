@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acalabrutinib: predicted new indication Lymphoma, non-Hodgkin, familial (evidence level L2). Approved use: Previously untreated and previously treated CLL (monotherapy or combi…"
+monitor_inn: "Acalabrutinib"
+predicted_indications: ["lymphoma, non-Hodgkin, familial", "colon adenocarcinoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "neoplasm of mature B-cells", "lymph node cancer", "polyclonal hypergammaglobulinemia"]
 ---
 
 # Acalabrutinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flutemetamol 18F: predicted new indication Anaphylaxis (evidence level L5). Approved use: PET imaging of β-amyloid neuritic plaque density in the brains of adu…"
+monitor_inn: "Flutemetamol (18F)"
+predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "dermatitis", "pseudoallergy", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans"]
 ---
 
 # Flutemetamol 18F

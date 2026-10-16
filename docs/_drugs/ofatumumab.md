@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ofatumumab: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lym… (evidence level L5). Approved use: Relapsing forms of multiple sclerosis (RMS) with active …"
+monitor_inn: "Ofatumumab"
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "leukemia, lymphocytic, susceptibility to", "chronic lymphocytic leukemia/small lymphocytic lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis", "histiocytic and dendritic cell neoplasm", "childhood mediastinal neurogenic neoplasm"]
 ---
 
 # Ofatumumab

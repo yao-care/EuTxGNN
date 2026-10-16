@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Norelgestromin: predicted new indication Amenorrhea (evidence level L5). Approved use: Female contraception (women of fertile age, 18 to 45 years)"
+monitor_inn: "Norelgestromin"
+predicted_indications: ["amenorrhea (disease)", "acne (disease)", "breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "breast abscess", "fat necrosis of breast", "lactation disease", "primary ovarian failure"]
 ---
 
 # Norelgestromin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Opicapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Adjunctive therapy to levodopa/DDCI in adults with Parkinson's diseas…"
+monitor_inn: "Opicapone"
+predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "lethal infantile mitochondrial myopathy", "X-linked intellectual disability-ataxia-apraxia syndrome", "X-linked intellectual disability-cerebellar hypoplasia syndrome"]
 ---
 
 # Opicapone

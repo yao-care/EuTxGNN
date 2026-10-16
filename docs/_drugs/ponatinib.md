@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ponatinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Chronic…"
+monitor_inn: "Ponatinib"
+predicted_indications: ["fibromatosis, gingival", "liposarcoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "ovarian myxoid liposarcoma", "hamartoma of lung", "fibroma of lung", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung benign neoplasm", "lung hilum carcinoma"]
 ---
 
 # Ponatinib

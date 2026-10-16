@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: T-cell acute lymphoblastic leukaemia (T-ALL) and T-cell lymphoblastic…"
+monitor_inn: "Nelarabine"
+predicted_indications: ["relapsing-remitting multiple sclerosis", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "extrahepatic bile duct rhabdomyosarcoma", "pancreatic adenocarcinoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 ---
 
 # Nelarabine

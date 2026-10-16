@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aztreonam: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Suppressive therapy of chronic pulmonary infections due to Pseudomona…"
+monitor_inn: "Aztreonam"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Aztreonam

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ganaxolone: predicted new indication Alcohol withdrawal delirium (evidence level L5). Approved use: Adjunctive treatment of epileptic seizures associated with CDKL5 defi…"
+monitor_inn: "Ganaxolone"
+predicted_indications: ["alcohol withdrawal delirium", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "phencyclidine abuse", "alcohol withdrawal", "autism spectrum disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "autism susceptibility 1"]
 ---
 
 # Ganaxolone

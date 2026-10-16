@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sacituzumab Govitecan: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Monotherapy for adult patients with unresectable or metastatic triple…"
+monitor_inn: "Sacituzumab govitecan"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract"]
 ---
 
 # Sacituzumab Govitecan

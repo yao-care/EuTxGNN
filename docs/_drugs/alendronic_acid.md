@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alendronic Acid: predicted new indication HIV infectious disease (evidence level L5). Approved use: Treatment of postmenopausal osteoporosis in patients at risk of vitam…"
+monitor_inn: "Alendronic acid"
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "deficiency anemia", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "osteomesopyknosis", "obsolete familial combined hyperlipidemia", "biotin metabolic disease"]
 ---
 
 # Alendronic Acid

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Treatment-resistant Major Depressive Disorder in adults who have not…"
+monitor_inn: "Esketamine"
+predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "neurotic depression", "melancholia", "vitamin B12-responsive methylmalonic acidemia", "obsessive-compulsive disorder", "Keppen-Lubinsky syndrome", "insomnia (disease)", "congenital isolated adrenocorticotropic hormone deficiency (disease)", "autosomal dominant slowed nerve conduction velocity"]
 ---
 
 # Esketamine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Peginterferon Alfa-2A: predicted new indication Hepatitis B virus infection (already an approved indication) (evidence level L5). Approved use: Polycythaemia vera (monotherapy in adults)"
+monitor_inn: "Peginterferon alfa-2a"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 ---
 
 # Peginterferon Alfa-2A

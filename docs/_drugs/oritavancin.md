@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Acute bacterial skin and skin structure infections (ABSSSI) in adults…"
+monitor_inn: "Oritavancin"
+predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia", "anaerobic bacteria infectious disease", "orbital cellulitis", "infectious mononucleosis", "tinea corporis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome"]
 ---
 
 # Oritavancin

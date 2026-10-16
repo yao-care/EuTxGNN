@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Abaloparatide: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women at increased risk o…"
+monitor_inn: "Abaloparatide"
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer", "migraine disorder", "migraine with brainstem aura", "severe nonproliferative diabetic retinopathy", "pseudo-von Willebrand disease", "primary release disorder of platelets", "biotin metabolic disease"]
 ---
 
 # Abaloparatide

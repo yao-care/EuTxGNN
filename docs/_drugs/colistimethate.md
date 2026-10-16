@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Colistimethate: predicted new indication Osteoarthritis (evidence level L5). Approved use: Management of chronic pulmonary infections due to Pseudomonas aerugin…"
+monitor_inn: "Colistimethate"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hepatic porphyria", "brachyolmia", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome"]
 ---
 
 # Colistimethate

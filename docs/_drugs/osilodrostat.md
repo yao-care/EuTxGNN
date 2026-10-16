@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Osilodrostat: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Endogenous Cushing's syndrome in adults"
+monitor_inn: "Osilodrostat"
+predicted_indications: ["familial generalized lentiginosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "gastrocutaneous syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "Moynahan syndrome", "rhabdoid tumor", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma"]
 ---
 
 # Osilodrostat

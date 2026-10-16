@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Azilsartan Medoxomil: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Essential hypertension in adults"
+monitor_inn: "Azilsartan medoxomil"
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome", "cerebrovascular disorder", "obsolete susceptibility to ischemic stroke", "chronic pulmonary heart disease", "brain stem infarction", "hypotrichosis simplex of the scalp"]
 ---
 
 # Azilsartan Medoxomil

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dexmedetomidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Sedation of adult intensive care unit patients requiring a sedation l…"
+monitor_inn: "Dexmedetomidine"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypotrichosis simplex of the scalp", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "congenital hypotrichosis milia"]
 ---
 
 # Dexmedetomidine

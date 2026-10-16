@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brinzolamide: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Decrease elevated intraocular pressure in ocular hypertension and ope…"
+monitor_inn: "Brinzolamide"
+predicted_indications: ["primary hereditary glaucoma", "glaucoma 1, open angle", "glaucoma", "open angle glaucoma", "closed-angle glaucoma", "hydrophthalmos", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome"]
 ---
 
 # Brinzolamide

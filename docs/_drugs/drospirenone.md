@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Drospirenone: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Oral contraception"
+monitor_inn: "Drospirenone"
+predicted_indications: ["zinc, elevated plasma", "dyschondrosteosis-nephritis syndrome", "torticollis-keloids-cryptorchidism-renal dysplasia syndrome", "infundibulopelvic stenosis-multicystic kidney syndrome", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "46,XX disorder of sex development-anorectal anomalies syndrome", "thyrocerebrorenal syndrome", "acrorenal syndrome", "radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome", "Mayer-Rokitansky-Kuster-Hauser syndrome"]
 ---
 
 # Drospirenone
