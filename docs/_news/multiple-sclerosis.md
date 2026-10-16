@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 16 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -54,7 +54,31 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [Scabies outbreak at Welsh hospital sees visits halted - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzYzRks0cXBoc0lkUjZfaDdUVXpBV1VVOGZydk5TQklPM00wQ0hOSzFxSDNrc2pWTUhWOTg3cWhsUnhxdU01enN0b3BlZG5nNjBPajZ4MjlGUEFJU1p3SG5MVlhGdXdqSmVzUURzNmdyUzh3aDVralV0MVpBSlRGZmZtUEt6Q0IzSGJoNU51SzdIakZwNUHSAZsBQVVfeXFMTklhZURDeW9PTmJyandqY04xakpCU1djalNwNVBGbnU4SWJ0alpIT2VCS3N5eFpZWmF4SW4tbGVucGlrOEx4alVxbFc2LUtxX2lVdkZGTGdVb1RrZXR1SEttQnJlTTJ3LVFFWm9fT3E2OXZOdjMyRDFLdWtUX1dxZHZFRFFvcExMRkVJdUpubkdhRHp5QU12ZTZlMUE?oc=5)
+
+2026-10-16
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzYzRks0cXBoc0lkUjZfaDdUVXpBV1VVOGZydk5TQklPM00wQ0hOSzFxSDNrc2pWTUhWOTg3cWhsUnhxdU01enN0b3BlZG5nNjBPajZ4MjlGUEFJU1p3SG5MVlhGdXdqSmVzUURzNmdyUzh3aDVralV0MVpBSlRGZmZtUEt6Q0IzSGJoNU51SzdIakZwNUHSAZsBQVVfeXFMTklhZURDeW9PTmJyandqY04xakpCU1djalNwNVBGbnU4SWJ0alpIT2VCS3N5eFpZWmF4SW4tbGVucGlrOEx4alVxbFc2LUtxX2lVdkZGTGdVb1RrZXR1SEttQnJlTTJ3LVFFWm9fT3E2OXZOdjMyRDFLdWtUX1dxZHZFRFFvcExMRkVJdUpubkdhRHp5QU12ZTZlMUE?oc=5)
+
+---
+
+### [Women warned not to self-medicate amid 'worrying' HRT supply shortages](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWEwOGxjOFlET2JJa3VZY1pGaHh6UlRYTF9jcDkyTU9ZUl91NVhXaHdSRXBaTUR1WHBRNHhqTTBrU0lqaFQxaV9CU0ZIMTNpRUVxWFpya0wyalNUeUNqRURCUkxKeVJDTGFGMVJnNjVIMk5QWVhseFJZTWNLYllGUFhaZFE2bjE5YjVySUxTajN5TUFTVDVXaUNhNUJ0dGprNU8zZmJQckRmZ9IBrwFBVV95cUxPNUxWV2thVmUzUHNCaHlienRZcmotR3hwZ29WNVc3ZzdBcHdZMFVXOERlMHppLTBpQ3E2Vjg2NTFVNlBrNDU1aGFyRzc5Nkg5YzV6TThQQ3JEazNuN0JuZXdKeDFqdTRvZGhnZjBJWE40WmRYQzNVUXVFSy1GUXhubDI0RjlrNndqNWYtVldFeTIxcjFmWkFER2tYYzhXam56bFNEMlJDR3Y1bzZ6Smdn?oc=5)
+
+2026-10-16
+
+Source: [Metro.co.uk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWEwOGxjOFlET2JJa3VZY1pGaHh6UlRYTF9jcDkyTU9ZUl91NVhXaHdSRXBaTUR1WHBRNHhqTTBrU0lqaFQxaV9CU0ZIMTNpRUVxWFpya0wyalNUeUNqRURCUkxKeVJDTGFGMVJnNjVIMk5QWVhseFJZTWNLYllGUFhaZFE2bjE5YjVySUxTajN5TUFTVDVXaUNhNUJ0dGprNU8zZmJQckRmZ9IBrwFBVV95cUxPNUxWV2thVmUzUHNCaHlienRZcmotR3hwZ29WNVc3ZzdBcHdZMFVXOERlMHppLTBpQ3E2Vjg2NTFVNlBrNDU1aGFyRzc5Nkg5YzV6TThQQ3JEazNuN0JuZXdKeDFqdTRvZGhnZjBJWE40WmRYQzNVUXVFSy1GUXhubDI0RjlrNndqNWYtVldFeTIxcjFmWkFER2tYYzhXam56bFNEMlJDR3Y1bzZ6Smdn?oc=5)
+
+---
+
+### [Andalucía se alinea con la OMS para abordar de forma segura las enfermedades no transmisibles - Europa Press](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOFhKaVRROEFBR1NVNWE1RTJkQ0Vmak1JejZrcXdMekFQNW83alVWTXFFWUJRa1dHdElkd1Q0aVAtQks3bEVuUlk1bFhqcjM0SzQ2S0s1LUhFaWRXRHo2QmgydDNESzRnTTdGVUZvQVNHWE9IdjE2bk1iYnp1VmdXbTh2bTRMQl9xR1RtOXZ3X05YSFRBb2dVYW5hWWpGaHpFUnp3YWNYRXlBQmx3Z0M1THRndUduWUh6dGZXQzc2NjV3YkpxUE15RGJwa05aVDNGTXYwbHM1NnNkMlRfLVZN?oc=5)
+
+2026-10-16
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOFhKaVRROEFBR1NVNWE1RTJkQ0Vmak1JejZrcXdMekFQNW83alVWTXFFWUJRa1dHdElkd1Q0aVAtQks3bEVuUlk1bFhqcjM0SzQ2S0s1LUhFaWRXRHo2QmgydDNESzRnTTdGVUZvQVNHWE9IdjE2bk1iYnp1VmdXbTh2bTRMQl9xR1RtOXZ3X05YSFRBb2dVYW5hWWpGaHpFUnp3YWNYRXlBQmx3Z0M1THRndUduWUh6dGZXQzc2NjV3YkpxUE15RGJwa05aVDNGTXYwbHM1NnNkMlRfLVZN?oc=5)
+
+---
 
 ### [Ahead of the U.S., UK, and China, WHO confirms African nation as world-first to retain gold status for hepatitis C elimination using locally made drugs - Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDVZR0F4bnc2cHlxV1NyckVkR3pJVVBNR3dQT3RMbjRMaDN1YVVsRDg1NGtOV3FSUVpUT3FhdjZIU3hGeVpzUGVqNzJ1TldMMEdJOHpRTjRFclppYjZzS0M5T1VVQU1zR3d6THJwbThZeEtNbVlMZGpidXYtb284dG5DWVJmaXhHV1FLdG1mV3hfSVhVcXdqTUc2Q19ybFA5d2Z0bnFYdjJLLVd3eGQ1aWxKRXFaaHpYNm11Q2w5aDgtcFdPRDBaakxPLTNHUG9KTER4NXByMGs?oc=5)
 
@@ -72,11 +96,27 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZTMldFN
 
 ---
 
+### [MIND-Diät bremst Hirnalterung – Diese Lebensmittel sollte man unbedingt essen](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDhaV1o3b3VYQXoyUjVKUnpqODdRVGJfZmVpMnpvQ0wyZGtwRnFjRmIyMHVvdnZVX3FkYlMxT1g4NTlWc1k4dENJTTdJeEFpYXVGMjE0RUFVTWlKVUUwR0pBTXd1ejc5OHFmTjRMSkxJczZleUNHdWdtWG4wZEVWdHpGR21CSlNQUVVsZ25sV1VUVWdKdWdiUFlHZjNPZVNPVGY4ZG5NX3JuSW84RTZVdm00bkhTUVFuWEtBd0R5c200Q2ppWHBJUkNZWTdsWkc4Zm1V?oc=5)
+
+2026-10-16
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDhaV1o3b3VYQXoyUjVKUnpqODdRVGJfZmVpMnpvQ0wyZGtwRnFjRmIyMHVvdnZVX3FkYlMxT1g4NTlWc1k4dENJTTdJeEFpYXVGMjE0RUFVTWlKVUUwR0pBTXd1ejc5OHFmTjRMSkxJczZleUNHdWdtWG4wZEVWdHpGR21CSlNQUVVsZ25sV1VUVWdKdWdiUFlHZjNPZVNPVGY4ZG5NX3JuSW84RTZVdm00bkhTUVFuWEtBd0R5c200Q2ppWHBJUkNZWTdsWkc4Zm1V?oc=5)
+
+---
+
 ### ['Less-obvious symptoms' as American Covid strain spreads across UK - Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlCU0piU1V6UkE1c0ZDZFJCNkRlODV1V0lOOVpnMmxUXy1PZWpDdlVvZ0dXRDB6T1ZQVklPUU14RnlFWFRSSUFuT1lMRUI5bVhBM3JWN3JLVWxmUVRxaDN3dTBsejlrYTZibk5abXFpRlB3WGxva3RKbHZabExsOHVLdTlXRjJkN3fSAY8BQVVfeXFMTVp3X2hKS1RCSFVWZ2tCRU9Zek9PakZtTUxRLWdSeG1KQ002RUNEN0U4Rm53eGt2aGp2S2QtRmw3QjZyVWhOaC1McmhFbWdGclROZWFSN1FCdGhoNllvLUpLY1RQc3pjQjg4WVZFOWJjeUttdXIyeDQtVVVHWVptRnp3TG9MVHplamV6VkhxSHM?oc=5)
 
 2026-10-16
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlCU0piU1V6UkE1c0ZDZFJCNkRlODV1V0lOOVpnMmxUXy1PZWpDdlVvZ0dXRDB6T1ZQVklPUU14RnlFWFRSSUFuT1lMRUI5bVhBM3JWN3JLVWxmUVRxaDN3dTBsejlrYTZibk5abXFpRlB3WGxva3RKbHZabExsOHVLdTlXRjJkN3fSAY8BQVVfeXFMTVp3X2hKS1RCSFVWZ2tCRU9Zek9PakZtTUxRLWdSeG1KQ002RUNEN0U4Rm53eGt2aGp2S2QtRmw3QjZyVWhOaC1McmhFbWdGclROZWFSN1FCdGhoNllvLUpLY1RQc3pjQjg4WVZFOWJjeUttdXIyeDQtVVVHWVptRnp3TG9MVHplamV6VkhxSHM?oc=5)
+
+---
+
+### [Commercial kitchen staff exposed to high levels of air pollution, study finds - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUs0LVZ1bGEzQ3ZOaDJKZ2tsMG0wZWh2MzBKR1pqc2sySGhldWx3c1o5MlREbWpWWUV0VU93MkxPNlVSQ01zRXBad0JBelA3eDdCQ2w1SGVTOEMtaHQ0ejRSRmptaTVOcWd4SlBBbEI3M2ZEbzQ4R3NGYm9SLVhiSFh3Rl9XRGwwYm5MVUZJSGdSSnpzWDRfVlpwLUpTU3pyUzBEeUlwbTNHZGwtb1lN?oc=5)
+
+2026-10-16
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUs0LVZ1bGEzQ3ZOaDJKZ2tsMG0wZWh2MzBKR1pqc2sySGhldWx3c1o5MlREbWpWWUV0VU93MkxPNlVSQ01zRXBad0JBelA3eDdCQ2w1SGVTOEMtaHQ0ejRSRmptaTVOcWd4SlBBbEI3M2ZEbzQ4R3NGYm9SLVhiSFh3Rl9XRGwwYm5MVUZJSGdSSnpzWDRfVlpwLUpTU3pyUzBEeUlwbTNHZGwtb1lN?oc=5)
 
 ---
 
@@ -88,11 +128,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUE
 
 ---
 
-### [Rote-Hand-Brief zu Ocrelizumab (Ocrevus®): Leberfunktion vor und während der Behandlung kontrollieren - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3FSZ053T1FKX0hLemhyR1RHRnJteV9lVm9KVkdXUUoxSVhOUlJzYWtXVkxOUUxPSDA3cDlLakJWX2Y4ZWtha1VkSXpza2JOM25kM3N1Zy05c0hnWk5TaGM2dFlnVkk0UTctVWJGNmk2ODJTSEFPcy0wZGZCQVVBUG5qcW1YVlBRVGxqTlRUb2N1NGc0TnJsYmRkZW9zRk1yZ25UZWsyWjlDMzVLU2ljRmE1VUtxeHg1Q1lrOTBqZ0toNFpCUjRHb3hSTmxTbjVGRGFvLQ?oc=5)
+### [Ocrevus: Rote-Hand-Brief verlangt Lebertests vor den ersten Infusionen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXVBcFNDcllQQVNZVjRVOWlhQjBub1NHSXJDbVA0RFpTWnRCZUNFM0Jpb1JNTnQ0dG1YSFd4Z1ppZUlBeGNJNUpncHJCMnA3VGJvT2FXSjVORDRPWm1vQjJYeWpQMGJKSDF6aUpkdVdQZlF4OExubUdtYmR6SGREWGh3T19fenkyWnBuSURLdXFCNURiU2NsVU9KMTBvWndsalBCaXhOemFsdkRYa2VFaTIwSE5SNmt4bkE?oc=5)
 
 2026-10-15
 
-Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3FSZ053T1FKX0hLemhyR1RHRnJteV9lVm9KVkdXUUoxSVhOUlJzYWtXVkxOUUxPSDA3cDlLakJWX2Y4ZWtha1VkSXpza2JOM25kM3N1Zy05c0hnWk5TaGM2dFlnVkk0UTctVWJGNmk2ODJTSEFPcy0wZGZCQVVBUG5qcW1YVlBRVGxqTlRUb2N1NGc0TnJsYmRkZW9zRk1yZ25UZWsyWjlDMzVLU2ljRmE1VUtxeHg1Q1lrOTBqZ0toNFpCUjRHb3hSTmxTbjVGRGFvLQ?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXVBcFNDcllQQVNZVjRVOWlhQjBub1NHSXJDbVA0RFpTWnRCZUNFM0Jpb1JNTnQ0dG1YSFd4Z1ppZUlBeGNJNUpncHJCMnA3VGJvT2FXSjVORDRPWm1vQjJYeWpQMGJKSDF6aUpkdVdQZlF4OExubUdtYmR6SGREWGh3T19fenkyWnBuSURLdXFCNURiU2NsVU9KMTBvWndsalBCaXhOemFsdkRYa2VFaTIwSE5SNmt4bkE?oc=5)
 
 ---
 
@@ -104,14 +144,6 @@ Source: [franceinfo](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRXM0b3
 
 ---
 
-### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
-
-2026-10-15
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
-
----
-
 ### [ENTRETIEN. Personnes âgées : ce faux « petit appétit » qui mène à la dénutrition, l’alerte d’un spécialiste en gériatrie](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJVeEs0dG11OWkwVFlUdG1UYzNKWFlLaG1KSWxNNllyai03ekp1dHNhVzNiUnc5cTZsYm5BSDZra25CQ20wU1RvN1pmYmFzWml6UE5lMUxlQ0djYVpGVklDOE9YTmVDSjYtdGlEazFuTHZxYnVxdXNTWFdOejltZEVwZTZMeDFISzVvd2QyUHhNemUwUjlJNWlKR1pVb2lIWk5laWtjVUphR21ZVTVqUmk3VllxNFI0TDFyRzA5RHlMblZ5c0Z3SUUtTE80UHhjSUUyS3U5dndpdUJOcmNYb1RCTWU2TTdmSGFxWVB4TnEzVGFTQTY0Q3NhUmRWazZ5Mm1KclRCOGlDa0tCUy1MenRDUEUzQ2N3T3k4?oc=5)
 
 2026-10-15
@@ -120,11 +152,11 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJV
 
 ---
 
-### [Ancient gut microbes link hunter-gatherers in Africa and forager-farmers in South America - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnh0TVY1a1QtY0t4V3dfcDFpWU1abk81d1g2OFFpb3JtTjJuQzBObzBhV0VwODExc203cmREUExJUXRHZFBEMjhGekpzVGtaUUdqcXc3ZWpGRGlQRGM5SUVLV1EtSWxlTGJ3SlVmN3dDLVlzajNzUFgtYjlIWFJFYmtYQ1A?oc=5)
+### [Nanoparticle injection reprograms NK immune cells to fight cancer and autoimmune disorders](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQXRYNE10OGhtRThhclBZa29rUmEzTzZSVllGYzJaSzJtUzBaNHJ3QUJxNFRSOHREREdBNjdTbE5nZ0pSTnhKQjVfaEdfSEhhd1psQXZtSEZFMDNVeHlfV0dmOXFobE1McEdVSlF4cExiTTloT3ZKckZwMUlJY2c?oc=5)
 
 2026-10-13
 
-Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnh0TVY1a1QtY0t4V3dfcDFpWU1abk81d1g2OFFpb3JtTjJuQzBObzBhV0VwODExc203cmREUExJUXRHZFBEMjhGekpzVGtaUUdqcXc3ZWpGRGlQRGM5SUVLV1EtSWxlTGJ3SlVmN3dDLVlzajNzUFgtYjlIWFJFYmtYQ1A?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQXRYNE10OGhtRThhclBZa29rUmEzTzZSVllGYzJaSzJtUzBaNHJ3QUJxNFRSOHREREdBNjdTbE5nZ0pSTnhKQjVfaEdfSEhhd1psQXZtSEZFMDNVeHlfV0dmOXFobE1McEdVSlF4cExiTTloT3ZKckZwMUlJY2c?oc=5)
 
 ---
 
@@ -141,22 +173,6 @@ Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWX
 2026-10-13
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
-
----
-
-### [Women ‘more likely to be told autoimmune conditions are psychological’ | Women's health - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
-
-2026-10-13
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
-
----
-
-### [The Victorian illnesses making UK comeback- including 'nightmare' disease - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUV0TGs4SC1yYnhQcHZlWmIyQmRWVlBTNHpNQmpfUnpQQnpKaVZBa2pGZ3oxQjFOTVB4ZWZia2lqa2dGZ1ZnVWFfcEUwbnJSVG9QZmVVYW9tdkhReGpDWnIycjBmVEhKR3FQbk45OExkOVJuSzNudmdWUFBEdHJkMkRLdERZVUtPWmc?oc=5)
-
-2026-10-12
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUV0TGs4SC1yYnhQcHZlWmIyQmRWVlBTNHpNQmpfUnpQQnpKaVZBa2pGZ3oxQjFOTVB4ZWZia2lqa2dGZ1ZnVWFfcEUwbnJSVG9QZmVVYW9tdkhReGpDWnIycjBmVEhKR3FQbk45OExkOVJuSzNudmdWUFBEdHJkMkRLdERZVUtPWmc?oc=5)
 
 ---
 

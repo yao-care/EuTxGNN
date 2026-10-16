@@ -14,7 +14,7 @@ permalink: /news/naloxone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naloxone?">
-<strong>Naloxone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Naloxone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,9 +51,15 @@ This page combines the AI-predicted indications for Naloxone with the latest hea
 <p><a href="{{ '/drugs/naloxone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Tumore pancreas metastatico, Ema dà via libera a daraxonrasib, farmaco che raddoppia sopravvivenza](https://news.google.com/rss/articles/CBMiigJBVV95cUxPMV92aFdaN21tdEVVclZraHdueEZ3Y3JzLTdNNk13Mm5hOUZPWU0wbUpWS0JUUWZZTnpGcGZjcEF1SEFMd2JIRUU0MWgzTllOamFabTB5VEMyREM4MXFTc3o5WHFNRkUwbFJueHp1QmNKUnhHU3BIMUIzSWlCYkxQcTh1VFZuTzhiMjY3Z0V3WlZ1T1ozT2VZVVdBb3NCa1BmRF9pQm8xa0dScEx6eXJNWnZWT0diM1htbkdDbkVDM2JFQ19fNmJoMnZPb3FtMHE1aWtDUkwwMU5ZeWMwcERIbUo3VmZacFZ6WDRQYXNYWlp1SXpVMUxvX1JKdF9HY3RBQVV2RWxFMExOUdIBjwJBVV95cUxPU2hLeTd1c1VXY2JuX0RvcmVWR3daOElmZlNuanV5Wm9XdEM0ZXc1VnNTRUJyWXhyS3dKc0p2QzZiVFFUcmRhSmdSUnRwZnNFTHJaX09kU0Y5TE13S1JuV2ZnOC1xRmVvZk9JUW5YZ2N3Z1ppckNlcG1WYWRYNXRUY1hmbS1pb3RrNGE5Vmk3N0FwS0Y5TkFjWW4tVDNhdnlpVnF6OFJXWHU1OWRWWGN1UXZTVm5PZFcyRERmUlNMQ0s2TUJ1eThTVFZzUnNLZzZDemQzaTJ3emZXQjlaU2VoN09QRWVHNzZrZHJMLTYtTWFxNU1WRHVxOGRjS0hycHZCVlpQcFItUjllTndHZ09n?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [RaiNews](https://news.google.com/rss/articles/CBMiigJBVV95cUxPMV92aFdaN21tdEVVclZraHdueEZ3Y3JzLTdNNk13Mm5hOUZPWU0wbUpWS0JUUWZZTnpGcGZjcEF1SEFMd2JIRUU0MWgzTllOamFabTB5VEMyREM4MXFTc3o5WHFNRkUwbFJueHp1QmNKUnhHU3BIMUIzSWlCYkxQcTh1VFZuTzhiMjY3Z0V3WlZ1T1ozT2VZVVdBb3NCa1BmRF9pQm8xa0dScEx6eXJNWnZWT0diM1htbkdDbkVDM2JFQ19fNmJoMnZPb3FtMHE1aWtDUkwwMU5ZeWMwcERIbUo3VmZacFZ6WDRQYXNYWlp1SXpVMUxvX1JKdF9HY3RBQVV2RWxFMExOUdIBjwJBVV95cUxPU2hLeTd1c1VXY2JuX0RvcmVWR3daOElmZlNuanV5Wm9XdEM0ZXc1VnNTRUJyWXhyS3dKc0p2QzZiVFFUcmRhSmdSUnRwZnNFTHJaX09kU0Y5TE13S1JuV2ZnOC1xRmVvZk9JUW5YZ2N3Z1ppckNlcG1WYWRYNXRUY1hmbS1pb3RrNGE5Vmk3N0FwS0Y5TkFjWW4tVDNhdnlpVnF6OFJXWHU1OWRWWGN1UXZTVm5PZFcyRERmUlNMQ0s2TUJ1eThTVFZzUnNLZzZDemQzaTJ3emZXQjlaU2VoN09QRWVHNzZrZHJMLTYtTWFxNU1WRHVxOGRjS0hycHZCVlpQcFItUjllTndHZ09n?oc=5)
+
+---
 
 
 <div class="disclaimer">

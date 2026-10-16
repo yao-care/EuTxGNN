@@ -41,11 +41,11 @@ This page brings together the latest health news about “psoriasis” and lists
 
 ## Related News (2)
 
-### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
 
 2026-10-16
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
 
 ---
 

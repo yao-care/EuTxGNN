@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 5 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# obesità (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesità (obesity)?">
+<strong>obesità (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesità” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (7)
 
-### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+### [Sbraccia, 'comitato Ema approva terapie orali'](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNJaUV6QmJyeUZ6UTlOaW05YmNzVFpkRURfVkxOUlJRRWdOc0VmN2RyWFZ6R2tFYWx4NG1WX0dqY1NqVi04U1dZOGJyd2xxSzh1b1BZUHB3cV9tcFhvOEZFZ1lVMGpEaFFCUmp0dmRDb0lidnY0bnEybGNfQWd1SzIyWm04NnMya3VCUEdweU5jaUNPdmM5b3hzSlUzaTVGWldLdXdlZnZLY0tFT2lPLTQySnNiX0dsWXFUY3ZqQ1ZEUi1xUjBUTXBaYUp4VnFpRzJZ?oc=5)
 
 2026-10-16
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+Source: [ANSA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNJaUV6QmJyeUZ6UTlOaW05YmNzVFpkRURfVkxOUlJRRWdOc0VmN2RyWFZ6R2tFYWx4NG1WX0dqY1NqVi04U1dZOGJyd2xxSzh1b1BZUHB3cV9tcFhvOEZFZ1lVMGpEaFFCUmp0dmRDb0lidnY0bnEybGNfQWd1SzIyWm04NnMya3VCUEdweU5jaUNPdmM5b3hzSlUzaTVGWldLdXdlZnZLY0tFT2lPLTQySnNiX0dsWXFUY3ZqQ1ZEUi1xUjBUTXBaYUp4VnFpRzJZ?oc=5)
+
+---
+
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
+
+2026-10-16
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
+
+---
+
+### [Tumore pancreas metastatico, Ema dà via libera a daraxonrasib, farmaco che raddoppia sopravvivenza](https://news.google.com/rss/articles/CBMiigJBVV95cUxPMV92aFdaN21tdEVVclZraHdueEZ3Y3JzLTdNNk13Mm5hOUZPWU0wbUpWS0JUUWZZTnpGcGZjcEF1SEFMd2JIRUU0MWgzTllOamFabTB5VEMyREM4MXFTc3o5WHFNRkUwbFJueHp1QmNKUnhHU3BIMUIzSWlCYkxQcTh1VFZuTzhiMjY3Z0V3WlZ1T1ozT2VZVVdBb3NCa1BmRF9pQm8xa0dScEx6eXJNWnZWT0diM1htbkdDbkVDM2JFQ19fNmJoMnZPb3FtMHE1aWtDUkwwMU5ZeWMwcERIbUo3VmZacFZ6WDRQYXNYWlp1SXpVMUxvX1JKdF9HY3RBQVV2RWxFMExOUdIBjwJBVV95cUxPU2hLeTd1c1VXY2JuX0RvcmVWR3daOElmZlNuanV5Wm9XdEM0ZXc1VnNTRUJyWXhyS3dKc0p2QzZiVFFUcmRhSmdSUnRwZnNFTHJaX09kU0Y5TE13S1JuV2ZnOC1xRmVvZk9JUW5YZ2N3Z1ppckNlcG1WYWRYNXRUY1hmbS1pb3RrNGE5Vmk3N0FwS0Y5TkFjWW4tVDNhdnlpVnF6OFJXWHU1OWRWWGN1UXZTVm5PZFcyRERmUlNMQ0s2TUJ1eThTVFZzUnNLZzZDemQzaTJ3emZXQjlaU2VoN09QRWVHNzZrZHJMLTYtTWFxNU1WRHVxOGRjS0hycHZCVlpQcFItUjllTndHZ09n?oc=5)
+
+2026-10-16
+
+Source: [RaiNews](https://news.google.com/rss/articles/CBMiigJBVV95cUxPMV92aFdaN21tdEVVclZraHdueEZ3Y3JzLTdNNk13Mm5hOUZPWU0wbUpWS0JUUWZZTnpGcGZjcEF1SEFMd2JIRUU0MWgzTllOamFabTB5VEMyREM4MXFTc3o5WHFNRkUwbFJueHp1QmNKUnhHU3BIMUIzSWlCYkxQcTh1VFZuTzhiMjY3Z0V3WlZ1T1ozT2VZVVdBb3NCa1BmRF9pQm8xa0dScEx6eXJNWnZWT0diM1htbkdDbkVDM2JFQ19fNmJoMnZPb3FtMHE1aWtDUkwwMU5ZeWMwcERIbUo3VmZacFZ6WDRQYXNYWlp1SXpVMUxvX1JKdF9HY3RBQVV2RWxFMExOUdIBjwJBVV95cUxPU2hLeTd1c1VXY2JuX0RvcmVWR3daOElmZlNuanV5Wm9XdEM0ZXc1VnNTRUJyWXhyS3dKc0p2QzZiVFFUcmRhSmdSUnRwZnNFTHJaX09kU0Y5TE13S1JuV2ZnOC1xRmVvZk9JUW5YZ2N3Z1ppckNlcG1WYWRYNXRUY1hmbS1pb3RrNGE5Vmk3N0FwS0Y5TkFjWW4tVDNhdnlpVnF6OFJXWHU1OWRWWGN1UXZTVm5PZFcyRERmUlNMQ0s2TUJ1eThTVFZzUnNLZzZDemQzaTJ3emZXQjlaU2VoN09QRWVHNzZrZHJMLTYtTWFxNU1WRHVxOGRjS0hycHZCVlpQcFItUjllTndHZ09n?oc=5)
 
 ---
 
@@ -62,19 +78,19 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM
 
 ---
 
-### [Un estudio defiende que el índice de masa corporal no explica "la gravedad" de la obesidad](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
+### [Pandémies, IA, guerre nucléaire… Ces 17 dangers qui nous menacent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWk5NDZzWVVKSm9qTE1ETmlMWVMtdk9iUzFaenY1S0dtcWxBcGRRazQ4cWJ5YUYwS1dYd3A0VmtNajVuUGszeWpyU0RWeEluQVVKZ213bjdxek5pWGR0VDlObV90OUhIRGJBa1ctS1Frc1NZajZpXzJmVmY4Y05CcTFuQlpqNWd3UGRGQWMyTERtQlRLTk05Q2lHWU9tVlgtUTZ2U1NSa3E4MFFYbFZydg?oc=5)
 
 2026-10-15
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY1l6T2JuSkNGY0ItNnBQejBvckt5dHVZN3JNYlBGck1GMFVUMHRTMERiV05lN1J0QmVlZF9mV0IyQmZpNWZuamNSSVhnNXU3eFoyUUxsaVlZM004c09Gcy1uaGJiLWItSFNibVdENHExTkxiSUR2ajFiNDFZdDc4MEhxZnZvTWR5TXU3UUNDN1ZsRjlab3JVTmU4c1RLS1pvZW9pT1hBb3gzTEVYcVlQUjJtcGpmRkVkYkI3R2R1blotU09UbUQ2MmEzcF9wRHVGUVFBZm0tQQ?oc=5)
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWk5NDZzWVVKSm9qTE1ETmlMWVMtdk9iUzFaenY1S0dtcWxBcGRRazQ4cWJ5YUYwS1dYd3A0VmtNajVuUGszeWpyU0RWeEluQVVKZ213bjdxek5pWGR0VDlObV90OUhIRGJBa1ctS1Frc1NZajZpXzJmVmY4Y05CcTFuQlpqNWd3UGRGQWMyTERtQlRLTk05Q2lHWU9tVlgtUTZ2U1NSa3E4MFFYbFZydg?oc=5)
 
 ---
 
-### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
+### [Mayotte : des stylos injectables contrefaits saisis par la douane](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
 
-2026-10-13
+2026-10-15
 
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
+Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
 
 ---
 

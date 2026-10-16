@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,37 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
-### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span>
+
+Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+---
+
+### [Sbraccia, 'comitato Ema approva terapie orali'](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNJaUV6QmJyeUZ6UTlOaW05YmNzVFpkRURfVkxOUlJRRWdOc0VmN2RyWFZ6R2tFYWx4NG1WX0dqY1NqVi04U1dZOGJyd2xxSzh1b1BZUHB3cV9tcFhvOEZFZ1lVMGpEaFFCUmp0dmRDb0lidnY0bnEybGNfQWd1SzIyWm04NnMya3VCUEdweU5jaUNPdmM5b3hzSlUzaTVGWldLdXdlZnZLY0tFT2lPLTQySnNiX0dsWXFUY3ZqQ1ZEUi1xUjBUTXBaYUp4VnFpRzJZ?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [ANSA](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHNJaUV6QmJyeUZ6UTlOaW05YmNzVFpkRURfVkxOUlJRRWdOc0VmN2RyWFZ6R2tFYWx4NG1WX0dqY1NqVi04U1dZOGJyd2xxSzh1b1BZUHB3cV9tcFhvOEZFZ1lVMGpEaFFCUmp0dmRDb0lidnY0bnEybGNfQWd1SzIyWm04NnMya3VCUEdweU5jaUNPdmM5b3hzSlUzaTVGWldLdXdlZnZLY0tFT2lPLTQySnNiX0dsWXFUY3ZqQ1ZEUi1xUjBUTXBaYUp4VnFpRzJZ?oc=5)
+
+---
+
+### [PANORAMA SANITARIO: Los dispositivos de monitorización de glucosa para la diabetes tipo 2 benefician incluso a los pacientes sin insulina - MarketScreener España](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb09LWWZnUUY3OTd1ZThBMlppWkhLUVRMN2RuZDNlOFFXU2J2SXBiUzBZRENiV1NmdGJ5cEgyNGk2SXh5cnJsdWZPeHpfbkVBZ2hVa2c5VFktY0I5T3FvdGw3WnZoUFJELXRScUR1RFAweEItOU1Cb0tBdmtwNzVSdjJlTExzSWNYSUFwdWZsTXhRX21xTmRzN0ZUYThJVVZtX0F4cm1CMmlKd0Q0LVVMbjdiM2xnRDVVcnNiY19CTVJkYlpzQi1lejNwOFY1a0pyNWxTQkVfM3VVZkpJelk1eThDUTZLNXNPZTVr?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [MarketScreener España](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQb09LWWZnUUY3OTd1ZThBMlppWkhLUVRMN2RuZDNlOFFXU2J2SXBiUzBZRENiV1NmdGJ5cEgyNGk2SXh5cnJsdWZPeHpfbkVBZ2hVa2c5VFktY0I5T3FvdGw3WnZoUFJELXRScUR1RFAweEItOU1Cb0tBdmtwNzVSdjJlTExzSWNYSUFwdWZsTXhRX21xTmRzN0ZUYThJVVZtX0F4cm1CMmlKd0Q0LVVMbjdiM2xnRDVVcnNiY19CTVJkYlpzQi1lejNwOFY1a0pyNWxTQkVfM3VVZkpJelk1eThDUTZLNXNPZTVr?oc=5)
+
+---
+
+### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
 
 2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0JhenJrSlNseW1PbHNwRWhRRlVuQ01KRjdrLTAtMERfZmx2dW5xNjJfVlZuTUhZTHI3clJGV0hPeEJXa1phNWVTU0NwTFlkeWFLVXR1WERTQmgyaVkxM0lzWUd5dFBpS1VOaWdILUJvSUtPUE01d1RpdEZmdVRZNm5rVkRtaE5DX0pBZ1o3NzdmTmxTTG5XNHNTZ3pna0ItcHdfOWlZal9qLWpfdG5kWXM3LThab3QwRUx4RTF5UnNJUQ?oc=5)
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
 
 ---
 
@@ -69,19 +93,19 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM
 
 ---
 
-### [Uno de cada tres pacientes con diabetes tipo 2 no alcanza una adherencia adecuada a la insulina basal](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
+### [Demenzrisiko: Studie zeigt Wirkung von Blutdruck, Diabetes und Rauchen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
 
-Source: [iSanidad](https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTVEZll1LVA2NlptTTZmaEpVaEllbEZ6YWcwcjlIZVpiSzR4VFV5akVLMW55N0NHUEN2UXdhdUVtQXhudl9YckhSWkhHM2RmdTJRczVrNkhQVlE3NjBDbUpYSWw1d3p5amlFMjNMUVVaaW5WRUFKUHA0bzhUWEJsODJhWGZMNGRNZFhYZ1NvRk9zcWl5dVMyZXJJMHNSV09NX0RiTWh2bW1fTHhiSVByTXFKd2EwMENrOTNIUnE3SXlqSHNRRWpldmJn?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
 
 ---
 
-### [La menopausia como ventana de oportunidad: la FJD urge a prevenir el riesgo cardiovascular y óseo en la transición hormonal](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+### [Mayotte : des stylos injectables contrefaits saisis par la douane](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span>
+2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcndueG45SjhITmF4dS1MbHZTODRKLXEwYlRKV1haZ2ZBZ3NKLWhtQWg4Tm16QUNEVHN1QXhaakFGZ2pjTnNtOERiS3ZfRk1QcFV4LVVUUGNycnVRVkg1cWtkdU8xaVhuLVFnOEVFaDFoWTFabTBnQXljWFVJUEtfTGh2WFVGTGpqUV9OY2wzTlhIU3BPTy1WZ1hiUVcySU1JY05pdGtjbXlvUWF6bzVaTElvN1NQZ0R3WWhBRTJCMWE4eEZNMXkzeTRlR091dERCaHBTa3hJa05LalVOc3hLNlpLRjJYQTl0TjF0TnFDYk16QXM?oc=5)
+Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
 
 ---
 
@@ -114,14 +138,6 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQ
 2026-10-13 <span class="news-indication-tag">diabetes</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
-
----
-
-### [Cholesterin: Diese Senker haben einen unerwarteten Nebeneffekt auf Demenz](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX043eE4zaVRXTmV0SjJpOC1ERjFSY1hqWWZwX0ZqYTExQzJta1hTMENvMWNpa0ZEclZCaWZpNzRrMUZlOEpJWmNvUUo5eE1xQVBuV0o5SWVlR0dGcEZkemFpWXNKaEVaTkwtcHQ3MlBqLU9ER3pJTWgzNEpuYW1oTUhTRklMSlN2eGRaM2d0SEZYNGZhN0kzUGxsMjZHcUM5M3ktSzA1QkttSV9VNEdQTDg2bVZKMUFCdFBteDUyUnRLRFVhajJtNEllcWIyOWdCSV9fTzdXaw?oc=5)
 
 ---
 

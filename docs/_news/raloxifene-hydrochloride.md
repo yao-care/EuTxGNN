@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -50,7 +50,7 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <p><a href="{{ '/drugs/raloxifene-hydrochloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
 
@@ -65,14 +65,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRr
 2026-10-16 <span class="news-indication-tag">ictus</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
-
----
-
-### [José Abellán, doctor: “El estrés crónico es un factor de riesgo cardiovascular como el colesterol, la tensión - Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">ictus</span>
-
-Source: [Diario AS](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUN5WlFvaEx1SmZfdm9PbGJza1g2d2pBU1owYjUyakgwMVl2eDNNN2FCMDNqQ0RMYVNEWjRtTjhVeEFWbTJyclZtNGdSWnBUQWhuYlFWd2N3QkxyNE9GOGFRMVlRM1JwbjEtenQ3TURyWDVSMGNfaFV1UFZrMnNpS2pnTmxKUXg5bTRnY2xLWWo0RVBEeDUtRmgyR1BfVXYycXpjbHRaVGpucHpxV2FBTjZVV29BMVp0SnBlRGFBc0N2bm5aRWZaRzU5eEotb20wTk9EdkNha3BKem9ZV25vU0V0YzJQLWNLeEt3Z2hHd3ljU1XSAYcCQVVfeXFMTzN1RC1ZRGgzTGJhbFg5Y2J5YkE3d29kYS05Rms2UkxwSkFxOXBPVkJGdDhYLWdJX2ZtN2ctbDdpTnNzRzBlOUlodnZQYTUyZUV4MjhPWmhRc3phekt3ajQzM3BnZld6X0xHZTZVT1c5TjFKdTJsTWtsenloaC11cFdianFtdHNudjRTeTFSand4cURDMmlrdW9PYUw1UFVpR3hCazdfY0pOaUFUV00zYUZWS2dXZnRyUVp6SVhQZjczWnY1cTVHNFBMVWpFQ2tWS0o1WjNiaUJRcXhGRkRfMUdyR0pTNHBwM2xobmFMc1dKVnRSVHNuenhmd0plZEd5S3pncUF0TjQ?oc=5)
 
 ---
 

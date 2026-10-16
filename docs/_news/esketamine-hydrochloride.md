@@ -52,6 +52,14 @@ This page combines the AI-predicted indications for Esketamine Hydrochloride wit
 
 ## Related News (3)
 
+### [Ni la vue ni l'ouïe : ce sens caché que la science relie à l'anxiété et à la dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
+
+2026-10-16 <span class="news-indication-tag">dépression</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
+
+---
+
 ### [GLP-1-Medikamente könnten Zusatznutzen bei Schizophrenie haben – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV196bFVadVhtNzhyZ3dyWGtOdUNBemsyd2FrQkpuVjhpODMyLVAzc2VXdnRIQzlnSVZkamRIUVdpbmhjeGFjeEZMNnVXTXlBYmM0OVdiMFlfZ19seER0c2lHMmlGS0NYZHBwZld5OXN2VnhUY0FIek0zQTJjcHZYSDI2a0NGYWNFcWp0bVpxSjA0Ukp3SEJqaUhVYkk5X3ZIOFlqVlBtRjZMNFcwOWhuOEIycHpHdm5IN0tHN2dfVWx3SzlwZGRXcmJtZw?oc=5)
 
 2026-10-16 <span class="news-indication-tag">depression</span>
@@ -65,14 +73,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV9
 2026-10-16 <span class="news-indication-tag">depresión</span>
 
 Source: [Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHZ3VUdia1dKcHlPSXRaaldvY2FPT3RuaXhvVzZQclRIbTgtQUsxcndrZVF1R29sZGM0YUJKUnBobTRLT3VNYkdfdnNvLXBrRVhrdndhc0dLZzVOSHVXN2pha0FVRVdQUm5qd2dmUVQza2paLWRhZU42OWxBQXg5STlLRDZxVnlyeHVSUy1IRjlVZGpXbkp2dFN2UmxGZ0N4djNoSi1pTHlsS0ZIa0xJRm5LcUVidG9rU2ZaTUN1b05nRmZjUUpOM3dJNERHOHVEcGlBektDOHp3aDRkZTN5RGhWUjZFb0FReE8zSQ?oc=5)
-
----
-
-### [Alzheimer, il rischio corre lungo l'asse intestino-cervello: ecco cosa cela il microbiota - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUVLR1pYSHoxZmJoUHNxenhZb29BaTNEb01VMUxQbGlFdHJjMWZKM0piaHVMRER1TDd5emJCaEp4ZWNOVjVaLWQ4Vmc5V1EtbEVtMTNrVDVBT0M2OG9QWHdwRFJXWkdSWHFpZXFlY09HQzkweTZGZjhqdTdZWjlfUWlweVgyX01CVXlHQV91NzlSejAzaEJxNmRyOFU3WVlVOE1aa2tlYzNJMWIwdUxNLWM5YVFUQkE?oc=5)
-
-2026-10-12 <span class="news-indication-tag">depression</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUVLR1pYSHoxZmJoUHNxenhZb29BaTNEb01VMUxQbGlFdHJjMWZKM0piaHVMRER1TDd5emJCaEp4ZWNOVjVaLWQ4Vmc5V1EtbEVtMTNrVDVBT0M2OG9QWHdwRFJXWkdSWHFpZXFlY09HQzkweTZGZjhqdTdZWjlfUWlweVgyX01CVXlHQV91NzlSejAzaEJxNmRyOFU3WVlVOE1aa2tlYzNJMWIwdUxNLWM5YVFUQkE?oc=5)
 
 ---
 
