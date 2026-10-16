@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amikacin Sulfate
 parent: AI Predictions (L5)

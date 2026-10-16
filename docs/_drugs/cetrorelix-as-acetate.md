@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cetrorelix (As Acetate)
 description: "Cetrorelix (As Acetate) drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amifampridine Phosphate
 parent: AI Predictions (L5)

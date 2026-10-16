@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Patisiran Sodium
 description: "Patisiran Sodium drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

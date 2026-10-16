@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Eliglustat (Tartrate)
 description: "Eliglustat (Tartrate) drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

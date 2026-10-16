@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ivabradine Hydrochloride
 parent: AI Predictions (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Sitagliptin Hydrochloride
 description: "Sitagliptin Hydrochloride drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alendronic Acid As Sodium Trihydrate
 parent: AI Predictions (L5)

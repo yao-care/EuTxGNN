@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amlodipine As Amlodipine Besilate
 parent: AI Predictions (L5)

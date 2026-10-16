@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aclidinium Bromide
 parent: AI Predictions (L5)

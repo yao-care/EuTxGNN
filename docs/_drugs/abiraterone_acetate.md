@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abiraterone Acetate
 parent: AI Predictions (L5)

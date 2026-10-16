@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alectinib Hydrochloride
 parent: AI Predictions (L5)

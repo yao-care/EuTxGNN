@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Diroximel Fumarate (Biib098)
 description: "Diroximel Fumarate (Biib098) drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anagrelide Hydrochloride
 parent: AI Predictions (L5)

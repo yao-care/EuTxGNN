@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ixazomib Citrate
 parent: AI Predictions (L5)

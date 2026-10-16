@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Dacomitinib Monohydrate
 description: "Dacomitinib Monohydrate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."

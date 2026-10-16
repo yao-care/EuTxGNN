@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Filgotinib Maleate
 description: "Filgotinib Maleate drug repurposing predictions from TxGNN. Evidence level L5 with 50 predicted indications."
