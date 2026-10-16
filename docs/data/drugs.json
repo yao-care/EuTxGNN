@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "total_count": 744,
+  "total_count": 667,
   "source": "EuTxGNN",
   "drugs": [
     {
@@ -12,16 +12,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/abacavir/"
-    },
-    {
-      "slug": "abacavir-as-sulfate",
-      "name": "Abacavir As Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abacavir-as-sulfate/"
     },
     {
       "slug": "abaloparatide",
@@ -64,16 +54,6 @@
       "url": "/drugs/abiraterone/"
     },
     {
-      "slug": "abiraterone-acetate",
-      "name": "Abiraterone Acetate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/abiraterone-acetate/"
-    },
-    {
       "slug": "acalabrutinib",
       "name": "Acalabrutinib",
       "evidence_level": "L2",
@@ -82,16 +62,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/acalabrutinib/"
-    },
-    {
-      "slug": "acalabrutinib-maleate",
-      "name": "Acalabrutinib Maleate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/acalabrutinib-maleate/"
     },
     {
       "slug": "acetylsalicylic-acid",
@@ -112,16 +82,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/aclidinium/"
-    },
-    {
-      "slug": "aclidinium-bromide",
-      "name": "Aclidinium Bromide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/aclidinium-bromide/"
     },
     {
       "slug": "adalimumab",
@@ -214,16 +174,6 @@
       "url": "/drugs/alectinib/"
     },
     {
-      "slug": "alectinib-hydrochloride",
-      "name": "Alectinib Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alectinib-hydrochloride/"
-    },
-    {
       "slug": "alemtuzumab",
       "name": "Alemtuzumab",
       "evidence_level": "L5",
@@ -242,16 +192,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alendronic-acid/"
-    },
-    {
-      "slug": "alendronic-acid-as-sodium-trihydrate",
-      "name": "Alendronic Acid As Sodium Trihydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alendronic-acid-as-sodium-trihydrate/"
     },
     {
       "slug": "alglucosidase-alfa",
@@ -324,16 +264,6 @@
       "url": "/drugs/amifampridine/"
     },
     {
-      "slug": "amifampridine-phosphate",
-      "name": "Amifampridine Phosphate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amifampridine-phosphate/"
-    },
-    {
       "slug": "amikacin",
       "name": "Amikacin",
       "evidence_level": "L4",
@@ -342,16 +272,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/amikacin/"
-    },
-    {
-      "slug": "amikacin-sulfate",
-      "name": "Amikacin Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amikacin-sulfate/"
     },
     {
       "slug": "amlodipine",
@@ -364,16 +284,6 @@
       "url": "/drugs/amlodipine/"
     },
     {
-      "slug": "amlodipine-as-amlodipine-besilate",
-      "name": "Amlodipine As Amlodipine Besilate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipine-as-amlodipine-besilate/"
-    },
-    {
       "slug": "anagrelide",
       "name": "Anagrelide",
       "evidence_level": "L4",
@@ -382,16 +292,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/anagrelide/"
-    },
-    {
-      "slug": "anagrelide-hydrochloride",
-      "name": "Anagrelide Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/anagrelide-hydrochloride/"
     },
     {
       "slug": "anakinra",
@@ -422,16 +322,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/angiotensin-ii/"
-    },
-    {
-      "slug": "angiotensin-ii-acetate",
-      "name": "Angiotensin Ii Acetate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Giapreza is indicated for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and application of...",
-      "predicted_indication": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
-      "txgnn_score": "92.47%",
-      "url": "/drugs/angiotensin-ii-acetate/"
     },
     {
       "slug": "anidulafungin",
@@ -544,16 +434,6 @@
       "url": "/drugs/asenapine/"
     },
     {
-      "slug": "asenapine-maleate",
-      "name": "Asenapine Maleate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Sycrest is indicated for the treatment of moderate to severe manic episodes associated with bipolar I disorder in adults.",
-      "predicted_indication": "manic bipolar affective disorder",
-      "txgnn_score": "99.99%",
-      "url": "/drugs/asenapine-maleate/"
-    },
-    {
       "slug": "asfotase-alfa",
       "name": "Asfotase Alfa",
       "evidence_level": "L5",
@@ -614,16 +494,6 @@
       "url": "/drugs/atosiban/"
     },
     {
-      "slug": "atosiban-as-acetate",
-      "name": "Atosiban (As Acetate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Tractotile is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds duration at a rate of ? 4 per 30 minutes; a cervical...",
-      "predicted_indication": "primary hereditary glaucoma",
-      "txgnn_score": "99.92%",
-      "url": "/drugs/atosiban-as-acetate/"
-    },
-    {
       "slug": "atropine",
       "name": "Atropine",
       "evidence_level": "L4",
@@ -632,16 +502,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/atropine/"
-    },
-    {
-      "slug": "atropine-sulfate",
-      "name": "Atropine Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a progression rate of 0.5 D or more per year and a...",
-      "predicted_indication": "migraine disorder",
-      "txgnn_score": "99.56%",
-      "url": "/drugs/atropine-sulfate/"
     },
     {
       "slug": "avanafil",
@@ -672,16 +532,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/avatrombopag/"
-    },
-    {
-      "slug": "avatrombopag-maleate",
-      "name": "Avatrombopag Maleate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Doptelet is indicated for the treatment of severe thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo an invasive procedure. Doptelet is indicated for the...",
-      "predicted_indication": "marcothrombocytopenia with mitral valve insufficiency",
-      "txgnn_score": "100.00%",
-      "url": "/drugs/avatrombopag-maleate/"
     },
     {
       "slug": "avelumab",
@@ -812,16 +662,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bedaquiline/"
-    },
-    {
-      "slug": "bedaquiline-fumarate",
-      "name": "Bedaquiline Fumarate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "",
-      "predicted_indication": "multidrug-resistant tuberculosis",
-      "txgnn_score": "99.98%",
-      "url": "/drugs/bedaquiline-fumarate/"
     },
     {
       "slug": "belatacept",
@@ -974,16 +814,6 @@
       "url": "/drugs/bosentan/"
     },
     {
-      "slug": "bosentan-as-monohydrate",
-      "name": "Bosentan (As Monohydrate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with World Health Organization (WHO) functional class III. Efficacy has been shown in: ...",
-      "predicted_indication": "scleroderma (disease)",
-      "txgnn_score": "99.96%",
-      "url": "/drugs/bosentan-as-monohydrate/"
-    },
-    {
       "slug": "bosutinib",
       "name": "Bosutinib",
       "evidence_level": "L1",
@@ -992,16 +822,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/bosutinib/"
-    },
-    {
-      "slug": "bosutinib-as-monohydrate",
-      "name": "Bosutinib (As Monohydrate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Bosulif is indicated for the treatment of:• Adult and paediatric patients aged 6 years and older with newly-diagnosed (ND) chronic phase (CP) Philadelphia chromosome-positive chronic myelogenous...",
-      "predicted_indication": "myeloid leukemia",
-      "txgnn_score": "98.75%",
-      "url": "/drugs/bosutinib-as-monohydrate/"
     },
     {
       "slug": "botulinum-toxin-type-a",
@@ -1324,16 +1144,6 @@
       "url": "/drugs/caspofungin/"
     },
     {
-      "slug": "caspofungin-as-acetate",
-      "name": "Caspofungin (As Acetate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid...",
-      "predicted_indication": "gastrin secretion abnormality",
-      "txgnn_score": "99.44%",
-      "url": "/drugs/caspofungin-as-acetate/"
-    },
-    {
       "slug": "catridecacog",
       "name": "Catridecacog",
       "evidence_level": "L5",
@@ -1434,16 +1244,6 @@
       "url": "/drugs/cetrorelix/"
     },
     {
-      "slug": "cetrorelix-as-acetate",
-      "name": "Cetrorelix (As Acetate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Prevention of premature ovulation in patients undergoing a controlled ovarian stimulation, followed by oocyte-pick-up and assisted-reproductive techniques. In clinical trials, Cetrotide was used with...",
-      "predicted_indication": "hypertrichosis (disease)",
-      "txgnn_score": "99.98%",
-      "url": "/drugs/cetrorelix-as-acetate/"
-    },
-    {
       "slug": "cetuximab",
       "name": "Cetuximab",
       "evidence_level": "L5",
@@ -1514,16 +1314,6 @@
       "url": "/drugs/cinacalcet/"
     },
     {
-      "slug": "cinacalcet-hydrochloride",
-      "name": "Cinacalcet Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Secondary hyperparathyroidism Adults Treatment of secondary hyperparathyroidism (HPT) in adult patients with end stage renal disease (ESRD) on maintenance dialysis therapy. Paediatric population...",
-      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
-      "txgnn_score": "98.48%",
-      "url": "/drugs/cinacalcet-hydrochloride/"
-    },
-    {
       "slug": "cladribine",
       "name": "Cladribine",
       "evidence_level": "L5",
@@ -1564,16 +1354,6 @@
       "url": "/drugs/clopidogrel/"
     },
     {
-      "slug": "clopidogrel-as-hydrochloride",
-      "name": "Clopidogrel (As Hydrochloride)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Secondary prevention of atherothrombotic events Clopidogrel is indicated in:  Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7...",
-      "predicted_indication": "migraine with brainstem aura",
-      "txgnn_score": "99.44%",
-      "url": "/drugs/clopidogrel-as-hydrochloride/"
-    },
-    {
       "slug": "cobicistat",
       "name": "Cobicistat",
       "evidence_level": "L5",
@@ -1604,16 +1384,6 @@
       "url": "/drugs/colesevelam/"
     },
     {
-      "slug": "colesevelam-as-hydrochloride",
-      "name": "Colesevelam (As Hydrochloride)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Cholestagel co-administered with a 3-hydroxy-3-methyl-glutaryl-coenzyme-A (HMG-CoA)-reductase inhibitor (statin) is indicated as adjunctive therapy to diet to provide an additive reduction in...",
-      "predicted_indication": "gout",
-      "txgnn_score": "93.37%",
-      "url": "/drugs/colesevelam-as-hydrochloride/"
-    },
-    {
       "slug": "colistimethate",
       "name": "Colistimethate",
       "evidence_level": "L5",
@@ -1622,16 +1392,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/colistimethate/"
-    },
-    {
-      "slug": "colistimethate-sodium",
-      "name": "Colistimethate Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Colobreathe is indicated for the management of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged six years and older. Consideration should be given...",
-      "predicted_indication": "osteoarthritis",
-      "txgnn_score": "97.78%",
-      "url": "/drugs/colistimethate-sodium/"
     },
     {
       "slug": "concizumab",
@@ -1704,16 +1464,6 @@
       "url": "/drugs/dacomitinib/"
     },
     {
-      "slug": "dacomitinib-monohydrate",
-      "name": "Dacomitinib Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Vizimpro, as monotherapy, is indicated for the first-line treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with epidermal growth factor receptor...",
-      "predicted_indication": "rheumatoid arthritis",
-      "txgnn_score": "97.79%",
-      "url": "/drugs/dacomitinib-monohydrate/"
-    },
-    {
       "slug": "dalbavancin",
       "name": "Dalbavancin",
       "evidence_level": "L5",
@@ -1722,16 +1472,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dalbavancin/"
-    },
-    {
-      "slug": "dalbavancin-hydrochloride",
-      "name": "Dalbavancin Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Xydalba is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients from birth (see sections 4.4 and 5.1).Consideration should be...",
-      "predicted_indication": "postinfectious vasculitis",
-      "txgnn_score": "99.76%",
-      "url": "/drugs/dalbavancin-hydrochloride/"
     },
     {
       "slug": "damoctocog-alfa-pegol",
@@ -1804,16 +1544,6 @@
       "url": "/drugs/darifenacin/"
     },
     {
-      "slug": "darifenacin-hydrobromide",
-      "name": "Darifenacin Hydrobromide",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with overactive bladder syndrome.",
-      "predicted_indication": "overactive bladder (disease)",
-      "txgnn_score": "99.79%",
-      "url": "/drugs/darifenacin-hydrobromide/"
-    },
-    {
       "slug": "darolutamide",
       "name": "Darolutamide",
       "evidence_level": "L5",
@@ -1842,16 +1572,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/dasatinib/"
-    },
-    {
-      "slug": "dasatinib-monohydrate",
-      "name": "Dasatinib Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Dasatinib Accord Healthcare is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase....",
-      "predicted_indication": "Ewing sarcoma",
-      "txgnn_score": "99.90%",
-      "url": "/drugs/dasatinib-monohydrate/"
     },
     {
       "slug": "daunorubicin",
@@ -1974,16 +1694,6 @@
       "url": "/drugs/dexmedetomidine/"
     },
     {
-      "slug": "dexmedetomidine-hydrochloride",
-      "name": "Dexmedetomidine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "For sedation of adult intensive care unit patients requiring a sedation level not deeper than arousal in response to verbal stimulation (corresponding to Richmond Agitation-Sedation Scale (RASS) 0 to...",
-      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
-      "txgnn_score": "99.60%",
-      "url": "/drugs/dexmedetomidine-hydrochloride/"
-    },
-    {
       "slug": "dexrazoxane",
       "name": "Dexrazoxane",
       "evidence_level": "L5",
@@ -2032,16 +1742,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/diroximel-fumarate/"
-    },
-    {
-      "slug": "diroximel-fumarate-biib098",
-      "name": "Diroximel Fumarate (Biib098)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Vumerity is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (see Section&nbsp;5.1 for important information on the populations for which efficacy has been...",
-      "predicted_indication": "diabetic cataract",
-      "txgnn_score": "100.00%",
-      "url": "/drugs/diroximel-fumarate-biib098/"
     },
     {
       "slug": "docetaxel",
@@ -2104,16 +1804,6 @@
       "url": "/drugs/doxorubicin/"
     },
     {
-      "slug": "doxorubicin-hydrochloride",
-      "name": "Doxorubicin Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Myocet liposomal, in combination with cyclophosphamide, is indicated for the first-line treatment of metastatic breast cancer in adult women.",
-      "predicted_indication": "Ewing sarcoma",
-      "txgnn_score": "99.90%",
-      "url": "/drugs/doxorubicin-hydrochloride/"
-    },
-    {
       "slug": "dronedarone",
       "name": "Dronedarone",
       "evidence_level": "L3",
@@ -2152,16 +1842,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/duloxetine/"
-    },
-    {
-      "slug": "duloxetine-hydrochloride",
-      "name": "Duloxetine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Yentreve is indicated for women for the treatment of moderate to severe stress urinary incontinence (SUI).",
-      "predicted_indication": "endogenous depression",
-      "txgnn_score": "99.94%",
-      "url": "/drugs/duloxetine-hydrochloride/"
     },
     {
       "slug": "dupilumab",
@@ -2294,16 +1974,6 @@
       "url": "/drugs/eliglustat/"
     },
     {
-      "slug": "eliglustat-tartrate",
-      "name": "Eliglustat (Tartrate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "AdultsCerdelga is indicated for the long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers (IMs) or extensive...",
-      "predicted_indication": "Gaucher disease",
-      "txgnn_score": "98.51%",
-      "url": "/drugs/eliglustat-tartrate/"
-    },
-    {
       "slug": "elotuzumab",
       "name": "Elotuzumab",
       "evidence_level": "L4",
@@ -2412,16 +2082,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/enoxaparin/"
-    },
-    {
-      "slug": "enoxaparin-sodium",
-      "name": "Enoxaparin Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Inhixa is indicated for adults for:  Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, general or oncological surgery. Prophylaxis of venous thromboembolism in...",
-      "predicted_indication": "purpura fulminans",
-      "txgnn_score": "99.81%",
-      "url": "/drugs/enoxaparin-sodium/"
     },
     {
       "slug": "entacapone",
@@ -2554,16 +2214,6 @@
       "url": "/drugs/ertapenem/"
     },
     {
-      "slug": "ertapenem-sodium",
-      "name": "Ertapenem Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment Ertapenem SUN is indicated in paediatric patients (3 months to 17 years of age) and in adults for the treatment of the following infections when caused by bacteria known or very likely to...",
-      "predicted_indication": "bacterial arthritis",
-      "txgnn_score": "99.72%",
-      "url": "/drugs/ertapenem-sodium/"
-    },
-    {
       "slug": "esketamine",
       "name": "Esketamine",
       "evidence_level": "L5",
@@ -2572,16 +2222,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/esketamine/"
-    },
-    {
-      "slug": "esketamine-hydrochloride",
-      "name": "Esketamine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different treatments with...",
-      "predicted_indication": "dysthymic disorder",
-      "txgnn_score": "99.75%",
-      "url": "/drugs/esketamine-hydrochloride/"
     },
     {
       "slug": "eslicarbazepine-acetate",
@@ -2632,16 +2272,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/etelcalcetide/"
-    },
-    {
-      "slug": "etelcalcetide-hydrochloride",
-      "name": "Etelcalcetide Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy.",
-      "predicted_indication": "hyperphosphatemia (disease)",
-      "txgnn_score": "99.42%",
-      "url": "/drugs/etelcalcetide-hydrochloride/"
     },
     {
       "slug": "etravirine",
@@ -2734,16 +2364,6 @@
       "url": "/drugs/fenfluramine/"
     },
     {
-      "slug": "fenfluramine-hydrochloride",
-      "name": "Fenfluramine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of seizures associated with Dravet syndrome as an add-on therapy to other antiepileptic medicines for patients 2 years of age and older. Fintepla is indicated for the treatment of seizures...",
-      "predicted_indication": "obesity disorder",
-      "txgnn_score": "99.96%",
-      "url": "/drugs/fenfluramine-hydrochloride/"
-    },
-    {
       "slug": "fenofibrate",
       "name": "Fenofibrate",
       "evidence_level": "L4",
@@ -2784,16 +2404,6 @@
       "url": "/drugs/fesoterodine/"
     },
     {
-      "slug": "fesoterodine-fumarate",
-      "name": "Fesoterodine Fumarate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.",
-      "predicted_indication": "overactive bladder (disease)",
-      "txgnn_score": "98.87%",
-      "url": "/drugs/fesoterodine-fumarate/"
-    },
-    {
       "slug": "fidaxomicin",
       "name": "Fidaxomicin",
       "evidence_level": "L5",
@@ -2812,16 +2422,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/filgotinib/"
-    },
-    {
-      "slug": "filgotinib-maleate",
-      "name": "Filgotinib Maleate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Rheumatoid arthritis Jyseleca is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or...",
-      "predicted_indication": "HER2 positive breast carcinoma",
-      "txgnn_score": "98.88%",
-      "url": "/drugs/filgotinib-maleate/"
     },
     {
       "slug": "filgrastim",
@@ -2914,16 +2514,6 @@
       "url": "/drugs/fondaparinux/"
     },
     {
-      "slug": "fondaparinux-sodium",
-      "name": "Fondaparinux Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "",
-      "predicted_indication": "pulmonary embolism (disease)",
-      "txgnn_score": "96.44%",
-      "url": "/drugs/fondaparinux-sodium/"
-    },
-    {
       "slug": "formoterol",
       "name": "Formoterol",
       "evidence_level": "L5",
@@ -2952,16 +2542,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fostamatinib/"
-    },
-    {
-      "slug": "fostamatinib-disodium",
-      "name": "Fostamatinib Disodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.",
-      "predicted_indication": "thrombocytopenia due to immune destruction",
-      "txgnn_score": "99.83%",
-      "url": "/drugs/fostamatinib-disodium/"
     },
     {
       "slug": "fremanezumab",
@@ -3054,16 +2634,6 @@
       "url": "/drugs/gilteritinib/"
     },
     {
-      "slug": "gilteritinib-fumarate",
-      "name": "Gilteritinib Fumarate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Xospata is indicated as monotherapy for the treatment of adult patients who have relapsed or refractory acute myeloid leukaemia (AML) with a FLT3 mutation.",
-      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
-      "txgnn_score": "99.45%",
-      "url": "/drugs/gilteritinib-fumarate/"
-    },
-    {
       "slug": "gimeracil",
       "name": "Gimeracil",
       "evidence_level": "L5",
@@ -3092,16 +2662,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/glasdegib/"
-    },
-    {
-      "slug": "glasdegib-maleate",
-      "name": "Glasdegib Maleate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Daurismo is indicated, in combination with low-dose cytarabine, for the treatment of newly diagnosed de novo or secondary acute myeloid leukaemia (AML) in adult patients who are not candidates for...",
-      "predicted_indication": "acute myeloid leukemia with t(8;21)(q22;q22) translocation",
-      "txgnn_score": "99.10%",
-      "url": "/drugs/glasdegib-maleate/"
     },
     {
       "slug": "glecaprevir",
@@ -3324,16 +2884,6 @@
       "url": "/drugs/icatibant/"
     },
     {
-      "slug": "icatibant-acetate",
-      "name": "Icatibant Acetate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Icatibant Accord is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults, adolescents and children aged 2 years and older, with C1 esterase inhibitor...",
-      "predicted_indication": "C1 inhibitor deficiency",
-      "txgnn_score": "99.99%",
-      "url": "/drugs/icatibant-acetate/"
-    },
-    {
       "slug": "icosapent-ethyl",
       "name": "Icosapent Ethyl",
       "evidence_level": "L1",
@@ -3462,16 +3012,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/indacaterol/"
-    },
-    {
-      "slug": "indacaterol-maleate",
-      "name": "Indacaterol Maleate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Ulunar Breezhaler is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).",
-      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
-      "txgnn_score": "99.54%",
-      "url": "/drugs/indacaterol-maleate/"
     },
     {
       "slug": "inebilizumab",
@@ -3624,16 +3164,6 @@
       "url": "/drugs/irbesartan/"
     },
     {
-      "slug": "irbesartan-hydrochloride",
-      "name": "Irbesartan Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/irbesartan-hydrochloride/"
-    },
-    {
       "slug": "isatuximab",
       "name": "Isatuximab",
       "evidence_level": "L4",
@@ -3664,16 +3194,6 @@
       "url": "/drugs/ivabradine/"
     },
     {
-      "slug": "ivabradine-hydrochloride",
-      "name": "Ivabradine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ivabradine-hydrochloride/"
-    },
-    {
       "slug": "ivacaftor",
       "name": "Ivacaftor",
       "evidence_level": "L5",
@@ -3702,16 +3222,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ixazomib/"
-    },
-    {
-      "slug": "ixazomib-citrate",
-      "name": "Ixazomib Citrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ixazomib-citrate/"
     },
     {
       "slug": "ixekizumab",
@@ -3814,16 +3324,6 @@
       "url": "/drugs/larotrectinib/"
     },
     {
-      "slug": "larotrectinib-sulfate",
-      "name": "Larotrectinib Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion,  who have a disease...",
-      "predicted_indication": "multiple endocrine neoplasia",
-      "txgnn_score": "99.24%",
-      "url": "/drugs/larotrectinib-sulfate/"
-    },
-    {
       "slug": "lasmiditan",
       "name": "Lasmiditan",
       "evidence_level": "L4",
@@ -3832,16 +3332,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lasmiditan/"
-    },
-    {
-      "slug": "lasmiditan-succinate",
-      "name": "Lasmiditan Succinate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "RAYVOW is indicated for the acute treatment of the headache phase of migraine attacks, with or without aura in adults.",
-      "predicted_indication": "migraine disorder",
-      "txgnn_score": "99.94%",
-      "url": "/drugs/lasmiditan-succinate/"
     },
     {
       "slug": "latanoprost",
@@ -3892,16 +3382,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/lefamulin/"
-    },
-    {
-      "slug": "lefamulin-acetate",
-      "name": "Lefamulin Acetate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Xenleta is indicated for the treatment of community-acquired pneumonia (CAP) in adults when it is considered inappropriate to use antibacterial agents that are commonly recommended for the initial...",
-      "predicted_indication": "leishmaniasis, diffuse cutaneous",
-      "txgnn_score": "99.24%",
-      "url": "/drugs/lefamulin-acetate/"
     },
     {
       "slug": "leflunomide",
@@ -4154,16 +3634,6 @@
       "url": "/drugs/macimorelin/"
     },
     {
-      "slug": "macimorelin-acetate",
-      "name": "Macimorelin Acetate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "This medicinal product is for diagnostic use only.&nbsp;GHRYVELIN&nbsp;is indicated for the diagnosis of growth hormone deficiency (GHD) in adults.",
-      "predicted_indication": "hypertrichosis (disease)",
-      "txgnn_score": "98.31%",
-      "url": "/drugs/macimorelin-acetate/"
-    },
-    {
       "slug": "macitentan",
       "name": "Macitentan",
       "evidence_level": "L5",
@@ -4232,16 +3702,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/melphalan/"
-    },
-    {
-      "slug": "melphalan-hydrochloride",
-      "name": "Melphalan Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "High-dose of Phelinun used alone or in combination with other cytotoxic medicinal products and/or total body irradiation is indicated in the treatment of:  multiple myeloma, malignant lymphoma...",
-      "predicted_indication": "hereditary breast ovarian cancer syndrome",
-      "txgnn_score": "99.94%",
-      "url": "/drugs/melphalan-hydrochloride/"
     },
     {
       "slug": "memantine",
@@ -4334,16 +3794,6 @@
       "url": "/drugs/methylnaltrexone/"
     },
     {
-      "slug": "methylnaltrexone-bromide",
-      "name": "Methylnaltrexone Bromide",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of opioid-induced constipation in advanced-illness patients who are receiving palliative care when response to usual laxative therapy has not been sufficient.",
-      "predicted_indication": "congenital hypotrichosis milia",
-      "txgnn_score": "78.35%",
-      "url": "/drugs/methylnaltrexone-bromide/"
-    },
-    {
       "slug": "methylphenidate",
       "name": "Methylphenidate",
       "evidence_level": "L5",
@@ -4372,16 +3822,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/methylthioninium/"
-    },
-    {
-      "slug": "methylthioninium-chloride",
-      "name": "Methylthioninium Chloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Lumeblue is indicated as a diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy.",
-      "predicted_indication": "irritable bowel syndrome",
-      "txgnn_score": "90.43%",
-      "url": "/drugs/methylthioninium-chloride/"
     },
     {
       "slug": "metreleptin",
@@ -4452,16 +3892,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/migalastat/"
-    },
-    {
-      "slug": "migalastat-hydrochloride",
-      "name": "Migalastat Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Galafold is indicated for long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (?-galactosidase A deficiency) and who have an amenable...",
-      "predicted_indication": "hepatoportal sclerosis",
-      "txgnn_score": "98.85%",
-      "url": "/drugs/migalastat-hydrochloride/"
     },
     {
       "slug": "miglustat",
@@ -4794,16 +4224,6 @@
       "url": "/drugs/octreotide/"
     },
     {
-      "slug": "octreotide-hydrochloride",
-      "name": "Octreotide Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues.",
-      "predicted_indication": "vulvar inverted follicular keratosis",
-      "txgnn_score": "99.58%",
-      "url": "/drugs/octreotide-hydrochloride/"
-    },
-    {
       "slug": "ofatumumab",
       "name": "Ofatumumab",
       "evidence_level": "L5",
@@ -4884,16 +4304,6 @@
       "url": "/drugs/oritavancin/"
     },
     {
-      "slug": "oritavancin-diphosphate",
-      "name": "Oritavancin (Diphosphate)",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Tenkasi is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients aged 3 months and older (see sections 4.2, 4.4 and 5.1)....",
-      "predicted_indication": "Bacteroidaceae infectious disease",
-      "txgnn_score": "99.48%",
-      "url": "/drugs/oritavancin-diphosphate/"
-    },
-    {
       "slug": "orlistat",
       "name": "Orlistat",
       "evidence_level": "L5",
@@ -4964,16 +4374,6 @@
       "url": "/drugs/ozanimod/"
     },
     {
-      "slug": "ozanimod-hydrochloride",
-      "name": "Ozanimod Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Multiple sclerosis  Zeposia is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis (RRMS) with active disease as defined by clinical or imaging features. ...",
-      "predicted_indication": "multiple sclerosis",
-      "txgnn_score": "99.58%",
-      "url": "/drugs/ozanimod-hydrochloride/"
-    },
-    {
       "slug": "paclitaxel",
       "name": "Paclitaxel",
       "evidence_level": "L5",
@@ -5022,16 +4422,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/palonosetron/"
-    },
-    {
-      "slug": "palonosetron-hydrochloride",
-      "name": "Palonosetron Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Aloxi is indicated in adults for:  the prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy, the prevention of nausea and vomiting associated with moderately...",
-      "predicted_indication": "migraine disorder",
-      "txgnn_score": "99.74%",
-      "url": "/drugs/palonosetron-hydrochloride/"
     },
     {
       "slug": "panitumumab",
@@ -5102,16 +4492,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/patisiran/"
-    },
-    {
-      "slug": "patisiran-sodium",
-      "name": "Patisiran Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Onpattro is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy.",
-      "predicted_indication": "dermatitis",
-      "txgnn_score": "90.65%",
-      "url": "/drugs/patisiran-sodium/"
     },
     {
       "slug": "pazopanib",
@@ -5222,16 +4602,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pentosan-polysulfate/"
-    },
-    {
-      "slug": "pentosan-polysulfate-sodium",
-      "name": "Pentosan Polysulfate Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Elmiron is indicated for the treatment of bladder pain syndrome characterized by either glomerulations or Hunner’s lesions in adults with moderate to severe pain, urgency and frequency of micturition.",
-      "predicted_indication": "primary release disorder of platelets",
-      "txgnn_score": "99.71%",
-      "url": "/drugs/pentosan-polysulfate-sodium/"
     },
     {
       "slug": "perampanel",
@@ -5444,16 +4814,6 @@
       "url": "/drugs/propranolol/"
     },
     {
-      "slug": "propranolol-hydrochloride",
-      "name": "Propranolol Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Hemangiol is indicated in the treatment of proliferating infantile haemangioma requiring systemic therapy:  Life- or function-threatening haemangioma, Ulcerated haemangioma with pain and/or lack of...",
-      "predicted_indication": "distal myopathy, Tateyama type",
-      "txgnn_score": "99.40%",
-      "url": "/drugs/propranolol-hydrochloride/"
-    },
-    {
       "slug": "prucalopride",
       "name": "Prucalopride",
       "evidence_level": "L5",
@@ -5482,16 +4842,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/raloxifene/"
-    },
-    {
-      "slug": "raloxifene-hydrochloride",
-      "name": "Raloxifene Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated....",
-      "predicted_indication": "duodenal ulcer (disease)",
-      "txgnn_score": "99.72%",
-      "url": "/drugs/raloxifene-hydrochloride/"
     },
     {
       "slug": "raltegravir",
@@ -5664,16 +5014,6 @@
       "url": "/drugs/ribociclib/"
     },
     {
-      "slug": "ribociclib-succinate",
-      "name": "Ribociclib Succinate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Early breast cancerKisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2...",
-      "predicted_indication": "myeloid leukemia",
-      "txgnn_score": "99.35%",
-      "url": "/drugs/ribociclib-succinate/"
-    },
-    {
       "slug": "rilpivirine",
       "name": "Rilpivirine",
       "evidence_level": "L4",
@@ -5682,16 +5022,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/rilpivirine/"
-    },
-    {
-      "slug": "rilpivirine-hydrochloride",
-      "name": "Rilpivirine Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without known mutations associated with resistance...",
-      "predicted_indication": "HIV infectious disease",
-      "txgnn_score": "99.98%",
-      "url": "/drugs/rilpivirine-hydrochloride/"
     },
     {
       "slug": "riluzole",
@@ -5894,16 +5224,6 @@
       "url": "/drugs/ruxolitinib/"
     },
     {
-      "slug": "ruxolitinib-phosphate",
-      "name": "Ruxolitinib Phosphate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Opzelura is indicated for the treatment of non-segmental vitiligo with facial involvement in adults and adolescents from 12 years of age.",
-      "predicted_indication": "uterine corpus perivascular epithelioid cell tumor",
-      "txgnn_score": "99.73%",
-      "url": "/drugs/ruxolitinib-phosphate/"
-    },
-    {
       "slug": "sacituzumab-govitecan",
       "name": "Sacituzumab Govitecan",
       "evidence_level": "L5",
@@ -6034,16 +5354,6 @@
       "url": "/drugs/selumetinib/"
     },
     {
-      "slug": "selumetinib-sulfate",
-      "name": "Selumetinib Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and above",
-      "predicted_indication": "familial generalized lentiginosis",
-      "txgnn_score": "99.96%",
-      "url": "/drugs/selumetinib-sulfate/"
-    },
-    {
       "slug": "semaglutide",
       "name": "Semaglutide",
       "evidence_level": "L5",
@@ -6154,16 +5464,6 @@
       "url": "/drugs/sitagliptin/"
     },
     {
-      "slug": "sitagliptin-hydrochloride",
-      "name": "Sitagliptin Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "For adult patients with type 2 diabetes mellitus, Sitagliptin Accord is indicated to improve glycaemic control: as monotherapy:- in patients inadequately controlled by diet and exercise alone and for...",
-      "predicted_indication": "opsismodysplasia",
-      "txgnn_score": "98.87%",
-      "url": "/drugs/sitagliptin-hydrochloride/"
-    },
-    {
       "slug": "sodium-oxybate",
       "name": "Sodium Oxybate",
       "evidence_level": "L2",
@@ -6202,16 +5502,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/solriamfetol/"
-    },
-    {
-      "slug": "solriamfetol-hydrochloride",
-      "name": "Solriamfetol Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy). Sunosi is indicated to improve wakefulness and reduce...",
-      "predicted_indication": "attention deficit-hyperactivity disorder",
-      "txgnn_score": "99.99%",
-      "url": "/drugs/solriamfetol-hydrochloride/"
     },
     {
       "slug": "somapacitan",
@@ -6292,16 +5582,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sugammadex/"
-    },
-    {
-      "slug": "sugammadex-sodium",
-      "name": "Sugammadex Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Reversal of neuromuscular blockade induced by rocuronium or vecuronium in adults. For the paediatric population: sugammadex is only recommended for routine reversal of rocuronium induced blockade in...",
-      "predicted_indication": "breast fibrocystic disease",
-      "txgnn_score": "98.49%",
-      "url": "/drugs/sugammadex-sodium/"
     },
     {
       "slug": "sunitinib",
@@ -6934,16 +6214,6 @@
       "url": "/drugs/treprostinil/"
     },
     {
-      "slug": "treprostinil-sodium",
-      "name": "Treprostinil Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Treatment of adult patients with WHO Functional Class (FC) III or IV and:  inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or recurrent CTEPH after surgical treatment ...",
-      "predicted_indication": "pulmonary arteriovenous malformation (disease)",
-      "txgnn_score": "99.70%",
-      "url": "/drugs/treprostinil-sodium/"
-    },
-    {
       "slug": "trifluridine",
       "name": "Trifluridine",
       "evidence_level": "L5",
@@ -7032,16 +6302,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/umeclidinium/"
-    },
-    {
-      "slug": "umeclidinium-bromide",
-      "name": "Umeclidinium Bromide",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Rolufta is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).",
-      "predicted_indication": "migraine disorder",
-      "txgnn_score": "96.36%",
-      "url": "/drugs/umeclidinium-bromide/"
     },
     {
       "slug": "upadacitinib",
@@ -7184,16 +6444,6 @@
       "url": "/drugs/vernakalant/"
     },
     {
-      "slug": "vernakalant-hydrochloride",
-      "name": "Vernakalant Hydrochloride",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults:  for non-surgery patients: atrial fibrillation&nbsp;&lt;/= 7 days duration; for post-cardiac surgery patients: atrial...",
-      "predicted_indication": "stroke disorder",
-      "txgnn_score": "99.83%",
-      "url": "/drugs/vernakalant-hydrochloride/"
-    },
-    {
       "slug": "verteporfin",
       "name": "Verteporfin",
       "evidence_level": "L5",
@@ -7292,16 +6542,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/volanesorsen/"
-    },
-    {
-      "slug": "volanesorsen-sodium",
-      "name": "Volanesorsen Sodium",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Waylivra is indicated as an adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pancreatitis, in whom response to diet and...",
-      "predicted_indication": "megaloblastic anemia (disease)",
-      "txgnn_score": "100.00%",
-      "url": "/drugs/volanesorsen-sodium/"
     },
     {
       "slug": "vonicog-alfa",
@@ -7422,16 +6662,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/zoledronic-acid/"
-    },
-    {
-      "slug": "zoledronic-acid-monohydrate",
-      "name": "Zoledronic Acid Monohydrate",
-      "evidence_level": "L5",
-      "indication_count": 50,
-      "original_indication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies...",
-      "predicted_indication": "bone Paget disease",
-      "txgnn_score": "99.56%",
-      "url": "/drugs/zoledronic-acid-monohydrate/"
     },
     {
       "slug": "zonisamide",

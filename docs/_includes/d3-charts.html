@@ -80,6 +80,8 @@
 <script src="https://d3js.org/d3.v7.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // 2026-10-16：檔名→實際網址（Jekyll :name 會把 _ 轉成 -；明寫 permalink 者照 permalink）
+  const drugUrls = { {% for d in site.drugs %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
   const drugData = {{ site.data.drug_stats.all_drugs | jsonify }};
   const levelColors = { 'L1': '#2E7D32', 'L2': '#66BB6A', 'L3': '#FDD835', 'L4': '#FB8C00', 'L5': '#9E9E9E' };
   const levelLabels = { 'L1': 'Multiple Phase 3 RCTs', 'L2': 'Single RCT', 'L3': 'Observational', 'L4': 'Preclinical', 'L5': 'AI prediction' };
@@ -106,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .on('mouseover', function(event, d) { d3.select(this).attr('opacity', 1); tooltip.style('display', 'block').html(`<div class="drug-name">${d.name}</div><div class="drug-info">Evidence: ${d.level}<br>Indications: ${d.indication_count}</div>`); })
       .on('mousemove', function(event) { tooltip.style('left', (event.pageX + 15) + 'px').style('top', (event.pageY - 10) + 'px'); })
       .on('mouseout', function() { d3.select(this).attr('opacity', 0.7); tooltip.style('display', 'none'); })
-      .on('click', function(event, d) { window.location.href = '/drugs/' + d.slug + '/'; });
+      .on('click', function(event, d) { window.location.href = (drugUrls[d.slug] || '/drugs/' + d.slug + '/'); });
   }
 
   d3.selectAll('.chart-tab').on('click', function() {

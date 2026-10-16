@@ -133,17 +133,24 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 .legend-count { font-weight: 700; font-size: 1.1rem; }
 </style>
 
+{%- comment -%}2026-10-16：證據等級圖改由可收錄藥物頁即時計算（原本寫死）{%- endcomment -%}
+{% assign ld = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign n1 = ld | where: "evidence_level", "L1" | size %}{% assign n2 = ld | where: "evidence_level", "L2" | size %}{% assign n3 = ld | where: "evidence_level", "L3" | size %}{% assign n4 = ld | where: "evidence_level", "L4" | size %}{% assign n5 = ld | where: "evidence_level", "L5" | size %}
+{% assign tot = n1 | plus: n2 | plus: n3 | plus: n4 | plus: n5 %}{% if tot == 0 %}{% assign tot = 1 %}{% endif %}
+{% assign s1 = n1 | times: 502.65 | divided_by: tot %}{% assign s2 = n2 | times: 502.65 | divided_by: tot %}{% assign s3 = n3 | times: 502.65 | divided_by: tot %}{% assign s4 = n4 | times: 502.65 | divided_by: tot %}{% assign s5 = n5 | times: 502.65 | divided_by: tot %}
+{% assign o2 = s1 %}{% assign o3 = o2 | plus: s2 %}{% assign o4 = o3 | plus: s3 %}{% assign o5 = o4 | plus: s4 %}
+{% assign p1 = n1 | times: 100.0 | divided_by: tot %}{% assign p2 = n2 | times: 100.0 | divided_by: tot %}{% assign p5 = n5 | times: 100.0 | divided_by: tot %}
 <div class="chart-container">
   <div class="donut-chart">
     <svg viewBox="0 0 200 200">
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="25.83 476.82" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L1: 33 drugs"/>
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="13.32 489.33" stroke-dashoffset="-25.83" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L2: 17 drugs"/>
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="0.78 501.87" stroke-dashoffset="-39.15" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L3: 1 drug"/>
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="2.35 500.30" stroke-dashoffset="-39.93" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L4: 3 drugs"/>
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="460.37 42.28" stroke-dashoffset="-42.28" onclick="location.href='{{ '/evidence-low' | relative_url }}'" title="L5: 588 drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="{{ s1 | round: 2 }} {{ 502.65 | minus: s1 | round: 2 }}" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L1: {{ n1 }} drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="{{ s2 | round: 2 }} {{ 502.65 | minus: s2 | round: 2 }}" stroke-dashoffset="-{{ o2 | round: 2 }}" onclick="location.href='{{ '/evidence-high' | relative_url }}'" title="L2: {{ n2 }} drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="{{ s3 | round: 2 }} {{ 502.65 | minus: s3 | round: 2 }}" stroke-dashoffset="-{{ o3 | round: 2 }}" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L3: {{ n3 }} drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="{{ s4 | round: 2 }} {{ 502.65 | minus: s4 | round: 2 }}" stroke-dashoffset="-{{ o4 | round: 2 }}" onclick="location.href='{{ '/evidence-medium' | relative_url }}'" title="L4: {{ n4 }} drugs"/>
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="{{ s5 | round: 2 }} {{ 502.65 | minus: s5 | round: 2 }}" stroke-dashoffset="-{{ o5 | round: 2 }}" onclick="location.href='{{ '/evidence-low' | relative_url }}'" title="L5: {{ n5 }} drugs"/>
     </svg>
     <div class="donut-center">
-      <div class="number">667</div>
+      <div class="number">{{ ld.size }}</div>
       <div class="label">Drug Reports</div>
     </div>
   </div>
@@ -151,37 +158,37 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #2E7D32;"></span>
       <span class="legend-text">L1 Multiple Phase 3 RCTs</span>
-      <span class="legend-count">33</span>
+      <span class="legend-count">{{ n1 }}</span>
     </a>
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #66BB6A;"></span>
       <span class="legend-text">L2 Single RCT / Phase 2</span>
-      <span class="legend-count">17</span>
+      <span class="legend-count">{{ n2 }}</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FDD835;"></span>
       <span class="legend-text">L3 Observational studies</span>
-      <span class="legend-count">1</span>
+      <span class="legend-count">{{ n3 }}</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FB8C00;"></span>
       <span class="legend-text">L4 Preclinical / Mechanistic</span>
-      <span class="legend-count">3</span>
+      <span class="legend-count">{{ n4 }}</span>
     </a>
     <a href="{{ '/evidence-low' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #9E9E9E;"></span>
       <span class="legend-text">L5 AI prediction only</span>
-      <span class="legend-count">588</span>
+      <span class="legend-count">{{ n5 }}</span>
     </a>
   </div>
 </div>
 
 <div class="evidence-bar">
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 5.14%; background: #2E7D32;" title="L1: 33 drugs">L1</a>
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 2.65%; background: #66BB6A;" title="L2: 17 drugs">L2</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 0.5%; min-width: 20px; background: #FDD835;" title="L3: 1 drug"></a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 0.5%; min-width: 20px; background: #FB8C00;" title="L4: 3 drugs"></a>
-  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 91.59%; background: #9E9E9E;" title="L5: 588 drugs">L5: 588</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: {{ p1 | round: 2 }}%; background: #2E7D32;" title="L1: {{ n1 }} drugs">L1</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: {{ p2 | round: 2 }}%; background: #66BB6A;" title="L2: {{ n2 }} drugs">L2</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 0.5%; min-width: 20px; background: #FDD835;" title="L3: {{ n3 }} drugs"></a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 0.5%; min-width: 20px; background: #FB8C00;" title="L4: {{ n4 }} drugs"></a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: {{ p5 | round: 2 }}%; background: #9E9E9E;" title="L5: {{ n5 }} drugs">L5: {{ n5 }}</a>
 </div>
 
 {% include d3-charts.html %}
@@ -192,9 +199,9 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 
 | Category | Description | Link |
 |----------|-------------|------|
-| **High Evidence** | L1-L2, priority for clinical evaluation | [View 50 drugs](/evidence-high/) |
-| **Medium Evidence** | L3-L4, requires additional validation | [View 4 drugs](/evidence-medium/) |
-| **AI Predictions** | L5, research direction reference | [View 588 drugs](/evidence-low/) |
+| **High Evidence** | L1-L2, priority for clinical evaluation | [View {{ n1 | plus: n2 }} drugs](/evidence-high/) |
+| **Medium Evidence** | L3-L4, requires additional validation | [View {{ n3 | plus: n4 }} drugs](/evidence-medium/) |
+| **AI Predictions** | L5, research direction reference | [View {{ n5 }} drugs](/evidence-low/) |
 | **Full Drug List** | All 667 drugs (searchable) | [Drug List](/drugs/) |
 | **Health News** | Automated EU health news monitoring | [View News](/news/) |
 | **Data Downloads** | CSV / JSON formats | [Downloads](/downloads/) |
