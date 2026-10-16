@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Dexrazoxane Hydrochloride wi
 <li><strong>Original indication</strong>: Savene is indicated for the treatment of anthracycline extravasation.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/dexrazoxane-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

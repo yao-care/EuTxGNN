@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Cariprazine Hydrochloride wi
 <li><strong>Original indication</strong>: Reagila is indicated for the treatment of schizophrenia in adult patients.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (14)

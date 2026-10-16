@@ -96,7 +96,7 @@ This page brings together the latest health news about “diabetes” and lists 
 <li><a href="{{ '/drugs/sitagliptin-hydrochloride/' | relative_url }}">Sitagliptin Hydrochloride</a></li>
 <li><a href="{{ '/drugs/somapacitan/' | relative_url }}">Somapacitan</a></li>
 <li><a href="{{ '/drugs/sotatercept/' | relative_url }}">Sotatercept</a></li>
-<li><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">Sufentanil Citrate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sufentanil Citrate</a></li>
 <li><a href="{{ '/drugs/tafasitamab/' | relative_url }}">Tafasitamab</a></li>
 <li><a href="{{ '/drugs/teplizumab/' | relative_url }}">Teplizumab</a></li>
 <li><a href="{{ '/drugs/tezepelumab/' | relative_url }}">Tezepelumab</a></li>

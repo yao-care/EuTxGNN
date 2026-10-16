@@ -42,7 +42,7 @@ This page brings together the latest health news about “hypertension” and li
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
 <li><a href="{{ '/drugs/dexmedetomidine-hydrochloride/' | relative_url }}">Dexmedetomidine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/elexacaftor/' | relative_url }}">Elexacaftor</a></li>
-<li><a href="{{ '/drugs/enalapril-maleate/' | relative_url }}">Enalapril (Maleate)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Enalapril (Maleate)</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/febuxostat/' | relative_url }}">Febuxostat</a></li>
@@ -57,13 +57,13 @@ This page brings together the latest health news about “hypertension” and li
 <li><a href="{{ '/drugs/lonafarnib/' | relative_url }}">Lonafarnib</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
 <li><a href="{{ '/drugs/macitentan/' | relative_url }}">Macitentan</a></li>
-<li><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">Memantine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">Mexiletine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Memantine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Mexiletine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/migalastat-hydrochloride/' | relative_url }}">Migalastat Hydrochloride</a></li>
 <li><a href="{{ '/drugs/netupitant/' | relative_url }}">Netupitant</a></li>
 <li><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">Nitric Oxide</a></li>
 <li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
-<li><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">Parecoxib Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Parecoxib Sodium</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/rasburicase/' | relative_url }}">Rasburicase</a></li>
 <li><a href="{{ '/drugs/riociguat/' | relative_url }}">Riociguat</a></li>

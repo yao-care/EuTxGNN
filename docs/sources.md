@@ -36,7 +36,7 @@ TxGNN is a drug repurposing prediction model developed by Professor Marinka Zitn
 ### Publication
 
 - **Title**: A foundation model for clinician-centered drug repurposing
-- **Journal**: Nature Medicine (2023)
+- **Journal**: Nature Medicine (2024)
 - **DOI**: [10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ### Model Statistics
@@ -140,7 +140,7 @@ When using EuTxGNN data, please cite:
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and others},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```

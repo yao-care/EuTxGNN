@@ -33,7 +33,7 @@ This page brings together the latest health news about “migraine” and lists 
 <li><a href="{{ '/drugs/apixaban/' | relative_url }}">Apixaban</a></li>
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/atropine-sulfate/' | relative_url }}">Atropine Sulfate</a></li>
-<li><a href="{{ '/drugs/caffeine-citrate/' | relative_url }}">Caffeine Citrate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Caffeine Citrate</a></li>
 <li><a href="{{ '/drugs/clascoterone/' | relative_url }}">Clascoterone</a></li>
 <li><a href="{{ '/drugs/clopidogrel-as-hydrochloride/' | relative_url }}">Clopidogrel (As Hydrochloride)</a></li>
 <li><a href="{{ '/drugs/corifollitropin-alfa/' | relative_url }}">Corifollitropin Alfa</a></li>
@@ -53,13 +53,13 @@ This page brings together the latest health news about “migraine” and lists 
 <li><a href="{{ '/drugs/lasmiditan-succinate/' | relative_url }}">Lasmiditan Succinate</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
 <li><a href="{{ '/drugs/melatonin/' | relative_url }}">Melatonin</a></li>
-<li><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">Memantine Hydrochloride</a></li>
-<li><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">Mexiletine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Memantine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Mexiletine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/netupitant/' | relative_url }}">Netupitant</a></li>
 <li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
 <li><a href="{{ '/drugs/palonosetron-hydrochloride/' | relative_url }}">Palonosetron Hydrochloride</a></li>
 <li><a href="{{ '/drugs/parathyroid-hormone/' | relative_url }}">Parathyroid Hormone</a></li>
-<li><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">Parecoxib Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Parecoxib Sodium</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/pregabalin/' | relative_url }}">Pregabalin</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>

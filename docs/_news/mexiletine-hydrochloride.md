@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Mexiletine Hydrochloride wit
 <li><strong>Original indication</strong>: Namuscla is indicated for the symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (35)

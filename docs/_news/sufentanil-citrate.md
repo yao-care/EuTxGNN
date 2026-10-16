@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Sufentanil Citrate with the 
 <li><strong>Original indication</strong>: Dzuveo is indicated for the management of acute moderate to severe pain in adult patients.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (49)

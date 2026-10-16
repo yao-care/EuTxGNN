@@ -37,7 +37,7 @@ This page brings together the latest health news about “AF” and lists the dr
 <li><a href="{{ '/drugs/elafibranor/' | relative_url }}">Elafibranor</a></li>
 <li><a href="{{ '/drugs/eliglustat-tartrate/' | relative_url }}">Eliglustat (Tartrate)</a></li>
 <li><a href="{{ '/drugs/fentanyl/' | relative_url }}">Fentanyl</a></li>
-<li><a href="{{ '/drugs/ganirelix-acetate/' | relative_url }}">Ganirelix Acetate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Ganirelix Acetate</a></li>
 <li><a href="{{ '/drugs/granisetron/' | relative_url }}">Granisetron</a></li>
 <li><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">Guanfacine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/ivabradine-hydrochloride/' | relative_url }}">Ivabradine Hydrochloride</a></li>
@@ -46,11 +46,11 @@ This page brings together the latest health news about “AF” and lists the dr
 <li><a href="{{ '/drugs/lurasidone/' | relative_url }}">Lurasidone</a></li>
 <li><a href="{{ '/drugs/macimorelin-acetate/' | relative_url }}">Macimorelin Acetate</a></li>
 <li><a href="{{ '/drugs/metreleptin/' | relative_url }}">Metreleptin</a></li>
-<li><a href="{{ '/drugs/mexiletine-hydrochloride/' | relative_url }}">Mexiletine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Mexiletine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/mycophenolate-mofetil/' | relative_url }}">Mycophenolate Mofetil</a></li>
 <li><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">Nitric Oxide</a></li>
 <li><a href="{{ '/drugs/olanzapine/' | relative_url }}">Olanzapine</a></li>
-<li><a href="{{ '/drugs/osilodrostat-phosphate/' | relative_url }}">Osilodrostat Phosphate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Osilodrostat Phosphate</a></li>
 <li><a href="{{ '/drugs/pasireotide/' | relative_url }}">Pasireotide</a></li>
 <li><a href="{{ '/drugs/posaconazole/' | relative_url }}">Posaconazole</a></li>
 <li><a href="{{ '/drugs/prilocaine/' | relative_url }}">Prilocaine</a></li>

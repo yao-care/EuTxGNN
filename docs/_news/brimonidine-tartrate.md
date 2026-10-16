@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Brimonidine Tartrate with th
 <li><strong>Original indication</strong>: Mirvaso is indicated for the symptomatic treatment of facial erythema of rosacea in adult patients.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/brimonidine-tartrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

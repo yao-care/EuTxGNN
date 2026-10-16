@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Parecoxib Sodium with the la
 <li><strong>Original indication</strong>: For the short-term treatment of postoperative pain in adults.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (3)

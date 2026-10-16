@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Niraparib (Tosilate Monohydr
 <li><strong>Original indication</strong>: Treatment of adult patients with prostate cancer.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/niraparib-tosilate-monohydrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (39)

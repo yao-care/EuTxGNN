@@ -96,7 +96,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/eliglustat-tartrate/' | relative_url }}">Eliglustat (Tartrate)</a></li>
 <li><a href="{{ '/drugs/elotuzumab/' | relative_url }}">Elotuzumab</a></li>
 <li><a href="{{ '/drugs/eltrombopag/' | relative_url }}">Eltrombopag</a></li>
-<li><a href="{{ '/drugs/enalapril-maleate/' | relative_url }}">Enalapril (Maleate)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Enalapril (Maleate)</a></li>
 <li><a href="{{ '/drugs/encorafenib/' | relative_url }}">Encorafenib</a></li>
 <li><a href="{{ '/drugs/enfortumab-vedotin/' | relative_url }}">Enfortumab Vedotin</a></li>
 <li><a href="{{ '/drugs/enfuvirtide/' | relative_url }}">Enfuvirtide</a></li>
@@ -160,7 +160,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/nevirapine/' | relative_url }}">Nevirapine</a></li>
 <li><a href="{{ '/drugs/nilotinib/' | relative_url }}">Nilotinib</a></li>
 <li><a href="{{ '/drugs/nintedanib/' | relative_url }}">Nintedanib</a></li>
-<li><a href="{{ '/drugs/niraparib-tosilate-monohydrate/' | relative_url }}">Niraparib (Tosilate Monohydrate)</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Niraparib (Tosilate Monohydrate)</a></li>
 <li><a href="{{ '/drugs/nivolumab/' | relative_url }}">Nivolumab</a></li>
 <li><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Nomegestrol Acetate</a></li>
 <li><a href="{{ '/drugs/obinutuzumab/' | relative_url }}">Obinutuzumab</a></li>
@@ -169,7 +169,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/olaparib/' | relative_url }}">Olaparib</a></li>
 <li><a href="{{ '/drugs/omalizumab/' | relative_url }}">Omalizumab</a></li>
 <li><a href="{{ '/drugs/onasemnogene-abeparvovec/' | relative_url }}">Onasemnogene Abeparvovec</a></li>
-<li><a href="{{ '/drugs/osilodrostat-phosphate/' | relative_url }}">Osilodrostat Phosphate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Osilodrostat Phosphate</a></li>
 <li><a href="{{ '/drugs/oteracil/' | relative_url }}">Oteracil</a></li>
 <li><a href="{{ '/drugs/ozanimod-hydrochloride/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/paclitaxel/' | relative_url }}">Paclitaxel</a></li>
@@ -211,7 +211,7 @@ This page brings together the latest health news about “tumor” and lists the
 <li><a href="{{ '/drugs/sotatercept/' | relative_url }}">Sotatercept</a></li>
 <li><a href="{{ '/drugs/spironolactone/' | relative_url }}">Spironolactone</a></li>
 <li><a href="{{ '/drugs/stiripentol/' | relative_url }}">Stiripentol</a></li>
-<li><a href="{{ '/drugs/sufentanil-citrate/' | relative_url }}">Sufentanil Citrate</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Sufentanil Citrate</a></li>
 <li><a href="{{ '/drugs/sugammadex-sodium/' | relative_url }}">Sugammadex Sodium</a></li>
 <li><a href="{{ '/drugs/sunitinib/' | relative_url }}">Sunitinib</a></li>
 <li><a href="{{ '/drugs/tafasitamab/' | relative_url }}">Tafasitamab</a></li>

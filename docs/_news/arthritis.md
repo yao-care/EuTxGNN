@@ -73,13 +73,13 @@ This page brings together the latest health news about “artrite” and lists t
 <li><a href="{{ '/drugs/leflunomide/' | relative_url }}">Leflunomide</a></li>
 <li><a href="{{ '/drugs/lonafarnib/' | relative_url }}">Lonafarnib</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
-<li><a href="{{ '/drugs/memantine-hydrochloride/' | relative_url }}">Memantine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Memantine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/meropenem/' | relative_url }}">Meropenem</a></li>
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">Methotrexate</a></li>
 <li><a href="{{ '/drugs/nomegestrol-acetate/' | relative_url }}">Nomegestrol Acetate</a></li>
 <li><a href="{{ '/drugs/ospemifene/' | relative_url }}">Ospemifene</a></li>
 <li><a href="{{ '/drugs/palbociclib/' | relative_url }}">Palbociclib</a></li>
-<li><a href="{{ '/drugs/parecoxib-sodium/' | relative_url }}">Parecoxib Sodium</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Parecoxib Sodium</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/pregabalin/' | relative_url }}">Pregabalin</a></li>
 <li><a href="{{ '/drugs/ranolazine/' | relative_url }}">Ranolazine</a></li>

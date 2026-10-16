@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Olopatadine Hydrochloride wi
 <li><strong>Original indication</strong>: Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/olopatadine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

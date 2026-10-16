@@ -43,7 +43,7 @@ Drug repurposing (also known as drug repositioning) is the process of identifyin
 
 ## The TxGNN Model
 
-TxGNN is a graph neural network model developed for drug repurposing, published in [Nature Medicine (2023)](https://www.nature.com/articles/s41591-023-02233-1).
+TxGNN is a graph neural network model developed for drug repurposing, published in [Nature Medicine (2024)](https://www.nature.com/articles/s41591-024-03233-x).
 
 ### Key Features
 
@@ -68,7 +68,7 @@ EMA Data → Drug Normalization → DrugBank Mapping → TxGNN Prediction → FH
 
 ### Prediction
 
-1. **Knowledge Graph (KG)**: Network-based association discovery
+1. **Known-use check (KG)**: Indications and off-label uses already recorded in the TxGNN knowledge graph are excluded (not new predictions)
 2. **Deep Learning (DL)**: Neural network score prediction
 3. **Evidence Integration**: Combine with clinical trial and literature data
 

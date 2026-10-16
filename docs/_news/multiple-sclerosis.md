@@ -28,7 +28,7 @@ This page brings together the latest health news about “MS” and lists the dr
 <li><a href="{{ '/drugs/alemtuzumab/' | relative_url }}">Alemtuzumab</a></li>
 <li><a href="{{ '/drugs/asenapine-maleate/' | relative_url }}">Asenapine Maleate</a></li>
 <li><a href="{{ '/drugs/belatacept/' | relative_url }}">Belatacept</a></li>
-<li><a href="{{ '/drugs/cariprazine-hydrochloride/' | relative_url }}">Cariprazine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Cariprazine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/cladribine/' | relative_url }}">Cladribine</a></li>
 <li><a href="{{ '/drugs/dimethyl-fumarate/' | relative_url }}">Dimethyl Fumarate</a></li>
 <li><a href="{{ '/drugs/elbasvir/' | relative_url }}">Elbasvir</a></li>

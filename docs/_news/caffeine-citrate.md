@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Caffeine Citrate with the la
 <li><strong>Original indication</strong>: Treatment of primary apnoea of premature newborns.</li>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/caffeine-citrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (1)

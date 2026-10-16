@@ -2,14 +2,14 @@
 layout: default
 title: Drug Repurposing Reports
 nav_order: 1
-description: "AI-powered drug repurposing predictions for 736 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
+description: "AI-powered drug repurposing predictions for 667 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation."
 permalink: /
 ---
 
 # Drug Repurposing: From AI to Evidence
 {: .fs-9 }
 
-**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **736** EMA-approved drugs, generating **11,491** potential new therapeutic uses.
+**EuTxGNN** uses the Harvard TxGNN model to predict drug repurposing candidates for **667** EMA-approved drugs, generating **6,681** potential new therapeutic uses.
 {: .fs-6 .fw-300 }
 
 [Browse Drug Reports](/drugs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -100,7 +100,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">EMA Drug Coverage</strong><br>
-    <span style="color: #666;">Focused on 736 EMA centrally-authorized medicines with 11,491 repurposing predictions ready for research.</span>
+    <span style="color: #666;">Focused on 667 EMA centrally-authorized medicines with 6,681 repurposing predictions ready for research.</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">FHIR Integration</strong><br>
@@ -143,7 +143,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
       <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="460.37 42.28" stroke-dashoffset="-42.28" onclick="location.href='{{ '/evidence-low' | relative_url }}'" title="L5: 588 drugs"/>
     </svg>
     <div class="donut-center">
-      <div class="number">736</div>
+      <div class="number">667</div>
       <div class="label">Drug Reports</div>
     </div>
   </div>
@@ -195,7 +195,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 | **High Evidence** | L1-L2, priority for clinical evaluation | [View 50 drugs](/evidence-high/) |
 | **Medium Evidence** | L3-L4, requires additional validation | [View 4 drugs](/evidence-medium/) |
 | **AI Predictions** | L5, research direction reference | [View 588 drugs](/evidence-low/) |
-| **Full Drug List** | All 736 drugs (searchable) | [Drug List](/drugs/) |
+| **Full Drug List** | All 667 drugs (searchable) | [Drug List](/drugs/) |
 | **Health News** | Automated EU health news monitoring | [View News](/news/) |
 | **Data Downloads** | CSV / JSON formats | [Downloads](/downloads/) |
 | **FHIR API** | Integration endpoints | [FHIR Metadata](/fhir/metadata) |
@@ -207,14 +207,14 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 EuTxGNN uses the **TxGNN** deep learning model published by Harvard's Zitnik Lab in *Nature Medicine* to predict potential new therapeutic uses for EMA-approved medications.
 
 > "TxGNN is the first foundation model designed for clinician-centered drug repurposing, integrating knowledge graphs with deep learning to predict drug efficacy for rare diseases."
-> <cite>— Huang et al., Nature Medicine (2023)</cite>
+> <cite>— Huang et al., Nature Medicine (2024)</cite>
 
 ### Statistics
 
 | Item | Count |
 |------|-------|
-| Drug Reports | 736 |
-| Repurposing Predictions | 11,491 |
+| Drug Reports | 667 |
+| Repurposing Predictions | 6,681 |
 | Unique Indications | 4,570 |
 
 [Learn More](/about/) | [Methodology](/methodology/) | [Data Sources](/sources/)
