@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Choriogonadotropin Alfa with
 <li>esophageal diverticulosis (95.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/choriogonadotropin-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

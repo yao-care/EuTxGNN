@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Vonicog Alfa with the latest
 <li>hemorrhagic disorder due to a coagulation factors defect (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vonicog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

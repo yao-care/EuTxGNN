@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Ropeginterferon Alfa-2B with
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/ropeginterferon-alfa-2b/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

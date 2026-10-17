@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Velaglucerase Alfa with the 
 <li>Proximal myopathy with extrapyramidal signs | 92.06% | Drug does not cross the blood-brain barrier; no established mechanism (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/velaglucerase-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

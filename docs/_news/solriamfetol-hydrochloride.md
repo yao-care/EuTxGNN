@@ -3,7 +3,7 @@ layout: default
 title: "Solriamfetol Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Solriamfetol Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Solriamfetol Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/solriamfetol-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/solriamfetol-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Solriamfetol Hydrochloride?">
-<strong>Solriamfetol Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Solriamfetol Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Solriamfetol Hydrochloride w
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>insomnia (disease) (100.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
-<li>chondromyxoid fibroma (99.9%)</li>
-<li>specific developmental disorder (99.9%)</li>
-<li>variably protease-sensitive prionopathy (99.9%)</li>
-<li>multiple system atrophy (99.9%)</li>
-<li>X-linked adrenoleukodystrophy (99.8%)</li>
-<li>postural orthostatic tachycardia syndrome (99.8%)</li>
-<li>disorder of peroxisomal alpha-, beta- and omega-oxidation (99.8%)</li>
-<li>narcolepsy (99.8%)</li>
-<li>narcolepsy-cataplexy syndrome (99.8%)</li>
-<li>Creutzfeldt-Jakob disease (99.7%)</li>
-<li>ACBD5 deficiency (99.7%)</li>
-<li>narcolepsy, susceptibility to (99.7%)</li>
-<li>megaconial type congenital muscular dystrophy (99.6%)</li>
-<li>hypersomnia (disease) (99.5%)</li>
-<li>circadian rhythm sleep disorder (99.4%)</li>
-<li>Balo concentric sclerosis (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Raloxifene Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Raloxifene Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Raloxifene Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/raloxifene-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/raloxifene-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Raloxifene Hydrochloride?">
-<strong>Raloxifene Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Raloxifene Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,57 +24,13 @@ This page combines the AI-predicted indications for Raloxifene Hydrochloride wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>duodenal ulcer (disease) (99.7%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.7%)</li>
-<li>hypoalphalipoproteinemia (99.7%)</li>
-<li>duodenal obstruction (99.6%)</li>
-<li>duodenogastric reflux (99.6%)</li>
-<li>postmenopausal osteoporosis (99.1%)</li>
-<li>Worth syndrome (99.0%)</li>
-<li>homozygous familial hypercholesterolemia (98.7%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (98.6%)</li>
-<li>pregnancy associated osteoporosis (98.5%)</li>
-<li>cerebral infarction (98.2%)</li>
-<li>brain stem infarction (98.0%)</li>
-<li>obsolete familial combined hyperlipidemia (98.0%)</li>
-<li>ABri amyloidosis (97.5%)</li>
-<li>amenorrhea (disease) (97.4%)</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (97.4%)</li>
-<li>cerebral artery occlusion (97.1%)</li>
-<li>cerebral arterial disease (96.8%)</li>
-<li>acne (disease) (96.3%)</li>
-<li>Prinzmetal angina (95.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
-## Related News (3)
+## Related News (0)
 
-### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
----
-
-### [El proyecto español AntheroPTM estudiará cómo prevenir infartos e ictus causados por aterosclerosis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
-
-2026-10-16 <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

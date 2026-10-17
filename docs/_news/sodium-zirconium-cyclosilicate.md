@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Sodium Zirconium Cyclosilica
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/sodium-zirconium-cyclosilicate/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

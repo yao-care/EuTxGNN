@@ -3,7 +3,7 @@ layout: default
 title: "Palonosetron Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Palonosetron Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Palonosetron Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/palonosetron-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/palonosetron-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Palonosetron Hydrochloride?">
-<strong>Palonosetron Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Palonosetron Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Palonosetron Hydrochloride w
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.4%)</li>
-<li>atrophoderma vermiculata (99.1%)</li>
-<li>ulerythema ophryogenesis (99.1%)</li>
-<li>headache disorder (97.9%)</li>
-<li>trigeminal autonomic cephalalgia (97.6%)</li>
-<li>open-angle glaucoma (96.5%)</li>
-<li>sciatic neuropathy (96.4%)</li>
-<li>primary hereditary glaucoma (96.4%)</li>
-<li>dysthymic disorder (96.1%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (95.8%)</li>
-<li>insomnia (disease) (95.3%)</li>
-<li>congenital hypotrichosis milia (95.2%)</li>
-<li>multiple system atrophy (95.1%)</li>
-<li>diffuse alopecia areata (95.1%)</li>
-<li>hypotrichosis simplex of the scalp (94.9%)</li>
-<li>duodenum cancer (94.7%)</li>
-<li>phaeochromocytoma (94.7%)</li>
-<li>irritable bowel syndrome (94.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

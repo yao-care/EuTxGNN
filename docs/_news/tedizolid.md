@@ -14,7 +14,7 @@ permalink: /news/tedizolid/
 ---
 
 <p class="key-answer" data-question="What news is there about Tedizolid?">
-<strong>Tedizolid</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Tedizolid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,15 +51,9 @@ This page combines the AI-predicted indications for Tedizolid with the latest he
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
-
-2026-10-15 <span class="news-indication-tag">BPCO</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

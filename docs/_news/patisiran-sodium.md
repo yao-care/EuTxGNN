@@ -3,7 +3,7 @@ layout: default
 title: "Patisiran Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Patisiran Sodium. Original indication: . 20 predicted indications."
+description: "Health news related to Patisiran Sodium. Original indication: . 0 predicted indications."
 permalink: /news/patisiran-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/patisiran-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Patisiran Sodium?">
-<strong>Patisiran Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Patisiran Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Patisiran Sodium with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>dermatitis (90.7%)</li>
-<li>hydroa vacciniforme, familial (90.1%)</li>
-<li>amyopathic dermatomyositis (90.1%)</li>
-<li>acne keloid (90.0%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (90.0%)</li>
-<li>neonatal dermatomyositis (89.9%)</li>
-<li>acrodermatitis chronica atrophicans (89.1%)</li>
-<li>Smouldering systemic mastocytosis (85.1%)</li>
-<li>overactive bladder (disease) (84.9%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (84.6%)</li>
-<li>systemic mastocytosis (84.6%)</li>
-<li>angioedema (84.0%)</li>
-<li>gastrin secretion abnormality (83.0%)</li>
-<li>low compliance bladder (81.1%)</li>
-<li>hepatic infarction (79.6%)</li>
-<li>HER2 positive breast carcinoma (79.2%)</li>
-<li>peliosis hepatis (79.2%)</li>
-<li>hepatic veno-occlusive disease (79.0%)</li>
-<li>bladder neck obstruction (78.5%)</li>
-<li>mixed-type autoimmune hemolytic anemia (78.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

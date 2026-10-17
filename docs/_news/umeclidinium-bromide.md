@@ -3,7 +3,7 @@ layout: default
 title: "Umeclidinium Bromide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Umeclidinium Bromide. Original indication: . 20 predicted indications."
+description: "Health news related to Umeclidinium Bromide. Original indication: . 0 predicted indications."
 permalink: /news/umeclidinium-bromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/umeclidinium-bromide/
 ---
 
 <p class="key-answer" data-question="What news is there about Umeclidinium Bromide?">
-<strong>Umeclidinium Bromide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Umeclidinium Bromide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Umeclidinium Bromide with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (96.4%)</li>
-<li>migraine with brainstem aura (95.8%)</li>
-<li>open-angle glaucoma (93.3%)</li>
-<li>primary hereditary glaucoma (92.9%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (92.0%)</li>
-<li>gastroduodenitis (91.9%)</li>
-<li>common cold (91.7%)</li>
-<li>atrophoderma vermiculata (91.2%)</li>
-<li>peptic ulcer disease (91.0%)</li>
-<li>allergic urticaria (90.7%)</li>
-<li>migraine with or without aura, susceptibility to (90.6%)</li>
-<li>ulerythema ophryogenesis (89.8%)</li>
-<li>schizophrenia (89.8%)</li>
-<li>Ambras type hypertrichosis universalis congenita (89.8%)</li>
-<li>hypertrichosis (disease) (89.5%)</li>
-<li>insomnia (disease) (89.5%)</li>
-<li>headache disorder (89.4%)</li>
-<li>acute intermittent porphyria (89.4%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (89.1%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (89.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

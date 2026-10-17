@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [En artritis reumatoide un mismo abordaje pese a diferencias biológicas](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
+### [Malattia di Crohn, le conseguenze oltre alla salute fisica - Corriere della Sera](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjJMNkZkWkZUSUFlcWppQk9BbkFQazVxVElHbzJxOEE4M3ZkX3hOSm9NU1pkQ2FfbG9WS1lnNzRvSm9WaGt5Ykpqa1UxbGx0LWQzUzZ2TC01aW1URjNNRi1zOVpIaVdPY2ktSDRIcTJieXNhOG5wb1hpMU05UFVDREFLTEd0LWhHXzNacGJCRkZVWUlxMVJIRjdvdFhET2NMNTRrQ0hNUTFnTHZFZV9sMVpEZFRCVFQybGl6NElPRUJ3a1JudmtQUkZDSWJxWjdJQllRUUNvZ1UtZjJhVHfSAeMBQVVfeXFMT242YUZkWTEwUF9rcHJqem0walhIWlMza3JMY05pNFlOUkQxM0JqQ2ViUjVYdWRKekFVR1JiOFM1aTJNaXdSdUF1LXhReFVTa3VWTjhhYW1FOXNTWGVwTDdyQ2o1THJvMVIwbEowSVRwNFpnbDNtMnF1ZUJ2TThsUTJpSFFWM2FNZEdIU2pySUh4TTRGRHhKd3BFdTRfX0x2SGMxX0xyOUFVdTA5R2hua0pmWkZIcmNnSHQyVDJ2UDBCQ0pRNUR5UzFTOF9oUmRWZHA5dUt6R3BwQ3UyblU2RzdDdms?oc=5)
 
-2026-10-16 <span class="news-indication-tag">artritis</span>
+2026-10-16 <span class="news-indication-tag">malattia di Crohn</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjJMNkZkWkZUSUFlcWppQk9BbkFQazVxVElHbzJxOEE4M3ZkX3hOSm9NU1pkQ2FfbG9WS1lnNzRvSm9WaGt5Ykpqa1UxbGx0LWQzUzZ2TC01aW1URjNNRi1zOVpIaVdPY2ktSDRIcTJieXNhOG5wb1hpMU05UFVDREFLTEd0LWhHXzNacGJCRkZVWUlxMVJIRjdvdFhET2NMNTRrQ0hNUTFnTHZFZV9sMVpEZFRCVFQybGl6NElPRUJ3a1JudmtQUkZDSWJxWjdJQllRUUNvZ1UtZjJhVHfSAeMBQVVfeXFMT242YUZkWTEwUF9rcHJqem0walhIWlMza3JMY05pNFlOUkQxM0JqQ2ViUjVYdWRKekFVR1JiOFM1aTJNaXdSdUF1LXhReFVTa3VWTjhhYW1FOXNTWGVwTDdyQ2o1THJvMVIwbEowSVRwNFpnbDNtMnF1ZUJ2TThsUTJpSFFWM2FNZEdIU2pySUh4TTRGRHhKd3BFdTRfX0x2SGMxX0xyOUFVdTA5R2hua0pmWkZIcmNnSHQyVDJ2UDBCQ0pRNUR5UzFTOF9oUmRWZHA5dUt6R3BwQ3UyblU2RzdDdms?oc=5)
 
 ---
 
@@ -69,19 +69,27 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 
 ---
 
-### [Tosse secca, fiato corto, dolore al petto. Cosa possono voler dire?](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
-
-2026-10-15 <span class="news-indication-tag">BPCO</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMitAFBVV95cUxPZkx5c0lwQ3djM1p1bDVXSjB4LXhZb1BKSkJxajViS3dFZFFLb2hqQVBXWUNHRzNmUVYycmVyMkRYOXNpWkktMmJneWQ2MlJwVUlVMnNWYlNXNmRXRFc5dU1UU2VJXzZFOXIxNkw3UnJwSWhYa0psRmlwLWFsaGptZzMzVlBzZG1TdVl1b0pROXQ3X0tqaEVGVW5ZZDl2ek1ZUUVNMGNTQlhDNkdjbHFxV09jSmo?oc=5)
-
----
-
 ### [(83) Entzündungen im Darm lindern - Dr. Viola Andresen über Morbus Crohn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
 
 2026-10-14 <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

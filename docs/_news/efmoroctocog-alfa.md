@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Efmoroctocog Alfa with the l
 <li>hemorrhagic disorder due to a platelet anomaly (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/efmoroctocog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

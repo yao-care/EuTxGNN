@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Turoctocog Alfa with the lat
 <li>hereditary thrombocytosis with transverse limb defect (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/turoctocog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Fluciclovine (18F) with the 
 <li>ulerythema ophryogenesis (92.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/fluciclovine-18f/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

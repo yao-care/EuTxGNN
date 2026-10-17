@@ -14,7 +14,7 @@ permalink: /news/apixaban/
 ---
 
 <p class="key-answer" data-question="What news is there about Apixaban?">
-<strong>Apixaban</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Apixaban</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page combines the AI-predicted indications for Apixaban with the latest hea
 <p><a href="{{ '/drugs/apixaban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (9)
 
-### [En artritis reumatoide un mismo abordaje pese a diferencias biológicas](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
+### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
-2026-10-16 <span class="news-indication-tag">artritis</span>
+2026-10-16 <span class="news-indication-tag">migraine</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
-
----
-
-### [Bluthochdruck: Gezielte Therapie könnte jährlich 518.476 Todesfälle verhindern](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1VKXzc4Mmo4UlNYaFg4S2s4ZEx6UDNNTUdnWnRLLU56eUVIMlJwSTNVcVdWQ2poUXF3cGNnclNVVk9wdXdMM3hLUmJmb3pKVGRJeUJQQzcwZmhfUDBueWhGNFFnNG1MZ3ptNlZsTUd1bFJMMzBQeHJrck5sWjFVY2VZYUVrYzU2OE5nMDVvcmtvbURkRWY5OU5WeklQT0Q5UndVVzZKcWV6cGV0MkRxOHEwWlNwRERJX1E?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1VKXzc4Mmo4UlNYaFg4S2s4ZEx6UDNNTUdnWnRLLU56eUVIMlJwSTNVcVdWQ2poUXF3cGNnclNVVk9wdXdMM3hLUmJmb3pKVGRJeUJQQzcwZmhfUDBueWhGNFFnNG1MZ3ptNlZsTUd1bFJMMzBQeHJrck5sWjFVY2VZYUVrYzU2OE5nMDVvcmtvbURkRWY5OU5WeklQT0Q5UndVVzZKcWV6cGV0MkRxOHEwWlNwRERJX1E?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
 ---
 
@@ -85,6 +77,14 @@ Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNo
 
 ---
 
+### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+
+---
+
 ### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">artrite</span>
@@ -98,6 +98,30 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
 
 Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
+
+---
+
+### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Etelcalcetide Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Etelcalcetide Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Etelcalcetide Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/etelcalcetide-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etelcalcetide-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Etelcalcetide Hydrochloride?">
-<strong>Etelcalcetide Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Etelcalcetide Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Etelcalcetide Hydrochloride 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hyperphosphatemia (disease) (99.4%)</li>
-<li>esophageal varices with bleeding (99.3%)</li>
-<li>esophageal varices without bleeding (99.3%)</li>
-<li>varicose disease (99.1%)</li>
-<li>glaucoma (98.9%)</li>
-<li>pancreatitis (98.8%)</li>
-<li>primary hyperoxaluria (98.7%)</li>
-<li>primary immunodeficiency syndrome due to p14 deficiency (98.6%)</li>
-<li>severe congenital neutropenia (97.9%)</li>
-<li>Barth syndrome (97.8%)</li>
-<li>familial apolipoprotein C-II deficiency (97.6%)</li>
-<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency (97.5%)</li>
-<li>cyclic hematopoiesis (97.4%)</li>
-<li>Steel syndrome (97.4%)</li>
-<li>familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome (97.4%)</li>
-<li>tumoral calcinosis, hyperphosphatemic, familial (97.3%)</li>
-<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (97.1%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency (97.0%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency (96.9%)</li>
-<li>X-linked severe congenital neutropenia (96.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

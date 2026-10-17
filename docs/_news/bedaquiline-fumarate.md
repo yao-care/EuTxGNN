@@ -3,7 +3,7 @@ layout: default
 title: "Bedaquiline Fumarate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bedaquiline Fumarate. Original indication: . 20 predicted indications."
+description: "Health news related to Bedaquiline Fumarate. Original indication: . 0 predicted indications."
 permalink: /news/bedaquiline-fumarate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bedaquiline-fumarate/
 ---
 
 <p class="key-answer" data-question="What news is there about Bedaquiline Fumarate?">
-<strong>Bedaquiline Fumarate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Bedaquiline Fumarate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Bedaquiline Fumarate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>multidrug-resistant tuberculosis (100.0%)</li>
-<li>tuberculosis, bovine (100.0%)</li>
-<li>tuberculoma (100.0%)</li>
-<li>tuberculous ascites (100.0%)</li>
-<li>inactive tuberculosis (100.0%)</li>
-<li>tuberculosis, avian (100.0%)</li>
-<li>vulvovaginal candidiasis (99.9%)</li>
-<li>fascioliasis (99.9%)</li>
-<li>urea cycle disorder (99.8%)</li>
-<li>cutaneous tuberculosis (99.7%)</li>
-<li>esophageal candidiasis (99.7%)</li>
-<li>inhalational botulism (99.7%)</li>
-<li>helminthiasis, animal (99.6%)</li>
-<li>necatoriasis (99.6%)</li>
-<li>hymenolepiasis (99.6%)</li>
-<li>paragonimiasis (99.6%)</li>
-<li>echinostomiasis (99.6%)</li>
-<li>fascioloidiasis (99.6%)</li>
-<li>monieziasis (99.6%)</li>
-<li>fasciolopsiasis (99.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

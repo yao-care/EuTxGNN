@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Alglucosidase Alfa with the 
 <li>glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form (98.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/alglucosidase-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

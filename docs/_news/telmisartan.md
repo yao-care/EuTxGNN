@@ -42,14 +42,6 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (7)
 
-### [Bluthochdruck: Gezielte Therapie könnte jährlich 518.476 Todesfälle verhindern](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1VKXzc4Mmo4UlNYaFg4S2s4ZEx6UDNNTUdnWnRLLU56eUVIMlJwSTNVcVdWQ2poUXF3cGNnclNVVk9wdXdMM3hLUmJmb3pKVGRJeUJQQzcwZmhfUDBueWhGNFFnNG1MZ3ptNlZsTUd1bFJMMzBQeHJrck5sWjFVY2VZYUVrYzU2OE5nMDVvcmtvbURkRWY5OU5WeklQT0Q5UndVVzZKcWV6cGV0MkRxOHEwWlNwRERJX1E?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1VKXzc4Mmo4UlNYaFg4S2s4ZEx6UDNNTUdnWnRLLU56eUVIMlJwSTNVcVdWQ2poUXF3cGNnclNVVk9wdXdMM3hLUmJmb3pKVGRJeUJQQzcwZmhfUDBueWhGNFFnNG1MZ3ptNlZsTUd1bFJMMzBQeHJrck5sWjFVY2VZYUVrYzU2OE5nMDVvcmtvbURkRWY5OU5WeklQT0Q5UndVVzZKcWV6cGV0MkRxOHEwWlNwRERJX1E?oc=5)
-
----
-
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
@@ -82,6 +74,14 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJ
 
 ---
 
+### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+
+---
+
 ### [Il mio medico: sistema immunitario, ipertensione, memoria e prevenzione](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
 
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
@@ -90,11 +90,11 @@ Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aH
 
 ---
 
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
+### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
 
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
+Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

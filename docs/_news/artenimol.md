@@ -14,7 +14,7 @@ permalink: /news/artenimol/
 ---
 
 <p class="key-answer" data-question="What news is there about Artenimol?">
-<strong>Artenimol</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Artenimol</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,29 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [En artritis reumatoide un mismo abordaje pese a diferencias biológicas](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">artritis</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
-
----
+## Related News (3)
 
 ### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
 
 2026-10-15 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

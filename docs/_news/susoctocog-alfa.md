@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Susoctocog Alfa with the lat
 <li>hemophilia A with vascular abnormality (97.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/susoctocog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

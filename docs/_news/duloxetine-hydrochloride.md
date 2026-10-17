@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Duloxetine Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Duloxetine Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/duloxetine-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine Hydrochloride?">
-<strong>Duloxetine Hydrochloride</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Duloxetine Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,57 +24,13 @@ This page combines the AI-predicted indications for Duloxetine Hydrochloride wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>endogenous depression (99.9%)</li>
-<li>major depressive disorder (99.9%)</li>
-<li>anxiety disorder (99.9%)</li>
-<li>benign paroxysmal torticollis of infancy (99.8%)</li>
-<li>agoraphobia (99.8%)</li>
-<li>obsessive-compulsive disorder (99.8%)</li>
-<li>unipolar depression (99.8%)</li>
-<li>histrionic personality disorder (disease) (99.8%)</li>
-<li>schizoid personality disorder (99.8%)</li>
-<li>paranoid personality disorder (99.8%)</li>
-<li>schizotypal personality disorder (99.8%)</li>
-<li>Ohdo syndrome and variants (99.7%)</li>
-<li>ligneous conjunctivitis (99.7%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.6%)</li>
-<li>dysthymic disorder (99.5%)</li>
-<li>melancholia (99.4%)</li>
-<li>neurotic depression (99.4%)</li>
-<li>myofascial pain syndrome (99.4%)</li>
-<li>phobic disorder (99.4%)</li>
-<li>childhood apraxia of speech (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
-## Related News (3)
+## Related News (0)
 
-### [Ni la vue ni l'ouïe : ce sens caché que la science relie à l'anxiété et à la dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
-
-2026-10-16 <span class="news-indication-tag">dépression</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
-
----
-
-### [GLP-1-Medikamente könnten Zusatznutzen bei Schizophrenie haben – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV196bFVadVhtNzhyZ3dyWGtOdUNBemsyd2FrQkpuVjhpODMyLVAzc2VXdnRIQzlnSVZkamRIUVdpbmhjeGFjeEZMNnVXTXlBYmM0OVdiMFlfZ19seER0c2lHMmlGS0NYZHBwZld5OXN2VnhUY0FIek0zQTJjcHZYSDI2a0NGYWNFcWp0bVpxSjA0Ukp3SEJqaUhVYkk5X3ZIOFlqVlBtRjZMNFcwOWhuOEIycHpHdm5IN0tHN2dfVWx3SzlwZGRXcmJtZw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">depression</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiywFBVV95cUxQV196bFVadVhtNzhyZ3dyWGtOdUNBemsyd2FrQkpuVjhpODMyLVAzc2VXdnRIQzlnSVZkamRIUVdpbmhjeGFjeEZMNnVXTXlBYmM0OVdiMFlfZ19seER0c2lHMmlGS0NYZHBwZld5OXN2VnhUY0FIek0zQTJjcHZYSDI2a0NGYWNFcWp0bVpxSjA0Ukp3SEJqaUhVYkk5X3ZIOFlqVlBtRjZMNFcwOWhuOEIycHpHdm5IN0tHN2dfVWx3SzlwZGRXcmJtZw?oc=5)
-
----
-
-### [Las vías que regulan el estrés celular se encuentran alteradas en los cerebros de personas con depresión y esquizofrenia - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHZ3VUdia1dKcHlPSXRaaldvY2FPT3RuaXhvVzZQclRIbTgtQUsxcndrZVF1R29sZGM0YUJKUnBobTRLT3VNYkdfdnNvLXBrRVhrdndhc0dLZzVOSHVXN2pha0FVRVdQUm5qd2dmUVQza2paLWRhZU42OWxBQXg5STlLRDZxVnlyeHVSUy1IRjlVZGpXbkp2dFN2UmxGZ0N4djNoSi1pTHlsS0ZIa0xJRm5LcUVidG9rU2ZaTUN1b05nRmZjUUpOM3dJNERHOHVEcGlBektDOHp3aDRkZTN5RGhWUjZFb0FReE8zSQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">depresión</span>
-
-Source: [Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHZ3VUdia1dKcHlPSXRaaldvY2FPT3RuaXhvVzZQclRIbTgtQUsxcndrZVF1R29sZGM0YUJKUnBobTRLT3VNYkdfdnNvLXBrRVhrdndhc0dLZzVOSHVXN2pha0FVRVdQUm5qd2dmUVQza2paLWRhZU42OWxBQXg5STlLRDZxVnlyeHVSUy1IRjlVZGpXbkp2dFN2UmxGZ0N4djNoSi1pTHlsS0ZIa0xJRm5LcUVidG9rU2ZaTUN1b05nRmZjUUpOM3dJNERHOHVEcGlBektDOHp3aDRkZTN5RGhWUjZFb0FReE8zSQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

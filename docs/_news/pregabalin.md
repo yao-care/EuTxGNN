@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
 
-### [En artritis reumatoide un mismo abordaje pese a diferencias biológicas](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
+### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
-2026-10-16 <span class="news-indication-tag">artritis</span>
+2026-10-16 <span class="news-indication-tag">migraine</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
 ---
 
@@ -51,6 +51,22 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxR
 2026-10-15 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
+
+---
+
+### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

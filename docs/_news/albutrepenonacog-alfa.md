@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Albutrepenonacog Alfa with t
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/albutrepenonacog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

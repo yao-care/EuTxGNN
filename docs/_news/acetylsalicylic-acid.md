@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Acetylsalicylic Acid with th
 <li>brachydactyly-syndactyly syndrome (98.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/acetylsalicylic-acid/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

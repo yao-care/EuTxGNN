@@ -3,7 +3,7 @@ layout: default
 title: "Darifenacin Hydrobromide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Darifenacin Hydrobromide. Original indication: . 20 predicted indications."
+description: "Health news related to Darifenacin Hydrobromide. Original indication: . 0 predicted indications."
 permalink: /news/darifenacin-hydrobromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/darifenacin-hydrobromide/
 ---
 
 <p class="key-answer" data-question="What news is there about Darifenacin Hydrobromide?">
-<strong>Darifenacin Hydrobromide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Darifenacin Hydrobromide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Darifenacin Hydrobromide wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>overactive bladder (disease) (99.8%)</li>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (96.9%)</li>
-<li>thoracic malformation (96.1%)</li>
-<li>renal-hepatic-pancreatic dysplasia (96.1%)</li>
-<li>Joubert syndrome with renal defect (95.8%)</li>
-<li>low compliance bladder (95.7%)</li>
-<li>adult familial nephronophthisis-spastic quadriparesia syndrome (95.5%)</li>
-<li>karyomegalic interstitial nephritis (95.3%)</li>
-<li>polycystic kidney disease (92.4%)</li>
-<li>primary hereditary glaucoma (86.7%)</li>
-<li>respiratory failure (86.4%)</li>
-<li>tic disorder (84.3%)</li>
-<li>communication disorder (83.6%)</li>
-<li>hypotrichosis simplex of the scalp (83.1%)</li>
-<li>developmental disorder of mental health (83.0%)</li>
-<li>fetal nicotine spectrum disorder (82.3%)</li>
-<li>stereotypic movement disorder (82.3%)</li>
-<li>blepharospasm (82.2%)</li>
-<li>parkinsonian disorder (82.1%)</li>
-<li>bladder neck obstruction (81.9%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

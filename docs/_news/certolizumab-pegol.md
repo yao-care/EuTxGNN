@@ -14,7 +14,7 @@ permalink: /news/certolizumab-pegol/
 ---
 
 <p class="key-answer" data-question="What news is there about Certolizumab Pegol?">
-<strong>Certolizumab Pegol</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Certolizumab Pegol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -48,26 +48,12 @@ This page combines the AI-predicted indications for Certolizumab Pegol with the 
 <li>polyp of external auditory canal (94.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/certolizumab-pegol/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [En artritis reumatoide un mismo abordaje pese a diferencias biológicas](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">artritis</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUU5SUGxRNkFvTkNhdDk3ci03RW9McWRMOHIzX2tJMFNPZy1KenVQdGgySWV5S2RNTTdfZWN2Q2VWYkV2UF9vRjBjb25kd3ZQYlBHMnRGLXlCX05wVmRCeEktTEg2UVl4QmdhbUtCdzU3UVVoWldhZC1temNNdmFsbmxmcTJLd0ZYMFE2eTEyZUdFSUFjUzdBSGQ2czJZUzhPLXZoQ1oxYVpzcFI0aFlIM2JISWw?oc=5)
-
----
-
-### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
-2026-10-15 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

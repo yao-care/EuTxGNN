@@ -26,12 +26,10 @@ This page brings together the latest health news about “psoriasis” and lists
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/blinatumomab/' | relative_url }}">Blinatumomab</a></li>
-<li><a href="{{ '/drugs/darbepoetin-alfa/' | relative_url }}">Darbepoetin Alfa</a></li>
 <li><a href="{{ '/drugs/guselkumab/' | relative_url }}">Guselkumab</a></li>
 <li><a href="{{ '/drugs/inebilizumab/' | relative_url }}">Inebilizumab</a></li>
 <li><a href="{{ '/drugs/lebrikizumab/' | relative_url }}">Lebrikizumab</a></li>
 <li><a href="{{ '/drugs/natalizumab/' | relative_url }}">Natalizumab</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Ozanimod Hydrochloride</a></li>
 <li><a href="{{ '/drugs/risankizumab/' | relative_url }}">Risankizumab</a></li>
 <li><a href="{{ '/drugs/tacrolimus/' | relative_url }}">Tacrolimus</a></li>
 <li><a href="{{ '/drugs/tafasitamab/' | relative_url }}">Tafasitamab</a></li>

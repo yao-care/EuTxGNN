@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Andexanet Alfa with the late
 <li>inherited thrombophilia (91.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/andexanet-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

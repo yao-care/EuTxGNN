@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (14)
 
 ### [Scabies outbreak at Welsh hospital sees visits halted - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzYzRks0cXBoc0lkUjZfaDdUVXpBV1VVOGZydk5TQklPM00wQ0hOSzFxSDNrc2pWTUhWOTg3cWhsUnhxdU01enN0b3BlZG5nNjBPajZ4MjlGUEFJU1p3SG5MVlhGdXdqSmVzUURzNmdyUzh3aDVralV0MVpBSlRGZmZtUEt6Q0IzSGJoNU51SzdIakZwNUHSAZsBQVVfeXFMTklhZURDeW9PTmJyandqY04xakpCU1djalNwNVBGbnU4SWJ0alpIT2VCS3N5eFpZWmF4SW4tbGVucGlrOEx4alVxbFc2LUtxX2lVdkZGTGdVb1RrZXR1SEttQnJlTTJ3LVFFWm9fT3E2OXZOdjMyRDFLdWtUX1dxZHZFRFFvcExMRkVJdUpubkdhRHp5QU12ZTZlMUE?oc=5)
 
@@ -109,43 +109,11 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlC
 
 ---
 
-### [Commercial kitchen staff exposed to high levels of air pollution, study finds - The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUs0LVZ1bGEzQ3ZOaDJKZ2tsMG0wZWh2MzBKR1pqc2sySGhldWx3c1o5MlREbWpWWUV0VU93MkxPNlVSQ01zRXBad0JBelA3eDdCQ2w1SGVTOEMtaHQ0ejRSRmptaTVOcWd4SlBBbEI3M2ZEbzQ4R3NGYm9SLVhiSFh3Rl9XRGwwYm5MVUZJSGdSSnpzWDRfVlpwLUpTU3pyUzBEeUlwbTNHZGwtb1lN?oc=5)
-
-2026-10-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUs0LVZ1bGEzQ3ZOaDJKZ2tsMG0wZWh2MzBKR1pqc2sySGhldWx3c1o5MlREbWpWWUV0VU93MkxPNlVSQ01zRXBad0JBelA3eDdCQ2w1SGVTOEMtaHQ0ejRSRmptaTVOcWd4SlBBbEI3M2ZEbzQ4R3NGYm9SLVhiSFh3Rl9XRGwwYm5MVUZJSGdSSnpzWDRfVlpwLUpTU3pyUzBEeUlwbTNHZGwtb1lN?oc=5)
-
----
-
-### [Osteoporose im Alter: STING-Signalweg könnte Knochenverlust bremsen](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEV1Rmt0bGY3eERfbjhfZ3JCbEdnVndMQ05FNEJheDc3UjNlWTJoSWE2NnlmaWNmRGNyWDNvMmNESFQ1R191a2FaR0I1Um9mRVRuck9JMWE4MXNudENDX3hZSXc3b1FCbmdYTXpEaHU4XzVMLXNMWmJPQ29TRU5nLWE4ZkZDRUpnTGdjV3lRbFVQcmp3UTJ1VzVUQjhoQVlQUXEzNmRMTUtlQ0toTi1aZ3J1ZnQ0aUU?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUEV1Rmt0bGY3eERfbjhfZ3JCbEdnVndMQ05FNEJheDc3UjNlWTJoSWE2NnlmaWNmRGNyWDNvMmNESFQ1R191a2FaR0I1Um9mRVRuck9JMWE4MXNudENDX3hZSXc3b1FCbmdYTXpEaHU4XzVMLXNMWmJPQ29TRU5nLWE4ZkZDRUpnTGdjV3lRbFVQcmp3UTJ1VzVUQjhoQVlQUXEzNmRMTUtlQ0toTi1aZ3J1ZnQ0aUU?oc=5)
-
----
-
 ### [Ocrevus: Rote-Hand-Brief verlangt Lebertests vor den ersten Infusionen](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXVBcFNDcllQQVNZVjRVOWlhQjBub1NHSXJDbVA0RFpTWnRCZUNFM0Jpb1JNTnQ0dG1YSFd4Z1ppZUlBeGNJNUpncHJCMnA3VGJvT2FXSjVORDRPWm1vQjJYeWpQMGJKSDF6aUpkdVdQZlF4OExubUdtYmR6SGREWGh3T19fenkyWnBuSURLdXFCNURiU2NsVU9KMTBvWndsalBCaXhOemFsdkRYa2VFaTIwSE5SNmt4bkE?oc=5)
 
 2026-10-15 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYXVBcFNDcllQQVNZVjRVOWlhQjBub1NHSXJDbVA0RFpTWnRCZUNFM0Jpb1JNTnQ0dG1YSFd4Z1ppZUlBeGNJNUpncHJCMnA3VGJvT2FXSjVORDRPWm1vQjJYeWpQMGJKSDF6aUpkdVdQZlF4OExubUdtYmR6SGREWGh3T19fenkyWnBuSURLdXFCNURiU2NsVU9KMTBvWndsalBCaXhOemFsdkRYa2VFaTIwSE5SNmt4bkE?oc=5)
-
----
-
-### [Prévention, parcours de soins, jeunes… 20 mesures "en faveur de la santé mentale" proposées par un collectif de soignants, d'aidants et de patients](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRXM0b3NrWWg3UXNQeG1ncURCcExvU1l4b0hVZVZpaENfbGtfNHppUGdhOF84cHJQeDZzano3bm9kUzBmQ0dYdy1xTl82TVQzUXpCckJfWXFTSC1HQzlSQVpIQnBSc3hWTnFNdjl1dFpYXzhNN2c0SkZwYUN6cWRpSHh3RldGNENISkgxd0pIZFN6RU0wUll6eDNlUHQ0U0dVTW5hV3daNS01NWV2N0JrUEthbmt4bzhZXzV0RmF2M2hxQzdkSXk3bXlEOWZSbUhwSnU3cFFfUXhEdXEtakJobE5vSHdsTXBkYkFYcjBCd3dzZkp2RDREcEhyRWZrcTF0b1JwVG5DNS03eWpackE3OVdiNTc?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MS</span>
-
-Source: [franceinfo](https://news.google.com/rss/articles/CBMilAJBVV95cUxNRXM0b3NrWWg3UXNQeG1ncURCcExvU1l4b0hVZVZpaENfbGtfNHppUGdhOF84cHJQeDZzano3bm9kUzBmQ0dYdy1xTl82TVQzUXpCckJfWXFTSC1HQzlSQVpIQnBSc3hWTnFNdjl1dFpYXzhNN2c0SkZwYUN6cWRpSHh3RldGNENISkgxd0pIZFN6RU0wUll6eDNlUHQ0U0dVTW5hV3daNS01NWV2N0JrUEthbmt4bzhZXzV0RmF2M2hxQzdkSXk3bXlEOWZSbUhwSnU3cFFfUXhEdXEtakJobE5vSHdsTXBkYkFYcjBCd3dzZkp2RDREcEhyRWZrcTF0b1JwVG5DNS03eWpackE3OVdiNTc?oc=5)
-
----
-
-### [ENTRETIEN. Personnes âgées : ce faux « petit appétit » qui mène à la dénutrition, l’alerte d’un spécialiste en gériatrie](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJVeEs0dG11OWkwVFlUdG1UYzNKWFlLaG1KSWxNNllyai03ekp1dHNhVzNiUnc5cTZsYm5BSDZra25CQ20wU1RvN1pmYmFzWml6UE5lMUxlQ0djYVpGVklDOE9YTmVDSjYtdGlEazFuTHZxYnVxdXNTWFdOejltZEVwZTZMeDFISzVvd2QyUHhNemUwUjlJNWlKR1pVb2lIWk5laWtjVUphR21ZVTVqUmk3VllxNFI0TDFyRzA5RHlMblZ5c0Z3SUUtTE80UHhjSUUyS3U5dndpdUJOcmNYb1RCTWU2TTdmSGFxWVB4TnEzVGFTQTY0Q3NhUmRWazZ5Mm1KclRCOGlDa0tCUy1MenRDUEUzQ2N3T3k4?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MS</span>
-
-Source: [Ouest-France](https://news.google.com/rss/articles/CBMimwJBVV95cUxOTFJVeEs0dG11OWkwVFlUdG1UYzNKWFlLaG1KSWxNNllyai03ekp1dHNhVzNiUnc5cTZsYm5BSDZra25CQ20wU1RvN1pmYmFzWml6UE5lMUxlQ0djYVpGVklDOE9YTmVDSjYtdGlEazFuTHZxYnVxdXNTWFdOejltZEVwZTZMeDFISzVvd2QyUHhNemUwUjlJNWlKR1pVb2lIWk5laWtjVUphR21ZVTVqUmk3VllxNFI0TDFyRzA5RHlMblZ5c0Z3SUUtTE80UHhjSUUyS3U5dndpdUJOcmNYb1RCTWU2TTdmSGFxWVB4TnEzVGFTQTY0Q3NhUmRWazZ5Mm1KclRCOGlDa0tCUy1MenRDUEUzQ2N3T3k4?oc=5)
 
 ---
 
@@ -157,11 +125,11 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXI
 
 ---
 
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+### [Sexual dimorphism in epidermal stem cell dynamics](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBES2pTTFFsMFVFbzZIOGRQOWgza0VIZzZkRlNNeVlIOTRlTl9qSDdqbHlnX2xkRm5jLW4xUEdxX0dWVFp3bHFnRzRpdU9rQ0RMQ0VpT3VpOGVDUnVUUlR3?oc=5)
 
-2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-14 <span class="news-indication-tag">MS</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBES2pTTFFsMFVFbzZIOGRQOWgza0VIZzZkRlNNeVlIOTRlTl9qSDdqbHlnX2xkRm5jLW4xUEdxX0dWVFp3bHFnRzRpdU9rQ0RMQ0VpT3VpOGVDUnVUUlR3?oc=5)
 
 ---
 
@@ -170,14 +138,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVs
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQXRYNE10OGhtRThhclBZa29rUmEzTzZSVllGYzJaSzJtUzBaNHJ3QUJxNFRSOHREREdBNjdTbE5nZ0pSTnhKQjVfaEdfSEhhd1psQXZtSEZFMDNVeHlfV0dmOXFobE1McEdVSlF4cExiTTloT3ZKckZwMUlJY2c?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 
@@ -194,6 +154,14 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS
 2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
+
+---
+
+### [Belfast woman, 28, 'too healthy to even register with GP' had deadly disease - Belfast Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTlMQ1AtOGdXcWJ3THo4YTlPSHp4dnhmc2xDSnVKRUFQMXFkU0NINFE3dUkxZGx2M3JNQVZHLWhQeHdUWmp1eUtKQk4xekJ3VDhTcENTcE16NmhGd3I5RWhXeXVLTkFvLU9LUVZMQ21WblJ6RGx1M1J2U1UxS3pqLWkyLUwyd9IBiwFBVV95cUxPMVVrdHAtMWIwTmxrdjRrSlJYeGNTeGxscTkxa2ljYmlodGhCU0pYZW5kQzVIZGcwNFBVa3h2UVQta3V4cHdxa0ZGOVRZaHBLck44a2tqRnNmM3JrcnFMMmZuajN1TlM5QnRWVTFaTGJfWUthLTA4SWZEUW9VVHhKVS1CRGE5Z3pfdDhR?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [Belfast Live](https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTlMQ1AtOGdXcWJ3THo4YTlPSHp4dnhmc2xDSnVKRUFQMXFkU0NINFE3dUkxZGx2M3JNQVZHLWhQeHdUWmp1eUtKQk4xekJ3VDhTcENTcE16NmhGd3I5RWhXeXVLTkFvLU9LUVZMQ21WblJ6RGx1M1J2U1UxS3pqLWkyLUwyd9IBiwFBVV95cUxPMVVrdHAtMWIwTmxrdjRrSlJYeGNTeGxscTkxa2ljYmlodGhCU0pYZW5kQzVIZGcwNFBVa3h2UVQta3V4cHdxa0ZGOVRZaHBLck44a2tqRnNmM3JrcnFMMmZuajN1TlM5QnRWVTFaTGJfWUthLTA4SWZEUW9VVHhKVS1CRGE5Z3pfdDhR?oc=5)
 
 ---
 

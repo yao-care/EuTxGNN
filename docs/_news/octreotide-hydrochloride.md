@@ -3,7 +3,7 @@ layout: default
 title: "Octreotide Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Octreotide Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Octreotide Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/octreotide-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/octreotide-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Octreotide Hydrochloride?">
-<strong>Octreotide Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Octreotide Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Octreotide Hydrochloride wit
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>vulvar inverted follicular keratosis (99.6%)</li>
-<li>seborrheic keratosis (99.5%)</li>
-<li>nephrotic syndrome ocular anomalies (98.8%)</li>
-<li>Addison disease (98.7%)</li>
-<li>membranoproliferative glomerulonephritis, X-linked (98.7%)</li>
-<li>familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis (98.6%)</li>
-<li>familial idiopathic steroid-resistant nephrotic syndrome with minimal changes (98.6%)</li>
-<li>adrenocortical insufficiency (98.5%)</li>
-<li>primary hypereosinophilic syndrome (98.4%)</li>
-<li>autosomal recessive familial Mediterranean fever (98.3%)</li>
-<li>primary hereditary glaucoma (98.2%)</li>
-<li>secondary hypereosinophilic syndrome (98.1%)</li>
-<li>familial nephrotic syndrome (98.0%)</li>
-<li>open-angle glaucoma (98.0%)</li>
-<li>familial Mediterranean fever, autosomal dominant (97.8%)</li>
-<li>retinal telangiectasia (97.8%)</li>
-<li>renal-hepatic-pancreatic dysplasia (97.7%)</li>
-<li>Smouldering systemic mastocytosis (97.7%)</li>
-<li>gout (97.5%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (97.5%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

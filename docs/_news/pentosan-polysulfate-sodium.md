@@ -3,7 +3,7 @@ layout: default
 title: "Pentosan Polysulfate Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pentosan Polysulfate Sodium. Original indication: . 20 predicted indications."
+description: "Health news related to Pentosan Polysulfate Sodium. Original indication: . 0 predicted indications."
 permalink: /news/pentosan-polysulfate-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pentosan-polysulfate-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Pentosan Polysulfate Sodium?">
-<strong>Pentosan Polysulfate Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Pentosan Polysulfate Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Pentosan Polysulfate Sodium 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary release disorder of platelets (99.7%)</li>
-<li>Glanzmann thrombasthenia (99.7%)</li>
-<li>pseudo-von Willebrand disease (99.6%)</li>
-<li>heparin-induced thrombocytopenia (disease) (98.8%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (98.7%)</li>
-<li>autosomal dominant macrothrombocytopenia (97.8%)</li>
-<li>hemoglobinopathy (97.7%)</li>
-<li>autoimmune hemolytic anemia (97.7%)</li>
-<li>autoimmune thrombocytopenic (97.6%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (97.5%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (97.5%)</li>
-<li>rheumatoid arthritis (97.3%)</li>
-<li>platelet-type bleeding disorder (97.2%)</li>
-<li>acquired aplastic anemia (97.0%)</li>
-<li>partial deletion of the short arm of chromosome 16 (96.8%)</li>
-<li>penile fibromatosis (96.7%)</li>
-<li>disorder of GPI anchor biosynthesis (96.7%)</li>
-<li>beta-thalassemia with other manifestations (96.6%)</li>
-<li>bone Paget disease (96.6%)</li>
-<li>hemolytic anemia due to glucophosphate isomerase deficiency (96.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Enoxaparin Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Enoxaparin Sodium. Original indication: . 20 predicted indications."
+description: "Health news related to Enoxaparin Sodium. Original indication: . 0 predicted indications."
 permalink: /news/enoxaparin-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enoxaparin-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Enoxaparin Sodium?">
-<strong>Enoxaparin Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Enoxaparin Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Enoxaparin Sodium with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>purpura fulminans (99.8%)</li>
-<li>pulmonary embolism (disease) (99.6%)</li>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.6%)</li>
-<li>acquired purpura fulminans (99.0%)</li>
-<li>primary release disorder of platelets (98.9%)</li>
-<li>atypical hemolytic-uremic syndrome with thrombomodulin anomaly (98.6%)</li>
-<li>pseudo-von Willebrand disease (98.5%)</li>
-<li>Glanzmann thrombasthenia (98.3%)</li>
-<li>neuropathy, painful (98.3%)</li>
-<li>disseminated intravascular coagulation (97.5%)</li>
-<li>thrombotic thrombocytopenic purpura (96.7%)</li>
-<li>retinal telangiectasia (90.7%)</li>
-<li>arteriosclerotic retinopathy (89.8%)</li>
-<li>retinal microaneurysm (89.8%)</li>
-<li>vertebral artery occlusion (89.4%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (87.3%)</li>
-<li>retinal artery occlusion (87.1%)</li>
-<li>Ledderhose disease (87.1%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (86.6%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (86.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

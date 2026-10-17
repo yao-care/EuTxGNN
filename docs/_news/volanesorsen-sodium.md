@@ -3,7 +3,7 @@ layout: default
 title: "Volanesorsen Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Volanesorsen Sodium. Original indication: . 20 predicted indications."
+description: "Health news related to Volanesorsen Sodium. Original indication: . 0 predicted indications."
 permalink: /news/volanesorsen-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/volanesorsen-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Volanesorsen Sodium?">
-<strong>Volanesorsen Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Volanesorsen Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Volanesorsen Sodium with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>megaloblastic anemia (disease) (100.0%)</li>
-<li>sclerosing cholangitis (100.0%)</li>
-<li>sickle cell disease and related diseases (100.0%)</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (100.0%)</li>
-<li>sickle cell-hemoglobin d disease syndrome (100.0%)</li>
-<li>sickle cell-hemoglobin c disease syndrome (100.0%)</li>
-<li>sickle cell-hemoglobin E disease syndrome (100.0%)</li>
-<li>sickle cell-beta-thalassemia disease syndrome (100.0%)</li>
-<li>meningococcal infection (100.0%)</li>
-<li>paroxysmal nocturnal hemoglobinuria (100.0%)</li>
-<li>IgG4-related pachymeningitis (100.0%)</li>
-<li>IgG4-related retroperitoneal fibrosis (100.0%)</li>
-<li>mixed-type autoimmune hemolytic anemia (100.0%)</li>
-<li>non-infectious meningitis (100.0%)</li>
-<li>drug-induced autoimmune hemolytic anemia (100.0%)</li>
-<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (100.0%)</li>
-<li>infectious meningitis (100.0%)</li>
-<li>bone Paget disease (100.0%)</li>
-<li>psoriasis (100.0%)</li>
-<li>proteinuria (100.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

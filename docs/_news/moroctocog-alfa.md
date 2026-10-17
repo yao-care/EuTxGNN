@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Moroctocog Alfa with the lat
 <li>Ehlers-Danlos syndrome, fibronectinemic type (97.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/moroctocog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

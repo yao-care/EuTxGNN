@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Simoctocog Alfa with the lat
 <li>Thrombotic thrombocytopenic purpura | 99.724% | L5 | Prothrombotic condition; FVIII could pose a safety concern (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/simoctocog-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

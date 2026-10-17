@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Glycerol Phenylbutyrate with
 <li>Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency | 96.56% | The most biologically plausible candidate; functionally close to the approved UCD indication (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/glycerol-phenylbutyrate/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

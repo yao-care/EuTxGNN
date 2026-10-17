@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Vestronidase Alfa with the l
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/vestronidase-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

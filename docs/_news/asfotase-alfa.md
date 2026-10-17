@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Asfotase Alfa with the lates
 <li>Sanfilippo syndrome (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/asfotase-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

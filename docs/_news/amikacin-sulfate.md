@@ -3,7 +3,7 @@ layout: default
 title: "Amikacin Sulfate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Amikacin Sulfate. Original indication: . 20 predicted indications."
+description: "Health news related to Amikacin Sulfate. Original indication: . 0 predicted indications."
 permalink: /news/amikacin-sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amikacin-sulfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Amikacin Sulfate?">
-<strong>Amikacin Sulfate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Amikacin Sulfate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Amikacin Sulfate with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>paratyphoid fever (99.8%)</li>
-<li>diffuse scleroderma (99.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.8%)</li>
-<li>typhoid fever (99.8%)</li>
-<li>epiglottitis (99.7%)</li>
-<li>salmonellosis (99.7%)</li>
-<li>bacterial meningitis (99.7%)</li>
-<li>congenital analbuminemia (99.6%)</li>
-<li>polyclonal hyperviscosity syndrome (99.6%)</li>
-<li>hyperamylasemia (99.6%)</li>
-<li>meningococcemia (99.6%)</li>
-<li>staphylococcal pneumonia (99.5%)</li>
-<li>neurotrophic keratopathy (99.5%)</li>
-<li>exposure keratitis (99.4%)</li>
-<li>bacterial arthritis (99.4%)</li>
-<li>blood group incompatibility (99.4%)</li>
-<li>gingivitis (99.4%)</li>
-<li>bacterial pneumonia (99.3%)</li>
-<li>premalignant hematological system disease (99.3%)</li>
-<li>pneumococcal meningitis (99.3%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

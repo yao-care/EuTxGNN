@@ -3,7 +3,7 @@ layout: default
 title: "Dalbavancin Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dalbavancin Hydrochloride. Original indication: . 20 predicted indications."
+description: "Health news related to Dalbavancin Hydrochloride. Original indication: . 0 predicted indications."
 permalink: /news/dalbavancin-hydrochloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dalbavancin-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dalbavancin Hydrochloride?">
-<strong>Dalbavancin Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Dalbavancin Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,41 +24,13 @@ This page combines the AI-predicted indications for Dalbavancin Hydrochloride wi
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>postinfectious vasculitis (99.8%)</li>
-<li>post-bacterial disorder (99.8%)</li>
-<li>post-infectious syndrome (99.8%)</li>
-<li>infective urethral stricture (99.7%)</li>
-<li>Chagas cardiomyopathy (99.7%)</li>
-<li>infection-related hemolytic uremic syndrome (99.7%)</li>
-<li>otitis externa (99.7%)</li>
-<li>ophthalmic herpes zoster (99.2%)</li>
-<li>skin disease caused by infection (99.2%)</li>
-<li>infectious mononucleosis (99.2%)</li>
-<li>orbital cellulitis (99.0%)</li>
-<li>tinea corporis (98.9%)</li>
-<li>drug-induced osteoporosis (98.7%)</li>
-<li>infectious otitis interna (97.2%)</li>
-<li>ulcerative blepharitis (97.2%)</li>
-<li>parasitic eyelid infestation (97.2%)</li>
-<li>abdominal ectopic pregnancy (96.8%)</li>
-<li>celiac trunk compression syndrome (96.8%)</li>
-<li>abdominal cystic lymphangioma (96.8%)</li>
-<li>lymph node palisaded myofibroblastoma (96.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
-
-Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

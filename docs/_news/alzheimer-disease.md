@@ -25,12 +25,10 @@ This page brings together the latest health news about “dementia” and lists 
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><a href="{{ '/drugs/' | relative_url }}">Alectinib Hydrochloride</a></li>
 <li><a href="{{ '/drugs/brigatinib/' | relative_url }}">Brigatinib</a></li>
 <li><a href="{{ '/drugs/carbidopa/' | relative_url }}">Carbidopa</a></li>
 <li><a href="{{ '/drugs/ceritinib/' | relative_url }}">Ceritinib</a></li>
 <li><a href="{{ '/drugs/crizotinib/' | relative_url }}">Crizotinib</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Dasatinib Monohydrate</a></li>
 <li><a href="{{ '/drugs/entacapone/' | relative_url }}">Entacapone</a></li>
 <li><a href="{{ '/drugs/erlotinib/' | relative_url }}">Erlotinib</a></li>
 <li><a href="{{ '/drugs/gefitinib/' | relative_url }}">Gefitinib</a></li>

@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Carglumic Acid with the late
 <li>blepharophimosis-radioulnar synostosis syndrome (83.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/carglumic-acid/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

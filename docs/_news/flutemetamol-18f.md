@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Flutemetamol (18F) with the 
 <li>disorder of GPI anchor biosynthesis (91.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/flutemetamol-18f/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

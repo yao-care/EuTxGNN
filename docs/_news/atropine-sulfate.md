@@ -3,7 +3,7 @@ layout: default
 title: "Atropine Sulfate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Atropine Sulfate. Original indication: . 20 predicted indications."
+description: "Health news related to Atropine Sulfate. Original indication: . 0 predicted indications."
 permalink: /news/atropine-sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atropine-sulfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Atropine Sulfate?">
-<strong>Atropine Sulfate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Atropine Sulfate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Atropine Sulfate with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (99.6%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>migraine with or without aura, susceptibility to (98.2%)</li>
-<li>atrophoderma vermiculata (98.2%)</li>
-<li>open-angle glaucoma (98.0%)</li>
-<li>primary hereditary glaucoma (97.8%)</li>
-<li>ulerythema ophryogenesis (97.8%)</li>
-<li>headache disorder (97.2%)</li>
-<li>trigeminal autonomic cephalalgia (96.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (96.3%)</li>
-<li>diffuse alopecia areata (95.3%)</li>
-<li>hypertrichosis (disease) (95.3%)</li>
-<li>congenital hypotrichosis milia (95.2%)</li>
-<li>alopecia (95.1%)</li>
-<li>Ambras type hypertrichosis universalis congenita (95.1%)</li>
-<li>common cold (95.1%)</li>
-<li>hypotrichosis simplex of the scalp (95.0%)</li>
-<li>sciatic neuropathy (94.7%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (94.6%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (94.6%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

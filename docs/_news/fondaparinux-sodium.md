@@ -3,7 +3,7 @@ layout: default
 title: "Fondaparinux Sodium News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fondaparinux Sodium. Original indication: . 20 predicted indications."
+description: "Health news related to Fondaparinux Sodium. Original indication: . 0 predicted indications."
 permalink: /news/fondaparinux-sodium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fondaparinux-sodium/
 ---
 
 <p class="key-answer" data-question="What news is there about Fondaparinux Sodium?">
-<strong>Fondaparinux Sodium</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fondaparinux Sodium</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,30 +24,8 @@ This page combines the AI-predicted indications for Fondaparinux Sodium with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pulmonary embolism (disease) (96.4%)</li>
-<li>primary release disorder of platelets (93.1%)</li>
-<li>pseudo-von Willebrand disease (90.9%)</li>
-<li>Glanzmann thrombasthenia (90.6%)</li>
-<li>Ledderhose disease (89.3%)</li>
-<li>vertebral artery occlusion (87.4%)</li>
-<li>retinal microaneurysm (87.4%)</li>
-<li>arteriosclerotic retinopathy (87.4%)</li>
-<li>infantile digital fibromatosis (87.0%)</li>
-<li>palmar fibromatosis (86.5%)</li>
-<li>retinal telangiectasia (86.4%)</li>
-<li>thrombotic thrombocytopenic purpura (86.3%)</li>
-<li>retinal artery occlusion (84.5%)</li>
-<li>penile fibromatosis (84.5%)</li>
-<li>atypical hemolytic-uremic syndrome with thrombomodulin anomaly (80.7%)</li>
-<li>purpura fulminans (78.5%)</li>
-<li>neuropathy, painful (78.0%)</li>
-<li>breast fibrocystic disease (75.6%)</li>
-<li>thrombocytopenic purpura (75.2%)</li>
-<li>hepatopulmonary syndrome (75.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

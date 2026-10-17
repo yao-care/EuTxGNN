@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Dibotermin Alfa with the lat
 <li>anemia of prematurity (98.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dibotermin-alfa/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)

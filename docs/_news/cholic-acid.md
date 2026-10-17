@@ -48,7 +48,7 @@ This page combines the AI-predicted indications for Cholic Acid with the latest 
 <li>cerebral folate deficiency (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/cholic-acid/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (0)
