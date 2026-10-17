@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carbidopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson's disease with end-of-dose motor fluctuations not stabilise…"
 monitor_inn: "Carbidopa"
-predicted_indications: ["Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "myelitis", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "paralysis agitans, juvenile, of Hunt", "progressive supranuclear palsy-corticobasal syndrome", "X-linked intellectual disability-ataxia-apraxia syndrome", "X-linked intellectual disability-cerebellar hypoplasia syndrome"]
+predicted_indications: ["Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "myelitis", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "progressive supranuclear palsy-corticobasal syndrome", "X-linked intellectual disability-ataxia-apraxia syndrome", "X-linked intellectual disability-cerebellar hypoplasia syndrome"]
 ---
 
 # Carbidopa

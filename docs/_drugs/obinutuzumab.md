@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Obinutuzumab: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lym… (evidence level L5). Approved use: Chronic lymphocytic leukaemia (CLL), in combination wi…"
 monitor_inn: "Obinutuzumab"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "mantle cell lymphoma", "metastatic neoplasm", "malignant spiradenoma", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "Langerhans cell histiocytosis", "thyroid gland mucosa-associated lymphoid tissue lymphoma"]
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "mantle cell lymphoma", "metastatic neoplasm", "malignant spiradenoma", "small intestinal Burkitt lymphoma", "Langerhans cell histiocytosis", "thyroid gland mucosa-associated lymphoid tissue lymphoma"]
 ---
 
 # Obinutuzumab

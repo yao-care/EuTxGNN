@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Treatment of ocular signs and symptoms of seasonal allergic conjuncti…"
 monitor_inn: "Olopatadine"
-predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "blepharoconjunctivitis"]
+predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis"]
 ---
 
 # Olopatadine

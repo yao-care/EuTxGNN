@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Newborns ≥34 weeks gestation with hypoxic respiratory failure…"
 monitor_inn: "Nitric Oxide"
-predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
 ---
 
 # Nitric Oxide

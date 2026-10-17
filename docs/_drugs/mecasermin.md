@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mecasermin: predicted new indication Monosomy X (evidence level L5). Approved use: Long-term treatment of growth failure in children and adolescents wit…"
 monitor_inn: "Mecasermin"
-predicted_indications: ["monosomy X", "Wolman disease with hypolipoproteinemia and acanthocytosis", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "esophageal varices without bleeding", "esophageal varices with bleeding", "autosomal ichthyosis syndrome with fatal disease course", "Gaucher disease", "varicose disease", "congenital pulmonary lymphangiectasia", "cholesteryl ester storage disease"]
+predicted_indications: ["monosomy X", "Wolman disease with hypolipoproteinemia and acanthocytosis", "esophageal varices without bleeding", "esophageal varices with bleeding", "autosomal ichthyosis syndrome with fatal disease course", "Gaucher disease", "varicose disease", "congenital pulmonary lymphangiectasia", "cholesteryl ester storage disease"]
 ---
 
 # Mecasermin

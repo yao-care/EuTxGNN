@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ixazomib: predicted new indication Indolent plasma cell myeloma (evidence level L3). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
 monitor_inn: "Ixazomib"
-predicted_indications: ["indolent plasma cell myeloma", "CMM7", "pediatric leptomeningeal melanoma", "vulvar melanoma (disease)", "epithelioid cell uveal melanoma", "ganglioneuroblastoma (disease)", "melanoma", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction", "intellectual disability, autosomal dominant 55, with seizures"]
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "vulvar melanoma (disease)", "epithelioid cell uveal melanoma", "ganglioneuroblastoma (disease)", "melanoma", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction", "intellectual disability, autosomal dominant 55, with seizures"]
 ---
 
 # Ixazomib

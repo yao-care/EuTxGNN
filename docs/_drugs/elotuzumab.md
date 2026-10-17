@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Elotuzumab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma in adults who have received at least one prior thera…"
 monitor_inn: "Elotuzumab"
-predicted_indications: ["indolent plasma cell myeloma", "lipoma of colon", "cecum villous adenoma", "colonic lymphangioma", "colon leiomyoma", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "cavernous hemangioma of colon"]
+predicted_indications: ["lipoma of colon", "cecum villous adenoma", "colonic lymphangioma", "colon leiomyoma", "rectosigmoid junction neoplasm", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "cavernous hemangioma of colon"]
 ---
 
 # Elotuzumab

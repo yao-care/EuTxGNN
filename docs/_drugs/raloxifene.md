@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Raloxifene: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment and prevention of osteoporosis in postmenopausal women"
 monitor_inn: "Raloxifene"
-predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux", "Worth syndrome", "homozygous familial hypercholesterolemia", "autosomal dominant neovascular inflammatory vitreoretinopathy", "pregnancy associated osteoporosis", "brain stem infarction", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux", "Worth syndrome", "homozygous familial hypercholesterolemia", "autosomal dominant neovascular inflammatory vitreoretinopathy", "brain stem infarction", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Raloxifene

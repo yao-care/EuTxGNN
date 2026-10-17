@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Artenimol: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Treatment of uncomplicated Plasmodium falciparum malaria in adults…"
 monitor_inn: "Artenimol"
-predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "systemic mastocytosis", "Plasmodium vivax malaria", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "rheumatoid nodulosis", "juvenile idiopathic arthritis", "West syndrome", "intellectual disability, X-linked, with or without seizures, arx-related"]
+predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "systemic mastocytosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "rheumatoid nodulosis", "juvenile idiopathic arthritis", "West syndrome", "intellectual disability, X-linked, with or without seizures, arx-related"]
 ---
 
 # Artenimol

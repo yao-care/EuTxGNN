@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Temozolomide: predicted new indication Adult astrocytic tumour (evidence level L1). Approved use: Newly diagnosed glioblastoma multiforme (with radiotherapy…"
 monitor_inn: "Temozolomide"
-predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm", "childhood cerebral astrocytoma", "cerebellar astrocytoma", "subependymal giant cell astrocytoma", "diencephalic astrocytomas", "astrocytic tumor", "high grade astrocytic tumor", "low grade astrocytic tumor", "brain astrocytoma"]
+predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm", "childhood cerebral astrocytoma", "cerebellar astrocytoma", "subependymal giant cell astrocytoma", "diencephalic astrocytomas", "low grade astrocytic tumor"]
 ---
 
 # Temozolomide

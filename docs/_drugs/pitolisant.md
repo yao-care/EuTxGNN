@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pitolisant: predicted new indication Insomnia (evidence level L4). Approved use: Improving wakefulness and reducing excessive daytime sleepiness (EDS)…"
 monitor_inn: "Pitolisant"
-predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation", "ACBD5 deficiency", "Creutzfeldt-Jakob disease", "narcolepsy, susceptibility to", "megaconial type congenital muscular dystrophy", "hypersomnia (disease)", "circadian rhythm sleep disorder"]
+predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation", "ACBD5 deficiency", "Creutzfeldt-Jakob disease", "megaconial type congenital muscular dystrophy", "hypersomnia (disease)", "circadian rhythm sleep disorder"]
 ---
 
 # Pitolisant

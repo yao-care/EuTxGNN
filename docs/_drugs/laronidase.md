@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L3). Approved use: Long-term enzyme replacement therapy in patients with a confirmed dia…"
 monitor_inn: "Laronidase"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome", "lysosomal disease with hypertrophic cardiomyopathy", "syndromic neurometabolic disease with X-linked intellectual disability", "eyelids malposition disorder", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
+predicted_indications: ["camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-strabismus-ectopic pupils syndrome", "inborn disorder of lysosomal amino acid transport", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "ptosis-vocal cord paralysis syndrome"]
 ---
 
 # Laronidase

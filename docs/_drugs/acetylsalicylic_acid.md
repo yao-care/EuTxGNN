@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acetylsalicylic Acid: predicted new indication Migraine with brainstem aura (evidence level L3). Approved use: Secondary prevention of atherothrombotic events in adults already tak…"
 monitor_inn: "Acetylsalicylic acid"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia", "Raynaud disease"]
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia", "Raynaud disease"]
 ---
 
 # Acetylsalicylic Acid

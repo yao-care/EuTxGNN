@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L5). Approved use: Advanced gastric cancer (with cisplatin)"
 monitor_inn: "Gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "malignant gastric granular cell tumor", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "cardia cancer", "colonic lymphangioma", "colon leiomyoma", "gastric lymphoma"]
+predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 ---
 
 # Gimeracil

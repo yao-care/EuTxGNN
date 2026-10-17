@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Olaparib: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Ovarian cancer (maintenance treatment of BRCA1/2-mutated or HRD-posit…"
 monitor_inn: "Olaparib"
-predicted_indications: ["female breast carcinoma", "gonadal germ cell tumor", "ovarian primitive germ cell tumor", "choriocarcinoma of ovary", "ovarian neoplasm", "ovarian malignant mesothelioma", "malignant non-epithelial tumor of ovary", "ovarian cancer, susceptibility to, 1", "ovarian adenosarcoma", "ovarian Sertoli-Leydig cell tumor"]
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Olaparib

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Reteplase: predicted new indication Posterolateral myocardial infarction (evidence level L4). Approved use: Thrombolytic treatment of suspected myocardial infarction with persis…"
 monitor_inn: "Reteplase"
-predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
+predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
 ---
 
 # Reteplase

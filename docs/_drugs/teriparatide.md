@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Teriparatide: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Treatment of osteoporosis in postmenopausal women and in men at incre…"
 monitor_inn: "Teriparatide"
-predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "pregnancy associated osteoporosis", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
+predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 ---
 
 # Teriparatide

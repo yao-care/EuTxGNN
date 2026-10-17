@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Axitinib: predicted new indication Renal cell carcinoma associated with neuroblastoma . The evidence bel… (evidence level L5). Approved use: Advanced renal cell carcinoma (RCC) after failure of prior…"
 monitor_inn: "Axitinib"
-predicted_indications: ["renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Axitinib

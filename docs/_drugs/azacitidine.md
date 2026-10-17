@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Azacitidine: predicted new indication Bulbar polio (evidence level L5). Approved use: Adult patients not eligible for haematopoietic stem cell transplantat…"
 monitor_inn: "Azacitidine"
-predicted_indications: ["bulbar polio", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "familial thrombocytosis"]
+predicted_indications: ["bulbar polio", "refractory cytopenia of childhood", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "familial thrombocytosis"]
 ---
 
 # Azacitidine

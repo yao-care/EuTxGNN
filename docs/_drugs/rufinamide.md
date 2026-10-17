@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rufinamide: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L5). Approved use: Adjunctive therapy for seizures associated with Lennox-Gastaut syndro…"
 monitor_inn: "Rufinamide"
-predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "trigeminal nerve neoplasm", "benign occipital epilepsy", "childhood onset epileptic encephalopathy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "renal-hepatic-pancreatic dysplasia"]
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "trigeminal nerve neoplasm", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "renal-hepatic-pancreatic dysplasia"]
 ---
 
 # Rufinamide

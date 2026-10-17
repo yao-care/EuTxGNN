@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Simvastatin: predicted new indication Familial hypercholesterolemia (evidence level L1). Approved use: Adjunctive therapy to diet and exercise in high cardiovascular risk a…"
 monitor_inn: "Simvastatin"
-predicted_indications: ["familial hypercholesterolemia", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
+predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
 ---
 
 # Simvastatin

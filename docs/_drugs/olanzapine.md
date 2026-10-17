@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "distal 17p13.3 microdeletion syndrome", "neurotic disorder", "neurotic depression", "melancholia", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "distal 17p13.3 microdeletion syndrome", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
 ---
 
 # Olanzapine

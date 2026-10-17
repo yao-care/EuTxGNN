@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isatuximab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma (in combination with pomalidomide/dexamethasone…"
 monitor_inn: "Isatuximab"
-predicted_indications: ["indolent plasma cell myeloma", "cholangiocarcinoma, susceptibility to", "minimally invasive lung adenocarcinoma", "placenta disease", "GCGR-related hyperglucagonemia", "hemoglobin C-beta-thalassemia syndrome", "giant cell reparative granuloma", "dental caries", "colon inflammatory polyp", "epidural abscess"]
+predicted_indications: ["cholangiocarcinoma, susceptibility to", "minimally invasive lung adenocarcinoma", "placenta disease", "GCGR-related hyperglucagonemia", "hemoglobin C-beta-thalassemia syndrome", "giant cell reparative granuloma", "dental caries", "colon inflammatory polyp", "epidural abscess"]
 ---
 
 # Isatuximab

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Chronic iron overload due to frequent blood transfusions in beta thal…"
 monitor_inn: "Deferasirox"
-predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 ---
 
 # Deferasirox

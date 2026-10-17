@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L5). Approved use: Newly diagnosed de novo or secondary AML in adults not eligible for s…"
 monitor_inn: "Decitabine"
-predicted_indications: ["refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "bulbar polio", "severe congenital hypochromic anemia with ringed sideroblasts", "5q35 microduplication syndrome", "upper aerodigestive tract neoplasm", "neuralgic amyotrophy", "amyotrophic neuralgia"]
+predicted_indications: ["refractory cytopenia of childhood", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "bulbar polio", "severe congenital hypochromic anemia with ringed sideroblasts", "5q35 microduplication syndrome", "upper aerodigestive tract neoplasm", "neuralgic amyotrophy", "amyotrophic neuralgia"]
 ---
 
 # Decitabine

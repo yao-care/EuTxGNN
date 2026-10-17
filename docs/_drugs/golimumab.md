@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Golimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (RA), in combination with methotrexate…"
 monitor_inn: "Golimumab"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "congenital hypotrichosis with juvenile macular dystrophy", "polyp of vocal cord", "polyp of middle ear", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "congenital hypotrichosis with juvenile macular dystrophy", "polyp of vocal cord", "polyp of middle ear", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
 ---
 
 # Golimumab

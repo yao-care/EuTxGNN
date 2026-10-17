@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Short-term treatment of reflux symptoms (e.g. heartburn…"
 monitor_inn: "Pantoprazole"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)", "acne (disease)", "gastric ulcer (disease)", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
+predicted_indications: ["duodenal obstruction", "acne (disease)", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Pantoprazole

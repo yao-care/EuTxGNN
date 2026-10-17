@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Stiripentol: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Adjunctive therapy (with clobazam and valproate) of refractory genera…"
 monitor_inn: "Stiripentol"
-predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm", "West syndrome", "1q44 microdeletion syndrome", "episodic kinesigenic dyskinesia", "acute encephalopathy with biphasic seizures and late reduced diffusion", "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation", "neonatal period electroclinical syndrome", "Wernicke-Korsakoff syndrome", "myoclonic epilepsy, Hartung type"]
+predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm", "1q44 microdeletion syndrome", "episodic kinesigenic dyskinesia", "acute encephalopathy with biphasic seizures and late reduced diffusion", "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Stiripentol

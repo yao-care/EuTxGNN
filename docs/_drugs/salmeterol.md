@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Salmeterol: predicted new indication Bronchitis (evidence level L1). Approved use: Regular treatment of asthma in adults and adolescents aged 12 years a…"
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma", "asthma-related traits, susceptibility to", "atopic eczema"]
+predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma-related traits, susceptibility to", "atopic eczema"]
 ---
 
 # Salmeterol

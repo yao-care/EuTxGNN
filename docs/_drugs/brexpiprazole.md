@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brexpiprazole: predicted new indication Dysthymic disorder (evidence level L5). Approved use: Schizophrenia in adults and adolescents aged 13 years and older"
 monitor_inn: "Brexpiprazole"
-predicted_indications: ["dysthymic disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "neurotic depression", "melancholia", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "retinal dystrophy with or without extraocular anomalies", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "retinal dystrophy with or without extraocular anomalies", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
 ---
 
 # Brexpiprazole

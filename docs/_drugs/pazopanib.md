@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pazopanib: predicted new indication Unclassified renal cell carcinoma (evidence level L3). Approved use: Advanced renal-cell carcinoma (first-line…"
 monitor_inn: "Pazopanib"
-predicted_indications: ["unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "liposarcoma", "childhood kidney cell carcinoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+predicted_indications: ["fibroblastic neoplasm"]
 ---
 
 # Pazopanib

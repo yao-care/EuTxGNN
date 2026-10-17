@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Elvitegravir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV-1 infection in adults and adolescents (aged 12 years and older…"
 monitor_inn: "Elvitegravir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "congenital human immunodeficiency virus", "AIDS related complex", "chronic hepatitis C virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "Omsk hemorrhagic fever"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "chronic hepatitis C virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "Omsk hemorrhagic fever"]
 ---
 
 # Elvitegravir

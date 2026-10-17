@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tafamidis: predicted new indication Primary amyloidosis (evidence level L4). Approved use: Transthyretin amyloidosis in adults with stage-1 symptomatic polyneur…"
 monitor_inn: "Tafamidis"
-predicted_indications: ["primary release disorder of platelets", "thrombocytopenic purpura", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "primary amyloidosis", "acquired amyloid peripheral neuropathy", "primary hyperoxaluria", "dermis disease", "biotin metabolic disease", "mixed-type autoimmune hemolytic anemia"]
+predicted_indications: ["primary release disorder of platelets", "thrombocytopenic purpura", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "primary hyperoxaluria", "dermis disease", "biotin metabolic disease", "mixed-type autoimmune hemolytic anemia"]
 ---
 
 # Tafamidis

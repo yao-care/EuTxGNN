@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Luspatercept: predicted new indication Monosomy X (evidence level L5). Approved use: Transfusion-dependent anaemia due to very low…"
 monitor_inn: "Luspatercept"
-predicted_indications: ["monosomy X", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "pyruvate kinase deficiency of red cells", "thalassemia, beta+, silent allele", "familial apolipoprotein C-II deficiency", "adenosine deaminase deficiency", "Hb Bart's hydrops fetalis"]
+predicted_indications: ["monosomy X", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "pyruvate kinase deficiency of red cells", "familial apolipoprotein C-II deficiency", "adenosine deaminase deficiency", "Hb Bart's hydrops fetalis"]
 ---
 
 # Luspatercept

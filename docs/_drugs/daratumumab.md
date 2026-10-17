@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Daratumumab: predicted new indication Indolent plasma cell myeloma (evidence level L4). Approved use: Multiple myeloma (newly diagnosed and relapsed/refractory…"
 monitor_inn: "Daratumumab"
-predicted_indications: ["indolent plasma cell myeloma", "cholangiocarcinoma, susceptibility to", "placenta disease", "minimally invasive lung adenocarcinoma", "GCGR-related hyperglucagonemia", "hemoglobin C-beta-thalassemia syndrome", "giant cell reparative granuloma", "colon inflammatory polyp", "dental caries", "epidural abscess"]
+predicted_indications: ["cholangiocarcinoma, susceptibility to", "placenta disease", "minimally invasive lung adenocarcinoma", "GCGR-related hyperglucagonemia", "hemoglobin C-beta-thalassemia syndrome", "giant cell reparative granuloma", "colon inflammatory polyp", "dental caries", "epidural abscess"]
 ---
 
 # Daratumumab

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Selexipag: predicted new indication Pulmonary arterial hypertension associated with congenital heart dise… (evidence level L3). Approved use: Long-term treatment of PAH in adults with WHO functional …"
 monitor_inn: "Selexipag"
-predicted_indications: ["pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with HIV infection", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "malformation syndrome with odontal and/or periodontal component"]
+predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "malformation syndrome with odontal and/or periodontal component"]
 ---
 
 # Selexipag

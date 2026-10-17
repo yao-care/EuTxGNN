@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glycerol Phenylbutyrate: predicted new indication Citrullinemia, type II, adult-onset (evidence level L5). Approved use: Adjunctive therapy for chronic management of urea cycle disorders (CP…"
 monitor_inn: "Glycerol phenylbutyrate"
-predicted_indications: ["citrullinemia, type II, adult-onset", "3-methylcrotonyl-CoA carboxylase 1 deficiency", "hyperinsulinism-hyperammonemia syndrome", "hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency", "benign neoplasm of adrenal gland", "familial apolipoprotein C-II deficiency", "polycystic kidney disease 3 with or without polycystic liver disease", "acute intermittent porphyria", "renal-hepatic-pancreatic dysplasia", "autosomal ichthyosis syndrome with fatal disease course"]
+predicted_indications: ["benign neoplasm of adrenal gland", "familial apolipoprotein C-II deficiency", "polycystic kidney disease 3 with or without polycystic liver disease", "acute intermittent porphyria", "renal-hepatic-pancreatic dysplasia", "autosomal ichthyosis syndrome with fatal disease course"]
 ---
 
 # Glycerol Phenylbutyrate

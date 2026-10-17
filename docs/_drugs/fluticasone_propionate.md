@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluticasone Propionate: predicted new indication Atopic dermatitis (evidence level L2). Approved use: Regular treatment of asthma in adults and adolescents aged 12 years a…"
 monitor_inn: "Fluticasone propionate"
-predicted_indications: ["2-hydroxyethyl methacrylate sensitization", "vulvar inverted follicular keratosis", "alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "atopic dermatitis", "polyp of vocal cord", "hereditary hypotrichosis with recurrent skin vesicles", "polyp of middle ear"]
+predicted_indications: ["2-hydroxyethyl methacrylate sensitization", "vulvar inverted follicular keratosis", "alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "polyp of vocal cord", "hereditary hypotrichosis with recurrent skin vesicles", "polyp of middle ear"]
 ---
 
 # Fluticasone Propionate

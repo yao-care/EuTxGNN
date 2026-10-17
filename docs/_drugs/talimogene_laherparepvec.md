@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Talimogene Laherparepvec: predicted new indication CMM7 (ambiguous label) (evidence level L5). Approved use: Unresectable melanoma that is regionally or distantly metastatic (Sta…"
 monitor_inn: "Talimogene laherparepvec"
-predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma", "non-small cell squamous lung carcinoma", "external ear basal cell carcinoma", "urethral verrucous carcinoma"]
+predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma", "non-small cell squamous lung carcinoma", "external ear basal cell carcinoma", "urethral verrucous carcinoma"]
 ---
 
 # Talimogene Laherparepvec

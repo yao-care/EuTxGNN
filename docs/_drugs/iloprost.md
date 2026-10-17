@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Iloprost: predicted new indication Pulmonary arterial hypertension associated with congenital heart dise… (evidence level L3). Approved use: Treatment of patients with primary pulmonary hypertension…"
 monitor_inn: "Iloprost"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with HIV infection", "diffuse alopecia areata", "alopecia"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata", "alopecia"]
 ---
 
 # Iloprost

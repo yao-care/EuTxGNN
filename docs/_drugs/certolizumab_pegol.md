@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Certolizumab Pegol: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (moderate to severe, active, in adults)…"
 monitor_inn: "Certolizumab pegol"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "tenosynovitis"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "tenosynovitis"]
 ---
 
 # Certolizumab Pegol
