@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Interferon Beta-1B: predicted new indication Hairy cell leukemia (evidence level L5). Approved use: Single demyelinating event at high risk of clinically definite MS"
 monitor_inn: "Interferon beta-1b"
-predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system", "CNS demyelinating autoimmune disease", "multiple sclerosis, susceptibility to", "fetal methylmercury syndrome", "hepatic infarction", "progressive multiple sclerosis", "hairy cell leukemia variant", "extramammary Paget disease", "peliosis hepatis"]
+predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system", "CNS demyelinating autoimmune disease", "multiple sclerosis, susceptibility to", "fetal methylmercury syndrome", "hepatic infarction", "hairy cell leukemia variant", "extramammary Paget disease", "peliosis hepatis"]
 ---
 
 # Interferon Beta-1B

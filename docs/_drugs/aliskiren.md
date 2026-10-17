@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aliskiren: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Treatment of essential hypertension"
 monitor_inn: "Aliskiren"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "cerebrovascular disorder", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "intracerebral hemorrhage"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "cerebrovascular disorder", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "intracerebral hemorrhage"]
 ---
 
 # Aliskiren

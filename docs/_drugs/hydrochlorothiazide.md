@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hydrochlorothiazide: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Treatment of essential hypertension (fixed-dose combinations for pati…"
 monitor_inn: "Hydrochlorothiazide"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp"]
 ---
 
 # Hydrochlorothiazide

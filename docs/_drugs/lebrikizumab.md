@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lebrikizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Moderate-to-severe atopic dermatitis in adults and adolescents 12 yea…"
 monitor_inn: "Lebrikizumab"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "primary release disorder of platelets", "dermatitis", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "neonatal dermatomyositis", "psoriasis", "HER2 positive breast carcinoma"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "neonatal dermatomyositis", "psoriasis", "HER2 positive breast carcinoma"]
 ---
 
 # Lebrikizumab
