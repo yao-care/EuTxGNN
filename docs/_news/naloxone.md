@@ -53,11 +53,11 @@ This page combines the AI-predicted indications for Naloxone with the latest hea
 
 ## Related News (1)
 
-### [Tumore del pancreas, daraxonrasib cambia le prospettive di cura. Giannini (SIGE): ora garantire l’accesso](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+### [Tumore al pancreas: primo sì dell'Europa al farmaco che raddoppia la sopravvivenza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
 
-2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+2026-10-17 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
-Source: [Doctor33](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
 
 ---
 

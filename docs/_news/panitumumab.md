@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,15 +51,7 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
-
-### [Typ-2-Diabetes: Hohe Arbeitsbelastung erhöht das Risiko laut Studie um 45 Prozent](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUFZenczYmtGdFVuSjhfY25kLWNrYnJVV2ZKc0l4bmlEQVJPLUgxMGpWY2tOMVluNWVEdTUwQnhkOGRjVjI0SUE4NmF6NFRwdjl3dndSQ2Q5TVZ0UzNaLU0wbkZsZjRqUkV5S2p3RlRoWEdXMXRPZjQtZUgyZFFfbTVzWTAxcEQ1ZTY0eEplSFowY0FVR2Foc2NJcTM5Y3VHb09PUFFST3lHRG96UUJWbF9LM1h6UlNjNXh4enY3Zw?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUFZenczYmtGdFVuSjhfY25kLWNrYnJVV2ZKc0l4bmlEQVJPLUgxMGpWY2tOMVluNWVEdTUwQnhkOGRjVjI0SUE4NmF6NFRwdjl3dndSQ2Q5TVZ0UzNaLU0wbkZsZjRqUkV5S2p3RlRoWEdXMXRPZjQtZUgyZFFfbTVzWTAxcEQ1ZTY0eEplSFowY0FVR2Foc2NJcTM5Y3VHb09PUFFST3lHRG96UUJWbF9LM1h6UlNjNXh4enY3Zw?oc=5)
-
----
+## Related News (13)
 
 ### [Prädiabetes: Lebensstilprogramm senkte Diabetesfälle in drei Jahren um 58 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
 
@@ -74,6 +66,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcl
 2026-10-17 <span class="news-indication-tag">diabete</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUJ6QnUzUjRwWENnZkN2SEJkaV9NT2RFYXVSX1lDajZJdlFfN0xrYmlmNFdTNWprbkI4VnNyQWZ0bkxZY2h2MEZvZGM1eDh4LVBQdTNFbzR6Qnd4bEp1b0FRWjlEX25GMUV4Yl9jR2lWLXo0NzdWZE9TQlpoYnZ1TDZDRnJNaWVFZUZPT2c0bE9JZjN4UmZaT1doRGpwdjhZUS10aFhn?oc=5)
+
+---
+
+### [This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
 
 ---
 
@@ -117,6 +117,14 @@ Source: [medonline](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clR
 
 ---
 
+### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
+
+---
+
 ### [Demenzrisiko: Studie zeigt Wirkung von Blutdruck, Diabetes und Rauchen - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWTXVvN1Vxb3BhVGRyS1Y5bXU1Q1BReXdJaWFpZTgySUM2dm5CXzJSZ3d1Z2lkYlc4SXUxZVZSTlZsYjE5Zmdob1VGaHVtV0xfWmh1SzYzVDdhaThxZjJCNTlHUkNOSFVTeXgwMFN0Qm9uWkduNEY2VVVVRjZiYUJINWVZNkQ5c25FejVsV0R3eURoY2plQVVOb2NQanhVV2JtSA?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabetes</span>
@@ -130,6 +138,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0NWT
 2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
+
+---
+
+### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">diabetes</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
 
 ---
 

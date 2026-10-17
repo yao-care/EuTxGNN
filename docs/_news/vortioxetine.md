@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 
 ## Related News (7)
 
+### [Peripartale Depression: Jede zweite bleibt unerkannt – Hilfe wird ausgebaut](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXJGNDU5SWNSdEZPVWNvTnVHOFRuNTlfbm94QkFoYnVzY0Jzak1CUldlelh0VEV5cFBvdk1rc0pVNTFGLVM5cWFxSEZFb3hYRzBpX2oxdEJrWW1CVUtIcktkZ2RpSXdPSXE1RGZTZTlEUlVXakdTMW1ydU5HQ1FpcmpEeE1FN1RWS3pGYVM0Q0YyemZKTGh3WndTNGU5SjRWaUtOX09aUkd6ZHh0VEZULQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXJGNDU5SWNSdEZPVWNvTnVHOFRuNTlfbm94QkFoYnVzY0Jzak1CUldlelh0VEV5cFBvdk1rc0pVNTFGLVM5cWFxSEZFb3hYRzBpX2oxdEJrWW1CVUtIcktkZ2RpSXdPSXE1RGZTZTlEUlVXakdTMW1ydU5HQ1FpcmpEeE1FN1RWS3pGYVM0Q0YyemZKTGh3WndTNGU5SjRWaUtOX09aUkd6ZHh0VEZULQ?oc=5)
+
+---
+
 ### [Milano, 1 madre su 6 con segnali di disagio psicologico in gravidanza o post parto: lo studio Ats su 164 mila donne - Corriere Milano](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ1d2QkxWVkRQRGUwZXVrWmVGclUteHgtWUZpbDNPdWlRX2FPUlhfM3JVVUk2SGxDWWZZaEtqMEpvWDlnUEZzR2ZvMVF5YmRiV1BBbjF2ZFRoaFNMRExLSk9rX0Ixdm5NSVl5NmIzbUhHNjZOYmdhQzZzbFFsYTNSRUd1MjdXckRlZDlmOTdMX1R5X2xCYkdzSGlOZ0R5TVMtdl9DLVpZUjZuY3l0akRHc2hPTVFTYTE2Tkh1ajI4QkVZVy1xa1djcUNLdjcyOG5uTlBscnhRaTllWU1OMFFjeTBEbzBpQ3gwa21aSWt4TWg3NzluZ19JdU9JWFdRczdGeFdxN09wWlpZc2tSbUYtMzZCZTg5YkgtVlZRMjA1UExXT1c0MkxiYmxEcEpCV01DVExxdS130gG7AkFVX3lxTE9xVjJKV21MbnVNZWUzMl83V3VkLXRyWlB4Wl9CbXRSVlhHSC1WdGRTQ0VjWUFIWlBiMUlRSXRzVDNNUFVZNi15bzdScTN6dVhpbXRHNGVMdEl3ak0wQWlxZGRRa3RVNjdyWk9qWlk1ZUh2eGJ0TjZOWHlaaUdnanBLZ2FUZktMSmo2RW9EQ1NPRTVOeVc1Tm5vc2hEbWdoTUJHSGxiYTVRTGRkWDI2NjhvZDBpUWcwTnZ6VTRFZFljYU5RdVl1YmtJc044djV6Y19lelFUU3VSXzlHVjk3N1dMbnEwbVRWTWpad05EQUQwME1sVllrLTFiQ1dmcTVMTHEyZm5FOFFDWDhaVWdldHUtelAyZEFHLU1zampnREk3UjRMb2xCQ1BoWFdsV0pDdlJmdzh5aTRFZHQwMA?oc=5)
 
 2026-10-17 <span class="news-indication-tag">depression</span>
@@ -93,19 +101,11 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQWXZpUzV
 
 ---
 
-### [Las vías que regulan el estrés celular se encuentran alteradas en los cerebros de personas con depresión y esquizofrenia - Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHZ3VUdia1dKcHlPSXRaaldvY2FPT3RuaXhvVzZQclRIbTgtQUsxcndrZVF1R29sZGM0YUJKUnBobTRLT3VNYkdfdnNvLXBrRVhrdndhc0dLZzVOSHVXN2pha0FVRVdQUm5qd2dmUVQza2paLWRhZU42OWxBQXg5STlLRDZxVnlyeHVSUy1IRjlVZGpXbkp2dFN2UmxGZ0N4djNoSi1pTHlsS0ZIa0xJRm5LcUVidG9rU2ZaTUN1b05nRmZjUUpOM3dJNERHOHVEcGlBektDOHp3aDRkZTN5RGhWUjZFb0FReE8zSQ?oc=5)
+### [Las vías que regulan el estrés celular están alteradas en las personas con depresión y esquizofrenia - El Confidencial](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3d1a1BtRDhnU2Y3bDRlZWRnckdwb01NdXRQWVBFYXFBUldRdmN1dzhRTlFQV0FhYi11aTl1RldFcGxXbmZnRGMzUTBBT1dBSHVqQnQ5S1ZGYnI1RUtfZE9ZMUZpbzdHc2VfVURUSHBRYzZxTkF5dkM1Z1VySTQteVExNlV2MzV0OHNNS1NrYVpfVExmaGlqLXRhOW5JamVtNVE?oc=5)
 
 2026-10-16 <span class="news-indication-tag">depresión</span>
 
-Source: [Centro de Investigación Biomédica en Red (CIBER)](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTHZ3VUdia1dKcHlPSXRaaldvY2FPT3RuaXhvVzZQclRIbTgtQUsxcndrZVF1R29sZGM0YUJKUnBobTRLT3VNYkdfdnNvLXBrRVhrdndhc0dLZzVOSHVXN2pha0FVRVdQUm5qd2dmUVQza2paLWRhZU42OWxBQXg5STlLRDZxVnlyeHVSUy1IRjlVZGpXbkp2dFN2UmxGZ0N4djNoSi1pTHlsS0ZIa0xJRm5LcUVidG9rU2ZaTUN1b05nRmZjUUpOM3dJNERHOHVEcGlBektDOHp3aDRkZTN5RGhWUjZFb0FReE8zSQ?oc=5)
-
----
-
-### [Perinatale Depression mit erhöhter Säuglingssterblichkeit assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
-
-2026-10-12 <span class="news-indication-tag">depression</span>
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
+Source: [El Confidencial](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3d1a1BtRDhnU2Y3bDRlZWRnckdwb01NdXRQWVBFYXFBUldRdmN1dzhRTlFQV0FhYi11aTl1RldFcGxXbmZnRGMzUTBBT1dBSHVqQnQ5S1ZGYnI1RUtfZE9ZMUZpbzdHc2VfVURUSHBRYzZxTkF5dkM1Z1VySTQteVExNlV2MzV0OHNNS1NrYVpfVExmaGlqLXRhOW5JamVtNVE?oc=5)
 
 ---
 

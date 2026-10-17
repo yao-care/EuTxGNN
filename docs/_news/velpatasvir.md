@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,13 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
 
-### [Tumore ai polmoni, 7 persone su 10 lo scoprono tardi. Ma c'è un esame salva-vita per chi è più a rischio: ecco quando farlo - Corriere della Sera](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlRvOXBUa0VHM3hncXp0LUw4YTdOOGpNdXpoS0c5bDNhZlRIVDBLdXIzeUExSHVfZDV2dE5RNnBaVzNCUkdnVjkyNU5sZzN2cnJYa0ZwRGZjVndKaXlWdU42Y0dNbnJLZUZzVW5qakRNWXhrOXFCWW51bkZYWC1RbzNCYVNFTlBiMWlOOHBYWi1ES1RrR0stWUVCN3dhNkdTUFN5RUREMnRaaUIzNGl5dTAwSXhDN2lIUFRFRmdkT296aWd6UjRwWVJRNVBKSnV6MDJILVR30gHbAUFVX3lxTE1RSHJzcW9qczZSbzN6OU95b2ZCSjg3Y3F3TnBGZ05QMWR1WmJBZkE3bWFXTVljbUFPMUJid3BGN0cwVUo2OFd1WG9oclRnUkFURVpRUHB6UEZpVnRLZU54ZGZyRkxCOHJ5Q2lXMXFKOGRhUm5CVmpwbE5RRkljNEhpdVNjMENQcS1LUGpxMHJoT1MyOV80d3hvTjFFSVNmdE1uejRFS1dFQnhwTkVXXzhsNUo5VkdPaGczZUZQSVRFRjNhb1ZvOFQxVnpReEExcUFUUUVGQi10YXdabw?oc=5)
+### [Tim Spector: my five simple recipes to boost your mood - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc1V2gtdHJQUUdyNEJTeGk1RWh6REMyQkM3WWVxeGJWSk4yZF9LS2JVTDR3dWlNV1ZBMkphRllMTm5ydXlCMHQ3ZExVRHFDM0xWcFVXaU52Wmh0LWttN0NVMEt4Sk8yMkY3N2w0ejJuUzBWYVU2bkI3bE1hTzUwNTRQRGg1OE1GdGhnR2JLVWVMZDZMUE5QY1hwSUhrN3FMTXVGSS1CdjNzcW9jQml5OUcwQV81VDhybg?oc=5)
 
-2026-10-17 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">MS</span>
+2026-10-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlRvOXBUa0VHM3hncXp0LUw4YTdOOGpNdXpoS0c5bDNhZlRIVDBLdXIzeUExSHVfZDV2dE5RNnBaVzNCUkdnVjkyNU5sZzN2cnJYa0ZwRGZjVndKaXlWdU42Y0dNbnJLZUZzVW5qakRNWXhrOXFCWW51bkZYWC1RbzNCYVNFTlBiMWlOOHBYWi1ES1RrR0stWUVCN3dhNkdTUFN5RUREMnRaaUIzNGl5dTAwSXhDN2lIUFRFRmdkT296aWd6UjRwWVJRNVBKSnV6MDJILVR30gHbAUFVX3lxTE1RSHJzcW9qczZSbzN6OU95b2ZCSjg3Y3F3TnBGZ05QMWR1WmJBZkE3bWFXTVljbUFPMUJid3BGN0cwVUo2OFd1WG9oclRnUkFURVpRUHB6UEZpVnRLZU54ZGZyRkxCOHJ5Q2lXMXFKOGRhUm5CVmpwbE5RRkljNEhpdVNjMENQcS1LUGpxMHJoT1MyOV80d3hvTjFFSVNmdE1uejRFS1dFQnhwTkVXXzhsNUo5VkdPaGczZUZQSVRFRjNhb1ZvOFQxVnpReEExcUFUUUVGQi10YXdabw?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc1V2gtdHJQUUdyNEJTeGk1RWh6REMyQkM3WWVxeGJWSk4yZF9LS2JVTDR3dWlNV1ZBMkphRllMTm5ydXlCMHQ3ZExVRHFDM0xWcFVXaU52Wmh0LWttN0NVMEt4Sk8yMkY3N2w0ejJuUzBWYVU2bkI3bE1hTzUwNTRQRGg1OE1GdGhnR2JLVWVMZDZMUE5QY1hwSUhrN3FMTXVGSS1CdjNzcW9jQml5OUcwQV81VDhybg?oc=5)
 
 ---
 
@@ -77,11 +77,27 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVj
 
 ---
 
+### [I thought it was the menopause – nothing could have prepared me for the truth - Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1J1aDB5bU9aU0lpRjhhUVdGR1dfUjdpVDhHSHU0ZnVMTXg2aC03X0h0SUoyQkY5QWFabTZEdHQ0c2FiaWQzdFBYUEc5cTFWTDl4WEVnVFE5T2hlYW82cGkwMWYzeWNneWNOck05RnNfUzNTNDhaUFU5SlhVQkV2Wm9QWWVwWlNreGRVaFpuTGHSAZYBQVVfeXFMUEtEM2tjM0dycFk3VlBBbDRXaUNKcEpqR3A0a2tUc19mM2JtaXduX1NjQ3JZV19HYnZzbVNNY0hFT1JqNXp3YVNqY0lMeUw1M1JhcWJxeExwdFhtZUFlajU4ZU9LTzEtXzZkOE5FeVdZd1Q5NGQxMHJPVldjM0diMF9GcFBpR3JpSXN1Q0QtOE1MMVAtRE93?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Wales Online](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1J1aDB5bU9aU0lpRjhhUVdGR1dfUjdpVDhHSHU0ZnVMTXg2aC03X0h0SUoyQkY5QWFabTZEdHQ0c2FiaWQzdFBYUEc5cTFWTDl4WEVnVFE5T2hlYW82cGkwMWYzeWNneWNOck05RnNfUzNTNDhaUFU5SlhVQkV2Wm9QWWVwWlNreGRVaFpuTGHSAZYBQVVfeXFMUEtEM2tjM0dycFk3VlBBbDRXaUNKcEpqR3A0a2tUc19mM2JtaXduX1NjQ3JZV19HYnZzbVNNY0hFT1JqNXp3YVNqY0lMeUw1M1JhcWJxeExwdFhtZUFlajU4ZU9LTzEtXzZkOE5FeVdZd1Q5NGQxMHJPVldjM0diMF9GcFBpR3JpSXN1Q0QtOE1MMVAtRE93?oc=5)
+
+---
+
 ### [Scabies outbreak at Welsh hospital sees visits halted - Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzYzRks0cXBoc0lkUjZfaDdUVXpBV1VVOGZydk5TQklPM00wQ0hOSzFxSDNrc2pWTUhWOTg3cWhsUnhxdU01enN0b3BlZG5nNjBPajZ4MjlGUEFJU1p3SG5MVlhGdXdqSmVzUURzNmdyUzh3aDVralV0MVpBSlRGZmZtUEt6Q0IzSGJoNU51SzdIakZwNUHSAZsBQVVfeXFMTklhZURDeW9PTmJyandqY04xakpCU1djalNwNVBGbnU4SWJ0alpIT2VCS3N5eFpZWmF4SW4tbGVucGlrOEx4alVxbFc2LUtxX2lVdkZGTGdVb1RrZXR1SEttQnJlTTJ3LVFFWm9fT3E2OXZOdjMyRDFLdWtUX1dxZHZFRFFvcExMRkVJdUpubkdhRHp5QU12ZTZlMUE?oc=5)
 
 2026-10-16 <span class="news-indication-tag">MS</span>
 
 Source: [Wales Online](https://news.google.com/rss/articles/CBMilgFBVV95cUxPQzYzRks0cXBoc0lkUjZfaDdUVXpBV1VVOGZydk5TQklPM00wQ0hOSzFxSDNrc2pWTUhWOTg3cWhsUnhxdU01enN0b3BlZG5nNjBPajZ4MjlGUEFJU1p3SG5MVlhGdXdqSmVzUURzNmdyUzh3aDVralV0MVpBSlRGZmZtUEt6Q0IzSGJoNU51SzdIakZwNUHSAZsBQVVfeXFMTklhZURDeW9PTmJyandqY04xakpCU1djalNwNVBGbnU4SWJ0alpIT2VCS3N5eFpZWmF4SW4tbGVucGlrOEx4alVxbFc2LUtxX2lVdkZGTGdVb1RrZXR1SEttQnJlTTJ3LVFFWm9fT3E2OXZOdjMyRDFLdWtUX1dxZHZFRFFvcExMRkVJdUpubkdhRHp5QU12ZTZlMUE?oc=5)
+
+---
+
+### [El ébola pone en jaque a la República Democrática del Congo - Libertad Digital](https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHYtZFJOSkIxbnZYX2FRS2lHY01WMVlTQk9qeGc5Vy0yTjlDczZmMHFUQkcxdUlpbXhZLWVrU2F5Q2x3dFYwY3JDajh2TW1PQkk1d0FiZGxwbUZ3SmNpVnRwTXh4bXJPU2YtNjdaVmlaenVxMDJSYV9QcnluUV9Tc0hvY2hDQVVJTEdVejhYT0Z2bjJ3MU0wSjM4UmhsRVJSR3gwQmpvWlN5SWZCcUc5UUlFZmFMWDJZbE1UZ1gxM18tZWNRaTBKbGtKa9IB1gFBVV95cUxPWThVaXZOY2Vra1B6VVNKZmJtbE1mcjM2bU8tWHRkZ1hHTm1IdEFIcHBmUFkwc3pHOF9Cb0F3cDhzU2xNMFRWYnktdkNYS1lDVXBJbzlLcUQwMTFTVDBSTU5Vb25ibUxNTllueWtMRkFObS02ZU83WXhOVzhWV09lRktRa2hvUEJNLVhHOUViRWk1MWZNdGFzdzBNVUtvN1gtZmQ2bjZhZ01aSEtmc0d2UEFYbWtuVDFmSl9lWkdlNjNHaWR0czZVY2RTbUpNU3NuUHhfVzJ3?oc=5)
+
+2026-10-16 <span class="news-indication-tag">MS</span>
+
+Source: [Libertad Digital](https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHYtZFJOSkIxbnZYX2FRS2lHY01WMVlTQk9qeGc5Vy0yTjlDczZmMHFUQkcxdUlpbXhZLWVrU2F5Q2x3dFYwY3JDajh2TW1PQkk1d0FiZGxwbUZ3SmNpVnRwTXh4bXJPU2YtNjdaVmlaenVxMDJSYV9QcnluUV9Tc0hvY2hDQVVJTEdVejhYT0Z2bjJ3MU0wSjM4UmhsRVJSR3gwQmpvWlN5SWZCcUc5UUlFZmFMWDJZbE1UZ1gxM18tZWNRaTBKbGtKa9IB1gFBVV95cUxPWThVaXZOY2Vra1B6VVNKZmJtbE1mcjM2bU8tWHRkZ1hHTm1IdEFIcHBmUFkwc3pHOF9Cb0F3cDhzU2xNMFRWYnktdkNYS1lDVXBJbzlLcUQwMTFTVDBSTU5Vb25ibUxNTllueWtMRkFObS02ZU83WXhOVzhWV09lRktRa2hvUEJNLVhHOUViRWk1MWZNdGFzdzBNVUtvN1gtZmQ2bjZhZ01aSEtmc0d2UEFYbWtuVDFmSl9lWkdlNjNHaWR0czZVY2RTbUpNU3NuUHhfVzJ3?oc=5)
 
 ---
 
@@ -109,14 +125,6 @@ Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBV
 
 ---
 
-### [Warning as cases of deadly paralysing virus hit record high in Europe killing 130 - symptoms may be mistaken for flu - The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZTMldFNWhRTWFKNFZBMHVEaWV3WkRUbnhiYkdNTVg2MV9iQ1I4a2xQX3FsMThJRnBfN25YV1ZpM2FjSklBRVBoTHlMOWIxVWRZc2RhLW14VDhzZHJfcGFKQzRqRXZXTTFLaU5wRTVwalJIeGlzYVA4Nk1HRHpjbEpsTjNNVlNFNmRaWA?oc=5)
-
-2026-10-16 <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXZTMldFNWhRTWFKNFZBMHVEaWV3WkRUbnhiYkdNTVg2MV9iQ1I4a2xQX3FsMThJRnBfN25YV1ZpM2FjSklBRVBoTHlMOWIxVWRZc2RhLW14VDhzZHJfcGFKQzRqRXZXTTFLaU5wRTVwalJIeGlzYVA4Nk1HRHpjbEpsTjNNVlNFNmRaWA?oc=5)
-
----
-
 ### ['Less-obvious symptoms' as American Covid strain spreads across UK - The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlCU0piU1V6UkE1c0ZDZFJCNkRlODV1V0lOOVpnMmxUXy1PZWpDdlVvZ0dXRDB6T1ZQVklPUU14RnlFWFRSSUFuT1lMRUI5bVhBM3JWN3JLVWxmUVRxaDN3dTBsejlrYTZibk5abXFpRlB3WGxva3RKbHZabExsOHVLdTlXRjJkN3fSAY8BQVVfeXFMTVp3X2hKS1RCSFVWZ2tCRU9Zek9PakZtTUxRLWdSeG1KQ002RUNEN0U4Rm53eGt2aGp2S2QtRmw3QjZyVWhOaC1McmhFbWdGclROZWFSN1FCdGhoNllvLUpLY1RQc3pjQjg4WVZFOWJjeUttdXIyeDQtVVVHWVptRnp3TG9MVHplamV6VkhxSHM?oc=5)
 
 2026-10-16 <span class="news-indication-tag">MS</span>
@@ -133,27 +141,11 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNo
 
 ---
 
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
-
-2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
-
----
-
 ### [How to make thin hair look thicker and fuller in under 15 minutes - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MS</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
-
----
-
-### [Nanoparticle injection reprograms NK immune cells to fight cancer and autoimmune disorders](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQXRYNE10OGhtRThhclBZa29rUmEzTzZSVllGYzJaSzJtUzBaNHJ3QUJxNFRSOHREREdBNjdTbE5nZ0pSTnhKQjVfaEdfSEhhd1psQXZtSEZFMDNVeHlfV0dmOXFobE1McEdVSlF4cExiTTloT3ZKckZwMUlJY2c?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE1fQXRYNE10OGhtRThhclBZa29rUmEzTzZSVllGYzJaSzJtUzBaNHJ3QUJxNFRSOHREREdBNjdTbE5nZ0pSTnhKQjVfaEdfSEhhd1psQXZtSEZFMDNVeHlfV0dmOXFobE1McEdVSlF4cExiTTloT3ZKckZwMUlJY2c?oc=5)
 
 ---
 
