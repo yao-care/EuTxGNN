@@ -3,7 +3,7 @@ layout: default
 title: "Enzalutamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Enzalutamide. Original indication: For "benign neoplasm of prostate", androgen signal.... 20 predicted indications."
+description: "Health news related to Enzalutamide. Original indication: For \"benign neoplasm of prostate\", androgen signal.... 20 predicted indications."
 permalink: /news/enzalutamide/
 ---
 

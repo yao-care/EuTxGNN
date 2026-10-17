@@ -69,7 +69,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -739,7 +739,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -1610,9 +1610,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "melatonin",
           "keyword": "melatonin",
           "name": "Melatonin",
+          "slug": "melatonin",
           "url": "/drugs/melatonin/"
         }
       ]
@@ -1729,7 +1729,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -1984,7 +1984,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -3656,7 +3656,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -3806,7 +3806,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -4677,9 +4677,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "amlodipine",
           "keyword": "istin",
           "name": "Amlodipine",
+          "slug": "amlodipine",
           "url": "/drugs/amlodipine/"
         },
         {
@@ -4778,7 +4778,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -5795,7 +5795,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -6050,7 +6050,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -7174,7 +7174,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -7275,9 +7275,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "tirzepatide",
           "keyword": "tirzepatide",
           "name": "Tirzepatide",
+          "slug": "tirzepatide",
           "url": "/drugs/tirzepatide/"
         },
         {
@@ -7708,7 +7708,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -8628,7 +8628,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -9548,7 +9548,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -10460,7 +10460,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -10610,7 +10610,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -11677,7 +11677,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -11827,7 +11827,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -12723,9 +12723,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "fentanyl",
           "keyword": "fentanyl",
           "name": "Fentanyl",
+          "slug": "fentanyl",
           "url": "/drugs/fentanyl/"
         },
         {
@@ -12784,7 +12784,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -12885,9 +12885,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "everolimus",
           "keyword": "everolimus",
           "name": "Everolimus",
+          "slug": "everolimus",
           "url": "/drugs/everolimus/"
         }
       ]
@@ -13019,7 +13019,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -13174,7 +13174,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -13329,7 +13329,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -13589,7 +13589,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -13690,9 +13690,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "naloxone",
           "keyword": "naloxone",
           "name": "Naloxone",
+          "slug": "naloxone",
           "url": "/drugs/naloxone/"
         },
         {
@@ -13746,7 +13746,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -15213,7 +15213,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -15468,7 +15468,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -16393,7 +16393,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -16593,7 +16593,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -16748,7 +16748,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -16898,7 +16898,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -17823,7 +17823,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -17978,7 +17978,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -18079,16 +18079,16 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "semaglutide",
           "keyword": "ozempic",
           "name": "Semaglutide",
+          "slug": "semaglutide",
           "url": "/drugs/semaglutide/"
         },
         {
           "type": "drug",
-          "slug": "tirzepatide",
           "keyword": "mounjaro",
           "name": "Tirzepatide",
+          "slug": "tirzepatide",
           "url": "/drugs/tirzepatide/"
         },
         {
@@ -18187,7 +18187,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -19099,7 +19099,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -19454,7 +19454,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -19604,7 +19604,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -20529,7 +20529,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -20684,7 +20684,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -20785,9 +20785,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "ocrelizumab",
           "keyword": "ocrelizumab",
           "name": "Ocrelizumab",
+          "slug": "ocrelizumab",
           "url": "/drugs/ocrelizumab/"
         },
         {
@@ -20938,7 +20938,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -21088,7 +21088,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -22385,7 +22385,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -23642,7 +23642,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -24102,7 +24102,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -25022,7 +25022,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -25942,7 +25942,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -26982,7 +26982,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -27902,7 +27902,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -29281,7 +29281,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -29436,7 +29436,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -29591,7 +29591,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -29757,9 +29757,9 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "semaglutide",
           "keyword": "ozempic",
           "name": "Semaglutide",
+          "slug": "semaglutide",
           "url": "/drugs/semaglutide/"
         }
       ]
@@ -30031,7 +30031,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -30186,7 +30186,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -30673,7 +30673,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -30828,7 +30828,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -30978,7 +30978,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -31903,7 +31903,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -32053,7 +32053,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -32973,7 +32973,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -33893,7 +33893,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -34818,7 +34818,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -34968,7 +34968,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -35893,7 +35893,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -36048,7 +36048,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -36203,7 +36203,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -36458,7 +36458,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -37329,16 +37329,16 @@
       "keywords": [
         {
           "type": "drug",
-          "slug": "enzalutamide",
           "keyword": "enzalutamide",
           "name": "Enzalutamide",
+          "slug": "enzalutamide",
           "url": "/drugs/enzalutamide/"
         },
         {
           "type": "drug",
-          "slug": "talazoparib",
           "keyword": "talazoparib",
           "name": "Talazoparib",
+          "slug": "talazoparib",
           "url": "/drugs/talazoparib/"
         },
         {
@@ -37392,7 +37392,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -38312,7 +38312,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -39237,7 +39237,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -39412,7 +39412,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -40648,7 +40648,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -40798,7 +40798,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -41723,7 +41723,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -42218,7 +42218,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -43143,7 +43143,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -43293,7 +43293,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -44620,7 +44620,7 @@
               "url": "/drugs/granisetron/"
             },
             {
-              "slug": "guanfacine-hydrochloride",
+              "slug": "guanfacine",
               "name": "Guanfacine Hydrochloride",
               "url": "/drugs/guanfacine/"
             },
@@ -45170,7 +45170,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -46435,7 +46435,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -47447,7 +47447,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
@@ -48459,7 +48459,7 @@
               "url": "/drugs/apalutamide/"
             },
             {
-              "slug": "atazanavir-as-sulfate",
+              "slug": "atazanavir",
               "name": "Atazanavir (As Sulfate)",
               "url": "/drugs/atazanavir/"
             },
