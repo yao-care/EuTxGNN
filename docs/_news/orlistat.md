@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (14)
+
+### [Elle promet des pertes de poids de 30%: cette nouvelle molécule, surnommée le “King Kong” de l'anti-obésité, est déjà revendue en masse sur le marché noir par les influenceurs](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
+
+2026-10-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+
+Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
+
+---
+
+### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
+
+2026-10-17 <span class="news-indication-tag">ictus</span>
+
+Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
+
+---
+
+### [El 'peso' del algoritmo y su impacto sobre la imagen corporal y la salud - Noticias de Navarra](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW96U3VkMlhSU1NxeFBnbmhoZzd6cmpIU0IxUlBpUl8xOHE3UHZlRktxYzdDcjV1NFlWdTgzRzRWUVpWRkZZLVdLNS1NYTJ0TEhIeHZrVlIzWlFsdzRoWnBDOVk2U2cwVFdhM2hnTVg0OEdXcS1jWHpRZjloUjRlbU9nOFo3SXY4aUVXaElwZkVaMGUtUVItczNwTU56WkxTN2Z0WU9oZ2XSAa4BQVVfeXFMTXhfRDZuekZ5ZkVINElydGRjMzFnQ2VmRm9tN3pYVHdpRmladWlMTEtpM281OWpCSTZheE11TVJpcUxGYVprdzNzck1pQjJLdlhEdV91MjhXT0l3cFZlVE9QVE81cWZBbmljbE5OdlZqRVg2clVTZzdRR1lrc2NVWllaSDk1eUxLekE5OFF5dWJ1c216cWRfcHUyRVFhYVdidGxNeENvSXJHYUMtMFN3?oc=5)
+
+2026-10-17 <span class="news-indication-tag">obesidad</span>
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW96U3VkMlhSU1NxeFBnbmhoZzd6cmpIU0IxUlBpUl8xOHE3UHZlRktxYzdDcjV1NFlWdTgzRzRWUVpWRkZZLVdLNS1NYTJ0TEhIeHZrVlIzWlFsdzRoWnBDOVk2U2cwVFdhM2hnTVg0OEdXcS1jWHpRZjloUjRlbU9nOFo3SXY4aUVXaElwZkVaMGUtUVItczNwTU56WkxTN2Z0WU9oZ2XSAa4BQVVfeXFMTXhfRDZuekZ5ZkVINElydGRjMzFnQ2VmRm9tN3pYVHdpRmladWlMTEtpM281OWpCSTZheE11TVJpcUxGYVprdzNzck1pQjJLdlhEdV91MjhXT0l3cFZlVE9QVE81cWZBbmljbE5OdlZqRVg2clVTZzdRR1lrc2NVWllaSDk1eUxLekE5OFF5dWJ1c216cWRfcHUyRVFhYVdidGxNeENvSXJHYUMtMFN3?oc=5)
+
+---
 
 ### [Tumore del pancreas, daraxonrasib cambia le prospettive di cura. Giannini (SIGE): ora garantire l’accesso](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
 
@@ -61,17 +85,17 @@ Source: [Doctor33](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEz
 
 ---
 
-### [Cereals, ready meals and fizzy drinks up risk of 'brain injury' in mid-life - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
 
-2026-10-16 <span class="news-indication-tag">stroke</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
 
 ---
 
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
-2026-10-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
@@ -111,9 +135,25 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 
 ### [GLP-1-RA: Vom Abnehmmedikament zum Präventionsinstrument?](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
 
-2026-10-16 <span class="news-indication-tag">Adipositas</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [medonline](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
+
+---
+
+### [El estrés crónico y la precariedad disparan un 43% el riesgo de sufrir un infarto o un ictus - Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
+
+2026-10-15 <span class="news-indication-tag">ictus</span>
+
+Source: [Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
+
+---
+
+### [Pandémies, IA, guerre nucléaire… Ces 17 dangers qui nous menacent](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWk5NDZzWVVKSm9qTE1ETmlMWVMtdk9iUzFaenY1S0dtcWxBcGRRazQ4cWJ5YUYwS1dYd3A0VmtNajVuUGszeWpyU0RWeEluQVVKZ213bjdxek5pWGR0VDlObV90OUhIRGJBa1ctS1Frc1NZajZpXzJmVmY4Y05CcTFuQlpqNWd3UGRGQWMyTERtQlRLTk05Q2lHWU9tVlgtUTZ2U1NSa3E4MFFYbFZydg?oc=5)
+
+2026-10-15 <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWk5NDZzWVVKSm9qTE1ETmlMWVMtdk9iUzFaenY1S0dtcWxBcGRRazQ4cWJ5YUYwS1dYd3A0VmtNajVuUGszeWpyU0RWeEluQVVKZ213bjdxek5pWGR0VDlObV90OUhIRGJBa1ctS1Frc1NZajZpXzJmVmY4Y05CcTFuQlpqNWd3UGRGQWMyTERtQlRLTk05Q2lHWU9tVlgtUTZ2U1NSa3E4MFFYbFZydg?oc=5)
 
 ---
 
@@ -122,14 +162,6 @@ Source: [medonline](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clR
 2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
-
----
-
-### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

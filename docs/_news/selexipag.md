@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,31 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+---
+
+### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+---
+
+### [Scientists Discover a Surprising New Way To Fight High Blood Pressure – Through the Ear](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
+
+---
 
 ### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
 
@@ -66,14 +90,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlc
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
 
 Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
-
----
-
-### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

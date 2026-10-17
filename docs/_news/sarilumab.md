@@ -53,6 +53,22 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 
 ## Related News (6)
 
+### [Bulos y mitos sobre la vacuna de la gripe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGdHSnQ1UlhYdHRNcXlMcVVoanZnMEtESE5jWFExcHUtQXBIYi1aSFk1S2p0YmU1MlRtZUVjd1VLUm9sZjRVRkZWZnllRkF5ZlU3eFgyeUZPRG9qeVFOTkVadWQzRmZCVEd4TC14QVFxb3BTeGQ3bUZGMHZKU0ZQeUFn?oc=5)
+
+2026-10-17 <span class="news-indication-tag">asma</span>
+
+Source: [20Minutos](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGdHSnQ1UlhYdHRNcXlMcVVoanZnMEtESE5jWFExcHUtQXBIYi1aSFk1S2p0YmU1MlRtZUVjd1VLUm9sZjRVRkZWZnllRkF5ZlU3eFgyeUZPRG9qeVFOTkVadWQzRmZCVEd4TC14QVFxb3BTeGQ3bUZGMHZKU0ZQeUFn?oc=5)
+
+---
+
+### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
+
+2026-10-16 <span class="news-indication-tag">arthritis</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
+
+---
+
 ### [Malattia di Crohn, le conseguenze oltre alla salute fisica - Corriere della Sera](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjJMNkZkWkZUSUFlcWppQk9BbkFQazVxVElHbzJxOEE4M3ZkX3hOSm9NU1pkQ2FfbG9WS1lnNzRvSm9WaGt5Ykpqa1UxbGx0LWQzUzZ2TC01aW1URjNNRi1zOVpIaVdPY2ktSDRIcTJieXNhOG5wb1hpMU05UFVDREFLTEd0LWhHXzNacGJCRkZVWUlxMVJIRjdvdFhET2NMNTRrQ0hNUTFnTHZFZV9sMVpEZFRCVFQybGl6NElPRUJ3a1JudmtQUkZDSWJxWjdJQllRUUNvZ1UtZjJhVHfSAeMBQVVfeXFMT242YUZkWTEwUF9rcHJqem0walhIWlMza3JMY05pNFlOUkQxM0JqQ2ViUjVYdWRKekFVR1JiOFM1aTJNaXdSdUF1LXhReFVTa3VWTjhhYW1FOXNTWGVwTDdyQ2o1THJvMVIwbEowSVRwNFpnbDNtMnF1ZUJ2TThsUTJpSFFWM2FNZEdIU2pySUh4TTRGRHhKd3BFdTRfX0x2SGMxX0xyOUFVdTA5R2hua0pmWkZIcmNnSHQyVDJ2UDBCQ0pRNUR5UzFTOF9oUmRWZHA5dUt6R3BwQ3UyblU2RzdDdms?oc=5)
 
 2026-10-16 <span class="news-indication-tag">malattia di Crohn</span>
@@ -77,27 +93,11 @@ Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWU
 
 ---
 
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
----
-
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
----
-
-### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">arthritis</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

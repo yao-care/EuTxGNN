@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (10)
+
+### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+---
+
+### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
+
+2026-10-17 <span class="news-indication-tag">ictus</span>
+
+Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
+
+---
 
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
@@ -50,11 +66,19 @@ Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1
 
 ---
 
-### [Cereals, ready meals and fizzy drinks up risk of 'brain injury' in mid-life - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
 
-2026-10-16 <span class="news-indication-tag">stroke</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+---
+
+### [Scientists Discover a Surprising New Way To Fight High Blood Pressure – Through the Ear](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
 
 ---
 
@@ -82,19 +106,19 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlc
 
 ---
 
+### [El estrés crónico y la precariedad disparan un 43% el riesgo de sufrir un infarto o un ictus - Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
+
+2026-10-15 <span class="news-indication-tag">ictus</span>
+
+Source: [Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
+
+---
+
 ### [Il mio medico: sistema immunitario, ipertensione, memoria e prevenzione](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
 
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
 
 Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
-
----
-
-### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

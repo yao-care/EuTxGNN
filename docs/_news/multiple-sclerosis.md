@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 13 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,15 +45,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
-
-### [Wer Kaffee trinkt und viele Früchte isst bremst die Zellalterung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
-
-2026-10-17
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
-
----
+## Related News (14)
 
 ### [Tumore ai polmoni, 7 persone su 10 lo scoprono tardi. Ma c'è un esame salva-vita per chi è più a rischio: ecco quando farlo - Corriere della Sera](https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlRvOXBUa0VHM3hncXp0LUw4YTdOOGpNdXpoS0c5bDNhZlRIVDBLdXIzeUExSHVfZDV2dE5RNnBaVzNCUkdnVjkyNU5sZzN2cnJYa0ZwRGZjVndKaXlWdU42Y0dNbnJLZUZzVW5qakRNWXhrOXFCWW51bkZYWC1RbzNCYVNFTlBiMWlOOHBYWi1ES1RrR0stWUVCN3dhNkdTUFN5RUREMnRaaUIzNGl5dTAwSXhDN2lIUFRFRmdkT296aWd6UjRwWVJRNVBKSnV6MDJILVR30gHbAUFVX3lxTE1RSHJzcW9qczZSbzN6OU95b2ZCSjg3Y3F3TnBGZ05QMWR1WmJBZkE3bWFXTVljbUFPMUJid3BGN0cwVUo2OFd1WG9oclRnUkFURVpRUHB6UEZpVnRLZU54ZGZyRkxCOHJ5Q2lXMXFKOGRhUm5CVmpwbE5RRkljNEhpdVNjMENQcS1LUGpxMHJoT1MyOV80d3hvTjFFSVNmdE1uejRFS1dFQnhwTkVXXzhsNUo5VkdPaGczZUZQSVRFRjNhb1ZvOFQxVnpReEExcUFUUUVGQi10YXdabw?oc=5)
 
@@ -63,11 +55,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi1gFBVV95c
 
 ---
 
-### [Schlaflos? Warum Magnesium allein deine Probleme nicht löst](https://news.google.com/rss/articles/CBMinwFBVV95cUxQM212U2tBLXE0OG11ckg2c0p4YnBvRzBheWJISmtNUVBhSkIyQm42dWUwbVVCeHhHS29uR2haVWZFMHllUE1UQ3BoclVyZVJfa2VMUE8tdXBpVUUycnpjaFczdEFKVUVMMHdkSG9rYU9UQkJYRURZSE05SGpHUEZQczJPdFN5WFJoREc2QkU5NE5HM2ZpN0JjMFBxaXNFaTg?oc=5)
+### [Wer Kaffee trinkt und viele Früchte isst bremst die Zellalterung](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
 
 2026-10-17
 
-Source: [Beobachter](https://news.google.com/rss/articles/CBMinwFBVV95cUxQM212U2tBLXE0OG11ckg2c0p4YnBvRzBheWJISmtNUVBhSkIyQm42dWUwbVVCeHhHS29uR2haVWZFMHllUE1UQ3BoclVyZVJfa2VMUE8tdXBpVUUycnpjaFczdEFKVUVMMHdkSG9rYU9UQkJYRURZSE05SGpHUEZQczJPdFN5WFJoREc2QkU5NE5HM2ZpN0JjMFBxaXNFaTg?oc=5)
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
+
+---
+
+### [Magnesium-Präparate: 57 Prozent im Onlinehandel überschreiten die BfR-Grenze](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVGWFZjVnRqcHE0dlFobDBzTFhDOGFKRFNSMTEydEtraWlUYVk0OUVzeHQzOVJ1d2h6d2NKbW5INTJPVnB0TzViNm44ZVlIaFJBUDVva25iRHpXRFJ6NVltZk1tZEZrTE9aS0p2V1hiNWhDdnc4aWpWcU14aDNhMTc2NHE1cUVvX25XY2F4eTMtRzhsaEpqYmhDQlJlMUpDaEdYOGxsQXRZdFFnWjZpbktVQ21LUQ?oc=5)
+
+2026-10-17
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjVGWFZjVnRqcHE0dlFobDBzTFhDOGFKRFNSMTEydEtraWlUYVk0OUVzeHQzOVJ1d2h6d2NKbW5INTJPVnB0TzViNm44ZVlIaFJBUDVva25iRHpXRFJ6NVltZk1tZEZrTE9aS0p2V1hiNWhDdnc4aWpWcU14aDNhMTc2NHE1cUVvX25XY2F4eTMtRzhsaEpqYmhDQlJlMUpDaEdYOGxsQXRZdFFnWjZpbktVQ21LUQ?oc=5)
 
 ---
 
@@ -119,11 +119,19 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlCU0
 
 ---
 
-### [Concerns raised over AI monitoring tool in Mental Health hospitals - Channel 4](https://news.google.com/rss/articles/CBMinAFBVV95cUxPLU9mSUtqTDBzRm15cTdqM2I4c04xV0dUUlA1UDJ5Zmh4WVd0eGNvSF9OQTF4VHZyU3NxRV8xaEE4X3R5ay1hdWxDRmN6aDBxU3BxVTRqcUloVkh1TTJ0ZFFlUGx2alEwaVM3ZHlGYllfdFJXRFZiNjJTaXdmc3RZbWRDUGRHVFNFT0ZVeTUwRFJYd2NpV0Y4RDZMTHo?oc=5)
+### [Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
 
-2026-10-13
+2026-10-15
 
-Source: [Channel 4](https://news.google.com/rss/articles/CBMinAFBVV95cUxPLU9mSUtqTDBzRm15cTdqM2I4c04xV0dUUlA1UDJ5Zmh4WVd0eGNvSF9OQTF4VHZyU3NxRV8xaEE4X3R5ay1hdWxDRmN6aDBxU3BxVTRqcUloVkh1TTJ0ZFFlUGx2alEwaVM3ZHlGYllfdFJXRFZiNjJTaXdmc3RZbWRDUGRHVFNFT0ZVeTUwRFJYd2NpV0Y4RDZMTHo?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
+
+---
+
+### [How to make thin hair look thicker and fuller in under 15 minutes - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
+
+2026-10-14
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
 
 ---
 

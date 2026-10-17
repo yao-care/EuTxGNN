@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,31 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
+
+---
+
+### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+
+---
+
+### [Scientists Discover a Surprising New Way To Fight High Blood Pressure – Through the Ear](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
+
+---
 
 ### [Ahead of the U.S., UK, and China, WHO confirms African nation as world-first to retain gold status for hepatitis C elimination using locally made drugs - Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDVZR0F4bnc2cHlxV1NyckVkR3pJVVBNR3dQT3RMbjRMaDN1YVVsRDg1NGtOV3FSUVpUT3FhdjZIU3hGeVpzUGVqNzJ1TldMMEdJOHpRTjRFclppYjZzS0M5T1VVQU1zR3d6THJwbThZeEtNbVlMZGpidXYtb284dG5DWVJmaXhHV1FLdG1mV3hfSVhVcXdqTUc2Q19ybFA5d2Z0bnFYdjJLLVd3eGQ1aWxKRXFaaHpYNm11Q2w5aDgtcFdPRDBaakxPLTNHUG9KTER4NXByMGs?oc=5)
 
@@ -69,14 +93,6 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlc
 
 ---
 
-### [Due casi di epatite A fra i bambini di una famiglia a Fossano, scattata la profilassi dell’Asl Cn1 - La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
-
-2026-10-15 <span class="news-indication-tag">epatite</span>
-
-Source: [La Stampa](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUGpPZXItZjFSaG03Q2NBV3B0VnA4YkF0UHFGb2JhNnhFQ2x3YnZEZlFzUVZLTTNUZzE5N3JLN3lPZ2tuM1NXTUFrVWRsS0pTZjNQallnb3hiOWsyNGlYLWxiS21FQURJTXdGelZvTDNoWk5xQmZCS2ppeUo0Y1lCelBGb2t6VERURHJMaDVGSGJqdHlmRTN1STdsS2Z2RkROLV9Vb0haU1VnaTE5YXphUEpVZmxfZzM4RDJDcTg4UHlkQlBHaG4zWVIyM0J2Z1RxU3RCTjE5b2Q5NG1uQmh6R1ZaUm1DWFk00gHuAUFVX3lxTFBKRXY1MEpZTVhHaUc5bUltMWRLMFhDRjk0S3l3dUtsSFI5VHpaMWtqQUw4cDFGSldIVGl4aTh3b2xKa2NBUENITGlOVEhodDhhcUVjN01aZ0w2dXRHTmtsUlRvU05MODRBTG5nRWtjOHh6NEhOM3I2VVloLV90bUlWTkVFZ1RNLTBwX19xS3F4QlM5ZWpSMXFHVEc5QWIwbGpRVEl3cTk4QlR1MXl6U2hDUjE3N3BUY1JZeWowd1ZVSzhSYXpSUk1WSzNFWTAxWjJlUWp1SUNpNmpIdmJrczA2ZjBJQVpwQlRrSUNwX0E?oc=5)
-
----
-
 ### [Il mio medico: sistema immunitario, ipertensione, memoria e prevenzione](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
 
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
@@ -90,14 +106,6 @@ Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aH
 2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
-
----
-
-### [IA, guerre nucléaire, obésité… Ces menaces qui pourraient faire basculer l’humanité d’ici 2100 - Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">obésité</span> <span class="news-indication-tag">AF</span>
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUE1heGxqaUVQU2xRRm5nMkFKNnRuMGVLWGd0X1RXNTBqcDhxTDliNjk2V2lxcWpmdlMwWW5yWFhrNlpSaDRFbllhMGQ0Mk9Qdm1xcmZtQ3hZOVA2TzN3eVo2aWFmOXFXSUZWdGVibzk4SXhzRmhUOVNpMlVEZDJnQ25JWDdUeTgwcmFvQnQzSDhPWDRjbTR3SVYwTWxpOFVBMGdJSUZiVHNRVjVqQjRSVkptMHItMEFRT3N0SS15YmxvZHVzeE5tOVBQRE54T2pqRXZUZG1fRmlOT3JiTnVkLTJZdzU?oc=5)
 
 ---
 

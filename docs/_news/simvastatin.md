@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,13 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Cereals, ready meals and fizzy drinks up risk of 'brain injury' in mid-life - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
 
-2026-10-16 <span class="news-indication-tag">stroke</span>
+2026-10-17 <span class="news-indication-tag">ictus</span>
 
-Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
 
 ---
 
@@ -74,6 +74,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRr
 2026-10-16 <span class="news-indication-tag">ictus</span>
 
 Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
+
+---
+
+### [El estrés crónico y la precariedad disparan un 43% el riesgo de sufrir un infarto o un ictus - Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
+
+2026-10-15 <span class="news-indication-tag">ictus</span>
+
+Source: [Canarias en Pleno](https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMFMtN2ZjRGloZTBfT1IxTGE1WDUwZE83MDM2Z2w0NDY3eDc2bFIzN2huNlFEU1pYMDMwbk9lSkNUZHdtRm5FRTZNdzQ5V3dDcnQ0M3BoUHg4dGRBdFU4c0V6UHJMU0dBYWUtMF9Zejh1cV9DelhF?oc=5)
 
 ---
 
