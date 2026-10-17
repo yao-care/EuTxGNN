@@ -49,7 +49,7 @@ This page combines the AI-predicted indications for Guanfacine Hydrochloride wit
 <li>cerebellar ataxia (94.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/guanfacine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (39)

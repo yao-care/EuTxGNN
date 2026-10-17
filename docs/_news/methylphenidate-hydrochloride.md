@@ -49,7 +49,7 @@ This page combines the AI-predicted indications for Methylphenidate Hydrochlorid
 <li>Balo concentric sclerosis (95.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/methylphenidate-hydrochloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/methylphenidate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

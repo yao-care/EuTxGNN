@@ -39,7 +39,7 @@ This page brings together the latest health news about “AF” and lists the dr
 <li><a href="{{ '/drugs/fentanyl/' | relative_url }}">Fentanyl</a></li>
 <li><a href="{{ '/drugs/' | relative_url }}">Ganirelix Acetate</a></li>
 <li><a href="{{ '/drugs/granisetron/' | relative_url }}">Granisetron</a></li>
-<li><a href="{{ '/drugs/guanfacine-hydrochloride/' | relative_url }}">Guanfacine Hydrochloride</a></li>
+<li><a href="{{ '/drugs/guanfacine/' | relative_url }}">Guanfacine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/' | relative_url }}">Ivabradine Hydrochloride</a></li>
 <li><a href="{{ '/drugs/lacosamide/' | relative_url }}">Lacosamide</a></li>
 <li><a href="{{ '/drugs/loxapine/' | relative_url }}">Loxapine</a></li>

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16",
-  "total_count": 667,
+  "generated": "2026-10-17",
+  "total_count": 664,
   "source": "EuTxGNN",
   "drugs": [
     {
@@ -462,16 +462,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/atazanavir/"
-    },
-    {
-      "slug": "atazanavir-as-sulfate",
-      "name": "Atazanavir (As Sulfate)",
-      "evidence_level": "L1",
-      "indication_count": 50,
-      "original_indication": "Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other...",
-      "predicted_indication": "HIV infectious disease",
-      "txgnn_score": "99.99%",
-      "url": "/drugs/atazanavir-as-sulfate/"
     },
     {
       "slug": "atezolizumab",
@@ -2784,16 +2774,6 @@
       "url": "/drugs/guanfacine/"
     },
     {
-      "slug": "guanfacine-hydrochloride",
-      "name": "Guanfacine Hydrochloride",
-      "evidence_level": "L2",
-      "indication_count": 50,
-      "original_indication": "Paxneury is indicated&nbsp;for the&nbsp;treatment of&nbsp;attention deficit hyperactivity disorder (ADHD) in children&nbsp;and adolescents&nbsp;6‑17&nbsp;years old for&nbsp;whom stimulants are not...",
-      "predicted_indication": "attention deficit hyperactivity disorder, inattentive type",
-      "txgnn_score": "99.99%",
-      "url": "/drugs/guanfacine-hydrochloride/"
-    },
-    {
       "slug": "guselkumab",
       "name": "Guselkumab",
       "evidence_level": "L5",
@@ -3802,16 +3782,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/methylphenidate/"
-    },
-    {
-      "slug": "methylphenidate-hydrochloride",
-      "name": "Methylphenidate Hydrochloride",
-      "evidence_level": "L2",
-      "indication_count": 50,
-      "original_indication": "Tuzulby is indicated as part of a comprehensive treatment programme for attention-deficit / hyperactivity disorder (ADHD) in children and adolescents 6-17 years old when remedial measures alone prove...",
-      "predicted_indication": "attention deficit-hyperactivity disorder",
-      "txgnn_score": "100.00%",
-      "url": "/drugs/methylphenidate-hydrochloride/"
     },
     {
       "slug": "methylthioninium",

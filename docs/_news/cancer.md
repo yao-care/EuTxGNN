@@ -37,7 +37,7 @@ This page brings together the latest health news about “Krebs” and lists the
 <li><a href="{{ '/drugs/anidulafungin/' | relative_url }}">Anidulafungin</a></li>
 <li><a href="{{ '/drugs/apalutamide/' | relative_url }}">Apalutamide</a></li>
 <li><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">Arsenic Trioxide</a></li>
-<li><a href="{{ '/drugs/atazanavir-as-sulfate/' | relative_url }}">Atazanavir (As Sulfate)</a></li>
+<li><a href="{{ '/drugs/atazanavir/' | relative_url }}">Atazanavir (As Sulfate)</a></li>
 <li><a href="{{ '/drugs/atezolizumab/' | relative_url }}">Atezolizumab</a></li>
 <li><a href="{{ '/drugs/avanafil/' | relative_url }}">Avanafil</a></li>
 <li><a href="{{ '/drugs/avelumab/' | relative_url }}">Avelumab</a></li>

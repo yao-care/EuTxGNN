@@ -49,7 +49,7 @@ This page combines the AI-predicted indications for Atazanavir (As Sulfate) with
 <li>apocrine adenosis of breast (95.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/atazanavir-as-sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/atazanavir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (40)

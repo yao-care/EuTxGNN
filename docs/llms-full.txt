@@ -12,7 +12,7 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 
 ## Main content
 
-- `/` Drug Repurposing Reports — AI-powered drug repurposing predictions for 667 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation.
+- `/` Drug Repurposing Reports — AI-powered drug repurposing predictions for 664 EMA-approved drugs. TxGNN model identifies potential new therapeutic uses with evidence-based validation.
 - `/drugs/` Drug List — Complete list of EMA drugs with TxGNN repurposing predictions
 - `/evidence-high/` High Evidence (L1-L2) — L1-L2 level drug repurposing candidates with strong clinical evidence support.
 - `/evidence-medium/` Medium Evidence (L3-L4) — L3-L4 level drug repurposing candidates with observational or preclinical evidence.

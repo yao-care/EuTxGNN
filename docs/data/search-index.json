@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16",
-  "drug_count": 667,
+  "generated": "2026-10-17",
+  "drug_count": 664,
   "indication_count": 2444,
   "drugs": [
     {
@@ -4004,117 +4004,6 @@
       "original": "",
       "level": "L5",
       "indications": []
-    },
-    {
-      "name": "Atazanavir (As Sulfate)",
-      "slug": "atazanavir-as-sulfate",
-      "brands": [
-        "Reyataz"
-      ],
-      "original": "Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretro...",
-      "level": "L1",
-      "indications": [
-        {
-          "name": "HIV infectious disease",
-          "score": 99.99,
-          "level": "L5"
-        },
-        {
-          "name": "feline acquired immunodeficiency syndrome",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "simian immunodeficiency virus infection",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "AIDS",
-          "score": 99.9,
-          "level": "L5"
-        },
-        {
-          "name": "obsolete familial combined hyperlipidemia",
-          "score": 99.82,
-          "level": "L5"
-        },
-        {
-          "name": "congenital human immunodeficiency virus",
-          "score": 99.71,
-          "level": "L5"
-        },
-        {
-          "name": "AIDS related complex",
-          "score": 99.71,
-          "level": "L5"
-        },
-        {
-          "name": "fibroma of prostate",
-          "score": 98.78,
-          "level": "L5"
-        },
-        {
-          "name": "Brenner tumor",
-          "score": 98.68,
-          "level": "L5"
-        },
-        {
-          "name": "benign reproductive system neoplasm",
-          "score": 98.67,
-          "level": "L5"
-        },
-        {
-          "name": "benign prostate phyllodes tumor",
-          "score": 98.51,
-          "level": "L5"
-        },
-        {
-          "name": "male reproductive organ cancer",
-          "score": 98.32,
-          "level": "L5"
-        },
-        {
-          "name": "prostate cancer/brain cancer susceptibility",
-          "score": 98.12,
-          "level": "L5"
-        },
-        {
-          "name": "prostate leiomyoma",
-          "score": 98.03,
-          "level": "L5"
-        },
-        {
-          "name": "homozygous familial hypercholesterolemia",
-          "score": 97.02,
-          "level": "L5"
-        },
-        {
-          "name": "breast fibrocystic disease",
-          "score": 96.44,
-          "level": "L5"
-        },
-        {
-          "name": "chronic hepatitis C virus infection",
-          "score": 95.93,
-          "level": "L5"
-        },
-        {
-          "name": "hypercholesterolemia, autosomal dominant",
-          "score": 95.89,
-          "level": "L5"
-        },
-        {
-          "name": "apocrine adenosis of breast",
-          "score": 95.36,
-          "level": "L5"
-        }
-      ]
     },
     {
       "name": "Atazanavir",
@@ -25410,117 +25299,6 @@
       ]
     },
     {
-      "name": "Guanfacine Hydrochloride",
-      "slug": "guanfacine-hydrochloride",
-      "brands": [
-        "Paxneury"
-      ],
-      "original": "Paxneury is indicated&nbsp;for the&nbsp;treatment of&nbsp;attention deficit hyperactivity disorder (ADHD) in children&nbsp;and adolescents&nbsp;6‑17&nbsp;years old for&nbsp;whom stimulants are not sui...",
-      "level": "L2",
-      "indications": [
-        {
-          "name": "attention deficit hyperactivity disorder, inattentive type",
-          "score": 99.99,
-          "level": "L5"
-        },
-        {
-          "name": "attention deficit-hyperactivity disorder",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "faciodigitogenital syndrome",
-          "score": 99.97,
-          "level": "L5"
-        },
-        {
-          "name": "specific developmental disorder",
-          "score": 99.97,
-          "level": "L5"
-        },
-        {
-          "name": "chondromyxoid fibroma",
-          "score": 99.94,
-          "level": "L5"
-        },
-        {
-          "name": "trichotillomania",
-          "score": 99.79,
-          "level": "L5"
-        },
-        {
-          "name": "manic bipolar affective disorder",
-          "score": 99.72,
-          "level": "L5"
-        },
-        {
-          "name": "restless legs syndrome",
-          "score": 99.64,
-          "level": "L5"
-        },
-        {
-          "name": "Tourette syndrome",
-          "score": 99.27,
-          "level": "L5"
-        },
-        {
-          "name": "postural orthostatic tachycardia syndrome",
-          "score": 99.1,
-          "level": "L5"
-        },
-        {
-          "name": "multiple system atrophy",
-          "score": 98.19,
-          "level": "L5"
-        },
-        {
-          "name": "variably protease-sensitive prionopathy",
-          "score": 97.66,
-          "level": "L5"
-        },
-        {
-          "name": "migraine disorder",
-          "score": 97.22,
-          "level": "L5"
-        },
-        {
-          "name": "migraine with brainstem aura",
-          "score": 96.92,
-          "level": "L5"
-        },
-        {
-          "name": "hypotrichosis simplex of the scalp",
-          "score": 96.79,
-          "level": "L5"
-        },
-        {
-          "name": "congenital hypotrichosis milia",
-          "score": 96.48,
-          "level": "L5"
-        },
-        {
-          "name": "major affective disorder",
-          "score": 96.06,
-          "level": "L5"
-        },
-        {
-          "name": "diffuse alopecia areata",
-          "score": 95.48,
-          "level": "L5"
-        },
-        {
-          "name": "primary hereditary glaucoma",
-          "score": 95.2,
-          "level": "L5"
-        },
-        {
-          "name": "cerebellar ataxia",
-          "score": 94.69,
-          "level": "L5"
-        }
-      ]
-    },
-    {
       "name": "Guanfacine",
       "slug": "guanfacine",
       "brands": [],
@@ -34660,117 +34438,6 @@
         {
           "name": "trigeminal autonomic cephalalgia",
           "score": 67.58,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Methylphenidate Hydrochloride",
-      "slug": "methylphenidate-hydrochloride",
-      "brands": [
-        "Tuzulby"
-      ],
-      "original": "Tuzulby is indicated as part of a comprehensive treatment programme for attention-deficit / hyperactivity disorder (ADHD) in children and adolescents 6-17 years old when remedial measures alone prove ...",
-      "level": "L2",
-      "indications": [
-        {
-          "name": "attention deficit-hyperactivity disorder",
-          "score": 100.0,
-          "level": "L5"
-        },
-        {
-          "name": "faciodigitogenital syndrome",
-          "score": 100.0,
-          "level": "L5"
-        },
-        {
-          "name": "attention deficit hyperactivity disorder, inattentive type",
-          "score": 100.0,
-          "level": "L5"
-        },
-        {
-          "name": "chondromyxoid fibroma",
-          "score": 99.99,
-          "level": "L5"
-        },
-        {
-          "name": "specific developmental disorder",
-          "score": 99.99,
-          "level": "L5"
-        },
-        {
-          "name": "dysthymic disorder",
-          "score": 99.11,
-          "level": "L5"
-        },
-        {
-          "name": "trichotillomania",
-          "score": 98.83,
-          "level": "L5"
-        },
-        {
-          "name": "cerebellar ataxia",
-          "score": 98.39,
-          "level": "L5"
-        },
-        {
-          "name": "autosomal dominant cerebellar ataxia",
-          "score": 98.38,
-          "level": "L5"
-        },
-        {
-          "name": "spinocerebellar degeneration with slow eye movements",
-          "score": 97.57,
-          "level": "L5"
-        },
-        {
-          "name": "benign paroxysmal torticollis of infancy",
-          "score": 97.51,
-          "level": "L5"
-        },
-        {
-          "name": "insomnia (disease)",
-          "score": 97.51,
-          "level": "L5"
-        },
-        {
-          "name": "transient tic disorder",
-          "score": 97.49,
-          "level": "L5"
-        },
-        {
-          "name": "anxiety disorder",
-          "score": 97.3,
-          "level": "L5"
-        },
-        {
-          "name": "narcolepsy",
-          "score": 97.05,
-          "level": "L5"
-        },
-        {
-          "name": "Tourette syndrome",
-          "score": 96.76,
-          "level": "L5"
-        },
-        {
-          "name": "hypersomnia (disease)",
-          "score": 96.1,
-          "level": "L5"
-        },
-        {
-          "name": "agoraphobia",
-          "score": 96.01,
-          "level": "L5"
-        },
-        {
-          "name": "circadian rhythm sleep disorder",
-          "score": 95.99,
-          "level": "L5"
-        },
-        {
-          "name": "Balo concentric sclerosis",
-          "score": 95.76,
           "level": "L5"
         }
       ]
@@ -62625,7 +62292,7 @@
     },
     {
       "name": "AIDS",
-      "drug_count": 23,
+      "drug_count": 22,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -62636,11 +62303,6 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.93
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.9
         },
         {
           "drug": "Zidovudine",
@@ -62676,12 +62338,17 @@
           "drug": "Lopinavir",
           "slug": "lopinavir",
           "score": 99.19
+        },
+        {
+          "drug": "Efavirenz",
+          "slug": "efavirenz",
+          "score": 98.64
         }
       ]
     },
     {
       "name": "AIDS related complex",
-      "drug_count": 25,
+      "drug_count": 24,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -62692,11 +62359,6 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.79
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.71
         },
         {
           "drug": "Atazanavir",
@@ -62732,6 +62394,11 @@
           "drug": "Nevirapine",
           "slug": "nevirapine",
           "score": 98.52
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 98.33
         }
       ]
     },
@@ -63145,17 +62812,12 @@
     },
     {
       "name": "Balo concentric sclerosis",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Pitolisant",
           "slug": "pitolisant",
           "score": 96.9
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 95.76
         }
       ]
     },
@@ -63387,7 +63049,7 @@
     },
     {
       "name": "Brenner tumor",
-      "drug_count": 28,
+      "drug_count": 27,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -63420,11 +63082,6 @@
           "score": 98.75
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.68
-        },
-        {
           "drug": "Atazanavir",
           "slug": "atazanavir",
           "score": 98.68
@@ -63438,6 +63095,11 @@
           "drug": "Elbasvir",
           "slug": "elbasvir",
           "score": 98.12
+        },
+        {
+          "drug": "Apalutamide",
+          "slug": "apalutamide",
+          "score": 97.58
         }
       ]
     },
@@ -64900,13 +64562,8 @@
     },
     {
       "name": "HIV infectious disease",
-      "drug_count": 58,
+      "drug_count": 57,
       "drugs": [
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.99
-        },
         {
           "drug": "Etravirine",
           "slug": "etravirine",
@@ -64951,6 +64608,11 @@
           "drug": "Lopinavir",
           "slug": "lopinavir",
           "score": 99.95
+        },
+        {
+          "drug": "Elvitegravir",
+          "slug": "elvitegravir",
+          "score": 99.94
         }
       ]
     },
@@ -68846,7 +68508,7 @@
     },
     {
       "name": "Tourette syndrome",
-      "drug_count": 11,
+      "drug_count": 9,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -68862,11 +68524,6 @@
           "drug": "Granisetron",
           "slug": "granisetron",
           "score": 99.52
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.27
         },
         {
           "drug": "Guanfacine",
@@ -68894,9 +68551,9 @@
           "score": 97.7
         },
         {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 96.76
+          "drug": "Lutropin Alfa",
+          "slug": "lutropin-alfa",
+          "score": 95.18
         }
       ]
     },
@@ -71442,7 +71099,7 @@
     },
     {
       "name": "agoraphobia",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Agomelatine",
@@ -71478,11 +71135,6 @@
           "drug": "Brexpiprazole",
           "slug": "brexpiprazole",
           "score": 98.23
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 96.01
         },
         {
           "drug": "Midazolam",
@@ -72907,7 +72559,7 @@
     },
     {
       "name": "anxiety disorder",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Agomelatine",
@@ -72950,14 +72602,14 @@
           "score": 98.74
         },
         {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 97.3
-        },
-        {
           "drug": "Lurasidone",
           "slug": "lurasidone",
           "score": 95.61
+        },
+        {
+          "drug": "Midazolam",
+          "slug": "midazolam",
+          "score": 92.83
         }
       ]
     },
@@ -72974,7 +72626,7 @@
     },
     {
       "name": "apocrine adenosis of breast",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -73007,11 +72659,6 @@
           "score": 96.23
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 95.36
-        },
-        {
           "drug": "Raltegravir",
           "slug": "raltegravir",
           "score": 92.26
@@ -73025,6 +72672,11 @@
           "drug": "Sevelamer",
           "slug": "sevelamer",
           "score": 89.91
+        },
+        {
+          "drug": "Efavirenz",
+          "slug": "efavirenz",
+          "score": 87.01
         }
       ]
     },
@@ -73625,21 +73277,11 @@
     },
     {
       "name": "attention deficit hyperactivity disorder, inattentive type",
-      "drug_count": 7,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 100.0
-        },
         {
           "drug": "Bupropion",
           "slug": "bupropion",
-          "score": 99.99
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
           "score": 99.99
         },
         {
@@ -73666,13 +73308,8 @@
     },
     {
       "name": "attention deficit-hyperactivity disorder",
-      "drug_count": 11,
+      "drug_count": 9,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 100.0
-        },
         {
           "drug": "Rotigotine",
           "slug": "rotigotine",
@@ -73687,11 +73324,6 @@
           "drug": "Solriamfetol",
           "slug": "solriamfetol",
           "score": 99.99
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.98
         },
         {
           "drug": "Loxapine",
@@ -73717,6 +73349,11 @@
           "drug": "Fesoterodine",
           "slug": "fesoterodine",
           "score": 82.44
+        },
+        {
+          "drug": "Midazolam",
+          "slug": "midazolam",
+          "score": 81.19
         }
       ]
     },
@@ -74092,13 +73729,8 @@
     },
     {
       "name": "autosomal dominant cerebellar ataxia",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 98.38
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
@@ -75282,7 +74914,7 @@
     },
     {
       "name": "benign paroxysmal torticollis of infancy",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Agomelatine",
@@ -75330,15 +74962,15 @@
           "score": 98.3
         },
         {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
           "score": 97.51
         }
       ]
     },
     {
       "name": "benign prostate phyllodes tumor",
-      "drug_count": 25,
+      "drug_count": 24,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -75371,11 +75003,6 @@
           "score": 98.63
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.51
-        },
-        {
           "drug": "Atazanavir",
           "slug": "atazanavir",
           "score": 98.51
@@ -75389,6 +75016,11 @@
           "drug": "Elbasvir",
           "slug": "elbasvir",
           "score": 98.06
+        },
+        {
+          "drug": "Darunavir",
+          "slug": "darunavir",
+          "score": 97.35
         }
       ]
     },
@@ -75426,7 +75058,7 @@
     },
     {
       "name": "benign reproductive system neoplasm",
-      "drug_count": 29,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -75464,11 +75096,6 @@
           "score": 98.7
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.67
-        },
-        {
           "drug": "Atazanavir",
           "slug": "atazanavir",
           "score": 98.67
@@ -75477,6 +75104,11 @@
           "drug": "Velpatasvir",
           "slug": "velpatasvir",
           "score": 98.58
+        },
+        {
+          "drug": "Lomitapide",
+          "slug": "lomitapide",
+          "score": 98.29
         }
       ]
     },
@@ -76741,7 +76373,7 @@
     },
     {
       "name": "breast fibrocystic disease",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Etravirine",
@@ -78042,22 +77674,12 @@
     },
     {
       "name": "cerebellar ataxia",
-      "drug_count": 3,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 98.39
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
           "score": 98.39
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 94.69
         }
       ]
     },
@@ -78893,13 +78515,8 @@
     },
     {
       "name": "chondromyxoid fibroma",
-      "drug_count": 8,
+      "drug_count": 6,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 99.99
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
@@ -78914,11 +78531,6 @@
           "drug": "Rotigotine",
           "slug": "rotigotine",
           "score": 99.95
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.94
         },
         {
           "drug": "Guanfacine",
@@ -79214,7 +78826,7 @@
     },
     {
       "name": "chronic hepatitis C virus infection",
-      "drug_count": 29,
+      "drug_count": 28,
       "drugs": [
         {
           "drug": "Ledipasvir",
@@ -79566,17 +79178,12 @@
     },
     {
       "name": "circadian rhythm sleep disorder",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Pitolisant",
           "slug": "pitolisant",
           "score": 96.73
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 95.99
         }
       ]
     },
@@ -80914,7 +80521,7 @@
     },
     {
       "name": "congenital human immunodeficiency virus",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Tipranavir",
@@ -80925,11 +80532,6 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.79
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.71
         },
         {
           "drug": "Atazanavir",
@@ -80965,12 +80567,17 @@
           "drug": "Nevirapine",
           "slug": "nevirapine",
           "score": 98.52
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 98.33
         }
       ]
     },
     {
       "name": "congenital hypotrichosis milia",
-      "drug_count": 32,
+      "drug_count": 31,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -83164,7 +82771,7 @@
     },
     {
       "name": "diffuse alopecia areata",
-      "drug_count": 24,
+      "drug_count": 23,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -84160,7 +83767,7 @@
     },
     {
       "name": "dysthymic disorder",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Agomelatine",
@@ -84171,11 +83778,6 @@
           "drug": "Olanzapine",
           "slug": "olanzapine",
           "score": 99.28
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 99.11
         },
         {
           "drug": "Methylphenidate",
@@ -86076,13 +85678,8 @@
     },
     {
       "name": "faciodigitogenital syndrome",
-      "drug_count": 11,
+      "drug_count": 9,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 100.0
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
@@ -86104,11 +85701,6 @@
           "score": 99.98
         },
         {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.97
-        },
-        {
           "drug": "Guanfacine",
           "slug": "guanfacine",
           "score": 99.97
@@ -86127,6 +85719,11 @@
           "drug": "Fesoterodine",
           "slug": "fesoterodine",
           "score": 84.84
+        },
+        {
+          "drug": "Timolol",
+          "slug": "timolol",
+          "score": 73.75
         }
       ]
     },
@@ -87030,17 +86627,12 @@
     },
     {
       "name": "feline acquired immunodeficiency syndrome",
-      "drug_count": 55,
+      "drug_count": 54,
       "drugs": [
         {
           "drug": "Tipranavir",
           "slug": "tipranavir",
           "score": 99.99
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.98
         },
         {
           "drug": "Atazanavir",
@@ -87081,6 +86673,11 @@
           "drug": "Lamivudine",
           "slug": "lamivudine",
           "score": 99.93
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.92
         }
       ]
     },
@@ -87428,7 +87025,7 @@
     },
     {
       "name": "fibroma of prostate",
-      "drug_count": 30,
+      "drug_count": 29,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -87461,11 +87058,6 @@
           "score": 98.91
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.78
-        },
-        {
           "drug": "Atazanavir",
           "slug": "atazanavir",
           "score": 98.78
@@ -87479,6 +87071,11 @@
           "drug": "Velpatasvir",
           "slug": "velpatasvir",
           "score": 98.64
+        },
+        {
+          "drug": "Lomitapide",
+          "slug": "lomitapide",
+          "score": 98.52
         }
       ]
     },
@@ -91397,7 +90994,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia",
-      "drug_count": 44,
+      "drug_count": 43,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -91933,7 +91530,7 @@
     },
     {
       "name": "hypercholesterolemia, autosomal dominant",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -91954,11 +91551,6 @@
           "drug": "Pravastatin",
           "slug": "pravastatin",
           "score": 98.69
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 95.89
         },
         {
           "drug": "Abacavir",
@@ -92252,17 +91844,12 @@
     },
     {
       "name": "hypersomnia (disease)",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Pitolisant",
           "slug": "pitolisant",
           "score": 96.98
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 96.1
         }
       ]
     },
@@ -92727,7 +92314,7 @@
     },
     {
       "name": "hypotrichosis simplex of the scalp",
-      "drug_count": 34,
+      "drug_count": 33,
       "drugs": [
         {
           "drug": "Bimatoprost",
@@ -94279,7 +93866,7 @@
     },
     {
       "name": "insomnia (disease)",
-      "drug_count": 15,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Solriamfetol",
@@ -94322,14 +93909,14 @@
           "score": 99.47
         },
         {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 97.51
-        },
-        {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
           "score": 97.51
+        },
+        {
+          "drug": "Oxybutynin",
+          "slug": "oxybutynin",
+          "score": 96.9
         }
       ]
     },
@@ -97176,7 +96763,7 @@
     },
     {
       "name": "major affective disorder",
-      "drug_count": 8,
+      "drug_count": 7,
       "drugs": [
         {
           "drug": "Loxapine",
@@ -97212,11 +96799,6 @@
           "drug": "Bupropion",
           "slug": "bupropion",
           "score": 99.09
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 96.06
         }
       ]
     },
@@ -97297,7 +96879,7 @@
     },
     {
       "name": "male reproductive organ cancer",
-      "drug_count": 18,
+      "drug_count": 17,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -97335,11 +96917,6 @@
           "score": 98.34
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.32
-        },
-        {
           "drug": "Elbasvir",
           "slug": "elbasvir",
           "score": 97.77
@@ -97348,6 +96925,11 @@
           "drug": "Apalutamide",
           "slug": "apalutamide",
           "score": 97.41
+        },
+        {
+          "drug": "Glecaprevir",
+          "slug": "glecaprevir",
+          "score": 96.19
         }
       ]
     },
@@ -97994,7 +97576,7 @@
     },
     {
       "name": "manic bipolar affective disorder",
-      "drug_count": 13,
+      "drug_count": 12,
       "drugs": [
         {
           "drug": "Loxapine",
@@ -98032,11 +97614,6 @@
           "score": 99.76
         },
         {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.72
-        },
-        {
           "drug": "Guanfacine",
           "slug": "guanfacine",
           "score": 99.72
@@ -98045,6 +97622,11 @@
           "drug": "Granisetron",
           "slug": "granisetron",
           "score": 99.62
+        },
+        {
+          "drug": "Zonisamide",
+          "slug": "zonisamide",
+          "score": 99.35
         }
       ]
     },
@@ -99043,7 +98625,7 @@
     },
     {
       "name": "migraine disorder",
-      "drug_count": 51,
+      "drug_count": 50,
       "drugs": [
         {
           "drug": "Parathyroid Hormone",
@@ -99099,7 +98681,7 @@
     },
     {
       "name": "migraine with brainstem aura",
-      "drug_count": 53,
+      "drug_count": 52,
       "drugs": [
         {
           "drug": "Thyrotropin Alfa",
@@ -100040,17 +99622,12 @@
     },
     {
       "name": "multiple system atrophy",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Solriamfetol",
           "slug": "solriamfetol",
           "score": 99.87
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 98.19
         },
         {
           "drug": "Glycopyrronium",
@@ -100749,17 +100326,12 @@
     },
     {
       "name": "narcolepsy",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
         {
           "drug": "Pitolisant",
           "slug": "pitolisant",
           "score": 98.42
-        },
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 97.05
         }
       ]
     },
@@ -101571,17 +101143,12 @@
     },
     {
       "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
-      "drug_count": 54,
+      "drug_count": 53,
       "drugs": [
         {
           "drug": "Tipranavir",
           "slug": "tipranavir",
           "score": 99.99
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.98
         },
         {
           "drug": "Atazanavir",
@@ -101622,6 +101189,11 @@
           "drug": "Ritonavir",
           "slug": "ritonavir",
           "score": 99.92
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.91
         }
       ]
     },
@@ -102517,7 +102089,7 @@
     },
     {
       "name": "obsolete familial combined hyperlipidemia",
-      "drug_count": 47,
+      "drug_count": 46,
       "drugs": [
         {
           "drug": "Simvastatin",
@@ -102528,11 +102100,6 @@
           "drug": "Tipranavir",
           "slug": "tipranavir",
           "score": 99.93
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.82
         },
         {
           "drug": "Atazanavir",
@@ -102568,6 +102135,11 @@
           "drug": "Etravirine",
           "slug": "etravirine",
           "score": 99.64
+        },
+        {
+          "drug": "Lamivudine",
+          "slug": "lamivudine",
+          "score": 99.63
         }
       ]
     },
@@ -107426,7 +106998,7 @@
     },
     {
       "name": "postural orthostatic tachycardia syndrome",
-      "drug_count": 9,
+      "drug_count": 8,
       "drugs": [
         {
           "drug": "Solriamfetol",
@@ -107442,11 +107014,6 @@
           "drug": "Tyrosine",
           "slug": "tyrosine",
           "score": 99.46
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.1
         },
         {
           "drug": "Parathyroid Hormone",
@@ -107977,7 +107544,7 @@
     },
     {
       "name": "primary hereditary glaucoma",
-      "drug_count": 32,
+      "drug_count": 31,
       "drugs": [
         {
           "drug": "Travoprost",
@@ -108657,7 +108224,7 @@
     },
     {
       "name": "prostate cancer/brain cancer susceptibility",
-      "drug_count": 12,
+      "drug_count": 11,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -108700,14 +108267,14 @@
           "score": 98.2
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.12
-        },
-        {
           "drug": "Zidovudine",
           "slug": "zidovudine",
           "score": 94.27
+        },
+        {
+          "drug": "Efavirenz",
+          "slug": "efavirenz",
+          "score": 92.87
         }
       ]
     },
@@ -108749,7 +108316,7 @@
     },
     {
       "name": "prostate leiomyoma",
-      "drug_count": 16,
+      "drug_count": 15,
       "drugs": [
         {
           "drug": "Vismodegib",
@@ -108787,11 +108354,6 @@
           "score": 98.14
         },
         {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 98.03
-        },
-        {
           "drug": "Apalutamide",
           "slug": "apalutamide",
           "score": 97.77
@@ -108800,6 +108362,11 @@
           "drug": "Elbasvir",
           "slug": "elbasvir",
           "score": 97.43
+        },
+        {
+          "drug": "Glecaprevir",
+          "slug": "glecaprevir",
+          "score": 95.59
         }
       ]
     },
@@ -111441,7 +111008,7 @@
     },
     {
       "name": "restless legs syndrome",
-      "drug_count": 14,
+      "drug_count": 13,
       "drugs": [
         {
           "drug": "Levetiracetam",
@@ -111457,11 +111024,6 @@
           "drug": "Tryptophan",
           "slug": "tryptophan",
           "score": 99.72
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.64
         },
         {
           "drug": "Guanfacine",
@@ -111492,6 +111054,11 @@
           "drug": "Cannabidiol",
           "slug": "cannabidiol",
           "score": 96.17
+        },
+        {
+          "drug": "Choriogonadotropin Alfa",
+          "slug": "choriogonadotropin-alfa",
+          "score": 95.43
         }
       ]
     },
@@ -113511,17 +113078,12 @@
     },
     {
       "name": "simian immunodeficiency virus infection",
-      "drug_count": 56,
+      "drug_count": 55,
       "drugs": [
         {
           "drug": "Tipranavir",
           "slug": "tipranavir",
           "score": 99.99
-        },
-        {
-          "drug": "Atazanavir (As Sulfate)",
-          "slug": "atazanavir-as-sulfate",
-          "score": 99.98
         },
         {
           "drug": "Atazanavir",
@@ -113562,6 +113124,11 @@
           "drug": "Lamivudine",
           "slug": "lamivudine",
           "score": 99.93
+        },
+        {
+          "drug": "Cobicistat",
+          "slug": "cobicistat",
+          "score": 99.92
         }
       ]
     },
@@ -113945,13 +113512,8 @@
     },
     {
       "name": "specific developmental disorder",
-      "drug_count": 7,
+      "drug_count": 5,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 99.99
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
@@ -113960,11 +113522,6 @@
         {
           "drug": "Bupropion",
           "slug": "bupropion",
-          "score": 99.97
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
           "score": 99.97
         },
         {
@@ -114081,13 +113638,8 @@
     },
     {
       "name": "spinocerebellar degeneration with slow eye movements",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 97.57
-        },
         {
           "drug": "Methylphenidate",
           "slug": "methylphenidate",
@@ -116804,13 +116356,8 @@
     },
     {
       "name": "transient tic disorder",
-      "drug_count": 2,
+      "drug_count": 1,
       "drugs": [
-        {
-          "drug": "Methylphenidate Hydrochloride",
-          "slug": "methylphenidate-hydrochloride",
-          "score": 97.49
-        },
         {
           "drug": "Oxybutynin",
           "slug": "oxybutynin",
@@ -117008,7 +116555,7 @@
     },
     {
       "name": "trichotillomania",
-      "drug_count": 16,
+      "drug_count": 14,
       "drugs": [
         {
           "drug": "Lacosamide",
@@ -117019,11 +116566,6 @@
           "drug": "Rotigotine",
           "slug": "rotigotine",
           "score": 99.89
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 99.79
         },
         {
           "drug": "Guanfacine",
@@ -117059,6 +116601,11 @@
           "drug": "Fentanyl",
           "slug": "fentanyl",
           "score": 98.87
+        },
+        {
+          "drug": "Methylphenidate",
+          "slug": "methylphenidate",
+          "score": 98.83
         }
       ]
     },
@@ -118305,17 +117852,12 @@
     },
     {
       "name": "variably protease-sensitive prionopathy",
-      "drug_count": 6,
+      "drug_count": 5,
       "drugs": [
         {
           "drug": "Solriamfetol",
           "slug": "solriamfetol",
           "score": 99.87
-        },
-        {
-          "drug": "Guanfacine Hydrochloride",
-          "slug": "guanfacine-hydrochloride",
-          "score": 97.66
         },
         {
           "drug": "Guanfacine",

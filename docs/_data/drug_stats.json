@@ -1,9 +1,9 @@
 {
   "generated": "2026-10-17",
-  "total_drugs": 667,
+  "total_drugs": 664,
   "level_counts": {
-    "L1": 36,
-    "L2": 30,
+    "L1": 35,
+    "L2": 28,
     "L3": 28,
     "L4": 89,
     "L5": 484
@@ -278,12 +278,6 @@
       "slug": "aspartic_acid",
       "level": "L5",
       "indication_count": 1
-    },
-    {
-      "name": "Atazanavir (As Sulfate)",
-      "slug": "atazanavir-as-sulfate",
-      "level": "L1",
-      "indication_count": 50
     },
     {
       "name": "Atazanavir",
@@ -1672,12 +1666,6 @@
       "indication_count": 10
     },
     {
-      "name": "Guanfacine Hydrochloride",
-      "slug": "guanfacine-hydrochloride",
-      "level": "L2",
-      "indication_count": 50
-    },
-    {
       "name": "Guanfacine",
       "slug": "guanfacine",
       "level": "L5",
@@ -2282,12 +2270,6 @@
       "slug": "methylnaltrexone",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Methylphenidate Hydrochloride",
-      "slug": "methylphenidate-hydrochloride",
-      "level": "L2",
-      "indication_count": 50
     },
     {
       "name": "Methylphenidate",
