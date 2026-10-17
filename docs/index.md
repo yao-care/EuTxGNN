@@ -134,7 +134,7 @@ Enter a **drug name** or **disease name** to find repurposing predictions. Suppo
 </style>
 
 {%- comment -%}2026-10-16：證據等級圖改由可收錄藥物頁即時計算（原本寫死）{%- endcomment -%}
-{% assign ld = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign ld = site.drugs | where_exp: "d", "d.layout != 'id_redirect'" | where_exp: "d", "d.noindex != true" %}
 {% assign n1 = ld | where: "evidence_level", "L1" | size %}{% assign n2 = ld | where: "evidence_level", "L2" | size %}{% assign n3 = ld | where: "evidence_level", "L3" | size %}{% assign n4 = ld | where: "evidence_level", "L4" | size %}{% assign n5 = ld | where: "evidence_level", "L5" | size %}
 {% assign tot = n1 | plus: n2 | plus: n3 | plus: n4 | plus: n5 %}{% if tot == 0 %}{% assign tot = 1 %}{% endif %}
 {% assign s1 = n1 | times: 502.65 | divided_by: tot %}{% assign s2 = n2 | times: 502.65 | divided_by: tot %}{% assign s3 = n3 | times: 502.65 | divided_by: tot %}{% assign s4 = n4 | times: 502.65 | divided_by: tot %}{% assign s5 = n5 | times: 502.65 | divided_by: tot %}

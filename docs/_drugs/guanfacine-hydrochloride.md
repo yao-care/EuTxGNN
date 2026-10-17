@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: id_redirect
 permalink: /drugs/guanfacine-hydrochloride/
 sitemap: false
 search_exclude: true

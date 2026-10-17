@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: id_redirect
 permalink: /drugs/atazanavir-as-sulfate/
 sitemap: false
 search_exclude: true

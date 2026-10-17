@@ -21,7 +21,7 @@ News about diseases with **linked drug repurposing reports** — click drug tags
 
 <script>
 // 2026-10-17：藥物連結用頁面實際網址；轉址頁、noindex 頁不給連結
-const drugUrls = { {% for d in site.drugs %}{% unless d.layout == 'redirect' or d.noindex %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}, {{ d.slug | downcase | jsonify }}: {{ d.url | relative_url | jsonify }}, {% endunless %}{% endfor %}"": "" };
+const drugUrls = { {% for d in site.drugs %}{% unless d.layout == 'id_redirect' or d.noindex %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}, {{ d.slug | downcase | jsonify }}: {{ d.url | relative_url | jsonify }}, {% endunless %}{% endfor %}"": "" };
 async function loadNews() {
   const container = document.getElementById('news-container');
   try {
