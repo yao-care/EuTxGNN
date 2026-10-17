@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Prophylaxis of transplant rejection in adult kidney or liver allograf…"
 monitor_inn: "Tacrolimus"
-predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "rheumatoid arthritis", "acne keloid", "psoriasis", "neonatal dermatomyositis", "exanthem (disease)"]
+predicted_indications: ["parapsoriasis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "acne keloid", "neonatal dermatomyositis", "exanthem (disease)"]
 ---
 
 # Tacrolimus
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dimethyl Fumarate: predicted new indication Progressive multiple sclerosis (evidence level L5). Approved use: Relapsing-remitting multiple sclerosis (RRMS) in adults and paediatri…"
 monitor_inn: "Dimethyl fumarate"
-predicted_indications: ["progressive multiple sclerosis", "schwannoma of jugular foramen", "cervical neuroblastoma", "benign neoplasm of buccal mucosa", "jugular foramen meningioma", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "inner ear neoplasm", "benign neoplasm of floor of mouth", "nasal cavity inverting papilloma"]
+predicted_indications: ["schwannoma of jugular foramen", "cervical neuroblastoma", "benign neoplasm of buccal mucosa", "jugular foramen meningioma", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "inner ear neoplasm", "benign neoplasm of floor of mouth", "nasal cavity inverting papilloma"]
 ---
 
 # Dimethyl Fumarate
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

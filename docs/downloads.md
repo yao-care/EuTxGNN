@@ -43,8 +43,8 @@ Open data for research use under CC BY 4.0 license.
 | `brand_name` | Commercial name |
 | `ingredient` | Active substance (INN) |
 | `drugbank_id` | DrugBank identifier |
-| `potential_indication` | Predicted indication |
-| `source` | Prediction source (KG or DL) |
+| `potential_indication` | Disease (predicted or known use, see `source`) |
+| `source` | KG = known use in the knowledge graph; DL = model prediction |
 | `score` | Prediction confidence (0-1) |
 
 ### drug_mapping.csv

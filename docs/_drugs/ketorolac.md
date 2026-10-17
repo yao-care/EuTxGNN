@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ketorolac: predicted new indication Headache disorder (evidence level L1). Approved use: Maintenance of intraoperative mydriasis…"
 monitor_inn: "Ketorolac"
-predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia", "ulcerative proctosigmoiditis", "nasopharyngitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "allergic urticaria", "viral conjunctivitis"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "ulcerative proctosigmoiditis", "nasopharyngitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "allergic urticaria"]
 ---
 
 # Ketorolac
@@ -27,7 +27,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

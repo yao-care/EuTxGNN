@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Toremifene: predicted new indication HIV infectious disease (evidence level L5). Approved use: First line hormone treatment of hormone-dependent metastatic breast c…"
 monitor_inn: "Toremifene"
-predicted_indications: ["HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "multiple endocrine neoplasia", "AIDS", "obsolete familial combined hyperlipidemia", "female breast carcinoma", "nephrogenic syndrome of inappropriate antidiuresis", "gout"]
+predicted_indications: ["HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "multiple endocrine neoplasia", "AIDS", "obsolete familial combined hyperlipidemia", "nephrogenic syndrome of inappropriate antidiuresis", "gout"]
 ---
 
 # Toremifene
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

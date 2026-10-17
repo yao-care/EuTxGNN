@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brivaracetam: predicted new indication Visual epilepsy (evidence level L5). Approved use: Adjunctive therapy for partial-onset seizures with or without seconda…"
 monitor_inn: "Brivaracetam"
-predicted_indications: ["visual epilepsy", "status epilepticus", "orgasm-induced seizures", "thinking seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "startle epilepsy", "beta-ketothiolase deficiency", "adolescent/adult onset autosomal dominant epilepsy with auditory features"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Brivaracetam
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

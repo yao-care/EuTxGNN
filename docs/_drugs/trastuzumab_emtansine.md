@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trastuzumab Emtansine: predicted new indication Progesterone-receptor negative breast cancer (evidence level L5). Approved use: Adjuvant treatment of HER2-positive early breast cancer with residual…"
 monitor_inn: "Trastuzumab emtansine"
-predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "tenosynovial giant cell tumor", "tenosynovial giant cell tumor, localized type", "malignant giant cell tumor", "human herpesvirus 8-related tumor", "ectomesenchymoma"]
+predicted_indications: ["synovium cancer", "tenosynovial giant cell tumor", "tenosynovial giant cell tumor, localized type", "malignant giant cell tumor", "human herpesvirus 8-related tumor", "ectomesenchymoma"]
 ---
 
 # Trastuzumab Emtansine
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

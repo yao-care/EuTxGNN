@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bosutinib: predicted new indication Myeloid leukaemia (evidence level L1). Approved use: Newly diagnosed chronic phase Ph+ CML, and Ph+ CML in chronic…"
 monitor_inn: "Bosutinib"
-predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "plasma cell myeloma", "HER2 positive breast carcinoma", "indolent plasma cell myeloma"]
+predicted_indications: ["thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "plasma cell myeloma", "HER2 positive breast carcinoma", "indolent plasma cell myeloma"]
 ---
 
 # Bosutinib
@@ -27,7 +27,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

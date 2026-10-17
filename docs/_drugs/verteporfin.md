@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Adults with exudative (wet) age-related macular degener…"
 monitor_inn: "Verteporfin"
-predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency", "varicose disease", "MRCS syndrome", "pigmented paravenous retinochoroidal atrophy", "familial flecked retinopathy", "ectopia lentis-chorioretinal dystrophy-myopia syndrome", "retinal dystrophy in systemic or cerebroretinal lipidoses"]
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency", "varicose disease", "MRCS syndrome", "pigmented paravenous retinochoroidal atrophy", "familial flecked retinopathy", "retinal dystrophy in systemic or cerebroretinal lipidoses"]
 ---
 
 # Verteporfin
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Erenumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Prophylaxis of migraine in adults who have at least 4 migraine days p…"
 monitor_inn: "Erenumab"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "amenorrhea (disease)", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "sciatic neuropathy", "severe nonproliferative diabetic retinopathy"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "amenorrhea (disease)", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "sciatic neuropathy", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Erenumab
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

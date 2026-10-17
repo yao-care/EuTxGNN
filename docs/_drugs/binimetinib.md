@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Binimetinib: predicted new indication Choroideremia . Rank 2 is non-cutaneous melanoma… (evidence level L5). Approved use: Unresectable or metastatic melanoma with a BRAF V600 mutation"
 monitor_inn: "Binimetinib"
-predicted_indications: ["choroideremia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "nodular malignant melanoma", "lentigo maligna melanoma", "malignant melanoma of the mucosa", "balloon cell malignant melanoma", "amelanotic skin melanoma"]
+predicted_indications: ["choroideremia"]
 ---
 
 # Binimetinib
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

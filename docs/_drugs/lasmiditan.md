@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lasmiditan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Acute treatment of the headache phase of migraine attacks…"
 monitor_inn: "Lasmiditan"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy", "monogenic obesity", "obesity disorder", "obsolete hypertelorism (disease)", "hypervitaminosis", "amenorrhea (disease)", "frontorhiny"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy", "monogenic obesity", "obesity disorder", "obsolete hypertelorism (disease)", "hypervitaminosis", "amenorrhea (disease)", "frontorhiny"]
 ---
 
 # Lasmiditan
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Neratinib: predicted new indication Progesterone-receptor positive breast cancer (evidence level L2). Approved use: Extended adjuvant treatment of adult patients with early-stage hormon…"
 monitor_inn: "Neratinib"
-predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "tenosynovial giant cell tumor", "malignant giant cell tumor", "tenosynovial giant cell tumor, localized type", "fibroblastic neoplasm", "kidney fibrosarcoma"]
+predicted_indications: ["synovium cancer", "tenosynovial giant cell tumor", "malignant giant cell tumor", "tenosynovial giant cell tumor, localized type", "fibroblastic neoplasm", "kidney fibrosarcoma"]
 ---
 
 # Neratinib
@@ -27,7 +27,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

@@ -30,7 +30,7 @@ TxGNN Prediction → Data Collection → Evidence Integration → Report Generat
 TxGNN uses a **knowledge graph** combined with **graph neural networks** for prediction:
 
 1. **Knowledge Graph Construction**
-   - 17,080 nodes (drugs, diseases, genes, etc.)
+   - Covers 17,080 diseases, plus drugs, genes and proteins
    - Complex inter-node relationships
 
 2. **Graph Neural Network Training**
@@ -41,13 +41,13 @@ TxGNN uses a **knowledge graph** combined with **graph neural networks** for pre
    - Prediction score for each drug-disease pair
    - Higher scores indicate higher confidence
 
-### Prediction Methods
+### Prediction Sources
 
-| Method | Description | Predictions |
-|--------|-------------|-------------|
-| Knowledge Graph (KG) | Network topology-based associations | 718 |
-| Deep Learning (DL) | Neural network score prediction | 31,650 |
-| **Total** | Merged and deduplicated | **32,368** |
+| Source | Description | Count |
+|--------|-------------|-------|
+| Deep Learning (DL) | TxGNN neural network score prediction | 31,650 |
+| Knowledge Graph (KG) | Known uses already recorded in the knowledge graph (not predictions) | 718 |
+| **Candidate table** | DL predictions plus KG known uses, deduplicated | **32,368** |
 
 ---
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Delamanid: predicted new indication Tuberculosis, bovine (evidence level L4). Approved use: Pulmonary multidrug-resistant tuberculosis (MDR-TB)…"
 monitor_inn: "Delamanid"
-predicted_indications: ["tuberculosis, bovine", "tuberculous ascites", "inactive tuberculosis", "tuberculosis, avian", "tuberculoma", "allergic urticaria", "cutaneous tuberculosis", "fascioliasis", "inhalational botulism", "urea cycle disorder"]
+predicted_indications: ["allergic urticaria", "fascioliasis", "inhalational botulism", "urea cycle disorder"]
 ---
 
 # Delamanid
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

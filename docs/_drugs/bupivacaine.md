@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bupivacaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Exparel liposomal: in adults as a brachial plexus block or femoral ne…"
 monitor_inn: "Bupivacaine"
-predicted_indications: ["neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "uterine polyp", "epulis", "polyp of vocal cord", "polyp of middle ear"]
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "uterine polyp", "epulis", "polyp of vocal cord", "polyp of middle ear"]
 ---
 
 # Bupivacaine
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

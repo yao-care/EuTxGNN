@@ -21,7 +21,7 @@ TxGNN model predictions without clinical evidence - research hypotheses for expl
 | **L5** | AI prediction only, no clinical evidence | Research hypothesis, requires validation |
 
 <div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px; margin: 1rem 0;">
-<strong>Caution:</strong> L5 predictions are based on knowledge graph analysis only. They should NOT be used for clinical decision-making and require rigorous validation before any therapeutic application.
+<strong>Caution:</strong> L5 predictions are model predictions only, with no clinical evidence. They should NOT be used for clinical decision-making and require rigorous validation before any therapeutic application.
 </div>
 
 ---

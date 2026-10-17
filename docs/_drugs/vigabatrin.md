@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vigabatrin: predicted new indication Intellectual disability, X-linked, with or without seizures… (evidence level L4). Approved use: Monotherapy for infantile spasms (West's syndrome)"
 monitor_inn: "Vigabatrin"
-predicted_indications: ["intellectual disability, X-linked, with or without seizures, arx-related", "episodic kinesigenic dyskinesia", "1q44 microdeletion syndrome", "PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation", "DK1-CDG", "microtriplication 11q24.1", "CCDC115-CDG", "neonatal period electroclinical syndrome", "genetic lethal multiple congenital anomalies/dysmorphic syndrome", "COG2-CDG"]
+predicted_indications: ["episodic kinesigenic dyskinesia", "1q44 microdeletion syndrome", "DK1-CDG", "microtriplication 11q24.1", "CCDC115-CDG", "neonatal period electroclinical syndrome", "genetic lethal multiple congenital anomalies/dysmorphic syndrome", "COG2-CDG"]
 ---
 
 # Vigabatrin
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

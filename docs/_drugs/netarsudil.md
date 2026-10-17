@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Netarsudil: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Reduction of elevated intraocular pressure (IOP) in adult patients wi…"
 monitor_inn: "Netarsudil"
-predicted_indications: ["primary hereditary glaucoma", "hypoglycemia", "Axenfeld anomaly", "hydrophthalmos", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency"]
+predicted_indications: ["hypoglycemia", "Axenfeld anomaly", "hydrophthalmos", "hereditary thrombocytopenia with normal platelets", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency"]
 ---
 
 # Netarsudil
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

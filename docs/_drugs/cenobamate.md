@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cenobamate: predicted new indication Guanidinoacetate methyltransferase deficiency (evidence level L5). Approved use: Adjunctive treatment of focal-onset seizures with or without secondar…"
 monitor_inn: "Cenobamate"
-predicted_indications: ["guanidinoacetate methyltransferase deficiency", "status epilepticus", "visual epilepsy", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant", "14q12 microdeletion syndrome", "startle epilepsy", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures"]
+predicted_indications: ["guanidinoacetate methyltransferase deficiency", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant", "14q12 microdeletion syndrome"]
 ---
 
 # Cenobamate
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 
