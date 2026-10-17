@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Tumore del pancreas, daraxonrasib cambia le prospettive di cura. Giannini (SIGE): ora garantire l’accesso](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+
+---
+
+### [Cereals, ready meals and fizzy drinks up risk of 'brain injury' in mid-life - The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">stroke</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2wyWGJDUFFfb2NuaWlaU1A3ZGRFelV2TFFITC14UzJtdlAtampCX2J1eHZKbXBTZWZ1WnlDSjNjajRRSkVpdGdrcC1SMmVXNTNwTWwzdUNVUGMyVWxyUk55eC1JT0NpYmY0d2pzVnBycXAzVF8wS21haVktb25mRWR5R3M0OENEdXBOelJ6UEZWdDFGZmRZ?oc=5)
+
+---
 
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
@@ -77,14 +93,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRr
 
 ---
 
-### [Tumore al pancreas, primo sì in Ue per il farmaco che raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklQRWdvaWVsRnJkSWp0QnhINGlNcVEtc2pvV1pTd1pEYU42SnR2djRNU1IzRWpsWjRtdDA4eTlxS2pYVlpkS3ZkT3pMVXoyeS1KRmlxZV9TTHdtQmY2Y19zdjlfZHNJNnZJY3RMQkJxQ2ZLSF9RenQ3UTVFb2IxeUdKWF8zRXVhcGg5cmxEUUc0Zmk2ZXVuV00zSktBVHFSdUVlNXFvWTdCYndNQXYtbElMRUFlQXJZbnR3QUhB0gFoQVVfeXFMUFMzaGhVam9iUmRQSnBMM3QxejVlVFpCdXUxUldsaUd1dWVJLWdzVnVOQUlyQlVEc3hZZGt6M1JQNWRINVRyNlhsRFZsM2x4R2pxTG55dzFILXl6T2lrTTJBM0oyLU5PaU8?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklQRWdvaWVsRnJkSWp0QnhINGlNcVEtc2pvV1pTd1pEYU42SnR2djRNU1IzRWpsWjRtdDA4eTlxS2pYVlpkS3ZkT3pMVXoyeS1KRmlxZV9TTHdtQmY2Y19zdjlfZHNJNnZJY3RMQkJxQ2ZLSF9RenQ3UTVFb2IxeUdKWF8zRXVhcGg5cmxEUUc0Zmk2ZXVuV00zSktBVHFSdUVlNXFvWTdCYndNQXYtbElMRUFlQXJZbnR3QUhB0gFoQVVfeXFMUFMzaGhVam9iUmRQSnBMM3QxejVlVFpCdXUxUldsaUd1dWVJLWdzVnVOQUlyQlVEc3hZZGt6M1JQNWRINVRyNlhsRFZsM2x4R2pxTG55dzFILXl6T2lrTTJBM0oyLU5PaU8?oc=5)
-
----
-
 ### [El proyecto español AntheroPTM estudiará cómo prevenir infartos e ictus causados por aterosclerosis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
 
 2026-10-16 <span class="news-indication-tag">ictus</span>
@@ -101,11 +109,11 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 
 ---
 
-### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+### [GLP-1-RA: Vom Abnehmmedikament zum Präventionsinstrument?](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-16 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+Source: [medonline](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
 
 ---
 

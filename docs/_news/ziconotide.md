@@ -61,6 +61,14 @@ Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c
 
 ---
 
+### [Tumore del pancreas, daraxonrasib cambia le prospettive di cura. Giannini (SIGE): ora garantire l’accesso](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTVY5aXEzNmJud0pYVHdraTJoa1NiMFNWSjNsWVFLZUhnd0M5d3JxX1JaV0JoMXdIUTJMajBHOWQyekpoY0VweVM4U19ZcXNEZ3AyUDAtcnJIcFlTV1VaczdOeHBYbVJxLTN5NS1JczZiYTJkWEMzdUh3T0VmMkZFcDJkem4yOGNZb2YyY3oxVmRlYUF5Nm9wbmFiYVdDMG1kRHNyaGhNanM1SlNScm44UnA2OGptY3BmVDJZNVF2ZmlGclNSMGF3b3RIc1l6WEZlLTk3Qg?oc=5)
+
+---
+
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
 2026-10-16 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -77,14 +85,6 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV
 
 ---
 
-### [Tumore al pancreas, primo sì in Ue per il farmaco che raddoppia la sopravvivenza](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklQRWdvaWVsRnJkSWp0QnhINGlNcVEtc2pvV1pTd1pEYU42SnR2djRNU1IzRWpsWjRtdDA4eTlxS2pYVlpkS3ZkT3pMVXoyeS1KRmlxZV9TTHdtQmY2Y19zdjlfZHNJNnZJY3RMQkJxQ2ZLSF9RenQ3UTVFb2IxeUdKWF8zRXVhcGg5cmxEUUc0Zmk2ZXVuV00zSktBVHFSdUVlNXFvWTdCYndNQXYtbElMRUFlQXJZbnR3QUhB0gFoQVVfeXFMUFMzaGhVam9iUmRQSnBMM3QxejVlVFpCdXUxUldsaUd1dWVJLWdzVnVOQUlyQlVEc3hZZGt6M1JQNWRINVRyNlhsRFZsM2x4R2pxTG55dzFILXl6T2lrTTJBM0oyLU5PaU8?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Tgcom24](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUklQRWdvaWVsRnJkSWp0QnhINGlNcVEtc2pvV1pTd1pEYU42SnR2djRNU1IzRWpsWjRtdDA4eTlxS2pYVlpkS3ZkT3pMVXoyeS1KRmlxZV9TTHdtQmY2Y19zdjlfZHNJNnZJY3RMQkJxQ2ZLSF9RenQ3UTVFb2IxeUdKWF8zRXVhcGg5cmxEUUc0Zmk2ZXVuV00zSktBVHFSdUVlNXFvWTdCYndNQXYtbElMRUFlQXJZbnR3QUhB0gFoQVVfeXFMUFMzaGhVam9iUmRQSnBMM3QxejVlVFpCdXUxUldsaUd1dWVJLWdzVnVOQUlyQlVEc3hZZGt6M1JQNWRINVRyNlhsRFZsM2x4R2pxTG55dzFILXl6T2lrTTJBM0oyLU5PaU8?oc=5)
-
----
-
 ### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
 2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
@@ -93,11 +93,11 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 
 ---
 
-### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+### [GLP-1-RA: Vom Abnehmmedikament zum Präventionsinstrument?](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-16 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+Source: [medonline](https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0R6clRoSjlMa1hoUEtzcElUdU1MLV80NGNjS21aY2lGbDJLb0pUdnpDNGx2Y2Q4Sl9CTmRSRXY1a19uOTVyUzl2YllPQUhqNkdLMHV6YlE5ZHlZM1c3VFNHWS1xQUN0VmhIcklkOXY3bzFnVHA4SzdMSjhDUmlpM1FCSGFlaF8tTUdBZjRyM08?oc=5)
 
 ---
 
