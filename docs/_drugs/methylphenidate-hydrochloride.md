@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Methylphenidate Hydrochloride
-description: "methylphenidate hydrochloride drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
 parent: Phase 2 Evidence (L2)
 nav_order: 375
 evidence_level: L2

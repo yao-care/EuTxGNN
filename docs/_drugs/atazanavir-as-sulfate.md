@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Atazanavir (As Sulfate)
-description: "atazanavir (as sulfate) drug repurposing predictions from TxGNN. Evidence level L1 with 50 predicted indications."
 parent: Phase 3+ Evidence (L1)
 nav_order: 53
 evidence_level: L1

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Guanfacine Hydrochloride
-description: "guanfacine hydrochloride drug repurposing predictions from TxGNN. Evidence level L2 with 50 predicted indications."
 parent: Phase 2 Evidence (L2)
 nav_order: 278
 evidence_level: L2
