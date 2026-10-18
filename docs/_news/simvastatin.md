@@ -53,27 +53,27 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (4)
 
+### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+---
+
+### [Cuore, tre valori del sangue insieme affinano la stima del rischio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
+
+2026-10-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
+
+---
+
 ### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
 
 2026-10-17 <span class="news-indication-tag">ictus</span>
 
 Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
-
----
-
-### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
----
-
-### [Maskierter Bluthochdruck: „Besonders tückisch“ – In diesem Alter steigt das Risiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
-
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
 
 ---
 

@@ -53,11 +53,11 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (1)
 
-### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+### [Chronische Nierenerkrankung | Intensive Drucksenkung schützt das Herz, kann aber GFR reduzieren](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
 
-2026-10-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+2026-10-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
 
 ---
 

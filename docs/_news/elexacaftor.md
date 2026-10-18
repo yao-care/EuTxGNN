@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="What news is there about Elexacaftor?">
-<strong>Elexacaftor</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Elexacaftor</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
+
+### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+2026-10-18 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+---
 
 ### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
 
@@ -69,19 +77,19 @@ Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c
 
 ---
 
+### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
+
+---
+
 ### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
 
 2026-10-16 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
-
----
-
-### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
 
 ---
 
@@ -93,22 +101,6 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFI
 
 ---
 
-### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
-
----
-
-### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
-2026-10-15 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
----
-
 ### [Il mio medico: sistema immunitario, ipertensione, memoria e prevenzione](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aHZMU2hwVThJV0JfZnVVRERTYVpxNVJkT2dMVzNnWTdTZ09IVFNhT25veXNLUTRrSkYwb3hURTVEV3V0TVRmWS1yVUJsY1NXY1BkbU5zUXRTYWRVWFRXemJJNTFBVE1zT2lsanNNZG5sTDc0RTA5V3U0TFlJTDV1QXNtSGtLRUhTUzlmbHFxVFBLS2pxZENiNy0wRnl6VF9JMjJvaGxQamRLdlctQVd4akE?oc=5)
 
 2026-10-15 <span class="news-indication-tag">ipertensione</span>
@@ -117,19 +109,11 @@ Source: [Tv2000](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUUwQjB5aH
 
 ---
 
-### [Maskierter Bluthochdruck: „Besonders tückisch“ – In diesem Alter steigt das Risiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
+### [Chronische Nierenerkrankung | Intensive Drucksenkung schützt das Herz, kann aber GFR reduzieren](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-10-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMijwJBVV95cUxQVFVyWm1RdFpSdlZ3Zzl6cFZBSGZHM2RXbDNtNTItUDB3MWFIVHVVbDNSUzR6WjRPUnFoRkNyT1JnZVdnQTlraUtHbnNYVENlZG80RkNKUGRSM0dzVWJZZldpTEtCYzdYdUJEYm5KMDdZWl9mN2RPZXhpYmFOaXZhVUhiQzJkQXdoMDU3Ulp6TWZzZGxSdk0zb1FoZFlLYUVPdmduT0xLbkZqNkgxam0xd0dFWlNFaVNiXzhLRW4xRWc5RmRmbG52UUh1cG9LRENNYnd4WnhVV0pySHNxMHM4bTB6Z1NPakZnWUR1cjlaRVA4MElhTDJMVF9YYllBbnJBOHZRMUFTSWpYZVVBVzkw?oc=5)
 
 ---
 

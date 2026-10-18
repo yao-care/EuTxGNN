@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Milano, 1 madre su 6 con segnali di disagio psicologico in gravidanza o post parto: lo studio Ats su 164 mila donne - Corriere Milano](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ1d2QkxWVkRQRGUwZXVrWmVGclUteHgtWUZpbDNPdWlRX2FPUlhfM3JVVUk2SGxDWWZZaEtqMEpvWDlnUEZzR2ZvMVF5YmRiV1BBbjF2ZFRoaFNMRExLSk9rX0Ixdm5NSVl5NmIzbUhHNjZOYmdhQzZzbFFsYTNSRUd1MjdXckRlZDlmOTdMX1R5X2xCYkdzSGlOZ0R5TVMtdl9DLVpZUjZuY3l0akRHc2hPTVFTYTE2Tkh1ajI4QkVZVy1xa1djcUNLdjcyOG5uTlBscnhRaTllWU1OMFFjeTBEbzBpQ3gwa21aSWt4TWg3NzluZ19JdU9JWFdRczdGeFdxN09wWlpZc2tSbUYtMzZCZTg5YkgtVlZRMjA1UExXT1c0MkxiYmxEcEpCV01DVExxdS130gG7AkFVX3lxTE9xVjJKV21MbnVNZWUzMl83V3VkLXRyWlB4Wl9CbXRSVlhHSC1WdGRTQ0VjWUFIWlBiMUlRSXRzVDNNUFVZNi15bzdScTN6dVhpbXRHNGVMdEl3ak0wQWlxZGRRa3RVNjdyWk9qWlk1ZUh2eGJ0TjZOWHlaaUdnanBLZ2FUZktMSmo2RW9EQ1NPRTVOeVc1Tm5vc2hEbWdoTUJHSGxiYTVRTGRkWDI2NjhvZDBpUWcwTnZ6VTRFZFljYU5RdVl1YmtJc044djV6Y19lelFUU3VSXzlHVjk3N1dMbnEwbVRWTWpad05EQUQwME1sVllrLTFiQ1dmcTVMTHEyZm5FOFFDWDhaVWdldHUtelAyZEFHLU1zampnREk3UjRMb2xCQ1BoWFdsV0pDdlJmdzh5aTRFZHQwMA?oc=5)
 
@@ -69,35 +69,27 @@ Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxO
 
 ---
 
-### [Depressione, cambiare dieta può aiutare: meno cibi ultraprocessati, sintomi in calo](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN00tWlMxbkc3QnZHV3lTZE1BenZ2b1ZGVHBETTR3eVRUX0l6R2xBR2EwMC1hSUV3bWhoSE9MRm9Mc2dkZUxRUlBnbXg5WTVIV1Z5MVdnRUZDQno0TzFqLXQ3MlBxN1NQQzlsWEkwWkNSbU1hajZCc0pLeS1nNVNHSzBIS20yZkxkYm1Dbk84N2F3bUxfUUFLbE9tWDRBajJTQkd2Unc3Vkd1WXkxMFBPTGpCcTFmRGJVOTlHVVZYMEZHVXNKYkROUGpGSQ?oc=5)
+### [Obesità, diabete e malattie del cuore: cosa hanno scoperto gli scienziati sui cibi che mangiamo ogni giorno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
 
-2026-10-17 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-10-17 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxPN00tWlMxbkc3QnZHV3lTZE1BenZ2b1ZGVHBETTR3eVRUX0l6R2xBR2EwMC1hSUV3bWhoSE9MRm9Mc2dkZUxRUlBnbXg5WTVIV1Z5MVdnRUZDQno0TzFqLXQ3MlBxN1NQQzlsWEkwWkNSbU1hajZCc0pLeS1nNVNHSzBIS20yZkxkYm1Dbk84N2F3bUxfUUFLbE9tWDRBajJTQkd2Unc3Vkd1WXkxMFBPTGpCcTFmRGJVOTlHVVZYMEZHVXNKYkROUGpGSQ?oc=5)
-
----
-
-### [Ni la vue ni l'ouïe : ce sens caché que la science relie à l'anxiété et à la dépression - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
-
-2026-10-16 <span class="news-indication-tag">dépression</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaTNVOHI2ck1XTW11eGUzY1lzalpTd1g4REhER0oxM19LSmlqR1R2cVBZTFN4dUZtOFdxWnU0WUlZOEhmdUszNVZQcm9td1J1THVBLWxpY2lHdGRBQTJienkxNnZlRFRBbE9jT0luLTM1Rk8wOGozZk1rTDl1VzJEa01DMDFiNEg5NVhKYkFHX0phem9kUWJ6dDlpT2N6eVJUXzhJQzNBc3NlNW14Wnk0Nl9Rb1pBbE01Z2t0enFjX2Y0ZDNzLU1QMXA3ZXI5Z0tPZUtN?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
 
 ---
 
-### [Psilocybine : un espoir pour traiter les dépressions résistantes - Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQWXZpUzV0VmlGMkNYY0xmQWU3MnQxLVlWLWMwa2ozZlVVTDExMzdsa2pGWGNFbkFuS0NmRUZyZDY1YVBBR2lfdmVSLTZqOWdGQjNYd0FaYlVadVpKckY3U1gteFZNZmY3TnJsZ2t6aGpyUDczUDJVNzhNY3Y2YWJtY0ltSFNJbkZWVjVxUlBfMjhrREVmM0hybWZ2Ql9mU01vZnhBeFNtb19EUGRQNm4tVHFHcUttVEkxTE1pVVhnWEpucmx4NE5j?oc=5)
+### [BBC doctor urgent health 'reminder' for anyone taking fluoxetine, sertraline, or citalopram - Daily Record](https://news.google.com/rss/articles/CBMingFBVV95cUxOaVZDYzViTlQzRHh1Y01FRTNBclhQWnFaQnNCSmw2ZDFmaFU5VTJBUlpCQ2pNaFgtd3B1ZUxyYjV0UnRleF9lV2pwNC1XYjBMd3pwdGh4NmlHZ0ZCdGJTSkNiSUItOFRiWWkzVkZMTTFiSjlGaXdJZ1JHNHNxUW9SOGhVZmVjUlJIb28xNVpFcXJfVk5RNnN5dFl6bDlVUdIBowFBVV95cUxNVXlnTG1LOEJSSWpsTTVYSDNuQ0xmSkdmTHVMMXYxdXdCQm54bkYydHRzTTlNNkFJOE9hcVJpUVdXXzVQTUw0VmRNdnpRNGlZV3gwanh0WmRmeUxIdDJEMjhGVEUyMkRKallTdVk1b0JpcU96c1FsekpEc2NySzJhS3o0N0ZvcHFJZ3ZqdUsyeklTZVM4RG9OWnFnRHlEc3BjUC1R?oc=5)
 
-2026-10-16 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">dépression</span>
+2026-10-16 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-Source: [Les Echos](https://news.google.com/rss/articles/CBMixwFBVV95cUxQWXZpUzV0VmlGMkNYY0xmQWU3MnQxLVlWLWMwa2ozZlVVTDExMzdsa2pGWGNFbkFuS0NmRUZyZDY1YVBBR2lfdmVSLTZqOWdGQjNYd0FaYlVadVpKckY3U1gteFZNZmY3TnJsZ2t6aGpyUDczUDJVNzhNY3Y2YWJtY0ltSFNJbkZWVjVxUlBfMjhrREVmM0hybWZ2Ql9mU01vZnhBeFNtb19EUGRQNm4tVHFHcUttVEkxTE1pVVhnWEpucmx4NE5j?oc=5)
+Source: [Daily Record](https://news.google.com/rss/articles/CBMingFBVV95cUxOaVZDYzViTlQzRHh1Y01FRTNBclhQWnFaQnNCSmw2ZDFmaFU5VTJBUlpCQ2pNaFgtd3B1ZUxyYjV0UnRleF9lV2pwNC1XYjBMd3pwdGh4NmlHZ0ZCdGJTSkNiSUItOFRiWWkzVkZMTTFiSjlGaXdJZ1JHNHNxUW9SOGhVZmVjUlJIb28xNVpFcXJfVk5RNnN5dFl6bDlVUdIBowFBVV95cUxNVXlnTG1LOEJSSWpsTTVYSDNuQ0xmSkdmTHVMMXYxdXdCQm54bkYydHRzTTlNNkFJOE9hcVJpUVdXXzVQTUw0VmRNdnpRNGlZV3gwanh0WmRmeUxIdDJEMjhGVEUyMkRKallTdVk1b0JpcU96c1FsekpEc2NySzJhS3o0N0ZvcHFJZ3ZqdUsyeklTZVM4RG9OWnFnRHlEc3BjUC1R?oc=5)
 
 ---
 
-### [Las vías que regulan el estrés celular están alteradas en las personas con depresión y esquizofrenia - El Confidencial](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3d1a1BtRDhnU2Y3bDRlZWRnckdwb01NdXRQWVBFYXFBUldRdmN1dzhRTlFQV0FhYi11aTl1RldFcGxXbmZnRGMzUTBBT1dBSHVqQnQ5S1ZGYnI1RUtfZE9ZMUZpbzdHc2VfVURUSHBRYzZxTkF5dkM1Z1VySTQteVExNlV2MzV0OHNNS1NrYVpfVExmaGlqLXRhOW5JamVtNVE?oc=5)
+### [Un estudio vincula alteraciones del estrés celular con depresión mayor y esquizofrenia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVWbGJjOEhDOU5lMEJqVnNIS0pCb1l3Q1BOejI2YTd6VmJpVTZwZERXTFdCdGhtV0tQOTFYQXZ5cGxrX0x2aEE0TFJaVGlYMFd3T1IyVVJjMVl2VjJOVFdwQVU5Z0RUU0dHczEwNjhnQjBFdVNjb3NIZDZkQUJNVnVuMUZfVGNfRmxwdDlKQXBIZXZ3Y0lNUDlRQ1p2WFJuNzlqdXhGV3RwUmNqX3pIYXlDUHdkN291aVAtYtIBwgFBVV95cUxQUUhudU1oU2JKdVpoenc5SHlwWmJIRmhQbjR1SkdoWUxaQWtfcnpQa3d4UnB5RHAzbkZrYWNoUm1oREtkdmZrVjhDRmxPS1A5Mk50X2w5Q1lIRkx5dXI1dFFqYS04M2p4a1V4WXpsaURxQU9za255OHhwZFJ2Z2Z4UnQxWXVCVnU4cWhDSjJpUkF4SDJZRzRKdGIzZ1NrNWpHa2pGdnBjQ29zbUR2R3hSeDJ3UGZrV3VzYjItUFp6SWxjZw?oc=5)
 
 2026-10-16 <span class="news-indication-tag">depresión</span>
 
-Source: [El Confidencial](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3d1a1BtRDhnU2Y3bDRlZWRnckdwb01NdXRQWVBFYXFBUldRdmN1dzhRTlFQV0FhYi11aTl1RldFcGxXbmZnRGMzUTBBT1dBSHVqQnQ5S1ZGYnI1RUtfZE9ZMUZpbzdHc2VfVURUSHBRYzZxTkF5dkM1Z1VySTQteVExNlV2MzV0OHNNS1NrYVpfVExmaGlqLXRhOW5JamVtNVE?oc=5)
+Source: [Demócrata](https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVVWbGJjOEhDOU5lMEJqVnNIS0pCb1l3Q1BOejI2YTd6VmJpVTZwZERXTFdCdGhtV0tQOTFYQXZ5cGxrX0x2aEE0TFJaVGlYMFd3T1IyVVJjMVl2VjJOVFdwQVU5Z0RUU0dHczEwNjhnQjBFdVNjb3NIZDZkQUJNVnVuMUZfVGNfRmxwdDlKQXBIZXZ3Y0lNUDlRQ1p2WFJuNzlqdXhGV3RwUmNqX3pIYXlDUHdkN291aVAtYtIBwgFBVV95cUxQUUhudU1oU2JKdVpoenc5SHlwWmJIRmhQbjR1SkdoWUxaQWtfcnpQa3d4UnB5RHAzbkZrYWNoUm1oREtkdmZrVjhDRmxPS1A5Mk50X2w5Q1lIRkx5dXI1dFFqYS04M2p4a1V4WXpsaURxQU9za255OHhwZFJ2Z2Z4UnQxWXVCVnU4cWhDSjJpUkF4SDJZRzRKdGIzZ1NrNWpHa2pGdnBjQ29zbUR2R3hSeDJ3UGZrV3VzYjItUFp6SWxjZw?oc=5)
 
 ---
 

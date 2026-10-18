@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (16)
+
+### [Grasso bruno, più grasso ma meno obesità: il paradosso che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
+
+2026-10-18 <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
+
+---
+
+### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+---
+
+### [Cuore, tre valori del sangue insieme affinano la stima del rischio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
+
+2026-10-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
+
+---
 
 ### [Tumore al pancreas: primo sì dell'Europa al farmaco che raddoppia la sopravvivenza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
 
@@ -63,7 +87,7 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ### [Elle promet des pertes de poids de 30%: cette nouvelle molécule, surnommée le “King Kong” de l'anti-obésité, est déjà revendue en masse sur le marché noir par les influenceurs](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
 
-2026-10-17 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-10-17 <span class="news-indication-tag">obésité</span>
 
 Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
 
@@ -77,19 +101,27 @@ Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3
 
 ---
 
-### [El 'peso' del algoritmo y su impacto sobre la imagen corporal y la salud - Noticias de Navarra](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW96U3VkMlhSU1NxeFBnbmhoZzd6cmpIU0IxUlBpUl8xOHE3UHZlRktxYzdDcjV1NFlWdTgzRzRWUVpWRkZZLVdLNS1NYTJ0TEhIeHZrVlIzWlFsdzRoWnBDOVk2U2cwVFdhM2hnTVg0OEdXcS1jWHpRZjloUjRlbU9nOFo3SXY4aUVXaElwZkVaMGUtUVItczNwTU56WkxTN2Z0WU9oZ2XSAa4BQVVfeXFMTXhfRDZuekZ5ZkVINElydGRjMzFnQ2VmRm9tN3pYVHdpRmladWlMTEtpM281OWpCSTZheE11TVJpcUxGYVprdzNzck1pQjJLdlhEdV91MjhXT0l3cFZlVE9QVE81cWZBbmljbE5OdlZqRVg2clVTZzdRR1lrc2NVWllaSDk1eUxLekE5OFF5dWJ1c216cWRfcHUyRVFhYVdidGxNeENvSXJHYUMtMFN3?oc=5)
+### [Obesità, diabete e malattie del cuore: cosa hanno scoperto gli scienziati sui cibi che mangiamo ogni giorno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
 
-2026-10-17 <span class="news-indication-tag">obesidad</span>
+2026-10-17 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
-Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQW96U3VkMlhSU1NxeFBnbmhoZzd6cmpIU0IxUlBpUl8xOHE3UHZlRktxYzdDcjV1NFlWdTgzRzRWUVpWRkZZLVdLNS1NYTJ0TEhIeHZrVlIzWlFsdzRoWnBDOVk2U2cwVFdhM2hnTVg0OEdXcS1jWHpRZjloUjRlbU9nOFo3SXY4aUVXaElwZkVaMGUtUVItczNwTU56WkxTN2Z0WU9oZ2XSAa4BQVVfeXFMTXhfRDZuekZ5ZkVINElydGRjMzFnQ2VmRm9tN3pYVHdpRmladWlMTEtpM281OWpCSTZheE11TVJpcUxGYVprdzNzck1pQjJLdlhEdV91MjhXT0l3cFZlVE9QVE81cWZBbmljbE5OdlZqRVg2clVTZzdRR1lrc2NVWllaSDk1eUxLekE5OFF5dWJ1c216cWRfcHUyRVFhYVdidGxNeENvSXJHYUMtMFN3?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
 
 ---
 
-### [Médicos de Quirónsalud Murcia advierten de que los cambios hormonales de la menopausia aumentan el riesgo cardiovascular - La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
 
 2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [La 7](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnNVOHJVUVNod09ZVkV3c3htaWNPaDQ5dFY3UEg5UmJ2SnlaRjV1MkZ4dDBObEQ5SGVrM1VPM0luTllocjI0TTB5Y1QzOWxfcE4tRC1Na1RqbDl1MmNhcU9jZXJZVlJBR1BIbUgzZWk1UVd2MG00T1hKSm9WMTVjRFZ2TzlrV1hyZlAwZ2ZjdVk1UnItV0VEdzc2Q0syak5XMUIySm1haVBYbTZkLXFoT0lhTnBwRkhORE9ObEhvWER3ZG41OWtqelF6RHdiMkxKMTdOR251c05USndERk9fQzBUTk9yVzEtdDZ2TTdVcGNRdjRjeVHSAfsBQVVfeXFMTlNaS3ozaVpCUGJmdUo0RGpaWElrUWJiMEhBa3RxS1ZXZ2JGcVN3d2F0OUJFdWZXVlNiQUxpMEdNVG9DSGdKMHJEamFYaWViR25oeElpaGxJY0ZlcnVUamM1WjF5TXRGWWU4QXpkd3VjVmNGbnJKTDVFYkJ2bTlNaE9reEp6ZFNmT1pRNmFhdGZzZlNQN3RTeDZXeHFLN1lNYlJIc0NpYWF1QnVnVzdpdkdHY3FzRmY0VVQ4T2hCeDlTdmxSWE5TQ1hYazBqeXkyQUZqNUVHcWxiZ04tTkticUtIV0F1bWdONm92LXFfeXJjUnlyT25hS2VlaEU?oc=5)
+Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
+
+---
+
+### [La semFYC urge a tratar la obesidad adolescente con una estrategia global](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpTdFBiOTFWRlJ5UlFydW1VM0RrUHFYVWVhbGxsdmpqWmJDVHRsb2pnMFZ3UUFvNHd5SXh5VnBCVlBPOGdwUTE1NkpQRnc3aGJEamktaHZOdEVqcG0wWF9CRlJYaXNPUDdhWHIxdC1LNl9lN2pNdklmTEZUaHZxZHZCQXBVa1l1NTVDMXFpVHRXY2hLbEp0MUo0QklTSFUwRkYtcmI5bE9vN1HSAbABQVVfeXFMUHFIUTVZQXN0N3Z1YnNQalREYkpFSktRMS13dWI3eHlhazNSdF9nczMyVWprUDRZTWo2NDl2ZE9oYXFWU0c3Wl9Jc0RWNmlhSExEQ2dCeURDQ3d5dkVfVnFYRXZQTzlfb1Q3dG5ycktvaXdSeDNSbWlOVF8tYkExNEU4VDZsWWJsNTFXc3lXMjN5MGJ2N29QWEtwSzZfaVNUWFVhN010b0FyTkdTdXFyM2s?oc=5)
+
+2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
+
+Source: [Demócrata](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpTdFBiOTFWRlJ5UlFydW1VM0RrUHFYVWVhbGxsdmpqWmJDVHRsb2pnMFZ3UUFvNHd5SXh5VnBCVlBPOGdwUTE1NkpQRnc3aGJEamktaHZOdEVqcG0wWF9CRlJYaXNPUDdhWHIxdC1LNl9lN2pNdklmTEZUaHZxZHZCQXBVa1l1NTVDMXFpVHRXY2hLbEp0MUo0QklTSFUwRkYtcmI5bE9vN1HSAbABQVVfeXFMUHFIUTVZQXN0N3Z1YnNQalREYkpFSktRMS13dWI3eHlhazNSdF9nczMyVWprUDRZTWo2NDl2ZE9oYXFWU0c3Wl9Jc0RWNmlhSExEQ2dCeURDQ3d5dkVfVnFYRXZQTzlfb1Q3dG5ycktvaXdSeDNSbWlOVF8tYkExNEU4VDZsWWJsNTFXc3lXMjN5MGJ2N29QWEtwSzZfaVNUWFVhN010b0FyTkdTdXFyM2s?oc=5)
 
 ---
 
@@ -106,14 +138,6 @@ Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc
 2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
-
----
-
-### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
 
 ---
 
@@ -138,14 +162,6 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM
 2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
 
 Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
-
----
-
-### [Maskierter Bluthochdruck: „Besonders tückisch“ – In diesem Alter steigt das Risiko - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
-
-2026-10-14 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY21xc2VNUHE4aHI2ZmU5aEhSNXZydHN1NG5VcVpLUGloT1k0dDZRYkZvM3ZrX3lwSmlQU2tiMVpKZU5TNUs0ZEliZi10SlNTOEVOMUo4dm1aZGxWUjNoWDNNVXhGNjNVVmF0Nm8xeFQxbExNZU9sNlR4b3VVRWY5dFFLbEROWktWc1M1UGZ5OWNsU0g2akZGbG9zZ2x5dl9ULU9vODZqamhBaHUxZjE2bUtvUDNPaEhFUVlWektQUkk4MGM?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,37 +51,21 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (4)
+
+### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+2026-10-18 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+---
 
 ### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
 
 2026-10-16 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
-
----
-
-### [Victoria Maizes, doctora: “Ante una inflamación no siempre conviene recurrir inmediatamente al ibuprofeno; a veces queremos suprimir una reacción sin entender su función” - La Vanguardia](https://news.google.com/rss/articles/CBMisgJBVV95cUxOSFVXaEFDRzVwT2phZ2hMWmV5Y0F1YUI3bWMtUzVURDZvby1Uem01Y2FlcFFBR3MzZ2p4SlplUkpKUy1XODRmeGVZOHVadmhQcC1kblNPUFJSd09RUDJSTkZPMEIwUWhhSGVGX25mY3A4NVhIMmU2XzZoMVE4dDNBX0lzdHpMN29RSl9PS1hJQVd3OGpJRUNhTW5wQW5VaWxVZ3E3dzVKWldadlcyOERKNmRCeWVQTU5VNlRlNEdDdFBNXzBsRTZ2QlRhaGljZTMyUG03dTVqd1RyWHZGcFRPSFRmc0tzb1N2Z2xzaWR2QnV1VXlucWt0OGxaT0hzQlpFWDZ2bkIyR2I1MV9HMGc5Y0lCeGdVWlc4bDRRVml4eVpVQXJ4LUpNd2lOOTZicFFTNXfSAbcCQVVfeXFMUHBMTFUtUWZObU5CQm1GUXVieTVWR1ZaNDN1czJIdFVLcG5KVUZ3ZE9HdjdFTExDMi1qTDFoQXZwTnpFSlhtWGxfdXFjbTlENjZlbkNzVVItOE50YkZEbjNWUkpYLUcta2EwVkpYQjFPb3Y4YnNUeTRvMDB6UXJYSTZ4NzJpSWJ2MHBUNEtmenVDSURESHc4QUNmdmVvcWtGSThtWmF3US0yT0dianMzUXFadDk4UXhsbWdJWF9rQUdBcEhRQnZmUjI4UFZwOFlPRmtITEVaM2tsbktfM0tpYWktUTVVM1lrVDJfVHpSZ1A5N08xRFU0Z0JqVVI2dzd4VlFVODZneGJEYWdaMWtSSklOYy0xdG5UUjlPV2tuNU9rX3JhYmpxX1FUSE1Nand4NGh0bXN6OXc?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Ibuprofen</span>
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgJBVV95cUxOSFVXaEFDRzVwT2phZ2hMWmV5Y0F1YUI3bWMtUzVURDZvby1Uem01Y2FlcFFBR3MzZ2p4SlplUkpKUy1XODRmeGVZOHVadmhQcC1kblNPUFJSd09RUDJSTkZPMEIwUWhhSGVGX25mY3A4NVhIMmU2XzZoMVE4dDNBX0lzdHpMN29RSl9PS1hJQVd3OGpJRUNhTW5wQW5VaWxVZ3E3dzVKWldadlcyOERKNmRCeWVQTU5VNlRlNEdDdFBNXzBsRTZ2QlRhaGljZTMyUG03dTVqd1RyWHZGcFRPSFRmc0tzb1N2Z2xzaWR2QnV1VXlucWt0OGxaT0hzQlpFWDZ2bkIyR2I1MV9HMGc5Y0lCeGdVWlc4bDRRVml4eVpVQXJ4LUpNd2lOOTZicFFTNXfSAbcCQVVfeXFMUHBMTFUtUWZObU5CQm1GUXVieTVWR1ZaNDN1czJIdFVLcG5KVUZ3ZE9HdjdFTExDMi1qTDFoQXZwTnpFSlhtWGxfdXFjbTlENjZlbkNzVVItOE50YkZEbjNWUkpYLUcta2EwVkpYQjFPb3Y4YnNUeTRvMDB6UXJYSTZ4NzJpSWJ2MHBUNEtmenVDSURESHc4QUNmdmVvcWtGSThtWmF3US0yT0dianMzUXFadDk4UXhsbWdJWF9rQUdBcEhRQnZmUjI4UFZwOFlPRmtITEVaM2tsbktfM0tpYWktUTVVM1lrVDJfVHpSZ1A5N08xRFU0Z0JqVVI2dzd4VlFVODZneGJEYWdaMWtSSklOYy0xdG5UUjlPV2tuNU9rX3JhYmpxX1FUSE1Nand4NGh0bXN6OXc?oc=5)
-
----
-
-### [Cosa accade al sistema immunitario con l'artrite reumatoide: la scoperta sull'invecchiamento biologico precoce](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
-2026-10-15 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa0dCRy0zZTBQN1BIaTRXZDJPSnA2OW5ySnRQSVM2eEpXeEhwSnYyc3FMRHNQeTBsVnhRSVNKelJiZVpRWFBMWmtuamxLdGVubVBmdS1sUVZKVTR5QnFpNktjY2FnajJpYk1YYldEQ25qMkVqSzFwT2syLXE3cXRwVFRXX0x4RXl0UGNMRGFoWFI4Z3RSQTJidXZ0Y2N0ODFzRnpBcDYyN2NGMV9sbDMyOWlyMFh4dXY5emh6SVFMNGlpUzhkZC1LT1Zmd3c4TElOM001RjhWb2JMcDVJZG9kblZqWFhBLWJhdXYyZW5PSXU1N2FtNFNfTg?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Lord Cameron calls for dementia drugs fund to break NHS deadlock - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNME00RWk5LUhOTnhfVzVtM2Jsdmp6bGRxUGhMOHBlX3c4MEcxMjBlYVc3LTZQNzg5ai1vX3FfWE5FZGVxcmdGelVJVWtVbmN2cTRzQWlrYnpxUHdENkg1SlBvalllUlVxOGR0OUw0TkgyWmY1UDNxLUQ2aEtpSWQ2NVhGT0V0ZmhoZDg5YlQxU0hSck1TX2U1cmEyam9qblI2R0N2Ug?oc=5)
+
+2026-10-17 <span class="news-indication-tag">dementia</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNME00RWk5LUhOTnhfVzVtM2Jsdmp6bGRxUGhMOHBlX3c4MEcxMjBlYVc3LTZQNzg5ai1vX3FfWE5FZGVxcmdGelVJVWtVbmN2cTRzQWlrYnpxUHdENkg1SlBvalllUlVxOGR0OUw0TkgyWmY1UDNxLUQ2aEtpSWQ2NVhGT0V0ZmhoZDg5YlQxU0hSck1TX2U1cmEyam9qblI2R0N2Ug?oc=5)
+
+---
 
 ### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
