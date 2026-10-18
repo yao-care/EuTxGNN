@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Grasso bruno, più grasso ma meno obesità: il paradosso che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
 
@@ -66,6 +66,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kx
 2026-10-18 <span class="news-indication-tag">ictus</span>
 
 Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+---
+
+### [Arbeitszeiten ab 55 Stunden: 35 Prozent höheres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
 
 ---
 
@@ -93,22 +101,6 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SY
 
 ---
 
-### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
-
-2026-10-17 <span class="news-indication-tag">ictus</span>
-
-Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
-
----
-
-### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
----
-
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
 2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -119,7 +111,7 @@ Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc
 
 ### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
-2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-10-16 <span class="news-indication-tag">obésité</span>
 
 Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 

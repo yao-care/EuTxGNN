@@ -61,19 +61,19 @@ Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUx
 
 ---
 
+### [Arbeitszeiten ab 55 Stunden: 35 Prozent höheres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
+
+---
+
 ### [Cuore, tre valori del sangue insieme affinano la stima del rischio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
 
 2026-10-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
-
----
-
-### [Giornata mondiale dell’Ictus, controlli gratuiti al Dea “Vito Fazzi” di Lecce](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
-
-2026-10-17 <span class="news-indication-tag">ictus</span>
-
-Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
 
 ---
 

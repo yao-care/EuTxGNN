@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
@@ -66,14 +66,6 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cU
 2026-10-16 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
-
----
-
-### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
 ---
 

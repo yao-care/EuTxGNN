@@ -53,11 +53,11 @@ This page combines the AI-predicted indications for Rimegepant with the latest h
 
 ## Related News (2)
 
-### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+### [‘Horror symptom' millions ignore at night could lead to heart failure](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
-2026-10-16 <span class="news-indication-tag">migraine</span>
+2026-10-18 <span class="news-indication-tag">heart failure</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 ---
 

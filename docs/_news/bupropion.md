@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
+<strong>Bupropion</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Grasso bruno, più grasso ma meno obesità: il paradosso che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
 
@@ -77,14 +77,6 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SY
 
 ---
 
-### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
----
-
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
 2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
@@ -95,7 +87,7 @@ Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOc
 
 ### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
-2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obésité</span>
+2026-10-16 <span class="news-indication-tag">obésité</span>
 
 Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 

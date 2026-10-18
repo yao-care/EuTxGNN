@@ -14,7 +14,7 @@ permalink: /news/elexacaftor/
 ---
 
 <p class="key-answer" data-question="What news is there about Elexacaftor?">
-<strong>Elexacaftor</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Elexacaftor</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 <p><a href="{{ '/drugs/elexacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (5)
 
 ### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 2026-10-18 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
----
-
-### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
 
 ---
 
@@ -77,35 +69,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3
 
 ---
 
-### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">migraine</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
-
----
-
-### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
----
-
 ### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
 
 2026-10-16 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
-
----
-
-### [Scientists Discover a Surprising New Way To Fight High Blood Pressure – Through the Ear](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">high blood pressure</span>
-
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFITEVnOE1ySXlxQ3dnUUZDWWhpbmdXVXhXWm11RlE3emE2Q0M1NWFBRlMya0Jkam1xQVNzMV94cDZUR0tuZlRHZmJzSUlRTE5UUk5rdWUxX1JrNXhwWG03dk1HNEh0WVlHdERvOTUxeWllTmlEbTVySVBjWGhwVWhxVEMxS21RUDRSaE5PSllvLXFuY090a1lpMTM3Nk1HR0JOVmZDdlJGd19SaHNUMQ?oc=5)
 
 ---
 

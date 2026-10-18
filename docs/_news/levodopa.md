@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Levodopa</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Alzheimer : la maladie qu'on croyait invincible cède enfin du terrain - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
+
+---
 
 ### [Lord Cameron calls for dementia drugs fund to break NHS deadlock - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNME00RWk5LUhOTnhfVzVtM2Jsdmp6bGRxUGhMOHBlX3c4MEcxMjBlYVc3LTZQNzg5ai1vX3FfWE5FZGVxcmdGelVJVWtVbmN2cTRzQWlrYnpxUHdENkg1SlBvalllUlVxOGR0OUw0TkgyWmY1UDNxLUQ2aEtpSWQ2NVhGT0V0ZmhoZDg5YlQxU0hSck1TX2U1cmEyam9qblI2R0N2Ug?oc=5)
 

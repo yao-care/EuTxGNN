@@ -3,7 +3,7 @@ layout: default
 title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesità (obesity). 8 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesità (obesity)?">
-<strong>obesità (obesity)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
+<strong>obesità (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page brings together the latest health news about “obesità” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [Grasso bruno, più grasso ma meno obesità: il paradosso che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
 
@@ -56,14 +56,6 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 2026-10-17
 
 Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
-
----
-
-### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
-2026-10-16
-
-Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
 
 ---
 

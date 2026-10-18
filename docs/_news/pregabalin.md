@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 2026-10-18 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
----
-
-### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">migraine</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
 ---
 

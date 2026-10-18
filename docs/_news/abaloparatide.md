@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>16 news articles</strong>, with 20 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,31 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (15)
+
+### [Demenzrisiko: 50 Prozent des kognitiven Abbaus gelten als vermeidbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHhwSHNrRW5QMFJUdFExQXVyZS1GX2x6eUwxUmU1cnVGcnV0cHpOclQ1aTNPb1pmNnBCdl9zUzRITXA2X3pzaWFaZVZ1ZzFKODRnRFBSb0VBMndQSzBONVFWSmI5UktVMHloS0dKTmdFTGFSYUVoT01WX01FNExuQkd2LTVSdmpLVHMxdGRHVExvNy16aHU1XzNNYzFIeWVpZFUtM0NkOXpWdFd1UmU3ZlNqaDFvLWM?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHhwSHNrRW5QMFJUdFExQXVyZS1GX2x6eUwxUmU1cnVGcnV0cHpOclQ1aTNPb1pmNnBCdl9zUzRITXA2X3pzaWFaZVZ1ZzFKODRnRFBSb0VBMndQSzBONVFWSmI5UktVMHloS0dKTmdFTGFSYUVoT01WX01FNExuQkd2LTVSdmpLVHMxdGRHVExvNy16aHU1XzNNYzFIeWVpZFUtM0NkOXpWdFd1UmU3ZlNqaDFvLWM?oc=5)
+
+---
+
+### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+
+---
+
+### [Neu5Gc und rotes Fleisch: 63 Prozent höheres Risiko für Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHZvcWZzU1Zhajl1eGNCWU1NelYzQWJkVnFiUzdiMWFHRFNPTi0wR2M3TUYzdGMwSjF6RXYyOERyMFNMTVZwQ3NkM1BJUmdoaHIwY2ZkZGJ0eU1EQ1BXMDVTNUVlRVIzZC1QWTZxYmM2QWdRNWFzZlFBMjRUYlhQQ3RQNThyazFxLUtpOWJsOTI2TmdBMGQyRWE0cVNCRDkweG9oYThn?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHZvcWZzU1Zhajl1eGNCWU1NelYzQWJkVnFiUzdiMWFHRFNPTi0wR2M3TUYzdGMwSjF6RXYyOERyMFNMTVZwQ3NkM1BJUmdoaHIwY2ZkZGJ0eU1EQ1BXMDVTNUVlRVIzZC1QWTZxYmM2QWdRNWFzZlFBMjRUYlhQQ3RQNThyazFxLUtpOWJsOTI2TmdBMGQyRWE0cVNCRDkweG9oYThn?oc=5)
+
+---
 
 ### [Una nueva unidad didáctica acerca la diabetes a las aulas de Secundaria y Bachillerato - Europa Press](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDlIV09VenhGUThkMG9WQWNNLUVhS2RjckZwajFENldyTDNVWmlWYmlwekdNOXhCc0hMY1pWeW1WNUtaaWd2NzlrMUctaEJXUmVtc1pza2lwVzFXY2VRZFpGQmhJX05wY0hOcEhzN2Z3SkwzNTRKX3A1TlotMHdaZnY0anduMWVZNTNVdi1jRElIbGp2cHhmWW5LZXNubkV3UzZDLXo3MzdCUmxHc1h0bjRyQl83RXBGc0M3dGptVnlhRkZkdEFSV1pubw?oc=5)
 
@@ -77,11 +101,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ---
 
-### [Essreihenfolge bei Diabetes: 18 Studien zeigen kurzfristig niedrigere Glukosewerte - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
+### [Diabète : votre voix pourrait révéler la maladie sans que vous le sachiez, grâce à une IA qui l'analyse en 20 secondes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREZ2Qm5fekJmQVVaTEJ4ZWpGVkZ3dURRMnUxbm1TbHh6NDhCTzBfTWxoN1BVRjJGMktIT05VZnFXUUpQdGRPeURaUmZwVTJRU2VBb2lTTEwyVXVKQXUybEFNNkJNWEtESkdFM0xZc3djZ0NuWldxZTRZM2pFZndSRFk5eVYtNzBybldNRUtwMXZMRUN4SjlKLS1mY3hXUkJMNjJTa2w5X25wVXNLWFpvMWhYZXVEZ3hKWUl5aDZRUUNOeTJvbnZjNFZKZm5zcnBSWk12cW84UTljSWJrMTBfaVZGMTk?oc=5)
 
-2026-10-18 <span class="news-indication-tag">diabetes</span>
+2026-10-18 <span class="news-indication-tag">diabète</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREZ2Qm5fekJmQVVaTEJ4ZWpGVkZ3dURRMnUxbm1TbHh6NDhCTzBfTWxoN1BVRjJGMktIT05VZnFXUUpQdGRPeURaUmZwVTJRU2VBb2lTTEwyVXVKQXUybEFNNkJNWEtESkdFM0xZc3djZ0NuWldxZTRZM2pFZndSRFk5eVYtNzBybldNRUtwMXZMRUN4SjlKLS1mY3hXUkJMNjJTa2w5X25wVXNLWFpvMWhYZXVEZ3hKWUl5aDZRUUNOeTJvbnZjNFZKZm5zcnBSWk12cW84UTljSWJrMTBfaVZGMTk?oc=5)
 
 ---
 
@@ -101,27 +125,11 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuwFBVV95cU
 
 ---
 
-### [Braunes Fettgewebe: Großstudie findet 58 Prozent geringere Diabetes-Chance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
-
----
-
 ### [Prädiabetes: Lebensstilprogramm senkte Diabetesfälle in drei Jahren um 58 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
 
 2026-10-17 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
-
----
-
-### [Bastano 20 secondi di voce per scoprire una malattia?](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUJ6QnUzUjRwWENnZkN2SEJkaV9NT2RFYXVSX1lDajZJdlFfN0xrYmlmNFdTNWprbkI4VnNyQWZ0bkxZY2h2MEZvZGM1eDh4LVBQdTNFbzR6Qnd4bEp1b0FRWjlEX25GMUV4Yl9jR2lWLXo0NzdWZE9TQlpoYnZ1TDZDRnJNaWVFZUZPT2c0bE9JZjN4UmZaT1doRGpwdjhZUS10aFhn?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabete</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUJ6QnUzUjRwWENnZkN2SEJkaV9NT2RFYXVSX1lDajZJdlFfN0xrYmlmNFdTNWprbkI4VnNyQWZ0bkxZY2h2MEZvZGM1eDh4LVBQdTNFbzR6Qnd4bEp1b0FRWjlEX25GMUV4Yl9jR2lWLXo0NzdWZE9TQlpoYnZ1TDZDRnJNaWVFZUZPT2c0bE9JZjN4UmZaT1doRGpwdjhZUS10aFhn?oc=5)
 
 ---
 
@@ -138,22 +146,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFK
 2026-10-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGVqa1lveTIzaHZfbkpXNHRCMTlMWDRMQS01dUhOQ0wwMEJrOXdqaWlLMDkxYjh1OTA2eGhZZnBvUVNJYTRmYXJ3OVp4dTZqWHpMLThFNW0zOVNObnVIdzJHaWFYSTRXdzVIT3dMdC1XS0JCdFg0RFlUVVV2WmJIOFM0MHRWLWVqTmdlYzAtSTNvMTZSRzZEZGJLTE8yQWtVZDB6M2QzSTRud3l6OEEwRHFuQ3lBVEk4QVdsOVBMbmZHS3o5b2xSb1VwYjhsWDl3WWhRN1NCSU1Gc1VkYXl1NjNhcmZyZV94QzJucg?oc=5)
-
----
-
-### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">migraine</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
-
----
-
-### [Silvia Silva, cardióloga sobre la menopausia: "Aunque todavía se tenga menstruación, hay que atender la salud cardiovascular" - El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">hipertensión</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2syeFZ6X3cwYlBrZFFVQjBna0hZcXZqZGpteExlMkJyUmRUbmxiUGJ4Qm83T2NMc3gtNHZlRFBwY2FDU1V5b3JpRzNYUk91cmNkaVFZdE40M0hDbXA2a2QtZkVQU2hKVUc2aVhVdUIwd2tzMllXZXhtTWU5dEc0clRCdTNMUkdweUw2SjZsQnpEZ21XTUtsTDdKQjRQcXhGSGoxZVZSX3hIUGdUYU4xNHJqaUoweEZoa3daamlKV1dNNHRLZVVVXzBfVEZTTG5aUHR4N3Q5dlRrRTg5UE1xQURoU0h3Mm1HYkh6OVRNa1dfV0nSAfgBQVVfeXFMTzc4MmR1Z2dHbHp6S1FMV0MyanhKckxhc054ZHZMNTlDRmx2MGNoMnhMU0J3a2dDaVQ3NHA3X3UyNF93UC10UWtwd0RKMFYzNFRsRlNLZUxzaDFnOVZvcFdEMElyNFZ2ZWlyaXlYZTJwTTRpamp6cFlqRjlQbWdVcnpkQzR1bXdYbVVnRWZzN2dQbU5YUEcydThkOHo3Y2NVQzlrLS1NUEYzU0hHcnJQOFp5ZUZRcmxXTTV5UWtsVmNweUE4ZFhldGROZDJEZXd1WDljS1V3Qk56ZGNaTUxjaXJla3g0Y2wtbjMwamFxM3VYWDJGTHBmaEo?oc=5)
 
 ---
 
