@@ -14,7 +14,7 @@ permalink: /news/ziconotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziconotide?">
-<strong>Ziconotide</strong> currently has <strong>13 news articles</strong>, with 20 predicted indications.
+<strong>Ziconotide</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 <p><a href="{{ '/drugs/ziconotide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (9)
 
 ### [Grasso bruno, più grasso ma meno obesità: il paradosso che sorprende i ricercatori](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
 
@@ -77,14 +77,6 @@ Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SY
 
 ---
 
-### [Obesità, diabete e malattie del cuore: cosa hanno scoperto gli scienziati sui cibi che mangiamo ogni giorno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
-
----
-
 ### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">migraine</span>
@@ -101,27 +93,11 @@ Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2sye
 
 ---
 
-### [La semFYC urge a tratar la obesidad adolescente con una estrategia global](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpTdFBiOTFWRlJ5UlFydW1VM0RrUHFYVWVhbGxsdmpqWmJDVHRsb2pnMFZ3UUFvNHd5SXh5VnBCVlBPOGdwUTE1NkpQRnc3aGJEamktaHZOdEVqcG0wWF9CRlJYaXNPUDdhWHIxdC1LNl9lN2pNdklmTEZUaHZxZHZCQXBVa1l1NTVDMXFpVHRXY2hLbEp0MUo0QklTSFUwRkYtcmI5bE9vN1HSAbABQVVfeXFMUHFIUTVZQXN0N3Z1YnNQalREYkpFSktRMS13dWI3eHlhazNSdF9nczMyVWprUDRZTWo2NDl2ZE9oYXFWU0c3Wl9Jc0RWNmlhSExEQ2dCeURDQ3d5dkVfVnFYRXZQTzlfb1Q3dG5ycktvaXdSeDNSbWlOVF8tYkExNEU4VDZsWWJsNTFXc3lXMjN5MGJ2N29QWEtwSzZfaVNUWFVhN010b0FyTkdTdXFyM2s?oc=5)
-
-2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
-
-Source: [Demócrata](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRWpTdFBiOTFWRlJ5UlFydW1VM0RrUHFYVWVhbGxsdmpqWmJDVHRsb2pnMFZ3UUFvNHd5SXh5VnBCVlBPOGdwUTE1NkpQRnc3aGJEamktaHZOdEVqcG0wWF9CRlJYaXNPUDdhWHIxdC1LNl9lN2pNdklmTEZUaHZxZHZCQXBVa1l1NTVDMXFpVHRXY2hLbEp0MUo0QklTSFUwRkYtcmI5bE9vN1HSAbABQVVfeXFMUHFIUTVZQXN0N3Z1YnNQalREYkpFSktRMS13dWI3eHlhazNSdF9nczMyVWprUDRZTWo2NDl2ZE9oYXFWU0c3Wl9Jc0RWNmlhSExEQ2dCeURDQ3d5dkVfVnFYRXZQTzlfb1Q3dG5ycktvaXdSeDNSbWlOVF8tYkExNEU4VDZsWWJsNTFXc3lXMjN5MGJ2N29QWEtwSzZfaVNUWFVhN010b0FyTkdTdXFyM2s?oc=5)
-
----
-
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
-2026-10-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
-
----
-
-### [Tratar al paciente en su conjunto: psoriasis, obesidad y el camino hacia mejores resultados. - El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV2xBc2JERGlHdEN3djlBbFRJQm9nTlIyLUlnMkVMSHdSZ3BMZnMwTUY1ekVrYUx5YUg1U1hkUFV0em9uc3pLRG5TUHVGSnZsUVZjc0dOZW1jZUZXSWFrSVZHcWMzRTNucm1iSW1aSnM3d3FjcUxqVi1kM3dhbi1WTVR3YTZCUnh1dXd5bW1tNDN4cm85SkFzZGFWdHJKYWM3R3FWbGJERHRYaTFnUjZsVjNpNWl2TEdmTUpTYnFPZEswdw?oc=5)
 
 ---
 
@@ -138,14 +114,6 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
----
-
-### [Mayotte : des stylos injectables contrefaits saisis par la douane](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
 
 ---
 

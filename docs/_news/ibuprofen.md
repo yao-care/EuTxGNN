@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 
 ## Related News (4)
 
+### [10-pill warning for people taking ramipril, amlodipine, furosemide or ibuprofen - The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcF9lcnVSR2k2VjkxQVBDMTdPWWlnMEpKZFl3UC1JQy0xSlRJS2ZZcTd4MHpvejUwV00yNmZWcmRIY1lqSGFsemJwU000T3JydmpYS3VYbU5QeGRSV21pNnhsa3UycFFPYjhpeW5YbGJFTm05TGxNY3dINmpyQmxrQ9IBhgFBVV95cUxNWU1YVFk2b3hfeWxsQUY3TndmbVlFM0gxUWN3VW10QjRGSzZXT2szT0ZXOVpwZ3lJTDRPelduenFZQVpkbVpYc0pBaU1RcGdtSWZ5YXRVYUY3dENYMmxIUU9DamdZdG1DRUdWZVQtV0QtSHcyOVNKWWpmNjJvRGlWd09aV1F0Zw?oc=5)
+
+2026-10-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcF9lcnVSR2k2VjkxQVBDMTdPWWlnMEpKZFl3UC1JQy0xSlRJS2ZZcTd4MHpvejUwV00yNmZWcmRIY1lqSGFsemJwU000T3JydmpYS3VYbU5QeGRSV21pNnhsa3UycFFPYjhpeW5YbGJFTm05TGxNY3dINmpyQmxrQ9IBhgFBVV95cUxNWU1YVFk2b3hfeWxsQUY3TndmbVlFM0gxUWN3VW10QjRGSzZXT2szT0ZXOVpwZ3lJTDRPelduenFZQVpkbVpYc0pBaU1RcGdtSWZ5YXRVYUY3dENYMmxIUU9DamdZdG1DRUdWZVQtV0QtSHcyOVNKWWpmNjJvRGlWd09aV1F0Zw?oc=5)
+
+---
+
 ### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 2026-10-18 <span class="news-indication-tag">artrite</span>
@@ -74,14 +82,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
-
----
-
-### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">arthritis</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 

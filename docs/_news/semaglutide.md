@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>18 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>17 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (17)
+
+### [Una nueva unidad didáctica acerca la diabetes a las aulas de Secundaria y Bachillerato - Europa Press](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDlIV09VenhGUThkMG9WQWNNLUVhS2RjckZwajFENldyTDNVWmlWYmlwekdNOXhCc0hMY1pWeW1WNUtaaWd2NzlrMUctaEJXUmVtc1pza2lwVzFXY2VRZFpGQmhJX05wY0hOcEhzN2Z3SkwzNTRKX3A1TlotMHdaZnY0anduMWVZNTNVdi1jRElIbGp2cHhmWW5LZXNubkV3UzZDLXo3MzdCUmxHc1h0bjRyQl83RXBGc0M3dGptVnlhRkZkdEFSV1pubw?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [Europa Press](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDlIV09VenhGUThkMG9WQWNNLUVhS2RjckZwajFENldyTDNVWmlWYmlwekdNOXhCc0hMY1pWeW1WNUtaaWd2NzlrMUctaEJXUmVtc1pza2lwVzFXY2VRZFpGQmhJX05wY0hOcEhzN2Z3SkwzNTRKX3A1TlotMHdaZnY0anduMWVZNTNVdi1jRElIbGp2cHhmWW5LZXNubkV3UzZDLXo3MzdCUmxHc1h0bjRyQl83RXBGc0M3dGptVnlhRkZkdEFSV1pubw?oc=5)
+
+---
 
 ### [Weltmenopausentag: Stoffwechselgesundheit in den Wechseljahren stärker beachten](https://news.google.com/rss/articles/CBMilgFBVV95cUxPMm5FVkhEZ2VsODNvVVNTQ2JfMU13UkE1cUllcnE2bFFSMWdCd0hFekZ1UjhKZTJ1VTZOeTZXaXJOREh2eDlpbWQzRU1SeFZEcjlDUVktaXVmbnpIa1huZFJkZzZuYkNvbGZrNUxEeGdxUTQ0RHVaSEhSWklEZnNmWWZ1aG9pdXVuNTdsVnIxSXZJQnFnaGc?oc=5)
 
@@ -69,6 +77,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ---
 
+### [Essreihenfolge bei Diabetes: 18 Studien zeigen kurzfristig niedrigere Glukosewerte - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
+
+---
+
 ### [Ferite che non guariscono nel diabete: un cerotto sperimentale prova a riattivare i vasi sanguigni](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnBkT0dYRHNNck1aX2JGS2MyVXBXaE1sSDdMcW5oSUNySndkTWdIZ1d2dEh3NmtQYlJ3Sm5rcGhiQVduNDZVRkxRMkxLNENtOUowN0F0dGllaXVPZGcyWHdhbjdlbHdidm5IWnBUMTVaQ3JxS0NJZkxQSXhmS0tGc0dHVVNNdWNFYzg5SzJaNkY5QXp0NEg2ZEZSRHF4Ulc5WnktMnFoZnZFLXd5eVF5V3lwT0NodTJmUzZPWThwbEdPTGZ6d29mb0RaajRqeE5EcjAwN0tvMkdoTVZWSXR1c1B4QVU3T0NZTDFuSXRB?oc=5)
 
 2026-10-17 <span class="news-indication-tag">diabete</span>
@@ -77,19 +93,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnBk
 
 ---
 
-### [Nicht erst den Salat essen: Warum dieser Blutzucker-Trick nach zwei Stunden nach hinten losgeht - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3o0aGp0amlfODZRWmNDU0ZucmpQeUl1THkyQXEtU2h4UlJfSmFsQkZmUWlQT250ZkFzaFdadGpqQWhEX1lyeUNhYXdxLWNwZTBOYVQzNUVUWkJmNEFXRjJicGc2VEl6VW12cVpnd1hJXy1RRHBEYXI3QmVBQU41V253bDM0UUo1bTB5Yk5PZmFvZUthSEotV2FDRmlXN095Z2phQWtEZVgtNjdESVFvRkg0c1IzLV9waEZlelpMUlVSNUh5YVhHSHFHeHpiWDdhNHBucw?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabetes</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd3o0aGp0amlfODZRWmNDU0ZucmpQeUl1THkyQXEtU2h4UlJfSmFsQkZmUWlQT250ZkFzaFdadGpqQWhEX1lyeUNhYXdxLWNwZTBOYVQzNUVUWkJmNEFXRjJicGc2VEl6VW12cVpnd1hJXy1RRHBEYXI3QmVBQU41V253bDM0UUo1bTB5Yk5PZmFvZUthSEotV2FDRmlXN095Z2phQWtEZVgtNjdESVFvRkg0c1IzLV9waEZlelpMUlVSNUh5YVhHSHFHeHpiWDdhNHBucw?oc=5)
-
----
-
 ### [Glicemia alta e rischio demenza: perché l'Alzheimer viene spesso studiato come "diabete di tipo 3"](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcE1PNnZVMXpqMmdZVXhiZ1dmTmg4a0xoMDhQeXpYMklUMzZiOHVOaVJNYndUVF9GMlRKc25ONVNBdmxzV2gyLUwxbFFkLXVyMnExUEM3aWNSelVIaTlhV2NSZUtQR1VhY3ZXM1pZNzJKQzR2Z0ZiblVlQUREdzVST2xHMjhDdDNhcm01RG5oWUVQem5aNjl5SE1tbDdnMVdrWVJ6Rk5JSXVFaW5ZU0Q0SHNqY2FKbjhaM0F3?oc=5)
 
 2026-10-17 <span class="news-indication-tag">diabete</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcE1PNnZVMXpqMmdZVXhiZ1dmTmg4a0xoMDhQeXpYMklUMzZiOHVOaVJNYndUVF9GMlRKc25ONVNBdmxzV2gyLUwxbFFkLXVyMnExUEM3aWNSelVIaTlhV2NSZUtQR1VhY3ZXM1pZNzJKQzR2Z0ZiblVlQUREdzVST2xHMjhDdDNhcm01RG5oWUVQem5aNjl5SE1tbDdnMVdrWVJ6Rk5JSXVFaW5ZU0Q0SHNqY2FKbjhaM0F3?oc=5)
+
+---
+
+### [Braunes Fettgewebe: Großstudie findet 58 Prozent geringere Diabetes-Chance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
+
+2026-10-17 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
 
 ---
 
@@ -109,19 +125,19 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUJ6
 
 ---
 
-### [Obesità, diabete e malattie del cuore: cosa hanno scoperto gli scienziati sui cibi che mangiamo ogni giorno](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdDgxblVrSS1Rem42Sndkd3cyY25zQVNyMHI5anpfQWUtY3ByR1ViVVZkMTRaR2lxdjNmRTlYZDRwdHRHNHpRUENVdnBiX3NiNzRId091cHliNlZHSm92M2t5NTV0UmtZWDkxZVVaVFZQT0tFX2gxTkozTkhYRldkejdCdUo1QkRJdGpmNmg1UXctMFV6bndtY0FpcEx5ZmFGQ0dhbEJMRmp6eklDb3ZseHdKbU5KbG1wNGxzbl9QRWY1ckVpdUtiTmpqWkJLQ2lJcHVOTFpDNEN3RWxaQk0zaHNVRWlhXzFRalkxdQ?oc=5)
-
----
-
 ### [This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
 
 2026-10-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
+
+---
+
+### [Gripe, COVID-19 y neumococo centran las recomendaciones de vacunación para personas con diabetes - Somos Pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGVqa1lveTIzaHZfbkpXNHRCMTlMWDRMQS01dUhOQ0wwMEJrOXdqaWlLMDkxYjh1OTA2eGhZZnBvUVNJYTRmYXJ3OVp4dTZqWHpMLThFNW0zOVNObnVIdzJHaWFYSTRXdzVIT3dMdC1XS0JCdFg0RFlUVVV2WmJIOFM0MHRWLWVqTmdlYzAtSTNvMTZSRzZEZGJLTE8yQWtVZDB6M2QzSTRud3l6OEEwRHFuQ3lBVEk4QVdsOVBMbmZHS3o5b2xSb1VwYjhsWDl3WWhRN1NCSU1Gc1VkYXl1NjNhcmZyZV94QzJucg?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span>
+
+Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGVqa1lveTIzaHZfbkpXNHRCMTlMWDRMQS01dUhOQ0wwMEJrOXdqaWlLMDkxYjh1OTA2eGhZZnBvUVNJYTRmYXJ3OVp4dTZqWHpMLThFNW0zOVNObnVIdzJHaWFYSTRXdzVIT3dMdC1XS0JCdFg0RFlUVVV2WmJIOFM0MHRWLWVqTmdlYzAtSTNvMTZSRzZEZGJLTE8yQWtVZDB6M2QzSTRud3l6OEEwRHFuQ3lBVEk4QVdsOVBMbmZHS3o5b2xSb1VwYjhsWDl3WWhRN1NCSU1Gc1VkYXl1NjNhcmZyZV94QzJucg?oc=5)
 
 ---
 
@@ -135,9 +151,17 @@ Source: [El Español](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOT2sye
 
 ### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
 
-2026-10-16 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
+
+---
+
+### [Ozempic & Wegovy: Neue Studien deuten auf ekelige Nebenwirkung hin - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkU4dGExVTVwSC0xeUJzYng2b0hULXBnakxmZGRGaExEQXpVMzJ5RjFYRnlLQ3lrMFBCSHF0ZnRidk5qb3VLSHBMVVhDa0phSWFpcVc1Tnp6YTFoYjlTWHMzbmI1NnlOemdYX29YdnF5TEZVV0x2YnZpX0t1MEx5MlBCMTZpQlEwVVpnUzNGYTE3ck1Dd1gtYWRmeXpZWFF2UkF6M2pfMTdJQQ?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Semaglutide</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkU4dGExVTVwSC0xeUJzYng2b0hULXBnakxmZGRGaExEQXpVMzJ5RjFYRnlLQ3lrMFBCSHF0ZnRidk5qb3VLSHBMVVhDa0phSWFpcVc1Tnp6YTFoYjlTWHMzbmI1NnlOemdYX29YdnF5TEZVV0x2YnZpX0t1MEx5MlBCMTZpQlEwVVpnUzNGYTE3ck1Dd1gtYWRmeXpZWFF2UkF6M2pfMTdJQQ?oc=5)
 
 ---
 
@@ -154,38 +178,6 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
 
 Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
----
-
-### [Mayotte : des stylos injectables contrefaits saisis par la douane](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabète</span> <span class="news-indication-tag">obésité</span>
-
-Source: [Linfo.re](https://news.google.com/rss/articles/CBMinwFBVV95cUxNakc5TmVLUEJJSzVYdy14SklBMWdfcHdjTjdyaE1TYnFkS0lGTm9wZnF0VklnSTIydi1ENFI0VVltd051eGt5akp5M28xOHJtcWxBeFZGcGoyd0VaMGtYUXFQLUdEcS1lNmd1VGkxZWMyZ1FXcnZjQWtzUlRBeEIycXM4djRUQ1RsNGRiczBxaGUtWjc3aXVqanpZLU43VlE?oc=5)
-
----
-
-### [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5)
-
-2026-10-14 <span class="news-indication-tag">diabetes</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5)
-
----
-
-### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
-
----
-
-### [Wie chronischer Stress das Herz schädigt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
 
 ---
 

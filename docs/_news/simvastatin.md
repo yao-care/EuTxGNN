@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
 
@@ -74,14 +74,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNT
 2026-10-17 <span class="news-indication-tag">ictus</span>
 
 Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3ZOZnEzMWYtMFhiQzNqSjBUOGw4T1JBUWwxUkpSZUJxT0NvbVpNVl9vZVU0VUhtUDg3TGJLTngzWlM1bFV1Z1FpbGlJeFlQV3JUUVlXRTBBWjF0Z1ZHQVhYRnItZGZRbDFlUlZfbzl5U08teVZkNTI2bkpUR1pRMHluMkpEZlBlSlpn?oc=5)
-
----
-
-### [Wie chronischer Stress das Herz schädigt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
-
-2026-10-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
 
 ---
 

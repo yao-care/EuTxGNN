@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (1)
 
 ### [Lord Cameron calls for dementia drugs fund to break NHS deadlock - The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNME00RWk5LUhOTnhfVzVtM2Jsdmp6bGRxUGhMOHBlX3c4MEcxMjBlYVc3LTZQNzg5ai1vX3FfWE5FZGVxcmdGelVJVWtVbmN2cTRzQWlrYnpxUHdENkg1SlBvalllUlVxOGR0OUw0TkgyWmY1UDNxLUQ2aEtpSWQ2NVhGT0V0ZmhoZDg5YlQxU0hSck1TX2U1cmEyam9qblI2R0N2Ug?oc=5)
 
 2026-10-17
 
 Source: [The Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxNME00RWk5LUhOTnhfVzVtM2Jsdmp6bGRxUGhMOHBlX3c4MEcxMjBlYVc3LTZQNzg5ai1vX3FfWE5FZGVxcmdGelVJVWtVbmN2cTRzQWlrYnpxUHdENkg1SlBvalllUlVxOGR0OUw0TkgyWmY1UDNxLUQ2aEtpSWQ2NVhGT0V0ZmhoZDg5YlQxU0hSck1TX2U1cmEyam9qblI2R0N2Ug?oc=5)
-
----
-
-### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
-2026-10-15
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
----
-
-### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
-
-2026-10-12
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 ---
 
