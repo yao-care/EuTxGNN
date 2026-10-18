@@ -61,14 +61,6 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMixAFBVV95
 
 ---
 
-### [Intensive Blutdrucksenkung: 27 Studien zeigen 15 Prozent weniger Herzrisiken](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9NVHJuM3NqZ3VVY2NseEowdXo1ZkdqOUltdElRSElsbkdKeE9DU05MR1JyZmNVU1BTWi14TEtCcFZvZW9BNkVIeEVBX0wzN1BKOUtpZlRhUHRJaWl4YlgzbVR2Q0gtQndEZUZMeEJtVVNaTG1adVpIQ0FvYjhObUpiVFBoNHJ1LTNBR3RGV0VwWG9hTjNiT2hSbW9Ic2FGOWJMb20zWW5paFlQLVFERVB3?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9NVHJuM3NqZ3VVY2NseEowdXo1ZkdqOUltdElRSElsbkdKeE9DU05MR1JyZmNVU1BTWi14TEtCcFZvZW9BNkVIeEVBX0wzN1BKOUtpZlRhUHRJaWl4YlgzbVR2Q0gtQndEZUZMeEJtVVNaTG1adVpIQ0FvYjhObUpiVFBoNHJ1LTNBR3RGV0VwWG9hTjNiT2hSbW9Ic2FGOWJMb20zWW5paFlQLVFERVB3?oc=5)
-
----
-
 ### [Tumore al pancreas: primo sì dell'Europa al farmaco che raddoppia la sopravvivenza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
 
 2026-10-17 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
@@ -85,11 +77,27 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc
 
 ---
 
+### [Sport verbessert Herz-Lungen-Fitness und Lebensqualität nach Brustkrebs](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSi1wOS1IZ1dMaDR0Rjh2YkZpNHd5QnFlTTNEWW1VMTJ2UzJfZVgtbVk1M2ZsaFpHRmlZTlUtcXBlS2xVRFhjVFRFdXJ3ZTF3TGVIRnRhSThreEotejZxVHUzN2hwb0dxMW8tVWdBSFcxMnFYdG51V3dQNzE1Yk9YMWFiemluTVV1R3V2WHo1dEhXcVA0ZmVvV0Q3VnhiYV81VkU3LXpvLTNsLVpXemc?oc=5)
+
+2026-10-17 <span class="news-indication-tag">Krebs</span>
+
+Source: [food-monitor](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSi1wOS1IZ1dMaDR0Rjh2YkZpNHd5QnFlTTNEWW1VMTJ2UzJfZVgtbVk1M2ZsaFpHRmlZTlUtcXBlS2xVRFhjVFRFdXJ3ZTF3TGVIRnRhSThreEotejZxVHUzN2hwb0dxMW8tVWdBSFcxMnFYdG51V3dQNzE1Yk9YMWFiemluTVV1R3V2WHo1dEhXcVA0ZmVvV0Q3VnhiYV81VkU3LXpvLTNsLVpXemc?oc=5)
+
+---
+
 ### [Tumore al polmone: l'esame salva-vita per chi ha fumato a lungo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWgyYzNhR0pLeGVXeGNpY1JyVHVsU0s4ZktPZHVvWU5jYlpxbUVCZEJhZGJhbTh5UlZLX0szWkw5ZUtvTjVrRUxtN1RIOXZqdFhic1Rac3AyQ3J0c1c3RVRfMk9SSW53OG5pTm0wNFZ5WjV3clBwOHB5ZmI2b1ltUzBFb0VvbkkzUnZuOEpGc29pZEJGQWZpTmJBM0lIMFU5Y2tIWG5OTTYtZw?oc=5)
 
 2026-10-17 <span class="news-indication-tag">tumor</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWgyYzNhR0pLeGVXeGNpY1JyVHVsU0s4ZktPZHVvWU5jYlpxbUVCZEJhZGJhbTh5UlZLX0szWkw5ZUtvTjVrRUxtN1RIOXZqdFhic1Rac3AyQ3J0c1c3RVRfMk9SSW53OG5pTm0wNFZ5WjV3clBwOHB5ZmI2b1ltUzBFb0VvbkkzUnZuOEpGc29pZEJGQWZpTmJBM0lIMFU5Y2tIWG5OTTYtZw?oc=5)
+
+---
+
+### [Septembre en or : : l'hôtel de ville de Chalon-sur-Saône s'est illuminé d'or pour les enfants atteints de cancer](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEN6al9ZSVpEYzJsWDN4dWNBQVVqaXJTdnNhejRuTTNXdFJFWDhxcjNQNXJXOThzd1lkdVl3UFE2M0tVMVltdG5SbDJuVE9LR2Z3R3FYZEU2bzNGNUZ0MlZaNzZfZ2VxYUx2LXg2eHZtUXV0MFBFQ2Z3cl9kU0J5Z053RUJnRkVxT25PUEhJZU9FdGFod0tZeTZKVXdZT0w2MTZ5OWRvaDg0Tk1HbjFKNzNTRWpaRTBxYjNycUVlNWFkcFdvWGtwSkJuWnVHeDZYY0hxR0hGTndTSl9ZdHRiMnl2RG83akR1c2Q0TGh3M0JxZw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span>
+
+Source: [Info-Chalon.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWEN6al9ZSVpEYzJsWDN4dWNBQVVqaXJTdnNhejRuTTNXdFJFWDhxcjNQNXJXOThzd1lkdVl3UFE2M0tVMVltdG5SbDJuVE9LR2Z3R3FYZEU2bzNGNUZ0MlZaNzZfZ2VxYUx2LXg2eHZtUXV0MFBFQ2Z3cl9kU0J5Z053RUJnRkVxT25PUEhJZU9FdGFod0tZeTZKVXdZT0w2MTZ5OWRvaDg0Tk1HbjFKNzNTRWpaRTBxYjNycUVlNWFkcFdvWGtwSkJuWnVHeDZYY0hxR0hGTndTSl9ZdHRiMnl2RG83akR1c2Q0TGh3M0JxZw?oc=5)
 
 ---
 
@@ -125,11 +133,11 @@ Source: [LeccePrima](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk96a3
 
 ---
 
-### [Menopausa, la specialista Cristina Lenzi: «Per la natura, una donna che non può più procreare ha esaurito il suo ruolo. Oggi, che viviamo molto più a lungo, non può più essere così. C'è ancora moltissima vita, e non c'è niente che si debba sopportare» - Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiANBVV95cUxPeUxVQ0U4eGYwNi15VTRJRDNsbmF1ZUNMRG1kLUxFcUg4R1JLS0hKQThJS21DMG5JZlp5MUYzcGJDVWtaMXRkR0Z2WU5XTUM3bWl0U2d4ZXY0NExremhSYlg2RlRDYXR0XzB4VmhNNGhwRzZVejhGaGdORGlvSEFvajc3Tll4andpNGsyOGQ3WGl5QVZFZVlqRnB3SFJxZzlWTk9HalAzSjJkNTFSbGxBYnVoNWJyalZIdkpHXzllR0dodTVLYVVyWjB6UGg3cUJ5STJIOEpXd1FJMGhNcVM5VGczdTZfYzB6VVZBSXd2TTZST3h2SmExWmJ1Nkptd0FmeGhlMXZfUWJXM3EzWWQyWVZvbHZiaF8tdWswVXQyN3BXeUl4OE1JTU5ZbDl3dFQ4ZkxWNV9HRGNHRlJueEs0UkVuMzVoMzAxY0EyYmtaeVZucWpRR1pMTzVFcTllWEhDT0lNLV9JTWE3eUlZZU1BdGJuc2c2NkNNSGFoWnFyRWV4TVYwMXZrNg?oc=5)
+### [Menopausa: si parla ancora poco dei sintomi. Tra i più sottovalutati i disturbi del sonno - Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRS1SS1Z3R0FPQW9xQVEwWV9yTXdseHlBY0RVT0pvVzZ5NXAtcTFtM1cwMDlGc0hTOHB3RmI4ekJvVFJnQksyUGNoS3pOT1FEM04xa0VRa2xZa0JYY1RMd1FVXzZMb3YzX21HWUVBekVlNEZ6aGtwTG12a1lvWUtqcG04U21NaXNNTVBYRFVqTUt1bWpJWmFEX0tKVnpuckZXbFduRDg3Y1ZiZ1FEYXl3RWxkeXQ4ZmoyTWNSQUdLNGpWZ3RBOGpiVW94Rlk3a0lrMG05Mjd6NU92R0VzWGdHeVpLeElsQ0FKUE5NTzVrRk03d2lodnNZS0Zyd2ZyLUVNUWhCVGZn0gGLAkFVX3lxTFBWVmJjQWUwUnA1cF92ZnlLNWpCQjJhR3Jhb3k5MGtnT1lXWDFaVFRnamJUTVh5V0gyUGZjVlN3dUFOTFJnUTFUVUdDZDk3ajVId1JRcElpYzlSYWVOY01sM3k1UEZ3UXVYNWhsMlhaWDJ4VEJzSTZkUGlhVTY0a2QtN0VvV1VwVlhUd3o4T2VMVG9ZNlN4eHl6NWZkQV84bDdtTlhha2xwUWFWTHFLelo3U1ZYaHR5NEZYaXRtdnQwTlQ3MmtTV2JibVRkb0d2eEVHazNrRnlHcy1OUGRWSFdZODZlY0F1WEc4NlNlaDhPOWxlZkd5Tk9WZXhlUFYxWFpNZDNWdUR4X3lsRQ?oc=5)
 
 2026-10-17 <span class="news-drug-tag">Amlodipine</span>
 
-Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMiiANBVV95cUxPeUxVQ0U4eGYwNi15VTRJRDNsbmF1ZUNMRG1kLUxFcUg4R1JLS0hKQThJS21DMG5JZlp5MUYzcGJDVWtaMXRkR0Z2WU5XTUM3bWl0U2d4ZXY0NExremhSYlg2RlRDYXR0XzB4VmhNNGhwRzZVejhGaGdORGlvSEFvajc3Tll4andpNGsyOGQ3WGl5QVZFZVlqRnB3SFJxZzlWTk9HalAzSjJkNTFSbGxBYnVoNWJyalZIdkpHXzllR0dodTVLYVVyWjB6UGg3cUJ5STJIOEpXd1FJMGhNcVM5VGczdTZfYzB6VVZBSXd2TTZST3h2SmExWmJ1Nkptd0FmeGhlMXZfUWJXM3EzWWQyWVZvbHZiaF8tdWswVXQyN3BXeUl4OE1JTU5ZbDl3dFQ4ZkxWNV9HRGNHRlJueEs0UkVuMzVoMzAxY0EyYmtaeVZucWpRR1pMTzVFcTllWEhDT0lNLV9JTWE3eUlZZU1BdGJuc2c2NkNNSGFoWnFyRWV4TVYwMXZrNg?oc=5)
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMihgJBVV95cUxPRS1SS1Z3R0FPQW9xQVEwWV9yTXdseHlBY0RVT0pvVzZ5NXAtcTFtM1cwMDlGc0hTOHB3RmI4ekJvVFJnQksyUGNoS3pOT1FEM04xa0VRa2xZa0JYY1RMd1FVXzZMb3YzX21HWUVBekVlNEZ6aGtwTG12a1lvWUtqcG04U21NaXNNTVBYRFVqTUt1bWpJWmFEX0tKVnpuckZXbFduRDg3Y1ZiZ1FEYXl3RWxkeXQ4ZmoyTWNSQUdLNGpWZ3RBOGpiVW94Rlk3a0lrMG05Mjd6NU92R0VzWGdHeVpLeElsQ0FKUE5NTzVrRk03d2lodnNZS0Zyd2ZyLUVNUWhCVGZn0gGLAkFVX3lxTFBWVmJjQWUwUnA1cF92ZnlLNWpCQjJhR3Jhb3k5MGtnT1lXWDFaVFRnamJUTVh5V0gyUGZjVlN3dUFOTFJnUTFUVUdDZDk3ajVId1JRcElpYzlSYWVOY01sM3k1UEZ3UXVYNWhsMlhaWDJ4VEJzSTZkUGlhVTY0a2QtN0VvV1VwVlhUd3o4T2VMVG9ZNlN4eHl6NWZkQV84bDdtTlhha2xwUWFWTHFLelo3U1ZYaHR5NEZYaXRtdnQwTlQ3MmtTV2JibVRkb0d2eEVHazNrRnlHcy1OUGRWSFdZODZlY0F1WEc4NlNlaDhPOWxlZkd5Tk9WZXhlUFYxWFpNZDNWdUR4X3lsRQ?oc=5)
 
 ---
 
@@ -269,27 +277,11 @@ Source: [Hull Live](https://news.google.com/rss/articles/CBMirAFBVV95cUxQZW1Ic0h
 
 ---
 
-### [Mieloma multiplo, una nuova molecola dà speranza per le terapie - La Stampa](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHFCbEJleXJtU3R2YVlOM0lORlBIZTF6U0ZyMm53UWFyZnJSLUJqemNGdm1rVWdrN3JGSUpfeHZ5N3BfSm9rV0NmaDdsUDUxa21wNXd0Wm9XaUIyUTQycnk0TEJiY0c4X2FKZXF3eVBFOUc2NVFUcGhCRzRJQURYVE5EWmQ3aU0yQkZscC1YUjFoSWNpOHg0QUo3bzZjWXpla01RcFhUZTVVdW1tMDlaZk0yUzZQRTZiN3dFZ9IBwgFBVV95cUxQMzhWbkJwbFZwaWZFdEtJd29FbU1XU1FkSlhEdWdCVUdIeElRd1I0S0hiendwMFZxQUhLcHptUmgtOERwVnVFb0tQdk9icjB4d0VqVXlyemhtMm5rejBRakl0dkF6RkVQeXhXM0tBZ2JCN3prMnFKZGdIeGhjNUMwVWxmRjcxSjY4U182dE5HUEJEbzRuM3F3Z2FJQjk3T1JWLTliaUtwdjExYWVNQjVhRWRDY3ZzVHFqeUlXdkVfVFNjUQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">tumor</span>
-
-Source: [La Stampa](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHFCbEJleXJtU3R2YVlOM0lORlBIZTF6U0ZyMm53UWFyZnJSLUJqemNGdm1rVWdrN3JGSUpfeHZ5N3BfSm9rV0NmaDdsUDUxa21wNXd0Wm9XaUIyUTQycnk0TEJiY0c4X2FKZXF3eVBFOUc2NVFUcGhCRzRJQURYVE5EWmQ3aU0yQkZscC1YUjFoSWNpOHg0QUo3bzZjWXpla01RcFhUZTVVdW1tMDlaZk0yUzZQRTZiN3dFZ9IBwgFBVV95cUxQMzhWbkJwbFZwaWZFdEtJd29FbU1XU1FkSlhEdWdCVUdIeElRd1I0S0hiendwMFZxQUhLcHptUmgtOERwVnVFb0tQdk9icjB4d0VqVXlyemhtMm5rejBRakl0dkF6RkVQeXhXM0tBZ2JCN3prMnFKZGdIeGhjNUMwVWxmRjcxSjY4U182dE5HUEJEbzRuM3F3Z2FJQjk3T1JWLTliaUtwdjExYWVNQjVhRWRDY3ZzVHFqeUlXdkVfVFNjUQ?oc=5)
-
----
-
 ### [Schlaganfall mit 35? Forscher entdecken überraschende Ursachen](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTdrN3RKcmRrNHFrZVN5d2pmQzJ1azI1bXM0a0hFaWNwVFJDSDBVVjlZem1nMmxGTGlsb3FtX3kwaDkwTm1RQUI5ZXZXeDk2eVdYY0xPMFhYWGI0a3ZfT3gwcnlXa1JXYWVaS0dPcnNBMXg5ZkFsckdfOTZIcjJDcDBhbDgtOWR6aHNfYUNfRGU4ZFQ1eXB2NkhSYUVwOUR4WjI3eEdiZ0ZEV0JWY1puMkFOZFd1MXdSLU5rd0dXcDB1STBzQmc1V1Jn?oc=5)
-
----
-
-### [El proyecto español AntheroPTM estudiará cómo prevenir infartos e ictus causados por aterosclerosis](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
-
-2026-10-16 <span class="news-indication-tag">ictus</span>
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2VkRXJJbHMtWG5IaFJvck5GQjJGVlczMHFKSnFqbW9wbGNrOTV4bjE3anFPNVh2S3dUOGFCYk5sZktMb0tmNm5UaVlkcmRmRmtOa0l2ZHRtQnJka2p1QTZMOE91M0N5NUVaRmZnaFloZjZjd3lGSHlqZHI3Q0trUFRIdm5YQ2NYLTV0X3JJQmpWOGN6ak1oVkFTRWQwX3pnM0ZpY1ZHblllb3o0bjktS0ZqNi1jaEM1eU9hX2J6Rnh1TjFhbFJMelJyV0QxMWNvUXIxR0VOX01RU0lIYW9neWFuOE93aW95?oc=5)
 
 ---
 
@@ -301,11 +293,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtMVNQUnE2MVdpQ
 
 ---
 
-### [Internationale Agentur für Krebsforschung HPV verursachte 2024 rund 750.000 neue Krebsfälle](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEFhU1ZEN1dXdDBjQzFRVnBYX2NsZnlFTFFEZlhsd0stYTE5aWp6SmQwSFNYTFZWRDlibEwzMWRlaWxaSzNiN3JyS1R0UHF6RXhacmt6cjF4SVY5WGdXMjF3Si0tMm84Q3JibFlBaE8xNGJJVDZ0cjVSTlBuVGRESE5yR2tTZHdVZEsyZmZKeExRQS1nbFlYelZYSXpwN0k?oc=5)
+### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
 
-2026-10-15 <span class="news-indication-tag">tumor</span>
+2026-10-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [zm-online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEFhU1ZEN1dXdDBjQzFRVnBYX2NsZnlFTFFEZlhsd0stYTE5aWp6SmQwSFNYTFZWRDlibEwzMWRlaWxaSzNiN3JyS1R0UHF6RXhacmt6cjF4SVY5WGdXMjF3Si0tMm84Q3JibFlBaE8xNGJJVDZ0cjVSTlBuVGRESE5yR2tTZHdVZEsyZmZKeExRQS1nbFlYelZYSXpwN0k?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
 
 ---
 
@@ -365,14 +357,6 @@ Source: [Univrmagazine](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGM
 
 ---
 
-### [Guernsey actress with breast cancer diagnosis back on stage](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR21HVFE5U2xWRGxGeDJZamVjb0xlbzQtRmRxRl90cGpiLThwNTFMeE40XzVtZTFqZk1Ua0xHcWk2clBIM29mUEstY3oyeUNPSmFPbmc?oc=5)
-
-2026-10-15 <span class="news-indication-tag">cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XSnh2ak1LVEJWR21HVFE5U2xWRGxGeDJZamVjb0xlbzQtRmRxRl90cGpiLThwNTFMeE40XzVtZTFqZk1Ua0xHcWk2clBIM29mUEstY3oyeUNPSmFPbmc?oc=5)
-
----
-
 ### [Blasenkrebs ohne Muskelinvasion: Neue Option zum Organerhalt mit Antikörper-Wirkstoff-Konjugat - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTzU0TWlLVzMtZTVvSGVyR2lFa0JvbnZXQ3JETFNqZGNRTXNienUzWFlqbTlRc1REdXAtSDBFbHpDM3BOQzEzcDlHdVNmX25TaTVuZ0Zucm10RW80X2RNV2FRWnNQYnpqa21aNmRTbllhZGpRMzBCdlhVWG1SaklzZjRzMGIyak1QdzFiaFI1cDE5Tm42bVJWTGZWM21kTk5FODI5bjQxc3RrSHJTMHJPWDE3ak9telNkaERDbVJ2WmhTNnlSZ1pBQkhVRzh1NjlSajJ0dXQ3emdBMFVIMHB4TllyaVBLTmtfSXNkWHM5LWxOeHVk?oc=5)
 
 2026-10-14 <span class="news-indication-tag">Krebs</span>
@@ -405,11 +389,27 @@ Source: [ATS Montagna](https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaUpo
 
 ---
 
+### [Weltweite Analyse: Einer von acht Krebsfällen geht auf Infekt zurück - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmIzSVpWU0JNN3l4N2o4b3JIcDlVUmhyMjk4X1BoR1RUXy12Z25OSVUwUzR6OXpLVlZ0WXRvZGgzN3BTRTJuQVg4ZnJ6bm9jd1VqZDNNV0R0RHpRRlhEckpnR0pGMHRLQW5tbXM5Y1B2MDVNSHZWS3lvZXlod2NucjZVUzRLQWlpaVBCdzdUSkpvMnFoczhEQk9KSDg4UzQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">tumor</span>
+
+Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmIzSVpWU0JNN3l4N2o4b3JIcDlVUmhyMjk4X1BoR1RUXy12Z25OSVUwUzR6OXpLVlZ0WXRvZGgzN3BTRTJuQVg4ZnJ6bm9jd1VqZDNNV0R0RHpRRlhEckpnR0pGMHRLQW5tbXM5Y1B2MDVNSHZWS3lvZXlod2NucjZVUzRLQWlpaVBCdzdUSkpvMnFoczhEQk9KSDg4UzQ?oc=5)
+
+---
+
 ### [The lung cancer symptoms everyone should know – and flag with a doctor - The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
+
+---
+
+### [Wie chronischer Stress das Herz schädigt – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
+
+2026-10-12 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirgFBVV95cUxNVV9WdFBYa1dMb1phNm54aHd2RGt4YzAwNXdZYmR6ejNibmd0c3JGYjVhU3J6OERzbDN3WlhKT3N3bXFQVDViY0R4OFhQQmdzMVR0OGZlN2dHcVNETHdyOGNfblZuMzQzTzZjQzVnRGtBdXYwcHIxU3k5cUMxaXdLTW95OWZmR2hOYjBMNGNnV2FjRl85SHJuSGNFV25mc1UxTHRmcEVFb2lRTmc3ZUE?oc=5)
 
 ---
 

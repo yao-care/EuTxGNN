@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Glecaprevir with the latest 
 
 ## Related News (14)
 
+### [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
+
+2026-10-17 <span class="news-indication-tag">MS</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
+
+---
+
 ### [Tim Spector: my five simple recipes to boost your mood - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc1V2gtdHJQUUdyNEJTeGk1RWh6REMyQkM3WWVxeGJWSk4yZF9LS2JVTDR3dWlNV1ZBMkphRllMTm5ydXlCMHQ3ZExVRHFDM0xWcFVXaU52Wmh0LWttN0NVMEt4Sk8yMkY3N2w0ejJuUzBWYVU2bkI3bE1hTzUwNTRQRGg1OE1GdGhnR2JLVWVMZDZMUE5QY1hwSUhrN3FMTXVGSS1CdjNzcW9jQml5OUcwQV81VDhybg?oc=5)
 
 2026-10-17 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -133,19 +141,11 @@ Source: [The Mirror](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXlCU0
 
 ---
 
-### [Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MS</span>
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
-
----
-
-### [How to make thin hair look thicker and fuller in under 15 minutes - The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
+### [Sali Hughes on beauty: worried about hair loss? Here’s a treatment that actually works - The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkY4WExIbWloendaM2lmMVI2enJHY29pWmpiSTJGTW13c3pjVDFOaGFyUnZ5V3hSVDdzdWxMRWpqeVRmNzBqdnN4WlRyU0s0QktTU1hPNDhJc1E2RTIzc1ZEVzFod21NanNQcHg3Uy1vb2JYcWR1RnFMbEZFUVBXeVJTRThMOFBjNFo2S29zaHlJVFk2b2x0M3kzM1duUzQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MS</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWRGeURUbDRZZEF6ZUZmOEgySkZLRmJ2R1RtTEQ1UzJJMlNicXRTMFlJTFVfakw5M0c5U3Ffa3FpVDk0OVRJQnlMWHl2NkRicjlyMnVyams1QWFUWmZhTXFYeWdwZjJDa0xtTUk4TWk2TTZZWE11MFd4dk5kSXFWUktBWGlRUHdpVFNNQUlWM2U?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkY4WExIbWloendaM2lmMVI2enJHY29pWmpiSTJGTW13c3pjVDFOaGFyUnZ5V3hSVDdzdWxMRWpqeVRmNzBqdnN4WlRyU0s0QktTU1hPNDhJc1E2RTIzc1ZEVzFod21NanNQcHg3Uy1vb2JYcWR1RnFMbEZFUVBXeVJTRThMOFBjNFo2S29zaHlJVFk2b2x0M3kzM1duUzQ?oc=5)
 
 ---
 

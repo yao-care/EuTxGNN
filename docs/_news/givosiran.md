@@ -53,14 +53,6 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 
 ## Related News (7)
 
-### [Intensive Blutdrucksenkung: 27 Studien zeigen 15 Prozent weniger Herzrisiken](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9NVHJuM3NqZ3VVY2NseEowdXo1ZkdqOUltdElRSElsbkdKeE9DU05MR1JyZmNVU1BTWi14TEtCcFZvZW9BNkVIeEVBX0wzN1BKOUtpZlRhUHRJaWl4YlgzbVR2Q0gtQndEZUZMeEJtVVNaTG1adVpIQ0FvYjhObUpiVFBoNHJ1LTNBR3RGV0VwWG9hTjNiT2hSbW9Ic2FGOWJMb20zWW5paFlQLVFERVB3?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk9NVHJuM3NqZ3VVY2NseEowdXo1ZkdqOUltdElRSElsbkdKeE9DU05MR1JyZmNVU1BTWi14TEtCcFZvZW9BNkVIeEVBX0wzN1BKOUtpZlRhUHRJaWl4YlgzbVR2Q0gtQndEZUZMeEJtVVNaTG1adVpIQ0FvYjhObUpiVFBoNHJ1LTNBR3RGV0VwWG9hTjNiT2hSbW9Ic2FGOWJMb20zWW5paFlQLVFERVB3?oc=5)
-
----
-
 ### [Bluthochdruck bei Kindern: 28,3 Prozent im Hypertonie-Bereich - it boltwise](https://news.google.com/rss/articles/CBMilgFBVV95cUxONHFvc013dDFtZVBzTTVDbElOTUxFb21MNGRxT2JIcXhzcnItbGl0bmdKb0daMF9NSHZpUmZ2dVRqUDFwRlp1RjBLSmlOc3dwNWFhWUdBcW4tSHlSQUM1ZHM5Mk1VaVI2NTkwdWxoQWJKZjdMSXh2b056ZVRvX3cxemhQcmUwSHBvRGF0dmJYRWw2RE1faXc?oc=5)
 
 2026-10-17 <span class="news-indication-tag">Bluthochdruck</span>
@@ -90,6 +82,14 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFFI
 2026-10-16 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDVZR0F4bnc2cHlxV1NyckVkR3pJVVBNR3dQT3RMbjRMaDN1YVVsRDg1NGtOV3FSUVpUT3FhdjZIU3hGeVpzUGVqNzJ1TldMMEdJOHpRTjRFclppYjZzS0M5T1VVQU1zR3d6THJwbThZeEtNbVlMZGpidXYtb284dG5DWVJmaXhHV1FLdG1mV3hfSVhVcXdqTUc2Q19ybFA5d2Z0bnFYdjJLLVd3eGQ1aWxKRXFaaHpYNm11Q2w5aDgtcFdPRDBaakxPLTNHUG9KTER4NXByMGs?oc=5)
+
+---
+
+### [Intensive Blutdrucksenkung schützt Herz – ohne mehr Nierenausfälle - it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
+
+2026-10-16 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ1dlclpqMmxFTWl5bGdLYTV2dUsyb0ljcHp3a3RkZ0p3RVZxaUVZV2hTbkthbUp4Y1Y4Qmk2WEdadl9iczRjbHVSSUNCZjBCeGkwVzFadDgyLUZaMVpWOGVlMjdFcVdocGlpWk11OG9OWjkzMGVTT1VUV2RDbHJqRFlocXJ6Xy0xeVRlc3hwQ3Z1ZUItMW9abGF4b1hJM2s?oc=5)
 
 ---
 

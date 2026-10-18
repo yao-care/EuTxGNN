@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (6)
 
 ### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
 
 2026-10-16 <span class="news-indication-tag">arthritis</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
+
+---
+
+### [Victoria Maizes, doctora: “Ante una inflamación no siempre conviene recurrir inmediatamente al ibuprofeno; a veces queremos suprimir una reacción sin entender su función” - La Vanguardia](https://news.google.com/rss/articles/CBMisgJBVV95cUxOSFVXaEFDRzVwT2phZ2hMWmV5Y0F1YUI3bWMtUzVURDZvby1Uem01Y2FlcFFBR3MzZ2p4SlplUkpKUy1XODRmeGVZOHVadmhQcC1kblNPUFJSd09RUDJSTkZPMEIwUWhhSGVGX25mY3A4NVhIMmU2XzZoMVE4dDNBX0lzdHpMN29RSl9PS1hJQVd3OGpJRUNhTW5wQW5VaWxVZ3E3dzVKWldadlcyOERKNmRCeWVQTU5VNlRlNEdDdFBNXzBsRTZ2QlRhaGljZTMyUG03dTVqd1RyWHZGcFRPSFRmc0tzb1N2Z2xzaWR2QnV1VXlucWt0OGxaT0hzQlpFWDZ2bkIyR2I1MV9HMGc5Y0lCeGdVWlc4bDRRVml4eVpVQXJ4LUpNd2lOOTZicFFTNXfSAbcCQVVfeXFMUHBMTFUtUWZObU5CQm1GUXVieTVWR1ZaNDN1czJIdFVLcG5KVUZ3ZE9HdjdFTExDMi1qTDFoQXZwTnpFSlhtWGxfdXFjbTlENjZlbkNzVVItOE50YkZEbjNWUkpYLUcta2EwVkpYQjFPb3Y4YnNUeTRvMDB6UXJYSTZ4NzJpSWJ2MHBUNEtmenVDSURESHc4QUNmdmVvcWtGSThtWmF3US0yT0dianMzUXFadDk4UXhsbWdJWF9rQUdBcEhRQnZmUjI4UFZwOFlPRmtITEVaM2tsbktfM0tpYWktUTVVM1lrVDJfVHpSZ1A5N08xRFU0Z0JqVVI2dzd4VlFVODZneGJEYWdaMWtSSklOYy0xdG5UUjlPV2tuNU9rX3JhYmpxX1FUSE1Nand4NGh0bXN6OXc?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgJBVV95cUxOSFVXaEFDRzVwT2phZ2hMWmV5Y0F1YUI3bWMtUzVURDZvby1Uem01Y2FlcFFBR3MzZ2p4SlplUkpKUy1XODRmeGVZOHVadmhQcC1kblNPUFJSd09RUDJSTkZPMEIwUWhhSGVGX25mY3A4NVhIMmU2XzZoMVE4dDNBX0lzdHpMN29RSl9PS1hJQVd3OGpJRUNhTW5wQW5VaWxVZ3E3dzVKWldadlcyOERKNmRCeWVQTU5VNlRlNEdDdFBNXzBsRTZ2QlRhaGljZTMyUG03dTVqd1RyWHZGcFRPSFRmc0tzb1N2Z2xzaWR2QnV1VXlucWt0OGxaT0hzQlpFWDZ2bkIyR2I1MV9HMGc5Y0lCeGdVWlc4bDRRVml4eVpVQXJ4LUpNd2lOOTZicFFTNXfSAbcCQVVfeXFMUHBMTFUtUWZObU5CQm1GUXVieTVWR1ZaNDN1czJIdFVLcG5KVUZ3ZE9HdjdFTExDMi1qTDFoQXZwTnpFSlhtWGxfdXFjbTlENjZlbkNzVVItOE50YkZEbjNWUkpYLUcta2EwVkpYQjFPb3Y4YnNUeTRvMDB6UXJYSTZ4NzJpSWJ2MHBUNEtmenVDSURESHc4QUNmdmVvcWtGSThtWmF3US0yT0dianMzUXFadDk4UXhsbWdJWF9rQUdBcEhRQnZmUjI4UFZwOFlPRmtITEVaM2tsbktfM0tpYWktUTVVM1lrVDJfVHpSZ1A5N08xRFU0Z0JqVVI2dzd4VlFVODZneGJEYWdaMWtSSklOYy0xdG5UUjlPV2tuNU9rX3JhYmpxX1FUSE1Nand4NGh0bXN6OXc?oc=5)
 
 ---
 
@@ -69,11 +77,27 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 
 ---
 
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+---
+
 ### [Rheumatoide Arthritis: Menschen mit hohem BMI sprechen schlechter auf JAK-Hemmer an](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
 
 2026-10-13 <span class="news-indication-tag">arthritis</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdU52M2ZYcUtialFza1BGcTJxMUhNOGhqNGdpaEttblBrZXQyVE56UG5xdGRzZlQ1V3hheVh6dUR2dnBQZDFOMjFBb1psc1I0YjlBa0pYazBVTi15Q21BVW8yMnliUTZPZFBkU19uVjNXeXEyQlNCcGtnRVFuQ3QxSkNqZjFGRjlqcmRVN0c2TzB4ZE1wQS0xam9lV3JZa29wN3BPR05XeVU?oc=5)
+
+---
+
+### [Axiale Spondyloarthritis: Darum könnte sich der Blick auf Vitamin-D-Spiegel lohnen](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">arthritis</span>
+
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxPczcwSnVCZzBOT2JTczRsVVVsUVh2eElCdlJPRzB0SVFMU2lVT0V6cUFrSVJ5bkZCYWRwQnZjOTFxZ0d4Y1JETUhEaVAxQVlGUXhscS1hTkUwLWt4aGdjeGFZUC1TX3BqeEhmZnhWTmx6TkJWZ0lBOEQtbkloWkRabHdUaUhaTGtMLWl3d1JvM3poVzZpa2tCSTliZUtmeUpTZDNZeEtKbTluMmF6dkFzUzFOM0ZzMlNsRkRGWEJXdl9PZVZ3ekFOQ2JQOA?oc=5)
 
 ---
 
