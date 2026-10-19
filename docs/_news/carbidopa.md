@@ -51,19 +51,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0x
 
 ---
 
+### [The £3 vegetable that improves sleep and reduces risk of dementia - Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
+
+2026-10-18 <span class="news-indication-tag">dementia</span>
+
+Source: [Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
+
+---
+
 ### [Alzheimer : la maladie qu'on croyait invincible cède enfin du terrain - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
 
 2026-10-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
 
 Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
-
----
-
-### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
-2026-10-15 <span class="news-indication-tag">dementia</span>
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
 ---
 

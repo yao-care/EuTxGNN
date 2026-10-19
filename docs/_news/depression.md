@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 3 articles, 7 related drugs."
+description: "Health news about depresión (depression). 2 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>3 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>2 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Las vías que regulan el estrés celular se encuentran alteradas en personas con depresión y esquizofrenia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
-
-2026-10-19
-
-Source: [Sinc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
-
----
-
-### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+### [Las vías que regulan el estrés celular se encuentran alteradas en los cerebros de sujetos con depresión y esquizofrenia - Salud a Diario](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTTZtM1RIMnU5ZXRsSXp4c1N2MTM2Um53eFl5RjlvV2l1WVR5QmtibGFZX0hMTWtpTXJFaUlNdzE0N19zc0ZqWnFmWkxsNHIwbkRYbGpXSndyakNyUGRWY0dSZmZ1QUhSN293UG9pbVJ5eEgybE4xM2wzOGJ6OG9YRmlpY1BqYXFabmR0S3dNVDNITjVPem9RSE9PNU5NRVNLa2JERE1wNlVGd3Z5OVJDckVNbjAwSGs4ak9EazRGNHdyRUJhbl9xaW1ZUFRXVklpQ09ISTNFTUtxbG80VmZZZi1IQ0loajI3aHRGWEZYejZIalM5?oc=5)
 
 2026-10-19
 
-Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTTZtM1RIMnU5ZXRsSXp4c1N2MTM2Um53eFl5RjlvV2l1WVR5QmtibGFZX0hMTWtpTXJFaUlNdzE0N19zc0ZqWnFmWkxsNHIwbkRYbGpXSndyakNyUGRWY0dSZmZ1QUhSN293UG9pbVJ5eEgybE4xM2wzOGJ6OG9YRmlpY1BqYXFabmR0S3dNVDNITjVPem9RSE9PNU5NRVNLa2JERE1wNlVGd3Z5OVJDckVNbjAwSGs4ak9EazRGNHdyRUJhbl9xaW1ZUFRXVklpQ09ISTNFTUtxbG80VmZZZi1IQ0loajI3aHRGWEZYejZIalM5?oc=5)
 
 ---
 

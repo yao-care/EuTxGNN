@@ -3,7 +3,7 @@ layout: default
 title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesità (obesity). 7 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesità (obesity)?">
-<strong>obesità (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<strong>obesità (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page brings together the latest health news about “obesità” and lists 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Obesità, oltre 8.000 donne seguite nella vita reale: quanto peso si perde con i nuovi farmaci](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
 
@@ -75,19 +75,11 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ---
 
-### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
+### [Digitale Patientenveranstaltung über „Adipositas? Wir sprechen darüber!“](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
 
-2026-10-16
+2026-10-13
 
-Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
-
----
-
-### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
-2026-10-15
-
-Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+Source: [LokalKlick.eu](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
 
 ---
 

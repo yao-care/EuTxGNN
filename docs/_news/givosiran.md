@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Blutdruck senken: 150 Minuten Bewegung pro Woche empfehlen Fachleute](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
+### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+
+---
+
+### [Bluthochdruck: Kardiologen raten von zehn Lebensmitteln ausdrücklich ab](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
 
 ---
 
@@ -66,22 +74,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPaz
 2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1sTjhPNUcwQXE3T09SdndXMjY1bVNzVkRiMFFvbkZYNk5yZXdUdWlQdU52dHRzeDBiU0Z6T2hXX1lHbTNWQ1RMREZwWjBXc2hDb2hJV1dzTk11OTZJX3lDTUpKWnhMdlV5VzRhQV91VE9HTnNERmRBS0F1VFVYRmVHSmhteVpWc0JlQW9KYlZCUFNrVDhQVGRTYlhTZ1dyTWVQVkZtNTVGSDNqUGJaNkNtM09rMGhRT1BLbw?oc=5)
-
----
-
-### [Bluthochdruck: Vier Millionen Betroffene in Deutschland ahnen nichts](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
-
----
-
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
-
-2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 ---
 

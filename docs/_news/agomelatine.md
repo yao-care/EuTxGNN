@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -52,21 +52,13 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Las vías que regulan el estrés celular se encuentran alteradas en personas con depresión y esquizofrenia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
+### [Las vías que regulan el estrés celular se encuentran alteradas en los cerebros de sujetos con depresión y esquizofrenia - Salud a Diario](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTTZtM1RIMnU5ZXRsSXp4c1N2MTM2Um53eFl5RjlvV2l1WVR5QmtibGFZX0hMTWtpTXJFaUlNdzE0N19zc0ZqWnFmWkxsNHIwbkRYbGpXSndyakNyUGRWY0dSZmZ1QUhSN293UG9pbVJ5eEgybE4xM2wzOGJ6OG9YRmlpY1BqYXFabmR0S3dNVDNITjVPem9RSE9PNU5NRVNLa2JERE1wNlVGd3Z5OVJDckVNbjAwSGs4ak9EazRGNHdyRUJhbl9xaW1ZUFRXVklpQ09ISTNFTUtxbG80VmZZZi1IQ0loajI3aHRGWEZYejZIalM5?oc=5)
 
 2026-10-19 <span class="news-indication-tag">depresión</span>
 
-Source: [Sinc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
-
----
-
-### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
-2026-10-19 <span class="news-indication-tag">depression</span>
-
-Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTTZtM1RIMnU5ZXRsSXp4c1N2MTM2Um53eFl5RjlvV2l1WVR5QmtibGFZX0hMTWtpTXJFaUlNdzE0N19zc0ZqWnFmWkxsNHIwbkRYbGpXSndyakNyUGRWY0dSZmZ1QUhSN293UG9pbVJ5eEgybE4xM2wzOGJ6OG9YRmlpY1BqYXFabmR0S3dNVDNITjVPem9RSE9PNU5NRVNLa2JERE1wNlVGd3Z5OVJDckVNbjAwSGs4ak9EazRGNHdyRUJhbl9xaW1ZUFRXVklpQ09ISTNFTUtxbG80VmZZZi1IQ0loajI3aHRGWEZYejZIalM5?oc=5)
 
 ---
 

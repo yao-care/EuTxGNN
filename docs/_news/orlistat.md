@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
 
-### [Blutdruck senken: 150 Minuten Bewegung pro Woche empfehlen Fachleute](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
-
----
-
-### [Schlaflosigkeit und Schlaganfall: Ein unterschätztes Warnsignal für die Gesundheit - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFJsUzNWTi1ab1F1ekV1WmZnOHEzWDJPTENYbVVrT0hKSlBDdUJzYlNTUlFBc0hnc2pYcVAwWERscFRiQ2YtbDAzek52SGlzb2hXZEJWdGlMeWlRRVpZV2lmNUZUVnZnN3FZZGZ4SHNvdVE4VnRnVFBqaGZVd2RNa0NPTjZzdTF2M29yaTU0bGpKYVU?oc=5)
+### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFJsUzNWTi1ab1F1ekV1WmZnOHEzWDJPTENYbVVrT0hKSlBDdUJzYlNTUlFBc0hnc2pYcVAwWERscFRiQ2YtbDAzek52SGlzb2hXZEJWdGlMeWlRRVpZV2lmNUZUVnZnN3FZZGZ4SHNvdVE4VnRnVFBqaGZVd2RNa0NPTjZzdTF2M29yaTU0bGpKYVU?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+
+---
+
+### [Bluthochdruck: Kardiologen raten von zehn Lebensmitteln ausdrücklich ab](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
 
 ---
 
@@ -77,11 +77,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNY
 
 ---
 
-### [«Mal di testa frequenti sin da piccola, dopo un ictus durante la gravidanza ho scoperto la malattia neurologica: attenzione ai sintomi» - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
-2026-10-19 <span class="news-indication-tag">ictus</span>
+2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
-Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
 ---
 
@@ -90,6 +90,22 @@ Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkN
 2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
+
+---
+
+### [«Mal di testa frequenti sin da piccola, dopo un ictus durante la gravidanza ho scoperto la malattia neurologica: attenzione ai sintomi»](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJtcXhESXlreC1wQ3ZQdlpRT1M0NEJMVlJKSGFpcUdmcW9DZ0RhSXhueWNESDdmaHBWRHhldmh2X3hrRV8wTFoyakVXOTNNSDJEYmc3dVV2Z2FELWticWJPVVczTUZuM0FwellCOFNHLUlGMy1zNVduVXFtSklpdDJib1lURlFiOTJNbGlhSE5OTXl2cU9TZ2k1emF5YnZiZUtDSVBwWG5Ldl9oSHJLUGprY1JBZ9IBnwFBVV95cUxNS0c2dUxNU3RaUC13SExyWFVNd29zZGdRTWptd3FxR290NWtJWU1seW9QdkkwcTc4QUhOcVY0TUx6bXZXb3FGc2ZWS1BSVVRFYWVYWXZhczl0aWlKeENJQk9RTjhlZXVzVktKNkhYTUY5Y2MwR1pOUzdvRTNVOUJ3NVRJRjYwWnlCLTZ6dFNlQUU0MUdWXzZwVmp1aVoyZHc?oc=5)
+
+2026-10-19 <span class="news-indication-tag">ictus</span>
+
+Source: [Leggo.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJtcXhESXlreC1wQ3ZQdlpRT1M0NEJMVlJKSGFpcUdmcW9DZ0RhSXhueWNESDdmaHBWRHhldmh2X3hrRV8wTFoyakVXOTNNSDJEYmc3dVV2Z2FELWticWJPVVczTUZuM0FwellCOFNHLUlGMy1zNVduVXFtSklpdDJib1lURlFiOTJNbGlhSE5OTXl2cU9TZ2k1emF5YnZiZUtDSVBwWG5Ldl9oSHJLUGprY1JBZ9IBnwFBVV95cUxNS0c2dUxNU3RaUC13SExyWFVNd29zZGdRTWptd3FxR290NWtJWU1seW9QdkkwcTc4QUhOcVY0TUx6bXZXb3FGc2ZWS1BSVVRFYWVYWXZhczl0aWlKeENJQk9RTjhlZXVzVktKNkhYTUY5Y2MwR1pOUzdvRTNVOUJ3NVRJRjYwWnlCLTZ6dFNlQUU0MUdWXzZwVmp1aVoyZHc?oc=5)
+
+---
+
+### [Chronischer Stress: Beschäftigte mit hoher Belastung erleiden doppelt so oft Herzinfarkte](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlFdXZLU2xDeHF0Q2dUQUZpUW1JdS1QamZQX2ZrTUJnVkp3MjJpWS0yX0Yzb1JNcXlPOFU4TXlUM2JkVDE0azdobEhKdzdna0hrenhOUlRubUNoWGc4ZnFlNkxIWnMzaDB3aGszWXI1bDVzZHlmUzBNUVB6YUtsQ0htTUItWERGa3dSR3BGUDdnaVlXbFdwVDFZLWxDREFqckpwWFBVUVl3eHZ0SFgwNnpvNTItZTJINUlDeGdOQk9iQWtqaWZSTWtBeUhLcDBjSk0xeA?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlFdXZLU2xDeHF0Q2dUQUZpUW1JdS1QamZQX2ZrTUJnVkp3MjJpWS0yX0Yzb1JNcXlPOFU4TXlUM2JkVDE0azdobEhKdzdna0hrenhOUlRubUNoWGc4ZnFlNkxIWnMzaDB3aGszWXI1bDVzZHlmUzBNUVB6YUtsQ0htTUItWERGa3dSR3BGUDdnaVlXbFdwVDFZLWxDREFqckpwWFBVUVl3eHZ0SFgwNnpvNTItZTJINUlDeGdOQk9iQWtqaWZSTWtBeUhLcDBjSk0xeA?oc=5)
 
 ---
 
@@ -109,6 +125,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kx
 
 ---
 
+### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+---
+
 ### [Cuore, tre valori del sangue insieme affinano la stima del rischio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
 
 2026-10-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
@@ -125,27 +149,19 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ---
 
-### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
-
-2026-10-16 <span class="news-indication-tag">obésité</span>
-
-Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
-
----
-
-### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
----
-
 ### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
+
+---
+
+### [Digitale Patientenveranstaltung über „Adipositas? Wir sprechen darüber!“](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
+
+Source: [LokalKlick.eu](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
 
 ---
 
