@@ -53,11 +53,27 @@ This page combines the AI-predicted indications for Treosulfan with the latest h
 
 ## Related News (12)
 
-### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+### [Netzhautalter per KI: Diabetes-Spur im „retinal age gap“ - it boltwise](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdk5iSVdUQTNCOF9SMmRXMG8ycWp0X1NORm5jYmxlOGtQNm5hSjJiSE91ZWtjMWtlSlQxdy1oM2xWTGhtYXlvUGdBQ1JlbVdqZmxxLUE3TVVmQ1FWN0g5dVFJY05OSlNOZDZwNVl4OGtpNnhjdVNXX244RmJaclBoNUVHbUlaUHhBcHZDZkln?oc=5)
 
-2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-10-19 <span class="news-indication-tag">diabetes</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdk5iSVdUQTNCOF9SMmRXMG8ycWp0X1NORm5jYmxlOGtQNm5hSjJiSE91ZWtjMWtlSlQxdy1oM2xWTGhtYXlvUGdBQ1JlbVdqZmxxLUE3TVVmQ1FWN0g5dVFJY05OSlNOZDZwNVl4OGtpNnhjdVNXX244RmJaclBoNUVHbUlaUHhBcHZDZkln?oc=5)
+
+---
+
+### [Bei einer Blutgruppe ist das Typ-2-Diabetes-Risiko deutlich höher](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZExlQUFEU1g1TkhjeWJETEgtTV80SFFRZDZjQS1VanNRc29waV85TlNBSUgxS3Vva18tcnlnTmt2MDlxQmd6eEN2b05GUi1DNURST1ltSHRtZmJoMWozbWFIQTB0em92NmgyMVdQUHZIS1dXVy0zZUJWTDBjZGZqYTl4NlZEalI1REhyWXltb2c4Mk9RTTltMFdzWERCLURwclNNMUJn?oc=5)
+
+2026-10-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZExlQUFEU1g1TkhjeWJETEgtTV80SFFRZDZjQS1VanNRc29waV85TlNBSUgxS3Vva18tcnlnTmt2MDlxQmd6eEN2b05GUi1DNURST1ltSHRtZmJoMWozbWFIQTB0em92NmgyMVdQUHZIS1dXVy0zZUJWTDBjZGZqYTl4NlZEalI1REhyWXltb2c4Mk9RTTltMFdzWERCLURwclNNMUJn?oc=5)
+
+---
+
+### [Diabete di tipo 2: farmaci vecchi e nuovi, oltre allo stile di vita - Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
 
 ---
 
@@ -69,11 +85,27 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHZvc
 
 ---
 
+### [Scientists link a strange sugar in red meat to a 63% higher diabetes risk - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUFVWcGhlNDB1RWVDRDhsR29hRzU0d3AtMGQ0bWFCbUtxZGVIM2tKWVZrcWRTZkw3QU5fWk5KSEVrRHhVMXBnaXl2TExSN0pFNjRTS1pSbWtYRTJwcXpqdTVKejZXN29Xd2doNFVlVQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUFVWcGhlNDB1RWVDRDhsR29hRzU0d3AtMGQ0bWFCbUtxZGVIM2tKWVZrcWRTZkw3QU5fWk5KSEVrRHhVMXBnaXl2TExSN0pFNjRTS1pSbWtYRTJwcXpqdTVKejZXN29Xd2doNFVlVQ?oc=5)
+
+---
+
 ### [Una nueva unidad didáctica acerca la diabetes a las aulas de Secundaria y Bachillerato - Europa Press](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDlIV09VenhGUThkMG9WQWNNLUVhS2RjckZwajFENldyTDNVWmlWYmlwekdNOXhCc0hMY1pWeW1WNUtaaWd2NzlrMUctaEJXUmVtc1pza2lwVzFXY2VRZFpGQmhJX05wY0hOcEhzN2Z3SkwzNTRKX3A1TlotMHdaZnY0anduMWVZNTNVdi1jRElIbGp2cHhmWW5LZXNubkV3UzZDLXo3MzdCUmxHc1h0bjRyQl83RXBGc0M3dGptVnlhRkZkdEFSV1pubw?oc=5)
 
 2026-10-18 <span class="news-indication-tag">diabetes</span>
 
 Source: [Europa Press](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDlIV09VenhGUThkMG9WQWNNLUVhS2RjckZwajFENldyTDNVWmlWYmlwekdNOXhCc0hMY1pWeW1WNUtaaWd2NzlrMUctaEJXUmVtc1pza2lwVzFXY2VRZFpGQmhJX05wY0hOcEhzN2Z3SkwzNTRKX3A1TlotMHdaZnY0anduMWVZNTNVdi1jRElIbGp2cHhmWW5LZXNubkV3UzZDLXo3MzdCUmxHc1h0bjRyQl83RXBGc0M3dGptVnlhRkZkdEFSV1pubw?oc=5)
+
+---
+
+### [Demenzrisiko: Gesunder Blutdruck, Rauchverzicht und kein Diabetes bringen 12,6 Jahre](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWkp0ZW0xOGhFNFNtX3EwT0YzazAtUFNPX3poTThrR0Nfcl9sRlVETEpIY1JmR0pHSm5UcDctak9yY19OLXNmZW5yeFNWQ3RsbkZlaDJDOFdaWVg4RFpVUGl5a0poZXotRnBCOTFILThDNDhZbXBkT2g1aUtqOVg4bjFBbFpfdFMxbEczZkJHSjB5QUFmRkM3OUtqRkJ3QUZZUkFyTjhodTZzdTdMbkJxV2xBWHVrMGZJbVhwSTcxQjd1a2ZKdHdSSldPSQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiywFBVV95cUxQWkp0ZW0xOGhFNFNtX3EwT0YzazAtUFNPX3poTThrR0Nfcl9sRlVETEpIY1JmR0pHSm5UcDctak9yY19OLXNmZW5yeFNWQ3RsbkZlaDJDOFdaWVg4RFpVUGl5a0poZXotRnBCOTFILThDNDhZbXBkT2g1aUtqOVg4bjFBbFpfdFMxbEczZkJHSjB5QUFmRkM3OUtqRkJ3QUZZUkFyTjhodTZzdTdMbkJxV2xBWHVrMGZJbVhwSTcxQjd1a2ZKdHdSSldPSQ?oc=5)
 
 ---
 
@@ -93,59 +125,27 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 
 ---
 
-### [Diabète : votre voix pourrait révéler la maladie sans que vous le sachiez, grâce à une IA qui l'analyse en 20 secondes - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREZ2Qm5fekJmQVVaTEJ4ZWpGVkZ3dURRMnUxbm1TbHh6NDhCTzBfTWxoN1BVRjJGMktIT05VZnFXUUpQdGRPeURaUmZwVTJRU2VBb2lTTEwyVXVKQXUybEFNNkJNWEtESkdFM0xZc3djZ0NuWldxZTRZM2pFZndSRFk5eVYtNzBybldNRUtwMXZMRUN4SjlKLS1mY3hXUkJMNjJTa2w5X25wVXNLWFpvMWhYZXVEZ3hKWUl5aDZRUUNOeTJvbnZjNFZKZm5zcnBSWk12cW84UTljSWJrMTBfaVZGMTk?oc=5)
-
-2026-10-18 <span class="news-indication-tag">diabète</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPREZ2Qm5fekJmQVVaTEJ4ZWpGVkZ3dURRMnUxbm1TbHh6NDhCTzBfTWxoN1BVRjJGMktIT05VZnFXUUpQdGRPeURaUmZwVTJRU2VBb2lTTEwyVXVKQXUybEFNNkJNWEtESkdFM0xZc3djZ0NuWldxZTRZM2pFZndSRFk5eVYtNzBybldNRUtwMXZMRUN4SjlKLS1mY3hXUkJMNjJTa2w5X25wVXNLWFpvMWhYZXVEZ3hKWUl5aDZRUUNOeTJvbnZjNFZKZm5zcnBSWk12cW84UTljSWJrMTBfaVZGMTk?oc=5)
-
----
-
-### [Ferite che non guariscono nel diabete: un cerotto sperimentale prova a riattivare i vasi sanguigni](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnBkT0dYRHNNck1aX2JGS2MyVXBXaE1sSDdMcW5oSUNySndkTWdIZ1d2dEh3NmtQYlJ3Sm5rcGhiQVduNDZVRkxRMkxLNENtOUowN0F0dGllaXVPZGcyWHdhbjdlbHdidm5IWnBUMTVaQ3JxS0NJZkxQSXhmS0tGc0dHVVNNdWNFYzg5SzJaNkY5QXp0NEg2ZEZSRHF4Ulc5WnktMnFoZnZFLXd5eVF5V3lwT0NodTJmUzZPWThwbEdPTGZ6d29mb0RaajRqeE5EcjAwN0tvMkdoTVZWSXR1c1B4QVU3T0NZTDFuSXRB?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabete</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnBkT0dYRHNNck1aX2JGS2MyVXBXaE1sSDdMcW5oSUNySndkTWdIZ1d2dEh3NmtQYlJ3Sm5rcGhiQVduNDZVRkxRMkxLNENtOUowN0F0dGllaXVPZGcyWHdhbjdlbHdidm5IWnBUMTVaQ3JxS0NJZkxQSXhmS0tGc0dHVVNNdWNFYzg5SzJaNkY5QXp0NEg2ZEZSRHF4Ulc5WnktMnFoZnZFLXd5eVF5V3lwT0NodTJmUzZPWThwbEdPTGZ6d29mb0RaajRqeE5EcjAwN0tvMkdoTVZWSXR1c1B4QVU3T0NZTDFuSXRB?oc=5)
-
----
-
-### [Prädiabetes: Lebensstilprogramm senkte Diabetesfälle in drei Jahren um 58 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
+### [Braunes Fettgewebe: Großstudie findet 58 Prozent geringere Diabetes-Chance](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
 
 2026-10-17 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEJWMGhRTHVMcnZyRVBkcl8ycVF2MkpnUnhMeVFiZ21aeE5pSjJNUGVQNUtDOG1kTUljTVJaLWUzcjU1cnBidWdFX1FkczNGRXBJRVNpdGFzSnVUTVVwM3hkXzlzV21JRTV1dUhLWU1CYTNOU2RoeUlJbzJ3N0FVbW9wNVRQNGxzS0JQRU9sMHF5NFBDNWVjcUtoZ3Jfc2hkSGQyWXV5SEhIVHc?oc=5)
 
 ---
 
-### [This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
+### [Früher Typ-2-Diabetes: Zwei Maßnahmen bessern die Symptome – ohne Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
 
 2026-10-16 <span class="news-indication-tag">diabetes</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
-
----
-
-### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
 
 ---
 
 ### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
-
----
-
-### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">diabetes</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
 
 ---
 

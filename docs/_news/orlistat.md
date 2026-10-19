@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,53 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (12)
 
-### [Chronischer Stress: Beschäftigte mit hoher Belastung erleiden doppelt so oft Herzinfarkte](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+### [Blutdruck senken: 150 Minuten Bewegung pro Woche empfehlen Fachleute](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPazBmcmt5dUpWNmdBZjc4Z2RUb196d2xqZlQ3aHJtYWUySzlueDB3NU9RZDZNV0dMWFpwamhkYXl1cmdnemdrQ2V2WkVUaWtkWkU2MGFTejBzWHdNOUF5a3A4U1V1WGwyenBzZ2h0S19tUUNyTXV1NkZpVVFlS3R5VU53ZkpLNU11d0x2TGVYS09IQU8yd1czV19xM1QzaVFoNm05QTg4NXJjVXBYZnFUY1ktbVo5WUE?oc=5)
+
+---
+
+### [Schlaflosigkeit und Schlaganfall: Ein unterschätztes Warnsignal für die Gesundheit - PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFJsUzNWTi1ab1F1ekV1WmZnOHEzWDJPTENYbVVrT0hKSlBDdUJzYlNTUlFBc0hnc2pYcVAwWERscFRiQ2YtbDAzek52SGlzb2hXZEJWdGlMeWlRRVpZV2lmNUZUVnZnN3FZZGZ4SHNvdVE4VnRnVFBqaGZVd2RNa0NPTjZzdTF2M29yaTU0bGpKYVU?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [PTA IN LOVE](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZFJsUzNWTi1ab1F1ekV1WmZnOHEzWDJPTENYbVVrT0hKSlBDdUJzYlNTUlFBc0hnc2pYcVAwWERscFRiQ2YtbDAzek52SGlzb2hXZEJWdGlMeWlRRVpZV2lmNUZUVnZnN3FZZGZ4SHNvdVE4VnRnVFBqaGZVd2RNa0NPTjZzdTF2M29yaTU0bGpKYVU?oc=5)
+
+---
+
+### [Obesità, oltre 8.000 donne seguite nella vita reale: quanto peso si perde con i nuovi farmaci](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+
+---
+
+### [«Mal di testa frequenti sin da piccola, dopo un ictus durante la gravidanza ho scoperto la malattia neurologica: attenzione ai sintomi» - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+
+---
+
+### [Diabete di tipo 2: farmaci vecchi e nuovi, oltre allo stile di vita - Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
+
+---
+
+### [Rétatrutide : ce traitement qui promet jusqu’à 28 % de perte de poids déjà sur le marché noir avant même sa commercialisation - La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
+
+2026-10-18 <span class="news-indication-tag">obésité</span>
+
+Source: [La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
 
 ---
 
@@ -66,14 +106,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRU
 2026-10-18 <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
-
----
-
-### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">ictus</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
 
 ---
 
@@ -93,22 +125,6 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ---
 
-### [Elle promet des pertes de poids de 30%: cette nouvelle molécule, surnommée le “King Kong” de l'anti-obésité, est déjà revendue en masse sur le marché noir par les influenceurs](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">obésité</span>
-
-Source: [BFM](https://news.google.com/rss/articles/CBMi2AJBVV95cUxNdTh5ZUVSUm5SYld0MjAxeVBESjNfUUNYS0FZTWVlZVpwZFdJUGs3NU5iSFRocEFFQy16ZThQaHlRYkRPMDUyb0RjQkdnamdoWDFDQXFzLVlZSWRYMmJqQlo4TVNqM0paZmVuUWgxSFVPVFgteXpTQUtXcDVLZ1hNZ3prM0t1d3dsSmNITjJfQXNzT25heExyMTdwLV9hZTZJR3ZhUERCMVc0cnN3bm9DMWlYUkJFckdBal9RVEkxeUY2a1lCV3RNY2dyRmNjQXl4QjVyamZCV2VhcjJtd1h1S2JIVUNCNDVnSUJMempNek00WFdNc3VnMU5XenBsWkwzYW1YZW1vZi1xWWJzdmdKZGdSZkFCVnFxVFQyUFdZVHpCeUVubkJmenFmUll3blRDNGdnOHZWeG5CaUpCTzlucGtPeXQtcS1nOVVRTWl0ZnBjeEI5U2QtcQ?oc=5)
-
----
-
-### [Obesità: approvata nuova pastiglia per dimagrire! - The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [The Wom Healthy](https://news.google.com/rss/articles/CBMimgFBVV95cUxOclE4UjFENFZNa2FSYkxYR2FqWXhGZV93WTNKdHRuT202SkJCaS1DLXk5a2NnOEhHelFjYTNxYnd4ZHY2MWtkWGRUbW5oejRiR04tZXY5M0plS2JRYk95YjkyQVJnUVpuWmNkSW1rVGZXMnlUeEFXdGNKWnNuTkxNYjFyVjcwZG5mbkU3LWZBM09xRVo4TTBQbVln?oc=5)
-
----
-
 ### [Médicaments anti-obésité : 13 décès recensés en un an, l'ANSM confirme un rapport bénéfice-risque favorable - Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3JhYi1ZVWhCRjNYSWhNZzlBUlJBd0xhNDFfS000b09RTkRfdzlSdjJ1dF8yRU1id1pvNDNILTlpUTE2a1AySkV2LXE0YUFqZElNdml3MVRqdTh0VUxmSExhUFhlckVSQUQxaUpfTUg2NHY2dFBQR0dqZ0xSYmRYNXphd2wyOXkwZW1Sam1wWVZzUEtiVnlYNkdPbVdiMWxPd3FWZGJDZGlqakJvV1hCV1dXTVFGOEY5c3I0Z3p6SGpyazQ4Wnlob18yc3VUdkpiWTdWd9IB3AFBVV95cUxPX1BRSXBwbzZ3YXFWTDdTSmZOeG1kbVBDSERaYjExQ1Z4Slpqa0ZzVlVMWXNYRzd6djFGdGhCTGZjYUNBRkFVbEswR21wNFhwdDVYUjVkLVY4SDMyaGZBeHdPRjczTTBiNjl5VWJPc0tYby1UdWZBZkdRX1Q0MUhkeDZYd3JIMWk4aVA2TlRhRHAxUkNaczluVkJDZUdfaWpLQUppQUh4SkdkZmhNWnRfaWtXamJaa0NsZFN6bUROc0lnR2F6eEo3MExxQXdBbFpMX0dESzlpSDNCeld6?oc=5)
 
 2026-10-16 <span class="news-indication-tag">obésité</span>
@@ -119,9 +135,17 @@ Source: [Europe 1](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHpvY3Jh
 
 ### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
 
 Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+---
+
+### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
+
+2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 

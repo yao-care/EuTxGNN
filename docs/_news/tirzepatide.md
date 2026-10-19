@@ -53,19 +53,19 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (3)
 
+### [I got pregnant while taking Mounjaro. I’m not alone - The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWThxWFFzaDVRcWdyWWV0RzlpUUlPQ1lld0NjRkQyTUpLRVNxT1NIOHgydHJmQ3NIbHhqYWVaRDBSbVpDR2FTNWg1UFdhYl9ZdjZMOFR4RW9JZ2NyaVFvaEg2MWZzbGIwWHRoekF0cUV2bjdwTW12Rm5oaVpfVkRSbWR3MjRKaGpyX1VvWHo1bWxmbm85dXFrdkM3NVdxazVCcUNoT2RLLVE1dWhWOTBWaHJDQVhrdk1GM0E?oc=5)
+
+2026-10-18 <span class="news-drug-tag">Tirzepatide</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWThxWFFzaDVRcWdyWWV0RzlpUUlPQ1lld0NjRkQyTUpLRVNxT1NIOHgydHJmQ3NIbHhqYWVaRDBSbVpDR2FTNWg1UFdhYl9ZdjZMOFR4RW9JZ2NyaVFvaEg2MWZzbGIwWHRoekF0cUV2bjdwTW12Rm5oaVpfVkRSbWR3MjRKaGpyX1VvWHo1bWxmbm85dXFrdkM3NVdxazVCcUNoT2RLLVE1dWhWOTBWaHJDQVhrdk1GM0E?oc=5)
+
+---
+
 ### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 2026-10-18 <span class="news-indication-tag">artrite</span>
 
 Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
----
-
-### [How psychological stress can trigger arthritis flares via an inflammatory pathway - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
-
-2026-10-16 <span class="news-indication-tag">arthritis</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxOMU5Uc2EzSmQxWGc5R2Y3N1BEcFVMQ25ENkF1Z1FidnJyRm0zX2dFYmdQNERIbmZKdVhOZEJiREVzdVgwZkhkcW1Pa3JUVmRpcTBSemVlbzA2RlBoekRpTDB3Yy05U3ZVcDR0ejZTNjA5WENXakMxZHFWYUM3dVlGWjk1aXQzdVFpbDNxLXFfNFBMZ3M?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 19 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 21 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>19 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>21 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,11 +45,27 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (19)
+## Related News (21)
+
+### [Antibiotika in der Kindheit könnten späteres Reizdarmsyndrom begünstigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY012ajlEZHVMX25oSzhuTjJMUTM3QmFpSkxjSU4tV1VZak85Tkpnbm8xSVkwaFBZcHBGV3c0TEsteFB4SG9CakdoYXI4SFJQQl9yVUJaSlB2N3g4dDVhalcyOUtONGJBY3lRZVBuS2xEVENOOExtVG1wMlM5R20yaXVZU19aYUNsLVF4Ulc3a0RIVm1rXzhvb1hvSzh0TnJEMlJZN3dCRThsd1BYUzVIVGpBcnFFQXpJVDlqZXNGQVZaX2ZwSmxYTHlfdEY1UHFySDJrbzBzQXA?oc=5)
+
+2026-10-19
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY012ajlEZHVMX25oSzhuTjJMUTM3QmFpSkxjSU4tV1VZak85Tkpnbm8xSVkwaFBZcHBGV3c0TEsteFB4SG9CakdoYXI4SFJQQl9yVUJaSlB2N3g4dDVhalcyOUtONGJBY3lRZVBuS2xEVENOOExtVG1wMlM5R20yaXVZU19aYUNsLVF4Ulc3a0RIVm1rXzhvb1hvSzh0TnJEMlJZN3dCRThsd1BYUzVIVGpBcnFFQXpJVDlqZXNGQVZaX2ZwSmxYTHlfdEY1UHFySDJrbzBzQXA?oc=5)
+
+---
+
+### [La OMS incorpora inteligencia artificial para prevenir el cáncer de mama asociado al alcohol - El médico interactivo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVVDdEEwQk1ic0JZb3lXNjJXT1hMMHA1cnRGN3pLdHo0QTU0NHJ2eklpbUFTWnlaeHZsVmZBQkpjMnNUci1RcGJ5Y3ctMHlsQkV4MjJ0c0JuUlhRZmNJYlFVUzNuUFhWaU9zNkVYM0xTTnVJaWJ3TTVwVDRDUDFXRVgyai1WdFRTY2FrQjVkYmgydHlxTEItUXpZVG9LZWNwNEtMdmRLRjBLdmxYa2NCZUVWSEVtQjcwRm5NY2U0N3c3bkk?oc=5)
+
+2026-10-19
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVVDdEEwQk1ic0JZb3lXNjJXT1hMMHA1cnRGN3pLdHo0QTU0NHJ2eklpbUFTWnlaeHZsVmZBQkpjMnNUci1RcGJ5Y3ctMHlsQkV4MjJ0c0JuUlhRZmNJYlFVUzNuUFhWaU9zNkVYM0xTTnVJaWJ3TTVwVDRDUDFXRVgyai1WdFRTY2FrQjVkYmgydHlxTEItUXpZVG9LZWNwNEtMdmRLRjBLdmxYa2NCZUVWSEVtQjcwRm5NY2U0N3c3bkk?oc=5)
+
+---
 
 ### [Fangschreckenkrebse besitzen umschaltbare „Lichtschalter“ in ihren Augen](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbm5tVVdjZTVOelhkN1Mwd2w4cUpDX3VXVjhPUnNSTk82ck5XbS13VE0wdEVGUHNLZm9nZEZ2RURrdThHZVR2QnV2aVRmWEJ0VXpGcGZEX0Rkb3p2NmVpM1Z3Y1N1U24tbXJDVTlzWWlHWGpvcFV4VXRxWHlHNGZ4UUJPWVBLODBmWDJwZTRSaHNjelpLcm9ka0V1UW9FZThZc2VsUFkxQndCWEsxNnc?oc=5)
 
-2026-10-18
+2026-10-19
 
 Source: [Scinexx](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbm5tVVdjZTVOelhkN1Mwd2w4cUpDX3VXVjhPUnNSTk82ck5XbS13VE0wdEVGUHNLZm9nZEZ2RURrdThHZVR2QnV2aVRmWEJ0VXpGcGZEX0Rkb3p2NmVpM1Z3Y1N1U24tbXJDVTlzWWlHWGpvcFV4VXRxWHlHNGZ4UUJPWVBLODBmWDJwZTRSaHNjelpLcm9ka0V1UW9FZThZc2VsUFkxQndCWEsxNnc?oc=5)
 
@@ -103,14 +119,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXV
 
 ---
 
-### [Busting The Myth That Plastics Are Chemically Inert In Water](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFhtMEpQYnd6Y1N5ZnY5amhNcW10TW1CT1o5VHN6cWdEbFBueXpPX1hVaGYtemMzc0FiQTY0YTZ4UTlibklqSXl4OTNNSmU2SDJhSGNLWWU5ckdBS2JEVkxldFhqcFhEeHpVYW5WNlNlUEJKdE02TUpiS25oV0VpaU01WnFic3otQ00ySEZUM3ZHaHJHME1DOQ?oc=5)
-
-2026-10-18
-
-Source: [Hackaday](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFhtMEpQYnd6Y1N5ZnY5amhNcW10TW1CT1o5VHN6cWdEbFBueXpPX1hVaGYtemMzc0FiQTY0YTZ4UTlibklqSXl4OTNNSmU2SDJhSGNLWWU5ckdBS2JEVkxldFhqcFhEeHpVYW5WNlNlUEJKdE02TUpiS25oV0VpaU01WnFic3otQ00ySEZUM3ZHaHJHME1DOQ?oc=5)
-
----
-
 ### [Tim Spector: my five simple recipes to boost your mood - The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc1V2gtdHJQUUdyNEJTeGk1RWh6REMyQkM3WWVxeGJWSk4yZF9LS2JVTDR3dWlNV1ZBMkphRllMTm5ydXlCMHQ3ZExVRHFDM0xWcFVXaU52Wmh0LWttN0NVMEt4Sk8yMkY3N2w0ejJuUzBWYVU2bkI3bE1hTzUwNTRQRGg1OE1GdGhnR2JLVWVMZDZMUE5QY1hwSUhrN3FMTXVGSS1CdjNzcW9jQml5OUcwQV81VDhybg?oc=5)
 
 2026-10-17
@@ -124,14 +132,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc
 2026-10-17
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
-
----
-
-### [Vaccino per papillomavirus e meno rischi in gravidanza - Quotidiano Nazionale](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnBFZ3prMld0ODdid2hqb2U3QVdsRVN2RGVZNDU2SEc0c2NBQmR0NGppNkhQSGlWS1hLNGxiaGlxeXB2LVhTMll1MFpFbk04RTNjMWhvY19iMmpvMjZNQVFWdHJHZ2VBRGI2dnpLcnpWWlR6dmVNOXA1ZXVmYXNQR1JvbGpoS2hGX2dPSUVoODlJaWNm?oc=5)
-
-2026-10-17
-
-Source: [Quotidiano Nazionale](https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnBFZ3prMld0ODdid2hqb2U3QVdsRVN2RGVZNDU2SEc0c2NBQmR0NGppNkhQSGlWS1hLNGxiaGlxeXB2LVhTMll1MFpFbk04RTNjMWhvY19iMmpvMjZNQVFWdHJHZ2VBRGI2dnpLcnpWWlR6dmVNOXA1ZXVmYXNQR1JvbGpoS2hGX2dPSUVoODlJaWNm?oc=5)
 
 ---
 
@@ -151,6 +151,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQ
 
 ---
 
+### [Neue Adipositas- und Diabetestherapien in der Pipeline](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+2026-10-15
+
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM1d0h0SG0tWk9FYjFwUG4zSGFGT05fcTU0Y3NyNW9ya0VmOE9zSUE3d05IR1NxYWJtTTFHZ3hOV2xWa1FKR01vQTlCR0lRYS1RV25oUmRSYjJ1eXF5UTgtakJLZ1NGM1pRdXJuM0xHWFM2YmcyaDdhZFhURlZPVjFHeER1Y21NYU5RZTN5SGdRb04wTmd4bGNueERGLXpiaVRfN0pHOTRmTUU?oc=5)
+
+---
+
 ### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
 
 2026-10-15
@@ -159,11 +167,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhq
 
 ---
 
-### [Auch Probleme mit den Haaren: Häufig ablösende Nägel bei Abnehmspritze beobachtet](https://news.google.com/rss/articles/CBMingFBVV95cUxOM0w2Y0hMTVRWaUF2LUVtU3VqY2lMS3lPb0tXamFSX2p5UGxiU3VKM3R3aDhwV0ExWjN3NEJCWlpwRUhDTHFybTMxNXdENndyR1hSSmlxRFpqTzBIZ0w3Nmptdy1zcGdEY1pBcU5qVXloNUwxQ0JPREpQbDFnOXh5TU5JUWNUc0gzdHZuOWxJeEdzYlNpcUdrbHg0T0RlQQ?oc=5)
+### [Krebs: Ionenstrahltherapie soll Tumoren noch präziser bestrahlen](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUlnTmhjZGotQnlnYjlsZ1dSd1UxX1F0OGR6aXJ6eEFtVHdnVHdrVTRzZ1hqSXRLWncwLXAzV2l1QjdsbW9jMUdRNmh2dVNucXRBSWxvMTMxNnVjVm82WlhyMlBxaUYwM29Tal9hbjdwSTdrR3YzXzIxVjNMSjAwQThMRWFURHZadTVCb1U5RGdmdw?oc=5)
 
-2026-10-14
+2026-10-15
 
-Source: [n-tv.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOM0w2Y0hMTVRWaUF2LUVtU3VqY2lMS3lPb0tXamFSX2p5UGxiU3VKM3R3aDhwV0ExWjN3NEJCWlpwRUhDTHFybTMxNXdENndyR1hSSmlxRFpqTzBIZ0w3Nmptdy1zcGdEY1pBcU5qVXloNUwxQ0JPREpQbDFnOXh5TU5JUWNUc0gzdHZuOWxJeEdzYlNpcUdrbHg0T0RlQQ?oc=5)
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUlnTmhjZGotQnlnYjlsZ1dSd1UxX1F0OGR6aXJ6eEFtVHdnVHdrVTRzZ1hqSXRLWncwLXAzV2l1QjdsbW9jMUdRNmh2dVNucXRBSWxvMTMxNnVjVm82WlhyMlBxaUYwM29Tal9hbjdwSTdrR3YzXzIxVjNMSjAwQThMRWFURHZadTVCb1U5RGdmdw?oc=5)
 
 ---
 
@@ -180,6 +188,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVNwWVduVkNDU
 2026-10-14
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkY4WExIbWloendaM2lmMVI2enJHY29pWmpiSTJGTW13c3pjVDFOaGFyUnZ5V3hSVDdzdWxMRWpqeVRmNzBqdnN4WlRyU0s0QktTU1hPNDhJc1E2RTIzc1ZEVzFod21NanNQcHg3Uy1vb2JYcWR1RnFMbEZFUVBXeVJTRThMOFBjNFo2S29zaHlJVFk2b2x0M3kzM1duUzQ?oc=5)
+
+---
+
+### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
+
+2026-10-13
+
+Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 

@@ -55,7 +55,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 
 ### [Alzheimer’s patients ‘betrayed’ by NHS drug ban, charity warns - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
 
-2026-10-18 <span class="news-indication-tag">dementia</span>
+2026-10-18 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
 

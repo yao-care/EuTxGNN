@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 3 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

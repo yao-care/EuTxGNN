@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,37 +51,29 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+### [Las vías que regulan el estrés celular se encuentran alteradas en personas con depresión y esquizofrenia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
 
-2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span>
+2026-10-19 <span class="news-indication-tag">depresión</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+Source: [Sinc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
 
 ---
 
-### [Les bactéries présentes dans votre bouche seraient liées à la vitesse à laquelle votre cerveau réfléchit](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWJycnRabTVjSWd6WTBMSGhnM2VSa1d2d3QwTl9iaThFUzM0cFJmRk9XVTZRR1ViNW94NXpyaGJXX1JvaXhnT3FtdEZ2WXhHMG9tc3dfZ2RsYjJveDdxMFUyNHNHdkhfUHlKeFVpUGpidVI5VmlrVUx0TnlLQzFBOEVBckV5d01XdDJBUEN0cmpwRUhKWWpiYm1WeDhaeWc?oc=5)
+### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+
+2026-10-19 <span class="news-indication-tag">depression</span>
+
+Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+
+---
+
+### [Alzheimer, Parkinson, dépression: et si l’origine de certaines maladies du cerveau se trouvait dans notre microbiote? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
 
 2026-10-17 <span class="news-indication-tag">dépression</span>
 
-Source: [Presse-citron](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWJycnRabTVjSWd6WTBMSGhnM2VSa1d2d3QwTl9iaThFUzM0cFJmRk9XVTZRR1ViNW94NXpyaGJXX1JvaXhnT3FtdEZ2WXhHMG9tc3dfZ2RsYjJveDdxMFUyNHNHdkhfUHlKeFVpUGpidVI5VmlrVUx0TnlLQzFBOEVBckV5d01XdDJBUEN0cmpwRUhKWWpiYm1WeDhaeWc?oc=5)
-
----
-
-### [Milano, 1 madre su 6 con segnali di disagio psicologico in gravidanza o post parto: lo studio Ats su 164 mila donne - Corriere Milano](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ1d2QkxWVkRQRGUwZXVrWmVGclUteHgtWUZpbDNPdWlRX2FPUlhfM3JVVUk2SGxDWWZZaEtqMEpvWDlnUEZzR2ZvMVF5YmRiV1BBbjF2ZFRoaFNMRExLSk9rX0Ixdm5NSVl5NmIzbUhHNjZOYmdhQzZzbFFsYTNSRUd1MjdXckRlZDlmOTdMX1R5X2xCYkdzSGlOZ0R5TVMtdl9DLVpZUjZuY3l0akRHc2hPTVFTYTE2Tkh1ajI4QkVZVy1xa1djcUNLdjcyOG5uTlBscnhRaTllWU1OMFFjeTBEbzBpQ3gwa21aSWt4TWg3NzluZ19JdU9JWFdRczdGeFdxN09wWlpZc2tSbUYtMzZCZTg5YkgtVlZRMjA1UExXT1c0MkxiYmxEcEpCV01DVExxdS130gG7AkFVX3lxTE9xVjJKV21MbnVNZWUzMl83V3VkLXRyWlB4Wl9CbXRSVlhHSC1WdGRTQ0VjWUFIWlBiMUlRSXRzVDNNUFVZNi15bzdScTN6dVhpbXRHNGVMdEl3ak0wQWlxZGRRa3RVNjdyWk9qWlk1ZUh2eGJ0TjZOWHlaaUdnanBLZ2FUZktMSmo2RW9EQ1NPRTVOeVc1Tm5vc2hEbWdoTUJHSGxiYTVRTGRkWDI2NjhvZDBpUWcwTnZ6VTRFZFljYU5RdVl1YmtJc044djV6Y19lelFUU3VSXzlHVjk3N1dMbnEwbVRWTWpad05EQUQwME1sVllrLTFiQ1dmcTVMTHEyZm5FOFFDWDhaVWdldHUtelAyZEFHLU1zampnREk3UjRMb2xCQ1BoWFdsV0pDdlJmdzh5aTRFZHQwMA?oc=5)
-
-2026-10-17 <span class="news-indication-tag">depression</span>
-
-Source: [Corriere Milano](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ1d2QkxWVkRQRGUwZXVrWmVGclUteHgtWUZpbDNPdWlRX2FPUlhfM3JVVUk2SGxDWWZZaEtqMEpvWDlnUEZzR2ZvMVF5YmRiV1BBbjF2ZFRoaFNMRExLSk9rX0Ixdm5NSVl5NmIzbUhHNjZOYmdhQzZzbFFsYTNSRUd1MjdXckRlZDlmOTdMX1R5X2xCYkdzSGlOZ0R5TVMtdl9DLVpZUjZuY3l0akRHc2hPTVFTYTE2Tkh1ajI4QkVZVy1xa1djcUNLdjcyOG5uTlBscnhRaTllWU1OMFFjeTBEbzBpQ3gwa21aSWt4TWg3NzluZ19JdU9JWFdRczdGeFdxN09wWlpZc2tSbUYtMzZCZTg5YkgtVlZRMjA1UExXT1c0MkxiYmxEcEpCV01DVExxdS130gG7AkFVX3lxTE9xVjJKV21MbnVNZWUzMl83V3VkLXRyWlB4Wl9CbXRSVlhHSC1WdGRTQ0VjWUFIWlBiMUlRSXRzVDNNUFVZNi15bzdScTN6dVhpbXRHNGVMdEl3ak0wQWlxZGRRa3RVNjdyWk9qWlk1ZUh2eGJ0TjZOWHlaaUdnanBLZ2FUZktMSmo2RW9EQ1NPRTVOeVc1Tm5vc2hEbWdoTUJHSGxiYTVRTGRkWDI2NjhvZDBpUWcwTnZ6VTRFZFljYU5RdVl1YmtJc044djV6Y19lelFUU3VSXzlHVjk3N1dMbnEwbVRWTWpad05EQUQwME1sVllrLTFiQ1dmcTVMTHEyZm5FOFFDWDhaVWdldHUtelAyZEFHLU1zampnREk3UjRMb2xCQ1BoWFdsV0pDdlJmdzh5aTRFZHQwMA?oc=5)
-
----
-
-### [Perinatale Depression mit erhöhter Säuglingssterblichkeit assoziiert - Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
-
-2026-10-12 <span class="news-indication-tag">depression</span>
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYW1fR1pjYXNKdlpBZ21sbmJORmhwTEpqdFZYaURVUGVMM2J3NEJycDZuZ1V5T0hWQWhEQ2tXVl9fN2ZydzgzR1R3eFBRbTEwY0E3QkxhekpDQ3MxSHpGaDc2ZkpaQUF2UG1FWGlrYkRHTHdBTDl5dEx1OHlFUFJ4cFBqTU1EVjBBOEdiSnlNWjlTSTFoR2tjZ01RYVFjSUFwTlI3VUU5WWhKUQ?oc=5)
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
 
 ---
 
