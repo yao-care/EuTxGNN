@@ -53,19 +53,19 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 
 ## Related News (4)
 
+### [Bluthochdruck: Vier Millionen Betroffene in Deutschland ahnen nichts](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
+
+---
+
 ### [‘Horror symptom' millions ignore at night could lead to heart failure](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">heart failure</span>
 
 Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
-
----
-
-### [Maskierter Bluthochdruck: Studie zeigt 70 Prozent mehr Stürze ab 78](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
 
 ---
 

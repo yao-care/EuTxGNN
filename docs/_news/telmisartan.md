@@ -42,6 +42,22 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (7)
 
+### [Bluthochdruck: Vier Millionen Betroffene in Deutschland ahnen nichts](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
+
+---
+
+### [Chronischer Stress: Beschäftigte mit hoher Belastung erleiden doppelt so oft Herzinfarkte](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+
+---
+
 ### [‘Horror symptom' millions ignore at night could lead to heart failure](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">heart failure</span>
@@ -58,27 +74,11 @@ Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUx
 
 ---
 
-### [Arbeitszeiten ab 55 Stunden: 35 Prozent höheres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
-
----
-
 ### [Cuore, tre valori del sangue insieme affinano la stima del rischio](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
 
 2026-10-17 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNTWlFsaEVXVmw1anRTcnhNc1YtWHlUeXE3UGcySDJiYk9wRTNrRmJOaHZJRVVNdkZGaVo4b3A0aW5KZHlhTUR5bEZrcFkwZGNzUkY0ZXUycDZuYllia1RLWFU4TUE1OW1QTlRfM1pVNXd3cG1XUzIweHg3bFhQMUNzeS1HWWhKZEJhZWJNV1NvVTY4aU51UHZTTUFWX0JRRC0tc2NfN1E0c3hUZGxPb3piakplRjVUejhjOUZnanpvMkk?oc=5)
-
----
-
-### [Maskierter Bluthochdruck: Studie zeigt 70 Prozent mehr Stürze ab 78](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
 
 ---
 

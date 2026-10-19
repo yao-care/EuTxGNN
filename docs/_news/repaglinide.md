@@ -14,7 +14,7 @@ permalink: /news/repaglinide/
 ---
 
 <p class="key-answer" data-question="What news is there about Repaglinide?">
-<strong>Repaglinide</strong> currently has <strong>15 news articles</strong>, with 20 predicted indications.
+<strong>Repaglinide</strong> currently has <strong>12 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,15 +51,7 @@ This page combines the AI-predicted indications for Repaglinide with the latest 
 <p><a href="{{ '/drugs/repaglinide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
-
-### [Demenzrisiko: 50 Prozent des kognitiven Abbaus gelten als vermeidbar](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHhwSHNrRW5QMFJUdFExQXVyZS1GX2x6eUwxUmU1cnVGcnV0cHpOclQ1aTNPb1pmNnBCdl9zUzRITXA2X3pzaWFaZVZ1ZzFKODRnRFBSb0VBMndQSzBONVFWSmI5UktVMHloS0dKTmdFTGFSYUVoT01WX01FNExuQkd2LTVSdmpLVHMxdGRHVExvNy16aHU1XzNNYzFIeWVpZFUtM0NkOXpWdFd1UmU3ZlNqaDFvLWM?oc=5)
-
-2026-10-18 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHhwSHNrRW5QMFJUdFExQXVyZS1GX2x6eUwxUmU1cnVGcnV0cHpOclQ1aTNPb1pmNnBCdl9zUzRITXA2X3pzaWFaZVZ1ZzFKODRnRFBSb0VBMndQSzBONVFWSmI5UktVMHloS0dKTmdFTGFSYUVoT01WX01FNExuQkd2LTVSdmpLVHMxdGRHVExvNy16aHU1XzNNYzFIeWVpZFUtM0NkOXpWdFd1UmU3ZlNqaDFvLWM?oc=5)
-
----
+## Related News (12)
 
 ### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
 
@@ -117,14 +109,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVnBk
 
 ---
 
-### [Glicemia alta e rischio demenza: perché l'Alzheimer viene spesso studiato come "diabete di tipo 3"](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcE1PNnZVMXpqMmdZVXhiZ1dmTmg4a0xoMDhQeXpYMklUMzZiOHVOaVJNYndUVF9GMlRKc25ONVNBdmxzV2gyLUwxbFFkLXVyMnExUEM3aWNSelVIaTlhV2NSZUtQR1VhY3ZXM1pZNzJKQzR2Z0ZiblVlQUREdzVST2xHMjhDdDNhcm01RG5oWUVQem5aNjl5SE1tbDdnMVdrWVJ6Rk5JSXVFaW5ZU0Q0SHNqY2FKbjhaM0F3?oc=5)
-
-2026-10-17 <span class="news-indication-tag">diabete</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcE1PNnZVMXpqMmdZVXhiZ1dmTmg4a0xoMDhQeXpYMklUMzZiOHVOaVJNYndUVF9GMlRKc25ONVNBdmxzV2gyLUwxbFFkLXVyMnExUEM3aWNSelVIaTlhV2NSZUtQR1VhY3ZXM1pZNzJKQzR2Z0ZiblVlQUREdzVST2xHMjhDdDNhcm01RG5oWUVQem5aNjl5SE1tbDdnMVdrWVJ6Rk5JSXVFaW5ZU0Q0SHNqY2FKbjhaM0F3?oc=5)
-
----
-
 ### [Prädiabetes: Lebensstilprogramm senkte Diabetesfälle in drei Jahren um 58 Prozent](https://news.google.com/rss/articles/CBMivAFBVV95cUxQclo3SFV5TDZIaHZZOW0zWjRWR3Zrd0tSc1cyQXBaQ182MDZhWFp5M1VFekMxbWZQaVEyRk9DNEFEX3FOLXVoV3k5enFDYUVxTXUyajhwbnJTY2J6SXJZN25ZM0c0R0R1TGU5OUhiajhFcVdfcndPbEprNXMzS0ZYQTNzUzBZbG5IV1VIbWl1eG5zc294R3B2VEpHbzh4WWRMQVBzWWlWU1ZGSERoak9RNFFtbk1GTHRXVUR3UQ?oc=5)
 
 2026-10-17 <span class="news-indication-tag">diabetes</span>
@@ -138,14 +122,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxQcl
 2026-10-16 <span class="news-indication-tag">diabetes</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
-
----
-
-### [Gripe, COVID-19 y neumococo centran las recomendaciones de vacunación para personas con diabetes - Somos Pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGVqa1lveTIzaHZfbkpXNHRCMTlMWDRMQS01dUhOQ0wwMEJrOXdqaWlLMDkxYjh1OTA2eGhZZnBvUVNJYTRmYXJ3OVp4dTZqWHpMLThFNW0zOVNObnVIdzJHaWFYSTRXdzVIT3dMdC1XS0JCdFg0RFlUVVV2WmJIOFM0MHRWLWVqTmdlYzAtSTNvMTZSRzZEZGJLTE8yQWtVZDB6M2QzSTRud3l6OEEwRHFuQ3lBVEk4QVdsOVBMbmZHS3o5b2xSb1VwYjhsWDl3WWhRN1NCSU1Gc1VkYXl1NjNhcmZyZV94QzJucg?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span>
-
-Source: [Somos Pacientes](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOGVqa1lveTIzaHZfbkpXNHRCMTlMWDRMQS01dUhOQ0wwMEJrOXdqaWlLMDkxYjh1OTA2eGhZZnBvUVNJYTRmYXJ3OVp4dTZqWHpMLThFNW0zOVNObnVIdzJHaWFYSTRXdzVIT3dMdC1XS0JCdFg0RFlUVVV2WmJIOFM0MHRWLWVqTmdlYzAtSTNvMTZSRzZEZGJLTE8yQWtVZDB6M2QzSTRud3l6OEEwRHFuQ3lBVEk4QVdsOVBMbmZHS3o5b2xSb1VwYjhsWDl3WWhRN1NCSU1Gc1VkYXl1NjNhcmZyZV94QzJucg?oc=5)
 
 ---
 
@@ -165,11 +141,11 @@ Source: [Journalmed.de](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUM
 
 ---
 
-### [Bräunliche Flecken am Schienbein: Wann Diabetes dahinterstecken kann](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+### [Erfolge mit GLP-1-RA bei Kindern und Jugendlichen mit Typ-2-Diabetes auch in der klinischen Praxis - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">diabetes</span>
+2026-10-13 <span class="news-indication-tag">diabetes</span>
 
-Source: [aponet.de](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdU9ZeGwxN1dXLVZnd09KN0U4ek9DQkFld2xRUlhfa1J1SlFFejBNbTZ6SXJHMzVEZHlKcDBnMDI4N05BLWlsWU1OVUQ0Rk1TY044ZEs5WkxZQ3NmNnpRdDlkZ0RrRF9XVVFFLTh3R0RwdDJvazlBMFF3N3RCbHhLTEhnQzBiSy1nLW9GVGQ1b25sX3B4UzR3YjdXc3ZMbU81dWZNWUVTMA?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMlNWbHNFOVpSYVBPRFlFSHRVYnkwcThCWVd2NlQ1M29zb183bmt1cVVkMlpJMXpidWxuU2JpQUFBRHN0ZUxCZWFHYmdlb2NrTVF4bC1VQnJqdEc3X215S1ZaZnQ1RTYwcUZ4SmFhellXMmYyTlhhZE5hUGN6WWQ0Z011czlxN1ZoWXZHRjdNelpZRVl6RXNrd2xORW9QMFZER0ttREEzY0JoeGpzNE1qT1llakdzM21NZXF4Q1RxRlU5c0x5WkJzcEVFTVV6a3duU3NudGVQVmp5T0VYdFhzSXYwQ21mQ1N3WjJBUzZPQ3RNdTZnNXFlQ1lFSQ?oc=5)
 
 ---
 

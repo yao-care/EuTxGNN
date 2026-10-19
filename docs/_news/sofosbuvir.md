@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 
 ## Related News (20)
 
+### [Fangschreckenkrebse besitzen umschaltbare „Lichtschalter“ in ihren Augen](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbm5tVVdjZTVOelhkN1Mwd2w4cUpDX3VXVjhPUnNSTk82ck5XbS13VE0wdEVGUHNLZm9nZEZ2RURrdThHZVR2QnV2aVRmWEJ0VXpGcGZEX0Rkb3p2NmVpM1Z3Y1N1U24tbXJDVTlzWWlHWGpvcFV4VXRxWHlHNGZ4UUJPWVBLODBmWDJwZTRSaHNjelpLcm9ka0V1UW9FZThZc2VsUFkxQndCWEsxNnc?oc=5)
+
+2026-10-18 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbm5tVVdjZTVOelhkN1Mwd2w4cUpDX3VXVjhPUnNSTk82ck5XbS13VE0wdEVGUHNLZm9nZEZ2RURrdThHZVR2QnV2aVRmWEJ0VXpGcGZEX0Rkb3p2NmVpM1Z3Y1N1U24tbXJDVTlzWWlHWGpvcFV4VXRxWHlHNGZ4UUJPWVBLODBmWDJwZTRSaHNjelpLcm9ka0V1UW9FZThZc2VsUFkxQndCWEsxNnc?oc=5)
+
+---
+
 ### [Tragedy as local teen dies after 10lbs tumour mistaken for hormone problems - Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0ZNYmtrSnhEb3l5MndIS0dQamh2cnJhRFpwc003ZHEwdzAxdDR0OTJDWGwtOGs3UE1zRE1QM1dmUk8xSFJDZHIxYTc3ZWsxMkZpbWt0cTcySzVVOUtOV0JBOUFST0ZubTM4dzRMWnIzWndBalg3U3Y0TnhDUkhqWklZNXB4UUMxZzhGYVBlOHB0UQ?oc=5)
 
 2026-10-18 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -63,7 +71,7 @@ Source: [Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cU
 
 ### [Congo confirms Ebola outbreak has spread to eighth province](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5)
 
-2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-18 <span class="news-indication-tag">MS</span>
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5)
 
@@ -106,14 +114,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXV
 2026-10-18 <span class="news-indication-tag">MS</span>
 
 Source: [Hackaday](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFhtMEpQYnd6Y1N5ZnY5amhNcW10TW1CT1o5VHN6cWdEbFBueXpPX1hVaGYtemMzc0FiQTY0YTZ4UTlibklqSXl4OTNNSmU2SDJhSGNLWWU5ckdBS2JEVkxldFhqcFhEeHpVYW5WNlNlUEJKdE02TUpiS25oV0VpaU01WnFic3otQ00ySEZUM3ZHaHJHME1DOQ?oc=5)
-
----
-
-### [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
-
-2026-10-17 <span class="news-indication-tag">MS</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
 
 ---
 
@@ -165,6 +165,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhq
 
 ---
 
+### [Auch Probleme mit den Haaren: Häufig ablösende Nägel bei Abnehmspritze beobachtet](https://news.google.com/rss/articles/CBMingFBVV95cUxOM0w2Y0hMTVRWaUF2LUVtU3VqY2lMS3lPb0tXamFSX2p5UGxiU3VKM3R3aDhwV0ExWjN3NEJCWlpwRUhDTHFybTMxNXdENndyR1hSSmlxRFpqTzBIZ0w3Nmptdy1zcGdEY1pBcU5qVXloNUwxQ0JPREpQbDFnOXh5TU5JUWNUc0gzdHZuOWxJeEdzYlNpcUdrbHg0T0RlQQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">MS</span>
+
+Source: [n-tv.de](https://news.google.com/rss/articles/CBMingFBVV95cUxOM0w2Y0hMTVRWaUF2LUVtU3VqY2lMS3lPb0tXamFSX2p5UGxiU3VKM3R3aDhwV0ExWjN3NEJCWlpwRUhDTHFybTMxNXdENndyR1hSSmlxRFpqTzBIZ0w3Nmptdy1zcGdEY1pBcU5qVXloNUwxQ0JPREpQbDFnOXh5TU5JUWNUc0gzdHZuOWxJeEdzYlNpcUdrbHg0T0RlQQ?oc=5)
+
+---
+
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 2026-10-14 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
@@ -202,14 +210,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS
 2026-10-13 <span class="news-indication-tag">MS</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
-
----
-
-### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdVdRVU52WkFKX3hESzZrLVgtaE9NdXpHNzJ1SEgzeExLQTNlWk1nV2NDcmVOcFBBQmJDSl9JclR3eW5tMEZOc1pVdC1BcU10Nk1EOFhnaVJMa2EtU3c?oc=5)
 
 ---
 

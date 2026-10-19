@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>4 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
 
@@ -61,11 +61,11 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSV
 
 ---
 
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+### [Les bactéries présentes dans votre bouche seraient liées à la vitesse à laquelle votre cerveau réfléchit](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWJycnRabTVjSWd6WTBMSGhnM2VSa1d2d3QwTl9iaThFUzM0cFJmRk9XVTZRR1ViNW94NXpyaGJXX1JvaXhnT3FtdEZ2WXhHMG9tc3dfZ2RsYjJveDdxMFUyNHNHdkhfUHlKeFVpUGpidVI5VmlrVUx0TnlLQzFBOEVBckV5d01XdDJBUEN0cmpwRUhKWWpiYm1WeDhaeWc?oc=5)
 
-2026-10-18 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-10-17 <span class="news-indication-tag">dépression</span>
 
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+Source: [Presse-citron](https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWJycnRabTVjSWd6WTBMSGhnM2VSa1d2d3QwTl9iaThFUzM0cFJmRk9XVTZRR1ViNW94NXpyaGJXX1JvaXhnT3FtdEZ2WXhHMG9tc3dfZ2RsYjJveDdxMFUyNHNHdkhfUHlKeFVpUGpidVI5VmlrVUx0TnlLQzFBOEVBckV5d01XdDJBUEN0cmpwRUhKWWpiYm1WeDhaeWc?oc=5)
 
 ---
 
@@ -74,14 +74,6 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcw
 2026-10-17 <span class="news-indication-tag">depression</span>
 
 Source: [Corriere Milano](https://news.google.com/rss/articles/CBMitgJBVV95cUxNQ1d2QkxWVkRQRGUwZXVrWmVGclUteHgtWUZpbDNPdWlRX2FPUlhfM3JVVUk2SGxDWWZZaEtqMEpvWDlnUEZzR2ZvMVF5YmRiV1BBbjF2ZFRoaFNMRExLSk9rX0Ixdm5NSVl5NmIzbUhHNjZOYmdhQzZzbFFsYTNSRUd1MjdXckRlZDlmOTdMX1R5X2xCYkdzSGlOZ0R5TVMtdl9DLVpZUjZuY3l0akRHc2hPTVFTYTE2Tkh1ajI4QkVZVy1xa1djcUNLdjcyOG5uTlBscnhRaTllWU1OMFFjeTBEbzBpQ3gwa21aSWt4TWg3NzluZ19JdU9JWFdRczdGeFdxN09wWlpZc2tSbUYtMzZCZTg5YkgtVlZRMjA1UExXT1c0MkxiYmxEcEpCV01DVExxdS130gG7AkFVX3lxTE9xVjJKV21MbnVNZWUzMl83V3VkLXRyWlB4Wl9CbXRSVlhHSC1WdGRTQ0VjWUFIWlBiMUlRSXRzVDNNUFVZNi15bzdScTN6dVhpbXRHNGVMdEl3ak0wQWlxZGRRa3RVNjdyWk9qWlk1ZUh2eGJ0TjZOWHlaaUdnanBLZ2FUZktMSmo2RW9EQ1NPRTVOeVc1Tm5vc2hEbWdoTUJHSGxiYTVRTGRkWDI2NjhvZDBpUWcwTnZ6VTRFZFljYU5RdVl1YmtJc044djV6Y19lelFUU3VSXzlHVjk3N1dMbnEwbVRWTWpad05EQUQwME1sVllrLTFiQ1dmcTVMTHEyZm5FOFFDWDhaVWdldHUtelAyZEFHLU1zampnREk3UjRMb2xCQ1BoWFdsV0pDdlJmdzh5aTRFZHQwMA?oc=5)
-
----
-
-### [Alzheimer, Parkinson, dépression: et si l’origine de certaines maladies du cerveau se trouvait dans notre microbiote? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
-
-2026-10-17 <span class="news-indication-tag">dépression</span>
-
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
 
 ---
 

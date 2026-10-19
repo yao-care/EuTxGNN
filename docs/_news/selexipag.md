@@ -53,11 +53,11 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 
 ## Related News (2)
 
-### [Maskierter Bluthochdruck: Studie zeigt 70 Prozent mehr Stürze ab 78](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
+### [Bluthochdruck: Vier Millionen Betroffene in Deutschland ahnen nichts](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
 
-2026-10-17 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3BtQlFiYWsxWS1MejdYX3NIVWVUcThLNHQ3Skwwd1FHa3prVGNpcURwSzFNdHJmTlBXa3Q4aWtBVUhaTmJjeWRMblY0b0I2MmF5MEF0MmUtTnZZQko2UjNNNVhXMzdhWm40ZlBrMFhmUTNuVHdhYmhsOEFyZnBjc2NEQkEyMldtOWZ6enRyYkxKdHd5ZUpwSWpVTkJ0T05zZm41aEVZQ3ZuOUhQNVY0UG03UTFBTWc?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWxJUEUtcFM4cTl2MzBpb1NpSHZva0FWaTFSeXJKY2cyQ1pZZUFvcjVPX0lTZDQ3UnVqcjhyNXpISWhxSHhRWDBrUXAtekt0T005aktXeDJoN2hDNC0zM3RyRFdyaFg5aU9oT016cXFldzVxR2EtanR5RVhEYms5QXFLTC1xbHROSFVsbUpueU9GN3FNS2JPdW9TME01bm5TaktOTzhNNF9wLWRwdUJPYThQSVlZckk?oc=5)
 
 ---
 

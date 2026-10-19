@@ -53,19 +53,19 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (3)
 
+### [Chronischer Stress: Beschäftigte mit hoher Belastung erleiden doppelt so oft Herzinfarkte](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivgFBVV95cUxNRUJHZUNTakZHV05oeURFazBCZEs3VDlEeGtQRHVlV2pjWWJqdTdOMnJ1d2FXSmJVWTRpeTJlT1BmR2pLaVcxMnBacld1WGlDcTl0NWNjYVZLbWdiSkQxTUt2dzJGdU1jd3BHUnJadWF1cjlWb3E1LVpwTGxWSk5acW96Rm14d1ZvTkp6VUE4OVZiNV9aRWJqMXIxMXowSEc3cVhicUpsZU5wMk53amVpV1ZqRW9YcU5VSGMySWlB?oc=5)
+
+---
+
 ### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
 
 2026-10-18 <span class="news-indication-tag">ictus</span>
 
 Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
-
----
-
-### [Arbeitszeiten ab 55 Stunden: 35 Prozent höheres Schlaganfallrisiko](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbGl3REttQ3FDX2FISldIWi12V2pxejFuMzRyejRQMTZCU1pKSmE5MlQzWkxCc3poQXdsZkEzeW85aTdxN3JkOFlqdVN2U21rX1lHLWdmNFVXbFpnb1hvZjJ1S2RuZTU5VXc5NEdMeGpiQmxaeXJacWxfMFJZQUZOcnhSWGx3V3lmanFjb2I5NFUxTFFMdUhzd09jbUdzNUh2dkNxalFSZmN0MkV2Y1hUeU9XQQ?oc=5)
 
 ---
 
