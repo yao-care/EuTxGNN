@@ -61,6 +61,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVm
 
 ---
 
+### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+
+2026-10-19 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+
+---
+
 ### [Bluthochdruck: Kardiologen raten von zehn Lebensmitteln ausdrücklich ab](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
@@ -106,14 +114,6 @@ Source: [Leggo.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJtcXhE
 2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlFdXZLU2xDeHF0Q2dUQUZpUW1JdS1QamZQX2ZrTUJnVkp3MjJpWS0yX0Yzb1JNcXlPOFU4TXlUM2JkVDE0azdobEhKdzdna0hrenhOUlRubUNoWGc4ZnFlNkxIWnMzaDB3aGszWXI1bDVzZHlmUzBNUVB6YUtsQ0htTUItWERGa3dSR3BGUDdnaVlXbFdwVDFZLWxDREFqckpwWFBVUVl3eHZ0SFgwNnpvNTItZTJINUlDeGdOQk9iQWtqaWZSTWtBeUhLcDBjSk0xeA?oc=5)
-
----
-
-### [Rétatrutide : ce traitement qui promet jusqu’à 28 % de perte de poids déjà sur le marché noir avant même sa commercialisation - La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
-
-2026-10-18 <span class="news-indication-tag">obésité</span>
-
-Source: [La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
 
 ---
 

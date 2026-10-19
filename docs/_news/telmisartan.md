@@ -50,6 +50,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVm
 
 ---
 
+### [Nüsse gegen Bluthochdruck: 30 Gramm täglich senken das Risiko um 26 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+
+---
+
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
@@ -71,14 +79,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUm
 2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
-
----
-
-### [Vollkorn bei Hypertonie: 60 bis 100 Gramm täglich bringen den größten Nutzen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1sTjhPNUcwQXE3T09SdndXMjY1bVNzVkRiMFFvbkZYNk5yZXdUdWlQdU52dHRzeDBiU0Z6T2hXX1lHbTNWQ1RMREZwWjBXc2hDb2hJV1dzTk11OTZJX3lDTUpKWnhMdlV5VzRhQV91VE9HTnNERmRBS0F1VFVYRmVHSmhteVpWc0JlQW9KYlZCUFNrVDhQVGRTYlhTZ1dyTWVQVkZtNTVGSDNqUGJaNkNtM09rMGhRT1BLbw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1sTjhPNUcwQXE3T09SdndXMjY1bVNzVkRiMFFvbkZYNk5yZXdUdWlQdU52dHRzeDBiU0Z6T2hXX1lHbTNWQ1RMREZwWjBXc2hDb2hJV1dzTk11OTZJX3lDTUpKWnhMdlV5VzRhQV91VE9HTnNERmRBS0F1VFVYRmVHSmhteVpWc0JlQW9KYlZCUFNrVDhQVGRTYlhTZ1dyTWVQVkZtNTVGSDNqUGJaNkNtM09rMGhRT1BLbw?oc=5)
 
 ---
 

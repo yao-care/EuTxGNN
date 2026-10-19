@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,29 +51,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
-2026-10-18 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
----
-
-### [Malattia di Crohn, le conseguenze oltre alla salute fisica - Corriere della Sera](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjJMNkZkWkZUSUFlcWppQk9BbkFQazVxVElHbzJxOEE4M3ZkX3hOSm9NU1pkQ2FfbG9WS1lnNzRvSm9WaGt5Ykpqa1UxbGx0LWQzUzZ2TC01aW1URjNNRi1zOVpIaVdPY2ktSDRIcTJieXNhOG5wb1hpMU05UFVDREFLTEd0LWhHXzNacGJCRkZVWUlxMVJIRjdvdFhET2NMNTRrQ0hNUTFnTHZFZV9sMVpEZFRCVFQybGl6NElPRUJ3a1JudmtQUkZDSWJxWjdJQllRUUNvZ1UtZjJhVHfSAeMBQVVfeXFMT242YUZkWTEwUF9rcHJqem0walhIWlMza3JMY05pNFlOUkQxM0JqQ2ViUjVYdWRKekFVR1JiOFM1aTJNaXdSdUF1LXhReFVTa3VWTjhhYW1FOXNTWGVwTDdyQ2o1THJvMVIwbEowSVRwNFpnbDNtMnF1ZUJ2TThsUTJpSFFWM2FNZEdIU2pySUh4TTRGRHhKd3BFdTRfX0x2SGMxX0xyOUFVdTA5R2hua0pmWkZIcmNnSHQyVDJ2UDBCQ0pRNUR5UzFTOF9oUmRWZHA5dUt6R3BwQ3UyblU2RzdDdms?oc=5)
-
-2026-10-16 <span class="news-indication-tag">malattia di Crohn</span>
-
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTjJMNkZkWkZUSUFlcWppQk9BbkFQazVxVElHbzJxOEE4M3ZkX3hOSm9NU1pkQ2FfbG9WS1lnNzRvSm9WaGt5Ykpqa1UxbGx0LWQzUzZ2TC01aW1URjNNRi1zOVpIaVdPY2ktSDRIcTJieXNhOG5wb1hpMU05UFVDREFLTEd0LWhHXzNacGJCRkZVWUlxMVJIRjdvdFhET2NMNTRrQ0hNUTFnTHZFZV9sMVpEZFRCVFQybGl6NElPRUJ3a1JudmtQUkZDSWJxWjdJQllRUUNvZ1UtZjJhVHfSAeMBQVVfeXFMT242YUZkWTEwUF9rcHJqem0walhIWlMza3JMY05pNFlOUkQxM0JqQ2ViUjVYdWRKekFVR1JiOFM1aTJNaXdSdUF1LXhReFVTa3VWTjhhYW1FOXNTWGVwTDdyQ2o1THJvMVIwbEowSVRwNFpnbDNtMnF1ZUJ2TThsUTJpSFFWM2FNZEdIU2pySUh4TTRGRHhKd3BFdTRfX0x2SGMxX0xyOUFVdTA5R2hua0pmWkZIcmNnSHQyVDJ2UDBCQ0pRNUR5UzFTOF9oUmRWZHA5dUt6R3BwQ3UyblU2RzdDdms?oc=5)
-
----
+## Related News (2)
 
 ### [(83) Entzündungen im Darm lindern - Dr. Viola Andresen über Morbus Crohn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
 
 2026-10-14 <span class="news-indication-tag">Morbus Crohn</span>
 
 Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+
+---
+
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

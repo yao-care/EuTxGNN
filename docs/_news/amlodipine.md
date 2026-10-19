@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amlodipine?">
-<strong>Amlodipine</strong> currently has <strong>44 news articles</strong>, with 20 predicted indications.
+<strong>Amlodipine</strong> currently has <strong>46 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,37 @@ This page combines the AI-predicted indications for Amlodipine with the latest h
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (44)
+## Related News (46)
 
 ### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+
+---
+
+### [Muskelschwund bei Krebs: Forscher bremsen tödlichen Kraftverlust im Labor - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+---
+
+### [Nüsse gegen Bluthochdruck: 30 Gramm täglich senken das Risiko um 26 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+
+---
+
+### [Los nuevos tratamientos contra el cáncer de mama mejoran la supervivencia y abren nuevas vías terapéuticas](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb1pZT3R3a0t4MHp5NnBiZkpZck5KVTlOd3NXNkFkRjhnd2VVVGJTM1BUV1o0aXR4ZXp6WEJaZXdvU242RDRIcG1tc0toeWV1RnNXMmNyRFRjTWx2YV8zSGxNeUZXMURvTDdCYnBQT3Y4NVZmdVhRbHY2d0lOZ3N6M1BmSEt2Z0xuWXVFRUw3VnBrc2tFYXY5Nm5BYU1nU0ZmaDdLWGRtMWFPUW9WZUhPZ0d5Ry1vbXQ1NUlDOEEwZmg1Q2dHZ1AzV2p4SGpVNnl3TmoxeXhmZ3RfellfRzNZQ2NGbVQteVhuUGFiMm1GcUd3Zk5sN1E?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Amlodipine</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb1pZT3R3a0t4MHp5NnBiZkpZck5KVTlOd3NXNkFkRjhnd2VVVGJTM1BUV1o0aXR4ZXp6WEJaZXdvU242RDRIcG1tc0toeWV1RnNXMmNyRFRjTWx2YV8zSGxNeUZXMURvTDdCYnBQT3Y4NVZmdVhRbHY2d0lOZ3N6M1BmSEt2Z0xuWXVFRUw3VnBrc2tFYXY5Nm5BYU1nU0ZmaDdLWGRtMWFPUW9WZUhPZ0d5Ry1vbXQ1NUlDOEEwZmg1Q2dHZ1AzV2p4SGpVNnl3TmoxeXhmZ3RfellfRzNZQ2NGbVQteVhuUGFiMm1GcUd3Zk5sN1E?oc=5)
 
 ---
 
@@ -117,7 +141,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaEFG
 
 ---
 
-### [GP told woman lump was 'nothing to worry' then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
+### [GP told woman lump was 'nothing to worry' over then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
@@ -178,14 +202,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YNXdxTmUxS2tKX
 2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
 
 Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
-
----
-
-### [Vollkorn bei Hypertonie: 60 bis 100 Gramm täglich bringen den größten Nutzen](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1sTjhPNUcwQXE3T09SdndXMjY1bVNzVkRiMFFvbkZYNk5yZXdUdWlQdU52dHRzeDBiU0Z6T2hXX1lHbTNWQ1RMREZwWjBXc2hDb2hJV1dzTk11OTZJX3lDTUpKWnhMdlV5VzRhQV91VE9HTnNERmRBS0F1VFVYRmVHSmhteVpWc0JlQW9KYlZCUFNrVDhQVGRTYlhTZ1dyTWVQVkZtNTVGSDNqUGJaNkNtM09rMGhRT1BLbw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNk1sTjhPNUcwQXE3T09SdndXMjY1bVNzVkRiMFFvbkZYNk5yZXdUdWlQdU52dHRzeDBiU0Z6T2hXX1lHbTNWQ1RMREZwWjBXc2hDb2hJV1dzTk11OTZJX3lDTUpKWnhMdlV5VzRhQV91VE9HTnNERmRBS0F1VFVYRmVHSmhteVpWc0JlQW9KYlZCUFNrVDhQVGRTYlhTZ1dyTWVQVkZtNTVGSDNqUGJaNkNtM09rMGhRT1BLbw?oc=5)
 
 ---
 
@@ -325,6 +341,14 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ---
 
+### [Women Furious After Wife Learns Her 3 Cancer Diagnoses Are Due To Her Husband's Abhorrent Behavior - Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+---
+
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
@@ -394,14 +418,6 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBV
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
-
----
-
-### [Hohes Eisenangebot fördert die Beweglichkeit von Hirntumorzellen - Biermann Medizin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWVVU3N2MHR2VkwwSmhfSllZemVTc1B4X1BUMkVDUFBqOEhwSXdYb2VNZW9Lb3JROGZMT0s4QU1TbXNhTmtvLUVoQmxtVGtrbHZKVWlrbW16ZFJ1NXMxZThNcHk2UG1GeW9oZHYzYU94cDNXUE15OVh3UTIxLUZtd0o1MzdDd3hpTWNvNVRxcG1RMFJyUnh3Y29R?oc=5)
-
-2026-10-13 <span class="news-indication-tag">tumor</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWVVU3N2MHR2VkwwSmhfSllZemVTc1B4X1BUMkVDUFBqOEhwSXdYb2VNZW9Lb3JROGZMT0s4QU1TbXNhTmtvLUVoQmxtVGtrbHZKVWlrbW16ZFJ1NXMxZThNcHk2UG1GeW9oZHYzYU94cDNXUE15OVh3UTIxLUZtd0o1MzdDd3hpTWNvNVRxcG1RMFJyUnh3Y29R?oc=5)
 
 ---
 

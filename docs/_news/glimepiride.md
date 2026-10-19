@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="What news is there about Glimepiride?">
-<strong>Glimepiride</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Glimepiride</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,13 @@ This page combines the AI-predicted indications for Glimepiride with the latest 
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [Erst Gemüse, dann Nudeln: Was der Trend wirklich bringt - Badische Neueste Nachrichten](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUm9rLTAxZEFFblI3cEFhRU51LU43WnRPWVZkZVJ0d04tSWlCbFRaeUZ2S0JlZl9hZE1fY0RGQzdtYzJ3aC15ZXNFb2ZVR29vaVlCTFZDeENDOHZLOG9KX2ppYzVJSEhMcFp2YTNwdkhKZmdFLXNvVGx4UkdVTWpPY2FDOFZaZWU5eTY1M1htajMtTHFqc0tQend0b202TXdwMzlvNA?oc=5)
+### [Wechseljahre: Frühe Menopause vor 45 erhöht Diabetesrisiko um rund 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
 
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
-Source: [Badische Neueste Nachrichten](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUm9rLTAxZEFFblI3cEFhRU51LU43WnRPWVZkZVJ0d04tSWlCbFRaeUZ2S0JlZl9hZE1fY0RGQzdtYzJ3aC15ZXNFb2ZVR29vaVlCTFZDeENDOHZLOG9KX2ppYzVJSEhMcFp2YTNwdkhKZmdFLXNvVGx4UkdVTWpPY2FDOFZaZWU5eTY1M1htajMtTHFqc0tQend0b202TXdwMzlvNA?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
 
 ---
 
@@ -85,19 +85,11 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUFV
 
 ---
 
-### [Wechseljahre: Warum das Diabetesrisiko steigt und was Frauen tun können - Biermann Medizin](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXg0eHR1eXE3cnRmWGxmRGRxU3lCSXFIaUdGcy12d0ZvekV3Q2l1T0VLLTVEWXRSMHFGWGxBdDU2SktzcE9YajhOQS1RRVhJMUxJUS14Ull2TUJsa0s0YmdtYTRFWnIzN2Ftd2ExV2JMU0I5R2NCUnJqdkplNnV3TVgtX0pRcXdEWkRUWXJSVlVMZ2xJeDhDN3RDbTFBTmx6Umc?oc=5)
+### [Prädiabetes: Nur Lebensstilinterventionen senken das Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
-2026-10-18 <span class="news-indication-tag">diabetes</span>
+2026-10-15 <span class="news-indication-tag">diabetes</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXg0eHR1eXE3cnRmWGxmRGRxU3lCSXFIaUdGcy12d0ZvekV3Q2l1T0VLLTVEWXRSMHFGWGxBdDU2SktzcE9YajhOQS1RRVhJMUxJUS14Ull2TUJsa0s0YmdtYTRFWnIzN2Ftd2ExV2JMU0I5R2NCUnJqdkplNnV3TVgtX0pRcXdEWkRUWXJSVlVMZ2xJeDhDN3RDbTFBTmx6Umc?oc=5)
-
----
-
-### [Früher Typ-2-Diabetes: Zwei Maßnahmen bessern die Symptome – ohne Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
 
 ---
 

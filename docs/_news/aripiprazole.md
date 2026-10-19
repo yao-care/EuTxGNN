@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Aripiprazole?">
-<strong>Aripiprazole</strong> currently has <strong>39 news articles</strong>, with 20 predicted indications.
+<strong>Aripiprazole</strong> currently has <strong>40 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page combines the AI-predicted indications for Aripiprazole with the latest
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (39)
+## Related News (40)
 
 ### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
@@ -69,19 +69,43 @@ Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/ar
 
 ---
 
-### [„Physiologische Klippe“ – welche Prozesse die Menopause im Körper abrupt verändert](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQTMwTnNNS2RMbThpUE5ERTM4eE54a0VFM2xEWUtGRG1GeGNaejRFQXlWdm5OM01qRjdVM0xNTFVkNDcycEw0cWhaQm9UZFloS00tbEd6REFaZzBrQTF3VGxGR0xvWkE1TnAzWDJ2Z1dWaUFuRmh0OU1GZDZwOWVOeHZwSWlTenVjOTZYZDlMLXpGd2tua0E4Sk5IZ3pSTlUtcTJ3ZWRXZXdCRW1BVHlIWC11Q0hyYUkwNjNMdHYtTWNoRm1yV0F6YTlkWThRNDN5VmdBcC1R?oc=5)
+### [Spätes Snacken erhöht laut Studie das Risiko für Lebererkrankungen - it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjJzWEp2cldQM2pWX1lXbmlHVW51a1NrUl9aZGFVakEya1BEQ09PT051ZHRYTzBibTgwbUJzeFpyYUpIaldaVFF6R2QtdWtZR0pPbEZmQzg2SUpZaUU3RTZUTjd3REJfNjQwUlhvWnoxYUVYV3JfNzl6cWU2RXN4S3pLTmNuNWRJeExPbzZubDM1djhIZFFNOHlUZURROHNYWHc0?oc=5)
 
 2026-10-19 <span class="news-indication-tag">AF</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQTMwTnNNS2RMbThpUE5ERTM4eE54a0VFM2xEWUtGRG1GeGNaejRFQXlWdm5OM01qRjdVM0xNTFVkNDcycEw0cWhaQm9UZFloS00tbEd6REFaZzBrQTF3VGxGR0xvWkE1TnAzWDJ2Z1dWaUFuRmh0OU1GZDZwOWVOeHZwSWlTenVjOTZYZDlMLXpGd2tua0E4Sk5IZ3pSTlUtcTJ3ZWRXZXdCRW1BVHlIWC11Q0hyYUkwNjNMdHYtTWNoRm1yV0F6YTlkWThRNDN5VmdBcC1R?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjJzWEp2cldQM2pWX1lXbmlHVW51a1NrUl9aZGFVakEya1BEQ09PT051ZHRYTzBibTgwbUJzeFpyYUpIaldaVFF6R2QtdWtZR0pPbEZmQzg2SUpZaUU3RTZUTjd3REJfNjQwUlhvWnoxYUVYV3JfNzl6cWU2RXN4S3pLTmNuNWRJeExPbzZubDM1djhIZFFNOHlUZURROHNYWHc0?oc=5)
 
 ---
 
-### [Johnson & Johnson y Cátedras en Red impulsan una hoja de ruta para acelerar el modelo afectivo-efectivo en el SNS](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVBZRkllMGh5d083X3VoSXlDdnlVNlFLeGEyZm5lRW9rM1BueWJiZDZ5LTdzeFpKLWJWaWlDSVhQbVlVdFk1U0Z1ZDg3aTk4QndUTGxNdEhUa1MtdkNuNDZFa1FzX1o3cERqay1vMTVwTXJ5TmVoZ0xwNXVLaGtoMG5DX1F4elZUX0ZZUkk3bVRzT0JLOVpDWnFsbmltRVdoV1A1ZTB4b3lFZG9sQ1FvZF9SSFhzOGJkdENUcF84N1hmbE1MREVYZi1qcGZOX1NmRjBsa244eDYtUWxuVU9rR2dn?oc=5)
+### [Muskelschwund bei Krebs: Forscher bremsen tödlichen Kraftverlust im Labor - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+---
+
+### [Are antidepressants affecting your sex life? Here’s what to do - The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkdJRHd4WVFjTHE5OER3OGxmanJpZFlXREV1azNtdG5LOVY4am4xdlRhRDJQZE5TcFh2cDd1dTc3Mmhjb01paEtqRGJwVXN1T05YN05EWjlrS0JGbGw1X3FmaEJld2NMaWlpeUFwQmJpM2VUUlVGd0IyVXFzY1R4cnkwRjRhQm9lRDFPaWRWeHpaQUdzWXdoRWo1d0xkd2JVQmxEUDlyY290bEZQZGFEWkIxUkM0YmtFM1ZIMUZUdjFZNkdsMkQ4RA?oc=5)
 
 2026-10-19 <span class="news-indication-tag">AF</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaVBZRkllMGh5d083X3VoSXlDdnlVNlFLeGEyZm5lRW9rM1BueWJiZDZ5LTdzeFpKLWJWaWlDSVhQbVlVdFk1U0Z1ZDg3aTk4QndUTGxNdEhUa1MtdkNuNDZFa1FzX1o3cERqay1vMTVwTXJ5TmVoZ0xwNXVLaGtoMG5DX1F4elZUX0ZZUkk3bVRzT0JLOVpDWnFsbmltRVdoV1A1ZTB4b3lFZG9sQ1FvZF9SSFhzOGJkdENUcF84N1hmbE1MREVYZi1qcGZOX1NmRjBsa244eDYtUWxuVU9rR2dn?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkdJRHd4WVFjTHE5OER3OGxmanJpZFlXREV1azNtdG5LOVY4am4xdlRhRDJQZE5TcFh2cDd1dTc3Mmhjb01paEtqRGJwVXN1T05YN05EWjlrS0JGbGw1X3FmaEJld2NMaWlpeUFwQmJpM2VUUlVGd0IyVXFzY1R4cnkwRjRhQm9lRDFPaWRWeHpaQUdzWXdoRWo1d0xkd2JVQmxEUDlyY290bEZQZGFEWkIxUkM0YmtFM1ZIMUZUdjFZNkdsMkQ4RA?oc=5)
+
+---
+
+### [El cáncer de mama masculino: Una realidad silenciada con tratamiento eficaz](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNjdNcHVjaEo0bVZ0M3ZOZXBmQWphRklabkFSWG0ydWoxc2JhcmRfSUZEcENoTkZ1RXNadkNkVnF2cEpLQlRLYnUwQ2VobHItWmZMWTFESXVrS09HNXNCMkRSeG1RX291NVJxNHZZNUpoVmRRUmRsWnoyUDVIYVhQUlRrWkJ2VUxBaTdXZG1lcVlGV2pVdkxyeW8welFIU2J1Q3RfMS15OWswRFBFZzBwRGpHT3BnZ3RNOUlMUU4yT2x1RjlxdzY5N2NibHhjS0lyQWRXR3hTRWRtWG1HR1pkV0w0MV9tN0lQTExhetIB8gFBVV95cUxQSmx2aDdoSWNFTlZZbG5KQlRZeF9qZDZBU1VmTHMtTERxTHFlV2pBcXhFZ1R6RU1KWVZoRHpHN3VtYXIwT3lWb2FlTnRINll3aTJsdHM5NUdVR3NNeWt6WUhWeGdrMzhYSEwyZWstRXlLTS1WZmtqenlpZEZwaFhkRmkyVzljckF2bnhhY0RYM3N3ckpGa24wSEtGQUs1RlNXQ3VTNU9nTmd3RmpodjM5dWYtMndSNklsMTE1NUJkQ3hhNmxva0NCX0pYYnQ3b3lVbkVNRG9saktFZEdFTjlSYktTRGZXcG5SRURWbW9QbGQyUQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">AF</span>
+
+Source: [COPE](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNjdNcHVjaEo0bVZ0M3ZOZXBmQWphRklabkFSWG0ydWoxc2JhcmRfSUZEcENoTkZ1RXNadkNkVnF2cEpLQlRLYnUwQ2VobHItWmZMWTFESXVrS09HNXNCMkRSeG1RX291NVJxNHZZNUpoVmRRUmRsWnoyUDVIYVhQUlRrWkJ2VUxBaTdXZG1lcVlGV2pVdkxyeW8welFIU2J1Q3RfMS15OWswRFBFZzBwRGpHT3BnZ3RNOUlMUU4yT2x1RjlxdzY5N2NibHhjS0lyQWRXR3hTRWRtWG1HR1pkV0w0MV9tN0lQTExhetIB8gFBVV95cUxQSmx2aDdoSWNFTlZZbG5KQlRZeF9qZDZBU1VmTHMtTERxTHFlV2pBcXhFZ1R6RU1KWVZoRHpHN3VtYXIwT3lWb2FlTnRINll3aTJsdHM5NUdVR3NNeWt6WUhWeGdrMzhYSEwyZWstRXlLTS1WZmtqenlpZEZwaFhkRmkyVzljckF2bnhhY0RYM3N3ckpGa24wSEtGQUs1RlNXQ3VTNU9nTmd3RmpodjM5dWYtMndSNklsMTE1NUJkQ3hhNmxva0NCX0pYYnQ3b3lVbkVNRG9saktFZEdFTjlSYktTRGZXcG5SRURWbW9QbGQyUQ?oc=5)
+
+---
+
+### [Caffè, microbiota e cognizione: la ricerca svela gli effetti](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDdCS1lkOWp2elBPMFUwOHhWMWhuV0c1QTZWVnVzZ0dRM2JWbHc4MVRQVmFXb0FLNFVzNVZvdUtJbENJdXRLZExBQ2s4dVM3UVBEQXJ5bjBkYXJPNExuUWI2ZFBXejUySGJmX3ByZTBwb1lmVk1zeVRiWnlpVi1ZdUM4by1xVVhtSWo0UC1SNERpTnJYaDJvNWRlMjk4ZVNlU2hwRXYzQTJhTzViOVhkWjdhMV9MNXBNLUZPMmlVcEV6dTBVTkJYQXVTbjY5TUkxQWxoSmhNTnBDRlJBWEVfekhncw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">AF</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNDdCS1lkOWp2elBPMFUwOHhWMWhuV0c1QTZWVnVzZ0dRM2JWbHc4MVRQVmFXb0FLNFVzNVZvdUtJbENJdXRLZExBQ2s4dVM3UVBEQXJ5bjBkYXJPNExuUWI2ZFBXejUySGJmX3ByZTBwb1lmVk1zeVRiWnlpVi1ZdUM4by1xVVhtSWo0UC1SNERpTnJYaDJvNWRlMjk4ZVNlU2hwRXYzQTJhTzViOVhkWjdhMV9MNXBNLUZPMmlVcEV6dTBVTkJYQXVTbjY5TUkxQWxoSmhNTnBDRlJBWEVfekhncw?oc=5)
 
 ---
 
@@ -149,14 +173,6 @@ Source: [Actu.fr](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRUN6MHd6Q
 
 ---
 
-### [El cáncer de mama también afecta a los hombres: «Me han extirpado los dos pechos» - El Correo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzVocVRkczd1bVNRVnc1X2VKRVBXYnpMcnFjSDYtZEZoY3ZMODRkZ3FicXFTN2ljOU1kak9HYTBnbVdVcWtuV0ZvSERBa2ZQQzhjZXZsNTJYekVYSVBoRVgxOUY3bm1LWmotc05idkhpQ1lVZXVGakItSEIzYmVac0prelozUdIBiwFBVV95cUxOZHQ4dExHR0xoZl8tcVl3SGh4N0lNVUxjenRvN3JSbFJVS0lPTWpyRTlLMFh6UUY3TVY2QTRYaldzLVk4Tm5mdTM3UmVJV0JMeUs0WHNPZGVwZ2lyajhsYjBsbUhfVWdVaVR5XzNkdWxXbGhZdXlpZ2gzTTd1OVA2cHRUa1lpNlJ6TGhn?oc=5)
-
-2026-10-18 <span class="news-indication-tag">AF</span>
-
-Source: [El Correo](https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzVocVRkczd1bVNRVnc1X2VKRVBXYnpMcnFjSDYtZEZoY3ZMODRkZ3FicXFTN2ljOU1kak9HYTBnbVdVcWtuV0ZvSERBa2ZQQzhjZXZsNTJYekVYSVBoRVgxOUY3bm1LWmotc05idkhpQ1lVZXVGakItSEIzYmVac0prelozUdIBiwFBVV95cUxOZHQ4dExHR0xoZl8tcVl3SGh4N0lNVUxjenRvN3JSbFJVS0lPTWpyRTlLMFh6UUY3TVY2QTRYaldzLVk4Tm5mdTM3UmVJV0JMeUs0WHNPZGVwZ2lyajhsYjBsbUhfVWdVaVR5XzNkdWxXbGhZdXlpZ2gzTTd1OVA2cHRUa1lpNlJ6TGhn?oc=5)
-
----
-
 ### [Menopause: Symptome ernst nehmen – Behandlung statt Abwarten - it boltwise](https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1BFUWIzWUstMkY3SElITXpqdkVwQXFFOVQ3WVZOQXdoeUNXejBxZFRtVE5iaUhOcTlMbTVMMURfbk5WeGV0aTRqdFlsT1hHdFluVWJzYWZFQWNPaWZCRTV6YnVfWHBydEt6UzhIdUgzWXp6TTlkTTg4RksyYkRGSnV3WVJGQURYbnpUQS0xd3ZXRjg?oc=5)
 
 2026-10-18 <span class="news-indication-tag">AF</span>
@@ -165,19 +181,11 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1BFU
 
 ---
 
-### [¿Por qué el café puede ser bueno para el intestino? La clave está en una bacteria - Onda Vasca](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3FzRzJqMWhTckVLRktqc2h3bURBZHJSQXBUQTVwamZEVlhVSWZyWUFCdmxLS3psdUlyWlp1YnJtOVlFWlB6WWs1cE1QQVJ3bkRSLVBpR2M4dWxaN0FadzNFT2xRWUplVjRfQ1RnNWpSYUZUQVpGNDVvcWxqX3J0bGtvNFRReFJHUWpQZngwLVIwOFU0TTNFRXNET0JxOUFydnZQbDROLVNwQdIBrwFBVV95cUxPaTBWdDIwVGdPcERuV3NQb2RCUVJxWUtJNkJLanhlMmI4LUVuWk5fTzMwT2ZPU0daV0ppQzI0eTMwemRyS3J6THJiX0MyZnJDc1Fmc2xUSG40eWJHNUNrc2pQV1NzTkNoLUpYTUhIaGtCS19YX1hIVUo3czZ0bGRrYXhxODA2cF9feDZaSnlOQWc0U2hjdEUzNnVfR25veEs2eDBDMWp3M0ZBSllKTmYw?oc=5)
+### [Journée mondiale de la ménopause : briser le silence pour se préparer à cette transition - Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzZ1ZTF3dzllQWk1Mk53bTRucElMZzE4TmhERFl5UUNWdzYtekZZR3hMRXB2YkplQXEtZ1cwVG9lb0ZodG01MThHRS0wTTBMaE11dG1RNU50SThQamFicXItSU02NWY5NU1SbnV3YmpISnhzY2lYTDJFWnZadzYxQWJlT2t6S0p3cnlwcFBsQ1JfRTFmYWlXSTVrSmxkR2xEMlNEcHIwN21Fek9xanRmZFNDTEY0WG1wdEQ0WlF2TXdJa0p0T29NREp1TVV3X3dDWlpvRDB3?oc=5)
 
 2026-10-18 <span class="news-indication-tag">AF</span>
 
-Source: [Onda Vasca](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3FzRzJqMWhTckVLRktqc2h3bURBZHJSQXBUQTVwamZEVlhVSWZyWUFCdmxLS3psdUlyWlp1YnJtOVlFWlB6WWs1cE1QQVJ3bkRSLVBpR2M4dWxaN0FadzNFT2xRWUplVjRfQ1RnNWpSYUZUQVpGNDVvcWxqX3J0bGtvNFRReFJHUWpQZngwLVIwOFU0TTNFRXNET0JxOUFydnZQbDROLVNwQdIBrwFBVV95cUxPaTBWdDIwVGdPcERuV3NQb2RCUVJxWUtJNkJLanhlMmI4LUVuWk5fTzMwT2ZPU0daV0ppQzI0eTMwemRyS3J6THJiX0MyZnJDc1Fmc2xUSG40eWJHNUNrc2pQV1NzTkNoLUpYTUhIaGtCS19YX1hIVUo3czZ0bGRrYXhxODA2cF9feDZaSnlOQWc0U2hjdEUzNnVfR25veEs2eDBDMWp3M0ZBSllKTmYw?oc=5)
-
----
-
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+Source: [Outre-mer La 1ère](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzZ1ZTF3dzllQWk1Mk53bTRucElMZzE4TmhERFl5UUNWdzYtekZZR3hMRXB2YkplQXEtZ1cwVG9lb0ZodG01MThHRS0wTTBMaE11dG1RNU50SThQamFicXItSU02NWY5NU1SbnV3YmpISnhzY2lYTDJFWnZadzYxQWJlT2t6S0p3cnlwcFBsQ1JfRTFmYWlXSTVrSmxkR2xEMlNEcHIwN21Fek9xanRmZFNDTEY0WG1wdEQ0WlF2TXdJa0p0T29NREp1TVV3X3dDWlpvRDB3?oc=5)
 
 ---
 
@@ -261,6 +269,14 @@ Source: [radioeins](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHJUdFJ
 
 ---
 
+### [Women Furious After Wife Learns Her 3 Cancer Diagnoses Are Due To Her Husband's Abhorrent Behavior - Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+---
+
 ### [SSRI absetzen: Antidepressiva im Kreuzfeuer - Spektrum der Wissenschaft](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzNQaDhRakphQ3NONDBQdHh6S0JkTWRaZHFiQTdfRktmS09IaHoyelQwN2ZIdndWa2ZwQlZTOUM0SWZFdEMzSlhBdGVNOFRBRmV3S0dUbVdNMkwxVi1KOGZ0MHJVRVRZMkVaRGc1aG1qcmhSUjlBMThkV29VdS1RRjVlUThmVzlld0VtWVRrSHdEVjI3MzFqMG1xSlhqYWNZ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">AF</span>
@@ -277,27 +293,11 @@ Source: [Gruppo San Donato](https://news.google.com/rss/articles/CBMijgFBVV95cUx
 
 ---
 
-### [Humanes Papillomavirus : HPV-Impfung mit weniger Schwangerschaftskomplikationen assoziiert - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcG1BcU93a2U0Zlh1WGhGazFBMzVEYm1mSW9BdVJTTDNldGIzdjdmUmtjVXFDZjM3a2VNQk9GWExGYUVEdDRCdmdVYzl4a0J5VlBvd1NCUUhiSVNJdmM3dGFyMk01ZXdoakQwUEpUYlcydDMzMjRSRjQ1RWE3TDlUTmcxS2RrUTlwSWxlY1l1WXZQVEZaLVMtQ2tJLXNsSU9MVm9QVmFYQ3ZtWUVfaG5US2Fn?oc=5)
-
-2026-10-16 <span class="news-indication-tag">AF</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcG1BcU93a2U0Zlh1WGhGazFBMzVEYm1mSW9BdVJTTDNldGIzdjdmUmtjVXFDZjM3a2VNQk9GWExGYUVEdDRCdmdVYzl4a0J5VlBvd1NCUUhiSVNJdmM3dGFyMk01ZXdoakQwUEpUYlcydDMzMjRSRjQ1RWE3TDlUTmcxS2RrUTlwSWxlY1l1WXZQVEZaLVMtQ2tJLXNsSU9MVm9QVmFYQ3ZtWUVfaG5US2Fn?oc=5)
-
----
-
 ### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
 
 2026-10-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
-
----
-
-### [Wenn Rücken-Wirbel brechen: Leitlinie bringt Klarheit bei Osteoporose-Frakturen](https://news.google.com/rss/articles/CBMitwFBVV95cUxONVhDZlNvQ1lMV2tCWXUzVjJnTXYxLWJvbm9VSUVyd3pQRzg3SDZxNWFaZ2o4MjBSdFMtTEpNeDVlbjM3c005M0Y2ZFJQYWRlUjlGX0I4aTd1SXYxaThYQ0dfMjRSaTZnVTVlVlRhcWRydXFmN3lrR3YyS05hZURDZE5DTGVGQXVpLU96RkR4UjlKa191dWN2SER0ekVpd01vX3ZPVzdfSVZiaTJGX0FmVDZvN1pHaGM?oc=5)
-
-2026-10-15 <span class="news-indication-tag">AF</span>
-
-Source: [JuraForum.de](https://news.google.com/rss/articles/CBMitwFBVV95cUxONVhDZlNvQ1lMV2tCWXUzVjJnTXYxLWJvbm9VSUVyd3pQRzg3SDZxNWFaZ2o4MjBSdFMtTEpNeDVlbjM3c005M0Y2ZFJQYWRlUjlGX0I4aTd1SXYxaThYQ0dfMjRSaTZnVTVlVlRhcWRydXFmN3lrR3YyS05hZURDZE5DTGVGQXVpLU96RkR4UjlKa191dWN2SER0ekVpd01vX3ZPVzdfSVZiaTJGX0FmVDZvN1pHaGM?oc=5)
 
 ---
 
@@ -346,6 +346,14 @@ Source: [melty.fr](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUm1neEl2
 2026-10-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 Source: [ATS Montagna](https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaUpoaFM4dFRmN3pFclJDSDRqNjlULWd5WExFOWZzODhsS1FVY1lFREJiVkk5dmdiTEItZUNwN0M2R1g2Tl9zdzhsZF9kbHBNT2dfZDJ2ZS1BYTJZbnZuRHBiazByaDVwcFI0YUdzN2EyWW0y?oc=5)
+
+---
+
+### [Kleiner RNA-Schalter, großes Potenzial: Forschungsteam eröffnet neue Möglichkeiten für Synthetische Biologie - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DTFZLaEJaYUp3UFM5SUJUR2dGVFhCUnBVZndlcHlXTldDTm9jejRjbkhkZUdhMTBwQUQ5LVZubTYwRFFBdFZYeDZnaw?oc=5)
+
+2026-10-13 <span class="news-indication-tag">AF</span>
+
+Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DTFZLaEJaYUp3UFM5SUJUR2dGVFhCUnBVZndlcHlXTldDTm9jejRjbkhkZUdhMTBwQUQ5LVZubTYwRFFBdFZYeDZnaw?oc=5)
 
 ---
 

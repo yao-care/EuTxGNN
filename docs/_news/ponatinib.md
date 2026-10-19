@@ -14,7 +14,7 @@ permalink: /news/ponatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Ponatinib?">
-<strong>Ponatinib</strong> currently has <strong>33 news articles</strong>, with 10 predicted indications.
+<strong>Ponatinib</strong> currently has <strong>34 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ponatinib with the latest he
 <p><a href="{{ '/drugs/ponatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (33)
+## Related News (34)
+
+### [Muskelschwund bei Krebs: Forscher bremsen tödlichen Kraftverlust im Labor - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+---
 
 ### [Tumore all'intestino e alimentazione, il legame: cosa non dovete mangiare | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjItdGtPdWNjTk5vbjBjOE1ad2p1NEJpUlRxLVkzYXNRNG8yM19UVlNua0VRYlpURkxWa0x6WVpndmV5eTU0SHhtVEVJMFdlVjl3Qml3UldrM3dsTVJzVmMzaWtjVGJzbThJUzVpX1IxYjl6Xzl2YWdoRU4zTkt0OXN0eUQ0cnpGa1hNbVdlRC1LRzdBQVZhM1NIMms3ZzRLc08tVnlyM2JyZXF1X1p5MXdnS2NoRm1JZzFkMlNud09GUE1zZWZ3QS1FYlR5VnZZRlV1ddIB2AFBVV95cUxPd0pFUGtVUkJmLW5KUlN5bEFLT1U2RXM0SGlZNlplZmxUaTJ1akh2M1o2bFlGY1lGZHdjN1VCWGhCNTEtcG01VFdybng3U1I1YkYyZE1SVVRRMUl5NjVTaHJRSHZ1cnV5NVhybER6c0JUal9lbGhQdktKanBJb0REMmRrc0szcHFLc1hOb05ySzRQMFNHT05PQnVyd3dKTFZJY0RZbFFhRkFxWHFPNHg2QnRySDdtLWRJUGhvOUFJdXJ3YS0ydm5QWml0OWlReUY0YXozZ0RiVlQ?oc=5)
 
@@ -83,7 +91,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaEFG
 
 ---
 
-### [GP told woman lump was 'nothing to worry' then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
+### [GP told woman lump was 'nothing to worry' over then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
@@ -195,14 +203,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWTVm
 
 ---
 
-### [Alzheimer : la maladie qu'on croyait invincible cède enfin du terrain - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">maladie d'Alzheimer</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzJ6V211bkZNUUJaRWFNQVktMUhCTnlDZjZqOU9fYUZXTTR0dTlzS2x4Ry1CclhYYjRyc0QyenROT0JjcGhaQ0t5M2lqanI3ZzNnNDdmcUZxVnU2NkpLS2VFc2w1WDRzS3RSNzJKUGRwQ1U4b1p6allORTZsS3U2SURyeUZpYkt2aTJ6WDVXOW54SlRKTjEtNXBVY1ZDaGFuVDBBRGEtcUxzVkxQLWtkdm1tcWdQaW10VWMxSG00NEVidGR0TGtKVzBfaklqd0dQT2pUT2JqTQ?oc=5)
-
----
-
 ### [Octobre rose : à Mont-de-Marsan, les Foulées roses du Moun enregistrent un grand succès populaire avec près de 4 000 participants - Sud Ouest](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMXByMG4wUTZLMFJtZXkyUmZBSmN0YlkzNGpjbE9kcHRGTi1CdzFfb0VnLU9Hb1AtLS1GRWVFSklJejVWR2loSXQ3d2pBTlhsM3JKUVJuX2R3WWUxdHh1V2VYTURmUy15TGFseUYxbDhUaWpSejNRbVlDbEIwU3NuZURCdWpXRFkwamVrM0NhM25fZlRlVm5PbHAxX1ZuUHNqYjFYdG9UTkE4ampYUFl0UnJSeVducjJ5WnAxWU9xMHJoV3VGZlhpWG90Z1JZWnNaQmZZUnhyVUhCWFZ5NTZOVXVlcDhnTkxjVTZ3dElHbzN6ZHBVM044VWFQZkxzT0M1ZlpWcncteURuV3hzdDFnNWJHLTNOVTNqOVZ4R2luV1dyT3k0Y2tIV1R3?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span>
@@ -251,11 +251,27 @@ Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcj
 
 ---
 
+### [Women Furious After Wife Learns Her 3 Cancer Diagnoses Are Due To Her Husband's Abhorrent Behavior - Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloUURnU0VuS3EyRGhmbHNraVJpaEI4ckJYZG1LNjZ6dE5BMXVHaFdxandnTTBuYnI1Q3hCWXF4a0FMUURlNFAwWVNCUFlXd1h0RGNvOFAtTW90THp2a2pjNXBzdUw1YTB1UThQRjlNUm5uVmFJYzU3amFCMDdUcENhQzA3QTdVWEE?oc=5)
+
+---
+
 ### ['Pill-on-a-thread' cancer screening trial comes to Lancashire](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Kc2pQR3lFRWVINF9QazJlT09GeVBQLTJ3ZWpjSE40dVpoUktrcjR2YU5OcDZRNnN2U25VUURyQmFNVmRwdzFHMElyeS1XcmltaHZITGlKRzZDQl9BUnc?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Kc2pQR3lFRWVINF9QazJlT09GeVBQLTJ3ZWpjSE40dVpoUktrcjR2YU5OcDZRNnN2U25VUURyQmFNVmRwdzFHMElyeS1XcmltaHZITGlKRzZDQl9BUnc?oc=5)
+
+---
+
+### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">dementia</span>
+
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
 ---
 
@@ -296,14 +312,6 @@ Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBV
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSjFWa2ZJeHVFN0tLZ0JZNUxGOG1PMEpyM1NDSVYxSzZoZ1lYeWpXblRTcVJvUGQ0TWdvb3JHeVJUZW9qNk45TkpKMVZJVlNOQk5nc0JtbnFFZkJRMnRRMUQxaElLRDAtckpFNXM2MGxZZzgwWm0wRUlPNVlWb1gwNVFwcGdyN25sTTA2TzdvdW9qS0pVdmJkYUNJYkM1ZFV6Wlo4WUxKTXpab3l4blhDYXlwcE9PdE56dWQ2bjVfbGR0RU0?oc=5)
-
----
-
-### [Hohes Eisenangebot fördert die Beweglichkeit von Hirntumorzellen - Biermann Medizin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWVVU3N2MHR2VkwwSmhfSllZemVTc1B4X1BUMkVDUFBqOEhwSXdYb2VNZW9Lb3JROGZMT0s4QU1TbXNhTmtvLUVoQmxtVGtrbHZKVWlrbW16ZFJ1NXMxZThNcHk2UG1GeW9oZHYzYU94cDNXUE15OVh3UTIxLUZtd0o1MzdDd3hpTWNvNVRxcG1RMFJyUnh3Y29R?oc=5)
-
-2026-10-13 <span class="news-indication-tag">tumor</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWVVU3N2MHR2VkwwSmhfSllZemVTc1B4X1BUMkVDUFBqOEhwSXdYb2VNZW9Lb3JROGZMT0s4QU1TbXNhTmtvLUVoQmxtVGtrbHZKVWlrbW16ZFJ1NXMxZThNcHk2UG1GeW9oZHYzYU94cDNXUE15OVh3UTIxLUZtd0o1MzdDd3hpTWNvNVRxcG1RMFJyUnh3Y29R?oc=5)
 
 ---
 

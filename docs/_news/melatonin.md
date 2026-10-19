@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 
 ## Related News (6)
 
+### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+
+2026-10-19 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+
+---
+
 ### [Obesità, oltre 8.000 donne seguite nella vita reale: quanto peso si perde con i nuovi farmaci](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
 
 2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">obesità</span>
@@ -66,14 +74,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNY
 2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
-
----
-
-### [Rétatrutide : ce traitement qui promet jusqu’à 28 % de perte de poids déjà sur le marché noir avant même sa commercialisation - La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
-
-2026-10-18 <span class="news-indication-tag">obésité</span>
-
-Source: [La Voix du Nord](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFhOUnVkak1qTXFiOFFmblk5TFpWdWFYS2FKeGR2YmJveEVyeXV6T2FxY3JtM2psQWpNVXVRUWx3VUZiVTRpMzNUVWRWb3VaWHd5MzFmSWlBbWJZVm9lcllaclFkNGN3UkxiZmdDSy1MVEt0OFpkcHZQdVdPeGxZSklESjlzT29hUHYwY0ZNS2pEVDRCcm5nenVkd0xwYU94LWpFUEVyN29yaHFvOGxTVlo1RDFYQngyb1JQbzdZSU1iYzk5U0s5QXdFM1lmS1p0TEE?oc=5)
 
 ---
 
