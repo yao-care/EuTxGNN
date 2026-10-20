@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Galsulfase: predicted new indication Ptosis-strabismus-ectopic pupils syndrome (evidence level L5). Approved use: Long-term enzyme replacement therapy for confirmed mucopolysaccharido…"
 monitor_inn: "Galsulfase"
-predicted_indications: ["ptosis-strabismus-ectopic pupils syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "jaw-winking syndrome", "congenital entropion", "epiblepharon", "congenital ectropion"]
+predicted_indications: ["ptosis-strabismus-ectopic pupils syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "jaw-winking syndrome", "congenital entropion", "epiblepharon", "congenital ectropion", "Scheie syndrome"]
 ---
 
 # Galsulfase

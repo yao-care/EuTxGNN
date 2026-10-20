@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Adalimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (in combination with methotrexate…"
 monitor_inn: "Adalimumab"
-predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "polyp of middle ear", "polyp of vocal cord", "polyp of ureter", "polyp of frontal sinus"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "polyp of middle ear", "polyp of vocal cord", "polyp of ureter", "polyp of frontal sinus"]
 ---
 
 # Adalimumab

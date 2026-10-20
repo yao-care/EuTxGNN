@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ivosidenib: predicted new indication Bulbar polio (evidence level L5). Approved use: Newly diagnosed IDH1 R132-mutated AML (with azacitidine…"
 monitor_inn: "Ivosidenib"
-predicted_indications: ["bulbar polio", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "myelodysplastic/myeloproliferative disease", "familial thrombocytosis"]
+predicted_indications: ["bulbar polio", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "myelodysplastic/myeloproliferative disease", "acute panmyelosis with myelofibrosis", "familial thrombocytosis"]
 ---
 
 # Ivosidenib

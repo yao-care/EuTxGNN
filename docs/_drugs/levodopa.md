@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Intermittent treatment of episodic motor fluctuations (OFF episodes)…"
 monitor_inn: "Levodopa"
-predicted_indications: ["Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "myelitis", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome"]
+predicted_indications: ["Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "myelitis", "transaldolase deficiency", "paralysis agitans, juvenile, of Hunt", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome"]
 ---
 
 # Levodopa

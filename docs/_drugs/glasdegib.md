@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glasdegib: predicted new indication Bulbar polio (evidence level L5). Approved use: Newly diagnosed de novo or secondary AML in adults not candidates for…"
 monitor_inn: "Glasdegib"
-predicted_indications: ["bulbar polio", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "myelodysplastic/myeloproliferative disease", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["bulbar polio", "5q35 microduplication syndrome", "neuralgic amyotrophy", "amyotrophic neuralgia", "myelodysplastic/myeloproliferative disease", "acute panmyelosis with myelofibrosis", "ganglioneuroblastoma (disease)"]
 ---
 
 # Glasdegib

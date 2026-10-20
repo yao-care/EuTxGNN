@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rasagiline: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Idiopathic Parkinson's disease (PD)…"
 monitor_inn: "Rasagiline"
-predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "retinal dystrophy with or without extraocular anomalies"]
+predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "retinal dystrophy with or without extraocular anomalies"]
 ---
 
 # Rasagiline

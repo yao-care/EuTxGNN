@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fostamatinib: predicted new indication Autosomal thrombocytopenia with normal platelets (evidence level L5). Approved use: Chronic immune thrombocytopenia (ITP) in adult patients who are refra…"
 monitor_inn: "Fostamatinib"
-predicted_indications: ["non-syndromic esophageal malformation", "glaucoma", "biotin metabolic disease", "primary hereditary glaucoma", "open-angle glaucoma", "filariasis", "vitamin deficiency disorder", "esophageal disease"]
+predicted_indications: ["autosomal thrombocytopenia with normal platelets", "non-syndromic esophageal malformation", "syndromic constitutional thrombocytopenia", "glaucoma", "biotin metabolic disease", "primary hereditary glaucoma", "open-angle glaucoma", "filariasis", "vitamin deficiency disorder", "esophageal disease"]
 ---
 
 # Fostamatinib
