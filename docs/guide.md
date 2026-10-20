@@ -47,12 +47,7 @@ Each report contains detailed analysis and supporting data.
 
 The TxGNN score (0-1) indicates model confidence:
 
-| Score Range | Interpretation |
-|-------------|----------------|
-| 0.99+ | Very high confidence |
-| 0.90-0.99 | High confidence |
-| 0.70-0.90 | Moderate confidence |
-| < 0.70 | Lower confidence |
+Drug pages list only predictions with a score of **0.99 or higher** (after removing known uses already recorded in the knowledge graph). A high score reflects the model's confidence, not clinical evidence; see the evidence level (L1–L5) for that.
 
 ### Source Types
 
