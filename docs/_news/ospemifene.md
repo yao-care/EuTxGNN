@@ -69,11 +69,11 @@ Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21S
 
 ---
 
-### [Bluthochdruck: Kardiologen raten von zehn Lebensmitteln ausdrücklich ab](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
+### [Bluthochdruck: 20 Millionen Erwachsene betroffen, vier Millionen ahnungslos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span>
+2026-10-18 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUmwxT2p1ZjZEN2ptZ1VPeHUyUnRWMUV6Y1pRZE1VeTVlbWRUSTFrS0pubmREeUZBWWs3WUVYeEZlSGptS0Rpb3h0WXc1NG9zWWlRS3F2SXNlMjVreEM2Yl9SM3hzOVFVajdEXzJ2Y0ZXWTc2QXRPRlZ3NjJraWcxcGNKOGtITXFreDZMTjljMTcyd2xNR2p0cEI2ZHB0WnhPQk5VR2xVblh1T3RLa3ZJYUZOV3hKQ3JKV3N1eQ?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
 
 ---
 
@@ -82,6 +82,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUm
 2026-10-18 <span class="news-indication-tag">heart failure</span>
 
 Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
+
+---
+
+### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+2026-10-18 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 ---
 
@@ -98,14 +106,6 @@ Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1
 2026-10-16 <span class="news-indication-tag">heart disease</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

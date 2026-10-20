@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Las vías que regulan el estrés celular se encuentran alteradas en personas con depresión y esquizofrenia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">depresión</span>
 
 Source: [Sinc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
+
+---
+
+### [A single dose of psilocybin eased depression within days, but its edge over placebo faded within a year](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTENyb21ndWV4TjI1MEktWVJlR3BaeFM3Mk9oR0wyWkNpUFcwXzhEYVBiQ3paanZMdGhlNUxKdkhBaTVCbTJVV0t2YVUzR2M5T0h3YXZNWXRmNHNBSlJmWGVNeTFDZHFWNlQ1Um0zWm95aFFfbEJrYVJTU1hmdGhLb0NvSlVsOG8zclpBQXpMSnRIQ1JOUktUelNQaC1DZVhZYzgwS3N6Njk5NHl4eW5PeTMtX1lueE9rS1pFSmVTZmJKODFkM2c?oc=5)
+
+2026-10-18 <span class="news-indication-tag">depression</span>
+
+Source: [PsyPost](https://news.google.com/rss/articles/CBMixgFBVV95cUxQTENyb21ndWV4TjI1MEktWVJlR3BaeFM3Mk9oR0wyWkNpUFcwXzhEYVBiQ3paanZMdGhlNUxKdkhBaTVCbTJVV0t2YVUzR2M5T0h3YXZNWXRmNHNBSlJmWGVNeTFDZHFWNlQ1Um0zWm95aFFfbEJrYVJTU1hmdGhLb0NvSlVsOG8zclpBQXpMSnRIQ1JOUktUelNQaC1DZVhZYzgwS3N6Njk5NHl4eW5PeTMtX1lueE9rS1pFSmVTZmJKODFkM2c?oc=5)
 
 ---
 

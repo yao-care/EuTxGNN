@@ -3,7 +3,7 @@ layout: default
 title: "chronische Nierenerkrankung (chronic kidney disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 3 articles, 1 related drugs."
+description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 2 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chronic-kidney-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about chronische Nierenerkrankung (chronic kidney disease)?">
-<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>chronische Nierenerkrankung (chronic kidney disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “chronische Nierenerkra
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Proteinurie: Okinawa-Studie zeigt 14,9-fach höheres Nierenversagen-Risiko](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
 
 2026-10-19
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
-
----
-
-### [DGfN 2026 | Was tun bei therapieresistenter Hypertonie und CKD?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmdDSnQ2c1NReWJVVUhnX0VKb2ZFdzRGRlVzNHF2eXJweFFNdzk3VDlJM1RGLUR3MGpHTldQS2h5R0pMX0h2OEVKdFVLbng3MWVTcmFBTENjVEl0NWllcnk0ZkEzZWI1Y21GNFM3WHB5MG5DZjgyek9NaGljVUhodnYtSkhjeHJPUTF0dXZnQkhDelNURzZESVZzS1Y0SDh6cnVlQWo0ek5OUWNUaWRKX0RRQ3lHcFZjZW9fOGFaOFA5bENfcVNmcg?oc=5)
-
-2026-10-19
-
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmdDSnQ2c1NReWJVVUhnX0VKb2ZFdzRGRlVzNHF2eXJweFFNdzk3VDlJM1RGLUR3MGpHTldQS2h5R0pMX0h2OEVKdFVLbng3MWVTcmFBTENjVEl0NWllcnk0ZkEzZWI1Y21GNFM3WHB5MG5DZjgyek9NaGljVUhodnYtSkhjeHJPUTF0dXZnQkhDelNURzZESVZzS1Y0SDh6cnVlQWo0ek5OUWNUaWRKX0RRQ3lHcFZjZW9fOGFaOFA5bENfcVNmcg?oc=5)
 
 ---
 

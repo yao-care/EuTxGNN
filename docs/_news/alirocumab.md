@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Proteinurie: Okinawa-Studie zeigt 14,9-fach höheres Nierenversagen-Risiko](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
-
----
-
-### [DGfN 2026 | Was tun bei therapieresistenter Hypertonie und CKD?](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmdDSnQ2c1NReWJVVUhnX0VKb2ZFdzRGRlVzNHF2eXJweFFNdzk3VDlJM1RGLUR3MGpHTldQS2h5R0pMX0h2OEVKdFVLbng3MWVTcmFBTENjVEl0NWllcnk0ZkEzZWI1Y21GNFM3WHB5MG5DZjgyek9NaGljVUhodnYtSkhjeHJPUTF0dXZnQkhDelNURzZESVZzS1Y0SDh6cnVlQWo0ek5OUWNUaWRKX0RRQ3lHcFZjZW9fOGFaOFA5bENfcVNmcg?oc=5)
-
-2026-10-19 <span class="news-indication-tag">CKD</span>
-
-Source: [springermedizin.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmdDSnQ2c1NReWJVVUhnX0VKb2ZFdzRGRlVzNHF2eXJweFFNdzk3VDlJM1RGLUR3MGpHTldQS2h5R0pMX0h2OEVKdFVLbng3MWVTcmFBTENjVEl0NWllcnk0ZkEzZWI1Y21GNFM3WHB5MG5DZjgyek9NaGljVUhodnYtSkhjeHJPUTF0dXZnQkhDelNURzZESVZzS1Y0SDh6cnVlQWo0ek5OUWNUaWRKX0RRQ3lHcFZjZW9fOGFaOFA5bENfcVNmcg?oc=5)
 
 ---
 

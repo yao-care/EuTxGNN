@@ -53,19 +53,19 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 
 ## Related News (2)
 
-### [(83) Entzündungen im Darm lindern - Dr. Viola Andresen über Morbus Crohn](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+### [Antikörper im Blut zeigen Darmentzündungen lange vor den ersten Symptomen](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
 
-2026-10-14 <span class="news-indication-tag">Morbus Crohn</span>
+2026-10-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [NDR.de](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmg4T0RCWUdLcFh2dWVKMkdjVW1IWkhGVWZkWFVYREl2TVpkaDN1ak1qVF9zcHVsWXZ6dFdRUmw1SDBjTjN6aW5idGhpNnFRQ3dLekRSLWVPdzZzQUxoVlRYT0VwdTVLenZVSUJwa0RMalNsNGd3OGFaQTVlRENnbDFRbkV6bkJ4TWZBdEVVXzlya3BsaTFlMks0WnRoTmFYNFdQeDl6d0JoZ1BnWkY4dDFoOHdWR2dQcmdCLUJxaEdRQzM1eFFlYnZMOUcwbDFxQTVoTlR6cDJZNWFCYktLWmdfRlNEVDNERmZhcmNRVkVDSWc?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
 
 ---
 
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
-2026-10-14 <span class="news-indication-tag">arthritis</span>
+2026-10-18 <span class="news-indication-tag">artrite</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 ---
 

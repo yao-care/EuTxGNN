@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,21 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+### [Antikörper im Blut zeigen Darmentzündungen lange vor den ersten Symptomen](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
 
-2026-10-14 <span class="news-indication-tag">arthritis</span>
+2026-10-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+Source: [Scinexx](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
+
+---
+
+### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
+
+2026-10-18 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
 
 ---
 
