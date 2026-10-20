@@ -53,6 +53,14 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 
 ## Related News (6)
 
+### [Benefits of melatonin for MS remain uncertain, new review finds - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjhSTFFxaDR3UGsxcTZRNi05d1daTnZjMjBSMVJ4N090cDZjUnA3azRqYkNyVWlpSnJuZndxeURmLTFVOUFxYzhsZ3J1LWZISGVRSmpJTTBzeVl0Q1E0c3lpNnFxRklBb3VaeFVnVlV1RmhSWHR6clRaeEdTVlhYSFBLVDdxTS1RWUxBV0R6TVI2bHo5T0UwTHF4c3BIQS1QNlhfcXJaY1lSMWtSTk5nM1pxYWE1R2tJ?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjhSTFFxaDR3UGsxcTZRNi05d1daTnZjMjBSMVJ4N090cDZjUnA3azRqYkNyVWlpSnJuZndxeURmLTFVOUFxYzhsZ3J1LWZISGVRSmpJTTBzeVl0Q1E0c3lpNnFxRklBb3VaeFVnVlV1RmhSWHR6clRaeEdTVlhYSFBLVDdxTS1RWUxBV0R6TVI2bHo5T0UwTHF4c3BIQS1QNlhfcXJaY1lSMWtSTk5nM1pxYWE1R2tJ?oc=5)
+
+---
+
 ### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
 
 2026-10-19 <span class="news-indication-tag">obésité</span>
@@ -90,14 +98,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kx
 2026-10-17 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
-
----
-
-### [Digitale Patientenveranstaltung über „Adipositas? Wir sprechen darüber!“](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">Adipositas</span> <span class="news-indication-tag">MS</span>
-
-Source: [LokalKlick.eu](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Las vías que regulan el estrés celular se encuentran alteradas en personas con depresión y esquizofrenia](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">depresión</span>
 
 Source: [Sinc](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcXJVcnFmQ3FnamItV01BTUhrazN2RHVhX2pEVkVfbXFCVjdOT3FYN2hHOEtiZU0yQWhqMDhIaVh6Rm1tSFFJQjNETlBoTmN4NUhqNHJ4bkFoMnItVE5lM0hrQ3BIUzRIRWxKdC1Zbm9lTWMzOVF3QTVWQUlZZFNHVldnM2dOekZfVHhraUZKa3FraXN2c1l3dkhnZExua0RUQ21fX0FoU092UnA4VlZjWDBmQVZSNk5uNHNpZVQ4eVQtS1NJcHRPMDdVTm1ZU0dMT2RQc3lISQ?oc=5)
-
----
-
-### [Alzheimer, Parkinson, dépression: et si l’origine de certaines maladies du cerveau se trouvait dans notre microbiote? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
-
-2026-10-17 <span class="news-indication-tag">dépression</span>
-
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi7gFBVV95cUxObGdFbkFLTmxFTExoVm1YMDdJWnJYbDJsRlJHMWpCeXFXdE1najBsY3U3Q1o3eEVQejNRa2I5X1NqcDV2Nl9PTnh0U2NBTFUtbnBpLURRSGdVMF9JNkhIbkxTblpNM2FtclVjNzh1TlUya09PUTQ4V2NCNHN2eTFLeG1ZOFFyaE12ajB2dDFDQjI2T3UzTWFSVDVnLUMwUjFIRjNMcmE1bXhsdUlCZzE4ZEtuNkFZSWRpRWQ1U2tJZ3FFcm9pVDVnWVJ6X2h5RlNFZU0zWFMwbjJGSUVzZ0FZUnVEU0ZqV3dfeFlZT0dB?oc=5)
 
 ---
 

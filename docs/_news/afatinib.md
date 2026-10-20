@@ -14,7 +14,7 @@ permalink: /news/afatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Afatinib?">
-<strong>Afatinib</strong> currently has <strong>31 news articles</strong>, with 20 predicted indications.
+<strong>Afatinib</strong> currently has <strong>32 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,29 @@ This page combines the AI-predicted indications for Afatinib with the latest hea
 <p><a href="{{ '/drugs/afatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (31)
+## Related News (32)
+
+### [New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
+
+---
 
 ### [Muskelschwund bei Krebs: Forscher bremsen tödlichen Kraftverlust im Labor - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
+
+---
+
+### [Oncology Academy sigue impulsando la conexión entre oncología y farmacia comunitaria - IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxORThSVmxCVWl4dHpGdFkyUlNXYjdySXd3azJFeDB3akR0SzJuem50OWNYWXB4TmVKOU56clFaY1RBeWZwME5CT0JOSUY3c2JOajVoYkNOaGRmYlFpa3VZYlJldnU2MXBxYXdGVDB4TDV4THVFWHVHalVibmVlX0MydWxlQ2pyRmhySDlDYmxEWGd4MkkwZTdJNGJrM013MlVVRHdQMUVSc2VjbFdlZjRDWGtR?oc=5)
+
+2026-10-19 <span class="news-indication-tag">oncology</span>
+
+Source: [IM Farmacias](https://news.google.com/rss/articles/CBMisgFBVV95cUxORThSVmxCVWl4dHpGdFkyUlNXYjdySXd3azJFeDB3akR0SzJuem50OWNYWXB4TmVKOU56clFaY1RBeWZwME5CT0JOSUY3c2JOajVoYkNOaGRmYlFpa3VZYlJldnU2MXBxYXdGVDB4TDV4THVFWHVHalVibmVlX0MydWxlQ2pyRmhySDlDYmxEWGd4MkkwZTdJNGJrM013MlVVRHdQMUVSc2VjbFdlZjRDWGtR?oc=5)
 
 ---
 
@@ -101,7 +117,7 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaEFG
 
 ---
 
-### [GP told woman lump was 'nothing to worry' over then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
+### [GP told woman lump was 'nothing to worry' then she was diagnosed with cancer - North Wales Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxObXJibHZpaE0yRWp0UTBUYmxWa0dfQ3poOTlrdVNiV1BvcjdzcnFNbTU2QkJKU3ROV0ZCU2pkZWVxdEV4VzdUeTZHME9oOVoxNVRuQ0F1Q09aX2p3VHVWME9Dc2lQSEhEMEYxdmx3bVNTVWx6NDd2dHMyS2lpak01SG04anU?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
@@ -205,14 +221,6 @@ Source: [Sud Ouest](https://news.google.com/rss/articles/CBMiqgJBVV95cUxNMXByMG4
 
 ---
 
-### [Tragedy as local teen dies after 10lbs tumour mistaken for hormone problems - Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0ZNYmtrSnhEb3l5MndIS0dQamh2cnJhRFpwc003ZHEwdzAxdDR0OTJDWGwtOGs3UE1zRE1QM1dmUk8xSFJDZHIxYTc3ZWsxMkZpbWt0cTcySzVVOUtOV0JBOUFST0ZubTM4dzRMWnIzWndBalg3U3Y0TnhDUkhqWklZNXB4UUMxZzhGYVBlOHB0UQ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0ZNYmtrSnhEb3l5MndIS0dQamh2cnJhRFpwc003ZHEwdzAxdDR0OTJDWGwtOGs3UE1zRE1QM1dmUk8xSFJDZHIxYTc3ZWsxMkZpbWt0cTcySzVVOUtOV0JBOUFST0ZubTM4dzRMWnIzWndBalg3U3Y0TnhDUkhqWklZNXB4UUMxZzhGYVBlOHB0UQ?oc=5)
-
----
-
 ### [Norwich plasterer dies from asbestos-related cancer after decades in construction](https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGtUREF4RUhoVENSQjNfVWVDaTV0VDZka2JGbFZIdEVKT2ZrRWdPTkkxZ0pmQ0drc19HYzJXT3ExUHdaUXQxUU1jd29HalBYOEhweEwyT3pkV2gzUXVyRkQ2aDZCQlBCd3hJd1BfOWdFMW4tZnBERjdrNGhGR2h2RW9BNlhiYlJJeEZEVGp3?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
@@ -237,6 +245,14 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQkQtazdmZ
 
 ---
 
+### [Cancer : 103 000 cas supplémentaires seraient liés aux scanners, faut-il vraiment limiter leur usage dès maintenant ? - Yahoo! France](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl9BOGU0b0JvajBSaDJONUN0MUxYTnMtekJ1UDI1VVB2OFBKUEhiN0d2NnZHVFlHVTBWY216dG5sSHpoLU02WFJXZURESmpneEJ5RFpHYlE0NGxPYk1lMWpXNmc2WHk3anl3ejdkUzRQcGJidTJoYVJObV9BSmg0M3BQM3FfVU83?oc=5)
+
+2026-10-18 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo! France](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl9BOGU0b0JvajBSaDJONUN0MUxYTnMtekJ1UDI1VVB2OFBKUEhiN0d2NnZHVFlHVTBWY216dG5sSHpoLU02WFJXZURESmpneEJ5RFpHYlE0NGxPYk1lMWpXNmc2WHk3anl3ejdkUzRQcGJidTJoYVJObV9BSmg0M3BQM3FfVU83?oc=5)
+
+---
+
 ### [Tumore al pancreas: primo sì dell'Europa al farmaco che raddoppia la sopravvivenza - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjE4VmFEN2YzVVczbHdxaEE5ZkUzMWNUQzJ2c2NraGNLSnVDLUMtRUJRTTlIclFrRWt6QUtlSmdlakxNcVY2Zkh1cEZsXy1jeENrLWx0M25sOXUwYkF5dE5SNzlqTjAzUFhfRWlfXzdmbHZab1NVM29QT0E4WS1hT2t5clUyZ0FSa010elFOdzc5WGpxaUlWYm5iQWJuMUlSNmVuSXp0bGVIcTVG?oc=5)
 
 2026-10-17 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
@@ -253,11 +269,11 @@ Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloU
 
 ---
 
-### ['Pill-on-a-thread' cancer screening trial comes to Lancashire](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Kc2pQR3lFRWVINF9QazJlT09GeVBQLTJ3ZWpjSE40dVpoUktrcjR2YU5OcDZRNnN2U25VUURyQmFNVmRwdzFHMElyeS1XcmltaHZITGlKRzZDQl9BUnc?oc=5)
+### [Internationale Agentur für Krebsforschung HPV verursachte 2024 rund 750.000 neue Krebsfälle](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEFhU1ZEN1dXdDBjQzFRVnBYX2NsZnlFTFFEZlhsd0stYTE5aWp6SmQwSFNYTFZWRDlibEwzMWRlaWxaSzNiN3JyS1R0UHF6RXhacmt6cjF4SVY5WGdXMjF3Si0tMm84Q3JibFlBaE8xNGJJVDZ0cjVSTlBuVGRESE5yR2tTZHdVZEsyZmZKeExRQS1nbFlYelZYSXpwN0k?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cancer</span>
+2026-10-15 <span class="news-indication-tag">tumor</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Kc2pQR3lFRWVINF9QazJlT09GeVBQLTJ3ZWpjSE40dVpoUktrcjR2YU5OcDZRNnN2U25VUURyQmFNVmRwdzFHMElyeS1XcmltaHZITGlKRzZDQl9BUnc?oc=5)
+Source: [zm-online](https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEFhU1ZEN1dXdDBjQzFRVnBYX2NsZnlFTFFEZlhsd0stYTE5aWp6SmQwSFNYTFZWRDlibEwzMWRlaWxaSzNiN3JyS1R0UHF6RXhacmt6cjF4SVY5WGdXMjF3Si0tMm84Q3JibFlBaE8xNGJJVDZ0cjVSTlBuVGRESE5yR2tTZHdVZEsyZmZKeExRQS1nbFlYelZYSXpwN0k?oc=5)
 
 ---
 
@@ -282,14 +298,6 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-10-13 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">AF</span>
 
 Source: [ATS Montagna](https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaUpoaFM4dFRmN3pFclJDSDRqNjlULWd5WExFOWZzODhsS1FVY1lFREJiVkk5dmdiTEItZUNwN0M2R1g2Tl9zdzhsZF9kbHBNT2dfZDJ2ZS1BYTJZbnZuRHBiazByaDVwcFI0YUdzN2EyWW0y?oc=5)
-
----
-
-### [Weltweite Analyse: Einer von acht Krebsfällen geht auf Infekt zurück - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmIzSVpWU0JNN3l4N2o4b3JIcDlVUmhyMjk4X1BoR1RUXy12Z25OSVUwUzR6OXpLVlZ0WXRvZGgzN3BTRTJuQVg4ZnJ6bm9jd1VqZDNNV0R0RHpRRlhEckpnR0pGMHRLQW5tbXM5Y1B2MDVNSHZWS3lvZXlod2NucjZVUzRLQWlpaVBCdzdUSkpvMnFoczhEQk9KSDg4UzQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">tumor</span>
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmIzSVpWU0JNN3l4N2o4b3JIcDlVUmhyMjk4X1BoR1RUXy12Z25OSVUwUzR6OXpLVlZ0WXRvZGgzN3BTRTJuQVg4ZnJ6bm9jd1VqZDNNV0R0RHpRRlhEckpnR0pGMHRLQW5tbXM5Y1B2MDVNSHZWS3lvZXlod2NucjZVUzRLQWlpaVBCdzdUSkpvMnFoczhEQk9KSDg4UzQ?oc=5)
 
 ---
 

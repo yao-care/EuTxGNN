@@ -44,7 +44,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
@@ -74,6 +74,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUm
 
 ---
 
+### [«Mal di testa frequenti sin da piccola, dopo un ictus durante la gravidanza ho scoperto la malattia neurologica: attenzione ai sintomi» - Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">ictus</span>
+
+Source: [Il Messaggero](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkNPUnV1QXRXZEJGSXdXS2UyVDAtY1RQZFYwR2JTa0lSb3pVT09FaXNGR01JdHVPWktqTkxvdXZGbW00UThieWtQNnZqcTNLbjJsQ2ZpR0lVZC1qOFhveHpRY1FERUtGamt6OHA0Qnp0aFZ3OFlhWkM2RE5SMVBERkVSSUVJUG5UajBzNUhJSGFWbjlCMVF0VFN2ZkhSNXczS3JfaDNTRlJGVVVBQWFVRzhURE05dDYxbmRv0gG3AUFVX3lxTFAzcWRDWS1DcVNBYmZCTWVMTDBhcExVUWd6OFotQ1VyRG5tdXZOQ0dub21mSXRoNG5DdHJmeUNod0dfOGFXVU1SLU1uT3p4UmtuU2pBVlZZbFlHX3FYbVYwbDcxdWZrcjh4OWNKU0lBNHExZXRJczJvVXpSSm5Vam9wcVcwZ2dYYmFpeTBiQk5qUkpxYTZUekN2SFVVOURYVEo2Tk1KUUk2VlF0ajJKLWNWVVlxNUxtUQ?oc=5)
+
+---
+
 ### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
 2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
@@ -82,27 +90,11 @@ Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKN
 
 ---
 
-### [«Mal di testa frequenti sin da piccola, dopo un ictus durante la gravidanza ho scoperto la malattia neurologica: attenzione ai sintomi»](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJtcXhESXlreC1wQ3ZQdlpRT1M0NEJMVlJKSGFpcUdmcW9DZ0RhSXhueWNESDdmaHBWRHhldmh2X3hrRV8wTFoyakVXOTNNSDJEYmc3dVV2Z2FELWticWJPVVczTUZuM0FwellCOFNHLUlGMy1zNVduVXFtSklpdDJib1lURlFiOTJNbGlhSE5OTXl2cU9TZ2k1emF5YnZiZUtDSVBwWG5Ldl9oSHJLUGprY1JBZ9IBnwFBVV95cUxNS0c2dUxNU3RaUC13SExyWFVNd29zZGdRTWptd3FxR290NWtJWU1seW9QdkkwcTc4QUhOcVY0TUx6bXZXb3FGc2ZWS1BSVVRFYWVYWXZhczl0aWlKeENJQk9RTjhlZXVzVktKNkhYTUY5Y2MwR1pOUzdvRTNVOUJ3NVRJRjYwWnlCLTZ6dFNlQUU0MUdWXzZwVmp1aVoyZHc?oc=5)
-
-2026-10-19 <span class="news-indication-tag">ictus</span>
-
-Source: [Leggo.it](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWJtcXhESXlreC1wQ3ZQdlpRT1M0NEJMVlJKSGFpcUdmcW9DZ0RhSXhueWNESDdmaHBWRHhldmh2X3hrRV8wTFoyakVXOTNNSDJEYmc3dVV2Z2FELWticWJPVVczTUZuM0FwellCOFNHLUlGMy1zNVduVXFtSklpdDJib1lURlFiOTJNbGlhSE5OTXl2cU9TZ2k1emF5YnZiZUtDSVBwWG5Ldl9oSHJLUGprY1JBZ9IBnwFBVV95cUxNS0c2dUxNU3RaUC13SExyWFVNd29zZGdRTWptd3FxR290NWtJWU1seW9QdkkwcTc4QUhOcVY0TUx6bXZXb3FGc2ZWS1BSVVRFYWVYWXZhczl0aWlKeENJQk9RTjhlZXVzVktKNkhYTUY5Y2MwR1pOUzdvRTNVOUJ3NVRJRjYwWnlCLTZ6dFNlQUU0MUdWXzZwVmp1aVoyZHc?oc=5)
-
----
-
-### [Chronischer Stress: Beschäftigte mit hoher Belastung erleiden doppelt so oft Herzinfarkte](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlFdXZLU2xDeHF0Q2dUQUZpUW1JdS1QamZQX2ZrTUJnVkp3MjJpWS0yX0Yzb1JNcXlPOFU4TXlUM2JkVDE0azdobEhKdzdna0hrenhOUlRubUNoWGc4ZnFlNkxIWnMzaDB3aGszWXI1bDVzZHlmUzBNUVB6YUtsQ0htTUItWERGa3dSR3BGUDdnaVlXbFdwVDFZLWxDREFqckpwWFBVUVl3eHZ0SFgwNnpvNTItZTJINUlDeGdOQk9iQWtqaWZSTWtBeUhLcDBjSk0xeA?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODlFdXZLU2xDeHF0Q2dUQUZpUW1JdS1QamZQX2ZrTUJnVkp3MjJpWS0yX0Yzb1JNcXlPOFU4TXlUM2JkVDE0azdobEhKdzdna0hrenhOUlRubUNoWGc4ZnFlNkxIWnMzaDB3aGszWXI1bDVzZHlmUzBNUVB6YUtsQ0htTUItWERGa3dSR3BGUDdnaVlXbFdwVDFZLWxDREFqckpwWFBVUVl3eHZ0SFgwNnpvNTItZTJINUlDeGdOQk9iQWtqaWZSTWtBeUhLcDBjSk0xeA?oc=5)
-
----
-
 ### [‘Horror symptom' millions ignore at night could lead to heart failure](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">heart failure</span>
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 ---
 
@@ -135,6 +127,14 @@ Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1
 2026-10-16 <span class="news-indication-tag">heart disease</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
+
+---
+
+### [Stress im Job gefährdet das Herz: Wie Sie gesund und ausgeglichen bleiben](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMml6ajNVUFVyY0ZVT0NodFZQckxKVXBXNDJGSVk4R1dndU5ueERaQmQ5NFRMekViOWFOOU95emJ2ajJESi1zMm02MFFnRmRzWndrUGhteHY3V0dwcmt0N0kwOU5IRGhQUGphdWREaHpIVkNMMEZ6OTZOVG5qaWpQUHJtXzc2aW1fT2hBaXNyTERvdFhEWWZ1dTFoaC1NbTV2TzV2MFBYZ29PX1BhTjh1WXVvVFZjOGJhbWRVUlJjdVNHSks1bTdCbllYcUdLcjBYenhhNVBFWFA3WlUxb2xhNk1sLXY?oc=5)
+
+2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [FAZ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMml6ajNVUFVyY0ZVT0NodFZQckxKVXBXNDJGSVk4R1dndU5ueERaQmQ5NFRMekViOWFOOU95emJ2ajJESi1zMm02MFFnRmRzWndrUGhteHY3V0dwcmt0N0kwOU5IRGhQUGphdWREaHpIVkNMMEZ6OTZOVG5qaWpQUHJtXzc2aW1fT2hBaXNyTERvdFhEWWZ1dTFoaC1NbTV2TzV2MFBYZ29PX1BhTjh1WXVvVFZjOGJhbWRVUlJjdVNHSks1bTdCbllYcUdLcjBYenhhNVBFWFA3WlUxb2xhNk1sLXY?oc=5)
 
 ---
 

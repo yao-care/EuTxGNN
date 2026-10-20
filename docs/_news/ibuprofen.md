@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [10-pill warning for people taking ramipril, amlodipine, furosemide or ibuprofen - Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcF9lcnVSR2k2VjkxQVBDMTdPWWlnMEpKZFl3UC1JQy0xSlRJS2ZZcTd4MHpvejUwV00yNmZWcmRIY1lqSGFsemJwU000T3JydmpYS3VYbU5QeGRSV21pNnhsa3UycFFPYjhpeW5YbGJFTm05TGxNY3dINmpyQmxrQ9IBhgFBVV95cUxNWU1YVFk2b3hfeWxsQUY3TndmbVlFM0gxUWN3VW10QjRGSzZXT2szT0ZXOVpwZ3lJTDRPelduenFZQVpkbVpYc0pBaU1RcGdtSWZ5YXRVYUY3dENYMmxIUU9DamdZdG1DRUdWZVQtV0QtSHcyOVNKWWpmNjJvRGlWd09aV1F0Zw?oc=5)
+
+2026-10-18 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">Ibuprofen</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPcF9lcnVSR2k2VjkxQVBDMTdPWWlnMEpKZFl3UC1JQy0xSlRJS2ZZcTd4MHpvejUwV00yNmZWcmRIY1lqSGFsemJwU000T3JydmpYS3VYbU5QeGRSV21pNnhsa3UycFFPYjhpeW5YbGJFTm05TGxNY3dINmpyQmxrQ9IBhgFBVV95cUxNWU1YVFk2b3hfeWxsQUY3TndmbVlFM0gxUWN3VW10QjRGSzZXT2szT0ZXOVpwZ3lJTDRPelduenFZQVpkbVpYc0pBaU1RcGdtSWZ5YXRVYUY3dENYMmxIUU9DamdZdG1DRUdWZVQtV0QtSHcyOVNKWWpmNjJvRGlWd09aV1F0Zw?oc=5)
+
+---
 
 ### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 

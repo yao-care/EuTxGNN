@@ -3,7 +3,7 @@ layout: default
 title: "Multiple Sklerose (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Multiple Sklerose (multiple sclerosis). 24 articles, 26 related drugs."
+description: "Health news about Multiple Sklerose (multiple sclerosis). 22 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about Multiple Sklerose (multiple sclerosis)?">
-<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>24 news articles</strong> and 26 related drugs.
+<strong>Multiple Sklerose (multiple sclerosis)</strong> currently has <strong>22 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,15 @@ This page brings together the latest health news about “Multiple Sklerose” a
 </ul>
 </div>
 
-## Related News (24)
+## Related News (22)
+
+### [Benefits of melatonin for MS remain uncertain, new review finds - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjhSTFFxaDR3UGsxcTZRNi05d1daTnZjMjBSMVJ4N090cDZjUnA3azRqYkNyVWlpSnJuZndxeURmLTFVOUFxYzhsZ3J1LWZISGVRSmpJTTBzeVl0Q1E0c3lpNnFxRklBb3VaeFVnVlV1RmhSWHR6clRaeEdTVlhYSFBLVDdxTS1RWUxBV0R6TVI2bHo5T0UwTHF4c3BIQS1QNlhfcXJaY1lSMWtSTk5nM1pxYWE1R2tJ?oc=5)
+
+2026-10-19
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjhSTFFxaDR3UGsxcTZRNi05d1daTnZjMjBSMVJ4N090cDZjUnA3azRqYkNyVWlpSnJuZndxeURmLTFVOUFxYzhsZ3J1LWZISGVRSmpJTTBzeVl0Q1E0c3lpNnFxRklBb3VaeFVnVlV1RmhSWHR6clRaeEdTVlhYSFBLVDdxTS1RWUxBV0R6TVI2bHo5T0UwTHF4c3BIQS1QNlhfcXJaY1lSMWtSTk5nM1pxYWE1R2tJ?oc=5)
+
+---
 
 ### [Multiple Sklerose bei Kindern und Jugendlichen: Europäische Zulassungsempfehlung für Ocrelizumab - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
 
@@ -103,6 +111,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 
 ---
 
+### [La OMS alerta de 1.355 casos humanos de gusano barrenador en América mientras Europa vigila el riesgo de entrada - Diario Veterinario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWU5aHJDR0U0MGstM1BKQVJaTmswNUZfX24wZ1ZUZ1Y3dWxmaDc3LVlnRkh4WXZYX3ZjcjRvS2EyTjhkbFRrRGU2TTRIZGQyc1RZVFc0a1VrbjVrZ04teU9OSnhxN3VyRi1vbjB3bnZOelhJZWN6N1hpTmM5Q2c4V3NzQjhKNWNTXzkzRlJvOXAzQVF4bzFadkNkQzZjelctekgzMUlIT295UGJCZmFsN05ORDVtUmVsVllOQkFxdHhycFVfNHg4?oc=5)
+
+2026-10-19
+
+Source: [Diario Veterinario](https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWU5aHJDR0U0MGstM1BKQVJaTmswNUZfX24wZ1ZUZ1Y3dWxmaDc3LVlnRkh4WXZYX3ZjcjRvS2EyTjhkbFRrRGU2TTRIZGQyc1RZVFc0a1VrbjVrZ04teU9OSnhxN3VyRi1vbjB3bnZOelhJZWN6N1hpTmM5Q2c4V3NzQjhKNWNTXzkzRlJvOXAzQVF4bzFadkNkQzZjelctekgzMUlIT295UGJCZmFsN05ORDVtUmVsVllOQkFxdHhycFVfNHg4?oc=5)
+
+---
+
 ### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
 2026-10-19
@@ -124,22 +140,6 @@ Source: [medonline](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNk1KQ2R
 2026-10-18
 
 Source: [The Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3JzMjFwQmIzd0hoR3ljUEdTNElTUWNXR2tZQU1aLUZNbXc2Sm5IYk1CV0pRcE1ZTVlMQU0wNXIyMk9hb1FEX0xrMmpqckZFOUkwN3pHZUtaS0d3eGxLMHV3VU85enF6dUhoVXZENGE3aTJJNUN0ZXBJT2FqZk4tONIBhgFBVV95cUxNczZQQXhmV2c1MEg0bGctNlQ5Zy12cTFKT0M3NF9XYzd4U3JadkZKVnJCVUdaWTQ1UXA3Z0dvdWFoNGRTTS1ERnF6bW1FdV9QVTYxTlFNZXkxeGtYaDJ6OWp6WlI4bDVoOE41d20zdGthMXNwMHZVWWxVdWQ5QVVWS2ZrZXFlZw?oc=5)
-
----
-
-### [Tragedy as local teen dies after 10lbs tumour mistaken for hormone problems - Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0ZNYmtrSnhEb3l5MndIS0dQamh2cnJhRFpwc003ZHEwdzAxdDR0OTJDWGwtOGs3UE1zRE1QM1dmUk8xSFJDZHIxYTc3ZWsxMkZpbWt0cTcySzVVOUtOV0JBOUFST0ZubTM4dzRMWnIzWndBalg3U3Y0TnhDUkhqWklZNXB4UUMxZzhGYVBlOHB0UQ?oc=5)
-
-2026-10-18
-
-Source: [Coventry Telegraph](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc0ZNYmtrSnhEb3l5MndIS0dQamh2cnJhRFpwc003ZHEwdzAxdDR0OTJDWGwtOGs3UE1zRE1QM1dmUk8xSFJDZHIxYTc3ZWsxMkZpbWt0cTcySzVVOUtOV0JBOUFST0ZubTM4dzRMWnIzWndBalg3U3Y0TnhDUkhqWklZNXB4UUMxZzhGYVBlOHB0UQ?oc=5)
-
----
-
-### [Congo confirms Ebola outbreak has spread to eighth province](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5)
-
-2026-10-18
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjVqWTdwRmJJenVaNWxPNGNIZ2Q3a0RuMVNCOVFyXzZYTjA0WW15OF9lR1pLUVlQamlndV91UVJWRnpjbDNERTQxdEJDb3R6Sm9NWTNrSkVRcjFGSXktd3RuZG14TmdDb1VicEl2RjVTMkRQUnlYYVhhVTdrU3duY3RfTnM3LU9SZndETG0xTWc4dk9SbEVObGVPRmwwSDNBWVRLUzhKZ19TZ0ZwWm5lcFRKcE1ob2JvYXBFYThkazdBeDA?oc=5)
 
 ---
 
@@ -172,14 +172,6 @@ Source: [The Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxORkgxelc
 2026-10-17
 
 Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
-
----
-
-### [Idiopathische Lungenfibrose: Inhalatives Treprostinil bremst wohl Progression](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUF5dHhNQlpLZ0dOeGpUWGJiVFNSUEZsSG16bFQ0SnBNbHh3dGZVVE5leXdYZFVtSENQdWZhRGt6d3NHR3dHWmpnQXQ2RldibmlFX2NqM3F0SkV4OFR1WktzcDlLRTlQZm1xRzlMTTdKcm5vdE9yR2pTRzZzM0ZNY0Y0TXA3cUI5V2ZqRUxya0haakhZY3A4RW9fVFdCS0RaUXc?oc=5)
-
-2026-10-16
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUF5dHhNQlpLZ0dOeGpUWGJiVFNSUEZsSG16bFQ0SnBNbHh3dGZVVE5leXdYZFVtSENQdWZhRGt6d3NHR3dHWmpnQXQ2RldibmlFX2NqM3F0SkV4OFR1WktzcDlLRTlQZm1xRzlMTTdKcm5vdE9yR2pTRzZzM0ZNY0Y0TXA3cUI5V2ZqRUxya0haakhZY3A4RW9fVFdCS0RaUXc?oc=5)
 
 ---
 
@@ -228,14 +220,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS
 2026-10-13
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
-
----
-
-### [Digitale Patientenveranstaltung über „Adipositas? Wir sprechen darüber!“](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
-
-2026-10-13
-
-Source: [LokalKlick.eu](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFBGaXoteG5iLUhGZXJfblE5eWtWNVhIemxMT2Q3dUlObWxLdmFhQllwaFE5UVZTRlQwYTZnejQwSkl1X1RBenVYZERVZVRsY1h6NjdEN0NiVTNFd0lWTGVudk9TVkZhX3IyYkItajVKbThreGJXOHFXcHpUMG1GSFpXZDNvRnVtNUpiMENjRVM2akZyUEVLcHN6bWFYZmFiM0RnVlZKUQ?oc=5)
 
 ---
 

@@ -57,7 +57,7 @@ This page combines the AI-predicted indications for Laronidase with the latest h
 
 2026-10-18 <span class="news-indication-tag">heart failure</span>
 
-Source: [AOL.com](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
+Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 ---
 

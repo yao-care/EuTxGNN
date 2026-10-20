@@ -14,7 +14,7 @@ permalink: /news/lixisenatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Lixisenatide?">
-<strong>Lixisenatide</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Lixisenatide</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,13 @@ This page combines the AI-predicted indications for Lixisenatide with the latest
 <p><a href="{{ '/drugs/lixisenatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
 
-### [Wechseljahre: Frühe Menopause vor 45 erhöht Diabetesrisiko um rund 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
+### [Beeinflusst Reihenfolge beim Verzehr von Lebensmitteln den Blutzucker? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
 
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
+Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
 
 ---
 
@@ -66,6 +66,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPam
 2026-10-19 <span class="news-indication-tag">diabete</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxOaWJaZEZRT0RjcENUNTNLVWhLUGxxeElncWxaR213aHNwS3UyTERadlFWdURORDNrQTVEQXd4c0dMd3pnZEJyYzdTRmJrcHhVVDZHRFdtWkp4d3hPenM2MDR2eVZFZTdqRmdUMkFBUVFvaGpLYS00T3VlYXJpZGxOZXVGOXl2REtOVWVDdXpFVzJaT2w2S0pXRzZFYWhzQjVoa0llMUtHelpnUWh5TXZUcWljbWptMTZRVFJ4cnBPSkoyUkhFek9ZM2pyZVF1dW9tb2NRbDlkSXR4MFZ5ZHJjeVB3MlA1ZTFTcUdLRGh2c211VkdWVk5fR1p5SHdwcndTMTd5NUNPTS1MUm9MSFlycXpjQk1pZGlDQ0HSAZ8CQVVfeXFMT0R5SDJzeExvcU95cnMwZjdPSVlRZE1qQjZ4TVFPTEJVU2poY3Y4ZXV1dVlGOUI3Y3NqQTZURVR1bGl4NDV5Q0drRk9pV1dpTzVOamZZWkY4X08zNU5ocUNZRF9aNG9QQ1BBWnJEMktMaXZmMXloXzdwemVlWTBUQ0tIMzhKNEZmUVhjZmM1M1ltdUUtTVVnYXRWLTNGeWlBTXdtZGh6SlRqT0traE1mOE8yNFpNcmJvMm1PSWd5TW5ablRqM1hqOGhRZUgySl9FaE44VFZWMGVJb2pRNVI2YzJQMVdTVy1YbG43bkRPWk5EQlV1TkItOU5XRllhLXNCaElwenBlUGdGUWNlb3VjVjVfaG83Q0piQmVrUHZ4VW8?oc=5)
+
+---
+
+### [Menopause und Diabetes](https://news.google.com/rss/articles/CBMiY0FVX3lxTFByZFF3TVg0Nnl5WC15LUVFbEk4SDVvSHJLdHpzanFJRDZ3ckR1ZE04U0JhT2JlUVJtUFNCbGlPRmxaZ3hTZldBdnI3U0VYY3FQVVc4YlBGa1NsRm9zalotM1BoQQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiY0FVX3lxTFByZFF3TVg0Nnl5WC15LUVFbEk4SDVvSHJLdHpzanFJRDZ3ckR1ZE04U0JhT2JlUVJtUFNCbGlPRmxaZ3hTZldBdnI3U0VYY3FQVVc4YlBGa1NsRm9zalotM1BoQQ?oc=5)
 
 ---
 
@@ -85,11 +93,19 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9kUFV
 
 ---
 
-### [Prädiabetes: Nur Lebensstilinterventionen senken das Risiko für Multimorbidität](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
+### [Früher Typ-2-Diabetes: Zwei Maßnahmen bessern die Symptome – ohne Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabetes</span>
+2026-10-16 <span class="news-indication-tag">diabetes</span>
 
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVgzUzdvb3lPMkZ1WlNRZnhoVEZ2NkNrd2tyM2FuVU1QTF9rUTNTWlRtZ29FMGZQUFMxU0Z3MVVjd0IwUHhnaFlvbFFNTnVIUEdjbnhFcGl5VWxmNTlHaFdkYW4xeDFjd2VtMlNlRldRNi1BaXlzNGtfR0ZZZDVHRkJPNVIwaXZSTndrdEtQZTVWMjFzNjlSajduVmJ2UENHOEM5R0ZYdDhhLVo4aURLMUFJMA?oc=5)
+Source: [T-Online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
+
+---
+
+### [La tua voce ti dice come stai invecchiando - la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
+
+2026-10-15 <span class="news-indication-tag">diabete</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
 
 ---
 
