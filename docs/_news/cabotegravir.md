@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,9 +51,25 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
-### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+---
+
+### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+---
+
+### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
 2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
@@ -66,6 +82,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZ
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
+
+---
+
+### [Bone-on-bone knee arthritis: Why surgery is not always necessary and why consulting an orthopaedic specia - The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">arthritis</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
 
 ---
 
@@ -82,14 +106,6 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
-
----
-
-### [Wechseljahre: Frühe Menopause vor 45 erhöht Diabetesrisiko um rund 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
 
 ---
 
@@ -114,14 +130,6 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95c
 2026-10-15 <span class="news-indication-tag">diabete</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">arthritis</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

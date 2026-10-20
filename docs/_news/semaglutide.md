@@ -53,7 +53,23 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (10)
 
-### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+---
+
+### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+---
+
+### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
 2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
@@ -90,22 +106,6 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
-
----
-
-### [Wechseljahre: Frühe Menopause vor 45 erhöht Diabetesrisiko um rund 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
-
----
-
-### [Cibi ad effetto ozempico: dovrebbero simulare l'effetto dell'ormone GLP-1](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVJjMGFvc041a0hQUmFDNmliMXFzelRGNzVDdU1UT0hWallRR2hlVlRMM1NUU3VzWkp1QWhoUHZ0ODhyZ0pLMlRFWDB2c1ZnaV9EUkxmSGNDdFA3ZVBqRlNEVEJ1TzRBWlUtQ2EyV2lvamstbjVnNTRtRTJEZUF1aDhTMkpQMWN4MnBxUkZYX3FLaGwwQlE1Qk94SDYwYUdENF9LbHAwWmdyUnctQnFKWnZRNFhUeWM?oc=5)
-
-2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">AF</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVJjMGFvc041a0hQUmFDNmliMXFzelRGNzVDdU1UT0hWallRR2hlVlRMM1NUU3VzWkp1QWhoUHZ0ODhyZ0pLMlRFWDB2c1ZnaV9EUkxmSGNDdFA3ZVBqRlNEVEJ1TzRBWlUtQ2EyV2lvamstbjVnNTRtRTJEZUF1aDhTMkpQMWN4MnBxUkZYX3FLaGwwQlE1Qk94SDYwYUdENF9LbHAwWmdyUnctQnFKWnZRNFhUeWM?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 22 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>22 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>15 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,15 +45,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (22)
-
-### [Ban ‘intrusive’ cameras on mental health wards in England, say bereaved families - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0liamFyZW1TXzd1cE9BNHpwdkhfeHdtTlpsY0FRRngxbUR2bU9OeXlBdld0d1F6NFNPVzJBQUhGMFZ1NTU2X0UySUJNU2lGaHRfVjd4dE5NQUlXci1jT2FIQ2YyTGNIN1V4NndPX0R1Zi1ORDJvVmdHRXNSY01iUFBNSTV2NVpwM3BfNzZJeXdlek9zOU9ENkNISWJZVlVrc1ZGZ1BzVHIzbXdEWkRJbDc3VWc0UQ?oc=5)
-
-2026-10-20
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0liamFyZW1TXzd1cE9BNHpwdkhfeHdtTlpsY0FRRngxbUR2bU9OeXlBdld0d1F6NFNPVzJBQUhGMFZ1NTU2X0UySUJNU2lGaHRfVjd4dE5NQUlXci1jT2FIQ2YyTGNIN1V4NndPX0R1Zi1ORDJvVmdHRXNSY01iUFBNSTV2NVpwM3BfNzZJeXdlek9zOU9ENkNISWJZVlVrc1ZGZ1BzVHIzbXdEWkRJbDc3VWc0UQ?oc=5)
-
----
+## Related News (15)
 
 ### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
 
@@ -63,11 +55,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV9
 
 ---
 
-### [De retour du front d’Ebola en RDC, une pédiatre alerte sur le sort des enfants : «Nous avons passé trop de journées dans le noir](https://news.google.com/rss/articles/CBMipwJBVV95cUxPWmJFeE5iNHpfRDZHZ3hHVmVwZUl3czNwUWVrNENyWGw4YTFnQWY5UFp2YjFsQTB5bFhlTmlpaEZpNEpOWG5CSU1mTUN4S3EtZFBha3JBU3lCbG1uYkQ1NDN1eXA3U25qdHFGSlJ2ekozenRwUzNhemY4bUZLbW5DUE5kQnJHSjA4VXNaVnlHSEVKejFLVW1KWHdnbERROU5qYS1mQXJOVUJhVkNScEdRYzZJclBZN05YWlNwbFhndS1qUk9Rd1J4bXBUWm5KZXBBVHZfWkVMZXVWLTF1V29FdnpIR25lVTFmLTBtY2ZVQkU2QUloWnBzakNxTHlMX3VQY0tONUh2cS1WeEFCRUUzZGVZc29xcjVRdWFsSzBSWG1YQlBuWVRR?oc=5)
+### [New 'American' Covid is sweeping the UK: The unique symptom to be aware of as hospitalisation rates grow](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4OUVhejRxdmJKclYza2dSOTJHZXJnemV0SGU1MENwSk5BWXFjUEdxb1A5anFHQW03cEYyQ1JIaW1fVEdpNER5ek8yRGJLOVNBZWhySk94VTNlV25IbDNaRkN1RU9WckN0MmdaVFc5U29CeTBidm85b1l6YXR0Rkxja3U?oc=5)
 
 2026-10-20
 
-Source: [Libération](https://news.google.com/rss/articles/CBMipwJBVV95cUxPWmJFeE5iNHpfRDZHZ3hHVmVwZUl3czNwUWVrNENyWGw4YTFnQWY5UFp2YjFsQTB5bFhlTmlpaEZpNEpOWG5CSU1mTUN4S3EtZFBha3JBU3lCbG1uYkQ1NDN1eXA3U25qdHFGSlJ2ekozenRwUzNhemY4bUZLbW5DUE5kQnJHSjA4VXNaVnlHSEVKejFLVW1KWHdnbERROU5qYS1mQXJOVUJhVkNScEdRYzZJclBZN05YWlNwbFhndS1qUk9Rd1J4bXBUWm5KZXBBVHZfWkVMZXVWLTF1V29FdnpIR25lVTFmLTBtY2ZVQkU2QUloWnBzakNxTHlMX3VQY0tONUh2cS1WeEFCRUUzZGVZc29xcjVRdWFsSzBSWG1YQlBuWVRR?oc=5)
+Source: [Cosmopolitan](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4OUVhejRxdmJKclYza2dSOTJHZXJnemV0SGU1MENwSk5BWXFjUEdxb1A5anFHQW03cEYyQ1JIaW1fVEdpNER5ek8yRGJLOVNBZWhySk94VTNlV25IbDNaRkN1RU9WckN0MmdaVFc5U29CeTBidm85b1l6YXR0Rkxja3U?oc=5)
 
 ---
 
@@ -119,22 +111,6 @@ Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/ar
 
 ---
 
-### [Früher Ocrelizumab-Start schützt langfristig vor MS-Progression - Gelbe Liste](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjZHZ0pBRlZmU3NmaGx4akZsbkdza2d0ZXJ3NG9PVTNTQ0NxMlVKZzlLWDhvdmpFeThmeFZaYnp6T1FVNTZJVFdUSmxsVnlnNllvQXdYUEYtLV84THRaQm9iREFhdFhOcTJhMEFmeThSWkFxVnNRbG9FN01TNzFuTXhsN1N4emE2RUFPeGR5VmpSdDBCLWtOcXJ5U2s0emV3ZTNyZw?oc=5)
-
-2026-10-19
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjZHZ0pBRlZmU3NmaGx4akZsbkdza2d0ZXJ3NG9PVTNTQ0NxMlVKZzlLWDhvdmpFeThmeFZaYnp6T1FVNTZJVFdUSmxsVnlnNllvQXdYUEYtLV84THRaQm9iREFhdFhOcTJhMEFmeThSWkFxVnNRbG9FN01TNzFuTXhsN1N4emE2RUFPeGR5VmpSdDBCLWtOcXJ5U2s0emV3ZTNyZw?oc=5)
-
----
-
-### [B-Zell-Therapien bremsen frühe entzündliche MS-Aktivität - Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQSWtRT3RaQXFQYUFtLVQyUkQ4emJaeGhOTnNaOGJkREo5b3h0ZDFNbXMycDRZS0EtbndtWGJKU0NNanA1SjF0SllKb0NaYUV4RVpQa3c3emVoVjZxQzJiZkQyTzNlSnJPQ3pwSDQ0MXhVR09UQmNKaFhjVzA3U282RE9vZGVTdUs5VVpqU0NhVGdrQnJWdS1Kb0QzS1ZuZw?oc=5)
-
-2026-10-19
-
-Source: [Gelbe Liste](https://news.google.com/rss/articles/CBMingFBVV95cUxQSWtRT3RaQXFQYUFtLVQyUkQ4emJaeGhOTnNaOGJkREo5b3h0ZDFNbXMycDRZS0EtbndtWGJKU0NNanA1SjF0SllKb0NaYUV4RVpQa3c3emVoVjZxQzJiZkQyTzNlSnJPQ3pwSDQ0MXhVR09UQmNKaFhjVzA3U282RE9vZGVTdUs5VVpqU0NhVGdrQnJWdS1Kb0QzS1ZuZw?oc=5)
-
----
-
 ### [I spent hundreds on hair-growth products - £1.23 daily supplement finally worked - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQS21oRTBJVkt1QUdiRlZiRVhjWHVBTXEydkhQdnVwYVM0QnN2VUNqZkM2NHFPSHNqdnNyZmp1ZEk1R1R1am9GekZKbm84RXl3aEtydnVzcHZDUDI2NG1NeFdESUp5cjg2Q1RibEQyZ2g3X1Z5dHVORnBwUEJES3hta0FMaWQ2TTA?oc=5)
 
 2026-10-19
@@ -151,14 +127,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbF
 
 ---
 
-### [El aviso del cardiólogo Aurelio Rojas sobre este alimento: "Uno de los peores para la salud" - Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXFxMGhMY05wblNJdnJTUTZiQkhnVE1lb3B2Q3pESWJaUUFVeXM2OGpWV1VvUThUVnZPX3d5R0pYaHlCUUdZRFl0MWc0amhTNm9YcVFKYWVIcE03N21MaU96X05VVWVnbGVFUDhGY0wyaFlpS0VMNUEtY3dXOWxwQ0N2MzRWVjNib1VHVzVUTVVvUU00VUg1OTVNeEFzMHNnZGhUMTl1Q3dXT21idDJZ0gG0AUFVX3lxTE44NG9DZG1YbkVlSE80ZTlNWVdCSG1lQk5FaUJBV3M1RE9nWndOZG5sUXl6UzhVVEJDZTZ3UmNWbWsyeDZ5dlRwY3VmY3IxSl9fc0VMZ0pSX3NSbzFBZmFUeF9VTkk2RXMwOGZ1RU13MVA3QXFFNzhlaEZpNUhHWURMc0pDb3pLdUU5MlZGeGlHYVh1eHZLbDRRX1hqMXBwQ0oyVTV0cWs4MkFFWEhDNGZHRjdudw?oc=5)
-
-2026-10-19
-
-Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXFxMGhMY05wblNJdnJTUTZiQkhnVE1lb3B2Q3pESWJaUUFVeXM2OGpWV1VvUThUVnZPX3d5R0pYaHlCUUdZRFl0MWc0amhTNm9YcVFKYWVIcE03N21MaU96X05VVWVnbGVFUDhGY0wyaFlpS0VMNUEtY3dXOWxwQ0N2MzRWVjNib1VHVzVUTVVvUU00VUg1OTVNeEFzMHNnZGhUMTl1Q3dXT21idDJZ0gG0AUFVX3lxTE44NG9DZG1YbkVlSE80ZTlNWVdCSG1lQk5FaUJBV3M1RE9nWndOZG5sUXl6UzhVVEJDZTZ3UmNWbWsyeDZ5dlRwY3VmY3IxSl9fc0VMZ0pSX3NSbzFBZmFUeF9VTkk2RXMwOGZ1RU13MVA3QXFFNzhlaEZpNUhHWURMc0pDb3pLdUU5MlZGeGlHYVh1eHZLbDRRX1hqMXBwQ0oyVTV0cWs4MkFFWEhDNGZHRjdudw?oc=5)
-
----
-
 ### [Russian pneumonia death exposes limits of international health rules](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ1Vta001V3Y1WnFid21mWjBhYjdWSmw3b0R5RTNoU0ZBWjVJYWFiZUlCZVUzNndheGpqZEdmVHlzcHYyRzRweldIcUVaZW1BRkVveVNOQzhYOUZDbTZHM3FRbnpGQkh2TGtvbXd5bDBFNmpaOUdlaFlUdUQ2S19ZeEJFbmZ2a0YwZ09Rbzk3Y21hSzlCNUpDNXh3LUcxNTlJ?oc=5)
 
 2026-10-19
@@ -167,11 +135,11 @@ Source: [POLITICO.eu](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ
 
 ---
 
-### [Antibiotika in der Kindheit könnten späteres Reizdarmsyndrom begünstigen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY012ajlEZHVMX25oSzhuTjJMUTM3QmFpSkxjSU4tV1VZak85Tkpnbm8xSVkwaFBZcHBGV3c0TEsteFB4SG9CakdoYXI4SFJQQl9yVUJaSlB2N3g4dDVhalcyOUtONGJBY3lRZVBuS2xEVENOOExtVG1wMlM5R20yaXVZU19aYUNsLVF4Ulc3a0RIVm1rXzhvb1hvSzh0TnJEMlJZN3dCRThsd1BYUzVIVGpBcnFFQXpJVDlqZXNGQVZaX2ZwSmxYTHlfdEY1UHFySDJrbzBzQXA?oc=5)
+### [Antibiotika für Kinder: Bei diesen Mitteln steigt das Reizdarm-Risiko bis auf das Sechsfache - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnpMTzFnTlBsUkR6d2VielNoclk0R0dCeHphSEdCT1BYYzZSQlpsc21oOGtwd0laREtlMjR4UDRzbEhLbmVnX2IyLWhXNTBYdm5yRVI3dkk2VlM3NXIzbU5YT1BCRXl2YTU4aEEwX25oa1Y2bnlZbmhDb1ZFN081QllBaFZmcmpjODFFUTZtdjJ2eDVsMTU1cG5CUzJvYTBSOFpDUQ?oc=5)
 
 2026-10-19
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY012ajlEZHVMX25oSzhuTjJMUTM3QmFpSkxjSU4tV1VZak85Tkpnbm8xSVkwaFBZcHBGV3c0TEsteFB4SG9CakdoYXI4SFJQQl9yVUJaSlB2N3g4dDVhalcyOUtONGJBY3lRZVBuS2xEVENOOExtVG1wMlM5R20yaXVZU19aYUNsLVF4Ulc3a0RIVm1rXzhvb1hvSzh0TnJEMlJZN3dCRThsd1BYUzVIVGpBcnFFQXpJVDlqZXNGQVZaX2ZwSmxYTHlfdEY1UHFySDJrbzBzQXA?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnpMTzFnTlBsUkR6d2VielNoclk0R0dCeHphSEdCT1BYYzZSQlpsc21oOGtwd0laREtlMjR4UDRzbEhLbmVnX2IyLWhXNTBYdm5yRVI3dkk2VlM3NXIzbU5YT1BCRXl2YTU4aEEwX25oa1Y2bnlZbmhDb1ZFN081QllBaFZmcmpjODFFUTZtdjJ2eDVsMTU1cG5CUzJvYTBSOFpDUQ?oc=5)
 
 ---
 
@@ -180,22 +148,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2AFBVV9
 2026-10-19
 
 Source: [Women's Health Australia](https://news.google.com/rss/articles/CBMifkFVX3lxTE96eHVReEZMSmZwcVJaaWJPeWZuTEcwSzR3Y3ZzOG5FbTlnU29qVHUxcHN3SzBZOTJER1I5c1NvaUdjUThWSlIwYTBwbTZ6eXJpNjRvRjE3dDA1OURaRmdlcDQ4VmVwa3Vjalk1cGozQTNHRXgtQ3YyQzEyUzJIQQ?oc=5)
-
----
-
-### [American Covid cases rise in UK as expert shares key symptoms to watch for - Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3JzMjFwQmIzd0hoR3ljUEdTNElTUWNXR2tZQU1aLUZNbXc2Sm5IYk1CV0pRcE1ZTVlMQU0wNXIyMk9hb1FEX0xrMmpqckZFOUkwN3pHZUtaS0d3eGxLMHV3VU85enF6dUhoVXZENGE3aTJJNUN0ZXBJT2FqZk4tONIBhgFBVV95cUxNczZQQXhmV2c1MEg0bGctNlQ5Zy12cTFKT0M3NF9XYzd4U3JadkZKVnJCVUdaWTQ1UXA3Z0dvdWFoNGRTTS1ERnF6bW1FdV9QVTYxTlFNZXkxeGtYaDJ6OWp6WlI4bDVoOE41d20zdGthMXNwMHZVWWxVdWQ5QVVWS2ZrZXFlZw?oc=5)
-
-2026-10-18
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3JzMjFwQmIzd0hoR3ljUEdTNElTUWNXR2tZQU1aLUZNbXc2Sm5IYk1CV0pRcE1ZTVlMQU0wNXIyMk9hb1FEX0xrMmpqckZFOUkwN3pHZUtaS0d3eGxLMHV3VU85enF6dUhoVXZENGE3aTJJNUN0ZXBJT2FqZk4tONIBhgFBVV95cUxNczZQQXhmV2c1MEg0bGctNlQ5Zy12cTFKT0M3NF9XYzd4U3JadkZKVnJCVUdaWTQ1UXA3Z0dvdWFoNGRTTS1ERnF6bW1FdV9QVTYxTlFNZXkxeGtYaDJ6OWp6WlI4bDVoOE41d20zdGthMXNwMHZVWWxVdWQ5QVVWS2ZrZXFlZw?oc=5)
-
----
-
-### [Wer Kaffee trinkt und viele Früchte isst bremst die Zellalterung – Heilpraxis – Heilpflanzen, Gesundheit und Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
-
-2026-10-17
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ29Ea3l5bTQ4X3g5S1ZoTFlmc1FXNkUyNTVJOGZyVWZ5Um5yaGtCYUxDR1c3bnA3dTJ2OXFkbUhBbVgwWmlqaHJsamp6Y2tnSGNoQ3BnM2Rjck5ZeUtIb2lfRkR5OFQxTnhES0hYcmNhRnNqaHMyd0ctTDFmeHhwX2RwODJGUWVRLTJheXE5LTZ2VmpPOTVKRTJ0cUUxRWZGVi1PV09lY1JOSmVtNUZGVkZ0TEMzSWt0enctbm8wUQ?oc=5)
 
 ---
 
@@ -212,14 +164,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhq
 2026-10-14
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fck5CSEpva1pzSkJlWG85MVZVbllYUjA3UUlxSUZxYlRYU2dpdXFlZFVMOHhkOGRveEtWWGU3ZW1JMnFlSmdtazJHdzhpTHdwRmJTY1RCTDdSWXBkdXJj?oc=5)
-
----
-
-### [What dietitians say to eat during perimenopause – and what to avoid](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVNwWVduVkNDUEV5Xy1ob0NINE9UZGZfZi1xdkVBRml4ZklzbmMwcTVzbEljWk51MkZ6ck1HaG56NkxKYi1xYUc2Qk56Z2JfeXhHOWZFZDRfMHg1?oc=5)
-
-2026-10-14
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVNwWVduVkNDUEV5Xy1ob0NINE9UZGZfZi1xdkVBRml4ZklzbmMwcTVzbEljWk51MkZ6ck1HaG56NkxKYi1xYUc2Qk56Z2JfeXhHOWZFZDRfMHg1?oc=5)
 
 ---
 

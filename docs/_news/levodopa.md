@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Levodopa</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
-2026-10-15 <span class="news-indication-tag">dementia</span>
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

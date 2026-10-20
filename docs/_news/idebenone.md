@@ -61,11 +61,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ---
 
-### [Bluthochdruck: 20 Millionen Erwachsene betroffen, vier Millionen ahnungslos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
+### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-18 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
+Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
 ---
 

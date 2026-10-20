@@ -14,7 +14,7 @@ permalink: /news/naloxone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naloxone?">
-<strong>Naloxone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Naloxone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,15 +51,9 @@ This page combines the AI-predicted indications for Naloxone with the latest hea
 <p><a href="{{ '/drugs/naloxone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [«Ho fatto 5 Olimpiadi, il tumore al pancreas la sfida più grande. Daraxonrasib? Non posso permettermelo. Oggi lotto per le mie figlie»](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnZQNnM4LW9EZG5kWlQwdmdsUVo4MHZMREV6X2ptYkhuM3lKUUdGTVJrRi1CSWxkN2x1QXhfb0h4U2YwNGYybTUzOGozampSdEdkc3psZEpxVkNNbXBXOC1EV2FwSlM2SGw0MVlRRFZ2MnRBbUxSeGloUndTdzd2Z0NMMThjSHBmMmFHWThZYnJ2Z0N1endPTUoyNWNObGZmdHZ3amdpMndSLUFWTkFzZ0M5UQ?oc=5)
-
-2026-10-20 <span class="news-drug-tag">Naloxone</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">obesità</span>
-
-Source: [Leggo.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnZQNnM4LW9EZG5kWlQwdmdsUVo4MHZMREV6X2ptYkhuM3lKUUdGTVJrRi1CSWxkN2x1QXhfb0h4U2YwNGYybTUzOGozampSdEdkc3psZEpxVkNNbXBXOC1EV2FwSlM2SGw0MVlRRFZ2MnRBbUxSeGloUndTdzd2Z0NMMThjSHBmMmFHWThZYnJ2Z0N1endPTUoyNWNObGZmdHZ3amdpMndSLUFWTkFzZ0M5UQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

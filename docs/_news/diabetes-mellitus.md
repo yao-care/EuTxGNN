@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabete (diabetes mellitus) News"
+title: "diabetes (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabete (diabetes mellitus). 8 articles, 86 related drugs."
+description: "Health news about diabetes (diabetes mellitus). 9 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabete (diabetes mellitus) News
+# diabetes (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
-<strong>diabete (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
+<strong>diabetes (diabetes mellitus)</strong> currently has <strong>9 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -93,9 +93,25 @@ This page brings together the latest health news about “diabete” and lists t
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
-### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+2026-10-20
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+
+---
+
+### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+2026-10-20
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+
+---
+
+### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
 2026-10-20
 
@@ -124,14 +140,6 @@ Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV
 2026-10-19
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
-
----
-
-### [Wechseljahre: Frühe Menopause vor 45 erhöht Diabetesrisiko um rund 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
-
-2026-10-19
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPampsZUZ0a2lvdGs4c1REd0RzQWFSZndPcFJOSnA0ejhQTWt2ekh2QTVOTVh0YTB3S0d2eVJTSzlMYTFKUFZnajVGM1hEMEQ3OWFmcjZhaXJJaE9vMFNiSkFrVU1Hai03TmJrdFY4SUhWUndqcExTa0RFMTYxZ1JXSC05T19BcW9oMmZ0RkpYUVYwQXp3bXBOODVoWkpUWXdhMDU3OHV1QVF2V1RmYVZYeDllOElSVklpOHhiVmVpX1lTeF9kZUE?oc=5)
 
 ---
 

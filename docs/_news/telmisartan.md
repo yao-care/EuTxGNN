@@ -74,19 +74,19 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTh
 
 ---
 
+### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+
+Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+
+---
+
 ### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
-
----
-
-### [Bluthochdruck: 20 Millionen Erwachsene betroffen, vier Millionen ahnungslos](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
-
-2026-10-18 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
 
 ---
 
