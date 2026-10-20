@@ -14,7 +14,7 @@ permalink: /news/saxagliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Saxagliptin?">
-<strong>Saxagliptin</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Saxagliptin</strong> currently has <strong>8 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Saxagliptin with the latest 
 <p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
@@ -66,6 +74,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNH
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
+
+---
+
+### [An eating disorder may be hiding in plain sight among adults with type 2 diabetes - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
+
+2026-10-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/opicapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Opicapone?">
-<strong>Opicapone</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Opicapone</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,29 +51,13 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [La investigación canaria profundiza en los mecanismos celulares relacionados con la enfermedad de Parkinson - Gobierno de Canarias](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMzk0ZEJmakRWOTIza1UyZFBPa0tKM0czY0E0SGJLTDhRQnE5Qm01NlFQTFNNNHQ1bmlRRkxpMVRsRXZFMTVnOWx4aklpdnU3dThxSUtUTjF4aGRZN2Z4X040YmNVVlBVOU1oemM5Q1hYNE1BTDc3VS1zUlpmLUhmR2RjQ09JT3JnSzhhYTZWc1lmTFVXNnF0UVVpeVhFMjU2SllwRURNTDF4YWRuRjZOZk45bWJzNm1HeDdIOExCT1ZzeTNfc19QbncwN21MdTNLdERnT2ktNXJTbGNnV1d6N2RJTHBEamZx?oc=5)
+### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
-2026-10-20 <span class="news-indication-tag">enfermedad de Parkinson</span>
+2026-10-15 <span class="news-indication-tag">dementia</span>
 
-Source: [Gobierno de Canarias](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMzk0ZEJmakRWOTIza1UyZFBPa0tKM0czY0E0SGJLTDhRQnE5Qm01NlFQTFNNNHQ1bmlRRkxpMVRsRXZFMTVnOWx4aklpdnU3dThxSUtUTjF4aGRZN2Z4X040YmNVVlBVOU1oemM5Q1hYNE1BTDc3VS1zUlpmLUhmR2RjQ09JT3JnSzhhYTZWc1lmTFVXNnF0UVVpeVhFMjU2SllwRURNTDF4YWRuRjZOZk45bWJzNm1HeDdIOExCT1ZzeTNfc19QbncwN21MdTNLdERnT2ktNXJTbGNnV1d6N2RJTHBEamZx?oc=5)
-
----
-
-### [Alzheimer’s patients ‘betrayed’ by NHS drug ban, charity warns - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
-
-2026-10-18 <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
-
----
-
-### [The £3 vegetable that improves sleep and reduces risk of dementia - Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">dementia</span>
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
 ---
 

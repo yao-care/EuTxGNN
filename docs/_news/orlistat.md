@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,13 +51,29 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
 
-### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
-2026-10-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
+
+### [Va in pensione e poco dopo arriva un infarto o un ictus: cosa succede davvero al nostro corpo quando smettiamo di lavorare?](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+
+2026-10-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+
+---
+
+### [Forscher nutzen ChatGPT-ähnliche KI, um Schlaganfallrisiko aus DNA zu bestimmen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
 
 ---
 
@@ -77,27 +93,27 @@ Source: [Leggo.it](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnZQNnM4
 
 ---
 
-### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
-2026-10-19 <span class="news-indication-tag">obésité</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
----
-
-### [Obesità, oltre 8.000 donne seguite nella vita reale: quanto peso si perde con i nuovi farmaci](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+### [Vitamina D e obesità, il legame sorprendente scoperto analizzando oltre 110mila persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">obesità</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
 
 ---
 
-### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+### [Un traitement "miracle" contre l'obésité... Attendu pour 2028, "King Kong" s'arrache déjà sur le marché noir](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODRyNnJPTnJZU2IxeTl4U1M2Z3g1X3Bjb3E3TkFBM1ZxdTJmWkRPZ29zdE54NWZLUFZRMXY3VG9sYXA5eDRkaTRsbUw0OTFjVGFNa3Bxa2VtSHlTY2o1a1RoMGloNm96eEYwb3JlZEw4OVlubjUyVnRmeFlwaUpYYktTZjNaZnphYUh0VDZ6RUZGWjlYcUlYZE5IUkJVRFhfNFlfWjZqc3VfRW94YVR0bWJieEh5OEZUVXJVbVBORDNfQ1oxcS1YbUpHVXVzUGtuemtCeDI4N0prS1FhWU5GR20ybVdRck5L?oc=5)
 
-2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-10-19 <span class="news-indication-tag">obésité</span>
 
-Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+Source: [tv5monde](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODRyNnJPTnJZU2IxeTl4U1M2Z3g1X3Bjb3E3TkFBM1ZxdTJmWkRPZ29zdE54NWZLUFZRMXY3VG9sYXA5eDRkaTRsbUw0OTFjVGFNa3Bxa2VtSHlTY2o1a1RoMGloNm96eEYwb3JlZEw4OVlubjUyVnRmeFlwaUpYYktTZjNaZnphYUh0VDZ6RUZGWjlYcUlYZE5IUkJVRFhfNFlfWjZqc3VfRW94YVR0bWJieEh5OEZUVXJVbVBORDNfQ1oxcS1YbUpHVXVzUGtuemtCeDI4N0prS1FhWU5GR20ybVdRck5L?oc=5)
+
+---
+
+### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 ---
 
@@ -122,14 +138,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNT
 2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMml6ajNVUFVyY0ZVT0NodFZQckxKVXBXNDJGSVk4R1dndU5ueERaQmQ5NFRMekViOWFOOU95emJ2ajJESi1zMm02MFFnRmRzWndrUGhteHY3V0dwcmt0N0kwOU5IRGhQUGphdWREaHpIVkNMMEZ6OTZOVG5qaWpQUHJtXzc2aW1fT2hBaXNyTERvdFhEWWZ1dTFoaC1NbTV2TzV2MFBYZ29PX1BhTjh1WXVvVFZjOGJhbWRVUlJjdVNHSks1bTdCbllYcUdLcjBYenhhNVBFWFA3WlUxb2xhNk1sLXY?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 

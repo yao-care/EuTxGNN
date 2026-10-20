@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "diabetes (diabetes mellitus) News"
+title: "diabete (diabetes mellitus) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about diabetes (diabetes mellitus). 6 articles, 86 related drugs."
+description: "Health news about diabete (diabetes mellitus). 8 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
 ---
 
-# diabetes (diabetes mellitus) News
+# diabete (diabetes mellitus) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about diabetes (diabetes mellitus)?">
-<strong>diabetes (diabetes mellitus)</strong> currently has <strong>6 news articles</strong> and 86 related drugs.
+<p class="key-answer" data-question="What news is there about diabete (diabetes mellitus)?">
+<strong>diabete (diabetes mellitus)</strong> currently has <strong>8 news articles</strong> and 86 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “diabetes” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “diabete” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -93,7 +93,15 @@ This page brings together the latest health news about “diabetes” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+2026-10-20
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
@@ -108,6 +116,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNH
 2026-10-19
 
 Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
+
+---
+
+### [An eating disorder may be hiding in plain sight among adults with type 2 diabetes - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
+
+2026-10-19
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
 
 ---
 

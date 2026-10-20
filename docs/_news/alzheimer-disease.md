@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Alzheimer's (alzheimer disease) News"
+title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Alzheimer's (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# Alzheimer's (alzheimer disease) News
+# dementia (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
-<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
+<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -42,21 +42,13 @@ This page brings together the latest health news about “Alzheimer's” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Alzheimer’s patients ‘betrayed’ by NHS drug ban, charity warns - The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
+### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
-2026-10-18
+2026-10-15
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0xWUzRBbnpCTU5jQlBiLXNlT2N2TkdKeUc1NDV6eWZuOXBiS2hwWW5NaWhJQ3BDaFE5QXd6c3FfM1UzU0tvb1ZMTGRjalhDamNKOGtJeExpdll2Uk9vMXJhYmlHamcxaUI5ZzVvTC1mQm1oNnJHNGYtNS1BZmxka2VFVTdFc0REcWZ0WmNXcGZ5LUV5STF2OHJuNlJIOUtKdUdBNGNB?oc=5)
-
----
-
-### [The £3 vegetable that improves sleep and reduces risk of dementia - Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
-
-2026-10-18
-
-Source: [Daily Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxQT081NnZfUTNqdS1xREUwM2pCUmRlS09BbjJQc0lQU2QwY1hHbUpHX3daY2RxNDI3S0dtVXc2R2NiaVhHLWIwc2xQbjNXMlpMQUNPLURiQnNGVEdkTVU1NThqUGpnckxKUDNCcV8tQ0pSQWxhQjBESW5iSXVGZlBmVDJXaVRzZmVsOXZlM2M2MlBYRFRKcjRNclFValphbWY3MHhLMdIBqgFBVV95cUxPVVV6dEJvQ3Rrd1BONFUzNllyeldZYVc5VW9uUFczSFk5MlRqeHdEQXRfYnV3TVpaSnNURmRhaU1JdU8zTXluanJnNTRMYUROS3dWMXBfSnNZVWxSQlo5RGZtV3pqQ3B2VE95TU9wc0tNUFJwMmw3TlhwRFk1NVY2VExzajBhaGlIcWFsOGRvX2RhZzYyeDAyQm1Iam9zQS13UFVWazkzN1h0Zw?oc=5)
+Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
 ---
 

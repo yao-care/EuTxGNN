@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasburicase?">
-<strong>Rasburicase</strong> currently has <strong>3 news articles</strong>, with 20 predicted indications.
+<strong>Rasburicase</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,21 +51,13 @@ This page combines the AI-predicted indications for Rasburicase with the latest 
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Nüsse gegen Bluthochdruck: 30 Gramm täglich senken das Risiko um 26 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+### [Bluthochdruck: DASH- und Mittelmeerkost senken den Wert um bis zu 11 mmHg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
-
----
-
-### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
 
 ---
 

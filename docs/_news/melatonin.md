@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>5 news articles</strong>, with 20 predicted indications.
+<strong>Melatonin</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
 
 ### [«Ho fatto 5 Olimpiadi, il tumore al pancreas la sfida più grande. Daraxonrasib? Non posso permettermelo. Oggi lotto per le mie figlie»](https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnZQNnM4LW9EZG5kWlQwdmdsUVo4MHZMREV6X2ptYkhuM3lKUUdGTVJrRi1CSWxkN2x1QXhfb0h4U2YwNGYybTUzOGozampSdEdkc3psZEpxVkNNbXBXOC1EV2FwSlM2SGw0MVlRRFZ2MnRBbUxSeGloUndTdzd2Z0NMMThjSHBmMmFHWThZYnJ2Z0N1endPTUoyNWNObGZmdHZ3amdpMndSLUFWTkFzZ0M5UQ?oc=5)
 
@@ -69,19 +77,19 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
-### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
-2026-10-19 <span class="news-indication-tag">obésité</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
----
-
-### [Obesità, oltre 8.000 donne seguite nella vita reale: quanto peso si perde con i nuovi farmaci](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+### [Vitamina D e obesità, il legame sorprendente scoperto analizzando oltre 110mila persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">obesità</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNYY0FEOVZqZ1FZVy1ZU3BFbi0yYW1XaG5oQVZuY05HbHNUZGdacnZsVDQ3bHU0NGJ4b0ZjVWxfOHpXM0JHeWg2SW5fTXJRTkR6cERfTVNZTmFlS3YyYXNoUkN0ZDFyMng4aTRPTTZiRHpYX21FWFowdnJZTGdNT3BBR2c2Tjd3a0h3VEcyMm9ENzRpR0tYeGpfMWU3Sll2OEl1QWo2Y195M2g3b0JiQWF2cFhpanlPaUJKRmFHWUdwTGhQRXdYSTExZjAzUmVGNUZzU192YnNWZw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
+
+---
+
+### [Un traitement "miracle" contre l'obésité... Attendu pour 2028, "King Kong" s'arrache déjà sur le marché noir](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODRyNnJPTnJZU2IxeTl4U1M2Z3g1X3Bjb3E3TkFBM1ZxdTJmWkRPZ29zdE54NWZLUFZRMXY3VG9sYXA5eDRkaTRsbUw0OTFjVGFNa3Bxa2VtSHlTY2o1a1RoMGloNm96eEYwb3JlZEw4OVlubjUyVnRmeFlwaUpYYktTZjNaZnphYUh0VDZ6RUZGWjlYcUlYZE5IUkJVRFhfNFlfWjZqc3VfRW94YVR0bWJieEh5OEZUVXJVbVBORDNfQ1oxcS1YbUpHVXVzUGtuemtCeDI4N0prS1FhWU5GR20ybVdRck5L?oc=5)
+
+2026-10-19 <span class="news-indication-tag">obésité</span>
+
+Source: [tv5monde](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNODRyNnJPTnJZU2IxeTl4U1M2Z3g1X3Bjb3E3TkFBM1ZxdTJmWkRPZ29zdE54NWZLUFZRMXY3VG9sYXA5eDRkaTRsbUw0OTFjVGFNa3Bxa2VtSHlTY2o1a1RoMGloNm96eEYwb3JlZEw4OVlubjUyVnRmeFlwaUpYYktTZjNaZnphYUh0VDZ6RUZGWjlYcUlYZE5IUkJVRFhfNFlfWjZqc3VfRW94YVR0bWJieEh5OEZUVXJVbVBORDNfQ1oxcS1YbUpHVXVzUGtuemtCeDI4N0prS1FhWU5GR20ybVdRck5L?oc=5)
 
 ---
 
@@ -90,6 +98,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmNY
 2026-10-18 <span class="news-indication-tag">obesità</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR1kxTndKR0hoU3pfWVlIVHo1d1FNVEQ4OThPQVBsRUVyRmM4aWNhbUo1bWNPQzU4YjdNV1RqTHd2M19ILTFaQkJrQ2g1TzVRY2tJVzE5ODVnN3RrbWxnWVFRcTdRZ3l6M3prRTZ6MzR3ZWhEeGtDUzhBOGxRc1JIMGNGMmZUbG5nYkczaTRzZUlSc2JVMTA0YjdxaDRHTHRKVVE1UnRNUGVvTmN5Ujc1X2ZwSW9vSjJ6SjRwdFc4blRvdGdSa282eGlZVHI2TUswWHlBeGZwOA?oc=5)
+
+---
+
+### [Pharmaceutical expert gives supplement warning to anyone taking magnesium - Daily Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXc3TE9laVgyU3FZYTFKNjFUY0hZWHViSVViVzZhYWUxdWY4Y1dEREJ3YkU0a05WU0ItOVRNR1R1dl9zV3dqNjh2WFBaVERVMXhHcElicnhXcjE2UFFOSDhKbHZYdzVJTFpmbVFRNlEzM3RfNGY2ejFLMUI4WHlxWlh5WlpGaVFzWFFDaXFTMHNqOWVpU0E00gGcAUFVX3lxTE02YzZrSkliaU52ck95dnpIMDNKUThEN0ZPZVYxaWZIQXNrcXZHeTlyengtLWlROGJUbGwtTy05akh3SWFDSk1uUmtDN2hmMVh0MzRMVk1nQzI0R1dWTml4T0wxUkZEYi14WXhzcWZsYUpvXzdiRXcxS25nUzFISDcwYWFodmdveHQ2aUNiZ0ZtTDhCMlFBS1RoV2Y3NQ?oc=5)
+
+2026-10-15 <span class="news-drug-tag">Melatonin</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXc3TE9laVgyU3FZYTFKNjFUY0hZWHViSVViVzZhYWUxdWY4Y1dEREJ3YkU0a05WU0ItOVRNR1R1dl9zV3dqNjh2WFBaVERVMXhHcElicnhXcjE2UFFOSDhKbHZYdzVJTFpmbVFRNlEzM3RfNGY2ejFLMUI4WHlxWlh5WlpGaVFzWFFDaXFTMHNqOWVpU0E00gGcAUFVX3lxTE02YzZrSkliaU52ck95dnpIMDNKUThEN0ZPZVYxaWZIQXNrcXZHeTlyengtLWlROGJUbGwtTy05akh3SWFDSk1uUmtDN2hmMVh0MzRMVk1nQzI0R1dWTml4T0wxUkZEYi14WXhzcWZsYUpvXzdiRXcxS25nUzFISDcwYWFodmdveHQ2aUNiZ0ZtTDhCMlFBS1RoV2Y3NQ?oc=5)
 
 ---
 

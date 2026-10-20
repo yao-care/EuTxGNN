@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>7 news articles</strong>, with 20 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,15 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Mounjaro, boom di farmaci anti-obesità: “Attenzione, troppi li usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
 
 ### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
@@ -66,6 +74,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNH
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
+
+---
+
+### [An eating disorder may be hiding in plain sight among adults with type 2 diabetes - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
+
+2026-10-19 <span class="news-indication-tag">diabetes</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
 
 ---
 
@@ -93,19 +109,19 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95c
 
 ---
 
-### [Il ruolo del microbiota intestinale nell'artrite reumatoide e le prospettive del trapianto fecale](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
-2026-10-18 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi5AFBVV95cUxONXllOTJoVkFwUW0zWmVQTjdDay1xUFprel9Wa3RPZjR0RlpTbEwybG5uYUlyejNGUWEtMGctazhXRkFjYnNPTEV5MGlpRTd2TFBZVk9UOEFQQVIyZE5FUk1lVXZPbTMtZl9hMWFlWHJqOHR6WmNYSmRWeU9WVXhSaWg2QURUVW9vUmljVkNVbHBoVFBSemx4N3NDWF9xMlU2RGp2R1V2OWRabXZ3d29EV2luN2ZSbndjNUZjOUNNbWVTcl9IOU1JVDJpUE53Vi1tZzItcE9fVm53djdiS0RGQm5jb3U?oc=5)
-
----
-
 ### [La tua voce ti dice come stai invecchiando - la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
 
 2026-10-15 <span class="news-indication-tag">diabete</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
+
+---
+
+### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

@@ -53,11 +53,19 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (6)
 
-### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+### [Va in pensione e poco dopo arriva un infarto o un ictus: cosa succede davvero al nostro corpo quando smettiamo di lavorare?](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
 
-2026-10-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-indication-tag">ictus</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+
+---
+
+### [Forscher nutzen ChatGPT-ähnliche KI, um Schlaganfallrisiko aus DNA zu bestimmen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
 
 ---
 
@@ -69,11 +77,11 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTh
 
 ---
 
-### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 ---
 
@@ -90,14 +98,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXNT
 2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMml6ajNVUFVyY0ZVT0NodFZQckxKVXBXNDJGSVk4R1dndU5ueERaQmQ5NFRMekViOWFOOU95emJ2ajJESi1zMm02MFFnRmRzWndrUGhteHY3V0dwcmt0N0kwOU5IRGhQUGphdWREaHpIVkNMMEZ6OTZOVG5qaWpQUHJtXzc2aW1fT2hBaXNyTERvdFhEWWZ1dTFoaC1NbTV2TzV2MFBYZ29PX1BhTjh1WXVvVFZjOGJhbWRVUlJjdVNHSks1bTdCbllYcUdLcjBYenhhNVBFWFA3WlUxb2xhNk1sLXY?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 

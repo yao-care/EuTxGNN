@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
 
-### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+### [Bluthochdruck: DASH- und Mittelmeerkost senken den Wert um bis zu 11 mmHg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
 
-2026-10-20 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
+
+---
+
+### [Va in pensione e poco dopo arriva un infarto o un ictus: cosa succede davvero al nostro corpo quando smettiamo di lavorare?](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+
+2026-10-20 <span class="news-indication-tag">ictus</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+
+---
+
+### [Forscher nutzen ChatGPT-ähnliche KI, um Schlaganfallrisiko aus DNA zu bestimmen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
 
 ---
 
@@ -58,27 +74,11 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTh
 
 ---
 
-### [Nüsse gegen Bluthochdruck: 30 Gramm täglich senken das Risiko um 26 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
+### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTFhDZlFCRkFEbnc3ekF1RmxMb3Rzd3RyaDI5SVd6dVFsTng0WHBtb21MVDFOWThBdTNmczR5N3RNUGNWQVRjQl8ySGYwSU10SlhLVVl6Sm12N1ZWdEt5V0ZoOVI5MTdnaEVsQXl1YTZyT245WDRNNEcwVmxTNzB1LTdWYmZmUVJERmtJOFl2dUpINDhFbGlSWDZhNFk1LW44Z09xU0tLOUg4NVd5dEt5ZjNpYXZBMjRmTmxVNjZhN1U0MXM?oc=5)
-
----
-
-### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
-
----
-
-### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
-
-2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span>
-
-Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
 
 ---
 
@@ -87,14 +87,6 @@ Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKN
 2026-10-18 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmdyZ2FMTFBkd1FsUjZJQkdUTHdTNWItaHNjcVBPVnZZRDBuYnZDVGRGdXZBVmp0U2MxR1JSbDlkSmI4SWdIR01YNEJhUXIwTUNjdHNhTUFMdDZETUNrNENMSmdVRTJISzl2bnRYUGF5b2lGYkU4WEIza3VuMlByMC1peWdveVVWaG5VRDF3enBIWWNTN0FjMnlPT2NXekw5Nzh3bElkdUs5UWZaLTczMg?oc=5)
-
----
-
-### [‘Horror symptom' millions ignore at night could lead to heart failure](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
-
-2026-10-18 <span class="news-indication-tag">heart failure</span>
-
-Source: [AOL.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxPa3FzV3JXVXlOb0hIeHhkVVlfTnZGdWx4dDJMdUJyNXBBbE5DVkpnWUtpYktlTG5iYUFTSElLTVV3b3B5NC1nSG9ZQWx0Sll2d0JSRURHNWpIWlJOSWR2amt4eDB4WXlPOWZaVURrcUZ0WEJFUzA0QXdjcWt0RWx2ejJkaFRHcGRaWFE?oc=5)
 
 ---
 
@@ -127,14 +119,6 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxN
 2026-10-14 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [FAZ](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMml6ajNVUFVyY0ZVT0NodFZQckxKVXBXNDJGSVk4R1dndU5ueERaQmQ5NFRMekViOWFOOU95emJ2ajJESi1zMm02MFFnRmRzWndrUGhteHY3V0dwcmt0N0kwOU5IRGhQUGphdWREaHpIVkNMMEZ6OTZOVG5qaWpQUHJtXzc2aW1fT2hBaXNyTERvdFhEWWZ1dTFoaC1NbTV2TzV2MFBYZ29PX1BhTjh1WXVvVFZjOGJhbWRVUlJjdVNHSks1bTdCbllYcUdLcjBYenhhNVBFWFA3WlUxb2xhNk1sLXY?oc=5)
-
----
-
-### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
-
-2026-10-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 
