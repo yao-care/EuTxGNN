@@ -58,8 +58,8 @@ The TxGNN score (0-1) indicates model confidence:
 
 | Source | Description |
 |--------|-------------|
-| TxGNN Knowledge Graph | Based on network topology |
-| TxGNN Deep Learning | Based on neural network |
+| TxGNN Deep Learning | Graph neural network prediction (score ≥ 0.99); this is the only source of predicted new indications |
+| Knowledge Graph | Drug–disease relations already recorded in the knowledge graph; treated as known uses and excluded from predictions |
 
 ---
 

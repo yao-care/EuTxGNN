@@ -224,20 +224,20 @@
     <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js" integrity="sha384-oPoE+RWX2AZE9PQcDKKsuPU0dLmhGHCmCScrIneODytrl3mhPoRcGbDXVJyt0Q1t" crossorigin="anonymous"></script>
     <script>
         // Sample repurposing data (in production, this would come from API)
+        // 2026-10-20：取自 EuTxGNN 藥物頁的實際預測（DL 分數 ≥ 0.99、已排除知識圖譜已知用途）
         const REPURPOSING_DATA = {
             "metformin": [
-                { indication: "Cancer prevention", score: 0.85, source: "TxGNN Deep Learning" },
-                { indication: "Anti-aging", score: 0.72, source: "TxGNN Deep Learning" }
+                { indication: "Focal stiff limb syndrome", score: 0.9945, source: "TxGNN Deep Learning" },
+                { indication: "Classic stiff person syndrome", score: 0.9945, source: "TxGNN Deep Learning" }
             ],
-            "atorvastatin": [
-                { indication: "Alzheimer disease", score: 0.78, source: "TxGNN Deep Learning" },
-                { indication: "Multiple sclerosis", score: 0.65, source: "TxGNN Deep Learning" }
+            "simvastatin": [
+                { indication: "Brain stem infarction", score: 0.9941, source: "TxGNN Deep Learning" }
             ],
-            "lisinopril": [
-                { indication: "Diabetic nephropathy", score: 0.92, source: "TxGNN Deep Learning" }
+            "adalimumab": [
+                { indication: "Inflammatory spondylopathy", score: 0.9977, source: "TxGNN Deep Learning" }
             ],
-            "omeprazole": [
-                { indication: "Barrett esophagus prevention", score: 0.71, source: "TxGNN Deep Learning" }
+            "esomeprazole": [
+                { indication: "Duodenal obstruction", score: 0.9945, source: "TxGNN Deep Learning" }
             ]
         };
 

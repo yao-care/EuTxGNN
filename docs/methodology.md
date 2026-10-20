@@ -113,7 +113,7 @@ Therapeutic indications from EMA are mapped to standardized disease terms:
 |--------|-------|
 | EMA Medicines Database | EU approved drugs |
 | Article 57 Database | Additional drug data |
-| TxGNN Knowledge Graph | Drug-disease predictions |
+| TxGNN model (graph neural network trained on a knowledge graph) | Drug-disease predictions; relations already in the knowledge graph are excluded as known uses |
 | DrugBank | Drug identifiers |
 | ClinicalTrials.gov | Clinical evidence |
 | PubMed | Literature evidence |
