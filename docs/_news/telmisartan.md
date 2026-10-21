@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [Schlaganfall: Bei einer Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
 
-2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
 
 ---
 
@@ -59,11 +59,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV9
 
 ---
 
-### [Va in pensione e poco dopo arriva un infarto o un ictus: cosa succede davvero al nostro corpo quando smettiamo di lavorare?](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
-2026-10-20 <span class="news-indication-tag">ictus</span>
+2026-10-20 <span class="news-indication-tag">stroke</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
 ---
 
@@ -75,27 +75,19 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcTh
 
 ---
 
-### [Eine Handvoll „kleiner, aber wirkungsvoller“ Lebensmittel kann das Risiko für Bluthochdruck um bis zu 26 % senken.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
-
----
-
-### [Schlaganfallrisiko: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">AF</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdmNnRHh2ZXVmM1IxUEV4YnJUcDhBbGRYX0J3S2Y5eXExT0NTamJFYnI5YXA0eENJbWhQUmpGODBkVldLNkxZR0FEUmFncDVJXzh0QmJ6Z3BsQ1l3MXljbWxFcXJyT0VKeFpBQXhFUndEWDVfdS1HamhjU01vbG53eUZnbzZGTDhnOVVOSnozZkRKX1JCa0lYTi1aUG1qMWdSOTdZQlFCNFZhbkpfR0FKYWxpUHlPR0N1TzlYcjRReWJhdTljUm5GMXVpNks2QW0zVUhsYTN6Z0tXd3lXU0JObw?oc=5)
-
----
-
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
+
+### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
+
+2026-10-16 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

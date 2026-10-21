@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 
 ## Related News (1)
 
-### [Eine Handvoll „kleiner, aber wirkungsvoller“ Lebensmittel kann das Risiko für Bluthochdruck um bis zu 26 % senken.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
+### [Virostatika ermöglichen Organspende trotz Hepatitis C - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-21 <span class="news-indication-tag">hepatitis</span>
 
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
 
 ---
 

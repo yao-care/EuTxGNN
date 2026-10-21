@@ -35,6 +35,14 @@ This page brings together the latest health news about “depresión” and list
 
 ## Related News (8)
 
+### [Una "App" para prevenir la ansiedad y la depresión - Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
+
+2026-10-21
+
+Source: [Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
+
+---
+
 ### [Depressionen: Pränatale Psychotherapie ändert Hirnstruktur des Babys - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYi1Ra29BMWRFTzVlbENmcjMtOTFrNkRPNnJFb0VMSG11dEtMWHdGZklKZHd0bDVPa1JRcmJvcDM3dndlSWpYVzB0dmFrMzlVTnRxOUY0b0RQV0dhQkwweVQ5UVdRRjRpS0tMbmZIR21RT19DZ0U2dzRFcmxseERtRGk0SUF4Z2JtUHRqdHNtR3RDai1UOEU2Tl9JTjEyaHhXSnVSQ2t3?oc=5)
 
 2026-10-21
@@ -59,19 +67,11 @@ Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHR
 
 ---
 
-### [La depresión circadiana es resistente a los antidepresivos comunes y afecta a uno de cada cuatro pacientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkl5OG4wQ1NwbkpYOHpkd3FLQ2p4VVBnX0xrUGRUTFdPWmxxQWlraER0QWdfdjhNd2FuQnRaTE8zVlVNdy1hQ0Q3eGdYQUYwVmtrWW15UVd2SWJWNEFKYm9rREJVdzZPRnFUWXRid0hlb2wwdTVGMW5JbkVDejVBdGI0Q0FoejhVQ1NtRXdXZnFab013dGt4ajhVeTBGOGZrbDNhVzFoMEFMd1BVRGNyeHhkSzFJcEF5TTZqZEEyTWVYSEE5OGNSMnljcTRHNTdHTHhaR21TZFMwWjNsOWc?oc=5)
+### [Identifican un nuevo tipo de depresión: responde peor a los antidepresivos y no duerme de noche](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR3d0WmpVLWNwWWNCQk9lcTBjdW1vWnpTLXZTNzV4OVNESXhyVFgzVkVNNW96RHlOeklGQXRUSVNaREJKamtHUzFPMk5vOXBFdzA1Y0l3T1k5SWtVcllsTHgxYUwtTHdtLWZEX2F6THBHNlFTTG9UMUhtNW9zdGtsNGNGVzV1V2hNbldQRzJ2NUIyZ3hLT3plR25FZGVHeXFMb3dubUJjUEZJS3NSbzBUUFRtcXVuLWN1VWJLRVd0SDRFdDV0UXhfWG42T1ZXQ3V0Z2RhSU5yZi1YbTNfSVhONEdFVUxmZw?oc=5)
 
 2026-10-21
 
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkl5OG4wQ1NwbkpYOHpkd3FLQ2p4VVBnX0xrUGRUTFdPWmxxQWlraER0QWdfdjhNd2FuQnRaTE8zVlVNdy1hQ0Q3eGdYQUYwVmtrWW15UVd2SWJWNEFKYm9rREJVdzZPRnFUWXRid0hlb2wwdTVGMW5JbkVDejVBdGI0Q0FoejhVQ1NtRXdXZnFab013dGt4ajhVeTBGOGZrbDNhVzFoMEFMd1BVRGNyeHhkSzFJcEF5TTZqZEEyTWVYSEE5OGNSMnljcTRHNTdHTHhaR21TZFMwWjNsOWc?oc=5)
-
----
-
-### [Una "App" para prevenir la ansiedad y la depresión - Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
-
-2026-10-21
-
-Source: [Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR3d0WmpVLWNwWWNCQk9lcTBjdW1vWnpTLXZTNzV4OVNESXhyVFgzVkVNNW96RHlOeklGQXRUSVNaREJKamtHUzFPMk5vOXBFdzA1Y0l3T1k5SWtVcllsTHgxYUwtTHdtLWZEX2F6THBHNlFTTG9UMUhtNW9zdGtsNGNGVzV1V2hNbldQRzJ2NUIyZ3hLT3plR25FZGVHeXFMb3dubUJjUEZJS3NSbzBUUFRtcXVuLWN1VWJLRVd0SDRFdDV0UXhfWG42T1ZXQ3V0Z2RhSU5yZi1YbTNfSVhONEdFVUxmZw?oc=5)
 
 ---
 

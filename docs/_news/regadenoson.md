@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Biologikatherapie bei Asthma: Chronische Einnahme von PPIs mit häufigeren Exazerbationen assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTM1SjRmc09zWnBMeFpGdUZoVTQ4SWpKNnhoeUFfQzVMSkRSbEpJdENFc2tjT1NXSlZ0MzVNMUZGeGloVjBUVTdLaXRycGwxOExwS1J1ekIxZzZnX21LMUpneDdOeFZkNW5VS2V4QjJqQzBZaWVqQnV3VEVWNTB5bklQcGtwa1h6S1dSUVM4ZUxjTkdOWTNOdWlMb0lybEo4MjlOcHZ5N1YtQV9ma3NrTG0yOEEySDFtRG9pYmgtYVUtWXFXSVE4?oc=5)
-
-2026-10-21 <span class="news-indication-tag">asthma</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTM1SjRmc09zWnBMeFpGdUZoVTQ4SWpKNnhoeUFfQzVMSkRSbEpJdENFc2tjT1NXSlZ0MzVNMUZGeGloVjBUVTdLaXRycGwxOExwS1J1ekIxZzZnX21LMUpneDdOeFZkNW5VS2V4QjJqQzBZaWVqQnV3VEVWNTB5bklQcGtwa1h6S1dSUVM4ZUxjTkdOWTNOdWlMb0lybEo4MjlOcHZ5N1YtQV9ma3NrTG0yOEEySDFtRG9pYmgtYVUtWXFXSVE4?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

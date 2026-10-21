@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Eine Handvoll „kleiner, aber wirkungsvoller“ Lebensmittel kann das Risiko für Bluthochdruck um bis zu 26 % senken.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

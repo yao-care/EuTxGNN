@@ -34,19 +34,19 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (2)
 
+### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2sxZWJNdzJjaVVINjRwQTdPWHhtNHJzX2p2cmdWLXY3QmxEMlRORHdfeGJvRHhuVUZITlV1TmRGNU5sRUpHdHZRZUEwV3V2QzB3UDNzQ3IwcjFTeE11TnlXUk1vMkhVeFBLbHdnQjBrOU9CUWN3bzZKOUR3U0ptYjd3?oc=5)
+
+2026-10-21 <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2sxZWJNdzJjaVVINjRwQTdPWHhtNHJzX2p2cmdWLXY3QmxEMlRORHdfeGJvRHhuVUZITlV1TmRGNU5sRUpHdHZRZUEwV3V2QzB3UDNzQ3IwcjFTeE11TnlXUk1vMkhVeFBLbHdnQjBrOU9CUWN3bzZKOUR3U0ptYjd3?oc=5)
+
+---
+
 ### [Blutdruckkontrolle bei älteren Erwachsenen: Was sind sichere Werte?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
 
 2026-10-19 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
-
----
-
-### [« Il faut prendre rendez-vous en ligne sur clickdoc 48 heures avant » : à Soyaux, des soins non programmés sont ouverts au centre municipal de santé - Charente Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxQRG1tdXl3bWQ0ZG10eU5rQ2FxanJIcERXSzhsa0dBeEpjakg3WkVjXzFrMjRZejJzR0UxMGRrVFFuX0FydWtnbXpzRWRjc3hrZlBnZ3pZTDZKM1FQbk1zZDdKYTM5Z2o1T0VRN3ZldDR1WFNZZmt3MkFaSXplc0xKMkZkbm40WlBQMnlDOE1sQ0IzN1NzUUpYMi1HVXhqcFJkN0pZLVNKZnBmb3lQblBOUHVYZG02eXdTZzdHczBsOVBsMkpkSlRjelc3N2Y0R3NaOG5NYkRUWVBoenlSTExESURQclVJWnVld0Fybi1wZlIyblJERHpfaVgtbVpNWDREd3VsdXg2d3hTaHE1NGVWYU0zVFU0MmFT?oc=5)
-
-2026-10-19 <span class="news-indication-tag">CKD</span>
-
-Source: [Charente Libre](https://news.google.com/rss/articles/CBMimAJBVV95cUxQRG1tdXl3bWQ0ZG10eU5rQ2FxanJIcERXSzhsa0dBeEpjakg3WkVjXzFrMjRZejJzR0UxMGRrVFFuX0FydWtnbXpzRWRjc3hrZlBnZ3pZTDZKM1FQbk1zZDdKYTM5Z2o1T0VRN3ZldDR1WFNZZmt3MkFaSXplc0xKMkZkbm40WlBQMnlDOE1sQ0IzN1NzUUpYMi1HVXhqcFJkN0pZLVNKZnBmb3lQblBOUHVYZG02eXdTZzdHczBsOVBsMkpkSlRjelc3N2Y0R3NaOG5NYkRUWVBoenlSTExESURQclVJWnVld0Fybi1wZlIyblJERHpfaVgtbVpNWDREd3VsdXg2d3hTaHE1NGVWYU0zVFU0MmFT?oc=5)
 
 ---
 

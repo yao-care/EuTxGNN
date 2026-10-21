@@ -14,7 +14,7 @@ permalink: /news/panitumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Panitumumab?">
-<strong>Panitumumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Panitumumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,37 +32,45 @@ This page combines the AI-predicted indications for Panitumumab with the latest 
 <p><a href="{{ '/drugs/panitumumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Kann zu viel Vitamin B12 schädlich sein? Studien weisen auf Risiken hin - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTA2QXlaZDRpaG4tRUNSUnlYTDQzWVBoWWNBeHFUeFhnZ2FBSE5oVGhBWm9xRkc1U2dpUE9UNzdJTEtvbXkxZ1V3VDloejNpU3BhU21vZlhhZjZObWEzZDBWMlMybkhleVNNX3VrSjQtUjlkNXVvZEh4X2Rna0NtSU5fZHJfZHhzdWxYaE9DYW8yeE5MY3hvNlNRc1BvQThXOElRMmVOMlAyaEw2OGhB?oc=5)
+### [Menopause: Das unterschätzte Diabetes-Risiko](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlYTW5BaGZMVjdVYUROTXp4N2VQV3otWnhHSWVVY01TbHhJYy16ZXZWZGpPQm0ybU1WSFh3U0oyOVFyQjNkT0NfTFU5UC1oa245VmRGZnpXNENuWHVkNEZkWXUwcFNGMkVlWENWWm5yREFHR2JRM3VzMWU2LU1wSjAwNUNQeFlIN0x3c3RzVV9xRWFoNUllM2ZnbWNXS0ZEdWp6Unp5MWc2a1kzb0xV?oc=5)
 
-2026-10-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+2026-10-21 <span class="news-indication-tag">diabetes</span>
 
-Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTA2QXlaZDRpaG4tRUNSUnlYTDQzWVBoWWNBeHFUeFhnZ2FBSE5oVGhBWm9xRkc1U2dpUE9UNzdJTEtvbXkxZ1V3VDloejNpU3BhU21vZlhhZjZObWEzZDBWMlMybkhleVNNX3VrSjQtUjlkNXVvZEh4X2Rna0NtSU5fZHJfZHhzdWxYaE9DYW8yeE5MY3hvNlNRc1BvQThXOElRMmVOMlAyaEw2OGhB?oc=5)
+Source: [netDoktor](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlYTW5BaGZMVjdVYUROTXp4N2VQV3otWnhHSWVVY01TbHhJYy16ZXZWZGpPQm0ybU1WSFh3U0oyOVFyQjNkT0NfTFU5UC1oa245VmRGZnpXNENuWHVkNEZkWXUwcFNGMkVlWENWWm5yREFHR2JRM3VzMWU2LU1wSjAwNUNQeFlIN0x3c3RzVV9xRWFoNUllM2ZnbWNXS0ZEdWp6Unp5MWc2a1kzb0xV?oc=5)
 
 ---
 
-### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+### [Erst Gemüse, dann Kohlenhydrate? Studie stellt Glukosetrick infrage](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XY0ItWG4xQ19MRGs0c0FyLUN1V2oxTThsQkZSY3RhTXBTYmotWUg2Y1ZrbWx4a21oSnp2Q3hqRTJqd1FxWDFPR3hYTWFiOWl5OTc2SDczalYxVjNyMXJCVThyRQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [FITBOOK](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XY0ItWG4xQ19MRGs0c0FyLUN1V2oxTThsQkZSY3RhTXBTYmotWUg2Y1ZrbWx4a21oSnp2Q3hqRTJqd1FxWDFPR3hYTWFiOWl5OTc2SDczalYxVjNyMXJCVThyRQ?oc=5)
+
+---
+
+### [Semaglutida reduce los monocitos inflamatorios circulantes en la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakYzcU5kRms5ZVRfNjVGbGVjMmtqTE9pak9GNDN1SHBIR0xFS1JqMzBJQ21aYlJ0TWlSTGVZbTBHel9sV09hdjFGdVhONkx5RDd3Z0FjYy1JZjEtbFJ0Q2syclBWSGNhUnctRy1WTWszTDZKcGdQRk4zemhoaGpzSlgwNWZZR2dTU2RESnZlLUdiTUNxT3ZKdUNQUkwwUjRxVjk2NGNlbXA2Qzc3aEpYbUloX1FYQXhaUVE0LUFhOXkwU3PSAb4BQVVfeXFMT2NUb3dYRE40OXFHdDd4UUJVQ3QwV3VfbkVVWnZyRmI3b09HUkdYUGNHaFlsNmxwdlUyVkI4ZnVXNlVJRFZ4cjJvUnRBcmRKSFgtYndfdEgtbnRUSUE3Nmx2d2kzUE96MUU5RmFEamFieU9RZkFRLXZBcktWTlhGZ1I3VjRTNXBLLTZ5UmpDWVJWTm4tZ0puMnRJanpJMzJJU3dpTHZlbVRydUZKRVk4LTdVU0hZMDBrb1lSekdUdw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakYzcU5kRms5ZVRfNjVGbGVjMmtqTE9pak9GNDN1SHBIR0xFS1JqMzBJQ21aYlJ0TWlSTGVZbTBHel9sV09hdjFGdVhONkx5RDd3Z0FjYy1JZjEtbFJ0Q2syclBWSGNhUnctRy1WTWszTDZKcGdQRk4zemhoaGpzSlgwNWZZR2dTU2RESnZlLUdiTUNxT3ZKdUNQUkwwUjRxVjk2NGNlbXA2Qzc3aEpYbUloX1FYQXhaUVE0LUFhOXkwU3PSAb4BQVVfeXFMT2NUb3dYRE40OXFHdDd4UUJVQ3QwV3VfbkVVWnZyRmI3b09HUkdYUGNHaFlsNmxwdlUyVkI4ZnVXNlVJRFZ4cjJvUnRBcmRKSFgtYndfdEgtbnRUSUE3Nmx2d2kzUE96MUU5RmFEamFieU9RZkFRLXZBcktWTlhGZ1I3VjRTNXBLLTZ5UmpDWVJWTm4tZ0puMnRJanpJMzJJU3dpTHZlbVRydUZKRVk4LTdVU0hZMDBrb1lSekdUdw?oc=5)
+
+---
+
+### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
 ---
 
-### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
+### [Individuelle Therapiestrategien in der Hausarztpraxis bei Typ-2-Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkh4VERYNmtVZnRXa1A2Y2NHZHY5cFRFQ1E0amJRWWN2aU1NbFJSX2lPWmY1QjUxeFNhUzRoNWdsMHR5NHB4S1hFUFh1Zzh3T0ZYLVppd3ZhUDgwSFF4TXlCYkRzek5iZUlHQ056Q0stUXpaX3VDVUlFemlZSDFLQmdENFN4YWpIdnBQR05jM2xxakFhcHZuRzBYMldwaV8xNXQ5ejJWWXBBREJIVF9sblBnbEE1bDQ2QzB0Qg?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
-
----
-
-### [Beeinflusst Reihenfolge beim Verzehr von Lebensmitteln den Blutzucker? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkh4VERYNmtVZnRXa1A2Y2NHZHY5cFRFQ1E0amJRWWN2aU1NbFJSX2lPWmY1QjUxeFNhUzRoNWdsMHR5NHB4S1hFUFh1Zzh3T0ZYLVppd3ZhUDgwSFF4TXlCYkRzek5iZUlHQ056Q0stUXpaX3VDVUlFemlZSDFLQmdENFN4YWpIdnBQR05jM2xxakFhcHZuRzBYMldwaV8xNXQ5ejJWWXBBREJIVF9sblBnbEE1bDQ2QzB0Qg?oc=5)
 
 ---
 

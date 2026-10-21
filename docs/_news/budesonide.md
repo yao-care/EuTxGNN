@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 
 ## Related News (1)
 
-### [Biologikatherapie bei Asthma: Chronische Einnahme von PPIs mit häufigeren Exazerbationen assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTM1SjRmc09zWnBMeFpGdUZoVTQ4SWpKNnhoeUFfQzVMSkRSbEpJdENFc2tjT1NXSlZ0MzVNMUZGeGloVjBUVTdLaXRycGwxOExwS1J1ekIxZzZnX21LMUpneDdOeFZkNW5VS2V4QjJqQzBZaWVqQnV3VEVWNTB5bklQcGtwa1h6S1dSUVM4ZUxjTkdOWTNOdWlMb0lybEo4MjlOcHZ5N1YtQV9ma3NrTG0yOEEySDFtRG9pYmgtYVUtWXFXSVE4?oc=5)
+### [COPD erkennen und behandeln: Nordseeklinik lädt zum Vortrag mit Atemtraining ein - Sylter Spiegel](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 
-2026-10-21 <span class="news-indication-tag">asthma</span>
+2026-10-20 <span class="news-indication-tag">copd</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTM1SjRmc09zWnBMeFpGdUZoVTQ4SWpKNnhoeUFfQzVMSkRSbEpJdENFc2tjT1NXSlZ0MzVNMUZGeGloVjBUVTdLaXRycGwxOExwS1J1ekIxZzZnX21LMUpneDdOeFZkNW5VS2V4QjJqQzBZaWVqQnV3VEVWNTB5bklQcGtwa1h6S1dSUVM4ZUxjTkdOWTNOdWlMb0lybEo4MjlOcHZ5N1YtQV9ma3NrTG0yOEEySDFtRG9pYmgtYVUtWXFXSVE4?oc=5)
+Source: [Sylter Spiegel](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 
 ---
 
