@@ -14,7 +14,7 @@ permalink: /news/velpatasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Velpatasvir?">
-<strong>Velpatasvir</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Velpatasvir</strong> currently has <strong>17 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,53 @@ This page combines the AI-predicted indications for Velpatasvir with the latest 
 <p><a href="{{ '/drugs/velpatasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (17)
+
+### [Blood test spots prostate cancer 15 years before symptoms - The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdSWUJxQkFrR3RNV1JEaTFZTzhPMWp5c3lxZC1ZR29FenRoZHBOaGRlSE9UdUc3czF3bklqY0VxS2RYTnpjR0JnWWI5YmdiZHRHcjZkYURDanMwNFlFLVJGOE1kUU4xTGE3a3NoNWhNYXdkVFEwX3ZrdGRyTW9QMUI2M3NVcm1oMWlzZ1dwRDA3dEFkd0hlUTV3QnZRY1dYUm1iSDM0cw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMipwFBVV95cUxONUdSWUJxQkFrR3RNV1JEaTFZTzhPMWp5c3lxZC1ZR29FenRoZHBOaGRlSE9UdUc3czF3bklqY0VxS2RYTnpjR0JnWWI5YmdiZHRHcjZkYURDanMwNFlFLVJGOE1kUU4xTGE3a3NoNWhNYXdkVFEwX3ZrdGRyTW9QMUI2M3NVcm1oMWlzZ1dwRDA3dEFkd0hlUTV3QnZRY1dYUm1iSDM0cw?oc=5)
+
+---
+
+### [Schlüsselmolekül entdeckt: Deshalb verlängert moderate Kälte das Leben](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzlBdGJ5MHpaMUhYekRWeEw0bHJRTjF4UDM0NDJqTFJKQjVpRjY4OUZjeUZRa3FheWxpR1ZJWTN1U2lnS2pKcTl5em1adDhPOHJkOUdwSFRidmlfM2I5eXZkN1FNa0xnX2dXdWhFMlRRZVVKLWhzMUJ6bkh3UkRZdF9MM0E2QVpVMlJvdVBIMmNVVjk5R1ZrdHNkUDVTQUJCM2tXMGhLcE01SXA1VEVr?oc=5)
+
+2026-10-21 <span class="news-indication-tag">MS</span>
+
+Source: [Scinexx](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzlBdGJ5MHpaMUhYekRWeEw0bHJRTjF4UDM0NDJqTFJKQjVpRjY4OUZjeUZRa3FheWxpR1ZJWTN1U2lnS2pKcTl5em1adDhPOHJkOUdwSFRidmlfM2I5eXZkN1FNa0xnX2dXdWhFMlRRZVVKLWhzMUJ6bkh3UkRZdF9MM0E2QVpVMlJvdVBIMmNVVjk5R1ZrdHNkUDVTQUJCM2tXMGhLcE01SXA1VEVr?oc=5)
+
+---
+
+### [Controversial US-backed vaccine trial in African newborns halted - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
+
+---
+
+### [Victorian disease outbreak forces more UK hospital wards to close as cases of 'highly contagious' infestation rise - The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpKQkpMN3VlZW02WEJkcVc4S1dMU1pDbEREdnRmOTdRUEZ6WHVlRmF1cHlOckNLY3hVQjBSUTg5QTlWWkRfWnM3aGZ6bkxsNmZhdF9aby0tUzRJVzhrUVozWlJsbWg0ZG5fVThxWXEwVURiYlJ3NHVmbjVVZjliTXlNa3lsLVJtczlz?oc=5)
+
+2026-10-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVpKQkpMN3VlZW02WEJkcVc4S1dMU1pDbEREdnRmOTdRUEZ6WHVlRmF1cHlOckNLY3hVQjBSUTg5QTlWWkRfWnM3aGZ6bkxsNmZhdF9aby0tUzRJVzhrUVozWlJsbWg0ZG5fVThxWXEwVURiYlJ3NHVmbjVVZjliTXlNa3lsLVJtczlz?oc=5)
+
+---
 
 ### [Virostatika ermöglichen Organspende trotz Hepatitis C - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
 
 2026-10-21 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
+
+---
+
+### [MS-Gespräche Kupferdreh: Informationsveranstaltung für Menschen mit Multipler Sklerose](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd193Ni16YzlCcDdrSWZCYmUzVzhadmY5STV3NmRBUW9fUGFubVFPcDdITDdBMWdVdTJOZjhKbzFqY2ZBREsxb0t0b1VUQXpMblhsMFIxeVFVdUJjN0JEWW8wR28wclpMTGk4YWpyVmdQakp5X2FuMHc1d0RQeE94REJRTFNvNHhXem5CNUl1Nzd4dW1XQ2UtQ1FDMXcxYzBXMU9pbzFVVDRfTnV1T1RxamV5QXJNX3VBZF9Mc1FvMWxleS1iN3NqQkZ2UDFsSVVOMFNFSjdGZEJMMWJoQkxSNUxzdHN2TXRONlZJVXJUSjV6b0t3UXc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">MS</span>
+
+Source: [Contilia](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQd193Ni16YzlCcDdrSWZCYmUzVzhadmY5STV3NmRBUW9fUGFubVFPcDdITDdBMWdVdTJOZjhKbzFqY2ZBREsxb0t0b1VUQXpMblhsMFIxeVFVdUJjN0JEWW8wR28wclpMTGk4YWpyVmdQakp5X2FuMHc1d0RQeE94REJRTFNvNHhXem5CNUl1Nzd4dW1XQ2UtQ1FDMXcxYzBXMU9pbzFVVDRfTnV1T1RxamV5QXJNX3VBZF9Mc1FvMWxleS1iN3NqQkZ2UDFsSVVOMFNFSjdGZEJMMWJoQkxSNUxzdHN2TXRONlZJVXJUSjV6b0t3UXc?oc=5)
 
 ---
 
@@ -66,19 +106,19 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTJfT0
 
 ---
 
-### [Vitamin D, curcumin combination may help regulate immune cells in MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
-
-2026-10-20 <span class="news-indication-tag">multiple sclerosis</span>
-
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
-
----
-
 ### [Alzheimer, analisi Altems: "Priorità garantire diagnosi e cure omogenee" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1FjZFROcEZlU29WajRJVW11YTItZGpaNm1hZzJKcTBRU0RaU3FqdkRVRlJLNm1Kd0Q0bG94X29VY09mMlZzMmVtWGhNVlJRMWowNVo0MlJtZEZPZTF3cHF3NF9YWU1HUWJZckY2NWYySDg0ZWs0a2ZpaUdid2xReFZTRDZ2NURwdFJXdGpkVXNzVS1pcmkwSWZldUdvdWNadkNMSjNZUXV5UlE3MHJJckdHY0hWMk9pU2lQajBpSWlGcnFmenh1RG9qZ1N3M1hDRlBpV0pJRQ?oc=5)
 
 2026-10-20 <span class="news-indication-tag">MS</span>
 
 Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1FjZFROcEZlU29WajRJVW11YTItZGpaNm1hZzJKcTBRU0RaU3FqdkRVRlJLNm1Kd0Q0bG94X29VY09mMlZzMmVtWGhNVlJRMWowNVo0MlJtZEZPZTF3cHF3NF9YWU1HUWJZckY2NWYySDg0ZWs0a2ZpaUdid2xReFZTRDZ2NURwdFJXdGpkVXNzVS1pcmkwSWZldUdvdWNadkNMSjNZUXV5UlE3MHJJckdHY0hWMk9pU2lQajBpSWlGcnFmenh1RG9qZ1N3M1hDRlBpV0pJRQ?oc=5)
+
+---
+
+### [Vitamin D, curcumin combination may help regulate immune cells in MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
+
+2026-10-20 <span class="news-indication-tag">multiple sclerosis</span>
+
+Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
 
 ---
 
@@ -122,11 +162,11 @@ Source: [Women's Health Australia](https://news.google.com/rss/articles/CBMifkFV
 
 ---
 
-### [What Happens to Your Brain When You Stop Drinking Alcohol](https://news.google.com/rss/articles/CBMibEFVX3lxTE04dEFQUjMtcjVpSXRlb2hyZ0JwLVJVTm92N2U5SXNPSEptQ3gzalBxUmJydlFlWDk5Tl9tbWp1VnE3WGxRX1FkdDJjUTBWcnVuOEVIcHgyR0NMUXMycWU4U2dJTWdXaHBDSVE0Sw?oc=5)
+### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
-2026-10-18 <span class="news-indication-tag">MS</span>
+2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
 
-Source: [EatingWell](https://news.google.com/rss/articles/CBMibEFVX3lxTE04dEFQUjMtcjVpSXRlb2hyZ0JwLVJVTm92N2U5SXNPSEptQ3gzalBxUmJydlFlWDk5Tl9tbWp1VnE3WGxRX1FkdDJjUTBWcnVuOEVIcHgyR0NMUXMycWU4U2dJTWdXaHBDSVE0Sw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

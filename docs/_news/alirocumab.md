@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2sxZWJNdzJjaVVINjRwQTdPWHhtNHJzX2p2cmdWLXY3QmxEMlRORHdfeGJvRHhuVUZITlV1TmRGNU5sRUpHdHZRZUEwV3V2QzB3UDNzQ3IwcjFTeE11TnlXUk1vMkhVeFBLbHdnQjBrOU9CUWN3bzZKOUR3U0ptYjd3?oc=5)
 
 2026-10-21 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2sxZWJNdzJjaVVINjRwQTdPWHhtNHJzX2p2cmdWLXY3QmxEMlRORHdfeGJvRHhuVUZITlV1TmRGNU5sRUpHdHZRZUEwV3V2QzB3UDNzQ3IwcjFTeE11TnlXUk1vMkhVeFBLbHdnQjBrOU9CUWN3bzZKOUR3U0ptYjd3?oc=5)
-
----
-
-### [Blutdruckkontrolle bei älteren Erwachsenen: Was sind sichere Werte?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
-
-2026-10-19 <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
 
 ---
 

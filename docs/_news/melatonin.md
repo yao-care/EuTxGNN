@@ -50,6 +50,14 @@ Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDh
 
 ---
 
+### [Diabete tipo 2, EMA dà parere positivo a orforglipron. Ecco le novità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11VHZNYy1fMkJ3am43cGllcGQ4MnNwVFNfVC1kRHdOUGNwb2tNVkdfTDZxdDhGQVZDQUZtbWFsUm1jSV9ONlFFXzBPMFQ4UVppNDBibUlyZ3prNTY1aXFZX01CWGpvVEVtejg4WEdRSHpDbFhhQlROTGFOVUY1NWdGTUQ5dldGVFo2ZlJsT2IxeVRWMVV5bDdtMlBmbDd4UGlDN2NXQQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11VHZNYy1fMkJ3am43cGllcGQ4MnNwVFNfVC1kRHdOUGNwb2tNVkdfTDZxdDhGQVZDQUZtbWFsUm1jSV9ONlFFXzBPMFQ4UVppNDBibUlyZ3prNTY1aXFZX01CWGpvVEVtejg4WEdRSHpDbFhhQlROTGFOVUY1NWdGTUQ5dldGVFo2ZlJsT2IxeVRWMVV5bDdtMlBmbDd4UGlDN2NXQQ?oc=5)
+
+---
+
 ### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
 2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
@@ -63,14 +71,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZ
 2026-10-19 <span class="news-drug-tag">Melatonin</span> <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjhSTFFxaDR3UGsxcTZRNi05d1daTnZjMjBSMVJ4N090cDZjUnA3azRqYkNyVWlpSnJuZndxeURmLTFVOUFxYzhsZ3J1LWZISGVRSmpJTTBzeVl0Q1E0c3lpNnFxRklBb3VaeFVnVlV1RmhSWHR6clRaeEdTVlhYSFBLVDdxTS1RWUxBV0R6TVI2bHo5T0UwTHF4c3BIQS1QNlhfcXJaY1lSMWtSTk5nM1pxYWE1R2tJ?oc=5)
-
----
-
-### [Vitamina D e obesità, il legame sorprendente scoperto analizzando oltre 110mila persone](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">obesità</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX19CcktJdk15dHVEX0ZNNnlTZFR0cGRjNVpIeTlWR0tBdGJJTVVZMWlLY1VLbnJseURwdXpZRU9Ta3UtWHRhSG50TmRncjRNYnB2NVJXNk1sbUoxWS1Pd2NRSUgwMlBUbWQ2YjQwLWdQWktkQnVMMllpY3FGY0JQb2Y0QkpiVmo1eGRHOUxpZUtaOEwySmdONzZwNlFqcTVHWjBGWm9YTXJoaEJjRkkzT0xjelhCTFZibGdlalZlWWh1RWhidmFvaHNLTGNqZ24xRUl1WXVHSnFLQlpsbkZJ?oc=5)
 
 ---
 
