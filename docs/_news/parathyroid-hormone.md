@@ -3,7 +3,7 @@ layout: default
 title: "Parathyroid Hormone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Parathyroid Hormone. Original indication: . 20 predicted indications."
+description: "Health news related to Parathyroid Hormone. Original indication: . 1 predicted indications."
 permalink: /news/parathyroid-hormone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parathyroid-hormone/
 ---
 
 <p class="key-answer" data-question="What news is there about Parathyroid Hormone?">
-<strong>Parathyroid Hormone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Parathyroid Hormone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Parathyroid Hormone with the
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (100.0%)</li>
-<li>migraine with brainstem aura (100.0%)</li>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>Raynaud disease (99.8%)</li>
-<li>non-syndromic esophageal malformation (99.8%)</li>
-<li>migraine with or without aura, susceptibility to (99.8%)</li>
-<li>esophageal disease (99.7%)</li>
-<li>atrophoderma vermiculata (99.7%)</li>
-<li>ulerythema ophryogenesis (99.6%)</li>
-<li>erectile dysfunction (disease) (99.1%)</li>
-<li>esophageal ulcer (99.0%)</li>
-<li>sciatic neuropathy (99.0%)</li>
-<li>open-angle glaucoma (98.8%)</li>
-<li>primary hereditary glaucoma (98.7%)</li>
-<li>homozygous familial hypercholesterolemia (98.7%)</li>
-<li>postural orthostatic tachycardia syndrome (98.7%)</li>
-<li>lesion of sciatic nerve (98.6%)</li>
-<li>infectious bovine rhinotracheitis (98.6%)</li>
-<li>malignant catarrh (98.6%)</li>
-<li>antithrombin deficiency type 2 (98.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (100.0%)</li>
 </ul></li>
 </ul>
 

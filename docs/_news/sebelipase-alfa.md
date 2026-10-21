@@ -3,7 +3,7 @@ layout: default
 title: "Sebelipase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sebelipase Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Sebelipase Alfa. Original indication: . 1 predicted indications."
 permalink: /news/sebelipase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sebelipase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Sebelipase Alfa?">
-<strong>Sebelipase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sebelipase Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Sebelipase Alfa with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Scheie syndrome (99.8%)</li>
-<li>Hurler syndrome (99.8%)</li>
-<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant (99.8%)</li>
-<li>cholesteryl ester storage disease (99.7%)</li>
-<li>Wolman disease with hypolipoproteinemia and acanthocytosis (99.7%)</li>
-<li>Gaucher disease (99.7%)</li>
-<li>lysosomal storage disease with skeletal involvement (99.6%)</li>
-<li>autosomal ichthyosis syndrome with fatal disease course (99.6%)</li>
-<li>Tay-Sachs disease (99.6%)</li>
-<li>Wolman disease (99.6%)</li>
-<li>benign neoplasm of adrenal gland (99.6%)</li>
-<li>adult Krabbe disease (99.5%)</li>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.5%)</li>
-<li>Krabbe disease (99.4%)</li>
-<li>cholesterol metabolism disease (99.4%)</li>
-<li>lysosomal acid lipase deficiency (99.4%)</li>
-<li>metachromatic leukodystrophy (99.4%)</li>
-<li>encephalopathy due to prosaposin deficiency (99.4%)</li>
-<li>infantile neuronal ceroid lipofuscinosis (99.3%)</li>
-<li>alpha-mannosidosis (99.3%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Flutemetamol (18F) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Flutemetamol (18F). Original indication: . 20 predicted indications."
+description: "Health news related to Flutemetamol (18F). Original indication: . 1 predicted indications."
 permalink: /news/flutemetamol-18f/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flutemetamol-18f/
 ---
 
 <p class="key-answer" data-question="What news is there about Flutemetamol (18F)?">
-<strong>Flutemetamol (18F)</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Flutemetamol (18F)</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Flutemetamol (18F) with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>anaphylaxis (98.8%)</li>
-<li>food-dependent exercise-induced anaphylaxis (98.4%)</li>
-<li>dermatitis (97.0%)</li>
-<li>pseudoallergy (96.4%)</li>
-<li>acne keloid (96.2%)</li>
-<li>hydroa vacciniforme, familial (96.2%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (96.0%)</li>
-<li>neonatal dermatomyositis (96.0%)</li>
-<li>amyopathic dermatomyositis (95.9%)</li>
-<li>acrodermatitis chronica atrophicans (95.8%)</li>
-<li>bronchitis (95.3%)</li>
-<li>exanthem (disease) (94.4%)</li>
-<li>dry eye syndrome (94.2%)</li>
-<li>autoimmune hemolytic anemia (93.7%)</li>
-<li>HER2 positive breast carcinoma (92.8%)</li>
-<li>esotropia (92.4%)</li>
-<li>acquired aplastic anemia (92.3%)</li>
-<li>xerophthalmia (91.8%)</li>
-<li>keratoconjunctivitis (91.6%)</li>
-<li>disorder of GPI anchor biosynthesis (91.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Anaphylaxis (98.8%)</li>
 </ul></li>
 </ul>
 

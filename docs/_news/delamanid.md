@@ -3,7 +3,7 @@ layout: default
 title: "Delamanid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Delamanid. Original indication: . 20 predicted indications."
+description: "Health news related to Delamanid. Original indication: . 1 predicted indications."
 permalink: /news/delamanid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/delamanid/
 ---
 
 <p class="key-answer" data-question="What news is there about Delamanid?">
-<strong>Delamanid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Delamanid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Delamanid with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>multidrug-resistant tuberculosis (99.9%)</li>
-<li>tuberculosis, bovine (99.9%)</li>
-<li>tuberculoma (99.9%)</li>
-<li>tuberculosis, avian (99.9%)</li>
-<li>inactive tuberculosis (99.9%)</li>
-<li>tuberculous ascites (99.9%)</li>
-<li>allergic urticaria (99.6%)</li>
-<li>cutaneous tuberculosis (99.1%)</li>
-<li>fascioliasis (99.0%)</li>
-<li>inhalational botulism (98.9%)</li>
-<li>urea cycle disorder (98.8%)</li>
-<li>toxin-mediated infectious botulism (98.7%)</li>
-<li>hyperamylasemia (98.6%)</li>
-<li>polyclonal hyperviscosity syndrome (98.6%)</li>
-<li>leishmaniasis, diffuse cutaneous (98.6%)</li>
-<li>congenital analbuminemia (98.4%)</li>
-<li>Clostridium infectious disease (98.2%)</li>
-<li>extrapulmonary tuberculosis (98.1%)</li>
-<li>blood group incompatibility (98.0%)</li>
-<li>vulvovaginal candidiasis (97.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Tuberculosis, bovine (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/delamanid/' | relative_url }}">View full drug report →</a></p>

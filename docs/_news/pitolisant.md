@@ -3,7 +3,7 @@ layout: default
 title: "Pitolisant News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pitolisant. Original indication: . 20 predicted indications."
+description: "Health news related to Pitolisant. Original indication: . 1 predicted indications."
 permalink: /news/pitolisant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pitolisant/
 ---
 
 <p class="key-answer" data-question="What news is there about Pitolisant?">
-<strong>Pitolisant</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Pitolisant</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Pitolisant with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>insomnia (disease) (99.7%)</li>
-<li>attention deficit-hyperactivity disorder (99.4%)</li>
-<li>faciodigitogenital syndrome (99.3%)</li>
-<li>X-linked adrenoleukodystrophy (99.0%)</li>
-<li>disorder of peroxisomal alpha-, beta- and omega-oxidation (98.9%)</li>
-<li>ACBD5 deficiency (98.7%)</li>
-<li>Creutzfeldt-Jakob disease (98.5%)</li>
-<li>narcolepsy-cataplexy syndrome (98.5%)</li>
-<li>narcolepsy (98.4%)</li>
-<li>narcolepsy, susceptibility to (98.2%)</li>
-<li>megaconial type congenital muscular dystrophy (97.6%)</li>
-<li>hypersomnia (disease) (97.0%)</li>
-<li>Balo concentric sclerosis (96.9%)</li>
-<li>circadian rhythm sleep disorder (96.7%)</li>
-<li>chondromyxoid fibroma (96.6%)</li>
-<li>narcolepsy without cataplexy (95.0%)</li>
-<li>variably protease-sensitive prionopathy (94.8%)</li>
-<li>central nervous system disease (94.8%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (94.5%)</li>
-<li>Wernicke-Korsakoff syndrome (93.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pitolisant/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Iloprost News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Iloprost. Original indication: . 20 predicted indications."
+description: "Health news related to Iloprost. Original indication: . 1 predicted indications."
 permalink: /news/iloprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iloprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Iloprost?">
-<strong>Iloprost</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Iloprost</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Iloprost with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.5%)</li>
-<li>congenital hypotrichosis milia (99.3%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.3%)</li>
-<li>pulmonary arteriovenous malformation (disease) (99.3%)</li>
-<li>pulmonary arterial hypertension (99.3%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (99.2%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.2%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.2%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (99.2%)</li>
-<li>diffuse alopecia areata (99.1%)</li>
-<li>alopecia (98.4%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (96.6%)</li>
-<li>Ambras type hypertrichosis universalis congenita (96.6%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (96.5%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (96.5%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (96.2%)</li>
-<li>isolated genetic hair shaft abnormality (96.0%)</li>
-<li>familial clubfoot due to 17q23.1q23.2 microduplication (95.9%)</li>
-<li>chromosome 17q23.1-q23.2 deletion syndrome (95.7%)</li>
-<li>coxopodopatellar syndrome (95.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary arterial hypertension associated with congenital heart disease (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iloprost/' | relative_url }}">View full drug report →</a></p>
@@ -63,7 +44,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 

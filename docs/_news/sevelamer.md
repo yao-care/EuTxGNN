@@ -3,7 +3,7 @@ layout: default
 title: "Sevelamer News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sevelamer. Original indication: . 20 predicted indications."
+description: "Health news related to Sevelamer. Original indication: . 1 predicted indications."
 permalink: /news/sevelamer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sevelamer/
 ---
 
 <p class="key-answer" data-question="What news is there about Sevelamer?">
-<strong>Sevelamer</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sevelamer</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Sevelamer with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>breast fibrocystic disease (92.5%)</li>
-<li>blunt duct adenosis of breast (89.9%)</li>
-<li>apocrine adenosis of breast (89.9%)</li>
-<li>benign mammary dysplasia (88.9%)</li>
-<li>HIV infectious disease (87.2%)</li>
-<li>AIDS (86.4%)</li>
-<li>breast abscess (83.6%)</li>
-<li>fat necrosis of breast (83.6%)</li>
-<li>lactation disease (83.4%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (83.2%)</li>
-<li>simian immunodeficiency virus infection (82.8%)</li>
-<li>feline acquired immunodeficiency syndrome (82.8%)</li>
-<li>breast adenosis (82.2%)</li>
-<li>congestive heart failure (80.2%)</li>
-<li>AIDS related complex (79.8%)</li>
-<li>congenital human immunodeficiency virus (79.8%)</li>
-<li>acute pulmonary heart disease (79.4%)</li>
-<li>ulceration of vulva (79.3%)</li>
-<li>vulvar neoplasm (78.9%)</li>
-<li>vulvitis (77.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Breast fibrocystic disease (92.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sevelamer/' | relative_url }}">View full drug report →</a></p>

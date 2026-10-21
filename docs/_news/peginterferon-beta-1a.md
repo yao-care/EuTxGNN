@@ -3,7 +3,7 @@ layout: default
 title: "Peginterferon Beta-1A News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Peginterferon Beta-1A. Original indication: . 0 predicted indications."
+description: "Health news related to Peginterferon Beta-1A. Original indication: . 1 predicted indications."
 permalink: /news/peginterferon-beta-1a/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/peginterferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="What news is there about Peginterferon Beta-1A?">
-<strong>Peginterferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Peginterferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Peginterferon Beta-1A with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heart neoplasm (94.1%)</li>
+</ul></li>
 </ul>
 
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Mecasermin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mecasermin. Original indication: . 20 predicted indications."
+description: "Health news related to Mecasermin. Original indication: . 1 predicted indications."
 permalink: /news/mecasermin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mecasermin/
 ---
 
 <p class="key-answer" data-question="What news is there about Mecasermin?">
-<strong>Mecasermin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mecasermin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Mecasermin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>monosomy X (99.6%)</li>
-<li>Wolman disease with hypolipoproteinemia and acanthocytosis (99.1%)</li>
-<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant (99.1%)</li>
-<li>esophageal varices without bleeding (99.0%)</li>
-<li>esophageal varices with bleeding (99.0%)</li>
-<li>autosomal ichthyosis syndrome with fatal disease course (98.7%)</li>
-<li>Gaucher disease (98.5%)</li>
-<li>varicose disease (98.3%)</li>
-<li>congenital pulmonary lymphangiectasia (98.2%)</li>
-<li>cholesteryl ester storage disease (98.2%)</li>
-<li>benign neoplasm of adrenal gland (98.1%)</li>
-<li>16q24.1 microdeletion syndrome (97.9%)</li>
-<li>primary interstitial lung disease specific to childhood (97.8%)</li>
-<li>isolated pulmonary capillaritis (97.7%)</li>
-<li>familial apolipoprotein C-II deficiency (97.4%)</li>
-<li>Wolman disease (97.2%)</li>
-<li>Steel syndrome (97.2%)</li>
-<li>reticular dysgenesis (97.1%)</li>
-<li>lysosomal acid lipase deficiency (97.0%)</li>
-<li>Hurler syndrome (97.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Monosomy X (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mecasermin/' | relative_url }}">View full drug report →</a></p>

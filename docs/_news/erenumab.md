@@ -3,7 +3,7 @@ layout: default
 title: "Erenumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Erenumab. Original indication: However, none of these studies specifically enroll.... 20 predicted indications."
+description: "Health news related to Erenumab. Original indication: However, none of these studies specifically enroll.... 1 predicted indications."
 permalink: /news/erenumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erenumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Erenumab?">
-<strong>Erenumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Erenumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <ul>
 <li><strong>Original indication</strong>: However, none of these studies specifically enrolled or analyzed patients with brainstem aura (formerly basilar-type migraine). The evidence is therefore indirect, extrapolated from broader migraine...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>atrophoderma vermiculata (98.4%)</li>
-<li>migraine with or without aura, susceptibility to (98.3%)</li>
-<li>ulerythema ophryogenesis (97.5%)</li>
-<li>amenorrhea (disease) (97.4%)</li>
-<li>antithrombin deficiency type 2 (97.3%)</li>
-<li>factor 5 excess with spontaneous thrombosis (97.1%)</li>
-<li>heparin cofactor 2 deficiency (97.1%)</li>
-<li>thrombophilia (95.9%)</li>
-<li>sciatic neuropathy (93.5%)</li>
-<li>severe nonproliferative diabetic retinopathy (85.7%)</li>
-<li>hemorrhagic disease of newborn (81.0%)</li>
-<li>HER2 positive breast carcinoma (80.1%)</li>
-<li>normal breast-like subtype of breast carcinoma (77.5%)</li>
-<li>progesterone-receptor positive breast cancer (77.5%)</li>
-<li>breast tumor luminal A or B (77.2%)</li>
-<li>progesterone-receptor negative breast cancer (76.5%)</li>
-<li>infectious bovine rhinotracheitis (73.5%)</li>
-<li>malignant catarrh (73.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>

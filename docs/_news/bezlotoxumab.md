@@ -3,7 +3,7 @@ layout: default
 title: "Bezlotoxumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bezlotoxumab. Original indication: . 20 predicted indications."
+description: "Health news related to Bezlotoxumab. Original indication: . 1 predicted indications."
 permalink: /news/bezlotoxumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bezlotoxumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Bezlotoxumab?">
-<strong>Bezlotoxumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Bezlotoxumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Bezlotoxumab with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>acute female pelvic peritonitis (99.9%)</li>
-<li>embryonic cyst of fallopian tube (99.9%)</li>
-<li>tubal pregnancy (99.9%)</li>
-<li>salpingitis isthmica nodosa (99.9%)</li>
-<li>disease of uterine broad ligament (99.9%)</li>
-<li>lumbar spinal stenosis (99.9%)</li>
-<li>celiac trunk compression syndrome (99.9%)</li>
-<li>abdominal cystic lymphangioma (99.9%)</li>
-<li>abdominal ectopic pregnancy (99.9%)</li>
-<li>pelvic varices (99.9%)</li>
-<li>lymph node palisaded myofibroblastoma (99.9%)</li>
-<li>disease of retroperitoneum (99.9%)</li>
-<li>sacrum chordoma (99.9%)</li>
-<li>disease of peritoneum (99.9%)</li>
-<li>urethral disease (99.9%)</li>
-<li>pudendal neuralgia (99.8%)</li>
-<li>bronchial adenomas/carcinoids childhood (99.8%)</li>
-<li>non-seminomatous lesion (99.8%)</li>
-<li>ductal or ductular proliferation (99.8%)</li>
-<li>chondroid hamartoma (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acute female pelvic peritonitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bezlotoxumab/' | relative_url }}">View full drug report →</a></p>

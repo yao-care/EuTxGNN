@@ -3,7 +3,7 @@ layout: default
 title: "Nepafenac News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nepafenac. Original indication: . 20 predicted indications."
+description: "Health news related to Nepafenac. Original indication: . 1 predicted indications."
 permalink: /news/nepafenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nepafenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Nepafenac?">
-<strong>Nepafenac</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Nepafenac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>eye disease (99.8%)</li>
-<li>optic papillitis (99.8%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>seborrheic keratosis (99.8%)</li>
-<li>von Hippel anomaly (99.8%)</li>
-<li>congenital hypotrichosis milia (99.8%)</li>
-<li>mcpherson robertson cammarano syndrome (99.8%)</li>
-<li>lagophthalmos (99.8%)</li>
-<li>vulvar inverted follicular keratosis (99.8%)</li>
-<li>vitreous detachment (99.8%)</li>
-<li>microblepharon-ablephara syndrome (99.8%)</li>
-<li>luxation of globe (99.8%)</li>
-<li>conjunctival degeneration (99.8%)</li>
-<li>isolated optic neuritis (99.8%)</li>
-<li>recurrent idiopathic neuroretinitis (99.8%)</li>
-<li>optic perineuritis (99.8%)</li>
-<li>chronic relapsing inflammatory optic neuropathy (99.8%)</li>
-<li>episcleritis periodica fugax (99.8%)</li>
-<li>nodular episcleritis (99.8%)</li>
-<li>total internal ophthalmoplegia (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Eye disease (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nepafenac/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Romiplostim News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Romiplostim. Original indication: Other top-ranked predictions show the same pattern.... 20 predicted indications."
+description: "Health news related to Romiplostim. Original indication: Other top-ranked predictions show the same pattern.... 1 predicted indications."
 permalink: /news/romiplostim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/romiplostim/
 ---
 
 <p class="key-answer" data-question="What news is there about Romiplostim?">
-<strong>Romiplostim</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Romiplostim</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Romiplostim with the latest 
 <ul>
 <li><strong>Original indication</strong>: Other top-ranked predictions show the same pattern. Pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, and collagen receptor defects are mostly functional platelet disorders...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (100.0%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (100.0%)</li>
-<li>platelet-type bleeding disorder (99.9%)</li>
-<li>autosomal dominant macrothrombocytopenia (99.9%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (99.8%)</li>
-<li>paroxysmal nocturnal hemoglobinuria (99.6%)</li>
-<li>proteinuria (99.6%)</li>
-<li>neurolymphomatosis (99.6%)</li>
-<li>mixed-type autoimmune hemolytic anemia (99.6%)</li>
-<li>drug-induced autoimmune hemolytic anemia (99.5%)</li>
-<li>neonatal autoimmune hemolytic anemia (99.5%)</li>
-<li>plasmacytoma (99.5%)</li>
-<li>primary CD59 deficiency (99.4%)</li>
-<li>Peyronie disease (99.3%)</li>
-<li>cold agglutinin disease (99.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/romiplostim/' | relative_url }}">View full drug report →</a></p>

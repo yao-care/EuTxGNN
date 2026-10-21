@@ -3,7 +3,7 @@ layout: default
 title: "Choriogonadotropin Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Choriogonadotropin Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Choriogonadotropin Alfa. Original indication: . 1 predicted indications."
 permalink: /news/choriogonadotropin-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/choriogonadotropin-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Choriogonadotropin Alfa?">
-<strong>Choriogonadotropin Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Choriogonadotropin Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Choriogonadotropin Alfa with
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>peptic esophagitis (98.4%)</li>
-<li>postural orthostatic tachycardia syndrome (98.3%)</li>
-<li>esophageal disease (97.6%)</li>
-<li>Raynaud disease (97.4%)</li>
-<li>non-syndromic esophageal malformation (96.9%)</li>
-<li>esophageal ulcer (96.8%)</li>
-<li>His bundle tachycardia (96.0%)</li>
-<li>sinoatrial block (95.9%)</li>
-<li>progressive familial heart block (95.7%)</li>
-<li>sinoatrial node disease (95.5%)</li>
-<li>restless legs syndrome (95.4%)</li>
-<li>esophageal atresia (disease) (95.3%)</li>
-<li>active peptic ulcer disease (95.3%)</li>
-<li>gastrojejunal ulcer (95.3%)</li>
-<li>peptic ulcer perforation (95.3%)</li>
-<li>migraine disorder (95.3%)</li>
-<li>esophageal leukoplakia (disease) (95.2%)</li>
-<li>acne (disease) (95.2%)</li>
-<li>dyskinesia of esophagus (95.2%)</li>
-<li>esophageal diverticulosis (95.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Peptic esophagitis (98.4%)</li>
 </ul></li>
 </ul>
 

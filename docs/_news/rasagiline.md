@@ -3,7 +3,7 @@ layout: default
 title: "Rasagiline News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rasagiline. Original indication: . 20 predicted indications."
+description: "Health news related to Rasagiline. Original indication: . 1 predicted indications."
 permalink: /news/rasagiline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,35 +25,22 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hereditary late onset Parkinson disease (99.9%)</li>
-<li>juvenile onset Parkinson disease 19A (99.9%)</li>
-<li>X-linked parkinsonism-spasticity syndrome (99.7%)</li>
-<li>atypical juvenile parkinsonism (99.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>PLA2G6-associated neurodegeneration (99.7%)</li>
-<li>Rasmussen subacute encephalitis (99.6%)</li>
-<li>Parkinson disease (99.4%)</li>
-<li>parkinsonian-pyramidal syndrome (99.3%)</li>
-<li>myelitis (99.3%)</li>
-<li>paralysis agitans, juvenile, of Hunt (99.2%)</li>
-<li>transaldolase deficiency (99.2%)</li>
-<li>hemiparkinsonism-hemiatrophy syndrome (99.2%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.0%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (98.8%)</li>
-<li>Lewy body dementia (98.8%)</li>
-<li>fructose-1,6-bisphosphatase deficiency (98.8%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (98.8%)</li>
-<li>early-onset parkinsonism-intellectual disability syndrome (98.8%)</li>
-<li>lethal infantile mitochondrial myopathy (98.7%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

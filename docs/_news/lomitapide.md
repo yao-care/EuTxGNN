@@ -3,7 +3,7 @@ layout: default
 title: "Lomitapide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lomitapide. Original indication: . 20 predicted indications."
+description: "Health news related to Lomitapide. Original indication: . 1 predicted indications."
 permalink: /news/lomitapide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lomitapide/
 ---
 
 <p class="key-answer" data-question="What news is there about Lomitapide?">
-<strong>Lomitapide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Lomitapide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Lomitapide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>marcothrombocytopenia with mitral valve insufficiency (99.9%)</li>
-<li>hereditary thrombocytopenia with normal platelets (99.9%)</li>
-<li>dense granule disease (99.9%)</li>
-<li>transient neonatal thrombocytopenia (99.9%)</li>
-<li>homozygous familial hypercholesterolemia (99.9%)</li>
-<li>thrombocytopenia (99.9%)</li>
-<li>primary release disorder of platelets (99.8%)</li>
-<li>pseudo-von Willebrand disease (99.8%)</li>
-<li>Glanzmann thrombasthenia (99.8%)</li>
-<li>hyperlipoproteinemia (99.7%)</li>
-<li>platelet storage pool deficiency (99.5%)</li>
-<li>hyperlipidemia, familial combined, LPL related (99.5%)</li>
-<li>primary hyperoxaluria (99.0%)</li>
-<li>Scott syndrome (98.7%)</li>
-<li>obsolete familial combined hyperlipidemia (98.6%)</li>
-<li>fibroma of prostate (98.5%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (98.4%)</li>
-<li>cholesterol-ester transfer protein deficiency (98.3%)</li>
-<li>benign reproductive system neoplasm (98.3%)</li>
-<li>prostate cancer/brain cancer susceptibility (98.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Macrothrombocytopenia with mitral valve insufficiency (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lomitapide/' | relative_url }}">View full drug report →</a></p>

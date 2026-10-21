@@ -3,7 +3,7 @@ layout: default
 title: "Entecavir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Entecavir. Original indication: . 20 predicted indications."
+description: "Health news related to Entecavir. Original indication: . 1 predicted indications."
 permalink: /news/entecavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Entecavir?">
-<strong>Entecavir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Entecavir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Entecavir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>chronic hepatitis C virus infection (100.0%)</li>
-<li>hepatitis B virus infection (99.8%)</li>
-<li>HIV infectious disease (99.8%)</li>
-<li>hepatitis C virus infection (99.7%)</li>
-<li>chronic hepatitis B virus infection (99.7%)</li>
-<li>simian immunodeficiency virus infection (99.7%)</li>
-<li>feline acquired immunodeficiency syndrome (99.7%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
-<li>hepatitis, viral, animal (99.5%)</li>
-<li>hepatitis E virus infection (99.5%)</li>
-<li>hepatitis A virus infection (99.4%)</li>
-<li>Omsk hemorrhagic fever (99.4%)</li>
-<li>Kyasanur forest disease (99.4%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (97.9%)</li>
-<li>hepatoportal sclerosis (97.9%)</li>
-<li>hepatopulmonary syndrome (97.9%)</li>
-<li>idiopathic copper-associated cirrhosis (97.9%)</li>
-<li>primitive portal vein thrombosis (97.9%)</li>
-<li>obsolete familial combined hyperlipidemia (97.6%)</li>
-<li>hepatic porphyria (97.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic hepatitis C virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Glycerol Phenylbutyrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Glycerol Phenylbutyrate. Original indication: . 3 predicted indications."
+description: "Health news related to Glycerol Phenylbutyrate. Original indication: . 4 predicted indications."
 permalink: /news/glycerol-phenylbutyrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycerol-phenylbutyrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycerol Phenylbutyrate?">
-<strong>Glycerol Phenylbutyrate</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Glycerol Phenylbutyrate</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ This page combines the AI-predicted indications for Glycerol Phenylbutyrate with
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>3-methylcrotonyl-CoA carboxylase 1 deficiency | 97.10% | Weak rationale; the condition is often benign and not primarily hyperammonemic (99.0%)</li>
-<li>Hyperinsulinism-hyperammonemia syndrome | 96.78% | Plausible but of limited clinical relevance; hypoglycemia is the main treatment target (99.0%)</li>
-<li>Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency | 96.56% | The most biologically plausible candidate; functionally close to the approved UCD indication (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Citrullinemia, type II, adult-onset (97.1%)</li>
+<li>3-methylcrotonyl-CoA carboxylase 1 deficiency (97.1%)</li>
+<li>Hyperinsulinism-hyperammonemia syndrome (96.8%)</li>
+<li>Hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency (96.6%)</li>
 </ul></li>
 </ul>
 

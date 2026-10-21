@@ -3,7 +3,7 @@ layout: default
 title: "Dupilumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dupilumab. Original indication: . 3 predicted indications."
+description: "Health news related to Dupilumab. Original indication: . 1 predicted indications."
 permalink: /news/dupilumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dupilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Dupilumab?">
-<strong>Dupilumab</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Dupilumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Dermatitis | L1 | Maps to atopic dermatitis, which is already an approved use, not true repurposing. Several completed Phase 3 RCTs support it. (99.0%)</li>
-<li>Acne keloid | L4 | Single case report on keloids. Hold. (99.0%)</li>
-<li>Exanthem | L3 | Small Phase 4 study and a systematic review of cutaneous immune-related adverse events. Dupilumab can also induce rashes. (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bronchitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>

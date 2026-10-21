@@ -3,7 +3,7 @@ layout: default
 title: "Emtricitabine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Emtricitabine. Original indication: . 5 predicted indications."
+description: "Health news related to Emtricitabine. Original indication: . 6 predicted indications."
 permalink: /news/emtricitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/emtricitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Emtricitabine?">
-<strong>Emtricitabine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Emtricitabine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ This page combines the AI-predicted indications for Emtricitabine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.9%)</li>
 <li>Feline acquired immunodeficiency syndrome (99.9%)</li>
 <li>Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
 <li>Obsolete familial combined hyperlipidemia (98.2%)</li>

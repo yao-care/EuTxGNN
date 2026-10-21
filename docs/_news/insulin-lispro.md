@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Lispro News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Lispro. Original indication: . 20 predicted indications."
+description: "Health news related to Insulin Lispro. Original indication: . 1 predicted indications."
 permalink: /news/insulin-lispro/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-lispro/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Lispro?">
-<strong>Insulin Lispro</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Insulin Lispro</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Insulin Lispro with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>type 1 diabetes mellitus (99.8%)</li>
-<li>autoimmune oophoritis (99.8%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.4%)</li>
-<li>classic stiff person syndrome (99.4%)</li>
-<li>focal stiff limb syndrome (99.4%)</li>
-<li>diabetes mellitus (disease) (99.3%)</li>
-<li>opsismodysplasia (99.3%)</li>
-<li>drug-induced localized lipodystrophy (99.1%)</li>
-<li>pancreatic agenesis (99.1%)</li>
-<li>centrifugal lipodystrophy (99.0%)</li>
-<li>pressure-induced localized lipoatrophy (99.0%)</li>
-<li>idiopathic localized lipodystrophy (99.0%)</li>
-<li>diabetic ketoacidosis (97.6%)</li>
-<li>permanent neonatal diabetes mellitus (97.5%)</li>
-<li>diabetes mellitus, insulin-dependent, X-linked, susceptibility to (91.1%)</li>
-<li>IDDM 1 (89.2%)</li>
-<li>glaucoma (79.7%)</li>
-<li>venous insufficiency (disease) (73.9%)</li>
-<li>atrial flutter (disease) (68.0%)</li>
-<li>hemoglobin C-beta-thalassemia syndrome (67.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Autoimmune oophoritis (99.8%)</li>
 </ul></li>
 </ul>
 

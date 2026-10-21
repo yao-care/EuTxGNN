@@ -3,7 +3,7 @@ layout: default
 title: "Peginterferon Alfa-2A News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Peginterferon Alfa-2A. Original indication: he prediction is supported by **20 clinical trials.... 20 predicted indications."
+description: "Health news related to Peginterferon Alfa-2A. Original indication: he prediction is supported by **20 clinical trials.... 1 predicted indications."
 permalink: /news/peginterferon-alfa-2a/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/peginterferon-alfa-2a/
 ---
 
 <p class="key-answer" data-question="What news is there about Peginterferon Alfa-2A?">
-<strong>Peginterferon Alfa-2A</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Peginterferon Alfa-2A</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Peginterferon Alfa-2A with t
 <ul>
 <li><strong>Original indication</strong>: he prediction is supported by **20 clinical trials** and **20 publications** in the data compiled for this report.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>chronic hepatitis C virus infection (100.0%)</li>
-<li>hepatitis B virus infection (99.9%)</li>
-<li>hepatitis C virus infection (99.9%)</li>
-<li>hepatitis E virus infection (99.8%)</li>
-<li>hepatitis A virus infection (99.8%)</li>
-<li>hepatitis, viral, animal (99.8%)</li>
-<li>Omsk hemorrhagic fever (99.8%)</li>
-<li>chronic hepatitis B virus infection (99.8%)</li>
-<li>Kyasanur forest disease (99.8%)</li>
-<li>heart conduction disease (99.5%)</li>
-<li>heart neoplasm (99.4%)</li>
-<li>heart valve disease (99.4%)</li>
-<li>congenital anomaly of ventricular septum (99.2%)</li>
-<li>pericardium disease (99.1%)</li>
-<li>myocardial rupture (99.0%)</li>
-<li>cor biloculare (99.0%)</li>
-<li>carcinoid heart disease (99.0%)</li>
-<li>cardiac anomalies-heterotaxy syndrome (99.0%)</li>
-<li>heart aneurysm (99.0%)</li>
-<li>white forelock with malformations (98.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatitis B virus infection (already an approved indication) (99.9%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Lopinavir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lopinavir. Original indication: . 20 predicted indications."
+description: "Health news related to Lopinavir. Original indication: . 1 predicted indications."
 permalink: /news/lopinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lopinavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Lopinavir?">
-<strong>Lopinavir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Lopinavir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Lopinavir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>HIV infectious disease (100.0%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
-<li>AIDS (99.2%)</li>
-<li>chronic hepatitis C virus infection (98.3%)</li>
-<li>AIDS related complex (98.2%)</li>
-<li>congenital human immunodeficiency virus (98.2%)</li>
-<li>obsolete familial combined hyperlipidemia (95.2%)</li>
-<li>hepatitis B virus infection (93.2%)</li>
-<li>hepatitis C virus infection (88.3%)</li>
-<li>fibroma of prostate (87.1%)</li>
-<li>Brenner tumor (86.3%)</li>
-<li>benign reproductive system neoplasm (86.2%)</li>
-<li>benign prostate phyllodes tumor (85.6%)</li>
-<li>hepatitis E virus infection (85.4%)</li>
-<li>hepatitis, viral, animal (85.2%)</li>
-<li>hepatitis A virus infection (85.0%)</li>
-<li>Omsk hemorrhagic fever (84.8%)</li>
-<li>Kyasanur forest disease (84.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lopinavir/' | relative_url }}">View full drug report →</a></p>

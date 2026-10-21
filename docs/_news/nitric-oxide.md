@@ -3,7 +3,7 @@ layout: default
 title: "Nitric Oxide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nitric Oxide. Original indication: . 20 predicted indications."
+description: "Health news related to Nitric Oxide. Original indication: . 1 predicted indications."
 permalink: /news/nitric-oxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitric-oxide/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitric Oxide?">
-<strong>Nitric Oxide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Nitric Oxide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Nitric Oxide with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>malformation syndrome with odontal and/or periodontal component (99.6%)</li>
-<li>hypertrichosis (disease) (99.6%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.5%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.5%)</li>
-<li>isolated genetic hair shaft abnormality (99.5%)</li>
-<li>pulmonary arteriovenous malformation (disease) (99.4%)</li>
-<li>pulmonary arterial hypertension (99.4%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.4%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.3%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (99.3%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (99.3%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.3%)</li>
-<li>hypotrichosis simplex of the scalp (98.8%)</li>
-<li>congenital hypotrichosis milia (98.7%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (98.6%)</li>
-<li>diffuse alopecia areata (98.2%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (98.2%)</li>
-<li>16q24.1 microdeletion syndrome (98.0%)</li>
-<li>primary interstitial lung disease specific to childhood (97.9%)</li>
-<li>isolated pulmonary capillaritis (97.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malformation syndrome with odontal and/or periodontal component (rank 1) (99.6%)</li>
 </ul></li>
 </ul>
 

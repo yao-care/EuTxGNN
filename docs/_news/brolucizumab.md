@@ -3,7 +3,7 @@ layout: default
 title: "Brolucizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brolucizumab. Original indication: . 10 predicted indications."
+description: "Health news related to Brolucizumab. Original indication: . 1 predicted indications."
 permalink: /news/brolucizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brolucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Brolucizumab?">
-<strong>Brolucizumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Brolucizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Brolucizumab with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.7%)</li>
-<li>esophageal varices without bleeding (99.1%)</li>
-<li>esophageal varices with bleeding (99.1%)</li>
-<li>exocrine pancreatic insufficiency (99.1%)</li>
-<li>MRCS syndrome (98.5%)</li>
-<li>pigmented paravenous retinochoroidal atrophy (98.3%)</li>
-<li>familial flecked retinopathy (97.9%)</li>
-<li>ectopia lentis-chorioretinal dystrophy-myopia syndrome (97.8%)</li>
-<li>retinal dystrophy in systemic or cerebroretinal lipidoses (97.7%)</li>
-<li>senile reticular retinal degeneration (97.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brolucizumab/' | relative_url }}">View full drug report →</a></p>

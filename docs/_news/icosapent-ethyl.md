@@ -3,7 +3,7 @@ layout: default
 title: "Icosapent Ethyl News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Icosapent Ethyl. Original indication: . 0 predicted indications."
+description: "Health news related to Icosapent Ethyl. Original indication: . 1 predicted indications."
 permalink: /news/icosapent-ethyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/icosapent-ethyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Icosapent Ethyl?">
-<strong>Icosapent Ethyl</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Icosapent Ethyl</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Icosapent Ethyl with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Myocardial infarction (98.6%)</li>
+</ul></li>
 </ul>
 
 </div>

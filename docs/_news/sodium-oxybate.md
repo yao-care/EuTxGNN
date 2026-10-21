@@ -3,7 +3,7 @@ layout: default
 title: "Sodium Oxybate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sodium Oxybate. Original indication: . 0 predicted indications."
+description: "Health news related to Sodium Oxybate. Original indication: . 1 predicted indications."
 permalink: /news/sodium-oxybate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sodium-oxybate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sodium Oxybate?">
-<strong>Sodium Oxybate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Sodium Oxybate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Sodium Oxybate with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (100.0%)</li>
+</ul></li>
 </ul>
 
 </div>

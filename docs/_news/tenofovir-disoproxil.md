@@ -3,7 +3,7 @@ layout: default
 title: "Tenofovir Disoproxil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tenofovir Disoproxil. Original indication: . 20 predicted indications."
+description: "Health news related to Tenofovir Disoproxil. Original indication: . 1 predicted indications."
 permalink: /news/tenofovir-disoproxil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenofovir-disoproxil/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenofovir Disoproxil?">
-<strong>Tenofovir Disoproxil</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tenofovir Disoproxil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Tenofovir Disoproxil with th
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>HIV infectious disease (100.0%)</li>
-<li>feline acquired immunodeficiency syndrome (100.0%)</li>
-<li>simian immunodeficiency virus infection (100.0%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.6%)</li>
-<li>chronic hepatitis C virus infection (98.0%)</li>
-<li>AIDS (97.6%)</li>
-<li>fibroma of prostate (95.9%)</li>
-<li>hepatitis B virus infection (95.8%)</li>
-<li>Brenner tumor (95.5%)</li>
-<li>benign reproductive system neoplasm (95.5%)</li>
-<li>benign prostate phyllodes tumor (95.0%)</li>
-<li>hepatitis C virus infection (94.9%)</li>
-<li>congenital human immunodeficiency virus (94.6%)</li>
-<li>AIDS related complex (94.6%)</li>
-<li>male reproductive organ cancer (94.2%)</li>
-<li>primitive portal vein thrombosis (93.9%)</li>
-<li>hepatopulmonary syndrome (93.9%)</li>
-<li>hepatoportal sclerosis (93.9%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (93.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Feline acquired immunodeficiency syndrome (100.0%)</li>
 </ul></li>
 </ul>
 

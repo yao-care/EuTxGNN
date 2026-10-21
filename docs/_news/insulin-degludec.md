@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Degludec News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Degludec. Original indication: . 20 predicted indications."
+description: "Health news related to Insulin Degludec. Original indication: . 1 predicted indications."
 permalink: /news/insulin-degludec/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-degludec/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Degludec?">
-<strong>Insulin Degludec</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Insulin Degludec</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Insulin Degludec with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>type 1 diabetes mellitus (99.4%)</li>
-<li>autoimmune oophoritis (99.2%)</li>
-<li>opsismodysplasia (99.1%)</li>
-<li>diabetes mellitus (disease) (99.1%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.1%)</li>
-<li>focal stiff limb syndrome (99.1%)</li>
-<li>classic stiff person syndrome (99.1%)</li>
-<li>drug-induced localized lipodystrophy (98.7%)</li>
-<li>pancreatic agenesis (98.6%)</li>
-<li>centrifugal lipodystrophy (98.6%)</li>
-<li>pressure-induced localized lipoatrophy (98.6%)</li>
-<li>idiopathic localized lipodystrophy (98.5%)</li>
-<li>diabetic ketoacidosis (97.7%)</li>
-<li>permanent neonatal diabetes mellitus (96.7%)</li>
-<li>diabetes mellitus, insulin-dependent, X-linked, susceptibility to (88.5%)</li>
-<li>pancreatitis (88.3%)</li>
-<li>IDDM 1 (87.2%)</li>
-<li>acute kidney failure (72.1%)</li>
-<li>alcoholic cardiomyopathy (70.0%)</li>
-<li>glaucoma (69.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Type 1 diabetes mellitus (99.4%)</li>
 </ul></li>
 </ul>
 

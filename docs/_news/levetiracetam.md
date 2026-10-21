@@ -3,7 +3,7 @@ layout: default
 title: "Levetiracetam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levetiracetam. Original indication: . 20 predicted indications."
+description: "Health news related to Levetiracetam. Original indication: . 1 predicted indications."
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Levetiracetam?">
-<strong>Levetiracetam</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Levetiracetam</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Levetiracetam with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>reading seizures (99.9%)</li>
-<li>status epilepticus (99.9%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
-<li>partial epilepsy (99.9%)</li>
-<li>14q12 microdeletion syndrome (99.9%)</li>
-<li>Rett syndrome, congenital variant (99.9%)</li>
-<li>restless legs syndrome (99.9%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.8%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (99.8%)</li>
-<li>guanidinoacetate methyltransferase deficiency (99.8%)</li>
-<li>partial motor epilepsy (99.6%)</li>
-<li>trigeminal nerve neoplasm (99.5%)</li>
-<li class="indication-matched">epilepsy (99.2%)<span class="indication-tag">📰 Epilepsie</span></li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Visual epilepsy (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">View full drug report →</a></p>

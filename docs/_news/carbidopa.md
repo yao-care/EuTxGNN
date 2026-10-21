@@ -3,7 +3,7 @@ layout: default
 title: "Carbidopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Carbidopa. Original indication: . 10 predicted indications."
+description: "Health news related to Carbidopa. Original indication: . 1 predicted indications."
 permalink: /news/carbidopa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,25 +25,22 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Rasmussen subacute encephalitis (98.4%)</li>
-<li>PLA2G6-associated neurodegeneration (97.6%)</li>
-<li>transaldolase deficiency (97.4%)</li>
-<li>myelitis (97.4%)</li>
-<li>fructose-1,6-bisphosphatase deficiency (97.1%)</li>
-<li>Lewy body dementia (96.0%)</li>
-<li>paralysis agitans, juvenile, of Hunt (95.6%)</li>
-<li>progressive supranuclear palsy-corticobasal syndrome (95.4%)</li>
-<li>X-linked intellectual disability-ataxia-apraxia syndrome (94.9%)</li>
-<li>X-linked intellectual disability-cerebellar hypoplasia syndrome (93.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

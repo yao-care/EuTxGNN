@@ -3,7 +3,7 @@ layout: default
 title: "Diflunisal News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Diflunisal. Original indication: . 20 predicted indications."
+description: "Health news related to Diflunisal. Original indication: . 1 predicted indications."
 permalink: /news/diflunisal/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diflunisal/
 ---
 
 <p class="key-answer" data-question="What news is there about Diflunisal?">
-<strong>Diflunisal</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Diflunisal</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,33 +25,22 @@ This page combines the AI-predicted indications for Diflunisal with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>osteoarthritis susceptibility (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>spondyloarthropathy, susceptibility to (100.0%)</li>
-<li>rheumatoid arthritis (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>osteoarthritis (100.0%)</li>
-<li>ankylosing spondylitis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>arthropathy (100.0%)</li>
-<li>hypermobility of coccyx (100.0%)</li>
-<li>rheumatoid vasculitis (100.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>inflammatory spondylopathy (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (100.0%)</li>
-<li>Kummell disease (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>vertebral disease (99.9%)</li>
-<li>WHIM syndrome (99.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (top-ranked prediction) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diflunisal/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Artrite reumatoide, perché lo stress non agisce su tutti allo stesso modo? La nuova scoperta](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
+
+2026-10-20 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
+
+---
 
 ### [Bone-on-bone knee arthritis: Why surgery is not always necessary and why consulting an orthopaedic specia - The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Mometasone Furoate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mometasone Furoate. Original indication: . 9 predicted indications."
+description: "Health news related to Mometasone Furoate. Original indication: . 10 predicted indications."
 permalink: /news/mometasone-furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mometasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Mometasone Furoate?">
-<strong>Mometasone Furoate</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Mometasone Furoate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ This page combines the AI-predicted indications for Mometasone Furoate with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Polyp of vocal cord | 97.67% | L5 | Plausible anti-inflammatory role, but usually managed with voice therapy or surgery (99.0%)</li>
-<li>Polyp of middle ear | 97.65% | L4 | Only indirect evidence from nasal/sinus polyps; drug delivery to the middle ear differs (99.0%)</li>
-<li>Polyp of frontal sinus | 97.56% | L3 | Closest to an already-validated sinonasal use (mometasone-eluting implants) (99.0%)</li>
-<li>Polyp of external auditory canal | 97.55% | L5 | Prediction only (99.0%)</li>
-<li>Fibroepithelial polyp | 97.55% | L5 | Benign mesenchymal lesion, usually excised (99.0%)</li>
-<li>Polyp of vulva | 97.54% | L5 | Likely driven by the shared "polyp" ontology term (99.0%)</li>
-<li>Polyp of ureter | 97.53% | L5 | No plausible mechanism identified (99.0%)</li>
-<li>Epulis | 97.53% | L5 | Generally treated surgically (99.0%)</li>
-<li>Neoplastic polyp | 97.51% | L5 | Driven by neoplastic mechanisms, not steroid-responsive inflammation (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>2-hydroxyethyl methacrylate sensitization (98.6%)</li>
+<li>Polyp of vocal cord (97.7%)</li>
+<li>Polyp of middle ear (97.7%)</li>
+<li>Polyp of frontal sinus (97.6%)</li>
+<li>Polyp of external auditory canal (97.5%)</li>
+<li>Fibroepithelial polyp (97.5%)</li>
+<li>Polyp of vulva (97.5%)</li>
+<li>Polyp of ureter (97.5%)</li>
+<li>Epulis (97.5%)</li>
+<li>Neoplastic polyp (97.5%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Orlistat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Orlistat. Original indication: . 20 predicted indications."
+description: "Health news related to Orlistat. Original indication: . 1 predicted indications."
 permalink: /news/orlistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,33 +25,38 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>obesity disorder (99.5%)</li>
-<li>hypervitaminosis (99.4%)</li>
-<li>proximal 16p11.2 microdeletion syndrome (98.9%)</li>
-<li>obsolete hypertelorism (disease) (97.8%)</li>
-<li>frontorhiny (96.6%)</li>
-<li>hypoalphalipoproteinemia (96.5%)</li>
-<li>monogenic obesity (94.5%)</li>
-<li>obsolete susceptibility to ischemic stroke (92.0%)</li>
-<li>ABri amyloidosis (85.7%)</li>
-<li>fatty liver disease (85.3%)</li>
-<li>homozygous familial hypercholesterolemia (79.8%)</li>
-<li>amenorrhea (disease) (77.9%)</li>
-<li>non-alcoholic steatohepatitis (77.1%)</li>
-<li>hypercarotenemia and vitamin A deficiency, autosomal recessive (71.0%)</li>
-<li>lethal polymalformative syndrome, Boissel type (68.5%)</li>
-<li>duodenogastric reflux (68.4%)</li>
-<li>pentosuria (68.3%)</li>
-<li>duodenal obstruction (68.1%)</li>
-<li>fibrosis of extraocular muscles, congenital, with synergistic divergence (66.9%)</li>
-<li>mitral valve prolapse, myxomatous (66.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypervitaminosis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Schlaganfall: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVk2Rml3aDMtZDE5Q0F3NHF5LVlHN19GVGxXZ3hwcGh3VzZLeHplUzdFMEFwN0Y0aEhFcTJMTzktc3lnWWY0OFB1TzVfVXJRS0RQQUFpR1Iwc01namdXOFd2dE8xcjdYdWRUVGtYY05aTGhFVk1CV0d4UkxxeEpNZzNxX3pRUjFNYmp6U3R4eGE1WjJWTEZCNlVnU3UwWUhxZ1JLXy1lYWV4QkFQRUxWYUZEMG9YZmxaRkpENGZ6MHJLX3pSYlRrZXBLalpzeTRQS1hIeFVNUXA?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVk2Rml3aDMtZDE5Q0F3NHF5LVlHN19GVGxXZ3hwcGh3VzZLeHplUzdFMEFwN0Y0aEhFcTJMTzktc3lnWWY0OFB1TzVfVXJRS0RQQUFpR1Iwc01namdXOFd2dE8xcjdYdWRUVGtYY05aTGhFVk1CV0d4UkxxeEpNZzNxX3pRUjFNYmp6U3R4eGE1WjJWTEZCNlVnU3UwWUhxZ1JLXy1lYWV4QkFQRUxWYUZEMG9YZmxaRkpENGZ6MHJLX3pSYlRrZXBLalpzeTRQS1hIeFVNUXA?oc=5)
+
+---
+
+### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
+
+2026-10-20 <span class="news-indication-tag">overweight</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
+
+---
+
+### [Rétatrutide (anti-obésité) : ce que vous risquez avec le nouveau « King Kong » de la minceur](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
+
+2026-10-20 <span class="news-indication-tag">obésité</span>
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
+
+---
 
 ### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
@@ -69,27 +74,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0
 
 ---
 
-### [Forscher nutzen ChatGPT-ähnliche KI, um Schlaganfallrisiko aus DNA zu bestimmen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
-
----
-
 ### [Community rallying around woman whose 'life changed in an instant' after stroke](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcThPdHZLMHg5NjBJUmJDSzQ4cnBRQ1Mzbk5fNGNZNDNRWWxDb0dkbmZEdDJWOVZESHlQRFIwSDlzRXpXN2c4OU5sZ0JIYXZWb0pHQ3BYZ0VYdG9VMmIwNTZVbnJ5dG1LMUNpV0ZBelJlN3BMcTdPTkw4a1Ztb1lVZG96UXRBRFl6NXc?oc=5)
 
 2026-10-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMiigFBVV95cUxQcThPdHZLMHg5NjBJUmJDSzQ4cnBRQ1Mzbk5fNGNZNDNRWWxDb0dkbmZEdDJWOVZESHlQRFIwSDlzRXpXN2c4OU5sZ0JIYXZWb0pHQ3BYZ0VYdG9VMmIwNTZVbnJ5dG1LMUNpV0ZBelJlN3BMcTdPTkw4a1Ztb1lVZG96UXRBRFl6NXc?oc=5)
-
----
-
-### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
-2026-10-19 <span class="news-indication-tag">obésité</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
 
 ---
 

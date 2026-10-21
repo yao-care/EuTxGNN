@@ -3,7 +3,7 @@ layout: default
 title: "Exenatide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Exenatide. Original indication: . 20 predicted indications."
+description: "Health news related to Exenatide. Original indication: . 1 predicted indications."
 permalink: /news/exenatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/exenatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Exenatide?">
-<strong>Exenatide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Exenatide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Exenatide with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary hereditary glaucoma (96.2%)</li>
-<li>open-angle glaucoma (95.4%)</li>
-<li>hypotrichosis simplex of the scalp (92.8%)</li>
-<li>congenital hypotrichosis milia (92.4%)</li>
-<li>headache disorder (91.8%)</li>
-<li>trigeminal autonomic cephalalgia (90.7%)</li>
-<li>diffuse alopecia areata (90.7%)</li>
-<li>alopecia (90.2%)</li>
-<li>obsolete rare pulmonary disease (89.5%)</li>
-<li>common cold (86.8%)</li>
-<li>glaucoma 1, open angle (86.7%)</li>
-<li>filariasis (86.7%)</li>
-<li>hyperplasia (86.5%)</li>
-<li>selective pituitary resistance to thyroid hormone (85.2%)</li>
-<li>gout (85.1%)</li>
-<li>thyroid gland disease (85.1%)</li>
-<li>toxic diffuse goiter (83.6%)</li>
-<li>digitalis poisoning (83.5%)</li>
-<li>renin-angiotensin-aldosterone system-blocker-induced angioedema (83.3%)</li>
-<li>thyroid crisis (disease) (82.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (96.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/exenatide/' | relative_url }}">View full drug report →</a></p>

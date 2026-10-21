@@ -3,7 +3,7 @@ layout: default
 title: "Latanoprost News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Latanoprost. Original indication: . 20 predicted indications."
+description: "Health news related to Latanoprost. Original indication: . 1 predicted indications."
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Latanoprost?">
-<strong>Latanoprost</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Latanoprost</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Latanoprost with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary hereditary glaucoma (99.9%)</li>
-<li>open-angle glaucoma (99.9%)</li>
-<li>visceral calciphylaxis (99.8%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>venous thoracic outlet syndrome (99.8%)</li>
-<li>arterial thoracic outlet syndrome (99.8%)</li>
-<li>neurogenic thoracic outlet syndrome (99.7%)</li>
-<li>congenital hypotrichosis milia (99.7%)</li>
-<li>angiodysplasia of stomach (99.7%)</li>
-<li>blue toe syndrome (99.7%)</li>
-<li>lymphangiectasis (99.7%)</li>
-<li>hemangioendothelioma (99.7%)</li>
-<li>vascular disease (99.7%)</li>
-<li>atheroembolism of kidney (99.7%)</li>
-<li>idiopathic spontaneous coronary artery dissection (99.6%)</li>
-<li>diffuse alopecia areata (99.6%)</li>
-<li>arterial dissection-lentiginosis syndrome (99.6%)</li>
-<li>alopecia (99.4%)</li>
-<li>congestive heart failure (99.3%)</li>
-<li>acute pulmonary heart disease (99.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">View full drug report →</a></p>

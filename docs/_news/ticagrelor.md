@@ -3,7 +3,7 @@ layout: default
 title: "Ticagrelor News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ticagrelor. Original indication: . 20 predicted indications."
+description: "Health news related to Ticagrelor. Original indication: . 1 predicted indications."
 permalink: /news/ticagrelor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ticagrelor/
 ---
 
 <p class="key-answer" data-question="What news is there about Ticagrelor?">
-<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Ticagrelor with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>intracranial arteriosclerosis (100.0%)</li>
-<li>intermittent vascular claudication (100.0%)</li>
-<li>Monckeberg arteriosclerosis (99.9%)</li>
-<li>peripheral arterial disease (99.9%)</li>
-<li>peripheral vascular disease (99.9%)</li>
-<li>priapism (99.8%)</li>
-<li>ischemic disease (99.6%)</li>
-<li>May-Thurner syndrome (99.5%)</li>
-<li>livedo reticularis (99.5%)</li>
-<li>mesenteric vascular occlusion (99.5%)</li>
-<li>vascular ectasia (99.5%)</li>
-<li>angiodysplasia (99.3%)</li>
-<li>venous thromboembolism (99.3%)</li>
-<li>fibrocartilaginous embolism (99.3%)</li>
-<li>non-inflammatory vasculopathy (99.1%)</li>
-<li>erythromelalgia (99.1%)</li>
-<li>kyphoscoliotic heart disease (99.0%)</li>
-<li>congenital renal artery stenosis (99.0%)</li>
-<li>Prinzmetal angina (98.8%)</li>
-<li>vascular insufficiency disorder (98.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Intracranial arteriosclerosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ticagrelor/' | relative_url }}">View full drug report →</a></p>

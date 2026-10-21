@@ -3,7 +3,7 @@ layout: default
 title: "Mycophenolate Mofetil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mycophenolate Mofetil. Original indication: . 20 predicted indications."
+description: "Health news related to Mycophenolate Mofetil. Original indication: . 1 predicted indications."
 permalink: /news/mycophenolate-mofetil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mycophenolate-mofetil/
 ---
 
 <p class="key-answer" data-question="What news is there about Mycophenolate Mofetil?">
-<strong>Mycophenolate Mofetil</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mycophenolate Mofetil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Mycophenolate Mofetil with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>HIV infectious disease (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
-<li>bone Paget disease (99.7%)</li>
-<li>feline acquired immunodeficiency syndrome (99.7%)</li>
-<li>simian immunodeficiency virus infection (99.7%)</li>
-<li>multiple sclerosis (99.5%)</li>
-<li>hemosiderosis (99.5%)</li>
-<li>Heiner syndrome (99.5%)</li>
-<li>African iron overload (99.4%)</li>
-<li>neonatal hemochromatosis (99.4%)</li>
-<li>obsolete familial combined hyperlipidemia (99.3%)</li>
-<li>chronic hepatitis C virus infection (99.3%)</li>
-<li>hemosiderosis, pulmonary, with deficiency of gamma-a globulin (99.3%)</li>
-<li>hereditary hemochromatosis (99.3%)</li>
-<li>progressive relapsing multiple sclerosis (99.3%)</li>
-<li>AIDS (99.2%)</li>
-<li>gout (99.2%)</li>
-<li>skin disease (98.9%)</li>
-<li>psoriasis (98.8%)</li>
-<li>obsolete rare hereditary hemochromatosis (98.8%)</li>
 </ul></li>
 </ul>
 

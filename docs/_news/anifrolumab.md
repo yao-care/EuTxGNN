@@ -3,7 +3,7 @@ layout: default
 title: "Anifrolumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Anifrolumab. Original indication: . 20 predicted indications."
+description: "Health news related to Anifrolumab. Original indication: . 1 predicted indications."
 permalink: /news/anifrolumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/anifrolumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>9 news articles</strong>, with 20 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,20 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>diabetic cataract (98.5%)</li>
-<li>tetanic cataract (98.4%)</li>
-<li>mature cataract (98.4%)</li>
-<li>immature cataract (98.4%)</li>
-<li>craniostenosis cataract (98.4%)</li>
-<li>diabetes mellitus type 2 associated cataract (98.4%)</li>
-<li>cortical cataract (98.4%)</li>
-<li>nuclear senile cataract (98.4%)</li>
-<li>senile cataract (98.3%)</li>
-<li>diabetic retinopathy (98.2%)</li>
-<li>antithrombin deficiency type 2 (98.0%)</li>
-<li>factor 5 excess with spontaneous thrombosis (97.9%)</li>
-<li>severe nonproliferative diabetic retinopathy (97.9%)</li>
-<li>heparin cofactor 2 deficiency (97.9%)</li>
-<li>thrombophilia (97.6%)</li>
-<li>diffuse gastric adenocarcinoma (95.2%)</li>
-<li>hemorrhagic disease of newborn (95.1%)</li>
-<li>gastric adenocarcinoma and proximal polyposis of the stomach (94.5%)</li>
-<li>gastric carcinoma (94.5%)</li>
-<li>gastric tubular adenocarcinoma (94.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Diabetic cataract (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
 
-### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
-
----
-
-### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+### [Menopause und Diabetes: Frühe Wechseljahre erhöhen das Risiko um 30 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
 
 ---
 
@@ -77,11 +50,11 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZ
 
 ---
 
-### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
+### [Typ-2-Diabetes: Kombi aus Diät und Training lässt Erkrankung verschwinden](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
+Source: [Kurier](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
 
 ---
 
@@ -114,14 +87,6 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
-
----
-
-### [La tua voce ti dice come stai invecchiando - la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
-
-2026-10-15 <span class="news-indication-tag">diabete</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
 
 ---
 

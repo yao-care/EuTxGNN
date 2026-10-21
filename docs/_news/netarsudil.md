@@ -3,7 +3,7 @@ layout: default
 title: "Netarsudil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Netarsudil. Original indication: Several other predicted indications are of low cre.... 20 predicted indications."
+description: "Health news related to Netarsudil. Original indication: Several other predicted indications are of low cre.... 1 predicted indications."
 permalink: /news/netarsudil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/netarsudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Netarsudil?">
-<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 <ul>
 <li><strong>Original indication</strong>: Several other predicted indications are of low credibility. Hypoglycemia, hereditary thrombocytopenia, dense granule disease and macrothrombocytopenia with mitral valve insufficiency have no...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>open-angle glaucoma (99.6%)</li>
-<li>primary hereditary glaucoma (99.5%)</li>
-<li>glaucoma (99.5%)</li>
-<li>hypoglycemia (98.7%)</li>
-<li>Axenfeld anomaly (98.6%)</li>
-<li>glaucoma 1, open angle (98.5%)</li>
-<li>open angle glaucoma (98.1%)</li>
-<li>hydrophthalmos (97.5%)</li>
-<li>hereditary thrombocytopenia with normal platelets (97.5%)</li>
-<li>dense granule disease (97.5%)</li>
-<li>marcothrombocytopenia with mitral valve insufficiency (97.5%)</li>
-<li>transient neonatal thrombocytopenia (97.3%)</li>
-<li>lingual-facial-buccal dyskinesia (97.2%)</li>
-<li>thrombocytopenia (97.0%)</li>
-<li>visceral calciphylaxis (97.0%)</li>
-<li>chronic tic disorder (96.9%)</li>
-<li>benign shuddering attacks (96.9%)</li>
-<li>extrapyramidal and movement disease (96.9%)</li>
-<li>psychogenic movement disorders (96.5%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (96.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netarsudil/' | relative_url }}">View full drug report →</a></p>

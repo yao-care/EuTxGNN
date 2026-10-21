@@ -3,7 +3,7 @@ layout: default
 title: "Ravulizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ravulizumab. Original indication: . 20 predicted indications."
+description: "Health news related to Ravulizumab. Original indication: . 1 predicted indications."
 permalink: /news/ravulizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ravulizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ravulizumab?">
-<strong>Ravulizumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ravulizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Ravulizumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (100.0%)</li>
-<li>cyclic hematopoiesis (99.9%)</li>
-<li>primary hyperoxaluria (99.9%)</li>
-<li>severe congenital neutropenia (99.9%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency (99.9%)</li>
-<li>primary immunodeficiency syndrome due to p14 deficiency (99.8%)</li>
-<li>pseudo-von Willebrand disease (99.8%)</li>
-<li>X-linked severe congenital neutropenia (99.8%)</li>
-<li>primary release disorder of platelets (99.8%)</li>
-<li>megaloblastic anemia (disease) (99.8%)</li>
-<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency (99.8%)</li>
-<li>cold agglutinin disease (99.8%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency (99.8%)</li>
-<li>adult idiopathic neutropenia (99.8%)</li>
-<li>congenital neutropenia-myelofibrosis-nephromegaly syndrome (99.8%)</li>
-<li>Barth syndrome (99.8%)</li>
-<li>Glanzmann thrombasthenia (99.7%)</li>
-<li>primary CD59 deficiency (99.7%)</li>
-<li>proteinuria (99.7%)</li>
-<li>paroxysmal nocturnal hemoglobinuria (99.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ravulizumab/' | relative_url }}">View full drug report →</a></p>

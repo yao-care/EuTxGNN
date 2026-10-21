@@ -3,7 +3,7 @@ layout: default
 title: "Buprenorphine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Buprenorphine. Original indication: . 20 predicted indications."
+description: "Health news related to Buprenorphine. Original indication: . 1 predicted indications."
 permalink: /news/buprenorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/buprenorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Buprenorphine?">
-<strong>Buprenorphine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Buprenorphine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Buprenorphine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>opiate dependence (99.5%)</li>
-<li>morphine dependence (99.4%)</li>
-<li>acute intermittent porphyria (99.4%)</li>
-<li>lingual-facial-buccal dyskinesia (99.3%)</li>
-<li>chronic tic disorder (99.1%)</li>
-<li>continuous spikes and waves during sleep (99.0%)</li>
-<li>extrapyramidal and movement disease (99.0%)</li>
-<li>benign shuddering attacks (99.0%)</li>
-<li>schizophreniform disorder (99.0%)</li>
-<li>schizophrenia (99.0%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (98.9%)</li>
-<li>psychogenic movement disorders (98.9%)</li>
-<li>primary orthostatic tremor (98.8%)</li>
-<li>tremor-nystagmus-duodenal ulcer syndrome (98.8%)</li>
-<li>drug-induced dyskinesia (98.8%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (98.7%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (98.7%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (98.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (98.6%)</li>
-<li>hydranencephaly (disease) (98.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acute intermittent porphyria (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buprenorphine/' | relative_url }}">View full drug report →</a></p>

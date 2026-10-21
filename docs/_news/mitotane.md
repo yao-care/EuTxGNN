@@ -3,7 +3,7 @@ layout: default
 title: "Mitotane News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mitotane. Original indication: . 20 predicted indications."
+description: "Health news related to Mitotane. Original indication: . 1 predicted indications."
 permalink: /news/mitotane/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mitotane/
 ---
 
 <p class="key-answer" data-question="What news is there about Mitotane?">
-<strong>Mitotane</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mitotane</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Mitotane with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>multiple endocrine neoplasia (98.0%)</li>
-<li>acne (disease) (97.8%)</li>
-<li>breast fibrocystic disease (93.8%)</li>
-<li>benign mammary dysplasia (93.0%)</li>
-<li>seborrheic keratosis (93.0%)</li>
-<li>vulvar inverted follicular keratosis (92.7%)</li>
-<li>apocrine adenosis of breast (91.8%)</li>
-<li>blunt duct adenosis of breast (91.8%)</li>
-<li>fat necrosis of breast (90.2%)</li>
-<li>breast abscess (90.2%)</li>
-<li>motor nerve neuritis (89.4%)</li>
-<li>vestibular neuronitis (89.3%)</li>
-<li>brachial plexus neuritis (89.0%)</li>
-<li>lactation disease (88.4%)</li>
-<li>neuroretinitis (85.5%)</li>
-<li>breast adenosis (85.0%)</li>
-<li>familial pityriasis rubra pilaris (81.6%)</li>
-<li>candidiasis (81.5%)</li>
-<li>inherited cutis laxa (79.1%)</li>
-<li>alkaptonuria (77.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Multiple endocrine neoplasia (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mitotane/' | relative_url }}">View full drug report →</a></p>

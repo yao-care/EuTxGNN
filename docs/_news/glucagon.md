@@ -3,7 +3,7 @@ layout: default
 title: "Glucagon News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Glucagon. Original indication: . 20 predicted indications."
+description: "Health news related to Glucagon. Original indication: . 1 predicted indications."
 permalink: /news/glucagon/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glucagon/
 ---
 
 <p class="key-answer" data-question="What news is there about Glucagon?">
-<strong>Glucagon</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Glucagon</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Glucagon with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>irritable bowel syndrome (99.2%)</li>
-<li>cauda equina syndrome (98.8%)</li>
-<li>obsolete neurogenic bladder (disease) (97.3%)</li>
-<li>acute laryngopharyngitis (94.5%)</li>
-<li>nasal cavity disease (94.3%)</li>
-<li>pharyngitis (93.8%)</li>
-<li>primary hereditary glaucoma (91.0%)</li>
-<li>open-angle glaucoma (90.2%)</li>
-<li>filariasis (90.0%)</li>
-<li>large intestine disease (89.9%)</li>
-<li>small intestine disease (89.2%)</li>
-<li>obsolete rare pulmonary disease (89.2%)</li>
-<li>gastroenteritis (89.2%)</li>
-<li>pulmonary edema (88.1%)</li>
-<li>dermatitis (86.3%)</li>
-<li>esotropia (86.0%)</li>
-<li>pityriasis simplex (85.0%)</li>
-<li>seborrheic dermatitis (84.9%)</li>
-<li>acrodermatitis chronica atrophicans (84.2%)</li>
-<li>rhinitis (84.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Irritable bowel syndrome (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">View full drug report →</a></p>

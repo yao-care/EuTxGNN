@@ -3,7 +3,7 @@ layout: default
 title: "Albutrepenonacog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Albutrepenonacog Alfa. Original indication: . 0 predicted indications."
+description: "Health news related to Albutrepenonacog Alfa. Original indication: . 1 predicted indications."
 permalink: /news/albutrepenonacog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/albutrepenonacog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Albutrepenonacog Alfa?">
-<strong>Albutrepenonacog Alfa</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Albutrepenonacog Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Albutrepenonacog Alfa with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pseudo-von Willebrand disease (99.9%)</li>
+</ul></li>
 </ul>
 
 </div>

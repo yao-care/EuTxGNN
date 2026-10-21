@@ -3,7 +3,7 @@ layout: default
 title: "Interferon Beta-1A News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Interferon Beta-1A. Original indication: Jeune syndrome and situs inversus are ciliopathy-r.... 20 predicted indications."
+description: "Health news related to Interferon Beta-1A. Original indication: Jeune syndrome and situs inversus are ciliopathy-r.... 1 predicted indications."
 permalink: /news/interferon-beta-1a/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1a/
 ---
 
 <p class="key-answer" data-question="What news is there about Interferon Beta-1A?">
-<strong>Interferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Interferon Beta-1A</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Interferon Beta-1A with the 
 <ul>
 <li><strong>Original indication</strong>: Jeune syndrome and situs inversus are ciliopathy-related skeletal and laterality disorders with genetic causes. Interferon beta-1a has no known action on ciliary function or skeletal development. No...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>relapsing-remitting multiple sclerosis (100.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Jeune syndrome situs inversus (97.5%)</li>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly (97.3%)</li>
-<li>partial deletion of the long arm of chromosome 22 (97.2%)</li>
-<li>disorder of fucoglycosan synthesis (97.2%)</li>
-<li>Laubry-Pezzi syndrome (97.2%)</li>
-<li>partial deletion of the long arm of chromosome 7 (97.2%)</li>
-<li>orofacial clefting syndrome (97.1%)</li>
-<li>genetic syndromic Pierre Robin syndrome (97.1%)</li>
-<li>rete ovarii cystadenoma (97.1%)</li>
-<li>borderline ovarian serous tumor (97.1%)</li>
-<li>ovarian benign neoplasm (97.0%)</li>
-<li>ovarian papillary cystadenoma (97.0%)</li>
-<li>ovarian mucinous cystadenofibroma (97.0%)</li>
-<li>hairy cell leukemia (96.9%)</li>
-<li>serous neoplasm (96.9%)</li>
-<li>mucinous ovarian cystadenoma (96.8%)</li>
-<li>malignant ovarian Brenner tumor (96.8%)</li>
-<li>ovarian surface papilloma (96.8%)</li>
-<li>autoimmune disease of central nervous system (96.8%)</li>
 </ul></li>
 </ul>
 

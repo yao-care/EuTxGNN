@@ -3,7 +3,7 @@ layout: default
 title: "Efmoroctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Efmoroctocog Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Efmoroctocog Alfa. Original indication: . 1 predicted indications."
 permalink: /news/efmoroctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/efmoroctocog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Efmoroctocog Alfa?">
-<strong>Efmoroctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Efmoroctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Efmoroctocog Alfa with the l
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>hemophilia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>acquired coagulation factor deficiency (100.0%)</li>
-<li>symptomatic form of hemophilia in female carriers (99.9%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.9%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.9%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (99.8%)</li>
-<li>hemophilia A with vascular abnormality (99.8%)</li>
-<li>thrombotic thrombocytopenic purpura (99.7%)</li>
-<li>platelet-type bleeding disorder (99.7%)</li>
-<li>factor XI deficiency (99.6%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (99.6%)</li>
-<li>flood factor deficiency (99.4%)</li>
-<li>methylcobalamin deficiency type cblG (99.4%)</li>
-<li>familial thrombomodulin anomalies (99.3%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (99.3%)</li>
-<li>hemorrhagic disorder due to a platelet anomaly (99.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pseudo-von Willebrand disease (100.0%)</li>
 </ul></li>
 </ul>
 

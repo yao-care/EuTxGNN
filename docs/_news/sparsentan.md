@@ -3,7 +3,7 @@ layout: default
 title: "Sparsentan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sparsentan. Original indication: . 20 predicted indications."
+description: "Health news related to Sparsentan. Original indication: . 1 predicted indications."
 permalink: /news/sparsentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sparsentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Sparsentan?">
-<strong>Sparsentan</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sparsentan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Sparsentan with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>alopecia (94.5%)</li>
-<li>congenital hypotrichosis milia (94.5%)</li>
-<li>hypotrichosis simplex of the scalp (94.3%)</li>
-<li>diffuse alopecia areata (94.2%)</li>
-<li>angioedema (93.0%)</li>
-<li>lichen disease (93.0%)</li>
-<li>dermatitis (91.8%)</li>
-<li>potassium deficiency disease (91.7%)</li>
-<li>pulmonary arteriovenous malformation (disease) (91.2%)</li>
-<li>fetal erythroblastosis (91.2%)</li>
-<li>open-angle glaucoma (91.1%)</li>
-<li>lichen planus pemphigoides (91.0%)</li>
-<li>pulmonary arterial hypertension (91.0%)</li>
-<li>hypertrophic lichen planus (90.9%)</li>
-<li>annular atrophic lichen planus (90.9%)</li>
-<li>lichen planus pigmentosus (90.9%)</li>
-<li>primary hereditary glaucoma (90.3%)</li>
-<li>amyopathic dermatomyositis (89.7%)</li>
-<li>acrodermatitis chronica atrophicans (89.7%)</li>
-<li>psoriasis (89.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia (94.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sparsentan/' | relative_url }}">View full drug report →</a></p>

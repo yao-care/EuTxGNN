@@ -3,7 +3,7 @@ layout: default
 title: "Ambrisentan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ambrisentan. Original indication: . 10 predicted indications."
+description: "Health news related to Ambrisentan. Original indication: . 1 predicted indications."
 permalink: /news/ambrisentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ambrisentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Ambrisentan?">
-<strong>Ambrisentan</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ambrisentan</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Ambrisentan with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>pulmonary arteriovenous malformation (disease) (99.4%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.4%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.3%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (99.3%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.3%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (99.3%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.2%)</li>
-<li>hypotrichosis simplex of the scalp (99.2%)</li>
-<li>hypertrichosis (disease) (99.1%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary arterial hypertension associated with connective tissue disease (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">View full drug report →</a></p>
@@ -53,7 +44,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 

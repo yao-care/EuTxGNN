@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Detemir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Detemir. Original indication: Other predicted conditions (for example autoimmune.... 0 predicted indications."
+description: "Health news related to Insulin Detemir. Original indication: Other predicted conditions (for example autoimmune.... 1 predicted indications."
 permalink: /news/insulin-detemir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-detemir/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Detemir?">
-<strong>Insulin Detemir</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Detemir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,6 +26,9 @@ This page combines the AI-predicted indications for Insulin Detemir with the lat
 <ul>
 <li><strong>Original indication</strong>: Other predicted conditions (for example autoimmune oophoritis, opsismodysplasia, stiff person syndrome and lipodystrophies) had no clinical trials or literature. They remain graph-based predictions...</li>
 <li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Type 1 diabetes mellitus (99.8%)</li>
+</ul></li>
 </ul>
 
 </div>

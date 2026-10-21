@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Hydroxocobalamin. Original indication: . 10 predicted indications."
+description: "Health news related to Hydroxocobalamin. Original indication: . 1 predicted indications."
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroxocobalamin/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxocobalamin?">
-<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Hydroxocobalamin with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>esophageal varices with bleeding (99.2%)</li>
-<li>esophageal varices without bleeding (99.2%)</li>
-<li>varicose disease (98.9%)</li>
-<li>immune-mediated necrotizing myopathy (98.7%)</li>
-<li>antisynthetase syndrome (98.6%)</li>
-<li>focal myositis (98.6%)</li>
-<li>inflammatory myopathy with abundant macrophages (98.5%)</li>
-<li>idiopathic eosinophilic myositis (98.5%)</li>
-<li>vitamin deficiency disorder (98.4%)</li>
-<li>congenital prothrombin deficiency (98.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Esophageal varices with bleeding (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxocobalamin/' | relative_url }}">View full drug report →</a></p>

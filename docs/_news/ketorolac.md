@@ -3,7 +3,7 @@ layout: default
 title: "Ketorolac News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ketorolac. Original indication: . 20 predicted indications."
+description: "Health news related to Ketorolac. Original indication: . 1 predicted indications."
 permalink: /news/ketorolac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketorolac/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketorolac?">
-<strong>Ketorolac</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ketorolac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Ketorolac with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>papillary conjunctivitis (99.9%)</li>
-<li>headache disorder (99.4%)</li>
-<li>atopic conjunctivitis (99.4%)</li>
-<li>rosacea conjunctivitis (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.4%)</li>
-<li>ulcerative proctosigmoiditis (99.0%)</li>
-<li>nasopharyngitis (97.9%)</li>
-<li>cap polyposis (97.9%)</li>
-<li>cutaneous photosensitivity-lethal colitis syndrome (97.8%)</li>
-<li>undetermined colitis (97.7%)</li>
-<li>allergic urticaria (97.1%)</li>
-<li>viral conjunctivitis (96.1%)</li>
-<li>vernal conjunctivitis (95.9%)</li>
-<li>frozen shoulder (95.9%)</li>
-<li>systemic inflammatory disease associated with an acquired peripheral neuropathy (95.3%)</li>
-<li>fasciitis (disease) (95.3%)</li>
-<li>glossodynia (95.1%)</li>
-<li>osteoarthritis susceptibility (95.1%)</li>
-<li>coccygodynia (95.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (94.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Headache disorder (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketorolac/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Talimogene Laherparepvec News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Talimogene Laherparepvec. Original indication: Other top-ranked predictions are also supported on.... 20 predicted indications."
+description: "Health news related to Talimogene Laherparepvec. Original indication: Other top-ranked predictions are also supported on.... 1 predicted indications."
 permalink: /news/talimogene-laherparepvec/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/talimogene-laherparepvec/
 ---
 
 <p class="key-answer" data-question="What news is there about Talimogene Laherparepvec?">
-<strong>Talimogene Laherparepvec</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Talimogene Laherparepvec</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Talimogene Laherparepvec wit
 <ul>
 <li><strong>Original indication</strong>: Other top-ranked predictions are also supported only by the model. They include pediatric leptomeningeal melanoma, epithelioid cell uveal melanoma, glottis squamous cell carcinoma, lung occult...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>CMM7 (99.2%)</li>
-<li>pediatric leptomeningeal melanoma (99.2%)</li>
-<li>epithelioid cell uveal melanoma (99.1%)</li>
-<li>melanoma (99.1%)</li>
-<li>glottis squamous cell carcinoma (99.1%)</li>
-<li>lung occult squamous cell carcinoma (99.0%)</li>
-<li>rectal cloacogenic carcinoma (99.0%)</li>
-<li>gallbladder adenosquamous carcinoma (99.0%)</li>
-<li>non-small cell squamous lung carcinoma (99.0%)</li>
-<li>external ear basal cell carcinoma (99.0%)</li>
-<li>urethral verrucous carcinoma (99.0%)</li>
-<li>dental pulp calcification (99.0%)</li>
-<li>vulvar melanoma (disease) (99.0%)</li>
-<li>supraglottis squamous cell carcinoma (98.9%)</li>
-<li>adenosquamous prostate carcinoma (98.9%)</li>
-<li>larynx verrucous carcinoma (98.9%)</li>
-<li>squamous cell bile duct carcinoma (98.9%)</li>
-<li>pancreatic adenosquamous carcinoma (98.9%)</li>
-<li>non-keratinizing sinonasal squamous cell carcinoma (98.9%)</li>
-<li>squamous cell intraepithelial neoplasia (98.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>CMM7 (ambiguous label) (99.2%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Ezetimibe News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ezetimibe. Original indication: Other predictions follow the same pattern. Familia.... 20 predicted indications."
+description: "Health news related to Ezetimibe. Original indication: Other predictions follow the same pattern. Familia.... 1 predicted indications."
 permalink: /news/ezetimibe/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ezetimibe/
 ---
 
 <p class="key-answer" data-question="What news is there about Ezetimibe?">
-<strong>Ezetimibe</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ezetimibe</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Ezetimibe with the latest he
 <ul>
 <li><strong>Original indication</strong>: Other predictions follow the same pattern. Familial hypercholesterolemia and autosomal dominant hypercholesterolemia are essentially covered by the approved heterozygous familial indication. Other...</li>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>homozygous familial hypercholesterolemia (99.9%)</li>
-<li>obsolete familial combined hyperlipidemia (99.7%)</li>
-<li>hyperlipoproteinemia (99.6%)</li>
-<li>familial hypercholesterolemia (99.4%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.1%)</li>
-<li>hyperlipidemia, familial combined, LPL related (98.8%)</li>
-<li>HIV infectious disease (98.8%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (98.7%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.6%)</li>
-<li>familial hyperlipidemia (98.4%)</li>
-<li>feline acquired immunodeficiency syndrome (98.1%)</li>
-<li>simian immunodeficiency virus infection (98.1%)</li>
-<li>hyperlipidemia (97.3%)</li>
-<li>hyperalphalipoproteinemia (97.2%)</li>
-<li>sitosterolemia (96.8%)</li>
-<li>familial chylomicronemia syndrome (95.5%)</li>
-<li>hypertriglyceridemia, familial (94.9%)</li>
-<li>hypolipoproteinemia (disease) (94.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hyperlipoproteinemia (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">View full drug report →</a></p>

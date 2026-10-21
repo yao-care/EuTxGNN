@@ -3,7 +3,7 @@ layout: default
 title: "Brentuximab Vedotin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brentuximab Vedotin. Original indication: . 20 predicted indications."
+description: "Health news related to Brentuximab Vedotin. Original indication: . 1 predicted indications."
 permalink: /news/brentuximab-vedotin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brentuximab-vedotin/
 ---
 
 <p class="key-answer" data-question="What news is there about Brentuximab Vedotin?">
-<strong>Brentuximab Vedotin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Brentuximab Vedotin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Brentuximab Vedotin with the
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>follicular lymphoma (99.9%)</li>
-<li>myeloid leukemia (99.8%)</li>
-<li>Hodgkins lymphoma (99.8%)</li>
-<li>acute lymphoblastic/lymphocytic leukemia (99.7%)</li>
-<li>B-cell neoplasm (99.6%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.5%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.5%)</li>
-<li>Richter syndrome (99.4%)</li>
-<li>mantle cell lymphoma (99.3%)</li>
-<li>ganglioneuroblastoma (disease) (99.2%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.2%)</li>
-<li>lymphoid neoplasm (99.2%)</li>
-<li>retroperitoneal neoplasm (99.1%)</li>
-<li>lymphoma, non-Hodgkin, familial (99.0%)</li>
-<li>neuroblastoma (99.0%)</li>
-<li>neoplasm of mature B-cells (98.9%)</li>
-<li>B-cell prolymphocytic leukemia (98.9%)</li>
-<li>metastatic neoplasm (98.9%)</li>
-<li>plasma cell neoplasm (98.9%)</li>
-<li>malignant spiradenoma (98.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Follicular lymphoma (99.9%)</li>
 </ul></li>
 </ul>
 

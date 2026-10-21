@@ -3,7 +3,7 @@ layout: default
 title: "Givosiran News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Givosiran. Original indication: . 20 predicted indications."
+description: "Health news related to Givosiran. Original indication: . 1 predicted indications."
 permalink: /news/givosiran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Givosiran</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hepatic porphyria (100.0%)</li>
-<li>hepatopulmonary syndrome (100.0%)</li>
-<li>hepatoportal sclerosis (100.0%)</li>
-<li>idiopathic copper-associated cirrhosis (100.0%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (100.0%)</li>
-<li>primitive portal vein thrombosis (100.0%)</li>
-<li>chronic hepatitis C virus infection (100.0%)</li>
-<li>glycogen storage disease due to hepatic glycogen synthase deficiency (100.0%)</li>
-<li>chronic hepatitis B virus infection (99.9%)</li>
-<li>porphyria due to ALA dehydratase deficiency (99.9%)</li>
-<li>disorder of phenylalanine metabolism (99.9%)</li>
-<li>hepatitis B virus infection (99.9%)</li>
-<li>disorder of tyrosine metabolism (99.9%)</li>
-<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (99.9%)</li>
-<li>nodular regenerative hyperplasia of the liver (99.9%)</li>
-<li>teratogenic Pierre Robin syndrome (99.9%)</li>
-<li>acute intermittent porphyria (99.7%)</li>
-<li>hepatitis C virus infection (99.6%)</li>
-<li>porphyria (99.6%)</li>
-<li>tetrahydrobiopterin metabolic process disease (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatopulmonary syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
@@ -63,7 +44,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Teriparatide. Original indication: . 20 predicted indications."
+description: "Health news related to Teriparatide. Original indication: . 1 predicted indications."
 permalink: /news/teriparatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teriparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriparatide?">
-<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Teriparatide with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>duodenal ulcer (disease) (99.9%)</li>
-<li>non-syndromic esophageal malformation (99.8%)</li>
-<li>postmenopausal osteoporosis (99.8%)</li>
-<li>duodenal obstruction (99.8%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>esophageal disease (99.7%)</li>
-<li>Worth syndrome (99.7%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (99.7%)</li>
-<li>pregnancy associated osteoporosis (99.5%)</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (99.5%)</li>
-<li>amenorrhea (disease) (99.0%)</li>
-<li>esophageal ulcer (99.0%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.0%)</li>
-<li>osteoporosis (98.8%)</li>
-<li>hypoalphalipoproteinemia (98.5%)</li>
-<li>phosphorus metabolism disease (97.9%)</li>
-<li>hyperlipidemia (97.9%)</li>
-<li>hypercalcemia disease (97.6%)</li>
-<li>complex regional pain syndrome (97.5%)</li>
-<li>duodenitis (97.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenal ulcer (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teriparatide/' | relative_url }}">View full drug report →</a></p>

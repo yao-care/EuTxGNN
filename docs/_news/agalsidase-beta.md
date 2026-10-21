@@ -3,7 +3,7 @@ layout: default
 title: "Agalsidase Beta News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Agalsidase Beta. Original indication: . 20 predicted indications."
+description: "Health news related to Agalsidase Beta. Original indication: . 1 predicted indications."
 permalink: /news/agalsidase-beta/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/agalsidase-beta/
 ---
 
 <p class="key-answer" data-question="What news is there about Agalsidase Beta?">
-<strong>Agalsidase Beta</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Agalsidase Beta</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Agalsidase Beta with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>cervical neuroblastoma (98.4%)</li>
-<li>schwannoma of jugular foramen (98.3%)</li>
-<li>epiglottis neoplasm (98.3%)</li>
-<li>benign neoplasm of tongue (98.3%)</li>
-<li>benign neoplasm of floor of mouth (98.3%)</li>
-<li>benign neoplasm of buccal mucosa (98.3%)</li>
-<li>benign neoplasm of hypopharynx (98.3%)</li>
-<li>nasal cavity inverting papilloma (98.3%)</li>
-<li>vestibulocochlear nerve neoplasm (98.3%)</li>
-<li>jugular foramen meningioma (98.3%)</li>
-<li>inner ear neoplasm (98.3%)</li>
-<li>neoplasm of major salivary gland (98.3%)</li>
-<li>benign neoplasm of nasal cavity (98.3%)</li>
-<li>abducens nerve neoplasm (98.3%)</li>
-<li>benign neoplasm of oral cavity (98.3%)</li>
-<li>benign neoplasm of salivary gland (98.3%)</li>
-<li>nasopharyngeal teratoma (98.3%)</li>
-<li>skull base neoplasm (98.2%)</li>
-<li>facial nerve neoplasm (98.2%)</li>
-<li>spinal accessory nerve neoplasm (98.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cervical neuroblastoma (98.4%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Glargine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Glargine. Original indication: . 20 predicted indications."
+description: "Health news related to Insulin Glargine. Original indication: . 1 predicted indications."
 permalink: /news/insulin-glargine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-glargine/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Glargine?">
-<strong>Insulin Glargine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Insulin Glargine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Insulin Glargine with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>type 1 diabetes mellitus (99.9%)</li>
-<li>autoimmune oophoritis (99.9%)</li>
-<li>diabetes mellitus (disease) (99.6%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
-<li>classic stiff person syndrome (99.6%)</li>
-<li>focal stiff limb syndrome (99.6%)</li>
-<li>opsismodysplasia (99.6%)</li>
-<li>pancreatic agenesis (99.4%)</li>
-<li>drug-induced localized lipodystrophy (99.4%)</li>
-<li>centrifugal lipodystrophy (99.4%)</li>
-<li>pressure-induced localized lipoatrophy (99.4%)</li>
-<li>idiopathic localized lipodystrophy (99.3%)</li>
-<li>diabetic ketoacidosis (99.1%)</li>
-<li>permanent neonatal diabetes mellitus (98.9%)</li>
-<li>IDDM 1 (95.3%)</li>
-<li>diabetes mellitus, insulin-dependent, X-linked, susceptibility to (95.2%)</li>
-<li>acute kidney failure (71.3%)</li>
-<li>pancreatitis (69.6%)</li>
-<li>glaucoma (66.6%)</li>
-<li>venous insufficiency (disease) (66.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Autoimmune oophoritis (99.9%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Brivaracetam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brivaracetam. Original indication: . 20 predicted indications."
+description: "Health news related to Brivaracetam. Original indication: . 1 predicted indications."
 permalink: /news/brivaracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Brivaracetam?">
-<strong>Brivaracetam</strong> currently has <strong>1 news articles</strong>, with 20 predicted indications.
+<strong>Brivaracetam</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Brivaracetam with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>visual epilepsy (99.5%)</li>
-<li>status epilepticus (99.4%)</li>
-<li>partial epilepsy (99.3%)</li>
-<li>startle epilepsy (99.2%)</li>
-<li>audiogenic seizures (99.2%)</li>
-<li>eating seizures (99.2%)</li>
-<li>thinking seizures (99.2%)</li>
-<li>orgasm-induced seizures (99.2%)</li>
-<li>micturation-induced seizures (99.2%)</li>
-<li>beta-ketothiolase deficiency (99.1%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.1%)</li>
-<li>guanidinoacetate methyltransferase deficiency (99.0%)</li>
-<li>reading seizures (98.9%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (98.9%)</li>
-<li>14q12 microdeletion syndrome (98.8%)</li>
-<li>Rett syndrome, congenital variant (98.8%)</li>
-<li>restless legs syndrome (98.1%)</li>
-<li>partial motor epilepsy (97.8%)</li>
-<li class="indication-matched">epilepsy (96.2%)<span class="indication-tag">📰 Epilepsie</span></li>
-<li>trigeminal nerve neoplasm (95.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Visual epilepsy (top-ranked); status epilepticus (best-supported) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">View full drug report →</a></p>

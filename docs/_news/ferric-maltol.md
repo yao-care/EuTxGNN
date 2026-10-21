@@ -3,7 +3,7 @@ layout: default
 title: "Ferric Maltol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ferric Maltol. Original indication: Other predictions (ranks 2–10) are also unsupporte.... 0 predicted indications."
+description: "Health news related to Ferric Maltol. Original indication: Other predictions (ranks 2–10) are also unsupporte.... 1 predicted indications."
 permalink: /news/ferric-maltol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ferric-maltol/
 ---
 
 <p class="key-answer" data-question="What news is there about Ferric Maltol?">
-<strong>Ferric Maltol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ferric Maltol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,6 +26,9 @@ This page combines the AI-predicted indications for Ferric Maltol with the lates
 <ul>
 <li><strong>Original indication</strong>: Other predictions (ranks 2–10) are also unsupported by any clinical evidence:</li>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Plummer-Vinson syndrome (100.0%)</li>
+</ul></li>
 </ul>
 
 </div>

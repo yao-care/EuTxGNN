@@ -3,7 +3,7 @@ layout: default
 title: "Bupivacaine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bupivacaine. Original indication: . 20 predicted indications."
+description: "Health news related to Bupivacaine. Original indication: . 1 predicted indications."
 permalink: /news/bupivacaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bupivacaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupivacaine?">
-<strong>Bupivacaine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Bupivacaine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Bupivacaine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>dermatitis (99.5%)</li>
-<li>acrodermatitis chronica atrophicans (99.2%)</li>
-<li>neonatal dermatomyositis (99.2%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.1%)</li>
-<li>amyopathic dermatomyositis (99.0%)</li>
-<li>acne keloid (99.0%)</li>
-<li>hydroa vacciniforme, familial (99.0%)</li>
-<li>uterine polyp (98.9%)</li>
-<li>epulis (98.9%)</li>
-<li>polyp of vocal cord (98.9%)</li>
-<li>polyp of middle ear (98.9%)</li>
-<li>fibroepithelial polyp (98.8%)</li>
-<li>polyp of ureter (98.8%)</li>
-<li>polyp of frontal sinus (98.8%)</li>
-<li>neoplastic polyp (98.8%)</li>
-<li>polyp of vulva (98.8%)</li>
-<li>polyp of external auditory canal (98.8%)</li>
-<li>papillary conjunctivitis (96.8%)</li>
-<li>bronchitis (95.7%)</li>
-<li>nasal cavity polyp (93.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acrodermatitis chronica atrophicans (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupivacaine/' | relative_url }}">View full drug report →</a></p>

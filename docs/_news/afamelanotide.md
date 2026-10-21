@@ -3,7 +3,7 @@ layout: default
 title: "Afamelanotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Afamelanotide. Original indication: . 20 predicted indications."
+description: "Health news related to Afamelanotide. Original indication: . 1 predicted indications."
 permalink: /news/afamelanotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/afamelanotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Afamelanotide?">
-<strong>Afamelanotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Afamelanotide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Afamelanotide with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>X-linked erythropoietic protoporphyria (98.9%)</li>
-<li>autosomal erythropoietic protoporphyria (98.7%)</li>
-<li>cutaneous porphyria (98.4%)</li>
-<li>erythropoietic protoporphyria (97.3%)</li>
-<li>cyclic hematopoiesis (92.9%)</li>
-<li>primary hyperoxaluria (91.3%)</li>
-<li>X-linked severe congenital neutropenia (90.7%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency (90.1%)</li>
-<li>cold agglutinin disease (90.1%)</li>
-<li>proteinuria (89.7%)</li>
-<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency (89.1%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency (89.1%)</li>
-<li>adult idiopathic neutropenia (88.7%)</li>
-<li>mixed-type autoimmune hemolytic anemia (88.7%)</li>
-<li>drug-induced autoimmune hemolytic anemia (88.6%)</li>
-<li>isolated congenital growth hormone deficiency (88.5%)</li>
-<li>primary CD59 deficiency (88.5%)</li>
-<li>progeroid syndrome, Petty type (88.4%)</li>
-<li>progeria-short stature-pigmented nevi syndrome (88.3%)</li>
-<li>neonatal autoimmune hemolytic anemia (88.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/afamelanotide/' | relative_url }}">View full drug report →</a></p>

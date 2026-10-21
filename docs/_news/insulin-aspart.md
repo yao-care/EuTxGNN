@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Aspart News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Aspart. Original indication: . 20 predicted indications."
+description: "Health news related to Insulin Aspart. Original indication: . 1 predicted indications."
 permalink: /news/insulin-aspart/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-aspart/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Aspart?">
-<strong>Insulin Aspart</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Insulin Aspart</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Insulin Aspart with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>type 1 diabetes mellitus (100.0%)</li>
-<li>autoimmune oophoritis (99.9%)</li>
-<li>diabetic ketoacidosis (99.7%)</li>
-<li>diabetes mellitus (disease) (99.6%)</li>
-<li>opsismodysplasia (99.6%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.6%)</li>
-<li>permanent neonatal diabetes mellitus (99.5%)</li>
-<li>classic stiff person syndrome (99.5%)</li>
-<li>focal stiff limb syndrome (99.5%)</li>
-<li>pancreatic agenesis (99.4%)</li>
-<li>drug-induced localized lipodystrophy (99.3%)</li>
-<li>centrifugal lipodystrophy (99.3%)</li>
-<li>pressure-induced localized lipoatrophy (99.3%)</li>
-<li>idiopathic localized lipodystrophy (99.3%)</li>
-<li>IDDM 1 (95.7%)</li>
-<li>glaucoma (94.6%)</li>
-<li>diabetes mellitus, insulin-dependent, X-linked, susceptibility to (94.1%)</li>
-<li>esophageal varices without bleeding (91.7%)</li>
-<li>esophageal varices with bleeding (91.7%)</li>
-<li>hypotrichosis simplex of the scalp (87.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Type 1 diabetes mellitus (100.0%)</li>
 </ul></li>
 </ul>
 

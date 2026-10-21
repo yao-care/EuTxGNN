@@ -3,7 +3,7 @@ layout: default
 title: "Abatacept News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Abatacept. Original indication: . 4 predicted indications."
+description: "Health news related to Abatacept. Original indication: . 5 predicted indications."
 permalink: /news/abatacept/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="What news is there about Abatacept?">
-<strong>Abatacept</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
+<strong>Abatacept</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,26 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Ankylosing spondylitis | 99.91% | L2 | Only a small open-label pilot (n=30); reviews describe abatacept as not effective for axial disease (99.0%)</li>
-<li>Inflammatory spondylopathy | 99.84% | L1 | The Phase 3 evidence is from psoriatic arthritis, not the axial subset (99.0%)</li>
-<li>Polyarticular juvenile rheumatoid arthritis | 99.83% | L1 | Already an approved indication, so not a true repurposing candidate (99.0%)</li>
-<li>Spondyloarthropathy, susceptibility to | 99.65% | L4 | A genetic-susceptibility category, not a treatable entity (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rheumatoid vasculitis (99.9%)</li>
+<li>Ankylosing spondylitis (99.9%)</li>
+<li>Inflammatory spondylopathy (99.8%)</li>
+<li>Polyarticular juvenile rheumatoid arthritis (99.8%)</li>
+<li>Spondyloarthropathy, susceptibility to (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Artrite reumatoide, perché lo stress non agisce su tutti allo stesso modo? La nuova scoperta](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
+
+2026-10-20 <span class="news-indication-tag">artrite</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
+
+---
 
 ### [Bone-on-bone knee arthritis: Why surgery is not always necessary and why consulting an orthopaedic specia - The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
 

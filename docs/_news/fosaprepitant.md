@@ -3,7 +3,7 @@ layout: default
 title: "Fosaprepitant News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fosaprepitant. Original indication: . 20 predicted indications."
+description: "Health news related to Fosaprepitant. Original indication: . 1 predicted indications."
 permalink: /news/fosaprepitant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fosaprepitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Fosaprepitant?">
-<strong>Fosaprepitant</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fosaprepitant</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Fosaprepitant with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.9%)</li>
-<li>pneumocystosis (99.9%)</li>
-<li>leprosy (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>multiple endocrine neoplasia (99.8%)</li>
-<li>intracranial abscess (99.8%)</li>
-<li>retinitis (99.7%)</li>
-<li>Plasmodium falciparum malaria (99.6%)</li>
-<li>echinococcus granulosus infectious disease (99.5%)</li>
-<li>hyperargininemia (99.4%)</li>
-<li>hypertrichosis (disease) (99.4%)</li>
-<li>cysticercosis (99.4%)</li>
-<li>acute neonatal citrullinemia type I (99.3%)</li>
-<li>adult-onset citrullinemia type I (99.3%)</li>
-<li>malaria (99.2%)</li>
-<li>persistent Mullerian duct syndrome (99.2%)</li>
-<li>HIV infectious disease (99.2%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.2%)</li>
-<li>motor nerve neuritis (99.2%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fosaprepitant/' | relative_url }}">View full drug report →</a></p>

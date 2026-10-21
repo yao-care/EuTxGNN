@@ -3,7 +3,7 @@ layout: default
 title: "Raltegravir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Raltegravir. Original indication: . 20 predicted indications."
+description: "Health news related to Raltegravir. Original indication: . 1 predicted indications."
 permalink: /news/raltegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/raltegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Raltegravir?">
-<strong>Raltegravir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Raltegravir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Raltegravir with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>HIV infectious disease (99.9%)</li>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
-<li>AIDS (98.4%)</li>
-<li>AIDS related complex (96.5%)</li>
-<li>congenital human immunodeficiency virus (96.5%)</li>
-<li>obsolete familial combined hyperlipidemia (96.0%)</li>
-<li>fibroma of prostate (94.4%)</li>
-<li>breast fibrocystic disease (93.9%)</li>
-<li>benign reproductive system neoplasm (93.7%)</li>
-<li>Brenner tumor (93.6%)</li>
-<li>benign prostate phyllodes tumor (93.4%)</li>
-<li>blunt duct adenosis of breast (92.3%)</li>
-<li>apocrine adenosis of breast (92.3%)</li>
-<li>male reproductive organ cancer (92.1%)</li>
-<li>prostate cancer/brain cancer susceptibility (92.0%)</li>
-<li>benign mammary dysplasia (91.8%)</li>
-<li>prostate leiomyoma (91.1%)</li>
-<li>breast abscess (82.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/raltegravir/' | relative_url }}">View full drug report →</a></p>

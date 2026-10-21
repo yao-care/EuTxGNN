@@ -3,7 +3,7 @@ layout: default
 title: "Tiratricol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tiratricol. Original indication: . 20 predicted indications."
+description: "Health news related to Tiratricol. Original indication: . 1 predicted indications."
 permalink: /news/tiratricol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tiratricol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tiratricol?">
-<strong>Tiratricol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tiratricol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Tiratricol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine with brainstem aura (93.3%)</li>
-<li>migraine disorder (92.3%)</li>
-<li>seborrheic dermatitis (80.6%)</li>
-<li>amenorrhea (disease) (80.1%)</li>
-<li>polyp of vocal cord (59.1%)</li>
-<li>polyp of middle ear (58.8%)</li>
-<li>uterine polyp (58.8%)</li>
-<li>ocular tuberculosis (58.6%)</li>
-<li>polyp of frontal sinus (58.1%)</li>
-<li>polyp of ureter (58.1%)</li>
-<li>polyp of external auditory canal (57.6%)</li>
-<li>polyp of vulva (57.3%)</li>
-<li>epulis (57.2%)</li>
-<li>sunburn (57.0%)</li>
-<li>fibroepithelial polyp (56.8%)</li>
-<li>acne (disease) (56.6%)</li>
-<li>obsolete pathologic fracture (56.4%)</li>
-<li>arteriosclerosis obliterans (56.2%)</li>
-<li>obsolete functional visual loss (56.2%)</li>
-<li>guttate psoriasis (56.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (93.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiratricol/' | relative_url }}">View full drug report →</a></p>

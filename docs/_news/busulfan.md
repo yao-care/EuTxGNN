@@ -3,7 +3,7 @@ layout: default
 title: "Busulfan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Busulfan. Original indication: One caveat applies. The Phase 2/3 trials in this s.... 20 predicted indications."
+description: "Health news related to Busulfan. Original indication: One caveat applies. The Phase 2/3 trials in this s.... 1 predicted indications."
 permalink: /news/busulfan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/busulfan/
 ---
 
 <p class="key-answer" data-question="What news is there about Busulfan?">
-<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Busulfan with the latest hea
 <ul>
 <li><strong>Original indication</strong>: One caveat applies. The Phase 2/3 trials in this set are not confirmed as completed Phase 3 RCTs on their own. The completed Phase 3 evidence comes from trials that enrolled MDS together with AML.</li>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>myelodysplastic syndrome (99.6%)</li>
-<li>refractory cytopenia of childhood (99.5%)</li>
-<li>unclassified myelodysplastic syndrome (99.5%)</li>
-<li>partial deletion of the long arm of chromosome 5 (99.5%)</li>
-<li>aregenerative anemia (99.5%)</li>
-<li>severe congenital hypochromic anemia with ringed sideroblasts (99.5%)</li>
-<li>HIV infectious disease (99.4%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
-<li>seborrheic keratosis (99.2%)</li>
-<li>feline acquired immunodeficiency syndrome (99.1%)</li>
-<li>simian immunodeficiency virus infection (99.1%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>female breast carcinoma (98.9%)</li>
-<li>primary cutaneous T-cell lymphoma (98.8%)</li>
-<li>vulvar inverted follicular keratosis (98.8%)</li>
-<li>multiple sclerosis (98.7%)</li>
-<li>granulomatous slack skin disease (98.6%)</li>
-<li>seborrheic dermatitis (98.5%)</li>
-<li>Crohn's colitis (98.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Myelodysplastic syndrome (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/busulfan/' | relative_url }}">View full drug report →</a></p>

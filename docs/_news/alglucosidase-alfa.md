@@ -3,7 +3,7 @@ layout: default
 title: "Alglucosidase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alglucosidase Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Alglucosidase Alfa. Original indication: . 1 predicted indications."
 permalink: /news/alglucosidase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alglucosidase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Alglucosidase Alfa?">
-<strong>Alglucosidase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Alglucosidase Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Alglucosidase Alfa with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>adult polyglucosan body disease (99.5%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form (99.3%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form (99.3%)</li>
-<li>congenital entropion (99.2%)</li>
-<li>congenital ectropion (99.2%)</li>
-<li>congenital Horner syndrome (disease) (99.2%)</li>
-<li>ptosis-vocal cord paralysis syndrome (99.2%)</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (99.1%)</li>
-<li>epiblepharon (99.1%)</li>
-<li>ptosis-strabismus-ectopic pupils syndrome (99.1%)</li>
-<li>tricarboxylic acid cycle disorder (99.1%)</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (99.0%)</li>
-<li>mucopolysaccharidosis (99.0%)</li>
-<li>jaw-winking syndrome (99.0%)</li>
-<li>disease of transporter activity (99.0%)</li>
-<li>glycogen storage disease (98.9%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, adult neuromuscular form (98.8%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, childhood neuromuscular form (98.8%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic and myopathic form (98.8%)</li>
-<li>glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form (98.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Adult polyglucosan body disease (99.5%)</li>
 </ul></li>
 </ul>
 

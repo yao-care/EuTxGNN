@@ -3,7 +3,7 @@ layout: default
 title: "Inclisiran News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Inclisiran. Original indication: . 20 predicted indications."
+description: "Health news related to Inclisiran. Original indication: . 1 predicted indications."
 permalink: /news/inclisiran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inclisiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Inclisiran?">
-<strong>Inclisiran</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Inclisiran</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Inclisiran with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>potassium deficiency disease (99.9%)</li>
-<li>esophageal disease (99.9%)</li>
-<li>atypical coarctation of aorta (99.9%)</li>
-<li>migraine disorder (99.8%)</li>
-<li>non-syndromic esophageal malformation (99.8%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>migraine with or without aura, susceptibility to (99.8%)</li>
-<li>aortic malformation (99.8%)</li>
-<li>esophageal ulcer (99.7%)</li>
-<li>Raynaud disease (99.7%)</li>
-<li>peptic esophagitis (99.7%)</li>
-<li>cauda equina syndrome (99.7%)</li>
-<li>gastrin secretion abnormality (99.7%)</li>
-<li>ulerythema ophryogenesis (99.6%)</li>
-<li>irritable bowel syndrome (99.6%)</li>
-<li>atrophoderma vermiculata (99.5%)</li>
-<li>peptic ulcer disease (99.5%)</li>
-<li>esophageal diverticulosis (99.5%)</li>
-<li>phaeochromocytoma (99.5%)</li>
-<li>dyskinesia of esophagus (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Potassium deficiency disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/inclisiran/' | relative_url }}">View full drug report →</a></p>

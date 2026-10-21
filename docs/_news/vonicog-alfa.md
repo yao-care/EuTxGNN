@@ -3,7 +3,7 @@ layout: default
 title: "Vonicog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vonicog Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Vonicog Alfa. Original indication: . 1 predicted indications."
 permalink: /news/vonicog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vonicog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Vonicog Alfa?">
-<strong>Vonicog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vonicog Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Vonicog Alfa with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>hemophilia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>acquired coagulation factor deficiency (99.9%)</li>
-<li>Von Willebrand disease, X-linked form (99.9%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.9%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.9%)</li>
-<li>flood factor deficiency (99.9%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (99.9%)</li>
-<li>familial thrombomodulin anomalies (99.9%)</li>
-<li>von Willebrand disease (99.8%)</li>
-<li>inherited thrombophilia (99.8%)</li>
-<li>small bowel Crohn disease (99.8%)</li>
-<li>methylcobalamin deficiency type cblG (99.8%)</li>
-<li>esophageal ulcer (99.8%)</li>
-<li>gastritis (99.7%)</li>
-<li>thrombotic thrombocytopenic purpura (99.7%)</li>
-<li>hemorrhagic disorder due to a coagulation factors defect (99.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (100.0%)</li>
 </ul></li>
 </ul>
 

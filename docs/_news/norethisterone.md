@@ -3,7 +3,7 @@ layout: default
 title: "Norethisterone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norethisterone. Original indication: . 20 predicted indications."
+description: "Health news related to Norethisterone. Original indication: . 1 predicted indications."
 permalink: /news/norethisterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="What news is there about Norethisterone?">
-<strong>Norethisterone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Norethisterone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>acne (disease) (100.0%)</li>
-<li>amenorrhea (disease) (99.6%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (97.0%)</li>
-<li>zinc, elevated plasma (96.9%)</li>
-<li>anovulation (96.6%)</li>
-<li>ovarian remnant syndrome (96.6%)</li>
-<li>primary ovarian failure (96.5%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (96.5%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 12 (96.5%)</li>
-<li>luteoma of pregnancy (96.4%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (96.4%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (96.3%)</li>
-<li>partial autosomal trisomy/tetrasomy (96.3%)</li>
-<li>ovarian ectopic pregnancy (96.2%)</li>
-<li>ovarian dysfunction (96.1%)</li>
-<li>stapes ankylosis with broad thumbs and toes (96.1%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis (96.0%)</li>
-<li>telecanthus (95.4%)</li>
-<li>urethral obstruction sequence (94.8%)</li>
-<li>ovarian hyperstimulation syndrome (94.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Amenorrhea (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>

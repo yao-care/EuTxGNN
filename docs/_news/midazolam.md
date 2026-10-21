@@ -3,7 +3,7 @@ layout: default
 title: "Midazolam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Midazolam. Original indication: . 20 predicted indications."
+description: "Health news related to Midazolam. Original indication: . 1 predicted indications."
 permalink: /news/midazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/midazolam/
 ---
 
 <p class="key-answer" data-question="What news is there about Midazolam?">
-<strong>Midazolam</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Midazolam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Midazolam with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>insomnia (disease) (99.7%)</li>
-<li>anxiety (99.3%)</li>
-<li>myofascial pain syndrome (97.9%)</li>
-<li>obsessive-compulsive disorder (95.7%)</li>
-<li>tendinitis (93.5%)</li>
-<li>benign paroxysmal torticollis of infancy (93.5%)</li>
-<li>anxiety disorder (92.8%)</li>
-<li>agoraphobia (92.8%)</li>
-<li>myositis fibrosa (92.5%)</li>
-<li>idiopathic granulomatous myositis (92.5%)</li>
-<li>dysthymic disorder (92.0%)</li>
-<li>paranoid personality disorder (92.0%)</li>
-<li>histrionic personality disorder (disease) (92.0%)</li>
-<li>schizotypal personality disorder (92.0%)</li>
-<li>schizoid personality disorder (92.0%)</li>
-<li>fibromyalgia (88.9%)</li>
-<li>sleep disorder, initiating and maintaining sleep (88.6%)</li>
-<li>Asperger syndrome (87.9%)</li>
-<li>inclusion body myositis (83.1%)</li>
-<li>attention deficit-hyperactivity disorder (81.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/midazolam/' | relative_url }}">View full drug report →</a></p>

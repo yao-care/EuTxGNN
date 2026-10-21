@@ -3,7 +3,7 @@ layout: default
 title: "Nonacog Beta Pegol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nonacog Beta Pegol. Original indication: . 9 predicted indications."
+description: "Health news related to Nonacog Beta Pegol. Original indication: . 10 predicted indications."
 permalink: /news/nonacog-beta-pegol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nonacog-beta-pegol/
 ---
 
 <p class="key-answer" data-question="What news is there about Nonacog Beta Pegol?">
-<strong>Nonacog Beta Pegol</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Nonacog Beta Pegol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ This page combines the AI-predicted indications for Nonacog Beta Pegol with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Glanzmann thrombasthenia | 98.51% | Defect in integrin αIIbβ3 (platelet aggregation); FIX does not address it. Standard therapies are platelet transfusion, rFVIIa and antifibrinolytics. (99.0%)</li>
-<li>Pseudo-von Willebrand disease | 98.22% | Gain-of-function GPIbα defect in primary haemostasis; no rationale for FIX. (99.0%)</li>
-<li>Haemorrhagic disorder due to constitutional thrombocytopenia | 94.79% | Reduced platelet number or function; FIX does not raise platelet counts. (99.0%)</li>
-<li>Bleeding diathesis due to a collagen receptor defect | 94.52% | Platelet receptor defect (GPVI or α2β1); FIX acts downstream and cannot compensate. (99.0%)</li>
-<li>Scott syndrome | 93.43% | TMEM16F/ANO6 defect; a weak theoretical link via the tenase complex, but the limiting factor is the membrane surface, not FIX quantity. (99.0%)</li>
-<li>Severe nonproliferative diabetic retinopathy | 91.40% | Microvascular disease driven by hyperglycaemia and VEGF; likely a graph artifact, with possible thrombotic concerns. (99.0%)</li>
-<li>Fetal and neonatal alloimmune thrombocytopenia | 88.14% | Immune-mediated platelet destruction; managed with IVIG, corticosteroids and compatible platelets. (99.0%)</li>
-<li>Platelet-type bleeding disorder | 87.74% | General category of platelet disorders; not mechanistically grounded. (99.0%)</li>
-<li>Hereditary thrombocytosis with transverse limb defect | 86.42% | Prothrombotic phenotype; a procoagulant factor could increase thrombotic risk. (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Primary release disorder of platelets (98.6%)</li>
+<li>Glanzmann thrombasthenia (98.5%)</li>
+<li>Pseudo-von Willebrand disease (98.2%)</li>
+<li>Haemorrhagic disorder due to constitutional thrombocytopenia (94.8%)</li>
+<li>Bleeding diathesis due to a collagen receptor defect (94.5%)</li>
+<li>Scott syndrome (93.4%)</li>
+<li>Severe nonproliferative diabetic retinopathy (91.4%)</li>
+<li>Fetal and neonatal alloimmune thrombocytopenia (88.1%)</li>
+<li>Platelet-type bleeding disorder (87.7%)</li>
+<li>Hereditary thrombocytosis with transverse limb defect (86.4%)</li>
 </ul></li>
 </ul>
 

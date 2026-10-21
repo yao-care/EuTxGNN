@@ -3,7 +3,7 @@ layout: default
 title: "Canakinumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Canakinumab. Original indication: . 20 predicted indications."
+description: "Health news related to Canakinumab. Original indication: . 1 predicted indications."
 permalink: /news/canakinumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/canakinumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Canakinumab?">
-<strong>Canakinumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Canakinumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Canakinumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hepatic infarction (99.9%)</li>
-<li>hepatic veno-occlusive disease (99.8%)</li>
-<li>peliosis hepatis (99.8%)</li>
-<li>syndrome with combined immunodeficiency (99.7%)</li>
-<li>autosomal dominant familial periodic fever (99.7%)</li>
-<li>periodic fever-infantile enterocolitis-autoinflammatory syndrome (99.6%)</li>
-<li>autosomal recessive familial Mediterranean fever (99.5%)</li>
-<li>familial Mediterranean fever, autosomal dominant (99.4%)</li>
-<li>extracutaneous mastocytoma (99.3%)</li>
-<li>Blau syndrome (99.3%)</li>
-<li>monosomy X (99.3%)</li>
-<li>liver angiosarcoma (99.3%)</li>
-<li>aggressive systemic mastocytosis (99.3%)</li>
-<li>X-linked lymphoproliferative disease due to SH2D1A deficiency (99.3%)</li>
-<li>familial Mediterranean fever (99.2%)</li>
-<li>primary release disorder of platelets (99.2%)</li>
-<li>pseudo-von Willebrand disease (99.1%)</li>
-<li>hepatic veno-occlusive disease-immunodeficiency syndrome (99.1%)</li>
-<li>systemic mastocytosis (99.0%)</li>
-<li>chromhidrosis (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatic infarction (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/canakinumab/' | relative_url }}">View full drug report →</a></p>

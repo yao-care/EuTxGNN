@@ -3,7 +3,7 @@ layout: default
 title: "Eptinezumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eptinezumab. Original indication: There are important limits. A randomized trial fou.... 20 predicted indications."
+description: "Health news related to Eptinezumab. Original indication: There are important limits. A randomized trial fou.... 1 predicted indications."
 permalink: /news/eptinezumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eptinezumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptinezumab?">
-<strong>Eptinezumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Eptinezumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Eptinezumab with the latest 
 <ul>
 <li><strong>Original indication</strong>: There are important limits. A randomized trial found that PACAP38-induced migraine attacks are independent of CGRP signaling, which suggests CGRP blockade may not cover all migraine pathways. No...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with or without aura, susceptibility to (99.3%)</li>
-<li>atrophoderma vermiculata (99.0%)</li>
-<li>ulerythema ophryogenesis (98.6%)</li>
-<li>heparin cofactor 2 deficiency (96.8%)</li>
-<li>antithrombin deficiency type 2 (96.2%)</li>
-<li>factor 5 excess with spontaneous thrombosis (96.1%)</li>
-<li>thrombophilia (94.2%)</li>
-<li>amenorrhea (disease) (92.4%)</li>
-<li>sciatic neuropathy (89.9%)</li>
-<li>hemorrhagic disease of newborn (81.3%)</li>
-<li>severe nonproliferative diabetic retinopathy (67.7%)</li>
-<li>hyperemesis gravidarum (disease) (64.3%)</li>
-<li>hyperparathyroidism, primary, caused by water clear cell hyperplasia (60.2%)</li>
-<li>omphalocele (disease) (59.8%)</li>
-<li>prekallikrein deficiency (59.4%)</li>
-<li>sudden arrhythmia death syndrome (59.4%)</li>
-<li>Coronavinae infectious disease (58.8%)</li>
-<li>tibial adamantinoma (58.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eptinezumab/' | relative_url }}">View full drug report →</a></p>

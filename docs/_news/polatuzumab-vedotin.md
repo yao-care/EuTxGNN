@@ -3,7 +3,7 @@ layout: default
 title: "Polatuzumab Vedotin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Polatuzumab Vedotin. Original indication: . 20 predicted indications."
+description: "Health news related to Polatuzumab Vedotin. Original indication: . 1 predicted indications."
 permalink: /news/polatuzumab-vedotin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polatuzumab-vedotin/
 ---
 
 <p class="key-answer" data-question="What news is there about Polatuzumab Vedotin?">
-<strong>Polatuzumab Vedotin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Polatuzumab Vedotin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Polatuzumab Vedotin with the
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>HER2 positive breast carcinoma (99.3%)</li>
-<li>progesterone-receptor positive breast cancer (98.9%)</li>
-<li>normal breast-like subtype of breast carcinoma (98.9%)</li>
-<li>breast tumor luminal A or B (98.9%)</li>
-<li>progesterone-receptor negative breast cancer (98.9%)</li>
-<li>drug-induced osteoporosis (98.8%)</li>
-<li>acne (disease) (97.5%)</li>
-<li>antithrombin deficiency type 2 (97.0%)</li>
-<li>heparin cofactor 2 deficiency (96.9%)</li>
-<li>factor 5 excess with spontaneous thrombosis (96.9%)</li>
-<li>severe nonproliferative diabetic retinopathy (96.0%)</li>
-<li>thrombophilia (95.6%)</li>
-<li>amenorrhea (disease) (95.5%)</li>
-<li>zinc, elevated plasma (94.9%)</li>
-<li>infectious bovine rhinotracheitis (94.6%)</li>
-<li>malignant catarrh (94.6%)</li>
-<li>primary release disorder of platelets (94.4%)</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma (93.8%)</li>
-<li>prostatic urethra urothelial carcinoma (93.7%)</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant (93.7%)</li>
 </ul></li>
 </ul>
 

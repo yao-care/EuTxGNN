@@ -3,7 +3,7 @@ layout: default
 title: "Chenodeoxycholic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Chenodeoxycholic Acid. Original indication: . 2 predicted indications."
+description: "Health news related to Chenodeoxycholic Acid. Original indication: . 3 predicted indications."
 permalink: /news/chenodeoxycholic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chenodeoxycholic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Chenodeoxycholic Acid?">
-<strong>Chenodeoxycholic Acid</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Chenodeoxycholic Acid</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,10 @@ This page combines the AI-predicted indications for Chenodeoxycholic Acid with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Diabetic nephropathy | 98.76% | L4 | The most plausible alternative. Preclinical FXR-loss data and bile acid profiling studies exist, but none involve CDCA treatment. Best framed as a preclinical research question. (99.0%)</li>
-<li>Familial combined hyperlipidemia (obsolete term) | 99.34% | L5 | Plausible but unsupported; the disease term is obsolete. (99.0%)</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Homozygous familial hypercholesterolemia (99.6%)</li>
+<li>Diabetic nephropathy (98.8%)</li>
+<li>Familial combined hyperlipidemia (obsolete term) (99.3%)</li>
 </ul></li>
 </ul>
 

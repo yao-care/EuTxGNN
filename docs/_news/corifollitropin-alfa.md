@@ -3,7 +3,7 @@ layout: default
 title: "Corifollitropin Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Corifollitropin Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Corifollitropin Alfa. Original indication: . 1 predicted indications."
 permalink: /news/corifollitropin-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/corifollitropin-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Corifollitropin Alfa?">
-<strong>Corifollitropin Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Corifollitropin Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Corifollitropin Alfa with th
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>gastroduodenitis (99.7%)</li>
-<li>migraine disorder (99.6%)</li>
-<li>peptic ulcer disease (99.6%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>Raynaud disease (99.6%)</li>
-<li>pulmonary hypertension (99.4%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>migraine with or without aura, susceptibility to (99.1%)</li>
-<li>atrophoderma vermiculata (98.8%)</li>
-<li>peptic esophagitis (98.7%)</li>
-<li>ulerythema ophryogenesis (98.7%)</li>
-<li>hypotrichosis simplex of the scalp (98.6%)</li>
-<li>congenital hypotrichosis milia (98.3%)</li>
-<li>alopecia (98.3%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (98.3%)</li>
-<li>diffuse alopecia areata (98.2%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (97.6%)</li>
-<li>chromosome 17q23.1-q23.2 deletion syndrome (97.5%)</li>
-<li>familial clubfoot due to 17q23.1q23.2 microduplication (97.5%)</li>
-<li>coxopodopatellar syndrome (97.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gastroduodenitis (99.7%)</li>
 </ul></li>
 </ul>
 

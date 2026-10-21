@@ -3,7 +3,7 @@ layout: default
 title: "Andexanet Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Andexanet Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Andexanet Alfa. Original indication: . 1 predicted indications."
 permalink: /news/andexanet-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/andexanet-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Andexanet Alfa?">
-<strong>Andexanet Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Andexanet Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Andexanet Alfa with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Glanzmann thrombasthenia (99.8%)</li>
-<li>primary release disorder of platelets (99.8%)</li>
-<li>pseudo-von Willebrand disease (99.7%)</li>
-<li>hemophilia (99.1%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.0%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (98.9%)</li>
-<li>acquired coagulation factor deficiency (98.8%)</li>
-<li>Scott syndrome (98.7%)</li>
-<li>congenital prothrombin deficiency (98.4%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (97.2%)</li>
-<li>familial thrombomodulin anomalies (97.1%)</li>
-<li>flood factor deficiency (97.1%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (96.6%)</li>
-<li>platelet-type bleeding disorder (96.2%)</li>
-<li>methylcobalamin deficiency type cblG (94.6%)</li>
-<li>autosomal dominant macrothrombocytopenia (93.9%)</li>
-<li>drug-induced osteoporosis (93.8%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (93.1%)</li>
-<li>renal osteodystrophy (91.2%)</li>
-<li>inherited thrombophilia (91.0%)</li>
 </ul></li>
 </ul>
 

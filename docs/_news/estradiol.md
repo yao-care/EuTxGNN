@@ -3,7 +3,7 @@ layout: default
 title: "Estradiol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Estradiol. Original indication: . 20 predicted indications."
+description: "Health news related to Estradiol. Original indication: . 1 predicted indications."
 permalink: /news/estradiol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Estradiol?">
-<strong>Estradiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Estradiol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Estradiol with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>acne (disease) (100.0%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (98.8%)</li>
-<li>ovarian remnant syndrome (98.6%)</li>
-<li>anovulation (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 12 (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (98.5%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (98.5%)</li>
-<li>luteoma of pregnancy (98.5%)</li>
-<li>partial autosomal trisomy/tetrasomy (98.5%)</li>
-<li>ovarian ectopic pregnancy (98.4%)</li>
-<li>primary ovarian failure (98.4%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis (98.4%)</li>
-<li>ovarian dysfunction (98.4%)</li>
-<li>zinc, elevated plasma (98.2%)</li>
-<li>stapes ankylosis with broad thumbs and toes (98.2%)</li>
-<li>telecanthus (98.2%)</li>
-<li>ovarian hyperstimulation syndrome (97.5%)</li>
-<li>sebaceous gland anomaly (94.6%)</li>
-<li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (93.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Anovulation (rank 2 of 10; the rank 1 prediction, symptomatic fragile X syndrome in female carriers, has no supporting evidence) (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">View full drug report →</a></p>

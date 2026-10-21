@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Propionate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fluticasone Propionate. Original indication: . 20 predicted indications."
+description: "Health news related to Fluticasone Propionate. Original indication: . 1 predicted indications."
 permalink: /news/fluticasone-propionate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone-propionate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Propionate?">
-<strong>Fluticasone Propionate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Propionate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Fluticasone Propionate with 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>atopic eczema (99.7%)</li>
-<li>dermatitis, atopic (99.3%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (98.6%)</li>
-<li>occupational dermatitis (97.3%)</li>
-<li>allergic asthma (97.2%)</li>
-<li>intrinsic asthma (96.9%)</li>
-<li>seborrheic dermatitis (96.7%)</li>
-<li>contact dermatitis (96.7%)</li>
-<li>vulvar inverted follicular keratosis (96.4%)</li>
-<li>seborrheic keratosis (96.3%)</li>
-<li>alopecia mucinosa (96.1%)</li>
-<li>telogen effluvium (96.0%)</li>
-<li>lichen disease (96.0%)</li>
-<li>alopecia areata (95.9%)</li>
-<li>Quinquaud's folliculitis decalvans (95.4%)</li>
-<li>atopic dermatitis (95.3%)</li>
-<li>polyp of vocal cord (95.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (95.0%)</li>
-<li>polyp of middle ear (94.9%)</li>
-<li>epulis (94.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Atopic dermatitis (95.3%)</li>
 </ul></li>
 </ul>
 

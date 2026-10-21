@@ -3,7 +3,7 @@ layout: default
 title: "Oseltamivir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Oseltamivir. Original indication: . 20 predicted indications."
+description: "Health news related to Oseltamivir. Original indication: . 1 predicted indications."
 permalink: /news/oseltamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="What news is there about Oseltamivir?">
-<strong>Oseltamivir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Oseltamivir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Oseltamivir with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>influenza, severe, susceptibility to (98.7%)</li>
-<li>pyelonephritis (97.8%)</li>
-<li>disorder of tyrosine metabolism (96.7%)</li>
-<li>teratogenic Pierre Robin syndrome (96.1%)</li>
-<li>disorder of phenylalanine metabolism (95.7%)</li>
-<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
-<li>staphylococcus aureus infection (95.0%)</li>
-<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
-<li>pneumonia (92.1%)</li>
-<li>influenza (90.7%)</li>
-<li>streptococcal pneumonia (90.5%)</li>
-<li>aspergillosis, susceptibility to (89.8%)</li>
-<li>dengue virus, susceptibility to (89.8%)</li>
-<li>susceptibility to HIV infection (89.8%)</li>
-<li>legionnaire disease, susceptibility to (89.8%)</li>
-<li>Schistosoma mansoni infection, susceptibility (89.5%)</li>
-<li>primitive portal vein thrombosis (88.9%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (88.9%)</li>
-<li>hepatopulmonary syndrome (88.9%)</li>
-<li>idiopathic copper-associated cirrhosis (88.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pyelonephritis (97.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">View full drug report →</a></p>

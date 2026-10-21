@@ -3,7 +3,7 @@ layout: default
 title: "Caplacizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Caplacizumab. Original indication: . 20 predicted indications."
+description: "Health news related to Caplacizumab. Original indication: . 1 predicted indications."
 permalink: /news/caplacizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caplacizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Caplacizumab?">
-<strong>Caplacizumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Caplacizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Caplacizumab with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>Scott syndrome (100.0%)</li>
-<li>thrombotic thrombocytopenic purpura (100.0%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (100.0%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (100.0%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (100.0%)</li>
-<li>hemophilia (100.0%)</li>
-<li>platelet-type bleeding disorder (100.0%)</li>
-<li>acquired coagulation factor deficiency (100.0%)</li>
-<li>thrombocytopenic purpura (100.0%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (100.0%)</li>
-<li>inherited thrombophilia (100.0%)</li>
-<li>flood factor deficiency (100.0%)</li>
-<li>symptomatic form of hemophilia in female carriers (100.0%)</li>
-<li>congenital factor V deficiency (100.0%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (100.0%)</li>
-<li>familial thrombomodulin anomalies (100.0%)</li>
-<li>methylcobalamin deficiency type cblG (100.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caplacizumab/' | relative_url }}">View full drug report →</a></p>

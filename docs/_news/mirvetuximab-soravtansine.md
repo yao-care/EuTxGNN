@@ -3,7 +3,7 @@ layout: default
 title: "Mirvetuximab Soravtansine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mirvetuximab Soravtansine. Original indication: . 20 predicted indications."
+description: "Health news related to Mirvetuximab Soravtansine. Original indication: . 1 predicted indications."
 permalink: /news/mirvetuximab-soravtansine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirvetuximab-soravtansine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mirvetuximab Soravtansine?">
-<strong>Mirvetuximab Soravtansine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mirvetuximab Soravtansine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Mirvetuximab Soravtansine wi
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>antithrombin deficiency type 2 (98.0%)</li>
-<li>heparin cofactor 2 deficiency (97.8%)</li>
-<li>factor 5 excess with spontaneous thrombosis (97.8%)</li>
-<li>candidiasis (97.7%)</li>
-<li>plasma cell myeloma (97.6%)</li>
-<li>indolent plasma cell myeloma (97.4%)</li>
-<li>tinea corporis (96.8%)</li>
-<li>thrombophilia (96.7%)</li>
-<li>uterine polyp (96.6%)</li>
-<li>pediatric systemic lupus erythematosus (96.5%)</li>
-<li>polyp of vocal cord (96.5%)</li>
-<li>polyp of middle ear (96.5%)</li>
-<li>polyp of frontal sinus (96.4%)</li>
-<li>polyp of external auditory canal (96.4%)</li>
-<li>polyp of ureter (96.4%)</li>
-<li>polyp of vulva (96.4%)</li>
-<li>fibroepithelial polyp (96.4%)</li>
-<li>neoplastic polyp (96.3%)</li>
-<li>epulis (96.3%)</li>
-<li>mantle cell lymphoma (96.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Antithrombin deficiency type 2 (98.0%)</li>
 </ul></li>
 </ul>
 

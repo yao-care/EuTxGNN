@@ -3,7 +3,7 @@ layout: default
 title: "Semaglutide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Semaglutide. Original indication: . 20 predicted indications."
+description: "Health news related to Semaglutide. Original indication: . 1 predicted indications."
 permalink: /news/semaglutide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>10 news articles</strong>, with 20 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,20 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>focal stiff limb syndrome (98.6%)</li>
-<li>classic stiff person syndrome (98.6%)</li>
-<li>opsismodysplasia (98.6%)</li>
-<li>thiamine-responsive dysfunction syndrome (98.6%)</li>
-<li>diabetes mellitus (disease) (98.5%)</li>
-<li>drug-induced localized lipodystrophy (97.7%)</li>
-<li>centrifugal lipodystrophy (97.6%)</li>
-<li>pressure-induced localized lipoatrophy (97.5%)</li>
-<li>idiopathic localized lipodystrophy (97.3%)</li>
-<li>pancreatic agenesis (97.3%)</li>
-<li>autoimmune oophoritis (95.0%)</li>
-<li>type 1 diabetes mellitus (94.9%)</li>
-<li>cholangiocarcinoma, susceptibility to (64.9%)</li>
-<li>hemoglobin C-beta-thalassemia syndrome (64.5%)</li>
-<li>hypercarotenemia and vitamin A deficiency, autosomal recessive (63.8%)</li>
-<li>atrial flutter (disease) (63.0%)</li>
-<li>permanent neonatal diabetes mellitus (61.5%)</li>
-<li>pancreas, dorsal, agenesis of (60.2%)</li>
-<li>lymphopenic hypergammaglobulinemia, antibody deficiency, autoimmune hemolytic anemia, and glomerulonephritis (59.5%)</li>
-<li>mitral valve prolapse, myxomatous (59.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Focal stiff limb syndrome (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
 
-### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
-
----
-
-### [Diese Cholesterin-Senker haben einen unerwarteten Nebeneffekt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+### [Menopause und Diabetes: Frühe Wechseljahre erhöhen das Risiko um 30 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeElzVFcxQXdXc1UwOU5palRfQkc3ZzNuT2hackNJdXlIUkFoUlRDalM1NUNidF80ckhyRTZqeWpEMG5sLUpjOGRYMkJ1dTU3U1lSTm4tSHlxWHMwY0lHTXQ4VzVHbkJFQzc0RHd0eVJacGR0andxSmpZY2RyaVZTR3VTZktaU0VobUQ4Y1BJMW0xRTFFay1lR1ZpdkM1Y2pveFo1TEJVV24wQWN6NVl4aE5BVGhBTktVWGRlTVE5LXA?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
 
 ---
 
@@ -77,19 +50,11 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZ
 
 ---
 
-### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
+### [Typ-2-Diabetes: Kombi aus Diät und Training lässt Erkrankung verschwinden](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
-
----
-
-### [Haarausfall durch Ozempic? Wichtige Hinweise zur Nebenwirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVScE9uOWpTQWZuRGVsdWZoZHdpdDNSLWVDTGMzb1ppcjViSTZxSWhzaWNBSHhDXzRGNGpieEFBMHpQeHpFMmVkVkpuU0JuY2ttd0NHUFVBLTl4Q3NPZmEwWExCZUZjZUNkeHctZG5wUXRybGl0emJoemZpclViaFlUQkszRm5MbkFMQ0hTTGFiMHRBWGZIdjNWaWg2Wndjc1l2Uw?oc=5)
-
-2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMipAFBVV95cUxPczVScE9uOWpTQWZuRGVsdWZoZHdpdDNSLWVDTGMzb1ppcjViSTZxSWhzaWNBSHhDXzRGNGpieEFBMHpQeHpFMmVkVkpuU0JuY2ttd0NHUFVBLTl4Q3NPZmEwWExCZUZjZUNkeHctZG5wUXRybGl0emJoemZpclViaFlUQkszRm5MbkFMQ0hTTGFiMHRBWGZIdjNWaWg2Wndjc1l2Uw?oc=5)
+Source: [Kurier](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
 
 ---
 
@@ -125,11 +90,11 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95c
 
 ---
 
-### [La tua voce ti dice come stai invecchiando - la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
+### [Ozempic & Wegovy: Neue Studien deuten auf ekelige Nebenwirkung hin - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkU4dGExVTVwSC0xeUJzYng2b0hULXBnakxmZGRGaExEQXpVMzJ5RjFYRnlLQ3lrMFBCSHF0ZnRidk5qb3VLSHBMVVhDa0phSWFpcVc1Tnp6YTFoYjlTWHMzbmI1NnlOemdYX29YdnF5TEZVV0x2YnZpX0t1MEx5MlBCMTZpQlEwVVpnUzNGYTE3ck1Dd1gtYWRmeXpZWFF2UkF6M2pfMTdJQQ?oc=5)
 
-2026-10-15 <span class="news-indication-tag">diabete</span>
+2026-10-16 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
 
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmF5d3ctalJuRV93YlZtUTg5cE1JdUJyUXp4YkFfYzUwRzAyNzZGMTloa1Z0WE1La3FuOUtxbUVUdDdIbmIxRERHVE1wR3pSc0JxQ25JNzhMZzJtbUNfQW1VeEpjVTh3akNZcURhdmVibGpSTFM2NEplUmp4cEpZQVdGS1RhQdIBiwFBVV95cUxNYnpWamNLMzJmeGZCR2VlWGFpZHozR2xtTk5nVTl5dXZBYzR3ME1taXYyVFZ0TENvU2RVVGtBS19PSThsYXNaakpyWkVtWkxKV1prRzJXWmFILTV6MGJNbDZpU3hXeUJ5eXFyN2N3VjBoOENHUEVJeUJ3ZlpLbWdfa0tSV1lVdnNLZlpv?oc=5)
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkU4dGExVTVwSC0xeUJzYng2b0hULXBnakxmZGRGaExEQXpVMzJ5RjFYRnlLQ3lrMFBCSHF0ZnRidk5qb3VLSHBMVVhDa0phSWFpcVc1Tnp6YTFoYjlTWHMzbmI1NnlOemdYX29YdnF5TEZVV0x2YnZpX0t1MEx5MlBCMTZpQlEwVVpnUzNGYTE3ck1Dd1gtYWRmeXpZWFF2UkF6M2pfMTdJQQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Tenofovir Alafenamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tenofovir Alafenamide. Original indication: . 20 predicted indications."
+description: "Health news related to Tenofovir Alafenamide. Original indication: . 1 predicted indications."
 permalink: /news/tenofovir-alafenamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenofovir-alafenamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenofovir Alafenamide?">
-<strong>Tenofovir Alafenamide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tenofovir Alafenamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Tenofovir Alafenamide with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>HIV infectious disease (99.9%)</li>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
-<li>chronic hepatitis C virus infection (98.6%)</li>
-<li>AIDS (98.5%)</li>
-<li>obsolete familial combined hyperlipidemia (97.8%)</li>
-<li>AIDS related complex (97.1%)</li>
-<li>congenital human immunodeficiency virus (97.1%)</li>
-<li>hepatitis B virus infection (96.1%)</li>
-<li>hepatitis C virus infection (96.1%)</li>
-<li>hepatitis E virus infection (95.0%)</li>
-<li>hepatitis A virus infection (94.8%)</li>
-<li>Omsk hemorrhagic fever (94.8%)</li>
-<li>hepatitis, viral, animal (94.7%)</li>
-<li>Kyasanur forest disease (94.6%)</li>
-<li>fibroma of prostate (92.1%)</li>
-<li>Brenner tumor (92.0%)</li>
-<li>benign reproductive system neoplasm (91.9%)</li>
-<li>benign prostate phyllodes tumor (91.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Feline acquired immunodeficiency syndrome (99.9%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Budesonide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Budesonide. Original indication: . 20 predicted indications."
+description: "Health news related to Budesonide. Original indication: . 1 predicted indications."
 permalink: /news/budesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Budesonide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>allergic asthma (99.9%)</li>
-<li>intrinsic asthma (99.9%)</li>
-<li>bronchitis (99.8%)</li>
-<li>dermatitis, atopic (99.8%)</li>
-<li>polyp of vocal cord (99.7%)</li>
-<li>polyp of middle ear (99.7%)</li>
-<li>epulis (99.7%)</li>
-<li>fibroepithelial polyp (99.7%)</li>
-<li>uterine polyp (99.7%)</li>
-<li>polyp of frontal sinus (99.7%)</li>
-<li>polyp of external auditory canal (99.7%)</li>
-<li>polyp of vulva (99.7%)</li>
-<li>polyp of ureter (99.7%)</li>
-<li>neoplastic polyp (99.7%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (99.6%)</li>
-<li>asthma (99.5%)</li>
-<li>Crohn's colitis (99.3%)</li>
-<li>inflammatory bowel disease (99.2%)</li>
-<li>anus disease (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Atopic eczema (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>

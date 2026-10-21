@@ -3,7 +3,7 @@ layout: default
 title: "Dimethyl Fumarate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dimethyl Fumarate. Original indication: . 20 predicted indications."
+description: "Health news related to Dimethyl Fumarate. Original indication: . 1 predicted indications."
 permalink: /news/dimethyl-fumarate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dimethyl-fumarate/
 ---
 
 <p class="key-answer" data-question="What news is there about Dimethyl Fumarate?">
-<strong>Dimethyl Fumarate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dimethyl Fumarate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Dimethyl Fumarate with the l
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>relapsing-remitting multiple sclerosis (98.8%)</li>
-<li>progressive multiple sclerosis (90.7%)</li>
-<li>schwannoma of jugular foramen (89.7%)</li>
-<li>cervical neuroblastoma (89.7%)</li>
-<li>benign neoplasm of buccal mucosa (89.4%)</li>
-<li>jugular foramen meningioma (89.3%)</li>
-<li>benign neoplasm of tongue (89.3%)</li>
-<li>benign neoplasm of hypopharynx (89.3%)</li>
-<li>inner ear neoplasm (89.2%)</li>
-<li>benign neoplasm of floor of mouth (89.2%)</li>
-<li>nasal cavity inverting papilloma (89.1%)</li>
-<li>epiglottis neoplasm (89.1%)</li>
-<li>benign neoplasm of nasal cavity (89.0%)</li>
-<li>neoplasm of major salivary gland (89.0%)</li>
-<li>vestibulocochlear nerve neoplasm (89.0%)</li>
-<li>skull base neoplasm (89.0%)</li>
-<li>benign neoplasm of salivary gland (88.9%)</li>
-<li>benign neoplasm of oral cavity (88.9%)</li>
-<li>abducens nerve neoplasm (88.8%)</li>
-<li>cystic neoplasm (88.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Progressive multiple sclerosis (90.7%)</li>
 </ul></li>
 </ul>
 

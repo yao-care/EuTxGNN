@@ -3,7 +3,7 @@ layout: default
 title: "Moroctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Moroctocog Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Moroctocog Alfa. Original indication: . 1 predicted indications."
 permalink: /news/moroctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/moroctocog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Moroctocog Alfa?">
-<strong>Moroctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Moroctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Moroctocog Alfa with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>Glanzmann thrombasthenia (100.0%)</li>
-<li>hemophilia (99.9%)</li>
-<li>acquired coagulation factor deficiency (99.9%)</li>
-<li>Scott syndrome (99.9%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.7%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.7%)</li>
-<li>symptomatic form of hemophilia in female carriers (99.4%)</li>
-<li>flood factor deficiency (99.1%)</li>
-<li>hereditary thrombocytosis with transverse limb defect (98.9%)</li>
-<li>familial thrombomodulin anomalies (98.9%)</li>
-<li>inherited thrombophilia (98.7%)</li>
-<li>thrombotic thrombocytopenic purpura (98.6%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (98.5%)</li>
-<li>methylcobalamin deficiency type cblG (98.5%)</li>
-<li>platelet-type bleeding disorder (98.1%)</li>
-<li>hemophilia A with vascular abnormality (97.9%)</li>
-<li>factor XI deficiency (97.5%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (97.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (100.0%)</li>
 </ul></li>
 </ul>
 

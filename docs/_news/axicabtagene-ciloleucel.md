@@ -3,7 +3,7 @@ layout: default
 title: "Axicabtagene Ciloleucel News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Axicabtagene Ciloleucel. Original indication: . 20 predicted indications."
+description: "Health news related to Axicabtagene Ciloleucel. Original indication: . 1 predicted indications."
 permalink: /news/axicabtagene-ciloleucel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/axicabtagene-ciloleucel/
 ---
 
 <p class="key-answer" data-question="What news is there about Axicabtagene Ciloleucel?">
-<strong>Axicabtagene Ciloleucel</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Axicabtagene Ciloleucel</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Axicabtagene Ciloleucel with
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Crohn's colitis (91.4%)</li>
-<li>multiple endocrine neoplasia (91.3%)</li>
-<li>idiopathic aplastic anemia (89.7%)</li>
-<li>adrenal gland hyperfunction (88.3%)</li>
-<li>HER2 positive breast carcinoma (88.0%)</li>
-<li>ankylosing spondylitis (87.1%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (87.0%)</li>
-<li>systemic mastocytosis (87.0%)</li>
-<li>Smouldering systemic mastocytosis (86.8%)</li>
-<li>rheumatoid vasculitis (86.2%)</li>
-<li>normal breast-like subtype of breast carcinoma (85.8%)</li>
-<li>progesterone-receptor positive breast cancer (85.8%)</li>
-<li>breast tumor luminal A or B (85.6%)</li>
-<li>hypermobility of coccyx (85.6%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (85.6%)</li>
-<li>inflammatory spondylopathy (85.5%)</li>
-<li>multifocal choroiditis (85.5%)</li>
-<li>drug-induced osteoporosis (85.5%)</li>
-<li>progesterone-receptor negative breast cancer (85.1%)</li>
-<li>psoriasis (85.1%)</li>
 </ul></li>
 </ul>
 

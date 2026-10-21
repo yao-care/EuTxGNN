@@ -3,7 +3,7 @@ layout: default
 title: "Dopamine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dopamine. Original indication: . 20 predicted indications."
+description: "Health news related to Dopamine. Original indication: . 1 predicted indications."
 permalink: /news/dopamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dopamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dopamine?">
-<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Dopamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Dopamine with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hypotensive disorder (97.1%)</li>
-<li>postural orthostatic tachycardia syndrome (88.0%)</li>
-<li>variably protease-sensitive prionopathy (86.9%)</li>
-<li>multiple system atrophy (84.8%)</li>
-<li>hypotrichosis simplex of the scalp (83.4%)</li>
-<li>gastroduodenitis (81.8%)</li>
-<li>congenital hypotrichosis milia (80.9%)</li>
-<li>common cold (80.4%)</li>
-<li>diffuse alopecia areata (77.0%)</li>
-<li>peptic ulcer disease (75.0%)</li>
-<li>rhinitis (72.1%)</li>
-<li>obsolete neurogenic bladder (disease) (69.0%)</li>
-<li>osteoarthritis susceptibility (68.6%)</li>
-<li>alopecia (67.8%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (64.8%)</li>
-<li>trigeminal autonomic cephalalgia (62.6%)</li>
-<li>headache disorder (61.7%)</li>
-<li>mitral valve prolapse, myxomatous (60.2%)</li>
-<li>sclerocornea, autosomal dominant (59.2%)</li>
-<li>fibrosis of extraocular muscles, congenital, with synergistic divergence (58.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Postural orthostatic tachycardia syndrome (88.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dopamine/' | relative_url }}">View full drug report →</a></p>

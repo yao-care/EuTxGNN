@@ -3,7 +3,7 @@ layout: default
 title: "Mirabegron News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mirabegron. Original indication: . 20 predicted indications."
+description: "Health news related to Mirabegron. Original indication: . 1 predicted indications."
 permalink: /news/mirabegron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirabegron/
 ---
 
 <p class="key-answer" data-question="What news is there about Mirabegron?">
-<strong>Mirabegron</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mirabegron</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Mirabegron with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>overactive bladder (disease) (93.2%)</li>
-<li>thoracic malformation (83.1%)</li>
-<li>renal-hepatic-pancreatic dysplasia (82.9%)</li>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (82.2%)</li>
-<li>Joubert syndrome with renal defect (80.9%)</li>
-<li>adult familial nephronophthisis-spastic quadriparesia syndrome (80.3%)</li>
-<li>esophageal varices without bleeding (80.0%)</li>
-<li>esophageal varices with bleeding (80.0%)</li>
-<li>hypotrichosis simplex of the scalp (79.5%)</li>
-<li>karyomegalic interstitial nephritis (79.2%)</li>
-<li>congenital hypotrichosis milia (77.5%)</li>
-<li>16q24.1 microdeletion syndrome (75.2%)</li>
-<li>primary interstitial lung disease specific to childhood (74.2%)</li>
-<li>isolated pulmonary capillaritis (73.4%)</li>
-<li>low compliance bladder (73.2%)</li>
-<li>diffuse alopecia areata (71.4%)</li>
-<li>congenital pulmonary lymphangiectasia (67.8%)</li>
-<li>polycystic kidney disease (66.7%)</li>
-<li>varicose disease (64.3%)</li>
-<li>autosomal ichthyosis syndrome with fatal disease course (63.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Thoracic malformation (83.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirabegron/' | relative_url }}">View full drug report →</a></p>

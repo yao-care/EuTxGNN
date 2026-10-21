@@ -3,7 +3,7 @@ layout: default
 title: "Inotuzumab Ozogamicin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Inotuzumab Ozogamicin. Original indication: . 20 predicted indications."
+description: "Health news related to Inotuzumab Ozogamicin. Original indication: . 1 predicted indications."
 permalink: /news/inotuzumab-ozogamicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inotuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Inotuzumab Ozogamicin?">
-<strong>Inotuzumab Ozogamicin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Inotuzumab Ozogamicin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Inotuzumab Ozogamicin with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>drug-induced osteoporosis (98.2%)</li>
-<li>HER2 positive breast carcinoma (97.8%)</li>
-<li>normal breast-like subtype of breast carcinoma (96.8%)</li>
-<li>progesterone-receptor positive breast cancer (96.8%)</li>
-<li>breast tumor luminal A or B (96.8%)</li>
-<li>progesterone-receptor negative breast cancer (96.7%)</li>
-<li>severe nonproliferative diabetic retinopathy (92.0%)</li>
-<li>primary release disorder of platelets (91.5%)</li>
-<li>pseudo-von Willebrand disease (89.8%)</li>
-<li>infectious bovine rhinotracheitis (89.7%)</li>
-<li>malignant catarrh (89.7%)</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma (89.5%)</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant (89.3%)</li>
-<li>prostatic urethra urothelial carcinoma (89.3%)</li>
-<li>renal pelvis papillary urothelial carcinoma (89.0%)</li>
-<li>Glanzmann thrombasthenia (88.6%)</li>
-<li>transitional cell carcinoma (88.0%)</li>
-<li>cytomegalovirus infection (86.7%)</li>
-<li>amenorrhea (disease) (86.6%)</li>
-<li>benign neoplasm of tongue (85.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Drug-induced osteoporosis (98.2%)</li>
 </ul></li>
 </ul>
 

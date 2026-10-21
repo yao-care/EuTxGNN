@@ -3,7 +3,7 @@ layout: default
 title: "Lanadelumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lanadelumab. Original indication: . 20 predicted indications."
+description: "Health news related to Lanadelumab. Original indication: . 1 predicted indications."
 permalink: /news/lanadelumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lanadelumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lanadelumab?">
-<strong>Lanadelumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Lanadelumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Lanadelumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>C1 inhibitor deficiency (100.0%)</li>
-<li>hereditary angioedema with C1Inh deficiency (100.0%)</li>
-<li>serpinopathy with toxic serpin polymerization (100.0%)</li>
-<li>pancreatitis (99.9%)</li>
-<li>hereditary angioedema (99.6%)</li>
-<li>pseudo-von Willebrand disease (99.5%)</li>
-<li>primary release disorder of platelets (99.5%)</li>
-<li>immune-mediated necrotizing myopathy (99.3%)</li>
-<li>Glanzmann thrombasthenia (99.3%)</li>
-<li>antisynthetase syndrome (99.3%)</li>
-<li>focal myositis (99.3%)</li>
-<li>Scott syndrome (99.1%)</li>
-<li>idiopathic eosinophilic myositis (99.1%)</li>
-<li>inflammatory myopathy with abundant macrophages (99.1%)</li>
-<li>Peyronie disease (99.0%)</li>
-<li>alcoholic cardiomyopathy (98.8%)</li>
-<li>symptomatic form of hemophilia in female carriers (98.7%)</li>
-<li>familial apolipoprotein C-II deficiency (98.6%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (98.3%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lanadelumab/' | relative_url }}">View full drug report →</a></p>

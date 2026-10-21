@@ -3,7 +3,7 @@ layout: default
 title: "Riluzole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Riluzole. Original indication: . 20 predicted indications."
+description: "Health news related to Riluzole. Original indication: . 1 predicted indications."
 permalink: /news/riluzole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riluzole/
 ---
 
 <p class="key-answer" data-question="What news is there about Riluzole?">
-<strong>Riluzole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Riluzole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Riluzole with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
-<li>amyotrophic lateral sclerosis (100.0%)</li>
-<li>axial spondylometaphyseal dysplasia (100.0%)</li>
-<li>lower motor neuron syndrome with late-adult onset (100.0%)</li>
-<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (100.0%)</li>
-<li>lethal arthrogryposis-anterior horn cell disease syndrome (100.0%)</li>
-<li>monomelic amyotrophy (100.0%)</li>
-<li>Mills syndrome (100.0%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (100.0%)</li>
-<li>autosomal dominant mitochondrial myopathy with exercise intolerance (100.0%)</li>
-<li>amyotrohpic lateral sclerosis type 22 (100.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.7%)</li>
-<li>hydranencephaly (disease) (99.7%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.7%)</li>
-<li>schizophrenia (99.7%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.6%)</li>
-<li>atypical glycine encephalopathy (99.6%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.6%)</li>
-<li>myopia 26, X-linked, female-limited (99.5%)</li>
-<li>syndromic myopia (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/riluzole/' | relative_url }}">View full drug report →</a></p>

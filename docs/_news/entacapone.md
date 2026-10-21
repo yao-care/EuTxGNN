@@ -3,7 +3,7 @@ layout: default
 title: "Entacapone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Entacapone. Original indication: . 20 predicted indications."
+description: "Health news related to Entacapone. Original indication: . 1 predicted indications."
 permalink: /news/entacapone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,35 +25,22 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>juvenile onset Parkinson disease 19A (100.0%)</li>
-<li>hereditary late onset Parkinson disease (99.9%)</li>
-<li>atypical juvenile parkinsonism (99.8%)</li>
-<li>X-linked parkinsonism-spasticity syndrome (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>PLA2G6-associated neurodegeneration (99.8%)</li>
-<li>Rasmussen subacute encephalitis (99.7%)</li>
-<li>Parkinson disease (99.7%)</li>
-<li>myelitis (99.6%)</li>
-<li>paralysis agitans, juvenile, of Hunt (99.6%)</li>
-<li>parkinsonian-pyramidal syndrome (99.5%)</li>
-<li>hemiparkinsonism-hemiatrophy syndrome (99.5%)</li>
-<li>transaldolase deficiency (99.4%)</li>
-<li>early-onset parkinsonism-intellectual disability syndrome (99.3%)</li>
-<li>lethal infantile mitochondrial myopathy (99.3%)</li>
-<li>Lewy body dementia (99.2%)</li>
-<li>fructose-1,6-bisphosphatase deficiency (99.2%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.1%)</li>
-<li>progressive supranuclear palsy-corticobasal syndrome (99.0%)</li>
-<li>X-linked intellectual disability-ataxia-apraxia syndrome (99.0%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

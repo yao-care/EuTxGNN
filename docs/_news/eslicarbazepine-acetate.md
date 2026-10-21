@@ -3,7 +3,7 @@ layout: default
 title: "Eslicarbazepine Acetate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eslicarbazepine Acetate. Original indication: . 20 predicted indications."
+description: "Health news related to Eslicarbazepine Acetate. Original indication: . 1 predicted indications."
 permalink: /news/eslicarbazepine-acetate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine-acetate/
 ---
 
 <p class="key-answer" data-question="What news is there about Eslicarbazepine Acetate?">
-<strong>Eslicarbazepine Acetate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Eslicarbazepine Acetate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Eslicarbazepine Acetate with
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>partial epilepsy (99.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (98.7%)</li>
-<li>status epilepticus (98.7%)</li>
-<li>restless legs syndrome (98.5%)</li>
-<li>guanidinoacetate methyltransferase deficiency (98.5%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (98.3%)</li>
-<li>visual epilepsy (98.3%)</li>
-<li>beta-ketothiolase deficiency (98.2%)</li>
-<li>eating seizures (97.5%)</li>
-<li>audiogenic seizures (97.5%)</li>
-<li>orgasm-induced seizures (97.5%)</li>
-<li>startle epilepsy (97.5%)</li>
-<li>thinking seizures (97.5%)</li>
-<li>micturation-induced seizures (97.5%)</li>
-<li>Rett syndrome, congenital variant (97.2%)</li>
-<li>14q12 microdeletion syndrome (97.0%)</li>
-<li>reading seizures (96.9%)</li>
-<li>trigeminal nerve neoplasm (95.9%)</li>
-<li>partial motor epilepsy (95.3%)</li>
-<li>epilepsy (92.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Adolescent/adult onset autosomal dominant epilepsy with auditory features (98.7%)</li>
 </ul></li>
 </ul>
 

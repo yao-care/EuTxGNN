@@ -3,7 +3,7 @@ layout: default
 title: "Mepolizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mepolizumab. Original indication: The only supporting report is a single case (PMID .... 20 predicted indications."
+description: "Health news related to Mepolizumab. Original indication: The only supporting report is a single case (PMID .... 1 predicted indications."
 permalink: /news/mepolizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mepolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Mepolizumab?">
-<strong>Mepolizumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Mepolizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Mepolizumab with the latest 
 <ul>
 <li><strong>Original indication</strong>: The only supporting report is a single case (PMID 28648630). It describes a steroid-resistant hypereosinophilic immune diathesis that resolved with mepolizumab, together with improvement of a mixed...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>thrombocytopenia due to immune destruction (99.7%)</li>
-<li>primary release disorder of platelets (99.6%)</li>
-<li>pseudo-von Willebrand disease (99.4%)</li>
-<li>autoimmune thrombocytopenic (99.3%)</li>
-<li>Glanzmann thrombasthenia (99.3%)</li>
-<li>Evans syndrome (98.6%)</li>
-<li>neonatal thrombocytopenia (98.6%)</li>
-<li>autosomal thrombocytopenia with normal platelets (98.4%)</li>
-<li>filariasis (97.7%)</li>
-<li>mixed-type autoimmune hemolytic anemia (96.6%)</li>
-<li>drug-induced autoimmune hemolytic anemia (96.4%)</li>
-<li>cyclic hematopoiesis (96.3%)</li>
-<li>proteinuria (95.9%)</li>
-<li>syndromic constitutional thrombocytopenia (95.9%)</li>
-<li>neonatal autoimmune hemolytic anemia (95.8%)</li>
-<li>paroxysmal nocturnal hemoglobinuria (95.5%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (95.3%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (94.6%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (94.4%)</li>
-<li>Scott syndrome (94.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Thrombocytopenia due to immune destruction (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mepolizumab/' | relative_url }}">View full drug report →</a></p>

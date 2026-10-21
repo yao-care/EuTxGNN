@@ -3,7 +3,7 @@ layout: default
 title: "Levodopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levodopa. Original indication: . 5 predicted indications."
+description: "Health news related to Levodopa. Original indication: . 6 predicted indications."
 permalink: /news/levodopa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Levodopa</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>Rasmussen subacute encephalitis (99.1%)</li>
 <li>Multiple system atrophy, parkinsonian type (97.0%)</li>
 <li>PLA2G6-associated neurodegeneration (98.8%)</li>
 <li>Lewy body dementia (97.2%)</li>
@@ -36,9 +37,15 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "Certolizumab Pegol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Certolizumab Pegol. Original indication: . 20 predicted indications."
+description: "Health news related to Certolizumab Pegol. Original indication: . 1 predicted indications."
 permalink: /news/certolizumab-pegol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/certolizumab-pegol/
 ---
 
 <p class="key-answer" data-question="What news is there about Certolizumab Pegol?">
-<strong>Certolizumab Pegol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Certolizumab Pegol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Certolizumab Pegol with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>ankylosing spondylitis (99.8%)</li>
-<li>rheumatoid vasculitis (99.8%)</li>
-<li>hypermobility of coccyx (99.8%)</li>
-<li>inflammatory spondylopathy (99.7%)</li>
-<li>Kummell disease (99.7%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.7%)</li>
-<li>spondyloarthropathy, susceptibility to (99.6%)</li>
-<li>vertebral disease (99.3%)</li>
-<li>rheumatoid arthritis (97.8%)</li>
-<li>mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency (96.8%)</li>
-<li>brachydactyly-syndactyly syndrome (96.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (95.7%)</li>
-<li>inflammatory bowel disease (95.7%)</li>
-<li>tenosynovitis (95.7%)</li>
-<li>polyp of vocal cord (95.2%)</li>
-<li>polyp of middle ear (95.1%)</li>
-<li>epulis (94.9%)</li>
-<li>polyp of frontal sinus (94.9%)</li>
-<li>polyp of ureter (94.9%)</li>
-<li>polyp of external auditory canal (94.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid vasculitis (99.8%)</li>
 </ul></li>
 </ul>
 

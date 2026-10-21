@@ -3,7 +3,7 @@ layout: default
 title: "Bempedoic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bempedoic Acid. Original indication: . 20 predicted indications."
+description: "Health news related to Bempedoic Acid. Original indication: . 1 predicted indications."
 permalink: /news/bempedoic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bempedoic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Bempedoic Acid?">
-<strong>Bempedoic Acid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Bempedoic Acid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Bempedoic Acid with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hyperthyroidism (99.6%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.6%)</li>
-<li>malignant catarrh (99.6%)</li>
-<li>infectious bovine rhinotracheitis (99.6%)</li>
-<li>cytomegalovirus infection (99.5%)</li>
-<li>homozygous familial hypercholesterolemia (99.5%)</li>
-<li>hyperthyroxinemia (99.3%)</li>
-<li>drug-induced osteoporosis (99.2%)</li>
-<li>multiple endocrine neoplasia (99.2%)</li>
-<li>pregnancy associated osteoporosis (99.2%)</li>
-<li>postmenopausal osteoporosis (99.1%)</li>
-<li>acne (disease) (99.0%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (99.0%)</li>
-<li>Worth syndrome (98.9%)</li>
-<li>Graves disease (98.7%)</li>
-<li>hypoalphalipoproteinemia (98.7%)</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (98.7%)</li>
-<li>cholestasis (98.7%)</li>
-<li>non-syndromic visceral malformation (98.6%)</li>
-<li>biliary atresia intrahepatic (98.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hyperthyroidism (99.6%)</li>
 </ul></li>
 </ul>
 

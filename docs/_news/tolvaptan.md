@@ -3,7 +3,7 @@ layout: default
 title: "Tolvaptan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tolvaptan. Original indication: . 20 predicted indications."
+description: "Health news related to Tolvaptan. Original indication: . 1 predicted indications."
 permalink: /news/tolvaptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolvaptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolvaptan?">
-<strong>Tolvaptan</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Tolvaptan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Tolvaptan with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>polycystic kidney disease 3 with or without polycystic liver disease (100.0%)</li>
-<li>renal-hepatic-pancreatic dysplasia (100.0%)</li>
-<li>karyomegalic interstitial nephritis (100.0%)</li>
-<li>thoracic malformation (100.0%)</li>
-<li>polycystic kidney disease (100.0%)</li>
-<li>Joubert syndrome with renal defect (100.0%)</li>
-<li>adult familial nephronophthisis-spastic quadriparesia syndrome (100.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.9%)</li>
-<li>homozygous familial hypercholesterolemia (99.9%)</li>
-<li>Joubert syndrome with oculorenal defect (99.8%)</li>
-<li>Meckel syndrome, (99.8%)</li>
-<li>syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy (99.8%)</li>
-<li>hypoalphalipoproteinemia (99.8%)</li>
-<li>autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis (99.7%)</li>
-<li>congenital pulmonary lymphangiectasia (99.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polycystic kidney disease 3 with or without polycystic liver disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolvaptan/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Relugolix News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Relugolix. Original indication: . 20 predicted indications."
+description: "Health news related to Relugolix. Original indication: . 1 predicted indications."
 permalink: /news/relugolix/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/relugolix/
 ---
 
 <p class="key-answer" data-question="What news is there about Relugolix?">
-<strong>Relugolix</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Relugolix</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Relugolix with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (96.1%)</li>
-<li>Smouldering systemic mastocytosis (96.1%)</li>
-<li>systemic mastocytosis (96.1%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (95.9%)</li>
-<li>multiple endocrine neoplasia (95.3%)</li>
-<li>gastrin secretion abnormality (95.0%)</li>
-<li>leprosy (94.5%)</li>
-<li>hypertrichosis (disease) (93.2%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (93.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (92.9%)</li>
-<li>Ambras type hypertrichosis universalis congenita (92.8%)</li>
-<li>isolated genetic hair shaft abnormality (92.7%)</li>
-<li>Legionnaires' disease (92.5%)</li>
-<li>HIV infectious disease (91.9%)</li>
-<li>multidrug-resistant tuberculosis (91.4%)</li>
-<li>coronary artery disease (91.3%)</li>
-<li>Plasmodium falciparum malaria (91.0%)</li>
-<li>anomalous left coronary artery from the pulmonary artery (90.9%)</li>
-<li>abnormality of glucagon secretion (90.7%)</li>
-<li>simian immunodeficiency virus infection (90.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (96.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/relugolix/' | relative_url }}">View full drug report →</a></p>

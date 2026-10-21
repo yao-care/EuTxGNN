@@ -3,7 +3,7 @@ layout: default
 title: "Selexipag News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Selexipag. Original indication: . 20 predicted indications."
+description: "Health news related to Selexipag. Original indication: . 1 predicted indications."
 permalink: /news/selexipag/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Selexipag</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pulmonary arterial hypertension associated with congenital heart disease (98.0%)</li>
-<li>pulmonary arteriovenous malformation (disease) (98.0%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (97.8%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (97.8%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (97.8%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (97.8%)</li>
-<li>pulmonary arterial hypertension (97.7%)</li>
-<li>hypotrichosis simplex of the scalp (97.1%)</li>
-<li>congenital hypotrichosis milia (96.3%)</li>
-<li>diffuse alopecia areata (96.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (93.8%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (93.3%)</li>
-<li>isolated genetic hair shaft abnormality (93.2%)</li>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (93.2%)</li>
-<li>telangiectasia, hereditary hemorrhagic, (93.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (93.0%)</li>
-<li>axial spondylometaphyseal dysplasia (92.8%)</li>
-<li>aleukemic mast cell leukemia (92.7%)</li>
-<li>hypertrichosis (disease) (92.4%)</li>
-<li>dermatofibrosarcoma protuberans (92.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary arterial hypertension associated with congenital heart disease (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
@@ -63,7 +44,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 

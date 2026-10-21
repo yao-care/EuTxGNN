@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Glulisine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Glulisine. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin Glulisine. Original indication: . 1 predicted indications."
 permalink: /news/insulin-glulisine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-glulisine/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Glulisine?">
-<strong>Insulin Glulisine</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Glulisine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Insulin Glulisine with the l
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Type 1 diabetes mellitus (99.5%)</li>
+</ul></li>
 </ul>
 
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Reteplase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Reteplase. Original indication: urrently there are **0 registered clinical trials*.... 20 predicted indications."
+description: "Health news related to Reteplase. Original indication: urrently there are **0 registered clinical trials*.... 1 predicted indications."
 permalink: /news/reteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/reteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Reteplase?">
-<strong>Reteplase</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Reteplase</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,47 +26,20 @@ This page combines the AI-predicted indications for Reteplase with the latest he
 <ul>
 <li><strong>Original indication</strong>: urrently there are **0 registered clinical trials** and **1 publication** (a case report) directly supporting this prediction.</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>myocardial infarction (99.9%)</li>
-<li>coronary thrombosis (99.9%)</li>
-<li>posteroinferior myocardial infarction (99.9%)</li>
-<li>posterolateral myocardial infarction (99.9%)</li>
-<li>septal myocardial infarction (99.9%)</li>
-<li>congenital coronary artery anomaly (99.8%)</li>
-<li>hemoglobinopathy (99.7%)</li>
-<li>coronary stenosis (99.6%)</li>
-<li>myocardial infarction (disease) (99.6%)</li>
-<li>heparin cofactor 2 deficiency (99.5%)</li>
-<li>partial deletion of the short arm of chromosome 16 (99.3%)</li>
-<li>beta-thalassemia with other manifestations (99.3%)</li>
-<li>antithrombin deficiency type 2 (99.2%)</li>
-<li>hemolytic anemia due to glucophosphate isomerase deficiency (99.2%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.2%)</li>
-<li>pyropoikilocytosis, hereditary (99.2%)</li>
-<li>pyruvate kinase deficiency of red cells (99.1%)</li>
-<li>thrombophilia (99.1%)</li>
-<li>pulmonary embolism (disease) (98.1%)</li>
-<li>primary release disorder of platelets (95.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Posterolateral myocardial infarction (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/reteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
-
-### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
-2026-10-16 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

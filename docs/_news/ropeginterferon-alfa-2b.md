@@ -3,7 +3,7 @@ layout: default
 title: "Ropeginterferon Alfa-2B News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ropeginterferon Alfa-2B. Original indication: . 0 predicted indications."
+description: "Health news related to Ropeginterferon Alfa-2B. Original indication: . 1 predicted indications."
 permalink: /news/ropeginterferon-alfa-2b/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropeginterferon-alfa-2b/
 ---
 
 <p class="key-answer" data-question="What news is there about Ropeginterferon Alfa-2B?">
-<strong>Ropeginterferon Alfa-2B</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ropeginterferon Alfa-2B</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Ropeginterferon Alfa-2B with
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Laubry-Pezzi syndrome (99.9%)</li>
+</ul></li>
 </ul>
 
 </div>

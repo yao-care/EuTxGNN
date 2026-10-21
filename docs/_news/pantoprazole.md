@@ -3,7 +3,7 @@ layout: default
 title: "Pantoprazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pantoprazole. Original indication: . 20 predicted indications."
+description: "Health news related to Pantoprazole. Original indication: . 1 predicted indications."
 permalink: /news/pantoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Pantoprazole?">
-<strong>Pantoprazole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Pantoprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Pantoprazole with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>peptic esophagitis (99.9%)</li>
-<li>multiple endocrine neoplasia (99.8%)</li>
-<li>active peptic ulcer disease (99.7%)</li>
-<li>peptic ulcer perforation (99.6%)</li>
-<li>gastrojejunal ulcer (99.6%)</li>
-<li>duodenogastric reflux (99.3%)</li>
-<li>esophagitis (disease) (99.2%)</li>
-<li>duodenal obstruction (99.2%)</li>
-<li>duodenal ulcer (disease) (99.2%)</li>
-<li>acne (disease) (98.3%)</li>
-<li>gastric ulcer (disease) (98.0%)</li>
-<li>Zollinger-Ellison syndrome (97.9%)</li>
-<li>Smouldering systemic mastocytosis (97.4%)</li>
-<li>gastrin secretion abnormality (96.8%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (96.6%)</li>
-<li>gastroduodenitis (96.5%)</li>
-<li>peptic ulcer disease (93.1%)</li>
-<li>systemic mastocytosis (92.6%)</li>
-<li>abnormality of glucagon secretion (84.8%)</li>
-<li>leather-bottle stomach (84.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Active peptic ulcer disease (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">View full drug report →</a></p>

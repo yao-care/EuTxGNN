@@ -3,7 +3,7 @@ layout: default
 title: "Cerliponase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cerliponase Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Cerliponase Alfa. Original indication: . 1 predicted indications."
 permalink: /news/cerliponase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cerliponase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Cerliponase Alfa?">
-<strong>Cerliponase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Cerliponase Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Cerliponase Alfa with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>Scheie syndrome (100.0%)</li>
-<li>Hurler syndrome (100.0%)</li>
-<li>lysosomal storage disease with skeletal involvement (100.0%)</li>
-<li>cholesteryl ester storage disease (99.9%)</li>
-<li>Gaucher disease (99.9%)</li>
-<li>familial encephalopathy with neuroserpin inclusion bodies (99.9%)</li>
-<li>infantile neuronal ceroid lipofuscinosis (99.9%)</li>
-<li>Wolman disease with hypolipoproteinemia and acanthocytosis (99.9%)</li>
-<li>myoclonic epilepsy, juvenile, susceptibility to (99.9%)</li>
-<li>proximal myopathy with extrapyramidal signs (99.9%)</li>
-<li>autosomal ichthyosis syndrome with fatal disease course (99.9%)</li>
-<li>Wolman disease (99.9%)</li>
-<li>adolescent/adult-onset epilepsy syndrome (99.9%)</li>
-<li>Tay-Sachs disease (99.9%)</li>
-<li>adolescence-adult electroclinical syndrome (99.9%)</li>
-<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant (99.9%)</li>
-<li>adult Krabbe disease (99.9%)</li>
-<li>Sanfilippo syndrome (99.8%)</li>
-<li>lysosomal acid lipase deficiency (99.8%)</li>
-<li>skeletal muscle disease (99.8%)</li>
 </ul></li>
 </ul>
 

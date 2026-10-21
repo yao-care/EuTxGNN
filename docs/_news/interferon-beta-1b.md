@@ -3,7 +3,7 @@ layout: default
 title: "Interferon Beta-1B News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Interferon Beta-1B. Original indication: . 20 predicted indications."
+description: "Health news related to Interferon Beta-1B. Original indication: . 1 predicted indications."
 permalink: /news/interferon-beta-1b/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/interferon-beta-1b/
 ---
 
 <p class="key-answer" data-question="What news is there about Interferon Beta-1B?">
-<strong>Interferon Beta-1B</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Interferon Beta-1B</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Interferon Beta-1B with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>relapsing-remitting multiple sclerosis (100.0%)</li>
-<li>hairy cell leukemia (99.2%)</li>
-<li>autoimmune disease of central nervous system (99.0%)</li>
-<li>CNS demyelinating autoimmune disease (98.9%)</li>
-<li>multiple sclerosis, susceptibility to (98.8%)</li>
-<li>fetal methylmercury syndrome (98.5%)</li>
-<li>hepatic infarction (98.2%)</li>
-<li>progressive multiple sclerosis (98.0%)</li>
-<li>hairy cell leukemia variant (97.9%)</li>
-<li>extramammary Paget disease (97.9%)</li>
-<li>peliosis hepatis (97.7%)</li>
-<li>hepatic veno-occlusive disease (97.4%)</li>
-<li>rete ovarii cystadenoma (97.2%)</li>
-<li>borderline ovarian serous tumor (97.2%)</li>
-<li>ovarian benign neoplasm (97.1%)</li>
-<li>ovarian papillary cystadenoma (97.1%)</li>
-<li>ovarian mucinous cystadenofibroma (97.1%)</li>
-<li>syndrome with combined immunodeficiency (97.1%)</li>
-<li>serous neoplasm (97.0%)</li>
-<li>malignant ovarian Brenner tumor (97.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hairy cell leukemia (99.2%)</li>
 </ul></li>
 </ul>
 

@@ -3,7 +3,7 @@ layout: default
 title: "Fluticasone Furoate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fluticasone Furoate. Original indication: . 20 predicted indications."
+description: "Health news related to Fluticasone Furoate. Original indication: . 1 predicted indications."
 permalink: /news/fluticasone-furoate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone-furoate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluticasone Furoate?">
-<strong>Fluticasone Furoate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fluticasone Furoate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Fluticasone Furoate with the
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>allergic asthma (100.0%)</li>
-<li>intrinsic asthma (100.0%)</li>
-<li>bronchitis (99.9%)</li>
-<li>asthma (99.9%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (99.9%)</li>
-<li>dermatitis, atopic (99.8%)</li>
-<li>contact dermatitis (99.5%)</li>
-<li>asthma-related traits, susceptibility to (99.4%)</li>
-<li>occupational dermatitis (99.3%)</li>
-<li>phototoxic dermatitis (99.1%)</li>
-<li>obstructive lung disease (98.9%)</li>
-<li>polyp of vocal cord (98.9%)</li>
-<li>polyp of middle ear (98.9%)</li>
-<li>fibroepithelial polyp (98.8%)</li>
-<li>seborrheic dermatitis (98.8%)</li>
-<li>neoplastic polyp (98.8%)</li>
-<li>atopic dermatitis (98.8%)</li>
-<li>polyp of vulva (98.8%)</li>
-<li>polyp of frontal sinus (98.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Atopic eczema (100.0%)</li>
 </ul></li>
 </ul>
 

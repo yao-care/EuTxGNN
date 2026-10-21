@@ -3,7 +3,7 @@ layout: default
 title: "Lonoctocog Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lonoctocog Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Lonoctocog Alfa. Original indication: . 1 predicted indications."
 permalink: /news/lonoctocog-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lonoctocog-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Lonoctocog Alfa?">
-<strong>Lonoctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Lonoctocog Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Lonoctocog Alfa with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pseudo-von Willebrand disease (99.8%)</li>
-<li>primary release disorder of platelets (99.8%)</li>
-<li>Glanzmann thrombasthenia (99.8%)</li>
-<li>Scott syndrome (99.4%)</li>
-<li>symptomatic form of hemophilia in female carriers (99.3%)</li>
-<li>hemophilia (99.3%)</li>
-<li>acquired coagulation factor deficiency (98.8%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (98.7%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (98.6%)</li>
-<li>esophageal varices without bleeding (98.4%)</li>
-<li>esophageal varices with bleeding (98.4%)</li>
-<li>thrombotic thrombocytopenic purpura (98.1%)</li>
-<li>hemophilia A with vascular abnormality (97.7%)</li>
-<li>varicose disease (97.6%)</li>
-<li>factor XI deficiency (97.1%)</li>
-<li>familial apolipoprotein C-II deficiency (96.5%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (96.5%)</li>
-<li>primary immunodeficiency syndrome due to p14 deficiency (96.1%)</li>
-<li>flood factor deficiency (96.0%)</li>
-<li>hemorrhagic disorder due to a platelet anomaly (95.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pseudo-von Willebrand disease (99.8%)</li>
 </ul></li>
 </ul>
 

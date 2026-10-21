@@ -3,7 +3,7 @@ layout: default
 title: "Zanamivir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zanamivir. Original indication: . 20 predicted indications."
+description: "Health news related to Zanamivir. Original indication: . 1 predicted indications."
 permalink: /news/zanamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zanamivir/
 ---
 
 <p class="key-answer" data-question="What news is there about Zanamivir?">
-<strong>Zanamivir</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Zanamivir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Zanamivir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pyelonephritis (99.8%)</li>
-<li>influenza, severe, susceptibility to (99.4%)</li>
-<li>disorder of tyrosine metabolism (99.0%)</li>
-<li>teratogenic Pierre Robin syndrome (98.9%)</li>
-<li>disorder of phenylalanine metabolism (98.9%)</li>
-<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (98.4%)</li>
-<li>susceptibility to HIV infection (98.4%)</li>
-<li>dengue virus, susceptibility to (98.4%)</li>
-<li>legionnaire disease, susceptibility to (98.4%)</li>
-<li>aspergillosis, susceptibility to (98.4%)</li>
-<li>Schistosoma mansoni infection, susceptibility (98.3%)</li>
-<li>influenza (98.2%)</li>
-<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (98.1%)</li>
-<li>staphylococcus aureus infection (97.9%)</li>
-<li>pyogenic bacterial infections due to MyD88 deficiency (97.8%)</li>
-<li>acute hemorrhagic encephalitis (97.8%)</li>
-<li>acute necrotizing encephalitis (97.8%)</li>
-<li>HHV-6 encephalitis (97.8%)</li>
-<li>Hendra virus infection (97.8%)</li>
-<li>equine encephalitis (97.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pyelonephritis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zanamivir/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Asfotase Alfa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Asfotase Alfa. Original indication: . 20 predicted indications."
+description: "Health news related to Asfotase Alfa. Original indication: . 1 predicted indications."
 permalink: /news/asfotase-alfa/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asfotase-alfa/
 ---
 
 <p class="key-answer" data-question="What news is there about Asfotase Alfa?">
-<strong>Asfotase Alfa</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Asfotase Alfa</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Asfotase Alfa with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (100.0%)</li>
-<li>Steel syndrome (99.9%)</li>
-<li>hypophosphatasia (99.9%)</li>
-<li>exocrine pancreatic insufficiency (99.9%)</li>
-<li>Scheie syndrome (99.8%)</li>
-<li>Hurler syndrome (99.8%)</li>
-<li>lysosomal storage disease with skeletal involvement (99.7%)</li>
-<li>familial apolipoprotein C-II deficiency (99.7%)</li>
-<li>esophageal varices with bleeding (99.7%)</li>
-<li>esophageal varices without bleeding (99.7%)</li>
-<li>cystinosis (99.7%)</li>
-<li>primary bone dysplasia (99.6%)</li>
-<li>lysosomal disease with hypertrophic cardiomyopathy (99.5%)</li>
-<li>syndromic neurometabolic disease with X-linked intellectual disability (99.5%)</li>
-<li>eyelids malposition disorder (99.5%)</li>
-<li>varicose disease (99.4%)</li>
-<li>growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant (99.4%)</li>
-<li>monosomy X (99.4%)</li>
-<li>primary bone dysplasia with increased bone density (99.3%)</li>
-<li>Sanfilippo syndrome (99.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (100.0%)</li>
 </ul></li>
 </ul>
 

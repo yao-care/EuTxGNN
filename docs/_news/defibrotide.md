@@ -3,7 +3,7 @@ layout: default
 title: "Defibrotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Defibrotide. Original indication: . 20 predicted indications."
+description: "Health news related to Defibrotide. Original indication: . 1 predicted indications."
 permalink: /news/defibrotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/defibrotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Defibrotide?">
-<strong>Defibrotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Defibrotide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Defibrotide with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>pseudo-von Willebrand disease (99.9%)</li>
-<li>primary release disorder of platelets (99.9%)</li>
-<li>Glanzmann thrombasthenia (99.9%)</li>
-<li>thrombotic thrombocytopenic purpura (99.7%)</li>
-<li>Scott syndrome (99.7%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (99.4%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (99.4%)</li>
-<li>congenital factor V deficiency (99.3%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (99.2%)</li>
-<li>thrombocytopenic purpura (99.2%)</li>
-<li>inherited thrombophilia (99.2%)</li>
-<li>hepatic infarction (99.1%)</li>
-<li>peliosis hepatis (99.0%)</li>
-<li>familial apolipoprotein C-II deficiency (98.8%)</li>
-<li>syndrome with combined immunodeficiency (98.8%)</li>
-<li>platelet-type bleeding disorder (98.7%)</li>
-<li>Ehlers-Danlos syndrome, fibronectinemic type (98.7%)</li>
-<li>hepatic veno-occlusive disease (98.7%)</li>
-<li>flood factor deficiency (98.6%)</li>
-<li>methylcobalamin deficiency type cblG (98.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pseudo-von Willebrand disease (top-ranked); best-supported alternative: thrombotic thrombocytopenic purpura (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/defibrotide/' | relative_url }}">View full drug report →</a></p>

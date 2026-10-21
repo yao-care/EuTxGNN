@@ -3,7 +3,7 @@ layout: default
 title: "Fenofibrate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fenofibrate. Original indication: . 20 predicted indications."
+description: "Health news related to Fenofibrate. Original indication: . 1 predicted indications."
 permalink: /news/fenofibrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fenofibrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenofibrate?">
-<strong>Fenofibrate</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fenofibrate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Fenofibrate with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>homozygous familial hypercholesterolemia (99.9%)</li>
-<li>obsolete familial combined hyperlipidemia (99.8%)</li>
-<li>hyperlipoproteinemia (99.7%)</li>
-<li>familial hypercholesterolemia (99.6%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.6%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.5%)</li>
-<li>hyperlipidemia (99.5%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (99.4%)</li>
-<li>familial hyperlipidemia (99.4%)</li>
-<li>hyperlipidemia, familial combined, LPL related (99.4%)</li>
-<li>hypoalphalipoproteinemia (99.4%)</li>
-<li>hypercholesterolemia, autosomal dominant (99.0%)</li>
-<li>hypolipoproteinemia (disease) (98.7%)</li>
-<li>hyperalphalipoproteinemia (97.6%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (97.0%)</li>
-<li>HIV infectious disease (97.0%)</li>
-<li>sitosterolemia (96.9%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (96.8%)</li>
-<li>obsolete susceptibility to ischemic stroke (96.7%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (96.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Homozygous familial hypercholesterolemia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenofibrate/' | relative_url }}">View full drug report →</a></p>

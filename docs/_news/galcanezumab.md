@@ -3,7 +3,7 @@ layout: default
 title: "Galcanezumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Galcanezumab. Original indication: . 20 predicted indications."
+description: "Health news related to Galcanezumab. Original indication: . 1 predicted indications."
 permalink: /news/galcanezumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galcanezumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Galcanezumab?">
-<strong>Galcanezumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Galcanezumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Galcanezumab with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>heparin cofactor 2 deficiency (99.5%)</li>
-<li>antithrombin deficiency type 2 (99.4%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.4%)</li>
-<li>thrombophilia (99.0%)</li>
-<li>migraine with brainstem aura (98.3%)</li>
-<li>migraine disorder (98.1%)</li>
-<li>atrophoderma vermiculata (91.5%)</li>
-<li>ulerythema ophryogenesis (90.3%)</li>
-<li>migraine with or without aura, susceptibility to (89.4%)</li>
-<li>hemorrhagic disease of newborn (81.3%)</li>
-<li>prekallikrein deficiency (72.2%)</li>
-<li>thrombotic disorder due to a platelet anomaly (70.7%)</li>
-<li>hypervitaminosis (70.3%)</li>
-<li>sciatic neuropathy (70.2%)</li>
-<li>obesity disorder (68.9%)</li>
-<li>monogenic obesity (68.6%)</li>
-<li>obsolete hypertelorism (disease) (66.7%)</li>
-<li>frontorhiny (63.8%)</li>
-<li>thrombophilia due to protein S deficiency, autosomal recessive (62.9%)</li>
-<li>thrombomodulin-related bleeding disorder (62.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heparin cofactor 2 deficiency (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/galcanezumab/' | relative_url }}">View full drug report →</a></p>

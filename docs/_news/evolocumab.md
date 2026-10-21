@@ -3,7 +3,7 @@ layout: default
 title: "Evolocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Evolocumab. Original indication: . 20 predicted indications."
+description: "Health news related to Evolocumab. Original indication: . 1 predicted indications."
 permalink: /news/evolocumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/evolocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Evolocumab?">
-<strong>Evolocumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Evolocumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Evolocumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>symptomatic form of hemophilia in female carriers (99.8%)</li>
-<li>familial apolipoprotein C-II deficiency (99.5%)</li>
-<li>thrombocytopenic purpura (99.4%)</li>
-<li>factor XI deficiency (99.3%)</li>
-<li>hemophilia A with vascular abnormality (99.2%)</li>
-<li>disease of catalytic activity (99.1%)</li>
-<li>hemorrhagic disease of newborn (98.9%)</li>
-<li>ichthyosis, X-linked, without steroid sulfatase deficiency (98.8%)</li>
-<li>inherited thrombophilia (98.8%)</li>
-<li>disorder of other vitamins and cofactors metabolism and transport (98.8%)</li>
-<li>adenosine deaminase deficiency (98.8%)</li>
-<li>xanthomatosis (disease) (98.8%)</li>
-<li>esophageal varices without bleeding (98.8%)</li>
-<li>esophageal varices with bleeding (98.8%)</li>
-<li>46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect (98.7%)</li>
-<li>3-hydroxyacyl-CoA dehydrogenase deficiency (98.7%)</li>
-<li>cholesterol catabolic process disease (98.7%)</li>
-<li>coagulation protein disease (98.7%)</li>
-<li>46,XY disorder of sex development due to a cholesterol synthesis defect (98.6%)</li>
-<li>neutral lipid storage disease (98.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Symptomatic form of hemophilia in female carriers (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/evolocumab/' | relative_url }}">View full drug report →</a></p>

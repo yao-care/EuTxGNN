@@ -3,7 +3,7 @@ layout: default
 title: "Gemtuzumab Ozogamicin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Gemtuzumab Ozogamicin. Original indication: . 21 predicted indications."
+description: "Health news related to Gemtuzumab Ozogamicin. Original indication: . 1 predicted indications."
 permalink: /news/gemtuzumab-ozogamicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gemtuzumab-ozogamicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Gemtuzumab Ozogamicin?">
-<strong>Gemtuzumab Ozogamicin</strong> currently has <strong>0 news articles</strong>, with 21 predicted indications.
+<strong>Gemtuzumab Ozogamicin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,28 +25,8 @@ This page combines the AI-predicted indications for Gemtuzumab Ozogamicin with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (21)</strong>:<ul>
-<li>acute myeloid leukemia with t(8;21)(q22;q22) translocation (98.5%)</li>
-<li>acute myeloid leukemia with CEBPA somatic mutations (98.4%)</li>
-<li>acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) (98.3%)</li>
-<li>Richter syndrome (98.1%)</li>
-<li>bulbar polio (97.9%)</li>
-<li>chronic myelogenous leukemia, BCR-ABL1 positive (97.9%)</li>
-<li>metastatic neoplasm (97.3%)</li>
-<li>malignant spiradenoma (97.2%)</li>
-<li>5q35 microduplication syndrome (97.2%)</li>
-<li>myeloid leukemia (97.0%)</li>
-<li>acute myeloid leukemia with t(8;16)(p11;p13) translocation (96.5%)</li>
-<li>acute myeloid leukemia with t(9;11)(p22;q23) (96.2%)</li>
-<li>acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor (95.9%)</li>
-<li>acute myeloid leukemia with t(6;9)(p23;q34) (95.9%)</li>
-<li>therapy related acute myeloid leukemia and myelodysplastic syndrome (95.8%)</li>
-<li>neuralgic amyotrophy (95.7%)</li>
-<li>amyotrophic neuralgia (95.4%)</li>
-<li>acute myeloid leukemia with minimal differentiation (95.3%)</li>
-<li>inherited acute myeloid leukemia (95.2%)</li>
-<li>acute lymphoblastic/lymphocytic leukemia (95.1%)</li>
-<li>acute myeloid leukemia and myelodysplastic syndromes related to alkylating agent (93.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic myelogenous leukemia, BCR-ABL1 positive (TxGNN rank 3; ranks 1 and 2 have no credible support) (97.9%)</li>
 </ul></li>
 </ul>
 

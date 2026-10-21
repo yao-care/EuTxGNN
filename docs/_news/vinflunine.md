@@ -3,7 +3,7 @@ layout: default
 title: "Vinflunine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vinflunine. Original indication: . 20 predicted indications."
+description: "Health news related to Vinflunine. Original indication: . 1 predicted indications."
 permalink: /news/vinflunine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinflunine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vinflunine?">
-<strong>Vinflunine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vinflunine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Vinflunine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>amyotrophic lateral sclerosis (99.0%)</li>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (98.7%)</li>
-<li>Mills syndrome (98.7%)</li>
-<li>amyotrohpic lateral sclerosis type 22 (98.6%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (98.6%)</li>
-<li>axial spondylometaphyseal dysplasia (98.6%)</li>
-<li>lower motor neuron syndrome with late-adult onset (98.5%)</li>
-<li>autosomal dominant mitochondrial myopathy with exercise intolerance (98.4%)</li>
-<li>monomelic amyotrophy (98.4%)</li>
-<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (98.2%)</li>
-<li>lethal arthrogryposis-anterior horn cell disease syndrome (98.1%)</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma (95.6%)</li>
-<li>prostatic urethra urothelial carcinoma (95.5%)</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant (95.4%)</li>
-<li>renal pelvis papillary urothelial carcinoma (95.4%)</li>
-<li>transitional cell carcinoma (93.7%)</li>
-<li>immunodeficiency without anhidrotic ectodermal dysplasia (91.0%)</li>
-<li>SMARCA4-deficient sarcoma of thorax (91.0%)</li>
-<li>liposarcoma (90.9%)</li>
-<li>ovarian myxoid liposarcoma (90.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Amyotrophic lateral sclerosis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinflunine/' | relative_url }}">View full drug report →</a></p>

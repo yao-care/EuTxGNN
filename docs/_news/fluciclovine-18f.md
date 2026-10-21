@@ -3,7 +3,7 @@ layout: default
 title: "Fluciclovine (18F) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fluciclovine (18F). Original indication: . 20 predicted indications."
+description: "Health news related to Fluciclovine (18F). Original indication: . 1 predicted indications."
 permalink: /news/fluciclovine-18f/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluciclovine-18f/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluciclovine (18F)?">
-<strong>Fluciclovine (18F)</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Fluciclovine (18F)</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Fluciclovine (18F) with the 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>trichotillomania (97.9%)</li>
-<li>Tourette syndrome (97.7%)</li>
-<li>migraine disorder (97.2%)</li>
-<li>migraine with brainstem aura (96.8%)</li>
-<li>erectile dysfunction (disease) (96.3%)</li>
-<li>postural orthostatic tachycardia syndrome (96.1%)</li>
-<li>multifocal atrial tachycardia (disease) (95.6%)</li>
-<li>His bundle tachycardia (95.5%)</li>
-<li>idiopathic neonatal atrial flutter (95.2%)</li>
-<li>hyperthyroidism (94.5%)</li>
-<li>multiple endocrine neoplasia (94.2%)</li>
-<li>atypical coarctation of aorta (93.9%)</li>
-<li>cauda equina syndrome (93.7%)</li>
-<li>hyperthyroxinemia (93.6%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (93.5%)</li>
-<li>anaphylaxis (93.2%)</li>
-<li>atrophoderma vermiculata (93.2%)</li>
-<li>thyroid gland disease (93.1%)</li>
-<li>open-angle glaucoma (93.0%)</li>
-<li>ulerythema ophryogenesis (92.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trichotillomania (97.9%)</li>
 </ul></li>
 </ul>
 

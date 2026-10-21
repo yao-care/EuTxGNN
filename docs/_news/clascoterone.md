@@ -3,7 +3,7 @@ layout: default
 title: "Clascoterone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Clascoterone. Original indication: . 20 predicted indications."
+description: "Health news related to Clascoterone. Original indication: . 1 predicted indications."
 permalink: /news/clascoterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clascoterone/
 ---
 
 <p class="key-answer" data-question="What news is there about Clascoterone?">
-<strong>Clascoterone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Clascoterone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Clascoterone with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>candidiasis (94.8%)</li>
-<li>migraine disorder (92.1%)</li>
-<li>migraine with brainstem aura (91.4%)</li>
-<li>migraine with or without aura, susceptibility to (89.4%)</li>
-<li>leprosy (88.9%)</li>
-<li>atrophoderma vermiculata (86.8%)</li>
-<li>oral candidiasis (86.7%)</li>
-<li>progeria-short stature-pigmented nevi syndrome (86.0%)</li>
-<li>adrenal gland hyperfunction (85.9%)</li>
-<li>multiple endocrine neoplasia (85.5%)</li>
-<li>ulerythema ophryogenesis (85.3%)</li>
-<li>progeroid syndrome, Petty type (85.2%)</li>
-<li>commissural lip fistula (84.9%)</li>
-<li>osteoradionecrosis of the mandible (84.9%)</li>
-<li>burning mouth syndrome (84.8%)</li>
-<li>oral leukoedema (84.8%)</li>
-<li>hyperargininemia (84.8%)</li>
-<li>carbamoyl phosphate synthetase I deficiency disease (84.8%)</li>
-<li>Leydig cell hypoplasia due to LH resistance (82.7%)</li>
-<li>bone marrow neoplasm (82.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Candidiasis (94.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clascoterone/' | relative_url }}">View full drug report →</a></p>

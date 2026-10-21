@@ -3,7 +3,7 @@ layout: default
 title: "Paliperidone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Paliperidone. Original indication: . 20 predicted indications."
+description: "Health news related to Paliperidone. Original indication: . 1 predicted indications."
 permalink: /news/paliperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paliperidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Paliperidone?">
-<strong>Paliperidone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Paliperidone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Paliperidone with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>schizophrenia (100.0%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>schizophreniform disorder (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>hydranencephaly (disease) (99.9%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>psychotic disorder (99.9%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>atypical glycine encephalopathy (99.8%)</li>
-<li>treatment-refractory schizophrenia (99.8%)</li>
-<li>early-onset schizophrenia (99.8%)</li>
-<li>mental disorder (99.6%)</li>
-<li>REM sleep behavior disorder (99.5%)</li>
-<li>psychosexual disorder (99.4%)</li>
-<li>schizoaffective disorder (99.0%)</li>
-<li>manic bipolar affective disorder (98.9%)</li>
-<li>postpartum psychosis (98.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paliperidone/' | relative_url }}">View full drug report →</a></p>

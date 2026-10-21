@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alirocumab. Original indication: . 20 predicted indications."
+description: "Health news related to Alirocumab. Original indication: . 1 predicted indications."
 permalink: /news/alirocumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>
-<li>disorder of other vitamins and cofactors metabolism and transport (99.4%)</li>
-<li>xanthomatosis (disease) (99.4%)</li>
-<li>46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect (99.4%)</li>
-<li>cholesterol catabolic process disease (99.4%)</li>
-<li>46,XY disorder of sex development due to a cholesterol synthesis defect (99.3%)</li>
-<li>dappled diaphyseal dysplasia (99.3%)</li>
-<li>neutral lipid storage disease (99.3%)</li>
-<li>3-hydroxyacyl-CoA dehydrogenase deficiency (99.3%)</li>
-<li>spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder (99.3%)</li>
-<li>thrombocytopenic purpura (99.2%)</li>
-<li>chondrodysplasia punctata, brachytelephalangic, autosomal (99.2%)</li>
-<li>chondrodysplasia punctata, tibial-metacarpal type (99.2%)</li>
-<li>Astley-Kendall dysplasia (99.2%)</li>
-<li>spastic paraplegia (99.0%)</li>
-<li>adenosine deaminase deficiency (99.0%)</li>
-<li>syndromic dyslipidemia (98.8%)</li>
-<li>hemorrhagic disease of newborn (98.7%)</li>
-<li>familial apolipoprotein C-II deficiency (98.7%)</li>
-<li>severe combined immunodeficiency due to LCK deficiency (98.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>

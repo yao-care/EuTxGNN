@@ -3,7 +3,7 @@ layout: default
 title: "Simvastatin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Simvastatin. Original indication: . 20 predicted indications."
+description: "Health news related to Simvastatin. Original indication: . 1 predicted indications."
 permalink: /news/simvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>6 news articles</strong>, with 20 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>homozygous familial hypercholesterolemia (100.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.9%)</li>
-<li>hyperlipidemia, familial combined, LPL related (99.9%)</li>
-<li>hyperlipoproteinemia (99.8%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.7%)</li>
-<li>familial hypercholesterolemia (99.6%)</li>
-<li>brain stem infarction (99.4%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.4%)</li>
-<li>hypercholesterolemia, autosomal dominant (99.4%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.3%)</li>
-<li>HIV infectious disease (99.2%)</li>
-<li>cerebral infarction (99.2%)</li>
-<li>hypoalphalipoproteinemia (99.1%)</li>
-<li>ABri amyloidosis (99.1%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
-<li>fibroma of prostate (98.9%)</li>
-<li>feline acquired immunodeficiency syndrome (98.8%)</li>
-<li>simian immunodeficiency virus infection (98.8%)</li>
-<li>cerebral artery occlusion (98.7%)</li>
-<li>benign reproductive system neoplasm (98.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Familial hypercholesterolemia (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
@@ -53,19 +34,19 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 
 ## Related News (6)
 
+### [Schlaganfall: Warum das Gedächtnis schon Jahre vorher Hinweise geben könnte](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVk2Rml3aDMtZDE5Q0F3NHF5LVlHN19GVGxXZ3hwcGh3VzZLeHplUzdFMEFwN0Y0aEhFcTJMTzktc3lnWWY0OFB1TzVfVXJRS0RQQUFpR1Iwc01namdXOFd2dE8xcjdYdWRUVGtYY05aTGhFVk1CV0d4UkxxeEpNZzNxX3pRUjFNYmp6U3R4eGE1WjJWTEZCNlVnU3UwWUhxZ1JLXy1lYWV4QkFQRUxWYUZEMG9YZmxaRkpENGZ6MHJLX3pSYlRrZXBLalpzeTRQS1hIeFVNUXA?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVk2Rml3aDMtZDE5Q0F3NHF5LVlHN19GVGxXZ3hwcGh3VzZLeHplUzdFMEFwN0Y0aEhFcTJMTzktc3lnWWY0OFB1TzVfVXJRS0RQQUFpR1Iwc01namdXOFd2dE8xcjdYdWRUVGtYY05aTGhFVk1CV0d4UkxxeEpNZzNxX3pRUjFNYmp6U3R4eGE1WjJWTEZCNlVnU3UwWUhxZ1JLXy1lYWV4QkFQRUxWYUZEMG9YZmxaRkpENGZ6MHJLX3pSYlRrZXBLalpzeTRQS1hIeFVNUXA?oc=5)
+
+---
+
 ### [Va in pensione e poco dopo arriva un infarto o un ictus: cosa succede davvero al nostro corpo quando smettiamo di lavorare?](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
 
 2026-10-20 <span class="news-indication-tag">ictus</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMijgJBVV95cUxObEo0T3FHQ1hZYk9PV3FlOU5vSHVLSW5NODl0YXh3S1JsWUZRdWQ5dE9wRlNOWnI2VC04eDl6VDY3RlVDSndIczhoOXU1aFdYZE52VUhsVm9FN3JGdDEtMXJzQk8wS3VtNHkwVnkxbURUSVVaRW1fMlVEWl9CTWxsZDlXN3hoXzhkR3ZiZHhxNGREZEdqTURpYWZSbk1ONTdIV09Gb0pkXzVpZ2RoR2l3NDFiOVBia0xSbS1ySC00bmZtdGNFdTBFRXVJNVJGakdjU1pfN3hsR2Y2V3dXejhNQkY5dEhuc09CbnRxQXB1Yk1QaE5SQVVaM2RzVkY3djNqQ2hkTmg1VUp6REMzS0E?oc=5)
-
----
-
-### [Forscher nutzen ChatGPT-ähnliche KI, um Schlaganfallrisiko aus DNA zu bestimmen](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWZqTjdIa091TDN3TzZaRGxLaXVCMTkzNlF2dkJmRGdzMGxrWVg0VlQ2bXMzdWdWZUhRSGFNcm1BeFhRT0RLb3ltdHZQdHdQdXVQNnF4bmpkUzBxS0UxWGtubmxlVmdnczllR1pIVUwtOGJrdlU4YWdjMWNIdURwb1JpT1AtdGZDVnFzYzIzdEhOajZlam1wN1dyQW5FZUIyMk1ZbjA3NjRBR3lzYU9WcG9fYw?oc=5)
 
 ---
 

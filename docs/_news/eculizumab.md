@@ -3,7 +3,7 @@ layout: default
 title: "Eculizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eculizumab. Original indication: . 20 predicted indications."
+description: "Health news related to Eculizumab. Original indication: . 1 predicted indications."
 permalink: /news/eculizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eculizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Eculizumab?">
-<strong>Eculizumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Eculizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Eculizumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>cyclic hematopoiesis (100.0%)</li>
-<li>autosomal recessive severe congenital neutropenia due to JAGN1 deficiency (100.0%)</li>
-<li>X-linked severe congenital neutropenia (100.0%)</li>
-<li>congenital neutropenia-myelofibrosis-nephromegaly syndrome (100.0%)</li>
-<li>adult idiopathic neutropenia (100.0%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CXCR2 deficiency (100.0%)</li>
-<li>primary immunodeficiency syndrome due to p14 deficiency (100.0%)</li>
-<li>autosomal recessive severe congenital neutropenia due to CSF3R deficiency (100.0%)</li>
-<li>severe congenital neutropenia (100.0%)</li>
-<li>primary release disorder of platelets (99.9%)</li>
-<li>pseudo-von Willebrand disease (99.9%)</li>
-<li>Barth syndrome (99.9%)</li>
-<li>Glanzmann thrombasthenia (99.9%)</li>
-<li>mixed-type autoimmune hemolytic anemia (99.9%)</li>
-<li>drug-induced autoimmune hemolytic anemia (99.9%)</li>
-<li>constitutional neutropenia (99.9%)</li>
-<li>primary CD59 deficiency (99.9%)</li>
-<li>cold agglutinin disease (99.9%)</li>
-<li>neonatal autoimmune hemolytic anemia (99.9%)</li>
-<li>autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (99.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cyclic hematopoiesis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eculizumab/' | relative_url }}">View full drug report →</a></p>

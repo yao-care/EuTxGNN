@@ -3,7 +3,7 @@ layout: default
 title: "Linaclotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Linaclotide. Original indication: . 6 predicted indications."
+description: "Health news related to Linaclotide. Original indication: . 7 predicted indications."
 permalink: /news/linaclotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/linaclotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Linaclotide?">
-<strong>Linaclotide</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Linaclotide</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,14 @@ This page combines the AI-predicted indications for Linaclotide with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>Neurogenic bladder (obsolete term) | 99.89% | L5 | No trials or publications. Preclinical colitis-model work suggests visceral cross-sensitisation, but it does not support this as a treatment target. (99.0%)</li>
-<li>Insomnia | 99.51% | L5 | No evidence or plausible mechanism. (99.0%)</li>
-<li>Autonomic nervous system disease | 98.85% | L4 | Three reviews on autonomic disorders and GI dysmotility. Any relevance is indirect (treating constipation as a symptom). (99.0%)</li>
-<li>Gastroduodenitis | 96.51% | L4 | One IBS-C review, which concerns the existing use. No direct evidence in upper GI inflammation. (99.0%)</li>
-<li>Large intestine disease | 95.14% | L3 | Most plausible, but it overlaps with the approved use. Research question stage. (99.0%)</li>
-<li>Rhinitis | 94.67% | L5 | No evidence or plausible mechanism. (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Cauda equina syndrome (100.0%)</li>
+<li>Neurogenic bladder (obsolete term) (99.9%)</li>
+<li>Insomnia (99.5%)</li>
+<li>Autonomic nervous system disease (98.8%)</li>
+<li>Gastroduodenitis (96.5%)</li>
+<li>Large intestine disease (95.1%)</li>
+<li>Rhinitis (94.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/linaclotide/' | relative_url }}">View full drug report →</a></p>

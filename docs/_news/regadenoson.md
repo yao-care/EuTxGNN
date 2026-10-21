@@ -3,7 +3,7 @@ layout: default
 title: "Regadenoson News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Regadenoson. Original indication: . 20 predicted indications."
+description: "Health news related to Regadenoson. Original indication: . 1 predicted indications."
 permalink: /news/regadenoson/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/regadenoson/
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>anaphylaxis (99.8%)</li>
-<li>food-dependent exercise-induced anaphylaxis (99.7%)</li>
-<li>esotropia (99.1%)</li>
-<li>pseudoallergy (99.1%)</li>
-<li>headache disorder (98.0%)</li>
-<li>migraine disorder (97.1%)</li>
-<li>trigeminal autonomic cephalalgia (97.0%)</li>
-<li>migraine with brainstem aura (96.9%)</li>
-<li>bronchial disease (96.8%)</li>
-<li>glossodynia (95.9%)</li>
-<li>coccygodynia (95.8%)</li>
-<li>Raynaud disease (95.7%)</li>
-<li>endobronchial leiomyoma (95.6%)</li>
-<li>bronchus adenoma (95.5%)</li>
-<li>endobronchial lipoma (95.5%)</li>
-<li>atypical coarctation of aorta (95.3%)</li>
-<li>scalp dermatosis (95.2%)</li>
-<li>primary hereditary glaucoma (95.1%)</li>
-<li>neuralgia (95.0%)</li>
-<li>thrombotic disease (94.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Anaphylaxis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>

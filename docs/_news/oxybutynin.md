@@ -3,7 +3,7 @@ layout: default
 title: "Oxybutynin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Oxybutynin. Original indication: . 20 predicted indications."
+description: "Health news related to Oxybutynin. Original indication: . 1 predicted indications."
 permalink: /news/oxybutynin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxybutynin/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxybutynin?">
-<strong>Oxybutynin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Oxybutynin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Oxybutynin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>cauda equina syndrome (99.9%)</li>
-<li>overactive bladder (disease) (99.8%)</li>
-<li>restless legs syndrome (99.7%)</li>
-<li>obsolete neurogenic bladder (disease) (99.7%)</li>
-<li>gastroduodenitis (99.6%)</li>
-<li>peptic ulcer disease (99.3%)</li>
-<li>low compliance bladder (97.9%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (97.5%)</li>
-<li>insomnia (disease) (96.9%)</li>
-<li>attention deficit-hyperactivity disorder (95.1%)</li>
-<li>faciodigitogenital syndrome (95.0%)</li>
-<li>familial episodic pain syndrome with predominantly upper body involvement (92.6%)</li>
-<li>transient tic disorder (92.5%)</li>
-<li>migraine disorder (92.1%)</li>
-<li>migraine with brainstem aura (92.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (91.8%)</li>
-<li>bladder neck obstruction (91.3%)</li>
-<li>communication disorder (90.7%)</li>
-<li>stereotypic movement disorder (90.6%)</li>
-<li>fetal nicotine spectrum disorder (90.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Restless legs syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxybutynin/' | relative_url }}">View full drug report →</a></p>

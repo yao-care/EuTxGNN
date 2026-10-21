@@ -3,7 +3,7 @@ layout: default
 title: "Carglumic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Carglumic Acid. Original indication: . 20 predicted indications."
+description: "Health news related to Carglumic Acid. Original indication: . 1 predicted indications."
 permalink: /news/carglumic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carglumic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Carglumic Acid?">
-<strong>Carglumic Acid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Carglumic Acid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Carglumic Acid with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>cystic teratoma (86.6%)</li>
-<li>spinal cord dermoid cyst (86.5%)</li>
-<li>disease of orbital part of eye adnexa (86.3%)</li>
-<li>disease of orbital region (86.1%)</li>
-<li>dermoid cyst of ovary (85.8%)</li>
-<li>eye disease (83.6%)</li>
-<li>open-angle glaucoma (83.3%)</li>
-<li>primary hereditary glaucoma (83.2%)</li>
-<li>chronic relapsing inflammatory optic neuropathy (83.2%)</li>
-<li>isolated optic neuritis (83.2%)</li>
-<li>recurrent idiopathic neuroretinitis (83.2%)</li>
-<li>optic perineuritis (83.2%)</li>
-<li>conjunctival degeneration (83.2%)</li>
-<li>vitreous detachment (83.1%)</li>
-<li>total internal ophthalmoplegia (83.1%)</li>
-<li>cycloplegia (83.1%)</li>
-<li>accommodative spasm (83.1%)</li>
-<li>luxation of globe (83.1%)</li>
-<li>microcornea-corectopia-macular hypoplasia syndrome (83.0%)</li>
-<li>blepharophimosis-radioulnar synostosis syndrome (83.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cystic teratoma (86.6%)</li>
 </ul></li>
 </ul>
 

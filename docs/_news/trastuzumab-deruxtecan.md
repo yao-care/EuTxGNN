@@ -3,7 +3,7 @@ layout: default
 title: "Trastuzumab Deruxtecan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Trastuzumab Deruxtecan. Original indication: . 20 predicted indications."
+description: "Health news related to Trastuzumab Deruxtecan. Original indication: . 1 predicted indications."
 permalink: /news/trastuzumab-deruxtecan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trastuzumab-deruxtecan/
 ---
 
 <p class="key-answer" data-question="What news is there about Trastuzumab Deruxtecan?">
-<strong>Trastuzumab Deruxtecan</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Trastuzumab Deruxtecan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Trastuzumab Deruxtecan with 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>drug-induced osteoporosis (99.3%)</li>
-<li>severe nonproliferative diabetic retinopathy (98.9%)</li>
-<li>diabetic retinopathy (98.5%)</li>
-<li>bronchitis (98.0%)</li>
-<li>diabetic cataract (96.6%)</li>
-<li>chondroid hamartoma (96.0%)</li>
-<li>non-seminomatous lesion (96.0%)</li>
-<li>ductal or ductular proliferation (96.0%)</li>
-<li>bronchial adenomas/carcinoids childhood (96.0%)</li>
-<li>tumor of testis and paratestis (95.8%)</li>
-<li>thyroglossal duct cyst (95.8%)</li>
-<li>cystic neoplasm (95.7%)</li>
-<li>mesenchymoma (95.7%)</li>
-<li>benign neoplasm of tongue (95.6%)</li>
-<li>cervical neuroblastoma (95.6%)</li>
-<li>inner ear neoplasm (95.6%)</li>
-<li>indolent plasma cell myeloma (95.5%)</li>
-<li>epiglottis neoplasm (95.5%)</li>
-<li>benign neoplasm of floor of mouth (95.5%)</li>
-<li>hemorrhagic disease of newborn (95.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Drug-induced osteoporosis (99.3%)</li>
 </ul></li>
 </ul>
 

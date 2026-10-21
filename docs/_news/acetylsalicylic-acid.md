@@ -3,7 +3,7 @@ layout: default
 title: "Acetylsalicylic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Acetylsalicylic Acid. Original indication: . 20 predicted indications."
+description: "Health news related to Acetylsalicylic Acid. Original indication: . 1 predicted indications."
 permalink: /news/acetylsalicylic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetylsalicylic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetylsalicylic Acid?">
-<strong>Acetylsalicylic Acid</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Acetylsalicylic Acid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Acetylsalicylic Acid with th
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>migraine with or without aura, susceptibility to (99.8%)</li>
-<li>atrophoderma vermiculata (99.6%)</li>
-<li>ulerythema ophryogenesis (99.5%)</li>
-<li>headache disorder (99.4%)</li>
-<li>heparin cofactor 2 deficiency (99.4%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.4%)</li>
-<li>antithrombin deficiency type 2 (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.4%)</li>
-<li>thrombotic disease (99.1%)</li>
-<li>thrombophilia (99.0%)</li>
-<li>rheumatoid arthritis (98.8%)</li>
-<li>Raynaud disease (98.7%)</li>
-<li>non-inflammatory vasculopathy (98.5%)</li>
-<li>angiodysplasia (98.4%)</li>
-<li>fibrocartilaginous embolism (98.3%)</li>
-<li>venous thromboembolism (98.3%)</li>
-<li>vein disease (98.3%)</li>
-<li>brachydactyly-syndactyly syndrome (98.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (99.9%)</li>
 </ul></li>
 </ul>
 

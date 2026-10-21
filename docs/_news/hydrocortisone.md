@@ -3,7 +3,7 @@ layout: default
 title: "Hydrocortisone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Hydrocortisone. Original indication: . 20 predicted indications."
+description: "Health news related to Hydrocortisone. Original indication: . 1 predicted indications."
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydrocortisone?">
-<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Hydrocortisone with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>acquired thrombocytopenia (99.7%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.6%)</li>
-<li>nephrotic syndrome (99.6%)</li>
-<li>tenosynovitis (99.5%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.5%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.4%)</li>
-<li>fetal erythroblastosis (99.4%)</li>
-<li>miliary tuberculosis (99.4%)</li>
-<li>Trichinellosis (99.3%)</li>
-<li>granulomatous slack skin disease (99.2%)</li>
-<li>autoimmune hemolytic anemia (99.0%)</li>
-<li>rheumatic heart disease (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia areata (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">View full drug report →</a></p>

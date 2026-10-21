@@ -3,7 +3,7 @@ layout: default
 title: "Ketoconazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ketoconazole. Original indication: . 20 predicted indications."
+description: "Health news related to Ketoconazole. Original indication: . 1 predicted indications."
 permalink: /news/ketoconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>cutaneous candidiasis (99.8%)</li>
-<li>acne (disease) (99.8%)</li>
-<li>candidiasis (99.8%)</li>
-<li>dermatophytosis of groin and perianal area (98.4%)</li>
-<li>pityriasis versicolor (96.8%)</li>
-<li>tinea pedis (95.6%)</li>
-<li>zinc, elevated plasma (95.4%)</li>
-<li>leprosy (93.1%)</li>
-<li>vulvovaginal candidiasis (93.0%)</li>
-<li>urticaria, aquagenic (92.7%)</li>
-<li>punctate epithelial keratoconjunctivitis (91.4%)</li>
-<li>tinea corporis (91.0%)</li>
-<li>tinea profunda (90.8%)</li>
-<li>nail infection (90.7%)</li>
-<li>neonatal candidiasis (90.4%)</li>
-<li>candida glabrata (90.4%)</li>
-<li>congenital candidiasis (90.4%)</li>
-<li>demodicidosis of sebaceous gland (90.1%)</li>
-<li>candidiasis, invasive (89.1%)</li>
-<li>ectothrix infectious disease (87.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acne (disease) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>

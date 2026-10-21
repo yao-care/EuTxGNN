@@ -3,7 +3,7 @@ layout: default
 title: "Sacituzumab Govitecan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sacituzumab Govitecan. Original indication: . 20 predicted indications."
+description: "Health news related to Sacituzumab Govitecan. Original indication: . 1 predicted indications."
 permalink: /news/sacituzumab-govitecan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sacituzumab-govitecan/
 ---
 
 <p class="key-answer" data-question="What news is there about Sacituzumab Govitecan?">
-<strong>Sacituzumab Govitecan</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Sacituzumab Govitecan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Sacituzumab Govitecan with t
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>drug-induced osteoporosis (99.8%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.7%)</li>
-<li>diabetic retinopathy (99.6%)</li>
-<li>diabetic cataract (99.1%)</li>
-<li>cortical cataract (98.5%)</li>
-<li>nuclear senile cataract (98.5%)</li>
-<li>senile cataract (98.5%)</li>
-<li>diabetes mellitus type 2 associated cataract (98.4%)</li>
-<li>immature cataract (98.4%)</li>
-<li>tetanic cataract (98.4%)</li>
-<li>craniostenosis cataract (98.4%)</li>
-<li>mature cataract (98.4%)</li>
-<li>respiratory syncytial virus infectious disease (97.8%)</li>
-<li>dry eye syndrome (97.5%)</li>
-<li>hemorrhagic disease of newborn (97.5%)</li>
-<li>non-syndromic visceral malformation (97.4%)</li>
-<li>non-seminomatous lesion (97.3%)</li>
-<li>ductal or ductular proliferation (97.3%)</li>
-<li>bronchial adenomas/carcinoids childhood (97.3%)</li>
-<li>chondroid hamartoma (97.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Drug-induced osteoporosis (99.8%)</li>
 </ul></li>
 </ul>
 

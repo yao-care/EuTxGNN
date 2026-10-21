@@ -3,7 +3,7 @@ layout: default
 title: "Idebenone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Idebenone. Original indication: . 20 predicted indications."
+description: "Health news related to Idebenone. Original indication: . 1 predicted indications."
 permalink: /news/idebenone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Idebenone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>hepatic porphyria (99.9%)</li>
-<li>hepatoportal sclerosis (99.9%)</li>
-<li>idiopathic copper-associated cirrhosis (99.9%)</li>
-<li>hepatopulmonary syndrome (99.9%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
-<li>primitive portal vein thrombosis (99.9%)</li>
-<li>immune-mediated necrotizing myopathy (99.8%)</li>
-<li>osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome (99.8%)</li>
-<li>antisynthetase syndrome (99.8%)</li>
-<li>focal myositis (99.7%)</li>
-<li>maternally-inherited mitochondrial myopathy (99.7%)</li>
-<li>primary optic atrophy (99.7%)</li>
-<li>idiopathic eosinophilic myositis (99.7%)</li>
-<li>inflammatory myopathy with abundant macrophages (99.7%)</li>
-<li>maternally-inherited mitochondrial dystonia (99.7%)</li>
-<li>maternally-inherited Leigh syndrome (99.6%)</li>
-<li>Leber hereditary optic neuropathy (99.5%)</li>
-<li>juvenile nasopharyngeal angiofibroma (disease) (99.5%)</li>
-<li>familial nasal acilia (99.5%)</li>
-<li>silent sinus syndrome (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatic porphyria (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>
@@ -63,7 +44,7 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWj
 
 ### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">AF</span>
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 

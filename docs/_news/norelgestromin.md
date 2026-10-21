@@ -3,7 +3,7 @@ layout: default
 title: "Norelgestromin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norelgestromin. Original indication: . 20 predicted indications."
+description: "Health news related to Norelgestromin. Original indication: . 1 predicted indications."
 permalink: /news/norelgestromin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/norelgestromin/
 ---
 
 <p class="key-answer" data-question="What news is there about Norelgestromin?">
-<strong>Norelgestromin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Norelgestromin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Norelgestromin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>amenorrhea (disease) (99.5%)</li>
-<li>acne (disease) (98.5%)</li>
-<li>breast fibrocystic disease (97.5%)</li>
-<li>apocrine adenosis of breast (96.2%)</li>
-<li>blunt duct adenosis of breast (96.2%)</li>
-<li>benign mammary dysplasia (95.9%)</li>
-<li>breast abscess (95.4%)</li>
-<li>fat necrosis of breast (95.4%)</li>
-<li>lactation disease (95.2%)</li>
-<li>primary ovarian failure (95.1%)</li>
-<li>breast adenosis (95.0%)</li>
-<li>scalp dermatosis (94.4%)</li>
-<li>tetragametic chimerism (93.8%)</li>
-<li>ovarian remnant syndrome (93.5%)</li>
-<li>anovulation (93.5%)</li>
-<li>symptomatic form of fragile X syndrome in female carrier (93.5%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 12 (93.5%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (93.4%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (93.4%)</li>
-<li>polysomy of X chromosome (93.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Amenorrhea (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norelgestromin/' | relative_url }}">View full drug report →</a></p>

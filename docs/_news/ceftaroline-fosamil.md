@@ -3,7 +3,7 @@ layout: default
 title: "Ceftaroline Fosamil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ceftaroline Fosamil. Original indication: . 20 predicted indications."
+description: "Health news related to Ceftaroline Fosamil. Original indication: . 1 predicted indications."
 permalink: /news/ceftaroline-fosamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceftaroline-fosamil/
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftaroline Fosamil?">
-<strong>Ceftaroline Fosamil</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Ceftaroline Fosamil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Ceftaroline Fosamil with the
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>rheumatoid arthritis (98.2%)</li>
-<li>osteoarthritis (98.2%)</li>
-<li>osteoarthritis susceptibility (98.0%)</li>
-<li>gout (97.5%)</li>
-<li>pseudoachondroplasia (97.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.2%)</li>
-<li>hemoglobinopathy (97.0%)</li>
-<li>brachyolmia (97.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (96.8%)</li>
-<li>myosclerosis (96.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (96.7%)</li>
-<li>beta-thalassemia with other manifestations (96.5%)</li>
-<li>hepatic porphyria (96.5%)</li>
-<li>partial deletion of the short arm of chromosome 16 (96.5%)</li>
-<li>pyruvate kinase deficiency of red cells (96.4%)</li>
-<li>brachydactyly-syndactyly syndrome (96.4%)</li>
-<li>arthropathy (96.3%)</li>
-<li>hemolytic anemia due to glucophosphate isomerase deficiency (96.2%)</li>
-<li>pyropoikilocytosis, hereditary (96.0%)</li>
-<li>hepatoportal sclerosis (96.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (98.2%)</li>
 </ul></li>
 </ul>
 

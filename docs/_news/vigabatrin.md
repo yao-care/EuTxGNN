@@ -3,7 +3,7 @@ layout: default
 title: "Vigabatrin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vigabatrin. Original indication: . 20 predicted indications."
+description: "Health news related to Vigabatrin. Original indication: . 1 predicted indications."
 permalink: /news/vigabatrin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vigabatrin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vigabatrin?">
-<strong>Vigabatrin</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Vigabatrin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Vigabatrin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>West syndrome (99.1%)</li>
-<li>intellectual disability, X-linked, with or without seizures, arx-related (98.7%)</li>
-<li>episodic kinesigenic dyskinesia (97.3%)</li>
-<li>developmental and epileptic encephalopathy (97.2%)</li>
-<li>1q44 microdeletion syndrome (96.7%)</li>
-<li>PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation (96.6%)</li>
-<li>DK1-CDG (96.5%)</li>
-<li>microtriplication 11q24.1 (96.3%)</li>
-<li>CCDC115-CDG (96.3%)</li>
-<li>neonatal period electroclinical syndrome (96.2%)</li>
-<li>genetic lethal multiple congenital anomalies/dysmorphic syndrome (96.2%)</li>
-<li>COG2-CDG (96.2%)</li>
-<li>colobomatous microphthalmia - obesity - hypogenitalism - intellectual disability syndrome (96.1%)</li>
-<li>X-linked dominant intellectual disability-epilepsy syndrome (96.0%)</li>
-<li>male hypergonadotropic hypogonadism-intellectual disability-skeletal anomalies syndrome (96.0%)</li>
-<li>Jawad syndrome (96.0%)</li>
-<li>muscular hypertrophy-hepatomegaly-polyhydramnios syndrome (96.0%)</li>
-<li>infancy electroclinical syndrome (96.0%)</li>
-<li>neonatal epileptic encephalopathy (95.9%)</li>
-<li>craniofaciofrontodigital syndrome (95.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Intellectual disability, X-linked, with or without seizures, ARX-related (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vigabatrin/' | relative_url }}">View full drug report →</a></p>

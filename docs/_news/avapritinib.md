@@ -3,7 +3,7 @@ layout: default
 title: "Avapritinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avapritinib. Original indication: . 20 predicted indications."
+description: "Health news related to Avapritinib. Original indication: . 1 predicted indications."
 permalink: /news/avapritinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/avapritinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Avapritinib?">
-<strong>Avapritinib</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Avapritinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Avapritinib with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>axial spondylometaphyseal dysplasia (99.9%)</li>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (99.9%)</li>
-<li>amyotrophic lateral sclerosis (99.9%)</li>
-<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (99.9%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (99.9%)</li>
-<li>amyotrohpic lateral sclerosis type 22 (99.9%)</li>
-<li>lower motor neuron syndrome with late-adult onset (99.9%)</li>
-<li>lethal arthrogryposis-anterior horn cell disease syndrome (99.9%)</li>
-<li>monomelic amyotrophy (99.9%)</li>
-<li>Mills syndrome (99.9%)</li>
-<li>autosomal dominant mitochondrial myopathy with exercise intolerance (99.9%)</li>
-<li>familial generalized lentiginosis (99.9%)</li>
-<li>rhabdoid tumor (99.9%)</li>
-<li>gastrocutaneous syndrome (99.9%)</li>
-<li>acromelanosis (99.8%)</li>
-<li>congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome (99.8%)</li>
-<li>Moynahan syndrome (99.8%)</li>
-<li>osteopathia striata-pigmentary dermopathy-white forelock syndrome (99.8%)</li>
-<li>leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome (99.8%)</li>
-<li>peripheral nerve schwannoma (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Axial spondylometaphyseal dysplasia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avapritinib/' | relative_url }}">View full drug report →</a></p>

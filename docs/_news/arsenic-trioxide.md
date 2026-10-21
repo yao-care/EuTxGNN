@@ -3,7 +3,7 @@ layout: default
 title: "Arsenic Trioxide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Arsenic Trioxide. Original indication: . 20 predicted indications."
+description: "Health news related to Arsenic Trioxide. Original indication: . 1 predicted indications."
 permalink: /news/arsenic-trioxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arsenic-trioxide/
 ---
 
 <p class="key-answer" data-question="What news is there about Arsenic Trioxide?">
-<strong>Arsenic Trioxide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Arsenic Trioxide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Arsenic Trioxide with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>unclassified myelodysplastic syndrome (99.9%)</li>
-<li>refractory cytopenia of childhood (99.9%)</li>
-<li>severe congenital hypochromic anemia with ringed sideroblasts (99.9%)</li>
-<li>aregenerative anemia (99.9%)</li>
-<li>partial deletion of the long arm of chromosome 5 (99.9%)</li>
-<li>myelodysplastic syndrome (99.9%)</li>
-<li>Ewing sarcoma (99.9%)</li>
-<li>dermatofibrosarcoma protuberans (99.8%)</li>
-<li>liposarcoma (99.8%)</li>
-<li>ovarian myxoid liposarcoma (99.7%)</li>
-<li>uterine corpus sarcoma (99.4%)</li>
-<li>acute myeloid leukemia with t(8;21)(q22;q22) translocation (99.2%)</li>
-<li>osteoarthritis (99.2%)</li>
-<li>acute myeloid leukemia with CEBPA somatic mutations (99.2%)</li>
-<li>acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) (99.1%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.0%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.0%)</li>
-<li>osteoarthritis susceptibility (99.0%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.0%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Unclassified myelodysplastic syndrome (99.9%)</li>
 </ul></li>
 </ul>
 

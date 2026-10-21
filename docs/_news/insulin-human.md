@@ -3,7 +3,7 @@ layout: default
 title: "Insulin Human News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Insulin Human. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin Human. Original indication: . 1 predicted indications."
 permalink: /news/insulin-human/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/insulin-human/
 ---
 
 <p class="key-answer" data-question="What news is there about Insulin Human?">
-<strong>Insulin Human</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Insulin Human</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,9 @@ This page combines the AI-predicted indications for Insulin Human with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Autoimmune oophoritis (99.8%)</li>
+</ul></li>
 </ul>
 
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "Idursulfase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Idursulfase. Original indication: . 20 predicted indications."
+description: "Health news related to Idursulfase. Original indication: . 1 predicted indications."
 permalink: /news/idursulfase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idursulfase/
 ---
 
 <p class="key-answer" data-question="What news is there about Idursulfase?">
-<strong>Idursulfase</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Idursulfase</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Idursulfase with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>ptosis-strabismus-ectopic pupils syndrome (97.9%)</li>
-<li>camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye (97.9%)</li>
-<li>congenital Horner syndrome (disease) (97.8%)</li>
-<li>ptosis-vocal cord paralysis syndrome (97.8%)</li>
-<li>ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome (97.7%)</li>
-<li>jaw-winking syndrome (97.7%)</li>
-<li>congenital entropion (97.6%)</li>
-<li>epiblepharon (97.5%)</li>
-<li>congenital ectropion (97.5%)</li>
-<li>mucopolysaccharidosis (96.9%)</li>
-<li>Scheie syndrome (94.8%)</li>
-<li>Steel syndrome (93.9%)</li>
-<li>inborn disorder of lysosomal amino acid transport (92.4%)</li>
-<li>proximal myopathy with extrapyramidal signs (91.3%)</li>
-<li>Hurler syndrome (90.2%)</li>
-<li>Charcot-Marie-Tooth disease (90.0%)</li>
-<li>Sanfilippo syndrome (88.7%)</li>
-<li>lysosomal storage disease with skeletal involvement (88.0%)</li>
-<li>alpha-mannosidosis (87.2%)</li>
-<li>skeletal muscle disease (86.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ptosis-strabismus-ectopic pupils syndrome (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/idursulfase/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Esomeprazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Esomeprazole. Original indication: . 20 predicted indications."
+description: "Health news related to Esomeprazole. Original indication: . 1 predicted indications."
 permalink: /news/esomeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/esomeprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Esomeprazole?">
-<strong>Esomeprazole</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Esomeprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Esomeprazole with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>gastrin secretion abnormality (99.8%)</li>
-<li>peptic esophagitis (99.6%)</li>
-<li>duodenogastric reflux (99.5%)</li>
-<li>duodenal obstruction (99.5%)</li>
-<li>duodenal ulcer (disease) (99.4%)</li>
-<li>Zollinger-Ellison syndrome (99.2%)</li>
-<li>active peptic ulcer disease (99.0%)</li>
-<li>abnormality of glucagon secretion (99.0%)</li>
-<li>peptic ulcer perforation (98.9%)</li>
-<li>gastrojejunal ulcer (98.9%)</li>
-<li>esophagitis (disease) (97.9%)</li>
-<li>Smouldering systemic mastocytosis (97.0%)</li>
-<li>multiple endocrine neoplasia (96.7%)</li>
-<li>acne (disease) (96.6%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (96.3%)</li>
-<li>gastroduodenitis (95.7%)</li>
-<li>systemic mastocytosis (94.2%)</li>
-<li>gastric ulcer (disease) (93.9%)</li>
-<li>duodenitis (93.1%)</li>
-<li>peptic ulcer disease (92.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenal ulcer (the top-ranked TxGNN prediction is duodenogastric reflux; duodenal ulcer, rank 3, is the best-supported candidate and is the one evaluated below) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/esomeprazole/' | relative_url }}">View full drug report →</a></p>

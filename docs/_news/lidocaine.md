@@ -3,7 +3,7 @@ layout: default
 title: "Lidocaine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lidocaine. Original indication: . 20 predicted indications."
+description: "Health news related to Lidocaine. Original indication: . 1 predicted indications."
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Lidocaine?">
-<strong>Lidocaine</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Lidocaine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Lidocaine with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.9%)</li>
-<li>exposure keratitis (99.9%)</li>
-<li>atopic conjunctivitis (99.9%)</li>
-<li>conjunctival disorder (99.8%)</li>
-<li>nephrotic syndrome (99.8%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>tinea corporis (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.8%)</li>
-<li>disease of orbital region (99.8%)</li>
-<li>rheumatic heart disease (99.8%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.7%)</li>
-<li>epicondylitis (99.7%)</li>
-<li>blepharoconjunctivitis (99.7%)</li>
-<li>disease of orbital part of eye adnexa (99.7%)</li>
-<li>cystic teratoma (99.7%)</li>
-<li>spinal cord dermoid cyst (99.7%)</li>
-<li>dermoid cyst of ovary (99.6%)</li>
-<li>viral conjunctivitis (99.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">View full drug report →</a></p>

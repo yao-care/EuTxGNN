@@ -3,7 +3,7 @@ layout: default
 title: "Bazedoxifene News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bazedoxifene. Original indication: . 20 predicted indications."
+description: "Health news related to Bazedoxifene. Original indication: . 1 predicted indications."
 permalink: /news/bazedoxifene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bazedoxifene/
 ---
 
 <p class="key-answer" data-question="What news is there about Bazedoxifene?">
-<strong>Bazedoxifene</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Bazedoxifene</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Bazedoxifene with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>heparin cofactor 2 deficiency (99.0%)</li>
-<li>postmenopausal osteoporosis (98.8%)</li>
-<li>antithrombin deficiency type 2 (98.7%)</li>
-<li>Worth syndrome (98.6%)</li>
-<li>amenorrhea (disease) (98.5%)</li>
-<li>factor 5 excess with spontaneous thrombosis (98.4%)</li>
-<li>pregnancy associated osteoporosis (98.3%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (98.2%)</li>
-<li>thrombophilia (97.7%)</li>
-<li>primary release disorder of platelets (97.5%)</li>
-<li>pseudo-von Willebrand disease (97.4%)</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (97.3%)</li>
-<li>severe nonproliferative diabetic retinopathy (96.7%)</li>
-<li>acne (disease) (96.2%)</li>
-<li>Glanzmann thrombasthenia (94.6%)</li>
-<li>drug-induced osteoporosis (93.7%)</li>
-<li>duodenal ulcer (disease) (91.2%)</li>
-<li>duodenogastric reflux (89.8%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (89.8%)</li>
-<li>duodenal obstruction (89.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heparin cofactor 2 deficiency (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bazedoxifene/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Nitisinone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nitisinone. Original indication: . 20 predicted indications."
+description: "Health news related to Nitisinone. Original indication: . 1 predicted indications."
 permalink: /news/nitisinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitisinone/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitisinone?">
-<strong>Nitisinone</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Nitisinone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Nitisinone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>renal tubular acidosis (100.0%)</li>
-<li>galactosemia (100.0%)</li>
-<li>serpinopathy with toxic serpin polymerization (99.9%)</li>
-<li>C1 inhibitor deficiency (99.9%)</li>
-<li>glycogen storage disease (99.9%)</li>
-<li>adult polyglucosan body disease (99.9%)</li>
-<li>glycogen storage disease due to glucose-6-phosphatase deficiency (99.9%)</li>
-<li>Griscelli syndrome (99.9%)</li>
-<li>granulomatous disease, chronic, X-linked (99.9%)</li>
-<li>ermine phenotype (99.9%)</li>
-<li>ocular albinism (disease) (99.9%)</li>
-<li>piebaldism (99.9%)</li>
-<li>ocular albinism with sensorineural deafness (99.9%)</li>
-<li>anemia, nonspherocytic hemolytic, due to G6PD deficiency (99.8%)</li>
-<li>cold agglutinin disease (99.8%)</li>
-<li>primary CD59 deficiency (99.8%)</li>
-<li>hemolytic anemia due to diphosphoglycerate mutase deficiency (99.8%)</li>
-<li>cholelithiasis (99.8%)</li>
-<li>albinism (99.8%)</li>
-<li>classic galactosemia (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Renal tubular acidosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitisinone/' | relative_url }}">View full drug report →</a></p>

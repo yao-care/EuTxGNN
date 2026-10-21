@@ -3,7 +3,7 @@ layout: default
 title: "Cannabidiol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cannabidiol. Original indication: . 20 predicted indications."
+description: "Health news related to Cannabidiol. Original indication: . 1 predicted indications."
 permalink: /news/cannabidiol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cannabidiol/
 ---
 
 <p class="key-answer" data-question="What news is there about Cannabidiol?">
-<strong>Cannabidiol</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Cannabidiol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Cannabidiol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>restless legs syndrome (96.2%)</li>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (96.0%)</li>
-<li>axial spondylometaphyseal dysplasia (94.2%)</li>
-<li>amyotrophic lateral sclerosis (94.2%)</li>
-<li>trichomegaly-retina pigmentary degeneration-dwarfism syndrome (93.8%)</li>
-<li>episodic kinesigenic dyskinesia (93.7%)</li>
-<li>Mills syndrome (93.4%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (93.4%)</li>
-<li>lower motor neuron syndrome with late-adult onset (93.2%)</li>
-<li>lethal arthrogryposis-anterior horn cell disease syndrome (93.2%)</li>
-<li>monomelic amyotrophy (93.1%)</li>
-<li>amyotrohpic lateral sclerosis type 22 (92.9%)</li>
-<li>PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome due to a point mutation (92.4%)</li>
-<li>neonatal period electroclinical syndrome (92.3%)</li>
-<li>1q44 microdeletion syndrome (92.2%)</li>
-<li>myoclonic epilepsy, Hartung type (92.0%)</li>
-<li>developmental and epileptic encephalopathy (92.0%)</li>
-<li>genetic lethal multiple congenital anomalies/dysmorphic syndrome (91.9%)</li>
-<li>autosomal dominant mitochondrial myopathy with exercise intolerance (91.9%)</li>
-<li>infancy electroclinical syndrome (91.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Restless legs syndrome (96.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cannabidiol/' | relative_url }}">View full drug report →</a></p>

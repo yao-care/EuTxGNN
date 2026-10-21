@@ -3,7 +3,7 @@ layout: default
 title: "Travoprost News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Travoprost. Original indication: . 20 predicted indications."
+description: "Health news related to Travoprost. Original indication: . 1 predicted indications."
 permalink: /news/travoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/travoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Travoprost?">
-<strong>Travoprost</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Travoprost</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,20 @@ This page combines the AI-predicted indications for Travoprost with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>visceral calciphylaxis (100.0%)</li>
-<li>arterial thoracic outlet syndrome (100.0%)</li>
-<li>venous thoracic outlet syndrome (100.0%)</li>
-<li>neurogenic thoracic outlet syndrome (100.0%)</li>
-<li>vascular disease (100.0%)</li>
-<li>angiodysplasia of stomach (100.0%)</li>
-<li>blue toe syndrome (100.0%)</li>
-<li>lymphangiectasis (100.0%)</li>
-<li>idiopathic spontaneous coronary artery dissection (100.0%)</li>
-<li>hemangioendothelioma (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>atheroembolism of kidney (100.0%)</li>
-<li>arterial dissection-lentiginosis syndrome (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>alopecia (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>open-angle glaucoma (100.0%)</li>
-<li>primary hereditary glaucoma (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Visceral calciphylaxis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/travoprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
-
-### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
-2026-10-16 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

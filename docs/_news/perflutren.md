@@ -3,7 +3,7 @@ layout: default
 title: "Perflutren News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Perflutren. Original indication: . 20 predicted indications."
+description: "Health news related to Perflutren. Original indication: . 1 predicted indications."
 permalink: /news/perflutren/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="What news is there about Perflutren?">
-<strong>Perflutren</strong> currently has <strong>2 news articles</strong>, with 20 predicted indications.
+<strong>Perflutren</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,20 @@ This page combines the AI-predicted indications for Perflutren with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>acute intermittent porphyria (97.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (96.6%)</li>
-<li>multidrug-resistant tuberculosis (96.5%)</li>
-<li>myocardial ischemia (96.3%)</li>
-<li>acute neonatal citrullinemia type I (96.0%)</li>
-<li>adult-onset citrullinemia type I (96.0%)</li>
-<li>coronary artery disease (95.7%)</li>
-<li>anomalous left coronary artery from the pulmonary artery (95.5%)</li>
-<li>tuberculoma (95.3%)</li>
-<li>tuberculous ascites (95.3%)</li>
-<li>tuberculosis, avian (95.3%)</li>
-<li>inactive tuberculosis (95.3%)</li>
-<li>tuberculosis, bovine (95.2%)</li>
-<li>chronic tic disorder (94.1%)</li>
-<li>urea cycle disorder (94.0%)</li>
-<li>extrapyramidal and movement disease (94.0%)</li>
-<li>benign shuddering attacks (94.0%)</li>
-<li>porphyria (94.0%)</li>
-<li>psychogenic movement disorders (93.8%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (93.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acute intermittent porphyria (97.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
-
-### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
-2026-10-16 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

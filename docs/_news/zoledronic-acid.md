@@ -3,7 +3,7 @@ layout: default
 title: "Zoledronic Acid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zoledronic Acid. Original indication: . 11 predicted indications."
+description: "Health news related to Zoledronic Acid. Original indication: . 1 predicted indications."
 permalink: /news/zoledronic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zoledronic-acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Zoledronic Acid?">
-<strong>Zoledronic Acid</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Zoledronic Acid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,8 @@ This page combines the AI-predicted indications for Zoledronic Acid with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>humoral hypercalcemia of malignancy (50.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
 <li>HIV infectious disease (94.0%)</li>
-<li>obsolete familial combined hyperlipidemia (93.5%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (93.1%)</li>
-<li>biotin metabolic disease (92.9%)</li>
-<li>simian immunodeficiency virus infection (91.0%)</li>
-<li>feline acquired immunodeficiency syndrome (91.0%)</li>
-<li>vitamin deficiency disorder (90.3%)</li>
-<li>Worth syndrome (89.9%)</li>
-<li>succinyl-CoA:3-ketoacid CoA transferase deficiency (89.8%)</li>
-<li>autosomal dominant neovascular inflammatory vitreoretinopathy (89.3%)</li>
 </ul></li>
 </ul>
 

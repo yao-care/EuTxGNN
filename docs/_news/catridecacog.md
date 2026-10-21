@@ -3,7 +3,7 @@ layout: default
 title: "Catridecacog News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Catridecacog. Original indication: . 11 predicted indications."
+description: "Health news related to Catridecacog. Original indication: . 1 predicted indications."
 permalink: /news/catridecacog/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/catridecacog/
 ---
 
 <p class="key-answer" data-question="What news is there about Catridecacog?">
-<strong>Catridecacog</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Catridecacog</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,8 @@ This page combines the AI-predicted indications for Catridecacog with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>factor XIII, A subunit, deficiency (50.0%)</li>
-<li>primary release disorder of platelets (99.3%)</li>
-<li>pseudo-von Willebrand disease (99.3%)</li>
-<li>Glanzmann thrombasthenia (99.2%)</li>
-<li>congenital factor XIII deficiency (98.8%)</li>
-<li>hemophilia (98.3%)</li>
-<li>Scott syndrome (98.2%)</li>
-<li>acquired coagulation factor deficiency (97.8%)</li>
-<li>bleeding diathesis due to a collagen receptor defect (97.3%)</li>
-<li>hemorrhagic disorder due to a constitutional thrombocytopenia (97.3%)</li>
-<li>acquired hemophilia (97.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/catridecacog/' | relative_url }}">View full drug report →</a></p>

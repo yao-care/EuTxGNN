@@ -3,7 +3,7 @@ layout: default
 title: "Zinc News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Zinc. Original indication: . 20 predicted indications."
+description: "Health news related to Zinc. Original indication: . 1 predicted indications."
 permalink: /news/zinc/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc?">
-<strong>Zinc</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Zinc</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>filariasis (93.2%)</li>
-<li>primary hereditary glaucoma (92.1%)</li>
-<li>dermatitis (91.7%)</li>
-<li>open-angle glaucoma (91.5%)</li>
-<li>acrodermatitis chronica atrophicans (90.8%)</li>
-<li>enterocolitis (disease) (90.8%)</li>
-<li>neonatal dermatomyositis (89.9%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (89.7%)</li>
-<li>hydroa vacciniforme, familial (89.5%)</li>
-<li>amyopathic dermatomyositis (89.2%)</li>
-<li>acne keloid (88.3%)</li>
-<li>headache disorder (86.4%)</li>
-<li>congenital hypotrichosis milia (86.3%)</li>
-<li>hypotrichosis simplex of the scalp (86.3%)</li>
-<li>irritable bowel syndrome (85.8%)</li>
-<li>trigeminal autonomic cephalalgia (85.5%)</li>
-<li>diffuse alopecia areata (85.1%)</li>
-<li>gastroenteritis (83.4%)</li>
-<li>alopecia (83.2%)</li>
-<li>myositis fibrosa (82.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Filariasis (93.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">View full drug report →</a></p>

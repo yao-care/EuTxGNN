@@ -3,7 +3,7 @@ layout: default
 title: "Lusutrombopag News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lusutrombopag. Original indication: . 10 predicted indications."
+description: "Health news related to Lusutrombopag. Original indication: . 1 predicted indications."
 permalink: /news/lusutrombopag/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lusutrombopag/
 ---
 
 <p class="key-answer" data-question="What news is there about Lusutrombopag?">
-<strong>Lusutrombopag</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Lusutrombopag</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Lusutrombopag with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hereditary thrombocytopenia with normal platelets (100.0%)</li>
-<li>marcothrombocytopenia with mitral valve insufficiency (100.0%)</li>
-<li>transient neonatal thrombocytopenia (100.0%)</li>
-<li>dense granule disease (100.0%)</li>
-<li>platelet storage pool deficiency (100.0%)</li>
-<li>amyotrophic lateral sclerosis (100.0%)</li>
-<li>lower motor neuron syndrome with late-adult onset (100.0%)</li>
-<li>amyotrophic lateral sclerosis, susceptibility to (100.0%)</li>
-<li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
-<li>axial spondylometaphyseal dysplasia (99.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hereditary thrombocytopenia with normal platelets (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lusutrombopag/' | relative_url }}">View full drug report →</a></p>

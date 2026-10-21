@@ -3,7 +3,7 @@ layout: default
 title: "Setmelanotide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Setmelanotide. Original indication: A link to migraine is biologically conceivable but.... 20 predicted indications."
+description: "Health news related to Setmelanotide. Original indication: A link to migraine is biologically conceivable but.... 1 predicted indications."
 permalink: /news/setmelanotide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/setmelanotide/
 ---
 
 <p class="key-answer" data-question="What news is there about Setmelanotide?">
-<strong>Setmelanotide</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Setmelanotide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,27 +26,8 @@ This page combines the AI-predicted indications for Setmelanotide with the lates
 <ul>
 <li><strong>Original indication</strong>: A link to migraine is biologically conceivable but speculative. The melanocortin and POMC pathways have been discussed in relation to pain modulation and neurovascular regulation. However, no trials...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>migraine disorder (92.2%)</li>
-<li>migraine with brainstem aura (91.7%)</li>
-<li>non-syndromic esophageal malformation (89.6%)</li>
-<li>esophageal disease (88.4%)</li>
-<li>amenorrhea (disease) (86.0%)</li>
-<li>cauda equina syndrome (83.0%)</li>
-<li>obsolete neurogenic bladder (disease) (82.2%)</li>
-<li>esophageal ulcer (81.4%)</li>
-<li>Ambras type hypertrichosis universalis congenita (81.2%)</li>
-<li>pituitary dwarfism (81.1%)</li>
-<li>migraine with or without aura, susceptibility to (80.4%)</li>
-<li>atrophoderma vermiculata (80.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (78.9%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (78.4%)</li>
-<li>isolated genetic hair shaft abnormality (78.0%)</li>
-<li>erectile dysfunction (disease) (77.9%)</li>
-<li>hypertrichosis (disease) (77.9%)</li>
-<li>ulerythema ophryogenesis (76.7%)</li>
-<li>acne (disease) (74.1%)</li>
-<li>adrenal gland hyperfunction (72.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (92.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/setmelanotide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Brodalumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Brodalumab. Original indication: . 20 predicted indications."
+description: "Health news related to Brodalumab. Original indication: . 1 predicted indications."
 permalink: /news/brodalumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brodalumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Brodalumab?">
-<strong>Brodalumab</strong> currently has <strong>0 news articles</strong>, with 20 predicted indications.
+<strong>Brodalumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,8 @@ This page combines the AI-predicted indications for Brodalumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (20)</strong>:<ul>
-<li>strongyloidiasis (99.8%)</li>
-<li>eye disease (99.8%)</li>
-<li>vitamin deficiency disorder (99.8%)</li>
-<li>von Hippel anomaly (99.8%)</li>
-<li>isolated optic neuritis (99.8%)</li>
-<li>chronic relapsing inflammatory optic neuropathy (99.8%)</li>
-<li>recurrent idiopathic neuroretinitis (99.8%)</li>
-<li>optic perineuritis (99.8%)</li>
-<li>nodular episcleritis (99.8%)</li>
-<li>episcleritis periodica fugax (99.8%)</li>
-<li>accommodative spasm (99.8%)</li>
-<li>total internal ophthalmoplegia (99.8%)</li>
-<li>cycloplegia (99.8%)</li>
-<li>ocular hyperemia (99.8%)</li>
-<li>conjunctivochalasis (99.8%)</li>
-<li>dislocation of lens (99.8%)</li>
-<li>luxation of globe (99.8%)</li>
-<li>microcephaly microphthalmos blindness (99.8%)</li>
-<li>vitreous detachment (99.8%)</li>
-<li>microcornea-corectopia-macular hypoplasia syndrome (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Strongyloidiasis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brodalumab/' | relative_url }}">View full drug report →</a></p>
