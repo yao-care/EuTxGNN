@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 
 ## Related News (2)
 
-### [Proteinurie: Okinawa-Studie zeigt 14,9-fach höheres Nierenversagen-Risiko](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
+### [Blutdruckkontrolle bei älteren Erwachsenen: Was sind sichere Werte?](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
 
 2026-10-19 <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxNemY0elhvUGF5YzdlWlFvTFRXM1IxTnZ6dy1ESmp2NDNDLVhxdnB1bDJEZWVaOE9BM1ZTRHV4WVhQRVBIdmo3dVMtWHlzamNBTVhYVXVnS3FHMVpzRXRfbkhHdWtRRkNFQjJaWjlXWnN4b3dKTHhJMXhoMUNnV3NhbnpZVm1DdkFFbTEweVdWSERSMTM3NHh3Y1pSTW1qd0VRR196OG1BeWRDWFlqWlZycU5fZTRKSEpEVmU4LXEwQQ?oc=5)
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDNCUUdWcTBfeWU3eDRaNjFyQnB6MUVxM1BUWDRJSldNTlVSTllzSXdiSHJ2VjFzSWgtZ3lhRlA1RFRiY2dqTnRwZDhKd0VJendrejZSbW5NVzRPU1dfLTMtQzFPZVlyWWdVRS0zMjJ2bFE2TENLM2d5OTJIZURobl8tTndqdXlxb1E?oc=5)
 
 ---
 

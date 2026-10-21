@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Levetiracetam with the lates
 
 ## Related News (1)
 
-### [Epilepsie und Demenz: Studie zeigt mehr als sechsfaches Risiko vor 65](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTN0eU5SNXYtOXN5dTBOLUNZVFl0bzZEOXU4eXE2bE9fdnNYNjQ2M25YZU5oUktFZUhob3JkcmcwT1l4WFhFLVBFSVp2Y2hjbTE5XzAwNzJJZ1JPVDlxdl9BaFlvbm4yalBIdDFBYTFfbXo1Tm9heEFNeW91dGZNRThmenhneVBMdXBVeUpyaEN1VjE4eUx2M3YwSUF3THNsLUxrcVE2Tm8yRVpJTzBoaHpJblc4Mnlx?oc=5)
+### [Epilepsie mit einem erhöhten Risiko für Demenz vor dem 65. Lebensjahr assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
 
-2026-10-19 <span class="news-indication-tag">Epilepsie</span>
+2026-10-20 <span class="news-indication-tag">Epilepsie</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTN0eU5SNXYtOXN5dTBOLUNZVFl0bzZEOXU4eXE2bE9fdnNYNjQ2M25YZU5oUktFZUhob3JkcmcwT1l4WFhFLVBFSVp2Y2hjbTE5XzAwNzJJZ1JPVDlxdl9BaFlvbm4yalBIdDFBYTFfbXo1Tm9heEFNeW91dGZNRThmenhneVBMdXBVeUpyaEN1VjE4eUx2M3YwSUF3THNsLUxrcVE2Tm8yRVpJTzBoaHpJblc4Mnlx?oc=5)
+Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
 
 ---
 

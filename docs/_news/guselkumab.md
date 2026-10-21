@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,37 +32,37 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
-### [Menopause und Diabetes: Frühe Wechseljahre erhöhen das Risiko um 30 Prozent](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
+### [Chronische Darmerkrankungen: Blut zeigt Risiko Jahre vor Diagnose](https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0xFR3FvdVdNWW9rdzlRUEpCVm9Td1dOTmlLd0IwLTltNjhtampkYVBEU2hFN2E4R0todFFYVU0tN09lVmlxRTZGMnVWYi1aaEdVWFhOTDhSSUp6YjBWczJYcXp5ZUpNYmh2RWhGU0ZpRXh6WlV4dngzeHpra2JkN2tFMVFNdmlISmtjRU1PQ3ZLUm9ZOVFSRHhyNG03Wk5JQ1FBUGZqeWxRWXlDTDBzMDc1Y2t3TmwxMXpXcUt3QQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
+
+Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0xFR3FvdVdNWW9rdzlRUEpCVm9Td1dOTmlLd0IwLTltNjhtampkYVBEU2hFN2E4R0todFFYVU0tN09lVmlxRTZGMnVWYi1aaEdVWFhOTDhSSUp6YjBWczJYcXp5ZUpNYmh2RWhGU0ZpRXh6WlV4dngzeHpra2JkN2tFMVFNdmlISmtjRU1PQ3ZLUm9ZOVFSRHhyNG03Wk5JQ1FBUGZqeWxRWXlDTDBzMDc1Y2t3TmwxMXpXcUt3QQ?oc=5)
+
+---
+
+### [Kann zu viel Vitamin B12 schädlich sein? Studien weisen auf Risiken hin - Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTA2QXlaZDRpaG4tRUNSUnlYTDQzWVBoWWNBeHFUeFhnZ2FBSE5oVGhBWm9xRkc1U2dpUE9UNzdJTEtvbXkxZ1V3VDloejNpU3BhU21vZlhhZjZObWEzZDBWMlMybkhleVNNX3VrSjQtUjlkNXVvZEh4X2Rna0NtSU5fZHJfZHhzdWxYaE9DYW8yeE5MY3hvNlNRc1BvQThXOElRMmVOMlAyaEw2OGhB?oc=5)
+
+2026-10-21 <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">diabetes</span>
+
+Source: [Hamburger Abendblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTA2QXlaZDRpaG4tRUNSUnlYTDQzWVBoWWNBeHFUeFhnZ2FBSE5oVGhBWm9xRkc1U2dpUE9UNzdJTEtvbXkxZ1V3VDloejNpU3BhU21vZlhhZjZObWEzZDBWMlMybkhleVNNX3VrSjQtUjlkNXVvZEh4X2Rna0NtSU5fZHJfZHhzdWxYaE9DYW8yeE5MY3hvNlNRc1BvQThXOElRMmVOMlAyaEw2OGhB?oc=5)
+
+---
+
+### [Vorzeitige Menopause: Insulinresistenz vermittelt 19 Prozent des Herzrisikos - AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbFc0NmFOZ2lTeDM1S2Y3MDZ5Y0RWQVVKSkJIN1FNN1MycWhQaEVmZkZKLVdvUGFPU0ctY0p1cG9rNU1NYlJaTHNtZXVvQnBuT21tSmxnTF9SVkxhTGtzQ2l4bHd6aTdlSDhtN1lKVGxOOVNqRUZJbzJSc2dtLWpqWDkydUEyUnhjUUVTd19vNUt2YXQwWFdzQUJ6QTZkM0dBWEpjZUlTTkZCUFRPZldCandtTnlUUTNjb1NPOE16Sl9KWW8?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiwgFBVV95cUxONldYQkM4OHRIeUQ0WTI5X0U4Q21JQ3YxQ09QQnBERFpIaWRpMmsxbjM2ZWFjemtWMkE2Q0NPc1dYZm9xVnhEN0dpc2lmUHIxelNMZzZ4VTNXbHIyTmRoSTN0TnZTZWpTSjIxbjhpVF9qWUlQQWpmYm1CTnRVUnluRW1JcjZIRWl6a1djSGMxdzJmdlctUHBNOHhVUmpuRkZ4LWtJVU1EbFZ3UUtlb3hPSTQ5Rm5fM2Zsd3NxTUNaTVBJdw?oc=5)
 
 ---
 
-### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
-
-2026-10-20 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
-
----
-
-### [Typ-2-Diabetes: Kombi aus Diät und Training lässt Erkrankung verschwinden](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
+### [Typ-2-Diabetes: Studie zeigt bei 42 Prozent Remission ohne Medikamente](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
 2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [Kurier](https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzQtTjJ4LVdmS0dSZVR5QTVHRy1NUU0wYzg2Q253RkFxMFhYVkIxUmtOdmE1c0tzMHoyMHJKS2VCTzFFTVlnMkQ2YWdSQ1BnRl9DSGsxc2tRbHc2X2FvclhDcUlsQkRUYkRfUVFtNlcwdVNxOUE0cG5yTUxUNnFpY2xHRGQzTHdfOWFoMnVkVHNZSG1OMmVn?oc=5)
-
----
-
-### [Antikörper im Blut zeigen Darmentzündungen lange vor den ersten Symptomen](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Morbus Crohn</span> <span class="news-indication-tag">colitis ulcerosa</span>
-
-Source: [Scinexx](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5VGY0VTR3U1psMGRXai1zZE0yUEtjNlh2UkhKcVUxR0RmOFBtRGJTcnRPTGlGYmg0ak05WEgxQnQ4cVQzTlBpQ1JFN3k0QWEyYnRFeUFpMXBTSk1TT194ZU1lbXNYUWpWZmdtNXZJSFFjLS1JMWI1ZlZsdTBvVlpINGF4OE4yZ0plU0lfR2NuckhKR2RoTVB3R3pfWFV0NHRWZkNfWE1FMDA3c2VR?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHVVVUVNMmtBcENMNkptNU1ESjBQSS1wcXh3c3lSMndJZFBCSW1lVmpPdmE2UXVzeE82bWdkazM2LWgwR2ZqVzMtNzQ3T0U1TzNrNlpvZjlHT1p4ZFlhd0NMNC10Zk1HS0JYYjJwVlVxSjF2SXoxaDJWbGd0MU9nM3doMjVxVnk1elRoTWw1TUJoM1dOcjJOY1dKclRSNkc0T29GV3dsVjFCaDM3SXJvMW9FZTVFa1RnTnc?oc=5)
 
 ---
 
@@ -71,14 +71,6 @@ Source: [Scinexx](https://news.google.com/rss/articles/CBMisgFBVV95cUxNREMxOXo5V
 2026-10-19 <span class="news-indication-tag">diabetes</span>
 
 Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
-
----
-
-### [An eating disorder may be hiding in plain sight among adults with type 2 diabetes - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNd0tBYkc5ckUySjk4UDJUdFctdGpvRHl4Z2RSNkFSM0dmdGN3VEJSaW5xWUV2QkdJbFppbl9VVGo1X1l2S0hheGtwc2d0RkFWc1VIRzZBaUkwRXplRGhBN1Zxd3MtcndNWWNrNHNWb3NCWjJkd1JmZkstZng4emFHbXFjQjVacVk?oc=5)
 
 ---
 

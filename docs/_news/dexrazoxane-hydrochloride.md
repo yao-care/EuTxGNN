@@ -14,7 +14,7 @@ permalink: /news/dexrazoxane-hydrochloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexrazoxane Hydrochloride?">
-<strong>Dexrazoxane Hydrochloride</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Dexrazoxane Hydrochloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Dexrazoxane Hydrochloride wi
 
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Vaccinazione antinfluenzale, l’Asl avvia la campagna: 155mila dosi previste](https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTDBmMUdicGhpVzBiVnY0eGpSSVdiUVR3dk9SZV9KbXFFYi1jQWJMWUNaenRHUE9PU2tFX2J5WTM1dGRIekNoZHlmWWpQenBmaU0yWkRJX1l0bE02dlFTWFpTNjZMdFA2LUVJcWNXb2JxLU1udVNqUHBhb011M0U?oc=5)
-
-2026-10-19 <span class="news-drug-tag">Dexrazoxane Hydrochloride</span>
-
-Source: [LeccePrima](https://news.google.com/rss/articles/CBMif0FVX3lxTE5uTDBmMUdicGhpVzBiVnY0eGpSSVdiUVR3dk9SZV9KbXFFYi1jQWJMWUNaenRHUE9PU2tFX2J5WTM1dGRIekNoZHlmWWpQenBmaU0yWkRJX1l0bE02dlFTWFpTNjZMdFA2LUVJcWNXb2JxLU1udVNqUHBhb011M0U?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

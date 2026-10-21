@@ -14,7 +14,7 @@ permalink: /news/selpercatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Bluthochdruck: DASH- und Mittelmeerkost senken den Wert um bis zu 11 mmHg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
-
----
-
-### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+### [Eine Handvoll „kleiner, aber wirkungsvoller“ Lebensmittel kann das Risiko für Bluthochdruck um bis zu 26 % senken.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
 
 2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
 
 ---
 

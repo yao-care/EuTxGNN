@@ -14,7 +14,7 @@ permalink: /news/pibrentasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Pibrentasvir?">
-<strong>Pibrentasvir</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Pibrentasvir</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Pibrentasvir with the latest
 <p><a href="{{ '/drugs/pibrentasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
+
+### [Möglicher neuer therapeutischer Ansatz für Krebskachexie - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGxCYXptMjY1aE56Z2lwd1h2WU0xU2hLYzJ3TkF3YUQ2OENhRGE5Sy0xb29VR2o5aTgwcE0xMUVIckJBUmNqaUlUczNvQ3NNOHVsZ2pVbDZYYlkydlYzcUVBRmEwWUNSc3BCazdQa3pYMjlJeVM1UGliRFlTT1FBZnptcWIzb0swbVJXR01QVEZKZlMzVjhLaVBnOHNEb2l0?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGxCYXptMjY1aE56Z2lwd1h2WU0xU2hLYzJ3TkF3YUQ2OENhRGE5Sy0xb29VR2o5aTgwcE0xMUVIckJBUmNqaUlUczNvQ3NNOHVsZ2pVbDZYYlkydlYzcUVBRmEwWUNSc3BCazdQa3pYMjlJeVM1UGliRFlTT1FBZnptcWIzb0swbVJXR01QVEZKZlMzVjhLaVBnOHNEb2l0?oc=5)
+
+---
 
 ### [Menopause: ACOG Recommends Hormone Therapy for Hot Flashes and Mood](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTJfT0VDR0xBQUhLVEtLekYxYjdTNlFZMFE4MFRUQWVJVHEzR1dhYk5Kdm1RNEd5QlI5cHFOdGRKZmVPbkdfUG91dV9YeWVVNi1Nd3RTSnZBMGhoQlBMdjlKaG1TelBTaTJiZUppZEpmMHRCWUdFY0loM0xmWngwV1MtVE5MakxhWW9COVVyaGFZRmdYSkxoOUh1b2FsYWs?oc=5)
 
@@ -50,6 +58,14 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
+### [Alzheimer, analisi Altems: "Priorità garantire diagnosi e cure omogenee" - Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1FjZFROcEZlU29WajRJVW11YTItZGpaNm1hZzJKcTBRU0RaU3FqdkRVRlJLNm1Kd0Q0bG94X29VY09mMlZzMmVtWGhNVlJRMWowNVo0MlJtZEZPZTF3cHF3NF9YWU1HUWJZckY2NWYySDg0ZWs0a2ZpaUdid2xReFZTRDZ2NURwdFJXdGpkVXNzVS1pcmkwSWZldUdvdWNadkNMSjNZUXV5UlE3MHJJckdHY0hWMk9pU2lQajBpSWlGcnFmenh1RG9qZ1N3M1hDRlBpV0pJRQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">MS</span>
+
+Source: [Il Tirreno](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOa1FjZFROcEZlU29WajRJVW11YTItZGpaNm1hZzJKcTBRU0RaU3FqdkRVRlJLNm1Kd0Q0bG94X29VY09mMlZzMmVtWGhNVlJRMWowNVo0MlJtZEZPZTF3cHF3NF9YWU1HUWJZckY2NWYySDg0ZWs0a2ZpaUdid2xReFZTRDZ2NURwdFJXdGpkVXNzVS1pcmkwSWZldUdvdWNadkNMSjNZUXV5UlE3MHJJckdHY0hWMk9pU2lQajBpSWlGcnFmenh1RG9qZ1N3M1hDRlBpV0pJRQ?oc=5)
+
+---
+
 ### [New 'American' Covid is sweeping the UK: The unique symptom to be aware of as hospitalisation rates grow](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4OUVhejRxdmJKclYza2dSOTJHZXJnemV0SGU1MENwSk5BWXFjUEdxb1A5anFHQW03cEYyQ1JIaW1fVEdpNER5ek8yRGJLOVNBZWhySk94VTNlV25IbDNaRkN1RU9WckN0MmdaVFc5U29CeTBidm85b1l6YXR0Rkxja3U?oc=5)
 
 2026-10-20 <span class="news-indication-tag">MS</span>
@@ -58,27 +74,19 @@ Source: [Cosmopolitan](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4
 
 ---
 
+### [Häufige Antibiotikagaben sind mit späterem Reizdarm verbunden - Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTFubnFMU1FrV1BDVEdybDYyUUFpdmVrQno5YTROMEJrR1lQY0ktLTFYcDFBVlk4RV9hZjFnMFFkZ3BQYTVZcTMxZFM4NWF1c29CSl9kc3RoRk9ybXo4NkQtcFZrNEJXUTFGX2NMUDI1aENVT3d3ekd5akFWV0NNQks0ekREY3FJaVpKcjExYkw2RFZ6WlpUVUF3SGVwdzlCMGxjdDBEbi1XenVENUlmUXYyM04zUU5NLXNYMHctbXJRY1ZHcDZlNQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">MS</span>
+
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTFubnFMU1FrV1BDVEdybDYyUUFpdmVrQno5YTROMEJrR1lQY0ktLTFYcDFBVlk4RV9hZjFnMFFkZ3BQYTVZcTMxZFM4NWF1c29CSl9kc3RoRk9ybXo4NkQtcFZrNEJXUTFGX2NMUDI1aENVT3d3ekd5akFWV0NNQks0ekREY3FJaVpKcjExYkw2RFZ6WlpUVUF3SGVwdzlCMGxjdDBEbi1XenVENUlmUXYyM04zUU5NLXNYMHctbXJRY1ZHcDZlNQ?oc=5)
+
+---
+
 ### [Pfeiffersches Drüsenfieber: Warum die vermeintlich harmlose „Kusskrankheit“ zur ernsthaften Gesundheitsgefahr werden kann - Das Verbraucherschutzforum](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMGFvOEJMbkxIZ3RnNkd0SUdtNFZnbVpONklIQldNS0ZUQnVWbHRUOHhiMjBBRThqTnJkRUdRN0RUMS1reDl1cUpqME1KZHk4cmM0ZVlSLW1GU0NrQ3VGZm45TkZmYUZuREZlWkVkR0o0SHN2QWNZa1IyY0dTWFRZTXFBemZoUFpYVlhqcGpNRGZmZG4ybVFORTR6VFRBMkVEYXc3MV9JeDVhVHhlelY4SHR3dHZ0U3RGam9Da0VTYlBaUWhpbXprMFphU2VzdXhsWkQyX0J6aUhXeW5nandNeWx6RFVPTUlGUno3a0wtRXFBNnNWeTRZQ0NsQXAwV2cyZF9tM0dXRQ?oc=5)
 
 2026-10-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Das Verbraucherschutzforum](https://news.google.com/rss/articles/CBMihwJBVV95cUxOMGFvOEJMbkxIZ3RnNkd0SUdtNFZnbVpONklIQldNS0ZUQnVWbHRUOHhiMjBBRThqTnJkRUdRN0RUMS1reDl1cUpqME1KZHk4cmM0ZVlSLW1GU0NrQ3VGZm45TkZmYUZuREZlWkVkR0o0SHN2QWNZa1IyY0dTWFRZTXFBemZoUFpYVlhqcGpNRGZmZG4ybVFORTR6VFRBMkVEYXc3MV9JeDVhVHhlelY4SHR3dHZ0U3RGam9Da0VTYlBaUWhpbXprMFphU2VzdXhsWkQyX0J6aUhXeW5nandNeWx6RFVPTUlGUno3a0wtRXFBNnNWeTRZQ0NsQXAwV2cyZF9tM0dXRQ?oc=5)
-
----
-
-### [Vom Impf-Vorbild zur schlimmsten Masernepidemie der Welt: Was in Bangladesch schiefgelaufen ist - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOURnVEZydXdQTFZUU044V1RIMnNXclA3d01wekh6QTRGOTZxX2lVbThiTWMtQTF1QVYzLWNvc1NvZE4zTVZvTzlEVFJDeDRoX2pUVnhVS1pELVpCVC1GRzJDQlJ3S2F1VjV2M2h1RVRmeVV3ejJET0V0SGJzN0tVMHRucC1jZ3hXNFZYMjk0ZVZ1eHplczJnbmRhRkg5Y29NQjJuMlVjeXE?oc=5)
-
-2026-10-20 <span class="news-indication-tag">MS</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOURnVEZydXdQTFZUU044V1RIMnNXclA3d01wekh6QTRGOTZxX2lVbThiTWMtQTF1QVYzLWNvc1NvZE4zTVZvTzlEVFJDeDRoX2pUVnhVS1pELVpCVC1GRzJDQlJ3S2F1VjV2M2h1RVRmeVV3ejJET0V0SGJzN0tVMHRucC1jZ3hXNFZYMjk0ZVZ1eHplczJnbmRhRkg5Y29NQjJuMlVjeXE?oc=5)
-
----
-
-### [Fruit and sugary drinks stood out in a three-year study of teenage mental health](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGY4bExGNlFrcHVjRFQ3cWF3dEZ4QXNpUnFvMlRJNXRnUEEtRGVEaUQzT2U4cFdHekpXdXBuTEM0RDZfNXo1Sm5oZzkxaVFqZmNTTUw4RDhqVlVycVdRNkVaR2pUUDRrU1RDLS1HNFh3bWRpNEZIbUJGUGNaZW1OMl9INjIzVXVvVUZwSDlxYlVuX3dwT2xsS21KYkpnQ0FwMmc4eHNwMWhTUkdIc0pkMDgybkF4OVMwck9oQS1NR1BCek9sbGk4?oc=5)
-
-2026-10-19 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGY4bExGNlFrcHVjRFQ3cWF3dEZ4QXNpUnFvMlRJNXRnUEEtRGVEaUQzT2U4cFdHekpXdXBuTEM0RDZfNXo1Sm5oZzkxaVFqZmNTTUw4RDhqVlVycVdRNkVaR2pUUDRrU1RDLS1HNFh3bWRpNEZIbUJGUGNaZW1OMl9INjIzVXVvVUZwSDlxYlVuX3dwT2xsS21KYkpnQ0FwMmc4eHNwMWhTUkdIc0pkMDgybkF4OVMwck9oQS1NR1BCek9sbGk4?oc=5)
 
 ---
 
@@ -98,30 +106,6 @@ Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/ar
 
 ---
 
-### [Muskelschwund bei Krebs: Forscher bremsen tödlichen Kraftverlust im Labor - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMingFBVV95cUxOMmVkQ2ZQbGZERXl0TG9hMlpkWVloRmZWSjhGWEl3UUdjZ3FMRlBCeV9zSlZmOFlsZG5rcG5ZSXFSNF9EdWtLYkpNdExCZzBwcDlCZzBFTEZWdEhQdTZMaldiOWF6cTR0R0tyUEtOaWg0YlIwQXFXRVRzMThsYTFiaDNYQlFMd1dBYnl3MkFEdGVRcFE5cDRKWGp5bUduQQ?oc=5)
-
----
-
-### [I spent hundreds on hair-growth products - £1.23 daily supplement finally worked - The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQS21oRTBJVkt1QUdiRlZiRVhjWHVBTXEydkhQdnVwYVM0QnN2VUNqZkM2NHFPSHNqdnNyZmp1ZEk1R1R1am9GekZKbm84RXl3aEtydnVzcHZDUDI2NG1NeFdESUp5cjg2Q1RibEQyZ2g3X1Z5dHVORnBwUEJES3hta0FMaWQ2TTA?oc=5)
-
-2026-10-19 <span class="news-indication-tag">MS</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMihwFBVV95cUxQS21oRTBJVkt1QUdiRlZiRVhjWHVBTXEydkhQdnVwYVM0QnN2VUNqZkM2NHFPSHNqdnNyZmp1ZEk1R1R1am9GekZKbm84RXl3aEtydnVzcHZDUDI2NG1NeFdESUp5cjg2Q1RibEQyZ2g3X1Z5dHVORnBwUEJES3hta0FMaWQ2TTA?oc=5)
-
----
-
-### [Common cold sore virus may reprogram the brain's immune defenses - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFFqc3Z2X3k3QnVndkJNME5Od2lSaGRpay1SMHpuMmIwS2VzbHptczBMYjYwWEVNR2s4bkxFSFhZV250d0dRYzFLMWo5MEp3VnZHYmxUXy1odXVmWDRyaWxzbzlpS3kwR2xqbnB2N3RZeGlXVHlMVm1IQlVMX2xBSi1R?oc=5)
-
-2026-10-19 <span class="news-indication-tag">MS</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFFqc3Z2X3k3QnVndkJNME5Od2lSaGRpay1SMHpuMmIwS2VzbHptczBMYjYwWEVNR2s4bkxFSFhZV250d0dRYzFLMWo5MEp3VnZHYmxUXy1odXVmWDRyaWxzbzlpS3kwR2xqbnB2N3RZeGlXVHlMVm1IQlVMX2xBSi1R?oc=5)
-
----
-
 ### [Russian pneumonia death exposes limits of international health rules](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ1Vta001V3Y1WnFid21mWjBhYjdWSmw3b0R5RTNoU0ZBWjVJYWFiZUlCZVUzNndheGpqZEdmVHlzcHYyRzRweldIcUVaZW1BRkVveVNOQzhYOUZDbTZHM3FRbnpGQkh2TGtvbXd5bDBFNmpaOUdlaFlUdUQ2S19ZeEJFbmZ2a0YwZ09Rbzk3Y21hSzlCNUpDNXh3LUcxNTlJ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">MS</span>
@@ -130,11 +114,11 @@ Source: [POLITICO.eu](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ
 
 ---
 
-### [Antibiotika für Kinder: Bei diesen Mitteln steigt das Reizdarm-Risiko bis auf das Sechsfache - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnpMTzFnTlBsUkR6d2VielNoclk0R0dCeHphSEdCT1BYYzZSQlpsc21oOGtwd0laREtlMjR4UDRzbEhLbmVnX2IyLWhXNTBYdm5yRVI3dkk2VlM3NXIzbU5YT1BCRXl2YTU4aEEwX25oa1Y2bnlZbmhDb1ZFN081QllBaFZmcmpjODFFUTZtdjJ2eDVsMTU1cG5CUzJvYTBSOFpDUQ?oc=5)
+### [What Happens to Your Brain When You Stop Drinking Alcohol](https://news.google.com/rss/articles/CBMibEFVX3lxTE04dEFQUjMtcjVpSXRlb2hyZ0JwLVJVTm92N2U5SXNPSEptQ3gzalBxUmJydlFlWDk5Tl9tbWp1VnE3WGxRX1FkdDJjUTBWcnVuOEVIcHgyR0NMUXMycWU4U2dJTWdXaHBDSVE0Sw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">MS</span>
+2026-10-18 <span class="news-indication-tag">MS</span>
 
-Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnpMTzFnTlBsUkR6d2VielNoclk0R0dCeHphSEdCT1BYYzZSQlpsc21oOGtwd0laREtlMjR4UDRzbEhLbmVnX2IyLWhXNTBYdm5yRVI3dkk2VlM3NXIzbU5YT1BCRXl2YTU4aEEwX25oa1Y2bnlZbmhDb1ZFN081QllBaFZmcmpjODFFUTZtdjJ2eDVsMTU1cG5CUzJvYTBSOFpDUQ?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMibEFVX3lxTE04dEFQUjMtcjVpSXRlb2hyZ0JwLVJVTm92N2U5SXNPSEptQ3gzalBxUmJydlFlWDk5Tl9tbWp1VnE3WGxRX1FkdDJjUTBWcnVuOEVIcHgyR0NMUXMycWU4U2dJTWdXaHBDSVE0Sw?oc=5)
 
 ---
 
@@ -151,6 +135,14 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiqgFBVV95c
 2026-10-15 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
+
+---
+
+### [What dietitians say to eat during perimenopause – and what to avoid](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVNwWVduVkNDUEV5Xy1ob0NINE9UZGZfZi1xdkVBRml4ZklzbmMwcTVzbEljWk51MkZ6ck1HaG56NkxKYi1xYUc2Qk56Z2JfeXhHOWZFZDRfMHg1?oc=5)
+
+2026-10-14 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wLVNwWVduVkNDUEV5Xy1ob0NINE9UZGZfZi1xdkVBRml4ZklzbmMwcTVzbEljWk51MkZ6ck1HaG56NkxKYi1xYUc2Qk56Z2JfeXhHOWZFZDRfMHg1?oc=5)
 
 ---
 

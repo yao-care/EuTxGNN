@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 1 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,21 +64,13 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Bluthochdruck: DASH- und Mittelmeerkost senken den Wert um bis zu 11 mmHg](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
-
-2026-10-20
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMivAFBVV95cUxNWjlMTlRzeG5leUpjeG9DSzc3eERtMTRJMThKTUNVTzF2LXpoZXhBQ1RqLXV6ajA3S0V0eTAwUV9VTDJPcDVNYWJMLWgxb3QtS2ZRbnlSbW9jTUtwalVLeHFuRXl6NkdsR1V2bWNrZURDenQxWlBkdXM5RllUOXdDYmIxeGw3UGVDdVdKQXo2Vk14c093Rk9sMXlBbTFRZVI2bWRFTFF1bTF2SjhZMS1NaDdzQjUwamV2cU5JYw?oc=5)
-
----
-
-### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+### [Eine Handvoll „kleiner, aber wirkungsvoller“ Lebensmittel kann das Risiko für Bluthochdruck um bis zu 26 % senken.](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
 
 2026-10-19
 
-Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjJHTjYtcmk5WjBnNTFLVjgxOTlTcWJSN2lMVDBvWm9FSVEyYU1uRVdNZ0k3VW1fRGd6UHdHWGlSY2dYNkVIallqaTdmU05PT3hMeVk3dDBkWlF0OGFXYWNCOTI3dUdXQkk1RWJPRVhXcjRaMGlHblMtc3JfTUpEUF91MkJhQ1IxNzduWUVTYVBpeFhGMzk4?oc=5)
 
 ---
 

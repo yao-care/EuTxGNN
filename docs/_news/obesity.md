@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "overweight (obesity) News"
+title: "obésité (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about overweight (obesity). 5 articles, 8 related drugs."
+description: "Health news about obésité (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# overweight (obesity) News
+# obésité (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about overweight (obesity)?">
-<strong>overweight (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obésité (obesity)?">
+<strong>obésité (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “overweight” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obésité” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -33,15 +33,7 @@ This page brings together the latest health news about “overweight” and list
 </ul>
 </div>
 
-## Related News (5)
-
-### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
-
-2026-10-20
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
-
----
+## Related News (4)
 
 ### [Rétatrutide (anti-obésité) : ce que vous risquez avec le nouveau « King Kong » de la minceur](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
 
