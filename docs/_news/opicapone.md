@@ -34,19 +34,19 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 
 ## Related News (2)
 
+### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+
+---
+
 ### [Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5RdHB2bGhhN1ZuR2VjcjlCQTFvNmxvSDVyRGl3ZTBGQjdvMU1JaG1oV1p6dlhrN0UwNzM5V3RuUVZGMi1WWEN0TDBEbE83UHVqbU8tWVBZUkNrcmN0aVJRQ1U0NUlVZzRCc0NiWHpKdw?oc=5)
-
----
-
-### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
-2026-10-15 <span class="news-indication-tag">dementia</span>
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
 
 ---
 

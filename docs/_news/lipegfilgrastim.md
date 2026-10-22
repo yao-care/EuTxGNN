@@ -14,7 +14,7 @@ permalink: /news/lipegfilgrastim/
 ---
 
 <p class="key-answer" data-question="What news is there about Lipegfilgrastim?">
-<strong>Lipegfilgrastim</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Lipegfilgrastim</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,19 +32,19 @@ This page combines the AI-predicted indications for Lipegfilgrastim with the lat
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
-### [ADA und EASD verschärfen Diabetes-Leitlinien: Begleiterkrankungen im Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
+### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span>
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
 ---
 
 ### [Menopause: Das unterschätzte Diabetes-Risiko](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlYTW5BaGZMVjdVYUROTXp4N2VQV3otWnhHSWVVY01TbHhJYy16ZXZWZGpPQm0ybU1WSFh3U0oyOVFyQjNkT0NfTFU5UC1oa245VmRGZnpXNENuWHVkNEZkWXUwcFNGMkVlWENWWm5yREFHR2JRM3VzMWU2LU1wSjAwNUNQeFlIN0x3c3RzVV9xRWFoNUllM2ZnbWNXS0ZEdWp6Unp5MWc2a1kzb0xV?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span>
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
 Source: [netDoktor](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlYTW5BaGZMVjdVYUROTXp4N2VQV3otWnhHSWVVY01TbHhJYy16ZXZWZGpPQm0ybU1WSFh3U0oyOVFyQjNkT0NfTFU5UC1oa245VmRGZnpXNENuWHVkNEZkWXUwcFNGMkVlWENWWm5yREFHR2JRM3VzMWU2LU1wSjAwNUNQeFlIN0x3c3RzVV9xRWFoNUllM2ZnbWNXS0ZEdWp6Unp5MWc2a1kzb0xV?oc=5)
 
@@ -66,14 +66,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakYzcU
 
 ---
 
-### [Braunes Fett: Schutz vor Diabetes, Herzkrankheiten und Depressionen - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
-
----
-
 ### [Lucía Mosquera, investigadora en diabetes: «No sé si aparecerá la cura, pero creo que la calidad de vida mejorará» - La Voz de Galicia](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdVRVR29wM0F5dldWUDJiVGJ0cHZhTUtMV2dnWV9HZk5XRVJUVWJKUEI5VldGVEpEd1lNSUk2amdyS1RUTTMxeXlNd29nZlZuUDFYaFBNbFItVWd1UDRBQmJDUDNwTU42SWdTeVlaWXFVYW9VeVNybV80WnRaNnh1SmZEbk1aMVo2TWNxZEs5dXhNaktYM0hiOGlBLWlFU0syR1dtUGdJa29BczJDblk4NHdPUTQ1QUdsenlmX2VJVUFscXRhalV3dG5YMHJtNjZ6V0x1Z1p0eFhVM3dQYkVucEcyaUdjbTNUSk9McnkwOUZqbEowZHRVaU5JeW5TalRuT2VxUjJCTzkzWGxnbzJmWWRZQThRZ9IBmwJBVV95cUxQckVIUk4wYl9aRUFEYm5sWmZrSmFsdlNuODE5OV8wUXdXRjZlSUh5TjJQUEo1bzdFUFlaQUh6VTl5OTdDWHRYeEw2am1Ed3lJWHNKSEFkdWJQSTItN1dSN0VUTHVMYU1Mc3pvWEloR0ZlUXJxYWxJdndCZXVHVFRiSExhb2NlVFMtbEp4V0hSMF9jZHYwUUlPME5XV3A0MHA5NVcxeDMzTUhsMHBXLTRTUVZGX1MzLTBaRE9VY1R6UGZFdEotWlFsb3MxQS1RbzNJZ3E5eEd3R2dZVTdRblhCVS1fSmd5NFI0am5yeER1cnVxRXZXNXh4NkhQYXlrWVlGOVZpZXFSWFE2SF9OWFE2VkNGSnNxTmJteHlF?oc=5)
 
 2026-10-21 <span class="news-indication-tag">diabetes</span>
@@ -90,11 +82,11 @@ Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11
 
 ---
 
-### [Pre-diabete: se preso in tempo può anche regredire. Come perdere peso e normalizzare la glicemia - Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxOaWJaZEZRT0RjcENUNTNLVWhLUGxxeElncWxaR213aHNwS3UyTERadlFWdURORDNrQTVEQXd4c0dMd3pnZEJyYzdTRmJrcHhVVDZHRFdtWkp4d3hPenM2MDR2eVZFZTdqRmdUMkFBUVFvaGpLYS00T3VlYXJpZGxOZXVGOXl2REtOVWVDdXpFVzJaT2w2S0pXRzZFYWhzQjVoa0llMUtHelpnUWh5TXZUcWljbWptMTZRVFJ4cnBPSkoyUkhFek9ZM2pyZVF1dW9tb2NRbDlkSXR4MFZ5ZHJjeVB3MlA1ZTFTcUdLRGh2c211VkdWVk5fR1p5SHdwcndTMTd5NUNPTS1MUm9MSFlycXpjQk1pZGlDQ0HSAZ8CQVVfeXFMT0R5SDJzeExvcU95cnMwZjdPSVlRZE1qQjZ4TVFPTEJVU2poY3Y4ZXV1dVlGOUI3Y3NqQTZURVR1bGl4NDV5Q0drRk9pV1dpTzVOamZZWkY4X08zNU5ocUNZRF9aNG9QQ1BBWnJEMktMaXZmMXloXzdwemVlWTBUQ0tIMzhKNEZmUVhjZmM1M1ltdUUtTVVnYXRWLTNGeWlBTXdtZGh6SlRqT0traE1mOE8yNFpNcmJvMm1PSWd5TW5ablRqM1hqOGhRZUgySl9FaE44VFZWMGVJb2pRNVI2YzJQMVdTVy1YbG43bkRPWk5EQlV1TkItOU5XRllhLXNCaElwenBlUGdGUWNlb3VjVjVfaG83Q0piQmVrUHZ4VW8?oc=5)
+### [Individuelle Therapiestrategien in der Hausarztpraxis bei Typ-2-Diabetes - Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkh4VERYNmtVZnRXa1A2Y2NHZHY5cFRFQ1E0amJRWWN2aU1NbFJSX2lPWmY1QjUxeFNhUzRoNWdsMHR5NHB4S1hFUFh1Zzh3T0ZYLVppd3ZhUDgwSFF4TXlCYkRzek5iZUlHQ056Q0stUXpaX3VDVUlFemlZSDFLQmdENFN4YWpIdnBQR05jM2xxakFhcHZuRzBYMldwaV8xNXQ5ejJWWXBBREJIVF9sblBnbEE1bDQ2QzB0Qg?oc=5)
 
-2026-10-19 <span class="news-indication-tag">diabete</span>
+2026-10-20 <span class="news-indication-tag">diabetes</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxOaWJaZEZRT0RjcENUNTNLVWhLUGxxeElncWxaR213aHNwS3UyTERadlFWdURORDNrQTVEQXd4c0dMd3pnZEJyYzdTRmJrcHhVVDZHRFdtWkp4d3hPenM2MDR2eVZFZTdqRmdUMkFBUVFvaGpLYS00T3VlYXJpZGxOZXVGOXl2REtOVWVDdXpFVzJaT2w2S0pXRzZFYWhzQjVoa0llMUtHelpnUWh5TXZUcWljbWptMTZRVFJ4cnBPSkoyUkhFek9ZM2pyZVF1dW9tb2NRbDlkSXR4MFZ5ZHJjeVB3MlA1ZTFTcUdLRGh2c211VkdWVk5fR1p5SHdwcndTMTd5NUNPTS1MUm9MSFlycXpjQk1pZGlDQ0HSAZ8CQVVfeXFMT0R5SDJzeExvcU95cnMwZjdPSVlRZE1qQjZ4TVFPTEJVU2poY3Y4ZXV1dVlGOUI3Y3NqQTZURVR1bGl4NDV5Q0drRk9pV1dpTzVOamZZWkY4X08zNU5ocUNZRF9aNG9QQ1BBWnJEMktMaXZmMXloXzdwemVlWTBUQ0tIMzhKNEZmUVhjZmM1M1ltdUUtTVVnYXRWLTNGeWlBTXdtZGh6SlRqT0traE1mOE8yNFpNcmJvMm1PSWd5TW5ablRqM1hqOGhRZUgySl9FaE44VFZWMGVJb2pRNVI2YzJQMVdTVy1YbG43bkRPWk5EQlV1TkItOU5XRllhLXNCaElwenBlUGdGUWNlb3VjVjVfaG83Q0piQmVrUHZ4VW8?oc=5)
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkh4VERYNmtVZnRXa1A2Y2NHZHY5cFRFQ1E0amJRWWN2aU1NbFJSX2lPWmY1QjUxeFNhUzRoNWdsMHR5NHB4S1hFUFh1Zzh3T0ZYLVppd3ZhUDgwSFF4TXlCYkRzek5iZUlHQ056Q0stUXpaX3VDVUlFemlZSDFLQmdENFN4YWpIdnBQR05jM2xxakFhcHZuRzBYMldwaV8xNXQ5ejJWWXBBREJIVF9sblBnbEE1bDQ2QzB0Qg?oc=5)
 
 ---
 

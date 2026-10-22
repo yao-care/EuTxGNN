@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,19 +32,11 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
-
-### [Artrite reumatoide, perché lo stress non agisce su tutti allo stesso modo? La nuova scoperta](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
-
-2026-10-20 <span class="news-indication-tag">artrite</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNktLMmN2UlhBclplcFYtT2FjMnhULXpvS3I0c2dVZ0hJQUFRb1U2elY2VFZldUhYS255eUluOUJQSTI0bGtJUmxHbktUZjNublR1QnpMTEllMHhNOE5ZS1hNeUpBaDZRZkhOOXhiUUtZbVNpWTA1bTA0THppSmN4UV9leG8yNGRJcmp1dDE2WXFKSVBKMjF3TVhGSjZfbF9vckhMbjVpOF9tYlV6Tl9MR3lSX0c1MFBGZDZ2UW16TkJ3R2J4dDBBbDMybWc3emM?oc=5)
-
----
+## Related News (3)
 
 ### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
-2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
@@ -63,14 +55,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cU
 2026-10-19 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmU3MHFfWmdPWXl0eGNYajdMU2l2M1NPTHNzSU5qbXNraElLSnI2X1VLSUxzc1doOXkyMUVPRHZkdmNCVU1YRDdRWmc1RlhfVzRPdWU0UkF5WmdWZXdDZ3NqckpkWGdMREtTcnYzeklwcGoxRHNMUDVzdEpDNFI4X0F3?oc=5)
-
----
-
-### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
-
-2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,13 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
-### [Schlaganfall: Bei einer Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+### [Quanti passi dobbiamo fare ogni giorno per proteggere il cervello? La risposta non è 10.000](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
 
-2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
+2026-10-21 <span class="news-indication-tag">ictus</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
 
 ---
 
@@ -58,6 +58,14 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjd
 
 ---
 
+### [Losing weight in your 50s ‘can reverse years of poor heart health’ - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+
+---
+
 ### [Community support floods in for Barrow woman, 39, after life-changing stroke](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -66,19 +74,11 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0p
 
 ---
 
-### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
+### [De la obesidad a una guerra nuclear: los riesgos que podrían cambiar la salud del mundo - El Espectador](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRUSEpJTU5hUDdYa25rSzVITnExcGljcUYxTTdsN2xOZkxjUXNOVFBtYTlrclJQNGpOVHdoWUlBQVZMUkdyVWhGbnBOZF9mQ1E0bXFwNVdTMTM0UHVxVE94NWJWZk5XZ3ctNTNsTEdHeVY2TWNKUHFvQlJidDc1a19lTzVLUl8ycUFzZU54Zk1sY1ZWaE9wY2ZmY0s1VVJYcFlINTNyQXJjaXZEWGpVM2h6RDlGc1BSbHBTeEs5MNIB0wFBVV95cUxQcWJ5V0VXMzhoUkpLb3hBU1l6SDhCUGJHUzlfTEtXdXlzbFNINzJwSTFOdWxYYm5XYktnSlBJSXROWmRjZjBJcmhtYW4tVy05WVFranE0eGJkc1hvOEttaHVaNHBKcU1YTTFibzJhcHlKck45UkJHMzd0Y2t0ajQyMVlHbXR0Ql9nSXVBb3hGdkt4NnQ2UXdVeVFIUnZBeGtMRm0wd19WZUowZl9QNmk4Ty1TSzNIQlZGQUJ4VzZjdjZxd2dNSnRWdGZoVHZkRjBRWFVv?oc=5)
 
-2026-10-20 <span class="news-indication-tag">stroke</span>
+2026-10-20 <span class="news-indication-tag">obesidad</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
-
----
-
-### [Rétatrutide (anti-obésité) : ce que vous risquez avec le nouveau « King Kong » de la minceur](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
-
-2026-10-20 <span class="news-indication-tag">obésité</span>
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
+Source: [El Espectador](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRUSEpJTU5hUDdYa25rSzVITnExcGljcUYxTTdsN2xOZkxjUXNOVFBtYTlrclJQNGpOVHdoWUlBQVZMUkdyVWhGbnBOZF9mQ1E0bXFwNVdTMTM0UHVxVE94NWJWZk5XZ3ctNTNsTEdHeVY2TWNKUHFvQlJidDc1a19lTzVLUl8ycUFzZU54Zk1sY1ZWaE9wY2ZmY0s1VVJYcFlINTNyQXJjaXZEWGpVM2h6RDlGc1BSbHBTeEs5MNIB0wFBVV95cUxQcWJ5V0VXMzhoUkpLb3hBU1l6SDhCUGJHUzlfTEtXdXlzbFNINzJwSTFOdWxYYm5XYktnSlBJSXROWmRjZjBJcmhtYW4tVy05WVFranE0eGJkc1hvOEttaHVaNHBKcU1YTTFibzJhcHlKck45UkJHMzd0Y2t0ajQyMVlHbXR0Ql9nSXVBb3hGdkt4NnQ2UXdVeVFIUnZBeGtMRm0wd19WZUowZl9QNmk4Ty1TSzNIQlZGQUJ4VzZjdjZxd2dNSnRWdGZoVHZkRjBRWFVv?oc=5)
 
 ---
 
@@ -92,9 +92,17 @@ Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11
 
 ### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
-2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span>
+2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
+
+---
+
+### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+
+2026-10-19 <span class="news-indication-tag">obésité</span>
+
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
 
 ---
 

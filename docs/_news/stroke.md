@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Schlaganfall (stroke) News"
+title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schlaganfall (stroke). 4 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 4 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
-# Schlaganfall (stroke) News
+# ictus (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
-<strong>Schlaganfall (stroke)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about ictus (stroke)?">
+<strong>ictus (stroke)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -38,11 +38,11 @@ This page brings together the latest health news about “Schlaganfall” and li
 
 ## Related News (4)
 
-### [Schlaganfall: Bei einer Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+### [Quanti passi dobbiamo fare ogni giorno per proteggere il cervello? La risposta non è 10.000](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
 
 2026-10-21
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGFyanFWOS12VVNydHdwLXh2T0RUYlB5Vi12MlJxWHJFSEZzVHI2X2lMcWtLaDR2cE5CbHdFU05hbzBSa1k0Z3BjbkM3d0JNWTFhbTdSZWphclBxc1ZzRElNS1pJd0ZYN1FjR0JkYW1mb0JGZzZ4T2NiQ0tjODJDQ1VYR0w3bjZjMGZHRDNpb0VBdmtOWk5nMGJUcjB4eXFLM0dtdThlc21zQlpPRXVjUFhrTUdIVmRVWklSVDFrUUk3cUEyakxaZmRkMDRJbm1OOUkwbVRnVVhLV2s?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
 
 ---
 
@@ -54,19 +54,19 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV9
 
 ---
 
+### [Losing weight in your 50s ‘can reverse years of poor heart health’ - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+
+2026-10-21
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+
+---
+
 ### [Community support floods in for Barrow woman, 39, after life-changing stroke](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 2026-10-21
 
 Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
-
----
-
-### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
-
-2026-10-20
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
 ---
 
