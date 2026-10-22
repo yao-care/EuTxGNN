@@ -39,7 +39,7 @@ Predictions come from the TxGNN model (**deep learning**: a **graph neural netwo
 
 3. **Prediction Output**
    - Prediction score for each drug-disease pair
-   - Higher scores indicate higher confidence
+   - The score is a ranking value inside the model, not a probability
 
 ### Prediction Sources
 

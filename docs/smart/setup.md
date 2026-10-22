@@ -119,7 +119,7 @@ GET https://eutxgnn.yao.care/fhir/ClinicalUseDefinition?subject=MedicationKnowle
 FHIR R4 ClinicalUseDefinition resources containing:
 - Predicted indication
 - Evidence level
-- Prediction confidence score
+- Prediction score (a ranking value inside the model, not a probability)
 
 ---
 

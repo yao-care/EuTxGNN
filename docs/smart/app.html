@@ -241,12 +241,6 @@
             ]
         };
 
-        function getScoreClass(score) {
-            if (score >= 0.8) return "";
-            if (score >= 0.6) return "medium";
-            return "low";
-        }
-
         function renderMedications(medications) {
             const container = document.getElementById("medications-container");
 
@@ -288,12 +282,11 @@
 
             let html = `<h4 style="margin-bottom: 15px;">Results for ${drugName}</h4><div class="repurposing-results">`;
             results.forEach(result => {
-                const scoreClass = getScoreClass(result.score);
                 html += `
                     <div class="result-item">
                         <div class="result-header">
                             <span class="result-drug">${drugName}</span>
-                            <span class="result-score ${scoreClass}">${(result.score * 100).toFixed(0)}% confidence</span>
+                            <span class="result-score" title="Ranking value inside the model, not a probability">score ${result.score.toFixed(4)}</span>
                         </div>
                         <div class="result-indication">Potential indication: <strong>${result.indication}</strong></div>
                         <div class="result-source">Source: ${result.source}</div>

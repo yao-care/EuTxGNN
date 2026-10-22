@@ -45,9 +45,9 @@ Each report contains detailed analysis and supporting data.
 
 ### Prediction Score
 
-The TxGNN score (0-1) indicates model confidence:
+The TxGNN score (0-1) is a ranking value inside the model, not a probability.
 
-Drug pages list only predictions with a score of **0.99 or higher** (after removing known uses already recorded in the knowledge graph). A high score reflects the model's confidence, not clinical evidence; see the evidence level (L1–L5) for that.
+Drug pages list only predictions with a score of **0.99 or higher**, up to the top 10 per drug, after removing known uses already recorded in the knowledge graph. The score is not clinical evidence; see the evidence level (L1–L5) for that.
 
 ### Source Types
 

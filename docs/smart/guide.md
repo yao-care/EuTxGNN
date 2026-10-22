@@ -65,7 +65,7 @@ For each medication:
 Use the filters to:
 - Show only high-evidence predictions (L1-L2)
 - Filter by therapeutic area
-- Sort by prediction confidence
+- Sort by evidence level
 
 ---
 
@@ -83,7 +83,7 @@ Use the filters to:
 
 ### Prediction Scores
 
-Higher scores indicate stronger model confidence, but clinical validation is always required.
+The score is a ranking value inside the model, not a probability. The site only lists predictions scoring 0.99 or higher; clinical validation is always required.
 
 ---
 
