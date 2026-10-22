@@ -47,19 +47,19 @@ This page brings together the latest health news about “MS” and lists the dr
 
 ## Related News (12)
 
-### [Shamonda virus detected in human for first time in France - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5)
+### [The surprising symptom in your EYES that could be a sign of 'American Covid' as cases rise 30% in a fortnight - The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0Y0MkFPMFdwSWo3MXhpNDZJZHB0bldFREk2VHJQZWZOS2JucW5Nek5na3JGSTNVZ1ZXb1ZqMThXbnZqcG9oUlJmNjdoaW0yamZCQnRoTHljRTRiOWVxY2o5UmszRGo5dWNXVHhmX0czVWphQ2pKb3llbnh0SWRaTw?oc=5)
 
 2026-10-22
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMigAFBVV95cUxNU0Y0MkFPMFdwSWo3MXhpNDZJZHB0bldFREk2VHJQZWZOS2JucW5Nek5na3JGSTNVZ1ZXb1ZqMThXbnZqcG9oUlJmNjdoaW0yamZCQnRoTHljRTRiOWVxY2o5UmszRGo5dWNXVHhmX0czVWphQ2pKb3llbnh0SWRaTw?oc=5)
 
 ---
 
-### [Kampf gegen Polio: Kinderlähmung besiegen: Halberstädter Arzt kämpft für das Ende einer grausamen Krankheit](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTFBRd3BIbnprMjB0elJDOUtKLXA1ZkM2cV9QbnZRN1h2alNwR05ELWVrRl9vV2tVUGhUSlVfc1NoeUVDU0pfYkVGX25hM2pSMVp0T3VwTlQwUDdCU0w1cnFHZU94SXlfR1U4UnFRQ19uM0U0YlViMl8xbG55MEs4OXdIdm1SMFNIcVhBZ2x6eW1DcnJjSEVoSmFGanp3bHJMR2dYbnlXREttT1dXSzEyNFhaYnNwSC1TbVZSUVdTMDhNWTNYVm1zRGJTNUg1OFZNQnI0ZlFKWQ?oc=5)
+### [Nur 54 Cent für eine Impfung: Arzt aus Halberstadt will Kinderlähmung weltweit besiegen](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWFiendRRFdXc0pucDBmT2toTklscVlWMzJ6NlBfMkNybGFWRGdIcTktdXAwZEdwUnBUbFRybGlzVzh2VFA0d3hReTVfeEg2cVdnbGZSMWxjcTRQZ1dtdmJmTC1DSGNndVgzVUVJXzNoc0p3b2dWWF9SNEtrUlJpQkRyLWdYQ1BpWUMwRUYtalFPYUhoSzFaZHZ6blY?oc=5)
 
 2026-10-22
 
-Source: [Volksstimme](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTFBRd3BIbnprMjB0elJDOUtKLXA1ZkM2cV9QbnZRN1h2alNwR05ELWVrRl9vV2tVUGhUSlVfc1NoeUVDU0pfYkVGX25hM2pSMVp0T3VwTlQwUDdCU0w1cnFHZU94SXlfR1U4UnFRQ19uM0U0YlViMl8xbG55MEs4OXdIdm1SMFNIcVhBZ2x6eW1DcnJjSEVoSmFGanp3bHJMR2dYbnlXREttT1dXSzEyNFhaYnNwSC1TbVZSUVdTMDhNWTNYVm1zRGJTNUg1OFZNQnI0ZlFKWQ?oc=5)
+Source: [Volksstimme](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWFiendRRFdXc0pucDBmT2toTklscVlWMzJ6NlBfMkNybGFWRGdIcTktdXAwZEdwUnBUbFRybGlzVzh2VFA0d3hReTVfeEg2cVdnbGZSMWxjcTRQZ1dtdmJmTC1DSGNndVgzVUVJXzNoc0p3b2dWWF9SNEtrUlJpQkRyLWdYQ1BpWUMwRUYtalFPYUhoSzFaZHZ6blY?oc=5)
 
 ---
 
@@ -87,11 +87,11 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWpuQmZQ
 
 ---
 
-### [Länger Leben: Forscher entdecken entscheidendes Kälte-Molekül](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTUxbmdMLVFyN1N4SEpwSVJ3RlRrc2xYSXhXVjd0RVNvR3k2cWRTalVHb19jSUlTOGtla0Zldzdacm5FcFNYWTUyMzBjcDB0d0VoOENmeHhEejNOdjJib3VxMmJtQ2h4SjZiQzJJbVZxMVhCTmhXMUFNajZkSmdkZjJfX3NWQlg2YkR2Z01uUXZTYmhoNFAtOXU4SnlTYXI5R1NfS25xWnpFZHV4RC1vNWVmXzFWZm41VkxmT0k5R1lBMU9DNXZMQQ?oc=5)
+### [Longevity: Stoffwechselweg hinter Langlebigkeitseffekt von Kälte entschlüsselt](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxOdldtaUd6NzdVdTJvSXJiZmhxTHRNVWNCbnhzd2lGdjBNbzB0VV9KeEt5NGVPQy1zWmJsNFJSMm5DYUNyOEFvN3pNQ3A1djdIaDUxT1lfTTBKVHhDM0NwX1FEWkxPRWd3em9vTllVYTB3RmgyX050RElRajVoMnE0aVhEWUttWW9EUGQ0VGt0Y0IwRVFqTmZjTnJsVEZrTFgyTlJBSQ?oc=5)
 
 2026-10-22
 
-Source: [MDR.de](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTUxbmdMLVFyN1N4SEpwSVJ3RlRrc2xYSXhXVjd0RVNvR3k2cWRTalVHb19jSUlTOGtla0Zldzdacm5FcFNYWTUyMzBjcDB0d0VoOENmeHhEejNOdjJib3VxMmJtQ2h4SjZiQzJJbVZxMVhCTmhXMUFNajZkSmdkZjJfX3NWQlg2YkR2Z01uUXZTYmhoNFAtOXU4SnlTYXI5R1NfS25xWnpFZHV4RC1vNWVmXzFWZm41VkxmT0k5R1lBMU9DNXZMQQ?oc=5)
+Source: [MedLabPortal](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVGxOdldtaUd6NzdVdTJvSXJiZmhxTHRNVWNCbnhzd2lGdjBNbzB0VV9KeEt5NGVPQy1zWmJsNFJSMm5DYUNyOEFvN3pNQ3A1djdIaDUxT1lfTTBKVHhDM0NwX1FEWkxPRWd3em9vTllVYTB3RmgyX050RElRajVoMnE0aVhEWUttWW9EUGQ0VGt0Y0IwRVFqTmZjTnJsVEZrTFgyTlJBSQ?oc=5)
 
 ---
 
@@ -119,19 +119,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 
 ---
 
+### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+
+2026-10-21
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+
+---
+
 ### [Möglicher neuer therapeutischer Ansatz für Krebskachexie - JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGxCYXptMjY1aE56Z2lwd1h2WU0xU2hLYzJ3TkF3YUQ2OENhRGE5Sy0xb29VR2o5aTgwcE0xMUVIckJBUmNqaUlUczNvQ3NNOHVsZ2pVbDZYYlkydlYzcUVBRmEwWUNSc3BCazdQa3pYMjlJeVM1UGliRFlTT1FBZnptcWIzb0swbVJXR01QVEZKZlMzVjhLaVBnOHNEb2l0?oc=5)
 
 2026-10-21
 
 Source: [JOURNAL ONKOLOGIE](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGxCYXptMjY1aE56Z2lwd1h2WU0xU2hLYzJ3TkF3YUQ2OENhRGE5Sy0xb29VR2o5aTgwcE0xMUVIckJBUmNqaUlUczNvQ3NNOHVsZ2pVbDZYYlkydlYzcUVBRmEwWUNSc3BCazdQa3pYMjlJeVM1UGliRFlTT1FBZnptcWIzb0swbVJXR01QVEZKZlMzVjhLaVBnOHNEb2l0?oc=5)
-
----
-
-### [New 'American' Covid is sweeping the UK: The unique symptom to be aware of as hospitalisation rates grow](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4OUVhejRxdmJKclYza2dSOTJHZXJnemV0SGU1MENwSk5BWXFjUEdxb1A5anFHQW03cEYyQ1JIaW1fVEdpNER5ek8yRGJLOVNBZWhySk94VTNlV25IbDNaRkN1RU9WckN0MmdaVFc5U29CeTBidm85b1l6YXR0Rkxja3U?oc=5)
-
-2026-10-20
-
-Source: [Cosmopolitan](https://news.google.com/rss/articles/CBMihAFBVV95cUxORjd4OUVhejRxdmJKclYza2dSOTJHZXJnemV0SGU1MENwSk5BWXFjUEdxb1A5anFHQW03cEYyQ1JIaW1fVEdpNER5ek8yRGJLOVNBZWhySk94VTNlV25IbDNaRkN1RU9WckN0MmdaVFc5U29CeTBidm85b1l6YXR0Rkxja3U?oc=5)
 
 ---
 

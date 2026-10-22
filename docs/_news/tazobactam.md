@@ -14,7 +14,7 @@ permalink: /news/tazobactam/
 ---
 
 <p class="key-answer" data-question="What news is there about Tazobactam?">
-<strong>Tazobactam</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Tazobactam</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Tazobactam with the latest h
 <p><a href="{{ '/drugs/tazobactam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
-
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">arthritis</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
----
+## Related News (4)
 
 ### [El asma grave avanza de un enfoque reactivo a otro de predecir y prevenir - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU216bkpLay16Nnp0bG1NZXlnSlRiTUJua2hCenRZX1g3YkV5SzdhdENwWDY5U0REMHB6TUV1NUdxdHhTeXRmQmhpd01YNEo5NlpxMW16djRKZFhzQUJ4WmdDTEQtRy1WQ1dUODZ4OExscGdEUUtqdS1SSUFtMm02cEo4TUx2V2VfU3ZQZWRxcHJLa3NiYTlvYmZ5Tzd5aFY2ZEVNSWZ5OTEwRWJFTEgtXzE2emFyQmQ4M0YyV09kNlJUSFnSAb4BQVVfeXFMT01DZXVjeUVmSWIwNS10ZHhjdG5vZk9oX1lIbU1jaGQtQmxaSFlROGJOZGhKTHBCYkppZWNfQ0dPSXZTN0UwT08wWWU2SzBjSkd6NG9SZVp6ejl4NWZ4Zmlubm90VjZhNkJGSXphNlZJdWlndXh3UkJsdXJjV05yRFBiaUE4dmVvREVBRy1CNXRwWG93MmtYWEVyai0zR2xiVEgyLWFTM21UUnQ2VnZ5SE8zaGdJZ3U0bEZCRkdaQQ?oc=5)
 

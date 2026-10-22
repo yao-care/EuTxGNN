@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [La renaissance de Nathalie, atteinte de la maladie de Crohn : « Cette poche m’a sauvé la vie - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaWNQczJYZEJnMjJ0ejVOTHg2XzI0ai01NXlJQ0NxZUdhbXk5SVBmMWRhT1NWbGtzTmFFaDlLdlhHdUVrRDhacWl3cW5NbXJvWHJKakZuME1VZWpJSUJEaXZTS2ptSGxub3FObjl6bjBvcG1DanR6Q0V3cFFEcmZuQTNBM0thcnZBaWpmbGczTnhiUjktRDQxa3M4RWIxU0RnR1liUlpoLUtHNkpONFpFODN5bmRQaGtlRjhQemo1aXgyOHM0NnVTdV9mRDZtNlUwaWpMZlJ2SlR1STV5R082djh6TFczTURJWGNLSmNjRDZ1d3VENGNYTmNnaHc?oc=5)
 
 2026-10-22 <span class="news-indication-tag">maladie de Crohn</span>
 
 Source: [Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaWNQczJYZEJnMjJ0ejVOTHg2XzI0ai01NXlJQ0NxZUdhbXk5SVBmMWRhT1NWbGtzTmFFaDlLdlhHdUVrRDhacWl3cW5NbXJvWHJKakZuME1VZWpJSUJEaXZTS2ptSGxub3FObjl6bjBvcG1DanR6Q0V3cFFEcmZuQTNBM0thcnZBaWpmbGczTnhiUjktRDQxa3M4RWIxU0RnR1liUlpoLUtHNkpONFpFODN5bmRQaGtlRjhQemo1aXgyOHM0NnVTdV9mRDZtNlUwaWpMZlJ2SlR1STV5R082djh6TFczTURJWGNLSmNjRDZ1d3VENGNYTmNnaHc?oc=5)
-
----
-
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">arthritis</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
 
 ---
 

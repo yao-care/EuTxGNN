@@ -14,7 +14,7 @@ permalink: /news/capsaicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Capsaicin?">
-<strong>Capsaicin</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Capsaicin</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Capsaicin with the latest he
 <p><a href="{{ '/drugs/capsaicin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
 2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 

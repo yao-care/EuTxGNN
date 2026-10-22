@@ -14,7 +14,7 @@ permalink: /news/tirzepatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tirzepatide?">
-<strong>Tirzepatide</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Tirzepatide</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 <p><a href="{{ '/drugs/tirzepatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
-
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">arthritis</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
----
+## Related News (4)
 
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
@@ -63,14 +55,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
-
----
-
-### [New fat jab causes fat cells to 'self destruct’ & stop dreaded weight re-gain - The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmU3MHFfWmdPWXl0eGNYajdMU2l2M1NPTHNzSU5qbXNraElLSnI2X1VLSUxzc1doOXkyMUVPRHZkdmNCVU1YRDdRWmc1RlhfVzRPdWU0UkF5WmdWZXdDZ3NqckpkWGdMREtTcnYzeklwcGoxRHNMUDVzdEpDNFI4X0F3?oc=5)
-
-2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span>
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmU3MHFfWmdPWXl0eGNYajdMU2l2M1NPTHNzSU5qbXNraElLSnI2X1VLSUxzc1doOXkyMUVPRHZkdmNCVU1YRDdRWmc1RlhfVzRPdWU0UkF5WmdWZXdDZ3NqckpkWGdMREtTcnYzeklwcGoxRHNMUDVzdEpDNFI4X0F3?oc=5)
 
 ---
 

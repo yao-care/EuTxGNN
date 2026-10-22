@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Herzerkrankung (heart disease). 4 articles, 57 related drugs."
+description: "Health news about Herzerkrankung (heart disease). 3 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
-<strong>Herzerkrankung (heart disease)</strong> currently has <strong>4 news articles</strong> and 57 related drugs.
+<strong>Herzerkrankung (heart disease)</strong> currently has <strong>3 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,21 +67,13 @@ This page brings together the latest health news about “Herzerkrankung” and 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
 2026-10-22
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 

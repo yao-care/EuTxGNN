@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
 
@@ -47,14 +47,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SX
 2026-10-21 <span class="news-indication-tag">dépression</span>
 
 Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE40VllVTncxdFZkNWFjUTVhazBTSTZpQ3FmS09rYTdQQk43Y25GaDdBYVFVZ0M5azdiQ3AwaEw4YjExLTFkWjE1T0Z1LVVCMHBhcFRvS0hBSDU4bkwybVdZVjBFc1RSaXRCaVdBbm5JV0hnNkstYXgwMDFwbHB6dw?oc=5)
-
----
-
-### [Una "App" para prevenir la ansiedad y la depresión - Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">depresión</span>
-
-Source: [Fraternidad Muprespa](https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVFQOE1iYXdFWDRtNy1MbndYSEhKUnhhcTRpUlNna3lFcVMtZDBNQk9mb0Y3OHVNU0phRzJkeWRNQmk1V180enBPRVdoUzJYQV9MNFQ1Ri1WT2VkYlZqMUFHRGlGUFdTT3JNRmJvWTR0Qm5WbzN3WmY0bkd6ejduNTFackc2MnNCMWZJOVVTbEhNR2ZoTmc?oc=5)
 
 ---
 
@@ -106,11 +98,11 @@ Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2Z
 
 ---
 
-### [Researchers identify new depression subtype linked to the body clock](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTNTQUFjdXJtbGV5RVdzcG13T3M5TlFCbUhwV05YdllGbkVCYWNtOGlqcUdnMVRqSFFkNXBpZmplM0VMeUV1d0JOOXdfS2tNMllfa2RuTjR0ZThVblBUdlNsbGVPNjVFV3VCVXVWZHBsY3VXcmg5S0kwSURybW5lT2lSek16amwxNlJHbmNNcFdWa0JnVWNxV2dHSjdHX3BWZDFKNnFpOXVCbFFoY3AyclREaDdickU?oc=5)
+### [Body-clock disruptions contribute to one in four cases of depression, suggests large study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">depression</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTNTQUFjdXJtbGV5RVdzcG13T3M5TlFCbUhwV05YdllGbkVCYWNtOGlqcUdnMVRqSFFkNXBpZmplM0VMeUV1d0JOOXdfS2tNMllfa2RuTjR0ZThVblBUdlNsbGVPNjVFV3VCVXVWZHBsY3VXcmg5S0kwSURybW5lT2lSek16amwxNlJHbmNNcFdWa0JnVWNxV2dHSjdHX3BWZDFKNnFpOXVCbFFoY3AyclREaDdickU?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5)
 
 ---
 

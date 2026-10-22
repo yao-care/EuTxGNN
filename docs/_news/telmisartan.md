@@ -43,19 +43,19 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ## Related News (9)
 
+### [Stroke Unit: quella mattina c'ero all'inaugurazione con il dr. Ferdinando Schieroni](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">stroke</span>
+
+Source: [Merateonline](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
+
+---
+
 ### [Congreso SEEN: Reducir la lipoproteína(a) no garantiza todavía menos infartos e ictus - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
 
 2026-10-22 <span class="news-indication-tag">ictus</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
-
----
-
-### [Cura dell’Ictus ischemico acuto: il Mandic può proporsi come “Stroke Ready”. Intervento del dr. Filippo Galbiati](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">stroke</span>
-
-Source: [Merateonline](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
 
 ---
 
@@ -75,11 +75,19 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXV
 
 ---
 
-### [Cosa succede alla memoria se fai almeno 3.000 passi al giorno: la svolta contro l'Alzheimer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
+### [Tè e cuore, rischio vascolare più basso dell’11%: lo studio su quasi 486mila persone](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
 
-2026-10-21 <span class="news-indication-tag">ictus</span>
+2026-10-22 <span class="news-indication-tag">ictus</span>
 
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
+
+---
+
+### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
 
 ---
 
@@ -88,14 +96,6 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi3wFBVV95cU
 2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/melatonin/
 ---
 
 <p class="key-answer" data-question="What news is there about Melatonin?">
-<strong>Melatonin</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Melatonin</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,37 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
+
+### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">Adipositas</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
+
+---
+
+### [El chip subcutáneo que «electrocuta» el azúcar para frenar la diabetes y la obesidad](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+
+2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+
+---
 
 ### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
 2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
+
+---
+
+### [Obesidad: una enfermedad que exige mirar más allá de la báscula - La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">obesidad</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
 
 ---
 

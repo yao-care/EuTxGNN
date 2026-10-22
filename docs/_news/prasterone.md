@@ -34,6 +34,22 @@ This page combines the AI-predicted indications for Prasterone with the latest h
 
 ## Related News (14)
 
+### [El chip subcutáneo que «electrocuta» el azúcar para frenar la diabetes y la obesidad](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+
+2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+
+---
+
+### [myLoop powered by CamAPS FX, aliado para el manejo de la diabetes tipo 1 en mujeres](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
+
+---
+
 ### [La contaminación atmosférica y la variabilidad de la temperatura se asocian con mayor glucemia](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkV2aDh4bmZCbkstc19zOE04ZG9FV1BkWWFqMkdXRnBNMjhUNnBQNm9VcWk4aDdRZWlfM0QyS2RYd2dTT21feGhyZTZ6SXhVT1BNMW5CYmVYX1BSRkV5cGNvQm9ScHJRTHJ6bGpiYjZOSi0xV1VHdHp6MTdnUXFMbVozVXBNV1pEalhiMTViZHRqbDBDd3Mtc2FBRzlVa0hQNmNib3dKb09LSUNrVkpPN1lnWDNfVDM0X0otaHVsWG1aQjYtbHVxSWdR?oc=5)
 
 2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
@@ -90,17 +106,9 @@ Source: [netDoktor](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlYTW5
 
 ---
 
-### [Semaglutida reduce los monocitos inflamatorios circulantes en la diabetes tipo 2 - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakYzcU5kRms5ZVRfNjVGbGVjMmtqTE9pak9GNDN1SHBIR0xFS1JqMzBJQ21aYlJ0TWlSTGVZbTBHel9sV09hdjFGdVhONkx5RDd3Z0FjYy1JZjEtbFJ0Q2syclBWSGNhUnctRy1WTWszTDZKcGdQRk4zemhoaGpzSlgwNWZZR2dTU2RESnZlLUdiTUNxT3ZKdUNQUkwwUjRxVjk2NGNlbXA2Qzc3aEpYbUloX1FYQXhaUVE0LUFhOXkwU3PSAb4BQVVfeXFMT2NUb3dYRE40OXFHdDd4UUJVQ3QwV3VfbkVVWnZyRmI3b09HUkdYUGNHaFlsNmxwdlUyVkI4ZnVXNlVJRFZ4cjJvUnRBcmRKSFgtYndfdEgtbnRUSUE3Nmx2d2kzUE96MUU5RmFEamFieU9RZkFRLXZBcktWTlhGZ1I3VjRTNXBLLTZ5UmpDWVJWTm4tZ0puMnRJanpJMzJJU3dpTHZlbVRydUZKRVk4LTdVU0hZMDBrb1lSekdUdw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOakYzcU5kRms5ZVRfNjVGbGVjMmtqTE9pak9GNDN1SHBIR0xFS1JqMzBJQ21aYlJ0TWlSTGVZbTBHel9sV09hdjFGdVhONkx5RDd3Z0FjYy1JZjEtbFJ0Q2syclBWSGNhUnctRy1WTWszTDZKcGdQRk4zemhoaGpzSlgwNWZZR2dTU2RESnZlLUdiTUNxT3ZKdUNQUkwwUjRxVjk2NGNlbXA2Qzc3aEpYbUloX1FYQXhaUVE0LUFhOXkwU3PSAb4BQVVfeXFMT2NUb3dYRE40OXFHdDd4UUJVQ3QwV3VfbkVVWnZyRmI3b09HUkdYUGNHaFlsNmxwdlUyVkI4ZnVXNlVJRFZ4cjJvUnRBcmRKSFgtYndfdEgtbnRUSUE3Nmx2d2kzUE96MUU5RmFEamFieU9RZkFRLXZBcktWTlhGZ1I3VjRTNXBLLTZ5UmpDWVJWTm4tZ0puMnRJanpJMzJJU3dpTHZlbVRydUZKRVk4LTdVU0hZMDBrb1lSekdUdw?oc=5)
-
----
-
 ### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
@@ -111,14 +119,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTW
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
-
----
-
-### [La llegada de CamAPS Liberty, powering myLoop, amplía los perfiles candidatos al asa cerrada completa en diabetes tipo 1](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNm1SNThsZms3MHN0VDdtSzZ0REFDblJ1Z3Z4ZV9FWXdldjZyUTRiamVFajZnc1I2UThxLVpnMG5PZTFfZHRUZnlxWUFqOW1Vc2pBRk5zSkZTMHdlZTNZYVVmY3BIakZxUWp6ZVJ5Y0t1Qm9XclVQZGJCOGFld2lzaVhrMjJ4ZWtCMDJVQ0FBdDRNdEQzampsOXo3QV9aTTVDanFTN29WY1NaSmtIS2MxRUNUaXE2RXdCUGphR1N5ZVAtQmpoaUV6blhwTWZHeVczX2tITzhMaEU2WE9vYXhMdg?oc=5)
-
-2026-10-20 <span class="news-indication-tag">diabetes</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNm1SNThsZms3MHN0VDdtSzZ0REFDblJ1Z3Z4ZV9FWXdldjZyUTRiamVFajZnc1I2UThxLVpnMG5PZTFfZHRUZnlxWUFqOW1Vc2pBRk5zSkZTMHdlZTNZYVVmY3BIakZxUWp6ZVJ5Y0t1Qm9XclVQZGJCOGFld2lzaVhrMjJ4ZWtCMDJVQ0FBdDRNdEQzampsOXo3QV9aTTVDanFTN29WY1NaSmtIS2MxRUNUaXE2RXdCUGphR1N5ZVAtQmpoaUV6blhwTWZHeVczX2tITzhMaEU2WE9vYXhMdg?oc=5)
 
 ---
 

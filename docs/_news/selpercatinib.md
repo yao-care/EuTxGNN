@@ -42,11 +42,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXV
 
 ---
 
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
+2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+Source: [Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
 
 ---
 

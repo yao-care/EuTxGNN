@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 
 ## Related News (4)
 
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+### [Ibuprofen pills left me in a month-long coma - my son found me blue in bed and my heart stopped - The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFAtV1RseFByX0tfQ2FkMFNENkdraVVhTHhWQ2tycWVOTUNNMVpwZ2VwcTE4UVpHNTN4ZHk0YnJGT2JVRjRKUjdfQUotbzNPazQ5UFVDWU1MWllNV1JVbFM2T3YyTXFZYTdSSUVxREsxU2hXUlZZMm5jMDhxczU4aVU?oc=5)
 
-2026-10-22 <span class="news-indication-tag">arthritis</span>
+2026-10-22 <span class="news-drug-tag">Ibuprofen</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMif0FVX3lxTFAtV1RseFByX0tfQ2FkMFNENkdraVVhTHhWQ2tycWVOTUNNMVpwZ2VwcTE4UVpHNTN4ZHk0YnJGT2JVRjRKUjdfQUotbzNPazQ5UFVDWU1MWllNV1JVbFM2T3YyTXFZYTdSSUVxREsxU2hXUlZZMm5jMDhxczU4aVU?oc=5)
 
 ---
 

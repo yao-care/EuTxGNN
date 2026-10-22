@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (6)
 
 ### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
 2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
----
-
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">arthritis</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
 
 ---
 
@@ -63,14 +55,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt
 2026-10-21 <span class="news-indication-tag">arthritis</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 
