@@ -159,14 +159,10 @@ define "Medication Count":
 ### Custom Functions
 
 ```cql
-define function GetEvidenceLevel(score Decimal):
-  case
-    when score >= 0.9999 then 'L1'
-    when score >= 0.999 then 'L2'
-    when score >= 0.99 then 'L3'
-    when score >= 0.9 then 'L4'
-    else 'L5'
-  end
+// Evidence levels (L1-L5) come from clinical trials and literature, not from the model score.
+// The score only decides whether a prediction is listed on the site.
+define function IsListedPrediction(score Decimal):
+  score >= 0.99
 ```
 
 ---

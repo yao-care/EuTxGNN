@@ -27,7 +27,7 @@ TxGNN Prediction → Data Collection → Evidence Integration → Report Generat
 
 ### Model Introduction
 
-TxGNN uses a **knowledge graph** combined with **graph neural networks** for prediction:
+Predictions come from the TxGNN model (**deep learning**: a **graph neural network** trained on a biomedical **knowledge graph**):
 
 1. **Knowledge Graph Construction**
    - Covers 17,080 diseases, plus drugs, genes and proteins
