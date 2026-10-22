@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 
 ## Related News (1)
 
-### [Epilepsie mit einem erhöhten Risiko für Demenz vor dem 65. Lebensjahr assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
+### [Warwickshire man with epilepsy 'disregarded' by passers-by](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
 
-2026-10-20 <span class="news-indication-tag">Epilepsie</span>
+2026-10-22 <span class="news-indication-tag">epilepsy</span>
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
 
 ---
 

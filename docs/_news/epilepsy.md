@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Epilepsie (epilepsy) News"
+title: "epilepsy News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Epilepsie (epilepsy). 1 articles, 10 related drugs."
+description: "Health news about epilepsy. 1 articles, 10 related drugs."
 permalink: /news/epilepsy/
 ---
 
-# Epilepsie (epilepsy) News
+# epilepsy News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Epilepsie (epilepsy)?">
-<strong>Epilepsie (epilepsy)</strong> currently has <strong>1 news articles</strong> and 10 related drugs.
+<p class="key-answer" data-question="What news is there about epilepsy?">
+<strong>epilepsy</strong> currently has <strong>1 news articles</strong> and 10 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Epilepsie” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “epilepsy” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,11 +37,11 @@ This page brings together the latest health news about “Epilepsie” and lists
 
 ## Related News (1)
 
-### [Epilepsie mit einem erhöhten Risiko für Demenz vor dem 65. Lebensjahr assoziiert - Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
+### [Warwickshire man with epilepsy 'disregarded' by passers-by](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
 
-2026-10-20
+2026-10-22
 
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMirgFBVV95cUxNc2ZYVm9GY2gzVnY4cEJmcnNrckZzT3VmTmlUQUtPNXpQUW1XREs5MHBmTW94Zno4WjQ1S2hkNkNFalhfempOYU95NVFfODF2NlRlcjd0Z2dCSUN4Sk9jeVNlcGcweW5uclZGUVVmYXoyRXoycC1fWnQ3UGh3ak5Xa1VZNXNoOVhIX1NrOE1kdWcyVVYxOW9XeEhfY3JxSWhiejJFZ1Y2R3dZYnB6dnc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
 
 ---
 

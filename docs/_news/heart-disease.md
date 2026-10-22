@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "Herzerkrankung (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 2 articles, 57 related drugs."
+description: "Health news about Herzerkrankung (heart disease). 5 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# cardiovascular disease (heart disease) News
+# Herzerkrankung (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
+<strong>Herzerkrankung (heart disease)</strong> currently has <strong>5 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Herzerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -67,7 +67,15 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (2)
+## Related News (5)
+
+### [Derry man’s tragic heart attack sparks vital public health plea - Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
+
+2026-10-21
+
+Source: [Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
+
+---
 
 ### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
 
@@ -77,11 +85,27 @@ Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMld
 
 ---
 
+### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+
+2026-10-21
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+
+---
+
 ### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
 
 2026-10-16
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
+
+### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
+
+2026-10-16
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
 
 ---
 

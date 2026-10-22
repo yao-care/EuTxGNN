@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,37 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
 
-### [Quanti passi dobbiamo fare ogni giorno per proteggere il cervello? La risposta non è 10.000](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+### [Cosa succede alla memoria se fai almeno 3.000 passi al giorno: la svolta contro l'Alzheimer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
 
 2026-10-21 <span class="news-indication-tag">ictus</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
+
+---
+
+### [Farmaci per dimagrire, richiamo negli Usa: cosa sta succedendo e chi deve fare attenzione - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0xuTlMxbWpOUDB2bE9naG1aMUlRSl83akRNbGNIZ1JYQ0xVeHZhZWR5QjNyYkk4UG02M1F6bUNwMExHTTJ1dk9UaWJpRlZlX3FpeHBTWnpxdjJYTmdYcTZjeWVZUlZ5NndoQlZ5RldXbmx0LVJoQjlEU0I4VUx6VUZ3OWtiX2tjOGFGMVZFR01iUmxZYVBrMlNQSFBPRWowQmxacTFoS2VqVkJIRWY2NXhsNUlMSThVckpDZmU2bWtjRFNxQXhsdWlPaks5N1Y1dWFUZUVtMTNvQ1RER1RUNFlyRXRiVXRrQWc?oc=5)
+
+2026-10-21 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+
+Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0xuTlMxbWpOUDB2bE9naG1aMUlRSl83akRNbGNIZ1JYQ0xVeHZhZWR5QjNyYkk4UG02M1F6bUNwMExHTTJ1dk9UaWJpRlZlX3FpeHBTWnpxdjJYTmdYcTZjeWVZUlZ5NndoQlZ5RldXbmx0LVJoQjlEU0I4VUx6VUZ3OWtiX2tjOGFGMVZFR01iUmxZYVBrMlNQSFBPRWowQmxacTFoS2VqVkJIRWY2NXhsNUlMSThVckpDZmU2bWtjRFNxQXhsdWlPaks5N1Y1dWFUZUVtMTNvQ1RER1RUNFlyRXRiVXRrQWc?oc=5)
+
+---
+
+### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+
+---
+
+### [Alle Molinette una nuova super risonanza magnetica che indaga il cervello e ne studia le malattie - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
+
+2026-10-21 <span class="news-indication-tag">ictus</span>
+
+Source: [La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
 
 ---
 
@@ -58,27 +82,19 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjd
 
 ---
 
-### [Losing weight in your 50s ‘can reverse years of poor heart health’ - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">stroke</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
-
----
-
-### [Community support floods in for Barrow woman, 39, after life-changing stroke](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+### [Community support floods in for Barrow woman, 39, after life-changing stroke - NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+Source: [NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 ---
 
-### [De la obesidad a una guerra nuclear: los riesgos que podrían cambiar la salud del mundo - El Espectador](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRUSEpJTU5hUDdYa25rSzVITnExcGljcUYxTTdsN2xOZkxjUXNOVFBtYTlrclJQNGpOVHdoWUlBQVZMUkdyVWhGbnBOZF9mQ1E0bXFwNVdTMTM0UHVxVE94NWJWZk5XZ3ctNTNsTEdHeVY2TWNKUHFvQlJidDc1a19lTzVLUl8ycUFzZU54Zk1sY1ZWaE9wY2ZmY0s1VVJYcFlINTNyQXJjaXZEWGpVM2h6RDlGc1BSbHBTeEs5MNIB0wFBVV95cUxQcWJ5V0VXMzhoUkpLb3hBU1l6SDhCUGJHUzlfTEtXdXlzbFNINzJwSTFOdWxYYm5XYktnSlBJSXROWmRjZjBJcmhtYW4tVy05WVFranE0eGJkc1hvOEttaHVaNHBKcU1YTTFibzJhcHlKck45UkJHMzd0Y2t0ajQyMVlHbXR0Ql9nSXVBb3hGdkt4NnQ2UXdVeVFIUnZBeGtMRm0wd19WZUowZl9QNmk4Ty1TSzNIQlZGQUJ4VzZjdjZxd2dNSnRWdGZoVHZkRjBRWFVv?oc=5)
+### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
-2026-10-20 <span class="news-indication-tag">obesidad</span>
+2026-10-20 <span class="news-indication-tag">stroke</span>
 
-Source: [El Espectador](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnRUSEpJTU5hUDdYa25rSzVITnExcGljcUYxTTdsN2xOZkxjUXNOVFBtYTlrclJQNGpOVHdoWUlBQVZMUkdyVWhGbnBOZF9mQ1E0bXFwNVdTMTM0UHVxVE94NWJWZk5XZ3ctNTNsTEdHeVY2TWNKUHFvQlJidDc1a19lTzVLUl8ycUFzZU54Zk1sY1ZWaE9wY2ZmY0s1VVJYcFlINTNyQXJjaXZEWGpVM2h6RDlGc1BSbHBTeEs5MNIB0wFBVV95cUxQcWJ5V0VXMzhoUkpLb3hBU1l6SDhCUGJHUzlfTEtXdXlzbFNINzJwSTFOdWxYYm5XYktnSlBJSXROWmRjZjBJcmhtYW4tVy05WVFranE0eGJkc1hvOEttaHVaNHBKcU1YTTFibzJhcHlKck45UkJHMzd0Y2t0ajQyMVlHbXR0Ql9nSXVBb3hGdkt4NnQ2UXdVeVFIUnZBeGtMRm0wd19WZUowZl9QNmk4Ty1TSzNIQlZGQUJ4VzZjdjZxd2dNSnRWdGZoVHZkRjBRWFVv?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
 ---
 
@@ -87,14 +103,6 @@ Source: [El Espectador](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnR
 2026-10-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
 
 Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11VHZNYy1fMkJ3am43cGllcGQ4MnNwVFNfVC1kRHdOUGNwb2tNVkdfTDZxdDhGQVZDQUZtbWFsUm1jSV9ONlFFXzBPMFQ4UVppNDBibUlyZ3prNTY1aXFZX01CWGpvVEVtejg4WEdRSHpDbFhhQlROTGFOVUY1NWdGTUQ5dldGVFo2ZlJsT2IxeVRWMVV5bDdtMlBmbDd4UGlDN2NXQQ?oc=5)
-
----
-
-### [Mounjaro, allarme sul farmaco anti-obesità: “Troppi lo usano per dimagrire di qualche chilo” - la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
-
-2026-10-20 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi3AFBVV95cUxONnZiUlFYMzhtcVhQZGtPUU9od2FOSXY0VjF0b3FpMEJPVFdFaUVrVTVMMVRuNklhZHJab2xZWURha3pCd19hQjFrd3BUbnhqQTNkLUI2US1BT0ZveHBqdDVEWm1zWi1jclhlSm9LQzVJVnN5LXJQaW8wd2ZIZmlQUkl4RkxrWVlKUzBoaC0tWnNkUjdxLXZKMTduSHFJRE9HLWV2M1VfbkxPakMxdlRqU2lZdHNBTFhiRUFTWTZxLTJteDZBNHZNYVA3cVJHVzItWnRmSkdKWnZwTDFF?oc=5)
 
 ---
 

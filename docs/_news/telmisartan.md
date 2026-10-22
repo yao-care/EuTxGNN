@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,37 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (10)
 
-### [Quanti passi dobbiamo fare ogni giorno per proteggere il cervello? La risposta non è 10.000](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+### [Cosa succede alla memoria se fai almeno 3.000 passi al giorno: la svolta contro l'Alzheimer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
 
 2026-10-21 <span class="news-indication-tag">ictus</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
 
 ---
 
-### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
+### [Derry man’s tragic heart attack sparks vital public health plea - Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
 
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span>
 
-Source: [Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
+Source: [Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
 
 ---
 
 ### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+
+---
+
+### [Alle Molinette una nuova super risonanza magnetica che indaga il cervello e ne studia le malattie - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
+
+2026-10-21 <span class="news-indication-tag">ictus</span>
+
+Source: [La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
 
 ---
 
@@ -75,19 +83,27 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV9
 
 ---
 
-### [Losing weight in your 50s ‘can reverse years of poor heart health’ - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">stroke</span>
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 
-### [Community support floods in for Barrow woman, 39, after life-changing stroke](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+### [Community support floods in for Barrow woman, 39, after life-changing stroke - NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
-Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+Source: [NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+
+---
+
+### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
+
+2026-10-20 <span class="news-indication-tag">stroke</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
 ---
 
@@ -96,6 +112,14 @@ Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0p
 2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
 
 Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
+
+---
+
+### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
+
+2026-10-16 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
 
 ---
 

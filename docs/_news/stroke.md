@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 4 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 6 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>4 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
 
-### [Quanti passi dobbiamo fare ogni giorno per proteggere il cervello? La risposta non è 10.000](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+### [Cosa succede alla memoria se fai almeno 3.000 passi al giorno: la svolta contro l'Alzheimer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
 
 2026-10-21
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMWd1SUkyYmY5V1pFMUtBd1VKbHFJX3J6WHpIMUh3T3N1bmdjTEh6VXgyaWxpbEtCU0VHbUZwcEFFNEJmREN4Rm5wbTVfZjlLVENRNlRaeUdRWFVkMTlJTUlEY0xNZjB2Mmx5OE14VUF3SzdoQ0dJZF9XWnhEdS1ld2xGMTN1QS1QTGs1ZmVYdUQ2bEhGY09Ca2pFWXlRS2hNWFdmYld1bEUxd2hBZVVNNTlXaTNRYzZrVGNkQ0VTeUNvLTBKRzJRODVsaGs0WDNFYU0wWGpjaVM?oc=5)
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE9fNlJkSkZCYnhvLVRsNkJ2VlAwS25uRDRpWlAyeUduUm1FcDYteHNMSTNwU1kyd2NXd2o0UmlIVV9WNDFpd0NPdVZmRTNnMi1lUGdlY1BvU1JPZlJjZ3RXZzhLREdoOC11WnlwUFZrOWo0TWtTR1JVN0JfS1I0NUxFU2xGaHpqRXZjb3UzZWtuQlVVUG1sd0V5TTZodnFSWWhwUFRfQVlzVXBLclR1bV9CaDY3cE44bTlhbVpWcUNzSzJxa3lBRTRrSlY5dzhwQW1idkUxOUpJM2JIeUVN?oc=5)
+
+---
+
+### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+
+2026-10-21
+
+Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+
+---
+
+### [Alle Molinette una nuova super risonanza magnetica che indaga il cervello e ne studia le malattie - La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
+
+2026-10-21
+
+Source: [La Stampa](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3hFUk5vc0ZOb1BHVDlvQWdITGotTXpqeTU1QzBjMU9QeFVRNUhoRUZBdlZCelg2OXoxYTlnSXU3NU9CamNmWXZHdS1Rby1QcDY0N3VGVGEwOVp1aENIcVVYaGRWaFoxLVRDUFR4X080NVZpa0xaUUcxOGctclZHXzFnSWwyMFdvcFV5WUFEaXVma0xVUnRyMVVWR2IxY2xYZVdjbWljVlVtRVVtYmZlWnRHa2xGd9IBuwFBVV95cUxPQnJscDU2RC1BRnRVWkxJRW5BOGNPVFJvQ2U5UThMTmFxRlN0WlRLUGE1UlpZV3NZdk5oeDdsVmM5cGJJMm1BMzluX3BEVWNpNHM4THBtb2ZCQnUySnB1ZkxicmZCNjJnM3hVR3NRai1mMV9IdkNjdGhFa1ROczVQRTF1aG95QmhjaVk3NzVPUWJ0aTMycGpNaENPM2wwY3RFSDFQdFFrWGtUYjJBTWRZLTB2d0tLOU41RndN?oc=5)
 
 ---
 
@@ -54,19 +70,19 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV9
 
 ---
 
-### [Losing weight in your 50s ‘can reverse years of poor heart health’ - The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+### [Community support floods in for Barrow woman, 39, after life-changing stroke - NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 2026-10-21
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVR6MmRxbkdMemFEc1U0NjhZejd5YzBhbXNFd1pDUWdnT0JLRUlZcm0tU0xKQ2NYUUh4Y3VXQ3JDZkdoMnI4SEEtMDJPempDQ29LNFl1ZUZ5TjhFdUhtcmY1blpVVlZJNDY4VmpKRlk4Z1NqdUhwNXh0QUVhODE2ME1WSlVDdw?oc=5)
+Source: [NW Mail](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
 
 ---
 
-### [Community support floods in for Barrow woman, 39, after life-changing stroke](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+### [Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
-2026-10-21
+2026-10-20
 
-Source: [Nwemail.co.uk](https://news.google.com/rss/articles/CBMimAFBVV95cUxNb0pSS0dMVWpRT0t0anlMZnpKY2ZrTV9DbmdqelNYQlFWdXNyQVZVVm1SUHhFT2JMaG0wZ2lCa09JMWFYSXowTFduNWN2Rlh5QkJfLTg1NDd6VnJTTmszZTcyTHZ2eXVGd3dvZTdZUjBQeV8zbUlPT2Z0ZFp1Z3g1UlBJdjJ1SHlZSndiVUJHVGk0b2p5SDAwLQ?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxoSXlHOGY4bUs5dWN5LVplNC1ZZFpVM3lmLWpLNkFXbTlLLUFBcUNQZ0I4TnU1QnRaV2tsZVJmR0t2VlNNNU90bUdUeHhaV1g4eFJWMXM5TU5wYkc4OEV1aU9fSWpzS3hDVUlEanNiRlZxaVJWM0VFS2g0a21wYnF3RWY5eW9EREVGY25SZTUxUllfaWVrZWZlU2I0cndDOU9ZWXpLclRjR0E?oc=5)
 
 ---
 
