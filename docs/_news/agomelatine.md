@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">depression</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
+
+---
 
 ### ["J'ai l'impression de fonctionner en mode automatique" : reconnaître les symptômes de la dépression à haut potentiel - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE40VllVTncxdFZkNWFjUTVhazBTSTZpQ3FmS09rYTdQQk43Y25GaDdBYVFVZ0M5azdiQ3AwaEw4YjExLTFkWjE1T0Z1LVVCMHBhcFRvS0hBSDU4bkwybVdZVjBFc1RSaXRCaVdBbm5JV0hnNkstYXgwMDFwbHB6dw?oc=5)
 
@@ -83,27 +91,27 @@ Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkl5OG4w
 
 ---
 
-### [La prise en charge de la dépression de la femme enceinte profite au développement cérébral du nouveau-né - Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxNTXc0bEdLSGM4eXd2b0VDSUVVY2h2QnlpVzVIQk5acERIZXJCYTNyVHZNZ3JYTDBmMGM1U0VVZ2Y1MkRYTjVTV2NmQnpFSF9OcEZXVjdHODE0N1BubGMyY2F5QUxfXzQtUGRJZlZEUTZKd1MwbXUwNFN2X3Y5RWMtUWZ2OF9PT1hhU3VIS20wQi15UGxqYWtvSmVWSGpHcFNFLVFWbG0zX21PMnhfSmlXenU4YVF5QlRyVWpERk9xb3JWbzVCaGlPMl9Kb1NmVmFhbHpaeTdHNFhKNWwxaWdRUldhd19BZlluVG8tSENoVWo0djRGZHdadHNCTExmM2Z6QVFRdlNxWQ?oc=5)
+### [The humble one-celled alga that helped scientists win the Nobel prize - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1YwekpqR3ROZ3hycm03TXQzeDlsa3pVbjZ0RlVoN3I3Snc5cWVndE1WSExRci16Wlk0dzFjZ2JEV25VRFlRdERub2RKUHBZQWVHMXNoNVpVY1BoRnFhR2ZaS0Y3YnNDWTVQS3BvZDdiaGprVEhNelZORFA1dXFwNVQxckRtLUpsNTVicTRUTHhkVmc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">dépression</span>
+2026-10-21 <span class="news-indication-tag">depression</span>
 
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMihwJBVV95cUxNTXc0bEdLSGM4eXd2b0VDSUVVY2h2QnlpVzVIQk5acERIZXJCYTNyVHZNZ3JYTDBmMGM1U0VVZ2Y1MkRYTjVTV2NmQnpFSF9OcEZXVjdHODE0N1BubGMyY2F5QUxfXzQtUGRJZlZEUTZKd1MwbXUwNFN2X3Y5RWMtUWZ2OF9PT1hhU3VIS20wQi15UGxqYWtvSmVWSGpHcFNFLVFWbG0zX21PMnhfSmlXenU4YVF5QlRyVWpERk9xb3JWbzVCaGlPMl9Kb1NmVmFhbHpaeTdHNFhKNWwxaWdRUldhd19BZlluVG8tSENoVWo0djRGZHdadHNCTExmM2Z6QVFRdlNxWQ?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1YwekpqR3ROZ3hycm03TXQzeDlsa3pVbjZ0RlVoN3I3Snc5cWVndE1WSExRci16Wlk0dzFjZ2JEV25VRFlRdERub2RKUHBZQWVHMXNoNVpVY1BoRnFhR2ZaS0Y3YnNDWTVQS3BvZDdiaGprVEhNelZORFA1dXFwNVQxckRtLUpsNTVicTRUTHhkVmc?oc=5)
 
 ---
 
-### [Braunes Fett: Schützt es vor Diabetes, Herzkrankheiten und Depressionen? - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBzWGhOQ2xVbF9uZ0c2emE3STNva1B4QnVQbW9BUFVzUFNENGZOZ0lJV3FBTWpHZTFweGpYWjZVOXJ1bkdJb0tRcnMtX1ZJdWlHX2p5ZVZnbnpsVlVERWFvR01jbkFJLXk2UXFzRmdMZXY4Y2djTFVGWHduWEViNzNWaEZCMF85enNkQ0k3M1N2cnZVejJrdjdsajBXdjQ3aC1qOGtDa0puRXdlMFpISkhSbw?oc=5)
+### [Braunes Fett: Schutz vor Diabetes, Herzkrankheiten und Depressionen - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
 
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-Source: [SZ.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBzWGhOQ2xVbF9uZ0c2emE3STNva1B4QnVQbW9BUFVzUFNENGZOZ0lJV3FBTWpHZTFweGpYWjZVOXJ1bkdJb0tRcnMtX1ZJdWlHX2p5ZVZnbnpsVlVERWFvR01jbkFJLXk2UXFzRmdMZXY4Y2djTFVGWHduWEViNzNWaEZCMF85enNkQ0k3M1N2cnZVejJrdjdsajBXdjQ3aC1qOGtDa0puRXdlMFpISkhSbw?oc=5)
+Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
 
 ---
 
-### [New type of depression is related to sleep, scientists report - Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjVQSXBXSTJQSEFxeWZnNklUVUtHaHR4TnE0Rzh0bWtBaG1DcUd5SjRhSXZVN0xSak0ya3V4RXhRNmRPME96R1V1amZhSXhBNFNzUlN3WDFXVmNzdF9obVZuZnZvOHRoX0d2WU8yOVV4YTg4ai02Z2w5ejNvNUJySHoyemRtcGZJUkNSV01nTG45aDE1ckxIcnRPNWI3R1R4Q1JhRS1mc3Y5Q3ZHWUVNUWE0YW0xN2Vubjc0MlZ2Skg?oc=5)
+### [Researchers identify new depression subtype linked to the body clock](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTNTQUFjdXJtbGV5RVdzcG13T3M5TlFCbUhwV05YdllGbkVCYWNtOGlqcUdnMVRqSFFkNXBpZmplM0VMeUV1d0JOOXdfS2tNMllfa2RuTjR0ZThVblBUdlNsbGVPNjVFV3VCVXVWZHBsY3VXcmg5S0kwSURybW5lT2lSek16amwxNlJHbmNNcFdWa0JnVWNxV2dHSjdHX3BWZDFKNnFpOXVCbFFoY3AyclREaDdickU?oc=5)
 
-2026-10-20 <span class="news-indication-tag">depression</span>
+2026-10-21 <span class="news-indication-tag">depression</span>
 
-Source: [Live Science](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObjVQSXBXSTJQSEFxeWZnNklUVUtHaHR4TnE0Rzh0bWtBaG1DcUd5SjRhSXZVN0xSak0ya3V4RXhRNmRPME96R1V1amZhSXhBNFNzUlN3WDFXVmNzdF9obVZuZnZvOHRoX0d2WU8yOVV4YTg4ai02Z2w5ejNvNUJySHoyemRtcGZJUkNSV01nTG45aDE1ckxIcnRPNWI3R1R4Q1JhRS1mc3Y5Q3ZHWUVNUWE0YW0xN2Vubjc0MlZ2Skg?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNeTNTQUFjdXJtbGV5RVdzcG13T3M5TlFCbUhwV05YdllGbkVCYWNtOGlqcUdnMVRqSFFkNXBpZmplM0VMeUV1d0JOOXdfS2tNMllfa2RuTjR0ZThVblBUdlNsbGVPNjVFV3VCVXVWZHBsY3VXcmg5S0kwSURybW5lT2lSek16amwxNlJHbmNNcFdWa0JnVWNxV2dHSjdHX3BWZDFKNnFpOXVCbFFoY3AyclREaDdickU?oc=5)
 
 ---
 

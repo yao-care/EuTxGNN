@@ -14,7 +14,7 @@ permalink: /news/ospemifene/
 ---
 
 <p class="key-answer" data-question="What news is there about Ospemifene?">
-<strong>Ospemifene</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Ospemifene</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,29 +32,29 @@ This page combines the AI-predicted indications for Ospemifene with the latest h
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
+
+2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
+
+---
+
+### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">arthritis</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+
+---
 
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
-
----
-
-### [Derry man’s tragic heart attack sparks vital public health plea - Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
-
-2026-10-21 <span class="news-indication-tag">heart disease</span>
-
-Source: [Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
-
----
-
-### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
-
-2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
 
 ---
 
@@ -71,6 +71,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlT
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
+
+---
+
+### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
+
+2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

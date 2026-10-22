@@ -14,7 +14,7 @@ permalink: /news/vildagliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vildagliptin?">
-<strong>Vildagliptin</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Vildagliptin</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,21 @@ This page combines the AI-predicted indications for Vildagliptin with the latest
 <p><a href="{{ '/drugs/vildagliptin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
 
-### [Typ-2-Diabetes: SGLT2- und GLP-1-Therapien sollen früher beginnen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzJkVkxNV0x3NkdtcUhOX0lEMzNpOHNYVjR0WElYc0djMG1pWE5hRUFLYlRCOTREVU1Kd0VBajhUOFhwUG90Z0hncThQNHNPUndGS3U3LXg5TlhhWWNMUFVwVXBGa0diamFUQ0c4bjdVcDIxN0x0ekNnd19RUjN0MzJzZWFMR24ybWo4eDdVYXlMbGtPa05FZlBzN05GaXktRnJxeF9pdlJMQjh0TkxaM1RUNA?oc=5)
+### [La contaminación atmosférica y la variabilidad de la temperatura se asocian con mayor glucemia](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkV2aDh4bmZCbkstc19zOE04ZG9FV1BkWWFqMkdXRnBNMjhUNnBQNm9VcWk4aDdRZWlfM0QyS2RYd2dTT21feGhyZTZ6SXhVT1BNMW5CYmVYX1BSRkV5cGNvQm9ScHJRTHJ6bGpiYjZOSi0xV1VHdHp6MTdnUXFMbVozVXBNV1pEalhiMTViZHRqbDBDd3Mtc2FBRzlVa0hQNmNib3dKb09LSUNrVkpPN1lnWDNfVDM0X0otaHVsWG1aQjYtbHVxSWdR?oc=5)
 
-2026-10-22 <span class="news-indication-tag">diabetes</span>
+2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzJkVkxNV0x3NkdtcUhOX0lEMzNpOHNYVjR0WElYc0djMG1pWE5hRUFLYlRCOTREVU1Kd0VBajhUOFhwUG90Z0hncThQNHNPUndGS3U3LXg5TlhhWWNMUFVwVXBGa0diamFUQ0c4bjdVcDIxN0x0ekNnd19RUjN0MzJzZWFMR24ybWo4eDdVYXlMbGtPa05FZlBzN05GaXktRnJxeF9pdlJMQjh0TkxaM1RUNA?oc=5)
+Source: [Sinc](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSkV2aDh4bmZCbkstc19zOE04ZG9FV1BkWWFqMkdXRnBNMjhUNnBQNm9VcWk4aDdRZWlfM0QyS2RYd2dTT21feGhyZTZ6SXhVT1BNMW5CYmVYX1BSRkV5cGNvQm9ScHJRTHJ6bGpiYjZOSi0xV1VHdHp6MTdnUXFMbVozVXBNV1pEalhiMTViZHRqbDBDd3Mtc2FBRzlVa0hQNmNib3dKb09LSUNrVkpPN1lnWDNfVDM0X0otaHVsWG1aQjYtbHVxSWdR?oc=5)
 
 ---
 
-### [ADHD drug to be tested as Alzheimer’s treatment - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
+### [Neue Entdeckung: Essgewohnheiten, die helfen, den Blutzucker effektiv zu kontrollieren.](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3ZtUTZvOUpuZTBFTm5sVzZPcVAwbi1IZEhEeG5QTkVPWU5kV0V1LWNNNm9jenpQaTFSZ1RPSnNmNnVBM2dJaF83Z20yaVVfdU9nUUg4TkJRYWN2N1AtaC1TTUxpS2RiYjdOUFdZRm9xZ3NtSXFZVGFVZ0FkcG9DbmlSOFpTbWlDY25j?oc=5)
 
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-10-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
+Source: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3ZtUTZvOUpuZTBFTm5sVzZPcVAwbi1IZEhEeG5QTkVPWU5kV0V1LWNNNm9jenpQaTFSZ1RPSnNmNnVBM2dJaF83Z20yaVVfdU9nUUg4TkJRYWN2N1AtaC1TTUxpS2RiYjdOUFdZRm9xZ3NtSXFZVGFVZ0FkcG9DbmlSOFpTbWlDY25j?oc=5)
 
 ---
 
@@ -60,9 +60,25 @@ Source: [Redacción médica](https://news.google.com/rss/articles/CBMi8gFBVV95cU
 
 ### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
-2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span>
+2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
+
+---
+
+### [ADHD and diabetes drugs to be tested in Alzheimer’s clinical trial - The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFzbUtlaGxlMVlIbVlBQWt6VklXZ2FzVDNXYm1OYzZqS0FYZWRoQ21YQmppWTVpVXJseU4wdDJLVVJHem5PdWNlOERCMVZMVVo0YnFqQWdqa01SSHMyTzE2M0QwODAtdm5iVkpfS2wtNTd2LVVfQVRBZHFlbjlsdnhWcDNqajNwa0N3TFZCZENfcXF4MVdFTnZ2cWppODlDUTRlRXd3aElTU2JnV052el96MVRUdDZyRFFJeUphYw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFzbUtlaGxlMVlIbVlBQWt6VklXZ2FzVDNXYm1OYzZqS0FYZWRoQ21YQmppWTVpVXJseU4wdDJLVVJHem5PdWNlOERCMVZMVVo0YnFqQWdqa01SSHMyTzE2M0QwODAtdm5iVkpfS2wtNTd2LVVfQVRBZHFlbjlsdnhWcDNqajNwa0N3TFZCZENfcXF4MVdFTnZ2cWppODlDUTRlRXd3aElTU2JnV052el96MVRUdDZyRFFJeUphYw?oc=5)
+
+---
+
+### [ADA und EASD verschärfen Diabetes-Leitlinien: Begleiterkrankungen im Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
 
 ---
 
@@ -90,11 +106,19 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTW
 
 ---
 
-### [Braunes Fett: Schützt es vor Diabetes, Herzkrankheiten und Depressionen? - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBzWGhOQ2xVbF9uZ0c2emE3STNva1B4QnVQbW9BUFVzUFNENGZOZ0lJV3FBTWpHZTFweGpYWjZVOXJ1bkdJb0tRcnMtX1ZJdWlHX2p5ZVZnbnpsVlVERWFvR01jbkFJLXk2UXFzRmdMZXY4Y2djTFVGWHduWEViNzNWaEZCMF85enNkQ0k3M1N2cnZVejJrdjdsajBXdjQ3aC1qOGtDa0puRXdlMFpISkhSbw?oc=5)
+### [Braunes Fett: Schutz vor Diabetes, Herzkrankheiten und Depressionen - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
 
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-Source: [SZ.de](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlBzWGhOQ2xVbF9uZ0c2emE3STNva1B4QnVQbW9BUFVzUFNENGZOZ0lJV3FBTWpHZTFweGpYWjZVOXJ1bkdJb0tRcnMtX1ZJdWlHX2p5ZVZnbnpsVlVERWFvR01jbkFJLXk2UXFzRmdMZXY4Y2djTFVGWHduWEViNzNWaEZCMF85enNkQ0k3M1N2cnZVejJrdjdsajBXdjQ3aC1qOGtDa0puRXdlMFpISkhSbw?oc=5)
+Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
+
+---
+
+### [La llegada de CamAPS Liberty, powering myLoop, amplía los perfiles candidatos al asa cerrada completa en diabetes tipo 1](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNm1SNThsZms3MHN0VDdtSzZ0REFDblJ1Z3Z4ZV9FWXdldjZyUTRiamVFajZnc1I2UThxLVpnMG5PZTFfZHRUZnlxWUFqOW1Vc2pBRk5zSkZTMHdlZTNZYVVmY3BIakZxUWp6ZVJ5Y0t1Qm9XclVQZGJCOGFld2lzaVhrMjJ4ZWtCMDJVQ0FBdDRNdEQzampsOXo3QV9aTTVDanFTN29WY1NaSmtIS2MxRUNUaXE2RXdCUGphR1N5ZVAtQmpoaUV6blhwTWZHeVczX2tITzhMaEU2WE9vYXhMdg?oc=5)
+
+2026-10-20 <span class="news-indication-tag">diabetes</span>
+
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNm1SNThsZms3MHN0VDdtSzZ0REFDblJ1Z3Z4ZV9FWXdldjZyUTRiamVFajZnc1I2UThxLVpnMG5PZTFfZHRUZnlxWUFqOW1Vc2pBRk5zSkZTMHdlZTNZYVVmY3BIakZxUWp6ZVJ5Y0t1Qm9XclVQZGJCOGFld2lzaVhrMjJ4ZWtCMDJVQ0FBdDRNdEQzampsOXo3QV9aTTVDanFTN29WY1NaSmtIS2MxRUNUaXE2RXdCUGphR1N5ZVAtQmpoaUV6blhwTWZHeVczX2tITzhMaEU2WE9vYXhMdg?oc=5)
 
 ---
 
@@ -111,14 +135,6 @@ Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11
 2026-10-19 <span class="news-indication-tag">diabete</span>
 
 Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWEsyZWdncnVtUGJnSzJieE9wSk1nWTBIRUxRVG43QTI3RnJ3VTdjenRyRlFrUjk4cUtTQnVScHVlUTg4cHZ5YU0xYmFILTNhQ1p5QjZyN2pHVjlYYVpGbVhsMnJNTWthRFVoWElTdVFITDVVZXRmdHIxM3podUluaGlyZWJ5NzhkdHdHRUEyNzZ5OGxuRHpLeHhCUFZLQThRVjQ2aWUtYVM0U0pvUmFDaWI1cGx4M2l5bnZwZUlpd3ktZVRXRC0wMm1xc0x1eWR3QXpxamlUQV9DRVZQRVpiak5TU1M4MmdOTmVSeTk5Q1BtenfSAfgBQVVfeXFMUGRmdUJsR0RvWVZKRFZFVHZUMmVyWTN3ajBKRi1SRjRaN2N3RTM1WkpDaGdJc3FQRF9DZVlGSEFFc0YwdWpuZTM5djRNSGNtU0VNZWdsaXcyQjBjajk0NWkxazBSOHdVTU05R18zOFlDNjZyUmJVVGJUVDZjR0ZHaEI1a2YyY3UwcG9hbWpVVjZfbGh5R2MwVmpJRTBvZUVkdUM2YllQY09ZZk95THdsb3RzdFBkSm4xTmtDd3M4ZnhkQlJNVE05Wk10ZUM5OGRQaGsteTNGa2VfQXdDWThTcVZnTGI2Q0xfNmhIeVVUQ3Q1Tld4TXhsMzQ?oc=5)
-
----
-
-### [Früher Typ-2-Diabetes: Zwei Maßnahmen bessern die Symptome – ohne Medikamente](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
-
-2026-10-16 <span class="news-indication-tag">diabetes</span>
-
-Source: [T-Online](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmtDdHZCWFpzYy1idXdmT3dNSHIxTFgzd1V5aFJvN2g2cUhYXzZBM01UUkpZaHliVWdMQ3JseGRTdFVzTjRDLUpqTlNlR3ptejdWM05xSjZBM29oM3o3VXlyUU8zSjFROHJLelBVSF8zUjE5dFltanpQRS10c2k2bFktOWRMckd6R0xoVEZEZmdPU1UzVlJ1Rld4T056R0s1Q0JGT3Q0bXlsQjRZVUx2M0l3akNqbWRPN0d3aW5YVm1Ka2ps?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/perflutren/
 ---
 
 <p class="key-answer" data-question="What news is there about Perflutren?">
-<strong>Perflutren</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Perflutren</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Perflutren with the latest h
 <p><a href="{{ '/drugs/perflutren/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Derry man’s tragic heart attack sparks vital public health plea - Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
+### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
-2026-10-21 <span class="news-indication-tag">heart disease</span>
+2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
-
----
-
-### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
-
-2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
 ---
 

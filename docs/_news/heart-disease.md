@@ -3,7 +3,7 @@ layout: default
 title: "Herzerkrankung (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Herzerkrankung (heart disease). 5 articles, 57 related drugs."
+description: "Health news about Herzerkrankung (heart disease). 4 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
-<strong>Herzerkrankung (heart disease)</strong> currently has <strong>5 news articles</strong> and 57 related drugs.
+<strong>Herzerkrankung (heart disease)</strong> currently has <strong>4 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,21 +67,13 @@ This page brings together the latest health news about “Herzerkrankung” and 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Derry man’s tragic heart attack sparks vital public health plea - Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
+### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
-2026-10-21
+2026-10-22
 
-Source: [Derry Now](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVEtuSDlyWGFkUXFLZWpGXzRYREVLUnhQZzQyTjRDVGt0NDBJWGlHWV9TbmJoQ21fVlk4R3FRdTJmeEtaUUV3eUFlUWlOR2xaeWsxR1BUWlIzOExwY3hSUTg0NDJkSi0tNEFVaVFPeTJ2YmtjQVVzZzhNd01BLXVpZzM0MTZpb2dodUtuN2ZpNzFLMHdfUlJlRnJJNmlYOWtMTldaU0JwbTJ6Zkk?oc=5)
-
----
-
-### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
-
-2026-10-21
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
 
 ---
 

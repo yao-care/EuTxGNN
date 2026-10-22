@@ -3,7 +3,7 @@ layout: default
 title: "obesità (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesità (obesity). 5 articles, 8 related drugs."
+description: "Health news about obesità (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesità (obesity)?">
-<strong>obesità (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>obesità (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page brings together the latest health news about “obesità” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Farmaci per dimagrire, richiamo negli Usa: cosa sta succedendo e chi deve fare attenzione - La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0xuTlMxbWpOUDB2bE9naG1aMUlRSl83akRNbGNIZ1JYQ0xVeHZhZWR5QjNyYkk4UG02M1F6bUNwMExHTTJ1dk9UaWJpRlZlX3FpeHBTWnpxdjJYTmdYcTZjeWVZUlZ5NndoQlZ5RldXbmx0LVJoQjlEU0I4VUx6VUZ3OWtiX2tjOGFGMVZFR01iUmxZYVBrMlNQSFBPRWowQmxacTFoS2VqVkJIRWY2NXhsNUlMSThVckpDZmU2bWtjRFNxQXhsdWlPaks5N1Y1dWFUZUVtMTNvQ1RER1RUNFlyRXRiVXRrQWc?oc=5)
+### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
-2026-10-21
+2026-10-22
 
-Source: [La Nuova Sardegna](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0xuTlMxbWpOUDB2bE9naG1aMUlRSl83akRNbGNIZ1JYQ0xVeHZhZWR5QjNyYkk4UG02M1F6bUNwMExHTTJ1dk9UaWJpRlZlX3FpeHBTWnpxdjJYTmdYcTZjeWVZUlZ5NndoQlZ5RldXbmx0LVJoQjlEU0I4VUx6VUZ3OWtiX2tjOGFGMVZFR01iUmxZYVBrMlNQSFBPRWowQmxacTFoS2VqVkJIRWY2NXhsNUlMSThVckpDZmU2bWtjRFNxQXhsdWlPaks5N1Y1dWFUZUVtMTNvQ1RER1RUNFlyRXRiVXRrQWc?oc=5)
-
----
-
-### [Obesidad: una enfermedad que exige mirar más allá de la báscula - La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
-
-2026-10-21
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
+Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
 ---
 
