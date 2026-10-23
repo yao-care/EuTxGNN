@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 10 articles, 7 related drugs."
+description: "Health news about depresión (depression). 8 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# dépression (depression) News
+# depresión (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>10 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depresión (depression)?">
+<strong>depresión (depression)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -33,13 +33,13 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (10)
+## Related News (8)
 
-### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
+### [Científicos australianos identifican un nuevo tipo de depresión - Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
 
-2026-10-21
+2026-10-22
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
+Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
 
 ---
 
@@ -51,43 +51,11 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkF
 
 ---
 
-### [Depressionen: Pränatale Psychotherapie ändert Hirnstruktur des Babys - Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0t3ZFVyZVp1N0dqcE9wQVFtR01NY29ON0JRRS1NRXN5Ulc0a1RqS1FicjM5YUFORllrYl9UQkRZT0lEYjZvekFmZEJNVDJLVDhqWUNoVXlkazM1eDcwQUhoZjVGMmMzUWJ2cVFRVF9aUUNUZ2haZ3NMVXluVXAtR0MxZmptZlFfOGNEWjdlZ1ZOVGpYUF9sU2NtVGp2emNYRTVkQTlSSWVzMmJ0eFg5b2U0MGo2bkt2aURhdXpfbHN6WHdyX0ptS0FvRm84YVAwbEZFRGNsV2pfLVdyWjJPRmFRVGw?oc=5)
-
-2026-10-21
-
-Source: [Pharmazeutische Zeitung](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQV0t3ZFVyZVp1N0dqcE9wQVFtR01NY29ON0JRRS1NRXN5Ulc0a1RqS1FicjM5YUFORllrYl9UQkRZT0lEYjZvekFmZEJNVDJLVDhqWUNoVXlkazM1eDcwQUhoZjVGMmMzUWJ2cVFRVF9aUUNUZ2haZ3NMVXluVXAtR0MxZmptZlFfOGNEWjdlZ1ZOVGpYUF9sU2NtVGp2emNYRTVkQTlSSWVzMmJ0eFg5b2U0MGo2bkt2aURhdXpfbHN6WHdyX0ptS0FvRm84YVAwbEZFRGNsV2pfLVdyWjJPRmFRVGw?oc=5)
-
----
-
-### [Depression: Bestimmte Hirnverbindungen entscheiden mit über den Erfolg der tiefen Hirnstimulation - Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlhEZGJ2TGJMMERwbzJJY1BuWnBGQmVBSWdLaGFHRGkxTWJ2dFRBSmlGR3BYNXRkS1NRNkNad0RHSWtYcGpRTTYyeWlzUmZUQWl2MG9wcFo3RFFXcHdmSFIxVnRfRUotZW1GVy1lSC1QZ1UtTWh1alJPdHlQSmV6blBjRmZZQmVTU0dhUWMtY2VFR2ZueDNxZFZlSEFDeGFaZ3hzZ1BXNHdJUmJqSmsyLWZkWEpmWHlidklCd1dhNA?oc=5)
-
-2026-10-21
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlhEZGJ2TGJMMERwbzJJY1BuWnBGQmVBSWdLaGFHRGkxTWJ2dFRBSmlGR3BYNXRkS1NRNkNad0RHSWtYcGpRTTYyeWlzUmZUQWl2MG9wcFo3RFFXcHdmSFIxVnRfRUotZW1GVy1lSC1QZ1UtTWh1alJPdHlQSmV6blBjRmZZQmVTU0dhUWMtY2VFR2ZueDNxZFZlSEFDeGFaZ3hzZ1BXNHdJUmJqSmsyLWZkWEpmWHlidklCd1dhNA?oc=5)
-
----
-
 ### [Was Heidelbeeren mit unserer Stimmung zu tun haben könnten](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
 
 2026-10-21
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
-
----
-
-### [La depresión circadiana es resistente a los antidepresivos comunes y afecta a uno de cada cuatro pacientes](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkl5OG4wQ1NwbkpYOHpkd3FLQ2p4VVBnX0xrUGRUTFdPWmxxQWlraER0QWdfdjhNd2FuQnRaTE8zVlVNdy1hQ0Q3eGdYQUYwVmtrWW15UVd2SWJWNEFKYm9rREJVdzZPRnFUWXRid0hlb2wwdTVGMW5JbkVDejVBdGI0Q0FoejhVQ1NtRXdXZnFab013dGt4ajhVeTBGOGZrbDNhVzFoMEFMd1BVRGNyeHhkSzFJcEF5TTZqZEEyTWVYSEE5OGNSMnljcTRHNTdHTHhaR21TZFMwWjNsOWc?oc=5)
-
-2026-10-21
-
-Source: [ConSalud](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkl5OG4wQ1NwbkpYOHpkd3FLQ2p4VVBnX0xrUGRUTFdPWmxxQWlraER0QWdfdjhNd2FuQnRaTE8zVlVNdy1hQ0Q3eGdYQUYwVmtrWW15UVd2SWJWNEFKYm9rREJVdzZPRnFUWXRid0hlb2wwdTVGMW5JbkVDejVBdGI0Q0FoejhVQ1NtRXdXZnFab013dGt4ajhVeTBGOGZrbDNhVzFoMEFMd1BVRGNyeHhkSzFJcEF5TTZqZEEyTWVYSEE5OGNSMnljcTRHNTdHTHhaR21TZFMwWjNsOWc?oc=5)
-
----
-
-### [The humble one-celled alga that helped scientists win the Nobel prize - The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1YwekpqR3ROZ3hycm03TXQzeDlsa3pVbjZ0RlVoN3I3Snc5cWVndE1WSExRci16Wlk0dzFjZ2JEV25VRFlRdERub2RKUHBZQWVHMXNoNVpVY1BoRnFhR2ZaS0Y3YnNDWTVQS3BvZDdiaGprVEhNelZORFA1dXFwNVQxckRtLUpsNTVicTRUTHhkVmc?oc=5)
-
-2026-10-21
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1YwekpqR3ROZ3hycm03TXQzeDlsa3pVbjZ0RlVoN3I3Snc5cWVndE1WSExRci16Wlk0dzFjZ2JEV25VRFlRdERub2RKUHBZQWVHMXNoNVpVY1BoRnFhR2ZaS0Y3YnNDWTVQS3BvZDdiaGprVEhNelZORFA1dXFwNVQxckRtLUpsNTVicTRUTHhkVmc?oc=5)
 
 ---
 
@@ -112,6 +80,22 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRV
 2026-10-19
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGY4bExGNlFrcHVjRFQ3cWF3dEZ4QXNpUnFvMlRJNXRnUEEtRGVEaUQzT2U4cFdHekpXdXBuTEM0RDZfNXo1Sm5oZzkxaVFqZmNTTUw4RDhqVlVycVdRNkVaR2pUUDRrU1RDLS1HNFh3bWRpNEZIbUJGUGNaZW1OMl9INjIzVXVvVUZwSDlxYlVuX3dwT2xsS21KYkpnQ0FwMmc4eHNwMWhTUkdIc0pkMDgybkF4OVMwck9oQS1NR1BCek9sbGk4?oc=5)
+
+---
+
+### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+
+2026-10-19
+
+Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
+
+---
+
+### [Connectome-basiertes Targeting: Drei DBS-Wege für länger anhaltende Depressionshilfe - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck5QSlQyZ2Y5VWJVc3dEcEpFSk9BLTFGN0M2S21Sa2dkQ2VaRmJwcVF4RnRZOF9PbFpYLXlaWXVsbjZqOXZNb216TmdLc19fV01xQl96Sll1cHM0a1htalpQQ2ZPRVdKQ2VDckxWZEp3N3lGcjNJNU5vQ2I2elJVdVRUYjZEUGpSX2JYcDdRY3dLNlFjLXBUb2U1VWd4M29aeTBUMTZ3b2p1Y01sRFF6R2xjZG4wWjBa?oc=5)
+
+2026-10-18
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck5QSlQyZ2Y5VWJVc3dEcEpFSk9BLTFGN0M2S21Sa2dkQ2VaRmJwcVF4RnRZOF9PbFpYLXlaWXVsbjZqOXZNb216TmdLc19fV01xQl96Sll1cHM0a1htalpQQ2ZPRVdKQ2VDckxWZEp3N3lGcjNJNU5vQ2I2elJVdVRUYjZEUGpSX2JYcDdRY3dLNlFjLXBUb2U1VWd4M29aeTBUMTZ3b2p1Y01sRFF6R2xjZG4wWjBa?oc=5)
 
 ---
 

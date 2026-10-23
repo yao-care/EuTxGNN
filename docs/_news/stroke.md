@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 6 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 8 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (8)
 
 ### [Stroke Unit: quella mattina c'ero all'inaugurazione con il dr. Ferdinando Schieroni](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
 
 2026-10-22
 
 Source: [Merateonline](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
+
+---
+
+### [El lupus se asocia con el doble de riesgo de infarto y de ictus - El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
+
+2026-10-22
+
+Source: [El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
+
+---
+
+### [Schlaganfall bei Jüngeren: Studie zeigt Anstieg von 34 auf 62 - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
+
+2026-10-22
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
 
 ---
 

@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 
 ## Related News (1)
 
-### [ADHD and diabetes drugs to be tested in Alzheimer’s clinical trial - The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFzbUtlaGxlMVlIbVlBQWt6VklXZ2FzVDNXYm1OYzZqS0FYZWRoQ21YQmppWTVpVXJseU4wdDJLVVJHem5PdWNlOERCMVZMVVo0YnFqQWdqa01SSHMyTzE2M0QwODAtdm5iVkpfS2wtNTd2LVVfQVRBZHFlbjlsdnhWcDNqajNwa0N3TFZCZENfcXF4MVdFTnZ2cWppODlDUTRlRXd3aElTU2JnV052el96MVRUdDZyRFFJeUphYw?oc=5)
+### [ADHD drug to be tested as Alzheimer’s treatment - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
-Source: [The Times](https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUFzbUtlaGxlMVlIbVlBQWt6VklXZ2FzVDNXYm1OYzZqS0FYZWRoQ21YQmppWTVpVXJseU4wdDJLVVJHem5PdWNlOERCMVZMVVo0YnFqQWdqa01SSHMyTzE2M0QwODAtdm5iVkpfS2wtNTd2LVVfQVRBZHFlbjlsdnhWcDNqajNwa0N3TFZCZENfcXF4MVdFTnZ2cWppODlDUTRlRXd3aElTU2JnV052el96MVRUdDZyRFFJeUphYw?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/cenobamate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cenobamate?">
-<strong>Cenobamate</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Cenobamate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Cenobamate with the latest h
 <p><a href="{{ '/drugs/cenobamate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Warwickshire man with epilepsy 'disregarded' by passers-by](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
-
-2026-10-22 <span class="news-indication-tag">epilepsy</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5saDAxVUJYX0FXc3dKejEtRzM2c2JTY2RIbGZpUGw1LVhSNVFzelp2MjZrSTNaRnotV1pTcHptRWMzRVU5Umd2U2FzTmtTaDFsTmJKOXdGWUpmOXVJcnc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

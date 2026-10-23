@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 
 ## Related News (7)
 
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+
+---
+
 ### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">Adipositas</span>
@@ -42,11 +50,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 
 ---
 
-### [El chip subcutáneo que «electrocuta» el azúcar para frenar la diabetes y la obesidad](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+### [Prueban en ratones un dispositivo electrónico inalámbrico para tratar la diabetes y la obesidad sin fármacos - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
 
 2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [ABC](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWhsNlVXMy1zcjFQaTFXZFI3d3BMNkRzZUZLdl9CanVzV3pBTzJFUTVlUUVpM1N6Tm5XSy15MzlINC1MZ2dDUFBiRWx0aTBoWjM4bGZNU2F3RDNBOV9TWkdLZUpJOUx5Y1B0WGhka2VVWS1qUmJ5QVJBdHV0bFNjZkpFeFY1QS1PRTctTVFESWlTRFN2bGo3OVBRREtfMUZTWDhpZlpCLV9SN2PSAbABQVVfeXFMUFhucHRGSnAxdHFhXzFnMjRQMlJPZEVWd3lPYndXUEhJM0w2TkxYZFVzZVFSbjhKTGoyT1d5OUo5N0VmNGM2UkxudkVQVzdtVVRwdXlxUVRjRHlta1N1Zi1MdTgyRVFBYkpmLXBhcGVMTk1xVEU0LWRvTl9MQV9wcmh0c1NjU2RDak5RSHpJTUQxc3hKeXRaTDBPUm5tRnNrZXlWVXZhUUE1RGI0eHhhZ2I?oc=5)
+Source: [Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
 
 ---
 
@@ -66,19 +74,11 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjd
 
 ---
 
-### [Diabete tipo 2, EMA dà parere positivo a orforglipron. Ecco le novità](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11VHZNYy1fMkJ3am43cGllcGQ4MnNwVFNfVC1kRHdOUGNwb2tNVkdfTDZxdDhGQVZDQUZtbWFsUm1jSV9ONlFFXzBPMFQ4UVppNDBibUlyZ3prNTY1aXFZX01CWGpvVEVtejg4WEdRSHpDbFhhQlROTGFOVUY1NWdGTUQ5dldGVFo2ZlJsT2IxeVRWMVV5bDdtMlBmbDd4UGlDN2NXQQ?oc=5)
+### [Rétatrutide (anti-obésité) : ce que vous risquez avec le nouveau « King Kong » de la minceur](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
 
-2026-10-20 <span class="news-indication-tag">diabete</span> <span class="news-indication-tag">obesità</span>
+2026-10-20 <span class="news-indication-tag">obésité</span>
 
-Source: [Doctor33](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2JtZS11VHZNYy1fMkJ3am43cGllcGQ4MnNwVFNfVC1kRHdOUGNwb2tNVkdfTDZxdDhGQVZDQUZtbWFsUm1jSV9ONlFFXzBPMFQ4UVppNDBibUlyZ3prNTY1aXFZX01CWGpvVEVtejg4WEdRSHpDbFhhQlROTGFOVUY1NWdGTUQ5dldGVFo2ZlJsT2IxeVRWMVV5bDdtMlBmbDd4UGlDN2NXQQ?oc=5)
-
----
-
-### [Un médicament amaigrissant non autorisé déjà vendu sur les réseaux sociaux - 20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
-
-2026-10-19 <span class="news-indication-tag">obésité</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakhzMjlmWUJ5SUxrYlZuT0xBTndIblVaY0pxUzZ0LWNsbUNQOHJnTEZ2c25ZT1VTQkExbGticjlyckZoNHJETGFaUm13S1BtRk9zRFNHT2VKMTJiTk1nbmhYdDFXR3RkM2k4a1dfVUVjcEJYQndfUzJSVVVtRHNBN3pYZDJ6Z0VtZ05INnNfaHpuU1FCMWZERWxRaTE1VXZ5cU4zRVR4MWQwdVZjd1VjbEhSNE82YTRGa25INGpOVTAzMDg?oc=5)
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
 
 ---
 
