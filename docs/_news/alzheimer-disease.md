@@ -44,11 +44,11 @@ This page brings together the latest health news about “Alzheimer's” and lis
 
 ## Related News (1)
 
-### [ADHD drug to be tested as Alzheimer’s treatment - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
+### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
-2026-10-22
+2026-10-21
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
 ---
 

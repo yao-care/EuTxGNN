@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Herzerkrankung (heart disease) News"
+title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Herzerkrankung (heart disease). 4 articles, 57 related drugs."
+description: "Health news about heart disease. 2 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# Herzerkrankung (heart disease) News
+# heart disease News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Herzerkrankung (heart disease)?">
-<strong>Herzerkrankung (heart disease)</strong> currently has <strong>4 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease?">
+<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Herzerkrankung” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -67,7 +67,7 @@ This page brings together the latest health news about “Herzerkrankung” and 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
@@ -82,22 +82,6 @@ Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1Vx
 2026-10-19
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
----
-
-### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
-2026-10-16
-
-Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
-
-### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
-2026-10-16
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

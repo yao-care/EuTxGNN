@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 9 articles, 7 related drugs."
+description: "Health news about depresión (depression). 7 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>9 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>7 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,29 +33,29 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (9)
+## Related News (7)
+
+### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
+
+2026-10-23
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
+
+---
+
+### [Heidelbeeren täglich: Eine Studie zeigt überraschende Befunde – Heilpraxis – Heilpflanzen, Gesundheit und Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVRJQnVpMXBPaEtDa29oSUxLRFM2c09Ka0lyMWNCQXRGamRHWW1tbDlqanMxcnhVQ2NMc0o2OVh3V21oMGl0WS1WMlBKSnB2TVNEYV9GMTdIczZwWDhHdGVhUHFkYXBjNXdqWEloZmk1cGsyVk5Ka0tkdENaRUc5NTJDY1FZRGRGWkFldVBfRkNRTklNRzJVU0V3Z3V0bTVjSU54aldOb21iZWMtTENhN2JXdw?oc=5)
+
+2026-10-23
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVRJQnVpMXBPaEtDa29oSUxLRFM2c09Ka0lyMWNCQXRGamRHWW1tbDlqanMxcnhVQ2NMc0o2OVh3V21oMGl0WS1WMlBKSnB2TVNEYV9GMTdIczZwWDhHdGVhUHFkYXBjNXdqWEloZmk1cGsyVk5Ka0tkdENaRUc5NTJDY1FZRGRGWkFldVBfRkNRTklNRzJVU0V3Z3V0bTVjSU54aldOb21iZWMtTENhN2JXdw?oc=5)
+
+---
 
 ### [Científicos australianos identifican un nuevo tipo de depresión - Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
 
 2026-10-22
 
 Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
-
----
-
-### ["J'ai l'impression de fonctionner en mode automatique" : reconnaître les symptômes de la dépression à haut potentiel - Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE40VllVTncxdFZkNWFjUTVhazBTSTZpQ3FmS09rYTdQQk43Y25GaDdBYVFVZ0M5azdiQ3AwaEw4YjExLTFkWjE1T0Z1LVVCMHBhcFRvS0hBSDU4bkwybVdZVjBFc1RSaXRCaVdBbm5JV0hnNkstYXgwMDFwbHB6dw?oc=5)
-
-2026-10-21
-
-Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkFVX3lxTE40VllVTncxdFZkNWFjUTVhazBTSTZpQ3FmS09rYTdQQk43Y25GaDdBYVFVZ0M5azdiQ3AwaEw4YjExLTFkWjE1T0Z1LVVCMHBhcFRvS0hBSDU4bkwybVdZVjBFc1RSaXRCaVdBbm5JV0hnNkstYXgwMDFwbHB6dw?oc=5)
-
----
-
-### [Was Heidelbeeren mit unserer Stimmung zu tun haben könnten](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
-
-2026-10-21
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
 
 ---
 
@@ -67,27 +67,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRV
 
 ---
 
-### [Fruit and sugary drinks stood out in a three-year study of teenage mental health](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGY4bExGNlFrcHVjRFQ3cWF3dEZ4QXNpUnFvMlRJNXRnUEEtRGVEaUQzT2U4cFdHekpXdXBuTEM0RDZfNXo1Sm5oZzkxaVFqZmNTTUw4RDhqVlVycVdRNkVaR2pUUDRrU1RDLS1HNFh3bWRpNEZIbUJGUGNaZW1OMl9INjIzVXVvVUZwSDlxYlVuX3dwT2xsS21KYkpnQ0FwMmc4eHNwMWhTUkdIc0pkMDgybkF4OVMwck9oQS1NR1BCek9sbGk4?oc=5)
-
-2026-10-19
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixwFBVV95cUxOWGY4bExGNlFrcHVjRFQ3cWF3dEZ4QXNpUnFvMlRJNXRnUEEtRGVEaUQzT2U4cFdHekpXdXBuTEM0RDZfNXo1Sm5oZzkxaVFqZmNTTUw4RDhqVlVycVdRNkVaR2pUUDRrU1RDLS1HNFh3bWRpNEZIbUJGUGNaZW1OMl9INjIzVXVvVUZwSDlxYlVuX3dwT2xsS21KYkpnQ0FwMmc4eHNwMWhTUkdIc0pkMDgybkF4OVMwck9oQS1NR1BCek9sbGk4?oc=5)
-
----
-
 ### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
 
 2026-10-19
 
 Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
----
-
-### [Connectome-basiertes Targeting: Drei DBS-Wege für länger anhaltende Depressionshilfe - it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck5QSlQyZ2Y5VWJVc3dEcEpFSk9BLTFGN0M2S21Sa2dkQ2VaRmJwcVF4RnRZOF9PbFpYLXlaWXVsbjZqOXZNb216TmdLc19fV01xQl96Sll1cHM0a1htalpQQ2ZPRVdKQ2VDckxWZEp3N3lGcjNJNU5vQ2I2elJVdVRUYjZEUGpSX2JYcDdRY3dLNlFjLXBUb2U1VWd4M29aeTBUMTZ3b2p1Y01sRFF6R2xjZG4wWjBa?oc=5)
-
-2026-10-18
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck5QSlQyZ2Y5VWJVc3dEcEpFSk9BLTFGN0M2S21Sa2dkQ2VaRmJwcVF4RnRZOF9PbFpYLXlaWXVsbjZqOXZNb216TmdLc19fV01xQl96Sll1cHM0a1htalpQQ2ZPRVdKQ2VDckxWZEp3N3lGcjNJNU5vQ2I2elJVdVRUYjZEUGpSX2JYcDdRY3dLNlFjLXBUb2U1VWd4M29aeTBUMTZ3b2p1Y01sRFF6R2xjZG4wWjBa?oc=5)
 
 ---
 

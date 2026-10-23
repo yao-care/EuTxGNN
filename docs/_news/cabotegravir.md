@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>18 news articles</strong>, with 1 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>20 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (18)
+## Related News (20)
 
-### [HRT, Ernährung, Sport: Was hilft gegen den Hormonbauch?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhrcnpqS3BlM3RIUDBPTUZVaDlWam1wY2t5VnVmYmRYYkhCRXNkbkNjODlIeVJ5RHRobjdfYTVIM0YybjFqRmUtRW94aFFzQmNWbDFOMHhnOHJEMG55aUlBU002WHc1VGdsLWNlUVVUZ2dwZkpBdHNSQVZQOHVrdHREemk3N0lzOElXUXB5bk9vVTU4X1A0ZXk2NEw0VTE3NXpvZFJud196ZnVBUW43RVBBNll3S3ljRjVEbHN5Y2Z1al9E?oc=5)
+### [Un implante electrónico sin fármacos logra eliminar el exceso de glucosa en sangre y prevenir el aumento de peso](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
+
+2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
+
+---
+
+### [Probaron que una droga para la artritis también frena el tipo de caída del pelo más severo](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
+
+2026-10-23 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [Clarin.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
+
+---
+
+### [CamAPS Liberty permite automatizar la insulina sin contar hidratos - Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [FAZ](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhrcnpqS3BlM3RIUDBPTUZVaDlWam1wY2t5VnVmYmRYYkhCRXNkbkNjODlIeVJ5RHRobjdfYTVIM0YybjFqRmUtRW94aFFzQmNWbDFOMHhnOHJEMG55aUlBU002WHc1VGdsLWNlUVVUZ2dwZkpBdHNSQVZQOHVrdHREemk3N0lzOElXUXB5bk9vVTU4X1A0ZXk2NEw0VTE3NXpvZFJud196ZnVBUW43RVBBNll3S3ljRjVEbHN5Y2Z1al9E?oc=5)
+Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
 
 ---
 
@@ -58,19 +74,19 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTH
 
 ---
 
-### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+### [NHS plan to roll out fat jabs slowly ‘not good enough’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-10-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
 ---
 
-### [Elektronisches Implantat gegen Diabetes: Wie ein Mini-Katalysator Zucker im Blut abbaut - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxObjdqVkxFV1lHOC04VTd0QktoVVN3RnNMSEFzNzhuUWxPZGFaMEVLREszY1B1MEpUUkdsVjZRQkN6UTVVSjdBVHE4V2Utd1N6eVd0b3BFNnlyVXFKb2N1d2xXMXZ4NGRjRmpteWdsOEpQVDhRMDFQMkc4ZnY4ckV3TEQyYzdQZjVtT2VueE8wYTE3Y21NQUk1QzhldU1pcFVJeHBHcHU5Znl1bEY2S0V4V2hYWVlDS01tbkUxVWc0amtCQlVlU1h2Tm1CUQ?oc=5)
+### [Frühe Menopause steigert Diabetesrisiko: Warum Insulinresistenz früh zählt - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxObjdqVkxFV1lHOC04VTd0QktoVVN3RnNMSEFzNzhuUWxPZGFaMEVLREszY1B1MEpUUkdsVjZRQkN6UTVVSjdBVHE4V2Utd1N6eVd0b3BFNnlyVXFKb2N1d2xXMXZ4NGRjRmpteWdsOEpQVDhRMDFQMkc4ZnY4ckV3TEQyYzdQZjVtT2VueE8wYTE3Y21NQUk1QzhldU1pcFVJeHBHcHU5Znl1bEY2S0V4V2hYWVlDS01tbkUxVWc0amtCQlVlU1h2Tm1CUQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
 ---
 
@@ -79,22 +95,6 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-10-22 <span class="news-indication-tag">diabete</span>
 
 Source: [Ticinonline](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2NvelV2ejdGT0JqcWZCemF5ZHlwLXJQODRFSk9RV3Z1NWtWcU96VUVMRFcwMXFEd3dEb04zRFJDNEtQQjZhdER5Rkt6R2FZdjJMUFRnLTRlcnBPaHRvNGZQQmR2Yk9kV2gwRTB0UXRfOHpOQzQ0SzkyRUIzb2pnTFNPWDNDZ2U4MG1ZdzVUZVVBMk1RR1Y3cHo1eUVjUQ?oc=5)
-
----
-
-### [myLoop powered by CamAPS FX, aliado para el manejo de la diabetes tipo 1 en mujeres](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabetes</span>
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
-
----
-
-### [ADHD drug to be tested as Alzheimer’s treatment - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
 
 ---
 
@@ -111,6 +111,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt
 2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
+
+---
+
+### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+
+2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
 ---
 
@@ -175,6 +183,14 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+
+---
+
+### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
+
+2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

@@ -95,11 +95,19 @@ This page brings together the latest health news about “diabetes” and lists 
 
 ## Related News (14)
 
-### [HRT, Ernährung, Sport: Was hilft gegen den Hormonbauch?](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhrcnpqS3BlM3RIUDBPTUZVaDlWam1wY2t5VnVmYmRYYkhCRXNkbkNjODlIeVJ5RHRobjdfYTVIM0YybjFqRmUtRW94aFFzQmNWbDFOMHhnOHJEMG55aUlBU002WHc1VGdsLWNlUVVUZ2dwZkpBdHNSQVZQOHVrdHREemk3N0lzOElXUXB5bk9vVTU4X1A0ZXk2NEw0VTE3NXpvZFJud196ZnVBUW43RVBBNll3S3ljRjVEbHN5Y2Z1al9E?oc=5)
+### [Un implante electrónico sin fármacos logra eliminar el exceso de glucosa en sangre y prevenir el aumento de peso](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
 
 2026-10-23
 
-Source: [FAZ](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlhrcnpqS3BlM3RIUDBPTUZVaDlWam1wY2t5VnVmYmRYYkhCRXNkbkNjODlIeVJ5RHRobjdfYTVIM0YybjFqRmUtRW94aFFzQmNWbDFOMHhnOHJEMG55aUlBU002WHc1VGdsLWNlUVVUZ2dwZkpBdHNSQVZQOHVrdHREemk3N0lzOElXUXB5bk9vVTU4X1A0ZXk2NEw0VTE3NXpvZFJud196ZnVBUW43RVBBNll3S3ljRjVEbHN5Y2Z1al9E?oc=5)
+Source: [ConSalud](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
+
+---
+
+### [CamAPS Liberty permite automatizar la insulina sin contar hidratos - Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
+
+2026-10-23
+
+Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
 
 ---
 
@@ -119,19 +127,19 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTH
 
 ---
 
-### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+### [NHS plan to roll out fat jabs slowly ‘not good enough’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
 2026-10-23
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
 ---
 
-### [Elektronisches Implantat gegen Diabetes: Wie ein Mini-Katalysator Zucker im Blut abbaut - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxObjdqVkxFV1lHOC04VTd0QktoVVN3RnNMSEFzNzhuUWxPZGFaMEVLREszY1B1MEpUUkdsVjZRQkN6UTVVSjdBVHE4V2Utd1N6eVd0b3BFNnlyVXFKb2N1d2xXMXZ4NGRjRmpteWdsOEpQVDhRMDFQMkc4ZnY4ckV3TEQyYzdQZjVtT2VueE8wYTE3Y21NQUk1QzhldU1pcFVJeHBHcHU5Znl1bEY2S0V4V2hYWVlDS01tbkUxVWc0amtCQlVlU1h2Tm1CUQ?oc=5)
+### [Frühe Menopause steigert Diabetesrisiko: Warum Insulinresistenz früh zählt - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
-2026-10-22
+2026-10-23
 
-Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiywFBVV95cUxObjdqVkxFV1lHOC04VTd0QktoVVN3RnNMSEFzNzhuUWxPZGFaMEVLREszY1B1MEpUUkdsVjZRQkN6UTVVSjdBVHE4V2Utd1N6eVd0b3BFNnlyVXFKb2N1d2xXMXZ4NGRjRmpteWdsOEpQVDhRMDFQMkc4ZnY4ckV3TEQyYzdQZjVtT2VueE8wYTE3Y21NQUk1QzhldU1pcFVJeHBHcHU5Znl1bEY2S0V4V2hYWVlDS01tbkUxVWc0amtCQlVlU1h2Tm1CUQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
 ---
 
@@ -143,27 +151,19 @@ Source: [Ticinonline](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2Nve
 
 ---
 
-### [myLoop powered by CamAPS FX, aliado para el manejo de la diabetes tipo 1 en mujeres](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
-
-2026-10-22
-
-Source: [iSanidad](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
-
----
-
-### [ADHD drug to be tested as Alzheimer’s treatment - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
-
-2026-10-22
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGlSdi11ZU5zVlFwaHFKMGZkOENjZmVMUEtELU1SakprOF9WRkVjN0w3ZXNFVGhNUEw3NmZRclhqVUFUdEJfMmZfQmtmeFBaUlJuY3pjSFJka2ZPTXJCelhOZlhPanNaSTJ0NmtoQmpJVEpSMHdCd243WlR4Q2dHLVVrTENQQVFBUGFlZXRvLTMyNjg5RkE?oc=5)
-
----
-
 ### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
 2026-10-22
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
+
+---
+
+### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+
+2026-10-21
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/givosiran/
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [Controversial US-backed vaccine trial in African newborns halted - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-21 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
@@ -47,22 +47,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 2026-10-21 <span class="news-indication-tag">hepatitis</span>
 
 Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
-
----
-
-### [Bluthochdruck mit 30 bis 40: Spätfolgen für Herz und Nieren deutlich wahrscheinlicher - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
-
----
-
-### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
 
 ---
 

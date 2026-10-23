@@ -34,19 +34,19 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (13)
 
-### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+### [Un implante electrónico sin fármacos logra eliminar el exceso de glucosa en sangre y prevenir el aumento de peso](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+Source: [ConSalud](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
 
 ---
 
-### [Un factor hereditario puede elevar el riesgo cardiovascular sin dar señales - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+### [Más allá del colesterol: expertos de la SEEN ponen el foco en un factor hereditario que puede elevar el riesgo cardiovascular sin dar señales](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdmtrRURZTWMtX19FTjBWeHMxazBNZkk4Vi02bG5JS1ZXajF3aGRxZVZQNTVRTkhPTGQwbWVud3FldEwzaUhRblZPSUNHdkhuUG8wUTZOVEZyWGYzLXhQZnlSb3NHeVRVQ25jeWxVSHVOcFR2OUNrYU13Y1MzSVN6LU9PejR6SmFFZGh3LS1nNVR0UzBxZU9LSHpUWWxKU0FxR2k1UktQRTBKMk5JcXYyTUZibUZ3UnNScmJxWVNWSlludE9GQ1U4bHdZTVdfdGtTajBBS0k3d3FCVDZHdk9JTXNXZEVLVlhpMkpHbktyTW5XNTRuMnVPMnBmc3FsNVVI?oc=5)
 
 2026-10-23 <span class="news-indication-tag">ictus</span>
 
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+Source: [EntreMayores](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdmtrRURZTWMtX19FTjBWeHMxazBNZkk4Vi02bG5JS1ZXajF3aGRxZVZQNTVRTkhPTGQwbWVud3FldEwzaUhRblZPSUNHdkhuUG8wUTZOVEZyWGYzLXhQZnlSb3NHeVRVQ25jeWxVSHVOcFR2OUNrYU13Y1MzSVN6LU9PejR6SmFFZGh3LS1nNVR0UzBxZU9LSHpUWWxKU0FxR2k1UktQRTBKMk5JcXYyTUZibUZ3UnNScmJxWVNWSlludE9GQ1U4bHdZTVdfdGtTajBBS0k3d3FCVDZHdk9JTXNXZEVLVlhpMkpHbktyTW5XNTRuMnVPMnBmc3FsNVVI?oc=5)
 
 ---
 
@@ -90,14 +90,6 @@ Source: [TorinoToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWcwN
 
 ---
 
-### [« Il est facile de mentir » : le parcours de Maud pour son traitement anti-obésité - Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">obésité</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
-
----
-
 ### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
@@ -119,6 +111,14 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
+
+---
+
+### [« Ça m’a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">obésité</span>
+
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
 
 ---
 

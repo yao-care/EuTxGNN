@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,13 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [La renaissance de Nathalie, atteinte de la maladie de Crohn : « Cette poche m’a sauvé la vie - Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaWNQczJYZEJnMjJ0ejVOTHg2XzI0ai01NXlJQ0NxZUdhbXk5SVBmMWRhT1NWbGtzTmFFaDlLdlhHdUVrRDhacWl3cW5NbXJvWHJKakZuME1VZWpJSUJEaXZTS2ptSGxub3FObjl6bjBvcG1DanR6Q0V3cFFEcmZuQTNBM0thcnZBaWpmbGczTnhiUjktRDQxa3M4RWIxU0RnR1liUlpoLUtHNkpONFpFODN5bmRQaGtlRjhQemo1aXgyOHM0NnVTdV9mRDZtNlUwaWpMZlJ2SlR1STV5R082djh6TFczTURJWGNLSmNjRDZ1d3VENGNYTmNnaHc?oc=5)
+### [Probaron que una droga para la artritis también frena el tipo de caída del pelo más severo](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">maladie de Crohn</span>
+2026-10-23 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
 
-Source: [Le Parisien](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaWNQczJYZEJnMjJ0ejVOTHg2XzI0ai01NXlJQ0NxZUdhbXk5SVBmMWRhT1NWbGtzTmFFaDlLdlhHdUVrRDhacWl3cW5NbXJvWHJKakZuME1VZWpJSUJEaXZTS2ptSGxub3FObjl6bjBvcG1DanR6Q0V3cFFEcmZuQTNBM0thcnZBaWpmbGczTnhiUjktRDQxa3M4RWIxU0RnR1liUlpoLUtHNkpONFpFODN5bmRQaGtlRjhQemo1aXgyOHM0NnVTdV9mRDZtNlUwaWpMZlJ2SlR1STV5R082djh6TFczTURJWGNLSmNjRDZ1d3VENGNYTmNnaHc?oc=5)
+Source: [Clarin.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
 
 ---
 
@@ -79,6 +79,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cU
 2026-10-20 <span class="news-indication-tag">copd</span>
 
 Source: [Sylter Spiegel](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
+
+---
+
+### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
+
+2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

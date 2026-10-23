@@ -14,7 +14,7 @@ permalink: /news/netupitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Netupitant?">
-<strong>Netupitant</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Netupitant</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Netupitant with the latest h
 <p><a href="{{ '/drugs/netupitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (2)
 
 ### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
@@ -42,43 +42,11 @@ Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1Vx
 
 ---
 
-### [Bluthochdruck mit 30 bis 40: Spätfolgen für Herz und Nieren deutlich wahrscheinlicher - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
-
----
-
-### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
-
----
-
 ### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
----
-
-### [Herzerkrankung: Nach einer Erkältung brauchte ich ein neues Herz](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">Herzerkrankung</span>
-
-Source: [BILD](https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWZiWERLamV1UUh6VTdKNXVsMkI4bjlIblZxLUs3aWZLRTM5NjFhRml5TVpackRPY1FnQnh6dzNrTTRYbjdDRTVmWDd4OFJ0V0lNU2RwQk1FN091RzJxMWxSeDVpalNJaDcwQVNRV2RNY3RxRWV2OGpUR0ttSHFNSXYyS0pxNjJBbUd0ODFWU0tLLTVvVlgwaTRyQlltX1dwQ0o0QmxJcDcyeTNUQ0owOEJXS29vcEo4bUlfd0tZUQ?oc=5)
-
----
-
-### [Can AI screen for heart disease using photos of your tongue and face? - The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
-
-2026-10-16 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVBCUktrRlR3YTBMVHJ5cWN0NThTOXl1cUVwVVlyNlJzUm00bGUwTF83X0VzOFhLZHdxdnBEN0t0SkdLcVBrVzI2RTV6eDF1VTJrQUJYQUFVVWswamZKa0M3RDJlMWZ3X011bnY3WVFsUU5VcEw0YzlxOG5UTlJVbnNkZHdjV2dZQXMyM3JhZU5HcHg2SWVPYVlkd0d6U0w0bTFxbWln?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Probaron que una droga para la artritis también frena el tipo de caída del pelo más severo](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
+
+2026-10-23 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [Clarin.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFXMzFDMmJnT3lKZnZxMWJJNXRTanNOU3ZKWFRpU3Rybl9iQ0g3bWlETmJ0SFNjV3J3TmN2MDIzVkhxd2loQ0ltaHUtMVp0VW9XdEs0S2ZzYVJsNG9rdUp6UGZsaEp1blB2YmpEZkxnaWVnX3MzR2szd0pMNmZ5bV9rZWRhWmxVVUtUcTFLS2dteW92TUYzcXdwcnZpRjBmUzhaaQ?oc=5)
+
+---
 
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
@@ -63,6 +71,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cU
 2026-10-20 <span class="news-indication-tag">copd</span>
 
 Source: [Sylter Spiegel](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
+
+---
+
+### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
+
+2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 
