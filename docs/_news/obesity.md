@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "Adipositas (obesity) News"
+title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 7 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# Adipositas (obesity) News
+# obesidad (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
+<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -33,13 +33,13 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
 
-2026-10-22
+2026-10-23
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
 
 ---
 
@@ -51,11 +51,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV9
 
 ---
 
-### [Prueban en ratones un dispositivo electrónico inalámbrico para tratar la diabetes y la obesidad sin fármacos - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
+### [« Il est facile de mentir » : le parcours de Maud pour son traitement anti-obésité - Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
 
 2026-10-22
 
-Source: [Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
 
 ---
 
@@ -64,14 +64,6 @@ Source: [Science Media Centre España](https://news.google.com/rss/articles/CBMi
 2026-10-22
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
-
----
-
-### [Obesidad: una enfermedad que exige mirar más allá de la báscula - La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
-
-2026-10-21
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
 
 ---
 

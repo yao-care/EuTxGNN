@@ -34,19 +34,19 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 
 ## Related News (5)
 
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">arthritis</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
-
----
-
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
+
+---
+
+### [Bluthochdruck mit 30 bis 40: Spätfolgen für Herz und Nieren deutlich wahrscheinlicher - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
 
 ---
 

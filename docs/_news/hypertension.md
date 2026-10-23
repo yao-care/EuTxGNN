@@ -3,7 +3,7 @@ layout: default
 title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 1 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
 permalink: /news/hypertension/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hypertension/
 ---
 
 <p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>1 news articles</strong> and 55 related drugs.
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -64,7 +64,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Bluthochdruck mit 30 bis 40: Spätfolgen für Herz und Nieren deutlich wahrscheinlicher - it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
+
+2026-10-21
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0RDSjhLX2JzSmUzc0FNdFBaRWJMMzVEV0FIREFDcjNSaFg5T2RWWkpNTERIU2ZvdG1CU2hHb21LLXhmWExGZUxDT0MzYkxGQjRnNGNia1Y4aXlkaUZUUmxVU1NHbnlpN1psb1RhLW1MTlJyTmRrRG5paVpOWVQ1VTR4VHYtOTZld0V1UzM1ckhLT3lCamFKUVB0OGh4OEszcHlKSl80bmgxdVp5VFFram5kOHQtYWZjQnc?oc=5)
+
+---
 
 ### [Studie zeigt: Das ist die ideale tägliche Menge für Vollkornprodukte - Yahoo Finanzen Deutschland](https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0R6d3d1ZklxTjZfdFRfT2ZrVEdfckJTQUk1cE53dFVkMExnUWRvLVpVNS05UndTaTN4QUxSM3RlZUlUZ08xTWh1WTNFTjVGVkNId041Y1c4SlFzbmJvSWNjbnFSTkhxM0NFNDAxS2VqMXV5YjBoTmViSl94d1IzaE1uU0x0MXFFSldJOEVMU3V0aGJrQURod2ZtRQ?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (13)
 
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
 
-2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+
+---
+
+### [Un factor hereditario puede elevar el riesgo cardiovascular sin dar señales - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+
+2026-10-23 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+
+---
+
+### [Blutdrucksenkung: 10 bis 20 mmHg weniger senken das Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
+
+2026-10-23 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
 
 ---
 
@@ -47,14 +63,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEc
 2026-10-22 <span class="news-indication-tag">Adipositas</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
-
----
-
-### [Prueban en ratones un dispositivo electrónico inalámbrico para tratar la diabetes y la obesidad sin fármacos - Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Science Media Centre España](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDM0bnNyckpXbEktbE5GVS1USnFrVGprRWFWMG5lYjNLSGlFNlNVMnR2WHM0b0h3bDBoMWdBcTFIX0E0ZElHVTN3Y1hzaWJYNzJNSHFUd05ub2FzRW0wWkIzbzA5RzVzMHMwMVlqZ2YwZldiOEpaSWpEQkFsWTlzYW83cGNvZXEtcDJXX1ZheVNxQjZCcXZZT1kwbENnZzBEYng2WUhKcnhLajVnVUlhSkNMdEpHSWNKdnZKRTAzMU5GNVRjelV1RA?oc=5)
 
 ---
 
@@ -74,49 +82,33 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV
 
 ---
 
-### [Schlaganfall bei Jüngeren: Studie zeigt Anstieg von 34 auf 62 - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
-
----
-
-### [Congreso SEEN: Reducir la lipoproteína(a) no garantiza todavía menos infartos e ictus - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
+### [All'ospedale Molinette di Torino nuova risonanza magnetica da 1,6 milioni: servirà ad abbreviare gli esami](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWcwNEsyV1BZTTI0dElZdUZUSDNhWm9lOFR2VTlIekN5SEhDMTZkN0R5U29GZi1aUUZaWmprWkotZC11Y05kMWFydHU5SUMyTXlpdjFDU3lWU0JJYWhDQXBjQTdsZW0xWVllMFNESWNkVWl3RENLSHNNRmpJQmRPT3NCblNmNG9ha2c?oc=5)
 
 2026-10-22 <span class="news-indication-tag">ictus</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
+Source: [TorinoToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWcwNEsyV1BZTTI0dElZdUZUSDNhWm9lOFR2VTlIekN5SEhDMTZkN0R5U29GZi1aUUZaWmprWkotZC11Y05kMWFydHU5SUMyTXlpdjFDU3lWU0JJYWhDQXBjQTdsZW0xWVllMFNESWNkVWl3RENLSHNNRmpJQmRPT3NCblNmNG9ha2c?oc=5)
 
 ---
 
-### [Alzheimer, SLA e ictus: cosa può vedere la nuova risonanza del cervello](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1AtRFdhTTltQzhpRmR4eVExM3dHZ09Icmw3bVd6N1l2eHJtOHFtYXMyenZLeWNaRm5XMEN0U2o2TU85a3NSc2JSeS1UMDV3bnBEMFk0UUdjMVhWQ3B3Z05KMEloNGNKdzNvLWpDNjFGUExMYzBERTZHUkllYlJscXNnQ0R4NWRmRE10R1FyRDdfTXBHTE1kS2RpMzdwdEV1WTNOV3RiNFIwUDNsU1F0Mlc1VTUxYmZMeTlzdDlQQmZHR3AyN1F3?oc=5)
+### [« Il est facile de mentir » : le parcours de Maud pour son traitement anti-obésité - Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">ictus</span>
+2026-10-22 <span class="news-indication-tag">obésité</span>
 
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1AtRFdhTTltQzhpRmR4eVExM3dHZ09Icmw3bVd6N1l2eHJtOHFtYXMyenZLeWNaRm5XMEN0U2o2TU85a3NSc2JSeS1UMDV3bnBEMFk0UUdjMVhWQ3B3Z05KMEloNGNKdzNvLWpDNjFGUExMYzBERTZHUkllYlJscXNnQ0R4NWRmRE10R1FyRDdfTXBHTE1kS2RpMzdwdEV1WTNOV3RiNFIwUDNsU1F0Mlc1VTUxYmZMeTlzdDlQQmZHR3AyN1F3?oc=5)
+Source: [Le Progrès](https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2ZxY2ZyVDVXbFJDMm9BN0ZUdWV4ZGFXWFQyMEFManJJT001dEVVWVhGSTR5NURfd1RvZWYzdzRud2dGbkNrUnlzQVpqWHpPOFBJLTdwdTdtMmJJV0w2R0FEQm1ydDhfZlhfZ25qTTcwa29JTGZPa0xpM09ibkpjaW9jY05lbXIzbGRHT1A4TllWdEdnZGdrb3g2RTNrYmJ2WGpXempFdkRjbnhhemdZeWRDZmY3TGRCdkNobmVnM0VVVUNkNi1hMTRhWQ?oc=5)
 
 ---
 
-### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
+### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
----
-
-### [Tè e cuore, rischio vascolare più basso dell’11%: lo studio su quasi 486mila persone](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
+Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 ---
 
 ### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
-2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
@@ -127,14 +119,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
----
-
-### [Obesidad: una enfermedad que exige mirar más allá de la báscula - La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
-
-2026-10-21 <span class="news-indication-tag">obesidad</span>
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
 
 ---
 

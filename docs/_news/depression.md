@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 8 articles, 7 related drugs."
+description: "Health news about depresión (depression). 9 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>8 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>9 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Científicos australianos identifican un nuevo tipo de depresión - Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
 
@@ -56,14 +56,6 @@ Source: [Journal des Femmes Santé](https://news.google.com/rss/articles/CBMifkF
 2026-10-21
 
 Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
-
----
-
-### [Braunes Fett: Schutz vor Diabetes, Herzkrankheiten und Depressionen - Gesundheit - SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
-
-2026-10-21
-
-Source: [SZ.de](https://news.google.com/rss/articles/CBMigAFBVV95cUxQbURVM3FiN2ZwSFZUZEw2MDZTSWFfZnNYWDkzdjY2ckZtS0xseTFkVk1MamR2ZGxfb1RBYzREUGJTZ3lsbzFIeWpsOEhkd3lwakp1YWhHUEpmVkxyWW9CTUtlbWk0dXNSTm1TZnZscUNNN0lob3RGZzd1UmVVN080Xw?oc=5)
 
 ---
 
@@ -96,6 +88,22 @@ Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJo
 2026-10-18
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck5QSlQyZ2Y5VWJVc3dEcEpFSk9BLTFGN0M2S21Sa2dkQ2VaRmJwcVF4RnRZOF9PbFpYLXlaWXVsbjZqOXZNb216TmdLc19fV01xQl96Sll1cHM0a1htalpQQ2ZPRVdKQ2VDckxWZEp3N3lGcjNJNU5vQ2I2elJVdVRUYjZEUGpSX2JYcDdRY3dLNlFjLXBUb2U1VWd4M29aeTBUMTZ3b2p1Y01sRFF6R2xjZG4wWjBa?oc=5)
+
+---
+
+### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+
+2026-10-18
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+
+---
+
+### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+
+2026-10-18
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 

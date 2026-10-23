@@ -14,7 +14,7 @@ permalink: /news/zinc/
 ---
 
 <p class="key-answer" data-question="What news is there about Zinc?">
-<strong>Zinc</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Zinc</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Zinc with the latest health 
 <p><a href="{{ '/drugs/zinc/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Darmentzündung: Rindprotein verschlimmert Symptome, Erbsenprotein schneidet milder ab - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGZaRmY5RC1Hdk51bzFfb2FQZFZoTkw3U1hPSVViYnpDV25HLXI3S2laZ3FOMnhua2FaeFhMTFNYenVwNk5CTjFaNlgyLUlhRG5YRUl6eVdtanVHMFdJemRSRkRvZkY2RU9oYkJYYUhRX2s5a2hKRGpwcHlLWTNkTlVkcllEblo2Zkt1SUV0azJUSGVrUmJKc2hZOXNqWTZYRWV6ekdvYkUtMUNCdG9uYjJadUxBTXppZmxXTC1nd1R4U3l0S2NQYlZ0QzhfQQ?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Zinc</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGZaRmY5RC1Hdk51bzFfb2FQZFZoTkw3U1hPSVViYnpDV25HLXI3S2laZ3FOMnhua2FaeFhMTFNYenVwNk5CTjFaNlgyLUlhRG5YRUl6eVdtanVHMFdJemRSRkRvZkY2RU9oYkJYYUhRX2s5a2hKRGpwcHlLWTNkTlVkcllEblo2Zkt1SUV0azJUSGVrUmJKc2hZOXNqWTZYRWV6ekdvYkUtMUNCdG9uYjJadUxBTXppZmxXTC1nd1R4U3l0S2NQYlZ0QzhfQQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

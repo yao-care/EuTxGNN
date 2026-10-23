@@ -34,19 +34,19 @@ This page combines the AI-predicted indications for Tirzepatide with the latest 
 
 ## Related News (6)
 
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+### [NHS plan to roll out fat jabs slowly ‘not good enough’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
-2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+2026-10-23 <span class="news-drug-tag">Tirzepatide</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
 ---
 
-### [Stress: Warum bei manchen Menschen plötzlich die Gelenke schmerzen – und bei anderen nicht](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+### [Pharmacist shares 'rare condition' affecting some people taking Mounjaro or Wegovy - Irish Mirror](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzdzdTlKZHNGR1B3VWd1eVZ2ZnNUemZKWnNiblUtQUd1V3cwekF3TVh6NXhRWlpueWNkZF9XNVdPejN0RjRCaEQ0MUhxZ2FPYThjaWE3VENQYlhMR0lQSHd1ZlQ5TllFM19uY2J6alBzWmhtSzJSQlNsYVFaQm1TWXdiWkx5eWJxWm5sYjNJOTVZTHh6Ykg4LW53ZXhQZ29ZRkppNDN2VURoZ9IBrwFBVV95cUxPN3NJUFNac2tfMlA5aVZleWl3ZHVpd3J2bklIZkk5RXhQX1RtNGZSM2RGbXVEMU9VaGExU094SjJGUlBJNnIxWWttVmU0R3NBU0UtSmVlbmNRSk9QRTN3UlR3SVB6UFFEX2NaV0FkX0s1OHU3RThpQWIxOHdISW9PSGpNVDdXNU1FOTJrOVM0RGdHaWNaQm1RTWJpem9SaEZTNkR1MjR4VUpPWExpWm1r?oc=5)
 
-2026-10-22 <span class="news-indication-tag">arthritis</span>
+2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc1FpV2pyam44QlBtcG0wdWVSdlBSLTYwSi1UTHRMUnN3WlpPTG14TmxfWnF4bUZvMW1NWDdfWEhlRjY5ejZ6YnNjSmRqTnROdFNsTWZNRExsWDBlRXUzX0lSYzBxbWtZWWkzMFYzcDNvWlBCaUFuVjJhVE4yY1JrRUMxbDNCOUhpam9Ha3pjVm9QSmhlVXJCNHVxZXJ6TUtzNXdBYUlGdkZRWW9GVU5GZWhPdFNMakc3dzdBUVJaRnFvLUx5aGtOb3ZlZlh3aVRVdXlMZWtEVm1GTUFua2FacEhqdzBOamo4VVowZw?oc=5)
+Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzdzdTlKZHNGR1B3VWd1eVZ2ZnNUemZKWnNiblUtQUd1V3cwekF3TVh6NXhRWlpueWNkZF9XNVdPejN0RjRCaEQ0MUhxZ2FPYThjaWE3VENQYlhMR0lQSHd1ZlQ5TllFM19uY2J6alBzWmhtSzJSQlNsYVFaQm1TWXdiWkx5eWJxWm5sYjNJOTVZTHh6Ykg4LW53ZXhQZ29ZRkppNDN2VURoZ9IBrwFBVV95cUxPN3NJUFNac2tfMlA5aVZleWl3ZHVpd3J2bklIZkk5RXhQX1RtNGZSM2RGbXVEMU9VaGExU094SjJGUlBJNnIxWWttVmU0R3NBU0UtSmVlbmNRSk9QRTN3UlR3SVB6UFFEX2NaV0FkX0s1OHU3RThpQWIxOHdISW9PSGpNVDdXNU1FOTJrOVM0RGdHaWNaQm1RTWJpem9SaEZTNkR1MjR4VUpPWExpWm1r?oc=5)
 
 ---
 
@@ -60,7 +60,7 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt
 
 ### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 
-2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span> <span class="news-indication-tag">AF</span>
+2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
 

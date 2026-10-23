@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 8 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 7 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
+
+### [Un factor hereditario puede elevar el riesgo cardiovascular sin dar señales - La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+
+2026-10-23
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVBKM1pPeVJNdHlFcTBoekE2UkF3T21Ba3o5QW4tTXlYYzhUZ2ZVYkhQMzhjTlFaRXRYai14aEd5YUFWQUZPQk5nMFgwNG9oeDlEalYtYW1pNHIzSmdheVRpelFOWGxVNUNlNTQyMnBocjlNajFSS1JXRWJVa2J2MjFQVGhJcEdPZS1lU0JRRS16N21xMnplUjNwcnFNdkl0S3NSZW9LS1ZBY2J2dEppRmdWSGRjeGgwNzg4eHNRM3VBSHdxQlVQVFFKM2dEaFAwcEFPYlp5dEFnTllBajRGTg?oc=5)
+
+---
+
+### [Blutdrucksenkung: 10 bis 20 mmHg weniger senken das Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
+
+2026-10-23
+
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
+
+---
 
 ### [Stroke Unit: quella mattina c'ero all'inaugurazione con il dr. Ferdinando Schieroni](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
 
@@ -54,43 +70,19 @@ Source: [El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV
 
 ---
 
-### [Schlaganfall bei Jüngeren: Studie zeigt Anstieg von 34 auf 62 - it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
+### [All'ospedale Molinette di Torino nuova risonanza magnetica da 1,6 milioni: servirà ad abbreviare gli esami](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWcwNEsyV1BZTTI0dElZdUZUSDNhWm9lOFR2VTlIekN5SEhDMTZkN0R5U29GZi1aUUZaWmprWkotZC11Y05kMWFydHU5SUMyTXlpdjFDU3lWU0JJYWhDQXBjQTdsZW0xWVllMFNESWNkVWl3RENLSHNNRmpJQmRPT3NCblNmNG9ha2c?oc=5)
 
 2026-10-22
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlh2aGw2V0YtRGJnS0tHbDkxenRncHZfVlZlTGJBT2xBRzhDWmZaM01oOGxjOVBHTHhlSWtYcFpQdzdFVjJQTXF4ekJsVjNBdUUtYmVUVWsyY0NvRTRHZVAzZEEzNVExRUMzdWc4aHVPX0U2RjA1NVZoYzJpam5zcno3Vm00UjJ3Rlg1LVB4QVhIcEtsbHNlSw?oc=5)
+Source: [TorinoToday](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWcwNEsyV1BZTTI0dElZdUZUSDNhWm9lOFR2VTlIekN5SEhDMTZkN0R5U29GZi1aUUZaWmprWkotZC11Y05kMWFydHU5SUMyTXlpdjFDU3lWU0JJYWhDQXBjQTdsZW0xWVllMFNESWNkVWl3RENLSHNNRmpJQmRPT3NCblNmNG9ha2c?oc=5)
 
 ---
 
-### [Congreso SEEN: Reducir la lipoproteína(a) no garantiza todavía menos infartos e ictus - IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
+### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 2026-10-22
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXBsbC1FZ3hLTC1XTFdMbHoxckU2YU80N0dJeU1oc0M4VnJFVjVZNWRpX1FVVjZfdW91R0s1NWZNNWhEZFljOEpmX3dQd2tEcmlySnU4cVlwZV9mR1d0QkY3VkNvUVJZQkRzMFVYV0VwbDN1RW41WXE1U2hhVktMYzBTMi1SbXRnaG45X1V0U1FSZE10ZlJ3d0hud1EwX1RIWW9TN21qQXFTOEp6VG8zaDRLOU9UYmR6R3fSAbQBQVVfeXFMTXA3T1cwckthb2NpOFJzUzROaV9IbHZZX2t6bnFraFlBYUVZcWFsZ1RLdXpOVkE5VjVVT1YtSV9idC1IQ2ZzOWkwZ3pYWWdEQTFOOWhwMmNDakhVVW5RRm1zenVhSll6V3o2Ty1HTFh5TTlFVl9EOG9DN05sRkVHb3RWNEpySWtLYUJnMGh0Y1ZQb2xsR18ySkQ2Zm1vVUt6TDBZWTRULW9heTZ4ZldqMnZWODlk?oc=5)
-
----
-
-### [Alzheimer, SLA e ictus: cosa può vedere la nuova risonanza del cervello](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1AtRFdhTTltQzhpRmR4eVExM3dHZ09Icmw3bVd6N1l2eHJtOHFtYXMyenZLeWNaRm5XMEN0U2o2TU85a3NSc2JSeS1UMDV3bnBEMFk0UUdjMVhWQ3B3Z05KMEloNGNKdzNvLWpDNjFGUExMYzBERTZHUkllYlJscXNnQ0R4NWRmRE10R1FyRDdfTXBHTE1kS2RpMzdwdEV1WTNOV3RiNFIwUDNsU1F0Mlc1VTUxYmZMeTlzdDlQQmZHR3AyN1F3?oc=5)
-
-2026-10-22
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1AtRFdhTTltQzhpRmR4eVExM3dHZ09Icmw3bVd6N1l2eHJtOHFtYXMyenZLeWNaRm5XMEN0U2o2TU85a3NSc2JSeS1UMDV3bnBEMFk0UUdjMVhWQ3B3Z05KMEloNGNKdzNvLWpDNjFGUExMYzBERTZHUkllYlJscXNnQ0R4NWRmRE10R1FyRDdfTXBHTE1kS2RpMzdwdEV1WTNOV3RiNFIwUDNsU1F0Mlc1VTUxYmZMeTlzdDlQQmZHR3AyN1F3?oc=5)
-
----
-
-### [Answer to a healthier heart? Drinking seven cups of tea - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
-2026-10-22
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXVYUC1ZTmpwQU9jNG5EdlItUjRBQWxVc3VqWlBSQnphdXZkTXFTUHhOQmEtc1lEOXpzUE1oQ2VfMWIxejBNc2VEdU5IdnVTV2J5R2Y4X1RfQURvWS1JQzBHZjVlVGNsbDFPMGItRzdMdjNGNHZSSFpzT2ppNjQySkhMYldDN3BpN2l4R3FFVzJ5RDZEcW5WZkNPbkltSUxl?oc=5)
-
----
-
-### [Tè e cuore, rischio vascolare più basso dell’11%: lo studio su quasi 486mila persone](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
-
-2026-10-22
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVTVLYVh0Q1ozN2ZBUDBPcnljZGNrN2dsUGhsOUZBaWlhbDJKWncxMlE3Ym40RGpTV0hkRWdYS3lIV3l1b3NnUi1tSGJGaWNqc3RMYUNlWnNHSGp2N1FSX0RibEZxMUhFUjNMM01URWJnMjlFUVQ4QXphSzhOWHBCMWNOMUZ0UU8temdxc281UEhMT3RaOXhIZG96VGhudjF5WGxSMzRBVU1Beld2NEJ1ZzlXWWctX0tITFc1WEYwS3pkbjJidnh3Tkduc1hlYnlCX2NHVmtqcw?oc=5)
+Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 ---
 
