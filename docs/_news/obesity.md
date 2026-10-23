@@ -35,11 +35,19 @@ This page brings together the latest health news about “obesidad” and lists 
 
 ## Related News (6)
 
-### [Un implante electrónico sin fármacos logra eliminar el exceso de glucosa en sangre y prevenir el aumento de peso](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
+### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
 
 2026-10-23
 
-Source: [ConSalud](https://news.google.com/rss/articles/CBMihwJBVV95cUxNOEZmalloZzEzU1czcVVsWk9hb19ONlE4ckdpQ1d0OW9JTVI4c3pYNzF3Z2p5UFJBRzJTTENLUGlnMmU1NjRDWV8yLTVTbGlfTVNSOVpRVHpTQ1Zva2dxc1pWbm1hTnVsektBeEhXVzUxNC1Vb3FYY2lWT0pjak9POS1VcWQ2X3o1NFF0T3lTd0lBY2JjaTcwUmdxdjBmd1VHZ0ljRUJPRUE3UFgxWXhueW1XeTRDU0RxaDlFWkFPZVREYkllZmg3R3pvc2o0SFI3S2Y5WnByVzhoSkFOdHNMWmR5OTcyMkhTQzd0TFVzdnNGNk5lRy16cGJZOTZPQXVwVHBhMkEwOA?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
+
+---
+
+### [Intermittent fasting plus exercise boosts fat loss and fitness in 12-week obesity trial - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVNrNlFtQW5kMlc0SzhPbGlMT255Q2FSdGJzU3NQbXl2QXBsMFhZSGVpMnlUOFFrdEZkVGQ1TlZuQmZ5S0x1N1NHQjJhR1ZwcS1fa0F2MFpiX3REZUpnYkVmZjhwS1VvelNZMDVoRUNhcUtfbElhR05laDFkMTFqeUEzdHUyWUU?oc=5)
+
+2026-10-22
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVNrNlFtQW5kMlc0SzhPbGlMT255Q2FSdGJzU3NQbXl2QXBsMFhZSGVpMnlUOFFrdEZkVGQ1TlZuQmZ5S0x1N1NHQjJhR1ZwcS1fa0F2MFpiX3REZUpnYkVmZjhwS1VvelNZMDVoRUNhcUtfbElhR05laDFkMTFqeUEzdHUyWUU?oc=5)
 
 ---
 
@@ -64,14 +72,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21
 
 Source: [Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
-
----
-
-### [Rétatrutide (anti-obésité) : ce que vous risquez avec le nouveau « King Kong » de la minceur](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
-
-2026-10-20
-
-Source: [ma-sante.news](https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDhVT0J4RkJDSzFpenpTdkVJYlQwZWVNQ1RkWXRPQkRnZ3pxZ2dTNW9HbERGSlZpb18yazlCTHRoUm85SjIzY1Qydm9DZDRPVVFHaGwzQUNnbHN1bGdYUVhWaXRLaTEyVVM2aVBYVEFEOWNXbTlzRHhoY0JQWUFINnZBR1dhdVZqV3hBcnIzdVZhRXl0MlpCM2tLb2U?oc=5)
 
 ---
 

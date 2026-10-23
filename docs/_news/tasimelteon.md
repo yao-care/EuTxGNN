@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
-
----
-
-### [Heidelbeeren täglich: Eine Studie zeigt überraschende Befunde – Heilpraxis – Heilpflanzen, Gesundheit und Medizin](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVRJQnVpMXBPaEtDa29oSUxLRFM2c09Ka0lyMWNCQXRGamRHWW1tbDlqanMxcnhVQ2NMc0o2OVh3V21oMGl0WS1WMlBKSnB2TVNEYV9GMTdIczZwWDhHdGVhUHFkYXBjNXdqWEloZmk1cGsyVk5Ka0tkdENaRUc5NTJDY1FZRGRGWkFldVBfRkNRTklNRzJVU0V3Z3V0bTVjSU54aldOb21iZWMtTENhN2JXdw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">depression</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiswFBVV95cUxORVRJQnVpMXBPaEtDa29oSUxLRFM2c09Ka0lyMWNCQXRGamRHWW1tbDlqanMxcnhVQ2NMc0o2OVh3V21oMGl0WS1WMlBKSnB2TVNEYV9GMTdIczZwWDhHdGVhUHFkYXBjNXdqWEloZmk1cGsyVk5Ka0tkdENaRUc5NTJDY1FZRGRGWkFldVBfRkNRTklNRzJVU0V3Z3V0bTVjSU54aldOb21iZWMtTENhN2JXdw?oc=5)
 
 ---
 
@@ -58,11 +50,19 @@ Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ
 
 ---
 
-### [Body-clock disruptions contribute to one in four cases of depression, suggests large study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5)
+### [Was Heidelbeeren mit unserer Stimmung zu tun haben könnten](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
 
 2026-10-21 <span class="news-indication-tag">depression</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5)
+Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
+
+---
+
+### [Australian researchers identify new subtype of depression linked to body clock disruptions - The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWRFdidHdSeWFKdmxQaGFDVkJueUt5NUlBQl9aU29uekI5SE9SYkJZOTExTFU4NlBWQURQVms2MUxWRXl4dU5sZm9BeXRFY2pBQXdrclV1eXR5SFg0cnI0c2tmYjJObEhzMkRaeGcwVGtwcVlVV295Nk9LZWQyUmFIUmdMRlVtTmZBNlBtY3lMdDA2QmJOVUw2OFBVSEpkRm5MYmsyZkJhWHVZRFh5Tnd1SFkwYXJJZ21hUkNzVEY2SVh1QmZrQU1ZbWdJQUFVUmxOaA?oc=5)
+
+2026-10-20 <span class="news-indication-tag">depression</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWRFdidHdSeWFKdmxQaGFDVkJueUt5NUlBQl9aU29uekI5SE9SYkJZOTExTFU4NlBWQURQVms2MUxWRXl4dU5sZm9BeXRFY2pBQXdrclV1eXR5SFg0cnI0c2tmYjJObEhzMkRaeGcwVGtwcVlVV295Nk9LZWQyUmFIUmdMRlVtTmZBNlBtY3lMdDA2QmJOVUw2OFBVSEpkRm5MYmsyZkJhWHVZRFh5Tnd1SFkwYXJJZ21hUkNzVEY2SVh1QmZrQU1ZbWdJQUFVUmxOaA?oc=5)
 
 ---
 
@@ -79,14 +79,6 @@ Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJo
 2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
-
----
-
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 
