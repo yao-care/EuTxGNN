@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
 
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+
+---
+
+### [More daily steps over a long period linked to better attention and decision-making - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
+
+2026-10-21 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
 
 ---
 

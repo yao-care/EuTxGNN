@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 
 ## Related News (3)
 
-### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
+### [How you drink your tea matters, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
 ---
 

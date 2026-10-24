@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Herzinsuffizienz: Vierfachtherapie und CKM-Ansatz verbessern 3-Jahres-Überleben - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVMxdUk0MXhobnJ5WDlvNlo1WWJxczgxZEwtaGdFU2hYbkRNdlEyUWRkZl9iMGNlMG5wclZDcUtnY0RFcC1Zc1hoaXZIbU5BRmVlM2FPVmcxYm45WXFyM0RkR3N6MFVHWlktd1FSTWJseE90X0FVSEFDREx5VTlkY0ZjTXM4akJyYk5JWTJ5WVFTMmdSei13VFVjanhkTEQ0cmFXdWpCcHRfTl9aSlZSeA?oc=5)
+
+2026-10-22 <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVMxdUk0MXhobnJ5WDlvNlo1WWJxczgxZEwtaGdFU2hYbkRNdlEyUWRkZl9iMGNlMG5wclZDcUtnY0RFcC1Zc1hoaXZIbU5BRmVlM2FPVmcxYm45WXFyM0RkR3N6MFVHWlktd1FSTWJseE90X0FVSEFDREx5VTlkY0ZjTXM4akJyYk5JWTJ5WVFTMmdSei13VFVjanhkTEQ0cmFXdWpCcHRfTl9aSlZSeA?oc=5)
+
+---
 
 
 <div class="disclaimer">

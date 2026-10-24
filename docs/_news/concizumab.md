@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Concizumab with the latest h
 
 ## Related News (17)
 
+### [Congreso SEEN: La sarcopenia es un factor de riesgo para desarrollar diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
+
+2026-10-23 <span class="news-indication-tag">diabetes</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
+
+---
+
 ### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
@@ -47,14 +55,6 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95c
 2026-10-23 <span class="news-indication-tag">diabetes</span>
 
 Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
-
----
-
-### [Wechseljahre: Frühe Menopause erhöht Diabetesrisiko um rund 30 Prozent - AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVRcDAxbGhVOTlqS0xnb0hmSXgzYTEzR3dncDRlRzVnZWdVZ01famY5NWx3MXdGNlZNVklUVkR1WkE0TjZfZVJDQ04wVUVhejhOY19HZ0Uya21RaW1UUFpxckJKdTFWTWxZWURDYkNubVUzOW9WXzhtV1hzMUxiS09saUN2V2FUNEN5aXpySHJMTGFJTklJQXR3OHJDQkl6WnFwY1RjZmMwa055N0tYOW4tYklDb3Jaald6SA?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMivAFBVV95cUxONHVRcDAxbGhVOTlqS0xnb0hmSXgzYTEzR3dncDRlRzVnZWdVZ01famY5NWx3MXdGNlZNVklUVkR1WkE0TjZfZVJDQ04wVUVhejhOY19HZ0Uya21RaW1UUFpxckJKdTFWTWxZWURDYkNubVUzOW9WXzhtV1hzMUxiS09saUN2V2FUNEN5aXpySHJMTGFJTklJQXR3OHJDQkl6WnFwY1RjZmMwa055N0tYOW4tYklDb3Jaald6SA?oc=5)
 
 ---
 
@@ -90,11 +90,11 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3R
 
 ---
 
-### [Implantat senkt den Blutzucker mit Strom statt mit Insulin - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
+### [Frühe Menopause steigert Diabetesrisiko: Warum Insulinresistenz früh zählt - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
-2026-10-22 <span class="news-indication-tag">diabetes</span>
+2026-10-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
 
 ---
 
@@ -103,6 +103,14 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95
 2026-10-22 <span class="news-indication-tag">diabete</span>
 
 Source: [Ticinonline](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2NvelV2ejdGT0JqcWZCemF5ZHlwLXJQODRFSk9RV3Z1NWtWcU96VUVMRFcwMXFEd3dEb04zRFJDNEtQQjZhdER5Rkt6R2FZdjJMUFRnLTRlcnBPaHRvNGZQQmR2Yk9kV2gwRTB0UXRfOHpOQzQ0SzkyRUIzb2pnTFNPWDNDZ2U4MG1ZdzVUZVVBMk1RR1Y3cHo1eUVjUQ?oc=5)
+
+---
+
+### [Expertos destacan la importancia del conocimiento y el autocuidado en la diabetes tipo 2 - El Diario Vasco](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG5Fby1MSERsVHlvZmJsZFliR3lSOWdHb0ZkQW4tUXBYRmw4dXNfc3J6YzFwUFJnZWp1WmNNTHhnQzlfSXAtNEFsRFVzMUU4NHNROUlzUXcyTzFVLXNZN3haRGphVEI3SEM2RnNXaWdGdFQtU0FKeDBwZ0ZDVUFRa1JUeG52UF9pRWlGN04tN0RMemgwTEtxZ3dUTGNnbE9Td2RMWEJWVWkteFhsemxuOWkzTllrUTNTbFVoTjhkZ1RqeHhsZGFj?oc=5)
+
+2026-10-22 <span class="news-indication-tag">diabetes</span>
+
+Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG5Fby1MSERsVHlvZmJsZFliR3lSOWdHb0ZkQW4tUXBYRmw4dXNfc3J6YzFwUFJnZWp1WmNNTHhnQzlfSXAtNEFsRFVzMUU4NHNROUlzUXcyTzFVLXNZN3haRGphVEI3SEM2RnNXaWdGdFQtU0FKeDBwZ0ZDVUFRa1JUeG52UF9pRWlGN04tN0RMemgwTEtxZ3dUTGNnbE9Td2RMWEJWVWkteFhsemxuOWkzTllrUTNTbFVoTjhkZ1RqeHhsZGFj?oc=5)
 
 ---
 
@@ -159,14 +167,6 @@ Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95c
 2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
-
----
-
-### [Essreihenfolge bei Diabetes: 18 Studien zeigen kurzfristig niedrigere Glukosewerte - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlM3ZmZnQVBZYmFmSENXVEQ2YlVlQ1ZxeTlibDAtbTB0ZVBiRC1peTVCNDVISXN6WG9ad1RqR3BiMGlheXpJSVRLSVp0bFJaNFdBMTRzVHhib0g4aWswQ0YzUUtJWjNSN2diMkt1TENhM2ltSGxZNkVaQTROVG1zSHFWVnA1M0NZdVV5cHRZeWp6dXk5ZE4za1pnNUh1MXBHdzZ6ZTVuTW1aSlcxMTlxQmVuWQ?oc=5)
 
 ---
 

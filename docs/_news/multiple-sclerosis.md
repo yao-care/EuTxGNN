@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 19 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 22 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>19 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>22 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (19)
+## Related News (22)
 
 ### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
 
@@ -68,6 +68,22 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3VHZ2
 2026-10-23
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXlZZWt2WTRPQmtJMS00TnUwVG9xcWtoQTdnd0hBc0pYQ3N6bWpnZU1ZVmFtcmNWOUtTb1Y5MlRTTlJtb2liOTUwSXhHX3NUaC1QUTJLaGFYeE9RWkx0UE0yRHF1NGlaSzlmTHdxamVmYXJfRXhpVDh5emVUMjdnM1pQWGMydElBREJkd0s0OXhtRGIzUllGUWswdTJxbFJwbTg2cDNlMHUwMGw4NkpWS1lR0gG3AUFVX3lxTE5nUHFfWGlfb0lXY0lGMnpSbDlma3lqRURVU0hHZ0Y5MFNXdnEtbDlaSlFmU2ZYT09Vb3hvakJSWThPcmR5UThyelVvbEkyU2NkUjE3R2FvNnNBeU93Q2I2LTNrU0dYbUpfd1BBOTVmTVRVenB6QTZNWFR2RkxDakNRRm1wdTZXOVVlQjd0b0NKUXlpM3ZHN2VVQ1ItbVhXWTRoWk11NVpNaERWakszSERpNmNsTjlocw?oc=5)
+
+---
+
+### [Neue Studie: Wie Freizeitsport einer Demenz vorbeugen kann - RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB0cm95YTgwRlJxQUJMb3J1bkNxWHR6ekxDeGJmV1EwSXVGQVNuV0dCWXo4TDRYSGc3dGhnUGd5QlZSdXZDNWR4TG9pQzVVTEVpTXZ0STY4bWhDV2x0di1ZdzhIZkFhb25IaDhXMmxOOEllbVJhY0Vkdkw5aE9vbFZHQ1dzdE9nZjFlVDUwWFNzZmZFMjBXbTVaQXowck1pNkZNTHktSTJx?oc=5)
+
+2026-10-23
+
+Source: [RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB0cm95YTgwRlJxQUJMb3J1bkNxWHR6ekxDeGJmV1EwSXVGQVNuV0dCWXo4TDRYSGc3dGhnUGd5QlZSdXZDNWR4TG9pQzVVTEVpTXZ0STY4bWhDV2x0di1ZdzhIZkFhb25IaDhXMmxOOEllbVJhY0Vkdkw5aE9vbFZHQ1dzdE9nZjFlVDUwWFNzZmZFMjBXbTVaQXowck1pNkZNTHktSTJx?oc=5)
+
+---
+
+### [Virus Shamonda, dal primo caso umano in Francia alla diffusione in Europa: che cosa sappiamo - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
+
+2026-10-23
+
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
 
 ---
 
@@ -188,6 +204,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhE
 2026-10-20
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
+
+---
+
+### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+
+2026-10-18
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 

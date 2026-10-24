@@ -14,7 +14,7 @@ permalink: /news/vardenafil/
 ---
 
 <p class="key-answer" data-question="What news is there about Vardenafil?">
-<strong>Vardenafil</strong> currently has <strong>73 news articles</strong>, with 1 predicted indications.
+<strong>Vardenafil</strong> currently has <strong>67 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,31 @@ This page combines the AI-predicted indications for Vardenafil with the latest h
 <p><a href="{{ '/drugs/vardenafil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (73)
+## Related News (67)
+
+### [La Sociedad de Reumatología señala que el paciente de lupus tiene el doble de riesgo de sufrir un infarto o un ictus - Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
+
+2026-10-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
+
+---
+
+### [Melanoma avanzato, la nuova pillola che «spoglia» il tumore e lo rallenta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXNid2NFaDZBZWxITUVyYUQ5ME1PQU1jWHdSX2wtRm9GRzFJQ2tDODR2WW9MSGxxN1laTzJYejVWa3YwdXlqN3pna3lEUFdxZUdvMVJqb290WVFoOWFQOXltNVJ0Ync3ellvOEJQQmMydUxNd3BlLVcwZXE5NTloOEdYdnVOZjk4ZTQweHdhNlktUDJjOE5CMHp5WVZVaG4wY0NraQ?oc=5)
+
+2026-10-23 <span class="news-indication-tag">tumor</span>
+
+Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXNid2NFaDZBZWxITUVyYUQ5ME1PQU1jWHdSX2wtRm9GRzFJQ2tDODR2WW9MSGxxN1laTzJYejVWa3YwdXlqN3pna3lEUFdxZUdvMVJqb290WVFoOWFQOXltNVJ0Ync3ellvOEJQQmMydUxNd3BlLVcwZXE5NTloOEdYdnVOZjk4ZTQweHdhNlktUDJjOE5CMHp5WVZVaG4wY0NraQ?oc=5)
+
+---
+
+### [El ensayo clínico 'Tumaini' en busca de una vacuna contra el ébola, se pone en marcha en Bunia](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+
+2026-10-23 <span class="news-indication-tag">CVA</span> <span class="news-indication-tag">AF</span>
+
+Source: [ABC](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+
+---
 
 ### [Cancro al seno, De Laurentiis (Pascale): "Con ribociclib più chance di guarigione" - Il Tirreno](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHpXdG5xM25XdnRkVlhSTFdvUVZlLVM4TW1IdFk5Q0xzQTFlM1BzbWdPWlM2dGxNQ1ZmNFZGblZ6QzVXN3g0a3J0X3liQllEX29PanRIdnlUUEw2NFRoa19GVUsxdW1PZHAxTkxUOUEyTkRBaXQzb1NKQlBMS2tTU1k5enR4bjE2TkYyWHgzdU96YlF3amNLTHBiUGw3QXpsVUc2Y0d3cl9WUk9OYkFELUFWLVJaZTFobGhyS090UVlUQWNETXlGYVVXMy1yalJ0RmxIM2pUbm1zRExmX0VqVDF3?oc=5)
 
@@ -103,14 +127,6 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 2026-10-23 <span class="news-indication-tag">AF</span>
 
 Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9meVZnSk56WDRTS2xPTHp6Z0MzWWxwTlhvcGkwdXFUNkFVS3pDYjljOFN3eTN2UU5UdkhpMGNsdzJFRXoyWUdMeDlMYw?oc=5)
-
----
-
-### [Melanoma avanzato, la nuova pillola che «spoglia» il tumore e lo rallenta - Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXNid2NFaDZBZWxITUVyYUQ5ME1PQU1jWHdSX2wtRm9GRzFJQ2tDODR2WW9MSGxxN1laTzJYejVWa3YwdXlqN3pna3lEUFdxZUdvMVJqb290WVFoOWFQOXltNVJ0Ync3ellvOEJQQmMydUxNd3BlLVcwZXE5NTloOEdYdnVOZjk4ZTQweHdhNlktUDJjOE5CMHp5WVZVaG4wY0NraQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">tumor</span>
-
-Source: [Il Sole 24 ORE](https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXNid2NFaDZBZWxITUVyYUQ5ME1PQU1jWHdSX2wtRm9GRzFJQ2tDODR2WW9MSGxxN1laTzJYejVWa3YwdXlqN3pna3lEUFdxZUdvMVJqb290WVFoOWFQOXltNVJ0Ync3ellvOEJQQmMydUxNd3BlLVcwZXE5NTloOEdYdnVOZjk4ZTQweHdhNlktUDJjOE5CMHp5WVZVaG4wY0NraQ?oc=5)
 
 ---
 
@@ -250,6 +266,14 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOa
 
 ---
 
+### [« Je suis porteuse du gène » : face au risque de cancer, elle a décidé de se faire enlever les ovaires et les seins - Le JSL](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2NaVmJGbG5NY1ZvOHduNzI0WGU0bTRzMzlBMkRla1Jra0M2YXF6bHFUZllIenFUY1RKMDFfaXNLTlBObnpoRGRfbHN0aXVLS0NBWTlyZnZ3ZU41cmkxNWlwU3dHTmNHWXBpeFFKWEJQc2VzNjNEeTkzUTNlT09KZ2FJc2JPTzBZZW56T3g5SjhybXVMdkdKdzA4QTRkTWIwQ3V6VXBseER6V3FvTUZ3Vkh6RDM1MmNqN2toTVc5VEEwaWhzTXl1dlRoZjJsamdNeXFJWkg5THBtRFgyT0k1Mg?oc=5)
+
+2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
+
+Source: [Le JSL](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2NaVmJGbG5NY1ZvOHduNzI0WGU0bTRzMzlBMkRla1Jra0M2YXF6bHFUZllIenFUY1RKMDFfaXNLTlBObnpoRGRfbHN0aXVLS0NBWTlyZnZ3ZU41cmkxNWlwU3dHTmNHWXBpeFFKWEJQc2VzNjNEeTkzUTNlT09KZ2FJc2JPTzBZZW56T3g5SjhybXVMdkdKdzA4QTRkTWIwQ3V6VXBseER6V3FvTUZ3Vkh6RDM1MmNqN2toTVc5VEEwaWhzTXl1dlRoZjJsamdNeXFJWkg5THBtRFgyT0k1Mg?oc=5)
+
+---
+
 ### [​7 childhood cancer symptoms that can be easily missed: Warning signs parents should never ignore​ - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGNacjhMcWgyeHlBYU1JMU0talhUNnYxdUZfdV9zVXpEYkx4dTgtUm4yZUl1MmY4Rm14bTctU3F3dDVKSGFhajFKTkRXbUUwY1VMOFVSVWViZDVPdFZscktUMTRGS3ZrMkFHZXdBMGVNbWdaMDFtZ2NjQXQ4Z0FIQ0N3WXQ5TlpmOGUxa3RLN3ExMUNFVGpubEtmTzdXaTNyc3IxalRZLUdKQ0xsSnBSUmZ0MTdvZmEyZ2g5UHVzVTRXWF9hREE3TmFoeFNFVG15eEwzZ2RTMVJmMUtXSWlXbjBIdkxrdjAxVkhqWTJGMEN6cE1UMFRlbzNXdjU3RkNJSUHSAYoCQVVfeXFMUHRZSUtlcFVwX3FEMllISWpSXzdUMWFwaURtOExDWHhwSkJLY2FxTnVqd3V5cVE3SEFOb05XT2hOU28tdmk1dmJwa0ZFYUR2bmNVc0luSlF3RE5uWEFfT3hiS2ViNG9FXzM2VWVCVnJmWkYtRjF6ODAyOUlaazJHYm9ORUp5OFlBSzNhUFhSY3lXc0I1eTRpaTgxTHVuTUlDT0xJRzNFSlFuMzUtc3ZuN0t2S1gxa09vQ0VHdDlOSk5zTkFXbi1QUWlidnZKUjI3R2MwMnlXd3FCUjNmUTJ4ODRpOFhFc3hvU2E1djFNMjFQWW83VU0xOXQ2SlpYQU9VcUc3ODVZOWE5ZlE?oc=5)
 
 2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
@@ -263,14 +287,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cU
 2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AF</span>
 
 Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSmx3WU85bDJucmFpbEZMcnFFbnZxSDFTTzEyNk9XQXktRmF3aHplcEo5UnNqUEw5MnppN1VHNm1tZFBoMU5oZVN4RkFXeUxTNUpLYUlQMU5yNXQ3VDZwTTA4WVRfVHRLZHB0eU0zZmlORDBvU19ua1NB?oc=5)
-
----
-
-### [Mageres Rindfleisch bei Krebs: So beugt Ernährung Mangelernährung vor - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXlQSW1wNV9WYXJnTDdjR1hZVEZfM2YzYmRDWXppaktVSEtVakRRTHhyTUZwOXpmYlFvb1o1MDRucTgxRi1OQ1h3enpJLTNGUHRlMFVQUGtJYU1WUW1OcnBFTlRndDRqR0lscGdLUlBaM29wTjBEQUZhN1dFYkxuQUxsOTI1amJNbzdSYTBnemhMZTFXSEh2MWpsWnNZcGtrQzROOQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">Krebs</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxPNXlQSW1wNV9WYXJnTDdjR1hZVEZfM2YzYmRDWXppaktVSEtVakRRTHhyTUZwOXpmYlFvb1o1MDRucTgxRi1OQ1h3enpJLTNGUHRlMFVQUGtJYU1WUW1OcnBFTlRndDRqR0lscGdLUlBaM29wTjBEQUZhN1dFYkxuQUxsOTI1amJNbzdSYTBnemhMZTFXSEh2MWpsWnNZcGtrQzROOQ?oc=5)
 
 ---
 
@@ -298,6 +314,22 @@ Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMimwJBVV95cU
 
 ---
 
+### [Shamonda virus detected in human for first time in France - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5)
+
+2026-10-22 <span class="news-indication-tag">AF</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUxNRlJwSFRMSGZXSGNsUHp4U3NMOXpzNFAwcl9nZEEydVliZEQ0LVZvZjVmN2NIQ3hpc0FCQXJDMUppVEFUc0paNXRvVHpMUWxCX3YwZDg2Wmk3QmJ3ODRJQXFZMXlaOGJScGdkUDE2MldXX2dxblNoZTJOdl8wbU1BTUppNkZ3M3dGeFBRcmZIdUN2VEx0YXRIdVM?oc=5)
+
+---
+
+### [¿Puede una fotografía del rostro indicar la edad biológica y el riesgo de supervivencia en pacientes con cáncer?](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0RrVEFDNF9kZmYtSW5lZ2NBUHhteFlERTFzRlA4YVl2VzlKQTNKVnF5S3NMYy10akJsbGluNzNIVnhQcVZabHBKX3hQWnRqS0o3cFVkZWc2ZnFiX1lZOVYxczlucEJrMWxUdW4taUpuc3dhSmxnZWJHRzN0Uzl2VkR2NFJKWGlhWFg5LV8yRk5ZUjlIekQ4UDllcmQ0MERaR0VzWE5zNFRvQ2hIdlVpaFhPTUdCU2FUbGhSaEY5STBUV2JUY1JYZVZwdFZTcW80MHcxRnBPRG04TVhUamc?oc=5)
+
+2026-10-22 <span class="news-indication-tag">AF</span>
+
+Source: [https://saluddigital.com/](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0RrVEFDNF9kZmYtSW5lZ2NBUHhteFlERTFzRlA4YVl2VzlKQTNKVnF5S3NMYy10akJsbGluNzNIVnhQcVZabHBKX3hQWnRqS0o3cFVkZWc2ZnFiX1lZOVYxczlucEJrMWxUdW4taUpuc3dhSmxnZWJHRzN0Uzl2VkR2NFJKWGlhWFg5LV8yRk5ZUjlIekQ4UDllcmQ0MERaR0VzWE5zNFRvQ2hIdlVpaFhPTUdCU2FUbGhSaEY5STBUV2JUY1JYZVZwdFZTcW80MHcxRnBPRG04TVhUamc?oc=5)
+
+---
+
 ### [Brustkrebs mit 36 Jahren: Mindenerin kämpft mit Diagnose](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMkN3YUlKYmJSVDVWaEFiZE5PaGVnRFNJOTg0c2xqMndmZWo0emZ6YmdqVU1QME9HcFhjZmxpRnk5VE5TY09QUC1DRmZ2eUJ3ZnZoYlR2eEdjbEw4RHhLVWNUcE1nV1NJUWpqTjNPbGI5TUJvNC1kM1ZJM0tnU3BzVl9NMzhLbVhsa2E4QndadmpPWVZ3NFhpUVYzZzdyYmdNT3ZfWUtYRlo0TUR2ZnR6d2tQekk3Wjk4a0lGOQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">Krebs</span>
@@ -322,14 +354,6 @@ Source: [Canal Sur](https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjFfcTd
 
 ---
 
-### [Stroke Unit: quella mattina c'ero all'inaugurazione con il dr. Ferdinando Schieroni](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">stroke</span>
-
-Source: [Merateonline](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
-
----
-
 ### [Carcinoma della vescica muscolo-invasivo resecabile: la Commissione Europea approva pembrolizumab più enfortumab vedotin come trattamento perioperatorio negli adulti - Daily Health Industry -](https://news.google.com/rss/articles/CBMipwJBVV95cUxOZ2dZN245YlFjWU5laS1pVGx2Z0VweU8xN1Y5QlBqelBYNW1HbVVUWlNpaG5zRzZSSnRzUnlrUkVZd1FabkpHRHZ1YW9XM1ZNRlduM3pTd3pWT3hrTEpHZE1qNXNFZTFRSVFPOHN0TzJJSzdBRFVjZHpwTF9BUlZIMUtUd2VscVdNUDdWNXpqNGxqYno0SmgtMWlFVF9nZFhaU2Z0YkxIRU9QdzEtVzhLWEZmN1o4OUV0YnFLa2JQOHBwRGFvTjA0d182T0tMTk5BN2tvNFNhcmxmaTBlSmFleXdJZGYzbE1BNHVQZXhIaEdYUDMwenJ4UjdkaWNldjJDODVLN2FQUUFZNUcxaTR3a3ctX0Y4SktYa2VnNzhETHY1eXd4WV9R?oc=5)
 
 2026-10-22 <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">carcinoma</span>
@@ -343,30 +367,6 @@ Source: [Daily Health Industry -](https://news.google.com/rss/articles/CBMipwJBV
 2026-10-22 <span class="news-indication-tag">AF</span>
 
 Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdENBNDduSnA5aUNhM3IxX28wNWJPYWFOZTNVcTB3VWJEU1ZERm5xcXFFYVJONFVMM2laaVBZRWIzUWU1QVNMQ1dmRnhiM3p6TGc5VUZKSzhxeVh0dE8yM25OUHVNTm5YTnNQY1d1TG9VbnQ3YUZtdnk1OHdlQjJ3anNB?oc=5)
-
----
-
-### [France reports first Shamonda virus case in human who later died - Sky News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtmRW8wQndQUTZkbmZVekg4Qm1IbE5Ud3hkVGZOdm1tanBYaGtXUWZkVFlYVkFfa3UzX0djM0NFT1NPOFdzcDhGQWxzM3hLT2NZSG9rTzFZbXd6OUlWdmhXWGFPTFdiSGtWRzN5em8zaXIzN2xyQUlFbFVHUm1ROGw1eG0zX3B1RHdFRzNFWG9iUTQ1Qlk1SUtMRFp1NTdtWVE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">AF</span>
-
-Source: [Sky News](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUUtmRW8wQndQUTZkbmZVekg4Qm1IbE5Ud3hkVGZOdm1tanBYaGtXUWZkVFlYVkFfa3UzX0djM0NFT1NPOFdzcDhGQWxzM3hLT2NZSG9rTzFZbXd6OUlWdmhXWGFPTFdiSGtWRzN5em8zaXIzN2xyQUlFbFVHUm1ROGw1eG0zX3B1RHdFRzNFWG9iUTQ1Qlk1SUtMRFp1NTdtWVE?oc=5)
-
----
-
-### [She Asked Her Cancer-Surviving Friend a Simple Question About Hair Plans—Then Discovered She Was Secretly Bad-Mouth-ing Her to Everyone](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMEJTYTRjcWl5UVRzSGxvOU9WTTl5eUdIMGpmVVRZWldFLTM2ZUZDQzV6dXNfOW1TRHA0U2RwWkQwZTdFSk9veXdxZHFoaHNlXzdTZWN4T19WaXNrUEdEdk4ybE1PMy1lY3VOTFU2QUtYeGhpWXJjT1dOUGtneGdJckw3ZjI3aVRBUW5LZjBGOHBLZDJpcS1RSmhyaWlVNkpFVU5qNVhvcnNWckNreTRYanlxMmJGajJ3NkY2ZjZwTHhLNndJb0tRcEFrZ25VRU9SSjhReE5ObFoxY1hoZkxKcV9aYVR4ak15TzJxSDl4WDdieTlmdjlJakhzT3Q1RWc?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span>
-
-Source: [TwistedSifter](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMEJTYTRjcWl5UVRzSGxvOU9WTTl5eUdIMGpmVVRZWldFLTM2ZUZDQzV6dXNfOW1TRHA0U2RwWkQwZTdFSk9veXdxZHFoaHNlXzdTZWN4T19WaXNrUEdEdk4ybE1PMy1lY3VOTFU2QUtYeGhpWXJjT1dOUGtneGdJckw3ZjI3aVRBUW5LZjBGOHBLZDJpcS1RSmhyaWlVNkpFVU5qNVhvcnNWckNreTRYanlxMmJGajJ3NkY2ZjZwTHhLNndJb0tRcEFrZ25VRU9SSjhReE5ObFoxY1hoZkxKcV9aYVR4ak15TzJxSDl4WDdieTlmdjlJakhzT3Q1RWc?oc=5)
-
----
-
-### [Investigan una nueva técnica contra el cáncer de mama más dirigido mediante nanomedicina - La Región](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBwTnlBUFVQTGgwSmYtS3NjRHR0X0ZZMEhGMWdqcWJacTR1cDNwOFlYa1dlWmUxUDE5MGpuTDM2WXZhR2tYNmVZQmxBN0FYTl9rYUlSTnN3aDNTWXZnOW9vNGJnYXhHVl9EUkNSZVowbjE4TWkzd1JZcm5LQXQ4b052NzJ2REpNNGJSYVRnclA0MFFD?oc=5)
-
-2026-10-22 <span class="news-indication-tag">tumor</span>
-
-Source: [La Región](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBwTnlBUFVQTGgwSmYtS3NjRHR0X0ZZMEhGMWdqcWJacTR1cDNwOFlYa1dlWmUxUDE5MGpuTDM2WXZhR2tYNmVZQmxBN0FYTl9rYUlSTnN3aDNTWXZnOW9vNGJnYXhHVl9EUkNSZVowbjE4TWkzd1JZcm5LQXQ4b052NzJ2REpNNGJSYVRnclA0MFFD?oc=5)
 
 ---
 
@@ -386,27 +386,11 @@ Source: [CuídatePlus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY2Ry
 
 ---
 
-### [El lupus se asocia con el doble de riesgo de infarto y de ictus - El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
-
-2026-10-22 <span class="news-indication-tag">ictus</span>
-
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
-
----
-
 ### [El cribado multicáncer afronta su prueba decisiva](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVkyZmtOUHZ2YVJfaE95RFRiY3VjS1pWS1h4eTQxSFRqcV90MVh3UzdydkdWTjltR09ObC1maG1ONF9yMHJVRzRWNTc2N1lwbVlncWxhVEJfbXc0RDRTcmtkS2F5a21odU1fMnQ2bjBINldaU2E3ODJXSE5jNGUtU1A4dmJGY1hiNWRyWjNoVUtJMHBGU2dfakNLa0pmZmJtR0E?oc=5)
 
 2026-10-22 <span class="news-indication-tag">AF</span>
 
 Source: [Univadis](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZVkyZmtOUHZ2YVJfaE95RFRiY3VjS1pWS1h4eTQxSFRqcV90MVh3UzdydkdWTjltR09ObC1maG1ONF9yMHJVRzRWNTc2N1lwbVlncWxhVEJfbXc0RDRTcmtkS2F5a21odU1fMnQ2bjBINldaU2E3ODJXSE5jNGUtU1A4dmJGY1hiNWRyWjNoVUtJMHBGU2dfakNLa0pmZmJtR0E?oc=5)
-
----
-
-### [Ensayos de una vacuna contra el ébola en curso en Uganda](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTdzcVQ5M0NUdG12cjItQ1l4LVQ3SFdOWWdSQk1Ta3B6bVZQT0s3YS1ibGVHSExEMGgyQkZXV05rQUtranFmV0o4QTRsTmlzcFM1anNCZTkzWGhISW92VHpjTDlUM29RVk9VU1lLVWxYMG9FZ3pzOVBuX3hHUDhmYi01YjJTcmRicmg0a3ZZNA?oc=5)
-
-2026-10-22 <span class="news-indication-tag">AF</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTdzcVQ5M0NUdG12cjItQ1l4LVQ3SFdOWWdSQk1Ta3B6bVZQT0s3YS1ibGVHSExEMGgyQkZXV05rQUtranFmV0o4QTRsTmlzcFM1anNCZTkzWGhISW92VHpjTDlUM29RVk9VU1lLVWxYMG9FZ3pzOVBuX3hHUDhmYi01YjJTcmRicmg0a3ZZNA?oc=5)
 
 ---
 
@@ -434,6 +418,14 @@ Source: [L'Arena](https://news.google.com/rss/articles/CBMilwJBVV95cUxQdWpaZ21ya
 
 ---
 
+### [Cura dell’Ictus ischemico acuto: il Mandic può proporsi come “Stroke Ready”. Intervento del dr. Filippo Galbiati](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">stroke</span>
+
+Source: [Merateonline](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
+
+---
+
 ### [Tumore dei polmoni, lo studio: il vaccino peptidico migliora la sopravvivenza nelle forme avanzate](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzJmLThoc0J1VHNVMVFfR1BPVkcyYWdCb05Wam5GbmJDc0ZWamxrX3ZlVXpsenVVVXRNTlNGenFLQVJqQS1UajNsU2JnRWJzU01iamdRcDNLc3gtb1JxNS13Rkl1UFZPeWoyejh1b1N6SEthUFlmYmdnVVU0X3lYbm1Pa3ZuV3VjdFZ4bktKbVVobUpDUHVXVTdQU01tT3RfTjN6Y2VpMTBJUWVOT09n0gG0AUFVX3lxTFA2ampFck1hSHhxbE8ySk9sZFE1c3JvZE05bGU3NE9BVlFPT3M1ajhKa1dSay14aG1vWEU2ZC1COXI2eVZfNUxVR2NGdGZTZnRCd3hobmM1VEc0UkhIWC1ab2tnOHV2MzlRd3FZd2MyTGtqMmJnVkFGS2p6T3J5M2hqWTlKS3FUa3lzQl80ZjA3QjVCSzNpZHpJcGotSEh2Z1o0TGQ3dlpPbEs2YW05amhlbUs4ZQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">tumor</span>
@@ -450,14 +442,6 @@ Source: [Informationsdienst Wissenschaft](https://news.google.com/rss/articles/C
 
 ---
 
-### [Pharmacist shares 'rare condition' affecting some people taking Mounjaro or Wegovy - Irish Mirror](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzdzdTlKZHNGR1B3VWd1eVZ2ZnNUemZKWnNiblUtQUd1V3cwekF3TVh6NXhRWlpueWNkZF9XNVdPejN0RjRCaEQ0MUhxZ2FPYThjaWE3VENQYlhMR0lQSHd1ZlQ5TllFM19uY2J6alBzWmhtSzJSQlNsYVFaQm1TWXdiWkx5eWJxWm5sYjNJOTVZTHh6Ykg4LW53ZXhQZ29ZRkppNDN2VURoZ9IBrwFBVV95cUxPN3NJUFNac2tfMlA5aVZleWl3ZHVpd3J2bklIZkk5RXhQX1RtNGZSM2RGbXVEMU9VaGExU094SjJGUlBJNnIxWWttVmU0R3NBU0UtSmVlbmNRSk9QRTN3UlR3SVB6UFFEX2NaV0FkX0s1OHU3RThpQWIxOHdISW9PSGpNVDdXNU1FOTJrOVM0RGdHaWNaQm1RTWJpem9SaEZTNkR1MjR4VUpPWExpWm1r?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">AF</span>
-
-Source: [Irish Mirror](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzdzdTlKZHNGR1B3VWd1eVZ2ZnNUemZKWnNiblUtQUd1V3cwekF3TVh6NXhRWlpueWNkZF9XNVdPejN0RjRCaEQ0MUhxZ2FPYThjaWE3VENQYlhMR0lQSHd1ZlQ5TllFM19uY2J6alBzWmhtSzJSQlNsYVFaQm1TWXdiWkx5eWJxWm5sYjNJOTVZTHh6Ykg4LW53ZXhQZ29ZRkppNDN2VURoZ9IBrwFBVV95cUxPN3NJUFNac2tfMlA5aVZleWl3ZHVpd3J2bklIZkk5RXhQX1RtNGZSM2RGbXVEMU9VaGExU094SjJGUlBJNnIxWWttVmU0R3NBU0UtSmVlbmNRSk9QRTN3UlR3SVB6UFFEX2NaV0FkX0s1OHU3RThpQWIxOHdISW9PSGpNVDdXNU1FOTJrOVM0RGdHaWNaQm1RTWJpem9SaEZTNkR1MjR4VUpPWExpWm1r?oc=5)
-
----
-
 ### [Da un selfie si potrà sapere quante possibilità ci sono di sopravvivere alla malattia | Libero Quotidiano.it - Libero Quotidiano](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0xWQXR0R3l4a3plaGtubVZGNnN1NUJzUHpZVFhJemVXbzBCMi1BV2Q5bUJPa1hNWW1TcFQ4d2lVc0ZCTTdabGwtS0VNdjl0dkdzV2dGQkVqbXZ3MHZUM01nZnNnb2VoVXJNN0RLOHVIV2VjdHF0SUU3aWpIUlhoa1NOdEJKVXVzeFoxVV92RGMyMFVsbGNvdFdhMWpwZjdPVjVyWDdPb0NoOTlBZWwyWnhBX3NhcVB4VWNUT0dwd2w3Ry1Ub1NjbENZV3VUVzhkQUFLLUZBZDbSAdwBQVVfeXFMTk5UbWVkZUY0YTJjSjljQUg3V2hBLXEyMVY3N2JaZHdZZlNlRzl2dlg5Zml5TDdWZjY0SnlycG1PUW9zSjdtNDI5TkYzVE5GeV83REkwdmc4ekZpUExiNG1RZlZnNlNlM3Z3TWIyNWFKTXlKdG9QV0FFX09JVHBGd3M5RUdoeUV6bXpzNnNQcV9XbHdVeXIyZ2xXeHk1QXVINE5IZ3JvREduUF9XSkdHTTZxZTFLWFFxR2pGX0NFc0dOQ2I2NEVLaVRjeG1JQlJZX0JNWlRlTkx1a1JfMg?oc=5)
 
 2026-10-22 <span class="news-indication-tag">cancro</span>
@@ -466,27 +450,11 @@ Source: [Libero Quotidiano](https://news.google.com/rss/articles/CBMi2AFBVV95cUx
 
 ---
 
-### [‘Get it checked’: Co Down man with stage four prostate cancer campaigning for more men to get tested - Belfast Telegraph](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYV9DWkZJN3JYREVxVmN2bGxucU9DYTBDUEFDWk9ZNmZTZzhBdTU4dy1FZ2pmVXo2UEFGeUNXdERqNFNUMmxFLVdQTzk1eXZtS0RIN0R6cFlsQS1FTDh5NXl3V2J5RDJNQ01uUFl0a3NCTDExOFhsUU9FZEJjNHB1Wl81RzNiU0NKWUVyX0c4WERzMzRYVkthZEZSeU1QWl8tSEU3X2RRRFVFR1lnU05rSDJjdkhoeC1IalJ3bXNVR3ZWLXVpeGVsUlRvRWNDOVJROWdOdy1VaXZ1cWhhNE1aTU05OEtGZnVKRHZQV2dXTHk3dDg?oc=5)
+### [How you drink your tea matters, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">cancer</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Belfast Telegraph](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYV9DWkZJN3JYREVxVmN2bGxucU9DYTBDUEFDWk9ZNmZTZzhBdTU4dy1FZ2pmVXo2UEFGeUNXdERqNFNUMmxFLVdQTzk1eXZtS0RIN0R6cFlsQS1FTDh5NXl3V2J5RDJNQ01uUFl0a3NCTDExOFhsUU9FZEJjNHB1Wl81RzNiU0NKWUVyX0c4WERzMzRYVkthZEZSeU1QWl8tSEU3X2RRRFVFR1lnU05rSDJjdkhoeC1IalJ3bXNVR3ZWLXVpeGVsUlRvRWNDOVJROWdOdy1VaXZ1cWhhNE1aTU05OEtGZnVKRHZQV2dXTHk3dDg?oc=5)
-
----
-
-### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
-
-2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
-
----
-
-### [I have had cancer for 20 years – being Stage 4 gifted me a life I never knew was possible - The Independent](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUcyRy1peFpIUW5scHNTd3ZfRG9iWF85UndyY0REVnR5S3FNOXdoZ1RYU0FSZUZjdkRqMjRVVUpCbWhCQU41ZzVEN2tQQXQ1d05MUmQxcERpMi1hdEhONU51aTFteU12UHRueEVfWm5PNm4yUDZ1Y2FEcFdFUlJEa1dzS2RQdjBRVzhzcA?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUcyRy1peFpIUW5scHNTd3ZfRG9iWF85UndyY0REVnR5S3FNOXdoZ1RYU0FSZUZjdkRqMjRVVUpCbWhCQU41ZzVEN2tQQXQ1d05MUmQxcERpMi1hdEhONU51aTFteU12UHRueEVfWm5PNm4yUDZ1Y2FEcFdFUlJEa1dzS2RQdjBRVzhzcA?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
 ---
 
@@ -562,22 +530,6 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMixgFBVV95cUxPblNPX2tr
 
 ---
 
-### [Discovery of new bacteria opens fresh avenues for prostate cancer research](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDJETlpGdWhiT3RCY2ZwSkUxcE12MWNjdktsSTZHZUV2NUFxTDNBZElkSXJKZ2U5TE1RaE0xa0YwYjNCeHhXY3NrVmlaeF9aOHpHN1RmXzVTVXFxazdKcVZRdTkzckdianlENVB3U3dwX2tjbmJRM2xucmlhaHBQVlg3UlVVaTFTUXlhcW5hT1ZyWERMWGtMZ21GbmFmVzlKeV81ZkpRN3ZhRkIzMDlyYlRsVW45ZS1vNHpuQXZ6MA?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVDJETlpGdWhiT3RCY2ZwSkUxcE12MWNjdktsSTZHZUV2NUFxTDNBZElkSXJKZ2U5TE1RaE0xa0YwYjNCeHhXY3NrVmlaeF9aOHpHN1RmXzVTVXFxazdKcVZRdTkzckdianlENVB3U3dwX2tjbmJRM2xucmlhaHBQVlg3UlVVaTFTUXlhcW5hT1ZyWERMWGtMZ21GbmFmVzlKeV81ZkpRN3ZhRkIzMDlyYlRsVW45ZS1vNHpuQXZ6MA?oc=5)
-
----
-
-### [Insalata in busta e affettati pronti: l'insidia nel frigorifero che può manifestarsi anche dopo 70 giorni](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQnIxcHhrN0hLSmhsY2pBWk82OFpSc2FGclI0amR5N0xUYUl4dGFBZFpjYmcxY09Dckk4XzdxcTU5X2ZsVEdndU54MUVHSU5pS2w1Y181dTNtSVNtRGFNMkd4c01wRmtETzQ3STlHZmZLM0hoLWJHcXZnS1BDbkxXNERWQ2FHazlEa1I1emZ3M0ttSVR0OXF6QkNJLTBJSXJBbmxYLTZGU1BzQzJOZHNEN2JteW9CSG5KUUJPOWVISk5ESm5IdUpvaHFYeThEV2s4V1d6bUVUOGpOeU9rVVI1N3FJZG12Wjk2azJYZm5R?oc=5)
-
-2026-10-20 <span class="news-indication-tag">AF</span>
-
-Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQnIxcHhrN0hLSmhsY2pBWk82OFpSc2FGclI0amR5N0xUYUl4dGFBZFpjYmcxY09Dckk4XzdxcTU5X2ZsVEdndU54MUVHSU5pS2w1Y181dTNtSVNtRGFNMkd4c01wRmtETzQ3STlHZmZLM0hoLWJHcXZnS1BDbkxXNERWQ2FHazlEa1I1emZ3M0ttSVR0OXF6QkNJLTBJSXJBbmxYLTZGU1BzQzJOZHNEN2JteW9CSG5KUUJPOWVISk5ESm5IdUpvaHFYeThEV2s4V1d6bUVUOGpOeU9rVVI1N3FJZG12Wjk2azJYZm5R?oc=5)
-
----
-
 ### [New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span>
@@ -612,7 +564,7 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSV
 
 ### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
-2026-10-18 <span class="news-indication-tag">AF</span>
+2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 

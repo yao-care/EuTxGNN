@@ -14,7 +14,7 @@ permalink: /news/glecaprevir/
 ---
 
 <p class="key-answer" data-question="What news is there about Glecaprevir?">
-<strong>Glecaprevir</strong> currently has <strong>21 news articles</strong>, with 1 predicted indications.
+<strong>Glecaprevir</strong> currently has <strong>24 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Glecaprevir with the latest 
 <p><a href="{{ '/drugs/glecaprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (21)
+## Related News (24)
 
 ### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
 
@@ -55,6 +55,22 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3VHZ2
 2026-10-23 <span class="news-indication-tag">MS</span>
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXlZZWt2WTRPQmtJMS00TnUwVG9xcWtoQTdnd0hBc0pYQ3N6bWpnZU1ZVmFtcmNWOUtTb1Y5MlRTTlJtb2liOTUwSXhHX3NUaC1QUTJLaGFYeE9RWkx0UE0yRHF1NGlaSzlmTHdxamVmYXJfRXhpVDh5emVUMjdnM1pQWGMydElBREJkd0s0OXhtRGIzUllGUWswdTJxbFJwbTg2cDNlMHUwMGw4NkpWS1lR0gG3AUFVX3lxTE5nUHFfWGlfb0lXY0lGMnpSbDlma3lqRURVU0hHZ0Y5MFNXdnEtbDlaSlFmU2ZYT09Vb3hvakJSWThPcmR5UThyelVvbEkyU2NkUjE3R2FvNnNBeU93Q2I2LTNrU0dYbUpfd1BBOTVmTVRVenB6QTZNWFR2RkxDakNRRm1wdTZXOVVlQjd0b0NKUXlpM3ZHN2VVQ1ItbVhXWTRoWk11NVpNaERWakszSERpNmNsTjlocw?oc=5)
+
+---
+
+### [Neue Studie: Wie Freizeitsport einer Demenz vorbeugen kann - RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB0cm95YTgwRlJxQUJMb3J1bkNxWHR6ekxDeGJmV1EwSXVGQVNuV0dCWXo4TDRYSGc3dGhnUGd5QlZSdXZDNWR4TG9pQzVVTEVpTXZ0STY4bWhDV2x0di1ZdzhIZkFhb25IaDhXMmxOOEllbVJhY0Vkdkw5aE9vbFZHQ1dzdE9nZjFlVDUwWFNzZmZFMjBXbTVaQXowck1pNkZNTHktSTJx?oc=5)
+
+2026-10-23 <span class="news-indication-tag">MS</span>
+
+Source: [RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB0cm95YTgwRlJxQUJMb3J1bkNxWHR6ekxDeGJmV1EwSXVGQVNuV0dCWXo4TDRYSGc3dGhnUGd5QlZSdXZDNWR4TG9pQzVVTEVpTXZ0STY4bWhDV2x0di1ZdzhIZkFhb25IaDhXMmxOOEllbVJhY0Vkdkw5aE9vbFZHQ1dzdE9nZjFlVDUwWFNzZmZFMjBXbTVaQXowck1pNkZNTHktSTJx?oc=5)
+
+---
+
+### [Virus Shamonda, dal primo caso umano in Francia alla diffusione in Europa: che cosa sappiamo - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
+
+2026-10-23 <span class="news-indication-tag">MS</span>
+
+Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
 
 ---
 
@@ -114,6 +130,14 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95
 
 ---
 
+### [En Guinée-Bissau, un essai clinique sur des nourrissons en partie financé par les Etats-Unis, jugé « contraire à l’éthique », finalement interdit - Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">hépatite</span>
+
+Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
+
+---
+
 ### [Horror as 'American Covid' rapidly spreads in UK - 12 grim symptoms to look out for - Daily Express](https://news.google.com/rss/articles/CBMihgFBVV95cUxOekNkTlZEaGNRYngtTWplTmwzZGdfbW9oYkUzWVRmb0F3TXFOV3U4NDFLU3VrbGY4RDFwQjIzdFRUQXZQSHpvNS1JdlVoYm9UWlJzMFBMRzRUdi1XOXZuQThkTm1sZVN6LXZuSXFyOGJpcjVUUFEtb3B5eVpRUFhPRWt6WXpsUdIBiwFBVV95cUxNT1pmTmdpQ0tySnAzU2FpMHRobV9RSTA0dGhDWWdTa1hsZm1aeVJuN3RDSkVQRHk1Z3BVUDZPNmtjTGhid09wSmRFbWVYYUZhRjlRdVY0QWJiMlA3djRsY2l1X0h4TjlVbElPOWtKUldGYjZJaHRLYkE4VGFWakkyOHhJd1dvNjRXNzhz?oc=5)
 
 2026-10-22 <span class="news-indication-tag">MS</span>
@@ -162,14 +186,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2
 
 ---
 
-### [En Guinée-Bissau, un essai clinique sur des nourrissons en partie financé par les Etats-Unis, jugé « contraire à l’éthique », finalement interdit - Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">hépatite</span>
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
-
----
-
 ### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
@@ -191,6 +207,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhE
 2026-10-20 <span class="news-indication-tag">multiple sclerosis</span>
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
+
+---
+
+### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
+
+2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 

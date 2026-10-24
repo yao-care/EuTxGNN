@@ -43,19 +43,19 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV9
 
 ---
 
+### [Depressione, dormire troppo e svegliarsi esausti può essere un segnale: scoperta una possibile nuova forma](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
+
+2026-10-23 <span class="news-indication-tag">depression</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
+
+---
+
 ### [Científicos australianos identifican un nuevo tipo de depresión - Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
 
 2026-10-22 <span class="news-indication-tag">depresión</span>
 
 Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
-
----
-
-### [Was Heidelbeeren mit unserer Stimmung zu tun haben könnten](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
-
-2026-10-21 <span class="news-indication-tag">depression</span>
-
-Source: [aponet.de](https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1d0dHRiRVc1YVA4ZVZUSEZlTHcyX2NQc0xhRDVzV1ZpVXR0MFR3VGEwWlBtOTM4QjllZ1J6Zkxtc0c5WWFoUUU1Zi1nTHMyU0FNZGVFUjdUdFh2QVlYQWNFXzhNY0hwbG54NTVoZFVDRnhWLXpGdzVTVGJHc0tiTEdER3VoU29JSXNuT3hzanNkd0VvQnBqcmhaNA?oc=5)
 
 ---
 

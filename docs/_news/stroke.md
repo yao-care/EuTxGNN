@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 6 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 7 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>6 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [La Sociedad de Reumatología señala que el paciente de lupus tiene el doble de riesgo de sufrir un infarto o un ictus - Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
+
+2026-10-24
+
+Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
+
+---
+
+### [El ensayo clínico 'Tumaini' en busca de una vacuna contra el ébola, se pone en marcha en Bunia](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+
+2026-10-23
+
+Source: [ABC](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+
+---
 
 ### [Más allá del colesterol: expertos de la SEEN ponen el foco en un factor hereditario que puede elevar el riesgo cardiovascular sin dar señales](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdmtrRURZTWMtX19FTjBWeHMxazBNZkk4Vi02bG5JS1ZXajF3aGRxZVZQNTVRTkhPTGQwbWVud3FldEwzaUhRblZPSUNHdkhuUG8wUTZOVEZyWGYzLXhQZnlSb3NHeVRVQ25jeWxVSHVOcFR2OUNrYU13Y1MzSVN6LU9PejR6SmFFZGh3LS1nNVR0UzBxZU9LSHpUWWxKU0FxR2k1UktQRTBKMk5JcXYyTUZibUZ3UnNScmJxWVNWSlludE9GQ1U4bHdZTVdfdGtTajBBS0k3d3FCVDZHdk9JTXNXZEVLVlhpMkpHbktyTW5XNTRuMnVPMnBmc3FsNVVI?oc=5)
 
@@ -54,27 +70,19 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOa
 
 ---
 
-### [Stroke Unit: quella mattina c'ero all'inaugurazione con il dr. Ferdinando Schieroni](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
+### [Cura dell’Ictus ischemico acuto: il Mandic può proporsi come “Stroke Ready”. Intervento del dr. Filippo Galbiati](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
 
 2026-10-22
 
-Source: [Merateonline](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5qOUhRYjRSWDRwcTdfaVBuUXlzRlFHZk5FNG1kYlU4MUowcmpoek5QSFhZcjlzczZiUWlKUGlMNGFfMWpNOTVGME9KY1JjaDB4cnlnQ1JSZ00wU0xReDlUOFpOYWM1SW9OWm1WWHRMclhNS09Ia1AxUTZuY3RsOEpsLTZTV2JuOURJd2pZaXZJejVKSV9ueXVTYTNXSGgtWnVkbnM5aVpNZHBZdmZiLVhjMmpCVUo5aEdkbHhFczZHQQ?oc=5)
+Source: [Merateonline](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
 
 ---
 
-### [El lupus se asocia con el doble de riesgo de infarto y de ictus - El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
+### [How you drink your tea matters, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
-2026-10-22
+2026-10-21
 
-Source: [El médico interactivo](https://news.google.com/rss/articles/CBMinAFBVV95cUxObnk1aG5DTUM0al94ZFVKcV8tOW1haTU1VjlnNDJjV3BqQjFpVGM4bzhnckJFeHlHUDZnbDByUHFpQW04aE8xSkF5U3p2dlNOUjhGT2xSQ0dwaXdGZVFLUjdKQk53alFmdUVndDdGaHJjZ2YzSjRmYXQ3ZC11ZF9xSTN5cVNjWUpmZnh2VWV1Uy1peUhvLW5BMm55VmI?oc=5)
-
----
-
-### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
-
-2026-10-22
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
 ---
 

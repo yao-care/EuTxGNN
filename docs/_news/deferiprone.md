@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Deferiprone with the latest 
 
 ## Related News (2)
 
-### [Pflanzensterole: 2 Gramm täglich können LDL-Cholesterin um bis zu 15 Prozent senken - AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
+### [Pflanzensterole: 2 Gramm täglich können LDL-Cholesterin um bis zu 15 Prozent senken](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
 
 2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
 
 ---
 
