@@ -14,7 +14,7 @@ permalink: /news/romosozumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Romosozumab?">
-<strong>Romosozumab</strong> currently has <strong>16 news articles</strong>, with 1 predicted indications.
+<strong>Romosozumab</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Romosozumab with the latest 
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (15)
+
+### [Stevia & D-Tagatose im Diabetes-Management: Meta-Analyse liefert Hinweise - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VLcUFYdFZpdzNSZXFlWmVSRG9ZcjZ5SERoT0NwTGlnVU5oSXhXRjhGaC1yOTBmaFpTRjRJcklSTkYtZ1M3a1V6cHQyNmtSUTAteWJ4NzNWZHdfU3VYM25LUjhCQ1VQTHBkay1aZlE0Z1JKNmt4eDlWSzdDbjB1ZmR4SXdvN1E1ZzNlbmhkOXY3V04xd0pfYlgwLUxOckZLMzlKbA?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VLcUFYdFZpdzNSZXFlWmVSRG9ZcjZ5SERoT0NwTGlnVU5oSXhXRjhGaC1yOTBmaFpTRjRJcklSTkYtZ1M3a1V6cHQyNmtSUTAteWJ4NzNWZHdfU3VYM25LUjhCQ1VQTHBkay1aZlE0Z1JKNmt4eDlWSzdDbjB1ZmR4SXdvN1E1ZzNlbmhkOXY3V04xd0pfYlgwLUxOckZLMzlKbA?oc=5)
+
+---
 
 ### [La contaminación y los cambios de temperatura se asocian con mayores niveles de glucemia - UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYXRBelgwNmJmZGpiaF9LMHM4ZXc2bmtzQU1nc0owYVZ1QXl1TmtpVEZuYkIxZDhHTFlVb3V0cHctMURUU2EzOFZ3dEd4dVB3SEtGb2hXR3lhODZhWWUxTDQtTzJ5NVlqcGdvbktreVNpc0V6NHdPOXd0eWEwWmkwTFo0V1VLYkNUU09UV0dkajhJcg?oc=5)
 
@@ -82,6 +90,14 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYl
 
 ---
 
+### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+
+2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+
+---
+
 ### [Congreso SEEN: La sarcopenia es un factor de riesgo para desarrollar diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
@@ -92,7 +108,7 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZX
 
 ### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-23 <span class="news-indication-tag">diabetes</span>
 
 Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
 
@@ -103,22 +119,6 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95c
 2026-10-23 <span class="news-indication-tag">diabetes</span>
 
 Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
-
----
-
-### [Congreso SEEN: La diabetes multiplica por 2,48 el riesgo de demencia vascular - IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYy1kU3AwTll2NzVlaHhFRHU1OG1XWms1Qlg5blpvV0xkQ2phQ2kzQXBNZF91ZHlIRnZGaDdBYXdtdVd5NU5XbmF0YXp0d1hRSVp2SE1Ublg1WVhxbENaNGRHN1RqaGpUNDgtX3k0WUxnYTlwc1E4RzhpR3V5UHBtMFhXQ1c2TTY3RmRWUElFWXZvekNnQm1VWEtpSFNLdHY5UC0yN1NkeVljcEcxNnloSk5Edno0TnlPRERMVNIBtwFBVV95cUxQMGxDQWpMaWM5S1pmc3JOZXBWRFBod0ZLdkFmQU1PMmhxeXJwT0ZuejU5akhSUFBacEVpM3Z3ajhsb3RURFJiTGh5cjJvSW9RdnVNWE1ERGtSNHFIM0NyVzYyVGFsbU42Q2dBQkNfaDE5Sm9keVp3aElCNElFSEVScGdEazhvSmpDSEhKdnRTZnlJczcxTlhqZ3c0MWY4dlhsVm5SX1Q2blQwTXJ6R2ctUmlRZC1hWGM?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYy1kU3AwTll2NzVlaHhFRHU1OG1XWms1Qlg5blpvV0xkQ2phQ2kzQXBNZF91ZHlIRnZGaDdBYXdtdVd5NU5XbmF0YXp0d1hRSVp2SE1Ublg1WVhxbENaNGRHN1RqaGpUNDgtX3k0WUxnYTlwc1E4RzhpR3V5UHBtMFhXQ1c2TTY3RmRWUElFWXZvekNnQm1VWEtpSFNLdHY5UC0yN1NkeVljcEcxNnloSk5Edno0TnlPRERMVNIBtwFBVV95cUxQMGxDQWpMaWM5S1pmc3JOZXBWRFBod0ZLdkFmQU1PMmhxeXJwT0ZuejU5akhSUFBacEVpM3Z3ajhsb3RURFJiTGh5cjJvSW9RdnVNWE1ERGtSNHFIM0NyVzYyVGFsbU42Q2dBQkNfaDE5Sm9keVp3aElCNElFSEVScGdEazhvSmpDSEhKdnRTZnlJczcxTlhqZ3c0MWY4dlhsVm5SX1Q2blQwTXJ6R2ctUmlRZC1hWGM?oc=5)
-
----
-
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 
@@ -146,19 +146,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpW
 
 ---
 
-### [Pre-diabete: se preso in tempo può anche regredire. Come perdere peso e normalizzare la glicemia - Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxOaWJaZEZRT0RjcENUNTNLVWhLUGxxeElncWxaR213aHNwS3UyTERadlFWdURORDNrQTVEQXd4c0dMd3pnZEJyYzdTRmJrcHhVVDZHRFdtWkp4d3hPenM2MDR2eVZFZTdqRmdUMkFBUVFvaGpLYS00T3VlYXJpZGxOZXVGOXl2REtOVWVDdXpFVzJaT2w2S0pXRzZFYWhzQjVoa0llMUtHelpnUWh5TXZUcWljbWptMTZRVFJ4cnBPSkoyUkhFek9ZM2pyZVF1dW9tb2NRbDlkSXR4MFZ5ZHJjeVB3MlA1ZTFTcUdLRGh2c211VkdWVk5fR1p5SHdwcndTMTd5NUNPTS1MUm9MSFlycXpjQk1pZGlDQ0HSAZ8CQVVfeXFMT0R5SDJzeExvcU95cnMwZjdPSVlRZE1qQjZ4TVFPTEJVU2poY3Y4ZXV1dVlGOUI3Y3NqQTZURVR1bGl4NDV5Q0drRk9pV1dpTzVOamZZWkY4X08zNU5ocUNZRF9aNG9QQ1BBWnJEMktMaXZmMXloXzdwemVlWTBUQ0tIMzhKNEZmUVhjZmM1M1ltdUUtTVVnYXRWLTNGeWlBTXdtZGh6SlRqT0traE1mOE8yNFpNcmJvMm1PSWd5TW5ablRqM1hqOGhRZUgySl9FaE44VFZWMGVJb2pRNVI2YzJQMVdTVy1YbG43bkRPWk5EQlV1TkItOU5XRllhLXNCaElwenBlUGdGUWNlb3VjVjVfaG83Q0piQmVrUHZ4VW8?oc=5)
+### [Ein altbekanntes Mittel aktiviert die Geheimwaffe in Ihrem Körper](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
 
-2026-10-19 <span class="news-indication-tag">diabete</span>
+2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMimgJBVV95cUxOaWJaZEZRT0RjcENUNTNLVWhLUGxxeElncWxaR213aHNwS3UyTERadlFWdURORDNrQTVEQXd4c0dMd3pnZEJyYzdTRmJrcHhVVDZHRFdtWkp4d3hPenM2MDR2eVZFZTdqRmdUMkFBUVFvaGpLYS00T3VlYXJpZGxOZXVGOXl2REtOVWVDdXpFVzJaT2w2S0pXRzZFYWhzQjVoa0llMUtHelpnUWh5TXZUcWljbWptMTZRVFJ4cnBPSkoyUkhFek9ZM2pyZVF1dW9tb2NRbDlkSXR4MFZ5ZHJjeVB3MlA1ZTFTcUdLRGh2c211VkdWVk5fR1p5SHdwcndTMTd5NUNPTS1MUm9MSFlycXpjQk1pZGlDQ0HSAZ8CQVVfeXFMT0R5SDJzeExvcU95cnMwZjdPSVlRZE1qQjZ4TVFPTEJVU2poY3Y4ZXV1dVlGOUI3Y3NqQTZURVR1bGl4NDV5Q0drRk9pV1dpTzVOamZZWkY4X08zNU5ocUNZRF9aNG9QQ1BBWnJEMktMaXZmMXloXzdwemVlWTBUQ0tIMzhKNEZmUVhjZmM1M1ltdUUtTVVnYXRWLTNGeWlBTXdtZGh6SlRqT0traE1mOE8yNFpNcmJvMm1PSWd5TW5ablRqM1hqOGhRZUgySl9FaE44VFZWMGVJb2pRNVI2YzJQMVdTVy1YbG43bkRPWk5EQlV1TkItOU5XRllhLXNCaElwenBlUGdGUWNlb3VjVjVfaG83Q0piQmVrUHZ4VW8?oc=5)
-
----
-
-### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
+Source: [FOCUS+](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
 
 ---
 

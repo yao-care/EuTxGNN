@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (13)
 
 ### [Ictus, l’ambulanza che può salvare il cervello: la cura comincia prima dell’ospedale](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpLazBlTXF1RGpsWm5kZXQ3RXVKSi1PMHFieWtyb0x5Q3d1MS1WSzZLdGp1dU5wemIxemlydzNYbUkxV2xvTklNdVRBV3FuSklBcUh1VWtab01NZDJfTkdBcmRzd2VnUEl3X042TnlYVnlqRU9sSXJMdngyN2VrOWNpaF84MWo4STRxSjUwWEpMOGNrRHNSTGQ2cGttZXUwX3BGdXljUlJsQ3FDcFlOQmZHVFlKWk80MjJDODBDa3l4R1pwcHZ3UG9nQQ?oc=5)
 
@@ -51,11 +51,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpL
 
 ---
 
-### [La vacuna de la gripe, aliada frente al infarto y el ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+### [La vacuna de la gripe, aliada frente al infarto y el ictus - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzU3OWtGSmFwQ0RrQ2Z0a1NHTUE0Y3I4bndyQnVTRHFxYmVTRGl2LThiaHNlb1lURVpIQTMzUG5MdXFjbXIwYlJ2Vk1fNWN0Sk4yQlFXeVdiNDU3RDRVQnlYSnYwOE5ORHVQZW12cW03bVRqSTlPX2o5c1VqWkE0VmZ0SHZNVW9KM1hVNEI0dU1BbjdfbUtzNFcyaWRJVDhV0gGmAUFVX3lxTE0zcnpHcllQRFJpZUxoSnlQUldGSi1QWTIxREtrS0RIdl9VUnVxejAzeHBwbUYwS3dQbzYzdmhjQWlKRFhIVHhCUHhCcVNkNTJHT0hvczFLX3hCcDhrOExnNUxEWmZvbDNOZm1UblBWZDlaLVI5b2xYMm45WWkycmd2Y25RT0M0a3dRQ1A4NndhTW9Cd09OSV9ueTlmaXJPZkhYZWkwUmc?oc=5)
 
 2026-10-24 <span class="news-indication-tag">ictus</span>
 
-Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzU3OWtGSmFwQ0RrQ2Z0a1NHTUE0Y3I4bndyQnVTRHFxYmVTRGl2LThiaHNlb1lURVpIQTMzUG5MdXFjbXIwYlJ2Vk1fNWN0Sk4yQlFXeVdiNDU3RDRVQnlYSnYwOE5ORHVQZW12cW03bVRqSTlPX2o5c1VqWkE0VmZ0SHZNVW9KM1hVNEI0dU1BbjdfbUtzNFcyaWRJVDhV0gGmAUFVX3lxTE0zcnpHcllQRFJpZUxoSnlQUldGSi1QWTIxREtrS0RIdl9VUnVxejAzeHBwbUYwS3dQbzYzdmhjQWlKRFhIVHhCUHhCcVNkNTJHT0hvczFLX3hCcDhrOExnNUxEWmZvbDNOZm1UblBWZDlaLVI5b2xYMm45WWkycmd2Y25RT0M0a3dRQ1A4NndhTW9Cd09OSV9ueTlmaXJPZkhYZWkwUmc?oc=5)
 
 ---
 
@@ -64,14 +64,6 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 2026-10-24 <span class="news-indication-tag">AVC</span>
 
 Source: [Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2WW1xaGxzQi1scEVfbHBBTXlHTHFNbU9DMnoyeXlBdUhDeVRKZHRFV2NEQzZZakdWMHJMMFBRZGd5SFBLWkdTaEV3NDFjNkxCYWlBRGVlZDV2QlhRREdzdGo4NUxaLTdrTDB3SkZfcDlMbTE3cVQ3ejZuLUppMm52T25ETjByWkt1Zktuc1VWRzViR2RETFVOei02NFQySlF2T3dYY215N0ducFlxZnRZZE5NOElXTVR1Yg?oc=5)
-
----
-
-### [El peligro oculto de la Lp(a): un riesgo cardiovascular genético inmune al estilo de vida - Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
-
-2026-10-24 <span class="news-indication-tag">ictus</span>
-
-Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
 
 ---
 
@@ -99,14 +91,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdn
 
 ---
 
-### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
----
-
 ### [Stroke Unit a Merate, Panzeri: “Altro che passo avanti: è l’ennesimo ridimensionamento” - Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
 2026-10-23 <span class="news-indication-tag">stroke</span>
@@ -115,35 +99,11 @@ Source: [Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3B
 
 ---
 
-### [À Besançon, le CHU sensibilise le public aux signes de l’AVC - 20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3NBRTREcl9aWWFaMXpkRkR2ZEx5OFVTT3NvcTJDNEFqcVB0TXZ0eDNuYlJuVkI5UFlaSjhQVmpMM2FBVXdiTmktWjVwLVR4dmhxRHNkSGk3eFlzUkFwZTJleWlnMFJTRUVELWl4d2hIVE1mSDJIZGpuUWFST1otODExc2pfNG1LQmVHckdEUkVKSWp5dlZZWnd4R0RxMDdRY2VTYnNFNDhCb2hjakMyX0VR?oc=5)
-
-2026-10-23 <span class="news-indication-tag">accident vasculaire cérébral</span>
-
-Source: [20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3NBRTREcl9aWWFaMXpkRkR2ZEx5OFVTT3NvcTJDNEFqcVB0TXZ0eDNuYlJuVkI5UFlaSjhQVmpMM2FBVXdiTmktWjVwLVR4dmhxRHNkSGk3eFlzUkFwZTJleWlnMFJTRUVELWl4d2hIVE1mSDJIZGpuUWFST1otODExc2pfNG1LQmVHckdEUkVKSWp5dlZZWnd4R0RxMDdRY2VTYnNFNDhCb2hjakMyX0VR?oc=5)
-
----
-
 ### [Bluthochdruck und Nieren: NKF empfiehlt Urintest für alle Betroffenen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
 
-2026-10-23 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+2026-10-23 <span class="news-drug-tag">Empagliflozin</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
-
----
-
-### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
----
-
-### [How you drink your tea matters, scientists discover - The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
 
 ---
 
@@ -163,11 +123,27 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV9
 
 ---
 
+### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+---
+
 ### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
+
+---
+
+### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">ictus</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
 
 ---
 

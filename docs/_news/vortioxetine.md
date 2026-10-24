@@ -34,27 +34,27 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 
 ## Related News (6)
 
+### [Près d'un quart des dépressions seraient liées à un dérèglement de l'horloge biologique](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3Nzd2xHN3dnSV9zc3pBeDQxbWoxeUV5V05ISklTNmx0R3NzUkdTMkdXdWs1LW9ydklDMURjRGQ1VFM3OHRXYktRX3hfRmZIcGtmaXZBQmdjUl9tWnZ1aFc3T3BHalFVZDhGUEg3RUlQN1lwQjJIQXpHU0Z6V1JxcWJhS1RMdHZjVjBrdjBlQXBnc2F3dUhsSEh4T2pTRWFuNHFMSC1rcXZSdw?oc=5)
+
+2026-10-23 <span class="news-indication-tag">dépression</span>
+
+Source: [Slate.fr](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3Nzd2xHN3dnSV9zc3pBeDQxbWoxeUV5V05ISklTNmx0R3NzUkdTMkdXdWs1LW9ydklDMURjRGQ1VFM3OHRXYktRX3hfRmZIcGtmaXZBQmdjUl9tWnZ1aFc3T3BHalFVZDhGUEg3RUlQN1lwQjJIQXpHU0Z6V1JxcWJhS1RMdHZjVjBrdjBlQXBnc2F3dUhsSEh4T2pTRWFuNHFMSC1rcXZSdw?oc=5)
+
+---
+
+### [El reloj biológico influye en uno de cada cuatro casos de depresión, según un estudio](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnliZ0hLMGFJeXl3UTd0dUdCTG9ZUEVSbEdkZ0dReFNydXN6TTIzVHZkVXp0N0J3ZGFKYjh0RDFGUmRfTnV1OXdRZW1PRU9FbTBfLVhvZHg4QzBwamVMbHJrOHNNalpvVmRwREVwOEg0NjN3TUp5NFEtaVZVVlVXZ19lSFpBMWhUaFhVOThXeTZMZnI2WDNJTmtZektuQnJROGxabtIBqgFBVV95cUxOWFVNNlBOY0NpRnFLR3BGQWhTMS1GaTNqYmxsY21ESkhsbm1janpOTzllSU1hVTZiOVRFOE5GZ29sTi1fX28tZXBYT3NfUXFNcTk0VXZRamU0Nm1pT2RLTDg0UVhIdV9wczdITW8zcnV6c0RpbmhMSXhEY3AtUVFxbFJJSHJTOHY1SWM5aTZsbVh3djNBR0RWOEFWamh6aW9hT00zYmNxd0FFQQ?oc=5)
+
+2026-10-23 <span class="news-indication-tag">depresión</span>
+
+Source: [elDiario.es](https://news.google.com/rss/articles/CBMipAFBVV95cUxPUnliZ0hLMGFJeXl3UTd0dUdCTG9ZUEVSbEdkZ0dReFNydXN6TTIzVHZkVXp0N0J3ZGFKYjh0RDFGUmRfTnV1OXdRZW1PRU9FbTBfLVhvZHg4QzBwamVMbHJrOHNNalpvVmRwREVwOEg0NjN3TUp5NFEtaVZVVlVXZ19lSFpBMWhUaFhVOThXeTZMZnI2WDNJTmtZektuQnJROGxabtIBqgFBVV95cUxOWFVNNlBOY0NpRnFLR3BGQWhTMS1GaTNqYmxsY21ESkhsbm1janpOTzllSU1hVTZiOVRFOE5GZ29sTi1fX28tZXBYT3NfUXFNcTk0VXZRamU0Nm1pT2RLTDg0UVhIdV9wczdITW8zcnV6c0RpbmhMSXhEY3AtUVFxbFJJSHJTOHY1SWM5aTZsbVh3djNBR0RWOEFWamh6aW9hT00zYmNxd0FFQQ?oc=5)
+
+---
+
 ### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
-
----
-
-### [Científicos australianos identifican un nuevo tipo de depresión - Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">depresión</span>
-
-Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
-
----
-
-### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">depression</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
 
 ---
 
@@ -66,19 +66,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZW
 
 ---
 
+### [Ein altbekanntes Mittel aktiviert die Geheimwaffe in Ihrem Körper](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
+
+2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [FOCUS+](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
+
+---
+
 ### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
 
 2026-10-19 <span class="news-indication-tag">depression</span>
 
 Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
----
-
-### [KI-Analyse koppelt braunes Fett an mentale Gesundheit – Losartan aktiviert es laut Studie - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWtSVlJ1SnJzcDNqT1pvOXo5MHJDcmpUSzVJbUNPdEc2MlphZ0tDTWkwN1BKSUF4MzVHeFo5eFdLSG12QWl2Vm5zcmIwUXVBRERlTzZhZ2V1XzY1cW1fdW5MaUJnck91V1VZaGlzR28zN0hraEUwc2toYzRzLUN1QjZfN25tUWswY3ZiNC1EcGlBcW1mZUktNXNSN2h3RmpnSUoyN2VxYlUxUF9zRW50ME9Ia3ZfbWpVOUkw?oc=5)
 
 ---
 
