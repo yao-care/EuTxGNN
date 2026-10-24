@@ -3,7 +3,7 @@ layout: default
 title: "hépatite (hepatitis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hépatite (hepatitis). 3 articles, 25 related drugs."
+description: "Health news about hépatite (hepatitis). 2 articles, 25 related drugs."
 permalink: /news/hepatitis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hepatitis/
 ---
 
 <p class="key-answer" data-question="What news is there about hépatite (hepatitis)?">
-<strong>hépatite (hepatitis)</strong> currently has <strong>3 news articles</strong> and 25 related drugs.
+<strong>hépatite (hepatitis)</strong> currently has <strong>2 news articles</strong> and 25 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -48,21 +48,13 @@ This page brings together the latest health news about “hépatite” and lists
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [En Guinée-Bissau, un essai clinique sur des nourrissons en partie financé par les Etats-Unis, jugé « contraire à l’éthique », finalement interdit - Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
 
 2026-10-22
 
 Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnVVNKdUg1NmdRQWlNVDZkVGNwc2czUk5JamZ3TVZiV2lFVXdSS0ZIbm9pQmFlUExKdlFMUmJnMUNHY19TbU5HQ21zSlV3dkpEM0haaVhMUS0xbGF0ZkQ2eTdjX1UtN1B4QXlqZEMta2NuckRZc0Y0MTR6QzR3V081TGZWdVI3d0hCc083VFFEZ0I0TVducnRvaS14YjZRSFRGb2g5MHl0ODNHT0tDNXRFM1JGSGRLbjloZ2RmdnhDX1FjdGQ1ZjZ3bzdHcEJBc3dnRFd4UGJtdm94ZlBNMGc4UTM5MjFJWFBlZnFxZlh5c3B2dXNhZjVsWDV6VE1UUU1XTmZVVE5CcmkxMElPa0Z1T3M0X19yQmlwNFBHaGdNZlFmRlN3Q3M1Rk9Uazd2Z1FsUTJZbw?oc=5)
-
----
-
-### [Virostatika ermöglichen Organspende trotz Hepatitis C - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
-
-2026-10-21
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 6 articles, 7 related drugs."
+description: "Health news about depresión (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/depression/
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>6 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
 2026-10-23
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
-
----
-
-### [Depressione, dormire troppo e svegliarsi esausti può essere un segnale: scoperta una possibile nuova forma](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
-
-2026-10-23
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
 
 ---
 

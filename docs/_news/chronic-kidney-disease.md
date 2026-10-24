@@ -31,11 +31,11 @@ This page brings together the latest health news about “chronische Nierenerkra
 
 ## Related News (1)
 
-### [Herzinsuffizienz: Vierfachtherapie und CKM-Ansatz verbessern 3-Jahres-Überleben - it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVMxdUk0MXhobnJ5WDlvNlo1WWJxczgxZEwtaGdFU2hYbkRNdlEyUWRkZl9iMGNlMG5wclZDcUtnY0RFcC1Zc1hoaXZIbU5BRmVlM2FPVmcxYm45WXFyM0RkR3N6MFVHWlktd1FSTWJseE90X0FVSEFDREx5VTlkY0ZjTXM4akJyYk5JWTJ5WVFTMmdSei13VFVjanhkTEQ0cmFXdWpCcHRfTl9aSlZSeA?oc=5)
+### [Bluthochdruck und Nieren: NKF empfiehlt Urintest für alle Betroffenen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
 
-2026-10-22
+2026-10-23
 
-Source: [it boltwise](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSVMxdUk0MXhobnJ5WDlvNlo1WWJxczgxZEwtaGdFU2hYbkRNdlEyUWRkZl9iMGNlMG5wclZDcUtnY0RFcC1Zc1hoaXZIbU5BRmVlM2FPVmcxYm45WXFyM0RkR3N6MFVHWlktd1FSTWJseE90X0FVSEFDREx5VTlkY0ZjTXM4akJyYk5JWTJ5WVFTMmdSei13VFVjanhkTEQ0cmFXdWpCcHRfTl9aSlZSeA?oc=5)
+Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
 
 ---
 

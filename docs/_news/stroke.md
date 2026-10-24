@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 7 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 9 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [La vacuna de la gripe, aliada frente al infarto y el ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+
+2026-10-24
+
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+
+---
+
+### [El peligro oculto de la Lp(a): un riesgo cardiovascular genético inmune al estilo de vida - Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
+
+2026-10-24
+
+Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
+
+---
 
 ### [La Sociedad de Reumatología señala que el paciente de lupus tiene el doble de riesgo de sufrir un infarto o un ictus - Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
 
@@ -46,35 +62,35 @@ Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUx
 
 ---
 
-### [El ensayo clínico 'Tumaini' en busca de una vacuna contra el ébola, se pone en marcha en Bunia](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+### [Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
 
 2026-10-23
 
-Source: [ABC](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeENfQlpVM2hUZUhwaHEzMmVldlZ6YXcyaFhrd3lBQ0J5Wkk0bzRnNHFRaFFVaUQzelNLdzM5LWFiV2JNTUdPZU9WU0ZabTJHUW43VXZQUWlWeVdwU3FXc2w1NWdIdGNtcEctbDNJcXg1SU5HS3dwZkN2WHR5ck83c0F6dGluWTlhOVg5Qjl5WnNuTkVEQVpCQW93?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
 
 ---
 
-### [Más allá del colesterol: expertos de la SEEN ponen el foco en un factor hereditario que puede elevar el riesgo cardiovascular sin dar señales](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdmtrRURZTWMtX19FTjBWeHMxazBNZkk4Vi02bG5JS1ZXajF3aGRxZVZQNTVRTkhPTGQwbWVud3FldEwzaUhRblZPSUNHdkhuUG8wUTZOVEZyWGYzLXhQZnlSb3NHeVRVQ25jeWxVSHVOcFR2OUNrYU13Y1MzSVN6LU9PejR6SmFFZGh3LS1nNVR0UzBxZU9LSHpUWWxKU0FxR2k1UktQRTBKMk5JcXYyTUZibUZ3UnNScmJxWVNWSlludE9GQ1U4bHdZTVdfdGtTajBBS0k3d3FCVDZHdk9JTXNXZEVLVlhpMkpHbktyTW5XNTRuMnVPMnBmc3FsNVVI?oc=5)
+### [Stroke Unit a Merate, Panzeri: “Altro che passo avanti: è l’ennesimo ridimensionamento” - Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
 2026-10-23
 
-Source: [EntreMayores](https://news.google.com/rss/articles/CBMigAJBVV95cUxNdmtrRURZTWMtX19FTjBWeHMxazBNZkk4Vi02bG5JS1ZXajF3aGRxZVZQNTVRTkhPTGQwbWVud3FldEwzaUhRblZPSUNHdkhuUG8wUTZOVEZyWGYzLXhQZnlSb3NHeVRVQ25jeWxVSHVOcFR2OUNrYU13Y1MzSVN6LU9PejR6SmFFZGh3LS1nNVR0UzBxZU9LSHpUWWxKU0FxR2k1UktQRTBKMk5JcXYyTUZibUZ3UnNScmJxWVNWSlludE9GQ1U4bHdZTVdfdGtTajBBS0k3d3FCVDZHdk9JTXNXZEVLVlhpMkpHbktyTW5XNTRuMnVPMnBmc3FsNVVI?oc=5)
+Source: [Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
 ---
 
-### [Blutdrucksenkung: 10 bis 20 mmHg weniger senken das Schlaganfallrisiko - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
+### [À Besançon, le CHU sensibilise le public aux signes de l’AVC - 20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3NBRTREcl9aWWFaMXpkRkR2ZEx5OFVTT3NvcTJDNEFqcVB0TXZ0eDNuYlJuVkI5UFlaSjhQVmpMM2FBVXdiTmktWjVwLVR4dmhxRHNkSGk3eFlzUkFwZTJleWlnMFJTRUVELWl4d2hIVE1mSDJIZGpuUWFST1otODExc2pfNG1LQmVHckdEUkVKSWp5dlZZWnd4R0RxMDdRY2VTYnNFNDhCb2hjakMyX0VR?oc=5)
 
 2026-10-23
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjJOanF1SmJreXI4YmZFRlNEbzN1TzZGM2NwY0h5eVJOaWhCamJsd3M4UVY3TkVuR2xqSzFvVGJwOVlCbWhRWGViTnhZVldDbENGSDBpaFNXaTNJa1ZvRjRueW1ja3NpaEtlSjZmM2pnYWFqSEkzUnBCSjZZVExfWFk5OURzNm14TlJSUjloSUU2UlBrWnI1RlFEb2tUVUU5TnR3VjBnQzc1bGxRdFdmS2Y3SzZZWWl1LUE?oc=5)
+Source: [20 Minutes](https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3NBRTREcl9aWWFaMXpkRkR2ZEx5OFVTT3NvcTJDNEFqcVB0TXZ0eDNuYlJuVkI5UFlaSjhQVmpMM2FBVXdiTmktWjVwLVR4dmhxRHNkSGk3eFlzUkFwZTJleWlnMFJTRUVELWl4d2hIVE1mSDJIZGpuUWFST1otODExc2pfNG1LQmVHckdEUkVKSWp5dlZZWnd4R0RxMDdRY2VTYnNFNDhCb2hjakMyX0VR?oc=5)
 
 ---
 
-### [Cura dell’Ictus ischemico acuto: il Mandic può proporsi come “Stroke Ready”. Intervento del dr. Filippo Galbiati](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
+### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
-2026-10-22
+2026-10-23
 
-Source: [Merateonline](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeUVubGZVY0huZkNONkpUYjNOa29KSVlLeER2VlpuN2loUWIwNkNqNzVRV0pPYzNXcWFrOWFWRTl4eHRoWkptTnpVc2h3UjFqcXU2VENJLWtmNDRwcDVVdXppOEVQR185LWlObWlURnQtdE9YdGxZZjlZZjNmUmFpWUV1WmMzcmVxY1Fia2RfZnlNTXFiWWs1UHZDajc2N19rMW5zREtIZVBlRXd2TzJfNk9mcmh4VGJqd2dSbGlzekF2cUk2cV9haEdCdzFPdXZaekFGaUJEeWRzZzQ4eTNXamhUbldjZndCc1MzT3c3bk9ZbldsM1ZCNjhCTndUUQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
-
----
-
-### [Depressione, dormire troppo e svegliarsi esausti può essere un segnale: scoperta una possibile nuova forma](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
-
-2026-10-23 <span class="news-indication-tag">depression</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZDNGdmMyMnY2VHloUzRjRUJJMDJyWWFLMDlha1hhV1U1OEVKRURCTzRsV290RHdtQXN3R09RcVVpaHF2VXRXUjAtVFhOZ1NJU2g3UW1SYTViZ0xkMEgyUFRRUUdSWGNsTkdFV0MzXzZ1bjlsRElUR3VydGwtVHRMSEV5V044QmthZWMwd3UxcmVxMmZFOEdDeFVzcU5iNnRNSl9sbFVUTGtXNGcxT204d21fSFZ6Y3Z4V1l6R1k5WFVzX1ZPZmYwZThxWlluZFRTaXNmTlloUGVxLXJ4VjQwZzFMRHowTDhBUXU4?oc=5)
 
 ---
 

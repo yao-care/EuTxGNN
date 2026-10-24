@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 22 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 19 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>22 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>19 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,13 +45,29 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (22)
+## Related News (19)
+
+### [Schlafen: Diese Dauer des Traumschlafs hält gesund](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFBN1hBY0R6Y3J2U1VnZzFJSi1WNEtoSzk0cng5Q2xuQ2k5ZnZCdVRHVDJxaUk0dldmMHhPMFBRQWMydkpLUVYzd28xb0o0bTJDVHpJWmM4RXpaRTVXME1hSnMzUWdxbVVIaGVHaXZvYUNBblAxcTFhaEZFeUNoMzIwMWo5X0FLd3oweDc3dVAzVWFtZHlBNGNuc0dVNFZ0RE5UMXVsMWI0NkRsODBRMlM0TkE?oc=5)
+
+2026-10-24
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFBN1hBY0R6Y3J2U1VnZzFJSi1WNEtoSzk0cng5Q2xuQ2k5ZnZCdVRHVDJxaUk0dldmMHhPMFBRQWMydkpLUVYzd28xb0o0bTJDVHpJWmM4RXpaRTVXME1hSnMzUWdxbVVIaGVHaXZvYUNBblAxcTFhaEZFeUNoMzIwMWo5X0FLd3oweDc3dVAzVWFtZHlBNGNuc0dVNFZ0RE5UMXVsMWI0NkRsODBRMlM0TkE?oc=5)
+
+---
 
 ### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
 
 2026-10-23
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
+
+---
+
+### [Virus Shamonda, primo caso umano in Francia. Come si trasmette e cosa sappiamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
+
+2026-10-23
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
 
 ---
 
@@ -76,22 +92,6 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXl
 2026-10-23
 
 Source: [RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB0cm95YTgwRlJxQUJMb3J1bkNxWHR6ekxDeGJmV1EwSXVGQVNuV0dCWXo4TDRYSGc3dGhnUGd5QlZSdXZDNWR4TG9pQzVVTEVpTXZ0STY4bWhDV2x0di1ZdzhIZkFhb25IaDhXMmxOOEllbVJhY0Vkdkw5aE9vbFZHQ1dzdE9nZjFlVDUwWFNzZmZFMjBXbTVaQXowck1pNkZNTHktSTJx?oc=5)
-
----
-
-### [Virus Shamonda, dal primo caso umano in Francia alla diffusione in Europa: che cosa sappiamo - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
-
-2026-10-23
-
-Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
-
----
-
-### [Heart health isn't only about diet and exercise? 7 things you may have inherited from your parents that can influence cholesterol, heart rhythm and your risk of developing heart problems early - The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWjRoTlJiTVoyaU1tMGJCaDZuejRVV0ptWmtGc3pfMGF2UmlBa1VsLXZXWURMcVFvS3dfRW03cFROZ1NDT2EtS05EcFhxNXdjRkNON1Q5OU9qRkFUUUtpYzhQSDRBaXozQ0pQbVpjb2lWX2gzQlhKNERWaFlOdmtPNUhxa1VvMEhreGx6ajV3cmt1Y1lGSkFiRmlPeGJuVFBBc085UFRKZU83M1BQN0wzYnlkcjNEU1otc0F5RE9fZmZFTVFvQU5xdFZpMkZzYlVKeU1zLWVGVkFmbC1MTmQ5UFByMDUxU3JuNXVVbG5QNHhWSVZyUVZFNGEwZUFBMVB5Y3dBOFlXajVVbXZMMmdkQW1kUHhPTnE4UmNaN2VFODlVam1Wb2R6cTVpdXItRVNXMmpZa25tWi1jLVdUcjZRNjJVampVb2VScExGa0tkbDdxbmZwZzg5WjA4WGV5WlBITGZVOENwN19TVzNVZlgzVnBrTdIB-wJBVV95cUxPVjJVVDI0YnJVU1l5d1JPZW0xWlViZk9XODhibjA0OUhwU1Mza3hJaU1TdmhTUkJvTjNlWjd5VlBDWXlaaGVEMXZ5dV83QkZwREh6QUlUZG9PRkF4Vkd1VVN1WkttUWhJeEFWYjNhTFBDT0dfaV9KV0JNZUtFX2IwZlU3SFgyZm5jSUdpeVY0am5LUkh6OVhCdG1qTXNYME1KXzA1ZGVDeXdiR0JsX0dRZklHLVBlNHk4YTBxQW9MVHdyM1BFWW9CQVFMTmlLYVJkME1RanZwQWQwWFhUYWtUX0FrOHhnQTAyZFRfOFNMNTFEbk9WeHBtckU4Rk5RYUhKM3VTYXBnS19rNllSVEhJR3RIMEFWNVlkNUlpVUdfcklCOEk0VkpuVXpfSm52VmVadG55ZXZORWJHOE5JcWdwTTI2a3Uyc2M0YkFJTzNHTzRIbldfY3FXMFZjQzlnNlc1MDAweTVGaHM0Vk5ickY2cmtyTjFFM05qVXlZ?oc=5)
-
-2026-10-23
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWjRoTlJiTVoyaU1tMGJCaDZuejRVV0ptWmtGc3pfMGF2UmlBa1VsLXZXWURMcVFvS3dfRW03cFROZ1NDT2EtS05EcFhxNXdjRkNON1Q5OU9qRkFUUUtpYzhQSDRBaXozQ0pQbVpjb2lWX2gzQlhKNERWaFlOdmtPNUhxa1VvMEhreGx6ajV3cmt1Y1lGSkFiRmlPeGJuVFBBc085UFRKZU83M1BQN0wzYnlkcjNEU1otc0F5RE9fZmZFTVFvQU5xdFZpMkZzYlVKeU1zLWVGVkFmbC1MTmQ5UFByMDUxU3JuNXVVbG5QNHhWSVZyUVZFNGEwZUFBMVB5Y3dBOFlXajVVbXZMMmdkQW1kUHhPTnE4UmNaN2VFODlVam1Wb2R6cTVpdXItRVNXMmpZa25tWi1jLVdUcjZRNjJVampVb2VScExGa0tkbDdxbmZwZzg5WjA4WGV5WlBITGZVOENwN19TVzNVZlgzVnBrTdIB-wJBVV95cUxPVjJVVDI0YnJVU1l5d1JPZW0xWlViZk9XODhibjA0OUhwU1Mza3hJaU1TdmhTUkJvTjNlWjd5VlBDWXlaaGVEMXZ5dV83QkZwREh6QUlUZG9PRkF4Vkd1VVN1WkttUWhJeEFWYjNhTFBDT0dfaV9KV0JNZUtFX2IwZlU3SFgyZm5jSUdpeVY0am5LUkh6OVhCdG1qTXNYME1KXzA1ZGVDeXdiR0JsX0dRZklHLVBlNHk4YTBxQW9MVHdyM1BFWW9CQVFMTmlLYVJkME1RanZwQWQwWFhUYWtUX0FrOHhnQTAyZFRfOFNMNTFEbk9WeHBtckU4Rk5RYUhKM3VTYXBnS19rNllSVEhJR3RIMEFWNVlkNUlpVUdfcklCOEk0VkpuVXpfSm52VmVadG55ZXZORWJHOE5JcWdwTTI2a3Uyc2M0YkFJTzNHTzRIbldfY3FXMFZjQzlnNlc1MDAweTVGaHM0Vk5ickY2cmtyTjFFM05qVXlZ?oc=5)
 
 ---
 
@@ -135,14 +135,6 @@ Source: [TwistedSifter](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3B
 
 ---
 
-### [Kälte macht Muskeln zur Fabrik für ein längeres Leben - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkxrLW9hdDBQZlVQZlQ3YXBld3FJYm94bHRnMk1ucEs2MmdzbVd0N0NSczRGUHJqMC1UNEZNdHhKNHpKRmVqdEE0MzFhQVJWc3lBSUxlVkthdVlOdExNc1BtVzhBNXVGOVpzZHdPUllaNVRLWFpHNFdvQmJJOTBUZFo4Q3JHRjZSWUxEcmVtS2g2dGkyV1Y3bzhGMDhWZURHeG55X2RlOXBid0RIVTZJUVFDYXhCVndhR09hdFZaZ2g?oc=5)
-
-2026-10-22
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkxrLW9hdDBQZlVQZlQ3YXBld3FJYm94bHRnMk1ucEs2MmdzbVd0N0NSczRGUHJqMC1UNEZNdHhKNHpKRmVqdEE0MzFhQVJWc3lBSUxlVkthdVlOdExNc1BtVzhBNXVGOVpzZHdPUllaNVRLWFpHNFdvQmJJOTBUZFo4Q3JHRjZSWUxEcmVtS2g2dGkyV1Y3bzhGMDhWZURHeG55X2RlOXBid0RIVTZJUVFDYXhCVndhR09hdFZaZ2g?oc=5)
-
----
-
 ### [Horror as 'American Covid' rapidly spreads in UK - 12 grim symptoms to look out for - Daily Express](https://news.google.com/rss/articles/CBMihgFBVV95cUxOekNkTlZEaGNRYngtTWplTmwzZGdfbW9oYkUzWVRmb0F3TXFOV3U4NDFLU3VrbGY4RDFwQjIzdFRUQXZQSHpvNS1JdlVoYm9UWlJzMFBMRzRUdi1XOXZuQThkTm1sZVN6LXZuSXFyOGJpcjVUUFEtb3B5eVpRUFhPRWt6WXpsUdIBiwFBVV95cUxNT1pmTmdpQ0tySnAzU2FpMHRobV9RSTA0dGhDWWdTa1hsZm1aeVJuN3RDSkVQRHk1Z3BVUDZPNmtjTGhid09wSmRFbWVYYUZhRjlRdVY0QWJiMlA3djRsY2l1X0h4TjlVbElPOWtKUldGYjZJaHRLYkE4VGFWakkyOHhJd1dvNjRXNzhz?oc=5)
 
 2026-10-22
@@ -175,27 +167,11 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
-### [Gut-friendly fiber formula gives hope to IBS sufferers - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2hSZmhyYklLMmJxNEVqTmN4ZDdpaWlTZktwMjhXVENGYnBJdk5YVHZMQTEzZnp2SVRWaFFyQ1ZJRG9PY0RWX2prcHBjUXV3NUFtWjRHUC1BN3EzM25HVU5BUG9jV2xxUWRwaU9yMFRYaWh4VVZyWkR1b1k4bHc?oc=5)
-
-2026-10-21
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2hSZmhyYklLMmJxNEVqTmN4ZDdpaWlTZktwMjhXVENGYnBJdk5YVHZMQTEzZnp2SVRWaFFyQ1ZJRG9PY0RWX2prcHBjUXV3NUFtWjRHUC1BN3EzM25HVU5BUG9jV2xxUWRwaU9yMFRYaWh4VVZyWkR1b1k4bHc?oc=5)
-
----
-
 ### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 2026-10-21
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
----
-
-### [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
-
-2026-10-20
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
 
 ---
 

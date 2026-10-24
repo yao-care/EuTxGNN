@@ -14,7 +14,7 @@ permalink: /news/teriflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriflunomide?">
-<strong>Teriflunomide</strong> currently has <strong>24 news articles</strong>, with 1 predicted indications.
+<strong>Teriflunomide</strong> currently has <strong>21 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (24)
+## Related News (21)
+
+### [Schlafen: Diese Dauer des Traumschlafs hält gesund](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFBN1hBY0R6Y3J2U1VnZzFJSi1WNEtoSzk0cng5Q2xuQ2k5ZnZCdVRHVDJxaUk0dldmMHhPMFBRQWMydkpLUVYzd28xb0o0bTJDVHpJWmM4RXpaRTVXME1hSnMzUWdxbVVIaGVHaXZvYUNBblAxcTFhaEZFeUNoMzIwMWo5X0FLd3oweDc3dVAzVWFtZHlBNGNuc0dVNFZ0RE5UMXVsMWI0NkRsODBRMlM0TkE?oc=5)
+
+2026-10-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFBN1hBY0R6Y3J2U1VnZzFJSi1WNEtoSzk0cng5Q2xuQ2k5ZnZCdVRHVDJxaUk0dldmMHhPMFBRQWMydkpLUVYzd28xb0o0bTJDVHpJWmM4RXpaRTVXME1hSnMzUWdxbVVIaGVHaXZvYUNBblAxcTFhaEZFeUNoMzIwMWo5X0FLd3oweDc3dVAzVWFtZHlBNGNuc0dVNFZ0RE5UMXVsMWI0NkRsODBRMlM0TkE?oc=5)
+
+---
 
 ### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
+
+---
+
+### [Virus Shamonda, primo caso umano in Francia. Come si trasmette e cosa sappiamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
+
+2026-10-23 <span class="news-indication-tag">MS</span>
+
+Source: [Doctor33](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
 
 ---
 
@@ -66,22 +82,6 @@ Source: [RP Online](https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkVDdFB
 
 ---
 
-### [Virus Shamonda, dal primo caso umano in Francia alla diffusione in Europa: che cosa sappiamo - Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MS</span>
-
-Source: [Vanity Fair Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEN4TjlKNm8tRHZHLXhTMVBaU1Y5d0R4X0RCZXl6YVYyYy12R0lyeG4zS3VkWVpGUlNmVmpBTFBIdDZlckhsbmNtSUhmS3laVHRLQnB3OVhzMmtkYWJpYkhhckhpOVR1VG81RXg3ZnZNcF84RjY2UXc1RFdOLTA3ODZnNEZYamF0RVJPT2VvVUo5dXFwM2J2SGhoTExQNTlmeXptOWdWVXJmZ3VOci1qRVJXdF90U1BXM1FMTA?oc=5)
-
----
-
-### [Heart health isn't only about diet and exercise? 7 things you may have inherited from your parents that can influence cholesterol, heart rhythm and your risk of developing heart problems early - The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWjRoTlJiTVoyaU1tMGJCaDZuejRVV0ptWmtGc3pfMGF2UmlBa1VsLXZXWURMcVFvS3dfRW03cFROZ1NDT2EtS05EcFhxNXdjRkNON1Q5OU9qRkFUUUtpYzhQSDRBaXozQ0pQbVpjb2lWX2gzQlhKNERWaFlOdmtPNUhxa1VvMEhreGx6ajV3cmt1Y1lGSkFiRmlPeGJuVFBBc085UFRKZU83M1BQN0wzYnlkcjNEU1otc0F5RE9fZmZFTVFvQU5xdFZpMkZzYlVKeU1zLWVGVkFmbC1MTmQ5UFByMDUxU3JuNXVVbG5QNHhWSVZyUVZFNGEwZUFBMVB5Y3dBOFlXajVVbXZMMmdkQW1kUHhPTnE4UmNaN2VFODlVam1Wb2R6cTVpdXItRVNXMmpZa25tWi1jLVdUcjZRNjJVampVb2VScExGa0tkbDdxbmZwZzg5WjA4WGV5WlBITGZVOENwN19TVzNVZlgzVnBrTdIB-wJBVV95cUxPVjJVVDI0YnJVU1l5d1JPZW0xWlViZk9XODhibjA0OUhwU1Mza3hJaU1TdmhTUkJvTjNlWjd5VlBDWXlaaGVEMXZ5dV83QkZwREh6QUlUZG9PRkF4Vkd1VVN1WkttUWhJeEFWYjNhTFBDT0dfaV9KV0JNZUtFX2IwZlU3SFgyZm5jSUdpeVY0am5LUkh6OVhCdG1qTXNYME1KXzA1ZGVDeXdiR0JsX0dRZklHLVBlNHk4YTBxQW9MVHdyM1BFWW9CQVFMTmlLYVJkME1RanZwQWQwWFhUYWtUX0FrOHhnQTAyZFRfOFNMNTFEbk9WeHBtckU4Rk5RYUhKM3VTYXBnS19rNllSVEhJR3RIMEFWNVlkNUlpVUdfcklCOEk0VkpuVXpfSm52VmVadG55ZXZORWJHOE5JcWdwTTI2a3Uyc2M0YkFJTzNHTzRIbldfY3FXMFZjQzlnNlc1MDAweTVGaHM0Vk5ickY2cmtyTjFFM05qVXlZ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MS</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxOWjRoTlJiTVoyaU1tMGJCaDZuejRVV0ptWmtGc3pfMGF2UmlBa1VsLXZXWURMcVFvS3dfRW03cFROZ1NDT2EtS05EcFhxNXdjRkNON1Q5OU9qRkFUUUtpYzhQSDRBaXozQ0pQbVpjb2lWX2gzQlhKNERWaFlOdmtPNUhxa1VvMEhreGx6ajV3cmt1Y1lGSkFiRmlPeGJuVFBBc085UFRKZU83M1BQN0wzYnlkcjNEU1otc0F5RE9fZmZFTVFvQU5xdFZpMkZzYlVKeU1zLWVGVkFmbC1MTmQ5UFByMDUxU3JuNXVVbG5QNHhWSVZyUVZFNGEwZUFBMVB5Y3dBOFlXajVVbXZMMmdkQW1kUHhPTnE4UmNaN2VFODlVam1Wb2R6cTVpdXItRVNXMmpZa25tWi1jLVdUcjZRNjJVampVb2VScExGa0tkbDdxbmZwZzg5WjA4WGV5WlBITGZVOENwN19TVzNVZlgzVnBrTdIB-wJBVV95cUxPVjJVVDI0YnJVU1l5d1JPZW0xWlViZk9XODhibjA0OUhwU1Mza3hJaU1TdmhTUkJvTjNlWjd5VlBDWXlaaGVEMXZ5dV83QkZwREh6QUlUZG9PRkF4Vkd1VVN1WkttUWhJeEFWYjNhTFBDT0dfaV9KV0JNZUtFX2IwZlU3SFgyZm5jSUdpeVY0am5LUkh6OVhCdG1qTXNYME1KXzA1ZGVDeXdiR0JsX0dRZklHLVBlNHk4YTBxQW9MVHdyM1BFWW9CQVFMTmlLYVJkME1RanZwQWQwWFhUYWtUX0FrOHhnQTAyZFRfOFNMNTFEbk9WeHBtckU4Rk5RYUhKM3VTYXBnS19rNllSVEhJR3RIMEFWNVlkNUlpVUdfcklCOEk0VkpuVXpfSm52VmVadG55ZXZORWJHOE5JcWdwTTI2a3Uyc2M0YkFJTzNHTzRIbldfY3FXMFZjQzlnNlc1MDAweTVGaHM0Vk5ickY2cmtyTjFFM05qVXlZ?oc=5)
-
----
-
 ### [Dermatologische Komplikationen von „Chemsex“ - Ärzte Zeitung](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
 
 2026-10-23 <span class="news-indication-tag">MS</span>
@@ -92,7 +92,7 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE
 
 ### [California startup says it has injected AI-designed virus into humans for first time - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
 
-2026-10-23 <span class="news-indication-tag">MS</span>
+2026-10-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
 
@@ -119,14 +119,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cU
 2026-10-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [TwistedSifter](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR3BfODNSRmRKMmFDWU50VTlLbUt4RVlHcG5uVWE1MERpMEQ0dzFtMVJ4OU52NnFCUVJYWGRBcmktWW1lRkFRMEd4YkZUUE5WUUhGeXFvRFRKeW9HUVRaNHRnZG1rMXRIRHZVWGwwaFFyUHFHbUFTTkVndTdxSGt4MjVxcHltNWhjSm1TMTh6dW93N0tJbS04UE1nZGt6M3NiWlhJSU5FSXpoN0hYb0JuUHJOOHBTY1R3ZlJLcGhhd2FGVkRVT0VPS3JfX1VBUEZDNUxGa2hPaWN2YlVQWWUtdGhFNnJ6MlhiTTQ0eU9lVGZUdGo5Y1RGY2lweWs?oc=5)
-
----
-
-### [Kälte macht Muskeln zur Fabrik für ein längeres Leben - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkxrLW9hdDBQZlVQZlQ3YXBld3FJYm94bHRnMk1ucEs2MmdzbVd0N0NSczRGUHJqMC1UNEZNdHhKNHpKRmVqdEE0MzFhQVJWc3lBSUxlVkthdVlOdExNc1BtVzhBNXVGOVpzZHdPUllaNVRLWFpHNFdvQmJJOTBUZFo4Q3JHRjZSWUxEcmVtS2g2dGkyV1Y3bzhGMDhWZURHeG55X2RlOXBid0RIVTZJUVFDYXhCVndhR09hdFZaZ2g?oc=5)
-
-2026-10-22 <span class="news-indication-tag">MS</span>
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkxrLW9hdDBQZlVQZlQ3YXBld3FJYm94bHRnMk1ucEs2MmdzbVd0N0NSczRGUHJqMC1UNEZNdHhKNHpKRmVqdEE0MzFhQVJWc3lBSUxlVkthdVlOdExNc1BtVzhBNXVGOVpzZHdPUllaNVRLWFpHNFdvQmJJOTBUZFo4Q3JHRjZSWUxEcmVtS2g2dGkyV1Y3bzhGMDhWZURHeG55X2RlOXBid0RIVTZJUVFDYXhCVndhR09hdFZaZ2g?oc=5)
 
 ---
 
@@ -170,25 +162,9 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ---
 
-### [Virostatika ermöglichen Organspende trotz Hepatitis C - Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
-
-2026-10-21 <span class="news-indication-tag">hepatitis</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEc2UXROT21xS1hkbTBnR1BuRTFnUzJsb2pIMV9UV2E1Y0tQcWdILTBvUXJmdC1JNG1uZGlvd3dGWHlhcWJndGIxbzN1bVRUNm5TcXhGTlJPRUFXRjlhNjhQcndCb1VmcVI1SjllWHVTVVp3SXo0cVhtUFFZWThaVWpVV3UtdGowb0ZseWhsQ2hEZHlHd09NWDd4U1c5eGNwN0I5eVVBb21nM3Zmck80?oc=5)
-
----
-
-### [Gut-friendly fiber formula gives hope to IBS sufferers - Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2hSZmhyYklLMmJxNEVqTmN4ZDdpaWlTZktwMjhXVENGYnBJdk5YVHZMQTEzZnp2SVRWaFFyQ1ZJRG9PY0RWX2prcHBjUXV3NUFtWjRHUC1BN3EzM25HVU5BUG9jV2xxUWRwaU9yMFRYaWh4VVZyWkR1b1k4bHc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">MS</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2hSZmhyYklLMmJxNEVqTmN4ZDdpaWlTZktwMjhXVENGYnBJdk5YVHZMQTEzZnp2SVRWaFFyQ1ZJRG9PY0RWX2prcHBjUXV3NUFtWjRHUC1BN3EzM25HVU5BUG9jV2xxUWRwaU9yMFRYaWh4VVZyWkR1b1k4bHc?oc=5)
-
----
-
 ### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-21 <span class="news-indication-tag">MS</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
@@ -196,7 +172,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTW
 
 ### [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
 
-2026-10-20 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
 

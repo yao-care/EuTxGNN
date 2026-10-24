@@ -34,6 +34,30 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 
 ## Related News (18)
 
+### [Miro1 als Ziel: 12 Wochen Training senken Insulinresistenz bei Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJLc2VXMFl5ZEpXN0ljc2NVTnp0YUdGc1UxSE9QSjNuOUI3TllQTmM0eWxFRWtPZmlLbHJYLS1nZ3BCNGRQLUhMcnJUWUU0NTRLQ01Sc2Zsbld6NV9HcDFQakJKZjAyQVBrVkl2NldmbVd2QkFWTkRtMmw5bHp1WmhZZG94bGVkNmdkNzdpSkxzRHpyaXYxMXZsLUo3blItRzBiY2VxMjdvczBm?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJLc2VXMFl5ZEpXN0ljc2NVTnp0YUdGc1UxSE9QSjNuOUI3TllQTmM0eWxFRWtPZmlLbHJYLS1nZ3BCNGRQLUhMcnJUWUU0NTRLQ01Sc2Zsbld6NV9HcDFQakJKZjAyQVBrVkl2NldmbVd2QkFWTkRtMmw5bHp1WmhZZG94bGVkNmdkNzdpSkxzRHpyaXYxMXZsLUo3blItRzBiY2VxMjdvczBm?oc=5)
+
+---
+
+### [Diabete di tipo 2, perché il pancreas produce meno insulina: scoperto un meccanismo che danneggia le cellule](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTY4dDE3QmRNSzlDQ3MwYVJBVE02VDlpdUs5dWg0TVd0Y3o5RG1FaDVVVjVDbzhCZWhNb3doZ0k5QlhQcTZIWF95TUhFZWR6VmRvY0MtamZXSDIwX1Fld3Y0Ry1uODFBUTdici1kSlhTeGtFODdoQkVkRDl4VGNqUTBTclNweWZ5V3UyNFoxMDFXYUhrT093TFJkRG5BNzJuQk14Q3dWbDNFbVZNY0ZYY1ZURzczbmVpU25qRE1rQndzR0EyQWtRcS1tRlk0WVo1b2ZCWWljQVhadlhQd1VKd2lzdXNlM0paWEtDZ1pR?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTY4dDE3QmRNSzlDQ3MwYVJBVE02VDlpdUs5dWg0TVd0Y3o5RG1FaDVVVjVDbzhCZWhNb3doZ0k5QlhQcTZIWF95TUhFZWR6VmRvY0MtamZXSDIwX1Fld3Y0Ry1uODFBUTdici1kSlhTeGtFODdoQkVkRDl4VGNqUTBTclNweWZ5V3UyNFoxMDFXYUhrT093TFJkRG5BNzJuQk14Q3dWbDNFbVZNY0ZYY1ZURzczbmVpU25qRE1rQndzR0EyQWtRcS1tRlk0WVo1b2ZCWWljQVhadlhQd1VKd2lzdXNlM0paWEtDZ1pR?oc=5)
+
+---
+
+### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+
+Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
+
+---
+
 ### [Congreso SEEN: La sarcopenia es un factor de riesgo para desarrollar diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
@@ -82,14 +106,6 @@ Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTH
 
 ---
 
-### [¿Una alternativa a los GLP-1? Un implante experimental combate la 'diabesidad' en ratones](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTE4Q1lUdVZ2ZUJmR3ctcGd6MHNKdFUtU1J6RlNFWFZlNDFvRHlpd3AwM3lCU1JZbi1INXlZc0ZRWGg3a3hyaGk4ay0zR09VYnphLTdIQXptVDJFYWx5V0pMWF82VUNmU2cxNExOMzh3MEZnZFV2dG1XNmJiSmZOTGlUbnl1OGtIOEFETHZSbU9IN29TZGxSeGVxSzM2OFpDZmZ4RXZ4d29zSDJPVUw0S1l5MjRpcFV5cDh5bjN6eG1aS2NtRlpYcHhCVTNFMmlVLXNjUQ?oc=5)
-
----
-
 ### [NHS plan to roll out fat jabs slowly ‘not good enough’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
 
 2026-10-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
@@ -106,19 +122,11 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVT
 
 ---
 
-### [Una scossa elettrica contro il diabete](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2NvelV2ejdGT0JqcWZCemF5ZHlwLXJQODRFSk9RV3Z1NWtWcU96VUVMRFcwMXFEd3dEb04zRFJDNEtQQjZhdER5Rkt6R2FZdjJMUFRnLTRlcnBPaHRvNGZQQmR2Yk9kV2gwRTB0UXRfOHpOQzQ0SzkyRUIzb2pnTFNPWDNDZ2U4MG1ZdzVUZVVBMk1RR1Y3cHo1eUVjUQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabete</span>
-
-Source: [Ticinonline](https://news.google.com/rss/articles/CBMingFBVV95cUxQY2NvelV2ejdGT0JqcWZCemF5ZHlwLXJQODRFSk9RV3Z1NWtWcU96VUVMRFcwMXFEd3dEb04zRFJDNEtQQjZhdER5Rkt6R2FZdjJMUFRnLTRlcnBPaHRvNGZQQmR2Yk9kV2gwRTB0UXRfOHpOQzQ0SzkyRUIzb2pnTFNPWDNDZ2U4MG1ZdzVUZVVBMk1RR1Y3cHo1eUVjUQ?oc=5)
-
----
-
-### [Expertos destacan la importancia del conocimiento y el autocuidado en la diabetes tipo 2 - El Diario Vasco](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG5Fby1MSERsVHlvZmJsZFliR3lSOWdHb0ZkQW4tUXBYRmw4dXNfc3J6YzFwUFJnZWp1WmNNTHhnQzlfSXAtNEFsRFVzMUU4NHNROUlzUXcyTzFVLXNZN3haRGphVEI3SEM2RnNXaWdGdFQtU0FKeDBwZ0ZDVUFRa1JUeG52UF9pRWlGN04tN0RMemgwTEtxZ3dUTGNnbE9Td2RMWEJWVWkteFhsemxuOWkzTllrUTNTbFVoTjhkZ1RqeHhsZGFj?oc=5)
+### [Implantat senkt den Blutzucker mit Strom statt mit Insulin - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
 
 2026-10-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [El Diario Vasco](https://news.google.com/rss/articles/CBMixwFBVV95cUxNNG5Fby1MSERsVHlvZmJsZFliR3lSOWdHb0ZkQW4tUXBYRmw4dXNfc3J6YzFwUFJnZWp1WmNNTHhnQzlfSXAtNEFsRFVzMUU4NHNROUlzUXcyTzFVLXNZN3haRGphVEI3SEM2RnNXaWdGdFQtU0FKeDBwZ0ZDVUFRa1JUeG52UF9pRWlGN04tN0RMemgwTEtxZ3dUTGNnbE9Td2RMWEJWVWkteFhsemxuOWkzTllrUTNTbFVoTjhkZ1RqeHhsZGFj?oc=5)
+Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
 
 ---
 
@@ -143,14 +151,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DN
 2026-10-21 <span class="news-indication-tag">diabetes</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
 
 ---
 
