@@ -14,7 +14,7 @@ permalink: /news/abaloparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Abaloparatide?">
-<strong>Abaloparatide</strong> currently has <strong>17 news articles</strong>, with 1 predicted indications.
+<strong>Abaloparatide</strong> currently has <strong>16 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,23 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (16)
+
+### [La contaminación y los cambios de temperatura se asocian con mayores niveles de glucemia - UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYXRBelgwNmJmZGpiaF9LMHM4ZXc2bmtzQU1nc0owYVZ1QXl1TmtpVEZuYkIxZDhHTFlVb3V0cHctMURUU2EzOFZ3dEd4dVB3SEtGb2hXR3lhODZhWWUxTDQtTzJ5NVlqcGdvbktreVNpc0V6NHdPOXd0eWEwWmkwTFo0V1VLYkNUU09UV0dkajhJcg?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+
+Source: [UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYXRBelgwNmJmZGpiaF9LMHM4ZXc2bmtzQU1nc0owYVZ1QXl1TmtpVEZuYkIxZDhHTFlVb3V0cHctMURUU2EzOFZ3dEd4dVB3SEtGb2hXR3lhODZhWWUxTDQtTzJ5NVlqcGdvbktreVNpc0V6NHdPOXd0eWEwWmkwTFo0V1VLYkNUU09UV0dkajhJcg?oc=5)
+
+---
+
+### [Neues Diabetes-Implantat baut Zucker im Blut ab – Mäuse nehmen dabei sogar ab - smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
+
+---
 
 ### [Miro1 als Ziel: 12 Wochen Training senken Insulinresistenz bei Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJLc2VXMFl5ZEpXN0ljc2NVTnp0YUdGc1UxSE9QSjNuOUI3TllQTmM0eWxFRWtPZmlLbHJYLS1nZ3BCNGRQLUhMcnJUWUU0NTRLQ01Sc2Zsbld6NV9HcDFQakJKZjAyQVBrVkl2NldmbVd2QkFWTkRtMmw5bHp1WmhZZG94bGVkNmdkNzdpSkxzRHpyaXYxMXZsLUo3blItRzBiY2VxMjdvczBm?oc=5)
 
@@ -55,6 +71,14 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTY4
 2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
+
+---
+
+### [Frühe Menopause: Vor dem 45. Lebensjahr steigt das Diabetesrisiko um 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYldsQ0RDSm5sTm5iRzlfWlBISEREYmxhTEFhWnUtb0oyNjQ0UGVFc0dreExoWUVYN3VnVDlMcFFnYUVvWFhUWTZrWDNtZEJROGpqYXZFTGM0Y2cxMjRMME1jUy1qbnNjNEtLLUJCdWxna0hJWEJMRkNBWkxsLWlvaGs2ZnJnUktxYzJTOFJoV0dVQTQ0enB6T0V6M0VDTjhmUVJuREhMd1VqdEVlVGx3S0c5M0owQXlucTlwVnBzSWhKeDUwdnc?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYldsQ0RDSm5sTm5iRzlfWlBISEREYmxhTEFhWnUtb0oyNjQ0UGVFc0dreExoWUVYN3VnVDlMcFFnYUVvWFhUWTZrWDNtZEJROGpqYXZFTGM0Y2cxMjRMME1jUy1qbnNjNEtLLUJCdWxna0hJWEJMRkNBWkxsLWlvaGs2ZnJnUktxYzJTOFJoV0dVQTQ0enB6T0V6M0VDTjhmUVJuREhMd1VqdEVlVGx3S0c5M0owQXlucTlwVnBzSWhKeDUwdnc?oc=5)
 
 ---
 
@@ -90,35 +114,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivAFBVV95cUxOYy1kU3
 
 ---
 
-### [La contaminación atmosférica y la variabilidad de la temperatura se asocian con niveles más elevados de glucemia - Salud a Diario](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHZEeV9wd0NzUmJUeS1RWms2R2V1WjdXUzN0cEUtX0pNUGo0aDFBbHBxNVFNeEx1U3I4MGVEbVNOeDVvMzQzek43WEt6ZG9OTkFMWk8tYkMwZmNPRzg4bEJ6dkd1SXBpR2xnTWdNQnFQZE5obXctNmJEN000TGRNNDh1eVVweDBuTVZjOWN0ZTRGOU9lZ2RZZEJ1cTJOVEhYTFVucTJ5bE93aHFBcHdfX3AwajZBYnE3TjBZM0U0bzI4dlJvMUgteXZzR0hYOEM2bkdKcmpHNFk5WlVQWG0zQUVEb3k5QU04aUV3?oc=5)
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
 
-Source: [Salud a Diario](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTHZEeV9wd0NzUmJUeS1RWms2R2V1WjdXUzN0cEUtX0pNUGo0aDFBbHBxNVFNeEx1U3I4MGVEbVNOeDVvMzQzek43WEt6ZG9OTkFMWk8tYkMwZmNPRzg4bEJ6dkd1SXBpR2xnTWdNQnFQZE5obXctNmJEN000TGRNNDh1eVVweDBuTVZjOWN0ZTRGOU9lZ2RZZEJ1cTJOVEhYTFVucTJ5bE93aHFBcHdfX3AwajZBYnE3TjBZM0U0bzI4dlJvMUgteXZzR0hYOEM2bkdKcmpHNFk5WlVQWG0zQUVEb3k5QU04aUV3?oc=5)
-
----
-
-### [NHS plan to roll out fat jabs slowly ‘not good enough’, say MPs - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
-
-2026-10-23 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxOM3RiV25EdG1nSDdMZnZ0UWFfeXdaMHNkMktYQ1dkejFnMG5hbHhZYXlicHRKV2RhWmZiTERhNkJ2cVRSTTcybDlaUTRBS2RLREp4YjQyMGFveXlUM1ZfRGVSOW0xYTFranpNbmtzSWZ2Zm9TUGpxa2pDa0tNQXZ2Z2p5WWRTa3l6MHFnaFI0ZFhKLTZja3FQSHNaS2F5ZDhYb3NZ?oc=5)
-
----
-
-### [Frühe Menopause steigert Diabetesrisiko: Warum Insulinresistenz früh zählt - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWNVTU44anQ0aFpha2pla3N3bFVDSGhXZG9JYkZCaWpfMXB0dV9mQ3JxVmRYZDNtNmpBd2pwQXRMOVotandXcGNzTUxhS2JEUDU2RnF6aWhHandiNnpuWTZfVERWUFBVZHo4Z29qdjZLR2tfTkxuMDBZRGVneURRSE10V1FKYnF5Rm5IZDlYeHM4OG1JSEtOUmNOMmJLdnRfdTZqM0xxMHRoM2R0?oc=5)
-
----
-
-### [Implantat senkt den Blutzucker mit Strom statt mit Insulin - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabetes</span>
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN182QzI3aG45WlpKb1dNa1E3ZWtwV2hDdTJnVUtrWGxkRnR3WmxTeThhLS1FUjEwNzJpcmxrc0JkaTRQZTA4STF4ck5XMkZ3WjhQU0M3dWQtV2pkWlV1QXdTcWptMWxxeWF1U29FX24teS0zWjdVdUl2NWhPM3BBT1J3Sm5PaEp5VnNMbnJGcEIwR2VBTGJqb21ZX2NHci00by1JS2JOUHRHR0MxTVg3RjJ3cmpoQUJkd253OGI5R08zdw?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 
@@ -135,14 +135,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
-
----
-
-### [ADA und EASD verschärfen Diabetes-Leitlinien: Begleiterkrankungen im Fokus - it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1g1dllnYVI2RTVGR2lZY3QxWi1iREo0dUxNZm9HMHRvTU8wV0hpbkxjM3cySGpreU1CeTRucjFzMmtTaXU2RmRIU2FEN0xPWi1meTVxMlFSR0tBSHRlTzBhazRSbzdORm9USm40NHQ3WURYYVR3ZjVfVTVTWGdWN3BLeTZkVW94YTNyYU16MTMyYlVXSW9USmNBOW5xaDNxUjA4YlJvNGFsdw?oc=5)
 
 ---
 

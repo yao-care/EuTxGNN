@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 19 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 16 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>19 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (19)
+## Related News (16)
 
 ### [Schlafen: Diese Dauer des Traumschlafs hält gesund](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFBN1hBY0R6Y3J2U1VnZzFJSi1WNEtoSzk0cng5Q2xuQ2k5ZnZCdVRHVDJxaUk0dldmMHhPMFBRQWMydkpLUVYzd28xb0o0bTJDVHpJWmM4RXpaRTVXME1hSnMzUWdxbVVIaGVHaXZvYUNBblAxcTFhaEZFeUNoMzIwMWo5X0FLd3oweDc3dVAzVWFtZHlBNGNuc0dVNFZ0RE5UMXVsMWI0NkRsODBRMlM0TkE?oc=5)
 
@@ -103,14 +103,6 @@ Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE
 
 ---
 
-### [California startup says it has injected AI-designed virus into humans for first time - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
-
-2026-10-23
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
-
----
-
 ### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
 
 2026-10-23
@@ -124,6 +116,14 @@ Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWl
 2026-10-22
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGNacjhMcWgyeHlBYU1JMU0talhUNnYxdUZfdV9zVXpEYkx4dTgtUm4yZUl1MmY4Rm14bTctU3F3dDVKSGFhajFKTkRXbUUwY1VMOFVSVWViZDVPdFZscktUMTRGS3ZrMkFHZXdBMGVNbWdaMDFtZ2NjQXQ4Z0FIQ0N3WXQ5TlpmOGUxa3RLN3ExMUNFVGpubEtmTzdXaTNyc3IxalRZLUdKQ0xsSnBSUmZ0MTdvZmEyZ2g5UHVzVTRXWF9hREE3TmFoeFNFVG15eEwzZ2RTMVJmMUtXSWlXbjBIdkxrdjAxVkhqWTJGMEN6cE1UMFRlbzNXdjU3RkNJSUHSAYoCQVVfeXFMUHRZSUtlcFVwX3FEMllISWpSXzdUMWFwaURtOExDWHhwSkJLY2FxTnVqd3V5cVE3SEFOb05XT2hOU28tdmk1dmJwa0ZFYUR2bmNVc0luSlF3RE5uWEFfT3hiS2ViNG9FXzM2VWVCVnJmWkYtRjF6ODAyOUlaazJHYm9ORUp5OFlBSzNhUFhSY3lXc0I1eTRpaTgxTHVuTUlDT0xJRzNFSlFuMzUtc3ZuN0t2S1gxa09vQ0VHdDlOSk5zTkFXbi1QUWlidnZKUjI3R2MwMnlXd3FCUjNmUTJ4ODRpOFhFc3hvU2E1djFNMjFQWW83VU0xOXQ2SlpYQU9VcUc3ODVZOWE5ZlE?oc=5)
+
+---
+
+### [Human receives AI-designed virus for the first time - The Register](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdThkMzROQTZkVUpsR2xHUG5zeF9KV2JKV1c2a1VHLXdRVEFpZlo4bUFpdTFISEp0bjZYNnBfV1psdVU4RFR6MzByRUhWeGFnRnpST3ZKOHRUbGQ0UV9pMlpiVWRaRHR0Z21LMEFWSUJMT3RKNmNNNTByU3hqZ29aTGtPRkF2STU2UmdzbjZ4Slo0cEZTTUhuY1AxTm9UcHRTclJhS2xORU1XUQ?oc=5)
+
+2026-10-22
+
+Source: [The Register](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdThkMzROQTZkVUpsR2xHUG5zeF9KV2JKV1c2a1VHLXdRVEFpZlo4bUFpdTFISEp0bjZYNnBfV1psdVU4RFR6MzByRUhWeGFnRnpST3ZKOHRUbGQ0UV9pMlpiVWRaRHR0Z21LMEFWSUJMT3RKNmNNNTByU3hqZ29aTGtPRkF2STU2UmdzbjZ4Slo0cEZTTUhuY1AxTm9UcHRTclJhS2xORU1XUQ?oc=5)
 
 ---
 
@@ -143,14 +143,6 @@ Source: [Daily Express](https://news.google.com/rss/articles/CBMihgFBVV95cUxOekN
 
 ---
 
-### [Un compuesto experimental frena la neuroinflamación y la desmielinización en modelos de esclerosis múltiple - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1NmbFRua0FWSVlxN1FWc01JcWlBT2kwTTI2ZUVvMTVpYkVrUE1nVHJDQ3NzMEdYZ1pvSE5xRzZkV2FtTVJKSEdCVzNfdVJXUkpfQ1JGMHZZX2g3MDNLNFpZNW15Nnd4ZjVfcXNEMTZ3MXVCXzlhUWxtVUI1WC1IcXpwXzRsakczd2hlTE5tWVZkSFpYeEYwVW1WQmJrM3lIVzJVMjdOMEdmRDdJaDViWFpfUmxqTFpmVnQwSzZobnNRZ9IBvAFBVV95cUxPUHF0OTZZdkY4YTFyQUlfaHNqeFJUZlBTZmlWTlAwOGRtZlhrTlV1UlZrMHpXd1V0UlR2OTZWdDU5bzlNbzZpRi1hNUU4dmdCc05mMTBWUXdQYnhNSmN5bVVUYWloYmp4QVRLSTJPUjdwNmxYdWFOSkJMVUhHMklpeXFqQlZTazRUbmFubUtRWEo5U0RDX2dDRjBsVFNyeG1Va0FweHFtaWtVSWVudDBKUWlWYVBwMDRScFhpRw?oc=5)
-
-2026-10-22
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1NmbFRua0FWSVlxN1FWc01JcWlBT2kwTTI2ZUVvMTVpYkVrUE1nVHJDQ3NzMEdYZ1pvSE5xRzZkV2FtTVJKSEdCVzNfdVJXUkpfQ1JGMHZZX2g3MDNLNFpZNW15Nnd4ZjVfcXNEMTZ3MXVCXzlhUWxtVUI1WC1IcXpwXzRsakczd2hlTE5tWVZkSFpYeEYwVW1WQmJrM3lIVzJVMjdOMEdmRDdJaDViWFpfUmxqTFpmVnQwSzZobnNRZ9IBvAFBVV95cUxPUHF0OTZZdkY4YTFyQUlfaHNqeFJUZlBTZmlWTlAwOGRtZlhrTlV1UlZrMHpXd1V0UlR2OTZWdDU5bzlNbzZpRi1hNUU4dmdCc05mMTBWUXdQYnhNSmN5bVVUYWloYmp4QVRLSTJPUjdwNmxYdWFOSkJMVUhHMklpeXFqQlZTazRUbmFubUtRWEo5U0RDX2dDRjBsVFNyeG1Va0FweHFtaWtVSWVudDBKUWlWYVBwMDRScFhpRw?oc=5)
-
----
-
 ### [Women take to social media to break the taboo of UTIs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMlQzSGUzLUNIUlhBTGYtQmp2dmU2c00tamNEejhfYUlHRllXRG5saEl4RWE2a3VER1J0Y1JydDEtbVJZMUdNZU5Fb25WQXRpT1lZZHlZNE9MSmpqc1E?oc=5)
 
 2026-10-21
@@ -164,22 +156,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMlQzSGUzLUNIU
 2026-10-21
 
 Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTBCT2YxaDdsUEt1ZktMOUpneWJXdDZneWF5aUdZam5lZzdhckF1S0dwRTNGS2lUUl9xVFpNVjVSR3JjamwzT2g0N1REcS1BSkNzN0pHNVVBT1hOb2xDWHltZUJQcGlURXduWVVsTUJlRE1Hd0h4OC1FYjVadzMzN2tfZ0pOLVY3eEZ3TkdTdGdYVEpzN1gtSDVJc3BwdEdOb3ZLM18zOExHOG9odHpkNjZGX2FzNzNWdk9v?oc=5)
-
----
-
-### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
-2026-10-21
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bDcyR2ItTzlTWTBDdUpXVlBkNG9tMUFVbEVqYlp2dE5mNDVmTnZEc1ZNbnJlMHE4eFQ1ekVJVzNNVTgzN0szaGQ3bFpCYURESWd2TnZlUnIwc2pwdnc?oc=5)
-
----
-
-### [Vitamin D, curcumin combination may help regulate immune cells in MS - Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
-
-2026-10-20
-
-Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0tXdFlVb2ZyQzNzclc1cjBkMWxlWGhJWEFqLUlhSkt0d2tuazFuUU5DcG1FOHBCQ3ZvTDN2XzJRVlAzbW03bnhrOTRJVEtTdG1fSWdiemxJTEdlM3k4cFpyZlB6NS1qTThxeXFWWVFic09JcGR3SjN2eGxRN2RfMlZNSDU4dXFwRUh3b1BhRXBxWlUwSzJwV0JJN0F0MTkwT19YenFWNEZXbWkzR1RQS3hnNUxoZEZF?oc=5)
 
 ---
 

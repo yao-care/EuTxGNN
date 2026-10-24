@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 3 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 4 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>3 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>4 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -42,7 +42,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Researchers Developed a Molecule to Fight Alzheimer's – Then Found It's Already in Our Blood](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1AxZHY1NzhZM3ZiNDNhd1RYYVgtSy1pYzJVUWprWXN0cVZYaXZtZDBkd0hDZUpma2ItRFY4RGdQRFlubXFZc0k3TGxQRHJuRVRQWDNCd3pCZmdPR0VwTkI5WmNsWFk5UjN0eVRZOXBsTXppYTlOeTk5aGl0Nkd3bnZQbVhiODJGR3U5di14dHZnNnNVc1p5VEUzNlc0YU9TRkUxLV9jRWEyX1V3cHdwbTkyU18yRUZm?oc=5)
+
+2026-10-23
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1AxZHY1NzhZM3ZiNDNhd1RYYVgtSy1pYzJVUWprWXN0cVZYaXZtZDBkd0hDZUpma2ItRFY4RGdQRFlubXFZc0k3TGxQRHJuRVRQWDNCd3pCZmdPR0VwTkI5WmNsWFk5UjN0eVRZOXBsTXppYTlOeTk5aGl0Nkd3bnZQbVhiODJGR3U5di14dHZnNnNVc1p5VEUzNlc0YU9TRkUxLV9jRWEyX1V3cHdwbTkyU18yRUZm?oc=5)
+
+---
 
 ### [Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
 

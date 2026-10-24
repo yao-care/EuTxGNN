@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
 
@@ -47,6 +47,14 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV9
 2026-10-22 <span class="news-indication-tag">depresión</span>
 
 Source: [Prensa Latina](https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQ2UDY2clRBMVFyczloaVRFcWNYTFREaGc3eHRIOXJLSFhOSUt0MVl2RjNWNmFyeU9GR2lVRi1QMFNpeU5KOXRsRGZUcHo4eEF4Und5aHI2TlJvekJfSk1HbEVrMkZqWF82dkl1ZWRPLS1faW45NDlYQURtbGJQeUhkbXdMSkRneU03SE5sX2kyMm42eUpFSnoxYldkLVlFSVFYUkZmdw?oc=5)
+
+---
+
+### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">depression</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
 
 ---
 

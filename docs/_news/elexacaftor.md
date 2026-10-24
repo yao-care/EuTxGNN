@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Elexacaftor with the latest 
 
 ## Related News (7)
 
+### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">arthritis</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+
+---
+
 ### [Pflanzensterole: 2 Gramm täglich können LDL-Cholesterin um bis zu 15 Prozent senken](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
 
 2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
@@ -63,14 +71,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM
 2026-10-22 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
-
----
-
-### [Robot Arthur in UK-first for hand arthritis scans](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
-
-2026-10-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
 
 ---
 

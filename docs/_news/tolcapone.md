@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Researchers Developed a Molecule to Fight Alzheimer's – Then Found It's Already in Our Blood](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1AxZHY1NzhZM3ZiNDNhd1RYYVgtSy1pYzJVUWprWXN0cVZYaXZtZDBkd0hDZUpma2ItRFY4RGdQRFlubXFZc0k3TGxQRHJuRVRQWDNCd3pCZmdPR0VwTkI5WmNsWFk5UjN0eVRZOXBsTXppYTlOeTk5aGl0Nkd3bnZQbVhiODJGR3U5di14dHZnNnNVc1p5VEUzNlc0YU9TRkUxLV9jRWEyX1V3cHdwbTkyU18yRUZm?oc=5)
+
+2026-10-23 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1AxZHY1NzhZM3ZiNDNhd1RYYVgtSy1pYzJVUWprWXN0cVZYaXZtZDBkd0hDZUpma2ItRFY4RGdQRFlubXFZc0k3TGxQRHJuRVRQWDNCd3pCZmdPR0VwTkI5WmNsWFk5UjN0eVRZOXBsTXppYTlOeTk5aGl0Nkd3bnZQbVhiODJGR3U5di14dHZnNnNVc1p5VEUzNlc0YU9TRkUxLV9jRWEyX1V3cHdwbTkyU18yRUZm?oc=5)
+
+---
 
 ### [Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
 
@@ -52,7 +60,7 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DN
 
 ### [More daily steps over a long period linked to better attention and decision-making - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
 
-2026-10-21 <span class="news-indication-tag">Alzheimer's</span>
+2026-10-21 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
 

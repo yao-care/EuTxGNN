@@ -47,11 +47,11 @@ Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMitwJBVV95cUxNSEpnV
 
 ---
 
-### [RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau - The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
+### [Controversial US-backed vaccine trial in African newborns halted - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
-2026-10-20 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-21 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFhEU3praDZvUENMbkZ3bzQ1aEN6QlRkZ0JSakNGZ0hjZHRsYVZ5ekp0aWdZaGdTbjA3MnliV2lCQWxndmYxbFQxZWFTUkZCdkxiNnN4Y21pOGJUV3FCcllDYjNjZDRkYm1JWFlsWWVIOWNtdEh2dDE5cUpNUTBwc18xZ2tVRXpLalNkZnNuTWVjdDNoZkZzYXFYVU9CSU5FMzU4?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
 ---
 

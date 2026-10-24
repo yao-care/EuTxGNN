@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 9 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 12 articles, 11 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>12 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,29 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (9)
+## Related News (12)
+
+### [Ictus, l’ambulanza che può salvare il cervello: la cura comincia prima dell’ospedale](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpLazBlTXF1RGpsWm5kZXQ3RXVKSi1PMHFieWtyb0x5Q3d1MS1WSzZLdGp1dU5wemIxemlydzNYbUkxV2xvTklNdVRBV3FuSklBcUh1VWtab01NZDJfTkdBcmRzd2VnUEl3X042TnlYVnlqRU9sSXJMdngyN2VrOWNpaF84MWo4STRxSjUwWEpMOGNrRHNSTGQ2cGttZXUwX3BGdXljUlJsQ3FDcFlOQmZHVFlKWk80MjJDODBDa3l4R1pwcHZ3UG9nQQ?oc=5)
+
+2026-10-24
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpLazBlTXF1RGpsWm5kZXQ3RXVKSi1PMHFieWtyb0x5Q3d1MS1WSzZLdGp1dU5wemIxemlydzNYbUkxV2xvTklNdVRBV3FuSklBcUh1VWtab01NZDJfTkdBcmRzd2VnUEl3X042TnlYVnlqRU9sSXJMdngyN2VrOWNpaF84MWo4STRxSjUwWEpMOGNrRHNSTGQ2cGttZXUwX3BGdXljUlJsQ3FDcFlOQmZHVFlKWk80MjJDODBDa3l4R1pwcHZ3UG9nQQ?oc=5)
+
+---
 
 ### [La vacuna de la gripe, aliada frente al infarto y el ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
 
 2026-10-24
 
 Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+
+---
+
+### [Grippe et AVC : le vaccin comme bouclier cardiovasculaire chez les seniors - Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2WW1xaGxzQi1scEVfbHBBTXlHTHFNbU9DMnoyeXlBdUhDeVRKZHRFV2NEQzZZakdWMHJMMFBRZGd5SFBLWkdTaEV3NDFjNkxCYWlBRGVlZDV2QlhRREdzdGo4NUxaLTdrTDB3SkZfcDlMbTE3cVQ3ejZuLUppMm52T25ETjByWkt1Zktuc1VWRzViR2RETFVOei02NFQySlF2T3dYY215N0ducFlxZnRZZE5NOElXTVR1Yg?oc=5)
+
+2026-10-24
+
+Source: [Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2WW1xaGxzQi1scEVfbHBBTXlHTHFNbU9DMnoyeXlBdUhDeVRKZHRFV2NEQzZZakdWMHJMMFBRZGd5SFBLWkdTaEV3NDFjNkxCYWlBRGVlZDV2QlhRREdzdGo4NUxaLTdrTDB3SkZfcDlMbTE3cVQ3ejZuLUppMm52T25ETjByWkt1Zktuc1VWRzViR2RETFVOei02NFQySlF2T3dYY215N0ducFlxZnRZZE5NOElXTVR1Yg?oc=5)
 
 ---
 
@@ -99,6 +115,14 @@ Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb
 2026-10-21
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlF6UWgtWEFxZ0hUQi1zQUZTeHExRXZKTUZUTGszR2c0QlQ2dmRITElPdWVCOC1MLVdYZE11M0lBMkR2S19jSXIzZmtXNkY2MjdZbnlGYm81Z053TkpfTlljNWFENzJzaTFBcXBqUF8zdjJVc2RUOTNnNEFDZ3ZCYU1BRXMyMkVuRGJpb2x4STBXTTlJMzlOZEh6YXZ6azM5ZFZhYQ?oc=5)
+
+---
+
+### [More daily steps over a long period linked to better attention and decision-making - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
+
+2026-10-21
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5)
 
 ---
 

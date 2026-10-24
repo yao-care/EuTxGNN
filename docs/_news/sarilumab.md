@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,29 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">arthritis</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+
+---
+
+### [Malattia di Crohn, un aiuto per avvicinarsi alla ricerca: il ruolo della farmacia Battistella](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSUFFVjNEOGQ4Tm5NcXRYRDZOYXR5LUtaY0xBV3VtVnlpUWZyYzMwem1XM2c0dkRHNlMxY01kb0Y4UGZ6cVI4Z2k3d0Fjakp0M1kyS1NfcVp3N000TlQwVGJ6QUZEbnVfdnVMY1hnVEFaenk1NlBCS05OaS1mRlVWSWdYazdiN1A2dkRRVU1JRmdZNWZiVEt5S0xPbWVQT3R2T21zZGtFc09tcldja0VuLXpBMjhBcldUM2FpU3JMbGlfNWF2ek1tdlRmOG5vOWRtUlJiZkw5Q0tLU1pBVUhFS1dSUnZBMjBjTXNyVnVKMWxJTE9iOExKUw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">malattia di Crohn</span>
+
+Source: [Qdpnews](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSUFFVjNEOGQ4Tm5NcXRYRDZOYXR5LUtaY0xBV3VtVnlpUWZyYzMwem1XM2c0dkRHNlMxY01kb0Y4UGZ6cVI4Z2k3d0Fjakp0M1kyS1NfcVp3N000TlQwVGJ6QUZEbnVfdnVMY1hnVEFaenk1NlBCS05OaS1mRlVWSWdYazdiN1A2dkRRVU1JRmdZNWZiVEt5S0xPbWVQT3R2T21zZGtFc09tcldja0VuLXpBMjhBcldUM2FpU3JMbGlfNWF2ek1tdlRmOG5vOWRtUlJiZkw5Q0tLU1pBVUhFS1dSUnZBMjBjTXNyVnVKMWxJTE9iOExKUw?oc=5)
+
+---
 
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">arthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
-
----
-
-### [Robot Arthur in UK-first for hand arthritis scans](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
-
-2026-10-21 <span class="news-indication-tag">arthritis</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0OGp3TGVZSWhlTEZlUmhZeXdrMmhzQkxUdlN3VkI5Q19OVjZxSmJER1pOOGZZVl9PWnpwWXgzamZteDFfVVFWcFdxN2pKUjVaQndiNWJHMEtwOFI5bFE?oc=5)
 
 ---
 
