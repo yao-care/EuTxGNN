@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dépression (depression) News"
+title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dépression (depression). 4 articles, 7 related drugs."
+description: "Health news about depresión (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 ---
 
-# dépression (depression) News
+# depresión (depression) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dépression (depression)?">
-<strong>dépression (depression)</strong> currently has <strong>4 news articles</strong> and 7 related drugs.
+<p class="key-answer" data-question="What news is there about depresión (depression)?">
+<strong>depresión (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dépression” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “depresión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -33,7 +33,23 @@ This page brings together the latest health news about “dépression” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Tus hábitos de sueño podrían indicar un tipo específico de depresión - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
+
+2026-10-25
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
+
+---
+
+### [Los psicólogos coinciden: la soledad también se asocia con más ansiedad y depresión](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
+
+2026-10-25
+
+Source: [Vanitatis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
+
+---
 
 ### [Près d'un quart des dépressions seraient liées à un dérèglement de l'horloge biologique](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3Nzd2xHN3dnSV9zc3pBeDQxbWoxeUV5V05ISklTNmx0R3NzUkdTMkdXdWs1LW9ydklDMURjRGQ1VFM3OHRXYktRX3hfRmZIcGtmaXZBQmdjUl9tWnZ1aFc3T3BHalFVZDhGUEg3RUlQN1lwQjJIQXpHU0Z6V1JxcWJhS1RMdHZjVjBrdjBlQXBnc2F3dUhsSEh4T2pTRWFuNHFMSC1rcXZSdw?oc=5)
 
@@ -56,14 +72,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV9
 2026-10-20
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWRFdidHdSeWFKdmxQaGFDVkJueUt5NUlBQl9aU29uekI5SE9SYkJZOTExTFU4NlBWQURQVms2MUxWRXl4dU5sZm9BeXRFY2pBQXdrclV1eXR5SFg0cnI0c2tmYjJObEhzMkRaeGcwVGtwcVlVV295Nk9LZWQyUmFIUmdMRlVtTmZBNlBtY3lMdDA2QmJOVUw2OFBVSEpkRm5MYmsyZkJhWHVZRFh5Tnd1SFkwYXJJZ21hUkNzVEY2SVh1QmZrQU1ZbWdJQUFVUmxOaA?oc=5)
-
----
-
-### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
-2026-10-19
-
-Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
 
 ---
 

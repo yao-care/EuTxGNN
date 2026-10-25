@@ -14,7 +14,7 @@ permalink: /news/belimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Belimumab?">
-<strong>Belimumab</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
+<strong>Belimumab</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Belimumab with the latest he
 <p><a href="{{ '/drugs/belimumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
+
+### [Studie zeigt: Menschen mit dieser Blutgruppe sind öfter von Diabetes betroffen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3Q1TG44ejRkZkItZi1BX3lDQkxBUVBZeHJXbXNrbTZRem5jM2VGM1k2U1haaWpsTEM4VGJEUWgtZm5BcWJxWDgtVXZOaVVyR3NMYWE0eXlRY01FZXZiN2RpVlRKRmN1amtES0tVSGluSURkaTlBaEcweWVmSXJ3cHp2VmhUNHROZjEzVnZhcEd2S3R2aEJBOUV0MGZRczd4R3Y5SzU2S2U0Tjl3X252Y1RnOTg5MVcydVdwclZaUk1nQVp5RHhtUjYwNDMwN2Q5QnNyNVZ0X0hQZw?oc=5)
+
+2026-10-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3Q1TG44ejRkZkItZi1BX3lDQkxBUVBZeHJXbXNrbTZRem5jM2VGM1k2U1haaWpsTEM4VGJEUWgtZm5BcWJxWDgtVXZOaVVyR3NMYWE0eXlRY01FZXZiN2RpVlRKRmN1amtES0tVSGluSURkaTlBaEcweWVmSXJ3cHp2VmhUNHROZjEzVnZhcEd2S3R2aEJBOUV0MGZRczd4R3Y5SzU2S2U0Tjl3X252Y1RnOTg5MVcydVdwclZaUk1nQVp5RHhtUjYwNDMwN2Q5QnNyNVZ0X0hQZw?oc=5)
+
+---
 
 ### [Stevia & D-Tagatose im Diabetes-Management: Meta-Analyse liefert Hinweise - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VLcUFYdFZpdzNSZXFlWmVSRG9ZcjZ5SERoT0NwTGlnVU5oSXhXRjhGaC1yOTBmaFpTRjRJcklSTkYtZ1M3a1V6cHQyNmtSUTAteWJ4NzNWZHdfU3VYM25LUjhCQ1VQTHBkay1aZlE0Z1JKNmt4eDlWSzdDbjB1ZmR4SXdvN1E1ZzNlbmhkOXY3V04xd0pfYlgwLUxOckZLMzlKbA?oc=5)
 
@@ -58,19 +66,19 @@ Source: [UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYX
 
 ---
 
+### [Darmflora und Diabetes: Neun Bakterienarten könnten früh vor Typ 2 warnen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+---
+
 ### [Neues Diabetes-Implantat baut Zucker im Blut ab – Mäuse nehmen dabei sogar ab - smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
 
 2026-10-24 <span class="news-indication-tag">diabetes</span>
 
 Source: [smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
-
----
-
-### [Miro1 als Ziel: 12 Wochen Training senken Insulinresistenz bei Typ-2-Diabetes - it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJLc2VXMFl5ZEpXN0ljc2NVTnp0YUdGc1UxSE9QSjNuOUI3TllQTmM0eWxFRWtPZmlLbHJYLS1nZ3BCNGRQLUhMcnJUWUU0NTRLQ01Sc2Zsbld6NV9HcDFQakJKZjAyQVBrVkl2NldmbVd2QkFWTkRtMmw5bHp1WmhZZG94bGVkNmdkNzdpSkxzRHpyaXYxMXZsLUo3blItRzBiY2VxMjdvczBm?oc=5)
-
-2026-10-24 <span class="news-indication-tag">diabetes</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMirAFBVV95cUxNRkJLc2VXMFl5ZEpXN0ljc2NVTnp0YUdGc1UxSE9QSjNuOUI3TllQTmM0eWxFRWtPZmlLbHJYLS1nZ3BCNGRQLUhMcnJUWUU0NTRLQ01Sc2Zsbld6NV9HcDFQakJKZjAyQVBrVkl2NldmbVd2QkFWTkRtMmw5bHp1WmhZZG94bGVkNmdkNzdpSkxzRHpyaXYxMXZsLUo3blItRzBiY2VxMjdvczBm?oc=5)
 
 ---
 
@@ -98,14 +106,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYl
 
 ---
 
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
----
-
 ### [Congreso SEEN: La sarcopenia es un factor de riesgo para desarrollar diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
@@ -114,19 +114,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZX
 
 ---
 
-### [CamAPS Liberty permite automatizar la insulina sin contar hidratos - Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
+### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
 
-Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
-
----
-
-### [Da antidiabetico a elisir di eterna giovinezza. La febbre Ozempic a Roma, tra medici "assediati" e mercato nero](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Semaglutide</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
-
-Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUlIVWQ1aDdqVjg4Qjc4Tjk0NUh5cWxnWGQ4aUxnVTVROGZDTVNTUTZRRk53dDRFWG1Ba1lsWEhMUlRRZFpTOHA4VF9IUTl6VDBTSXE3ekF4NnpxZ2hqSlpUQUNXaHVrYjVyc2pPZGx4ZTRUTTlNQ1VpWTlmajVKeGRaMnF2Q3FLUWtKakpYV1E?oc=5)
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
 
 ---
 
@@ -135,14 +127,6 @@ Source: [RomaToday](https://news.google.com/rss/articles/CBMikwFBVV95cUxQX3MxRUl
 2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
-
----
-
-### [Beeinflusst Reihenfolge beim Verzehr von Lebensmitteln den Blutzucker? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span>
-
-Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
 
 ---
 

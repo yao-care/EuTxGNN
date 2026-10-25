@@ -3,7 +3,7 @@ layout: default
 title: "AF (atrial fibrillation) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about AF (atrial fibrillation). 29 articles, 39 related drugs."
+description: "Health news about AF (atrial fibrillation). 30 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atrial-fibrillation/
 ---
 
 <p class="key-answer" data-question="What news is there about AF (atrial fibrillation)?">
-<strong>AF (atrial fibrillation)</strong> currently has <strong>29 news articles</strong> and 39 related drugs.
+<strong>AF (atrial fibrillation)</strong> currently has <strong>30 news articles</strong> and 39 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -55,7 +55,15 @@ This page brings together the latest health news about “AF” and lists the dr
 </ul>
 </div>
 
-## Related News (29)
+## Related News (30)
+
+### [Día Mundial de la Menopausia: síntomas, cuidados y cuándo consultar - Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
+
+2026-10-24
+
+Source: [Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
+
+---
 
 ### [Comienza un ensayo de la vacuna contra el brote de ébola que azota RD Congo - France 24](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWxxSTNKZmstZnJLX0x2clV4SWpaRW9aZExmSTRzS3lheTd1VElsR3VreUR6QkNjOUFrRGhETnJKdzhvX3VQZHZnekR3aC1NWWxGOUp4TmxGRXJXai1VRHlUZ2tTNTZVM1REazFVSHdCc0RHdGFKaXE0elV0Z3loaTNlMFBnMl9pZUhKS29UcWJCSzJJWXdGalBieUV1TUNCc3BXUDdPQ2NfS1BOdC11LTlMZkhYVzZ1bmFTUDJnRHhzeGRhTHVTM3BMRlhodw?oc=5)
 
@@ -110,6 +118,14 @@ Source: [Su Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2NpU1
 2026-10-24
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5)
+
+---
+
+### [Nutricionista, sobre comer lo mismo y engordar en la menopausia: "Hay que ver por qué"](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQejhLQjhRNHAwT1FxaDhzMXhxYTRMZ2RadHM1N3Z1Ni1MRmlCVG9CeUp1eE9HTjZFVlNEcy1tWXRSUExxUW81OWVZU3dLVXlIZ3ZKS1hVd2c3NXJVNG9zMHVpV0Z3SUtQMFFDWHBpQmtKUkVuN1lfd05CUkpmWGJBXzJMeTU5SFpfVEExMnR5a01JNDg2Y3gwME50bFBUZThJbVJkY2VqWHVBME54NXpOemdhNmpHT3VVU2huVXVIODF0N2llTUVQZTdvS2Q3ck04V3hnMXpoZFlRWVUwelA2bGZKalV6dkQ2em85ZGI3OA?oc=5)
+
+2026-10-24
+
+Source: [Telecinco](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQejhLQjhRNHAwT1FxaDhzMXhxYTRMZ2RadHM1N3Z1Ni1MRmlCVG9CeUp1eE9HTjZFVlNEcy1tWXRSUExxUW81OWVZU3dLVXlIZ3ZKS1hVd2c3NXJVNG9zMHVpV0Z3SUtQMFFDWHBpQmtKUkVuN1lfd05CUkpmWGJBXzJMeTU5SFpfVEExMnR5a01JNDg2Y3gwME50bFBUZThJbVJkY2VqWHVBME54NXpOemdhNmpHT3VVU2huVXVIODF0N2llTUVQZTdvS2Q3ck04V3hnMXpoZFlRWVUwelA2bGZKalV6dkQ2em85ZGI3OA?oc=5)
 
 ---
 
@@ -185,35 +201,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV9
 
 ---
 
-### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
-2026-10-23
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
----
-
 ### [10 Jahre nach Ebola in Westafrika: Laborpartnerschaft verbessert Diagnostik viraler hämorrhagischer Fieber in Guinea - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RemFMdWdFclNYa1N2WHZmZGpsOTl5U09oNmtPRWZ2LU91NTg4eEtBQUVfRG1mYnVzZUNaSWo0NWtDYW96RXhIWGdaTQ?oc=5)
 
 2026-10-23
 
 Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RemFMdWdFclNYa1N2WHZmZGpsOTl5U09oNmtPRWZ2LU91NTg4eEtBQUVfRG1mYnVzZUNaSWo0NWtDYW96RXhIWGdaTQ?oc=5)
-
----
-
-### [¿Por qué las enfermedades autoinmunes afectan más a las mujeres que a los hombres?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlFET0ZYak1TOFIyT25Wb2RFV09zZWpKQ0FvNEp6ekYyeW94d21TQnNhVnZwUUpKbE1sNGw5akFMRXNZb0p2c0N0LVdQNEV5WUtvMmtaTnRzZjBNa0xiYV9RcWVWVDZ4S05TNVMyV09UVEV5dlhmdXJadGxBVF83M3VBeWtDS0kxZ0w4WUN3Rk5ZNWVET2ZocDN3MTQ4cWpxUDJBX2ZZc21saG9nR1BfRFBnV3k5amJzcEFmRjdCUGZZbGdG?oc=5)
-
-2026-10-23
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlFET0ZYak1TOFIyT25Wb2RFV09zZWpKQ0FvNEp6ekYyeW94d21TQnNhVnZwUUpKbE1sNGw5akFMRXNZb0p2c0N0LVdQNEV5WUtvMmtaTnRzZjBNa0xiYV9RcWVWVDZ4S05TNVMyV09UVEV5dlhmdXJadGxBVF83M3VBeWtDS0kxZ0w4WUN3Rk5ZNWVET2ZocDN3MTQ4cWpxUDJBX2ZZc21saG9nR1BfRFBnV3k5amJzcEFmRjdCUGZZbGdG?oc=5)
-
----
-
-### [Edward Giovannucci, profesor de Harvard: "Muchas de las propiedades protectoras que observamos en el café con cafeína también se observan con el descafeinado" - National Geographic España](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMUh2N2k1YkpxZzBFaVRMclFOVTFpc2pZWTY2cG9RODdFZ0tlZ2h4eWlqalZNRTlKUHo4ZFN4UWMtaXpkQkxxZWJuTC12eG85WEpNRlJobTNiMWVRX1U2RWd0MWJ1RllTLXFSY0RCeVhxUGZTMmFscHljbzZrd2xuYlJVeFliX3IxQVN3YV92R2NpZDZwVExoWTdRTHVjaVBCcUdqU2stY2FCcnRmbHpsUmtrWG5rdTY2WEFrdTNaYWl2ZG5PdGp0UHNiclJCZk5NeXpDdzhSTTBOSU50V3VwU1ItOExGTlBaZy02bkVsVW5jb1A2Z3Z4dS04T29DZjNXeXU1Z1g5el8xc2M?oc=5)
-
-2026-10-23
-
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMUh2N2k1YkpxZzBFaVRMclFOVTFpc2pZWTY2cG9RODdFZ0tlZ2h4eWlqalZNRTlKUHo4ZFN4UWMtaXpkQkxxZWJuTC12eG85WEpNRlJobTNiMWVRX1U2RWd0MWJ1RllTLXFSY0RCeVhxUGZTMmFscHljbzZrd2xuYlJVeFliX3IxQVN3YV92R2NpZDZwVExoWTdRTHVjaVBCcUdqU2stY2FCcnRmbHpsUmtrWG5rdTY2WEFrdTNaYWl2ZG5PdGp0UHNiclJCZk5NeXpDdzhSTTBOSU50V3VwU1ItOExGTlBaZy02bkVsVW5jb1A2Z3Z4dS04T29DZjNXeXU1Z1g5el8xc2M?oc=5)
 
 ---
 
@@ -225,11 +217,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EYmUtalUwVWktT
 
 ---
 
-### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+### [Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
-2026-10-23
+2026-10-22
 
-Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
 ---
 
@@ -257,6 +249,30 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0wFBVV95
 
 ---
 
+### [El Modelo Afectivo-Efectivo evoluciona para responder a los nuevos retos sanitarios](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzhONUxJZk5tRlJOVkdFc3ZNUHp4V1VzRW5iZkNTVVRfSkNYZVJEMGl0LWZpZlk3a2xSekRPNVFIV002LTJPaW9kOGJWb2RnaExaNURrRkMwamNFQ2NZZUhMTTEtVXd6cHdIMk1ReldtYkxsQklfSmVIMGhVR01RYm1WR2F4azI0R2c5dGVVcUVnOWFtTkI2TlQtVXc2YlJaYzMycFExbl80dVdWN0cwTl9mV09mZjU0akpDa1g3a2hSc0YxelB2V2t3?oc=5)
+
+2026-10-21
+
+Source: [BURGOSconecta](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzhONUxJZk5tRlJOVkdFc3ZNUHp4V1VzRW5iZkNTVVRfSkNYZVJEMGl0LWZpZlk3a2xSekRPNVFIV002LTJPaW9kOGJWb2RnaExaNURrRkMwamNFQ2NZZUhMTTEtVXd6cHdIMk1ReldtYkxsQklfSmVIMGhVR01RYm1WR2F4azI0R2c5dGVVcUVnOWFtTkI2TlQtVXc2YlJaYzMycFExbl80dVdWN0cwTl9mV09mZjU0akpDa1g3a2hSc0YxelB2V2t3?oc=5)
+
+---
+
+### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+2026-10-21
+
+Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+---
+
+### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+2026-10-20
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+---
+
 ### [Multiple Sklerose bei Kindern und Jugendlichen: Europäische Zulassungsempfehlung für Ocrelizumab - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
 
 2026-10-19
@@ -278,14 +294,6 @@ Source: [familie.de](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQ05rSz
 2026-10-19
 
 Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSS14Q3BaV25DcUtUTTI2ZGthVm5oVDRIZW9lcElwbVZkV1dJcWh6M3lEWUpPNzd0UU9PVVNGdUFReUtoVlpDMlMtV29KdFFBbXV2WV9BUDlDdm5PVWQ1WmlBQ3ZjbHdUV2luYnNyMTJHVFVuVFpubXNRdE5XanFSelAxUXR2RHpyRUpyZEhLU2UzMlc3ZWRQdjAwdmNUNnh6aEQ5cTRRSlF0MHBQbVFjTEdna3NjYVR2YzRicWtaZndmZw?oc=5)
-
----
-
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
-2026-10-18
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 

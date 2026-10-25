@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Prasugrel?">
-<strong>Prasugrel</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Prasugrel</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Prasugrel with the latest he
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (4)
 
 ### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
 
-2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-24 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
 
@@ -50,22 +50,6 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hk
 
 ---
 
-### [Pflanzensterole: 2 Gramm täglich können LDL-Cholesterin um bis zu 15 Prozent senken](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
-
----
-
-### [Bluthochdruck und Nieren: NKF empfiehlt Urintest für alle Betroffenen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
-
-2026-10-23 <span class="news-drug-tag">Empagliflozin</span> <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
-
----
-
 ### [Natural compound could fight rheumatoid arthritis at its source - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt6WmJwWi1NNkZFeldJUGpMSVg2Z00zU0FUaGVxWWNFejJpX09qUm5CY1pteHIybU1OQUJrX0l2c1JBVFRyOENVaUpqWkp6OVJDOTc2VGExMXRBQTE4ZktNOE5RUnhWQUR1TndDTQ?oc=5)
 
 2026-10-22 <span class="news-indication-tag">arthritis</span>
@@ -76,17 +60,9 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVEt
 
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
-
-### [Bone-on-bone knee arthritis: Why surgery is not always necessary and why consulting an orthopaedic specia - The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
-
-2026-10-20 <span class="news-indication-tag">arthritis</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
 
 ---
 

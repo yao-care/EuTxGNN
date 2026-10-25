@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>17 news articles</strong>, with 1 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,21 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
-
-### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
-
----
+## Related News (14)
 
 ### [Perimenopause: Can Regular Exercise Improve Your Symptoms?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
 
 2026-10-24 <span class="news-indication-tag">MS</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
+
+---
+
+### [Zellulärer Schutz: Wie Kälte über die Muskulatur den Alterungsprozess beeinflusst](https://news.google.com/rss/articles/CBMimgFBVV95cUxORGhEYXVtblJSTS1ZTDNNUGQ1Z3poRVNMbUJXT2lleTVZR2llcVYxV0NJeWxDSVJlN2lwcnNxV3lrOGpPT0RJT25oSTZVT09tR2hpRldMdHFUMlk5VGVXNUlrd1BudkREcGZ4b2VJcHFCSGJ0M2tONnJHcHVIMks2aFlFanR2MkFISUpDcmItcFNVWDBlcUhseDJB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">MS</span>
+
+Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMimgFBVV95cUxORGhEYXVtblJSTS1ZTDNNUGQ1Z3poRVNMbUJXT2lleTVZR2llcVYxV0NJeWxDSVJlN2lwcnNxV3lrOGpPT0RJT25oSTZVT09tR2hpRldMdHFUMlk5VGVXNUlrd1BudkREcGZ4b2VJcHFCSGJ0M2tONnJHcHVIMks2aFlFanR2MkFISUpDcmItcFNVWDBlcUhseDJB?oc=5)
 
 ---
 
@@ -58,27 +58,11 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFB
 
 ---
 
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
----
-
-### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
----
-
-### [Primo contagio umano di virus Shamonda in Europa: la probabile puntura d'insetto e le parole di Matteo Bassetti - Il Mattino](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzgxMjZnNm1pRHNvRWxReVZMMXJLcFJQdUg0Q3EyUmItN0REaFc5dmRsbjVuYV9IZnJrSk9PcTYtVVBmb3ZmMU1QZEk4MWhpV1BQUTFDTGtwdHNJdURNMXZ0UkwwZkJIODNfR29HWVA3LVQ1dzhPM1h0Q1NYQnBaenVLa3Z6RklCV3pRZl9mU1hHalJRa3o4cXM3NNIBlwFBVV95cUxQd1hFZ0tGZllkd2l5Q1ladFN0VmZFdTVwTF9QSkNsQkczNGRuUkhxX3BRc1c5d0E0YW9qSF9IVW9mM3cyR2g5S00zekVjek45ZmNiRWVHdzB5RW84Y2I5OV9GUEhfMDZzcWU1UjZfLWVXaUtGRUZQV1AxMjZyZ2ZsVTNLLVFDVWpZcXhBN1g3Q2FPR2luZDhn?oc=5)
+### [Virus Shamonda, primo caso umano in Francia. Come si trasmette e cosa sappiamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
 
 2026-10-23 <span class="news-indication-tag">MS</span>
 
-Source: [Il Mattino](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzgxMjZnNm1pRHNvRWxReVZMMXJLcFJQdUg0Q3EyUmItN0REaFc5dmRsbjVuYV9IZnJrSk9PcTYtVVBmb3ZmMU1QZEk4MWhpV1BQUTFDTGtwdHNJdURNMXZ0UkwwZkJIODNfR29HWVA3LVQ1dzhPM1h0Q1NYQnBaenVLa3Z6RklCV3pRZl9mU1hHalJRa3o4cXM3NNIBlwFBVV95cUxQd1hFZ0tGZllkd2l5Q1ladFN0VmZFdTVwTF9QSkNsQkczNGRuUkhxX3BRc1c5d0E0YW9qSF9IVW9mM3cyR2g5S00zekVjek45ZmNiRWVHdzB5RW84Y2I5OV9GUEhfMDZzcWU1UjZfLWVXaUtGRUZQV1AxMjZyZ2ZsVTNLLVFDVWpZcXhBN1g3Q2FPR2luZDhn?oc=5)
+Source: [Doctor33](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
 
 ---
 
@@ -103,14 +87,6 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXl
 2026-10-23 <span class="news-indication-tag">MS</span>
 
 Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
-
----
-
-### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
 
 ---
 
@@ -154,19 +130,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 
 ---
 
+### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+---
+
 ### [Multiple Sklerose bei Kindern und Jugendlichen: Europäische Zulassungsempfehlung für Ocrelizumab - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
 
 2026-10-19 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
-
----
-
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 

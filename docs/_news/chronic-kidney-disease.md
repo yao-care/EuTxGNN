@@ -31,11 +31,11 @@ This page brings together the latest health news about “chronische Nierenerkra
 
 ## Related News (1)
 
-### [Bluthochdruck und Nieren: NKF empfiehlt Urintest für alle Betroffenen - AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
+### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
-2026-10-23
+2026-10-21
 
-Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM25YU1BNRW85M2FEbjNLNHlMNFVSeVlGUDVnODNZTWxOMkFqRDhhenlKMXQ5Z0d1RG1PdnMyNnNaQUxjSGJ3cXpXYTJjOVoyS2EzWWdHdVJobEZoMnk3NDcyMldHQm1EaDFEUUI0WDVRdEE3eWdGdjczYnBhSWZ5SWp1bjR2X1NJTTdBVmY0QmFKYkdvZWIzX1FYYy10Sy0tUlphckx3dWY1SVd0MTdIY3RyUGk4MWc?oc=5)
+Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
 ---
 

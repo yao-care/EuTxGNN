@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
-
-### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
-
----
+## Related News (8)
 
 ### [Ictus, l’ambulanza che può salvare il cervello: la cura comincia prima dell’ospedale](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpLazBlTXF1RGpsWm5kZXQ3RXVKSi1PMHFieWtyb0x5Q3d1MS1WSzZLdGp1dU5wemIxemlydzNYbUkxV2xvTklNdVRBV3FuSklBcUh1VWtab01NZDJfTkdBcmRzd2VnUEl3X042TnlYVnlqRU9sSXJMdngyN2VrOWNpaF84MWo4STRxSjUwWEpMOGNrRHNSTGQ2cGttZXUwX3BGdXljUlJsQ3FDcFlOQmZHVFlKWk80MjJDODBDa3l4R1pwcHZ3UG9nQQ?oc=5)
 
@@ -66,6 +58,14 @@ Source: [Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTn
 
 ---
 
+### [El peligro oculto de la Lp(a): un riesgo cardiovascular genético inmune al estilo de vida - Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">ictus</span>
+
+Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
+
+---
+
 ### [La Sociedad de Reumatología señala que el paciente de lupus tiene el doble de riesgo de sufrir un infarto o un ictus - Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZmN3OTZnLXlyZnVRZV9ackN1OFllWE9tVS1qMlNGd1VvTjJVYWt5d3BfMUZra0J1MnE0eU1sU1k4T0JqT1RjdnFkcEJ1elB4dmRKcUFCc0pvMjR5SWhHYXBZa0hxSURnTTRkOThZN1ZtMGFBalBNa1BBZmdmUGZmaDRKQkNJOE1JZkUyZjJoaVBZWWVGM0VqTzNLUU4wWmRuMXdJNnJFZDZyNjF0THpGOUVQcDlNaUdsdnB6QnNtLTdhc0NsRER1Sy1pSXpmQ2hhU2tucnoxXzFuZEt5?oc=5)
 
 2026-10-24 <span class="news-indication-tag">ictus</span>
@@ -74,11 +74,11 @@ Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUx
 
 ---
 
-### [Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
+### [Stroke Unit a Merate, Panzeri: “Altro che passo avanti: è l’ennesimo ridimensionamento” - Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
-2026-10-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
+2026-10-23 <span class="news-indication-tag">stroke</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
+Source: [Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
 ---
 
@@ -90,27 +90,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWj
 
 ---
 
-### [Warum Gliome nach einem Schlaganfall schneller wachsen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
----
-
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
-
-### [Chequeo a la salud cerebral: «Con un control de los factores de riesgo se podrían prevenir el 90 % de los ictus» - La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">ictus</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmJkQ0ZuZUZEWGluNUxNSkhMZ0YzTkZwWGctekRGOGd4MFk4azlOVnp1OXhKbTRFM1BFLUFxZ20tMXE2bno3bGl3aFlOM3B3dzFXOW9VbFA4dTdQRjdvdXZXMlF3RU83VEhjcTRyZVF0MXBYWDA3WlRkTDJoR2FfdGZHXzdlODZjNUJpYXpxM3cyc1RkS1hPeVhMcHlaY3hRVmtzZHBCb1BBM2lsZzBrRl9Ia2w1bnRrR0FaTzI5eTFULURaSTJra1pySlBJSGtMbXgtV2hxaXFwd2JmNlVNVWtCOXQ1azVWWFRxLVR5Z0gyNkMxeUFjTXhDZkRRZ3dZ?oc=5)
 
 ---
 

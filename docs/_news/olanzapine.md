@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Olanzapine?">
-<strong>Olanzapine</strong> currently has <strong>32 news articles</strong>, with 1 predicted indications.
+<strong>Olanzapine</strong> currently has <strong>34 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,31 @@ This page combines the AI-predicted indications for Olanzapine with the latest h
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (32)
+## Related News (34)
+
+### [Tus hábitos de sueño podrían indicar un tipo específico de depresión - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
+
+2026-10-25 <span class="news-indication-tag">depresión</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
+
+---
+
+### [Los psicólogos coinciden: la soledad también se asocia con más ansiedad y depresión](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">depresión</span>
+
+Source: [Vanitatis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
+
+---
+
+### [Día Mundial de la Menopausia: síntomas, cuidados y cuándo consultar - Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
+
+2026-10-24 <span class="news-indication-tag">AF</span>
+
+Source: [Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
+
+---
 
 ### [Comienza un ensayo de la vacuna contra el brote de ébola que azota RD Congo - France 24](https://news.google.com/rss/articles/CBMizgFBVV95cUxQbWxxSTNKZmstZnJLX0x2clV4SWpaRW9aZExmSTRzS3lheTd1VElsR3VreUR6QkNjOUFrRGhETnJKdzhvX3VQZHZnekR3aC1NWWxGOUp4TmxGRXJXai1VRHlUZ2tTNTZVM1REazFVSHdCc0RHdGFKaXE0elV0Z3loaTNlMFBnMl9pZUhKS29UcWJCSzJJWXdGalBieUV1TUNCc3BXUDdPQ2NfS1BOdC11LTlMZkhYVzZ1bmFTUDJnRHhzeGRhTHVTM3BMRlhodw?oc=5)
 
@@ -87,6 +111,14 @@ Source: [Su Médico](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2NpU1
 2026-10-24 <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5)
+
+---
+
+### [Nutricionista, sobre comer lo mismo y engordar en la menopausia: "Hay que ver por qué"](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQejhLQjhRNHAwT1FxaDhzMXhxYTRMZ2RadHM1N3Z1Ni1MRmlCVG9CeUp1eE9HTjZFVlNEcy1tWXRSUExxUW81OWVZU3dLVXlIZ3ZKS1hVd2c3NXJVNG9zMHVpV0Z3SUtQMFFDWHBpQmtKUkVuN1lfd05CUkpmWGJBXzJMeTU5SFpfVEExMnR5a01JNDg2Y3gwME50bFBUZThJbVJkY2VqWHVBME54NXpOemdhNmpHT3VVU2huVXVIODF0N2llTUVQZTdvS2Q3ck04V3hnMXpoZFlRWVUwelA2bGZKalV6dkQ2em85ZGI3OA?oc=5)
+
+2026-10-24 <span class="news-indication-tag">AF</span>
+
+Source: [Telecinco](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQejhLQjhRNHAwT1FxaDhzMXhxYTRMZ2RadHM1N3Z1Ni1MRmlCVG9CeUp1eE9HTjZFVlNEcy1tWXRSUExxUW81OWVZU3dLVXlIZ3ZKS1hVd2c3NXJVNG9zMHVpV0Z3SUtQMFFDWHBpQmtKUkVuN1lfd05CUkpmWGJBXzJMeTU5SFpfVEExMnR5a01JNDg2Y3gwME50bFBUZThJbVJkY2VqWHVBME54NXpOemdhNmpHT3VVU2huVXVIODF0N2llTUVQZTdvS2Q3ck04V3hnMXpoZFlRWVUwelA2bGZKalV6dkQ2em85ZGI3OA?oc=5)
 
 ---
 
@@ -170,35 +202,11 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV9
 
 ---
 
-### [Mum diagnosed with rarest cancer in the world after doctors dismissed symptoms as perimenopause and anxiety - Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lEbVFtN3hhQWttbHlCbVdKbDNhMmVhNVhfMlhvaV9qODRreVdSa1l6N3FyRVZuYm9tV0NhTmNPWVZyREZ6cFY3SGlRLTd4R0hmOFN3ZmNWUDBHTkloU2N3N0dXTUVCUkNmR3JFMVJqQ2g3VzEwUUcwNHJpb3RzOGhic2ZWQVXSAYwBQVVfeXFMTzljdmdyVzQzbmxPMGdzU08tWm5ESVBZbHFYdUpvUE9Yc1I3YnI3VFVPQ1d1aVBXS2pOX0pLeEdITWllWWlndVM5Y0RBNlNZcUNaSG5jbDljNDA5QWpGdURlaG1NY1hGNnJubUZWOU0ydFNUSzViVko3eW9SZGI4QjJwdzY1dFVYVWoweGQ?oc=5)
-
----
-
 ### [10 Jahre nach Ebola in Westafrika: Laborpartnerschaft verbessert Diagnostik viraler hämorrhagischer Fieber in Guinea - idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RemFMdWdFclNYa1N2WHZmZGpsOTl5U09oNmtPRWZ2LU91NTg4eEtBQUVfRG1mYnVzZUNaSWo0NWtDYW96RXhIWGdaTQ?oc=5)
 
 2026-10-23 <span class="news-indication-tag">AF</span>
 
 Source: [idw - Informationsdienst Wissenschaft](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RemFMdWdFclNYa1N2WHZmZGpsOTl5U09oNmtPRWZ2LU91NTg4eEtBQUVfRG1mYnVzZUNaSWo0NWtDYW96RXhIWGdaTQ?oc=5)
-
----
-
-### [¿Por qué las enfermedades autoinmunes afectan más a las mujeres que a los hombres?](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlFET0ZYak1TOFIyT25Wb2RFV09zZWpKQ0FvNEp6ekYyeW94d21TQnNhVnZwUUpKbE1sNGw5akFMRXNZb0p2c0N0LVdQNEV5WUtvMmtaTnRzZjBNa0xiYV9RcWVWVDZ4S05TNVMyV09UVEV5dlhmdXJadGxBVF83M3VBeWtDS0kxZ0w4WUN3Rk5ZNWVET2ZocDN3MTQ4cWpxUDJBX2ZZc21saG9nR1BfRFBnV3k5amJzcEFmRjdCUGZZbGdG?oc=5)
-
-2026-10-23 <span class="news-indication-tag">AF</span>
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlFET0ZYak1TOFIyT25Wb2RFV09zZWpKQ0FvNEp6ekYyeW94d21TQnNhVnZwUUpKbE1sNGw5akFMRXNZb0p2c0N0LVdQNEV5WUtvMmtaTnRzZjBNa0xiYV9RcWVWVDZ4S05TNVMyV09UVEV5dlhmdXJadGxBVF83M3VBeWtDS0kxZ0w4WUN3Rk5ZNWVET2ZocDN3MTQ4cWpxUDJBX2ZZc21saG9nR1BfRFBnV3k5amJzcEFmRjdCUGZZbGdG?oc=5)
-
----
-
-### [Edward Giovannucci, profesor de Harvard: "Muchas de las propiedades protectoras que observamos en el café con cafeína también se observan con el descafeinado" - National Geographic España](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMUh2N2k1YkpxZzBFaVRMclFOVTFpc2pZWTY2cG9RODdFZ0tlZ2h4eWlqalZNRTlKUHo4ZFN4UWMtaXpkQkxxZWJuTC12eG85WEpNRlJobTNiMWVRX1U2RWd0MWJ1RllTLXFSY0RCeVhxUGZTMmFscHljbzZrd2xuYlJVeFliX3IxQVN3YV92R2NpZDZwVExoWTdRTHVjaVBCcUdqU2stY2FCcnRmbHpsUmtrWG5rdTY2WEFrdTNaYWl2ZG5PdGp0UHNiclJCZk5NeXpDdzhSTTBOSU50V3VwU1ItOExGTlBaZy02bkVsVW5jb1A2Z3Z4dS04T29DZjNXeXU1Z1g5el8xc2M?oc=5)
-
-2026-10-23 <span class="news-indication-tag">AF</span>
-
-Source: [National Geographic España](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMUh2N2k1YkpxZzBFaVRMclFOVTFpc2pZWTY2cG9RODdFZ0tlZ2h4eWlqalZNRTlKUHo4ZFN4UWMtaXpkQkxxZWJuTC12eG85WEpNRlJobTNiMWVRX1U2RWd0MWJ1RllTLXFSY0RCeVhxUGZTMmFscHljbzZrd2xuYlJVeFliX3IxQVN3YV92R2NpZDZwVExoWTdRTHVjaVBCcUdqU2stY2FCcnRmbHpsUmtrWG5rdTY2WEFrdTNaYWl2ZG5PdGp0UHNiclJCZk5NeXpDdzhSTTBOSU50V3VwU1ItOExGTlBaZy02bkVsVW5jb1A2Z3Z4dS04T29DZjNXeXU1Z1g5el8xc2M?oc=5)
 
 ---
 
@@ -210,11 +218,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EYmUtalUwVWktT
 
 ---
 
-### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+### [Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
-2026-10-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-22 <span class="news-indication-tag">AF</span>
 
-Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
 ---
 
@@ -242,11 +250,35 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMi0wFBVV95
 
 ---
 
+### [El Modelo Afectivo-Efectivo evoluciona para responder a los nuevos retos sanitarios](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzhONUxJZk5tRlJOVkdFc3ZNUHp4V1VzRW5iZkNTVVRfSkNYZVJEMGl0LWZpZlk3a2xSekRPNVFIV002LTJPaW9kOGJWb2RnaExaNURrRkMwamNFQ2NZZUhMTTEtVXd6cHdIMk1ReldtYkxsQklfSmVIMGhVR01RYm1WR2F4azI0R2c5dGVVcUVnOWFtTkI2TlQtVXc2YlJaYzMycFExbl80dVdWN0cwTl9mV09mZjU0akpDa1g3a2hSc0YxelB2V2t3?oc=5)
+
+2026-10-21 <span class="news-indication-tag">AF</span>
+
+Source: [BURGOSconecta](https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzhONUxJZk5tRlJOVkdFc3ZNUHp4V1VzRW5iZkNTVVRfSkNYZVJEMGl0LWZpZlk3a2xSekRPNVFIV002LTJPaW9kOGJWb2RnaExaNURrRkMwamNFQ2NZZUhMTTEtVXd6cHdIMk1ReldtYkxsQklfSmVIMGhVR01RYm1WR2F4azI0R2c5dGVVcUVnOWFtTkI2TlQtVXc2YlJaYzMycFExbl80dVdWN0cwTl9mV09mZjU0akpDa1g3a2hSc0YxelB2V2t3?oc=5)
+
+---
+
+### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+2026-10-21 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+---
+
 ### [Australian researchers identify new subtype of depression linked to body clock disruptions - The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWRFdidHdSeWFKdmxQaGFDVkJueUt5NUlBQl9aU29uekI5SE9SYkJZOTExTFU4NlBWQURQVms2MUxWRXl4dU5sZm9BeXRFY2pBQXdrclV1eXR5SFg0cnI0c2tmYjJObEhzMkRaeGcwVGtwcVlVV295Nk9LZWQyUmFIUmdMRlVtTmZBNlBtY3lMdDA2QmJOVUw2OFBVSEpkRm5MYmsyZkJhWHVZRFh5Tnd1SFkwYXJJZ21hUkNzVEY2SVh1QmZrQU1ZbWdJQUFVUmxOaA?oc=5)
 
 2026-10-20 <span class="news-indication-tag">depression</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWRFdidHdSeWFKdmxQaGFDVkJueUt5NUlBQl9aU29uekI5SE9SYkJZOTExTFU4NlBWQURQVms2MUxWRXl4dU5sZm9BeXRFY2pBQXdrclV1eXR5SFg0cnI0c2tmYjJObEhzMkRaeGcwVGtwcVlVV295Nk9LZWQyUmFIUmdMRlVtTmZBNlBtY3lMdDA2QmJOVUw2OFBVSEpkRm5MYmsyZkJhWHVZRFh5Tnd1SFkwYXJJZ21hUkNzVEY2SVh1QmZrQU1ZbWdJQUFVUmxOaA?oc=5)
+
+---
+
+### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
 
 ---
 
@@ -271,22 +303,6 @@ Source: [familie.de](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQ05rSz
 2026-10-19 <span class="news-indication-tag">AF</span>
 
 Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSS14Q3BaV25DcUtUTTI2ZGthVm5oVDRIZW9lcElwbVZkV1dJcWh6M3lEWUpPNzd0UU9PVVNGdUFReUtoVlpDMlMtV29KdFFBbXV2WV9BUDlDdm5PVWQ1WmlBQ3ZjbHdUV2luYnNyMTJHVFVuVFpubXNRdE5XanFSelAxUXR2RHpyRUpyZEhLU2UzMlc3ZWRQdjAwdmNUNnh6aEQ5cTRRSlF0MHBQbVFjTEdna3NjYVR2YzRicWtaZndmZw?oc=5)
-
----
-
-### [Depressionstherapie kann auch dem Baby helfen - Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
-2026-10-19 <span class="news-indication-tag">depression</span>
-
-Source: [Dlf Nova](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjRvRHJobTJacUpyV3NQOV9wUU82aUV6OVJkOWhjRDQyNFgydzh5TEN4MTR5ZEhORHNrVDZKVTZvQ281cWd3ZldnSDdtMnh6R0M3ZGVBdHRGUUY2NlJXWlhGeXZock5NVWZhX0hkYTBvVVo1QzZZOEs5YzhqY2dyY1VNczZydERpYmMzN19RRGVLRXM0N2NTV05Gd0l3ekZDankyM050MEtDQUQycHZaRlFB?oc=5)
-
----
-
-### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 ---
 
