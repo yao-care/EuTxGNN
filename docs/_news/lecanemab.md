@@ -14,7 +14,7 @@ permalink: /news/lecanemab/
 ---
 
 <p class="key-answer" data-question="What news is there about Lecanemab?">
-<strong>Lecanemab</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Lecanemab</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Lecanemab with the latest he
 <p><a href="{{ '/drugs/lecanemab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
 
 ### [Stevia & D-Tagatose im Diabetes-Management: Meta-Analyse liefert Hinweise - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VLcUFYdFZpdzNSZXFlWmVSRG9ZcjZ5SERoT0NwTGlnVU5oSXhXRjhGaC1yOTBmaFpTRjRJcklSTkYtZ1M3a1V6cHQyNmtSUTAteWJ4NzNWZHdfU3VYM25LUjhCQ1VQTHBkay1aZlE0Z1JKNmt4eDlWSzdDbjB1ZmR4SXdvN1E1ZzNlbmhkOXY3V04xd0pfYlgwLUxOckZLMzlKbA?oc=5)
 
 2026-10-24 <span class="news-indication-tag">diabetes</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3VLcUFYdFZpdzNSZXFlWmVSRG9ZcjZ5SERoT0NwTGlnVU5oSXhXRjhGaC1yOTBmaFpTRjRJcklSTkYtZ1M3a1V6cHQyNmtSUTAteWJ4NzNWZHdfU3VYM25LUjhCQ1VQTHBkay1aZlE0Z1JKNmt4eDlWSzdDbjB1ZmR4SXdvN1E1ZzNlbmhkOXY3V04xd0pfYlgwLUxOckZLMzlKbA?oc=5)
+
+---
+
+### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
 
 ---
 
@@ -106,14 +114,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZX
 
 ---
 
-### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
----
-
 ### [CamAPS Liberty permite automatizar la insulina sin contar hidratos - Canal Diabetes](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXNMVTVQQjBUNm95SWEtaHJsZ1JicEpfbHRoT0QyV1ktNXVQMTk3b1FJdWRkSmZaMXYyTmFITXZEallvbFo0dF9wckxnQXQySlo1cDd4MHE5OUVsMWtlbng3UFhaSlFLUXBCNlFEZnRUSEVONG85Vk1pTXA1a0pzSEhieWwzQUhRT0ZDTm5JUW01amFyQVYyRQ?oc=5)
 
 2026-10-23 <span class="news-indication-tag">diabetes</span>
@@ -138,19 +138,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DN
 
 ---
 
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
+### [Beeinflusst Reihenfolge beim Verzehr von Lebensmitteln den Blutzucker? - Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
 
-2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
+2026-10-19 <span class="news-indication-tag">diabetes</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
----
-
-### [Ein altbekanntes Mittel aktiviert die Geheimwaffe in Ihrem Körper](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [FOCUS+](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMXYyT2htS3hOQVVCXzhTOFhMQTVLdVVzMFBRNG9LV0ZBU0VzNnpiQXI5TUhZWnFjbEFtYk5NWkdqbjdNRVl1TGROVWlnakh5akVfb1drMUNrcnRfRFFzUV9vd0tfY3EtRzBZNjMtdm0wVk9rMFdjVk83THR5Z2tCeHVwNUMxejMwa2JteFF2ZTBJWWU3NGNhdGxfREk?oc=5)
+Source: [Diabetes News Media AG](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlFPNFFqZThqNWhpZV9oNkY0QThuM3NzaDZoX2VHcXlORjczNFA5STVlbE9LVE9maWlmbTFudjk4QW54b01oaXFwYnY1Q2tfbmtaVU05bWtfRVpTRXAwb0hhQklWTjJlMXhDcUE5THkxUXBUUHZvVXRfRVVOckV1aEpqMEtCdDh1Vnh4bW5sYllnb3ZrNGs0dWlNbjlwQV9JcWtGYktJcEgxeWFLcm00?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+2026-10-24
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+---
 
 ### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
 

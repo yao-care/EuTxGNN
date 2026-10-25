@@ -34,11 +34,19 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 
 ## Related News (17)
 
-### [Shamonda virus: First human case reported in France after decades of animal infections; doctors explain symptoms, how it spreads, potential health risks, and precautions people should know - The Times of India](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZ0tnMExqWF96MGRQLUk5bGxXYkxDWUdRZC1ZeWY2elozVUpzeWY3RlVra0podjg1QW5FV2ducVBrcm1EYVBfSHh0TVd0d2RNX3VQNXV4Ri1pRWlraXNNSmFobEZicWNmRlRPbjB2bHdlRnFoSzhocjVQbEtjQ01HOEhIMEM1VFh0MWYwbzBKNVk0Z1JqanpIaWdseXNqVGxvMFBUWk5TbDJkZE9RWlpNNnBLNWdSY01WQjFsZmNPWS1fMnVYOEJiUkcwLXplbGQwSlpTZXlBeVF0QWM2cWdkQjBzYnQzV1lDNG1aVHVmcmlhMGR3ZWR6Y1pvRDA1elF2OWtObkhjckdmaEZ0WGVRWDB3YTBhMW81R1lseVBuVVNndklZVWc3UlNET0dDRlc5T2tzZ3loTjVkWVEyajhxVjFGM1dIdFNKSTRsQjVlME15Yl9OSnA5WmYzeV8xS3VYdXVhNFZCdTVNRnPSAfMCQVVfeXFMTVdYMVFpaHhSTDUzTUFBNS1NUEg0amlPNEZ4LVpZZFpma0Z5WWdGazUyUklfZ1JwWUp4aEdDazdwWXRSZ2MyUDNMSXdwa3lBRjBUMWxfNzNZZWVpVm10eTg4VGtyelI3VkdadDBjUTVkNzJad2RKdUdqdEI0dzNQX0RoWkIwUVBQUFdzV05QZVQ3UXZ6eWJDUHJTYV9qU19TUWVCdVZtZGc1YTFfY25yRHB4azlCTndiZFJiRHo2dTBfb1Q5Y2kzWUZYTW1JUDlMdldkU0xWb2JRWTR0NTB4SEtEUWF6Vm91dV9idGotVHl5Rk55NG02RkZZQjJKT2tLUE4tZU9vZTh6d2J1aWpucVBtSGVCaHotNURNOUFwVmNkeVB3bFBfQlhsbk1RcGRCNlVYTFlMRjNXZzVsN1Vkc1A0WTZuNU9EMFVnemtwWjZhTm1hY2lJV183SWdSRk1SemFzZzBMMGk0R29Bak9WQ3l6cXc?oc=5)
+### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
 
-2026-10-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZ0tnMExqWF96MGRQLUk5bGxXYkxDWUdRZC1ZeWY2elozVUpzeWY3RlVra0podjg1QW5FV2ducVBrcm1EYVBfSHh0TVd0d2RNX3VQNXV4Ri1pRWlraXNNSmFobEZicWNmRlRPbjB2bHdlRnFoSzhocjVQbEtjQ01HOEhIMEM1VFh0MWYwbzBKNVk0Z1JqanpIaWdseXNqVGxvMFBUWk5TbDJkZE9RWlpNNnBLNWdSY01WQjFsZmNPWS1fMnVYOEJiUkcwLXplbGQwSlpTZXlBeVF0QWM2cWdkQjBzYnQzV1lDNG1aVHVmcmlhMGR3ZWR6Y1pvRDA1elF2OWtObkhjckdmaEZ0WGVRWDB3YTBhMW81R1lseVBuVVNndklZVWc3UlNET0dDRlc5T2tzZ3loTjVkWVEyajhxVjFGM1dIdFNKSTRsQjVlME15Yl9OSnA5WmYzeV8xS3VYdXVhNFZCdTVNRnPSAfMCQVVfeXFMTVdYMVFpaHhSTDUzTUFBNS1NUEg0amlPNEZ4LVpZZFpma0Z5WWdGazUyUklfZ1JwWUp4aEdDazdwWXRSZ2MyUDNMSXdwa3lBRjBUMWxfNzNZZWVpVm10eTg4VGtyelI3VkdadDBjUTVkNzJad2RKdUdqdEI0dzNQX0RoWkIwUVBQUFdzV05QZVQ3UXZ6eWJDUHJTYV9qU19TUWVCdVZtZGc1YTFfY25yRHB4azlCTndiZFJiRHo2dTBfb1Q5Y2kzWUZYTW1JUDlMdldkU0xWb2JRWTR0NTB4SEtEUWF6Vm91dV9idGotVHl5Rk55NG02RkZZQjJKT2tLUE4tZU9vZTh6d2J1aWpucVBtSGVCaHotNURNOUFwVmNkeVB3bFBfQlhsbk1RcGRCNlVYTFlMRjNXZzVsN1Vkc1A0WTZuNU9EMFVnemtwWjZhTm1hY2lJV183SWdSRk1SemFzZzBMMGk0R29Bak9WQ3l6cXc?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+---
+
+### [Perimenopause: Can Regular Exercise Improve Your Symptoms?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">MS</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
 
 ---
 
@@ -66,11 +74,11 @@ Source: [Daily Mirror](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0lE
 
 ---
 
-### [Virus Shamonda, primo caso umano in Francia. Come si trasmette e cosa sappiamo](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
+### [Primo contagio umano di virus Shamonda in Europa: la probabile puntura d'insetto e le parole di Matteo Bassetti - Il Mattino](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzgxMjZnNm1pRHNvRWxReVZMMXJLcFJQdUg0Q3EyUmItN0REaFc5dmRsbjVuYV9IZnJrSk9PcTYtVVBmb3ZmMU1QZEk4MWhpV1BQUTFDTGtwdHNJdURNMXZ0UkwwZkJIODNfR29HWVA3LVQ1dzhPM1h0Q1NYQnBaenVLa3Z6RklCV3pRZl9mU1hHalJRa3o4cXM3NNIBlwFBVV95cUxQd1hFZ0tGZllkd2l5Q1ladFN0VmZFdTVwTF9QSkNsQkczNGRuUkhxX3BRc1c5d0E0YW9qSF9IVW9mM3cyR2g5S00zekVjek45ZmNiRWVHdzB5RW84Y2I5OV9GUEhfMDZzcWU1UjZfLWVXaUtGRUZQV1AxMjZyZ2ZsVTNLLVFDVWpZcXhBN1g3Q2FPR2luZDhn?oc=5)
 
 2026-10-23 <span class="news-indication-tag">MS</span>
 
-Source: [Doctor33](https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDhpVlpURDhTUHRLMXFadDlzb0JENHliTGJVWXcwUWNmWXQ5VXBUYXdxUk9yLUE2N0dHWnJpRm43VVhIY1YwZ21qazJhVGF4MUl1bEo2N19aR2xhYWxuU2pZc0o5UkdSaXRTZGZnUFFHYk5BRDVCWjg1TEFYRFM5Yzh6SUFNN09Db3NpMnJZNFJ2Z3F5TmRLMkpoQzZhcDdfZ29TczY5RXQwQUhCZENQVXdhVzZMdw?oc=5)
+Source: [Il Mattino](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzgxMjZnNm1pRHNvRWxReVZMMXJLcFJQdUg0Q3EyUmItN0REaFc5dmRsbjVuYV9IZnJrSk9PcTYtVVBmb3ZmMU1QZEk4MWhpV1BQUTFDTGtwdHNJdURNMXZ0UkwwZkJIODNfR29HWVA3LVQ1dzhPM1h0Q1NYQnBaenVLa3Z6RklCV3pRZl9mU1hHalJRa3o4cXM3NNIBlwFBVV95cUxQd1hFZ0tGZllkd2l5Q1ladFN0VmZFdTVwTF9QSkNsQkczNGRuUkhxX3BRc1c5d0E0YW9qSF9IVW9mM3cyR2g5S00zekVjek45ZmNiRWVHdzB5RW84Y2I5OV9GUEhfMDZzcWU1UjZfLWVXaUtGRUZQV1AxMjZyZ2ZsVTNLLVFDVWpZcXhBN1g3Q2FPR2luZDhn?oc=5)
 
 ---
 
@@ -90,11 +98,11 @@ Source: [La Vanguardia](https://news.google.com/rss/articles/CBMisgFBVV95cUxPbXl
 
 ---
 
-### [Dermatologische Komplikationen von „Chemsex“ - Ärzte Zeitung](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
+### [Dermatologische Komplikationen von „Chemsex“](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
 
 2026-10-23 <span class="news-indication-tag">MS</span>
 
-Source: [Ärzte Zeitung](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
+Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
 
 ---
 
@@ -122,14 +130,6 @@ Source: [The Register](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdThk
 
 ---
 
-### [Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
-
-2026-10-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
-
----
-
 ### [Women take to social media to break the taboo of UTIs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFMlQzSGUzLUNIUlhBTGYtQmp2dmU2c00tamNEejhfYUlHRllXRG5saEl4RWE2a3VER1J0Y1JydDEtbVJZMUdNZU5Fb25WQXRpT1lZZHlZNE9MSmpqc1E?oc=5)
 
 2026-10-21 <span class="news-indication-tag">MS</span>
@@ -154,19 +154,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 
 ---
 
+### [Multiple Sklerose bei Kindern und Jugendlichen: Europäische Zulassungsempfehlung für Ocrelizumab - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
+
+2026-10-19 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
+
+Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
+
+---
+
 ### [Warning update for sertraline, citalopram and fluoxetine after number of deaths - Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
 
 2026-10-18 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
 Source: [Daily Mirror](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVcwMFk2dm5SUlFBNlp3Nk1UaWctT0J1amhPeW9xOEJZU3lwZjdkNWxNS1EwMzBXd21hR3hXUTlJSjItakd3ZENXV1hVZXp2dUNYWWZxYVZUdm5rQU4xdTdmN1lyOU1YMkFTcHYyMm1RTHFBYzc1Rk8zd0IxOVFHdDJacHZFVHVqazhtWElGZ1pneUZIczZyRGVR0gGfAUFVX3lxTE1OVTVOQTladk9iOGFKYWpkall0NEx1MzdVbHVkeVJNM3IxRE50ZnlBLWk5UlNOZDJHTk91RkVwTHpjUlZUZmtyZHVUUGtUSzJHZDdmdGJOTi1aM1RRUjdhUk40MmVvNkh0dDVTT2VPRWwxOWNUSkdMN01RM3Q4RDJ0dy0wamgxZ1VqRml4V1M0bG1kWEg0cDVNeFFVaFFpcw?oc=5)
-
----
-
-### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
-
-2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

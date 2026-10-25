@@ -14,7 +14,7 @@ permalink: /news/lumacaftor/
 ---
 
 <p class="key-answer" data-question="What news is there about Lumacaftor?">
-<strong>Lumacaftor</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
+<strong>Lumacaftor</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
+
+### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+---
 
 ### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
 
@@ -79,22 +87,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS
 2026-10-20 <span class="news-indication-tag">arthritis</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cUxPSEhDMWlHaTMyeXdTZU9wd0hNTkh1QVY0LTJwYU1SUFlJbllsendUVzI0R0RSMVk1enNsU29RZ3ZjeHMtSldGem96OUJ4UllJNzRTUXFNa3RqVEFXcXlBQWVzNmVRWVdsRHFraWlJT2FKdjVtX1JGYmNXT2lpZnJYQktvajdLdFpxWVhhWXppbGkySDRUNDRTV0hrZ2E0emVhVFpDQ3dXaHdlN0FELWNuY04zWXU2TndtSjg3SDNvN21GNkVGOHNULVJVSkpHbmVrNEdmVVdSYUZKLUcyNDNSOEk1Q3V3a0F3dWlEZjNrdFdXZDJwZWR5cUluWU12R2FPWGR6MDhNakJfN2xMa21TMHprZ05RbXhIQTVRY24yTTZ2TDk5dmN1S1pTYktxZElGb0lUX0hGbkJDUEVCTE0zVzBYd9IByAJBVV95cUxOYTF4NGl3UzVGZ3hYQ0RlYlY5OG9XMzFzRlNGZTNYRlFXUDhvb3c4Vk43OW9vcXFvRTE2NC1NZkpVN3FRUElNM21wMnhZc2VyYjZFd0N1UHZBalRndFpyMWdjVFBpZU0wcE5kdlItcklOS3g4YTRKekE5UXNNTmNGclB6Mk1NdDZCeUtTMGZHYTZWOEY4eDRrRWEwd3FHckkxd3FOWUxiZFNGTHNxQ1NTaFFocXR3U0QyYzRWMXJxQktlNUZmdy1hbVh4SnBhTmdsdktfYnhianA1SHdmU3FWZnpHX3NOU1RPeVNfMWpEbUJxNFVoMVRZUHE3bDlDcTFVbUlSYXdkeHh5cnNjN0xzOXU2TGxpTGd3ZEdaaWpGbzBialZUQjJ1ZVlraFJheXRZNmtIeEN2N3hoRFAyd1hLYzJtdUxoT0hQ?oc=5)
-
----
-
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
----
-
-### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
-
-2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

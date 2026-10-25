@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
 
@@ -71,14 +71,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiwwJBVV95cU
 2026-10-20 <span class="news-indication-tag">copd</span>
 
 Source: [Sylter Spiegel](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
-
----
-
-### [Chronische Fatigue: Studie zeigt gemeinsame Immun- und Energiepfade bei fünf Krankheiten - it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
-
-2026-10-17 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">MS</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYS1KbXl1UmRZS2hyalNFb1VVZUlUUl90VkVydU1scy0wUUZ2SklrbFJtb1ZuTU11T3RVdFF0TnFUMEQzSVA2dWV0QjZiajUzNUFlMGR6VmZTN0NkbXM1ZmVSY3lLVlkwLVl1TWhqV2NvNUxvc0lidXNwc2JyeWtpamFVMFo3MHNMWGdIcU9xMEplMnI4ek9OVXdlZTh6d3JlQ1V0NFdWcWlkQWY1ckhQOEZmMERCVXdlYkVN?oc=5)
 
 ---
 

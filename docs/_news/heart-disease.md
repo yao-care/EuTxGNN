@@ -3,7 +3,7 @@ layout: default
 title: "cardiovascular disease (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 2 articles, 57 related drugs."
+description: "Health news about cardiovascular disease (heart disease). 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>2 news articles</strong> and 57 related drugs.
+<strong>cardiovascular disease (heart disease)</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -67,21 +67,13 @@ This page brings together the latest health news about “cardiovascular disease
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
 2026-10-21
 
 Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
-
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
-2026-10-19
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenecteplase?">
-<strong>Tenecteplase</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Tenecteplase</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Intraarterielle Tenecteplase verbessert funktionelle Erholung über ein Jahr – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeXF3Q0drV09hSVpDcTE4U2QzU1V1WHliM3JpSDNVbkYtaTc4VEdaX05kVm9LUzBJQVp5OW1RWU01aV95N3dvWVN6b1BSLXFkZ1VxOFhuZ0JSVG05ZnhDcHkzbDVqZks4U3EwdGdzUmpkT2ZmdUxwRHNoQmhRU2NVRTZTWmszUTFIS0dQNmVGUWd0c2RpWGVid3Q2ZXZ2Q01YdndqalFlVWVMSTNFZzhuLWFRU3A3SDJORWJqZHFzSzUyVU1UUHF0M3FMRWk4aHFYZU4yWWpkMkhvUC12?oc=5)
 
@@ -48,14 +48,6 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi3AFBVV9
 2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
-
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 ---
 

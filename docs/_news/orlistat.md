@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>16 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>17 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,23 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+---
+
+### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+---
 
 ### [Ictus, l’ambulanza che può salvare il cervello: la cura comincia prima dell’ospedale](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpLazBlTXF1RGpsWm5kZXQ3RXVKSi1PMHFieWtyb0x5Q3d1MS1WSzZLdGp1dU5wemIxemlydzNYbUkxV2xvTklNdVRBV3FuSklBcUh1VWtab01NZDJfTkdBcmRzd2VnUEl3X042TnlYVnlqRU9sSXJMdngyN2VrOWNpaF84MWo4STRxSjUwWEpMOGNrRHNSTGQ2cGttZXUwX3BGdXljUlJsQ3FDcFlOQmZHVFlKWk80MjJDODBDa3l4R1pwcHZ3UG9nQQ?oc=5)
 
@@ -42,11 +58,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkpL
 
 ---
 
-### [La vacuna de la gripe, aliada frente al infarto y el ictus - Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzU3OWtGSmFwQ0RrQ2Z0a1NHTUE0Y3I4bndyQnVTRHFxYmVTRGl2LThiaHNlb1lURVpIQTMzUG5MdXFjbXIwYlJ2Vk1fNWN0Sk4yQlFXeVdiNDU3RDRVQnlYSnYwOE5ORHVQZW12cW03bVRqSTlPX2o5c1VqWkE0VmZ0SHZNVW9KM1hVNEI0dU1BbjdfbUtzNFcyaWRJVDhV0gGmAUFVX3lxTE0zcnpHcllQRFJpZUxoSnlQUldGSi1QWTIxREtrS0RIdl9VUnVxejAzeHBwbUYwS3dQbzYzdmhjQWlKRFhIVHhCUHhCcVNkNTJHT0hvczFLX3hCcDhrOExnNUxEWmZvbDNOZm1UblBWZDlaLVI5b2xYMm45WWkycmd2Y25RT0M0a3dRQ1A4NndhTW9Cd09OSV9ueTlmaXJPZkhYZWkwUmc?oc=5)
+### [La vacuna de la gripe, aliada frente al infarto y el ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
 
 2026-10-24 <span class="news-indication-tag">ictus</span>
 
-Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMioAFBVV95cUxNYzU3OWtGSmFwQ0RrQ2Z0a1NHTUE0Y3I4bndyQnVTRHFxYmVTRGl2LThiaHNlb1lURVpIQTMzUG5MdXFjbXIwYlJ2Vk1fNWN0Sk4yQlFXeVdiNDU3RDRVQnlYSnYwOE5ORHVQZW12cW03bVRqSTlPX2o5c1VqWkE0VmZ0SHZNVW9KM1hVNEI0dU1BbjdfbUtzNFcyaWRJVDhV0gGmAUFVX3lxTE0zcnpHcllQRFJpZUxoSnlQUldGSi1QWTIxREtrS0RIdl9VUnVxejAzeHBwbUYwS3dQbzYzdmhjQWlKRFhIVHhCUHhCcVNkNTJHT0hvczFLX3hCcDhrOExnNUxEWmZvbDNOZm1UblBWZDlaLVI5b2xYMm45WWkycmd2Y25RT0M0a3dRQ1A4NndhTW9Cd09OSV9ueTlmaXJPZkhYZWkwUmc?oc=5)
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
 
 ---
 
@@ -79,14 +95,6 @@ Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMi3AFBVV95cUx
 2026-10-23 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWVLbC1CTVZMQlNQSXVBbHBjd2xKTXlxSkQtV1dNcm9qWENuS1BhczJsb0E3cmNPR0tCWXFBSUF0a19kaTlZLUN3ZVBieThXWjJmUS1rUzMzRzM4VVlFQVMwZFFfZ2duUkE0S3BTUUo1d25MR2JBbUltZmRUbC1LN1N2UjRGSHgzLVBwV2xFcTZIdw?oc=5)
-
----
-
-### [Stroke Unit a Merate, Panzeri: “Altro che passo avanti: è l’ennesimo ridimensionamento” - Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
-
-2026-10-23 <span class="news-indication-tag">stroke</span>
-
-Source: [Lecco Notizie](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3BFTnpkWEtFT1BHSVB6TTRiS2Q4WF8xMzFhWThlNDc3RTJmRHVlNTd4LW8zeFdVSDdvNUxOTU9qTDZFVE9IdzRUcDZOYVloNGJ6Zk1aYVBFVW5BLUFMdExZdmotM3A0VFNHd1dOWWpoME5oNmtMZGRMMVRHMzVLb0dnNzk2MHVISzNHUmNhdXB2T0Yyb0N1TjZqNFF1MXBuWVpOZWxRSUxLN1NuTmstcFR2eUlrU3VLaUpV?oc=5)
 
 ---
 

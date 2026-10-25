@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 
 ## Related News (4)
 
+### [Zu viel Salz in Laugenstangen und Notvorräten: Blutdruck im Blick - it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMingFBVV95cUxNV0ltajdMb1Q2MGNZczZILThmWnkweWx6VldzT0Uzb1NTeEE4bElmcmVmRHpHVVV6MC1UdVg4Q2hIX3FxcnkyTmhSakZVMkZvNjlaUmFkY1V4c1BQWkNKamVQdjVnaXJNeHloMVJGNF9DbkpmWFdwNTVsOU1oTzdZaXRSUGZRbmVELV9DbU1YQlktNS1wWC1ZTXhkaGFlQQ?oc=5)
+
+---
+
 ### [Pflanzensterole: 2 Gramm täglich können LDL-Cholesterin um bis zu 15 Prozent senken](https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnducXltVDJ3WVVsZGoxdVlqNWcwY2ZMV1BPLTB1SEJ6ZmlMR0dHRzhCTWpFMURFZ1Rqc3pjSHl5X21xT2NYeVl6d0ozd1ZRamZjR0ptTzJ0VmpscjhHUVdZQmxObU9zaVd6cGJuemQ3UnVUczJXR0NpQ1F3WFZNMjlrc1hkMnRHTXl1TVdZY3pvMmNlLUN0TkpCc3NzRmMzLUk4MXRyR1lmZV93MXU3NTk2QmplTjBERnltM3ZQWDBKemNyREpmMTdUM0ZCZw?oc=5)
 
 2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
@@ -55,14 +63,6 @@ Source: [AD HOC NEWS](https://news.google.com/rss/articles/CBMiugFBVV95cUxPTS1WM
 2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">stroke</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
-
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 ---
 
