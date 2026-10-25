@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 12 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 16 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>12 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>16 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,21 +45,21 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
+## Related News (16)
+
+### [Ce virus des vaches n'avait jamais touché l'homme en 60 ans : un moucheron l'a fait à Lyon, l'OMS est prévenue - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpEb2I4NFNqemdkZ1NjcW1mcVlKUHBtanlsS2p1T3g1akl4TFFySm1OZTZVN2RYNHVXRmh6eVJ3T1o4TkJmRmgwRERjT0hwZkNhTm8tSmxoZy1rQXVuYW9XZXpWZmNIMEkzQ3dNdDFkWTl3RlRnT0MzaWxwRThmR3FseEtVb1RpQTMyQWpLcGxRbXNhWlE?oc=5)
+
+2026-10-25
+
+Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpEb2I4NFNqemdkZ1NjcW1mcVlKUHBtanlsS2p1T3g1akl4TFFySm1OZTZVN2RYNHVXRmh6eVJ3T1o4TkJmRmgwRERjT0hwZkNhTm8tSmxoZy1rQXVuYW9XZXpWZmNIMEkzQ3dNdDFkWTl3RlRnT0MzaWxwRThmR3FseEtVb1RpQTMyQWpLcGxRbXNhWlE?oc=5)
+
+---
 
 ### [Perimenopause: Can Regular Exercise Improve Your Symptoms?](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
 
 2026-10-24
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYVNZcWUtQXV3QjB3R0tyVHpyeUtyQ0ZlNUJjTldKeDhJN0c0UXZHdFpCSWVHRk9VZ0FGY0E0akhDVlZmUEpycHFYeWdoemM0UDl3YV9KYkdJNmF5TEpkSGhrQWFycnYzWGx3bE0xZTFDQ05qLXV0TGRhY0NiM1RkdTBnWnFQdDByVjFWR01odU5IbTBkb3ROZw?oc=5)
-
----
-
-### [Shamonda virus: First human case reported in France after decades of animal infections; doctors explain symptoms, how it spreads, potential health risks, and precautions people should know - The Times of India](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZ0tnMExqWF96MGRQLUk5bGxXYkxDWUdRZC1ZeWY2elozVUpzeWY3RlVra0podjg1QW5FV2ducVBrcm1EYVBfSHh0TVd0d2RNX3VQNXV4Ri1pRWlraXNNSmFobEZicWNmRlRPbjB2bHdlRnFoSzhocjVQbEtjQ01HOEhIMEM1VFh0MWYwbzBKNVk0Z1JqanpIaWdseXNqVGxvMFBUWk5TbDJkZE9RWlpNNnBLNWdSY01WQjFsZmNPWS1fMnVYOEJiUkcwLXplbGQwSlpTZXlBeVF0QWM2cWdkQjBzYnQzV1lDNG1aVHVmcmlhMGR3ZWR6Y1pvRDA1elF2OWtObkhjckdmaEZ0WGVRWDB3YTBhMW81R1lseVBuVVNndklZVWc3UlNET0dDRlc5T2tzZ3loTjVkWVEyajhxVjFGM1dIdFNKSTRsQjVlME15Yl9OSnA5WmYzeV8xS3VYdXVhNFZCdTVNRnPSAfMCQVVfeXFMTVdYMVFpaHhSTDUzTUFBNS1NUEg0amlPNEZ4LVpZZFpma0Z5WWdGazUyUklfZ1JwWUp4aEdDazdwWXRSZ2MyUDNMSXdwa3lBRjBUMWxfNzNZZWVpVm10eTg4VGtyelI3VkdadDBjUTVkNzJad2RKdUdqdEI0dzNQX0RoWkIwUVBQUFdzV05QZVQ3UXZ6eWJDUHJTYV9qU19TUWVCdVZtZGc1YTFfY25yRHB4azlCTndiZFJiRHo2dTBfb1Q5Y2kzWUZYTW1JUDlMdldkU0xWb2JRWTR0NTB4SEtEUWF6Vm91dV9idGotVHl5Rk55NG02RkZZQjJKT2tLUE4tZU9vZTh6d2J1aWpucVBtSGVCaHotNURNOUFwVmNkeVB3bFBfQlhsbk1RcGRCNlVYTFlMRjNXZzVsN1Vkc1A0WTZuNU9EMFVnemtwWjZhTm1hY2lJV183SWdSRk1SemFzZzBMMGk0R29Bak9WQ3l6cXc?oc=5)
-
-2026-10-24
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wJBVV95cUxOZ0tnMExqWF96MGRQLUk5bGxXYkxDWUdRZC1ZeWY2elozVUpzeWY3RlVra0podjg1QW5FV2ducVBrcm1EYVBfSHh0TVd0d2RNX3VQNXV4Ri1pRWlraXNNSmFobEZicWNmRlRPbjB2bHdlRnFoSzhocjVQbEtjQ01HOEhIMEM1VFh0MWYwbzBKNVk0Z1JqanpIaWdseXNqVGxvMFBUWk5TbDJkZE9RWlpNNnBLNWdSY01WQjFsZmNPWS1fMnVYOEJiUkcwLXplbGQwSlpTZXlBeVF0QWM2cWdkQjBzYnQzV1lDNG1aVHVmcmlhMGR3ZWR6Y1pvRDA1elF2OWtObkhjckdmaEZ0WGVRWDB3YTBhMW81R1lseVBuVVNndklZVWc3UlNET0dDRlc5T2tzZ3loTjVkWVEyajhxVjFGM1dIdFNKSTRsQjVlME15Yl9OSnA5WmYzeV8xS3VYdXVhNFZCdTVNRnPSAfMCQVVfeXFMTVdYMVFpaHhSTDUzTUFBNS1NUEg0amlPNEZ4LVpZZFpma0Z5WWdGazUyUklfZ1JwWUp4aEdDazdwWXRSZ2MyUDNMSXdwa3lBRjBUMWxfNzNZZWVpVm10eTg4VGtyelI3VkdadDBjUTVkNzJad2RKdUdqdEI0dzNQX0RoWkIwUVBQUFdzV05QZVQ3UXZ6eWJDUHJTYV9qU19TUWVCdVZtZGc1YTFfY25yRHB4azlCTndiZFJiRHo2dTBfb1Q5Y2kzWUZYTW1JUDlMdldkU0xWb2JRWTR0NTB4SEtEUWF6Vm91dV9idGotVHl5Rk55NG02RkZZQjJKT2tLUE4tZU9vZTh6d2J1aWpucVBtSGVCaHotNURNOUFwVmNkeVB3bFBfQlhsbk1RcGRCNlVYTFlMRjNXZzVsN1Vkc1A0WTZuNU9EMFVnemtwWjZhTm1hY2lJV183SWdSRk1SemFzZzBMMGk0R29Bak9WQ3l6cXc?oc=5)
 
 ---
 
@@ -79,6 +79,30 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFB
 
 ---
 
+### [Demenzprävention: 5000 bis 7500 Schritte täglich bremsen den kognitiven Abbau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNREthNlJaaEpFdkNoTTMtWUJaYkozN2cwaE5lUzZhcXp6ZFZfRmFjY3dXeVZaSUhoLXFPT0NvNmloMjd1MG9tcDNWQU9xV2V2X2o4XzFTbkYybmNPUWNiNlg2NXdHRlZuWjl3c214am40M0hieXBURjVtenBDVTByMmxraDlRR24teUdNR3hLYUxDbXpqSThrcExlbFlmcWdpN1ZKekRDUlBJSXR4V3htWk9aWDhLVHJyYzdaUkZkTjBaZldBOXc?oc=5)
+
+2026-10-24
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNREthNlJaaEpFdkNoTTMtWUJaYkozN2cwaE5lUzZhcXp6ZFZfRmFjY3dXeVZaSUhoLXFPT0NvNmloMjd1MG9tcDNWQU9xV2V2X2o4XzFTbkYybmNPUWNiNlg2NXdHRlZuWjl3c214am40M0hieXBURjVtenBDVTByMmxraDlRR24teUdNR3hLYUxDbXpqSThrcExlbFlmcWdpN1ZKekRDUlBJSXR4V3htWk9aWDhLVHJyYzdaUkZkTjBaZldBOXc?oc=5)
+
+---
+
+### [5 Menopause Research Updates That Could Shape Care](https://news.google.com/rss/articles/CBMihAFBVV95cUxOX01meHdndUExSFgtMWI0OUZOd0FaeGJoUEh5OEpPeGdLNTZnX1dDTG0xYWlqQzA3QkFKV0lObnpsUXdnVEdhT2pncExCRGlCWjlTR1JQdEpPVUkxOHpLY0ZQbUtLNWpQOFFWaGoybW5nZFFnaWVrRXBJdGM4dy1LV2pzQVQ?oc=5)
+
+2026-10-23
+
+Source: [AARP](https://news.google.com/rss/articles/CBMihAFBVV95cUxOX01meHdndUExSFgtMWI0OUZOd0FaeGJoUEh5OEpPeGdLNTZnX1dDTG0xYWlqQzA3QkFKV0lObnpsUXdnVEdhT2pncExCRGlCWjlTR1JQdEpPVUkxOHpLY0ZQbUtLNWpQOFFWaGoybW5nZFFnaWVrRXBJdGM4dy1LV2pzQVQ?oc=5)
+
+---
+
+### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+
+2026-10-23
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+
+---
+
 ### [Dermatologische Komplikationen von „Chemsex“](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
 
 2026-10-23
@@ -92,6 +116,14 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxN
 2026-10-23
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
+
+---
+
+### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+
+2026-10-23
+
+Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
 
 ---
 
@@ -127,11 +159,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 
 ---
 
-### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+### [What to eat for younger-looking skin](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHEwT2tvREtpdTYtVUFtc2dXREsxck9QMUpVSUl3YXkwQU9BbEhPSjU3WnJxZTBGMzdyazhsZkFPM0hJRXVFVjNDSkNxRUh0VDlKeUNHSVotZmZPTHM4VDYwVzdWSnFISWIydk51RGxWMlNuMUpjendMMGxCZFVvag?oc=5)
 
 2026-10-20
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHEwT2tvREtpdTYtVUFtc2dXREsxck9QMUpVSUl3YXkwQU9BbEhPSjU3WnJxZTBGMzdyazhsZkFPM0hJRXVFVjNDSkNxRUh0VDlKeUNHSVotZmZPTHM4VDYwVzdWSnFISWIydk51RGxWMlNuMUpjendMMGxCZFVvag?oc=5)
 
 ---
 

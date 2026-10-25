@@ -3,7 +3,7 @@ layout: default
 title: "Schuppenflechte (psoriasis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Schuppenflechte (psoriasis). 1 articles, 11 related drugs."
+description: "Health news about Schuppenflechte (psoriasis). 2 articles, 11 related drugs."
 permalink: /news/psoriasis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/psoriasis/
 ---
 
 <p class="key-answer" data-question="What news is there about Schuppenflechte (psoriasis)?">
-<strong>Schuppenflechte (psoriasis)</strong> currently has <strong>1 news articles</strong> and 11 related drugs.
+<strong>Schuppenflechte (psoriasis)</strong> currently has <strong>2 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “Schuppenflechte” and
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Vitamin D: Stiftung Warentest stuft fünf von 25 Präparaten als ungeeignet ein](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
 
 2026-10-25
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
+
+---
+
+### [Esteban Daudén, dermatólogo: «En la psoriasis, hay una asociación entre el grado de inflamación en la piel con el de fuera de la piel» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
+
+2026-10-25
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
 
 ---
 

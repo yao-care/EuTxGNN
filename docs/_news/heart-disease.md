@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease News"
+title: "cardiovascular disease (heart disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about heart disease. 1 articles, 57 related drugs."
+description: "Health news about cardiovascular disease (heart disease). 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# heart disease News
+# cardiovascular disease (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
+<strong>cardiovascular disease (heart disease)</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">

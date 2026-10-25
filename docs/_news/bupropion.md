@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Bupropion</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
-2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
----
+## Related News (3)
 
 ### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
 
@@ -50,11 +42,11 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxN
 
 ---
 
-### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
+### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
 
 2026-10-22 <span class="news-indication-tag">Adipositas</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNfX3NJUTR5Nk5ONzQ2S3NWQmkxM1VGdlZtWFRwdUxkOHc1akxCLWxFY29laFRlOTBtTEJuaWdDWEJ5NHI1V3A1d2pBMU5NNWVJbTBEQWFoM2xmbS1EdnRNaUxwZjJaMHVFdUJMaUpwQV9meE1TOWt1ZkpHbk94TFRzNTRxUTdfTFJ2dTZZTWFxb2N5aE5qd2VMOVFzcFBBSHdWUG1RTFN4aEg0T2Z0elotNkREbHBlTUt0UzVMaW1QRk9sX0psOGdhdy14WWZrU1RGUVNzMS1PUQ?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
 
 ---
 
