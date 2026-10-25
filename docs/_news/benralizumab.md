@@ -14,7 +14,7 @@ permalink: /news/benralizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Benralizumab?">
-<strong>Benralizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Benralizumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Benralizumab with the latest
 <p><a href="{{ '/drugs/benralizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Benralizumab bei eosinophilen Erkrankungen: Aktuelle Daten und neue Zulassung](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHFSMjFHMUFYTjF1X2l5MmYzZHk5OTlPeW1sZTVzaGJnRTVvNnRkakJpREE0bW1FMjJVeUVyUmdHaG5WbTBjMTVqVGxVRzJYU3pFYVhDOUVkODNyNy16MXFGTFpNbkVCWUhyZ1I3NVQzOF9Ucm5IcjIxbHkwSDN1bUJxUUY5Y3Z5UkFnTVRlYlZiaVR2bmVWQjgyQkt5d1FrWGgyWUNLVDVDT1NTajZEN3d3QVJCUQ?oc=5)
+
+2026-10-21 <span class="news-drug-tag">Benralizumab</span>
+
+Source: [Journalmed.de](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHFSMjFHMUFYTjF1X2l5MmYzZHk5OTlPeW1sZTVzaGJnRTVvNnRkakJpREE0bW1FMjJVeUVyUmdHaG5WbTBjMTVqVGxVRzJYU3pFYVhDOUVkODNyNy16MXFGTFpNbkVCWUhyZ1I3NVQzOF9Ucm5IcjIxbHkwSDN1bUJxUUY5Y3Z5UkFnTVRlYlZiaVR2bmVWQjgyQkt5d1FrWGgyWUNLVDVDT1NTajZEN3d3QVJCUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

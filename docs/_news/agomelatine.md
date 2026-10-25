@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Tus hábitos de sueño podrían indicar un tipo específico de depresión - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
 
@@ -48,14 +48,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE
 2026-10-25 <span class="news-indication-tag">depresión</span>
 
 Source: [Vanitatis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
-
----
-
-### [Près d'un quart des dépressions seraient liées à un dérèglement de l'horloge biologique](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3Nzd2xHN3dnSV9zc3pBeDQxbWoxeUV5V05ISklTNmx0R3NzUkdTMkdXdWs1LW9ydklDMURjRGQ1VFM3OHRXYktRX3hfRmZIcGtmaXZBQmdjUl9tWnZ1aFc3T3BHalFVZDhGUEg3RUlQN1lwQjJIQXpHU0Z6V1JxcWJhS1RMdHZjVjBrdjBlQXBnc2F3dUhsSEh4T2pTRWFuNHFMSC1rcXZSdw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">dépression</span>
-
-Source: [Slate.fr](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3Nzd2xHN3dnSV9zc3pBeDQxbWoxeUV5V05ISklTNmx0R3NzUkdTMkdXdWs1LW9ydklDMURjRGQ1VFM3OHRXYktRX3hfRmZIcGtmaXZBQmdjUl9tWnZ1aFc3T3BHalFVZDhGUEg3RUlQN1lwQjJIQXpHU0Z6V1JxcWJhS1RMdHZjVjBrdjBlQXBnc2F3dUhsSEh4T2pTRWFuNHFMSC1rcXZSdw?oc=5)
 
 ---
 

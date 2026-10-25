@@ -14,7 +14,7 @@ permalink: /news/anifrolumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Anifrolumab?">
-<strong>Anifrolumab</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Anifrolumab</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,31 @@ This page combines the AI-predicted indications for Anifrolumab with the latest 
 <p><a href="{{ '/drugs/anifrolumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
+
+### [Implantat gegen Diabetes? Studie liefert überraschende Ergebnisse - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREVkSmswSjBXLU9DaHIwTkFNZWpDWXFIR2NQcktDT3E3TnZKN29yakF1QTZOUDlmSldxc084VGFXUXd0MHBpYy1Gazh1QmUwekdCbGp0STd1SVN3U08zYW1IS0tqbWtiM3JyUHB6ZWN4d0pvMkswQl9xOVVDYkxrcWItMEoxeXFBNkhMUzVPRmxqRW50U1Y2dFQ5Y1c1dFEzN3JxMFpxdjRHaWYxeVBRVy1jY084QjN5aWxpVE43ZzJvSGg0cFo0NQ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREVkSmswSjBXLU9DaHIwTkFNZWpDWXFIR2NQcktDT3E3TnZKN29yakF1QTZOUDlmSldxc084VGFXUXd0MHBpYy1Gazh1QmUwekdCbGp0STd1SVN3U08zYW1IS0tqbWtiM3JyUHB6ZWN4d0pvMkswQl9xOVVDYkxrcWItMEoxeXFBNkhMUzVPRmxqRW50U1Y2dFQ5Y1c1dFEzN3JxMFpxdjRHaWYxeVBRVy1jY084QjN5aWxpVE43ZzJvSGg0cFo0NQ?oc=5)
+
+---
+
+### [Gewichtzunahme ab 40 – diese 4 Routinen machen den Unterschied - Business Insider Deutschland](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHpYUUhDRE1WNGJiam9sSzlYSUt2c0RfdGZ0Y2xiRDUweHBkR2FZYmdPdUo5eXRFbjJOSG5qaWhfYkRfOTBpRHd1bGgxTHpjQ3BjT3pjUzJBckRhdUdqZThZNDl0QlJJRGV4R3RBbTNFLUt0UjdIdGVhazB0T2s3V3NEMnc5SC1mY3NWM1NrV1ZOVjFTc1haNVNidldfNVdOV2V3MjBwenNSUUFXWUxLUUlKZkFiSjg?oc=5)
+
+2026-10-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHpYUUhDRE1WNGJiam9sSzlYSUt2c0RfdGZ0Y2xiRDUweHBkR2FZYmdPdUo5eXRFbjJOSG5qaWhfYkRfOTBpRHd1bGgxTHpjQ3BjT3pjUzJBckRhdUdqZThZNDl0QlJJRGV4R3RBbTNFLUt0UjdIdGVhazB0T2s3V3NEMnc5SC1mY3NWM1NrV1ZOVjFTc1haNVNidldfNVdOV2V3MjBwenNSUUFXWUxLUUlKZkFiSjg?oc=5)
+
+---
+
+### [Neue Studie prüft Ernährungstrend: Bringt die Reihenfolge beim Essen etwas?](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGxxWER4ZERGdk9RLWU4R0VKUkNjMktoQl9veUwwOHhMVFIzdEJ4b3NZSXY4WjA0cEtrNG9xNGJadFE2LXdPVUlUbkxzZUR3eW1naEtZOFlCQ1NBdV9tTEZld29iM3ZEUUtKRzQtSWMwTUg0bHRpUXhJVkQ5UWhhZExYU3lpall2VGhCTWFYcUNMVDgxUE4wUjFlZmV0MUVRY25vMGs4ckM5LVY4Q2c?oc=5)
+
+2026-10-25 <span class="news-indication-tag">diabetes</span>
+
+Source: [T-Online](https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGxxWER4ZERGdk9RLWU4R0VKUkNjMktoQl9veUwwOHhMVFIzdEJ4b3NZSXY4WjA0cEtrNG9xNGJadFE2LXdPVUlUbkxzZUR3eW1naEtZOFlCQ1NBdV9tTEZld29iM3ZEUUtKRzQtSWMwTUg0bHRpUXhJVkQ5UWhhZExYU3lpall2VGhCTWFYcUNMVDgxUE4wUjFlZmV0MUVRY25vMGs4ckM5LVY4Q2c?oc=5)
+
+---
 
 ### [Studie zeigt: Menschen mit dieser Blutgruppe sind öfter von Diabetes betroffen - Berliner Morgenpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3Q1TG44ejRkZkItZi1BX3lDQkxBUVBZeHJXbXNrbTZRem5jM2VGM1k2U1haaWpsTEM4VGJEUWgtZm5BcWJxWDgtVXZOaVVyR3NMYWE0eXlRY01FZXZiN2RpVlRKRmN1amtES0tVSGluSURkaTlBaEcweWVmSXJ3cHp2VmhUNHROZjEzVnZhcEd2S3R2aEJBOUV0MGZRczd4R3Y5SzU2S2U0Tjl3X252Y1RnOTg5MVcydVdwclZaUk1nQVp5RHhtUjYwNDMwN2Q5QnNyNVZ0X0hQZw?oc=5)
 
@@ -74,22 +98,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1
 
 ---
 
-### [Neues Diabetes-Implantat baut Zucker im Blut ab – Mäuse nehmen dabei sogar ab - smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
-
-2026-10-24 <span class="news-indication-tag">diabetes</span>
-
-Source: [smart up news](https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTkzSW5McmVwS0VoTXFUQXpfQTZTQzQ2dnpsemJ4NXpRSzdqUlFCX0JYSE5lS3BQWHBMZC1WRF9OWTNSUS1MOUlWZ3NuYTYzLVg3bjQ3ckk3QTFtSXdXYVE3NjVjY3YydWt5MF85Y0VpX3JybDRpaFZadUZfRFo5T2VyWWRBSC1vaGxmbUxTXzFSVXBMQk5MaFFNOEJhSFd3d1hqZ296SnluYl9lMllvaWNB?oc=5)
-
----
-
-### [Diabete di tipo 2, perché il pancreas produce meno insulina: scoperto un meccanismo che danneggia le cellule](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTY4dDE3QmRNSzlDQ3MwYVJBVE02VDlpdUs5dWg0TVd0Y3o5RG1FaDVVVjVDbzhCZWhNb3doZ0k5QlhQcTZIWF95TUhFZWR6VmRvY0MtamZXSDIwX1Fld3Y0Ry1uODFBUTdici1kSlhTeGtFODdoQkVkRDl4VGNqUTBTclNweWZ5V3UyNFoxMDFXYUhrT093TFJkRG5BNzJuQk14Q3dWbDNFbVZNY0ZYY1ZURzczbmVpU25qRE1rQndzR0EyQWtRcS1tRlk0WVo1b2ZCWWljQVhadlhQd1VKd2lzdXNlM0paWEtDZ1pR?oc=5)
-
-2026-10-24 <span class="news-indication-tag">diabete</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTY4dDE3QmRNSzlDQ3MwYVJBVE02VDlpdUs5dWg0TVd0Y3o5RG1FaDVVVjVDbzhCZWhNb3doZ0k5QlhQcTZIWF95TUhFZWR6VmRvY0MtamZXSDIwX1Fld3Y0Ry1uODFBUTdici1kSlhTeGtFODdoQkVkRDl4VGNqUTBTclNweWZ5V3UyNFoxMDFXYUhrT093TFJkRG5BNzJuQk14Q3dWbDNFbVZNY0ZYY1ZURzczbmVpU25qRE1rQndzR0EyQWtRcS1tRlk0WVo1b2ZCWWljQVhadlhQd1VKd2lzdXNlM0paWEtDZ1pR?oc=5)
-
----
-
 ### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
 
 2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -98,35 +106,11 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxN
 
 ---
 
-### [Frühe Menopause: Vor dem 45. Lebensjahr steigt das Diabetesrisiko um 30 Prozent](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYldsQ0RDSm5sTm5iRzlfWlBISEREYmxhTEFhWnUtb0oyNjQ0UGVFc0dreExoWUVYN3VnVDlMcFFnYUVvWFhUWTZrWDNtZEJROGpqYXZFTGM0Y2cxMjRMME1jUy1qbnNjNEtLLUJCdWxna0hJWEJMRkNBWkxsLWlvaGs2ZnJnUktxYzJTOFJoV0dVQTQ0enB6T0V6M0VDTjhmUVJuREhMd1VqdEVlVGx3S0c5M0owQXlucTlwVnBzSWhKeDUwdnc?oc=5)
+### [Congreso SEEN: Los sistemas automatizados de insulina se acercan a una diabetes tipo 1 con menos decisiones diarias - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU09vNGhVVUtkMDc0aWdURlBEZS0xcnNIT2trSDkxbXRLX2F2aF9RLVZ4OXFDZkFHMi1rWXlzQzZPci1ZY3hDQy1KTFRndDlCYzZBR2RTdWJLNW95UzBmYTFfeFBqM2hLWHNlN2xYX2RLZWVlVnNQWEZpeUliNU45d3hud3M0THREWnQtb0RsTno1cU5OWWFqMVkyc0M4UzdQTUd5cV9WUTVPWGR3eHk0bVVrU1RXZVVrSnNKSTR2Z9IBugFBVV95cUxObUlRMTI0cUNwbXFta0J2eTA2QjRoYnR0dkhYQTd0cXo3NmhHMFd5T2lEVGY4aEdXa3RDbVJsOFNCaWVjWmNWemltT281Z3BZNGpkWE5uaTBGRnlUcDloemJzUFlEU3BPZHk5MkwyU19PN3FZUk1aVjhHU2xMa0NGS0QydkduZWk1ZnE0UzRfRFZyWGwyU3AwWDZaMWxNaGdaLXB6YW9RcmFqQ3BuTFJjNHN1UEN1MUNwT0E?oc=5)
 
-2026-10-24 <span class="news-indication-tag">diabetes</span>
+2026-10-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPYldsQ0RDSm5sTm5iRzlfWlBISEREYmxhTEFhWnUtb0oyNjQ0UGVFc0dreExoWUVYN3VnVDlMcFFnYUVvWFhUWTZrWDNtZEJROGpqYXZFTGM0Y2cxMjRMME1jUy1qbnNjNEtLLUJCdWxna0hJWEJMRkNBWkxsLWlvaGs2ZnJnUktxYzJTOFJoV0dVQTQ0enB6T0V6M0VDTjhmUVJuREhMd1VqdEVlVGx3S0c5M0owQXlucTlwVnBzSWhKeDUwdnc?oc=5)
-
----
-
-### [Congreso SEEN: La sarcopenia es un factor de riesgo para desarrollar diabetes - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3RyZXhEUXlXTFM3c2NHYU9VUG1ZWXQwdnZZVzBoRXBEd1BvNWtCSWRyNFlNYVlUeU9ranlvZHdiYnZINXlRUjM2UXBVUmZZMGF6WjdzTEtEeElCeC1la1BDdDE0cVAxbUZEUk5GRU1iZWZnVEFnSUx2R0llMW43T0hOYmxPUTAzU1ZvalROSUNqNVotSnNHWk1hUVg2YzY5QmtlR0ZxMVNfMkY4ZXY4c0NoTmR0a3FzbTExaEZn0gG4AUFVX3lxTE1mVWZycTdwcGE0OHlDNUE5WF9ybFFYM1ZtVWJ1ZHVjTVJsQ29IeXpCR0VURm5EMnF0aExEOUlyQzdzYUQ2aDQyTUVubUUyY1paZVU4aHdXWVN2dXg0SHdHVkRZT3BGeXJnd3ZPUERqR1lfQ0J1OEljWEs2UHMxeHBJUlFJVTNNNHl2eEVIeFl3RDAzNVJvRDJsSXhaelNWRlBQdHREekdsZ1YxS1RBdXBBMHhCTnNYdU0?oc=5)
-
----
-
-### [Demenz vorbeugen: Neurologe erklärt Gewohnheit mit ‚spektakulärer‘ Wirkung - Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span>
-
-Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHd6b0pCSlJZaDZQeVczeXZnMWVTbEpQNHM4LW92Ylh2TU5mSmxTaHliOGV4aTNhazRDODZhSmRtMjB3Wjd0dkZ5TXN4MjFsaF8wOGphY0FUU04tR0hlUjZMcjhQcmE1R3NFbXd5b1pCbUVYTVpLbHkwWEY4N0tSSnF4N1Eyb1BMRFE2TWc0aDBiM2FWeGxZT0VIVWd0U251SW1HMUxwSEhjeW1vblFv?oc=5)
-
----
-
-### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">Alzheimer's</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uSEJQSmdFWm1DNmhVZ05SRTV0WVRPMC0yY2FZbU9hMXhnLXVtVUV1TF9TU0tXSTdDN3VZb2hjMU93ZVdGQzRvU1hxdnVnS0NoYXZzeEhUdklBWXZJYUE?oc=5)
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxNU09vNGhVVUtkMDc0aWdURlBEZS0xcnNIT2trSDkxbXRLX2F2aF9RLVZ4OXFDZkFHMi1rWXlzQzZPci1ZY3hDQy1KTFRndDlCYzZBR2RTdWJLNW95UzBmYTFfeFBqM2hLWHNlN2xYX2RLZWVlVnNQWEZpeUliNU45d3hud3M0THREWnQtb0RsTno1cU5OWWFqMVkyc0M4UzdQTUd5cV9WUTVPWGR3eHk0bVVrU1RXZVVrSnNKSTR2Z9IBugFBVV95cUxObUlRMTI0cUNwbXFta0J2eTA2QjRoYnR0dkhYQTd0cXo3NmhHMFd5T2lEVGY4aEdXa3RDbVJsOFNCaWVjWmNWemltT281Z3BZNGpkWE5uaTBGRnlUcDloemJzUFlEU3BPZHk5MkwyU19PN3FZUk1aVjhHU2xMa0NGS0QydkduZWk1ZnE0UzRfRFZyWGwyU3AwWDZaMWxNaGdaLXB6YW9RcmFqQ3BuTFJjNHN1UEN1MUNwT0E?oc=5)
 
 ---
 

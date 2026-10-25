@@ -39,11 +39,11 @@ This page brings together the latest health news about “Schuppenflechte” and
 
 ## Related News (1)
 
-### [Vitamin D und Magnesium: So wirken sie zusammen - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFBKZlAtYk40dGZNeUNVdTZRaHVnRUFxd09yTUxfRjBwbXU3elI1ODF0VEJfNnU5QTJDY1JNQ2ZIaGZkdlVId09sVVBsUkJNZHhaai1pMGNTMldJa1lCeTdvd2xlRDZYUXBoR2R3WjhRZXFhdHZOcEFjZmd1WHo5NFpHY1RGbmZiSHc3alpnVU8yY3V5aXMyOTFoUDZkVFFjUkpRTTVteEpjQzQ?oc=5)
+### [Vitamin D: Stiftung Warentest stuft fünf von 25 Präparaten als ungeeignet ein](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
 
 2026-10-25
 
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFBKZlAtYk40dGZNeUNVdTZRaHVnRUFxd09yTUxfRjBwbXU3elI1ODF0VEJfNnU5QTJDY1JNQ2ZIaGZkdlVId09sVVBsUkJNZHhaai1pMGNTMldJa1lCeTdvd2xlRDZYUXBoR2R3WjhRZXFhdHZOcEFjZmd1WHo5NFpHY1RGbmZiSHc3alpnVU8yY3V5aXMyOTFoUDZkVFFjUkpRTTVteEpjQzQ?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
 
 ---
 
