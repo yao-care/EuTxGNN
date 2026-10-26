@@ -14,7 +14,7 @@ permalink: /news/tolcapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolcapone?">
-<strong>Tolcapone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Tolcapone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Tolcapone with the latest he
 <p><a href="{{ '/drugs/tolcapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### ["Mind-blowing" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNmJPZkNKQzIxX1ZMMVBobmxFSVRJeGx0bEMwOE40bUJrNV9kbkJtUmp0WG9aT19JWmZLcGtycHNCWDd0ajZjTlZkOGJuMWpEamdaY3haX0xSMnJRQ2xZSnhjemdJZ2ZmV3ljbVhYdw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">alzheimer disease</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNmJPZkNKQzIxX1ZMMVBobmxFSVRJeGx0bEMwOE40bUJrNV9kbkJtUmp0WG9aT19JWmZLcGtycHNCWDd0ajZjTlZkOGJuMWpEamdaY3haX0xSMnJRQ2xZSnhjemdJZ2ZmV3ljbVhYdw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

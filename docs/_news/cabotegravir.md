@@ -14,7 +14,7 @@ permalink: /news/cabotegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,13 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
 
-### [Meal Sequencing: 18 Studien finden keinen dauerhaften Blutzuckervorteil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
+### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
 
-2026-10-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-25 <span class="news-indication-tag">artrite</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
 
 ---
 
@@ -82,7 +82,15 @@ Source: [UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYX
 
 ---
 
-### [Warum Stress bei manchen Menschen Arthritis auslöst und bei anderen nicht](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+### [Darmflora und Diabetes: Neun Bakterienarten könnten früh vor Typ 2 warnen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+---
+
+### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
 
 2026-10-24 <span class="news-indication-tag">arthritis</span>
 
@@ -98,11 +106,11 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxN
 
 ---
 
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

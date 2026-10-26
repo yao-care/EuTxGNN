@@ -14,7 +14,7 @@ permalink: /news/riociguat/
 ---
 
 <p class="key-answer" data-question="What news is there about Riociguat?">
-<strong>Riociguat</strong> currently has <strong>29 news articles</strong>, with 1 predicted indications.
+<strong>Riociguat</strong> currently has <strong>33 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,29 +32,37 @@ This page combines the AI-predicted indications for Riociguat with the latest he
 <p><a href="{{ '/drugs/riociguat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (29)
+## Related News (33)
 
-### [Vitamin D: Stiftung Warentest stuft fünf von 25 Präparaten als ungeeignet ein](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
+### [Millions of people high blood pressure pills daily, now scientists are testing a small device that stimul - The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxQdFdsY25QYUFzTFpTYWJzT1JTM3hRdTV5cEd0STFoTlpHcTRMS18wTWtueWN5RXBOTnBOYTlvcldiTUkySHd2Z1FNQ1pYNTQ5b0ZQWWVWZm1iNkVxRWNocVJTOFhBOVZGdmpxSHBHbEZQVHNIdnQzdGVMcEszaDZlT0dLUDEzMHFHeDd6TS1saFVtNnEzR2pOQUVCOGVUd21TVUFGWFpBaUIxNkR1SUVLcnFsT0xQZGVNUkpKd2FJRHozbmUyVEJXVUdrWEZaREtDV0ItWHFDMmNzNGhrbUdvY2ZJZTJBTi1YcFlITS1TeFI4R2hBLXdHekFJRlAxMHVhUUFuTC1nMGxVRWRwOWF5cmtHdUVORGdIcG1iVmFlZWpNU1I5cEJlSi1HX1hrVGVKMm5QQ0puWkYxbzFHZGtrX0xFMHpYQ0pJTkJUSVJFNGsyTU94dWlZQXBnc3lVT2J0RWpYNjM5VVRiRmdGc3NqMFdNMNIB-AJBVV95cUxPWjZtTXE5TzZ1NHhpcWRPWjhNN2MxV20xaUdBZ1p2dGdkTGNWRHJBU3BZeUkwZFlzX2gtVUY2blRZRlR5ZkM0QUlJT05vYjVIYWdNcWNZcGtUMFdTMEtCZV9rV2xpUGsyOW9ibTZCS2I3Znp2ZlF0dGdqSGJxaVpSMl80SkFWbnh3M0R2T0o4ZXpwM2pqN1o1bHZHeGVKWEgtYmR4T3dINEEtcFJvRnl6RFRPbm1MUDU5bmppMDRna3FOS2x3d0NiRXlscnZpQTc5SmJ0Wk5iUzRBTkkydTlnTVhNSHNZMC1TV0pLOVc3N29GRDZwRGNJRXNZbzJNTkFDVWZmelQwQ0xfUVFLQU1XQ2pRb1FldElyUHAyLTI3TFU5Y05ZWFFKVGlfbEJUMjQ5NTY4RG5FRlJBSmVVV29iaVpGSGxZcGloMmhydzJJbXJGRTZKQmI3UGJDNV92M05SX2JFci1vREQ5WC1qaWJFcDZDSFY1Q0xE?oc=5)
+
+2026-10-25 <span class="news-indication-tag">high blood pressure</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi8wJBVV95cUxQdFdsY25QYUFzTFpTYWJzT1JTM3hRdTV5cEd0STFoTlpHcTRMS18wTWtueWN5RXBOTnBOYTlvcldiTUkySHd2Z1FNQ1pYNTQ5b0ZQWWVWZm1iNkVxRWNocVJTOFhBOVZGdmpxSHBHbEZQVHNIdnQzdGVMcEszaDZlT0dLUDEzMHFHeDd6TS1saFVtNnEzR2pOQUVCOGVUd21TVUFGWFpBaUIxNkR1SUVLcnFsT0xQZGVNUkpKd2FJRHozbmUyVEJXVUdrWEZaREtDV0ItWHFDMmNzNGhrbUdvY2ZJZTJBTi1YcFlITS1TeFI4R2hBLXdHekFJRlAxMHVhUUFuTC1nMGxVRWRwOWF5cmtHdUVORGdIcG1iVmFlZWpNU1I5cEJlSi1HX1hrVGVKMm5QQ0puWkYxbzFHZGtrX0xFMHpYQ0pJTkJUSVJFNGsyTU94dWlZQXBnc3lVT2J0RWpYNjM5VVRiRmdGc3NqMFdNMNIB-AJBVV95cUxPWjZtTXE5TzZ1NHhpcWRPWjhNN2MxV20xaUdBZ1p2dGdkTGNWRHJBU3BZeUkwZFlzX2gtVUY2blRZRlR5ZkM0QUlJT05vYjVIYWdNcWNZcGtUMFdTMEtCZV9rV2xpUGsyOW9ibTZCS2I3Znp2ZlF0dGdqSGJxaVpSMl80SkFWbnh3M0R2T0o4ZXpwM2pqN1o1bHZHeGVKWEgtYmR4T3dINEEtcFJvRnl6RFRPbm1MUDU5bmppMDRna3FOS2x3d0NiRXlscnZpQTc5SmJ0Wk5iUzRBTkkydTlnTVhNSHNZMC1TV0pLOVc3N29GRDZwRGNJRXNZbzJNTkFDVWZmelQwQ0xfUVFLQU1XQ2pRb1FldElyUHAyLTI3TFU5Y05ZWFFKVGlfbEJUMjQ5NTY4RG5FRlJBSmVVV29iaVpGSGxZcGloMmhydzJJbXJGRTZKQmI3UGJDNV92M05SX2JFci1vREQ5WC1qaWJFcDZDSFY1Q0xE?oc=5)
+
+---
+
+### [Why seasonal affective disorder will hit hard this year – and how you can fix it - The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
+
+2026-10-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
+
+---
+
+### [Kann man mit Vitamin D einer Erkältung vorbeugen? Das sagen Studien - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTFKR2xoNzBZRFlVcVBoWExuaWJ2RUFpemFjYWZpWnhmM3JQUkZKSTlHLVNWNmlIUlJmQkQ0UC03bHdaSUlBX3ItWTc5NkhLYnJFRG13bFBzLWlkSzd2Tm52NHpxSEJsNHA2WTlLVkZHVjdNdWc0OUViSi1OR19VTnVDN0dUbWRLbm9vTkViVnE5ZnlFdTF1ZUFfcmh5YjY0S2J5ZXZ6cDFqeEFTSVZz?oc=5)
 
 2026-10-25 <span class="news-indication-tag">Schuppenflechte</span> <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTFKR2xoNzBZRFlVcVBoWExuaWJ2RUFpemFjYWZpWnhmM3JQUkZKSTlHLVNWNmlIUlJmQkQ0UC03bHdaSUlBX3ItWTc5NkhLYnJFRG13bFBzLWlkSzd2Tm52NHpxSEJsNHA2WTlLVkZHVjdNdWc0OUViSi1OR19VTnVDN0dUbWRLbm9vTkViVnE5ZnlFdTF1ZUFfcmh5YjY0S2J5ZXZ6cDFqeEFTSVZz?oc=5)
 
 ---
 
-### [Meal Sequencing: 18 Studien finden keinen dauerhaften Blutzuckervorteil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
+### [Scientists Discover That Ovaries May Be Doing Something Unexpected Decades After Menopause](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xBZkpURmZuZTF2UG82cVY4NnBUVndmSVJTdjhTdGZKdGR2M0VKam5uMFg1YmRKWUFha0dQclZjXzVtNTM3RXdoNE1QV2tjd0JIRjM1a3hFQ1dGYnlwQTBDNHg5aTlUVDRTRmFmMF8tWW1BdmdYc0VXLVBkOUt1cXFYem0ycUY0bnZ4aXo5d0VQWnV2d2psX1hBbEFDRGNBUVRMeXA5Q0ZZMm9aU2lCaldfdTlxNjg?oc=5)
 
-2026-10-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
+2026-10-25 <span class="news-indication-tag">AF</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
-
----
-
-### [Día Mundial de la Menopausia: síntomas, cuidados y cuándo consultar - Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
-
-2026-10-24 <span class="news-indication-tag">AF</span>
-
-Source: [Ahora León](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FREJrb2MxbjNtaUROd0V1OVY1dVU1eHJZeEdDbjdHb1hCZkstSV9lMEFEVVlzMnBtZlpZQUgwWnZLVjdTY2JPVXhYNkxVNnNHNXdpLXFteW8?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2xBZkpURmZuZTF2UG82cVY4NnBUVndmSVJTdjhTdGZKdGR2M0VKam5uMFg1YmRKWUFha0dQclZjXzVtNTM3RXdoNE1QV2tjd0JIRjM1a3hFQ1dGYnlwQTBDNHg5aTlUVDRTRmFmMF8tWW1BdmdYc0VXLVBkOUt1cXFYem0ycUY0bnZ4aXo5d0VQWnV2d2psX1hBbEFDRGNBUVRMeXA5Q0ZZMm9aU2lCaldfdTlxNjg?oc=5)
 
 ---
 
@@ -138,6 +146,14 @@ Source: [EDP24](https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkdIQkRPdUV
 
 ---
 
+### [Kölner Forscher entdecken erstaunlichen Kälte-Effekt: Eine bestimmte Aminosäure verlängert im Labor das Leben - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dmd2NUeXFWd0htVDhMMXR6UVdKSWxtcXhrR0pnV0FucnphUmlxSWZWTTRTQlVfX01NUnFhREJpYWpRWVV5OGJQZG9YYWFBZXdlTmhfTGxRTXc0ZTlCOEczWmFvM1FrYmE2amNyUjRLd1g0Sk11UVk2OHVGY3M4VGZMOTM0NjlYV1JNLTF1VDRpNUUwb0hid0s1elFaSTdXbWVsUUFvUURhSGJIejN4RHllVTV5eENUV1BiLXZVYkZFUTNYSVBHN2tFSGZiRHpITUE?oc=5)
+
+2026-10-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dmd2NUeXFWd0htVDhMMXR6UVdKSWxtcXhrR0pnV0FucnphUmlxSWZWTTRTQlVfX01NUnFhREJpYWpRWVV5OGJQZG9YYWFBZXdlTmhfTGxRTXc0ZTlCOEczWmFvM1FrYmE2amNyUjRLd1g0Sk11UVk2OHVGY3M4VGZMOTM0NjlYV1JNLTF1VDRpNUUwb0hid0s1elFaSTdXbWVsUUFvUURhSGJIejN4RHllVTV5eENUV1BiLXZVYkZFUTNYSVBHN2tFSGZiRHpITUE?oc=5)
+
+---
+
 ### [Coalville family backs brain tumour research after death](https://news.google.com/rss/articles/CBMiXkFVX3lxTE81Nk41Y242bjNrMFQtUHFwOWFCSy1xUmV2WWp5MGFVbmpmU3Z5UmltdlJETDh0cXFvSWYteFhwOExmOVJ3MTlFRDhBS21Fd2dQNjd3WU5FRjU3emEzWUE?oc=5)
 
 2026-10-24 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">AF</span>
@@ -194,11 +210,11 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EYmUtalUwVWktT
 
 ---
 
-### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+### [Ebola Outbreak in Africa Reaches Widest Expansion Ever - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
-2026-10-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+2026-10-22 <span class="news-indication-tag">AF</span>
 
-Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE9hODlrOXNWeGJKSzVnWVVDSHRXMnJhOEV2TU5sTUY2R2U5MGhjcVNRT3Nld2tNTmxwVzZGa01jd3V0b2dzY0tZVjN5aUZPTklPN0I1Y3NKMVNmbW1ROUdHYW9OMEZUbVB3VHZWb2NPREJvc0ZQU2RjZVl3dms?oc=5)
 
 ---
 
@@ -242,11 +258,27 @@ Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS
 
 ---
 
+### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+2026-10-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
+
+---
+
 ### [Multiple Sklerose bei Kindern und Jugendlichen: Europäische Zulassungsempfehlung für Ocrelizumab - Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
 
 2026-10-19 <span class="news-drug-tag">Ocrelizumab</span> <span class="news-indication-tag">Multiple Sklerose</span> <span class="news-indication-tag">AF</span>
 
 Source: [Deutsche Multiple Sklerose Gesellschaft](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRk5VbEFVbXIwUHRPY2gzU25GTDRMSF9LLVZqNVRvTUF3ZjFZRkN0SDNoekxmaUM0bXU1UjRUcVhMWlZieUZTeXl5blBnWDBSV2g5WGMxQnJ6VFZRTFJ6c09QeDRaM2VJUHdFSDNJaDdpUDNaaEpmY3BmME1kNlJDUFBMNmlOSWFRRG1QTk5iRDMxTDhOSTllekwwSzBfazZzYTh6czdiTGVzaHloekNJbU1KMXVCUWE1YkRCVXNnOC1LQmk5VkxHYUZpSi0tUTFKQ0E?oc=5)
+
+---
+
+### [Bluthochdruck: Die stille Gefahr, die Millionen Menschen unterschätzen](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [EPPINGEN.org](https://news.google.com/rss/articles/CBMitwFBVV95cUxOY21SbWh0VVZBUURmUmltV2tQdzZ1Q2lQUFIwZG5RazhCeFA3SnBTYTZwZFJZS1BsSEtBdVoxXzFTa0dKZmpMWldIZTlBZ0V1WWxQc0FlenpvSm9idFZOd1NqNUhFTGtmUjAwTzdCNzMwR3hhdXEyOVZVS2R0V0hiclowd3BOREZGUEFOWGRNVVRhWWJIVXUzSWRpNHo0Rlg2a2JVUkU4QWNLbTNFdWsyaHpZNWRCczQ?oc=5)
 
 ---
 

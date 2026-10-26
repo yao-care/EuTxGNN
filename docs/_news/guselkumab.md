@@ -14,7 +14,7 @@ permalink: /news/guselkumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Guselkumab?">
-<strong>Guselkumab</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Guselkumab</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,23 +32,7 @@ This page combines the AI-predicted indications for Guselkumab with the latest h
 <p><a href="{{ '/drugs/guselkumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
-
-### [Vitamin D: Stiftung Warentest stuft fünf von 25 Präparaten als ungeeignet ein](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
-
-2026-10-25 <span class="news-indication-tag">Schuppenflechte</span> <span class="news-indication-tag">AF</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNUm5GWFVKb0VaZHBvZURoRnlBaFpCRXIyamtTU29rdUNiZDJ4bG9CVFF0aWJEVW9uZG5NbjZRaHpkeHlaMUEwal9na0xZZjdzN1RGR0RaZ0tKM0J1dTJnSFM3YnVITXVzTlJVS3dGT3hYWWl6WU5Ybm5QOHA2TURHTk9Md0hmdHZyNnRzYVZwQ3ppdzA4M1F5Q2l5MDJrX0M2TWlnbklTQXRUZDFrbHlkNVZNT2FXbE4tNU02ZVNHcFhwYi1WalE?oc=5)
-
----
-
-### [Meal Sequencing: 18 Studien finden keinen dauerhaften Blutzuckervorteil](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
-
-2026-10-25 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">AF</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNlFvdTRGWlpSN1ZhbGthVi1RNUt6N2ZGUVJvSWZGZVNPY2xqMDVweWQ2Q3dJRXA3TDlyT3BjdjVObEFXa0hvYWVYRkk5a3VTSFhFTkhMUG9ZRE1hX1diaVQwekdCaEtpdjZzMVpVSUJxUUlVWlZOUURuU29lR2ZpT25NTmpuQk5odVZzSUQ4NUZfWmVhZnpQY0k2RFZLTF96My15cDlSaDlFM0djOEtxYjl6VzY1dlRCUHhR?oc=5)
-
----
+## Related News (11)
 
 ### [Implantat gegen Diabetes? Studie liefert überraschende Ergebnisse - Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNREVkSmswSjBXLU9DaHIwTkFNZWpDWXFIR2NQcktDT3E3TnZKN29yakF1QTZOUDlmSldxc084VGFXUXd0MHBpYy1Gazh1QmUwekdCbGp0STd1SVN3U08zYW1IS0tqbWtiM3JyUHB6ZWN4d0pvMkswQl9xOVVDYkxrcWItMEoxeXFBNkhMUzVPRmxqRW50U1Y2dFQ5Y1c1dFEzN3JxMFpxdjRHaWYxeVBRVy1jY084QjN5aWxpVE43ZzJvSGg0cFo0NQ?oc=5)
 
@@ -63,6 +47,22 @@ Source: [Berliner Morgenpost](https://news.google.com/rss/articles/CBMiyAFBVV95c
 2026-10-25 <span class="news-indication-tag">diabetes</span>
 
 Source: [Business Insider Deutschland](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHpYUUhDRE1WNGJiam9sSzlYSUt2c0RfdGZ0Y2xiRDUweHBkR2FZYmdPdUo5eXRFbjJOSG5qaWhfYkRfOTBpRHd1bGgxTHpjQ3BjT3pjUzJBckRhdUdqZThZNDl0QlJJRGV4R3RBbTNFLUt0UjdIdGVhazB0T2s3V3NEMnc5SC1mY3NWM1NrV1ZOVjFTc1haNVNidldfNVdOV2V3MjBwenNSUUFXWUxLUUlKZkFiSjg?oc=5)
+
+---
+
+### [Le psoriasis, une maladie encore taboue qui touche plus de 200 000 personnes en Belgique: "La honte fait souvent plus de dégâts"](https://news.google.com/rss/articles/CBMirwJBVV95cUxPdkNnU0Y1aWFldnZHQi00RnhiVGRENWc0VFdJb3gxQ1lyYU9XZzVQT2ZsaHZ5QjFCM2stNjAydlp6SHY4aTF4SFRsOXA5aDBZc210TXlWVTFkcUZNWnJiRXVZUjFFZjNGU0FhQ0ZlQXBIaTlCdXUydVIxU3hxNkZEcWQzOE1hdUptcjFsQmQ2dHNIOFViRnBOWFRodGd2Y1VOS1V1WFRRRDJQN0Nwa0FjMTVaUXpKbGpqR0pxQVpnTWROaWNzWlhOS1lLeEdQN0pXQ1pTNmpzOV93MnRES1p0cEpJeTQzbTZSQjJHWGh6aFJwTUMwRVZIUnN3SEZwSGtkd0pYX25iblFobkd1eTVKcG1qLTJqWDhyNUFKLTA5R056ckY4MHVTVjdXa1paVzg?oc=5)
+
+2026-10-25 <span class="news-indication-tag">psoriasis</span>
+
+Source: [L'Avenir](https://news.google.com/rss/articles/CBMirwJBVV95cUxPdkNnU0Y1aWFldnZHQi00RnhiVGRENWc0VFdJb3gxQ1lyYU9XZzVQT2ZsaHZ5QjFCM2stNjAydlp6SHY4aTF4SFRsOXA5aDBZc210TXlWVTFkcUZNWnJiRXVZUjFFZjNGU0FhQ0ZlQXBIaTlCdXUydVIxU3hxNkZEcWQzOE1hdUptcjFsQmQ2dHNIOFViRnBOWFRodGd2Y1VOS1V1WFRRRDJQN0Nwa0FjMTVaUXpKbGpqR0pxQVpnTWROaWNzWlhOS1lLeEdQN0pXQ1pTNmpzOV93MnRES1p0cEpJeTQzbTZSQjJHWGh6aFJwTUMwRVZIUnN3SEZwSGtkd0pYX25iblFobkd1eTVKcG1qLTJqWDhyNUFKLTA5R056ckY4MHVTVjdXa1paVzg?oc=5)
+
+---
+
+### [Kann man mit Vitamin D einer Erkältung vorbeugen? Das sagen Studien - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTFKR2xoNzBZRFlVcVBoWExuaWJ2RUFpemFjYWZpWnhmM3JQUkZKSTlHLVNWNmlIUlJmQkQ0UC03bHdaSUlBX3ItWTc5NkhLYnJFRG13bFBzLWlkSzd2Tm52NHpxSEJsNHA2WTlLVkZHVjdNdWc0OUViSi1OR19VTnVDN0dUbWRLbm9vTkViVnE5ZnlFdTF1ZUFfcmh5YjY0S2J5ZXZ6cDFqeEFTSVZz?oc=5)
+
+2026-10-25 <span class="news-indication-tag">Schuppenflechte</span> <span class="news-indication-tag">AF</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTFKR2xoNzBZRFlVcVBoWExuaWJ2RUFpemFjYWZpWnhmM3JQUkZKSTlHLVNWNmlIUlJmQkQ0UC03bHdaSUlBX3ItWTc5NkhLYnJFRG13bFBzLWlkSzd2Tm52NHpxSEJsNHA2WTlLVkZHVjdNdWc0OUViSi1OR19VTnVDN0dUbWRLbm9vTkViVnE5ZnlFdTF1ZUFfcmh5YjY0S2J5ZXZ6cDFqeEFTSVZz?oc=5)
 
 ---
 
@@ -98,6 +98,14 @@ Source: [UDG TV](https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDBKMHgxYX
 
 ---
 
+### [Darmflora und Diabetes: Neun Bakterienarten könnten früh vor Typ 2 warnen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+2026-10-24 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb1RzS1Juc3RxU3htXy1nVGtfVGt4NmlMV3hHVnoyWWRuUk1ZXzcxeFlLQXBwUmN1QnN2WW9pZ2E2QWpybktLdFhObDRZQUpIbllQRktIdHd0UnZkTTlHSWNlZ1MxcDJVQnlsaWJqaDA4WW9XdlBhVjlIX0lpR0RlX0xldUNjWVA2c24tNmtZSVNjd3lIdFVxYXVMdDhxT2Z2bE9PcWR5NlJhTHM0eWF4OFZ5eF9kSG92S1J6R1JvR2U?oc=5)
+
+---
+
 ### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
 
 2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
@@ -106,11 +114,11 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxN
 
 ---
 
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

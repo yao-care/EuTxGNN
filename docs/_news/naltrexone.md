@@ -14,7 +14,7 @@ permalink: /news/naltrexone/
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>3 news articles</strong>, with 4 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
 
 2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
+
+---
+
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

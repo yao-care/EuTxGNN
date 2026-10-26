@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,13 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
-### [La vacuna de la gripe, aliada frente al infarto y el ictus - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+### [Fuoco di Sant’Antonio, aumenta il rischio di infarto e ictus? Lo studio su 94 mila osservazioni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
 
-2026-10-24 <span class="news-indication-tag">ictus</span>
+2026-10-25 <span class="news-indication-tag">ictus</span>
 
-Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMingFBVV95cUxNc1lnRXZzclpnYlJnRzZncG9reWlveG1FZ0h1WTNndHI1LTJjODJoSFFqdVQxdzZrU2RCTUFOUUZIdy1VTWFFMFVvQ0RYM2UzVFVfc3lvd1BZa3cwTVdRaWZuUEJraG9vOTVsczhwOW1Hd2E0eDNVTml3SnNpTVlScUh0QS1vcmtnRkpfNlhaLWlvUi1zaFhHQmtXMUxRZ9IBowFBVV95cUxQUlZLcHVNMzY0YXdGNVhJS1QyX3hCQ3N6Z2gxZGhmTEtMeDVKRDVjTC1oN3A3MFZ5eFNTbS1lOVdRNF9mMjJKcG5FamVNQ0ZBS0dpcnFtMGR3TG1aczk3QUN5SERsUzBMTlVWTnJwaWJ1UzBjOUxvQUlnV1h1enRDZVNHSGJZZ3lhdUVIRTdpdlpCdUY1TFRoSlp6SGc4WnJqSEp3?oc=5)
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
 
 ---
 
@@ -63,6 +63,14 @@ Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxO
 2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
 
 Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
+
+---
+
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

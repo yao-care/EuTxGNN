@@ -34,11 +34,35 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 
 ## Related News (17)
 
+### [Millionen Menschen leiden unter Volkskrankheit: Forscher machen wichtige Entdeckung - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHBUNFk0ME4xWHhPY0VsaDA2ZVd6MEFiWUpLYkp1eURWR0ZDV2FhVWY2dnMxM3hJQUFDZTRaQWVadVpwMjRMNDRrbUU4OUxMN1g5Z0hhNXNydlZjY2VqVUVoU1VuQTlNcktkTFBpYnltUDZTMWt2OHZpQjJ2NGlydGkxeTBaRUdqZ2hfWmZwb1VKQUJtZElfM0NBM29CNVpyZURoWTNNRHRjZkVZZ08xeWEwMjlpaU9MMzgzNUxiWmNlMGtjMklscUF6OGlLQQ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">MS</span>
+
+Source: [Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHBUNFk0ME4xWHhPY0VsaDA2ZVd6MEFiWUpLYkp1eURWR0ZDV2FhVWY2dnMxM3hJQUFDZTRaQWVadVpwMjRMNDRrbUU4OUxMN1g5Z0hhNXNydlZjY2VqVUVoU1VuQTlNcktkTFBpYnltUDZTMWt2OHZpQjJ2NGlydGkxeTBaRUdqZ2hfWmZwb1VKQUJtZElfM0NBM29CNVpyZURoWTNNRHRjZkVZZ08xeWEwMjlpaU9MMzgzNUxiWmNlMGtjMklscUF6OGlLQQ?oc=5)
+
+---
+
 ### [Ce virus des vaches n'avait jamais touché l'homme en 60 ans : un moucheron l'a fait à Lyon, l'OMS est prévenue - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpEb2I4NFNqemdkZ1NjcW1mcVlKUHBtanlsS2p1T3g1akl4TFFySm1OZTZVN2RYNHVXRmh6eVJ3T1o4TkJmRmgwRERjT0hwZkNhTm8tSmxoZy1rQXVuYW9XZXpWZmNIMEkzQ3dNdDFkWTl3RlRnT0MzaWxwRThmR3FseEtVb1RpQTMyQWpLcGxRbXNhWlE?oc=5)
 
 2026-10-25 <span class="news-indication-tag">MS</span>
 
 Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHpEb2I4NFNqemdkZ1NjcW1mcVlKUHBtanlsS2p1T3g1akl4TFFySm1OZTZVN2RYNHVXRmh6eVJ3T1o4TkJmRmgwRERjT0hwZkNhTm8tSmxoZy1rQXVuYW9XZXpWZmNIMEkzQ3dNdDFkWTl3RlRnT0MzaWxwRThmR3FseEtVb1RpQTMyQWpLcGxRbXNhWlE?oc=5)
+
+---
+
+### [Sclérose en plaques: «Il suffit de la mauvaise poussée pour que ça vous détruise». Entre handicap invisible et imprévisibilité, deux Romandes racontent - Le Temps](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTGZQb203MWlNSTdZNVJWQVBVRnpfd1U5NjByZlR4OTJ1YWEwcWpodHdza3VBN2xmUjRiMGZoRUhqXzI5RHpfcEdldDJVb3VVSGt4eExjVHZwRVhJRlptMnZzeHdwRzh0Z1NxQ3pJaGJpTWY1OUt3WFpsOVl0MUVzWmRIN01jUW1ZUTVGTlQydk1MRmJ1Ymh3RGxRRV9WWkFyZkpSbzZITXJyTFlrcjFIYTVLMzJpWGYxQjQ5TzllLW4xZW1WNlVFVlV6OXdxVU1kMjk2OG1ubXkwY0Vvc2g3UEIxQVJTY3VBNklzN2xjU3dxc2JNZVQwLXJnZ2JaSlZmNndiVjF2SWZEWkNJakRVY3J3?oc=5)
+
+2026-10-25 <span class="news-indication-tag">sclérose en plaques</span>
+
+Source: [Le Temps](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTGZQb203MWlNSTdZNVJWQVBVRnpfd1U5NjByZlR4OTJ1YWEwcWpodHdza3VBN2xmUjRiMGZoRUhqXzI5RHpfcEdldDJVb3VVSGt4eExjVHZwRVhJRlptMnZzeHdwRzh0Z1NxQ3pJaGJpTWY1OUt3WFpsOVl0MUVzWmRIN01jUW1ZUTVGTlQydk1MRmJ1Ymh3RGxRRV9WWkFyZkpSbzZITXJyTFlrcjFIYTVLMzJpWGYxQjQ5TzllLW4xZW1WNlVFVlV6OXdxVU1kMjk2OG1ubXkwY0Vvc2g3UEIxQVJTY3VBNklzN2xjU3dxc2JNZVQwLXJnZ2JaSlZmNndiVjF2SWZEWkNJakRVY3J3?oc=5)
+
+---
+
+### [Iowa’s cancer problem is scrambling the midterms](https://news.google.com/rss/articles/CBMickFVX3lxTE1mR053QnJseVJ1c0lVVXNyc0lQel8tUmtCaXhSVnZBNm5iN0JCTnlzTVByWGJRcXJSSi1uRktIaEhTWm9fVmZOSld4V2NXYVNzSTRKT21lNzVoMkYtemlxRG1EMVNsZFBXNGloNTFtdjFTQQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMickFVX3lxTE1mR053QnJseVJ1c0lVVXNyc0lQel8tUmtCaXhSVnZBNm5iN0JCTnlzTVByWGJRcXJSSi1uRktIaEhTWm9fVmZOSld4V2NXYVNzSTRKT21lNzVoMkYtemlxRG1EMVNsZFBXNGloNTFtdjFTQQ?oc=5)
 
 ---
 
@@ -50,11 +74,11 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTBVYV
 
 ---
 
-### [Zellulärer Schutz: Wie Kälte über die Muskulatur den Alterungsprozess beeinflusst](https://news.google.com/rss/articles/CBMimgFBVV95cUxORGhEYXVtblJSTS1ZTDNNUGQ1Z3poRVNMbUJXT2lleTVZR2llcVYxV0NJeWxDSVJlN2lwcnNxV3lrOGpPT0RJT25oSTZVT09tR2hpRldMdHFUMlk5VGVXNUlrd1BudkREcGZ4b2VJcHFCSGJ0M2tONnJHcHVIMks2aFlFanR2MkFISUpDcmItcFNVWDBlcUhseDJB?oc=5)
+### [Kölner Forscher entdecken erstaunlichen Kälte-Effekt: Eine bestimmte Aminosäure verlängert im Labor das Leben - Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dmd2NUeXFWd0htVDhMMXR6UVdKSWxtcXhrR0pnV0FucnphUmlxSWZWTTRTQlVfX01NUnFhREJpYWpRWVV5OGJQZG9YYWFBZXdlTmhfTGxRTXc0ZTlCOEczWmFvM1FrYmE2amNyUjRLd1g0Sk11UVk2OHVGY3M4VGZMOTM0NjlYV1JNLTF1VDRpNUUwb0hid0s1elFaSTdXbWVsUUFvUURhSGJIejN4RHllVTV5eENUV1BiLXZVYkZFUTNYSVBHN2tFSGZiRHpITUE?oc=5)
 
-2026-10-24 <span class="news-indication-tag">MS</span>
+2026-10-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [https://mt-portal.de/](https://news.google.com/rss/articles/CBMimgFBVV95cUxORGhEYXVtblJSTS1ZTDNNUGQ1Z3poRVNMbUJXT2lleTVZR2llcVYxV0NJeWxDSVJlN2lwcnNxV3lrOGpPT0RJT25oSTZVT09tR2hpRldMdHFUMlk5VGVXNUlrd1BudkREcGZ4b2VJcHFCSGJ0M2tONnJHcHVIMks2aFlFanR2MkFISUpDcmItcFNVWDBlcUhseDJB?oc=5)
+Source: [Frankfurter Rundschau](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1dmd2NUeXFWd0htVDhMMXR6UVdKSWxtcXhrR0pnV0FucnphUmlxSWZWTTRTQlVfX01NUnFhREJpYWpRWVV5OGJQZG9YYWFBZXdlTmhfTGxRTXc0ZTlCOEczWmFvM1FrYmE2amNyUjRLd1g0Sk11UVk2OHVGY3M4VGZMOTM0NjlYV1JNLTF1VDRpNUUwb0hid0s1elFaSTdXbWVsUUFvUURhSGJIejN4RHllVTV5eENUV1BiLXZVYkZFUTNYSVBHN2tFSGZiRHpITUE?oc=5)
 
 ---
 
@@ -66,27 +90,11 @@ Source: [WELT](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS05KZzBjcmFB
 
 ---
 
-### [Demenzprävention: 5000 bis 7500 Schritte täglich bremsen den kognitiven Abbau](https://news.google.com/rss/articles/CBMixgFBVV95cUxNREthNlJaaEpFdkNoTTMtWUJaYkozN2cwaE5lUzZhcXp6ZFZfRmFjY3dXeVZaSUhoLXFPT0NvNmloMjd1MG9tcDNWQU9xV2V2X2o4XzFTbkYybmNPUWNiNlg2NXdHRlZuWjl3c214am40M0hieXBURjVtenBDVTByMmxraDlRR24teUdNR3hLYUxDbXpqSThrcExlbFlmcWdpN1ZKekRDUlBJSXR4V3htWk9aWDhLVHJyYzdaUkZkTjBaZldBOXc?oc=5)
-
-2026-10-24 <span class="news-indication-tag">MS</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxNREthNlJaaEpFdkNoTTMtWUJaYkozN2cwaE5lUzZhcXp6ZFZfRmFjY3dXeVZaSUhoLXFPT0NvNmloMjd1MG9tcDNWQU9xV2V2X2o4XzFTbkYybmNPUWNiNlg2NXdHRlZuWjl3c214am40M0hieXBURjVtenBDVTByMmxraDlRR24teUdNR3hLYUxDbXpqSThrcExlbFlmcWdpN1ZKekRDUlBJSXR4V3htWk9aWDhLVHJyYzdaUkZkTjBaZldBOXc?oc=5)
-
----
-
-### [5 Menopause Research Updates That Could Shape Care](https://news.google.com/rss/articles/CBMihAFBVV95cUxOX01meHdndUExSFgtMWI0OUZOd0FaeGJoUEh5OEpPeGdLNTZnX1dDTG0xYWlqQzA3QkFKV0lObnpsUXdnVEdhT2pncExCRGlCWjlTR1JQdEpPVUkxOHpLY0ZQbUtLNWpQOFFWaGoybW5nZFFnaWVrRXBJdGM4dy1LV2pzQVQ?oc=5)
+### [Immorta Bio’s nine-amino-acid peptide aims at zombie cells](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0dTeU1laGd3dWF5b1JuQm8xNFI2WngyLTF0RS11dDljNGRGNmVaVFRZMjdFaE14c0xBZl9CcXFTaC16NGU1ZW9LR1ZKZGxmYWE0NmZkMjVpc3JzNXc2cTN0SmNxbktveVZVTzQwcTVtRk9mLXI1Y1hndHlSUkswc3FTTjU3MDc0NHR6bE5CbER2b09zMTg0?oc=5)
 
 2026-10-23 <span class="news-indication-tag">MS</span>
 
-Source: [AARP](https://news.google.com/rss/articles/CBMihAFBVV95cUxOX01meHdndUExSFgtMWI0OUZOd0FaeGJoUEh5OEpPeGdLNTZnX1dDTG0xYWlqQzA3QkFKV0lObnpsUXdnVEdhT2pncExCRGlCWjlTR1JQdEpPVUkxOHpLY0ZQbUtLNWpQOFFWaGoybW5nZFFnaWVrRXBJdGM4dy1LV2pzQVQ?oc=5)
-
----
-
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+Source: [Longevity.Technology](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0dTeU1laGd3dWF5b1JuQm8xNFI2WngyLTF0RS11dDljNGRGNmVaVFRZMjdFaE14c0xBZl9CcXFTaC16NGU1ZW9LR1ZKZGxmYWE0NmZkMjVpc3JzNXc2cTN0SmNxbktveVZVTzQwcTVtRk9mLXI1Y1hndHlSUkswc3FTTjU3MDc0NHR6bE5CbER2b09zMTg0?oc=5)
 
 ---
 
@@ -98,27 +106,19 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxN
 
 ---
 
-### [California startup says it has injected AI-designed virus into humans for first time - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
-
-2026-10-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
-
----
-
-### [Möglicher Ansatz gegen durch Krebs induzierte Kachexie](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
-
-2026-10-23 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [medonline](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTBMeWltMmkzRjIwMlNCMUMwTGxBYmgyNUhjLXhpUG9faEdQTnFKY2RBNkE2Z1oxUmhqZUJWVi1JM1F5amhLUndUaVhvcERHQThId3VlRlZsUjhUYWVMQ2R2bU14OEJjbk5qbkVaem5sTmhSZ0tJSG1rX1JhOTlHVi12U1dXdlNad0Q0THNDS2kydDRQZ3lVOVlhWThHM1F5UUpz?oc=5)
-
----
-
 ### [​7 childhood cancer symptoms that can be easily missed: Warning signs parents should never ignore​ - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGNacjhMcWgyeHlBYU1JMU0talhUNnYxdUZfdV9zVXpEYkx4dTgtUm4yZUl1MmY4Rm14bTctU3F3dDVKSGFhajFKTkRXbUUwY1VMOFVSVWViZDVPdFZscktUMTRGS3ZrMkFHZXdBMGVNbWdaMDFtZ2NjQXQ4Z0FIQ0N3WXQ5TlpmOGUxa3RLN3ExMUNFVGpubEtmTzdXaTNyc3IxalRZLUdKQ0xsSnBSUmZ0MTdvZmEyZ2g5UHVzVTRXWF9hREE3TmFoeFNFVG15eEwzZ2RTMVJmMUtXSWlXbjBIdkxrdjAxVkhqWTJGMEN6cE1UMFRlbzNXdjU3RkNJSUHSAYoCQVVfeXFMUHRZSUtlcFVwX3FEMllISWpSXzdUMWFwaURtOExDWHhwSkJLY2FxTnVqd3V5cVE3SEFOb05XT2hOU28tdmk1dmJwa0ZFYUR2bmNVc0luSlF3RE5uWEFfT3hiS2ViNG9FXzM2VWVCVnJmWkYtRjF6ODAyOUlaazJHYm9ORUp5OFlBSzNhUFhSY3lXc0I1eTRpaTgxTHVuTUlDT0xJRzNFSlFuMzUtc3ZuN0t2S1gxa09vQ0VHdDlOSk5zTkFXbi1QUWlidnZKUjI3R2MwMnlXd3FCUjNmUTJ4ODRpOFhFc3hvU2E1djFNMjFQWW83VU0xOXQ2SlpYQU9VcUc3ODVZOWE5ZlE?oc=5)
 
 2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxQUGNacjhMcWgyeHlBYU1JMU0talhUNnYxdUZfdV9zVXpEYkx4dTgtUm4yZUl1MmY4Rm14bTctU3F3dDVKSGFhajFKTkRXbUUwY1VMOFVSVWViZDVPdFZscktUMTRGS3ZrMkFHZXdBMGVNbWdaMDFtZ2NjQXQ4Z0FIQ0N3WXQ5TlpmOGUxa3RLN3ExMUNFVGpubEtmTzdXaTNyc3IxalRZLUdKQ0xsSnBSUmZ0MTdvZmEyZ2g5UHVzVTRXWF9hREE3TmFoeFNFVG15eEwzZ2RTMVJmMUtXSWlXbjBIdkxrdjAxVkhqWTJGMEN6cE1UMFRlbzNXdjU3RkNJSUHSAYoCQVVfeXFMUHRZSUtlcFVwX3FEMllISWpSXzdUMWFwaURtOExDWHhwSkJLY2FxTnVqd3V5cVE3SEFOb05XT2hOU28tdmk1dmJwa0ZFYUR2bmNVc0luSlF3RE5uWEFfT3hiS2ViNG9FXzM2VWVCVnJmWkYtRjF6ODAyOUlaazJHYm9ORUp5OFlBSzNhUFhSY3lXc0I1eTRpaTgxTHVuTUlDT0xJRzNFSlFuMzUtc3ZuN0t2S1gxa09vQ0VHdDlOSk5zTkFXbi1QUWlidnZKUjI3R2MwMnlXd3FCUjNmUTJ4ODRpOFhFc3hvU2E1djFNMjFQWW83VU0xOXQ2SlpYQU9VcUc3ODVZOWE5ZlE?oc=5)
+
+---
+
+### [Human receives AI-designed virus for the first time - The Register](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdThkMzROQTZkVUpsR2xHUG5zeF9KV2JKV1c2a1VHLXdRVEFpZlo4bUFpdTFISEp0bjZYNnBfV1psdVU4RFR6MzByRUhWeGFnRnpST3ZKOHRUbGQ0UV9pMlpiVWRaRHR0Z21LMEFWSUJMT3RKNmNNNTByU3hqZ29aTGtPRkF2STU2UmdzbjZ4Slo0cEZTTUhuY1AxTm9UcHRTclJhS2xORU1XUQ?oc=5)
+
+2026-10-22 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
+
+Source: [The Register](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdThkMzROQTZkVUpsR2xHUG5zeF9KV2JKV1c2a1VHLXdRVEFpZlo4bUFpdTFISEp0bjZYNnBfV1psdVU4RFR6MzByRUhWeGFnRnpST3ZKOHRUbGQ0UV9pMlpiVWRaRHR0Z21LMEFWSUJMT3RKNmNNNTByU3hqZ29aTGtPRkF2STU2UmdzbjZ4Slo0cEZTTUhuY1AxTm9UcHRTclJhS2xORU1XUQ?oc=5)
 
 ---
 
@@ -154,11 +154,11 @@ Source: [Medical Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxPO
 
 ---
 
-### [What to eat for younger-looking skin](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHEwT2tvREtpdTYtVUFtc2dXREsxck9QMUpVSUl3YXkwQU9BbEhPSjU3WnJxZTBGMzdyazhsZkFPM0hJRXVFVjNDSkNxRUh0VDlKeUNHSVotZmZPTHM4VDYwVzdWSnFISWIydk51RGxWMlNuMUpjendMMGxCZFVvag?oc=5)
+### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
 
-2026-10-20 <span class="news-indication-tag">MS</span>
+2026-10-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHEwT2tvREtpdTYtVUFtc2dXREsxck9QMUpVSUl3YXkwQU9BbEhPSjU3WnJxZTBGMzdyazhsZkFPM0hJRXVFVjNDSkNxRUh0VDlKeUNHSVotZmZPTHM4VDYwVzdWSnFISWIydk51RGxWMlNuMUpjendMMGxCZFVvag?oc=5)
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
 
 ---
 

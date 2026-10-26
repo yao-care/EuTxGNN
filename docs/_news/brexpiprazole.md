@@ -14,7 +14,7 @@ permalink: /news/brexpiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Brexpiprazole?">
-<strong>Brexpiprazole</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Brexpiprazole</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Brexpiprazole with the lates
 <p><a href="{{ '/drugs/brexpiprazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Tus hábitos de sueño podrían indicar un tipo específico de depresión - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Pcjhkc3RsbXNCakR2ZFJ3SHdQUmg1Q1IwdnNrblRhUDdQYnNfQjU5NmZLQ0hjYlUydzB6ZURJYjJFR2wtN0laM0pSc3NhTXFrZGpaR19JOXdQQko1b3FhQUE3WFhsUk15bU80M0FIWnZYNFdhY3VveHZqRXB4Zw?oc=5)
 
@@ -47,6 +47,14 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE
 2026-10-25 <span class="news-indication-tag">depresión</span>
 
 Source: [Vanitatis](https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2ZKU2E2V2F6V1RReGFXUmpZNm52ajZudldoZHpyVTJ3bnpQdmx3M2JXTmJrRTFwclJoSm5KTjgxU1F4SVJUZTk0T0U3QWZBcVZWSHdzMGdSajhrVUo0ZkFjU1A2Tldaam05THhZWkt4UnNZb1FXTVZpbkxCRlJHZ2dJemRTRkhMOTBPZ2hUeWYzbURncWFDcEVySXlNd0VaNXlvYXJ5Yl9kUnZGclNFdVRLRXRoSkFUbW42ZDBNUQ?oc=5)
+
+---
+
+### [Why seasonal affective disorder will hit hard this year – and how you can fix it - The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
+
+2026-10-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
 
 ---
 

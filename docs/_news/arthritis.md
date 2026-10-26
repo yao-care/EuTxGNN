@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "arthritis News"
+title: "artrite (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about arthritis. 1 articles, 73 related drugs."
+description: "Health news about artrite (arthritis). 2 articles, 73 related drugs."
 permalink: /news/arthritis/
 ---
 
-# arthritis News
+# artrite (arthritis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about arthritis?">
-<strong>arthritis</strong> currently has <strong>1 news articles</strong> and 73 related drugs.
+<p class="key-answer" data-question="What news is there about artrite (arthritis)?">
+<strong>artrite (arthritis)</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “arthritis” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “artrite” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -86,9 +86,17 @@ This page brings together the latest health news about “arthritis” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Warum Stress bei manchen Menschen Arthritis auslöst und bei anderen nicht](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
+### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+2026-10-25
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+---
+
+### [Stress: Warum er bei manchen Menschen Arthritis auslöst – und andere verschont](https://news.google.com/rss/articles/CBMi3AFBVV95cUxORXZJMGc2T1hkd0RmRXgyclRGUjBsSG1YSk5KLUhrYTVzeUd4U2lVLU5ENGplVnRTTnNIVzROZXBIR0RDVG1xWHN0VTQ3YXpNQ0xoQVpKZnR3c3BVZUV5Z0xJMjlPZ1JMR3F3V1JqdzgzOUVMQzhOSE9JN092Z3NBd1Y3U1RKWnJyeVRwcDNaaGJxRnNZQVI4aFEzWTcwclh1dDA4RHNvX3lrZnpoVFFCNGRSVDFTTV8wd2dRN2VERzZmRndpTXYwZTVVc19YblhIeXFVbjZTbmhUY1NB?oc=5)
 
 2026-10-24
 
