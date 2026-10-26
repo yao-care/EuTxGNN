@@ -42,6 +42,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6
 
 ---
 
+### [Goodbye to toilet paper in 2026: a new option has arrived for bathrooms that is already trending worldwide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+
+2026-10-26 <span class="news-indication-tag">MS</span>
+
+Source: [TheCoolist](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+
+---
+
 ### [El Congo juega su gran carta contra el ébola, arranca el ensayo "Esperanza"](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTB6SUQ3bVMyeTR6TFJRZGxxYXhEU1JXUC1hcHpvOWlQc2poTmktTHJWZk9sZ3BuT0NpRzl1azNmNFFHLU95dm5hdkNxeE05cDFwd2w5dU1KZlhhUmxEQnFmQjFoX0ZwZU9zZmdQazNnYjZ2SkI2cWdhMmdwMWNaSFdDMFVsQlFBTjlqdE5pTzJ2WFZhNUllUmpXV0ZtdGxRT2xOeVZtRlVXMm80emRIckZfMjk?oc=5)
 
 2026-10-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
@@ -55,22 +63,6 @@ Source: [elDiario.es](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTB6S
 2026-10-26 <span class="news-indication-tag">MS</span>
 
 Source: [Joyn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWJDd1d0Vmo4NzBsT1RJRUpVdWxoUnRqcm9SY3dLcmxPemZ2Q0JKX0FOWG9PMjZFVElmUEIzZlg2bDh5Z0JDeFZLa2NsczlEaUxBMzZOMUZ4em9HUEJzSlNjd25xaWJxQmo5NV83OEw4elE0djc3YlE3UzFFbUU2djhUWGVjSTlSajdsaVg5OU9jU1hldGN0Mmdn?oc=5)
-
----
-
-### [Neuer Ansatzpunkt für Behandlung von Osteoporose: Knochenaufbau bremsendes Eiweißmolekül ausschalten - Biermann Medizin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1VzMHZFWmFZYUJGSEdSYUNadWlnbUdSRzRkN215UmZCQ1dXVmtrTTRkOUpwOW82ZmRIQjhKNngzZWpBWm83YmR6cFIwZFlaajFURnlBN0VTbzZOSklheGhwYzBDbHVuNlJFWWdZN1dkbVlvMjc4Zm5YMXhNMGo3MWNScWVlVWRQVjBaLURJSGh2QjRDcGhJbmRSS0FRQTQ5NGVKVHRkeXhUUmFQR1dpU0hoWm1TbmVoS1ZyazNwTGJWcG41NElHTzFXRQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">MS</span>
-
-Source: [Biermann Medizin](https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1VzMHZFWmFZYUJGSEdSYUNadWlnbUdSRzRkN215UmZCQ1dXVmtrTTRkOUpwOW82ZmRIQjhKNngzZWpBWm83YmR6cFIwZFlaajFURnlBN0VTbzZOSklheGhwYzBDbHVuNlJFWWdZN1dkbVlvMjc4Zm5YMXhNMGo3MWNScWVlVWRQVjBaLURJSGh2QjRDcGhJbmRSS0FRQTQ5NGVKVHRkeXhUUmFQR1dpU0hoWm1TbmVoS1ZyazNwTGJWcG41NElHTzFXRQ?oc=5)
-
----
-
-### [Millionen Menschen leiden unter Volkskrankheit: Forscher machen wichtige Entdeckung - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHBUNFk0ME4xWHhPY0VsaDA2ZVd6MEFiWUpLYkp1eURWR0ZDV2FhVWY2dnMxM3hJQUFDZTRaQWVadVpwMjRMNDRrbUU4OUxMN1g5Z0hhNXNydlZjY2VqVUVoU1VuQTlNcktkTFBpYnltUDZTMWt2OHZpQjJ2NGlydGkxeTBaRUdqZ2hfWmZwb1VKQUJtZElfM0NBM29CNVpyZURoWTNNRHRjZkVZZ08xeWEwMjlpaU9MMzgzNUxiWmNlMGtjMklscUF6OGlLQQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">MS</span>
-
-Source: [Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHBUNFk0ME4xWHhPY0VsaDA2ZVd6MEFiWUpLYkp1eURWR0ZDV2FhVWY2dnMxM3hJQUFDZTRaQWVadVpwMjRMNDRrbUU4OUxMN1g5Z0hhNXNydlZjY2VqVUVoU1VuQTlNcktkTFBpYnltUDZTMWt2OHZpQjJ2NGlydGkxeTBaRUdqZ2hfWmZwb1VKQUJtZElfM0NBM29CNVpyZURoWTNNRHRjZkVZZ08xeWEwMjlpaU9MMzgzNUxiWmNlMGtjMklscUF6OGlLQQ?oc=5)
 
 ---
 
@@ -106,11 +98,27 @@ Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxN
 
 ---
 
+### [First human case of Shamonda virus detected in France, officials say](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RkRvZkFldXdKaWoxQjVPQU1tV0R3QkZhWF9XZGRnUFN2RFowbm4xTzB0bDhBSFlxQmtkYVJyaHVMbnRWVTRnN08tTi1PYng5S0JTa3ZlRi1xUkU?oc=5)
+
+2026-10-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RkRvZkFldXdKaWoxQjVPQU1tV0R3QkZhWF9XZGRnUFN2RFowbm4xTzB0bDhBSFlxQmtkYVJyaHVMbnRWVTRnN08tTi1PYng5S0JTa3ZlRi1xUkU?oc=5)
+
+---
+
 ### [Kälte bremst das Altern – Kölner Forscher lösen das Rätsel und verlängern Leben ohne Kälte - smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
 
 2026-10-22 <span class="news-indication-tag">MS</span>
 
 Source: [smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
+
+---
+
+### [Cataluña empieza hoy a enviar notificaciones PUSH a las personas de 60 a 79 años para iniciar la vacunación contra la gripe y la COVID-19 - Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDFlb0RUX3l0QnJ4a1g1cEFVRUw1N2NCSGdZVlBWejRoLUhTb2dnNkpycm9RcFQ5cDQ5dmlZcEtCR3YxMVBxWV9EOWQtQkR6V3lNZ1hwc1pLTExUNjhDMnp6TFhOV1c4dFAtV2J4N1BrWUxWV05Jd3lpTzhxUnZDSjVhYWdxNlVGcEVGTGtpTVoxX1lrT3diUFlYejNXVFlkQWJGb3hRdkRKZEx6cEFlS2lDZw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">MS</span>
+
+Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiswFBVV95cUxPeDFlb0RUX3l0QnJ4a1g1cEFVRUw1N2NCSGdZVlBWejRoLUhTb2dnNkpycm9RcFQ5cDQ5dmlZcEtCR3YxMVBxWV9EOWQtQkR6V3lNZ1hwc1pLTExUNjhDMnp6TFhOV1c4dFAtV2J4N1BrWUxWV05Jd3lpTzhxUnZDSjVhYWdxNlVGcEVGTGtpTVoxX1lrT3diUFlYejNXVFlkQWJGb3hRdkRKZEx6cEFlS2lDZw?oc=5)
 
 ---
 
@@ -135,14 +143,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUda
 2026-10-21 <span class="news-indication-tag">obesidad</span> <span class="news-indication-tag">MS</span>
 
 Source: [La Vanguardia](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbjdoWXQtbEh3VExiQWE0RWJONWlhelRZWlVEbWlxa2xXTFE2d0dEcnFjTDRqalRPMXdUdzNLMVplVGZRSUhyWTRQbnNJSmpzLUg2SS1yTWxCMFdzcGlLLVc5d2ZvYWc2cnlreDllVnFVeGc5dE5BVk1yVXowbDlncDlSbXhnMDBuVmFRM003X2RjSm5MekQ1RGJzdHpPc1czb1HSAacBQVVfeXFMT0s4M3pod0laejhkZFVrS3o3Nmk4d2dDeFZ1VjgwMnFXVHlpQzc0OE9DdnNNaUFGRDhHb2haLU1OTl9ZVzlkWE1XSXh3MWcxanVyMHQtZXB1Y3FPYUZIYmRGaXFZdWRmRXJ4ZkRjNU9zdlI5UURlVjhnRUV5dUdEeVhKbFNhajZ6RVdEU01jT19Jdk40cjZHU3A1SjNLZkVMSEh6SlhLcHM?oc=5)
-
----
-
-### [Studien liefern neue Erkenntnisse zu Kachexie und Mangelernährung – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
-
-2026-10-20 <span class="news-indication-tag">Krebs</span> <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMizwFBVV95cUxQN3p6V2s1OTk4WGp2OUhBVWxOTDhBOGcyMnFCWGVQRjlRSjZYMnBuQkI4b0hGbGxsV2F4S2JqR0puMElWSk9ScWYwUF9fWWMwaEFFSkJGelVyUXo5LUc5a294Q2c4eEN4TzNLejJNV1dUZGFYSUNleWJTMFJmWmxqbURzRjloTXdaX2xwbmduR1pldEhiemRiWVUzdlltc0pzd3Z2RHFPZE4xT1BrYm5UN0pYdEFEUTBmT0lRdlZDblBqcUloVjJxQkdfM1hOVXM?oc=5)
 
 ---
 

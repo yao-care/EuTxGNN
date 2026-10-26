@@ -46,7 +46,15 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6
 
 ---
 
-### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
+### [Father, aged 38, had 'no idea what my future looked like' after severe stroke - The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
+
+2026-10-26
+
+Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
+
+---
+
+### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge ?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
 
 2026-10-26
 
@@ -59,14 +67,6 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBX
 2026-10-25
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
-
----
-
-### [Vaccin anti-cancer : la France doit-elle investir davantage dans la recherche médicale ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSmx3WU85bDJucmFpbEZMcnFFbnZxSDFTTzEyNk9XQXktRmF3aHplcEo5UnNqUEw5MnppN1VHNm1tZFBoMU5oZVN4RkFXeUxTNUpLYUlQMU5yNXQ3VDZwTTA4WVRfVHRLZHB0eU0zZmlORDBvU19ua1NB?oc=5)
-
-2026-10-22
-
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSmx3WU85bDJucmFpbEZMcnFFbnZxSDFTTzEyNk9XQXktRmF3aHplcEo5UnNqUEw5MnppN1VHNm1tZFBoMU5oZVN4RkFXeUxTNUpLYUlQMU5yNXQ3VDZwTTA4WVRfVHRLZHB0eU0zZmlORDBvU19ua1NB?oc=5)
 
 ---
 

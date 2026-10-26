@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="What news is there about Somapacitan?">
-<strong>Somapacitan</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
+<strong>Somapacitan</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
 
 2026-10-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
+
+---
+
+### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUxELW41NHE4UHJXQ2c4aGpPTzhwc2tPdTBZNjlVd0tKckF4NWJrU0Z5WWpRQzVLMUR1Y05FOUF4U2JIcURVd21PTWE4SVY4dmxxNmhGNk5HcGMzaV9rOWtMeTB5eVZoaU1PNER1dVZ2d2lGb2JfbjdDNXBUaEpYVmp0Z3BTNkp5SVlLWVN0RVp5bGVOVV90SXlEMVNJTnhNMWY4dVduMHR6TDRKQ1kySEx5Zll0NXZxNnJRTXNnMFJTREHSAcgBQVVfeXFMUDVvOVFVR0x3R1hJak1TdzN4N3ROcUl5a0J6NTR4emo5Z3k1YjNLamExNEtjWl9mZ3YyOU5YRF9nU3p5WHZPYmcteHg2NG00MnJobTRfZ01rMURYajA1SG80Sk9iaTBwT0owd2dsaGxiM3B1cU5ESVd4UDFrTHRCM2IzcVp0cXJRem12NmdVQ1NGa081QVRfRzNqbjJ3Zzl2NE5WT21TbWFEQlNSbHhiY0QwdmxxdENEdWFIdXljVFYyUy0zLWwyWTc?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabetes</span>
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUxELW41NHE4UHJXQ2c4aGpPTzhwc2tPdTBZNjlVd0tKckF4NWJrU0Z5WWpRQzVLMUR1Y05FOUF4U2JIcURVd21PTWE4SVY4dmxxNmhGNk5HcGMzaV9rOWtMeTB5eVZoaU1PNER1dVZ2d2lGb2JfbjdDNXBUaEpYVmp0Z3BTNkp5SVlLWVN0RVp5bGVOVV90SXlEMVNJTnhNMWY4dVduMHR6TDRKQ1kySEx5Zll0NXZxNnJRTXNnMFJTREHSAcgBQVVfeXFMUDVvOVFVR0x3R1hJak1TdzN4N3ROcUl5a0J6NTR4emo5Z3k1YjNLamExNEtjWl9mZ3YyOU5YRF9nU3p5WHZPYmcteHg2NG00MnJobTRfZ01rMURYajA1SG80Sk9iaTBwT0owd2dsaGxiM3B1cU5ESVd4UDFrTHRCM2IzcVp0cXJRem12NmdVQ1NGa081QVRfRzNqbjJ3Zzl2NE5WT21TbWFEQlNSbHhiY0QwdmxxdENEdWFIdXljVFYyUy0zLWwyWTc?oc=5)
 
 ---
 
@@ -90,11 +98,11 @@ Source: [Frankfurt-Live.com](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE
 
 ---
 
-### [Un implante inalámbrico permite controlar la obesidad y la diabetes en ratones sin necesidad de medicamentos - El Correo Gallego](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWZFZTlkVzAtZkphRERiLWZJeDdIbE00RDIxdF9yRXZLMHkySFVpWldmNWJLVU8xVEdNR2I2UTVIekgzTXFFXzhwLTc2WVRUQXZiM3Q0VkticUEwLVE5NDhxM2ZoNzFRTm16RmduRVpqeGZFejlDZW9pNEhIRnh5eDZESkd1SllNUXdldW4yM2I3NHl3VzNaSmowdWR1YU11T0pNZW1VRm9xU0dRZXV2a3poNGgwcDIzaHfSAb8BQVVfeXFMT3VvRW5pQktuRGFNS01NYVRZaXRfTEh2aUtlSXlXYkNrNFhCOWxZMUwydk94Q2dNVWZ5LXZGeXZhQl9zekxmMDl0MzdYa1RDMmlSTUs5UTgzdkZWbV9aV2d1Q2lyZ3JNWXRJMnhfRlk5UUtHdjZRMnhjbW42ekxjMW9sclpmX0kyVXBiV3AwUGo4S005ZFAwYTdwTl9UeGFWTXZuVFVkLWtFdktOeVlrajBoQU1KSVJFNkxZLV9RSk0?oc=5)
+### [myLoop powered by CamAPS FX, aliado para el manejo de la diabetes tipo 1 en mujeres](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
 
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
+2026-10-22 <span class="news-indication-tag">diabetes</span>
 
-Source: [El Correo Gallego](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWZFZTlkVzAtZkphRERiLWZJeDdIbE00RDIxdF9yRXZLMHkySFVpWldmNWJLVU8xVEdNR2I2UTVIekgzTXFFXzhwLTc2WVRUQXZiM3Q0VkticUEwLVE5NDhxM2ZoNzFRTm16RmduRVpqeGZFejlDZW9pNEhIRnh5eDZESkd1SllNUXdldW4yM2I3NHl3VzNaSmowdWR1YU11T0pNZW1VRm9xU0dRZXV2a3poNGgwcDIzaHfSAb8BQVVfeXFMT3VvRW5pQktuRGFNS01NYVRZaXRfTEh2aUtlSXlXYkNrNFhCOWxZMUwydk94Q2dNVWZ5LXZGeXZhQl9zekxmMDl0MzdYa1RDMmlSTUs5UTgzdkZWbV9aV2d1Q2lyZ3JNWXRJMnhfRlk5UUtHdjZRMnhjbW42ekxjMW9sclpmX0kyVXBiV3AwUGo4S005ZFAwYTdwTl9UeGFWTXZuVFVkLWtFdktOeVlrajBoQU1KSVJFNkxZLV9RSk0?oc=5)
+Source: [iSanidad](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWRNTGtiV0s1LTlmMWlPTGFGM1pVUTNFbWNKbWEwWllOekNQaUZFTTFiZVR2M0ZfbTlCZXctYm5kOVVBeXhfZUhuUzFZTVBWMENOdjJVY0V5dWJoZzZ2YUx0VGNBRE1oTzQzeGJOc1g3d1U3NnJRZi1WMmhXWmNmRWVqcEo2cmptcFhYRy1ES2FCNjBscTU0eW9EcVp4Ulhub21iSWRRTUJKWWxvQTkxUXhVbjZ3UE42Qmdfc09od2pOakYxcUVfSVo1bzNQcmxhMDNibXVrNEgzQ0k0eWoya2t3SUlNSjFxS3VBZWRXVXNUZw?oc=5)
 
 ---
 

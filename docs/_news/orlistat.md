@@ -42,6 +42,14 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6
 
 ---
 
+### [Father, aged 38, had 'no idea what my future looked like' after severe stroke - The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
+
+Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
+
+---
+
 ### [Lilly presenta nuevos datos a un año de Taltz y Mounjaro en adultos con enfermedad psoriásica y obesidad o sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUJzRUJLWENQZ2VjalRrQ2lYUC1LMTE4VmlScWVNVXVnaDdwZnNkU005WXpBMFZ2T19KQTlvV05rdDByZVgwbFY1ZW93LU1vRzhGTF94YmtxU2l5M0k2T3N4c1pZS2dneW00TW4zeG5iVEYwcXlYMDM5aGVRQXBhbV82TFFKeHFZU3ViYjloN3J3c3EtLTRlaG1VeUpkcHo3b3hvRHpFNWhidkU?oc=5)
 
 2026-10-26 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
@@ -50,7 +58,7 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeU
 
 ---
 
-### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
+### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge ?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
 
@@ -82,11 +90,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 
 ---
 
-### [Vaccin anti-cancer : la France doit-elle investir davantage dans la recherche médicale ? - Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSmx3WU85bDJucmFpbEZMcnFFbnZxSDFTTzEyNk9XQXktRmF3aHplcEo5UnNqUEw5MnppN1VHNm1tZFBoMU5oZVN4RkFXeUxTNUpLYUlQMU5yNXQ3VDZwTTA4WVRfVHRLZHB0eU0zZmlORDBvU19ua1NB?oc=5)
+### [Vegan-fed cats less often reported overweight in survey](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
 
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CVA</span>
+2026-10-23 <span class="news-indication-tag">overweight</span>
 
-Source: [Orange Actualités](https://news.google.com/rss/articles/CBMiekFVX3lxTFBlSmx3WU85bDJucmFpbEZMcnFFbnZxSDFTTzEyNk9XQXktRmF3aHplcEo5UnNqUEw5MnppN1VHNm1tZFBoMU5oZVN4RkFXeUxTNUpLYUlQMU5yNXQ3VDZwTTA4WVRfVHRLZHB0eU0zZmlORDBvU19ua1NB?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
 
 ---
 
@@ -98,15 +106,7 @@ Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV9
 
 ---
 
-### [Un implante inalámbrico permite controlar la obesidad y la diabetes en ratones sin necesidad de medicamentos - El Correo Gallego](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWZFZTlkVzAtZkphRERiLWZJeDdIbE00RDIxdF9yRXZLMHkySFVpWldmNWJLVU8xVEdNR2I2UTVIekgzTXFFXzhwLTc2WVRUQXZiM3Q0VkticUEwLVE5NDhxM2ZoNzFRTm16RmduRVpqeGZFejlDZW9pNEhIRnh5eDZESkd1SllNUXdldW4yM2I3NHl3VzNaSmowdWR1YU11T0pNZW1VRm9xU0dRZXV2a3poNGgwcDIzaHfSAb8BQVVfeXFMT3VvRW5pQktuRGFNS01NYVRZaXRfTEh2aUtlSXlXYkNrNFhCOWxZMUwydk94Q2dNVWZ5LXZGeXZhQl9zekxmMDl0MzdYa1RDMmlSTUs5UTgzdkZWbV9aV2d1Q2lyZ3JNWXRJMnhfRlk5UUtHdjZRMnhjbW42ekxjMW9sclpmX0kyVXBiV3AwUGo4S005ZFAwYTdwTl9UeGFWTXZuVFVkLWtFdktOeVlrajBoQU1KSVJFNkxZLV9RSk0?oc=5)
-
-2026-10-22 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [El Correo Gallego](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWZFZTlkVzAtZkphRERiLWZJeDdIbE00RDIxdF9yRXZLMHkySFVpWldmNWJLVU8xVEdNR2I2UTVIekgzTXFFXzhwLTc2WVRUQXZiM3Q0VkticUEwLVE5NDhxM2ZoNzFRTm16RmduRVpqeGZFejlDZW9pNEhIRnh5eDZESkd1SllNUXdldW4yM2I3NHl3VzNaSmowdWR1YU11T0pNZW1VRm9xU0dRZXV2a3poNGgwcDIzaHfSAb8BQVVfeXFMT3VvRW5pQktuRGFNS01NYVRZaXRfTEh2aUtlSXlXYkNrNFhCOWxZMUwydk94Q2dNVWZ5LXZGeXZhQl9zekxmMDl0MzdYa1RDMmlSTUs5UTgzdkZWbV9aV2d1Q2lyZ3JNWXRJMnhfRlk5UUtHdjZRMnhjbW42ekxjMW9sclpmX0kyVXBiV3AwUGo4S005ZFAwYTdwTl9UeGFWTXZuVFVkLWtFdktOeVlrajBoQU1KSVJFNkxZLV9RSk0?oc=5)
-
----
-
-### [Témoignage. « Ça m'a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
+### [« Ça m’a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
 
 2026-10-21 <span class="news-indication-tag">obésité</span>
 

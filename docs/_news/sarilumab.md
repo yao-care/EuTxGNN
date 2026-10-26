@@ -14,7 +14,7 @@ permalink: /news/sarilumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
 
-### [Morbus Crohn hinterlässt vor der Diagnose Spuren im Blut - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ29TM2NRcU80eVlTUTJwcmNodTQ4dlg2Z1dQN3huMzhtU3V2OXVyUG9jQkFIMEFZaUZTMUM2cWkwMGdEQVJ0cVMzVG9wRzFMZ25HUlJzdGxVSGFiWXNFRTExUnRESURZeTMtakpELUZtVFQxc1Rha1loWlVkaTFZbUMyUGJYbi13d012YjRnY0p2d0VicE1yOWEwOWdLQS1acEJUMnlEOWk5TVdUc0Jrb3BOYW1Wbk5XMFRSd1pyREg?oc=5)
+### [AbbVie presenta datos que destacan la eficacia y seguridad de upadacitinib en la recuperación del cabello, las cejas y las pestañas - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
+
+2026-10-26 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
+
+---
+
+### [Darm: Welche Warnzeichen es bereits zehn Jahre vor der chronischen Entzündung gibt](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ1lOa1JpdmUyT18tdk1PU3I5ajIyLWVCSVNZZ3RSZm1BaVk4S3BpVHpsNlNUQ1pncmUtNktuam5UZWpXc3B1ZXQ2SnotNmV4cFduMFZiS0c0cDlWdG1sSEFnNUlrV3pRU1BXcEc2YUVnRjI4ZS1ZcGJ1VWFoQWd3NkJLYjBoOWt4SnhxS0UydUlwalZEeS15UFU4Z3BkYzhQTVlhYS02akx5bWhvYkpYMlBZdG5hbk4xR1VDYVFVbU1ydnQwYVR1cTI2dmIyWGozNWZpVEVMNWhxT2lJRnlpUVFNMWw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">Morbus Crohn</span>
 
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ29TM2NRcU80eVlTUTJwcmNodTQ4dlg2Z1dQN3huMzhtU3V2OXVyUG9jQkFIMEFZaUZTMUM2cWkwMGdEQVJ0cVMzVG9wRzFMZ25HUlJzdGxVSGFiWXNFRTExUnRESURZeTMtakpELUZtVFQxc1Rha1loWlVkaTFZbUMyUGJYbi13d012YjRnY0p2d0VicE1yOWEwOWdLQS1acEJUMnlEOWk5TVdUc0Jrb3BOYW1Wbk5XMFRSd1pyREg?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ1lOa1JpdmUyT18tdk1PU3I5ajIyLWVCSVNZZ3RSZm1BaVk4S3BpVHpsNlNUQ1pncmUtNktuam5UZWpXc3B1ZXQ2SnotNmV4cFduMFZiS0c0cDlWdG1sSEFnNUlrV3pRU1BXcEc2YUVnRjI4ZS1ZcGJ1VWFoQWd3NkJLYjBoOWt4SnhxS0UydUlwalZEeS15UFU4Z3BkYzhQTVlhYS02akx5bWhvYkpYMlBZdG5hbk4xR1VDYVFVbU1ydnQwYVR1cTI2dmIyWGozNWZpVEVMNWhxT2lJRnlpUVFNMWw?oc=5)
 
 ---
 
@@ -47,6 +55,14 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95
 2026-10-25 <span class="news-indication-tag">artrite</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+---
+
+### [COPD erkennen und behandeln: Nordseeklinik lädt zum Vortrag mit Atemtraining ein - Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
+
+2026-10-20 <span class="news-indication-tag">copd</span>
+
+Source: [Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/idarucizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [AbbVie presenta datos que destacan la eficacia y seguridad de upadacitinib en la recuperación del cabello, las cejas y las pestañas - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
+
+2026-10-26 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
+
+---
 
 ### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
 
 2026-10-25 <span class="news-indication-tag">artrite</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+---
+
+### [COPD erkennen und behandeln: Nordseeklinik lädt zum Vortrag mit Atemtraining ein - Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
+
+2026-10-20 <span class="news-indication-tag">copd</span>
+
+Source: [Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 
 ---
 
