@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,71 +32,9 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (0)
 
-### [Fuoco di Sant’Antonio, aumenta il rischio di infarto e ictus? Lo studio su 94 mila osservazioni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
-
-2026-10-25 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
-
----
-
-### [Grippe et AVC : le vaccin comme bouclier cardiovasculaire chez les seniors - Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2WW1xaGxzQi1scEVfbHBBTXlHTHFNbU9DMnoyeXlBdUhDeVRKZHRFV2NEQzZZakdWMHJMMFBRZGd5SFBLWkdTaEV3NDFjNkxCYWlBRGVlZDV2QlhRREdzdGo4NUxaLTdrTDB3SkZfcDlMbTE3cVQ3ejZuLUppMm52T25ETjByWkt1Zktuc1VWRzViR2RETFVOei02NFQySlF2T3dYY215N0ducFlxZnRZZE5NOElXTVR1Yg?oc=5)
-
-2026-10-24 <span class="news-indication-tag">AVC</span>
-
-Source: [Charente Libre](https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnU2WW1xaGxzQi1scEVfbHBBTXlHTHFNbU9DMnoyeXlBdUhDeVRKZHRFV2NEQzZZakdWMHJMMFBRZGd5SFBLWkdTaEV3NDFjNkxCYWlBRGVlZDV2QlhRREdzdGo4NUxaLTdrTDB3SkZfcDlMbTE3cVQ3ejZuLUppMm52T25ETjByWkt1Zktuc1VWRzViR2RETFVOei02NFQySlF2T3dYY215N0ducFlxZnRZZE5NOElXTVR1Yg?oc=5)
-
----
-
-### [El peligro oculto de la Lp(a): un riesgo cardiovascular genético inmune al estilo de vida - Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
-
-2026-10-24 <span class="news-indication-tag">ictus</span>
-
-Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWWNkTXZOdDJON0VULTc4ZGE5em1JQy1vRHJpaTY1UmFpdjRmVUk0QW84UzdLMzFkRHFrUTVPVlYzcU1VV2hzTUR4Zm4tdGNwT2hJbkxQa3dVb1ZfbUZLS0dzSHRIRmhtVGxkVW9aTk00T01ocU9DekdhcjFXdnNDSkJSWnBwZGRXX0JjdWU3YlI2X2RhT3gxNEQ5cDkxeHpyMlFLTGVRWW1Nd1hwWlA0NDQ3RFdNbGxVcXNpMS03QTZsVjBsRlEwUFpiZ19yZG1YUndQSnVHRjExTndHdFEzWk5VOVVmUmlfc0pxS1FoUE85cnhZang40gGCAkFVX3lxTFAxTjZUMWp4WWNOYW1LMGpNUGx4dXg4bHRHeTNWMmp4LUo4T0tsM2pKSkhHM0pwT0VXTTdWaUtFNW43YnQzOHNhOTRaN1hmWFZFVk1XTDJJRHh4S1FYV0ZfZE1iMEwyYlZOS2VxM3U4TGk5V2RyOUhyNGV2MmRpTnFmaVMxVU1WWXVjSWt1MVF2bGptdXlINmlIRmhSb241OWFQbFpZeWJYaGIydng2anMyWER0VFlJaWJmeVBseFNuOUpESHA5bWFjcXRFb0liaUFTM1hfQXE5WUIzUFFOR185QUt4ZjRXRzQwaDg2VGZNVk9iSUkyYl9tOFFPUEVNN01oZw?oc=5)
-
----
-
-### [Así es el implante que logra eliminar el exceso de glucosa y reduce el peso sin medicación - Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
-
-2026-10-24 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesidad</span>
-
-Source: [Libertad Digital](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSm5QUDVqWjdJZmdkNkd1M3RBaWZQdFl0cEIyX0taZDN1TU5pTFZSei1YTWQyQnRmOXI5Sm1NeEwyQ01JX1JKZWZBS2xoSGNEWUNCYWNuaTNqOG05ek4yeXpZVFJDQWF1ZFlBWklYRUZRSEVfN3NueTU0WF9mZjQ1NTV5Um5UeVhBTUhuc2laMUVVbDkzVjhQdnQ2R2ItOGptbVF5OFljbjVmRkgyd2dCNGlJdGo2QUJwTWh1MEhBcGczVFVONk5yLTN0cXlqUVlQdGptVmc0eFYwNDRsQjVXc1B1R3MtamdJQXNEZEotMURsS0tYZ2xMN2NlTdIBhgJBVV95cUxPNC01X0NkM29IMDRDdWhST3hNeXBySFVqUVI3NzhGVml1MkdidzJHaWJBY1MxdzlHZndVY3FtMXVYTEVfbUxrdlFua3p0dEYtYUFqYVJqVG9HanUzcEJCR01PUVdCZFd5aDBoLU1SSVc3ZU4wQzFLcEpYaExwcU1KT2twYzFIYW1KcDBxRmx5UlRfV215SlQ5VXBuaXlNbHRTQWd4VG80aGRWeVc4eHRfY1dxckNlaXFDWVZ6NXJ5UFpUYzlJYUt5SVdaUE5CVkJqT01HalRMZ29MTmRZWXVScDdlT0UtM29hVDBhdmowTmxzSFFXN3BPRFBVeHB5NEhpME9hSVR3?oc=5)
-
----
-
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">obesity</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
-
----
-
-### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
-
----
-
-### [Warum Gliome nach einem Schlaganfall schneller wachsen – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd3FyaGoySjdmalZOcV94eURhS0pTU3ZhZGNNOHlNdzJ5dzc5U2M5R0FmSVFmdi12YXA3dlowc0hlMFZFbWlBRlQ1RmJoV2RjcW5rYlMyamxXcVJQbXJLYU44Qzc3V3ZodkF4OW5fbHhUZFg3TE9IZDlyaC0yVm1fWjdRczNmVTJxYzFndm1oSmNobXJMWjdIbFJtb0lpOWJEVDJPQXpzZlI3dGVnMHdISkJxWFhiZ1dzVjZwbl9ONHU?oc=5)
-
----
-
-### [« Ça m’a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">obésité</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
