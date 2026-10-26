@@ -14,7 +14,7 @@ permalink: /news/alirocumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Nierenerkrankungen: 10 Prozent betroffen, doch oft bleibt der Schaden unentdeckt](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
+
+2026-10-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
+
+---
 
 
 <div class="disclaimer">

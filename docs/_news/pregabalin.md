@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">artrite</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

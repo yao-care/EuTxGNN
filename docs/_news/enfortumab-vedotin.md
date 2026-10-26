@@ -14,7 +14,7 @@ permalink: /news/enfortumab-vedotin/
 ---
 
 <p class="key-answer" data-question="What news is there about Enfortumab Vedotin?">
-<strong>Enfortumab Vedotin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Enfortumab Vedotin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Enfortumab Vedotin with the 
 
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Tumore della vescica, una nuova cura per i pazienti più «complicati» e che non possono fare chemioterapia - Corriere della Sera](https://news.google.com/rss/articles/CBMisAJBVV95cUxOXzdrek9faFV4ZHhiUHNoY29pUFc3SG42Wl9YMFFoQUNvekE3MjltdFBEcVdRbFliOHQzZERYVTFscE1xZU92aXF6VWZGX3hfWm9md2pPbGhuYzN6dExoenlVckNnLWR6ZDRCNkdwVm5vVVZGaTlBSTkxR1g2RWhvT0dXX0lHVEdlMUJObDI1a1NMWUc3azEzUU0yQ1p4OFB6d3FVbmFBb0gtX0VWbjI3dUpzaGtWSVNIWlRYckxVNVJlM3dKWk52TTJTdTItcFZCYVVuQ1h4SHJXLWZ4QzZEVC1tcEg0YVFvZ3Y0Y2RoRUNkMXk3Q18zbk1RNlJMVUZZVnF4V2l4ZHFhZWhVR2lIOTZ3Nk5heGtKM2Q0bWhBSm0xLW5WU2V3TmxEWm9pMWxG0gG2AkFVX3lxTFB2SzNPM2RUX2dtOE5nSlk0bUREdUZrYjMwdkpfbVBtN3pNcVJoMzQ5Y0doZ1lJc21OX0JRMDE2OUozeE5wSy1fa0NSV0FtSk1zSnFoTkdZVVdKcFdvbGY0YmVOQ1lIRDl1dXpId3JvU0FWXzdVa1pkM0pxLXJQeFhtTmZCMFYxd05TUzlvUzFDLVc4WVg0OHQ3TnhTa0RkSmJjcGpZYmRjQ0F4Mk1ZamdTYjRuaG00ZENKRWFBQUpENUZ2bUI0TTY2NmdjQkRqUHZFSjhmeXI4b0haX2FBMTBDYlpoYXl6OFMtMDcyYlVYNUZUTHhLczVkVWRWVkQ2aEgtNWFaVWxsQTB3VUZCZmFvZ2FUc1BLdUE1TlVJOWtYXzZhU1VjaUcxVkd5dkw0cGluZFlfQXc?oc=5)
+
+2026-10-26 <span class="news-drug-tag">Durvalumab</span> <span class="news-drug-tag">Enfortumab Vedotin</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Corriere della Sera](https://news.google.com/rss/articles/CBMisAJBVV95cUxOXzdrek9faFV4ZHhiUHNoY29pUFc3SG42Wl9YMFFoQUNvekE3MjltdFBEcVdRbFliOHQzZERYVTFscE1xZU92aXF6VWZGX3hfWm9md2pPbGhuYzN6dExoenlVckNnLWR6ZDRCNkdwVm5vVVZGaTlBSTkxR1g2RWhvT0dXX0lHVEdlMUJObDI1a1NMWUc3azEzUU0yQ1p4OFB6d3FVbmFBb0gtX0VWbjI3dUpzaGtWSVNIWlRYckxVNVJlM3dKWk52TTJTdTItcFZCYVVuQ1h4SHJXLWZ4QzZEVC1tcEg0YVFvZ3Y0Y2RoRUNkMXk3Q18zbk1RNlJMVUZZVnF4V2l4ZHFhZWhVR2lIOTZ3Nk5heGtKM2Q0bWhBSm0xLW5WU2V3TmxEWm9pMWxG0gG2AkFVX3lxTFB2SzNPM2RUX2dtOE5nSlk0bUREdUZrYjMwdkpfbVBtN3pNcVJoMzQ5Y0doZ1lJc21OX0JRMDE2OUozeE5wSy1fa0NSV0FtSk1zSnFoTkdZVVdKcFdvbGY0YmVOQ1lIRDl1dXpId3JvU0FWXzdVa1pkM0pxLXJQeFhtTmZCMFYxd05TUzlvUzFDLVc4WVg0OHQ3TnhTa0RkSmJjcGpZYmRjQ0F4Mk1ZamdTYjRuaG00ZENKRWFBQUpENUZ2bUI0TTY2NmdjQkRqUHZFSjhmeXI4b0haX2FBMTBDYlpoYXl6OFMtMDcyYlVYNUZUTHhLczVkVWRWVkQ2aEgtNWFaVWxsQTB3VUZCZmFvZ2FUc1BLdUE1TlVJOWtYXzZhU1VjaUcxVkd5dkw0cGluZFlfQXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

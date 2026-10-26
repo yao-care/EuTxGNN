@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,23 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">artrite</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
+
+---
+
+### [Esteban Daudén, dermatólogo: «En la psoriasis, hay una asociación entre el grado de inflamación en la piel con el de fuera de la piel» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
+
+2026-10-25 <span class="news-indication-tag">psoriasis</span>
+
+Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
+
+---
 
 
 <div class="disclaimer">

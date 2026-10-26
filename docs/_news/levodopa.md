@@ -14,7 +14,7 @@ permalink: /news/levodopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Levodopa</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
+
+2026-10-26 <span class="news-indication-tag">dementia</span>
+
+Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
+
+---
 
 
 <div class="disclaimer">
