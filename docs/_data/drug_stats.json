@@ -1,6 +1,7 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-27",
   "total_drugs": 664,
+  "total_indications": 6531,
   "level_counts": {
     "L1": 35,
     "L2": 28,

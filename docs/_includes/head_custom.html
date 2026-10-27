@@ -200,7 +200,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "https://eutxgnn.yao.care/#website",
       "name": "EuTxGNN Drug Repurposing Reports",
       "url": "https://eutxgnn.yao.care/",
-      "description": "AI-powered drug repurposing predictions for 664 EMA-approved drugs with clinical evidence validation",
+      "description": "AI-powered drug repurposing predictions for {{ site.data.drug_stats.total_drugs }} EMA-approved drugs with clinical evidence validation",
       "isPartOf": {
         "@id": "https://eutxgnn.yao.care/#software"
       },
@@ -216,7 +216,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "WebPage",
       "@id": "https://eutxgnn.yao.care/#article",
       "headline": "Drug Repurposing: From Data to Evidence",
-      "description": "AI-powered drug repurposing predictions for 664 EMA-approved drugs with clinical trial and literature evidence reports",
+      "description": "AI-powered drug repurposing predictions for {{ site.data.drug_stats.total_drugs }} EMA-approved drugs with clinical trial and literature evidence reports",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -418,15 +418,15 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "Drug List - EuTxGNN",
-      "description": "Complete list of EuTxGNN drug repurposing reports for 664 EMA-approved drugs",
+      "description": "Complete list of EuTxGNN drug repurposing reports for {{ site.data.drug_stats.total_drugs }} EMA-approved drugs",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "EuTxGNN Drug Repurposing Reports",
-      "description": "Drug repurposing reports for 664 EMA-approved medications",
-      "numberOfItems": {{ site.drugs.size }},
+      "description": "Drug repurposing reports for {{ site.data.drug_stats.total_drugs }} EMA-approved medications",
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
@@ -452,6 +452,7 @@ window.TXGNN_ANALYTICS = {
 </script>
 
 {% elsif page.url == '/news/' %}
+{%- capture news_desc_default %}Automated monitoring of health news for {{ site.data.drug_stats.total_drugs }} drugs and related indications{% endcapture %}
 <!-- CollectionPage Schema for News Overview -->
 <script type="application/ld+json">
 {
@@ -461,7 +462,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "Health News Monitoring - EuTxGNN",
-      "description": {{ page.description | default: 'Automated monitoring of health news for 664 drugs and related indications' | jsonify }},
+      "description": {{ page.description | default: news_desc_default | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://eutxgnn.yao.care/#website"

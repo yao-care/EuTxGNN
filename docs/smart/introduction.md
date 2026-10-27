@@ -37,7 +37,7 @@ To accelerate drug repurposing research by:
 ### AI-Powered Predictions
 
 - **TxGNN Model**: Graph neural network trained on biomedical knowledge
-- **642 Drugs**: EMA-approved medications analyzed
+- **{{ site.data.drug_stats.total_drugs }} Drugs**: EMA-approved medications analyzed
 - **32,368 Predictions**: Potential new therapeutic uses
 
 ### Evidence Integration
@@ -59,7 +59,7 @@ To accelerate drug repurposing research by:
 ```
 ┌─────────────────┐
 │   EMA Drugs     │
-│   (642 drugs)   │
+│   ({{ site.data.drug_stats.total_drugs }} drugs)   │
 └────────┬────────┘
          ↓
 ┌─────────────────┐

@@ -234,7 +234,7 @@ loadNews();
 
 | Resource | Description |
 |----------|-------------|
-| [Drug Reports](/drugs/) | Browse all 642 EMA drug repurposing reports |
+| [Drug Reports](/drugs/) | Browse all {{ site.data.drug_stats.total_drugs }} EMA drug repurposing reports |
 | [High Evidence (L1-L2)](/evidence-high/) | Predictions with clinical trial support |
 | [Data Downloads](/downloads/) | Download prediction data in CSV/JSON |
 | [Methodology](/methodology/) | Learn about TxGNN prediction model |

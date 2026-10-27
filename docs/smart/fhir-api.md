@@ -42,7 +42,7 @@ Returns a FHIR CapabilityStatement describing server capabilities.
 
 ### MedicationKnowledge
 
-Drug information resources for 642 EMA-approved medications.
+Drug information resources for {{ site.data.drug_stats.total_drugs }} EMA-approved medications.
 
 #### Read
 

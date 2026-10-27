@@ -13,6 +13,12 @@ permalink: /drugs/
 {% assign l3_count = listed_drugs | where: "evidence_level", "L3" | size %}
 {% assign l4_count = listed_drugs | where: "evidence_level", "L4" | size %}
 {% assign l5_count = listed_drugs | where: "evidence_level", "L5" | size %}
+{%- comment -%}2026-10-27 build gate（drug-count-text-sync-gap）：站上各頁的藥物數讀 site.data.drug_stats；
+它和實際公開藥物頁數不一致時，故意 include 不存在的檔讓 Jekyll 建置失敗，錯誤訊息即修法。{%- endcomment -%}
+{%- assign ds = site.data.drug_stats -%}
+{%- if listed_drugs.size != ds.total_drugs or l1_count != ds.level_counts.L1 or l2_count != ds.level_counts.L2 or l3_count != ds.level_counts.L3 or l4_count != ds.level_counts.L4 or l5_count != ds.level_counts.L5 -%}
+{% include ERROR-docs-data-drug_stats-json-out-of-sync--run-python3-scripts-generate_drug_stats-py.html %}
+{%- endif %}
 
 # All Drugs
 

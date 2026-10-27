@@ -19,7 +19,7 @@ Drug repurposing predictions for European Union EMA-approved drugs using the TxG
 
 | Item | Count |
 |------|------|
-| **Drug Reports** | 642 |
+| **Drug Reports** | 664 |
 | **Total Predictions** | 2,122,856 |
 | **Unique Drugs** | 609 |
 | **Unique Indications** | 17,041 |
