@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Drospirenone?">
-<strong>Drospirenone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Drospirenone</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+---
 
 ### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
 
@@ -49,6 +57,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OE
 2026-10-27 <span class="news-indication-tag">asthma</span>
 
 Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
+
+---
+
+### [Premier succès prometteur d’un vaccin ARN contre le mélanome : à l’aube d’une révolution en cancérologie ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
 
 ---
 

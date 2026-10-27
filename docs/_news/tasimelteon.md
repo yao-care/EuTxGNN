@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [Depresión circadiana: Identifican un subtipo de depresión ligado al reloj biológico y resistente a los medicamentos comunes](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
 
@@ -43,11 +43,11 @@ Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV
 
 ---
 
-### [ESMO 2026 explora nuevas estrategias para mejorar el bienestar y la calidad de vida de los pacientes con cáncer - IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHJLUjBmMjl1azJUaFFsemoyX29qbzNQbXhvQzlZeThtV0k4TzA4dEl2dWxBVXgzVXduS0lxZ2ktMDBfT2tqVVZhWU94ckY2c1MzY1VOdzlLU21wRXFUUWlqOXY5MTE2ZmNwbjdnbnROUkpHeFpIWTE5ekxoR0pYcEpGRkNiZmlaOHZtcXBMTDhnVWlOUTNITnJvUlBXa1V5UENiQl9mb24yNm1NVlctRWl6bkJoM01idnFvbmFuV0Fnak3SAb4BQVVfeXFMTVJQT1BIY3dwVGFoSmY5aFFTSVlQZ0FKTlF6Qm40X2FRTnRWVEkyVDhYamZBRi1nQmNnZGFqMVRKSXd1YlFKRzA1V3gxVldDMkxoTG1KZ0dtYmJ2WmZwWm9LVWhxc1NDYUV2SE9KQVdzaWI0RHpoYU9jME5NVGdSZFNZR0NYZ3htb2VtdXFVeUVNT0FCY2lva0JfZFdoU1hvZi1Nc3o5a05Ydm5fNmFJWG43bjhqX3dTc1pkTkw5QQ?oc=5)
+### [El entrenamiento de la mente compasiva reduce la depresión y la ansiedad en personas con cáncer, según un estudio - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0YxMk9lS0w3Z095WHZVYWhpNHlOLTYwY2dweWk0ZllEMVlLOXduUktJWHotandhVE04QkdVUXE0eDBiMHRsa2l5TGU5Ni1BLXN1aTMzYVM1UWJBV2ZOX3hndkFvRVBvVXJ2TzBacnc5OHJjQ0N3ZHplQ19sZnNPbVZ6TzJ2TWhwNjh6MlA1WVZzX0NKUkFVQTh4QUdVb2d3ZVh5WGIzT0tDYlRLb3o5TUFMVTYzY0pWeWpTYWV6MlQ4Uk9XeDVvbF94SjBVbGhjVUdmOWVNNHpYd2dZTE9GeDF3?oc=5)
 
 2026-10-27 <span class="news-indication-tag">depresión</span>
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNHJLUjBmMjl1azJUaFFsemoyX29qbzNQbXhvQzlZeThtV0k4TzA4dEl2dWxBVXgzVXduS0lxZ2ktMDBfT2tqVVZhWU94ckY2c1MzY1VOdzlLU21wRXFUUWlqOXY5MTE2ZmNwbjdnbnROUkpHeFpIWTE5ekxoR0pYcEpGRkNiZmlaOHZtcXBMTDhnVWlOUTNITnJvUlBXa1V5UENiQl9mb24yNm1NVlctRWl6bkJoM01idnFvbmFuV0Fnak3SAb4BQVVfeXFMTVJQT1BIY3dwVGFoSmY5aFFTSVlQZ0FKTlF6Qm40X2FRTnRWVEkyVDhYamZBRi1nQmNnZGFqMVRKSXd1YlFKRzA1V3gxVldDMkxoTG1KZ0dtYmJ2WmZwWm9LVWhxc1NDYUV2SE9KQVdzaWI0RHpoYU9jME5NVGdSZFNZR0NYZ3htb2VtdXFVeUVNT0FCY2lva0JfZFdoU1hvZi1Nc3o5a05Ydm5fNmFJWG43bjhqX3dTc1pkTkw5QQ?oc=5)
+Source: [Diario Siglo XXI](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0YxMk9lS0w3Z095WHZVYWhpNHlOLTYwY2dweWk0ZllEMVlLOXduUktJWHotandhVE04QkdVUXE0eDBiMHRsa2l5TGU5Ni1BLXN1aTMzYVM1UWJBV2ZOX3hndkFvRVBvVXJ2TzBacnc5OHJjQ0N3ZHplQ19sZnNPbVZ6TzJ2TWhwNjh6MlA1WVZzX0NKUkFVQTh4QUdVb2d3ZVh5WGIzT0tDYlRLb3o5TUFMVTYzY0pWeWpTYWV6MlQ4Uk9XeDVvbF94SjBVbGhjVUdmOWVNNHpYd2dZTE9GeDF3?oc=5)
 
 ---
 
@@ -96,14 +96,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5
 2026-10-26 <span class="news-indication-tag">dépression</span>
 
 Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnFOMnBKaGg2Yko0VkdJQlJFclpGel9fRzdOMjdFNDRSQ3FqQjVLUHRpZmpYVnhiX3hvbE5uY0d3MkdTakN6YS1wRmdjX21QTGt6VlZOcUhWV3VDNWozQ0lFWkNRMTlKd1ZPcFp5dXVjeENiLUgyRFA4dmhhMjBsNXBBU3BuYUVlQWNQTVc5bEg5UjdsNVE?oc=5)
-
----
-
-### [Mirtilli contro la depressione? La scienza scopre un legame nell'intestino](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDRYYnFoajVFczdwZFBYSWtmOWhNR0tLSUlWbE1vTDBJWWlmYjUwa1FKWDE0WlRGdVlDY3dvdVUwUF9HRDlybTAxOXhTZTRPSElEdkhPNEpXTF9zcUVUQVNTeTdqenJYcEprUDBJTVo0SklwNkp3d0lVS0xtS2NJbHlHX1pPTThacGhTeDFlREVWaS1ncEJHVGljdHJVZ3B6UUtRbmNoTUotTUd0SGxVSWxjSk1qQncxYmtEdlJXbTFiQQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">depression</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDRYYnFoajVFczdwZFBYSWtmOWhNR0tLSUlWbE1vTDBJWWlmYjUwa1FKWDE0WlRGdVlDY3dvdVUwUF9HRDlybTAxOXhTZTRPSElEdkhPNEpXTF9zcUVUQVNTeTdqenJYcEprUDBJTVo0SklwNkp3d0lVS0xtS2NJbHlHX1pPTThacGhTeDFlREVWaS1ncEJHVGljdHJVZ3B6UUtRbmNoTUotTUd0SGxVSWxjSk1qQncxYmtEdlJXbTFiQQ?oc=5)
 
 ---
 

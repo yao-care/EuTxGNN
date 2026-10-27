@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Idarucizumab?">
-<strong>Idarucizumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Idarucizumab</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+---
 
 ### [COPD: Wie bewährt sich Dupilumab im Behandlungsalltag?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVhTSGV0aGxZcTRta2hidDZKNTFQb3BpaXotelVwYXlCOWZ6VHctdG02T01EMW4xcDRqYmk1UUxOYjcxWGR2ZHk5a3ZXUlVkeGFXWDd4OVplblY5Zk5tUVlON1BCWERHSUZtS29rX244b2s1SFJLbTZQa3pMdzJrVExCUGtmdWNLM2JXcWFpWVJKM3BpMS1SUXRsRk1tV0lYNzJsb3hHUzlLazNBQ19ldzBqTUxnRUE?oc=5)
 

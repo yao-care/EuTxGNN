@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 

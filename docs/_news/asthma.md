@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "asthma News"
+title: "asma (asthma) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about asthma. 1 articles, 47 related drugs."
+description: "Health news about asma (asthma). 2 articles, 47 related drugs."
 permalink: /news/asthma/
 last_modified_at: 2026-10-27
 ---
 
-# asthma News
+# asma (asthma) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about asthma?">
-<strong>asthma</strong> currently has <strong>1 news articles</strong> and 47 related drugs.
+<p class="key-answer" data-question="What news is there about asma (asthma)?">
+<strong>asma (asthma)</strong> currently has <strong>2 news articles</strong> and 47 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “asthma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “asma” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -63,13 +63,21 @@ This page brings together the latest health news about “asthma” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 2026-10-27
 
 Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
+
+---
+
+### [Premier succès prometteur d’un vaccin ARN contre le mélanome : à l’aube d’une révolution en cancérologie ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
+
+2026-10-26
+
+Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
 
 ---
 

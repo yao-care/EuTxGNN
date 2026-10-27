@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Artenimol?">
-<strong>Artenimol</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Artenimol</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+---
 
 ### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Cabotegravir?">
-<strong>Cabotegravir</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Cabotegravir</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Cabotegravir with the latest
 <p><a href="{{ '/drugs/cabotegravir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+---
 
 ### [Diabetes, Alzheimer, Herzinfarkt: So viele Hochrisiko-Gene trägt jeder Mensch in sich](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWdLUmR0U1lLOHdHSElmZHJpMkFkeFJqNE5oVEpuLThBVDU1cEJ1RVJ3VFZtenNjTmJVNFUwWE9IS0YtMEwyX25sSG4yT2hRMjZPcExPQl9aU1pqMFR2TnFRSW1hRTBKWUljZ2RXamxhRHdhcktWNEIxQ0xpcjQ5UGxocm0xanhBd24wYm52VkxENTJYdndya3VwdDRHamlFd284dUR0c1RQUkt3bWJrdm5tUEJGZ0RBeFZ1QXVyZEMyYzhHUEMxQkZoYWRjNlMzRzF4YjV6Z3ZjTWZTVklsUVZLdDFuUkFm?oc=5)
 
@@ -83,6 +91,14 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OE
 
 ---
 
+### [Diabete tipo 2, via libera del CHMP a IcoSema](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
+
+2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabete</span>
+
+Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLRkl4alB6MGlXNWg5WDBqUENQWFNhQ003c1IzSF8zbXhwbEFGdTdzTGZnNUtlVmtvMFVudDFPTVcwSjhVSlZRMG1qQk42WGNVcGxreFNwWU16dERaSnVRVUk4V3ItaktSS0FidWpqTVRiTS1xS3pySHY0YS1QQlQ4LWZya2R2OHN0czZPZFdxOXNRU3NlYkJnM3FHbTBldVVUTnVGOA?oc=5)
+
+---
+
 ### [Abbott lanza una guía para mejorar el autocuidado de las personas con diabetes tipo 2 tratadas con insulina basal - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXctSmloRjZ0SWUxMUJ3Y2RISjJkSThrRXB1ZHp4ZjVBRzN6YXVqR3Nnbno3b3pXN1NPWkNKYW5USHEzLTR5WXFSQ1pDbklPZWtJZ05mSEhlNUsyaXc3ZmtjT01zZUlqc0U4eEJLZ2dDa3pmWTFRcDRKUG9qWDZER1FDV3VPZ2hMdzNuMV9TbWNZaGtXSlhGOFNIOFFCaWV0cHdHUmF3bll3a1dEM0FYX2FxVlpXYXZkV0xEN0k2NUV4Z9IBvAFBVV95cUxPVGRqYTBzWlJhbHpCaVctcFhnNlVwbjNzQ1E5NEVibDFPYU5UTjlVV3lYMmhxcnFJR3M2dHZlQzNKRnh2YWwzOWVpM19KN2gyZ0RkMXZMN0FHU0pybEgzNGs3c0daLWFZVkpOUTFTQmRWV3Y0bkNoVWhvTnU2bVp2VkRFV1RwWHRDVloyWHVIcGpuS3pfbHl4aUtvWWVmeS1PT09vV3lDdHVSdkNoSVNraFdLTXJ3Y3AtQ2dEaA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">diabetes</span>
@@ -104,14 +120,6 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnEt
 2026-10-26 <span class="news-indication-tag">diabetes</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFlYR05CeG5kNUY3R0M3X1EtNUJtY0dyUWZBTGZLMU12QVd1ZkhWY2lPUmRQRzJOTWMxYUNvZjljbDNscjNBQWQyR2ExZ09zMTVEWlFwZ21iWXA1NXd6aklaY3F4U3lrTy10V2ZJQTkwcE9RUE9TNHRpTW5Ud2wxcXVHMXBvT3kxUVpGLUpGSjNqOXBKcGhTa25ZQXlXYXYwSTNmLVNSWG14STFE?oc=5)
-
----
-
-### [Rivoluzioni cosmetici: con i farmaci dimagranti boom di creme per combattere la “faccia da Ozempic” - la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
-
-2026-10-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
 
 ---
 

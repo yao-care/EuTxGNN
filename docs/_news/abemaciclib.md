@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
+
+---
 
 ### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
 
@@ -45,7 +53,7 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OE
 
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 

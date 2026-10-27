@@ -51,11 +51,19 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV9
 
 ---
 
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
+
+---
+
+### [Clinica ravennate tra i centri d'eccellenza della chirurgia per l'obesità grave: mille interventi l'anno e ricerca](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
+
+2026-10-27 <span class="news-indication-tag">obesità</span>
+
+Source: [RavennaToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
 
 ---
 
@@ -104,14 +112,6 @@ Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cU
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
 
 Source: [Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
-
----
-
-### [Rivoluzioni cosmetici: con i farmaci dimagranti boom di creme per combattere la “faccia da Ozempic” - la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
-
-2026-10-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
-
-Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
 
 ---
 

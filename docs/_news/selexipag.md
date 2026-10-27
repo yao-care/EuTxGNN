@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Selexipag</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe"](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">hipertensión</span>
 
-Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
-
----
-
-### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+Source: [Deia](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
 
 ---
 

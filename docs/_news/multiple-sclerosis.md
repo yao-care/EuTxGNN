@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 11 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 8 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-10-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>11 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>8 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,13 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (11)
+## Related News (8)
 
-### [Empresas.- MSD presenta resultados positivos de sacituzumab tirumotecan en pacientes con cáncer de endometrio](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHNpUXdsUWlhS3EwS092b0tTay1NU3JnaDZlb1hCMVd1cktCcXpaSEZ4SzZaLUh6enRCQ3AtSW9JdWNaUnJ2dWVGMm5vRm96QTBXb01FWXRkSFdqMUhYQjktRExrWmxSa2hOVmpzbmdlbUlWZ2ppeEtHVGZ6SFVzcDBFQUxpamVGZEQxZEFHYS01Y3ZlNDQyZUhheC01NlE1UW14WFVKRWxpOE9NQ2lSMkRQVGdFWWg4cUItOFkxalFMLUg5RER3NWw4MFl1VDZnci1MQVY0RHNtdy1aVWlpeDI2bi1TcmxyTHMyMjJ3?oc=5)
-
-2026-10-27
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHNpUXdsUWlhS3EwS092b0tTay1NU3JnaDZlb1hCMVd1cktCcXpaSEZ4SzZaLUh6enRCQ3AtSW9JdWNaUnJ2dWVGMm5vRm96QTBXb01FWXRkSFdqMUhYQjktRExrWmxSa2hOVmpzbmdlbUlWZ2ppeEtHVGZ6SFVzcDBFQUxpamVGZEQxZEFHYS01Y3ZlNDQyZUhheC01NlE1UW14WFVKRWxpOE9NQ2lSMkRQVGdFWWg4cUItOFkxalFMLUg5RER3NWw4MFl1VDZnci1MQVY0RHNtdy1aVWlpeDI2bi1TcmxyTHMyMjJ3?oc=5)
-
----
-
-### [La cepa Bundibugyo del ébola amenaza con extenderse en África mientras se busca una vacuna](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWF3clp2N3FSNGJFV1JROVJVeTVLVF9KMG5JZF84djlUa1FacmlaaVFPLTJzU3RWb0k5X0JzUGhzdkk5QWd0MEdEVkluaVppQk4xU2Z6T2lIWnZ3enB2T3huemJKNWJTS01WOEZBVTRjdy1FQjVKeFNOd016bVU1MmJkUnVCSUlWNHlMMWdxaUtWODFEaWd4NUtKQUVCNGlOUF8zYWhkeG4?oc=5)
+### [Hope for millions as 31p pill eases agonising skin condition suffered by Kim K - The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVG1WVWtxclNKY3dsZzdpWTdZZWZNNEl5Sy1MUHd0M1k1X2JFNEVmR2xRQkFjWXdiM3RkR2RoMGdjQllwTTBGUjV6NGtpd1FURG5mOFBYcHctal9pMWp6SXRYbTVaN0JXUFE1OFlGYXZZNndQY3pxX3VQNjN3WXhtaEwwS0I4NEVtNU55VzlGWnlQdw?oc=5)
 
 2026-10-27
 
-Source: [RTVE.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWF3clp2N3FSNGJFV1JROVJVeTVLVF9KMG5JZF84djlUa1FacmlaaVFPLTJzU3RWb0k5X0JzUGhzdkk5QWd0MEdEVkluaVppQk4xU2Z6T2lIWnZ3enB2T3huemJKNWJTS01WOEZBVTRjdy1FQjVKeFNOd016bVU1MmJkUnVCSUlWNHlMMWdxaUtWODFEaWd4NUtKQUVCNGlOUF8zYWhkeG4?oc=5)
+Source: [The Sun](https://news.google.com/rss/articles/CBMikgFBVV95cUxPVG1WVWtxclNKY3dsZzdpWTdZZWZNNEl5Sy1MUHd0M1k1X2JFNEVmR2xRQkFjWXdiM3RkR2RoMGdjQllwTTBGUjV6NGtpd1FURG5mOFBYcHctal9pMWp6SXRYbTVaN0JXUFE1OFlGYXZZNndQY3pxX3VQNjN3WXhtaEwwS0I4NEVtNU55VzlGWnlQdw?oc=5)
 
 ---
 
@@ -69,22 +61,6 @@ Source: [RTVE.es](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWF3clp2N
 2026-10-27
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX0k2WVdWeXE2TVV6NkF3cW1xRzlEZk5oRXBwREM0S3YzSXdBN3J5VXEycFNQcUY2V2R2UkFjMjJXYWpDc0s4VWdWdXJrZFJwbElFZ1pTdE5Sc2VhbF9RVmpsTUZFRnF5RkFiSXlYaG5KS2Vn?oc=5)
-
----
-
-### [Millionen Menschen leiden unter Volkskrankheit: Forscher machen wichtige Entdeckung - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZ3ZTczQ3AxM29Kb1ROVXh2SzJlZ0ZIRE9IZld4N3g4ZzRybWp5LUtvWEtpT1NQVm1UUk8tbHNfY0lqMC1vOUJRa0xZZDlRSkFMSlNnb1RPa1dvUUFNY0ZiUk5KN1V3RG1MWHNKNjdjZGFWMEw5MTF5VG54UmJqQldIVHdBVXZyc3NVRlJSVmdNa1VVcEl3cWl2d2RyaFZHU3VITzN6SFAwNlJqNVpSN24zMzVzZVZxTnpyV3p1WkNSSmF4Y1lrMmROQXpuUQ?oc=5)
-
-2026-10-27
-
-Source: [Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZ3ZTczQ3AxM29Kb1ROVXh2SzJlZ0ZIRE9IZld4N3g4ZzRybWp5LUtvWEtpT1NQVm1UUk8tbHNfY0lqMC1vOUJRa0xZZDlRSkFMSlNnb1RPa1dvUUFNY0ZiUk5KN1V3RG1MWHNKNjdjZGFWMEw5MTF5VG54UmJqQldIVHdBVXZyc3NVRlJSVmdNa1VVcEl3cWl2d2RyaFZHU3VITzN6SFAwNlJqNVpSN24zMzVzZVZxTnpyV3p1WkNSSmF4Y1lrMmROQXpuUQ?oc=5)
-
----
-
-### [Warning over little known brain condition brushed off by GPs as 'all in your head' - the 5 vital signs to know - The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jd1hDSGdQM0ZLUkRPamZJdmJFRmc2SlUycENMU2RmT2xwcDh5NTdIYUl3X3pjV0JOcXBYN0ktNDltdXVVOHR4QUtlRm1WZDNUWTMtcndnLVNGU2hxLWNYWmtYWmdVRVZWNkF3OGd1dzNNUE1MS2NpTHhERnE1Zw?oc=5)
-
-2026-10-27
-
-Source: [The Sun](https://news.google.com/rss/articles/CBMifkFVX3lxTE5jd1hDSGdQM0ZLUkRPamZJdmJFRmc2SlUycENMU2RmT2xwcDh5NTdIYUl3X3pjV0JOcXBYN0ktNDltdXVVOHR4QUtlRm1WZDNUWTMtcndnLVNGU2hxLWNYWmtYWmdVRVZWNkF3OGd1dzNNUE1MS2NpTHhERnE1Zw?oc=5)
 
 ---
 
