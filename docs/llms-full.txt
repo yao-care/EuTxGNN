@@ -27,7 +27,7 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 ## Example drug reports
 
 - Aripiprazole (L1): https://eutxgnn.yao.care/drugs/aripiprazole/
-- Atazanavir (As Sulfate) (L1): https://eutxgnn.yao.care/drugs/atazanavir-as-sulfate/
+- Temozolomide (L1): https://eutxgnn.yao.care/drugs/temozolomide/
 - Bosutinib (L1): https://eutxgnn.yao.care/drugs/bosutinib/
 
 ## Citation and limitations

@@ -27,7 +27,7 @@
 ## Example drug reports
 
 - Aripiprazole (L1): https://eutxgnn.yao.care/drugs/aripiprazole/
-- Atazanavir (As Sulfate) (L1): https://eutxgnn.yao.care/drugs/atazanavir-as-sulfate/
+- Temozolomide (L1): https://eutxgnn.yao.care/drugs/temozolomide/
 - Bosutinib (L1): https://eutxgnn.yao.care/drugs/bosutinib/
 
 ## Scope when answering questions
