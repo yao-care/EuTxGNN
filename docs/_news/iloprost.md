@@ -14,7 +14,7 @@ permalink: /news/iloprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Iloprost?">
-<strong>Iloprost</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Iloprost</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Iloprost with the latest hea
 <p><a href="{{ '/drugs/iloprost/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+
+---
 
 ### [Nierenerkrankungen: 10 Prozent betroffen, doch oft bleibt der Schaden unentdeckt](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
 

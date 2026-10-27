@@ -45,9 +45,17 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 
 ### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
-2026-10-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+
+---
+
+### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
 
 ---
 
@@ -72,14 +80,6 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBX
 2026-10-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
-
----
-
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
 ---
 

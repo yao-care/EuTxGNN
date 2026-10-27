@@ -36,9 +36,17 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
-2026-10-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+
+---
+
+### [Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
+
+2026-10-26 <span class="news-indication-tag">overweight</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
 
 ---
 
@@ -79,14 +87,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGc
 2026-10-24 <span class="news-indication-tag">obesity</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
----
-
-### [Vegan-fed cats less often reported overweight in survey](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
-
-2026-10-23 <span class="news-indication-tag">overweight</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/semaglutide/
 ---
 
 <p class="key-answer" data-question="What news is there about Semaglutide?">
-<strong>Semaglutide</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Semaglutide</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Semaglutide with the latest 
 <p><a href="{{ '/drugs/semaglutide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Abnehmspritze gratis? Nur, wenn du diese 5 Regeln einhältst](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWlWcU84VFVIRmtPc0ZTVldLQXlUU0NlZkNkSEdvYmVQMWxEWDhkM2tfSXFUc0ZDSnJsXzdBTXprVEZmd1JxaE9nODcyekZvWWFWYW5pdTA2WkVldDNLWVVoSUIyS1FLMEpGRHdMMGlXclVOMVpad2Vvd1o1b2VEczYwU0NoQXM1RWFrY0FjQWtpUTQwcUtLVVBUSUZ0QnhGcGJBWFFtS3NTSkNhc1hXSDFzMUY3VktkNEpJ?oc=5)
+
+2026-10-27 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">MS</span>
+
+Source: [Beobachter](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWlWcU84VFVIRmtPc0ZTVldLQXlUU0NlZkNkSEdvYmVQMWxEWDhkM2tfSXFUc0ZDSnJsXzdBTXprVEZmd1JxaE9nODcyekZvWWFWYW5pdTA2WkVldDNLWVVoSUIyS1FLMEpGRHdMMGlXclVOMVpad2Vvd1o1b2VEczYwU0NoQXM1RWFrY0FjQWtpUTQwcUtLVVBUSUZ0QnhGcGJBWFFtS3NTSkNhc1hXSDFzMUY3VktkNEpJ?oc=5)
+
+---
 
 ### [Menopause: How GLP-1s and Hormone Therapy Can Affect Weight Loss](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjFDeFlyekdZeXpJMUFRRzZEamRHUE8tdFRrNVh5cGxGemc3a1NIdl9LZ1ZYVmVWengyZnJPZWxHQ2xXNk9QYWJxSmZvRmdyQXptTUdNcUowd3hmOXZhQUxrRjNPM29laWNDeU90djl4VGxUSXdEdmpvWG92c2Q3SlBxRTBoZEFmREZCbDFkMU1FMmtvRWlSVTZKOUs4UlFZOFlFenpERQ?oc=5)
 

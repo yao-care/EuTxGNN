@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 13 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/multiple-sclerosis/
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>15 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
+## Related News (15)
 
 ### [Goodbye to toilet paper in 2026: a new option has arrived for bathrooms that is already trending worldwide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
 
@@ -55,11 +55,19 @@ Source: [TheCoolist](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3
 
 ---
 
-### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+### [Abnehmspritze gratis? Nur, wenn du diese 5 Regeln einhältst](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWlWcU84VFVIRmtPc0ZTVldLQXlUU0NlZkNkSEdvYmVQMWxEWDhkM2tfSXFUc0ZDSnJsXzdBTXprVEZmd1JxaE9nODcyekZvWWFWYW5pdTA2WkVldDNLWVVoSUIyS1FLMEpGRHdMMGlXclVOMVpad2Vvd1o1b2VEczYwU0NoQXM1RWFrY0FjQWtpUTQwcUtLVVBUSUZ0QnhGcGJBWFFtS3NTSkNhc1hXSDFzMUY3VktkNEpJ?oc=5)
 
 2026-10-27
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+Source: [Beobachter](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWlWcU84VFVIRmtPc0ZTVldLQXlUU0NlZkNkSEdvYmVQMWxEWDhkM2tfSXFUc0ZDSnJsXzdBTXprVEZmd1JxaE9nODcyekZvWWFWYW5pdTA2WkVldDNLWVVoSUIyS1FLMEpGRHdMMGlXclVOMVpad2Vvd1o1b2VEczYwU0NoQXM1RWFrY0FjQWtpUTQwcUtLVVBUSUZ0QnhGcGJBWFFtS3NTSkNhc1hXSDFzMUY3VktkNEpJ?oc=5)
+
+---
+
+### [Millionen Menschen leiden unter Volkskrankheit: Forscher machen wichtige Entdeckung - Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZ3ZTczQ3AxM29Kb1ROVXh2SzJlZ0ZIRE9IZld4N3g4ZzRybWp5LUtvWEtpT1NQVm1UUk8tbHNfY0lqMC1vOUJRa0xZZDlRSkFMSlNnb1RPa1dvUUFNY0ZiUk5KN1V3RG1MWHNKNjdjZGFWMEw5MTF5VG54UmJqQldIVHdBVXZyc3NVRlJSVmdNa1VVcEl3cWl2d2RyaFZHU3VITzN6SFAwNlJqNVpSN24zMzVzZVZxTnpyV3p1WkNSSmF4Y1lrMmROQXpuUQ?oc=5)
+
+2026-10-27
+
+Source: [Fuldaer Zeitung](https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzZ3ZTczQ3AxM29Kb1ROVXh2SzJlZ0ZIRE9IZld4N3g4ZzRybWp5LUtvWEtpT1NQVm1UUk8tbHNfY0lqMC1vOUJRa0xZZDlRSkFMSlNnb1RPa1dvUUFNY0ZiUk5KN1V3RG1MWHNKNjdjZGFWMEw5MTF5VG54UmJqQldIVHdBVXZyc3NVRlJSVmdNa1VVcEl3cWl2d2RyaFZHU3VITzN6SFAwNlJqNVpSN24zMzVzZVZxTnpyV3p1WkNSSmF4Y1lrMmROQXpuUQ?oc=5)
 
 ---
 
@@ -108,6 +116,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cU
 2026-10-23
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+
+---
+
+### [California startup says it has injected AI-designed virus into humans for first time - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
+
+2026-10-23
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/norethisterone/
 ---
 
 <p class="key-answer" data-question="What news is there about Norethisterone?">
-<strong>Norethisterone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Norethisterone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">asthma</span>
+
+Source: [ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+---
 
 
 <div class="disclaimer">

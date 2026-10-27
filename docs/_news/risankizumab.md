@@ -14,7 +14,7 @@ permalink: /news/risankizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Risankizumab?">
-<strong>Risankizumab</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Risankizumab</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Diabete, la scoperta che cambia le regole del dimagrimento](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnEtQ1c1ZGotaTQ4VFgtWnlIbkpzMElVazBZa0VDcVptUzVTS0txa2FpT3U4V2owb0otTm5yMXZpSVk5UzQ0eENiNjRXaUltOFpKV0NsR2pncmZ5SkhEWHNhQXhGaXZxbmxrRC0xZ3pmRHA1UnRxMW9LQVEyd01SZTJFNjRTVUltWENqSldiVnpOZEE0ZE1ORWFPM2tJUFRRSmhsN2Zma0pNaTNFbmdDbE9XNHR4eVVw?oc=5)
 
@@ -87,14 +87,6 @@ Source: [Moneycab](https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWY5R0Vl
 2026-10-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
 Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
-
----
-
-### [Esteban Daudén, dermatólogo: «En la psoriasis, hay una asociación entre el grado de inflamación en la piel con el de fuera de la piel» - La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
-
-2026-10-25 <span class="news-indication-tag">psoriasis</span>
-
-Source: [La Voz de Galicia](https://news.google.com/rss/articles/CBMijgJBVV95cUxObVFkY0pmdkhmaF91U1ZfOEloX2M4c1JhNER0eDVBd1JOSVB3eTMyemFWYzRsSnI1c0VRZnVEN2kyQ3luT0hJWVBJbm1OLTRrLVd2YVI4MkhXUTZMbFgwcUh5SGZqMTFCZHZZRjVLNTBycG5rejVKMldzRXFqMGlHWkIwSkItTTFrME5neXpxUDZ4NWdZNG41a2syWUJQdDFxczBiQm14elkyc2Y4akU0Z0hwYmc1dkFfLWFmSlEwMGpYdjZqamtiRzVRdUJYUTdKY3Q5X1FRa280NzhzbXRRal9BZ0ZIbDlhS0pWYi1fczBRc3N6Q2s5VC1QZFY2Z05BU0FjWlJxM3dVRXJ3YnfSAZMCQVVfeXFMTlJJY0VEZHFlM2ZmYjkycTROeC1OQTQ2emFWbWY3RmdHbFdkRHJxUjJySThGeFVud21MN2ZiT0phcERVMUF2alRROGZmVUw5U2EzNnFfVGdPalRIUHVGS1otOUsycFR4a18za0RjTWJHQjJWRlJObTFCR2ZyT2JGZXRZZDBpOGI0TGpYYjhiTkk1N1dmd2plZ0xWSWhaaHZfMHk0VDltZGh2X2hpeTgzZU1FVFpCeXRGSW5pUlJ5QUF5RnJyeURJUlI4ZnhpcDd6Z1BCM2ROT2dqXzYzSTZHcjZ6bjlma3UzMTU2OUFMdjNpUjFWVUp4WF80Uy0xQUJoWFBQUVlzSklUT0xNMlF6OS1INEk?oc=5)
 
 ---
 

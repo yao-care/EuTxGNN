@@ -14,7 +14,7 @@ permalink: /news/tasimelteon/
 ---
 
 <p class="key-answer" data-question="What news is there about Tasimelteon?">
-<strong>Tasimelteon</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Tasimelteon</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Tasimelteon with the latest 
 <p><a href="{{ '/drugs/tasimelteon/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
+
+2026-10-27 <span class="news-indication-tag">dépression</span>
+
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
+
+---
 
 ### [Estudian los ritmos del sueño y detectan que 1 de cada 4 casos de depresión podrían estar relacionados con ellos - National Geographic España](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFJIQ0FXYk90RWFuOEFtTW02UXpvVjlFQTVNVUFsVmVmRjM4MC1QWEZxTHVQck5zQ2cwX1pCSlpaUmhrbEp4OTVveVBadm5DdVluZF9Hc3c4NEliS2wyT2ZnRVBBdlFnbnFnVWsycWViWHNGa3ktd05sc0Q5TVFXSTRJc3R1amxvTlZ0cVYzcHZJWkswWm11QUN5enNpaHNpb1ZFSWFrUUhaWFZrREk2SFQ0MDVLY3VGSi0xdk9ja1NmS2NWbGJrR2lxV01nSXRVZzBXRHhVb3V3QQ?oc=5)
 

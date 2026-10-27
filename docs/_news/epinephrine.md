@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">asthma</span>
+
+Source: [ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+---
 
 ### [COPD erkennen und behandeln: Nordseeklinik lädt zum Vortrag mit Atemtraining ein - Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 

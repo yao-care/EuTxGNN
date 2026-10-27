@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 
 ## Related News (4)
 
+### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+
+---
+
 ### [AbbVie presenta datos que destacan la eficacia y seguridad de upadacitinib en la recuperación del cabello, las cejas y las pestañas - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
 
 2026-10-26 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
@@ -55,14 +63,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcE
 2026-10-25 <span class="news-indication-tag">artrite</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
-
----
-
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
 ---
 

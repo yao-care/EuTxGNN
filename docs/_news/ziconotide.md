@@ -34,6 +34,14 @@ This page combines the AI-predicted indications for Ziconotide with the latest h
 
 ## Related News (6)
 
+### [Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
+
+2026-10-26 <span class="news-indication-tag">overweight</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
+
+---
+
 ### [Lilly presenta nuevos datos a un año de Taltz y Mounjaro en adultos con enfermedad psoriásica y obesidad o sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUJzRUJLWENQZ2VjalRrQ2lYUC1LMTE4VmlScWVNVXVnaDdwZnNkU005WXpBMFZ2T19KQTlvV05rdDByZVgwbFY1ZW93LU1vRzhGTF94YmtxU2l5M0k2T3N4c1pZS2dneW00TW4zeG5iVEYwcXlYMDM5aGVRQXBhbV82TFFKeHFZU3ViYjloN3J3c3EtLTRlaG1VeUpkcHo3b3hvRHpFNWhidkU?oc=5)
 
 2026-10-26 <span class="news-drug-tag">Ixekizumab</span> <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesidad</span>
@@ -55,14 +63,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGc
 2026-10-24 <span class="news-indication-tag">obesity</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
----
-
-### [Vegan-fed cats less often reported overweight in survey](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
-
-2026-10-23 <span class="news-indication-tag">overweight</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
 
 ---
 

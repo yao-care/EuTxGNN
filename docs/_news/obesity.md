@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "overweight (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
+description: "Health news about overweight (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
-# obesidad (obesity) News
+# overweight (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about overweight (obesity)?">
+<strong>overweight (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “overweight” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,6 +34,14 @@ This page brings together the latest health news about “obesidad” and lists 
 </div>
 
 ## Related News (6)
+
+### [Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
+
+2026-10-26
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
+
+---
 
 ### [Lilly presenta nuevos datos a un año de Taltz y Mounjaro en adultos con enfermedad psoriásica y obesidad o sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUJzRUJLWENQZ2VjalRrQ2lYUC1LMTE4VmlScWVNVXVnaDdwZnNkU005WXpBMFZ2T19KQTlvV05rdDByZVgwbFY1ZW93LU1vRzhGTF94YmtxU2l5M0k2T3N4c1pZS2dneW00TW4zeG5iVEYwcXlYMDM5aGVRQXBhbV82TFFKeHFZU3ViYjloN3J3c3EtLTRlaG1VeUpkcHo3b3hvRHpFNWhidkU?oc=5)
 
@@ -56,14 +64,6 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGc
 2026-10-24
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
----
-
-### [Vegan-fed cats less often reported overweight in survey](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
-
-2026-10-23
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
 
 ---
 

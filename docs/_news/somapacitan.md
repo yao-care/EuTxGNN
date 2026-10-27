@@ -14,7 +14,7 @@ permalink: /news/somapacitan/
 ---
 
 <p class="key-answer" data-question="What news is there about Somapacitan?">
-<strong>Somapacitan</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Somapacitan</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">asthma</span>
+
+Source: [ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+
+---
 
 ### [Diabete, la scoperta che cambia le regole del dimagrimento](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnEtQ1c1ZGotaTQ4VFgtWnlIbkpzMElVazBZa0VDcVptUzVTS0txa2FpT3U4V2owb0otTm5yMXZpSVk5UzQ0eENiNjRXaUltOFpKV0NsR2pncmZ5SkhEWHNhQXhGaXZxbmxrRC0xZ3pmRHA1UnRxMW9LQVEyd01SZTJFNjRTVUltWENqSldiVnpOZEE0ZE1ORWFPM2tJUFRRSmhsN2Zma0pNaTNFbmdDbE9XNHR4eVVw?oc=5)
 
