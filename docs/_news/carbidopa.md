@@ -14,7 +14,7 @@ permalink: /news/carbidopa/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbidopa?">
-<strong>Carbidopa</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Carbidopa</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [The 6 Best Frozen Foods for Cognitive Health, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
+
+2026-10-26 <span class="news-indication-tag">Alzheimer's</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
+
+---
 
 ### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
 

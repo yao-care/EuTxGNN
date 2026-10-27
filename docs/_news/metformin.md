@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>9 news articles</strong>, with 6 predicted indications.
+<strong>Metformin</strong> currently has <strong>10 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Diabete, la scoperta che cambia le regole del dimagrimento](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnEtQ1c1ZGotaTQ4VFgtWnlIbkpzMElVazBZa0VDcVptUzVTS0txa2FpT3U4V2owb0otTm5yMXZpSVk5UzQ0eENiNjRXaUltOFpKV0NsR2pncmZ5SkhEWHNhQXhGaXZxbmxrRC0xZ3pmRHA1UnRxMW9LQVEyd01SZTJFNjRTVUltWENqSldiVnpOZEE0ZE1ORWFPM2tJUFRRSmhsN2Zma0pNaTNFbmdDbE9XNHR4eVVw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabete</span>
+
+Source: [Mondosanità](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnEtQ1c1ZGotaTQ4VFgtWnlIbkpzMElVazBZa0VDcVptUzVTS0txa2FpT3U4V2owb0otTm5yMXZpSVk5UzQ0eENiNjRXaUltOFpKV0NsR2pncmZ5SkhEWHNhQXhGaXZxbmxrRC0xZ3pmRHA1UnRxMW9LQVEyd01SZTJFNjRTVUltWENqSldiVnpOZEE0ZE1ORWFPM2tJUFRRSmhsN2Zma0pNaTNFbmdDbE9XNHR4eVVw?oc=5)
+
+---
 
 ### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxORTZ2a2MycmJPbTNseG40enJyZzVfREdFWVBwSHZsdGVWYVVQdkpvVEx3WHIxbVJIM0dtcUg3NEVsZ1JfZ0tSWm44dXotcHVVWjBLRzBZOE1mZFJVRDU0OHJLZjgtZDlNcFRMbldPTFZKd2x1bFQ2SGxQc0h1YmpBMUI3cjk2RjFTYkJ4U3ZXUUE3bVc3eXo5bERkVWVxWGE2eVRtSjVrc3lqcUwxcVFtMUlpbXd1YU1GYWtjTzU2amtfM21Z?oc=5)
 
@@ -47,11 +55,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMixAFBVV95cUxO
 
 ---
 
-### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUxELW41NHE4UHJXQ2c4aGpPTzhwc2tPdTBZNjlVd0tKckF4NWJrU0Z5WWpRQzVLMUR1Y05FOUF4U2JIcURVd21PTWE4SVY4dmxxNmhGNk5HcGMzaV9rOWtMeTB5eVZoaU1PNER1dVZ2d2lGb2JfbjdDNXBUaEpYVmp0Z3BTNkp5SVlLWVN0RVp5bGVOVV90SXlEMVNJTnhNMWY4dVduMHR6TDRKQ1kySEx5Zll0NXZxNnJRTXNnMFJTREHSAcgBQVVfeXFMUDVvOVFVR0x3R1hJak1TdzN4N3ROcUl5a0J6NTR4emo5Z3k1YjNLamExNEtjWl9mZ3YyOU5YRF9nU3p5WHZPYmcteHg2NG00MnJobTRfZ01rMURYajA1SG80Sk9iaTBwT0owd2dsaGxiM3B1cU5ESVd4UDFrTHRCM2IzcVp0cXJRem12NmdVQ1NGa081QVRfRzNqbjJ3Zzl2NE5WT21TbWFEQlNSbHhiY0QwdmxxdENEdWFIdXljVFYyUy0zLWwyWTc?oc=5)
+### [Prediabetes: los tres hábitos que recomienda una cardióloga para mejorar la salud metabólica - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGM1WUhjNFQ3bWFlaEttUVdLNEtBVnJ4WVJ5dmFQMDEyTTZ3V19wT3ZmclVIdEliSHZyeGZtSFdMQ1cxNGthcy1QVHhreDhyZzMtOE9FZHZxLTJYTENXX3V6SVUweFVrQ1RzbW5ScEF0eUdIZnZnTmFIcjlYTXRrSkdyampIWGZxdnhxbm9rUERhMkdwX3k1QmNER2l2Nnl5Q3h5blhjelJXdnpmZF9BSjFPdG5xOGdrVEZhSGZtWVbSAcYBQVVfeXFMTkdnd19zSU1MUTBHVk85LTJZWHpHNllRc1JuaHNLMFo4QkxjSUtDYWJZcXYwRmdZemtGYVgtT2FNRDVzX0dBNGE4bFJlYm94dkVfV3I4VmJKcUc4RWwweHVYWWJZT1d2R3NuTmttakZBQnVwRFVjaWZrdG1VTThGdldtRHdYSVRPSXN3amdjczFlRTFQek9INzl6cDNMTVFWOGN5TkROSEMtUFd6X2twVkdsVVE1ZXp1RGgxUlVJSGlBajBZWnV3?oc=5)
 
 2026-10-26 <span class="news-indication-tag">diabetes</span>
 
-Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUxELW41NHE4UHJXQ2c4aGpPTzhwc2tPdTBZNjlVd0tKckF4NWJrU0Z5WWpRQzVLMUR1Y05FOUF4U2JIcURVd21PTWE4SVY4dmxxNmhGNk5HcGMzaV9rOWtMeTB5eVZoaU1PNER1dVZ2d2lGb2JfbjdDNXBUaEpYVmp0Z3BTNkp5SVlLWVN0RVp5bGVOVV90SXlEMVNJTnhNMWY4dVduMHR6TDRKQ1kySEx5Zll0NXZxNnJRTXNnMFJTREHSAcgBQVVfeXFMUDVvOVFVR0x3R1hJak1TdzN4N3ROcUl5a0J6NTR4emo5Z3k1YjNLamExNEtjWl9mZ3YyOU5YRF9nU3p5WHZPYmcteHg2NG00MnJobTRfZ01rMURYajA1SG80Sk9iaTBwT0owd2dsaGxiM3B1cU5ESVd4UDFrTHRCM2IzcVp0cXJRem12NmdVQ1NGa081QVRfRzNqbjJ3Zzl2NE5WT21TbWFEQlNSbHhiY0QwdmxxdENEdWFIdXljVFYyUy0zLWwyWTc?oc=5)
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGM1WUhjNFQ3bWFlaEttUVdLNEtBVnJ4WVJ5dmFQMDEyTTZ3V19wT3ZmclVIdEliSHZyeGZtSFdMQ1cxNGthcy1QVHhreDhyZzMtOE9FZHZxLTJYTENXX3V6SVUweFVrQ1RzbW5ScEF0eUdIZnZnTmFIcjlYTXRrSkdyampIWGZxdnhxbm9rUERhMkdwX3k1QmNER2l2Nnl5Q3h5blhjelJXdnpmZF9BSjFPdG5xOGdrVEZhSGZtWVbSAcYBQVVfeXFMTkdnd19zSU1MUTBHVk85LTJZWHpHNllRc1JuaHNLMFo4QkxjSUtDYWJZcXYwRmdZemtGYVgtT2FNRDVzX0dBNGE4bFJlYm94dkVfV3I4VmJKcUc4RWwweHVYWWJZT1d2R3NuTmttakZBQnVwRFVjaWZrdG1VTThGdldtRHdYSVRPSXN3amdjczFlRTFQek9INzl6cDNMTVFWOGN5TkROSEMtUFd6X2twVkdsVVE1ZXp1RGgxUlVJSGlBajBZWnV3?oc=5)
 
 ---
 

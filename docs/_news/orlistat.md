@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,11 +32,11 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
 
 ### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
-2026-10-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
@@ -66,14 +66,6 @@ Source: [Ouest-France](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBX
 
 ---
 
-### [Fuoco di Sant’Antonio, aumenta il rischio di infarto e ictus? Lo studio su 94 mila osservazioni](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
-
-2026-10-25 <span class="news-indication-tag">ictus</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQzhYU0Z0Z1NaY3AyV2MtOF9sT0hxVzh2dVZlTktyWGtiS2JMV3FQd3J2bExaUGxqRGQtbW42ejczbVZpZEZFR0g0U3N1azNaRlN0OVdkN0FBQ2xJeWJDZkRwMllsZXk4RUNHN21hV1dlSkxLTHpOMVN4Tkk1eFpLQ2MxX1Z5VDhxWlZLWW9hMHJSbF9fd1hsbUdrTVBSbmt0SHBIX0V1SXA3dGdxcDFQS2h0QXAyOVg4QVQxbENpYWtvcnlnUENjUU9BeDdRTWQ5UVFibFpJN1ZiWXNGTHV2ZjJtYzYtVWs?oc=5)
-
----
-
 ### [Rivoluzioni cosmetici: con i farmaci dimagranti boom di creme per combattere la “faccia da Ozempic” - la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGcwaUdvZU0zeW00UVVOQlI2WjZfVzVTd0c4MHB2eUF5TnVxU2RCUVNvQ2tTcmZsOXJwYzMtQlY1TEVlYnlOUm4tVGlQVDJudFpkcEtiMWZpb1IxZ3lKSUpmbkdFNVdJN0txa0IxSGtMck9ZLXlaYy04Y2ZsTXhKX1BCNER0TE16dzZDcVFDTTBSUUdpMm95YUtBbVFCUnlYSzV2RlVvVGotb3pIRm1JaS1WdDhnOFFMOVVnSzY3ejV5WXBhQW1XWG12WmVPZjk3NmduRWw5RU54S2FDd0JkVy1BeWJxcDV1eVdSM2txRQ?oc=5)
 
 2026-10-25 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
@@ -95,14 +87,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 2026-10-23 <span class="news-indication-tag">overweight</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
-
----
-
-### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">Adipositas</span>
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
 
 ---
 

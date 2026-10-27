@@ -14,7 +14,7 @@ permalink: /news/elbasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Elbasvir?">
-<strong>Elbasvir</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Elbasvir</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,37 @@ This page combines the AI-predicted indications for Elbasvir with the latest hea
 <p><a href="{{ '/drugs/elbasvir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
+
+### [Goodbye to toilet paper in 2026: a new option has arrived for bathrooms that is already trending worldwide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+
+2026-10-27 <span class="news-indication-tag">MS</span>
+
+Source: [TheCoolist](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+
+---
 
 ### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
-2026-10-26 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
+2026-10-27 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">MS</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
 ---
 
-### [Goodbye to toilet paper in 2026: a new option has arrived for bathrooms that is already trending worldwide](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+### [Help! I fear I have ferritin face — the new Gen Z ailment - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXh0T0M0QmZIRXVIZm5rdTRvQktNT1BmTVBDZXBlOGQ1bUhYS1BESXlCRkttR3YzalZEZjB3NGp5bjg1RVYwaGx6cGNrUnA1NEcxQU1fR1MxVXZ3QzRnNGNSWW1pSlNoZjBUQkJpNGxJQk1zeUFGTjdySC1HTVh0NmFUR3BKaDlaejJCV2Yxc2NKQUdjMnk1UWhnZWx2Sk0?oc=5)
 
 2026-10-26 <span class="news-indication-tag">MS</span>
 
-Source: [TheCoolist](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUUkzY3JER0R4OVVBYzlFOGk5LXFCdjVqckJpTjdsUEU2ckFrMTNyLTcwTzFEdld5YW9HVGJ4QnBqRnVtTHlkUVRpd1g4aGgxRXlrUEoxdll0UDFfSkt4cFQzNnRsOXdCaV84X01LUDNuVTNXS0dUQkJGbEx5UEJDLVRsQ0ltUzFRai1YSDNUVkYwZjF3SllhSzZkMUNCRzVjRzR0c2lScW9hR3hTbFcwZnFCVmFpcnEtSE5TZmE1T3BLTV9WWHF0MjE0alhuaVpJSDFnbzlxMF8?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXh0T0M0QmZIRXVIZm5rdTRvQktNT1BmTVBDZXBlOGQ1bUhYS1BESXlCRkttR3YzalZEZjB3NGp5bjg1RVYwaGx6cGNrUnA1NEcxQU1fR1MxVXZ3QzRnNGNSWW1pSlNoZjBUQkJpNGxJQk1zeUFGTjdySC1HTVh0NmFUR3BKaDlaejJCV2Yxc2NKQUdjMnk1UWhnZWx2Sk0?oc=5)
+
+---
+
+### [Allarme Ebola a meno di 100 km dall’Italia: moglie ricoverata e marito in isolamento - Secolo d'Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm9yV0NEQ25wRVNKcnc3V2RjQ2tBc2w2Z1lFSjh0QnFYWWdlRHM3TFJfa3RWOUp4ODJPWUxodGZMeUVMeUFqa2FYMThrenQ0Q20zdVFvMGFLUVdrbGtxamRXeU01ZnpzOXVoRGx4Z2hJTnZEamdPYjFoelNORl9wVGR3Wjd3MWk3SmFkcmZYUjdsLVE3Vlc1SDFLR1cxblZkRzl6UFZoZUxOQmRyVlJoRkNZeHNxcFE3YUU2ZQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
+
+Source: [Secolo d'Italia](https://news.google.com/rss/articles/CBMivAFBVV95cUxQNm9yV0NEQ25wRVNKcnc3V2RjQ2tBc2w2Z1lFSjh0QnFYWWdlRHM3TFJfa3RWOUp4ODJPWUxodGZMeUVMeUFqa2FYMThrenQ0Q20zdVFvMGFLUVdrbGtxamRXeU01ZnpzOXVoRGx4Z2hJTnZEamdPYjFoelNORl9wVGR3Wjd3MWk3SmFkcmZYUjdsLVE3Vlc1SDFLR1cxblZkRzl6UFZoZUxOQmRyVlJoRkNZeHNxcFE3YUU2ZQ?oc=5)
 
 ---
 
@@ -58,14 +74,6 @@ Source: [elDiario.es](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTB6S
 
 ---
 
-### ["JENKE. Report": Abnehmspritze stillt Hunger - aber löst sie auch das Problem?](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWJDd1d0Vmo4NzBsT1RJRUpVdWxoUnRqcm9SY3dLcmxPemZ2Q0JKX0FOWG9PMjZFVElmUEIzZlg2bDh5Z0JDeFZLa2NsczlEaUxBMzZOMUZ4em9HUEJzSlNjd25xaWJxQmo5NV83OEw4elE0djc3YlE3UzFFbUU2djhUWGVjSTlSajdsaVg5OU9jU1hldGN0Mmdn?oc=5)
-
-2026-10-26 <span class="news-indication-tag">MS</span>
-
-Source: [Joyn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWJDd1d0Vmo4NzBsT1RJRUpVdWxoUnRqcm9SY3dLcmxPemZ2Q0JKX0FOWG9PMjZFVElmUEIzZlg2bDh5Z0JDeFZLa2NsczlEaUxBMzZOMUZ4em9HUEJzSlNjd25xaWJxQmo5NV83OEw4elE0djc3YlE3UzFFbUU2djhUWGVjSTlSajdsaVg5OU9jU1hldGN0Mmdn?oc=5)
-
----
-
 ### [Sclérose en plaques: «Il suffit de la mauvaise poussée pour que ça vous détruise». Entre handicap invisible et imprévisibilité, deux Romandes racontent - Le Temps](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTGZQb203MWlNSTdZNVJWQVBVRnpfd1U5NjByZlR4OTJ1YWEwcWpodHdza3VBN2xmUjRiMGZoRUhqXzI5RHpfcEdldDJVb3VVSGt4eExjVHZwRVhJRlptMnZzeHdwRzh0Z1NxQ3pJaGJpTWY1OUt3WFpsOVl0MUVzWmRIN01jUW1ZUTVGTlQydk1MRmJ1Ymh3RGxRRV9WWkFyZkpSbzZITXJyTFlrcjFIYTVLMzJpWGYxQjQ5TzllLW4xZW1WNlVFVlV6OXdxVU1kMjk2OG1ubXkwY0Vvc2g3UEIxQVJTY3VBNklzN2xjU3dxc2JNZVQwLXJnZ2JaSlZmNndiVjF2SWZEWkNJakRVY3J3?oc=5)
 
 2026-10-25 <span class="news-indication-tag">sclérose en plaques</span>
@@ -74,11 +82,11 @@ Source: [Le Temps](https://news.google.com/rss/articles/CBMikgJBVV95cUxQTGZQb203
 
 ---
 
-### [Immorta Bio’s nine-amino-acid peptide aims at zombie cells](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0dTeU1laGd3dWF5b1JuQm8xNFI2WngyLTF0RS11dDljNGRGNmVaVFRZMjdFaE14c0xBZl9CcXFTaC16NGU1ZW9LR1ZKZGxmYWE0NmZkMjVpc3JzNXc2cTN0SmNxbktveVZVTzQwcTVtRk9mLXI1Y1hndHlSUkswc3FTTjU3MDc0NHR6bE5CbER2b09zMTg0?oc=5)
+### [Breast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
 
-2026-10-23 <span class="news-indication-tag">MS</span>
+2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MS</span>
 
-Source: [Longevity.Technology](https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0dTeU1laGd3dWF5b1JuQm8xNFI2WngyLTF0RS11dDljNGRGNmVaVFRZMjdFaE14c0xBZl9CcXFTaC16NGU1ZW9LR1ZKZGxmYWE0NmZkMjVpc3JzNXc2cTN0SmNxbktveVZVTzQwcTVtRk9mLXI1Y1hndHlSUkswc3FTTjU3MDc0NHR6bE5CbER2b09zMTg0?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
 
 ---
 
@@ -87,22 +95,6 @@ Source: [Longevity.Technology](https://news.google.com/rss/articles/CBMilwFBVV95
 2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
 
 Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
-
----
-
-### [Dermatologische Komplikationen von „Chemsex“](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MS</span>
-
-Source: [AerzteZeitung.de](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE1rUktxUnd3MmtBUUpSRl9WYXlmUVFKYWNBTlZEd1laeGVZTk5fSk5BbGN6SUxLTnl4TlZ1LTROYXkwaU11blVqRmVsVzBzdm5TbTZMRF9DSHJBaGZJQVNUang3SHctOW1LdFJFWkZ6Z1VENzd3SHAzdXdNdi1xZ3Y0MHFfZFVEaVRFT0xsNkd6R2huZmc?oc=5)
-
----
-
-### [First human case of Shamonda virus detected in France, officials say](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RkRvZkFldXdKaWoxQjVPQU1tV0R3QkZhWF9XZGRnUFN2RFowbm4xTzB0bDhBSFlxQmtkYVJyaHVMbnRWVTRnN08tTi1PYng5S0JTa3ZlRi1xUkU?oc=5)
-
-2026-10-22 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE96RkRvZkFldXdKaWoxQjVPQU1tV0R3QkZhWF9XZGRnUFN2RFowbm4xTzB0bDhBSFlxQmtkYVJyaHVMbnRWVTRnN08tTi1PYng5S0JTa3ZlRi1xUkU?oc=5)
 
 ---
 
@@ -132,7 +124,7 @@ Source: [Multiple Sclerosis News Today](https://news.google.com/rss/articles/CBM
 
 ### [Controversial US-backed vaccine trial in African newborns halted - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
-2026-10-21 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
+2026-10-21 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 

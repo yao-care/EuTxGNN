@@ -3,7 +3,7 @@ layout: default
 title: "obesidad (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 7 articles, 8 related drugs."
+description: "Health news about obesidad (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/obesity/
 ---
 
 <p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<strong>obesidad (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
 ### [Lilly presenta nuevos datos a un año de Taltz y Mounjaro en adultos con enfermedad psoriásica y obesidad o sobrepeso - Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeUJzRUJLWENQZ2VjalRrQ2lYUC1LMTE4VmlScWVNVXVnaDdwZnNkU005WXpBMFZ2T19KQTlvV05rdDByZVgwbFY1ZW93LU1vRzhGTF94YmtxU2l5M0k2T3N4c1pZS2dneW00TW4zeG5iVEYwcXlYMDM5aGVRQXBhbV82TFFKeHFZU3ViYjloN3J3c3EtLTRlaG1VeUpkcHo3b3hvRHpFNWhidkU?oc=5)
 
@@ -64,14 +64,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 2026-10-23
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1YkRaejNabUljeGE4Q2owSm9fYUNfSkRidFhnOW4wdmNkMXZ1X1ZieEhVRlAtY2MtNFBVVmpBMUE3Uzd4N3luVlZrX2QtQlA3MnZkYkwyZUxLUUhST3lqY3lZRzFic3U3MDVhYg?oc=5)
-
----
-
-### [Synergieeffekte nutzen: Adipositas-Therapie in der dermatologischen Praxis – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
-
-2026-10-22
-
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWW9jcFFjbmNnc0dkWVVfWTFHTjNSMWY2VTEwRzQ3bmoySDRQUFBLd3RuMC1jcEgwcE5FRXF4QTYwN0w5ZVFodnBtb3YtRXF4MHJoQXBRd3lERmFSRWY2c1ZUdTlfRHY0bjYxUTlYNTBoN1VtclRkSDBsOWtOcUNxOEtXY2hCYjAzcFlSSlYtd1pGd3I0ZThXNm1WSzRDcjZFblMzdk9nd29KS1FqYmRwX2R3LVBSY3Q3SktTbHNPQVU5Ym1VZ1ZPZktnb0NLejN4NlR0WmxGaENQM1ZLTlRldWcySFZfOTZrR2IyQXlHb0o1VGdWQ0FER2dwSlN1cUZpRHBwS3c0aFhzc0dvRDl1Nnlkc2dUVE51QTZDcWNRYnBTVnFKMUZwdTN4VmI5OFFfLXVBU2JWWngtWnVGTWFOcU1YS1FYc2tEczAtbEZnMkMwTHBJMUE?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia (alzheimer disease) News"
+title: "Alzheimer's (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
+description: "Health news about Alzheimer's (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
 ---
 
-# dementia (alzheimer disease) News
+# Alzheimer's (alzheimer disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
+<p class="key-answer" data-question="What news is there about Alzheimer's (alzheimer disease)?">
+<strong>Alzheimer's (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Alzheimer's” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -42,7 +42,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [The 6 Best Frozen Foods for Cognitive Health, According to Dietitians](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
+
+2026-10-26
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XX1planRRbjhtdEFWN204bTkzUEt2aEhCblBlVGlhNUhneGQyYk9fOVpCc0Q4M21qUW5KSTVMSTR5NzAzM0lleTZCaGtVTm9hVDAtRm0wQ1pRZTZyMXhHQm9GSy1qaklmR0ozTF9vR1REMVFkUFpfNWgwRk9VZk0?oc=5)
+
+---
 
 ### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
 

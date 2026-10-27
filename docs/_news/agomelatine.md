@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Estudian los ritmos del sueño y detectan que 1 de cada 4 casos de depresión podrían estar relacionados con ellos - National Geographic España](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFJIQ0FXYk90RWFuOEFtTW02UXpvVjlFQTVNVUFsVmVmRjM4MC1QWEZxTHVQck5zQ2cwX1pCSlpaUmhrbEp4OTVveVBadm5DdVluZF9Hc3c4NEliS2wyT2ZnRVBBdlFnbnFnVWsycWViWHNGa3ktd05sc0Q5TVFXSTRJc3R1amxvTlZ0cVYzcHZJWkswWm11QUN5enNpaHNpb1ZFSWFrUUhaWFZrREk2SFQ0MDVLY3VGSi0xdk9ja1NmS2NWbGJrR2lxV01nSXRVZzBXRHhVb3V3QQ?oc=5)
 
@@ -56,14 +56,6 @@ Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cU
 2026-10-26 <span class="news-indication-tag">depression</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDRYYnFoajVFczdwZFBYSWtmOWhNR0tLSUlWbE1vTDBJWWlmYjUwa1FKWDE0WlRGdVlDY3dvdVUwUF9HRDlybTAxOXhTZTRPSElEdkhPNEpXTF9zcUVUQVNTeTdqenJYcEprUDBJTVo0SklwNkp3d0lVS0xtS2NJbHlHX1pPTThacGhTeDFlREVWaS1ncEJHVGljdHJVZ3B6UUtRbmNoTUotTUd0SGxVSWxjSk1qQncxYmtEdlJXbTFiQQ?oc=5)
-
----
-
-### [Why seasonal affective disorder will hit hard this year – and how you can fix it - The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
-
-2026-10-25 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1YwY20xb0ZTM3hwaVlmbURjX1d6b2s3QVJCWW5XQ2d0RTlfZHBKeXRqcHpvNWlnbWMyWnAxeDFoZXgwd0N0anFobDBQYm12ZFBqY0FwUmVYZEdTZXoxem1EYm9Cdmh0MkFSVzBzclNpMHRJbnl4ZXAxZC1oTF9sd0R2ZXd5T1pETlZ3ZVpPOWJYdmJWUEE?oc=5)
 
 ---
 
