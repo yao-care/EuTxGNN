@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sotatercept: From Pulmonary Arterial Hypertension to Acute Lymphoblastic Leukemia
+## Sotatercept: From Pulmonary Arterial Hypertension to Acute Lymphoblastic Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

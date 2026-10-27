@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Atropine: From Myopia Progression in Children to Migraine Disorder
+## Atropine: From Myopia Progression in Children to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

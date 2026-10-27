@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tigecycline: From Complicated Skin and Intra-abdominal Infections to Disorder of Tyrosine Metabolism
+## Tigecycline: From Complicated Skin and Intra-abdominal Infections to Disorder of Tyrosine Metabolism
+{: .text-alpha }
 
 ## One-Sentence Summary
 

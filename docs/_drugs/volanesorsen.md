@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Volanesorsen: From Familial Chylomicronemia Syndrome to Megaloblastic Anemia
+## Volanesorsen: From Familial Chylomicronemia Syndrome to Megaloblastic Anemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

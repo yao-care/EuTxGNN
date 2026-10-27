@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tobramycin: From Cystic Fibrosis Pseudomonas Lung Infection to Exposure Keratitis
+## Tobramycin: From Cystic Fibrosis Pseudomonas Lung Infection to Exposure Keratitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

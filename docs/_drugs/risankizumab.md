@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Risankizumab: From Plaque Psoriasis and Inflammatory Bowel Disease to Dermatitis
+## Risankizumab: From Plaque Psoriasis and Inflammatory Bowel Disease to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

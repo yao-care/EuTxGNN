@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bupropion: From Weight Management to Attention Deficit-Hyperactivity Disorder
+## Bupropion: From Weight Management to Attention Deficit-Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

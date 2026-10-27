@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idarucizumab: From Dabigatran Reversal to Hemoglobinopathy
+## Idarucizumab: From Dabigatran Reversal to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Sacubitril: From Chronic Heart Failure to Diabetic Nephropathy
+## Sacubitril: From Chronic Heart Failure to Diabetic Nephropathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

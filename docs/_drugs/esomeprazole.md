@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Esomeprazole: From Reflux Symptoms to Duodenal Ulcer
+## Esomeprazole: From Reflux Symptoms to Duodenal Ulcer
+{: .text-alpha }
 
 ## One-Sentence Summary
 

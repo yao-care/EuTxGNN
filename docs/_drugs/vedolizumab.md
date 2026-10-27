@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vedolizumab: From Inflammatory Bowel Disease to Severe Nonproliferative Diabetic Retinopathy
+## Vedolizumab: From Inflammatory Bowel Disease to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

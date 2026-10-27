@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Safinamide: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+## Safinamide: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

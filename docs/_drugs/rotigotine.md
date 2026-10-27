@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rotigotine: From Parkinson's Disease to Attention Deficit-Hyperactivity Disorder
+## Rotigotine: From Parkinson's Disease to Attention Deficit-Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

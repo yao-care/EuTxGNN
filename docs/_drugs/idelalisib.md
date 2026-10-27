@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idelalisib: From Chronic Lymphocytic Leukaemia and Follicular Lymphoma to Mantle Cell Lymphoma
+## Idelalisib: From Chronic Lymphocytic Leukaemia and Follicular Lymphoma to Mantle Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

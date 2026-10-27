@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lutropin alfa: From Infertility Treatment (Severe LH and FSH Deficiency) to Postural Orthostatic Tachycardia Syndrome
+## Lutropin alfa: From Infertility Treatment (Severe LH and FSH Deficiency) to Postural Orthostatic Tachycardia Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

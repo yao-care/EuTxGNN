@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trifluridine: From Metastatic Colorectal and Gastric Cancer to Cecum Villous Adenoma
+## Trifluridine: From Metastatic Colorectal and Gastric Cancer to Cecum Villous Adenoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

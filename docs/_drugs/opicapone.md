@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Opicapone: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+## Opicapone: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

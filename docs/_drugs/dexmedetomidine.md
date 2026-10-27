@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexmedetomidine: From ICU Sedation to Nephrogenic Syndrome of Inappropriate Antidiuresis (Top Prediction), with Headache Disorder as the Best-Supported Candidate
+## Dexmedetomidine: From ICU Sedation to Nephrogenic Syndrome of Inappropriate Antidiuresis (Top Prediction), with Headache Disorder as the Best-Supported Candidate
+{: .text-alpha }
 
 ## One-Sentence Summary
 

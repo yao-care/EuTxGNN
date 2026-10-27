@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Icosapent Ethyl: From Cardiovascular Risk Reduction to Myocardial Infarction
+## Icosapent Ethyl: From Cardiovascular Risk Reduction to Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

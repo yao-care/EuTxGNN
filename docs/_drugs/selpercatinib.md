@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Selpercatinib: From RET-Altered Cancers to Pulmonary Hypertension
+## Selpercatinib: From RET-Altered Cancers to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

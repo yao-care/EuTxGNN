@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Daptomycin: From Complicated Skin and Soft-Tissue Infections to Osteoarthritis
+## Daptomycin: From Complicated Skin and Soft-Tissue Infections to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

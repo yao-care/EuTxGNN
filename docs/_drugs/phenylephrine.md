@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Phenylephrine: From Intraoperative Mydriasis in Eye Surgery to Nasal Cavity Disease
+## Phenylephrine: From Intraoperative Mydriasis in Eye Surgery to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

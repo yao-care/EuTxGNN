@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enzalutamide: From Prostate Cancer to Prostate Neoplasm (Benign and Malignant Prostate Tumours)
+## Enzalutamide: From Prostate Cancer to Prostate Neoplasm (Benign and Malignant Prostate Tumours)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Maribavir: From CMV Infection in Transplant Recipients to Bronchitis
+## Maribavir: From CMV Infection in Transplant Recipients to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

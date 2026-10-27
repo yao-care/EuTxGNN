@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Varenicline: From Smoking Cessation to Migraine Disorder
+## Varenicline: From Smoking Cessation to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

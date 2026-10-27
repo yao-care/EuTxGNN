@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Capsaicin: From Peripheral Neuropathic Pain to Otitis Externa
+## Capsaicin: From Peripheral Neuropathic Pain to Otitis Externa
+{: .text-alpha }
 
 ## One-Sentence Summary
 

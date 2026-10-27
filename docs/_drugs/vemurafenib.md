@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vemurafenib: From BRAF-V600-Mutated Melanoma to HIV Infectious Disease
+## Vemurafenib: From BRAF-V600-Mutated Melanoma to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

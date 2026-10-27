@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Drospirenone: From Oral Contraception to Elevated Plasma Zinc
+## Drospirenone: From Oral Contraception to Elevated Plasma Zinc
+{: .text-alpha }
 
 ## One-Sentence Summary
 

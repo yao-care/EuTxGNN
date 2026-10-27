@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Budesonide: From Eosinophilic Esophagitis to Atopic Eczema
+## Budesonide: From Eosinophilic Esophagitis to Atopic Eczema
+{: .text-alpha }
 
 ## One-Sentence Summary
 

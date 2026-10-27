@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Peginterferon alfa-2a: From Polycythaemia Vera, Essential Thrombocythaemia and Chronic Viral Hepatitis to Hepatitis B Virus Infection
+## Peginterferon alfa-2a: From Polycythaemia Vera, Essential Thrombocythaemia and Chronic Viral Hepatitis to Hepatitis B Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

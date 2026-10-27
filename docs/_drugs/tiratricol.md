@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tiratricol: From MCT8 Deficiency (Allan-Herndon-Dudley Syndrome) to Migraine with Brainstem Aura
+## Tiratricol: From MCT8 Deficiency (Allan-Herndon-Dudley Syndrome) to Migraine with Brainstem Aura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Temozolomide: From Glioblastoma to Adult Astrocytic Tumour
+## Temozolomide: From Glioblastoma to Adult Astrocytic Tumour
+{: .text-alpha }
 
 ## One-Sentence Summary
 

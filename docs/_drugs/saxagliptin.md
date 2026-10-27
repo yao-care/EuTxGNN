@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Saxagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+## Saxagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

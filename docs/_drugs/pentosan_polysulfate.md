@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pentosan polysulfate: From Bladder Pain Syndrome to Primary Release Disorder of Platelets
+## Pentosan polysulfate: From Bladder Pain Syndrome to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

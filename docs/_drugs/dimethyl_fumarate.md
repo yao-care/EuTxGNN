@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dimethyl Fumarate: From Relapsing-Remitting Multiple Sclerosis to Progressive Multiple Sclerosis
+## Dimethyl Fumarate: From Relapsing-Remitting Multiple Sclerosis to Progressive Multiple Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

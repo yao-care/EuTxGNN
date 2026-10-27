@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dibotermin alfa: From Spinal Fusion and Tibial Fracture to Esotropia
+## Dibotermin alfa: From Spinal Fusion and Tibial Fracture to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

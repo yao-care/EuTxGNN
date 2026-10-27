@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methylthioninium: From Colorectal Lesion Visualisation and Methaemoglobinaemia to Irritable Bowel Syndrome
+## Methylthioninium: From Colorectal Lesion Visualisation and Methaemoglobinaemia to Irritable Bowel Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

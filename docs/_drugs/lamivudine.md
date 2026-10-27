@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Lamivudine: From Chronic Hepatitis B to Simian Immunodeficiency Virus Infection
+## Lamivudine: From Chronic Hepatitis B to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Anifrolumab: From Systemic Lupus Erythematosus to Diabetic Cataract
+## Anifrolumab: From Systemic Lupus Erythematosus to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

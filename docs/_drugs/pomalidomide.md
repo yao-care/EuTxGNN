@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Pomalidomide: From Relapsed/Refractory Multiple Myeloma to Indolent Plasma Cell Myeloma
+## Pomalidomide: From Relapsed/Refractory Multiple Myeloma to Indolent Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

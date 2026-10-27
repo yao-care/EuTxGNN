@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Aspartic Acid: From Maple Syrup Urine Disease to Renal Tubular Acidosis
+## Aspartic Acid: From Maple Syrup Urine Disease to Renal Tubular Acidosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

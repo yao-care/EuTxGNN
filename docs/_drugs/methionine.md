@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Methionine: From Maple Syrup Urine Disease to Acne
+## Methionine: From Maple Syrup Urine Disease to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

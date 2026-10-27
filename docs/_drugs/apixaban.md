@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Apixaban: From Venous Thromboembolism and Stroke Prevention to Migraine Disorder
+## Apixaban: From Venous Thromboembolism and Stroke Prevention to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

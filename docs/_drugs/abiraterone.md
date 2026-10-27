@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Abiraterone: From Prostate Cancer to Migraine Disorder
+## Abiraterone: From Prostate Cancer to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

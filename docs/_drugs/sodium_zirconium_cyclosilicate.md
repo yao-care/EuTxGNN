@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sodium Zirconium Cyclosilicate: From Hyperkalaemia to Breast Fibrocystic Disease
+## Sodium Zirconium Cyclosilicate: From Hyperkalaemia to Breast Fibrocystic Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

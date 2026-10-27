@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vortioxetine: From Major Depressive Episodes to Neurotic Disorder
+## Vortioxetine: From Major Depressive Episodes to Neurotic Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ticagrelor: From Acute Coronary Syndrome Prevention to Intracranial Arteriosclerosis
+## Ticagrelor: From Acute Coronary Syndrome Prevention to Intracranial Arteriosclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

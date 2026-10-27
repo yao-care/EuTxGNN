@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Riociguat: From Chronic Thromboembolic Pulmonary Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+## Riociguat: From Chronic Thromboembolic Pulmonary Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

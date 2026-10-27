@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Risperidone: From Schizophrenia to Familial Horizontal Gaze Palsy with Progressive Scoliosis
+## Risperidone: From Schizophrenia to Familial Horizontal Gaze Palsy with Progressive Scoliosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

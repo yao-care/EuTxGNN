@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Caplacizumab: From Acquired Thrombotic Thrombocytopenic Purpura to Primary Release Disorder of Platelets
+## Caplacizumab: From Acquired Thrombotic Thrombocytopenic Purpura to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

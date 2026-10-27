@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Givosiran: From Acute Hepatic Porphyria to Hepatopulmonary Syndrome
+## Givosiran: From Acute Hepatic Porphyria to Hepatopulmonary Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

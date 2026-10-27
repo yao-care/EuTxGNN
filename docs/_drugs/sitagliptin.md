@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sitagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+## Sitagliptin: From Type 2 Diabetes Mellitus to Opsismodysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

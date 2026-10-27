@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fondaparinux: From Venous Thromboembolism Prevention to Primary Release Disorder of Platelets
+## Fondaparinux: From Venous Thromboembolism Prevention to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

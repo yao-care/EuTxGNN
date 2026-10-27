@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Avelumab: From Merkel Cell Carcinoma to Human Herpesvirus 8-Related Tumor
+## Avelumab: From Merkel Cell Carcinoma to Human Herpesvirus 8-Related Tumor
+{: .text-alpha }
 
 ## One-Sentence Summary
 

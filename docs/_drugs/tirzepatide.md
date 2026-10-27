@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Tirzepatide: From Type 2 Diabetes and Weight Management to Gout
+## Tirzepatide: From Type 2 Diabetes and Weight Management to Gout
+{: .text-alpha }
 
 ## One-Sentence Summary
 

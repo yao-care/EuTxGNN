@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Treosulfan: From Conditioning Before Stem Cell Transplantation to Diabetic Cataract
+## Treosulfan: From Conditioning Before Stem Cell Transplantation to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

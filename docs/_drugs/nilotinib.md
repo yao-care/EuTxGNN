@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Nilotinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Dermatofibrosarcoma Protuberans
+## Nilotinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Dermatofibrosarcoma Protuberans
+{: .text-alpha }
 
 ## One-Sentence Summary
 

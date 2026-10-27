@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Imiglucerase: From Gaucher Disease to Hurler Syndrome
+## Imiglucerase: From Gaucher Disease to Hurler Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

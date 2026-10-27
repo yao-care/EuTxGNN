@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Albutrepenonacog alfa: From Haemophilia B to Pseudo-von Willebrand Disease
+## Albutrepenonacog alfa: From Haemophilia B to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

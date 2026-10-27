@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eravacycline: From Complicated Intra-abdominal Infections to Bronchitis
+## Eravacycline: From Complicated Intra-abdominal Infections to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

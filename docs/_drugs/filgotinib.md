@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Filgotinib: From Rheumatoid Arthritis and Ulcerative Colitis to HER2-Positive Breast Carcinoma
+## Filgotinib: From Rheumatoid Arthritis and Ulcerative Colitis to HER2-Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

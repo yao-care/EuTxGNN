@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluciclovine (18F): From Prostate Cancer Recurrence Imaging to Trichotillomania
+## Fluciclovine (18F): From Prostate Cancer Recurrence Imaging to Trichotillomania
+{: .text-alpha }
 
 ## One-Sentence Summary
 

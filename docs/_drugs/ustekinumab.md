@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ustekinumab: From Plaque Psoriasis to Dermatitis
+## Ustekinumab: From Plaque Psoriasis to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

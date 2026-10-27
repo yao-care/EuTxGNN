@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Mitotane: From Adrenal Cortical Carcinoma to Multiple Endocrine Neoplasia
+## Mitotane: From Adrenal Cortical Carcinoma to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

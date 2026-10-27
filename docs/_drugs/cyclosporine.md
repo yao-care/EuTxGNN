@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Cyclosporine: From Dry Eye Disease to Chronic Granulomatous Disease
+## Cyclosporine: From Dry Eye Disease to Chronic Granulomatous Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

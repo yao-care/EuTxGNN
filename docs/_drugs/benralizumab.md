@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Benralizumab: From Eosinophilic Asthma to Dermatitis
+## Benralizumab: From Eosinophilic Asthma to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

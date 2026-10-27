@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Efavirenz: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+## Efavirenz: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

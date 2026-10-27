@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Propranolol: From Proliferating Infantile Haemangioma to Distal Myopathy, Tateyama Type
+## Propranolol: From Proliferating Infantile Haemangioma to Distal Myopathy, Tateyama Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

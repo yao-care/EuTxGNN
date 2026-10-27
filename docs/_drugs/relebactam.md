@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Relebactam: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Hyperamylasemia
+## Relebactam: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

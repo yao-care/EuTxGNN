@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Trabectedin: From Soft-Tissue Sarcoma to Female Breast Carcinoma
+## Trabectedin: From Soft-Tissue Sarcoma to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

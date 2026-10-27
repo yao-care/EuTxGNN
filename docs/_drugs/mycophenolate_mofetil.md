@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mycophenolate mofetil: From Prevention of Transplant Rejection to HIV Infectious Disease
+## Mycophenolate mofetil: From Prevention of Transplant Rejection to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

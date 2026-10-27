@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teduglutide: From Short Bowel Syndrome to Papillary Conjunctivitis
+## Teduglutide: From Short Bowel Syndrome to Papillary Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

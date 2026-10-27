@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Ixazomib: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+## Ixazomib: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

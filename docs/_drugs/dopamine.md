@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dopamine: From Neonatal and Paediatric Hypotension to Postural Orthostatic Tachycardia Syndrome
+## Dopamine: From Neonatal and Paediatric Hypotension to Postural Orthostatic Tachycardia Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alglucosidase alfa: From Pompe Disease to Adult Polyglucosan Body Disease
+## Alglucosidase alfa: From Pompe Disease to Adult Polyglucosan Body Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

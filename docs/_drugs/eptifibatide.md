@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eptifibatide: From Unstable Angina / Non-ST-Elevation Myocardial Infarction to Rheumatoid Arthritis
+## Eptifibatide: From Unstable Angina / Non-ST-Elevation Myocardial Infarction to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

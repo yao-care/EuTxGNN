@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Colesevelam: From Primary Hypercholesterolaemia to Gout
+## Colesevelam: From Primary Hypercholesterolaemia to Gout
+{: .text-alpha }
 
 ## One-Sentence Summary
 

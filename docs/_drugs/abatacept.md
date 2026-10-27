@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Abatacept: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+## Abatacept: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

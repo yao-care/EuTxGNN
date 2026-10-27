@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nomegestrol Acetate: From Oral Contraception to Candidiasis
+## Nomegestrol Acetate: From Oral Contraception to Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

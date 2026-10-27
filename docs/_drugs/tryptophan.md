@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Tryptophan: From Maple Syrup Urine Disease to Restless Legs Syndrome
+## Tryptophan: From Maple Syrup Urine Disease to Restless Legs Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

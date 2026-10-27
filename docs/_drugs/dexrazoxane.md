@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexrazoxane: From Anthracycline Extravasation to Sclerosing Cholangitis
+## Dexrazoxane: From Anthracycline Extravasation to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

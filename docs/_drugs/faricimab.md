@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Faricimab: From Neovascular Age-Related Macular Degeneration to Primary Release Disorder of Platelets
+## Faricimab: From Neovascular Age-Related Macular Degeneration to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

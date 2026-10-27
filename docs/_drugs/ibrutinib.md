@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ibrutinib: From Mantle Cell Lymphoma, Chronic Lymphocytic Leukaemia and Waldenström's Macroglobulinaemia to Polyclonal Hypergammaglobulinemia
+## Ibrutinib: From Mantle Cell Lymphoma, Chronic Lymphocytic Leukaemia and Waldenström's Macroglobulinaemia to Polyclonal Hypergammaglobulinemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

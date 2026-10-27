@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tivozanib: From Renal Cell Carcinoma to Endocervical Carcinoma
+## Tivozanib: From Renal Cell Carcinoma to Endocervical Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

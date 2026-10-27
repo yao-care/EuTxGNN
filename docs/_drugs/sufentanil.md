@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sufentanil: From Acute Moderate to Severe Pain to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Sufentanil: From Acute Moderate to Severe Pain to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

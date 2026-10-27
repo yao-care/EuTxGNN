@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Atezolizumab: From Urothelial Carcinoma to Prostatic Urethra Urothelial Carcinoma
+## Atezolizumab: From Urothelial Carcinoma to Prostatic Urethra Urothelial Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

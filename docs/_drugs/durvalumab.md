@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Durvalumab: From Non-Small Cell Lung Cancer to Prostatic Urethra Urothelial Carcinoma
+## Durvalumab: From Non-Small Cell Lung Cancer to Prostatic Urethra Urothelial Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

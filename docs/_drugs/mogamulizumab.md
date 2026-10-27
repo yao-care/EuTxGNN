@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mogamulizumab: From Mycosis Fungoides/Sézary Syndrome to Prostatic Urethra Urothelial Carcinoma
+## Mogamulizumab: From Mycosis Fungoides/Sézary Syndrome to Prostatic Urethra Urothelial Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

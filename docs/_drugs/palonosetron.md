@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Palonosetron: From Chemotherapy-Induced Nausea and Vomiting to Migraine Disorder
+## Palonosetron: From Chemotherapy-Induced Nausea and Vomiting to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

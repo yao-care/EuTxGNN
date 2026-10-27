@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Micafungin: From Invasive Candidiasis to Urinary Tract Infection
+## Micafungin: From Invasive Candidiasis to Urinary Tract Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

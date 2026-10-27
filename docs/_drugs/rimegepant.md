@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rimegepant: From Migraine to Migraine with Brainstem Aura
+## Rimegepant: From Migraine to Migraine with Brainstem Aura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

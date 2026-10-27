@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Melphalan: From Multiple Myeloma and Haematological Malignancies to Gonadal Germ Cell Tumor
+## Melphalan: From Multiple Myeloma and Haematological Malignancies to Gonadal Germ Cell Tumor
+{: .text-alpha }
 
 ## One-Sentence Summary
 

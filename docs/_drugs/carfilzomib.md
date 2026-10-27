@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Carfilzomib: From Multiple Myeloma to CMM7 (Melanoma-Related Predictions)
+## Carfilzomib: From Multiple Myeloma to CMM7 (Melanoma-Related Predictions)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

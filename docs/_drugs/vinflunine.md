@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vinflunine: From Urothelial Carcinoma to Amyotrophic Lateral Sclerosis
+## Vinflunine: From Urothelial Carcinoma to Amyotrophic Lateral Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

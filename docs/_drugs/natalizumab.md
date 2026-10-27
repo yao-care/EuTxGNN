@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Natalizumab: From Relapsing Remitting Multiple Sclerosis to Bronchitis
+## Natalizumab: From Relapsing Remitting Multiple Sclerosis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

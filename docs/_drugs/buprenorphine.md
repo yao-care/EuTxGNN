@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Buprenorphine: From Opioid Dependence to Acute Intermittent Porphyria
+## Buprenorphine: From Opioid Dependence to Acute Intermittent Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

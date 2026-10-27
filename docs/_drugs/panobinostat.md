@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Panobinostat: From Multiple Myeloma to Myeloid Leukemia
+## Panobinostat: From Multiple Myeloma to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

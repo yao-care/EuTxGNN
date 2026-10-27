@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aclidinium Bromide: Evidence Pack Incomplete — No Repurposing Predictions Available
+## Aclidinium Bromide: Evidence Pack Incomplete — No Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

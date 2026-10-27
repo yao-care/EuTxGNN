@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Voretigene neparvovec: From Inherited Retinal Dystrophy (RPE65) to Myxomatous Mitral Valve Prolapse
+## Voretigene neparvovec: From Inherited Retinal Dystrophy (RPE65) to Myxomatous Mitral Valve Prolapse
+{: .text-alpha }
 
 ## One-Sentence Summary
 

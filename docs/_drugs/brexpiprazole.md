@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brexpiprazole: From Schizophrenia to Dysthymic Disorder
+## Brexpiprazole: From Schizophrenia to Dysthymic Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

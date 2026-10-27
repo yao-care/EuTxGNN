@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bortezomib: From Multiple Myeloma to Neuroblastoma
+## Bortezomib: From Multiple Myeloma to Neuroblastoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

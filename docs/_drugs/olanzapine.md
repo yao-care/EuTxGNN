@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Olanzapine: From Schizophrenia and Bipolar Mania to Benign Paroxysmal Torticollis of Infancy
+## Olanzapine: From Schizophrenia and Bipolar Mania to Benign Paroxysmal Torticollis of Infancy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

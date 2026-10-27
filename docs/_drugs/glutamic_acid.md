@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Glutamic Acid: From Maple Syrup Urine Disease to Postmenopausal Osteoporosis
+## Glutamic Acid: From Maple Syrup Urine Disease to Postmenopausal Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

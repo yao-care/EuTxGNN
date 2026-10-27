@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Blinatumomab: From B-Cell Precursor Acute Lymphoblastic Leukaemia to Primary Release Disorder of Platelets
+## Blinatumomab: From B-Cell Precursor Acute Lymphoblastic Leukaemia to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

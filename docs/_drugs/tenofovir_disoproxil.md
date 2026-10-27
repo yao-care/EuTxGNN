@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tenofovir Disoproxil: From HIV-1 Infection and Chronic Hepatitis B to Feline Acquired Immunodeficiency Syndrome
+## Tenofovir Disoproxil: From HIV-1 Infection and Chronic Hepatitis B to Feline Acquired Immunodeficiency Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

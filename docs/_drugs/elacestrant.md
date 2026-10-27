@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Elacestrant: From ER-Positive, HER2-Negative Breast Cancer to Amenorrhea
+## Elacestrant: From ER-Positive, HER2-Negative Breast Cancer to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

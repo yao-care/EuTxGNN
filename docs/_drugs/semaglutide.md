@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Semaglutide: From Type 2 Diabetes and Weight Management to Focal Stiff Limb Syndrome
+## Semaglutide: From Type 2 Diabetes and Weight Management to Focal Stiff Limb Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

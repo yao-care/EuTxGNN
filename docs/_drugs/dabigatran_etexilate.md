@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Dabigatran Etexilate: From Venous Thromboembolism Prevention to Sclerosing Cholangitis
+## Dabigatran Etexilate: From Venous Thromboembolism Prevention to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

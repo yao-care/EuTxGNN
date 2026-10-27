@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Exenatide: From Type 2 Diabetes Mellitus to Primary Hereditary Glaucoma
+## Exenatide: From Type 2 Diabetes Mellitus to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

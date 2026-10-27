@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Naloxone: From Opioid Overdose to Continuous Spikes and Waves During Sleep
+## Naloxone: From Opioid Overdose to Continuous Spikes and Waves During Sleep
+{: .text-alpha }
 
 ## One-Sentence Summary
 

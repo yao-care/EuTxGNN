@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Dantrolene: From Malignant Hyperthermia to Malignant Hyperthermia Susceptibility
+## Dantrolene: From Malignant Hyperthermia to Malignant Hyperthermia Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

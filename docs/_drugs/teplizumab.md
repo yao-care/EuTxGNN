@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teplizumab: From Delaying Stage 3 Type 1 Diabetes to Diabetic Cataract
+## Teplizumab: From Delaying Stage 3 Type 1 Diabetes to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

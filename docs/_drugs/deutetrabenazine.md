@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Deutetrabenazine: From Tardive Dyskinesia to Psychogenic Movement Disorders
+## Deutetrabenazine: From Tardive Dyskinesia to Psychogenic Movement Disorders
+{: .text-alpha }
 
 ## One-Sentence Summary
 

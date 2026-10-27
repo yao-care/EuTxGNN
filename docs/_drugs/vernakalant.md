@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Vernakalant: From Atrial Fibrillation to Stroke Disorder
+## Vernakalant: From Atrial Fibrillation to Stroke Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

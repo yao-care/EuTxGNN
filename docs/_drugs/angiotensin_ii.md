@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Angiotensin II: From Refractory Hypotension in Septic Shock to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+## Angiotensin II: From Refractory Hypotension in Septic Shock to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+{: .text-alpha }
 
 ## One-Sentence Summary
 

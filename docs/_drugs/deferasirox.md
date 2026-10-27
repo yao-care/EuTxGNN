@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Deferasirox: From Transfusional Iron Overload to HIV Infectious Disease
+## Deferasirox: From Transfusional Iron Overload to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

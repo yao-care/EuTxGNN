@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Venetoclax: From Chronic Lymphocytic Leukaemia to Pregerminal Center CLL/SLL
+## Venetoclax: From Chronic Lymphocytic Leukaemia to Pregerminal Center CLL/SLL
+{: .text-alpha }
 
 ## One-Sentence Summary
 

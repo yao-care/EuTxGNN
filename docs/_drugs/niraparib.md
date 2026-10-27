@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Niraparib: From Ovarian Cancer to Cystic Neoplasm (Gynecologic Serous Carcinoma)
+## Niraparib: From Ovarian Cancer to Cystic Neoplasm (Gynecologic Serous Carcinoma)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

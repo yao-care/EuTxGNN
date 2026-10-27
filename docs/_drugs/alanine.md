@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Alanine: From Maple Syrup Urine Disease (Acute Decompensation) to Gastroparesis
+## Alanine: From Maple Syrup Urine Disease (Acute Decompensation) to Gastroparesis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dacomitinib: From Non-Small Cell Lung Cancer to Rheumatoid Arthritis
+## Dacomitinib: From Non-Small Cell Lung Cancer to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bezlotoxumab: From Prevention of Clostridium difficile Infection Recurrence to Acute Female Pelvic Peritonitis
+## Bezlotoxumab: From Prevention of Clostridium difficile Infection Recurrence to Acute Female Pelvic Peritonitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

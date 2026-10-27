@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Norethisterone: From Uterine Fibroids and Endometriosis to Amenorrhea
+## Norethisterone: From Uterine Fibroids and Endometriosis to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

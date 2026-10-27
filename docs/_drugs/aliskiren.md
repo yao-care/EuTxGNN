@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Aliskiren: From Essential Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+## Aliskiren: From Essential Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nonacog beta pegol: From Haemophilia B to Primary Release Disorder of Platelets
+## Nonacog beta pegol: From Haemophilia B to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

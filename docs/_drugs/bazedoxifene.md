@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bazedoxifene: From Postmenopausal Osteoporosis to Heparin Cofactor 2 Deficiency
+## Bazedoxifene: From Postmenopausal Osteoporosis to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

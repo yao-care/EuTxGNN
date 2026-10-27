@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Entrectinib: From NTRK Fusion-Positive Solid Tumours and ROS1-Positive NSCLC to Multiple Endocrine Neoplasia
+## Entrectinib: From NTRK Fusion-Positive Solid Tumours and ROS1-Positive NSCLC to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

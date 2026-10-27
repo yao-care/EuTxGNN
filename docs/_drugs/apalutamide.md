@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Apalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Apalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

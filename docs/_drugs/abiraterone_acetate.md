@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abiraterone Acetate: Evidence Pack Incomplete — Unable to Generate Repurposing Prediction Report
+## Abiraterone Acetate: Evidence Pack Incomplete — Unable to Generate Repurposing Prediction Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

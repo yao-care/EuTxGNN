@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Apremilast: From Psoriatic Arthritis to Migraine Disorder
+## Apremilast: From Psoriatic Arthritis to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

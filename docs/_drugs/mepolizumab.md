@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Mepolizumab: From Severe Eosinophilic Asthma to Thrombocytopenia Due to Immune Destruction
+## Mepolizumab: From Severe Eosinophilic Asthma to Thrombocytopenia Due to Immune Destruction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

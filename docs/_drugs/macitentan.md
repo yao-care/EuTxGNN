@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Macitentan: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+## Macitentan: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

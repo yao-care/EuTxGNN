@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Bedaquiline: From Drug-Resistant Pulmonary Tuberculosis to Inactive Tuberculosis
+## Bedaquiline: From Drug-Resistant Pulmonary Tuberculosis to Inactive Tuberculosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

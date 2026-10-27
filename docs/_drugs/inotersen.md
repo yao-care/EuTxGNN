@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Inotersen: From Hereditary Transthyretin Amyloidosis Polyneuropathy to Acute Intermittent Porphyria
+## Inotersen: From Hereditary Transthyretin Amyloidosis Polyneuropathy to Acute Intermittent Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

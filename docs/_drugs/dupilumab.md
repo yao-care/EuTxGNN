@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Dupilumab: From Atopic Dermatitis to Bronchitis
+## Dupilumab: From Atopic Dermatitis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

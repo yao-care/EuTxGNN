@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pembrolizumab: From Melanoma to Fibromatosis, Gingival
+## Pembrolizumab: From Melanoma to Fibromatosis, Gingival
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ziconotide: From Severe Chronic Pain to Migraine Disorder
+## Ziconotide: From Severe Chronic Pain to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

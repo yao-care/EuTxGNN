@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Somapacitan: From Growth Hormone Deficiency to Allergic Asthma
+## Somapacitan: From Growth Hormone Deficiency to Allergic Asthma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

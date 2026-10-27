@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enoxaparin: From Venous Thromboembolism Prophylaxis and Treatment to Thrombophilia Due to Protein C Deficiency
+## Enoxaparin: From Venous Thromboembolism Prophylaxis and Treatment to Thrombophilia Due to Protein C Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

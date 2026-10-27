@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Galcanezumab: From Migraine Prophylaxis to Heparin Cofactor 2 Deficiency
+## Galcanezumab: From Migraine Prophylaxis to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

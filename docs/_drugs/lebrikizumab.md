@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lebrikizumab: From Atopic Dermatitis to Severe Nonproliferative Diabetic Retinopathy
+## Lebrikizumab: From Atopic Dermatitis to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

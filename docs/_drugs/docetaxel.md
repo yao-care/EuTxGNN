@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Docetaxel: From Breast Cancer to Female Breast Carcinoma
+## Docetaxel: From Breast Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

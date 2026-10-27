@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hydrocortisone: From Adrenal Insufficiency to Alopecia Areata
+## Hydrocortisone: From Adrenal Insufficiency to Alopecia Areata
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Stiripentol: From Dravet Syndrome to Restless Legs Syndrome
+## Stiripentol: From Dravet Syndrome to Restless Legs Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

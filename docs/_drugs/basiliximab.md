@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Basiliximab: From Prevention of Kidney Transplant Rejection to Plasma Cell Myeloma
+## Basiliximab: From Prevention of Kidney Transplant Rejection to Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

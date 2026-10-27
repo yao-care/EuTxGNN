@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Zanubrutinib: From B-Cell Malignancies (Waldenström's Macroglobulinaemia, Marginal Zone Lymphoma, CLL, Follicular Lymphoma) to Myeloid Leukemia
+## Zanubrutinib: From B-Cell Malignancies (Waldenström's Macroglobulinaemia, Marginal Zone Lymphoma, CLL, Follicular Lymphoma) to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

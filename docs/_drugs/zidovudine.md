@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zidovudine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
+## Zidovudine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

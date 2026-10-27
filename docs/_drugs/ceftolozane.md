@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ceftolozane: From Complicated Intra-abdominal and Urinary Tract Infections to Gonococcal Urethritis
+## Ceftolozane: From Complicated Intra-abdominal and Urinary Tract Infections to Gonococcal Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

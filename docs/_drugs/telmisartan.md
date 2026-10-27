@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Telmisartan: From Hypertension to Prinzmetal Angina
+## Telmisartan: From Hypertension to Prinzmetal Angina
+{: .text-alpha }
 
 ## One-Sentence Summary
 

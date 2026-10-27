@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tafamidis: From Transthyretin Amyloidosis Polyneuropathy to Primary Amyloidosis
+## Tafamidis: From Transthyretin Amyloidosis Polyneuropathy to Primary Amyloidosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

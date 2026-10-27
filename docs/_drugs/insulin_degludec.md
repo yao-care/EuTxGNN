@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Insulin Degludec: From Diabetes Mellitus in Adults to Type 1 Diabetes Mellitus
+## Insulin Degludec: From Diabetes Mellitus in Adults to Type 1 Diabetes Mellitus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

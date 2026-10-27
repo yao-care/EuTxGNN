@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Damoctocog alfa pegol: From Haemophilia A to Primary Release Disorder of Platelets
+## Damoctocog alfa pegol: From Haemophilia A to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

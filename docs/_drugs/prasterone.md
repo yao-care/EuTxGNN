@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasterone: From Vulvar and Vaginal Atrophy to Heparin Cofactor 2 Deficiency
+## Prasterone: From Vulvar and Vaginal Atrophy to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

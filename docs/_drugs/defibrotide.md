@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Defibrotide: From Hepatic Veno-Occlusive Disease to Thrombotic Thrombocytopenic Purpura
+## Defibrotide: From Hepatic Veno-Occlusive Disease to Thrombotic Thrombocytopenic Purpura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

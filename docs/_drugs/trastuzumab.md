@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Trastuzumab: From HER2-Positive Breast and Gastric Cancer to Progesterone-Receptor Positive Breast Cancer
+## Trastuzumab: From HER2-Positive Breast and Gastric Cancer to Progesterone-Receptor Positive Breast Cancer
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Imiquimod: From Actinic Keratosis and Genital Warts to Pre-malignant Neoplasm
+## Imiquimod: From Actinic Keratosis and Genital Warts to Pre-malignant Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tezepelumab: From Severe Asthma to Diabetic Cataract
+## Tezepelumab: From Severe Asthma to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

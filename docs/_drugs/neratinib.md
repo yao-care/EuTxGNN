@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Neratinib: From HER2-Positive Breast Cancer to Progesterone-Receptor Positive Breast Cancer
+## Neratinib: From HER2-Positive Breast Cancer to Progesterone-Receptor Positive Breast Cancer
+{: .text-alpha }
 
 ## One-Sentence Summary
 

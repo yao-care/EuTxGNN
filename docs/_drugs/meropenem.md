@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Meropenem: From Complicated Bacterial Infections (Vaborem Label) to Bacterial Arthritis
+## Meropenem: From Complicated Bacterial Infections (Vaborem Label) to Bacterial Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

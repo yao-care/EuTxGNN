@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lonafarnib: From Hutchinson-Gilford Progeria Syndrome to Leprosy
+## Lonafarnib: From Hutchinson-Gilford Progeria Syndrome to Leprosy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

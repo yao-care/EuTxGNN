@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Parathyroid Hormone: From Chronic Hypoparathyroidism to Migraine Disorder
+## Parathyroid Hormone: From Chronic Hypoparathyroidism to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

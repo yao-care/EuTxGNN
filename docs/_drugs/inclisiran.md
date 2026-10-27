@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Inclisiran: From Primary Hypercholesterolaemia to Potassium Deficiency Disease
+## Inclisiran: From Primary Hypercholesterolaemia to Potassium Deficiency Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

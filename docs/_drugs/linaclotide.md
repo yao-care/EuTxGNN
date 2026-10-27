@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Linaclotide: From Irritable Bowel Syndrome with Constipation to Cauda Equina Syndrome
+## Linaclotide: From Irritable Bowel Syndrome with Constipation to Cauda Equina Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

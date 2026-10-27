@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brolucizumab: From Neovascular (Wet) Age-Related Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+## Brolucizumab: From Neovascular (Wet) Age-Related Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+{: .text-alpha }
 
 ## One-Sentence Summary
 

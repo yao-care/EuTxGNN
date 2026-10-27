@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Naltrexone: From Weight Management to Hypervitaminosis
+## Naltrexone: From Weight Management to Hypervitaminosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lixisenatide: From Type 2 Diabetes Mellitus to Opsismodysplasia
+## Lixisenatide: From Type 2 Diabetes Mellitus to Opsismodysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

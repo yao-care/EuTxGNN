@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Belatacept: From Kidney Transplant Rejection Prophylaxis to Plasma Cell Myeloma
+## Belatacept: From Kidney Transplant Rejection Prophylaxis to Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

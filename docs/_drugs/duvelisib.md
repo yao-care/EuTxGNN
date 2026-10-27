@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Duvelisib: From Relapsed/Refractory CLL and Follicular Lymphoma to Hodgkin's Lymphoma
+## Duvelisib: From Relapsed/Refractory CLL and Follicular Lymphoma to Hodgkin's Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

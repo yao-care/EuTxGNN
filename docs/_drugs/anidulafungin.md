@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Anidulafungin: From Invasive Candidiasis to Impetigo
+## Anidulafungin: From Invasive Candidiasis to Impetigo
+{: .text-alpha }
 
 ## One-Sentence Summary
 

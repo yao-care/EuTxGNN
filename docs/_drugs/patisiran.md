@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Patisiran: From Hereditary Transthyretin-Mediated Amyloidosis to Dermatitis
+## Patisiran: From Hereditary Transthyretin-Mediated Amyloidosis to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

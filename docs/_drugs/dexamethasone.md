@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Dexamethasone: From Retinal Vein Occlusion Macular Oedema and Multiple Myeloma to Alopecia Areata
+## Dexamethasone: From Retinal Vein Occlusion Macular Oedema and Multiple Myeloma to Alopecia Areata
+{: .text-alpha }
 
 ## One-Sentence Summary
 

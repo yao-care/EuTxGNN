@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Fremanezumab: From Migraine Prophylaxis to Migraine with Brainstem Aura
+## Fremanezumab: From Migraine Prophylaxis to Migraine with Brainstem Aura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

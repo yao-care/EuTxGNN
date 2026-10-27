@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Panitumumab: From Metastatic Colorectal Cancer to Drug-Induced Osteoporosis
+## Panitumumab: From Metastatic Colorectal Cancer to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

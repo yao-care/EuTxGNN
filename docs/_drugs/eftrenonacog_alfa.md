@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eftrenonacog alfa: From Haemophilia B to Pseudo-von Willebrand Disease
+## Eftrenonacog alfa: From Haemophilia B to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

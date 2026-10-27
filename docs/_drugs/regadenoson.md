@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Regadenoson: From Diagnostic Stress Agent for Myocardial Perfusion Imaging to Anaphylaxis
+## Regadenoson: From Diagnostic Stress Agent for Myocardial Perfusion Imaging to Anaphylaxis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

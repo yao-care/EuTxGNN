@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glucarpidase: From Methotrexate Toxicity to Diabetic Cataract
+## Glucarpidase: From Methotrexate Toxicity to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

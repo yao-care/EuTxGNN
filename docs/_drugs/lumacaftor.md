@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lumacaftor: From Cystic Fibrosis to Leprosy
+## Lumacaftor: From Cystic Fibrosis to Leprosy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

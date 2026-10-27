@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Epinephrine: From Anaphylaxis to Obstructive Lung Disease
+## Epinephrine: From Anaphylaxis to Obstructive Lung Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

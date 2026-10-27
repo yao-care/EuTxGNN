@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Clascoterone: From Acne Vulgaris to Candidiasis
+## Clascoterone: From Acne Vulgaris to Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

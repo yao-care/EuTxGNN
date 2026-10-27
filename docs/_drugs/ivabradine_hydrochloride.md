@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Ivabradine Hydrochloride: Repurposing Evaluation — Insufficient Data to Proceed
+## Ivabradine Hydrochloride: Repurposing Evaluation — Insufficient Data to Proceed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

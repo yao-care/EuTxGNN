@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxocobalamin: From Cyanide Poisoning to Esophageal Varices with Bleeding
+## Hydroxocobalamin: From Cyanide Poisoning to Esophageal Varices with Bleeding
+{: .text-alpha }
 
 ## One-Sentence Summary
 

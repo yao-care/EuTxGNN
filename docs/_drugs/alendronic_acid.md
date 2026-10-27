@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alendronic Acid: From Postmenopausal Osteoporosis to HIV Infectious Disease
+## Alendronic Acid: From Postmenopausal Osteoporosis to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

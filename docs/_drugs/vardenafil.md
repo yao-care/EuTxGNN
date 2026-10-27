@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vardenafil: From Erectile Dysfunction to Amenorrhea
+## Vardenafil: From Erectile Dysfunction to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

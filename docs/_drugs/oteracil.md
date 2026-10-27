@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Oteracil: From Advanced Gastric Cancer to Colonic Neoplasm
+## Oteracil: From Advanced Gastric Cancer to Colonic Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

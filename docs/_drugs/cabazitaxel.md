@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cabazitaxel: From Metastatic Prostate Cancer to Female Breast Carcinoma
+## Cabazitaxel: From Metastatic Prostate Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

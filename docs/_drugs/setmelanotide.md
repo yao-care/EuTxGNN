@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Setmelanotide: From Genetic Obesity (BBS, POMC, LEPR Deficiency) to Migraine Disorder
+## Setmelanotide: From Genetic Obesity (BBS, POMC, LEPR Deficiency) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

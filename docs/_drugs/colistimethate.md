@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Colistimethate: From Pseudomonas aeruginosa Lung Infection in Cystic Fibrosis to Osteoarthritis
+## Colistimethate: From Pseudomonas aeruginosa Lung Infection in Cystic Fibrosis to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

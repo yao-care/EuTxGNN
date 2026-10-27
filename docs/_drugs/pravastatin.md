@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Pravastatin: From Mixed Hyperlipidaemia to Homozygous Familial Hypercholesterolemia
+## Pravastatin: From Mixed Hyperlipidaemia to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

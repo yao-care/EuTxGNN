@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cilastatin: From Hospital-Acquired Pneumonia and Gram-Negative Infections to Staphylococcus aureus Infection
+## Cilastatin: From Hospital-Acquired Pneumonia and Gram-Negative Infections to Staphylococcus aureus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vismodegib: From Basal Cell Carcinoma to Medulloblastoma with Extensive Nodularity
+## Vismodegib: From Basal Cell Carcinoma to Medulloblastoma with Extensive Nodularity
+{: .text-alpha }
 
 ## One-Sentence Summary
 

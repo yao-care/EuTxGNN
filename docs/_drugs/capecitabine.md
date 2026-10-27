@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Capecitabine: From Colorectal, Gastric and Breast Cancer to Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS)
+## Capecitabine: From Colorectal, Gastric and Breast Cancer to Gastric Adenocarcinoma and Proximal Polyposis of the Stomach (GAPPS)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

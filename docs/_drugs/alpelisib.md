@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alpelisib: From HR+/HER2- PIK3CA-Mutated Breast Cancer to Pulmonary Hypertension
+## Alpelisib: From HR+/HER2- PIK3CA-Mutated Breast Cancer to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Azacitidine: From Myelodysplastic Syndromes and Acute Myeloid Leukaemia to Bulbar Polio
+## Azacitidine: From Myelodysplastic Syndromes and Acute Myeloid Leukaemia to Bulbar Polio
+{: .text-alpha }
 
 ## One-Sentence Summary
 

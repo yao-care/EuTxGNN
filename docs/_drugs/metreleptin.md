@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Metreleptin: From Lipodystrophy to Familial Generalized Lentiginosis
+## Metreleptin: From Lipodystrophy to Familial Generalized Lentiginosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

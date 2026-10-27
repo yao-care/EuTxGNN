@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Clopidogrel: From Atherothrombotic Event Prevention to Migraine Disorder
+## Clopidogrel: From Atherothrombotic Event Prevention to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

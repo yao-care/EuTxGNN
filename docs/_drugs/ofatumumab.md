@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ofatumumab: From Relapsing Multiple Sclerosis to Pregerminal Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+## Ofatumumab: From Relapsing Multiple Sclerosis to Pregerminal Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

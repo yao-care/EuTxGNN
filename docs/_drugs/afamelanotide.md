@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Afamelanotide: From Erythropoietic Protoporphyria to X-linked Erythropoietic Protoporphyria
+## Afamelanotide: From Erythropoietic Protoporphyria to X-linked Erythropoietic Protoporphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Reteplase: From Acute ST-Elevation Myocardial Infarction to Posterolateral Myocardial Infarction
+## Reteplase: From Acute ST-Elevation Myocardial Infarction to Posterolateral Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

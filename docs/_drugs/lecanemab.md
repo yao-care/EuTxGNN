@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lecanemab: From Early Alzheimer's Disease to Diabetic Cataract
+## Lecanemab: From Early Alzheimer's Disease to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

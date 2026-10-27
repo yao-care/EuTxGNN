@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Catumaxomab: From Malignant Ascites in EpCAM-Positive Carcinomas to Severe Nonproliferative Diabetic Retinopathy
+## Catumaxomab: From Malignant Ascites in EpCAM-Positive Carcinomas to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

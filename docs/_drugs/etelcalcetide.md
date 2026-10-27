@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Etelcalcetide: From Secondary Hyperparathyroidism to Hyperphosphatemia
+## Etelcalcetide: From Secondary Hyperparathyroidism to Hyperphosphatemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

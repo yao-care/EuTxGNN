@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sargramostim: From Haematopoietic Sub-syndrome of Acute Radiation Syndrome to Drug-Induced Osteoporosis
+## Sargramostim: From Haematopoietic Sub-syndrome of Acute Radiation Syndrome to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

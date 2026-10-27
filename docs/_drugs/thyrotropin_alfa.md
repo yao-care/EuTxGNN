@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Thyrotropin alfa: From Thyroid Cancer Diagnosis and Remnant Ablation to Migraine Disorder
+## Thyrotropin alfa: From Thyroid Cancer Diagnosis and Remnant Ablation to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

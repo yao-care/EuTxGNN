@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tucatinib: From HER2-Positive Breast Cancer to Migraine Disorder
+## Tucatinib: From HER2-Positive Breast Cancer to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Liraglutide: From Type 2 Diabetes to Opsismodysplasia
+## Liraglutide: From Type 2 Diabetes to Opsismodysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

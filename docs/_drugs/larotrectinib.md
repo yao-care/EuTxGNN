@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Larotrectinib: From NTRK Fusion-Positive Solid Tumours to Multiple Endocrine Neoplasia
+## Larotrectinib: From NTRK Fusion-Positive Solid Tumours to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

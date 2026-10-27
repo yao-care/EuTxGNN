@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nitric Oxide: From Neonatal Hypoxic Respiratory Failure with Pulmonary Hypertension to Malformation Syndrome with Odontal and/or Periodontal Component
+## Nitric Oxide: From Neonatal Hypoxic Respiratory Failure with Pulmonary Hypertension to Malformation Syndrome with Odontal and/or Periodontal Component
+{: .text-alpha }
 
 ## One-Sentence Summary
 

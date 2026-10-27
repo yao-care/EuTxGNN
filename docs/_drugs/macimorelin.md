@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Macimorelin: From Adult Growth Hormone Deficiency Diagnosis to Hypertrichosis
+## Macimorelin: From Adult Growth Hormone Deficiency Diagnosis to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

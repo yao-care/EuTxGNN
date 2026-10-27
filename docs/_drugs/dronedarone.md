@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Dronedarone: From Atrial Fibrillation to Stroke Disorder
+## Dronedarone: From Atrial Fibrillation to Stroke Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

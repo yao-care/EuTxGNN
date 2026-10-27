@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ganaxolone: From CDKL5 Deficiency Disorder Seizures to Alcohol Withdrawal Delirium
+## Ganaxolone: From CDKL5 Deficiency Disorder Seizures to Alcohol Withdrawal Delirium
+{: .text-alpha }
 
 ## One-Sentence Summary
 

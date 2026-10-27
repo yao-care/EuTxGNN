@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Lanadelumab: From Hereditary Angioedema Prevention to C1 Inhibitor Deficiency
+## Lanadelumab: From Hereditary Angioedema Prevention to C1 Inhibitor Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

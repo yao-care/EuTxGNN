@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Glycine: From Maple Syrup Urine Disease (Acute Decompensation) to Nasal Cavity Disease
+## Glycine: From Maple Syrup Urine Disease (Acute Decompensation) to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

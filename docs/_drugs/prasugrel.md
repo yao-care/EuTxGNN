@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasugrel: From Acute Coronary Syndrome to Pulmonary Hypertension
+## Prasugrel: From Acute Coronary Syndrome to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

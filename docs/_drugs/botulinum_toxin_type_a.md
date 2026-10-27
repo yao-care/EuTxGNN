@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Botulinum Toxin Type A: From Glabellar Lines to Primary Hereditary Glaucoma
+## Botulinum Toxin Type A: From Glabellar Lines to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

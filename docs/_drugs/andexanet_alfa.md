@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Andexanet alfa: From FXa Inhibitor Reversal to Glanzmann Thrombasthenia
+## Andexanet alfa: From FXa Inhibitor Reversal to Glanzmann Thrombasthenia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

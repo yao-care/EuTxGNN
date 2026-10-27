@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Perampanel: From Epilepsy to Visual Epilepsy
+## Perampanel: From Epilepsy to Visual Epilepsy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

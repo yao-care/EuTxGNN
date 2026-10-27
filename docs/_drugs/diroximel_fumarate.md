@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diroximel fumarate: From Relapsing Remitting Multiple Sclerosis to Diabetic Cataract
+## Diroximel fumarate: From Relapsing Remitting Multiple Sclerosis to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

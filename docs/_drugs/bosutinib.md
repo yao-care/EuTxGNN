@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Bosutinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Myeloid Leukaemia
+## Bosutinib: From Philadelphia Chromosome-Positive Chronic Myelogenous Leukaemia to Myeloid Leukaemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

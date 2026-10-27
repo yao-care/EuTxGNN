@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Duloxetine: From Depression, Diabetic Neuropathic Pain and Anxiety to Obsessive-Compulsive Disorder
+## Duloxetine: From Depression, Diabetic Neuropathic Pain and Anxiety to Obsessive-Compulsive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

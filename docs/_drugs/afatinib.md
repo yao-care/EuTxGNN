@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Afatinib: From EGFR-Mutated Non-Small Cell Lung Cancer to HER2-Positive Breast Carcinoma
+## Afatinib: From EGFR-Mutated Non-Small Cell Lung Cancer to HER2-Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

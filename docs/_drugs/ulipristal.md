@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ulipristal: From Emergency Contraception to Rheumatoid Arthritis
+## Ulipristal: From Emergency Contraception to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

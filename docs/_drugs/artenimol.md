@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Artenimol: From Uncomplicated Plasmodium falciparum Malaria to Smouldering Systemic Mastocytosis
+## Artenimol: From Uncomplicated Plasmodium falciparum Malaria to Smouldering Systemic Mastocytosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

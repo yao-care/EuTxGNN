@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Filgrastim: From Chemotherapy-Induced Neutropenia to Primary Release Disorder of Platelets
+## Filgrastim: From Chemotherapy-Induced Neutropenia to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

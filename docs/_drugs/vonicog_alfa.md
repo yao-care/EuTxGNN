@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vonicog Alfa: From von Willebrand Disease to Primary Release Disorder of Platelets
+## Vonicog Alfa: From von Willebrand Disease to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

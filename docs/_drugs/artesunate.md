@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Artesunate: From Severe Malaria to Acne
+## Artesunate: From Severe Malaria to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Axitinib: From Advanced Renal Cell Carcinoma to Renal Carcinoma
+## Axitinib: From Advanced Renal Cell Carcinoma to Renal Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

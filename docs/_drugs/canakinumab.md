@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Canakinumab: From Periodic Fever Syndromes to Hepatic Infarction
+## Canakinumab: From Periodic Fever Syndromes to Hepatic Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Concizumab: From Haemophilia A/B Bleeding Prophylaxis to Diabetic Cataract
+## Concizumab: From Haemophilia A/B Bleeding Prophylaxis to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

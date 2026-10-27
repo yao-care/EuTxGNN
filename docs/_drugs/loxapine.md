@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Loxapine: From Agitation in Schizophrenia and Bipolar Disorder to Manic Bipolar Affective Disorder
+## Loxapine: From Agitation in Schizophrenia and Bipolar Disorder to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

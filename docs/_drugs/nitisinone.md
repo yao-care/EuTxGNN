@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nitisinone: From Hereditary Tyrosinemia Type 1 to Renal Tubular Acidosis
+## Nitisinone: From Hereditary Tyrosinemia Type 1 to Renal Tubular Acidosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Elexacaftor: From Cystic Fibrosis to Rheumatoid Arthritis
+## Elexacaftor: From Cystic Fibrosis to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

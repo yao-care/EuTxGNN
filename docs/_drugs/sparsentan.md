@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sparsentan: From IgA Nephropathy to Alopecia
+## Sparsentan: From IgA Nephropathy to Alopecia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

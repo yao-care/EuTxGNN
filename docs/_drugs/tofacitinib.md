@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tofacitinib: From Rheumatoid Arthritis to Plasma Cell Myeloma
+## Tofacitinib: From Rheumatoid Arthritis to Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

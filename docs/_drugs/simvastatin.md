@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Simvastatin: From Mixed Dyslipidaemia to Familial Hypercholesterolemia
+## Simvastatin: From Mixed Dyslipidaemia to Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

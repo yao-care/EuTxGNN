@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tazobactam: From Complicated Intra-abdominal Infections to Pneumonia
+## Tazobactam: From Complicated Intra-abdominal Infections to Pneumonia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

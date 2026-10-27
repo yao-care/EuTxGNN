@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Midostaurin: From FLT3-Positive Acute Myeloid Leukaemia and Systemic Mastocytosis to Familial Thrombocytosis
+## Midostaurin: From FLT3-Positive Acute Myeloid Leukaemia and Systemic Mastocytosis to Familial Thrombocytosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

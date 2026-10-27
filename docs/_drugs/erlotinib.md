@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Erlotinib: From Non-Small Cell Lung Cancer to Ewing Sarcoma
+## Erlotinib: From Non-Small Cell Lung Cancer to Ewing Sarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

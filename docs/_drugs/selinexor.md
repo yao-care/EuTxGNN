@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Selinexor: From Multiple Myeloma to Drug-Induced Osteoporosis
+## Selinexor: From Multiple Myeloma to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

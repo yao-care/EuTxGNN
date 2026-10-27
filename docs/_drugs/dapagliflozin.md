@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dapagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Dapagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

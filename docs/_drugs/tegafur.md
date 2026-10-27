@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tegafur: From Gastric Cancer and Metastatic Colorectal Cancer to Colonic Neoplasm
+## Tegafur: From Gastric Cancer and Metastatic Colorectal Cancer to Colonic Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

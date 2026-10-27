@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Palivizumab: From RSV Prevention in High-Risk Infants to Benign Neoplasm of Tongue
+## Palivizumab: From RSV Prevention in High-Risk Infants to Benign Neoplasm of Tongue
+{: .text-alpha }
 
 ## One-Sentence Summary
 

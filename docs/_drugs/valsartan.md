@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Valsartan: From Essential Hypertension and Heart Failure to Malignant Hypertensive Renal Disease
+## Valsartan: From Essential Hypertension and Heart Failure to Malignant Hypertensive Renal Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

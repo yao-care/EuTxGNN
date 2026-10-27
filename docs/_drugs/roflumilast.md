@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Roflumilast: From Severe COPD to Pulmonary Hypertension
+## Roflumilast: From Severe COPD to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

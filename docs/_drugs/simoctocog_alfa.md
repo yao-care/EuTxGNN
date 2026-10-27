@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Simoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+## Simoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

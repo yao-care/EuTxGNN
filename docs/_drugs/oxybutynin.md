@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxybutynin: From Urge Incontinence to Restless Legs Syndrome
+## Oxybutynin: From Urge Incontinence to Restless Legs Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

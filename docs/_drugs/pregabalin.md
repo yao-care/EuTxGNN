@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pregabalin: From Neuropathic Pain, Epilepsy and Generalised Anxiety Disorder to Tendinitis
+## Pregabalin: From Neuropathic Pain, Epilepsy and Generalised Anxiety Disorder to Tendinitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pegvisomant: From Acromegaly to Borderline Ovarian Serous Tumor
+## Pegvisomant: From Acromegaly to Borderline Ovarian Serous Tumor
+{: .text-alpha }
 
 ## One-Sentence Summary
 

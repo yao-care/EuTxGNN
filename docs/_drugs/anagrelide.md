@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Anagrelide: From Essential Thrombocythaemia to Reactive Thrombocytosis
+## Anagrelide: From Essential Thrombocythaemia to Reactive Thrombocytosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

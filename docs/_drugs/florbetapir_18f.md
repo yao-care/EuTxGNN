@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Florbetapir (18F): From Alzheimer's Disease Diagnostic Imaging to Bronchitis
+## Florbetapir (18F): From Alzheimer's Disease Diagnostic Imaging to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

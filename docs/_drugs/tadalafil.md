@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tadalafil: From Erectile Dysfunction to Ambras Type Hypertrichosis Universalis Congenita
+## Tadalafil: From Erectile Dysfunction to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

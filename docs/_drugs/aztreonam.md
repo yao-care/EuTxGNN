@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aztreonam: From Pseudomonas Lung Infection in Cystic Fibrosis to Hyperamylasemia
+## Aztreonam: From Pseudomonas Lung Infection in Cystic Fibrosis to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

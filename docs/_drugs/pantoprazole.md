@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Pantoprazole: From Reflux Symptoms to Active Peptic Ulcer Disease
+## Pantoprazole: From Reflux Symptoms to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

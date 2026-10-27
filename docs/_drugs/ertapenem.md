@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ertapenem: From Bacterial Infections (Intra-abdominal, Pneumonia, Gynaecological, Diabetic Foot) to Bacterial Arthritis
+## Ertapenem: From Bacterial Infections (Intra-abdominal, Pneumonia, Gynaecological, Diabetic Foot) to Bacterial Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

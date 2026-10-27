@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Galsulfase: From Mucopolysaccharidosis VI to Ptosis-Strabismus-Ectopic Pupils Syndrome
+## Galsulfase: From Mucopolysaccharidosis VI to Ptosis-Strabismus-Ectopic Pupils Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

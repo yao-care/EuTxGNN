@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Toripalimab: From Nasopharyngeal Carcinoma to Mixed-Type Autoimmune Hemolytic Anemia
+## Toripalimab: From Nasopharyngeal Carcinoma to Mixed-Type Autoimmune Hemolytic Anemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

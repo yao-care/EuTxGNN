@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Florbetaben (18F): From Amyloid PET Imaging in Alzheimer's Evaluation to Migraine Disorder
+## Florbetaben (18F): From Amyloid PET Imaging in Alzheimer's Evaluation to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

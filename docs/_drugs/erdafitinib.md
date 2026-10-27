@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Erdafitinib: From Urothelial Carcinoma to Pulmonary Hypertension
+## Erdafitinib: From Urothelial Carcinoma to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

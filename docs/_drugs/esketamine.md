@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Esketamine: From Treatment-Resistant Major Depressive Disorder to Agoraphobia
+## Esketamine: From Treatment-Resistant Major Depressive Disorder to Agoraphobia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

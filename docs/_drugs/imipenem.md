@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Imipenem: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Diffuse Scleroderma
+## Imipenem: From Hospital-Acquired Pneumonia and Resistant Gram-Negative Infections to Diffuse Scleroderma
+{: .text-alpha }
 
 The prompt template uses the first-ranked prediction (diffuse scleroderma). That prediction has no supporting evidence. Because the rank 1 prediction is only a model output, the report also points to the better-supported candidates (typhoid fever and *Staphylococcus aureus* infection) in the sections below.
 

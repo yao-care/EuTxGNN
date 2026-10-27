@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Siltuximab: From Multicentric Castleman's Disease to Extracutaneous Mastocytoma
+## Siltuximab: From Multicentric Castleman's Disease to Extracutaneous Mastocytoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

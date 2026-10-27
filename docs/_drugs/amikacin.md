@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Amikacin: From Non-Tuberculous Mycobacterial Lung Infection to Paratyphoid Fever
+## Amikacin: From Non-Tuberculous Mycobacterial Lung Infection to Paratyphoid Fever
+{: .text-alpha }
 
 ## One-Sentence Summary
 

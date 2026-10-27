@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brodalumab: From Plaque Psoriasis to Strongyloidiasis
+## Brodalumab: From Plaque Psoriasis to Strongyloidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

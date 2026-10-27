@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Brimonidine: From Facial Erythema of Rosacea to Papillary Conjunctivitis
+## Brimonidine: From Facial Erythema of Rosacea to Papillary Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

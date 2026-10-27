@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Temoporfin: From Advanced Head and Neck Squamous Cell Carcinoma to Nasopharyngeal Teratoma
+## Temoporfin: From Advanced Head and Neck Squamous Cell Carcinoma to Nasopharyngeal Teratoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

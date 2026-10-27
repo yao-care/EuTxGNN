@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fidaxomicin: From Clostridioides difficile Infection to Staphylococcal Scalded Skin Syndrome
+## Fidaxomicin: From Clostridioides difficile Infection to Staphylococcal Scalded Skin Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

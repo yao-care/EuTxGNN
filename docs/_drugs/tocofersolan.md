@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tocofersolan: From Vitamin E Deficiency in Cholestasis to Amenorrhea
+## Tocofersolan: From Vitamin E Deficiency in Cholestasis to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

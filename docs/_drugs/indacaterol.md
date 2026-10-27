@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Indacaterol: From Chronic Obstructive Pulmonary Disease to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Indacaterol: From Chronic Obstructive Pulmonary Disease to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

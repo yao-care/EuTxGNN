@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Sunitinib: From Gastrointestinal Stromal Tumour to Liposarcoma
+## Sunitinib: From Gastrointestinal Stromal Tumour to Liposarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Treprostinil: From Chronic Thromboembolic Pulmonary Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+## Treprostinil: From Chronic Thromboembolic Pulmonary Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

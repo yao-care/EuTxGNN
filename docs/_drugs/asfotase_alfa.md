@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Asfotase alfa: From Paediatric-Onset Hypophosphatasia to Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies
+## Asfotase alfa: From Paediatric-Onset Hypophosphatasia to Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies
+{: .text-alpha }
 
 ## One-Sentence Summary
 

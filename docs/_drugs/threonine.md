@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Threonine: From Maple Syrup Urine Disease (Acute Decompensation) to Gastroparesis
+## Threonine: From Maple Syrup Urine Disease (Acute Decompensation) to Gastroparesis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

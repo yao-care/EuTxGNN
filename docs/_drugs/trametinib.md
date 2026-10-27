@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trametinib: From BRAF V600-Mutant Melanoma to Choroideremia
+## Trametinib: From BRAF V600-Mutant Melanoma to Choroideremia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

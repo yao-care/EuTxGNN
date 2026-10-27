@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cenobamate: From Focal-Onset Seizures to Guanidinoacetate Methyltransferase Deficiency
+## Cenobamate: From Focal-Onset Seizures to Guanidinoacetate Methyltransferase Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

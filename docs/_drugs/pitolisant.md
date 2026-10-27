@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Pitolisant: From Obstructive Sleep Apnoea Sleepiness to Insomnia
+## Pitolisant: From Obstructive Sleep Apnoea Sleepiness to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

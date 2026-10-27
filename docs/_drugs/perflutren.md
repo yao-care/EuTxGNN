@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Perflutren: From Diagnostic Echocardiography Contrast to Acute Intermittent Porphyria
+## Perflutren: From Diagnostic Echocardiography Contrast to Acute Intermittent Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avibactam: From Complicated Bacterial Infections to Streptococcal Pneumonia
+## Avibactam: From Complicated Bacterial Infections to Streptococcal Pneumonia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

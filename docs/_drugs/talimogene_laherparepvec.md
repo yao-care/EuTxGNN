@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Talimogene laherparepvec: From Unresectable Metastatic Melanoma to CMM7
+## Talimogene laherparepvec: From Unresectable Metastatic Melanoma to CMM7
+{: .text-alpha }
 
 ## One-Sentence Summary
 

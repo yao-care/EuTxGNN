@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Memantine: From Alzheimer's Disease to Pulmonary Hypertension
+## Memantine: From Alzheimer's Disease to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

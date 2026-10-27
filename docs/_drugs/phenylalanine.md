@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenylalanine: From Maple Syrup Urine Disease to Sclerosing Cholangitis
+## Phenylalanine: From Maple Syrup Urine Disease to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

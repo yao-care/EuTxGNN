@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Ketorolac: From Intraocular Surgery Support to Headache Disorder
+## Ketorolac: From Intraocular Surgery Support to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

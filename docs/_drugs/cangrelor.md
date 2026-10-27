@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cangrelor: From Reduction of Thrombotic Events in PCI to Hemoglobinopathy
+## Cangrelor: From Reduction of Thrombotic Events in PCI to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

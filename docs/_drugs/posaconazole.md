@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Posaconazole: From Invasive Fungal Infections to Pneumocystosis
+## Posaconazole: From Invasive Fungal Infections to Pneumocystosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

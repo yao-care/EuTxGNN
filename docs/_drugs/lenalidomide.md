@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Lenalidomide: From Multiple Myeloma to Myeloid Leukemia
+## Lenalidomide: From Multiple Myeloma to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

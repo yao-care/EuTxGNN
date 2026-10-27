@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Nepafenac: From Postoperative Ocular Pain and Inflammation to Eye Disease
+## Nepafenac: From Postoperative Ocular Pain and Inflammation to Eye Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

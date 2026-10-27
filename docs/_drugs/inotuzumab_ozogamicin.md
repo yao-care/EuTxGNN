@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Inotuzumab ozogamicin: From B-Cell Acute Lymphoblastic Leukaemia to Drug-Induced Osteoporosis
+## Inotuzumab ozogamicin: From B-Cell Acute Lymphoblastic Leukaemia to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

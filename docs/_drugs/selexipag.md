@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Selexipag: From Pulmonary Arterial Hypertension to PAH Associated with Congenital Heart Disease
+## Selexipag: From Pulmonary Arterial Hypertension to PAH Associated with Congenital Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

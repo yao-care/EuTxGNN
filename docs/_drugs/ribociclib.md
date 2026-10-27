@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ribociclib: From HR+/HER2- Breast Cancer to Myeloid Leukemia
+## Ribociclib: From HR+/HER2- Breast Cancer to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

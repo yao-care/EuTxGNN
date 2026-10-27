@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Everolimus: From Hormone-Receptor-Positive Advanced Breast Cancer to Liposarcoma
+## Everolimus: From Hormone-Receptor-Positive Advanced Breast Cancer to Liposarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

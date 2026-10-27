@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alendronic Acid: Evaluation Incomplete — No TxGNN Predictions Available
+## Alendronic Acid: Evaluation Incomplete — No TxGNN Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

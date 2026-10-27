@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Ranibizumab: From Neovascular Age-Related Macular Degeneration to Severe Nonproliferative Diabetic Retinopathy
+## Ranibizumab: From Neovascular Age-Related Macular Degeneration to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

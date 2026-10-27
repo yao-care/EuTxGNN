@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Irbesartan: From Essential Hypertension to Malignant Hypertensive Renal Disease
+## Irbesartan: From Essential Hypertension to Malignant Hypertensive Renal Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

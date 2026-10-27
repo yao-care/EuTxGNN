@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Rituximab: From Non-Hodgkin's Lymphoma to Follicular Lymphoma
+## Rituximab: From Non-Hodgkin's Lymphoma to Follicular Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

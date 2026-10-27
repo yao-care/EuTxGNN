@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eflornithine: From Facial Hirsutism to Esotropia
+## Eflornithine: From Facial Hirsutism to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

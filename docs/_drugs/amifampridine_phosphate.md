@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Amifampridine Phosphate: Evaluation Pending — Prediction Pipeline Incomplete
+## Amifampridine Phosphate: Evaluation Pending — Prediction Pipeline Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

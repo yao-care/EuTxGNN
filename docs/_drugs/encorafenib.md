@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Encorafenib: From BRAF V600-Mutant Melanoma, Colorectal Cancer and NSCLC to Choroideremia (Top TxGNN Prediction) and Non-Cutaneous Melanoma (Best-Supported Prediction)
+## Encorafenib: From BRAF V600-Mutant Melanoma, Colorectal Cancer and NSCLC to Choroideremia (Top TxGNN Prediction) and Non-Cutaneous Melanoma (Best-Supported Prediction)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

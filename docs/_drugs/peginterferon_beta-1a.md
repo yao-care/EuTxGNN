@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Peginterferon beta-1a: From Relapsing Remitting Multiple Sclerosis to Heart Neoplasm
+## Peginterferon beta-1a: From Relapsing Remitting Multiple Sclerosis to Heart Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

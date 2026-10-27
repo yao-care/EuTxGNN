@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cetuximab: From Metastatic Colorectal Cancer and Head and Neck Cancer to Non-Seminomatous Lesion
+## Cetuximab: From Metastatic Colorectal Cancer and Head and Neck Cancer to Non-Seminomatous Lesion
+{: .text-alpha }
 
 ## One-Sentence Summary
 

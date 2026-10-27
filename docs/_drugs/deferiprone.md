@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Deferiprone: From Thalassaemia Major Iron Overload to Hepatic Porphyria
+## Deferiprone: From Thalassaemia Major Iron Overload to Hepatic Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

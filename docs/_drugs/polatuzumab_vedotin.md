@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Polatuzumab vedotin: From Diffuse Large B-Cell Lymphoma to HER2-Positive Breast Carcinoma
+## Polatuzumab vedotin: From Diffuse Large B-Cell Lymphoma to HER2-Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tenecteplase: From Myocardial Infarction and Acute Ischaemic Stroke to Posterolateral Myocardial Infarction
+## Tenecteplase: From Myocardial Infarction and Acute Ischaemic Stroke to Posterolateral Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

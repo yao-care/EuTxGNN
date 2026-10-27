@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Serine: From Maple Syrup Urine Disease (Acute Decompensation) to Familial Visceral Myopathy
+## Serine: From Maple Syrup Urine Disease (Acute Decompensation) to Familial Visceral Myopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

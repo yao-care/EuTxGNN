@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diflunisal: From Hereditary Transthyretin Amyloidosis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Diflunisal: From Hereditary Transthyretin Amyloidosis to Acromesomelic Dysplasia, Hunter-Thompson Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

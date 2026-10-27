@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Interferon beta-1a: From Relapsing Multiple Sclerosis to Jeune Syndrome Situs Inversus
+## Interferon beta-1a: From Relapsing Multiple Sclerosis to Jeune Syndrome Situs Inversus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

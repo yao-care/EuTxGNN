@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sugammadex: From Reversal of Neuromuscular Blockade to Breast Fibrocystic Disease
+## Sugammadex: From Reversal of Neuromuscular Blockade to Breast Fibrocystic Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

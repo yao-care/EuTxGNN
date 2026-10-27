@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Enalapril: From Heart Failure to Chronic Pulmonary Heart Disease
+## Enalapril: From Heart Failure to Chronic Pulmonary Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

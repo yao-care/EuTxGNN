@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Relugolix: From Advanced Hormone-Sensitive Prostate Cancer to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Relugolix: From Advanced Hormone-Sensitive Prostate Cancer to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

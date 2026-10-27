@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Carglumic Acid: From Hyperammonaemia (NAGS Deficiency and Organic Acidaemias) to Cystic Teratoma
+## Carglumic Acid: From Hyperammonaemia (NAGS Deficiency and Organic Acidaemias) to Cystic Teratoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

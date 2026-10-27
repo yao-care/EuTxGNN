@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nusinersen: From 5q Spinal Muscular Atrophy to Skin Atrophy
+## Nusinersen: From 5q Spinal Muscular Atrophy to Skin Atrophy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

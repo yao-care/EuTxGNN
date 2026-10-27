@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Chenodeoxycholic Acid: From Cerebrotendinous Xanthomatosis to Homozygous Familial Hypercholesterolemia
+## Chenodeoxycholic Acid: From Cerebrotendinous Xanthomatosis to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

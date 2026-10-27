@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Teriflunomide: From Relapsing-Remitting Multiple Sclerosis to Relapsing-Remitting Multiple Sclerosis (Model Confirms the Existing Indication)
+## Teriflunomide: From Relapsing-Remitting Multiple Sclerosis to Relapsing-Remitting Multiple Sclerosis (Model Confirms the Existing Indication)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levofloxacin: From Chronic Pseudomonas Lung Infection in Cystic Fibrosis to Punctate Epithelial Keratoconjunctivitis
+## Levofloxacin: From Chronic Pseudomonas Lung Infection in Cystic Fibrosis to Punctate Epithelial Keratoconjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

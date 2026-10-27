@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Estradiol: From Contraception and Gynaecological Conditions to Anovulation
+## Estradiol: From Contraception and Gynaecological Conditions to Anovulation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

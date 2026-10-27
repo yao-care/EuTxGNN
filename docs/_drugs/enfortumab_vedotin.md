@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enfortumab Vedotin: From Urothelial Cancer to Leprosy
+## Enfortumab Vedotin: From Urothelial Cancer to Leprosy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

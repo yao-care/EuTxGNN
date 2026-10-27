@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bupivacaine: From Post-Operative Pain Block to Acrodermatitis Chronica Atrophicans
+## Bupivacaine: From Post-Operative Pain Block to Acrodermatitis Chronica Atrophicans
+{: .text-alpha }
 
 ## One-Sentence Summary
 

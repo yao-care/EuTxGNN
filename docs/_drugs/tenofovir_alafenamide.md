@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tenofovir Alafenamide: From Chronic Hepatitis B to Feline Acquired Immunodeficiency Syndrome
+## Tenofovir Alafenamide: From Chronic Hepatitis B to Feline Acquired Immunodeficiency Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

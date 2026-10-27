@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Imlifidase: From Kidney Transplant Desensitisation to Diabetic Cataract
+## Imlifidase: From Kidney Transplant Desensitisation to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

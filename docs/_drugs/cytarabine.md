@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Cytarabine: From Acute Myeloid Leukaemia (t-AML / AML-MRC) to Small Cell Lung Carcinoma
+## Cytarabine: From Acute Myeloid Leukaemia (t-AML / AML-MRC) to Small Cell Lung Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

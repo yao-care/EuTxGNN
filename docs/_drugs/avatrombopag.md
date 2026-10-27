@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avatrombopag: From Thrombocytopenia in Chronic Liver Disease and ITP to Macrothrombocytopenia with Mitral Valve Insufficiency
+## Avatrombopag: From Thrombocytopenia in Chronic Liver Disease and ITP to Macrothrombocytopenia with Mitral Valve Insufficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

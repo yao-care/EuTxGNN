@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Azilsartan medoxomil: From Essential Hypertension to Pulmonary Hypertension
+## Azilsartan medoxomil: From Essential Hypertension to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

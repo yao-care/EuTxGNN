@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tisagenlecleucel: From B-cell Acute Lymphoblastic Leukaemia and B-cell Lymphomas to Crohn's Colitis
+## Tisagenlecleucel: From B-cell Acute Lymphoblastic Leukaemia and B-cell Lymphomas to Crohn's Colitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

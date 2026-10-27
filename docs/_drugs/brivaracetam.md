@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brivaracetam: From Partial-Onset Seizures to Status Epilepticus
+## Brivaracetam: From Partial-Onset Seizures to Status Epilepticus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

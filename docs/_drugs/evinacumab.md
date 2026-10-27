@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Evinacumab: From Homozygous Familial Hypercholesterolaemia to Diabetic Cataract
+## Evinacumab: From Homozygous Familial Hypercholesterolaemia to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

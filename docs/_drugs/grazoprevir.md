@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Grazoprevir: From Chronic Hepatitis C to HIV Infectious Disease
+## Grazoprevir: From Chronic Hepatitis C to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

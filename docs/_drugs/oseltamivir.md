@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oseltamivir: From Influenza to Pyelonephritis
+## Oseltamivir: From Influenza to Pyelonephritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fostamatinib: From Chronic Immune Thrombocytopenia to Autosomal Thrombocytopenia with Normal Platelets
+## Fostamatinib: From Chronic Immune Thrombocytopenia to Autosomal Thrombocytopenia with Normal Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

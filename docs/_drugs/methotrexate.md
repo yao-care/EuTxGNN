@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methotrexate: From Rheumatoid Arthritis, Psoriasis and Acute Lymphoblastic Leukaemia to Pulmonary Blastoma
+## Methotrexate: From Rheumatoid Arthritis, Psoriasis and Acute Lymphoblastic Leukaemia to Pulmonary Blastoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

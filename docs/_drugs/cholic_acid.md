@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Cholic Acid: From Inborn Errors of Primary Bile Acid Synthesis to HIV Infectious Disease
+## Cholic Acid: From Inborn Errors of Primary Bile Acid Synthesis to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

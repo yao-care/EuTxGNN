@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Clofarabine: From Paediatric Acute Lymphoblastic Leukaemia to Myeloid Leukaemia
+## Clofarabine: From Paediatric Acute Lymphoblastic Leukaemia to Myeloid Leukaemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

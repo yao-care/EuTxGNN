@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eslicarbazepine Acetate: From Partial-Onset Seizures to Adolescent/Adult Onset Autosomal Dominant Epilepsy with Auditory Features
+## Eslicarbazepine Acetate: From Partial-Onset Seizures to Adolescent/Adult Onset Autosomal Dominant Epilepsy with Auditory Features
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Miglustat: From Gaucher Disease and Niemann-Pick Type C to Tay-Sachs Disease
+## Miglustat: From Gaucher Disease and Niemann-Pick Type C to Tay-Sachs Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Plerixafor: From Stem Cell Mobilisation in Lymphoma and Multiple Myeloma to Indolent Plasma Cell Myeloma
+## Plerixafor: From Stem Cell Mobilisation in Lymphoma and Multiple Myeloma to Indolent Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

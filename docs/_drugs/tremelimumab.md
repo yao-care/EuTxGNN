@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tremelimumab: From Hepatocellular Carcinoma and Non-Small Cell Lung Cancer to Diabetic Cataract
+## Tremelimumab: From Hepatocellular Carcinoma and Non-Small Cell Lung Cancer to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

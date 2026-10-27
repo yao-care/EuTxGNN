@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Elbasvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+## Elbasvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

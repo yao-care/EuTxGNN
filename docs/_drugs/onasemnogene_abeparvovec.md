@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Onasemnogene abeparvovec: From Spinal Muscular Atrophy to Bronchitis
+## Onasemnogene abeparvovec: From Spinal Muscular Atrophy to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

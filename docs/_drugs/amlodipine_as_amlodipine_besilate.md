@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Amlodipine: Evidence Pack Incomplete — TxGNN Predictions Pending
+## Amlodipine: Evidence Pack Incomplete — TxGNN Predictions Pending
+{: .text-alpha }
 
 ## One-Sentence Summary
 

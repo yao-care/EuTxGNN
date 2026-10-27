@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Infliximab: From Rheumatoid Arthritis and Crohn's Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+## Infliximab: From Rheumatoid Arthritis and Crohn's Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

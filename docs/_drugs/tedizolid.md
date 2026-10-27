@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tedizolid: From Acute Bacterial Skin Infections to Orofacial Clefting Syndrome
+## Tedizolid: From Acute Bacterial Skin Infections to Orofacial Clefting Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

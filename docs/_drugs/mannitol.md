@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mannitol: From Cystic Fibrosis to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Mannitol: From Cystic Fibrosis to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

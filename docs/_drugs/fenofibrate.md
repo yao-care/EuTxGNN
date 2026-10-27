@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Fenofibrate: From Mixed Dyslipidaemia to Homozygous Familial Hypercholesterolemia
+## Fenofibrate: From Mixed Dyslipidaemia to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

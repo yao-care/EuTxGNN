@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Caspofungin: From Invasive Fungal Infections to Gastrin Secretion Abnormality
+## Caspofungin: From Invasive Fungal Infections to Gastrin Secretion Abnormality
+{: .text-alpha }
 
 ## One-Sentence Summary
 

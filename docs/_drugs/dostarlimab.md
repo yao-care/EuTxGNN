@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dostarlimab: From Endometrial Cancer to Acute Megakaryoblastic Leukemia
+## Dostarlimab: From Endometrial Cancer to Acute Megakaryoblastic Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

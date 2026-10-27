@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tagraxofusp: From Blastic Plasmacytoid Dendritic Cell Neoplasm to Esotropia
+## Tagraxofusp: From Blastic Plasmacytoid Dendritic Cell Neoplasm to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

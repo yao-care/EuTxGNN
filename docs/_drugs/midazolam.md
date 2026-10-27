@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Midazolam: From Prolonged Acute Convulsive Seizures to Insomnia
+## Midazolam: From Prolonged Acute Convulsive Seizures to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

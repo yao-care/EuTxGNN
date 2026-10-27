@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glycerol Phenylbutyrate: From Urea Cycle Disorders to Adult-Onset Citrullinemia Type II
+## Glycerol Phenylbutyrate: From Urea Cycle Disorders to Adult-Onset Citrullinemia Type II
+{: .text-alpha }
 
 ## One-Sentence Summary
 

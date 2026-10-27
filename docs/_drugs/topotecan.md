@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Topotecan: From Small Cell Lung Cancer and Ovarian Cancer to Female Breast Carcinoma
+## Topotecan: From Small Cell Lung Cancer and Ovarian Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

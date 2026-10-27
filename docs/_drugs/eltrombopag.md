@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eltrombopag: From Immune Thrombocytopenia to HIV Infectious Disease
+## Eltrombopag: From Immune Thrombocytopenia to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

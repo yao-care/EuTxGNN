@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aclidinium: From COPD to Open-Angle Glaucoma
+## Aclidinium: From COPD to Open-Angle Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

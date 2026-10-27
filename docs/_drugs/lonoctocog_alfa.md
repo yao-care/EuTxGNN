@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lonoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+## Lonoctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

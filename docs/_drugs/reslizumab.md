@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Reslizumab: From Severe Eosinophilic Asthma to Immune Thrombocytopenia
+## Reslizumab: From Severe Eosinophilic Asthma to Immune Thrombocytopenia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

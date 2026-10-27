@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mifamurtide: From Osteosarcoma to Filariasis
+## Mifamurtide: From Osteosarcoma to Filariasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

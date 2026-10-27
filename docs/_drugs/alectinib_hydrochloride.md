@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alectinib Hydrochloride: No TxGNN Predictions Available — Analysis on Hold
+## Alectinib Hydrochloride: No TxGNN Predictions Available — Analysis on Hold
+{: .text-alpha }
 
 ## One-Sentence Summary
 

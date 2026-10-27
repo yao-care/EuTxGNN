@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Darbepoetin alfa: From Anaemia in Chronic Renal Failure and Chemotherapy to Amenorrhea
+## Darbepoetin alfa: From Anaemia in Chronic Renal Failure and Chemotherapy to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

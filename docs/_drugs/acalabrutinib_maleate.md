@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acalabrutinib Maleate: Drug Repurposing Evaluation Report
+## Acalabrutinib Maleate: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ---
 

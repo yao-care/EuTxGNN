@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis
+## Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

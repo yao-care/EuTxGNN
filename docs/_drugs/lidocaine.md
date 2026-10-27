@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lidocaine: From Premature Ejaculation to Punctate Epithelial Keratoconjunctivitis
+## Lidocaine: From Premature Ejaculation to Punctate Epithelial Keratoconjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

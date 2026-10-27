@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Laronidase: From Mucopolysaccharidosis I to Lysosomal Storage Disease with Skeletal Involvement
+## Laronidase: From Mucopolysaccharidosis I to Lysosomal Storage Disease with Skeletal Involvement
+{: .text-alpha }
 
 ## One-Sentence Summary
 

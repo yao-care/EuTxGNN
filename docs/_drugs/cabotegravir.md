@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cabotegravir: From HIV-1 Pre-Exposure Prophylaxis to Rheumatoid Arthritis
+## Cabotegravir: From HIV-1 Pre-Exposure Prophylaxis to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

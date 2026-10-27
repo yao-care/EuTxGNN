@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Besilesomab: From Suspected Osteomyelitis Imaging to Diabetic Cataract
+## Besilesomab: From Suspected Osteomyelitis Imaging to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

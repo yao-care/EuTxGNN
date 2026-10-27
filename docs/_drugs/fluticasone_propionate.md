@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Fluticasone Propionate: From Asthma to Atopic Dermatitis
+## Fluticasone Propionate: From Asthma to Atopic Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

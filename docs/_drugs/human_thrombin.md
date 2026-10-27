@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Human Thrombin: From Surgical Haemostasis to Esophageal Disease
+## Human Thrombin: From Surgical Haemostasis to Esophageal Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

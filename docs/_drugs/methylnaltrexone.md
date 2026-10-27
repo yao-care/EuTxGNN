@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methylnaltrexone: From Opioid-Induced Constipation to Congenital Hypotrichosis Milia
+## Methylnaltrexone: From Opioid-Induced Constipation to Congenital Hypotrichosis Milia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

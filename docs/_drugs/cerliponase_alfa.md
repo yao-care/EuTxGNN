@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cerliponase alfa: From CLN2 Disease to Scheie Syndrome
+## Cerliponase alfa: From CLN2 Disease to Scheie Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

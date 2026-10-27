@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sildenafil: From Pulmonary Arterial Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+## Sildenafil: From Pulmonary Arterial Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

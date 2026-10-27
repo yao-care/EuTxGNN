@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Spironolactone: From Refractory Oedema and Hypertension to Alopecia
+## Spironolactone: From Refractory Oedema and Hypertension to Alopecia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

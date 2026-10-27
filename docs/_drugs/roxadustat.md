@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Roxadustat: From Anaemia of Chronic Kidney Disease to Dry Eye Syndrome
+## Roxadustat: From Anaemia of Chronic Kidney Disease to Dry Eye Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

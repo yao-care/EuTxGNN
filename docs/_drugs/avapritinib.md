@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avapritinib: From Gastrointestinal Stromal Tumour to Axial Spondylometaphyseal Dysplasia
+## Avapritinib: From Gastrointestinal Stromal Tumour to Axial Spondylometaphyseal Dysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

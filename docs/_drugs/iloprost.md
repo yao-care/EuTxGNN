@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Iloprost: From Primary Pulmonary Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+## Iloprost: From Primary Pulmonary Hypertension to Pulmonary Arterial Hypertension Associated with Congenital Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

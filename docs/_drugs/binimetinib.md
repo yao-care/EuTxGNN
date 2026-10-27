@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Binimetinib: From BRAF V600-Mutant Melanoma and NSCLC to Choroideremia
+## Binimetinib: From BRAF V600-Mutant Melanoma and NSCLC to Choroideremia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

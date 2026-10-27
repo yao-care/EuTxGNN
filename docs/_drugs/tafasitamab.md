@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tafasitamab: From Diffuse Large B-Cell Lymphoma to Drug-Induced Osteoporosis
+## Tafasitamab: From Diffuse Large B-Cell Lymphoma to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

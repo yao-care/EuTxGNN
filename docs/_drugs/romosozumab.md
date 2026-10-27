@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Romosozumab: From Severe Postmenopausal Osteoporosis to Impaired Renal Function Disease
+## Romosozumab: From Severe Postmenopausal Osteoporosis to Impaired Renal Function Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

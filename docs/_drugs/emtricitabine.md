@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Emtricitabine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+## Emtricitabine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

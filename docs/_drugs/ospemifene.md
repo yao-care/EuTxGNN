@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ospemifene: From Vulvar and Vaginal Atrophy to Leprosy
+## Ospemifene: From Vulvar and Vaginal Atrophy to Leprosy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

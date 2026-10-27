@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trastuzumab deruxtecan: From HER2-Positive Breast Cancer to Drug-Induced Osteoporosis
+## Trastuzumab deruxtecan: From HER2-Positive Breast Cancer to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

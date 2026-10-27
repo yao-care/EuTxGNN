@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Paclitaxel: From Metastatic Breast Cancer to Female Breast Carcinoma
+## Paclitaxel: From Metastatic Breast Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

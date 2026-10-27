@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tipranavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+## Tipranavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

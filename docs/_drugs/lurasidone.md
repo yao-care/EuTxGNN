@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Lurasidone: From Schizophrenia to Manic Bipolar Affective Disorder
+## Lurasidone: From Schizophrenia to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

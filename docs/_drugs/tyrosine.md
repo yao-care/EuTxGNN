@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tyrosine: From Maple Syrup Urine Disease (Acute Decompensation) to Cauda Equina Syndrome
+## Tyrosine: From Maple Syrup Urine Disease (Acute Decompensation) to Cauda Equina Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

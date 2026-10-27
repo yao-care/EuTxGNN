@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abacavir (as Sulfate): Repurposing Assessment — Insufficient Data
+## Abacavir (as Sulfate): Repurposing Assessment — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

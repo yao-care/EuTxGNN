@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Agomelatine: From Major Depressive Episodes to Benign Paroxysmal Torticollis of Infancy
+## Agomelatine: From Major Depressive Episodes to Benign Paroxysmal Torticollis of Infancy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

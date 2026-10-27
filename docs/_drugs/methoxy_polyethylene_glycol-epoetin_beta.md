@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methoxy polyethylene glycol-epoetin beta: From Renal Anaemia to Primary Release Disorder of Platelets
+## Methoxy polyethylene glycol-epoetin beta: From Renal Anaemia to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

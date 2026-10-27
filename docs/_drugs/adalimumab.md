@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Adalimumab: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+## Adalimumab: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

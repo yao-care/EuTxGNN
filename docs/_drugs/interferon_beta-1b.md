@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Interferon beta-1b: From Multiple Sclerosis to Hairy Cell Leukemia
+## Interferon beta-1b: From Multiple Sclerosis to Hairy Cell Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

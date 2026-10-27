@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# L-Lysine: From Renal Radiation Protection and MSUD Management to Gastroparesis
+## L-Lysine: From Renal Radiation Protection and MSUD Management to Gastroparesis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

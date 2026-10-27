@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lomitapide: From Homozygous Familial Hypercholesterolaemia to Macrothrombocytopenia with Mitral Valve Insufficiency
+## Lomitapide: From Homozygous Familial Hypercholesterolaemia to Macrothrombocytopenia with Mitral Valve Insufficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

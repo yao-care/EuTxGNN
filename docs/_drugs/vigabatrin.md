@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Vigabatrin: From Infantile Spasms and Resistant Focal Epilepsy to ARX-Related X-Linked Intellectual Disability With or Without Seizures
+## Vigabatrin: From Infantile Spasms and Resistant Focal Epilepsy to ARX-Related X-Linked Intellectual Disability With or Without Seizures
+{: .text-alpha }
 
 ## One-Sentence Summary
 

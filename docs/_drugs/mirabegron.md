@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mirabegron: From Overactive Bladder to Thoracic Malformation
+## Mirabegron: From Overactive Bladder to Thoracic Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

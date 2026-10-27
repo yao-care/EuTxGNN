@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bempedoic acid: From Hypercholesterolaemia to Hyperthyroidism
+## Bempedoic acid: From Hypercholesterolaemia to Hyperthyroidism
+{: .text-alpha }
 
 ## One-Sentence Summary
 

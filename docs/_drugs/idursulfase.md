@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idursulfase: From Hunter Syndrome to Ptosis-Strabismus-Ectopic Pupils Syndrome
+## Idursulfase: From Hunter Syndrome to Ptosis-Strabismus-Ectopic Pupils Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

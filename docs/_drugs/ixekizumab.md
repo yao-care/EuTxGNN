@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ixekizumab: From Plaque Psoriasis to Rheumatoid Vasculitis
+## Ixekizumab: From Plaque Psoriasis to Rheumatoid Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

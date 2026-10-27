@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Netarsudil: From Glaucoma and Ocular Hypertension to Primary Hereditary Glaucoma
+## Netarsudil: From Glaucoma and Ocular Hypertension to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

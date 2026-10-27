@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ivacaftor: From Cystic Fibrosis to Rheumatoid Arthritis
+## Ivacaftor: From Cystic Fibrosis to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Daratumumab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+## Daratumumab: From Multiple Myeloma to Indolent Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

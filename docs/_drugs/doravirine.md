@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Doravirine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+## Doravirine: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

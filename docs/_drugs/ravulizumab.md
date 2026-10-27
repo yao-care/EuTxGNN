@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ravulizumab: From Paroxysmal Nocturnal Haemoglobinuria to Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency
+## Ravulizumab: From Paroxysmal Nocturnal Haemoglobinuria to Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

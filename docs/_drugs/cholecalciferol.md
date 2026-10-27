@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Cholecalciferol: From Postmenopausal Osteoporosis to Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion
+## Cholecalciferol: From Postmenopausal Osteoporosis to Familial Isolated Hypoparathyroidism Due to Impaired PTH Secretion
+{: .text-alpha }
 
 ## One-Sentence Summary
 

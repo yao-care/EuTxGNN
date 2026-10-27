@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rozanolixizumab: From Generalised Myasthenia Gravis to Bronchitis
+## Rozanolixizumab: From Generalised Myasthenia Gravis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

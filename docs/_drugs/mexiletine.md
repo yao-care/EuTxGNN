@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mexiletine: From Non-Dystrophic Myotonia to Hypertrichosis
+## Mexiletine: From Non-Dystrophic Myotonia to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

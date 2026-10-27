@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cinacalcet: From Secondary Hyperparathyroidism to Multiple Endocrine Neoplasia
+## Cinacalcet: From Secondary Hyperparathyroidism to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

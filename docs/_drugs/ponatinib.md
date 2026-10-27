@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ponatinib: From Chronic Myeloid Leukaemia to Gingival Fibromatosis
+## Ponatinib: From Chronic Myeloid Leukaemia to Gingival Fibromatosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Talazoparib: From BRCA-Mutated Breast Cancer and Prostate Cancer to HER2-Positive Breast Carcinoma
+## Talazoparib: From BRCA-Mutated Breast Cancer and Prostate Cancer to HER2-Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

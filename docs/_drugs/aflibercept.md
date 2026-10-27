@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aflibercept: From Neovascular Age-Related Macular Degeneration to Esotropia
+## Aflibercept: From Neovascular Age-Related Macular Degeneration to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

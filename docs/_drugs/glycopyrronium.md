@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glycopyrronium: From Severe Sialorrhoea and COPD to Irritable Bowel Syndrome
+## Glycopyrronium: From Severe Sialorrhoea and COPD to Irritable Bowel Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

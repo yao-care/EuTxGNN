@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Palbociclib: From HR+/HER2- Breast Cancer to Hyperthyroidism
+## Palbociclib: From HR+/HER2- Breast Cancer to Hyperthyroidism
+{: .text-alpha }
 
 ## One-Sentence Summary
 

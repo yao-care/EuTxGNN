@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tasonermin: From Soft-Tissue Sarcoma of the Limbs to Prostatic Urethra Urothelial Carcinoma
+## Tasonermin: From Soft-Tissue Sarcoma of the Limbs to Prostatic Urethra Urothelial Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

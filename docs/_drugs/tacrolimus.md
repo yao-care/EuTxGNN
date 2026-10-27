@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tacrolimus: From Transplant Rejection Prophylaxis to Seborrheic Dermatitis
+## Tacrolimus: From Transplant Rejection Prophylaxis to Seborrheic Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

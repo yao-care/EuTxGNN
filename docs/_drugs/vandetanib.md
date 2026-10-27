@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vandetanib: From Medullary Thyroid Cancer to Renal Cell Carcinoma
+## Vandetanib: From Medullary Thyroid Cancer to Renal Cell Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

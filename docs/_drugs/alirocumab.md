@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alirocumab: From Primary Hypercholesterolaemia to Ichthyosis, X-linked, without Steroid Sulfatase Deficiency
+## Alirocumab: From Primary Hypercholesterolaemia to Ichthyosis, X-linked, without Steroid Sulfatase Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

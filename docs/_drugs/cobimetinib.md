@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cobimetinib: From BRAF V600-Mutant Melanoma to Amyotrophic Lateral Sclerosis
+## Cobimetinib: From BRAF V600-Mutant Melanoma to Amyotrophic Lateral Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zolbetuximab: From Gastric/GEJ Adenocarcinoma to Diabetic Cataract
+## Zolbetuximab: From Gastric/GEJ Adenocarcinoma to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

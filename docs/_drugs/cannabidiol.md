@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cannabidiol: From Seizures in Lennox-Gastaut and Dravet Syndromes to Restless Legs Syndrome
+## Cannabidiol: From Seizures in Lennox-Gastaut and Dravet Syndromes to Restless Legs Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

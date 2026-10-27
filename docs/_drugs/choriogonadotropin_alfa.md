@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Choriogonadotropin alfa: From Ovulation Induction to Peptic Esophagitis
+## Choriogonadotropin alfa: From Ovulation Induction to Peptic Esophagitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

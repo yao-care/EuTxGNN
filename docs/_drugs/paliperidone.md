@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Paliperidone: From Schizophrenia to Retinal Dystrophy (with or without extraocular anomalies)
+## Paliperidone: From Schizophrenia to Retinal Dystrophy (with or without extraocular anomalies)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

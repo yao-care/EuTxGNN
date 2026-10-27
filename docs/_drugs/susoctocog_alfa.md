@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Susoctocog alfa: From Acquired Haemophilia A to Primary Release Disorder of Platelets
+## Susoctocog alfa: From Acquired Haemophilia A to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

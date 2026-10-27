@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pemigatinib: From Cholangiocarcinoma to Multiple Endocrine Neoplasia
+## Pemigatinib: From Cholangiocarcinoma to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

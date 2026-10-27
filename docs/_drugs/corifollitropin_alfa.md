@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Corifollitropin alfa: From Controlled Ovarian Stimulation to Gastroduodenitis
+## Corifollitropin alfa: From Controlled Ovarian Stimulation to Gastroduodenitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

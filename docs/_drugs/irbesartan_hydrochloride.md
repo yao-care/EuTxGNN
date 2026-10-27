@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Irbesartan Hydrochloride: Repurposing Evaluation — Data Insufficient to Proceed
+## Irbesartan Hydrochloride: Repurposing Evaluation — Data Insufficient to Proceed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

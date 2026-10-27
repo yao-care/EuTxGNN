@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ceritinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Ceritinib: From ALK-Positive Non-Small Cell Lung Cancer to Gingival Fibromatosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

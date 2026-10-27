@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alemtuzumab: From Relapsing-Remitting Multiple Sclerosis to Syndrome with Combined Immunodeficiency
+## Alemtuzumab: From Relapsing-Remitting Multiple Sclerosis to Syndrome with Combined Immunodeficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tralokinumab: From Atopic Dermatitis to Diabetic Cataract
+## Tralokinumab: From Atopic Dermatitis to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

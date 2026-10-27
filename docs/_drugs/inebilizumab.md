@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Inebilizumab: From Neuromyelitis Optica Spectrum Disorder to Plasma Cell Myeloma
+## Inebilizumab: From Neuromyelitis Optica Spectrum Disorder to Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

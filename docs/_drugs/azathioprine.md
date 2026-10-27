@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Azathioprine: From Transplant Rejection Prophylaxis and Autoimmune Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+## Azathioprine: From Transplant Rejection Prophylaxis and Autoimmune Disease to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

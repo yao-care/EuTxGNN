@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Remimazolam: From Procedural Sedation and General Anaesthesia to Insomnia
+## Remimazolam: From Procedural Sedation and General Anaesthesia to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

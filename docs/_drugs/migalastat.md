@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Migalastat: From Fabry Disease to Primitive Portal Vein Thrombosis
+## Migalastat: From Fabry Disease to Primitive Portal Vein Thrombosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

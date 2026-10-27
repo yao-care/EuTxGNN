@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flutemetamol (18F): From Amyloid PET Imaging in Cognitive Impairment to Anaphylaxis
+## Flutemetamol (18F): From Amyloid PET Imaging in Cognitive Impairment to Anaphylaxis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

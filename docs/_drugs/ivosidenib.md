@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ivosidenib: From IDH1-Mutant AML and Cholangiocarcinoma to Bulbar Polio
+## Ivosidenib: From IDH1-Mutant AML and Cholangiocarcinoma to Bulbar Polio
+{: .text-alpha }
 
 ## One-Sentence Summary
 

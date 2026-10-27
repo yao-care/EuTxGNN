@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eliglustat: From Gaucher Disease Type 1 to Autosomal Ichthyosis Syndrome with Fatal Disease Course
+## Eliglustat: From Gaucher Disease Type 1 to Autosomal Ichthyosis Syndrome with Fatal Disease Course
+{: .text-alpha }
 
 ## One-Sentence Summary
 

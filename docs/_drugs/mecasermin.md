@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mecasermin: From Severe Primary IGF-1 Deficiency to Monosomy X
+## Mecasermin: From Severe Primary IGF-1 Deficiency to Monosomy X
+{: .text-alpha }
 
 ## One-Sentence Summary
 

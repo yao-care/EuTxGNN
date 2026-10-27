@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ambrisentan: From Pulmonary Arterial Hypertension to Pulmonary Arterial Hypertension Associated with Connective Tissue Disease
+## Ambrisentan: From Pulmonary Arterial Hypertension to Pulmonary Arterial Hypertension Associated with Connective Tissue Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

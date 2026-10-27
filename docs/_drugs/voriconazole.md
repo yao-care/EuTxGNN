@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Voriconazole: From Invasive Fungal Infections to Multidrug-Resistant Tuberculosis
+## Voriconazole: From Invasive Fungal Infections to Multidrug-Resistant Tuberculosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

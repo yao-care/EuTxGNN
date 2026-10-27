@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Letermovir: From CMV Prophylaxis in Transplant Recipients to Vulvovaginal Candidiasis
+## Letermovir: From CMV Prophylaxis in Transplant Recipients to Vulvovaginal Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

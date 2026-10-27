@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Guanfacine: From ADHD to Tourette Syndrome
+## Guanfacine: From ADHD to Tourette Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

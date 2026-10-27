@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Agalsidase beta: From Fabry Disease to Cervical Neuroblastoma
+## Agalsidase beta: From Fabry Disease to Cervical Neuroblastoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

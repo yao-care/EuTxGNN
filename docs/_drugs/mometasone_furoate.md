@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mometasone Furoate: From Asthma to 2-Hydroxyethyl Methacrylate Sensitization
+## Mometasone Furoate: From Asthma to 2-Hydroxyethyl Methacrylate Sensitization
+{: .text-alpha }
 
 ## One-Sentence Summary
 

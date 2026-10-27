@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Daunorubicin: From Acute Myeloid Leukaemia (t-AML / AML-MRC) to Hodgkin's Lymphoma
+## Daunorubicin: From Acute Myeloid Leukaemia (t-AML / AML-MRC) to Hodgkin's Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

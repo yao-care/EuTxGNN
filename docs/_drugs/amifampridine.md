@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amifampridine: From Lambert-Eaton Myasthenic Syndrome to Glaucoma
+## Amifampridine: From Lambert-Eaton Myasthenic Syndrome to Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

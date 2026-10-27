@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Efmoroctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+## Efmoroctocog alfa: From Haemophilia A to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

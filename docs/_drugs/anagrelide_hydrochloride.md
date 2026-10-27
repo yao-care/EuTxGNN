@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Anagrelide Hydrochloride: Drug Repurposing Evaluation — Insufficient Evidence Pack
+## Anagrelide Hydrochloride: Drug Repurposing Evaluation — Insufficient Evidence Pack
+{: .text-alpha }
 
 ## One-Sentence Summary
 

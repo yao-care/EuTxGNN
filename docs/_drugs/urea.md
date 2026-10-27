@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Urea: From Diagnosis of Helicobacter pylori Infection to Dermatitis
+## Urea: From Diagnosis of Helicobacter pylori Infection to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

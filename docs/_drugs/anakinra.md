@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Anakinra: From Rheumatoid Arthritis to Extracutaneous Mastocytoma
+## Anakinra: From Rheumatoid Arthritis to Extracutaneous Mastocytoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

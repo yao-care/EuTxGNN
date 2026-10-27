@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ranolazine: From Stable Angina Pectoris to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Ranolazine: From Stable Angina Pectoris to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

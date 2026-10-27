@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tipiracil: From Colorectal and Gastric Cancer to Cecum Villous Adenoma
+## Tipiracil: From Colorectal and Gastric Cancer to Cecum Villous Adenoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

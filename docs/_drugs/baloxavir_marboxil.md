@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Baloxavir marboxil: From Influenza to Acquired Hemophagocytic Lymphohistiocytosis Associated with Malignant Disease
+## Baloxavir marboxil: From Influenza to Acquired Hemophagocytic Lymphohistiocytosis Associated with Malignant Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

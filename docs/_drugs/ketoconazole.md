@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ketoconazole: From Cushing's Syndrome to Acne
+## Ketoconazole: From Cushing's Syndrome to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

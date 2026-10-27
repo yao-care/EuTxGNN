@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Velpatasvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+## Velpatasvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Maraviroc: From CCR5-Tropic HIV-1 Infection to Multiple Endocrine Neoplasia
+## Maraviroc: From CCR5-Tropic HIV-1 Infection to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

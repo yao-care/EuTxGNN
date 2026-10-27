@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tasimelteon: From Non-24-Hour Sleep-Wake Disorder to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+## Tasimelteon: From Non-24-Hour Sleep-Wake Disorder to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

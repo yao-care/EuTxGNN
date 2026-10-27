@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ivabradine: From Chronic Stable Angina Pectoris and Chronic Heart Failure to Hypertrichosis
+## Ivabradine: From Chronic Stable Angina Pectoris and Chronic Heart Failure to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

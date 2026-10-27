@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Melatonin: From Insomnia to Migraine Disorder
+## Melatonin: From Insomnia to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

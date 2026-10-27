@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Acalabrutinib: From Chronic Lymphocytic Leukaemia and Mantle Cell Lymphoma to Non-Hodgkin Lymphoma (Familial)
+## Acalabrutinib: From Chronic Lymphocytic Leukaemia and Mantle Cell Lymphoma to Non-Hodgkin Lymphoma (Familial)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

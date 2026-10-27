@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zinc: From Wilson's Disease to Filariasis
+## Zinc: From Wilson's Disease to Filariasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

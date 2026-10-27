@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brinzolamide: From Ocular Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Brinzolamide: From Ocular Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lefamulin: From Community-Acquired Pneumonia to Diffuse Cutaneous Leishmaniasis
+## Lefamulin: From Community-Acquired Pneumonia to Diffuse Cutaneous Leishmaniasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

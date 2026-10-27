@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ripretinib: From Gastrointestinal Stromal Tumour to Multiple Endocrine Neoplasia
+## Ripretinib: From Gastrointestinal Stromal Tumour to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

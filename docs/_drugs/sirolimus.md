@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sirolimus: From Facial Angiofibroma in Tuberous Sclerosis Complex to Liposarcoma
+## Sirolimus: From Facial Angiofibroma in Tuberous Sclerosis Complex to Liposarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

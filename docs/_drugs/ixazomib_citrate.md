@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Ixazomib Citrate: Drug Repurposing Evaluation — Evidence Pack Incomplete
+## Ixazomib Citrate: Drug Repurposing Evaluation — Evidence Pack Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

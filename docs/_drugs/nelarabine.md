@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nelarabine: From T-Cell Acute Lymphoblastic Leukaemia to Relapsing-Remitting Multiple Sclerosis
+## Nelarabine: From T-Cell Acute Lymphoblastic Leukaemia to Relapsing-Remitting Multiple Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

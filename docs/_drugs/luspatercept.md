@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Luspatercept: From Anaemia in Myelodysplastic Syndromes and Beta Thalassaemia to Monosomy X
+## Luspatercept: From Anaemia in Myelodysplastic Syndromes and Beta Thalassaemia to Monosomy X
+{: .text-alpha }
 
 ## One-Sentence Summary
 
