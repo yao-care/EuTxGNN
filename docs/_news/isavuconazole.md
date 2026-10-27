@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Isavuconazole?">
-<strong>Isavuconazole</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Isavuconazole</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Isavuconazole with the lates
 <p><a href="{{ '/drugs/isavuconazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
-
----
-
-### [AbbVie presenta datos que destacan la eficacia y seguridad de upadacitinib en la recuperación del cabello, las cejas y las pestañas - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
-
-2026-10-26 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
-
-Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
 
 ---
 

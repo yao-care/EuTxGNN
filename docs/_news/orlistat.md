@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
 ### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
 
 2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+
+---
+
+### [El ruido hospitalario, un factor clave en la seguridad del paciente con ictus](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">ictus</span>
+
+Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
 
 ---
 
@@ -67,7 +75,7 @@ Source: [Gaceta Médica](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeU
 
 ---
 
-### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge ?](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
+### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
 
@@ -88,6 +96,14 @@ Source: [la Repubblica](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMGc
 2026-10-24 <span class="news-indication-tag">obesity</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
+
+---
+
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
+
+2026-10-22 <span class="news-drug-tag">Tirzepatide</span> <span class="news-indication-tag">obesity</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

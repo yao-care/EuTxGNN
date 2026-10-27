@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
+### [Langjährige Depressionen erhöhen das Risiko für Herzkrankheiten](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pNG5vSTB5enVVTEFWVElOLWR0VUE0dy1KUjlRaGh3UHpGZUdMX0g4bmZHNEpRMmU4azdjemxfMUpBbVhka2E1Mkgwd0tlVnVmUU0yV18tVjk5aEFUT0d2WDYzZ0VIaEdxVG1Eb0JHajVmMFBXUHlEWjZaMmxfYzFyYXJXMnhJcVhSeDc5QmpfMlBDclBLa1U3d3ktSUR5dlM4T3F0bGZGcDQ4cmNrX19DSkU4SloxWU9ndlRhVm1vTTQt?oc=5)
 
-2026-10-27 <span class="news-indication-tag">dépression</span>
+2026-10-27 <span class="news-indication-tag">depression</span>
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
+Source: [L'essentiel](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pNG5vSTB5enVVTEFWVElOLWR0VUE0dy1KUjlRaGh3UHpGZUdMX0g4bmZHNEpRMmU4azdjemxfMUpBbVhka2E1Mkgwd0tlVnVmUU0yV18tVjk5aEFUT0d2WDYzZ0VIaEdxVG1Eb0JHajVmMFBXUHlEWjZaMmxfYzFyYXJXMnhJcVhSeDc5QmpfMlBDclBLa1U3d3ktSUR5dlM4T3F0bGZGcDQ4cmNrX19DSkU4SloxWU9ndlRhVm1vTTQt?oc=5)
 
 ---
 
@@ -49,6 +49,14 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 2026-10-26 <span class="news-indication-tag">depresión</span>
 
 Source: [National Geographic España](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNFJIQ0FXYk90RWFuOEFtTW02UXpvVjlFQTVNVUFsVmVmRjM4MC1QWEZxTHVQck5zQ2cwX1pCSlpaUmhrbEp4OTVveVBadm5DdVluZF9Hc3c4NEliS2wyT2ZnRVBBdlFnbnFnVWsycWViWHNGa3ktd05sc0Q5TVFXSTRJc3R1amxvTlZ0cVYzcHZJWkswWm11QUN5enNpaHNpb1ZFSWFrUUhaWFZrREk2SFQ0MDVLY3VGSi0xdk9ja1NmS2NWbGJrR2lxV01nSXRVZzBXRHhVb3V3QQ?oc=5)
+
+---
+
+### [Nose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
+
+2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
 
 ---
 
@@ -68,11 +76,11 @@ Source: [Mondosanità](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVDRY
 
 ---
 
-### [Depressionen in der Schwangerschaft mit höherem Förderbedarf bei Kindern assoziiert – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
+### [Researchers Identify New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5UdWpVel9rLW1ibW1CYWo5cTRWZHBLeXJBNWVhOXBhVWM1RU9BTlh4ckpSUEFQd3AtOE1IcHQ0NjE3MUNMN2h4U0hwZmMxN2tmY09hcHZVUlpNRGU2UjJhTW83REpGSTJfMTdTd2ZFSkR4OFNCWTFwRnRUcjF5MFJ4ZXlfTmZERkxjMUJWZzBsV2JYZVh6QmVWQVJnN3RPTndEbUFlemdvUzA5Z3hTUw?oc=5)
 
-2026-10-23 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
+2026-10-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaU5JX2laZ0FkbHZfZFY5LWhTbEdLNFNFbmxOaC1CUjFoTTItc1lKOUNBSkVmWkRORjU2UUtaYTlGVHNmQ2xyNTJXUXE5OFNfRVpHZnZvbmRZOWRuYk10VjVDOFRGQldOUFVlcTFQRTZnTFFpcEh4RkQ3TUNDM1FEUF82NHphX3NmQkg4Z0FHdnJ0SzhUeFJoNjRYamVWM2tPSWtkVThkVFpBWGRpeEJVSmE4TjBWSkZERHNqUkl2UndSQUk0TlVPRC1oNU5QaTJiREMtcUJZYUtab1lrSG02VjlQZ3ZTSzg?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5UdWpVel9rLW1ibW1CYWo5cTRWZHBLeXJBNWVhOXBhVWM1RU9BTlh4ckpSUEFQd3AtOE1IcHQ0NjE3MUNMN2h4U0hwZmMxN2tmY09hcHZVUlpNRGU2UjJhTW83REpGSTJfMTdTd2ZFSkR4OFNCWTFwRnRUcjF5MFJ4ZXlfTmZERkxjMUJWZzBsV2JYZVh6QmVWQVJnN3RPTndEbUFlemdvUzA5Z3hTUw?oc=5)
 
 ---
 

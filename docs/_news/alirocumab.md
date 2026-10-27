@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Obst und Gemüse bei Übersäuerung können wirksamer sein als Medikamente](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWF3S1IzWEFMZG1sQmJFRlBPMkVqRUVXWmdLNnBNcWVnZy1OTFNESDNFVDZ5WkNoS0piTV9Cazh2c0k5aEZrOGNiUHlDMmY5MWlQMFBmaktCODNIeFg2enNsb1lIX0dWdlY5U0toOUZlZ1dIMnZ2VXNUU0xMMGpyOGt4cnVXUUpUZE12TVpYRk9xZmNKZUtSNDZXWk92VFBzNVV0dUJvUUo0NVRhY0dHNV82bW1malVDRUk3QTluU05nSC1LN1k1OGVvSQ?oc=5)
+
+2026-10-27 <span class="news-indication-tag">CKD</span>
+
+Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWF3S1IzWEFMZG1sQmJFRlBPMkVqRUVXWmdLNnBNcWVnZy1OTFNESDNFVDZ5WkNoS0piTV9Cazh2c0k5aEZrOGNiUHlDMmY5MWlQMFBmaktCODNIeFg2enNsb1lIX0dWdlY5U0toOUZlZ1dIMnZ2VXNUU0xMMGpyOGt4cnVXUUpUZE12TVpYRk9xZmNKZUtSNDZXWk92VFBzNVV0dUJvUUo0NVRhY0dHNV82bW1malVDRUk3QTluU05nSC1LN1k1OGVvSQ?oc=5)
+
+---
 
 ### [Nierenerkrankungen: 10 Prozent betroffen, doch oft bleibt der Schaden unentdeckt](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
 

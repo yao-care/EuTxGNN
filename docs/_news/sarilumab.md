@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,29 +33,21 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
-### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
+### [Schon zehn Jahre vor der chronischen Darmentzündung gibt es Anzeichen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Morbus Crohn</span>
+
+Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
+
+---
+
+### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">asthma</span>
 
-Source: [ZWP online](https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUdwQkVaeUUwXzBXMXh4aTZRQVZiRThSQTB6aS1NYnV0V2lJSzZSdUhkQXV1SGNsYUpJMVdnU3lkOEZsbzRJVTZnTnlzRU1BdWQ4RFZsd0lJZlBvdm1IY3JIM1REMnFYcmRYZGdreVlCX3Rralp1OU91Smk1dXkwd1Yzdjg0SmtDM2dPMU5rUzRodUxzOWFlUzNuTml3c0ZBd1lxeWJIYXNiU1JSV1Zr?oc=5)
-
----
-
-### [AbbVie presenta datos que destacan la eficacia y seguridad de upadacitinib en la recuperación del cabello, las cejas y las pestañas - Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
-
-2026-10-26 <span class="news-drug-tag">Upadacitinib</span> <span class="news-indication-tag">artritis</span>
-
-Source: [Revista Pharma Market](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEwwVkNPdi1vUHFNbzdyc0dQSzJvSzJHWGZNT21TNVYzV3hISzViS2xYNklueDR0b29RdEV0Y29Pa0RkMFpMSHJfSmpTS0puMHVpLWlVYkhxbDRZRm1jSElGWjdTaDFoUjhYNWVraU9hcmNwRHkyb2hzSzZoXzNpeDVEcmdRSjNpdU5jSld4ZzhYcUJLM21lYjRpakZfUHhtTmxxUkJhckRhSGtxcEgzREtVaXNlb0hnTkw4S21fOEZwSVR4dkdwemJNU0pEWU1kVF9ZX3hXOHVEa3ZVa3FsUHl0LU5TS0RSOXc?oc=5)
-
----
-
-### [Morbus Crohn hinterlässt vor der Diagnose Spuren im Blut - Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ29TM2NRcU80eVlTUTJwcmNodTQ4dlg2Z1dQN3huMzhtU3V2OXVyUG9jQkFIMEFZaUZTMUM2cWkwMGdEQVJ0cVMzVG9wRzFMZ25HUlJzdGxVSGFiWXNFRTExUnRESURZeTMtakpELUZtVFQxc1Rha1loWlVkaTFZbUMyUGJYbi13d012YjRnY0p2d0VicE1yOWEwOWdLQS1acEJUMnlEOWk5TVdUc0Jrb3BOYW1Wbk5XMFRSd1pyREg?oc=5)
-
-2026-10-26 <span class="news-indication-tag">Morbus Crohn</span>
-
-Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ29TM2NRcU80eVlTUTJwcmNodTQ4dlg2Z1dQN3huMzhtU3V2OXVyUG9jQkFIMEFZaUZTMUM2cWkwMGdEQVJ0cVMzVG9wRzFMZ25HUlJzdGxVSGFiWXNFRTExUnRESURZeTMtakpELUZtVFQxc1Rha1loWlVkaTFZbUMyUGJYbi13d012YjRnY0p2d0VicE1yOWEwOWdLQS1acEJUMnlEOWk5TVdUc0Jrb3BOYW1Wbk5XMFRSd1pyREg?oc=5)
+Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 ---
 
@@ -64,14 +56,6 @@ Source: [Forschung und Wissen](https://news.google.com/rss/articles/CBMiwAFBVV95
 2026-10-25 <span class="news-indication-tag">artrite</span>
 
 Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
-
----
-
-### [COPD erkennen und behandeln: Nordseeklinik lädt zum Vortrag mit Atemtraining ein - Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
-
-2026-10-20 <span class="news-indication-tag">copd</span>
-
-Source: [Dein Sylt](https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnhSR1NsXzlqc1FWVGFIelBIVlFJZ01xVFZnLXF4VFh0ODUzT3RvLTJNSWRJeHFqUHlwbFZtaXdBMzhQXzhMMFlSR3V5SDBpWFpZZTZvUnVmTUVpX28xMUp2TDlyZGpRQlFoSTFSTVlWdkZ3R0E3aXFWZzltLVlJMWl0V29wRjVvd3RCSU9hOUpUREhGQTJHSjN2UWI5MXNWTTFCMDFldGpuTk1DeE40RG16eFBxc3JGQWU4MGQ5WDFZSURUVlE?oc=5)
 
 ---
 
