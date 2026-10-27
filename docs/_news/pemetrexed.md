@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Pemetrexed. Original indication: Other predictions in the list fall into three grou.... 1 predicted indications."
 permalink: /news/pemetrexed/
+last_modified_at: 2026-10-27
 ---
 
 # Pemetrexed News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Pemetrexed with the latest h
 <li><strong>Original indication</strong>: Other predictions in the list fall into three groups. Pleural mesothelioma and its epithelioid, sarcomatoid and biphasic subtypes are already covered by the approved indication, so they are on-label...</li>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant peritoneal mesothelioma (100.0%)</li>
+<li>Malignant peritoneal mesothelioma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">View full drug report →</a></p>

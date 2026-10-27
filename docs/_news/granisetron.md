@@ -3,8 +3,9 @@ layout: default
 title: "Granisetron News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Granisetron. Original indication: . 1 predicted indications."
+description: "Health news related to Granisetron. 1 predicted indications."
 permalink: /news/granisetron/
+last_modified_at: 2026-10-27
 ---
 
 # Granisetron News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Manic bipolar affective disorder (99.6%)</li>
+<li>Manic bipolar affective disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>

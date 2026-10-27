@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Bimekizumab. Original indication: A possible link to diabetic cataract is that chron.... 1 predicted indications."
 permalink: /news/bimekizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Bimekizumab News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Bimekizumab with the latest 
 <li><strong>Original indication</strong>: A possible link to diabetic cataract is that chronic low-grade inflammation and oxidative stress in the diabetic lens may involve IL-17 signaling. This is speculative. No study found in the compiled...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Diabetic cataract (98.2%)</li>
+<li>Diabetic cataract</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bimekizumab/' | relative_url }}">View full drug report →</a></p>

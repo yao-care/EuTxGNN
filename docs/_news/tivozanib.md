@@ -3,8 +3,9 @@ layout: default
 title: "Tivozanib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tivozanib. Original indication: . 1 predicted indications."
+description: "Health news related to Tivozanib. 1 predicted indications."
 permalink: /news/tivozanib/
+last_modified_at: 2026-10-27
 ---
 
 # Tivozanib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Tivozanib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Endocervical carcinoma (99.8%)</li>
+<li>Endocervical carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tivozanib/' | relative_url }}">View full drug report →</a></p>

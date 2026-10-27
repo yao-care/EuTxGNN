@@ -3,8 +3,9 @@ layout: default
 title: "Cobicistat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cobicistat. Original indication: . 1 predicted indications."
+description: "Health news related to Cobicistat. 1 predicted indications."
 permalink: /news/cobicistat/
+last_modified_at: 2026-10-27
 ---
 
 # Cobicistat News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Cobicistat with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Simian immunodeficiency virus infection (99.9%)</li>
+<li>Simian immunodeficiency virus infection</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cobicistat/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Golimumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Golimumab. Original indication: . 1 predicted indications."
+description: "Health news related to Golimumab. 1 predicted indications."
 permalink: /news/golimumab/
+last_modified_at: 2026-10-27
 ---
 
 # Golimumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Golimumab with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Rheumatoid vasculitis (99.7%)</li>
+<li>Rheumatoid vasculitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/golimumab/' | relative_url }}">View full drug report →</a></p>

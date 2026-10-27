@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Temoporfin. Original indication: Other predictions in the top 10 list (all also wit.... 10 predicted indications."
 permalink: /news/temoporfin/
+last_modified_at: 2026-10-27
 ---
 
 # Temoporfin News
@@ -27,16 +28,16 @@ This page combines the AI-predicted indications for Temoporfin with the latest h
 <li><strong>Original indication</strong>: Other predictions in the top 10 list (all also without direct clinical trial support) are:</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Nasopharyngeal teratoma (99.8%)</li>
-<li>Odontogenic cyst (99.8%)</li>
-<li>Pre-malignant neoplasm (99.8%)</li>
-<li>Epiglottis neoplasm (99.8%)</li>
-<li>Tumor of testis and paratestis (99.8%)</li>
-<li>Cystic neoplasm (99.8%)</li>
-<li>Benign neoplasm of floor of mouth (99.8%)</li>
-<li>Benign neoplasm of tongue (99.8%)</li>
-<li>Benign neoplasm of hypopharynx (99.8%)</li>
-<li>Cervical neuroblastoma (99.8%)</li>
+<li>Nasopharyngeal teratoma</li>
+<li>Odontogenic cyst</li>
+<li>Pre-malignant neoplasm</li>
+<li>Epiglottis neoplasm</li>
+<li>Tumor of testis and paratestis</li>
+<li>Cystic neoplasm</li>
+<li>Benign neoplasm of floor of mouth</li>
+<li>Benign neoplasm of tongue</li>
+<li>Benign neoplasm of hypopharynx</li>
+<li>Cervical neuroblastoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temoporfin/' | relative_url }}">View full drug report →</a></p>

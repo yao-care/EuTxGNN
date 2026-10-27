@@ -3,8 +3,9 @@ layout: default
 title: "Ospemifene News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ospemifene. Original indication: . 1 predicted indications."
+description: "Health news related to Ospemifene. 1 predicted indications."
 permalink: /news/ospemifene/
+last_modified_at: 2026-10-27
 ---
 
 # Ospemifene News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ospemifene with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Leprosy (99.0%)</li>
+<li>Leprosy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ospemifene/' | relative_url }}">View full drug report →</a></p>

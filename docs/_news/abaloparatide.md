@@ -3,8 +3,9 @@ layout: default
 title: "Abaloparatide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Abaloparatide. Original indication: . 1 predicted indications."
+description: "Health news related to Abaloparatide. 1 predicted indications."
 permalink: /news/abaloparatide/
+last_modified_at: 2026-10-27
 ---
 
 # Abaloparatide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Abaloparatide with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Non-syndromic esophageal malformation (99.8%)</li>
+<li>Non-syndromic esophageal malformation</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abaloparatide/' | relative_url }}">View full drug report →</a></p>

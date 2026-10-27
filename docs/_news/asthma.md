@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about asthma. 1 articles, 47 related drugs."
 permalink: /news/asthma/
+last_modified_at: 2026-10-27
 ---
 
 # asthma News

@@ -3,8 +3,9 @@ layout: default
 title: "Orlistat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Orlistat. Original indication: . 1 predicted indications."
+description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
+last_modified_at: 2026-10-27
 ---
 
 # Orlistat News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hypervitaminosis (99.4%)</li>
+<li>Hypervitaminosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>

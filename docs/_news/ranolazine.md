@@ -3,8 +3,9 @@ layout: default
 title: "Ranolazine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ranolazine. Original indication: . 1 predicted indications."
+description: "Health news related to Ranolazine. 1 predicted indications."
 permalink: /news/ranolazine/
+last_modified_at: 2026-10-27
 ---
 
 # Ranolazine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ranolazine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Nephrogenic syndrome of inappropriate antidiuresis (99.7%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranolazine/' | relative_url }}">View full drug report →</a></p>

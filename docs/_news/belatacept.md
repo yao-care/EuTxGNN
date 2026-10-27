@@ -3,8 +3,9 @@ layout: default
 title: "Belatacept News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Belatacept. Original indication: . 7 predicted indications."
+description: "Health news related to Belatacept. 7 predicted indications."
 permalink: /news/belatacept/
+last_modified_at: 2026-10-27
 ---
 
 # Belatacept News
@@ -26,13 +27,13 @@ This page combines the AI-predicted indications for Belatacept with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
-<li>Plasma cell myeloma (97.0%)</li>
-<li>Indolent plasma cell myeloma (96.9%)</li>
-<li>Relapsing-remitting multiple sclerosis (96.8%)</li>
-<li>Crohn's colitis (96.2%)</li>
-<li>Heart disease (94.6%)</li>
-<li>Hyperthyroidism (93.8%)</li>
-<li>Colonic neoplasm (93.6%)</li>
+<li>Plasma cell myeloma</li>
+<li>Indolent plasma cell myeloma</li>
+<li>Relapsing-remitting multiple sclerosis</li>
+<li>Crohn's colitis</li>
+<li>Heart disease</li>
+<li>Hyperthyroidism</li>
+<li>Colonic neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/belatacept/' | relative_url }}">View full drug report →</a></p>

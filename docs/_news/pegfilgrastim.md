@@ -3,8 +3,9 @@ layout: default
 title: "Pegfilgrastim News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pegfilgrastim. Original indication: . 1 predicted indications."
+description: "Health news related to Pegfilgrastim. 1 predicted indications."
 permalink: /news/pegfilgrastim/
+last_modified_at: 2026-10-27
 ---
 
 # Pegfilgrastim News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Pegfilgrastim with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Severe nonproliferative diabetic retinopathy (99.9%)</li>
+<li>Severe nonproliferative diabetic retinopathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegfilgrastim/' | relative_url }}">View full drug report →</a></p>

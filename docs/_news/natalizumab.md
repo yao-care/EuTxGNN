@@ -3,8 +3,9 @@ layout: default
 title: "Natalizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Natalizumab. Original indication: . 10 predicted indications."
+description: "Health news related to Natalizumab. 10 predicted indications."
 permalink: /news/natalizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Natalizumab News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Bronchitis (99.5%)</li>
-<li>Parapsoriasis (99.4%)</li>
-<li>Psoriasis (99.2%)</li>
-<li>Severe nonproliferative diabetic retinopathy (99.2%)</li>
-<li>Acute lichenoid pityriasis (99.0%)</li>
-<li>Pityriasis lichenoides (98.7%)</li>
-<li>Penile fibromatosis (98.4%)</li>
-<li>Pustulosis palmaris et plantaris (98.3%)</li>
-<li>Dermatitis (98.2%)</li>
-<li>Neonatal dermatomyositis (97.7%)</li>
+<li>Bronchitis</li>
+<li>Parapsoriasis</li>
+<li>Psoriasis</li>
+<li>Severe nonproliferative diabetic retinopathy</li>
+<li>Acute lichenoid pityriasis</li>
+<li>Pityriasis lichenoides</li>
+<li>Penile fibromatosis</li>
+<li>Pustulosis palmaris et plantaris</li>
+<li>Dermatitis</li>
+<li>Neonatal dermatomyositis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>

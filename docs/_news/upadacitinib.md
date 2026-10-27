@@ -3,8 +3,9 @@ layout: default
 title: "Upadacitinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Upadacitinib. Original indication: . 1 predicted indications."
+description: "Health news related to Upadacitinib. 1 predicted indications."
 permalink: /news/upadacitinib/
+last_modified_at: 2026-10-27
 ---
 
 # Upadacitinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Upadacitinib with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/upadacitinib/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Apremilast News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Apremilast. Original indication: . 1 predicted indications."
+description: "Health news related to Apremilast. 1 predicted indications."
 permalink: /news/apremilast/
+last_modified_at: 2026-10-27
 ---
 
 # Apremilast News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Migraine disorder (98.7%)</li>
+<li>Migraine disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>

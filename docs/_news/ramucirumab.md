@@ -3,8 +3,9 @@ layout: default
 title: "Ramucirumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ramucirumab. Original indication: . 1 predicted indications."
+description: "Health news related to Ramucirumab. 1 predicted indications."
 permalink: /news/ramucirumab/
+last_modified_at: 2026-10-27
 ---
 
 # Ramucirumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Uterine ligament adenocarcinoma (100.0%)</li>
+<li>Uterine ligament adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>

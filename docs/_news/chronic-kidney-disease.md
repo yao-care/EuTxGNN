@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about chronische Nierenerkrankung (chronic kidney disease). 1 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
+last_modified_at: 2026-10-27
 ---
 
 # chronische Nierenerkrankung (chronic kidney disease) News

@@ -3,8 +3,9 @@ layout: default
 title: "Temozolomide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Temozolomide. Original indication: . 1 predicted indications."
+description: "Health news related to Temozolomide. 1 predicted indications."
 permalink: /news/temozolomide/
+last_modified_at: 2026-10-27
 ---
 
 # Temozolomide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Temozolomide with the latest
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Adult astrocytic tumour (99.4%)</li>
+<li>Adult astrocytic tumour</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">View full drug report →</a></p>

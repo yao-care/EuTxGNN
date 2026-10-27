@@ -3,8 +3,9 @@ layout: default
 title: "Erlotinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Erlotinib. Original indication: . 1 predicted indications."
+description: "Health news related to Erlotinib. 1 predicted indications."
 permalink: /news/erlotinib/
+last_modified_at: 2026-10-27
 ---
 
 # Erlotinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Erlotinib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ewing sarcoma (95.8%)</li>
+<li>Ewing sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Prilocaine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Prilocaine. Original indication: . 1 predicted indications."
+description: "Health news related to Prilocaine. 1 predicted indications."
 permalink: /news/prilocaine/
+last_modified_at: 2026-10-27
 ---
 
 # Prilocaine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Papillary conjunctivitis (top-ranked prediction); neuralgia is the best-supported candidate (99.8%)</li>
+<li>Papillary conjunctivitis (top-ranked prediction); neuralgia is the best-supported candidate</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>

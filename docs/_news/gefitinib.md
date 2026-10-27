@@ -3,8 +3,9 @@ layout: default
 title: "Gefitinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Gefitinib. Original indication: . 1 predicted indications."
+description: "Health news related to Gefitinib. 1 predicted indications."
 permalink: /news/gefitinib/
+last_modified_at: 2026-10-27
 ---
 
 # Gefitinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Gefitinib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Fibromatosis, gingival (99.9%)</li>
+<li>Fibromatosis, gingival</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">View full drug report →</a></p>

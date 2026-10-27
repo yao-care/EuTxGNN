@@ -3,8 +3,9 @@ layout: default
 title: "Pregabalin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pregabalin. Original indication: . 6 predicted indications."
+description: "Health news related to Pregabalin. 6 predicted indications."
 permalink: /news/pregabalin/
+last_modified_at: 2026-10-27
 ---
 
 # Pregabalin News
@@ -26,12 +27,12 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Tendinitis (99.7%)</li>
-<li>Osteoarthritis (98.6%)</li>
-<li>Headache disorder (97.6%)</li>
-<li>Migraine disorder (99.5%)</li>
-<li>Migraine with brainstem aura (99.4%)</li>
-<li>Inclusion body myositis (99.5%)</li>
+<li>Tendinitis</li>
+<li>Osteoarthritis</li>
+<li>Headache disorder</li>
+<li>Migraine disorder</li>
+<li>Migraine with brainstem aura</li>
+<li>Inclusion body myositis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>

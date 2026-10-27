@@ -3,8 +3,9 @@ layout: default
 title: "Ivosidenib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ivosidenib. Original indication: . 1 predicted indications."
+description: "Health news related to Ivosidenib. 1 predicted indications."
 permalink: /news/ivosidenib/
+last_modified_at: 2026-10-27
 ---
 
 # Ivosidenib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ivosidenib with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Bulbar polio (rank 1) (99.3%)</li>
+<li>Bulbar polio (rank 1)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivosidenib/' | relative_url }}">View full drug report →</a></p>

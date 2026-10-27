@@ -3,8 +3,9 @@ layout: default
 title: "Naltrexone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Naltrexone. Original indication: . 4 predicted indications."
+description: "Health news related to Naltrexone. 4 predicted indications."
 permalink: /news/naltrexone/
+last_modified_at: 2026-10-27
 ---
 
 # Naltrexone News
@@ -26,10 +27,10 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
-<li>Hypervitaminosis (98.7%)</li>
-<li>Proximal 16p11.2 microdeletion syndrome (98.1%)</li>
-<li>Restless legs syndrome (92.2%)</li>
-<li>ADHD, inattentive type (62.2%)</li>
+<li>Hypervitaminosis</li>
+<li>Proximal 16p11.2 microdeletion syndrome</li>
+<li>Restless legs syndrome</li>
+<li>ADHD, inattentive type</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>

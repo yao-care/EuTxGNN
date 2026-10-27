@@ -3,8 +3,9 @@ layout: default
 title: "Dronedarone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dronedarone. Original indication: . 1 predicted indications."
+description: "Health news related to Dronedarone. 1 predicted indications."
 permalink: /news/dronedarone/
+last_modified_at: 2026-10-27
 ---
 
 # Dronedarone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Stroke disorder (100.0%)</li>
+<li>Stroke disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Tacrolimus News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tacrolimus. Original indication: . 1 predicted indications."
+description: "Health news related to Tacrolimus. 1 predicted indications."
 permalink: /news/tacrolimus/
+last_modified_at: 2026-10-27
 ---
 
 # Tacrolimus News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Seborrheic dermatitis (99.3%)</li>
+<li>Seborrheic dermatitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>

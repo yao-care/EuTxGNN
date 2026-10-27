@@ -3,8 +3,9 @@ layout: default
 title: "Pegaspargase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pegaspargase. Original indication: . 1 predicted indications."
+description: "Health news related to Pegaspargase. 1 predicted indications."
 permalink: /news/pegaspargase/
+last_modified_at: 2026-10-27
 ---
 
 # Pegaspargase News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Pegaspargase with the latest
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Precursor lymphoblastic lymphoma/leukemia (100.0%)</li>
+<li>Precursor lymphoblastic lymphoma/leukemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaspargase/' | relative_url }}">View full drug report →</a></p>

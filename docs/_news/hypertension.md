@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
 permalink: /news/hypertension/
+last_modified_at: 2026-10-27
 ---
 
 # Bluthochdruck (hypertension) News

@@ -3,8 +3,9 @@ layout: default
 title: "Nelarabine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nelarabine. Original indication: . 4 predicted indications."
+description: "Health news related to Nelarabine. 4 predicted indications."
 permalink: /news/nelarabine/
+last_modified_at: 2026-10-27
 ---
 
 # Nelarabine News
@@ -26,10 +27,10 @@ This page combines the AI-predicted indications for Nelarabine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
-<li>Relapsing-remitting multiple sclerosis (99.4%)</li>
-<li>Hodgkin lymphoma (98.2%)</li>
-<li>Chronic lymphocytic leukaemia/small lymphocytic lymphoma (two entries) (98.7%)</li>
-<li>Pancreatic adenocarcinoma (98.1%)</li>
+<li>Relapsing-remitting multiple sclerosis</li>
+<li>Hodgkin lymphoma</li>
+<li>Chronic lymphocytic leukaemia/small lymphocytic lymphoma (two entries)</li>
+<li>Pancreatic adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nelarabine/' | relative_url }}">View full drug report →</a></p>

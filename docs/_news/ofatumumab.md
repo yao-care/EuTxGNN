@@ -3,8 +3,9 @@ layout: default
 title: "Ofatumumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ofatumumab. Original indication: . 1 predicted indications."
+description: "Health news related to Ofatumumab. 1 predicted indications."
 permalink: /news/ofatumumab/
+last_modified_at: 2026-10-27
 ---
 
 # Ofatumumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ofatumumab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.8%)</li>
+<li>Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ofatumumab/' | relative_url }}">View full drug report →</a></p>

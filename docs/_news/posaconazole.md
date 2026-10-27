@@ -3,8 +3,9 @@ layout: default
 title: "Posaconazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Posaconazole. Original indication: . 1 predicted indications."
+description: "Health news related to Posaconazole. 1 predicted indications."
 permalink: /news/posaconazole/
+last_modified_at: 2026-10-27
 ---
 
 # Posaconazole News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Posaconazole with the latest
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pneumocystosis (99.8%)</li>
+<li>Pneumocystosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">View full drug report →</a></p>

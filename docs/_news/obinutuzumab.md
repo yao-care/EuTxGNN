@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Obinutuzumab. Original indication: This is not a true repurposing opportunity. No tri.... 1 predicted indications."
 permalink: /news/obinutuzumab/
+last_modified_at: 2026-10-27
 ---
 
 # Obinutuzumab News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Obinutuzumab with the latest
 <li><strong>Original indication</strong>: This is not a true repurposing opportunity. No trials or publications specific to this subtype were found, and the high TxGNN score reflects a model prediction rather than new clinical evidence.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.2%)</li>
+<li>Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/obinutuzumab/' | relative_url }}">View full drug report →</a></p>

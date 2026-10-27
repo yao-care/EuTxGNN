@@ -3,8 +3,9 @@ layout: default
 title: "Diflunisal News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Diflunisal. Original indication: . 1 predicted indications."
+description: "Health news related to Diflunisal. 1 predicted indications."
 permalink: /news/diflunisal/
+last_modified_at: 2026-10-27
 ---
 
 # Diflunisal News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Diflunisal with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acromesomelic dysplasia, Hunter-Thompson type (top-ranked prediction) (100.0%)</li>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (top-ranked prediction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diflunisal/' | relative_url }}">View full drug report →</a></p>

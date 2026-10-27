@@ -3,8 +3,9 @@ layout: default
 title: "Artesunate News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Artesunate. Original indication: . 10 predicted indications."
+description: "Health news related to Artesunate. 10 predicted indications."
 permalink: /news/artesunate/
+last_modified_at: 2026-10-27
 ---
 
 # Artesunate News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Artesunate with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Acne (disease) (79.2%)</li>
-<li>Smouldering systemic mastocytosis (79.2%)</li>
-<li>Lymphoadenopathic mastocytosis with eosinophilia (77.3%)</li>
-<li>Gastrin secretion abnormality (76.7%)</li>
-<li>Systemic mastocytosis (71.4%)</li>
-<li>Leishmaniasis, diffuse cutaneous (66.2%)</li>
-<li>Abnormality of glucagon secretion (61.8%)</li>
-<li>Pyogenic arthritis-pyoderma gangrenosum-acne syndrome (59.7%)</li>
-<li>Wiskott-Aldrich syndrome 2 (59.4%)</li>
-<li>Alacrima, achalasia, and intellectual disability syndrome (59.3%)</li>
+<li>Acne (disease)</li>
+<li>Smouldering systemic mastocytosis</li>
+<li>Lymphoadenopathic mastocytosis with eosinophilia</li>
+<li>Gastrin secretion abnormality</li>
+<li>Systemic mastocytosis</li>
+<li>Leishmaniasis, diffuse cutaneous</li>
+<li>Abnormality of glucagon secretion</li>
+<li>Pyogenic arthritis-pyoderma gangrenosum-acne syndrome</li>
+<li>Wiskott-Aldrich syndrome 2</li>
+<li>Alacrima, achalasia, and intellectual disability syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artesunate/' | relative_url }}">View full drug report →</a></p>

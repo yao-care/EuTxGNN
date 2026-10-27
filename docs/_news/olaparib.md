@@ -3,8 +3,9 @@ layout: default
 title: "Olaparib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Olaparib. Original indication: . 1 predicted indications."
+description: "Health news related to Olaparib. 1 predicted indications."
 permalink: /news/olaparib/
+last_modified_at: 2026-10-27
 ---
 
 # Olaparib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Olaparib with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (99.1%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olaparib/' | relative_url }}">View full drug report →</a></p>

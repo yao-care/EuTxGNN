@@ -3,8 +3,9 @@ layout: default
 title: "Levodopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Levodopa. Original indication: . 6 predicted indications."
+description: "Health news related to Levodopa. 6 predicted indications."
 permalink: /news/levodopa/
+last_modified_at: 2026-10-27
 ---
 
 # Levodopa News
@@ -26,12 +27,12 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Rasmussen subacute encephalitis (99.1%)</li>
-<li>Multiple system atrophy, parkinsonian type (97.0%)</li>
-<li>PLA2G6-associated neurodegeneration (98.8%)</li>
-<li>Lewy body dementia (97.2%)</li>
-<li>Paralysis agitans, juvenile, of Hunt (98.0%)</li>
-<li>X-linked intellectual disability-ataxia-apraxia syndrome (96.5%)</li>
+<li>Rasmussen subacute encephalitis</li>
+<li>Multiple system atrophy, parkinsonian type</li>
+<li>PLA2G6-associated neurodegeneration</li>
+<li>Lewy body dementia</li>
+<li>Paralysis agitans, juvenile, of Hunt</li>
+<li>X-linked intellectual disability-ataxia-apraxia syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>

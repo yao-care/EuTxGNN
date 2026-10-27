@@ -3,8 +3,9 @@ layout: default
 title: "Denosumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Denosumab. Original indication: . 1 predicted indications."
+description: "Health news related to Denosumab. 1 predicted indications."
 permalink: /news/denosumab/
+last_modified_at: 2026-10-27
 ---
 
 # Denosumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Severe nonproliferative diabetic retinopathy (99.6%)</li>
+<li>Severe nonproliferative diabetic retinopathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>

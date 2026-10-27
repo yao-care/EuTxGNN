@@ -3,8 +3,9 @@ layout: default
 title: "Ocrelizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ocrelizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Ocrelizumab. 1 predicted indications."
 permalink: /news/ocrelizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Ocrelizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ocrelizumab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>HER2 positive breast carcinoma (99.9%)</li>
+<li>HER2 positive breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ocrelizumab/' | relative_url }}">View full drug report →</a></p>

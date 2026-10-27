@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about MS (multiple sclerosis). 15 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
+last_modified_at: 2026-10-27
 ---
 
 # MS (multiple sclerosis) News

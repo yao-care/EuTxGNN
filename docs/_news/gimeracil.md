@@ -3,8 +3,9 @@ layout: default
 title: "Gimeracil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Gimeracil. Original indication: . 1 predicted indications."
+description: "Health news related to Gimeracil. 1 predicted indications."
 permalink: /news/gimeracil/
+last_modified_at: 2026-10-27
 ---
 
 # Gimeracil News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Gimeracil with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Colonic neoplasm (99.9%)</li>
+<li>Colonic neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gimeracil/' | relative_url }}">View full drug report →</a></p>

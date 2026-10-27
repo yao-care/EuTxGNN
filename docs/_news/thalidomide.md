@@ -3,8 +3,9 @@ layout: default
 title: "Thalidomide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Thalidomide. Original indication: . 7 predicted indications."
+description: "Health news related to Thalidomide. 7 predicted indications."
 permalink: /news/thalidomide/
+last_modified_at: 2026-10-27
 ---
 
 # Thalidomide News
@@ -26,13 +27,13 @@ This page combines the AI-predicted indications for Thalidomide with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
-<li>Ganglioneuroblastoma (99.0%)</li>
-<li>Neuroblastoma (98.7%)</li>
-<li>Rheumatoid arthritis (92.4%)</li>
-<li>Myeloid leukemia (90.5%)</li>
-<li>Indolent plasma cell myeloma (88.5%)</li>
-<li>Retroperitoneal neoplasm (98.7%)</li>
-<li>Acute lymphoblastic leukemia (74.8%)</li>
+<li>Ganglioneuroblastoma</li>
+<li>Neuroblastoma</li>
+<li>Rheumatoid arthritis</li>
+<li>Myeloid leukemia</li>
+<li>Indolent plasma cell myeloma</li>
+<li>Retroperitoneal neoplasm</li>
+<li>Acute lymphoblastic leukemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/thalidomide/' | relative_url }}">View full drug report →</a></p>

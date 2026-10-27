@@ -3,8 +3,9 @@ layout: default
 title: "Tigecycline News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tigecycline. Original indication: . 1 predicted indications."
+description: "Health news related to Tigecycline. 1 predicted indications."
 permalink: /news/tigecycline/
+last_modified_at: 2026-10-27
 ---
 
 # Tigecycline News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Tigecycline with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Disorder of tyrosine metabolism (95.8%)</li>
+<li>Disorder of tyrosine metabolism</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tigecycline/' | relative_url }}">View full drug report →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Paclitaxel. Original indication: The other predicted indications are mostly subtype.... 1 predicted indications."
 permalink: /news/paclitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Paclitaxel News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <li><strong>Original indication</strong>: The other predicted indications are mostly subtypes or presentations of breast cancer (ER-negative, ER-positive, hormone-resistant, bilateral, nipple carcinoma). Ehrlich tumor carcinoma is an animal...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (100.0%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>

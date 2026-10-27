@@ -3,8 +3,9 @@ layout: default
 title: "Alirocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alirocumab. Original indication: . 1 predicted indications."
+description: "Health news related to Alirocumab. 1 predicted indications."
 permalink: /news/alirocumab/
+last_modified_at: 2026-10-27
 ---
 
 # Alirocumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>
+<li>Ichthyosis, X-linked, without steroid sulfatase deficiency</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>

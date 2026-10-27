@@ -3,8 +3,9 @@ layout: default
 title: "Simvastatin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Simvastatin. Original indication: . 1 predicted indications."
+description: "Health news related to Simvastatin. 1 predicted indications."
 permalink: /news/simvastatin/
+last_modified_at: 2026-10-27
 ---
 
 # Simvastatin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Familial hypercholesterolemia (99.6%)</li>
+<li>Familial hypercholesterolemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>

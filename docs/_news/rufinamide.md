@@ -3,8 +3,9 @@ layout: default
 title: "Rufinamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rufinamide. Original indication: . 1 predicted indications."
+description: "Health news related to Rufinamide. 1 predicted indications."
 permalink: /news/rufinamide/
+last_modified_at: 2026-10-27
 ---
 
 # Rufinamide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Rufinamide with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Febrile infection-related epilepsy syndrome (99.6%)</li>
+<li>Febrile infection-related epilepsy syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rufinamide/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Darunavir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Darunavir. Original indication: . 1 predicted indications."
+description: "Health news related to Darunavir. 1 predicted indications."
 permalink: /news/darunavir/
+last_modified_at: 2026-10-27
 ---
 
 # Darunavir News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Darunavir with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Feline acquired immunodeficiency syndrome (100.0%)</li>
+<li>Feline acquired immunodeficiency syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darunavir/' | relative_url }}">View full drug report →</a></p>

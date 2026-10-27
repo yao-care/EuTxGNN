@@ -3,8 +3,9 @@ layout: default
 title: "Daunorubicin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Daunorubicin. Original indication: . 1 predicted indications."
+description: "Health news related to Daunorubicin. 1 predicted indications."
 permalink: /news/daunorubicin/
+last_modified_at: 2026-10-27
 ---
 
 # Daunorubicin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Daunorubicin with the latest
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hodgkin's lymphoma (99.8%)</li>
+<li>Hodgkin's lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daunorubicin/' | relative_url }}">View full drug report →</a></p>

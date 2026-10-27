@@ -3,8 +3,9 @@ layout: default
 title: "Idarucizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Idarucizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Idarucizumab. 1 predicted indications."
 permalink: /news/idarucizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Idarucizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Idarucizumab with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hemoglobinopathy (95.7%)</li>
+<li>Hemoglobinopathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/idarucizumab/' | relative_url }}">View full drug report →</a></p>

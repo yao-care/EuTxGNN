@@ -3,8 +3,9 @@ layout: default
 title: "Ibrutinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ibrutinib. Original indication: . 1 predicted indications."
+description: "Health news related to Ibrutinib. 1 predicted indications."
 permalink: /news/ibrutinib/
+last_modified_at: 2026-10-27
 ---
 
 # Ibrutinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ibrutinib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Polyclonal hypergammaglobulinemia (91.8%)</li>
+<li>Polyclonal hypergammaglobulinemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibrutinib/' | relative_url }}">View full drug report →</a></p>

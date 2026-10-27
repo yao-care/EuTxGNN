@@ -3,8 +3,9 @@ layout: default
 title: "Risperidone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Risperidone. Original indication: . 1 predicted indications."
+description: "Health news related to Risperidone. 1 predicted indications."
 permalink: /news/risperidone/
+last_modified_at: 2026-10-27
 ---
 
 # Risperidone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Risperidone with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
+<li>Gaze palsy, familial horizontal, with progressive scoliosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">View full drug report →</a></p>

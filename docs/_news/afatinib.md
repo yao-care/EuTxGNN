@@ -3,8 +3,9 @@ layout: default
 title: "Afatinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Afatinib. Original indication: . 1 predicted indications."
+description: "Health news related to Afatinib. 1 predicted indications."
 permalink: /news/afatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Afatinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Afatinib with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>HER2 positive breast carcinoma (98.7%)</li>
+<li>HER2 positive breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/afatinib/' | relative_url }}">View full drug report →</a></p>

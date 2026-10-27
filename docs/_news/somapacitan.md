@@ -3,8 +3,9 @@ layout: default
 title: "Somapacitan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Somapacitan. Original indication: . 1 predicted indications."
+description: "Health news related to Somapacitan. 1 predicted indications."
 permalink: /news/somapacitan/
+last_modified_at: 2026-10-27
 ---
 
 # Somapacitan News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Somapacitan with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Allergic asthma (95.7%)</li>
+<li>Allergic asthma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/somapacitan/' | relative_url }}">View full drug report →</a></p>

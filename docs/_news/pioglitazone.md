@@ -3,8 +3,9 @@ layout: default
 title: "Pioglitazone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pioglitazone. Original indication: . 6 predicted indications."
+description: "Health news related to Pioglitazone. 6 predicted indications."
 permalink: /news/pioglitazone/
+last_modified_at: 2026-10-27
 ---
 
 # Pioglitazone News
@@ -26,12 +27,12 @@ This page combines the AI-predicted indications for Pioglitazone with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Opsismodysplasia (99.6%)</li>
-<li>Classic stiff person syndrome (99.5%)</li>
-<li>Focal stiff limb syndrome (99.5%)</li>
-<li>Thiamine-responsive dysfunction syndrome (99.5%)</li>
-<li>Pancreatic agenesis (99.2%)</li>
-<li>Autoimmune oophoritis (98.1%)</li>
+<li>Opsismodysplasia</li>
+<li>Classic stiff person syndrome</li>
+<li>Focal stiff limb syndrome</li>
+<li>Thiamine-responsive dysfunction syndrome</li>
+<li>Pancreatic agenesis</li>
+<li>Autoimmune oophoritis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">View full drug report →</a></p>

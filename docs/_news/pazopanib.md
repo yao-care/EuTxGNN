@@ -3,8 +3,9 @@ layout: default
 title: "Pazopanib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pazopanib. Original indication: . 1 predicted indications."
+description: "Health news related to Pazopanib. 1 predicted indications."
 permalink: /news/pazopanib/
+last_modified_at: 2026-10-27
 ---
 
 # Pazopanib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Pazopanib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Unclassified renal cell carcinoma (99.6%)</li>
+<li>Unclassified renal cell carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pazopanib/' | relative_url }}">View full drug report →</a></p>

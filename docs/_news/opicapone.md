@@ -3,8 +3,9 @@ layout: default
 title: "Opicapone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Opicapone. Original indication: . 1 predicted indications."
+description: "Health news related to Opicapone. 1 predicted indications."
 permalink: /news/opicapone/
+last_modified_at: 2026-10-27
 ---
 
 # Opicapone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Opicapone with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Rasmussen subacute encephalitis (98.6%)</li>
+<li>Rasmussen subacute encephalitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/opicapone/' | relative_url }}">View full drug report →</a></p>

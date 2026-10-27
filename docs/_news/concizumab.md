@@ -3,8 +3,9 @@ layout: default
 title: "Concizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Concizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Concizumab. 1 predicted indications."
 permalink: /news/concizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Concizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Concizumab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Diabetic cataract (98.3%)</li>
+<li>Diabetic cataract</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/concizumab/' | relative_url }}">View full drug report →</a></p>

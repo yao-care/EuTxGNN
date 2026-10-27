@@ -3,8 +3,9 @@ layout: default
 title: "Guanfacine Hydrochloride News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Guanfacine Hydrochloride. Original indication: . 0 predicted indications."
+description: "Health news related to Guanfacine Hydrochloride. 0 predicted indications."
 permalink: /news/guanfacine-hydrochloride/
+last_modified_at: 2026-10-27
 ---
 
 # Guanfacine Hydrochloride News

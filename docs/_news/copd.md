@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about copd. 1 articles, 26 related drugs."
 permalink: /news/copd/
+last_modified_at: 2026-10-27
 ---
 
 # copd News

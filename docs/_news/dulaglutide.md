@@ -3,8 +3,9 @@ layout: default
 title: "Dulaglutide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dulaglutide. Original indication: . 1 predicted indications."
+description: "Health news related to Dulaglutide. 1 predicted indications."
 permalink: /news/dulaglutide/
+last_modified_at: 2026-10-27
 ---
 
 # Dulaglutide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dulaglutide with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Opsismodysplasia (97.0%)</li>
+<li>Opsismodysplasia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dulaglutide/' | relative_url }}">View full drug report →</a></p>

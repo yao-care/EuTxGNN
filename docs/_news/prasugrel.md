@@ -3,8 +3,9 @@ layout: default
 title: "Prasugrel News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Prasugrel. Original indication: . 1 predicted indications."
+description: "Health news related to Prasugrel. 1 predicted indications."
 permalink: /news/prasugrel/
+last_modified_at: 2026-10-27
 ---
 
 # Prasugrel News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Prasugrel with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pulmonary hypertension (99.9%)</li>
+<li>Pulmonary hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">View full drug report →</a></p>

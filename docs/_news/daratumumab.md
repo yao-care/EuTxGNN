@@ -3,8 +3,9 @@ layout: default
 title: "Daratumumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Daratumumab. Original indication: . 1 predicted indications."
+description: "Health news related to Daratumumab. 1 predicted indications."
 permalink: /news/daratumumab/
+last_modified_at: 2026-10-27
 ---
 
 # Daratumumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Daratumumab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Indolent plasma cell myeloma (98.1%)</li>
+<li>Indolent plasma cell myeloma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daratumumab/' | relative_url }}">View full drug report →</a></p>

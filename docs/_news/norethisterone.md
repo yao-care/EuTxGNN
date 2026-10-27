@@ -3,8 +3,9 @@ layout: default
 title: "Norethisterone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Norethisterone. Original indication: . 1 predicted indications."
+description: "Health news related to Norethisterone. 1 predicted indications."
 permalink: /news/norethisterone/
+last_modified_at: 2026-10-27
 ---
 
 # Norethisterone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Norethisterone with the late
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Amenorrhea (99.6%)</li>
+<li>Amenorrhea</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norethisterone/' | relative_url }}">View full drug report →</a></p>

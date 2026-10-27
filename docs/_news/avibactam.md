@@ -3,8 +3,9 @@ layout: default
 title: "Avibactam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avibactam. Original indication: . 1 predicted indications."
+description: "Health news related to Avibactam. 1 predicted indications."
 permalink: /news/avibactam/
+last_modified_at: 2026-10-27
 ---
 
 # Avibactam News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Avibactam with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Streptococcal pneumonia (99.7%)</li>
+<li>Streptococcal pneumonia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avibactam/' | relative_url }}">View full drug report →</a></p>

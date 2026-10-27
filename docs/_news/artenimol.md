@@ -3,8 +3,9 @@ layout: default
 title: "Artenimol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Artenimol. Original indication: . 10 predicted indications."
+description: "Health news related to Artenimol. 10 predicted indications."
 permalink: /news/artenimol/
+last_modified_at: 2026-10-27
 ---
 
 # Artenimol News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Artenimol with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Smouldering systemic mastocytosis (98.7%)</li>
-<li>Lymphoadenopathic mastocytosis with eosinophilia (98.4%)</li>
-<li>Systemic mastocytosis (98.3%)</li>
-<li>*Plasmodium vivax* malaria (97.3%)</li>
-<li>Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (97.2%)</li>
-<li>Juvenile chronic polyarthritis (96.6%)</li>
-<li>Rheumatoid nodulosis (96.6%)</li>
-<li>Juvenile idiopathic arthritis (96.6%)</li>
-<li>West syndrome (96.3%)</li>
-<li>X-linked intellectual disability (ARX-related), with or without seizures (95.9%)</li>
+<li>Smouldering systemic mastocytosis</li>
+<li>Lymphoadenopathic mastocytosis with eosinophilia</li>
+<li>Systemic mastocytosis</li>
+<li>*Plasmodium vivax* malaria</li>
+<li>Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis</li>
+<li>Juvenile chronic polyarthritis</li>
+<li>Rheumatoid nodulosis</li>
+<li>Juvenile idiopathic arthritis</li>
+<li>West syndrome</li>
+<li>X-linked intellectual disability (ARX-related), with or without seizures</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artenimol/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Roxadustat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Roxadustat. Original indication: . 1 predicted indications."
+description: "Health news related to Roxadustat. 1 predicted indications."
 permalink: /news/roxadustat/
+last_modified_at: 2026-10-27
 ---
 
 # Roxadustat News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Roxadustat with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dry eye syndrome (99.5%)</li>
+<li>Dry eye syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/roxadustat/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Givosiran News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Givosiran. Original indication: . 1 predicted indications."
+description: "Health news related to Givosiran. 1 predicted indications."
 permalink: /news/givosiran/
+last_modified_at: 2026-10-27
 ---
 
 # Givosiran News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hepatopulmonary syndrome (100.0%)</li>
+<li>Hepatopulmonary syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Bexarotene News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bexarotene. Original indication: . 7 predicted indications."
+description: "Health news related to Bexarotene. 7 predicted indications."
 permalink: /news/bexarotene/
+last_modified_at: 2026-10-27
 ---
 
 # Bexarotene News
@@ -26,13 +27,13 @@ This page combines the AI-predicted indications for Bexarotene with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
-<li>Primary cutaneous B-cell lymphoma (99.4%)</li>
-<li>Sezary syndrome (99.3%)</li>
-<li>Lymphosarcoma (99.1%)</li>
-<li>Lymph node cancer (98.9%)</li>
-<li>Granulomatous slack skin disease (98.6%)</li>
-<li>Folliculotropic mycosis fungoides (96.7%)</li>
-<li>Myelodysplastic syndrome (95.0%)</li>
+<li>Primary cutaneous B-cell lymphoma</li>
+<li>Sezary syndrome</li>
+<li>Lymphosarcoma</li>
+<li>Lymph node cancer</li>
+<li>Granulomatous slack skin disease</li>
+<li>Folliculotropic mycosis fungoides</li>
+<li>Myelodysplastic syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bexarotene/' | relative_url }}">View full drug report →</a></p>

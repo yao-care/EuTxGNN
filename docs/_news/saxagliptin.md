@@ -3,8 +3,9 @@ layout: default
 title: "Saxagliptin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Saxagliptin. Original indication: . 1 predicted indications."
+description: "Health news related to Saxagliptin. 1 predicted indications."
 permalink: /news/saxagliptin/
+last_modified_at: 2026-10-27
 ---
 
 # Saxagliptin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Saxagliptin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Opsismodysplasia (98.1%)</li>
+<li>Opsismodysplasia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/saxagliptin/' | relative_url }}">View full drug report →</a></p>

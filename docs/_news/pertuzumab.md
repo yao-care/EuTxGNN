@@ -3,8 +3,9 @@ layout: default
 title: "Pertuzumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pertuzumab. Original indication: . 1 predicted indications."
+description: "Health news related to Pertuzumab. 1 predicted indications."
 permalink: /news/pertuzumab/
+last_modified_at: 2026-10-27
 ---
 
 # Pertuzumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Pertuzumab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Progesterone-receptor positive breast cancer (99.9%)</li>
+<li>Progesterone-receptor positive breast cancer</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pertuzumab/' | relative_url }}">View full drug report →</a></p>

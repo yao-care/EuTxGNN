@@ -3,8 +3,9 @@ layout: default
 title: "Baricitinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Baricitinib. Original indication: . 1 predicted indications."
+description: "Health news related to Baricitinib. 1 predicted indications."
 permalink: /news/baricitinib/
+last_modified_at: 2026-10-27
 ---
 
 # Baricitinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Baricitinib with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.9%)</li>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baricitinib/' | relative_url }}">View full drug report →</a></p>

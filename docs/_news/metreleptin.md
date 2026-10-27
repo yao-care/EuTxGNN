@@ -3,8 +3,9 @@ layout: default
 title: "Metreleptin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Metreleptin. Original indication: . 1 predicted indications."
+description: "Health news related to Metreleptin. 1 predicted indications."
 permalink: /news/metreleptin/
+last_modified_at: 2026-10-27
 ---
 
 # Metreleptin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Metreleptin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Familial generalized lentiginosis (99.7%)</li>
+<li>Familial generalized lentiginosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metreleptin/' | relative_url }}">View full drug report →</a></p>

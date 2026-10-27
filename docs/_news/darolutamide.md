@@ -3,8 +3,9 @@ layout: default
 title: "Darolutamide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Darolutamide. Original indication: . 1 predicted indications."
+description: "Health news related to Darolutamide. 1 predicted indications."
 permalink: /news/darolutamide/
+last_modified_at: 2026-10-27
 ---
 
 # Darolutamide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Darolutamide with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Homozygous familial hypercholesterolemia (99.1%)</li>
+<li>Homozygous familial hypercholesterolemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darolutamide/' | relative_url }}">View full drug report →</a></p>

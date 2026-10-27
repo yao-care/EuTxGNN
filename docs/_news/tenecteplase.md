@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tenecteplase. Original indication: Because no trials or literature specific to this s.... 1 predicted indications."
 permalink: /news/tenecteplase/
+last_modified_at: 2026-10-27
 ---
 
 # Tenecteplase News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <li><strong>Original indication</strong>: Because no trials or literature specific to this subtype were provided, the support is indirect. A closely related prediction, posteroinferior myocardial infarction (score 99.87%), has the same...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Posterolateral myocardial infarction (99.9%)</li>
+<li>Posterolateral myocardial infarction</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Teriflunomide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Teriflunomide. Original indication: . 1 predicted indications."
+description: "Health news related to Teriflunomide. 1 predicted indications."
 permalink: /news/teriflunomide/
+last_modified_at: 2026-10-27
 ---
 
 # Teriflunomide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Teriflunomide with the lates
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Relapsing-remitting multiple sclerosis (top-ranked prediction, identical to the approved indication) (99.2%)</li>
+<li>Relapsing-remitting multiple sclerosis (top-ranked prediction, identical to the approved indication)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teriflunomide/' | relative_url }}">View full drug report →</a></p>

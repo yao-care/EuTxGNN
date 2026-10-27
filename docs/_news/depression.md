@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about dépression (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
+last_modified_at: 2026-10-27
 ---
 
 # dépression (depression) News

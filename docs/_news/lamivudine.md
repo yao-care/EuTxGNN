@@ -3,8 +3,9 @@ layout: default
 title: "Lamivudine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lamivudine. Original indication: . 1 predicted indications."
+description: "Health news related to Lamivudine. 1 predicted indications."
 permalink: /news/lamivudine/
+last_modified_at: 2026-10-27
 ---
 
 # Lamivudine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lamivudine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Simian immunodeficiency virus infection (99.9%)</li>
+<li>Simian immunodeficiency virus infection</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">View full drug report →</a></p>

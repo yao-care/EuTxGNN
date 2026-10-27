@@ -3,8 +3,9 @@ layout: default
 title: "Nivolumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nivolumab. Original indication: . 1 predicted indications."
+description: "Health news related to Nivolumab. 1 predicted indications."
 permalink: /news/nivolumab/
+last_modified_at: 2026-10-27
 ---
 
 # Nivolumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Nivolumab with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Non-cutaneous melanoma (98.4%)</li>
+<li>Non-cutaneous melanoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nivolumab/' | relative_url }}">View full drug report →</a></p>

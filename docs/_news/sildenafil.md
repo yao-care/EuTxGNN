@@ -3,8 +3,9 @@ layout: default
 title: "Sildenafil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sildenafil. Original indication: . 1 predicted indications."
+description: "Health news related to Sildenafil. 1 predicted indications."
 permalink: /news/sildenafil/
+last_modified_at: 2026-10-27
 ---
 
 # Sildenafil News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Sildenafil with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (98.4%)</li>
+<li>Ambras type hypertrichosis universalis congenita</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">View full drug report →</a></p>

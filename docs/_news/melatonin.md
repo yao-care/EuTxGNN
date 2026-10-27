@@ -3,8 +3,9 @@ layout: default
 title: "Melatonin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Melatonin. Original indication: . 1 predicted indications."
+description: "Health news related to Melatonin. 1 predicted indications."
 permalink: /news/melatonin/
+last_modified_at: 2026-10-27
 ---
 
 # Melatonin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Melatonin with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Migraine disorder (rank 4 of 10 TxGNN predictions; chosen as the best-supported candidate) (85.5%)</li>
+<li>Migraine disorder (rank 4 of 10 TxGNN predictions; chosen as the best-supported candidate)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/melatonin/' | relative_url }}">View full drug report →</a></p>

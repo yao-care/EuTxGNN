@@ -3,8 +3,9 @@ layout: default
 title: "Eravacycline News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Eravacycline. Original indication: . 1 predicted indications."
+description: "Health news related to Eravacycline. 1 predicted indications."
 permalink: /news/eravacycline/
+last_modified_at: 2026-10-27
 ---
 
 # Eravacycline News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Eravacycline with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Bronchitis (96.8%)</li>
+<li>Bronchitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eravacycline/' | relative_url }}">View full drug report →</a></p>

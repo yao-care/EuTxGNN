@@ -3,8 +3,9 @@ layout: default
 title: "Avanafil News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avanafil. Original indication: . 1 predicted indications."
+description: "Health news related to Avanafil. 1 predicted indications."
 permalink: /news/avanafil/
+last_modified_at: 2026-10-27
 ---
 
 # Avanafil News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Avanafil with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Amenorrhea (94.6%)</li>
+<li>Amenorrhea</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avanafil/' | relative_url }}">View full drug report →</a></p>

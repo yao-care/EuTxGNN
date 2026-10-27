@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Lenalidomide. Original indication: MDS and acute myeloid leukemia (AML) are closely r.... 10 predicted indications."
 permalink: /news/lenalidomide/
+last_modified_at: 2026-10-27
 ---
 
 # Lenalidomide News
@@ -27,16 +28,16 @@ This page combines the AI-predicted indications for Lenalidomide with the latest
 <li><strong>Original indication</strong>: MDS and acute myeloid leukemia (AML) are closely related myeloid malignancies, and MDS frequently progresses to AML. The rationale is strongest for del(5q) disease. Evidence in non-del(5q) AML is...</li>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Myeloid leukemia (99.5%)</li>
-<li>Unclassified myelodysplastic syndrome (99.4%)</li>
-<li>Lymph node cancer (97.8%)</li>
-<li>Refractory cytopenia of childhood (99.3%)</li>
-<li>Aregenerative anemia (99.3%)</li>
-<li>Partial deletion of the long arm of chromosome 5 (99.3%)</li>
-<li>Severe congenital hypochromic anemia with ringed sideroblasts (99.3%)</li>
-<li>Blast phase CML, BCR-ABL1 positive (96.7%)</li>
-<li>Ganglioneuroblastoma (96.0%)</li>
-<li>Acute lymphoblastic leukemia (95.9%)</li>
+<li>Myeloid leukemia</li>
+<li>Unclassified myelodysplastic syndrome</li>
+<li>Lymph node cancer</li>
+<li>Refractory cytopenia of childhood</li>
+<li>Aregenerative anemia</li>
+<li>Partial deletion of the long arm of chromosome 5</li>
+<li>Severe congenital hypochromic anemia with ringed sideroblasts</li>
+<li>Blast phase CML, BCR-ABL1 positive</li>
+<li>Ganglioneuroblastoma</li>
+<li>Acute lymphoblastic leukemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lenalidomide/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Tasonermin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tasonermin. Original indication: . 1 predicted indications."
+description: "Health news related to Tasonermin. 1 predicted indications."
 permalink: /news/tasonermin/
+last_modified_at: 2026-10-27
 ---
 
 # Tasonermin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Tasonermin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prostatic urethra urothelial carcinoma (99.8%)</li>
+<li>Prostatic urethra urothelial carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tasonermin/' | relative_url }}">View full drug report →</a></p>

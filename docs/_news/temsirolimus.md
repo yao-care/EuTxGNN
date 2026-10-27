@@ -3,8 +3,9 @@ layout: default
 title: "Temsirolimus News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Temsirolimus. Original indication: . 4 predicted indications."
+description: "Health news related to Temsirolimus. 4 predicted indications."
 permalink: /news/temsirolimus/
+last_modified_at: 2026-10-27
 ---
 
 # Temsirolimus News
@@ -26,10 +27,10 @@ This page combines the AI-predicted indications for Temsirolimus with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
-<li>Liposarcoma (99.5%)</li>
-<li>Leiomyosarcoma (98.6%)</li>
-<li>Unclassified renal cell carcinoma (98.5%)</li>
-<li>Retroperitoneal sarcoma (98.6%)</li>
+<li>Liposarcoma</li>
+<li>Leiomyosarcoma</li>
+<li>Unclassified renal cell carcinoma</li>
+<li>Retroperitoneal sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temsirolimus/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Grazoprevir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Grazoprevir. Original indication: . 1 predicted indications."
+description: "Health news related to Grazoprevir. 1 predicted indications."
 permalink: /news/grazoprevir/
+last_modified_at: 2026-10-27
 ---
 
 # Grazoprevir News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>HIV infectious disease (99.7%)</li>
+<li>HIV infectious disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>

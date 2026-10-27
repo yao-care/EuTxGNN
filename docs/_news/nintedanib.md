@@ -3,8 +3,9 @@ layout: default
 title: "Nintedanib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Nintedanib. Original indication: . 1 predicted indications."
+description: "Health news related to Nintedanib. 1 predicted indications."
 permalink: /news/nintedanib/
+last_modified_at: 2026-10-27
 ---
 
 # Nintedanib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Nintedanib with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dermatofibrosarcoma protuberans (99.2%)</li>
+<li>Dermatofibrosarcoma protuberans</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nintedanib/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Toremifene News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Toremifene. Original indication: . 1 predicted indications."
+description: "Health news related to Toremifene. 1 predicted indications."
 permalink: /news/toremifene/
+last_modified_at: 2026-10-27
 ---
 
 # Toremifene News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Toremifene with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>HIV infectious disease (99.4%)</li>
+<li>HIV infectious disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/toremifene/' | relative_url }}">View full drug report →</a></p>

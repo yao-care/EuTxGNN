@@ -3,8 +3,9 @@ layout: default
 title: "Capecitabine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Capecitabine. Original indication: . 1 predicted indications."
+description: "Health news related to Capecitabine. 1 predicted indications."
 permalink: /news/capecitabine/
+last_modified_at: 2026-10-27
 ---
 
 # Capecitabine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Capecitabine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Gastric adenocarcinoma and proximal polyposis of the stomach (99.9%)</li>
+<li>Gastric adenocarcinoma and proximal polyposis of the stomach</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">View full drug report →</a></p>

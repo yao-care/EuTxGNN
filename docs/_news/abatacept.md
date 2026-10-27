@@ -3,8 +3,9 @@ layout: default
 title: "Abatacept News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Abatacept. Original indication: . 5 predicted indications."
+description: "Health news related to Abatacept. 5 predicted indications."
 permalink: /news/abatacept/
+last_modified_at: 2026-10-27
 ---
 
 # Abatacept News
@@ -26,11 +27,11 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rheumatoid vasculitis (99.9%)</li>
-<li>Ankylosing spondylitis (99.9%)</li>
-<li>Inflammatory spondylopathy (99.8%)</li>
-<li>Polyarticular juvenile rheumatoid arthritis (99.8%)</li>
-<li>Spondyloarthropathy, susceptibility to (99.7%)</li>
+<li>Rheumatoid vasculitis</li>
+<li>Ankylosing spondylitis</li>
+<li>Inflammatory spondylopathy</li>
+<li>Polyarticular juvenile rheumatoid arthritis</li>
+<li>Spondyloarthropathy, susceptibility to</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">View full drug report →</a></p>

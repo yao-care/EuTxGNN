@@ -3,8 +3,9 @@ layout: default
 title: "Bupropion News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bupropion. Original indication: . 1 predicted indications."
+description: "Health news related to Bupropion. 1 predicted indications."
 permalink: /news/bupropion/
+last_modified_at: 2026-10-27
 ---
 
 # Bupropion News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Attention deficit-hyperactivity disorder (100.0%)</li>
+<li>Attention deficit-hyperactivity disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Etravirine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Etravirine. Original indication: . 1 predicted indications."
+description: "Health news related to Etravirine. 1 predicted indications."
 permalink: /news/etravirine/
+last_modified_at: 2026-10-27
 ---
 
 # Etravirine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Etravirine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Feline acquired immunodeficiency syndrome (100.0%)</li>
+<li>Feline acquired immunodeficiency syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etravirine/' | relative_url }}">View full drug report →</a></p>

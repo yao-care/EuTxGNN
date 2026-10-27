@@ -3,8 +3,9 @@ layout: default
 title: "Dupilumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dupilumab. Original indication: . 1 predicted indications."
+description: "Health news related to Dupilumab. 1 predicted indications."
 permalink: /news/dupilumab/
+last_modified_at: 2026-10-27
 ---
 
 # Dupilumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dupilumab with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Bronchitis (99.9%)</li>
+<li>Bronchitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">View full drug report →</a></p>

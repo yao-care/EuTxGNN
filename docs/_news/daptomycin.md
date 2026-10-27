@@ -3,8 +3,9 @@ layout: default
 title: "Daptomycin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Daptomycin. Original indication: . 1 predicted indications."
+description: "Health news related to Daptomycin. 1 predicted indications."
 permalink: /news/daptomycin/
+last_modified_at: 2026-10-27
 ---
 
 # Daptomycin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Daptomycin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Osteoarthritis (99.9%)</li>
+<li>Osteoarthritis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daptomycin/' | relative_url }}">View full drug report →</a></p>

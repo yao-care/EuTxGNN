@@ -3,8 +3,9 @@ layout: default
 title: "Sacubitril News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sacubitril. Original indication: . 1 predicted indications."
+description: "Health news related to Sacubitril. 1 predicted indications."
 permalink: /news/sacubitril/
+last_modified_at: 2026-10-27
 ---
 
 # Sacubitril News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Diabetic nephropathy (99.5%)</li>
+<li>Diabetic nephropathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>

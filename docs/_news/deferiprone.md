@@ -3,8 +3,9 @@ layout: default
 title: "Deferiprone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Deferiprone. Original indication: . 1 predicted indications."
+description: "Health news related to Deferiprone. 1 predicted indications."
 permalink: /news/deferiprone/
+last_modified_at: 2026-10-27
 ---
 
 # Deferiprone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Deferiprone with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hepatic porphyria (99.2%)</li>
+<li>Hepatic porphyria</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/deferiprone/' | relative_url }}">View full drug report →</a></p>

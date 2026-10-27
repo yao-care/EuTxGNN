@@ -3,8 +3,9 @@ layout: default
 title: "Rituximab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rituximab. Original indication: . 1 predicted indications."
+description: "Health news related to Rituximab. 1 predicted indications."
 permalink: /news/rituximab/
+last_modified_at: 2026-10-27
 ---
 
 # Rituximab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Rituximab with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Follicular lymphoma (96.1%)</li>
+<li>Follicular lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rituximab/' | relative_url }}">View full drug report →</a></p>

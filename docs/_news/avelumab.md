@@ -3,8 +3,9 @@ layout: default
 title: "Avelumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Avelumab. Original indication: . 10 predicted indications."
+description: "Health news related to Avelumab. 10 predicted indications."
 permalink: /news/avelumab/
+last_modified_at: 2026-10-27
 ---
 
 # Avelumab News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Avelumab with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Human herpesvirus 8-related tumor (100.0%)</li>
-<li>Middle ear neuroendocrine tumor (100.0%)</li>
-<li>Malignant cutaneous granular cell skin tumor (100.0%)</li>
-<li>Ectomesenchymoma (100.0%)</li>
-<li>Adenosine deaminase deficiency (100.0%)</li>
-<li>Reticular dysgenesis (99.9%)</li>
-<li>Immunoerythromyeloid hypoplasia (99.9%)</li>
-<li>Non-severe combined immunodeficiency (99.9%)</li>
-<li>Prostatic urethra urothelial carcinoma (99.9%)</li>
-<li>Kidney pelvis sarcomatoid transitional cell carcinoma (99.9%)</li>
+<li>Human herpesvirus 8-related tumor</li>
+<li>Middle ear neuroendocrine tumor</li>
+<li>Malignant cutaneous granular cell skin tumor</li>
+<li>Ectomesenchymoma</li>
+<li>Adenosine deaminase deficiency</li>
+<li>Reticular dysgenesis</li>
+<li>Immunoerythromyeloid hypoplasia</li>
+<li>Non-severe combined immunodeficiency</li>
+<li>Prostatic urethra urothelial carcinoma</li>
+<li>Kidney pelvis sarcomatoid transitional cell carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">View full drug report →</a></p>

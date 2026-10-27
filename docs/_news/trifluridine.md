@@ -3,8 +3,9 @@ layout: default
 title: "Trifluridine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Trifluridine. Original indication: . 1 predicted indications."
+description: "Health news related to Trifluridine. 1 predicted indications."
 permalink: /news/trifluridine/
+last_modified_at: 2026-10-27
 ---
 
 # Trifluridine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Trifluridine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Cecum villous adenoma (98.6%)</li>
+<li>Cecum villous adenoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trifluridine/' | relative_url }}">View full drug report →</a></p>

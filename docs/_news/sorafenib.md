@@ -3,8 +3,9 @@ layout: default
 title: "Sorafenib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sorafenib. Original indication: . 1 predicted indications."
+description: "Health news related to Sorafenib. 1 predicted indications."
 permalink: /news/sorafenib/
+last_modified_at: 2026-10-27
 ---
 
 # Sorafenib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Sorafenib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Liposarcoma (99.8%)</li>
+<li>Liposarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorafenib/' | relative_url }}">View full drug report →</a></p>

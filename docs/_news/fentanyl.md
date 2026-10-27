@@ -3,8 +3,9 @@ layout: default
 title: "Fentanyl News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Fentanyl. Original indication: . 1 predicted indications."
+description: "Health news related to Fentanyl. 1 predicted indications."
 permalink: /news/fentanyl/
+last_modified_at: 2026-10-27
 ---
 
 # Fentanyl News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Nephrogenic syndrome of inappropriate antidiuresis (99.5%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>

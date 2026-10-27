@@ -3,8 +3,9 @@ layout: default
 title: "Maribavir News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Maribavir. Original indication: . 1 predicted indications."
+description: "Health news related to Maribavir. 1 predicted indications."
 permalink: /news/maribavir/
+last_modified_at: 2026-10-27
 ---
 
 # Maribavir News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Maribavir with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Bronchitis (87.8%)</li>
+<li>Bronchitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/maribavir/' | relative_url }}">View full drug report →</a></p>

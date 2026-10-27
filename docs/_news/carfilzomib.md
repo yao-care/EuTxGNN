@@ -3,8 +3,9 @@ layout: default
 title: "Carfilzomib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Carfilzomib. Original indication: . 1 predicted indications."
+description: "Health news related to Carfilzomib. 1 predicted indications."
 permalink: /news/carfilzomib/
+last_modified_at: 2026-10-27
 ---
 
 # Carfilzomib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Carfilzomib with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>CMM7 (top-ranked prediction) (99.4%)</li>
+<li>CMM7 (top-ranked prediction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carfilzomib/' | relative_url }}">View full drug report →</a></p>

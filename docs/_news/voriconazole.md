@@ -3,8 +3,9 @@ layout: default
 title: "Voriconazole News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Voriconazole. Original indication: . 1 predicted indications."
+description: "Health news related to Voriconazole. 1 predicted indications."
 permalink: /news/voriconazole/
+last_modified_at: 2026-10-27
 ---
 
 # Voriconazole News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Voriconazole with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Multidrug-resistant tuberculosis (98.7%)</li>
+<li>Multidrug-resistant tuberculosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">View full drug report →</a></p>

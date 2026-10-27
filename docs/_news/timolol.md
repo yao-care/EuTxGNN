@@ -3,8 +3,9 @@ layout: default
 title: "Timolol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Timolol. Original indication: . 1 predicted indications."
+description: "Health news related to Timolol. 1 predicted indications."
 permalink: /news/timolol/
+last_modified_at: 2026-10-27
 ---
 
 # Timolol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Timolol with the latest heal
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Primary hereditary glaucoma (top-ranked; the best-supported alternative is closed-angle glaucoma) (98.6%)</li>
+<li>Primary hereditary glaucoma (top-ranked; the best-supported alternative is closed-angle glaucoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">View full drug report →</a></p>

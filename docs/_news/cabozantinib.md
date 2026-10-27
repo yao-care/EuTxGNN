@@ -3,8 +3,9 @@ layout: default
 title: "Cabozantinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Cabozantinib. Original indication: . 1 predicted indications."
+description: "Health news related to Cabozantinib. 1 predicted indications."
 permalink: /news/cabozantinib/
+last_modified_at: 2026-10-27
 ---
 
 # Cabozantinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Cabozantinib with the latest
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Liposarcoma (99.8%)</li>
+<li>Liposarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabozantinib/' | relative_url }}">View full drug report →</a></p>

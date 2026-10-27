@@ -3,8 +3,9 @@ layout: default
 title: "Imatinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Imatinib. Original indication: . 1 predicted indications."
+description: "Health news related to Imatinib. 1 predicted indications."
 permalink: /news/imatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Imatinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Imatinib with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Heart fibrosarcoma (99.9%)</li>
+<li>Heart fibrosarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Ibuprofen News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ibuprofen. Original indication: . 1 predicted indications."
+description: "Health news related to Ibuprofen. 1 predicted indications."
 permalink: /news/ibuprofen/
+last_modified_at: 2026-10-27
 ---
 
 # Ibuprofen News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
+<li>Acromesomelic dysplasia, Hunter-Thompson type</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>

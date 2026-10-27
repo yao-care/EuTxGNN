@@ -3,8 +3,9 @@ layout: default
 title: "Tedizolid News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Tedizolid. Original indication: . 1 predicted indications."
+description: "Health news related to Tedizolid. 1 predicted indications."
 permalink: /news/tedizolid/
+last_modified_at: 2026-10-27
 ---
 
 # Tedizolid News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Tedizolid with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Orofacial clefting syndrome (93.9%)</li>
+<li>Orofacial clefting syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tedizolid/' | relative_url }}">View full drug report →</a></p>

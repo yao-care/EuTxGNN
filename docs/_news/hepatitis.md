@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about hepatitis. 1 articles, 25 related drugs."
 permalink: /news/hepatitis/
+last_modified_at: 2026-10-27
 ---
 
 # hepatitis News

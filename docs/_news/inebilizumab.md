@@ -3,8 +3,9 @@ layout: default
 title: "Inebilizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Inebilizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Inebilizumab. 1 predicted indications."
 permalink: /news/inebilizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Inebilizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Inebilizumab with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Plasma cell myeloma (rank 4; the rank 1 prediction, drug-induced osteoporosis, has no evidence) (92.8%)</li>
+<li>Plasma cell myeloma (rank 4; the rank 1 prediction, drug-induced osteoporosis, has no evidence)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/inebilizumab/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Dapagliflozin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dapagliflozin. Original indication: . 1 predicted indications."
+description: "Health news related to Dapagliflozin. 1 predicted indications."
 permalink: /news/dapagliflozin/
+last_modified_at: 2026-10-27
 ---
 
 # Dapagliflozin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dapagliflozin with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Classic stiff person syndrome (98.2%)</li>
+<li>Classic stiff person syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">View full drug report →</a></p>

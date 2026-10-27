@@ -3,8 +3,9 @@ layout: default
 title: "Hydrochlorothiazide News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Hydrochlorothiazide. Original indication: . 1 predicted indications."
+description: "Health news related to Hydrochlorothiazide. 1 predicted indications."
 permalink: /news/hydrochlorothiazide/
+last_modified_at: 2026-10-27
 ---
 
 # Hydrochlorothiazide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Hydrochlorothiazide with the
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant hypertensive renal disease (98.4%)</li>
+<li>Malignant hypertensive renal disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">View full drug report →</a></p>

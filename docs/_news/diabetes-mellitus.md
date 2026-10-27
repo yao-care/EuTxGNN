@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about diabete (diabetes mellitus). 10 articles, 86 related drugs."
 permalink: /news/diabetes-mellitus/
+last_modified_at: 2026-10-27
 ---
 
 # diabete (diabetes mellitus) News

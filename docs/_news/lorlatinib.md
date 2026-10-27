@@ -3,8 +3,9 @@ layout: default
 title: "Lorlatinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lorlatinib. Original indication: . 7 predicted indications."
+description: "Health news related to Lorlatinib. 7 predicted indications."
 permalink: /news/lorlatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Lorlatinib News
@@ -26,13 +27,13 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
-<li>Fibromatosis, gingival (99.8%)</li>
-<li>Fibroma of lung (99.8%)</li>
-<li>Hamartoma of lung (99.8%)</li>
-<li>Lung hilum carcinoma (99.7%)</li>
-<li>Lung benign neoplasm (99.7%)</li>
-<li>Lung germ cell tumor (99.7%)</li>
-<li>Pulmonary sulcus neoplasm (99.7%)</li>
+<li>Fibromatosis, gingival</li>
+<li>Fibroma of lung</li>
+<li>Hamartoma of lung</li>
+<li>Lung hilum carcinoma</li>
+<li>Lung benign neoplasm</li>
+<li>Lung germ cell tumor</li>
+<li>Pulmonary sulcus neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>

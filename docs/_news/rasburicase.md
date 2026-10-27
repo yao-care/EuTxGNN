@@ -3,8 +3,9 @@ layout: default
 title: "Rasburicase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rasburicase. Original indication: . 1 predicted indications."
+description: "Health news related to Rasburicase. 1 predicted indications."
 permalink: /news/rasburicase/
+last_modified_at: 2026-10-27
 ---
 
 # Rasburicase News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Rasburicase with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hypouricemia, renal (100.0%)</li>
+<li>Hypouricemia, renal</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">View full drug report →</a></p>

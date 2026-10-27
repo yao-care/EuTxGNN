@@ -3,8 +3,9 @@ layout: default
 title: "Telmisartan News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Telmisartan. Original indication: . 10 predicted indications."
+description: "Health news related to Telmisartan. 10 predicted indications."
 permalink: /news/telmisartan/
+last_modified_at: 2026-10-27
 ---
 
 # Telmisartan News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Prinzmetal angina (100.0%)</li>
-<li>Brain stem infarction (100.0%)</li>
-<li>ABri amyloidosis (100.0%)</li>
-<li>Cerebral artery occlusion (100.0%)</li>
-<li>Pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>Pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>Malignant hypertensive renal disease (99.9%)</li>
-<li>Malignant renovascular hypertension (99.9%)</li>
-<li>Intracerebral hemorrhage (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
+<li>Prinzmetal angina</li>
+<li>Brain stem infarction</li>
+<li>ABri amyloidosis</li>
+<li>Cerebral artery occlusion</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li>Pulmonary hypertension with unclear multifactorial mechanism</li>
+<li>Malignant hypertensive renal disease</li>
+<li>Malignant renovascular hypertension</li>
+<li>Intracerebral hemorrhage</li>
+<li>Braddock syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>

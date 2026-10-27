@@ -3,8 +3,9 @@ layout: default
 title: "Siltuximab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Siltuximab. Original indication: . 1 predicted indications."
+description: "Health news related to Siltuximab. 1 predicted indications."
 permalink: /news/siltuximab/
+last_modified_at: 2026-10-27
 ---
 
 # Siltuximab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Siltuximab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Extracutaneous mastocytoma (99.6%)</li>
+<li>Extracutaneous mastocytoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/siltuximab/' | relative_url }}">View full drug report →</a></p>

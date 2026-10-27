@@ -3,8 +3,9 @@ layout: default
 title: "Spironolactone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Spironolactone. Original indication: . 1 predicted indications."
+description: "Health news related to Spironolactone. 1 predicted indications."
 permalink: /news/spironolactone/
+last_modified_at: 2026-10-27
 ---
 
 # Spironolactone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Spironolactone with the late
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Alopecia (evidence mainly concerns androgenetic alopecia / female pattern hair loss) (97.8%)</li>
+<li>Alopecia (evidence mainly concerns androgenetic alopecia / female pattern hair loss)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">View full drug report →</a></p>

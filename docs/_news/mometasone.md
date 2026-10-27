@@ -3,8 +3,9 @@ layout: default
 title: "Mometasone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mometasone. Original indication: . 1 predicted indications."
+description: "Health news related to Mometasone. 1 predicted indications."
 permalink: /news/mometasone/
+last_modified_at: 2026-10-27
 ---
 
 # Mometasone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Mometasone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Primary cutaneous T-cell lymphoma (99.4%)</li>
+<li>Primary cutaneous T-cell lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mometasone/' | relative_url }}">View full drug report →</a></p>

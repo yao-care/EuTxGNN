@@ -3,8 +3,9 @@ layout: default
 title: "Lipegfilgrastim News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lipegfilgrastim. Original indication: . 1 predicted indications."
+description: "Health news related to Lipegfilgrastim. 1 predicted indications."
 permalink: /news/lipegfilgrastim/
+last_modified_at: 2026-10-27
 ---
 
 # Lipegfilgrastim News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lipegfilgrastim with the lat
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Primary release disorder of platelets (99.9%)</li>
+<li>Primary release disorder of platelets</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lipegfilgrastim/' | relative_url }}">View full drug report →</a></p>

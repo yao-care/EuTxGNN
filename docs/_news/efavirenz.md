@@ -3,8 +3,9 @@ layout: default
 title: "Efavirenz News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Efavirenz. Original indication: . 1 predicted indications."
+description: "Health news related to Efavirenz. 1 predicted indications."
 permalink: /news/efavirenz/
+last_modified_at: 2026-10-27
 ---
 
 # Efavirenz News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Efavirenz with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Feline acquired immunodeficiency syndrome (99.8%)</li>
+<li>Feline acquired immunodeficiency syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">View full drug report →</a></p>

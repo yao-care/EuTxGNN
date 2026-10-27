@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Morbus Crohn (crohn disease). 1 articles, 1 related drugs."
 permalink: /news/crohn-disease/
+last_modified_at: 2026-10-27
 ---
 
 # Morbus Crohn (crohn disease) News

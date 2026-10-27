@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Drospirenone. Original indication: For full warnings and contraindications, please re.... 1 predicted indications."
 permalink: /news/drospirenone/
+last_modified_at: 2026-10-27
 ---
 
 # Drospirenone News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Drospirenone with the latest
 <li><strong>Original indication</strong>: For full warnings and contraindications, please refer to the SmPC.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Zinc, elevated plasma (98.7%)</li>
+<li>Zinc, elevated plasma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/drospirenone/' | relative_url }}">View full drug report →</a></p>

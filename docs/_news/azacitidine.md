@@ -3,8 +3,9 @@ layout: default
 title: "Azacitidine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Azacitidine. Original indication: . 1 predicted indications."
+description: "Health news related to Azacitidine. 1 predicted indications."
 permalink: /news/azacitidine/
+last_modified_at: 2026-10-27
 ---
 
 # Azacitidine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Azacitidine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Bulbar polio (rank 1) (98.6%)</li>
+<li>Bulbar polio (rank 1)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azacitidine/' | relative_url }}">View full drug report →</a></p>

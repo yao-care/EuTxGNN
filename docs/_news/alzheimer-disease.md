@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Alzheimer's (alzheimer disease). 2 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
+last_modified_at: 2026-10-27
 ---
 
 # Alzheimer's (alzheimer disease) News

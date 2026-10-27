@@ -3,8 +3,9 @@ layout: default
 title: "Vilanterol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vilanterol. Original indication: . 1 predicted indications."
+description: "Health news related to Vilanterol. 1 predicted indications."
 permalink: /news/vilanterol/
+last_modified_at: 2026-10-27
 ---
 
 # Vilanterol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Vilanterol with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Obstructive lung disease (100.0%)</li>
+<li>Obstructive lung disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vilanterol/' | relative_url }}">View full drug report →</a></p>

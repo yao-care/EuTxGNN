@@ -3,8 +3,9 @@ layout: default
 title: "Romosozumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Romosozumab. Original indication: . 1 predicted indications."
+description: "Health news related to Romosozumab. 1 predicted indications."
 permalink: /news/romosozumab/
+last_modified_at: 2026-10-27
 ---
 
 # Romosozumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Romosozumab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Obsolete vitamin D deficiency (rank 1); the best-evidenced prediction is impaired renal function disease (rank 10) (97.8%)</li>
+<li>Obsolete vitamin D deficiency (rank 1); the best-evidenced prediction is impaired renal function disease (rank 10)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/romosozumab/' | relative_url }}">View full drug report →</a></p>

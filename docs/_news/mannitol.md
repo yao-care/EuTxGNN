@@ -3,8 +3,9 @@ layout: default
 title: "Mannitol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Mannitol. Original indication: . 1 predicted indications."
+description: "Health news related to Mannitol. 1 predicted indications."
 permalink: /news/mannitol/
+last_modified_at: 2026-10-27
 ---
 
 # Mannitol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Mannitol with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">View full drug report →</a></p>

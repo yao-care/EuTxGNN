@@ -3,8 +3,9 @@ layout: default
 title: "Dostarlimab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Dostarlimab. Original indication: . 1 predicted indications."
+description: "Health news related to Dostarlimab. 1 predicted indications."
 permalink: /news/dostarlimab/
+last_modified_at: 2026-10-27
 ---
 
 # Dostarlimab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dostarlimab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acute megakaryoblastic leukemia (50.0%)</li>
+<li>Acute megakaryoblastic leukemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dostarlimab/' | relative_url }}">View full drug report →</a></p>

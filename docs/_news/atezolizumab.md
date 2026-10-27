@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Atezolizumab. Original indication: The only linked trial tests atezolizumab as a comb.... 1 predicted indications."
 permalink: /news/atezolizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Atezolizumab News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Atezolizumab with the latest
 <li><strong>Original indication</strong>: The only linked trial tests atezolizumab as a combination partner in a broad genitourinary tumour population. It provides no data specific to prostatic urethra disease.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prostatic urethra urothelial carcinoma (100.0%)</li>
+<li>Prostatic urethra urothelial carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">View full drug report →</a></p>

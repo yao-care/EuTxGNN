@@ -3,8 +3,9 @@ layout: default
 title: "Axitinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Axitinib. Original indication: . 1 predicted indications."
+description: "Health news related to Axitinib. 1 predicted indications."
 permalink: /news/axitinib/
+last_modified_at: 2026-10-27
 ---
 
 # Axitinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Axitinib with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Renal cell carcinoma associated with neuroblastoma (rank 1, model's top prediction). The evidence below focuses on Renal Carcinoma (rank 6), the best-supported prediction. (99.9%)</li>
+<li>Renal cell carcinoma associated with neuroblastoma (rank 1, model's top prediction). The evidence below focuses on Renal Carcinoma (rank 6), the best-supported prediction.</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/axitinib/' | relative_url }}">View full drug report →</a></p>

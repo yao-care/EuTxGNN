@@ -3,8 +3,9 @@ layout: default
 title: "Vaborbactam News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vaborbactam. Original indication: . 1 predicted indications."
+description: "Health news related to Vaborbactam. 1 predicted indications."
 permalink: /news/vaborbactam/
+last_modified_at: 2026-10-27
 ---
 
 # Vaborbactam News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Vaborbactam with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Osteoarthritis (98.5%)</li>
+<li>Osteoarthritis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vaborbactam/' | relative_url }}">View full drug report →</a></p>

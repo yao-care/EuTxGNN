@@ -3,8 +3,9 @@ layout: default
 title: "Lurasidone News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lurasidone. Original indication: . 1 predicted indications."
+description: "Health news related to Lurasidone. 1 predicted indications."
 permalink: /news/lurasidone/
+last_modified_at: 2026-10-27
 ---
 
 # Lurasidone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Manic bipolar affective disorder (100.0%)</li>
+<li>Manic bipolar affective disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Selpercatinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Selpercatinib. Original indication: . 1 predicted indications."
+description: "Health news related to Selpercatinib. 1 predicted indications."
 permalink: /news/selpercatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Selpercatinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pulmonary hypertension (99.2%)</li>
+<li>Pulmonary hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>

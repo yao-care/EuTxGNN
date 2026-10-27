@@ -3,8 +3,9 @@ layout: default
 title: "Imiquimod News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Imiquimod. Original indication: . 1 predicted indications."
+description: "Health news related to Imiquimod. 1 predicted indications."
 permalink: /news/imiquimod/
+last_modified_at: 2026-10-27
 ---
 
 # Imiquimod News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Imiquimod with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pre-malignant neoplasm (99.9%)</li>
+<li>Pre-malignant neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imiquimod/' | relative_url }}">View full drug report →</a></p>

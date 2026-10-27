@@ -3,8 +3,9 @@ layout: default
 title: "Roflumilast News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Roflumilast. Original indication: . 1 predicted indications."
+description: "Health news related to Roflumilast. 1 predicted indications."
 permalink: /news/roflumilast/
+last_modified_at: 2026-10-27
 ---
 
 # Roflumilast News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Roflumilast with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pulmonary hypertension (97.2%)</li>
+<li>Pulmonary hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/roflumilast/' | relative_url }}">View full drug report →</a></p>

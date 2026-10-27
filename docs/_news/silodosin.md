@@ -3,8 +3,9 @@ layout: default
 title: "Silodosin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Silodosin. Original indication: . 1 predicted indications."
+description: "Health news related to Silodosin. 1 predicted indications."
 permalink: /news/silodosin/
+last_modified_at: 2026-10-27
 ---
 
 # Silodosin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Silodosin with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>Ambras type hypertrichosis universalis congenita</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">View full drug report →</a></p>

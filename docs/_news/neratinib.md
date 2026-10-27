@@ -3,8 +3,9 @@ layout: default
 title: "Neratinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Neratinib. Original indication: . 1 predicted indications."
+description: "Health news related to Neratinib. 1 predicted indications."
 permalink: /news/neratinib/
+last_modified_at: 2026-10-27
 ---
 
 # Neratinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Neratinib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Progesterone-receptor positive breast cancer (99.7%)</li>
+<li>Progesterone-receptor positive breast cancer</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/neratinib/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Miglustat News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Miglustat. Original indication: . 1 predicted indications."
+description: "Health news related to Miglustat. 1 predicted indications."
 permalink: /news/miglustat/
+last_modified_at: 2026-10-27
 ---
 
 # Miglustat News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Miglustat with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Tay-Sachs disease (the rank 1 prediction, autosomal ichthyosis syndrome with fatal disease course, has no supporting evidence, so the report focuses on the best-supported candidate, rank 7) (99.8%)</li>
+<li>Tay-Sachs disease (the rank 1 prediction, autosomal ichthyosis syndrome with fatal disease course, has no supporting evidence, so the report focuses on the best-supported candidate, rank 7)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/miglustat/' | relative_url }}">View full drug report →</a></p>

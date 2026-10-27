@@ -3,8 +3,9 @@ layout: default
 title: "Risankizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Risankizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Risankizumab. 1 predicted indications."
 permalink: /news/risankizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Risankizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Risankizumab with the latest
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dermatitis (100.0%)</li>
+<li>Dermatitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risankizumab/' | relative_url }}">View full drug report →</a></p>

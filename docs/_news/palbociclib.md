@@ -3,8 +3,9 @@ layout: default
 title: "Palbociclib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Palbociclib. Original indication: . 1 predicted indications."
+description: "Health news related to Palbociclib. 1 predicted indications."
 permalink: /news/palbociclib/
+last_modified_at: 2026-10-27
 ---
 
 # Palbociclib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Palbociclib with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hyperthyroidism (99.4%)</li>
+<li>Hyperthyroidism</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/palbociclib/' | relative_url }}">View full drug report →</a></p>

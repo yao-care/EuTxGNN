@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about AF (atrial fibrillation). 37 articles, 39 related drugs."
 permalink: /news/atrial-fibrillation/
+last_modified_at: 2026-10-27
 ---
 
 # AF (atrial fibrillation) News

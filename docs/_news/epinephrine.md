@@ -3,8 +3,9 @@ layout: default
 title: "Epinephrine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Epinephrine. Original indication: . 1 predicted indications."
+description: "Health news related to Epinephrine. 1 predicted indications."
 permalink: /news/epinephrine/
+last_modified_at: 2026-10-27
 ---
 
 # Epinephrine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Obstructive lung disease (99.7%)</li>
+<li>Obstructive lung disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>

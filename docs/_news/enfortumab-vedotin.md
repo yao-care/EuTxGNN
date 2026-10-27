@@ -3,8 +3,9 @@ layout: default
 title: "Enfortumab Vedotin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Enfortumab Vedotin. Original indication: . 1 predicted indications."
+description: "Health news related to Enfortumab Vedotin. 1 predicted indications."
 permalink: /news/enfortumab-vedotin/
+last_modified_at: 2026-10-27
 ---
 
 # Enfortumab Vedotin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Enfortumab Vedotin with the 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Leprosy (top-ranked prediction) (99.5%)</li>
+<li>Leprosy (top-ranked prediction)</li>
 </ul></li>
 </ul>
 

@@ -3,8 +3,9 @@ layout: default
 title: "Vortioxetine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vortioxetine. Original indication: . 1 predicted indications."
+description: "Health news related to Vortioxetine. 1 predicted indications."
 permalink: /news/vortioxetine/
+last_modified_at: 2026-10-27
 ---
 
 # Vortioxetine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Neurotic disorder (99.2%)</li>
+<li>Neurotic disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>

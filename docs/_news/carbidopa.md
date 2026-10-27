@@ -3,8 +3,9 @@ layout: default
 title: "Carbidopa News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Carbidopa. Original indication: . 1 predicted indications."
+description: "Health news related to Carbidopa. 1 predicted indications."
 permalink: /news/carbidopa/
+last_modified_at: 2026-10-27
 ---
 
 # Carbidopa News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Carbidopa with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Rasmussen subacute encephalitis (98.4%)</li>
+<li>Rasmussen subacute encephalitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbidopa/' | relative_url }}">View full drug report →</a></p>

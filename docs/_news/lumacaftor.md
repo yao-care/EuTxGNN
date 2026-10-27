@@ -3,8 +3,9 @@ layout: default
 title: "Lumacaftor News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Lumacaftor. Original indication: . 1 predicted indications."
+description: "Health news related to Lumacaftor. 1 predicted indications."
 permalink: /news/lumacaftor/
+last_modified_at: 2026-10-27
 ---
 
 # Lumacaftor News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lumacaftor with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Leprosy (99.4%)</li>
+<li>Leprosy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lumacaftor/' | relative_url }}">View full drug report →</a></p>

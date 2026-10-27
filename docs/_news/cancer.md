@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about tumor (cancer). 28 articles, 229 related drugs."
 permalink: /news/cancer/
+last_modified_at: 2026-10-27
 ---
 
 # tumor (cancer) News

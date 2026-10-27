@@ -3,8 +3,9 @@ layout: default
 title: "Anakinra News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Anakinra. Original indication: . 1 predicted indications."
+description: "Health news related to Anakinra. 1 predicted indications."
 permalink: /news/anakinra/
+last_modified_at: 2026-10-27
 ---
 
 # Anakinra News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Anakinra with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Extracutaneous mastocytoma (99.9%)</li>
+<li>Extracutaneous mastocytoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anakinra/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Micafungin News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Micafungin. Original indication: . 1 predicted indications."
+description: "Health news related to Micafungin. 1 predicted indications."
 permalink: /news/micafungin/
+last_modified_at: 2026-10-27
 ---
 
 # Micafungin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Micafungin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Urinary tract infection (disease) (99.0%)</li>
+<li>Urinary tract infection (disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/micafungin/' | relative_url }}">View full drug report →</a></p>

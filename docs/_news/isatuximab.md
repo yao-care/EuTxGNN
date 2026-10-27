@@ -3,8 +3,9 @@ layout: default
 title: "Isatuximab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Isatuximab. Original indication: . 1 predicted indications."
+description: "Health news related to Isatuximab. 1 predicted indications."
 permalink: /news/isatuximab/
+last_modified_at: 2026-10-27
 ---
 
 # Isatuximab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Isatuximab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Indolent plasma cell myeloma (98.2%)</li>
+<li>Indolent plasma cell myeloma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isatuximab/' | relative_url }}">View full drug report →</a></p>

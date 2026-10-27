@@ -3,8 +3,9 @@ layout: default
 title: "Infliximab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Infliximab. Original indication: . 1 predicted indications."
+description: "Health news related to Infliximab. 1 predicted indications."
 permalink: /news/infliximab/
+last_modified_at: 2026-10-27
 ---
 
 # Infliximab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Infliximab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome (90.2%)</li>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/infliximab/' | relative_url }}">View full drug report →</a></p>

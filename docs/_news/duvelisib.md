@@ -3,8 +3,9 @@ layout: default
 title: "Duvelisib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Duvelisib. Original indication: . 1 predicted indications."
+description: "Health news related to Duvelisib. 1 predicted indications."
 permalink: /news/duvelisib/
+last_modified_at: 2026-10-27
 ---
 
 # Duvelisib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Duvelisib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hodgkin's lymphoma (99.9%)</li>
+<li>Hodgkin's lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duvelisib/' | relative_url }}">View full drug report →</a></p>

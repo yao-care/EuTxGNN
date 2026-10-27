@@ -5,6 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Schlaganfall (stroke). 3 articles, 11 related drugs."
 permalink: /news/stroke/
+last_modified_at: 2026-10-27
 ---
 
 # Schlaganfall (stroke) News

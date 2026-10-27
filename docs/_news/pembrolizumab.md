@@ -3,8 +3,9 @@ layout: default
 title: "Pembrolizumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Pembrolizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Pembrolizumab. 1 predicted indications."
 permalink: /news/pembrolizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Pembrolizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Pembrolizumab with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Fibromatosis, gingival (99.4%)</li>
+<li>Fibromatosis, gingival</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">View full drug report →</a></p>

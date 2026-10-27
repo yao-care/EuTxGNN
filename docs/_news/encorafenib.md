@@ -3,8 +3,9 @@ layout: default
 title: "Encorafenib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Encorafenib. Original indication: . 1 predicted indications."
+description: "Health news related to Encorafenib. 1 predicted indications."
 permalink: /news/encorafenib/
+last_modified_at: 2026-10-27
 ---
 
 # Encorafenib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Encorafenib with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Choroideremia (rank 1 by TxGNN score); non-cutaneous melanoma assessed as the most relevant candidate (rank 2) (97.1%)</li>
+<li>Choroideremia (rank 1 by TxGNN score); non-cutaneous melanoma assessed as the most relevant candidate (rank 2)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/encorafenib/' | relative_url }}">View full drug report →</a></p>

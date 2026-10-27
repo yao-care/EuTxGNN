@@ -3,8 +3,9 @@ layout: default
 title: "Basiliximab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Basiliximab. Original indication: . 1 predicted indications."
+description: "Health news related to Basiliximab. 1 predicted indications."
 permalink: /news/basiliximab/
+last_modified_at: 2026-10-27
 ---
 
 # Basiliximab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Basiliximab with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Plasma cell myeloma (95.6%)</li>
+<li>Plasma cell myeloma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/basiliximab/' | relative_url }}">View full drug report →</a></p>

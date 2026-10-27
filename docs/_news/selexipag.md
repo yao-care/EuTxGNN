@@ -3,8 +3,9 @@ layout: default
 title: "Selexipag News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Selexipag. Original indication: . 1 predicted indications."
+description: "Health news related to Selexipag. 1 predicted indications."
 permalink: /news/selexipag/
+last_modified_at: 2026-10-27
 ---
 
 # Selexipag News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pulmonary arterial hypertension associated with congenital heart disease (98.0%)</li>
+<li>Pulmonary arterial hypertension associated with congenital heart disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>

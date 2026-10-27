@@ -3,8 +3,9 @@ layout: default
 title: "Stiripentol News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Stiripentol. Original indication: . 1 predicted indications."
+description: "Health news related to Stiripentol. 1 predicted indications."
 permalink: /news/stiripentol/
+last_modified_at: 2026-10-27
 ---
 
 # Stiripentol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Stiripentol with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Restless legs syndrome (98.8%)</li>
+<li>Restless legs syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/stiripentol/' | relative_url }}">View full drug report →</a></p>
