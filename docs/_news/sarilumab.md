@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Schon zehn Jahre vor der chronischen Darmentzündung gibt es Anzeichen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
 
@@ -43,19 +43,27 @@ Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZ
 
 ---
 
+### [COPD: Wie bewährt sich Dupilumab im Behandlungsalltag?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVhTSGV0aGxZcTRta2hidDZKNTFQb3BpaXotelVwYXlCOWZ6VHctdG02T01EMW4xcDRqYmk1UUxOYjcxWGR2ZHk5a3ZXUlVkeGFXWDd4OVplblY5Zk5tUVlON1BCWERHSUZtS29rX244b2s1SFJLbTZQa3pMdzJrVExCUGtmdWNLM2JXcWFpWVJKM3BpMS1SUXRsRk1tV0lYNzJsb3hHUzlLazNBQ19ldzBqTUxnRUE?oc=5)
+
+2026-10-27 <span class="news-drug-tag">Dupilumab</span> <span class="news-indication-tag">copd</span>
+
+Source: [Lungeninformationsdienst](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVhTSGV0aGxZcTRta2hidDZKNTFQb3BpaXotelVwYXlCOWZ6VHctdG02T01EMW4xcDRqYmk1UUxOYjcxWGR2ZHk5a3ZXUlVkeGFXWDd4OVplblY5Zk5tUVlON1BCWERHSUZtS29rX244b2s1SFJLbTZQa3pMdzJrVExCUGtmdWNLM2JXcWFpWVJKM3BpMS1SUXRsRk1tV0lYNzJsb3hHUzlLazNBQ19ldzBqTUxnRUE?oc=5)
+
+---
+
+### [Comorbilidades y respuesta clínica predicen el abandono de baricitinib en artritis reumatoide - IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+
+2026-10-27 <span class="news-drug-tag">Baricitinib</span> <span class="news-indication-tag">artritis</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OEozblh0UWwxcFYxSTdLd2xFdmZ4Qjc1Yk9zSlFyRmhkeU1NT1RDZ2FWbzhqQW95RXFPWHU2MVphWDNPRTRZaTM0Q3hlM2pHeFBick1yNlNjZEhNT3NPVUotLVRJcG1Bb0JkQngyZXIyZExMM1NfWUEyRXphOUZiZnI1TVBCQTZvT3JZNTZ5NG5HaEVxNFdmMlBKMnVrdzZDODF0aUtkWi12VDJLOVBfQy1fV0ExWHlRcGcwVk9BQdIBvAFBVV95cUxNeWVDXzVYUkJpZnU1UEZ4eEUzekZnMkkxSFpoTnhsODliQ3FVMk5ob3JwYTZUQmk2Z0d3dnlic05xYTRjSDdtaF9MTWt1SGgwTDF6WjFuS0ZWdnBfdkV2S3daTlVJaXZVODY5NGY0YkRFUmFUYzlTclJCVW9WLVk4NmJLQmNpeHhOWnFLS1ZQbmRrYnBwbTBtN201REVjbS10d05BUS1rLVoxc29ZRkF4TWlrSk5lckoydjdGRA?oc=5)
+
+---
+
 ### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">asthma</span>
 
 Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
-
----
-
-### [Alluce valgo, osteoporosi e artrite: cosa rivela lo studio su 6,7 milioni di persone](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
-
-2026-10-25 <span class="news-indication-tag">artrite</span>
-
-Source: [Mondosanità](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFkyVXFJU0l2UGxOLXdkeDNMNVptQUdjcW9LcThyUkZiWjlMR2xrMHk4Z29MU0FfRHEyb2JaWVItTi1Rc1RsLV9jZ0FPdjBOV1VicGVUZi1sZVh5MFJfbWZhV0lZZVBuMF9HLS0yQkUzX0xxTDNuUHZYVUJMQU9HNHI4dlRiOV9qbnVMUE5xN2ExU2Rrb0tiMURZa0Zya25wOFNCam9od3gyY2pjTnM3NHRzRWhMLUg4VVpUb29uQjZkbExsQzFUVXpycnhzcm9sVWl3SGVqTTRiQQ?oc=5)
 
 ---
 

@@ -35,6 +35,14 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 
 ## Related News (3)
 
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+---
+
 ### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
@@ -48,14 +56,6 @@ Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95c
 2026-10-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
-
----
-
-### [Controversial US-backed vaccine trial in African newborns halted - The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">hepatitis</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdaSWVPV1hSMFY1N0J3dFppRzdWVFVxNnM3MTFDN0VVT05pOWFKSWk4V2pqcV9EVXIwa0ZoaTE3aW9JV0I4cllXLV9hRlJwWmptRHliUkt1aGstYnpaRzdFS0FlaFRlSTQzM1AzTHA0Uk5jREVFaGplelZGOWRmTkx5anZUQmlVR0FZc2ItUUxxc1RQSXc?oc=5)
 
 ---
 

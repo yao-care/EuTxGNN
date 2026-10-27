@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Simvastatin?">
-<strong>Simvastatin</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Simvastatin</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ This page combines the AI-predicted indications for Simvastatin with the latest 
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (7)
 
-### [Schlaganfall: Bei dieser Altersgruppe sind frühe Warnzeichen besonders deutlich](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+### [La pérdida repentina de visión puede alertar de un ictus: 90.000 nuevos casos al año en España](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
+
+2026-10-27 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+
+Source: [Modaengafas.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVjBZRExoWjd6RzRCOFBoWUZ6R3RBakZyMy01aDZueEhqZE83R25TX0xBci1jQy0wTXFFemhPSDBJTTBfeXVVYzRvTnBCTlRsdFoxd3VfU25TS21WbVlOUWNQZWdCY3Y3bEcwdTZPVTBIejhYMU4zWlB0WnhZMmUwcUp4VTN6YXAta25nWjdfOWJHZGNkZmZGRmpSS2dId0xTQjhGS3dPdktlNzZkOWRhNldZQkR5dURaUEs3V0dJY1BZWjM2Q3lwd090VmhqYndRU3c5RVJzbHpzQ29j?oc=5)
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
+
+---
+
+### ['I was young, fit and healthy with four kids - stroke does not discriminate' - Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUtGd1lWSlZmbzVhT0JGT0UzM2FyV254STAzc3pRel9hLWhRTy05YnpQWVl3LTllaHdNUGQzem1yZlMxSk40LXgxc1drTTRkUGVpWFlUaElJeUlSZHM5d1lfUW0xWk1SMXNFOS1FaUJrc1dyN2xEU0xobTlna1ZoQllYcVJ4dS1x0gGOAUFVX3lxTE5xbDg0eTk0UkF1OVVLM1JsTDduM2gtM2dlUlJiU3pkMFRfS2dyWlZxUkJ3aDNJLTF4MmZYdm1jZ0pUaGFISXBiamduTlBhejRqNzVQQ3VnNXFpMGFnYUVRcDNJOC1lMTlfbkswWU5KRVhZTk81Yi10RkFXa2hoSmF3bkJBVmxjMkQyb2kzTFE?oc=5)
+
+2026-10-27 <span class="news-indication-tag">stroke</span>
+
+Source: [Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUtGd1lWSlZmbzVhT0JGT0UzM2FyV254STAzc3pRel9hLWhRTy05YnpQWVl3LTllaHdNUGQzem1yZlMxSk40LXgxc1drTTRkUGVpWFlUaElJeUlSZHM5d1lfUW0xWk1SMXNFOS1FaUJrc1dyN2xEU0xobTlna1ZoQllYcVJ4dS1x0gGOAUFVX3lxTE5xbDg0eTk0UkF1OVVLM1JsTDduM2gtM2dlUlJiU3pkMFRfS2dyWlZxUkJ3aDNJLTF4MmZYdm1jZ0pUaGFISXBiamduTlBhejRqNzVQQ3VnNXFpMGFnYUVRcDNJOC1lMTlfbkswWU5KRVhZTk81Yi10RkFXa2hoSmF3bkJBVmxjMkQyb2kzTFE?oc=5)
 
 ---
 
@@ -51,6 +67,14 @@ Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS05
 
 ---
 
+### [Cancer, crise cardiaque, Covid ou AVC : les chiffres qui montrent le nouveau visage de la mortalité en France - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWxmamlNZEprRXpHeGRORE1Ob1ppcHJEVGRpelJ5REtOT0tfYWh4cDhvNEJONDgxQmc5cDFxSG5TcGdqNWRpeTFZZkhiVFhxRG5FSkhGdW1IUGJNZUpOcVY2c1h1U2MteXRYVTQxUlFUWVBQdGgyaWZMUnRmbnhWM3VfMTk0Wk51VFE3RFF4V0hnaXZDR2xHWFRxa2IyRVIya0EtN0YxTjZFelUxMkZEOFN5V3RMT0Fic2tBY1NzeURWOVFEUWo1UzNkRkhZR1RycnBrOGFkaDVYOXFkU2JaLVZYOVM2bmVYU3c1Vy1ZN2FkX3c?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
+
+Source: [Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWxmamlNZEprRXpHeGRORE1Ob1ppcHJEVGRpelJ5REtOT0tfYWh4cDhvNEJONDgxQmc5cDFxSG5TcGdqNWRpeTFZZkhiVFhxRG5FSkhGdW1IUGJNZUpOcVY2c1h1U2MteXRYVTQxUlFUWVBQdGgyaWZMUnRmbnhWM3VfMTk0Wk51VFE3RFF4V0hnaXZDR2xHWFRxa2IyRVIya0EtN0YxTjZFelUxMkZEOFN5V3RMT0Fic2tBY1NzeURWOVFEUWo1UzNkRkhZR1RycnBrOGFkaDVYOXFkU2JaLVZYOVM2bmVYU3c1Vy1ZN2FkX3c?oc=5)
+
+---
+
 ### [Father, aged 38, had 'no idea what my future looked like' after severe stroke - The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
@@ -59,11 +83,11 @@ Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cU
 
 ---
 
-### [ENTRETIEN. Accident vasculaire cérébral (AVC) : quels symptômes et quelle prise en charge](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
+### [« Le facteur temps est primordial » : à Quimper, quels sont les signes d’un AVC qui doivent alerter ? - Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
 
-Source: [Ouest-France](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDBXc3FVTDlLWEVmcnE0ZE5UT2Fta0YyLW41eG0xZF90Q1MtV1AycmszSFAxTDVLT2o4Zk5yQTFXbXdTam9ab2NCVGJscGt4UnhOZnptb0tveHQyYU1Oa1V4Z3JBNm1aeGR1VUFPaVVJLTNidGwwNUJVd0UzcFE3ckpwVkgyRWE5aEYwYzZJV2lFNHJVRVhWSHBpUHMwd3JWQnJKWldicjVzZDJ3SndMcER3UUl5Qkl5R0NIZ0tZYTh4TFFIMG9JR2U1d01xUE1GdDAwZVZiaDRLS0ttZjdlSmUyMEx2ZGNEOVN2N2VuanRzZw?oc=5)
+Source: [Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
 
 ---
 

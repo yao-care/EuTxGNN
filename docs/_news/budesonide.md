@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Budesonide</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [COPD: Wie bewährt sich Dupilumab im Behandlungsalltag?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVhTSGV0aGxZcTRta2hidDZKNTFQb3BpaXotelVwYXlCOWZ6VHctdG02T01EMW4xcDRqYmk1UUxOYjcxWGR2ZHk5a3ZXUlVkeGFXWDd4OVplblY5Zk5tUVlON1BCWERHSUZtS29rX244b2s1SFJLbTZQa3pMdzJrVExCUGtmdWNLM2JXcWFpWVJKM3BpMS1SUXRsRk1tV0lYNzJsb3hHUzlLazNBQ19ldzBqTUxnRUE?oc=5)
+
+2026-10-27 <span class="news-drug-tag">Dupilumab</span> <span class="news-indication-tag">copd</span>
+
+Source: [Lungeninformationsdienst](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVhTSGV0aGxZcTRta2hidDZKNTFQb3BpaXotelVwYXlCOWZ6VHctdG02T01EMW4xcDRqYmk1UUxOYjcxWGR2ZHk5a3ZXUlVkeGFXWDd4OVplblY5Zk5tUVlON1BCWERHSUZtS29rX244b2s1SFJLbTZQa3pMdzJrVExCUGtmdWNLM2JXcWFpWVJKM3BpMS1SUXRsRk1tV0lYNzJsb3hHUzlLazNBQ19ldzBqTUxnRUE?oc=5)
+
+---
 
 ### [Asthma als möglicher Risikofaktor für Karies - ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
 

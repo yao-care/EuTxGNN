@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Levodopa?">
-<strong>Levodopa</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
+<strong>Levodopa</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ This page combines the AI-predicted indications for Levodopa with the latest hea
 <p><a href="{{ '/drugs/levodopa/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
 
 2026-10-26 <span class="news-indication-tag">dementia</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
-
----
-
-### [When Memory Concerns Begin: A Call To Action For Brain Health](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWQwR21Gck5PbVdMRWpOVkNLRl9IWndJN1d5eGNadkVEaFdGQWROUW9aNm53bTdPYjJWQ091RW1DNWphaWFtczBxZEt4akhlRlRVcUF3SEtERndzWGp3QnhNSlJXS2o1bkxCNjY1RDJVMEprY3dzbXlXbUFhaDI3aGQtM05XSkpzSS12UHl0WFlCTGlOQ254VzJseEY1cTV0SXNtckxjaVdEUTdFbTBHNFV0MUs2QQ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">AF</span>
-
-Source: [Forbes](https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWQwR21Gck5PbVdMRWpOVkNLRl9IWndJN1d5eGNadkVEaFdGQWROUW9aNm53bTdPYjJWQ091RW1DNWphaWFtczBxZEt4akhlRlRVcUF3SEtERndzWGp3QnhNSlJXS2o1bkxCNjY1RDJVMEprY3dzbXlXbUFhaDI3aGQtM05XSkpzSS12UHl0WFlCTGlOQ254VzJseEY1cTV0SXNtckxjaVdEUTdFbTBHNFV0MUs2QQ?oc=5)
 
 ---
 

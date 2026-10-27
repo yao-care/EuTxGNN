@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">hipertensión</span>
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+---
 
 ### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
 
@@ -48,6 +56,14 @@ Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95c
 2026-10-26 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
+
+---
+
+### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">AF</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 
 ---
 

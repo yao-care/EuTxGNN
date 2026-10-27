@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 2 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-10-27
 ---
 
-# Bluthochdruck (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>2 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,7 +65,15 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+2026-10-27
+
+Source: [Noticias de Navarra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFjMWNjenRDZWFCME9ZR0tnSUduNkNxc3V2YV9vYzNpU2VUcjMzUkpELVZ3Q3lUZTFsbjNncWoydnlGTDdWTWIxcnlyaXVsN0lILUlmRkFNb1VNMXI4N1pkaGhjR0lZRWdzaGl1em5BWmpWQUdmb3VyU1FyRENHNTRJQXkxdXZvWVZmYnJOT1d1a1NwMDBhQzkyOXJPN0dqcldrSjBsQ19mZnpGNk9tNmczMnVyd24wdGtSa0xNX2TSAcYBQVVfeXFMTkNGcUpHTE9YYTRYdC1wSV83ZU10WUluSlJSWFFjTW4zYWpPWkF5OFpqLXp4X1BIYXhSdHRSUGtfUWNBVHlkOW1mVUF5LWxuMUNjeW1hX2pWMzNWaFdRQ2swY1F2VXp3TVprX1JqdFBaSTQzMVZ0ZzVpMzB4M2pDWFpMMlg4Q05xWFdjcUdCR3NaODJrTU1KTlBkUGZBN2NZNEkySXdCVzFqcGtJUHRrWURlREQzQl9wTGlucmNQNE14b3FJVWd3?oc=5)
+
+---
 
 ### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
 
