@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ictus (stroke) News"
+title: "Schlaganfall (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 7 articles, 11 related drugs."
+description: "Health news about Schlaganfall (stroke). 8 articles, 11 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
-# ictus (stroke) News
+# Schlaganfall (stroke) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>7 news articles</strong> and 11 related drugs.
+<p class="key-answer" data-question="What news is there about Schlaganfall (stroke)?">
+<strong>Schlaganfall (stroke)</strong> currently has <strong>8 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “ictus” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Schlaganfall” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “ictus” and lists the
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [Vorhofflimmern in der Langzeitpflege: Absetzen verändert Schlaganfallrisiko nicht messbar](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
+
+2026-10-28
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
+
+---
 
 ### [La pérdida repentina de visión puede alertar de un ictus: 90.000 nuevos casos al año en España](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
 

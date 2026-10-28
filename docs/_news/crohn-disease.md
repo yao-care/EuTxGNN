@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about Morbus Crohn (crohn disease). 1 articles, 1 related drugs."
 permalink: /news/crohn-disease/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Morbus Crohn (crohn disease) News
@@ -34,7 +34,7 @@ This page brings together the latest health news about “Morbus Crohn” and li
 
 ### [Schon zehn Jahre vor der chronischen Darmentzündung gibt es Anzeichen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
 
-2026-10-27
+2026-10-28
 
 Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
 

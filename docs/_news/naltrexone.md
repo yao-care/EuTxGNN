@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Naltrexone. 4 predicted indications."
 permalink: /news/naltrexone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Naltrexone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Naltrexone?">
-<strong>Naltrexone</strong> currently has <strong>6 news articles</strong>, with 4 predicted indications.
+<strong>Naltrexone</strong> currently has <strong>5 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page combines the AI-predicted indications for Naltrexone with the latest h
 <p><a href="{{ '/drugs/naltrexone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
+### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
 
 ---
 
@@ -51,14 +51,6 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEct
 2026-10-27 <span class="news-indication-tag">obesità</span>
 
 Source: [RavennaToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
-
----
-
-### [Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
-
-2026-10-26 <span class="news-indication-tag">overweight</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
 
 ---
 

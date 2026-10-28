@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 1 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
 
 2026-10-26 <span class="news-indication-tag">dementia</span>
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
-
----
-
-### [7 surprising habits Cambridge experts swear by to slow cognitive decline - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
-
-2026-10-24 <span class="news-indication-tag">dementia</span>
-
-Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
 
 ---
 

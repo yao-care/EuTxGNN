@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news about CKD (chronic kidney disease). 2 articles, 1 related drugs."
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # CKD (chronic kidney disease) News
@@ -40,11 +40,11 @@ Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWF3S1
 
 ---
 
-### [Nierenerkrankungen: 10 Prozent betroffen, doch oft bleibt der Schaden unentdeckt](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
+### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
-2026-10-26
+2026-10-21
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEZxbmZvWGQ4dTVyeXlkN1BTNFVjUFM5Qkd6bF9KbHZwUmkwQ1A0Mko5ODJCSTdLaXpDcE53QUxSVnhCeHFqYkhZNmpNZ295N2Q5aXNEVk80dHlBVThPODFPWnZFbExmdGg2Z2FtNmZfUUU0anlWRHMza2lqOUJPQjRyTVUwR2xDZUdDdVlFMk5nOXBQYnZ4QmlyeHFDd3pGanZSRG1QLXRJSkMyaW93VHlBVEFuN0tkT25yN09yUm9MUzloZnc?oc=5)
+Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer disease) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer disease). 2 articles, 16 related drugs."
+description: "Health news about dementia (alzheimer disease). 1 articles, 16 related drugs."
 permalink: /news/alzheimer-disease/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # dementia (alzheimer disease) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer disease)?">
-<strong>dementia (alzheimer disease)</strong> currently has <strong>2 news articles</strong> and 16 related drugs.
+<strong>dementia (alzheimer disease)</strong> currently has <strong>1 news articles</strong> and 16 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Common painkiller may slash dementia risk by 70% but it won't work for everyone - The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
 
 2026-10-26
 
 Source: [The Sun](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZmUFNCV2lLdEFzVFVzYkxqSlBxM08tSWVrcVVyWHJKWUVKb3dFLW1hNzItdHNFQXBhN29zSHpYdUFZR0g0TElhRWlxdEJmYU5BMGttZ1oxV2dXM1FxNno5VkVSME1LMUU4aUZhNnowcV9PaGtubGZEd25MZFRDdW9kdEhtRW4tUnc?oc=5)
-
----
-
-### [7 surprising habits Cambridge experts swear by to slow cognitive decline - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
-
-2026-10-24
-
-Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGZqYUJ1YW5lazk4RS1XTmVnVmc2UWR5cXZGM1ptLVdOejNVc0dscWU1bGxBNlZkMUQ3cE0wRlJrc1JFVG5vS0pIZHFlM0RKWGd2cjRlaGtfcTFIQklfYXJXVGNnUjh1NVItYkV6SDc1N042X3AzVWtpOFZIVFF4UnZJaktkWUhnRWljcWNB?oc=5)
 
 ---
 

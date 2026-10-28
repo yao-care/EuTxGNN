@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Orlistat. 1 predicted indications."
 permalink: /news/orlistat/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Orlistat News
@@ -35,6 +35,14 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 
 ## Related News (13)
 
+### [Vorhofflimmern in der Langzeitpflege: Absetzen verändert Schlaganfallrisiko nicht messbar](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span> <span class="news-indication-tag">Vorhofflimmern</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
+
+---
+
 ### [La pérdida repentina de visión puede alertar de un ictus: 90.000 nuevos casos al año en España](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
 
 2026-10-27 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
@@ -51,11 +59,11 @@ Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV9
 
 ---
 
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
+### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
 
 ---
 
@@ -88,14 +96,6 @@ Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS05
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">AVC</span>
 
 Source: [Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWxmamlNZEprRXpHeGRORE1Ob1ppcHJEVGRpelJ5REtOT0tfYWh4cDhvNEJONDgxQmc5cDFxSG5TcGdqNWRpeTFZZkhiVFhxRG5FSkhGdW1IUGJNZUpOcVY2c1h1U2MteXRYVTQxUlFUWVBQdGgyaWZMUnRmbnhWM3VfMTk0Wk51VFE3RFF4V0hnaXZDR2xHWFRxa2IyRVIya0EtN0YxTjZFelUxMkZEOFN5V3RMT0Fic2tBY1NzeURWOVFEUWo1UzNkRkhZR1RycnBrOGFkaDVYOXFkU2JaLVZYOVM2bmVYU3c1Vy1ZN2FkX3c?oc=5)
-
----
-
-### [Can cats really thrive on vegan diets? Professor Andrew Knight responds to critics](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
-
-2026-10-26 <span class="news-indication-tag">overweight</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBTb04tLWZaOXJDUlNmdXcxRjlBS3Y3UUZXNUlubUtmSjhTN2MxX0lDVkRjRG9lOEtfTjAyYlNLcm9UVUtpeVMtUnhjcTZsd2VzYTM1MFlIVXNPRjNsd1VqN19YcTR1V1RLSTlJYURFWnM0OF96ZWln?oc=5)
 
 ---
 

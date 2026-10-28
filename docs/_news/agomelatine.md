@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Agomelatine. Original indication: For context, other top-ranked predictions are more.... 1 predicted indications."
 permalink: /news/agomelatine/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Agomelatine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (6)
 
 ### [Depresión circadiana: Identifican un subtipo de depresión ligado al reloj biológico y resistente a los medicamentos comunes](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">depresión</span>
 
 Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
-
----
-
-### [El entrenamiento de la mente compasiva reduce la depresión y la ansiedad en personas con cáncer, según un estudio - Diario Siglo XXI](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0YxMk9lS0w3Z095WHZVYWhpNHlOLTYwY2dweWk0ZllEMVlLOXduUktJWHotandhVE04QkdVUXE0eDBiMHRsa2l5TGU5Ni1BLXN1aTMzYVM1UWJBV2ZOX3hndkFvRVBvVXJ2TzBacnc5OHJjQ0N3ZHplQ19sZnNPbVZ6TzJ2TWhwNjh6MlA1WVZzX0NKUkFVQTh4QUdVb2d3ZVh5WGIzT0tDYlRLb3o5TUFMVTYzY0pWeWpTYWV6MlQ4Uk9XeDVvbF94SjBVbGhjVUdmOWVNNHpYd2dZTE9GeDF3?oc=5)
-
-2026-10-27 <span class="news-indication-tag">depresión</span>
-
-Source: [Diario Siglo XXI](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0YxMk9lS0w3Z095WHZVYWhpNHlOLTYwY2dweWk0ZllEMVlLOXduUktJWHotandhVE04QkdVUXE0eDBiMHRsa2l5TGU5Ni1BLXN1aTMzYVM1UWJBV2ZOX3hndkFvRVBvVXJ2TzBacnc5OHJjQ0N3ZHplQ19sZnNPbVZ6TzJ2TWhwNjh6MlA1WVZzX0NKUkFVQTh4QUdVb2d3ZVh5WGIzT0tDYlRLb3o5TUFMVTYzY0pWeWpTYWV6MlQ4Uk9XeDVvbF94SjBVbGhjVUdmOWVNNHpYd2dZTE9GeDF3?oc=5)
 
 ---
 
@@ -60,11 +52,11 @@ Source: [FAZ](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVJFTEhmR1o2b
 
 ---
 
-### [Un estudio relaciona la depresión con un 81% más de riesgo de mortalidad por cualquier causa - Diario Estrategia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2EwWk9EbWstWXI5b3NmTVNhejJrc0JJeWxsSGVpUklCRVprWXdrX1NLdDd0d0o2YW1zc1dYa2tqN3lKaWZLZkdlOU9PZ3hhM0NsWjZRYUxReVNzb1Z5WVctUnU3S1hpNmMzUjZoZS1KNTRuUlF6OE5TQmo0REhkRl9CNEhUT05QN2VyT3l3WVBCTWNhZ3Yyd1RfLXFzVkMyeWwxRXB3RzRlV3hubzBmWklSeWhaaHVFUFI0SVdYZXRYeVU?oc=5)
+### [Infosalus.- Un estudio relaciona la depresión con un 81% más de riesgo de mortalidad por cualquier causa](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkcFBhdmE0enpfYkdYRjJWU3J1U3ByZzV4N1ZTMmNYU1F3LTJVRTNSanM5QkItMVlmUHpWUXNSbFBIbzBQTDFDNXFneE42RmRFclFiWWV2d0pyazdjUHEwS1psTHdaUldkcThoS1FtY0VkU2FZVUhDak5XSHNsQndhZmc1c013Yk9lZXowY3FHSmhad3dVc1lNWDlvWF9DRHZOS1dYbHJhaFU4dk9jRzFlNDg0ZVNBQ0xoMy1IMlNkc1lSOFQzSldoY0hVOE03YmdaRA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">depresión</span>
 
-Source: [Diario Estrategia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ2EwWk9EbWstWXI5b3NmTVNhejJrc0JJeWxsSGVpUklCRVprWXdrX1NLdDd0d0o2YW1zc1dYa2tqN3lKaWZLZkdlOU9PZ3hhM0NsWjZRYUxReVNzb1Z5WVctUnU3S1hpNmMzUjZoZS1KNTRuUlF6OE5TQmo0REhkRl9CNEhUT05QN2VyT3l3WVBCTWNhZ3Yyd1RfLXFzVkMyeWwxRXB3RzRlV3hubzBmWklSeWhaaHVFUFI0SVdYZXRYeVU?oc=5)
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkcFBhdmE0enpfYkdYRjJWU3J1U3ByZzV4N1ZTMmNYU1F3LTJVRTNSanM5QkItMVlmUHpWUXNSbFBIbzBQTDFDNXFneE42RmRFclFiWWV2d0pyazdjUHEwS1psTHdaUldkcThoS1FtY0VkU2FZVUhDak5XSHNsQndhZmc1c013Yk9lZXowY3FHSmhad3dVc1lNWDlvWF9DRHZOS1dYbHJhaFU4dk9jRzFlNDg0ZVNBQ0xoMy1IMlNkc1lSOFQzSldoY0hVOE03YmdaRA?oc=5)
 
 ---
 
@@ -89,22 +81,6 @@ Source: [Futura, le média qui explore le monde](https://news.google.com/rss/art
 2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
-
----
-
-### [Après 31 ans de dépression et 20 traitements ratés, cet implant cérébral lui rend enfin la joie - Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnFOMnBKaGg2Yko0VkdJQlJFclpGel9fRzdOMjdFNDRSQ3FqQjVLUHRpZmpYVnhiX3hvbE5uY0d3MkdTakN6YS1wRmdjX21QTGt6VlZOcUhWV3VDNWozQ0lFWkNRMTlKd1ZPcFp5dXVjeENiLUgyRFA4dmhhMjBsNXBBU3BuYUVlQWNQTVc5bEg5UjdsNVE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">dépression</span>
-
-Source: [Le Tribunal du Net](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnFOMnBKaGg2Yko0VkdJQlJFclpGel9fRzdOMjdFNDRSQ3FqQjVLUHRpZmpYVnhiX3hvbE5uY0d3MkdTakN6YS1wRmdjX21QTGt6VlZOcUhWV3VDNWozQ0lFWkNRMTlKd1ZPcFp5dXVjeENiLUgyRFA4dmhhMjBsNXBBU3BuYUVlQWNQTVc5bEg5UjdsNVE?oc=5)
-
----
-
-### [Researchers Identify New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5UdWpVel9rLW1ibW1CYWo5cTRWZHBLeXJBNWVhOXBhVWM1RU9BTlh4ckpSUEFQd3AtOE1IcHQ0NjE3MUNMN2h4U0hwZmMxN2tmY09hcHZVUlpNRGU2UjJhTW83REpGSTJfMTdTd2ZFSkR4OFNCWTFwRnRUcjF5MFJ4ZXlfTmZERkxjMUJWZzBsV2JYZVh6QmVWQVJnN3RPTndEbUFlemdvUzA5Z3hTUw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">AF</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMisAFBVV95cUxQRm5UdWpVel9rLW1ibW1CYWo5cTRWZHBLeXJBNWVhOXBhVWM1RU9BTlh4ckpSUEFQd3AtOE1IcHQ0NjE3MUNMN2h4U0hwZmMxN2tmY09hcHZVUlpNRGU2UjJhTW83REpGSTJfMTdTd2ZFSkR4OFNCWTFwRnRUcjF5MFJ4ZXlfTmZERkxjMUJWZzBsV2JYZVh6QmVWQVJnN3RPTndEbUFlemdvUzA5Z3hTUw?oc=5)
 
 ---
 
