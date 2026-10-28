@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Telmisartan?">
-<strong>Telmisartan</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Telmisartan</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ This page combines the AI-predicted indications for Telmisartan with the latest 
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Solo la mitad de los españoles sabría reconocer los síntomas de un ictus - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ictus</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+
+---
+
+### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEI5ZGNtRFlMMmlhMnNGZ1daUktIaE1pSGc0T29tUWRkNzV6TXhaVFlXTFBqVGFqTzFDYldGSEcyR0ZmRmhFVDFSR3EzSFY4RFJYZ2ZPemZJa3VkbUdyNGJJS1htdDluUWRRTUxpSlpuSFYzSUlqZjhWaU9zd2FlRUNKU2w2dWFNQ2Y2TEM4aE1KeU5lQnNfR29BQWFiaGxCOUUyREZ0TndRRW1IV1p5VmMxVDdXakMxRVBj?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEI5ZGNtRFlMMmlhMnNGZ1daUktIaE1pSGc0T29tUWRkNzV6TXhaVFlXTFBqVGFqTzFDYldGSEcyR0ZmRmhFVDFSR3EzSFY4RFJYZ2ZPemZJa3VkbUdyNGJJS1htdDluUWRRTUxpSlpuSFYzSUlqZjhWaU9zd2FlRUNKU2w2dWFNQ2Y2TEM4aE1KeU5lQnNfR29BQWFiaGxCOUUyREZ0TndRRW1IV1p5VmMxVDdXakMxRVBj?oc=5)
+
+---
+
+### [Blutdruckmedikamente: Regelmäßige Einnahme senkt schwere Herzrisiken um 11 Prozent](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Bluthochdruck</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+
+---
 
 ### [Vorhofflimmern in der Langzeitpflege: Absetzen verändert Schlaganfallrisiko nicht messbar](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
 
@@ -52,27 +84,19 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVk
 
 ---
 
-### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe"](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">hipertensión</span>
 
-Source: [Deia](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
 ---
 
-### [La pérdida repentina de visión puede alertar de un ictus: 90.000 nuevos casos al año en España](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
+### ["Accùra! Ogni minuto conta": a Borgo Vecchio arrivano gli screening per riconoscere i sintomi dell'ictus](https://news.google.com/rss/articles/CBMiekFVX3lxTE9VRXFYMllueGVNVS11SmdCT054ME5uUWdNdE9EOG14aXZSYmRTOHFzYVMxaFRBNk9QYmFuclZOYzFLQmlYY3N1YzVNbkphZWtpZkpnd0lmTVY2TUVqRnBhQlpjTDVnQVNZMW80bktjZlM4RF9XRG5rNEZ3?oc=5)
 
-2026-10-27 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
+2026-10-27 <span class="news-indication-tag">stroke</span>
 
-Source: [Modaengafas.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
-
----
-
-### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
+Source: [PalermoToday](https://news.google.com/rss/articles/CBMiekFVX3lxTE9VRXFYMllueGVNVS11SmdCT054ME5uUWdNdE9EOG14aXZSYmRTOHFzYVMxaFRBNk9QYmFuclZOYzFLQmlYY3N1YzVNbkphZWtpZkpnd0lmTVY2TUVqRnBhQlpjTDVnQVNZMW80bktjZlM4RF9XRG5rNEZ3?oc=5)
 
 ---
 
@@ -108,14 +132,6 @@ Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95c
 
 ---
 
-### [Father, aged 38, had 'no idea what my future looked like' after severe stroke - The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
-
----
-
 ### [« Le facteur temps est primordial » : à Quimper, quels sont les signes d’un AVC qui doivent alerter ? - Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
@@ -124,19 +140,19 @@ Source: [Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX
 
 ---
 
+### [Dr Sara warns millions with gut issues and fatigue of urgent medical condition - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
+
+---
+
 ### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
 2026-10-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
 
 Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
-
----
-
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,29 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Giornata mondiale della psoriasi, quante persone ne soffrono al mondo - Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">soriasi</span> <span class="news-indication-tag">AF</span>
+
+Source: [Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+
+---
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
 
 ### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
-
----
-
-### [Psoriasi, la scoperta che accende la speranza: una vitamina può alleviare i sintomi. Ma 137mila italiani restano senza tutele - Secolo d'Italia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYkJsYlE1amdoRkhzTlBPQXJLa2ZKamcxTDN5THVHR2dsWDdGMlhlR1pNdnFDOWJQN1pDVFZETHV0bmFPLVpYZmxtY0otb0toVDZfd1FNZ0xjZ2VFUGFtYWRqcVdJNXE0RE1pVzgweTQ0WlNTUEc3bG9QYlo3cDkzeUE0SnFKS1ZQb0hlWlJ2MDRRLUFMbjFlbG9vZnF1eTVfNHFXOTFpdjJyczVWVC1nMUgwSVdJb21BSGhuV0tlU0NQRkI5WHBCSUJhcklESk9qNmlVNGdPdEpwYk56RlJrZnBTVDJrWFhhU1JNVC0yUFpVUQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">soriasi</span> <span class="news-indication-tag">AF</span>
-
-Source: [Secolo d'Italia](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYkJsYlE1amdoRkhzTlBPQXJLa2ZKamcxTDN5THVHR2dsWDdGMlhlR1pNdnFDOWJQN1pDVFZETHV0bmFPLVpYZmxtY0otb0toVDZfd1FNZ0xjZ2VFUGFtYWRqcVdJNXE0RE1pVzgweTQ0WlNTUEc3bG9QYlo3cDkzeUE0SnFKS1ZQb0hlWlJ2MDRRLUFMbjFlbG9vZnF1eTVfNHFXOTFpdjJyczVWVC1nMUgwSVdJb21BSGhuV0tlU0NQRkI5WHBCSUJhcklESk9qNmlVNGdPdEpwYk56RlJrZnBTVDJrWFhhU1JNVC0yUFpVUQ?oc=5)
 
 ---
 

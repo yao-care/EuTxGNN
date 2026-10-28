@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "hipertensión (hypertension) News"
+title: "Bluthochdruck (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
+description: "Health news about Bluthochdruck (hypertension). 4 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-10-28
 ---
 
-# hipertensión (hypertension) News
+# Bluthochdruck (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
-<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
+<strong>Bluthochdruck (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -65,13 +65,21 @@ This page brings together the latest health news about “hipertensión” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe"](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
+### [Blutdruckmedikamente: Regelmäßige Einnahme senkt schwere Herzrisiken um 11 Prozent](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+
+2026-10-28
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+
+---
+
+### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
 2026-10-27
 
-Source: [Deia](https://news.google.com/rss/articles/CBMirwFBVV95cUxPREpRLWQwdjhadi1kS294UlRvSVpBMDdudnlFQ1FYWnVjdGN6STVIVmdXbkdYanE5bm9xcUJYZnJ1cVk5eXBkOGxtRVhjOWpCSE15dmEyd0ZUaGwxRmMzN25XYjlMSGVVQl9JM1ptMVd6bXY5bzhuY1ZQRFotWmh3Z3NmeUNaUUtHQzV3ZHRxOWtOVW5SUlJDV1k5NVJva0VrazQ4SVBtazJ5ejZkRXY00gG0AUFVX3lxTE5FOVNraUJVVnpzRzl3TGlmNm11aE9VWjJaSVZtaWdONkFQWFV6UDJtUWJweDZGLVF1LUVYOFBCNzBYQ3l4ODF5ZS1YSWRmNXBHZUVkZnZPMjI4TDhCeXFTd29DUlhvdUtmal9WQl9tcWpCazhrS2tPdjA5UjBrZENOd3VaX0FiNTA2MDJwMDdfYUs0LW1DRTdoTGQxVk9Tb3duRVc2R3JCQVpwQ1d2d1IzcTJJRA?oc=5)
+Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
 ---
 

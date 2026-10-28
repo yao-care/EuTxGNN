@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 
 ## Related News (5)
 
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 ---
 
@@ -51,6 +51,14 @@ Source: [RavennaToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3hu
 
 ---
 
+### [L’esercizio fisico resta tabù, ma è l’unico rimedio alla “faccia da Ozempic” - La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
+
+2026-10-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
+
+---
+
 ### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
 
 2026-10-24 <span class="news-indication-tag">obesity</span>
@@ -59,19 +67,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 
 ---
 
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDWEpndWlZYWRjTndFUVh6QUpZZTNzVlg1WVVaZFN0bkRReWM1NjFZMG9NT3JweGQxaFVZVnFVZDdiSjZFY3duYjN2QjZKcVpjb3A3cVRlOWZpTjQ?oc=5)
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 2026-10-22 <span class="news-indication-tag">obesity</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDWEpndWlZYWRjTndFUVh6QUpZZTNzVlg1WVVaZFN0bkRReWM1NjFZMG9NT3JweGQxaFVZVnFVZDdiSjZFY3duYjN2QjZKcVpjb3A3cVRlOWZpTjQ?oc=5)
-
----
-
-### [« Ça m’a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">obésité</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

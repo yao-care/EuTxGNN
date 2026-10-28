@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
+<strong>Orlistat</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,31 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Solo la mitad de los españoles sabría reconocer los síntomas de un ictus - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+
+2026-10-28 <span class="news-indication-tag">ictus</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+
+---
+
+### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+
+---
+
+### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEI5ZGNtRFlMMmlhMnNGZ1daUktIaE1pSGc0T29tUWRkNzV6TXhaVFlXTFBqVGFqTzFDYldGSEcyR0ZmRmhFVDFSR3EzSFY4RFJYZ2ZPemZJa3VkbUdyNGJJS1htdDluUWRRTUxpSlpuSFYzSUlqZjhWaU9zd2FlRUNKU2w2dWFNQ2Y2TEM4aE1KeU5lQnNfR29BQWFiaGxCOUUyREZ0TndRRW1IV1p5VmMxVDdXakMxRVBj?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Schlaganfall</span>
+
+Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEI5ZGNtRFlMMmlhMnNGZ1daUktIaE1pSGc0T29tUWRkNzV6TXhaVFlXTFBqVGFqTzFDYldGSEcyR0ZmRmhFVDFSR3EzSFY4RFJYZ2ZPemZJa3VkbUdyNGJJS1htdDluUWRRTUxpSlpuSFYzSUlqZjhWaU9zd2FlRUNKU2w2dWFNQ2Y2TEM4aE1KeU5lQnNfR29BQWFiaGxCOUUyREZ0TndRRW1IV1p5VmMxVDdXakMxRVBj?oc=5)
+
+---
 
 ### [Vorhofflimmern in der Langzeitpflege: Absetzen verändert Schlaganfallrisiko nicht messbar](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkRVSXpQX2U1aElYVEFYT1lqWmpzenY3MWhIZ0FhdW9oOVFQYzJRNzJCa3Z0azhjbnlETUt2dnlSZFFtWEp0THhndG1ybkRXU1UydGtmd2FNU0NWRTZCb0FScXVnNXdENmhDSnRrczBkSmxqbU41cWs4M1VPTmZyOG42a2RQVnpTWFhIcGtPUWlIbTNvaFJhbF8yQTRmUmpUeFN3c2x3OU40U3VVVEk3VDBPNFBUR3pZdFgyV3FYbC1QWnVfSGpsZ1dJUTFRWVg0SVJrMQ?oc=5)
 
@@ -43,27 +67,11 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVk
 
 ---
 
-### [La pérdida repentina de visión puede alertar de un ictus: 90.000 nuevos casos al año en España](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
-
-2026-10-27 <span class="news-indication-tag">ictus</span> <span class="news-indication-tag">AF</span>
-
-Source: [Modaengafas.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW9LSGEtcm5aV2h3SzNnanRWNzVsVlZWZmJmTmJ3WU5OQnplMkVCNnRaT0pETHNaYXpTazFubUJ4OFBURXFLUi1oelo2LWZ2WWdsVEp1OWZ4Snl2Q3VTd1I4QkxVUUpZVWFUZlBzU0FCQ1p6MnJxLUp3dE5CZXppMk1jN0R4bzhUaHlfX3FmbGJqaVJCWDVwY21Jd05PZHVJekVLRmNXZ2NjSk5oZ3FYeEMydFVuem82?oc=5)
-
----
-
-### [Können bestimmte Vitamine vor einem Schlaganfall schützen? - Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
-
-2026-10-27 <span class="news-indication-tag">Schlaganfall</span>
-
-Source: [Augsburger Allgemeine](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdhYmRWT2V5cVRIMUdIaVVrLXAtQXhZNG5ueFVDYS1ocjdMWUQ3LXppVkdrOXFfMUZrQjBpWTBfNXhkSVhTVy1lcnRlRWVPRldGV25rSk9Wc2MtR1BzdUpiTjV6TU1wYzN2R2E3eXVaNEZxcFNzeGlMa3BTLWJsdHp3LW1KSlFLWGdjX215V2llM3dhY2N0ZmxVOWR4aHhRQmNVMjRXUWpxbFF0UEVNUmQ5aU5qSzFE?oc=5)
-
----
-
-### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">obesidad</span>
 
-Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRDWHl0Ylk2eFBDaXBzck5RbjNocHhrMnFfekpIWUVoNHhwajRhTEswSXZ3MV9nWU4ySWpGZjVmUjhzaWhMNUtPNGlqUGhDWWdzRlFwSXRyVVF4cHRBUkt4aWFiS2tQRTBOQWpld1hiRXBXTU9RRlFZS0E5ZnhHR19wUkR1LW03NXZUTEFCeFNnQXZJaWFST3p5bEU4NlFvVXFQUElxOG40ZXNWcjV2Vkl4eVgyYlNvTFJtM0dKR0dNU280dHNCdnpidndqMVdMMQ?oc=5)
+Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 
 ---
 
@@ -72,6 +80,14 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcnlmbWRD
 2026-10-27 <span class="news-indication-tag">obesità</span>
 
 Source: [RavennaToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
+
+---
+
+### ["Accùra! Ogni minuto conta": a Borgo Vecchio arrivano gli screening per riconoscere i sintomi dell'ictus](https://news.google.com/rss/articles/CBMiekFVX3lxTE9VRXFYMllueGVNVS11SmdCT054ME5uUWdNdE9EOG14aXZSYmRTOHFzYVMxaFRBNk9QYmFuclZOYzFLQmlYY3N1YzVNbkphZWtpZkpnd0lmTVY2TUVqRnBhQlpjTDVnQVNZMW80bktjZlM4RF9XRG5rNEZ3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">stroke</span>
+
+Source: [PalermoToday](https://news.google.com/rss/articles/CBMiekFVX3lxTE9VRXFYMllueGVNVS11SmdCT054ME5uUWdNdE9EOG14aXZSYmRTOHFzYVMxaFRBNk9QYmFuclZOYzFLQmlYY3N1YzVNbkphZWtpZkpnd0lmTVY2TUVqRnBhQlpjTDVnQVNZMW80bktjZlM4RF9XRG5rNEZ3?oc=5)
 
 ---
 
@@ -99,19 +115,19 @@ Source: [Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWx
 
 ---
 
-### [Father, aged 38, had 'no idea what my future looked like' after severe stroke - The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">AF</span>
-
-Source: [The Worcester News](https://news.google.com/rss/articles/CBMingFBVV95cUxQOWxYblpJRWhSWkVBVnRROTktNGg5d3JFYlBMOGNCNTEzNU9FeVVCWExwYlY2aVdmUmRoOUF4VjAtT2FPWkI2b0dZMkN2SzNtVmM4cGE4SjFVTnVRbDNlNThqeEJJM1VpVTRyQUd4aTRqMUl4aEhMSmxDUjBNNjBGUVJmWnRiQklfMk5yeUdMbUJHbnJQemhnOVNfeWgtZw?oc=5)
-
----
-
 ### [« Le facteur temps est primordial » : à Quimper, quels sont les signes d’un AVC qui doivent alerter ? - Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">accident vasculaire cérébral</span>
 
 Source: [Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
+
+---
+
+### [L’esercizio fisico resta tabù, ma è l’unico rimedio alla “faccia da Ozempic” - La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
+
+2026-10-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
+
+Source: [La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
 
 ---
 
@@ -123,19 +139,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 
 ---
 
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDWEpndWlZYWRjTndFUVh6QUpZZTNzVlg1WVVaZFN0bkRReWM1NjFZMG9NT3JweGQxaFVZVnFVZDdiSjZFY3duYjN2QjZKcVpjb3A3cVRlOWZpTjQ?oc=5)
+### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 2026-10-22 <span class="news-indication-tag">obesity</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDWEpndWlZYWRjTndFUVh6QUpZZTNzVlg1WVVaZFN0bkRReWM1NjFZMG9NT3JweGQxaFVZVnFVZDdiSjZFY3duYjN2QjZKcVpjb3A3cVRlOWZpTjQ?oc=5)
-
----
-
-### [« Ça m’a pris environ 30 minutes » : elle a obtenu son traitement anti-obésité en quelques clics - Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">obésité</span>
-
-Source: [Le Progrès](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTDJUTU5wbERuaEc3dHo3SGp6eVMzTHhhMGFYVHZfSDV6UHcxZlVrSGl6b1ZSMUliOEdTRUFHVXN4WjZDQ2tNTGRhVGhvMldVS21GcFVLakhwdG5MT1EwS3FOc1M2aENJS19QQVlOQ0lZTDFTVDg5WEJ2RU0xb2tFbzlXZjRkZlluZm1tNlJqMGtmSDZBY1Ntc2s0YXkxSEVJWVRZNFpvM0RtV0JYeVBWTFhPcXBvYmNJaGZyWjllUEFSbERhQkg3SmVQdnV0bGVUcWtnN1B2MU5SZ0R3eXc?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

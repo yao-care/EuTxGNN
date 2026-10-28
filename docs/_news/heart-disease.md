@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "heart disease News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 1 articles, 57 related drugs."
+description: "Health news about heart disease. 1 articles, 57 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
-# cardiovascular disease (heart disease) News
+# heart disease News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease?">
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 57 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -70,11 +70,11 @@ This page brings together the latest health news about “cardiovascular disease
 
 ## Related News (1)
 
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+### [Dr Sara warns millions with gut issues and fatigue of urgent medical condition - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
-2026-10-21
+2026-10-22
 
-Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
 ---
 

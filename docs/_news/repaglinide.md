@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Repaglinide?">
-<strong>Repaglinide</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Repaglinide</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ This page combines the AI-predicted indications for Repaglinide with the latest 
 <p><a href="{{ '/drugs/repaglinide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Typ-2-Diabetes und MASLD: Warum leitliniengerechte Therapie oft ausbleibt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
+
+---
+
+### [GLP-1-Mittel bei Nierenerkrankung: Renale Ereignisse seltener ohne Diabetes](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFh4LXdDUEZkVmxsbU9QSlJhVGxjNGRhTE1UUXViYVBkVTNvSkF5QW1lY1dSV1BaSkZLb0ZoT3NqSFhfNkxIclNwbXFadzd0aGFpV2xvcW5vVnRybnBoY1BMRGFPS1dQWS1rTmV3Q2FUQXI4VTJ2V1hWN2w4d21fMnRfbUp1SEU1b3I1NlBoQ1hrNDFUeTdtQmxzSEZIMFhNaVpRQlJjaFFmNnZBRXVnR0N3T241WUg4ZzN3Q0JURWo?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFh4LXdDUEZkVmxsbU9QSlJhVGxjNGRhTE1UUXViYVBkVTNvSkF5QW1lY1dSV1BaSkZLb0ZoT3NqSFhfNkxIclNwbXFadzd0aGFpV2xvcW5vVnRybnBoY1BMRGFPS1dQWS1rTmV3Q2FUQXI4VTJ2V1hWN2w4d21fMnRfbUp1SEU1b3I1NlBoQ1hrNDFUeTdtQmxzSEZIMFhNaVpRQlJjaFFmNnZBRXVnR0N3T241WUg4ZzN3Q0JURWo?oc=5)
+
+---
 
 ### [Un aceite de oliva para mejorar el funcionamiento del riñón en personas con diabetes tipo 2 - El Obrero](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmdUbkY5NGF2bWJpTm02U1NYa2UzQ3NYbHUtMHV0R3dxb2xiQUU2RUFuZWU1TzFvem9CQ2FFX0pUQ0d3ZXNoX05valVCcGVQV1ZVeWZNSV9zdmlVXzYwUFdVak1sSjkzVVl2NGJQUGhUUTBYRVphMmZqOC12OUNOZGtneUxHYWphZE1rc3Z1YVEzZTM4ZWtBajFqdHV5S2tLcFJLVlhsMnV1X05hamEzaUVMMUhaOEY2NjREZG5IZERkRkxoVWcxZmVZNTNGeUEtV1JZdi1n?oc=5)
 
@@ -48,14 +64,6 @@ Source: [El Obrero](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQmdUbkY
 2026-10-27 <span class="news-indication-tag">diabète</span>
 
 Source: [Sciencepost](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZXloVzdTNVFiRUppb1lwX1pwNVFUMjAzUEFVMzdiUnpfb2Q5aVVmRmp3RWEyQi1WVnFMZ0RDNExvOWRaME9SS3FQbnlRY3duSG5IcGtRMnVpaV9CX0pMTzZWeGJZMXdyT2J3VzRSRWdmbVkzdWZxWHRLdEZTUzhrdHBLVnFmWEp4d2Z1cThabHZpaC1ZMXd0emgzZ2pEUW9udWZRbEgxckRmU2VwMVpGdngxSDM1Y0NVdzh4aVQzR3NfbGZfOHBXODV2UkNRbnE5TDdZTnZjcEVmOEQ2bmltNzRfZFBtaGk4QTJuUUFuRENhVUxqZHktVlBobHdVOU0zaW5zai01RTFrMnAxMUlYRHYtaEFIeGlfd0lpMGY2cWdmeVk2S0p5Zw?oc=5)
-
----
-
-### [Diabetes, Alzheimer, Herzinfarkt: So viele Hochrisiko-Gene trägt jeder Mensch in sich](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWdLUmR0U1lLOHdHSElmZHJpMkFkeFJqNE5oVEpuLThBVDU1cEJ1RVJ3VFZtenNjTmJVNFUwWE9IS0YtMEwyX25sSG4yT2hRMjZPcExPQl9aU1pqMFR2TnFRSW1hRTBKWUljZ2RXamxhRHdhcktWNEIxQ0xpcjQ5UGxocm0xanhBd24wYm52VkxENTJYdndya3VwdDRHamlFd284dUR0c1RQUkt3bWJrdm5tUEJGZ0RBeFZ1QXVyZEMyYzhHUEMxQkZoYWRjNlMzRzF4YjV6Z3ZjTWZTVklsUVZLdDFuUkFm?oc=5)
-
-2026-10-27 <span class="news-indication-tag">diabetes</span>
-
-Source: [WELT](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWdLUmR0U1lLOHdHSElmZHJpMkFkeFJqNE5oVEpuLThBVDU1cEJ1RVJ3VFZtenNjTmJVNFUwWE9IS0YtMEwyX25sSG4yT2hRMjZPcExPQl9aU1pqMFR2TnFRSW1hRTBKWUljZ2RXamxhRHdhcktWNEIxQ0xpcjQ5UGxocm0xanhBd24wYm52VkxENTJYdndya3VwdDRHamlFd284dUR0c1RQUkt3bWJrdm5tUEJGZ0RBeFZ1QXVyZEMyYzhHUEMxQkZoYWRjNlMzRzF4YjV6Z3ZjTWZTVklsUVZLdDFuUkFm?oc=5)
 
 ---
 
@@ -91,6 +99,14 @@ Source: [Deia](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmRvZ3lXWTl4
 
 ---
 
+### [A Zurigo un impianto brucia lo zucchero nel sangue senza farmaci - Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
+
+2026-10-26 <span class="news-indication-tag">diabete</span>
+
+Source: [Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
+
+---
+
 ### [Was Ärzte bei 2 von 3 Patienten mit Diabetes übersehen](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFlYR05CeG5kNUY3R0M3X1EtNUJtY0dyUWZBTGZLMU12QVd1ZkhWY2lPUmRQRzJOTWMxYUNvZjljbDNscjNBQWQyR2ExZ09zMTVEWlFwZ21iWXA1NXd6aklaY3F4U3lrTy10V2ZJQTkwcE9RUE9TNHRpTW5Ud2wxcXVHMXBvT3kxUVpGLUpGSjNqOXBKcGhTa25ZQXlXYXYwSTNmLVNSWG14STFE?oc=5)
 
 2026-10-26 <span class="news-indication-tag">diabetes</span>
@@ -99,11 +115,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFlYR05C
 
 ---
 
-### [Erhöhtes Risiko für Typ-1-Diabetes bei früh stagnierender Reifung des Darmmikrobioms – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+### [L’esercizio fisico resta tabù, ma è l’unico rimedio alla “faccia da Ozempic” - La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
 
-2026-10-23 <span class="news-indication-tag">diabetes</span> <span class="news-indication-tag">MS</span>
+2026-10-24 <span class="news-drug-tag">Semaglutide</span> <span class="news-indication-tag">diabetic</span> <span class="news-indication-tag">obesità</span>
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWhzMzhhYXdZWGZiZ1FCam02WTU1a0FsWGhhSkdBd0JVRTlOSTVJYTBkc3VGRHNOejhldFlWQ2dhMkdlWHM4QWdJY3hIUFlqZ0JORmttQzRpU2cxRG83U1pyNXlKblVnUjF1SlEzd1BIN2JNNmVKdXVmWEYzeXhkVHBVT0VZRFRCblRrZ2FSQTNMbnRXUVFsYjVkT1dfTTJvb2RUMU43Rk1Pa1J0Vm9lNmZ0a0pLaDBsRXdlLXJZZmFHZ2RnWjlkY1FiM0ZyWEEwVTA1QXlYQVdGWWNmdXplZzZPaHk4dC1G?oc=5)
+Source: [La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
 
 ---
 

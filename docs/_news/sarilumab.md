@@ -35,11 +35,19 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 
 ## Related News (6)
 
-### [Schon zehn Jahre vor der chronischen Darmentzündung gibt es Anzeichen](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
+### [Darm: Forscher fanden Muster, die Hoffnung auf eine Früherkennung machen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlBIUkYxVVNpQm03dkhMMWpYTDd5TTNJRGJSSk1VQkNzQ096aF9SRzdjSzdqOUljUHNYR0xoTmpMeGFZTV9RS0NwZWdBWExJSjNsU09qRzlhenNrOEtrdjV5ZHgwaWtUN25ZWDVySTBONV9EZ1kxMXJwdUM3U3hDeHJkNDg5Mmt0MGU1cUMxNkhRU0NQeWdKMDlwNUl0Zy1qZVhnY1FNbXdDcUFlZ0x2NVlYUEF6MzRxaU90X0s3OWh6czdFUjlQTG5LeTUxX2pGcXBzM0ZR?oc=5)
 
 2026-10-28 <span class="news-indication-tag">Morbus Crohn</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX3ZNLTl3b2NZZ3plNWJsRTI5YnotR21iM1Brc0NHYWE3Qy1nQ3NEZmoyazhKVkJjSktrcFJFZ3k1eFpLWjhwdUFYNmFpR2lhcVB2RWQ1d3IyMWE0M1htR2RSUkp3dV9ldVpiRzlsdzhWNlhHdTNUUUFBZ1JGZnZ5VFoyLUpiWGUwT3dvd04wM2t5LXIzRXZOamZEVHBuQ0dhR2p6bkM0Qk5iWmRfeEt4MHE4SmZsblJuV0dQYWJRR0FiVk8wZ2kzVXZvUW1UcEtxNk5sb0JaZGpVbFU?oc=5)
+Source: [WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlBIUkYxVVNpQm03dkhMMWpYTDd5TTNJRGJSSk1VQkNzQ096aF9SRzdjSzdqOUljUHNYR0xoTmpMeGFZTV9RS0NwZWdBWExJSjNsU09qRzlhenNrOEtrdjV5ZHgwaWtUN25ZWDVySTBONV9EZ1kxMXJwdUM3U3hDeHJkNDg5Mmt0MGU1cUMxNkhRU0NQeWdKMDlwNUl0Zy1qZVhnY1FNbXdDcUFlZ0x2NVlYUEF6MzRxaU90X0s3OWh6czdFUjlQTG5LeTUxX2pGcXBzM0ZR?oc=5)
+
+---
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 ---
 
@@ -72,14 +80,6 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OE
 2026-10-27 <span class="news-indication-tag">asthma</span>
 
 Source: [ZWP online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzRuLWJqOXVTZUZiRnR5M0w1SWRsTTgzMTZfY1FSR0J6QmNuRkY2ampVSkU1bkNCNnZkVVVoM2hZLVhGclhUelhjQVM3ZkEtQmVRNGNwY04yZ0V5R090UlhRRWVOSXRuSk05d0ZHSFlJekZSeDVtRk9FeEVtWHZ1SnNEMFNaTl9DSVNMU0hwMFlDM25zSU5jMm03dUFVZ0Nzbm1qRFpZd2lmMm1lMXAxTXpSZ0VkejdfWXAw?oc=5)
-
----
-
-### [Premier succès prometteur d’un vaccin ARN contre le mélanome : à l’aube d’une révolution en cancérologie ? - Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">asma</span>
-
-Source: [Le Figaro Santé](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeThRWVZHaEM1S1BmWlhtZGtSZ0duQVp1OTh5ajRRVm10dW5VUXpmemNkc1dtUlJLdmduVWhXejdTYjROcjM0NzlkQnhRcDRESkxwNzBXcFFTV2ZQQVJvUUFNdWpCbW5kWGlObFlMYTdNdWdWbWRLNTJuTmRseEZKa2MwY3lyQ1pzQXRDRFRQSEFXMUJnRmlhYWNOSWMyODNUc2twTzRqNnE2cHVVSWJvaE45VWNfU3lYTlNDVnRXbkQ2LUdyNTQ5UjlyNDVEanRwYmZodnloRy1lZndRYXQw?oc=5)
 
 ---
 

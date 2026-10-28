@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Tenecteplase. Original indication: Because no trials or literature specific to this s.... 1 predicted indications."
 permalink: /news/tenecteplase/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Tenecteplase News
@@ -36,11 +36,11 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 
 ## Related News (1)
 
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+### [Dr Sara warns millions with gut issues and fatigue of urgent medical condition - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
+2026-10-22 <span class="news-indication-tag">heart disease</span>
 
-Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
 ---
 

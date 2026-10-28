@@ -3,9 +3,9 @@ layout: default
 title: "artritis (arthritis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about artritis (arthritis). 2 articles, 73 related drugs."
+description: "Health news about artritis (arthritis). 3 articles, 73 related drugs."
 permalink: /news/arthritis/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # artritis (arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about artritis (arthritis)?">
-<strong>artritis (arthritis)</strong> currently has <strong>2 news articles</strong> and 73 related drugs.
+<strong>artritis (arthritis)</strong> currently has <strong>3 news articles</strong> and 73 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -87,7 +87,15 @@ This page brings together the latest health news about “artritis” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
 
 ### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
 

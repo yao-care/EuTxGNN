@@ -5,7 +5,7 @@ parent: 📰 Health News
 nav_exclude: true
 description: "Health news related to Abemaciclib. 1 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">arthritis</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
 
 ### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
 
@@ -51,11 +59,11 @@ Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUF5OE
 
 ---
 
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+### [Dr Sara warns millions with gut issues and fatigue of urgent medical condition - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span>
+2026-10-22 <span class="news-indication-tag">heart disease</span>
 
-Source: [CNN](https://news.google.com/rss/articles/CBMipAFBVV95cUxQbXY1MGtoRUVSRUV6MTY4MVB5bktXOHdZWHB3NWY1bklnZFI4dV9zUDgzWjljQXY3SzJXV2Y0b1FhTUpiblNVdjVDUzhpMGdQOWRMcFZ3NVdkZHlicGtybER4Ri10eXQwbVRCQmFfUmJOYVBJSFNXTEhYYTZpMEZMQXQ0SEFPVmNzLWlMMFg1Q20yTmxoVlFTbTduSEFVbEpoSEJ6MQ?oc=5)
+Source: [The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
 
 ---
 
