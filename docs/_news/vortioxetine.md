@@ -3,7 +3,7 @@ layout: default
 title: "Vortioxetine News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Vortioxetine. 1 predicted indications."
+description: "Health news related to Vortioxetine. 2 predicted indications."
 permalink: /news/vortioxetine/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,14 +26,15 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Neurotic disorder</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>neurotic disorder</li>
+<li>benign paroxysmal torticollis of infancy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Depresión circadiana: Identifican un subtipo de depresión ligado al reloj biológico y resistente a los medicamentos comunes](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
 
@@ -67,17 +68,9 @@ Source: [L'essentiel](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pN
 
 ---
 
-### [Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
-
-2026-10-27 <span class="news-indication-tag">dépression</span>
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
-
----
-
 ### [Nose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
 
-2026-10-26 <span class="news-indication-tag">depression</span> <span class="news-indication-tag">MS</span>
+2026-10-26 <span class="news-indication-tag">depression</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
 

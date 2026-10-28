@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "Bluthochdruck (hypertension) News"
+title: "hipertensión (hypertension) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Bluthochdruck (hypertension). 4 articles, 55 related drugs."
+description: "Health news about hipertensión (hypertension). 3 articles, 55 related drugs."
 permalink: /news/hypertension/
 last_modified_at: 2026-10-28
 ---
 
-# Bluthochdruck (hypertension) News
+# hipertensión (hypertension) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about Bluthochdruck (hypertension)?">
-<strong>Bluthochdruck (hypertension)</strong> currently has <strong>4 news articles</strong> and 55 related drugs.
+<p class="key-answer" data-question="What news is there about hipertensión (hypertension)?">
+<strong>hipertensión (hypertension)</strong> currently has <strong>3 news articles</strong> and 55 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “Bluthochdruck” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “hipertensión” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,6 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/apremilast/' | relative_url }}">Apremilast</a></li>
 <li><a href="{{ '/drugs/aprepitant/' | relative_url }}">Aprepitant</a></li>
 <li><a href="{{ '/drugs/deferiprone/' | relative_url }}">Deferiprone</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Elexacaftor</a></li>
 <li><a href="{{ '/drugs/entrectinib/' | relative_url }}">Entrectinib</a></li>
 <li><a href="{{ '/drugs/erdafitinib/' | relative_url }}">Erdafitinib</a></li>
 <li><a href="{{ '/drugs/febuxostat/' | relative_url }}">Febuxostat</a></li>
@@ -46,12 +45,8 @@ This page brings together the latest health news about “Bluthochdruck” and l
 <li><a href="{{ '/drugs/isavuconazole/' | relative_url }}">Isavuconazole</a></li>
 <li><a href="{{ '/drugs/lonafarnib/' | relative_url }}">Lonafarnib</a></li>
 <li><a href="{{ '/drugs/lumacaftor/' | relative_url }}">Lumacaftor</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Macitentan</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Netupitant</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Ospemifene</a></li>
 <li><a href="{{ '/drugs/prasugrel/' | relative_url }}">Prasugrel</a></li>
 <li><a href="{{ '/drugs/rasburicase/' | relative_url }}">Rasburicase</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Riociguat</a></li>
 <li><a href="{{ '/drugs/roflumilast/' | relative_url }}">Roflumilast</a></li>
 <li><a href="{{ '/drugs/selexipag/' | relative_url }}">Selexipag</a></li>
 <li><a href="{{ '/drugs/selpercatinib/' | relative_url }}">Selpercatinib</a></li>
@@ -65,15 +60,7 @@ This page brings together the latest health news about “Bluthochdruck” and l
 </ul>
 </div>
 
-## Related News (4)
-
-### [Blutdruckmedikamente: Regelmäßige Einnahme senkt schwere Herzrisiken um 11 Prozent](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
-
-2026-10-28
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
-
----
+## Related News (3)
 
 ### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
@@ -83,11 +70,11 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
-2026-10-27
+2026-10-23
 
-Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Bupropion News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Bupropion. 1 predicted indications."
+description: "Health news related to Bupropion. 0 predicted indications."
 permalink: /news/bupropion/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Bupropion?">
-<strong>Bupropion</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Bupropion</strong> currently has <strong>6 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,14 +26,19 @@ This page combines the AI-predicted indications for Bupropion with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Attention deficit-hyperactivity disorder</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Die Fettleber wird immer jünger](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">Adipositas</span>
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
+
+---
 
 ### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 

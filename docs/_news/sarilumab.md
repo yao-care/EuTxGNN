@@ -3,7 +3,7 @@ layout: default
 title: "Sarilumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Sarilumab. 1 predicted indications."
+description: "Health news related to Sarilumab. 0 predicted indications."
 permalink: /news/sarilumab/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Sarilumab?">
-<strong>Sarilumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Sarilumab</strong> currently has <strong>7 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,20 +26,25 @@ This page combines the AI-predicted indications for Sarilumab with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/sarilumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Darm: Forscher fanden Muster, die Hoffnung auf eine Früherkennung machen](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlBIUkYxVVNpQm03dkhMMWpYTDd5TTNJRGJSSk1VQkNzQ096aF9SRzdjSzdqOUljUHNYR0xoTmpMeGFZTV9RS0NwZWdBWExJSjNsU09qRzlhenNrOEtrdjV5ZHgwaWtUN25ZWDVySTBONV9EZ1kxMXJwdUM3U3hDeHJkNDg5Mmt0MGU1cUMxNkhRU0NQeWdKMDlwNUl0Zy1qZVhnY1FNbXdDcUFlZ0x2NVlYUEF6MzRxaU90X0s3OWh6czdFUjlQTG5LeTUxX2pGcXBzM0ZR?oc=5)
+### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
-2026-10-28 <span class="news-indication-tag">Morbus Crohn</span>
+2026-10-28 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [WELT](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQlBIUkYxVVNpQm03dkhMMWpYTDd5TTNJRGJSSk1VQkNzQ096aF9SRzdjSzdqOUljUHNYR0xoTmpMeGFZTV9RS0NwZWdBWExJSjNsU09qRzlhenNrOEtrdjV5ZHgwaWtUN25ZWDVySTBONV9EZ1kxMXJwdUM3U3hDeHJkNDg5Mmt0MGU1cUMxNkhRU0NQeWdKMDlwNUl0Zy1qZVhnY1FNbXdDcUFlZ0x2NVlYUEF6MzRxaU90X0s3OWh6czdFUjlQTG5LeTUxX2pGcXBzM0ZR?oc=5)
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
+
+---
+
+### [Nucala ya está disponible y financiado en España para pacientes con EPOC eosinofílica - IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
+
+2026-10-28 <span class="news-drug-tag">Mepolizumab</span> <span class="news-indication-tag">EPOC</span>
+
+Source: [IM Médico](https://news.google.com/rss/articles/CBMivwFBVV95cUxPOWktRkZoZXZHc1RmTlJmaGhhWklhZnFLME5NbVNqcTRRenN2NHZQXy1vWU1mUDhXMDdmZnFWdk96bkpuNUFsaEZ0cHdzLVRqM0dBYUJEOFJTZkNNaXlTX3A3T3pLSkZRNkVjbmhkNl9MUkFYSTVFS3ZQQnhIQm82alRaejdyeTZoOFRKcUsyb1hzeFpnU2VsT1pOWXZ3Z2lVY0xzUlNRdmFMVmVfQVNDejljREkxbEgyQk9FSkVmTdIBugFBVV95cUxPNGY0V0tiemNoSjlsWDFWNTVqbTFfaDBiU2ozUC01SHhLcUROemFwMzBmdTNpOE1XTVpXRXRKYzdyeER0T0RSSjJUSl9WWE1wR0dYc1RWQWszX0RyS3lTd29LLVlkOEdoZjdxM2dJY2I5a2RrYjhteDBLbWtMS21iZXNEWTJiajJOMXFfTkF6ZGtheDB0MEM2bENzWWU4M1ktLXlVLXNORVNFRVgzb3h1dEpvMkVnemVzT3c?oc=5)
 
 ---
 

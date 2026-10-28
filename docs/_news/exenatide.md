@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/exenatide/">
-<meta http-equiv="refresh" content="0; url=/drugs/exenatide/">
-<script>location="/drugs/exenatide/"</script>
-<a href="/drugs/exenatide/">/drugs/exenatide/</a>
+<link rel="canonical" href="{{ site.url }}/news/">
+<meta http-equiv="refresh" content="0; url=/news/">
+<script>location="/news/"</script>
+<a href="/news/">/news/</a>
 </html>

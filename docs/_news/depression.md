@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 6 articles, 7 related drugs."
+description: "Health news about depresión (depression). 5 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>6 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [Depresión circadiana: Identifican un subtipo de depresión ligado al reloj biológico y resistente a los medicamentos comunes](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
 
@@ -65,14 +65,6 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkc
 2026-10-27
 
 Source: [L'essentiel](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pNG5vSTB5enVVTEFWVElOLWR0VUE0dy1KUjlRaGh3UHpGZUdMX0g4bmZHNEpRMmU4azdjemxfMUpBbVhka2E1Mkgwd0tlVnVmUU0yV18tVjk5aEFUT0d2WDYzZ0VIaEdxVG1Eb0JHajVmMFBXUHlEWjZaMmxfYzFyYXJXMnhJcVhSeDc5QmpfMlBDclBLa1U3d3ktSUR5dlM4T3F0bGZGcDQ4cmNrX19DSkU4SloxWU9ndlRhVm1vTTQt?oc=5)
-
----
-
-### [Qu’est-ce que la dépression « circadienne », un nouveau type de dépression qui concernerait jusqu’à 25% des personnes dépressives ? - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
-
-2026-10-27
-
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQaHhuUTh4cWpjSVAtbGEyVmFTVDNvSjdSekRMbjN3TnBEcnRHdk42ZVBiMkI1TUU5VTFnQlpzbHpjUDJRWXFhQXJMd1l0bU9GVnR4V2Z3M3ZmMGtiZVBlY0xMSjZhMzh1ck9MSGxwMlVKSjdLemtQeUNlUFYtZ1hzRDByeXdUeUlhdDlVdHdWaWdob2hBMy1lb0IyZXJ5cEl4NElWUWFYRTFkbnZXYVoxS2JkVW9kVFRWeE95dV8yRkd3Ty1YTE5pcEJpMXVBV3lOYW8xXzQ0WU54cVU2eU1HbThtMGVWdjNuWnFnMUtKTGdURnJEZDduSTNaLVI?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Alirocumab. 1 predicted indications."
+description: "Health news related to Alirocumab. 10 predicted indications."
 permalink: /news/alirocumab/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Alirocumab?">
-<strong>Alirocumab</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Alirocumab</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,23 @@ This page combines the AI-predicted indications for Alirocumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ichthyosis, X-linked, without steroid sulfatase deficiency</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>ichthyosis, X-linked, without steroid sulfatase deficiency</li>
+<li>disorder of other vitamins and cofactors metabolism and transport</li>
+<li>xanthomatosis (disease)</li>
+<li>46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect</li>
+<li>cholesterol catabolic process disease</li>
+<li>46,XY disorder of sex development due to a cholesterol synthesis defect</li>
+<li>dappled diaphyseal dysplasia</li>
+<li>neutral lipid storage disease</li>
+<li>3-hydroxyacyl-CoA dehydrogenase deficiency</li>
+<li>spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alirocumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Obst und Gemüse bei Übersäuerung können wirksamer sein als Medikamente](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWF3S1IzWEFMZG1sQmJFRlBPMkVqRUVXWmdLNnBNcWVnZy1OTFNESDNFVDZ5WkNoS0piTV9Cazh2c0k5aEZrOGNiUHlDMmY5MWlQMFBmaktCODNIeFg2enNsb1lIX0dWdlY5U0toOUZlZ1dIMnZ2VXNUU0xMMGpyOGt4cnVXUUpUZE12TVpYRk9xZmNKZUtSNDZXWk92VFBzNVV0dUJvUUo0NVRhY0dHNV82bW1malVDRUk3QTluU05nSC1LN1k1OGVvSQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">CKD</span>
-
-Source: [Heilpraxis](https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWF3S1IzWEFMZG1sQmJFRlBPMkVqRUVXWmdLNnBNcWVnZy1OTFNESDNFVDZ5WkNoS0piTV9Cazh2c0k5aEZrOGNiUHlDMmY5MWlQMFBmaktCODNIeFg2enNsb1lIX0dWdlY5U0toOUZlZ1dIMnZ2VXNUU0xMMGpyOGt4cnVXUUpUZE12TVpYRk9xZmNKZUtSNDZXWk92VFBzNVV0dUJvUUo0NVRhY0dHNV82bW1malVDRUk3QTluU05nSC1LN1k1OGVvSQ?oc=5)
-
----
+## Related News (1)
 
 ### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 

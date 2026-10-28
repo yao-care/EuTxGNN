@@ -3,7 +3,7 @@ layout: default
 title: "Regadenoson News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Regadenoson. 1 predicted indications."
+description: "Health news related to Regadenoson. 4 predicted indications."
 permalink: /news/regadenoson/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Regadenoson?">
-<strong>Regadenoson</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Regadenoson</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,11 @@ This page combines the AI-predicted indications for Regadenoson with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Anaphylaxis</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>anaphylaxis</li>
+<li>food-dependent exercise-induced anaphylaxis</li>
+<li>esotropia</li>
+<li>pseudoallergy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/regadenoson/' | relative_url }}">View full drug report →</a></p>

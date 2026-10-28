@@ -3,7 +3,7 @@ layout: default
 title: "Ceftolozane News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Ceftolozane. Original indication: Because gonococcal urethritis is a gram-negative b.... 1 predicted indications."
+description: "Health news related to Ceftolozane. Original indication: Because gonococcal urethritis is a gram-negative b.... 10 predicted indications."
 permalink: /news/ceftolozane/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftolozane?">
-<strong>Ceftolozane</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Ceftolozane</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,8 +27,17 @@ This page combines the AI-predicted indications for Ceftolozane with the latest 
 <ul>
 <li><strong>Original indication</strong>: Because gonococcal urethritis is a gram-negative bacterial infection of the urinary tract, a cephalosporin class effect against *Neisseria gonorrhoeae* is plausible. However, ceftolozane is not an...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Gonococcal urethritis</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Ureaplasma urethritis</li>
+<li>gonococcal urethritis</li>
+<li>uterine inflammatory disease</li>
+<li>xanthogranulomatous pyelonephritis</li>
+<li>polyclonal hyperviscosity syndrome</li>
+<li>hyperamylasemia</li>
+<li>urogenital tuberculosis</li>
+<li>congenital analbuminemia</li>
+<li>blood group incompatibility</li>
+<li>premalignant hematological system disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftolozane/' | relative_url }}">View full drug report →</a></p>

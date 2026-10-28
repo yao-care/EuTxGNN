@@ -3,7 +3,7 @@ layout: default
 title: "Selpercatinib News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Selpercatinib. 1 predicted indications."
+description: "Health news related to Selpercatinib. 3 predicted indications."
 permalink: /news/selpercatinib/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Selpercatinib?">
-<strong>Selpercatinib</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Selpercatinib</strong> currently has <strong>5 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,10 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pulmonary hypertension</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>pulmonary hypertension</li>
+<li>migraine disorder</li>
+<li>migraine with brainstem aura</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selpercatinib/' | relative_url }}">View full drug report →</a></p>
@@ -35,11 +37,19 @@ This page combines the AI-predicted indications for Selpercatinib with the lates
 
 ## Related News (5)
 
-### [Blutdruckmedikamente: Regelmäßige Einnahme senkt schwere Herzrisiken um 11 Prozent](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+### [Beyond Bad Cholesterol: Scientists Uncover a Hidden Driver of Heart Disease](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldTX05WUDhuTFdLSUtqUXpISkNnNVpqTGtLcTJWNjBlX1FGblpBVExwdlBOVmZOcHNaejlJTjdBbFFTZU9yM0JwU2FIaGZtQ1pTbGNqaGZtS0tINTIwelBXUVlLSlNUN1ZxRUF0LWN2UUJqaGxNYTRCRU5Mb05Xa2stNVgzd3pPb0NCZnhIUTVFNlg4QUViNFBwOE5qMVF1akE?oc=5)
 
-2026-10-28 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-28 <span class="news-indication-tag">heart disease</span>
 
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNldTX05WUDhuTFdLSUtqUXpISkNnNVpqTGtLcTJWNjBlX1FGblpBVExwdlBOVmZOcHNaejlJTjdBbFFTZU9yM0JwU2FIaGZtQ1pTbGNqaGZtS0tINTIwelBXUVlLSlNUN1ZxRUF0LWN2UUJqaGxNYTRCRU5Mb05Xa2stNVgzd3pPb0NCZnhIUTVFNlg4QUViNFBwOE5qMVF1akE?oc=5)
+
+---
+
+### [Drinking Tea May Lower Your Risk of Vascular Disease – but There’s a Catch](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">heart disease</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
 
 ---
 
@@ -51,19 +61,11 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
-2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
-
----
-
-### [Dr Sara warns millions with gut issues and fatigue of urgent medical condition - The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Mirror](https://news.google.com/rss/articles/CBMifEFVX3lxTFBJQk9UU0swV1AtcmVmMVZtbEE4aC1wQXhlc2ZaNUVvQ3poUXR5LWlWNHFGQUhmQldmNFMyTXZ2UUh1QkhITXgyaHVtZWxmWW1ITG9EbjZGN2FydEMyRnUtUEIzVXFPRG1ienNhaEFBaEJ6a0NHVnA5Z0x1ZUjSAYIBQVVfeXFMUFFPeFpURUxiTkh4UmZYU1BYVVhCMVNRRFhmU2s2QVRtVzBUSVJNalhXR2JxS3A2VWVhRk1ONlAwLVF3eEJxZWduc1VwRi1Oajd2SUpJWTJwaEJocUFodjI3bDZUdDh1WjF6eDFIS1pyX1dwQmpTRm1UeXlYQmJQdEVZQQ?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
 ---
 

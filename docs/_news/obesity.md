@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "obesidad (obesity) News"
+title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about obesidad (obesity). 5 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 6 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-10-28
 ---
 
-# obesidad (obesity) News
+# Adipositas (obesity) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about obesidad (obesity)?">
-<strong>obesidad (obesity)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
+<strong>Adipositas (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “obesidad” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “Adipositas” and lists the drugs in the EuTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “obesidad” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Die Fettleber wird immer jünger](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
+
+2026-10-28
+
+Source: [springermedizin.de](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
+
+---
 
 ### [La obesidad crece más rápido en los países de ingresos bajos y medios y ya concentra el 69 % de los casos en adultos](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEctWF9EaXVWci14UnE5Z1dkbjBnNi1kSnA0ZElwZmRQdmJ3M0RCZ3dsWFYyQWxwSUhCcUc0UXA0cGR4OGQ2clIzd3JmZmZwd2x5bWZ4N3NvbVd1c3puWkFuc0RhZEhrem4ta24wQ0otTnQxQ2tocGo1dlI3UmNOdnoybjliRktyZWNWVVVMaHNLX1BrYkM0TjQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "ictus (stroke) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about ictus (stroke). 9 articles, 11 related drugs."
+description: "Health news about ictus (stroke). 10 articles, 11 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about ictus (stroke)?">
-<strong>ictus (stroke)</strong> currently has <strong>9 news articles</strong> and 11 related drugs.
+<strong>ictus (stroke)</strong> currently has <strong>10 news articles</strong> and 11 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -28,30 +28,52 @@ This page brings together the latest health news about “ictus” and lists the
 <ul>
 <li><a href="{{ '/drugs/aliskiren/' | relative_url }}">Aliskiren</a></li>
 <li><a href="{{ '/drugs/amlodipine/' | relative_url }}">Amlodipine</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Avanafil</a></li>
 <li><a href="{{ '/drugs/dronedarone/' | relative_url }}">Dronedarone</a></li>
 <li><a href="{{ '/drugs/orlistat/' | relative_url }}">Orlistat</a></li>
 <li><a href="{{ '/drugs/simvastatin/' | relative_url }}">Simvastatin</a></li>
 <li><a href="{{ '/drugs/telmisartan/' | relative_url }}">Telmisartan</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">Vardenafil</a></li>
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
 
-### [Solo la mitad de los españoles sabría reconocer los síntomas de un ictus - IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+### [Investigadores se apoyan en la IA para prevenir ictus en mujeres mayores - Redacción médica](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVotZnpkQnEyNFlEa1EwaVJ3WDJ4LUJiaWFoT010aTNVRlZGczhxM3VOWFdjaVhaV21sd2phRFk5ZU9OOE1UMnFabjJzRENscF82NEtrRzdBSmRSdkNUWXlsalRjYkMtMXhsbnFyYVYzWFpMWlpBWi11ZVc1SHRGTDQ2dVVfaW5hbFpERWFBTDFFUm1LdkdzR0V0QnhWT1ZLaXBNakpacW81Tkk3V2xQb0I4UFdnX3NNNzRLbEYyMXdRSzZmS094c2Yzd1JfVVQ2eVVIUVE2UG9IY3dlMmfSAeMBQVVfeXFMTVdTUlBkWlBVUVRjSWRlRzNJdV9nWDlaNmYzdU9EYnJVWUdOTHBMaGV5X3FndXBDMFNkUUMtTnlWbEM0X25zc3ZjX0tScG42d1JuNndrdWJtQ0FUN1lTQ3RVVGlfQTQzTmt2eldlTGFCSEI1elRwbE52dW5wbHB1RVY0VHo1QzZlWTFkeGZxY2Y5V2hMeWVoaWV0NmF6WDZDZXN5b1hDZndBNUhWbUN2OWNsbzNVNlpUVVc4T0ZLNUliYzdDM2twX2ZzeUhNcDhmQ3d1N29XcF9JRlE3Q2pSWWdVak0?oc=5)
 
 2026-10-28
 
-Source: [IM Médico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWxvVmVfbUdfWXdmbHYzQzBBX0d3SWxHSV9tLWR5Yl9yWE50dnFoeXR6SGhwbWVUcDFyc3J6U1lUalRxcDIwbHVwcnFJZTFTMi1PdDJfTzFpUUdUUVF1WFdsWDVuTFI3R0l0Um8tX0NxbkhqYzdfbFNhUHl4VmREdElrOHhhSWQtM0JaUFR4QkI3VEgycHBXYUdsX1FQS1plSWt3N21FUmdweXltRm9BUTVidUZkOGNzaEN2R0Nn0gG4AUFVX3lxTFB3c3V4S0U4VEJGclR2Y2luaW0xenBuTnRZb1oxNEhWYW03VVdtTWQtY1hqdzFLLVFIakhSTHJfSEU0SzJRaXozQWlId1htc0VwdUxSOGI0MlNEWndhcHNHeUNDRnpzRmUxVVFabWpNMlJ2RXN6VHVHeXR2VTBLTmI2dEU5SjRERk9aTXdWOS0xVGJLeDJrTDVOS0FRazdsOW9MbVNqR094WlNBbjFuTEtEdFo1bXZ5Tms?oc=5)
+Source: [Redacción médica](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOVotZnpkQnEyNFlEa1EwaVJ3WDJ4LUJiaWFoT010aTNVRlZGczhxM3VOWFdjaVhaV21sd2phRFk5ZU9OOE1UMnFabjJzRENscF82NEtrRzdBSmRSdkNUWXlsalRjYkMtMXhsbnFyYVYzWFpMWlpBWi11ZVc1SHRGTDQ2dVVfaW5hbFpERWFBTDFFUm1LdkdzR0V0QnhWT1ZLaXBNakpacW81Tkk3V2xQb0I4UFdnX3NNNzRLbEYyMXdRSzZmS094c2Yzd1JfVVQ2eVVIUVE2UG9IY3dlMmfSAeMBQVVfeXFMTVdTUlBkWlBVUVRjSWRlRzNJdV9nWDlaNmYzdU9EYnJVWUdOTHBMaGV5X3FndXBDMFNkUUMtTnlWbEM0X25zc3ZjX0tScG42d1JuNndrdWJtQ0FUN1lTQ3RVVGlfQTQzTmt2eldlTGFCSEI1elRwbE52dW5wbHB1RVY0VHo1QzZlWTFkeGZxY2Y5V2hMeWVoaWV0NmF6WDZDZXN5b1hDZndBNUhWbUN2OWNsbzNVNlpUVVc4T0ZLNUliYzdDM2twX2ZzeUhNcDhmQ3d1N29XcF9JRlE3Q2pSWWdVak0?oc=5)
 
 ---
 
-### [Impfungen: Mehr als Schutz vor Infektionen? – News - Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+### [Update zum Post-Stroke-Delir: Pathogenese und Langzeitoutcome - mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
 
 2026-10-28
 
-Source: [Deutsches Ärzteblatt](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWkdHT3RvQUtPWTJkeUdDNzZ6RkVUanU3MmlZS01kNWtGc2swS2RzQmJvbTUzNG80aHdkYXN0QnZTT1JXV29lMzRFZTZMdUE1bktzTmFzNWw3ekhDUkVkbGFmVTFpb2dCa2ZNZVJmZU03bjdfeUlVcTkybzJ6SF9rZ0dTUUpKd3dRenhoUlNZaW5KcHV6cW1KeUpkSGJkNEdhS0dWSFBnVnJucEtMaGU4?oc=5)
+Source: [mgo medizin](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWF9qTTZBMHFyazRmWDctMzhtUG1YRVJ6NE05S1A0V3RvRlBEMFZ4VDlQTFhmZWZUUndLN2lCUXJDRy0wM05teWF0Y1hDZ0xDM2lGYWw3el9uRU9wXzZOeHMxNXcxRFVHUHNCa1dZRDlmZ2JGV0RXRVF1ajZvcmlwSzZRWnhyYzJOMlEtZW4tTS1jX01WbHVGYUNVRm5lQzN1U0xZ?oc=5)
+
+---
+
+### [El envejecimiento amenaza con elevar los casos de ictus en Canarias: los ingresos hospitalarios crecen un 23% en cinco años](https://news.google.com/rss/articles/CBMinAFBVV95cUxPekhHQ0RnWDM0cFRBV0N6bUhHTGlyVzRzTi1lc2k3QkxxdjRMTGJTNDVuZ19yREFWZG5KWHhXaGRkMmtuVGtkMU9xTU9WY2FDZzE4RF9LeHBFd191SjhwUDNDRzFoTG8wc0xhOFp4WU5hdlNjbHZOUEJESkJYU1NzX1ZvNHRvRzI5UFpJcEl2VUdUQm9PcHpqZEVqVHHSAaIBQVVfeXFMTWpUMXdhTS1KUXlnYkd5UUE2MmpWM0VTRkVIWFdVWm8tbzlVTG9vTDdpTmFmOWxUX1hXZWw0WjZuYzJJdWtKalNOTHk1ekhoVXlpLUhyb1JzMkttTXRaTm91amZXNFdldnY5VjlJOW1fWmRaelZ3eTZuUTh6M2M2d0tJYkVIeTBWMnU4ZlVEMFhLOHQwQks0OXNCSC1oY2pYWU53?oc=5)
+
+2026-10-28
+
+Source: [Eldía](https://news.google.com/rss/articles/CBMinAFBVV95cUxPekhHQ0RnWDM0cFRBV0N6bUhHTGlyVzRzTi1lc2k3QkxxdjRMTGJTNDVuZ19yREFWZG5KWHhXaGRkMmtuVGtkMU9xTU9WY2FDZzE4RF9LeHBFd191SjhwUDNDRzFoTG8wc0xhOFp4WU5hdlNjbHZOUEJESkJYU1NzX1ZvNHRvRzI5UFpJcEl2VUdUQm9PcHpqZEVqVHHSAaIBQVVfeXFMTWpUMXdhTS1KUXlnYkd5UUE2MmpWM0VTRkVIWFdVWm8tbzlVTG9vTDdpTmFmOWxUX1hXZWw0WjZuYzJJdWtKalNOTHk1ekhoVXlpLUhyb1JzMkttTXRaTm91amZXNFdldnY5VjlJOW1fWmRaelZ3eTZuUTh6M2M2d0tJYkVIeTBWMnU4ZlVEMFhLOHQwQks0OXNCSC1oY2pYWU53?oc=5)
+
+---
+
+### [Salud recuerda que nueve de cada diez ictus pueden prevenirse con hábitos saludables - Cadena SER](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3pFZkREeFVoYTQ4Sm9zeTd1a1kyNjNCelRBV2J6OHo1RlNXUWlvZWd2MnItY2NUS3pWeGJhR2hRNXlyMENrZXRaLTlBV00xMk5WYm1PZENud0JsdGNvRjBNTUlleXAzSkR2R3RiRUQ3cVVEWndmeEdHTno2YjFnX2dzbzhIaTRUblNpakUyX0c4MUlDM0tPOTJLd29lS3BSY0dub3FUZktfV2xtU19Dc09jRTRzUWdTaC1Nc0twR2VrcnFybE00c1RuSHBXeWk0cVR0RTYzNNIB6wFBVV95cUxPdk9PUUtJaVBSMVBUbTRPWS1oLVdOc2hxajNQdVdOellqclJ6QTRYcl9yZkdndHpYam9zSjFtU0ZUNmNSSW4tQ0hlTHZjR0xXNFFpLWRBeEpCQVFsM0MyN3pxd1ZUMjBFQmNkUVB2QXF4b0lsT2VHYXdZd2U0OTBSbjM5QnhDdTZnU1VVVlhlVHdwSVJWVXpZY2pCQVJLNHJJRmowbzhhRkdTT0laMWtLaXM0Qmd1ZHZ3U2tEcW16MHZmT2RhbE51VEJ2Q29LMF9Id1BIZUdpZ2VUMTR0Z01XdDYtcUxKVDhQeVZR?oc=5)
+
+2026-10-28
+
+Source: [Cadena SER](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3pFZkREeFVoYTQ4Sm9zeTd1a1kyNjNCelRBV2J6OHo1RlNXUWlvZWd2MnItY2NUS3pWeGJhR2hRNXlyMENrZXRaLTlBV00xMk5WYm1PZENud0JsdGNvRjBNTUlleXAzSkR2R3RiRUQ3cVVEWndmeEdHTno2YjFnX2dzbzhIaTRUblNpakUyX0c4MUlDM0tPOTJLd29lS3BSY0dub3FUZktfV2xtU19Dc09jRTRzUWdTaC1Nc0twR2VrcnFybE00c1RuSHBXeWk0cVR0RTYzNNIB6wFBVV95cUxPdk9PUUtJaVBSMVBUbTRPWS1oLVdOc2hxajNQdVdOellqclJ6QTRYcl9yZkdndHpYam9zSjFtU0ZUNmNSSW4tQ0hlTHZjR0xXNFFpLWRBeEpCQVFsM0MyN3pxd1ZUMjBFQmNkUVB2QXF4b0lsT2VHYXdZd2U0OTBSbjM5QnhDdTZnU1VVVlhlVHdwSVJWVXpZY2pCQVJLNHJJRmowbzhhRkdTT0laMWtLaXM0Qmd1ZHZ3U2tEcW16MHZmT2RhbE51VEJ2Q29LMF9Id1BIZUdpZ2VUMTR0Z01XdDYtcUxKVDhQeVZR?oc=5)
+
+---
+
+### [Un modelo internacional para el ictus isquémico busca ahorrar minutos vitales en el hospital](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
+
+2026-10-28
+
+Source: [ConSalud](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFk2Z1RwMnJ2bXNJLURTYmsyLVEtc2x4WlhLWHl2Mk9iZU9LdUNSSDI5TUs4VXRFenk3eGVFVDFUSXRTcHFvVHFGdVU4TzdvUEdBUUZ6Z0RHSG5QcUNMVVduRnAzdEkyNktuOEk1QVh1REpRekdNSTFNUlFSWWtZZHNDaUhnd3BYLW80SDRwNkRoQ0NnNWtJWU9keWFqdUJiR2dzS0N0ano0WWxGOHhSRGxqRGlkYUE0WHFQVVhPNzdLcXJpYnNIdUdrd3RHS2oweWZ1UTE5UmdGX0JCdHR4YXFoTVM5Njdr?oc=5)
 
 ---
 
@@ -92,22 +114,6 @@ Source: [Glasgow Live](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWUtG
 2026-10-27
 
 Source: [Enfermería21](https://news.google.com/rss/articles/CBMigAFBVV95cUxQS055Z0xKd0hzYnN4RmF1Y05fbmt4ME5JbWt1SjlTZ3JCRzQ0MEVVaURySE0tSW5DTmNDbWFLeS13VFpNTFNhQ1VOSHQtZHBvR0NmV09QUC1GaXJ2eVppSmtIR3UxT2dSbUtmUjBPQ0Q0VkhHUHdiUTNRVU5TUG40aQ?oc=5)
-
----
-
-### [Cancer, crise cardiaque, Covid ou AVC : les chiffres qui montrent le nouveau visage de la mortalité en France - Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWxmamlNZEprRXpHeGRORE1Ob1ppcHJEVGRpelJ5REtOT0tfYWh4cDhvNEJONDgxQmc5cDFxSG5TcGdqNWRpeTFZZkhiVFhxRG5FSkhGdW1IUGJNZUpOcVY2c1h1U2MteXRYVTQxUlFUWVBQdGgyaWZMUnRmbnhWM3VfMTk0Wk51VFE3RFF4V0hnaXZDR2xHWFRxa2IyRVIya0EtN0YxTjZFelUxMkZEOFN5V3RMT0Fic2tBY1NzeURWOVFEUWo1UzNkRkhZR1RycnBrOGFkaDVYOXFkU2JaLVZYOVM2bmVYU3c1Vy1ZN2FkX3c?oc=5)
-
-2026-10-27
-
-Source: [Les Echos](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPLWlCYWxmamlNZEprRXpHeGRORE1Ob1ppcHJEVGRpelJ5REtOT0tfYWh4cDhvNEJONDgxQmc5cDFxSG5TcGdqNWRpeTFZZkhiVFhxRG5FSkhGdW1IUGJNZUpOcVY2c1h1U2MteXRYVTQxUlFUWVBQdGgyaWZMUnRmbnhWM3VfMTk0Wk51VFE3RFF4V0hnaXZDR2xHWFRxa2IyRVIya0EtN0YxTjZFelUxMkZEOFN5V3RMT0Fic2tBY1NzeURWOVFEUWo1UzNkRkhZR1RycnBrOGFkaDVYOXFkU2JaLVZYOVM2bmVYU3c1Vy1ZN2FkX3c?oc=5)
-
----
-
-### [« Le facteur temps est primordial » : à Quimper, quels sont les signes d’un AVC qui doivent alerter ? - Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
-
-2026-10-26
-
-Source: [Le Télégramme](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1QRTJiamc5MHhCTDUxNXp3RGVmcmVrc2Y4OEF2Qk9JSFFxRVQtaUlWM0VONF9YajJXQVBreW13SGU1NW9JT2hGZ21EMXpoU1JCUXRsTXd0UkQzUE1mcVM2N0I3MTgxbnJRVDZycUFTSUZzRV9sNmVGNVRpbkJkUUlMLVYxcWQxLTFtQ3FZQjhZS2lDUjFhVXZrS002OFo0eTg3WTR4cV83cm81ai1uaVFXMS1aNERhM2JKZF9CRy1BS2N3UjVFMmZyLUExbVhtbnMyeU1KQ1pDVlJXTDh0WmgycUc5Z3M1THBZ?oc=5)
 
 ---
 

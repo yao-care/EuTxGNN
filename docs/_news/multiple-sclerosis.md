@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 14 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 13 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>14 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,13 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (13)
 
-### [Dites adieu aux nuits blanches ! Voici nos 3 conseils infaillibles pour retrouver votre sommeil - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
+### [Un ensayo demuestra la eficacia de un fármaco en la supervivencia de cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
 
 2026-10-28
 
-Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
+Source: [Infosalus](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
 
 ---
 
@@ -64,19 +64,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4
 
 ---
 
-### [Ergonomic keyboards don’t work for shoulder and back pain, study finds - The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUFxd2NjU3pnMHpWcVhCYndBVTgwNTFEdTlXZlNjU2Z0T0NnMFViRVU1eG1zdjd4MVBTSzgtRlQxZFJaaGJiUVRrNnJYcGExRkNNNUpybXF6b1ZhbHBSUmVldXVDUnFGWU5jVFlnVDVuSk5CM00xTW1qcURwM2prbWdBLXNmbnl4XzEzQXVqeDNTQ1k4WjdDMXpGeW1SMGo2?oc=5)
+### [Dites adieu aux nuits blanches ! Voici nos 3 conseils infaillibles pour retrouver votre sommeil - Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
 
 2026-10-28
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMioAFBVV95cUxQaUFxd2NjU3pnMHpWcVhCYndBVTgwNTFEdTlXZlNjU2Z0T0NnMFViRVU1eG1zdjd4MVBTSzgtRlQxZFJaaGJiUVRrNnJYcGExRkNNNUpybXF6b1ZhbHBSUmVldXVDUnFGWU5jVFlnVDVuSk5CM00xTW1qcURwM2prbWdBLXNmbnl4XzEzQXVqeDNTQ1k4WjdDMXpGeW1SMGo2?oc=5)
+Source: [Futura, le média qui explore le monde](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZjlLODM3X2RhQk9LWU9hWU9VTU56dEFfdGFpM2E3eW5oTTFSZ3R0Wkc1bVEtNVFLMGxUdmhfdWI1TVgzU191bUVGWHI5SUwxRjhMTFFRRHpienlmTGdFcF9Hc0VTZm05TjhIUFkxU1JDTmlmeXhlNk1MQm5CNFJtQkZuekV5VTJxa0RWcmRaazZjcEo3R0VZNnRuMEx3UmlLSlZWZENTRkhvb3I2UkFNaDhkb1E4V25vWFdPZmZmSE9NMm1rUXdpbXVVVXgxWFBFVzlVYjFLTGlPdjVyTjIwWUFYRzZQSWFmbUE?oc=5)
 
 ---
 
-### [Sie wollte MS nicht einfach ertragen: Eine junge Forscherin verlangte früh das stärkste Mittel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFpOQUxIaUJZQWJzSFExNXEwcjNNQVh6QkMyYjZJeWhNckdiak40OE5Tb2JVRUhJcjhZUDNvYmMtUTVZR0s3UlBsX29Ma3pwMWgxMEpwZXF5dHFreGhyc0ViUkhLLWdzX0h1andPbkEwMkZuWllOejVPbXpjQUUwUHFEeS1HUzRGSnE2ZDdnSzBDRXpDZkpWczR0aTBra3NwTDVyTFBmaTVvejB3X3luM095QmQxSkNUdWFSbTg3MktxeU9BTldvNGpFSkpoZ2ZR?oc=5)
+### [Sie wollte MS nicht einfach ertragen: Eine junge Forscherin verlangte früh das stärkste Mittel](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDNwVGw2bkdSSnZUVGl0bHBZeVh3cDJXVG5XamttdVBiZ0Z1NE90TUlydzJVR2tmZllXa1hvdTNCR3FzUEFiNFFXRDZsTDJQUmxUMlVJNzRvYjI2VW80clFvbjVGZWYwT1ZFN1Q3clRyQ3p0X0VJYkJZYjhsRWJ4YUw1R1V5WGZ0N2ZfLTNUcnd5Zy1tU1RRYUd2VGgzYm9OV0otdjMzaW5za2VubC1lM29Fc05FUkphcG9YblR2RWFiSVN0S0hiclQ4ZjV2bXFlN1N4Zmo4ODNXd0doS09j?oc=5)
 
 2026-10-28
 
-Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdFpOQUxIaUJZQWJzSFExNXEwcjNNQVh6QkMyYjZJeWhNckdiak40OE5Tb2JVRUhJcjhZUDNvYmMtUTVZR0s3UlBsX29Ma3pwMWgxMEpwZXF5dHFreGhyc0ViUkhLLWdzX0h1andPbkEwMkZuWllOejVPbXpjQUUwUHFEeS1HUzRGSnE2ZDdnSzBDRXpDZkpWczR0aTBra3NwTDVyTFBmaTVvejB3X3luM095QmQxSkNUdWFSbTg3MktxeU9BTldvNGpFSkpoZ2ZR?oc=5)
+Source: [Tagesspiegel](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDNwVGw2bkdSSnZUVGl0bHBZeVh3cDJXVG5XamttdVBiZ0Z1NE90TUlydzJVR2tmZllXa1hvdTNCR3FzUEFiNFFXRDZsTDJQUmxUMlVJNzRvYjI2VW80clFvbjVGZWYwT1ZFN1Q3clRyQ3p0X0VJYkJZYjhsRWJ4YUw1R1V5WGZ0N2ZfLTNUcnd5Zy1tU1RRYUd2VGgzYm9OV0otdjMzaW5za2VubC1lM29Fc05FUkphcG9YblR2RWFiSVN0S0hiclQ4ZjV2bXFlN1N4Zmo4ODNXd0doS09j?oc=5)
 
 ---
 
@@ -88,22 +88,6 @@ Source: [ERNÄHRUNGS UMSCHAU -](https://news.google.com/rss/articles/CBMiqgFBVV9
 
 ---
 
-### [MSD presenta resultados positivos de sacituzumab tirumotecan en pacientes con cáncer de endometrio](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHNpUXdsUWlhS3EwS092b0tTay1NU3JnaDZlb1hCMVd1cktCcXpaSEZ4SzZaLUh6enRCQ3AtSW9JdWNaUnJ2dWVGMm5vRm96QTBXb01FWXRkSFdqMUhYQjktRExrWmxSa2hOVmpzbmdlbUlWZ2ppeEtHVGZ6SFVzcDBFQUxpamVGZEQxZEFHYS01Y3ZlNDQyZUhheC01NlE1UW14WFVKRWxpOE9NQ2lSMkRQVGdFWWg4cUItOFkxalFMLUg5RER3NWw4MFl1VDZnci1MQVY0RHNtdy1aVWlpeDI2bi1TcmxyTHMyMjJ3?oc=5)
-
-2026-10-27
-
-Source: [Infosalus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxONHNpUXdsUWlhS3EwS092b0tTay1NU3JnaDZlb1hCMVd1cktCcXpaSEZ4SzZaLUh6enRCQ3AtSW9JdWNaUnJ2dWVGMm5vRm96QTBXb01FWXRkSFdqMUhYQjktRExrWmxSa2hOVmpzbmdlbUlWZ2ppeEtHVGZ6SFVzcDBFQUxpamVGZEQxZEFHYS01Y3ZlNDQyZUhheC01NlE1UW14WFVKRWxpOE9NQ2lSMkRQVGdFWWg4cUItOFkxalFMLUg5RER3NWw4MFl1VDZnci1MQVY0RHNtdy1aVWlpeDI2bi1TcmxyTHMyMjJ3?oc=5)
-
----
-
-### [Ebola : plus de 10 000 cas recensés en Afrique, la grande majorité en RDC, et 4 887 morts - Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjZhQTExN1g3c0NJbEkwbC1mellna2JFeVN4VndydUQwaVVMWU9lazBsVXdHanBTdGxtSWZENTFZajNRRVpDS3kya3B5eElsSE5hWDZiQm41NWJ4c0VFa2JuX0xlRDdmN0Q0cVVwYnp5Wl9kakZpSDBNMDJxa2JCcm1tNEZGd2E3ZWJpMFRldHdJU2JOUjVCXzJnLVB5MXF0Y0lyQ0VFMXRMYXZnY0JIMEMtSGVPd1U0ak1HbGh3UTA1SlIwYktVcVlQNmdIdU5saW0zdmRfM1FDZHNlQU55Ym9ucUdPYWJo?oc=5)
-
-2026-10-27
-
-Source: [Le Monde.fr](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjZhQTExN1g3c0NJbEkwbC1mellna2JFeVN4VndydUQwaVVMWU9lazBsVXdHanBTdGxtSWZENTFZajNRRVpDS3kya3B5eElsSE5hWDZiQm41NWJ4c0VFa2JuX0xlRDdmN0Q0cVVwYnp5Wl9kakZpSDBNMDJxa2JCcm1tNEZGd2E3ZWJpMFRldHdJU2JOUjVCXzJnLVB5MXF0Y0lyQ0VFMXRMYXZnY0JIMEMtSGVPd1U0ak1HbGh3UTA1SlIwYktVcVlQNmdIdU5saW0zdmRfM1FDZHNlQU55Ym9ucUdPYWJo?oc=5)
-
----
-
 ### [The 7 ‘camouflaged’ symptoms of little-known cancer most women ignore until too late - as cases double in under 50s - The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX0k2WVdWeXE2TVV6NkF3cW1xRzlEZk5oRXBwREM0S3YzSXdBN3J5VXEycFNQcUY2V2R2UkFjMjJXYWpDc0s4VWdWdXJrZFJwbElFZ1pTdE5Sc2VhbF9RVmpsTUZFRnF5RkFiSXlYaG5KS2Vn?oc=5)
 
 2026-10-27
@@ -112,11 +96,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX
 
 ---
 
-### [Nose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
+### [Crows make decisions twice as fast as humans and monkeys](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
 
-2026-10-26
+2026-10-25
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
 
 ---
 
@@ -125,6 +109,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5
 2026-10-25
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
+
+---
+
+### [„Abnehmspritze“ bei OSA - Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
+
+2026-10-24
+
+Source: [Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
 
 ---
 

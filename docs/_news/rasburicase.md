@@ -3,7 +3,7 @@ layout: default
 title: "Rasburicase News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news related to Rasburicase. 1 predicted indications."
+description: "Health news related to Rasburicase. 10 predicted indications."
 permalink: /news/rasburicase/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Rasburicase?">
-<strong>Rasburicase</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Rasburicase</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,23 @@ This page combines the AI-predicted indications for Rasburicase with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hypouricemia, renal</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>hypouricemia, renal</li>
+<li>hypoxanthine guanine phosphoribosyltransferase partial deficiency</li>
+<li>hepatic porphyria</li>
+<li>hepatoportal sclerosis</li>
+<li>hepatopulmonary syndrome</li>
+<li>idiopathic copper-associated cirrhosis</li>
+<li>primitive portal vein thrombosis</li>
+<li>early-onset familial noncirrhotic portal hypertension</li>
+<li>renal tubular acidosis</li>
+<li>disorder of phenylalanine metabolism</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Blutdruckmedikamente: Regelmäßige Einnahme senkt schwere Herzrisiken um 11 Prozent](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">Bluthochdruck</span>
-
-Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxPV19PdUdyZ3pNVnBJWlBNNFlKaHBnTWNlZTdpalJMOVZtYWRDMHo4V0VrY2I0NUJYUVBmYkt3ZDJiTVBhek5LZl9YUE9Ma1g1QjZoU0lZMm01SGJnOTNQd1R4YWNIcE5QYmgtYVhqRnlTcG82SHV6VVBIckZwN1lQOExCcmhpTU1hVWNmNC14b1FjSHh4Y1FVNUx2RU0yWnpyeXhCZnh5aVZVVUJiYzVmQjRmRm9Td2ZPQ2hZay1MOG1nNWxCRThRY29uamE?oc=5)
-
----
+## Related News (3)
 
 ### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
 
@@ -51,11 +52,11 @@ Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMi
 
 ---
 
-### [Bluthochdruck in der Menopause: Frauen altern in den Wechseljahren doppelt - Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+### [Blutdruck senken um 10–20 mmHg: So sinkt das Risiko für Schlaganfälle - it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
-2026-10-27 <span class="news-indication-tag">Bluthochdruck</span>
+2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
 
-Source: [Stuttgarter Zeitung](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdkhZdHdUQ2piWHdIZGFRWVdNVmZUd1VzNHVZLXM4cHBfNVhfTnphZVFDYUkwb0lFdGEtVHgwQjItYldjWWl3Y3BVTGZUX1pXdjhXQnFwc0JKUVZXNFliR3ZXdXd1eXNhejFFZkZYdXR4TGw0akViOUhGNTdOQVVSdUZkUHEtRWd1bEMyanA4NUgxbXZwRW0xY2U3dXBpSFRkcTV3ajQ2V0FpQ1k1aGlRX3R5Y29sclBrZHN3by1ZREtUZ3pBTUJ6Q0VsNE5XbGgxVU05U2FFZw?oc=5)
+Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
 
 ---
 
