@@ -3,7 +3,7 @@ layout: default
 title: "depresión (depression) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about depresión (depression). 5 articles, 7 related drugs."
+description: "Health news about depresión (depression). 6 articles, 7 related drugs."
 permalink: /news/depression/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about depresión (depression)?">
-<strong>depresión (depression)</strong> currently has <strong>5 news articles</strong> and 7 related drugs.
+<strong>depresión (depression)</strong> currently has <strong>6 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page brings together the latest health news about “depresión” and list
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [Depresión circadiana: Identifican un subtipo de depresión ligado al reloj biológico y resistente a los medicamentos comunes](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
+### [No es solo cansancio: las señales de depresión relacionadas con el sueño, según Conrado Estol](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElERHVTMm9RU1dxNU9uYWJ3VXExckdDTzBpV3NPNUw3ZTFManhGdFR1ZEdQMHZsNV9GSnh1UzdJaXh3bDB6M0pqdzRXbDNjVlhsbjlKUks4R3BYUl9nejBGdlRpMHc4a3hSRXNObGJGY0VhUzhYNldJYXNIcWI5bDFUcWktTDVxelFUQmZPUExHU2M5NTRJOTN1VGZfeTZfYTVRWG1KUWZmSFFGTTh4S0IySEE2ZWpRbEthZURFcGwxdjhtM3o2djZ4Z9IB6AFBVV95cUxNbXdQXzdKYzVlWXFVeGRNNHItTWoteW9iLWlJdGV3bGZ2NzRfOGlyZ2c1QW91NndPTVh2SXlscWNlNjV3LVBiUDctVU5uNVdyam5IUmVoX3RHNEVKNGh1dHgzN0hRREYtSlhhM0JCUWhsNnV3MXozbUFiTHBRU0czdDVHdjFNdnRUYVQ1OGRReE4zRVN2cW41aVNCcU5lbm9lZ3RRS0hYbmNJcmJ6UnM1VzFuenF2SC12OUZfVWZsZldtZ3Zra2NuZFN3YVFna1ZrcUtENUxPb0sxUlBCenhnS1JIWWZlRTkx?oc=5)
 
-2026-10-27
+2026-10-28
 
-Source: [WIRED](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWs5eXVhUHV0b1JNbUdFZFpYX0p2N0xfQUtnMXh4UnFZejNoZWJrWGdGOFUxeXBQc0gtLUdkaUtkWlQ4MnFZVWJBU2FxVUZyNUJ3X21FVUxJZkxiMDF3X3d5UnBicDh3bXFCV2ZFQ1VvRXdVakl4MXNacFFIV1RsbExQaDI5cExjYTlBVmxyeUhwQVJhT1VERTNiQnB4QXJUV05uQQ?oc=5)
+Source: [Infobae](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTDRLMElERHVTMm9RU1dxNU9uYWJ3VXExckdDTzBpV3NPNUw3ZTFManhGdFR1ZEdQMHZsNV9GSnh1UzdJaXh3bDB6M0pqdzRXbDNjVlhsbjlKUks4R3BYUl9nejBGdlRpMHc4a3hSRXNObGJGY0VhUzhYNldJYXNIcWI5bDFUcWktTDVxelFUQmZPUExHU2M5NTRJOTN1VGZfeTZfYTVRWG1KUWZmSFFGTTh4S0IySEE2ZWpRbEthZURFcGwxdjhtM3o2djZ4Z9IB6AFBVV95cUxNbXdQXzdKYzVlWXFVeGRNNHItTWoteW9iLWlJdGV3bGZ2NzRfOGlyZ2c1QW91NndPTVh2SXlscWNlNjV3LVBiUDctVU5uNVdyam5IUmVoX3RHNEVKNGh1dHgzN0hRREYtSlhhM0JCUWhsNnV3MXozbUFiTHBRU0czdDVHdjFNdnRUYVQ1OGRReE4zRVN2cW41aVNCcU5lbm9lZ3RRS0hYbmNJcmJ6UnM1VzFuenF2SC12OUZfVWZsZldtZ3Zra2NuZFN3YVFna1ZrcUtENUxPb0sxUlBCenhnS1JIWWZlRTkx?oc=5)
+
+---
+
+### [Alzheimer-Frühzeichen: Orientierungsprobleme können vor Gedächtnislücken auftreten](https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0sxbUZwTTBUdGExZU8xWWlyMUZBQ3FNUFFZOWg4NjMwM2tTNndjdlFfSFFPWm9FUUFLRlhjaVdIMVNoNHB1VTFvd3VMRWxPc2ZYU2xRWXd0a3BOUGgzbEE2c1hCRGliRllpVmc0RWhsbGMtX1Y5UWpqVndMdGFMVGFEOGc1ZW9wVG5oZUZMQ3lKcWRFMEZ0WFpmdUZRak9zQkUxeVpqSV9zcUk4QWdCeFE4NG56bW5UVjVBSlBOdXM1cVprWV9fVFo1TWtCWW8?oc=5)
+
+2026-10-28
+
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0sxbUZwTTBUdGExZU8xWWlyMUZBQ3FNUFFZOWg4NjMwM2tTNndjdlFfSFFPWm9FUUFLRlhjaVdIMVNoNHB1VTFvd3VMRWxPc2ZYU2xRWXd0a3BOUGgzbEE2c1hCRGliRllpVmc0RWhsbGMtX1Y5UWpqVndMdGFMVGFEOGc1ZW9wVG5oZUZMQ3lKcWRFMEZ0WFpmdUZRak9zQkUxeVpqSV9zcUk4QWdCeFE4NG56bW5UVjVBSlBOdXM1cVprWV9fVFo1TWtCWW8?oc=5)
+
+---
+
+### [Dépression : une forme plus sévère découverte chez un quart des patients](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEVpOHNkTll1YlU5VlhWd0tkVXZVakxkR19ySGh6WDBCakctMXAzTU82Y1VaZFk4SWNRVVNiSXFqcVFSSndFRS1HYWVXQl9TakZZNW5mSWtEUmxMSlNnS2I2RE55VVN1TFZUenFkNXpMUVhJcjhET3BkbzJRMWJjdGZR?oc=5)
+
+2026-10-28
+
+Source: [ma-sante.news](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEVpOHNkTll1YlU5VlhWd0tkVXZVakxkR19ySGh6WDBCakctMXAzTU82Y1VaZFk4SWNRVVNiSXFqcVFSSndFRS1HYWVXQl9TakZZNW5mSWtEUmxMSlNnS2I2RE55VVN1TFZUenFkNXpMUVhJcjhET3BkbzJRMWJjdGZR?oc=5)
 
 ---
 
@@ -60,19 +76,11 @@ Source: [Notimérica](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGlkc
 
 ---
 
-### [Langjährige Depressionen erhöhen das Risiko für Herzkrankheiten](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pNG5vSTB5enVVTEFWVElOLWR0VUE0dy1KUjlRaGh3UHpGZUdMX0g4bmZHNEpRMmU4azdjemxfMUpBbVhka2E1Mkgwd0tlVnVmUU0yV18tVjk5aEFUT0d2WDYzZ0VIaEdxVG1Eb0JHajVmMFBXUHlEWjZaMmxfYzFyYXJXMnhJcVhSeDc5QmpfMlBDclBLa1U3d3ktSUR5dlM4T3F0bGZGcDQ4cmNrX19DSkU4SloxWU9ndlRhVm1vTTQt?oc=5)
+### [Bewegung bei Krebs: 17 Studien zeigen weniger Angst und Depression](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGQzVFp1RVE4ZTRiZzdjTTdUTlJTdTBONWpqWVRuVklTbHdDUTRXTWwwY2p4RWZVWDYwUEE3MWFJMkVMLU01SW04X0dhMmxtSEFuZGhwWTZfOUx6WEVYLTMxZzFCaXU1UWdEY3F2Y1VPS0l5TWtydjRMOHlKanpGNGVvSmh6NlN3V1Y5ejNqTXlkZVF0QURpUDB2aFhTU21ZVy1tSndGZGhNU3pxelBlcEhiUXA?oc=5)
 
 2026-10-27
 
-Source: [L'essentiel](https://news.google.com/rss/articles/CBMixAFBVV95cUxNb25pNG5vSTB5enVVTEFWVElOLWR0VUE0dy1KUjlRaGh3UHpGZUdMX0g4bmZHNEpRMmU4azdjemxfMUpBbVhka2E1Mkgwd0tlVnVmUU0yV18tVjk5aEFUT0d2WDYzZ0VIaEdxVG1Eb0JHajVmMFBXUHlEWjZaMmxfYzFyYXJXMnhJcVhSeDc5QmpfMlBDclBLa1U3d3ktSUR5dlM4T3F0bGZGcDQ4cmNrX19DSkU4SloxWU9ndlRhVm1vTTQt?oc=5)
-
----
-
-### [Nose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
-
-2026-10-26
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
+Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGQzVFp1RVE4ZTRiZzdjTTdUTlJTdTBONWpqWVRuVklTbHdDUTRXTWwwY2p4RWZVWDYwUEE3MWFJMkVMLU01SW04X0dhMmxtSEFuZGhwWTZfOUx6WEVYLTMxZzFCaXU1UWdEY3F2Y1VPS0l5TWtydjRMOHlKanpGNGVvSmh6NlN3V1Y5ejNqTXlkZVF0QURpUDB2aFhTU21ZVy1tSndGZGhNU3pxelBlcEhiUXA?oc=5)
 
 ---
 

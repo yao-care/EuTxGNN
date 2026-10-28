@@ -3,7 +3,7 @@ layout: default
 title: "MS (multiple sclerosis) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about MS (multiple sclerosis). 13 articles, 26 related drugs."
+description: "Health news about MS (multiple sclerosis). 9 articles, 26 related drugs."
 permalink: /news/multiple-sclerosis/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about MS (multiple sclerosis)?">
-<strong>MS (multiple sclerosis)</strong> currently has <strong>13 news articles</strong> and 26 related drugs.
+<strong>MS (multiple sclerosis)</strong> currently has <strong>9 news articles</strong> and 26 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ This page brings together the latest health news about “MS” and lists the dr
 </ul>
 </div>
 
-## Related News (13)
+## Related News (9)
 
 ### [Un ensayo demuestra la eficacia de un fármaco en la supervivencia de cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
 
@@ -96,14 +96,6 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX
 
 ---
 
-### [Crows make decisions twice as fast as humans and monkeys](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
-
-2026-10-25
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
-
----
-
 ### [Breast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
 
 2026-10-25
@@ -112,35 +104,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cU
 
 ---
 
-### [„Abnehmspritze“ bei OSA - Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
-
-2026-10-24
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
-
----
-
-### [Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ? - Salle de presse de l'Inserm](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFJiTW5JWFcteVdNNzNMSnNyc3hLTnVTclFHVHpSMTJZTldQU2NFemR3SElkRERFbWtWYnREN1NsTVRfd1ZQQ2lhQ1dsNi1xakxoWlNFSUtmOVhlTmhQXzJPcE1YUEpLMWlrcVlLeHFSS240NG5QbjZnSmdaMGlIb2ZUeTFlYUxYNkRlazZRZThHUVhzS1BfRmcyc2ZtMG94S0tfSHNFcUdLbkdRamJtOFU0VWk1SnFnb0EtNg?oc=5)
-
-2026-10-23
-
-Source: [Salle de presse de l'Inserm](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFJiTW5JWFcteVdNNzNMSnNyc3hLTnVTclFHVHpSMTJZTldQU2NFemR3SElkRERFbWtWYnREN1NsTVRfd1ZQQ2lhQ1dsNi1xakxoWlNFSUtmOVhlTmhQXzJPcE1YUEpLMWlrcVlLeHFSS240NG5QbjZnSmdaMGlIb2ZUeTFlYUxYNkRlazZRZThHUVhzS1BfRmcyc2ZtMG94S0tfSHNFcUdLbkdRamJtOFU0VWk1SnFnb0EtNg?oc=5)
-
----
-
 ### [Psilocybin reshapes brain connections through distinct cellular pathways](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
 
 2026-10-23
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
----
-
-### [Kälte bremst das Altern – Kölner Forscher lösen das Rätsel und verlängern Leben ohne Kälte - smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
-
-2026-10-22
-
-Source: [smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Adipositas (obesity) News"
 parent: 📰 Health News
 nav_exclude: true
-description: "Health news about Adipositas (obesity). 6 articles, 8 related drugs."
+description: "Health news about Adipositas (obesity). 4 articles, 8 related drugs."
 permalink: /news/obesity/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Adipositas (obesity)?">
-<strong>Adipositas (obesity)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>Adipositas (obesity)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “Adipositas” and list
 </ul>
 </div>
 
-## Related News (6)
+## Related News (4)
 
 ### [Die Fettleber wird immer jünger](https://news.google.com/rss/articles/CBMivwFBVV95cUxQVmRPYWUxYXhzV3ppYlYtaEFWaE9HRXRJbzZCZ2IxWHF5bWR6SzhZTVhtQkRCREsyd1hxbkJiUjNoUDhkSWxsOUE2TGVfT2IzbnpPOUJ3SWl4ZUtyeEFEeGdQT1RRRVM2LVUzLUhqSlBJOFNGSWZ0UjJQVHR6emlVYXp3NHJRN3JDRl8yVkVWZkN6WW42T05IQUxWZUdRSDVReWpSYnlTSlNYd0JPR1pvb21OVXRHY2Y3Xy1JVVp3RQ?oc=5)
 
@@ -52,14 +52,6 @@ Source: [Univadis](https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0E0cEct
 
 ---
 
-### [Clinica ravennate tra i centri d'eccellenza della chirurgia per l'obesità grave: mille interventi l'anno e ricerca](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
-
-2026-10-27
-
-Source: [RavennaToday](https://news.google.com/rss/articles/CBMipgFBVV95cUxON3huMlFjYWpJdHpTLW9wN25zY2hkSWZLTEQ3VVZ4LWZmZ2ZhOGdacDdRWXlFZ1BVU1FyQU55UktMSnBKakl4bmlzQ1g0NjhOdkdueTFLNk9FbGEwZlJURkdFZjZtMy1KM3JHN0l1UmhiQUg1by1PcldKa3ZXWTQxLUVDcTJsTl9kQ0MyYTcwSGxzTW04dTFfRHFnV0RLdUFCSHFZX2xR?oc=5)
-
----
-
 ### [L’esercizio fisico resta tabù, ma è l’unico rimedio alla “faccia da Ozempic” - La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF5c0hrdXhSZUVqNmd4VXpKX2hiQmtKdmhFWURLZGdwV3VDNWJFMzJra0ltNFdxQ1l1a3loTUZIWEFNcVlFMmJ4NGVGVHQ5bHF6WS1qbVpXb2Q4WXpQNWk0Q09aanpmMEZzM2NLQm8tTnJKX1JTT0R0dl9QcVRscHJUMFJsdHhRMnZUU3JqWHZsdk5xQ3VWZ2JER1poRTUybW14dHNvT05ENDhNYlUzdzM0eDZkbDR2eUxJZTNvYjZxdUx3MlZ6a2Z3ZWl4MXpn0gHYAUFVX3lxTE5VZjNSVE1YdHdfcXBHcFRxY2hzR0lhNmtCNTltR1N3ZFBhWTJOWWJnSlZmM21CNXlncEV3OTljTV9vVEpERTMtakZvZHZHUzdzTm1yekpxaGREVURBWnRxUDkwVmdfTnlqM0R5QWY3NnZRVUd2TkZjMlhlQTh3bkhBTjFZbGJpeVFfT0Y1c28wd1U3WWlZYXBaVER5S3RUc2pSTlpzeVFhR21SUjlZZVpjc1d2T0NQU0ZNanI3ZTNHckQ2bXo3dEVVUm5oSVZVRUQyU3ctRWdsWQ?oc=5)
 
 2026-10-24
@@ -73,14 +65,6 @@ Source: [La Stampa](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdkp1bzF
 2026-10-24
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
-
----
-
-### [Give more people weight-loss jabs on the NHS, say MPs](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
-
-2026-10-22
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCb2VZc010WHdEcERhSURGb25Jd2lqTThNdHk2U2VTSUxjRkprclNwNXZaeGZwYmkyVmNmdVVvUDZCZExVOGd1VHBudjNWWlAxcEtnc0FNU3hOd1k0WXc?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>17 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>16 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,21 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
-
-### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
-
-2026-10-28 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
-
----
+## Related News (16)
 
 ### [Giornata mondiale della psoriasi, quante persone ne soffrono al mondo - Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
 
 2026-10-28 <span class="news-indication-tag">soriasi</span> <span class="news-indication-tag">AF</span>
 
 Source: [Sky TG24](https://news.google.com/rss/articles/CBMijAFBVV95cUxONWs3NmdVNGkxNmlpVW8zQlBTSHpkV1pteUR3cWI2b2MwNmxQZ2RfbGhYWVhtY0w1bXB5MV9RZUVuLWFGWkljb2E2ZGxfaWxYelNudDR1bFh1WXBqX3A4WFVZMUVhZGJjN0w4NEducmU2VGlsRm5vLTlaTnVEUnEzMzFpLXB4UjhYZ1psdA?oc=5)
+
+---
+
+### [Dos ensayos clínicos evalúan la combinación de ixekizumab y tirzepatida en personas con psoriasis o artritis psoriásica y exceso de peso - La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
+
+2026-10-28 <span class="news-drug-tag">Ixekizumab</span> <span class="news-indication-tag">artritis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [La Vanguardia](https://news.google.com/rss/articles/CBMigAJBVV95cUxOdzdzLVJ0MHd0TVJiWklhTkRIS3JVWHY0aTRxa0MxSjZGUldTTE43Ui1ycjQ0eUdNaEtFMFlVMWVIc0JMS0ZBR2NRdzVQSnN4ZjlCN3RqOFMxS1JBYnZDWDZUZjQ3eW5oTEMzclo3SmxINkxYWU4zaVpvM3NUSVAwbEhMUWszcnpnNEJIbkh1ZlotMDZMaTkxV3VxT0VoQnAyRDB2UHJmLWY0YjZCV1ktYXlRbkxidmM3RTYzTzV1WVlKSlAzOU5sbFRDay1NZFdCMTlEMVNodExhUGg2TktMbV9JTTNlNGtlRURFaW5nV3ZUcndZTUlUS3BQTU9iUU9h0gGGAkFVX3lxTFBjb1NOZmtjNkp0Y1B4VlA1SGZFSElPUXFWclI4RWhpSVpYSVpPU1oxbTRDbHppNHAyNTRiRVFpem44aFRxZkI1bmhYRXFYb0R5dEpYRUZQMEFCOG5wUWRNYWFXb2QzbGZCUU1oeVRLX0dTbE9RUWRUQmlva3hCc0NxdjA3T1gyVlFNdk1rSlBwam9oYV9aOG9PQWRfeGw4ZFhHM0tmNmw0dnRjVGdjenpxN0x6RjN2VmJOT3NnUUdqOUNGdlQ1dDVHUF9QcVdfR2pVem9iT01VUEJoWTlkQThheEp3WTlENGdMUndfLVJ5dG0wcHVVRnYwaEVhV3J0aDdheTltMXc?oc=5)
 
 ---
 
@@ -79,6 +79,22 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 
 ---
 
+### [El apoyo familiar mejora el control de la diabetes tipo 1 en niños y adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm83M25sUXpQcThSUUdXMmpYM1dpdDhGVXhfOWpzYXhBZDhpbkhrNU1kNmxpUFRLXzhpM2dGLUJPME9tMFhmRlRhUzNRNV8tQzRvRjhMZXBJMUlEdXhvX2I4T2g2OHd1SEJBTDd4c0JpTXA1UndCX1lBeERPbkljbzdKUWMxdF9Vcnd0OS1xaGdtanFCeWZ1S0FWYTF6RjdWQk9pNlZwQkJndTlE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm83M25sUXpQcThSUUdXMmpYM1dpdDhGVXhfOWpzYXhBZDhpbkhrNU1kNmxpUFRLXzhpM2dGLUJPME9tMFhmRlRhUzNRNV8tQzRvRjhMZXBJMUlEdXhvX2I4T2g2OHd1SEJBTDd4c0JpTXA1UndCX1lBeERPbkljbzdKUWMxdF9Vcnd0OS1xaGdtanFCeWZ1S0FWYTF6RjdWQk9pNlZwQkJndTlE?oc=5)
+
+---
+
+### [Diabete di tipo 2, un impianto elettronico controlla la glicemia senza farmaci](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1Zackpjanpkb1Z0LWQ2d2RkTUsyM3NFTUI1RlZialdWLUQ3Y05OWUt0MUUzYjIyTlRaTktvTEt4bXBCd1RYVXFRNTRCSE9SZ2ZTWDdxREhUSlIzM1h0d203M2JITnBRd0RJRlNwdG9mTFRtZVM5bHluaFpwOGZiVGtKWU5WX3NWRHhwRnFwblVXaFUtQzlZNElqWWRZUUJqTFlDVmtRX3VmUmt2TGk5bHJ5NndTWm5aZy1IMFF3?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabete</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1Zackpjanpkb1Z0LWQ2d2RkTUsyM3NFTUI1RlZialdWLUQ3Y05OWUt0MUUzYjIyTlRaTktvTEt4bXBCd1RYVXFRNTRCSE9SZ2ZTWDdxREhUSlIzM1h0d203M2JITnBRd0RJRlNwdG9mTFRtZVM5bHluaFpwOGZiVGtKWU5WX3NWRHhwRnFwblVXaFUtQzlZNElqWWRZUUJqTFlDVmtRX3VmUmt2TGk5bHJ5NndTWm5aZy1IMFF3?oc=5)
+
+---
+
 ### [Typ-2-Diabetes und MASLD: Warum leitliniengerechte Therapie oft ausbleibt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">diabetes</span>
@@ -100,14 +116,6 @@ Source: [ad-hoc-news.de](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWF
 2026-10-27 <span class="news-indication-tag">diabète</span>
 
 Source: [Sciencepost](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZXloVzdTNVFiRUppb1lwX1pwNVFUMjAzUEFVMzdiUnpfb2Q5aVVmRmp3RWEyQi1WVnFMZ0RDNExvOWRaME9SS3FQbnlRY3duSG5IcGtRMnVpaV9CX0pMTzZWeGJZMXdyT2J3VzRSRWdmbVkzdWZxWHRLdEZTUzhrdHBLVnFmWEp4d2Z1cThabHZpaC1ZMXd0emgzZ2pEUW9udWZRbEgxckRmU2VwMVpGdngxSDM1Y0NVdzh4aVQzR3NfbGZfOHBXODV2UkNRbnE5TDdZTnZjcEVmOEQ2bmltNzRfZFBtaGk4QTJuUUFuRENhVUxqZHktVlBobHdVOU0zaW5zai01RTFrMnAxMUlYRHYtaEFIeGlfd0lpMGY2cWdmeVk2S0p5Zw?oc=5)
-
----
-
-### [Psoriasis-Arthritis: Experten rufen zu früher, fächerübergreifender Diagnose auf - it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [it boltwise](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaHNKSlBQMkNpMndvYk9BY2Z3WVhtWmhETjNWTEZ6cm5jMElXUXhDOU9NNVZsekhjcXhKeVZoSVZkbnBkS2lqMVZ6MHpwdGJBRnQ2ZERnN3dyUDVqdnAwRllib3NXcHlJQ1dSYXNTN0FMSTJhRElpQndwVnRxeDdMcktsb2FOSnBuQVRZVkdtX0psM0U3V2JsaElOckhyanNVdVpfSEl2YWd0aTR3aDlTWmhyUQ?oc=5)
 
 ---
 
@@ -140,22 +148,6 @@ Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLR
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXctSmloRjZ0SWUxMUJ3Y2RISjJkSThrRXB1ZHp4ZjVBRzN6YXVqR3Nnbno3b3pXN1NPWkNKYW5USHEzLTR5WXFSQ1pDbklPZWtJZ05mSEhlNUsyaXc3ZmtjT01zZUlqc0U4eEJLZ2dDa3pmWTFRcDRKUG9qWDZER1FDV3VPZ2hMdzNuMV9TbWNZaGtXSlhGOFNIOFFCaWV0cHdHUmF3bll3a1dEM0FYX2FxVlpXYXZkV0xEN0k2NUV4Z9IBvAFBVV95cUxPVGRqYTBzWlJhbHpCaVctcFhnNlVwbjNzQ1E5NEVibDFPYU5UTjlVV3lYMmhxcnFJR3M2dHZlQzNKRnh2YWwzOWVpM19KN2gyZ0RkMXZMN0FHU0pybEgzNGs3c0daLWFZVkpOUTFTQmRWV3Y0bkNoVWhvTnU2bVp2VkRFV1RwWHRDVloyWHVIcGpuS3pfbHl4aUtvWWVmeS1PT09vV3lDdHVSdkNoSVNraFdLTXJ3Y3AtQ2dEaA?oc=5)
-
----
-
-### [Un nuevo sistema de "asa cerrada" permite automatizar la insulina sin contar hidratos](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXB4cldTMmpvbUc2a3Q0MTFDSDB3YkN2MTFqUkg5anczaWsxdGczd0huM0g3aktyVEs2ZkRoc2R5LWJCem1OeGNSaGdmMmc0cVRMSXRfVkN2OGpqZTQ3VFdZazhRWWVxc1RVZmxURjBGeE5vRUNMVU1QZDd5VHkza2hwQUZKMWZpb1k3WWpCSEhqcTBMSU1ERlZhOUNBSXpsbG5yTUtzV3NsdzVSbHZEcko5VkJqRGY5aFpseWl4UU1uWF9nOVdrUmlxLXFsZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabetes</span>
-
-Source: [Infodiabético](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXB4cldTMmpvbUc2a3Q0MTFDSDB3YkN2MTFqUkg5anczaWsxdGczd0huM0g3aktyVEs2ZkRoc2R5LWJCem1OeGNSaGdmMmc0cVRMSXRfVkN2OGpqZTQ3VFdZazhRWWVxc1RVZmxURjBGeE5vRUNMVU1QZDd5VHkza2hwQUZKMWZpb1k3WWpCSEhqcTBMSU1ERlZhOUNBSXpsbG5yTUtzV3NsdzVSbHZEcko5VkJqRGY5aFpseWl4UU1uWF9nOVdrUmlxLXFsZw?oc=5)
-
----
-
-### [A Zurigo un impianto brucia lo zucchero nel sangue senza farmaci - Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabete</span>
-
-Source: [Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
 
 ---
 

@@ -59,6 +59,22 @@ Source: [T-Online](https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2dCbGlS
 
 ---
 
+### [El apoyo familiar mejora el control de la diabetes tipo 1 en niños y adolescentes - Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm83M25sUXpQcThSUUdXMmpYM1dpdDhGVXhfOWpzYXhBZDhpbkhrNU1kNmxpUFRLXzhpM2dGLUJPME9tMFhmRlRhUzNRNV8tQzRvRjhMZXBJMUlEdXhvX2I4T2g2OHd1SEJBTDd4c0JpTXA1UndCX1lBeERPbkljbzdKUWMxdF9Vcnd0OS1xaGdtanFCeWZ1S0FWYTF6RjdWQk9pNlZwQkJndTlE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabetes</span>
+
+Source: [Canal Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm83M25sUXpQcThSUUdXMmpYM1dpdDhGVXhfOWpzYXhBZDhpbkhrNU1kNmxpUFRLXzhpM2dGLUJPME9tMFhmRlRhUzNRNV8tQzRvRjhMZXBJMUlEdXhvX2I4T2g2OHd1SEJBTDd4c0JpTXA1UndCX1lBeERPbkljbzdKUWMxdF9Vcnd0OS1xaGdtanFCeWZ1S0FWYTF6RjdWQk9pNlZwQkJndTlE?oc=5)
+
+---
+
+### [Diabete di tipo 2, un impianto elettronico controlla la glicemia senza farmaci](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1Zackpjanpkb1Z0LWQ2d2RkTUsyM3NFTUI1RlZialdWLUQ3Y05OWUt0MUUzYjIyTlRaTktvTEt4bXBCd1RYVXFRNTRCSE9SZ2ZTWDdxREhUSlIzM1h0d203M2JITnBRd0RJRlNwdG9mTFRtZVM5bHluaFpwOGZiVGtKWU5WX3NWRHhwRnFwblVXaFUtQzlZNElqWWRZUUJqTFlDVmtRX3VmUmt2TGk5bHJ5NndTWm5aZy1IMFF3?oc=5)
+
+2026-10-28 <span class="news-indication-tag">diabete</span>
+
+Source: [My-personaltrainer](https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ1Zackpjanpkb1Z0LWQ2d2RkTUsyM3NFTUI1RlZialdWLUQ3Y05OWUt0MUUzYjIyTlRaTktvTEt4bXBCd1RYVXFRNTRCSE9SZ2ZTWDdxREhUSlIzM1h0d203M2JITnBRd0RJRlNwdG9mTFRtZVM5bHluaFpwOGZiVGtKWU5WX3NWRHhwRnFwblVXaFUtQzlZNElqWWRZUUJqTFlDVmtRX3VmUmt2TGk5bHJ5NndTWm5aZy1IMFF3?oc=5)
+
+---
+
 ### [Typ-2-Diabetes und MASLD: Warum leitliniengerechte Therapie oft ausbleibt - it boltwise](https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjRaNl9mOTR6NlVNR2IyX2llNlN1N0pMOTdfNjN6SUl3cGw2bVZXdUkwdHFLOHdFOHczWkNDMGkyV1R4SUUwMGhhbjdmX21DWkhpcERlSHMtWHUySnltVURHNWxjbnJjQlpPdGw3QUZjUlNSRk5GUV9ncmw0T3p6VjVhV2hhRF93Rm1GbjlmNlktTFRDWUNxT0FjRTNfNWk5akxjTmdQWQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">diabetes</span>
@@ -104,22 +120,6 @@ Source: [socialfarma](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMjlLR
 2026-10-27 <span class="news-indication-tag">diabetes</span>
 
 Source: [IM Médico](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZXctSmloRjZ0SWUxMUJ3Y2RISjJkSThrRXB1ZHp4ZjVBRzN6YXVqR3Nnbno3b3pXN1NPWkNKYW5USHEzLTR5WXFSQ1pDbklPZWtJZ05mSEhlNUsyaXc3ZmtjT01zZUlqc0U4eEJLZ2dDa3pmWTFRcDRKUG9qWDZER1FDV3VPZ2hMdzNuMV9TbWNZaGtXSlhGOFNIOFFCaWV0cHdHUmF3bll3a1dEM0FYX2FxVlpXYXZkV0xEN0k2NUV4Z9IBvAFBVV95cUxPVGRqYTBzWlJhbHpCaVctcFhnNlVwbjNzQ1E5NEVibDFPYU5UTjlVV3lYMmhxcnFJR3M2dHZlQzNKRnh2YWwzOWVpM19KN2gyZ0RkMXZMN0FHU0pybEgzNGs3c0daLWFZVkpOUTFTQmRWV3Y0bkNoVWhvTnU2bVp2VkRFV1RwWHRDVloyWHVIcGpuS3pfbHl4aUtvWWVmeS1PT09vV3lDdHVSdkNoSVNraFdLTXJ3Y3AtQ2dEaA?oc=5)
-
----
-
-### [Un nuevo sistema de "asa cerrada" permite automatizar la insulina sin contar hidratos](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXB4cldTMmpvbUc2a3Q0MTFDSDB3YkN2MTFqUkg5anczaWsxdGczd0huM0g3aktyVEs2ZkRoc2R5LWJCem1OeGNSaGdmMmc0cVRMSXRfVkN2OGpqZTQ3VFdZazhRWWVxc1RVZmxURjBGeE5vRUNMVU1QZDd5VHkza2hwQUZKMWZpb1k3WWpCSEhqcTBMSU1ERlZhOUNBSXpsbG5yTUtzV3NsdzVSbHZEcko5VkJqRGY5aFpseWl4UU1uWF9nOVdrUmlxLXFsZw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabetes</span>
-
-Source: [Infodiabético](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTXB4cldTMmpvbUc2a3Q0MTFDSDB3YkN2MTFqUkg5anczaWsxdGczd0huM0g3aktyVEs2ZkRoc2R5LWJCem1OeGNSaGdmMmc0cVRMSXRfVkN2OGpqZTQ3VFdZazhRWWVxc1RVZmxURjBGeE5vRUNMVU1QZDd5VHkza2hwQUZKMWZpb1k3WWpCSEhqcTBMSU1ERlZhOUNBSXpsbG5yTUtzV3NsdzVSbHZEcko5VkJqRGY5aFpseWl4UU1uWF9nOVdrUmlxLXFsZw?oc=5)
-
----
-
-### [A Zurigo un impianto brucia lo zucchero nel sangue senza farmaci - Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
-
-2026-10-26 <span class="news-indication-tag">diabete</span>
-
-Source: [Futuro Prossimo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcjBrMm1uNzNXVmo2VVNkTDQ2Y2Y3SENwRDN1T1NuZk9XaFgtME0zd3RTTWpiT0NUXzE1UGljY2VsbHMwVjFnckc2QXU4bHVSZFNLdDBURXRlcEdZSjN0Z0phcWhOMmxpOVU0MTk2TGlsMGkyUTdjQ0hKNDFXQUoyc25xQTNXNy1Qd2p3V1FDVUtJak1FdVB1bXZNSWFzaU9sX29zd3lB?oc=5)
 
 ---
 

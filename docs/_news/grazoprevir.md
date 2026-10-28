@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Grazoprevir?">
-<strong>Grazoprevir</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
+<strong>Grazoprevir</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Grazoprevir with the latest 
 <p><a href="{{ '/drugs/grazoprevir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (10)
 
 ### [Un ensayo demuestra la eficacia de un fármaco en la supervivencia de cáncer de endometrio avanzado](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3NmWVhCSTZaY0JlYTRQUDhIdjk2UFdaUUE4M3NiYjJLbjFpOFF2emxlUHhRbEgwY1JicEJqSVAwOW5sVXJtYjZsWVdDYkNnMDhPemxoSTNnalh2aU9qQ01pdFVFeFJPYW4tWHM5aG9aQkRiV3Q4LUQ4S1RRcm1RRkRvN0tWY2FXRmE0cGhDTW1nTXZtaGkwUHI5MlJjVy0wbzNiTTBlNlRDZHZSbnJPTTAxa2R5aU82Y08yd2psdEt3TzAtR3ZyMmtCbDhjUld3Y2Vmb3RDVUtyU0N5aTRoVlhB?oc=5)
 
@@ -92,19 +92,11 @@ Source: [The Sun](https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUUI3OU9ZX
 
 ---
 
-### [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora" - El Periódico](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlpuaFRSTzBrSUg5RUdfWXZtRmJ0U2dxaU5fQmZIUGJfUFYtcmljMkZrZGx6QnkwWHlPTXQzZTlSVzNfNVpaaW9lbXRIWkRxMVZ0d0N3QW93SVR5OU5zZVc2Z2hMLUljMzBKRFRLOG92ZnZELTV6RWFoenNCNkJiTEc5TGRuQ0prbVNyTUlQOV85OXV4Z09yaEU0ZjM1NXpXNGZ2allMdzNDSTJPZE12dmVoR1MxTW4zY3BNeU9ic3dYX1pub3lLVmZPTdIBywFBVV95cUxOWVlDVUd1eUdsWmVyUm9RdHZBUVFnbGp0R1pQQmlrVkNxdWpqeVoyTDlrRmFWM3pBM3loUVNOVGFyWTVJUHZZTlpUTFpxaVVLV0hES1VuX053TkthcFlaUnhKNjFud2VJOXVGV1RXaEdBdHRZd2Y3ZDlRRFZMNDNvQW1iYWVsbzVlUlI2dkg1VC1rNG1jOXhxRmJjMTNpZXEtbFJDUkRjWXp2MUhkYXRWdDB1OEVhMEVMd3JlU1JCYVF5RjBnbTlTd3ZIWQ?oc=5)
+### [Infosalus.- La AEHVE destaca que un nuevo tratamiento logra la curación funcional de la hepatitis B en el 19% de los pacientes](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">hepatitis</span>
 
-Source: [El Periódico](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlpuaFRSTzBrSUg5RUdfWXZtRmJ0U2dxaU5fQmZIUGJfUFYtcmljMkZrZGx6QnkwWHlPTXQzZTlSVzNfNVpaaW9lbXRIWkRxMVZ0d0N3QW93SVR5OU5zZVc2Z2hMLUljMzBKRFRLOG92ZnZELTV6RWFoenNCNkJiTEc5TGRuQ0prbVNyTUlQOV85OXV4Z09yaEU0ZjM1NXpXNGZ2allMdzNDSTJPZE12dmVoR1MxTW4zY3BNeU9ic3dYX1pub3lLVmZPTdIBywFBVV95cUxOWVlDVUd1eUdsWmVyUm9RdHZBUVFnbGp0R1pQQmlrVkNxdWpqeVoyTDlrRmFWM3pBM3loUVNOVGFyWTVJUHZZTlpUTFpxaVVLV0hES1VuX053TkthcFlaUnhKNjFud2VJOXVGV1RXaEdBdHRZd2Y3ZDlRRFZMNDNvQW1iYWVsbzVlUlI2dkg1VC1rNG1jOXhxRmJjMTNpZXEtbFJDUkRjWXp2MUhkYXRWdDB1OEVhMEVMd3JlU1JCYVF5RjBnbTlTd3ZIWQ?oc=5)
-
----
-
-### [Crows make decisions twice as fast as humans and monkeys](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
-
-2026-10-25 <span class="news-indication-tag">MS</span>
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSzRRZHQ4TC0yeFViUXNVUlhpcFphdzVrbXFEbU9NTTFYT21NY0VvZTVCYlZYMmpaWnZXa2sxa0VnX0J6QVpBQnJJNUhidjZyNlpRR2FqUDh4akZzNVBmNzE3c1NSeGRRRXJibmEyTkhrWHo5c1Rvcmdn?oc=5)
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
 
 ---
 
@@ -116,35 +108,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cU
 
 ---
 
-### [„Abnehmspritze“ bei OSA - Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">MS</span> <span class="news-indication-tag">AF</span>
-
-Source: [Medical Tribune](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1F1N1U5UTE4TjhLdE0tcEl1TzNPaHNjYkhfZFIxckVGeGlKVzVwcDFtWWpFV25DN2xHRnZmd3FuNnpnWnhqWG9Lek13TkVaRlREOGVWckFDN0dVdDhpRU9mOXZ6WnJxN1VpNEJmbVctR0drRzVNbGwtVU9oTDRzb1dLSQ?oc=5)
-
----
-
-### [Première détection chez l’humain, transmission, risques… Que sait-on du virus Shamonda ? - Salle de presse de l'Inserm](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFJiTW5JWFcteVdNNzNMSnNyc3hLTnVTclFHVHpSMTJZTldQU2NFemR3SElkRERFbWtWYnREN1NsTVRfd1ZQQ2lhQ1dsNi1xakxoWlNFSUtmOVhlTmhQXzJPcE1YUEpLMWlrcVlLeHFSS240NG5QbjZnSmdaMGlIb2ZUeTFlYUxYNkRlazZRZThHUVhzS1BfRmcyc2ZtMG94S0tfSHNFcUdLbkdRamJtOFU0VWk1SnFnb0EtNg?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MS</span>
-
-Source: [Salle de presse de l'Inserm](https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFJiTW5JWFcteVdNNzNMSnNyc3hLTnVTclFHVHpSMTJZTldQU2NFemR3SElkRERFbWtWYnREN1NsTVRfd1ZQQ2lhQ1dsNi1xakxoWlNFSUtmOVhlTmhQXzJPcE1YUEpLMWlrcVlLeHFSS240NG5QbjZnSmdaMGlIb2ZUeTFlYUxYNkRlazZRZThHUVhzS1BfRmcyc2ZtMG94S0tfSHNFcUdLbkdRamJtOFU0VWk1SnFnb0EtNg?oc=5)
-
----
-
 ### [Psilocybin reshapes brain connections through distinct cellular pathways](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
 
 2026-10-23 <span class="news-drug-tag">Amlodipine</span> <span class="news-indication-tag">MS</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
----
-
-### [Kälte bremst das Altern – Kölner Forscher lösen das Rätsel und verlängern Leben ohne Kälte - smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
-
-2026-10-22 <span class="news-indication-tag">MS</span>
-
-Source: [smart up news](https://news.google.com/rss/articles/CBMixAFBVV95cUxQbUU0eWVmOWlnaS1XRXM1bGx3T0o1OWp3UmVWaTItbk5GTFc3SnN4UHZpTHhPNWFDVUxRUGg0WmtkNnhrQnhUb2xEMjF6ajhaOFZ4dDBwU2xfU2Yyc09xaEFoZW55aHNWcWZNSW1tUEwzWWZ6YmJZUGdrNWMwaUZkLVhEZkNhbWh4ZWM2ZC1FRTM4SjZRRG4zVDJVaTFxRzhPeGt4aXUyS3BSNWlyQ3JLX3pSMnBwX3Y2M0x1LVpid2thZ2Yt?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Givosiran?">
-<strong>Givosiran</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
+<strong>Givosiran</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,21 @@ This page combines the AI-predicted indications for Givosiran with the latest he
 <p><a href="{{ '/drugs/givosiran/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [José Abellán, cardiólogo, advierte sobre estos medicamentos: "Pueden provocarte hipertensión y nadie lo sabe" - Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
+### [Addio all'ipertensione refrattaria: a Pordenone l'operazione che azzera i rischi di infarto e ictus - Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
-2026-10-27 <span class="news-indication-tag">hipertensión</span>
+2026-10-28 <span class="news-indication-tag">ipertensione</span> <span class="news-indication-tag">ictus</span>
 
-Source: [Diario de Noticias de Álava](https://news.google.com/rss/articles/CBMivgFBVV95cUxQalIwOEc2S2h0TTJXUDRPV1JKQlNBbEpWSHhVdXFkYmFrUGtOTGQ4aTBnZURyUzdnc3Z0TTJrc0ljZW1kYmxjRnBycGR1U1RJNVcydlNaWkt0YTJWMHZ2Q0xhelFaczVneVZDa3h0WTA4eVpobkFSUndsQ2VZZlBGeUwyMHRLQmtwTkV5dDRlNTBoZ2JtemxFeU92Ylc1YlZNcVhtMlRHTmRsMVUyZk9SUHhJYzBjTmMtVDdORWR30gHDAUFVX3lxTE1VQ1Nrd0E4ZFZ0MkRrX0ZZSEszbHpiM0haalUwRU5TSHVtbldudFQ3TE5yZ24xcUxNNUJuU3U1UF9MaklfdEtSVnJUb2FkZ2ZtMzlGSVpUdkR5SWU1cUhjRnRWVTJjdlBZNDBFdkpuaWZoVTVFeDl2SThGcHZjYlBmQm5icmJ4SUJfb2NwZVlaczJsNWNXRV9nVTQ3eXA1UTlqR0U0T1pPeV9rT19pak9NMlBqMWtJTVdPdXQ5SkpySEt5WQ?oc=5)
+Source: [Messaggero Veneto](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRXNrazJSakdTeFM1TnRHREFRWElrdDVGOFhQdWh0T3VQVy1UUnhGXzBEMWE0RXBLZEhCQ2ZlS203WU8xZk1ndFhZdFFCNTViUGx5a2Rjay1ybkNZOE9oekxzMnlxOE4ycWhLZUhUckVPMXNRS3NNUlZpZ2lGTGVDRDA2Y1BLaU1BM2hKdHg4X20wNUxKUjY1N3VmZ29OeEY5N3Q1OGNtbHFkcHE0MUp5eFdybFQ1c0dSZzZ4VTQyN21FR3pIbE5YLVVKTFQ4ekdjZmFIenBoUDNRSnNJaEE?oc=5)
 
 ---
 
-### [Una nueva terapia abre la puerta a la curación de la hepatitis B: "Estamos ante una noticia muy esperanzadora" - El Periódico](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlpuaFRSTzBrSUg5RUdfWXZtRmJ0U2dxaU5fQmZIUGJfUFYtcmljMkZrZGx6QnkwWHlPTXQzZTlSVzNfNVpaaW9lbXRIWkRxMVZ0d0N3QW93SVR5OU5zZVc2Z2hMLUljMzBKRFRLOG92ZnZELTV6RWFoenNCNkJiTEc5TGRuQ0prbVNyTUlQOV85OXV4Z09yaEU0ZjM1NXpXNGZ2allMdzNDSTJPZE12dmVoR1MxTW4zY3BNeU9ic3dYX1pub3lLVmZPTdIBywFBVV95cUxOWVlDVUd1eUdsWmVyUm9RdHZBUVFnbGp0R1pQQmlrVkNxdWpqeVoyTDlrRmFWM3pBM3loUVNOVGFyWTVJUHZZTlpUTFpxaVVLV0hES1VuX053TkthcFlaUnhKNjFud2VJOXVGV1RXaEdBdHRZd2Y3ZDlRRFZMNDNvQW1iYWVsbzVlUlI2dkg1VC1rNG1jOXhxRmJjMTNpZXEtbFJDUkRjWXp2MUhkYXRWdDB1OEVhMEVMd3JlU1JCYVF5RjBnbTlTd3ZIWQ?oc=5)
+### [Infosalus.- La AEHVE destaca que un nuevo tratamiento logra la curación funcional de la hepatitis B en el 19% de los pacientes](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">hepatitis</span>
 
-Source: [El Periódico](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlpuaFRSTzBrSUg5RUdfWXZtRmJ0U2dxaU5fQmZIUGJfUFYtcmljMkZrZGx6QnkwWHlPTXQzZTlSVzNfNVpaaW9lbXRIWkRxMVZ0d0N3QW93SVR5OU5zZVc2Z2hMLUljMzBKRFRLOG92ZnZELTV6RWFoenNCNkJiTEc5TGRuQ0prbVNyTUlQOV85OXV4Z09yaEU0ZjM1NXpXNGZ2allMdzNDSTJPZE12dmVoR1MxTW4zY3BNeU9ic3dYX1pub3lLVmZPTdIBywFBVV95cUxOWVlDVUd1eUdsWmVyUm9RdHZBUVFnbGp0R1pQQmlrVkNxdWpqeVoyTDlrRmFWM3pBM3loUVNOVGFyWTVJUHZZTlpUTFpxaVVLV0hES1VuX053TkthcFlaUnhKNjFud2VJOXVGV1RXaEdBdHRZd2Y3ZDlRRFZMNDNvQW1iYWVsbzVlUlI2dkg1VC1rNG1jOXhxRmJjMTNpZXEtbFJDUkRjWXp2MUhkYXRWdDB1OEVhMEVMd3JlU1JCYVF5RjBnbTlTd3ZIWQ?oc=5)
+Source: [Notimérica](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM09kamFLbG9xTmlkT1V2c2ZhTzV4WUU5UUg4ZFlxUF9Cc21kekFZNV9wQzZtQjNLMmJpeHBjczdXYko0RFNhUmYyUFRFV0FZZjNpVFlNaEpsM3NPVFZfa1Y3YlhQY0NOd1dKM1FRUHM5YVp6UElkOXNkNi1CNFNEM3QwbzlvdVMwSlBtVUJ3VUZVRUJZdDhLcVhnN1hLZW03YVhYQVNDRDdmcWw2NmRTQXo0akxvY3gtai05Tk90SG50UkFJTzJIMWE4RnRQYmJOREZrWGY5LVFDa3ZYR1loWGlDNA?oc=5)
 
 ---
 
@@ -64,14 +64,6 @@ Source: [El Periódico](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdlp
 2026-10-23 <span class="news-indication-tag">Bluthochdruck</span>
 
 Source: [it boltwise](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUhlb1RlUEs4LWZWVDlGaEVJV1lrYTlwRmpXWUl5ZDlOMmFzQkZIVHhuWkswRXFsdUI3YkVEa2FleFVPeDFSMlQ5NEtyUDI0M09PNlk0WUFiR0Fmek5CUlBZWHNCUGxlSUJiTmw4RFh3RFBibmxJTk5ENy1rZXZCX3ltQkZDSlBaY1daTnFTRkNRLW5TcmhXTTlnell0QVpfUHlxWQ?oc=5)
-
----
-
-### [Das verkannte Organ - | inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
-
-2026-10-21 <span class="news-indication-tag">Bluthochdruck</span> <span class="news-indication-tag">chronische Nierenerkrankung</span>
-
-Source: [| inpactmedia.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjhkVE81UVVRTW5TcTBiMEYzU09FTXBvZXpha1JHTkFqQ3dVTG1OVXpmOUFFWEZTTDFnVUZLM2xpeHlFUnM0TEVmUUtwenF2eDcxUWpiREZYTVcwVVZRX1pKLW1XWEw0YWd4QjRFOVNpVEVWS0hKaHlpUGJ3cUswVDJYMA?oc=5)
 
 ---
 
